@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:11Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Matalibul%20Aliyah%20Vol.%206/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/kalam/21 - Al-Matalibul Aliyah Vol. 6.txt",
+  "output_bytes": 5022398,
+  "output_sha256": "075b94e033f6f56100498ac375a0be215607fb103fb0eb1581cd141551ae744d",
+  "checks": {
+    "catalog_expected_lessons": 687,
+    "course_reported_lessons": 687,
+    "index_lessons": 687,
+    "full_lessons": 687,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 12,
+    "course_reported_modules": 12,
+    "modules": 12,
+    "course_reported_sources": 606,
+    "sources": 606
+  }
+}

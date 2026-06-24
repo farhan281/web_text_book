@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:07Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sanusi%2005/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/05 - Sanusi 05.txt",
+  "output_bytes": 13405303,
+  "output_sha256": "6ce0e04a98cce49079574e05dab48cd8500514adf6648171bdbe0586cda18dd7",
+  "checks": {
+    "catalog_expected_lessons": 1757,
+    "course_reported_lessons": 1757,
+    "index_lessons": 1757,
+    "full_lessons": 1757,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 19,
+    "course_reported_modules": 19,
+    "modules": 19,
+    "course_reported_sources": 1442,
+    "sources": 1442
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:22Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Tamhid%20al-Awaail%20-%20Imam%20Baqillani%20RA/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/ashari/55 - Tamhid al-Awaail - Imam Baqillani RA.txt",
+  "output_bytes": 12791608,
+  "output_sha256": "2f226b9ef51518ad55a20cf9950311e7f9e227b1a61f9eb2202af2ca7bb80871",
+  "checks": {
+    "catalog_expected_lessons": 1714,
+    "course_reported_lessons": 1714,
+    "index_lessons": 1714,
+    "full_lessons": 1714,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 1466,
+    "sources": 1466
+  }
+}

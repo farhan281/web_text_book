@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:14Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Mawaqif%20Vol.%203/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/kalam/32 - Sharh Al-Mawaqif Vol. 3.txt",
+  "output_bytes": 7259401,
+  "output_sha256": "d35cef17962321537e8a9666527fb8bfad489f826b64b4fa72f5a6c005cd7830",
+  "checks": {
+    "catalog_expected_lessons": 720,
+    "course_reported_lessons": 720,
+    "index_lessons": 720,
+    "full_lessons": 720,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 11,
+    "course_reported_modules": 11,
+    "modules": 11,
+    "course_reported_sources": 529,
+    "sources": 529
+  }
+}

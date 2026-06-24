@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:22Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Tahafut%20al-Falasifa%20-%20Imam%20Ghazali%20RA/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/ashari/54 - Tahafut al-Falasifa - Imam Ghazali RA.txt",
+  "output_bytes": 9482235,
+  "output_sha256": "3ee477c07cfd6298068fe5a098d866a7f8d76dcafeb2f8467450558b4b80abf8",
+  "checks": {
+    "catalog_expected_lessons": 1162,
+    "course_reported_lessons": 1162,
+    "index_lessons": 1162,
+    "full_lessons": 1162,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 917,
+    "sources": 917
+  }
+}

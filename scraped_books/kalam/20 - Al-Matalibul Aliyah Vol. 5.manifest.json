@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:11Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Matalibul%20Aliyah%20Vol.%205/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/kalam/20 - Al-Matalibul Aliyah Vol. 5.txt",
+  "output_bytes": 4283242,
+  "output_sha256": "c62c9aa39769d5ca88ddca7def02f759546346e70d9b24295cfec62ce43d1be4",
+  "checks": {
+    "catalog_expected_lessons": 558,
+    "course_reported_lessons": 558,
+    "index_lessons": 558,
+    "full_lessons": 558,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 12,
+    "course_reported_modules": 12,
+    "modules": 12,
+    "course_reported_sources": 471,
+    "sources": 471
+  }
+}

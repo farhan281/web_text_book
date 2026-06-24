@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:10Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Matalibul%20Aliyah%20Vol.%202/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/kalam/17 - Al-Matalibul Aliyah Vol. 2.txt",
+  "output_bytes": 4228312,
+  "output_sha256": "10cf7a379992e061f1b4caf2d36728ac0b2cc660a0ba4126ceb6659cd5e66a5a",
+  "checks": {
+    "catalog_expected_lessons": 535,
+    "course_reported_lessons": 535,
+    "index_lessons": 535,
+    "full_lessons": 535,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 13,
+    "course_reported_modules": 13,
+    "modules": 13,
+    "course_reported_sources": 431,
+    "sources": 431
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:08Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Hashiyat%20al-Sawi%20ala%20Sharh%20al-Kharidat/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/08 - Hashiyat al-Sawi ala Sharh al-Kharidat.txt",
+  "output_bytes": 10755643,
+  "output_sha256": "a932d7615cc2afed4db3bca1a6b37cb5354f1fad0ac742ef1325fbe9353a152b",
+  "checks": {
+    "catalog_expected_lessons": 1438,
+    "course_reported_lessons": 1438,
+    "index_lessons": 1438,
+    "full_lessons": 1438,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 1120,
+    "sources": 1120
+  }
+}

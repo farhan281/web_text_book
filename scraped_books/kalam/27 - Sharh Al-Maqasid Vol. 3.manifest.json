@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:16:13Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Maqasid%20Vol.%203/static_app/",
+  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/kalam/27 - Sharh Al-Maqasid Vol. 3.txt",
+  "output_bytes": 10937126,
+  "output_sha256": "0ce8b58c8abd866268e6ea2324db31a9d23fd4c890747e30d28788ef522b40c6",
+  "checks": {
+    "catalog_expected_lessons": 1331,
+    "course_reported_lessons": 1331,
+    "index_lessons": 1331,
+    "full_lessons": 1331,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 15,
+    "course_reported_modules": 15,
+    "modules": 15,
+    "course_reported_sources": 999,
+    "sources": 999
+  }
+}

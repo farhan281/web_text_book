@@ -1,0 +1,11 @@
+# Cache directory from scraper
+scraped_books/.cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary/partially downloaded files
+*.part
+*.part.json
