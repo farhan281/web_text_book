@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:27Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/mahakk_nazar/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/high_philosophy/23 - Mahakk Nazar",
+  "output_bytes": 4265909,
+  "output_sha256": "51f9a4b0d23874f72f9c21fc394cd598f6119d5fa295d3b2e88d90b2b3ffae1a",
+  "checks": {
+    "catalog_expected_lessons": 517,
+    "course_reported_lessons": 517,
+    "index_lessons": 517,
+    "full_lessons": 517,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 403,
+    "sources": 403
+  }
+}

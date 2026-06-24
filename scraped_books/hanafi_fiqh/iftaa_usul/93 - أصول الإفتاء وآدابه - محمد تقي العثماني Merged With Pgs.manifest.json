@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:24Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/%D8%A3%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%A5%D9%81%D8%AA%D8%A7%D8%A1%20%D9%88%D8%A2%D8%AF%D8%A7%D8%A8%D9%87%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%AA%D9%82%D9%8A%20%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/93 - أصول الإفتاء وآدابه - محمد تقي العثماني Merged With Pgs",
+  "output_bytes": 4737491,
+  "output_sha256": "5fd747cc94e2af1962ce325d0e3201eb50c1f3a3c13e85a29f50cf1355a503e5",
+  "checks": {
+    "catalog_expected_lessons": 465,
+    "course_reported_lessons": 465,
+    "index_lessons": 465,
+    "full_lessons": 465,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 15,
+    "course_reported_modules": 15,
+    "modules": 15,
+    "course_reported_sources": 442,
+    "sources": 442
+  }
+}

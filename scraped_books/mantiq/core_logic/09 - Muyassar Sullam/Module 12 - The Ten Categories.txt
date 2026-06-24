@@ -1,0 +1,225 @@
+← Prev
+p. 51
+Module 12 · Lesson 1
+Next →
+The Ten Categories
+beginner
+5 min
+Classifying Propositions by Quantity
+Author classifies propositions by quantity: personal, universal (quantified or indefinite).
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given proposition as personal, universal quantified (with universal or particular quantifier), or universal indefinite based on its subject and quantifier.
+
+Core Idea
+Propositions are divided by quantity: personal (singular subject) or universal (universal subject, with or without a quantifier).
+
+This passage builds on the distinction between personal and universal subjects by showing how propositions are classified by quantity. The logicians divide all propositions into personal (shakhsiyya) — where the subject is an individual — and universal (kulliyya) — where the subject is a universal concept. Universal propositions are further split depending on whether a quantifier is used and which type. Understanding this classification is essential for analyzing the scope of categorical statements in Islamic sciences like usul al-fiqh and kalam.
+
+Guided Path
+1
+Identify the subject type
+Check whether the subject of the proposition refers to a single individual (e.g., 'Zayd') or a universal concept (e.g., 'human', 'intoxicant'). If singular, it is personal (shakhsiyya). If universal, it is a candidate for a universal proposition.
+In Arabic, personal propositions often have a proper noun or a definite singular as subject.
+2
+Check for a quantifier (sur)
+For a universal subject, look for a quantifier word like 'every' (kull), 'all' (jami'), or 'some' (ba'd). If present, the proposition is quantified (musawwara). If absent, it is indefinite (muhmala).
+The term 'sur' literally means 'wall' – the quantifier encloses the subject's extension.
+3
+Distinguish quantifier type
+If quantified, determine whether the quantifier is universal (covers all individuals) or particular (covers only some). For example, 'Every intoxicant is haram' uses a universal quantifier; 'Some animals are halal' uses a particular quantifier.
+Remember: universal quantifier = all; particular quantifier = some.
+4
+Classify the indefinite proposition
+If no quantifier appears, the proposition is indefinite (muhmala). The quantity is left unspecified, but by default it is considered universal in this system. Example: 'Man is honored' (al-insanu mokarram) – no quantifier, so it is indefinite.
+Indefinite propositions can sometimes be treated as universal or particular depending on context, but here they are a subtype of universal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وبناء على التوضيح السابق، قسم المناطقة القضايا إلى قسمين: فهي إما أن تكون شخصية أو كلية والمقصود بالكلية ما كان موضوعها مفهوما كلياً، سواء كانت مسوّرة بسور جزئي أو كلي أو مهملة عن السور. والقضية الكلية كما هو واضح إما أن تكون مسؤرة بسور كلي كقولك: [كل إنسان ميت] أو جزئي كقولك [ بعض الإنسان ميت] أو مهملة عن السور كقولك: [الإنسان ميت]. فالسور الكلي هو المحيط بجميع مصاديق المفهوم الكلي والجزئي محيط ببعضه، والقضية المهملة أهمل فيها الإشارة إلى السور.
+And based on the previous clarification, the logicians divided propositions into two types: they are either personal (shakhsiyya) or universal (kulliyya). By universal is meant that whose subject is a universal concept, whether it is quantified (musawwara) with a universal or particular quantifier (sur) or indefinite (muhmala) regarding the quantifier. The universal proposition, as is clear, is either quantified with a universal quantifier like your saying 'Every human is mortal', or with a particular quantifier like your saying 'Some human is mortal', or indefinite regarding the quantifier like your saying 'Human is mortal'. So the universal quantifier (al-sur al-kulli) is that which encompasses all individuals of the universal concept, and the particular encompasses some of them, and the indefinite proposition has omitted the indication of the quantifier.
+Source pages p. 51
+
+Commentary
+This passage builds on the previous distinction between personal and universal subjects to classify propositions by quantity. The logicians divide all propositions into two main categories: personal (shakhsiyya) – where the subject is singular – and universal (kulliyya) – where the subject is a universal term. But the universal category is further subdivided based on whether a quantifier (sur) is used. If a quantifier is present, the proposition is 'quantified' (musawwara); if not, it is 'indefinite' (muhmala). Quantified propositions come in two kinds: universal quantifier ('every', 'all') and particular quantifier ('some'). The indefinite proposition lacks any quantifier, leaving the extent of the subject unspecified. The author uses the metaphor of a city wall (sur) to explain the term 'quantified': the quantifier acts like a wall encompassing the individuals. This classification is essential for understanding the four categorical forms in traditional logic.
+
+Key Terms
+كلية
+سور
+مسوّرة
+مهملة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a universal proposition (kulliyya) that is indefinite (muhmala)?
+A) Every human is mortal.
+B) Zayd is standing.
+C) Human is mortal.
+D) Some human is mortal.
+
+Key Takeaway
+Propositions are primarily divided by quantity into personal (singular subject) and universal (universal subject), with universal propositions further classified as quantified (universal or particular) or indefinite—a foundational step in categorical logic.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following propositions from a fiqh manual as personal, universal (specify quantifier type), or indefinite: a) 'Zayd is upright.' b) 'Every sale is a contract.' c) 'Some food is permissible.' d) 'Riba is forbidden.'
+?
+Find an example from the Qur'an of an indefinite proposition (no quantifier) and rewrite it with an explicit universal quantifier. Discuss how the meaning changes.
+
+Pages p. 51 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 57
+Module 12 · Lesson 2
+Next →
+The Ten Categories
+beginner
+5 min
+The Exclusive-and-Exhaustive Disjunctive: Man'iat al-Jam' wa al-Khuluw
+Defines the third type of disjunctive conditional with example and clarifies why it represents true opposition.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the exclusive-and-exhaustive disjunctive (man'iat al-jam' wa al-khuluw) and distinguish it from the other two types of disjunctive conditionals.
+
+Core Idea
+True opposition prevents both conjunction and separation — neither both true nor both false.
+
+In this lesson, we examine the third and most complete type of disjunctive conditional. Unlike previous types which only exclude one possibility, this type excludes both the combination and the simultaneous absence of its parts. Understanding this distinction is crucial for precise logical reasoning in Islamic sciences, especially when dealing with contradictions and exclusive categories.
+
+Guided Path
+1
+Identify the two prohibited cases
+Note that this disjunctive prevents both jam' (conjunction) and khuluw (disjunction). That means: the two parts cannot both be true, and they cannot both be false. This is the key differentiator from the previous two types.
+2
+Recognize the composition from a thing and its contradictory
+The passage states it is composed of a thing and its contradictory (naqīḍ). For example, 'even' and 'odd' are contradictories of each other with respect to an integer.
+This ensures that the two parts are mutually exclusive and exhaustive.
+3
+Test with the given example
+Consider 'This number is either even or odd.' Can it be both even and odd? No. Can it be neither? No, because every integer is either even or odd. So both conditions are satisfied, confirming it as man'iat al-jam' wa al-khuluw.
+4
+Contrast with the weaker types
+Compare with man'iat al-jam' (prevents only conjunction) and man'iat al-khuluw (prevents only separation). This type is more specific (akhaṣṣ) because it blocks both. Think of a statement like 'The animal is either a horse or a dog' – it prevents being both (jam') but does not prevent being neither (it could be a cat). That is not this type.
+The author stresses that this type is the true representative of opposition (ta'ānud).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثالث: مانعة جمع وخلو، وهي قضية تمنع الجمع والخلو معاً فلا يمكن اجتماع طرفيها ولا يمكن ارتفاعها، وتتركب من الشيء ونقيضه كقولنا هذا العدد إما زوج أو فرد، فلا يمكن اجتماع الزوجية والفردية في العدد المعين ولا يمكن ارتفاعها عنه.
+وهذه القضية هي الممثلة الحقيقية للتعاند، لأن التعاند متحقق بين الطرفين في الصدق والكذب بخلاف ما قبله فإنه في أحدهما فقط، وهذه القضية أخص من كلا النوعين اللذين قبلها.
+[فَضل في التناقُضِ]
+قوله (ولا يمكن ارتفاعهما بأن يكون أسود وأبيض معاً) لأن ارتفاع غير الأسود هو نفيه، ويصدق نفــى غـيـر الأسود عند إثبات الأسود، وكذلك رفع غير الأبيض يكون صادقاً عند إثبات الأبيض. فكــون الشيء أسود وأبيض معاً من مصاديق ارتفاع مقدم هذه المنفصلة وتاليها معاً. ولكن الأسود والأبيض ضدان لا يجتمعان فــي محل واحد على الاستحاله، ولذا قال لا يمكن ارتفاعهما، لأنّ ارتفاعهما يعنى ثبوت ضدين في محل واحد وهو محال.
+The third: the exclusive-and-exhaustive disjunctive, which is a proposition that prevents both conjunction and disjunction together, so neither can its two sides be combined nor can both be negated. It is composed of a thing and its contradictory, like our saying: 'This number is either even or odd.' So neither can evenness and oddness be combined in the specific number nor can both be negated from it.
+This proposition is the true representative of opposition because opposition is realized between the two sides in truth and falsehood, unlike the preceding ones where it is in only one of them. This proposition is more specific than both preceding types.
+[A supplement on contradiction]
+His saying (and neither can they both be negated, such that it is black and white together) because the negation of non-black is its denial, and the denial of non-black is true when black is affirmed. Similarly, the negation of non-white is true when white is affirmed. So a thing being black and white together is an instance of the negation of the antecedent and consequent of this disjunctive together. But black and white are two opposites that cannot coexist in one subject due to impossibility. Hence he said they cannot both be negated, because their negation means the affirmation of two opposites in one subject, and that is impossible.
+Source pages p. 57
+
+Commentary
+This passage defines the third type of disjunctive conditional (man'iat al-jam' wa al-khuluw). It begins by stating that this type prevents both the conjunction (jam') and the separation (khuluw) of its two parts. That is, it forbids the simultaneous truth of both parts and also forbids the simultaneous falsehood of both. The example given is a number being either even or odd: a specific number cannot be both even and odd, nor can it be neither (since every integer must be one or the other). The text then explains why this type is the true representative of opposition (ta'ānud): here both truth and falsehood are mutually exclusive between the two sides, whereas in the previous two types (man'iat al-jam' and man'iat al-khuluw) the exclusivity is only in one respect. Consequently, this type is more specific (akhaṣṣ) than the other two. The supplement (faḍl) that follows clarifies why both parts cannot be false simultaneously. It uses the example of black and white: if something were neither black nor white, that would imply it is both black and white (since not non-black is black, not non-white is white), but black and white cannot coexist. Therefore, in a true exclusive-and-exhaustive disjunctive, it is impossible for both parts to be false.
+
+Key Terms
+مانعة جمع وخلو
+تعاند
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of man'iat al-jam' wa al-khuluw?
+A) The world is either originated or eternal.
+B) The animal is either a horse or a dog.
+C) If it rains, then the ground is wet.
+D) Every human is rational.
+
+Key Takeaway
+The exclusive-and-exhaustive disjunctive (man'iat al-jam' wa al-khuluw) is the strongest form of opposition, preventing both the conjunction and the separation of its parts, and it is composed of a thing and its contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an exclusive-and-exhaustive disjunctive proposition using an Islamic ruling (ḥukm sharʿī) and explain why it prevents both jam' and khuluw. For example, 'This act is either obligatory (wājib) or forbidden (ḥarām)'—is this a valid exclusive-and-exhaustive? Why or why not? (Hint: consider whether an act could be neither, e.g., mubāḥ).
+?
+Identify which type of disjunctive conditional (man'iat jam', man'iat khuluw, or man'iat jam' wa khuluw) the following statement represents and explain: 'A sound ḥadīth is either mutawātir or āḥād.' Assume that a ḥadīth can be both mutawātir and āḥād, and can also be neither (e.g., munkar).
+
+Pages p. 57 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 57
+Module 12 · Lesson 3
+Next →
+The Ten Categories
+intermediate
+5 min
+Quantifiers for Conditional Propositions
+Lists the quantifier words for universal and particular conditionals (both conjunctive and disjunctive).
+
+Learning Objective
+By the end of this lesson, you will be able to identify the correct quantifier word for any given type of conditional proposition (conjunctive or disjunctive, affirmative or negative, universal or particular).
+
+Core Idea
+Conditional propositions have their own quantifier words, distinct from categoricals.
+
+In this lesson, we complete what the poet omitted: the quantifiers for conditional propositions. While categoricals use 'kull', 'baʿḍ', etc., conditionals require a different set of words. Mastering these quantifiers is essential for handling conditional syllogisms in logic and Islamic sciences like uṣūl al-fiqh.
+
+Guided Path
+1
+Recall the two main types of conditionals
+Conditionals are either conjunctive (if A then B) or disjunctive (either A or B). Identify which type each quantifier belongs to.
+Conjunctive quantifiers include 'kullamā', 'mahmā', 'matā'; disjunctive uses 'dā'imā' for universal affirmative.
+2
+Distinguish affirmative from negative quantifiers
+For universal negative, use 'laysa al-battata' (not at all) for both types. For particular quantities, use 'qad yakūnu' (sometimes) and 'qad lā yakūnu' (sometimes not).
+'Qad yakūnu' is a particle indicating possibility, not always temporal.
+3
+Practice forming partial negation
+Partial negation can also be expressed by placing 'laysa' before the universal quantifier, e.g., 'laysa kullamā' (not whenever).
+This parallels how categoricals use 'laysa kullu' for particular negative.
+4
+Categorise the quantifiers by type
+Make a mental table with rows for conjunctive/disjunctive and columns for universal affirmative, universal negative, particular affirmative, particular negative.
+Memorise the specific words: kullamā, dā'imā, laysa al-battata, qad yakūnu, qad lā yakūnu.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قول الناظم (ما احتمل الصدق) ولم يقل والكذب للاكتفاء وتعليم الأدب في التعبير. وقولـه (والثـاني) أى الحمليّة التي تعرض لتقسيمها هنا كليّة وشخصيّة. وقوله ( والأول) أى الكليّة إما مسوّرة أو مهملة السور. وقوله ( والآخر) بكسر الخاء أى المتأخر لا بفتحها بمعنى المغاير والمراد الآخر فى الرتبة وإن ذكر أولاً فإنه يبقى محمولاً كما بينه الشارح الفاضل من أنه لا عبرة في تحديد الموضوع والمحمول بالتقديم والتأخير الذكرى بل بالمعنى. وقوله (ومثلها) مجرور عطفاً على مدخول إلى أى وإلى مثلها. وقوله (دون مين) أى دون كذب. وقوله (أفسامها) أى ذات الانفصال يعنى المنفصلة وقوله ( أو هما أى مانعهما أى الجمع والخلو. ولم يبـين الناظم أقسام الشرطية المتصلة والمنفصلة، ولا أسوارهما كما فعل في الحملية تقريباً للمبتدى، وذلك مذكور في المطولات، وجرى الشارح على ذلك، ولكنه ربّما أشار إلى بعض أسورهما في بعض أمثلته. فلنذكر ههنـا الألفاظ المستخدمة في تسوريهما ولا نزيد. سور الإيجاب الكلى فى المتصلة هو كلّما، ومهما، ومتى؛ وفــي المنفصلة دائماً. وسور السالبة الكلية فيهما ليس البته بهمزة فى أولها أو بألف كلاهما فصيح. وسور الموجبة الجزئية فيهما قد يكون وسور السالبة الجزئية فيهما قد لا يكون. وأيضاً يمكن التعبير عن السلب الجزئي بإدخال حرف السلب على سور الإيجاب الكلى، نحو ليس كلّما وليس مهما وليس متى في المتصله، وليس دائماً فى المنفصلة. فمثل لها من عندك تجدها سهلة إن شاء الله. وبهذا القدر كفاية لمن وعى، فلنشرع الآن في أحكام القضايا.
+The poet's saying 'what admits truth' and he did not say 'and falsehood' for conciseness and to teach manners in expression. And his saying 'and the second' means the categorical that is divided here into universal and particular. And his saying 'and the first' means the universal, either quantified or unquantified. And his saying 'and the other' (with kasr on the khā') means the later, not with fatḥ meaning different; the intended meaning is the last in rank, even if mentioned first, because it remains a predicate, as the excellent commentator explained that there is no consideration in determining subject and predicate by precedence and delay in mention but by meaning. And his saying 'and like it' is in the genitive as a conjunction to 'to' i.e., 'and to its like'. And his saying 'without lying' i.e., without falsehood. And his saying 'its types' means the disjunctive. And his saying 'or both' means the two preventives, i.e., conjunction and separation. And the poet did not explain the divisions of the conjunctive and disjunctive conditionals, nor their quantifiers, as he did in the categorical for the sake of the beginner; that is mentioned in the longer works, and the commentator followed that, but perhaps he alluded to some of their quantifiers in some of his examples. So let us mention here the words used in quantifying them, without adding. The quantifier of universal affirmative in the conjunctive is 'kullamā', 'mahmā', and 'matā'; and in the disjunctive is 'dā'imā'. The quantifier of universal negative in both is 'laysa al-battata' with a hamza at the beginning or with an alif, both are eloquent. The quantifier of particular affirmative in both is 'qad yakūnu', and the quantifier of particular negative in both is 'qad lā yakūnu'. Also, partial negation can be expressed by entering the negative particle on the universal affirmative quantifier, like 'laysa kullamā', 'laysa mahmā', 'laysa matā' in the conjunctive, and 'laysa dā'imā' in the disjunctive. So give examples from yourself, you will find them easy if Allah wills. And this much suffices for the one who understands. So let us now begin on the judgments of propositions.
+Source pages p. 57
+
+Commentary
+This passage is a commentary explaining certain terms from the poet's text and then providing a crucial list of quantifier words for conditional propositions (sharṭiyyāt). The commentator first clarifies the wording of the poet: 'what admits truth' without mentioning falsehood is for brevity and politeness. He then explains references in the poem to categorical propositions, universal vs. particular, and the meaning of 'the other' (al-ākhar) as the later in rank. He notes that the poet did not explicitly lay out divisions and quantifiers for conditionals, as he did for categoricals, to keep things simple for beginners. The commentator then supplies the missing information. For conjunctive conditionals (muttaṣila), the universal affirmative quantifiers are 'kullamā' (whenever), 'mahmā' (whatever), and 'matā' (when). For disjunctive (munfaṣila), it is 'dā'imā' (always). Universal negation uses 'laysa al-battata' (not at all). Particular affirmative is expressed with 'qad yakūnu' (sometimes), and particular negative with 'qad lā yakūnu' (sometimes not). Partial negation can also be formed by prefixing the negation to the universal quantifier, e.g., 'laysa kullamā' (not whenever). The commentator encourages the reader to practice with examples. This knowledge is essential for understanding the logical judgments ('aḥkām') that follow.
+
+Key Terms
+سور
+كلّما
+دائماً
+ليس البته
+قد يكون
+قد لا يكون
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the quantifier for universal affirmative in a disjunctive conditional?
+A) كلّما
+B) دائماً
+C) قد يكون
+D) ليس البته
+
+Key Takeaway
+Conditional propositions are quantified using specific words: for conjunctive 'kullamā', for disjunctive 'dā'imā', and for various negatives and particulars as listed.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conjunctive conditional proposition with a universal affirmative quantifier using an example from fiqh, and then convert it into a universal negative by using 'laysa al-battata'.
+?
+Identify the quantifier type in the following statement: 'Whenever there is valid marriage, there is mutual inheritance.' Is it universal affirmative, universal negative, particular affirmative, or particular negative?
+
+Pages p. 57 · The Ten Categories
+← Prev
+Mark Done
+Next →

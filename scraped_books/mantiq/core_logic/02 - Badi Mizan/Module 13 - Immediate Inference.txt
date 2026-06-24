@@ -1,0 +1,592 @@
+← Prev
+p. 33
+Module 13 · Lesson 1
+Next →
+Immediate Inference
+beginner
+5 min
+Simple Conversion: Swapping Subject and Predicate
+Defines simple conversion and explains its rules for affirmative and negative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to perform simple conversion on universal categorical propositions and identify the correct quantity of the converse.
+
+Core Idea
+Simple conversion swaps subject and predicate, preserving truth and quality, but quantity changes for affirmatives.
+
+Here, al-Badī' al-Mīzān defines simple conversion, an immediate inference that derives a new proposition by swapping the subject and predicate. Understanding this operation is essential for later syllogistic reasoning, as valid conversions underpin certain syllogistic moods.
+
+Guided Path
+1
+Identify the original proposition's type
+Determine whether it is affirmative or negative, and universal or particular. The text focuses on universal affirmatives (every A is B) and universal negatives (no A is B).
+Only universal examples are given, but the rules extend to particulars.
+2
+Swap the subject and predicate
+Exchange the two terms: the subject becomes the predicate and the predicate becomes the subject.
+The quality (affirmative/negative) remains identical.
+3
+Adjust the quantity if necessary
+For universal affirmatives, the converse is particular affirmative (some B is A), because the predicate may be more general. For universal negatives, the converse remains universal negative (no B is A).
+The text explicitly states that negatives convert universally, while affirmatives do not.
+4
+Check truth preservation
+Simple conversion preserves truth only when the original proposition is true and the quantity rule is followed. Verify that the converse is indeed true given the original.
+If the original is false, conversion is not guaranteed to preserve falsity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في العكس المستوي: وهو عبارة عن جعل أحد طرفي القضية مكان الآخر مع بقاء الصدق والكيفية، فأما الكمية فلا تبقى في الموجبات؛ لأنها لا تنعكس كلية؛ لاحتمال كون المحمول أعم من الموضوع كقولنا: كل إنسان حيوان، فلا تنعكس كلية؛ لكذب قولنا كل حيوان إنسان وأما السالبة فتنعكس كلية كقولنا: لا شيء من الإنسان بحجر؛ لأنه يصدق لا شيء من الحجر بإنسان كلية.
+Section on simple conversion: It is the making of one of the two parts of the proposition the place of the other, with preservation of truth and quality. As for quantity, it is not preserved in affirmatives, because they do not convert universally, due to the possibility that the predicate is more general than the subject, as in our saying: Every man is an animal, so it does not convert universally, because our saying 'Every animal is a man' is false. As for the negative, it converts universally, as in our saying: No man is a stone, because 'No stone is a man' is universally true.
+Source pages p. 33
+
+Commentary
+This passage explains simple conversion ('aks mustawī), a type of immediate inference. The rule: interchange subject and predicate while preserving truth and quality (affirmative/negative). However, quantity changes for affirmatives: a universal affirmative (like 'Every A is B') does not convert to a universal affirmative ('Every B is A') because the predicate B may be wider (e.g., 'Every man is an animal' does not imply 'Every animal is a man'). So universal affirmatives convert to particular affirmatives in classical logic (but the text here says quantity is not preserved, meaning the converse is not universal, implicitly it is particular). The text explicitly states that negatives do convert universally: from 'No man is a stone' we get 'No stone is a man', which is also true. This is a foundational rule for valid syllogisms.
+
+Key Terms
+العكس المستوي
+الكمية
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the correct converse (simple conversion) of 'Every intoxicant is forbidden'?
+A) Every forbidden thing is an intoxicant.
+B) Some forbidden things are not intoxicants.
+C) Some forbidden things are intoxicants.
+D) No forbidden thing is an intoxicant.
+
+Key Takeaway
+Simple conversion preserves truth and quality, but for universal affirmatives the quantity must become particular; universal negatives remain universal.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the proposition 'Every obligatory act is rewarded' (universal affirmative) using simple conversion. State the converse and explain why it cannot be universal.
+?
+Convert the proposition 'No transaction involving riba is permissible' (universal negative). Write the converse and verify its truth.
+
+Pages p. 33 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 33
+Module 13 · Lesson 2
+Next →
+Immediate Inference
+intermediate
+5 min
+Two Definitions of Contrapositive in Islamic Logic
+Two definitions of contrapositive with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the early and later definitions of contrapositive and apply each to a categorical proposition.
+
+Core Idea
+The two definitions of contrapositive differ in whether they preserve or flip the quality of the original proposition.
+
+This lesson presents two definitions of contrapositive ('aks al-naqīḍ) from earlier and later logicians. Understanding the difference is crucial for correctly performing immediate inferences in Islamic logic. The early method swaps both terms with their negations while preserving quality; the later method negates the predicate to become subject and flips the quality.
+
+Guided Path
+1
+Identify the general operation
+Contrapositive is an immediate inference that transforms a proposition into another with the same truth value. Note the two competing definitions.
+Both definitions agree on truth preservation.
+2
+Analyze the early definition
+Early logicians swap each term with its negation while keeping quality the same. For 'Every human is an animal', they derive 'Every non-animal is non-human' (affirmative to affirmative).
+This is similar to contrapositive in modern logic but with quality preserved.
+3
+Analyze the later definition
+Later logicians take the negation of the predicate as the new subject, keep the original subject as the new predicate, and flip the quality. For 'Every human is an animal', they derive 'Nothing that is not an animal is a human' (affirmative to negative).
+The quality changes from affirmative to negative.
+4
+Compare the results on the same example
+Apply both definitions to 'Every human is an animal'. Early gives 'Every non-animal is non-human' (universal affirmative). Later gives 'No non-animal is human' (universal negative). They are logically equivalent but differ in form.
+This shows the importance of knowing which definition is intended.
+5
+Practice with an Islamic example
+Take a proposition from fiqh: 'Every intoxicant is forbidden'. Apply both definitions and compare.
+Early: 'Every non-forbidden is non-intoxicant'. Later: 'Nothing that is not forbidden is an intoxicant'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في عكس النقيض: وهو عبارة عند المتقدمين عن تبديل كل من طرفي القضية بنقيض الآخر مع بقاء الصدق والكيف بحاله، كما يقال في كل إنسان حيوان كل لاحيوان لاإنسان، وعند المتأخرين عبارة عن جعل نقيض الجزء الثاني الجزء الأول وعين الأول الثاني مع مخالفة الأصل في الكيف وموافقته في الصدق، كما يقال في كل إنسان حيوان لا شيء مما ليس بحيوان بإنسان، والفرق بينهما يعرف في المطولات.
+Chapter on Contrapositive: According to the earlier scholars, it is an expression for exchanging each of the two extremes of the proposition with its contradictory, preserving truth and quality as they are, as is said in 'Every human is an animal': 'Every non-animal is non-human.' According to the later scholars, it is an expression for making the contradictory of the second part the first part and the original first part the second part, while opposing the original in quality and agreeing with it in truth, as is said in 'Every human is an animal': 'Nothing that is not an animal is a human.' The difference between them is known in longer works.
+Source pages p. 33
+
+Commentary
+This passage presents two definitions of contrapositive ('aks al-naqīḍ) from different groups of logicians. The earlier scholars (mutaqaddimūn) define it as swapping both terms with their negations (naqīḍ) while preserving quality and truth. For example, from 'Every human is an animal' we get 'Every non-animal is non-human'. The later scholars (muta'akhirūn) define it differently: we take the negation of the original predicate and make it the new subject, keep the original subject as the new predicate, but change the quality from affirmative to negative (or vice versa) while maintaining truth. From 'Every human is an animal' we get 'Nothing that is not an animal is a human' (a universal negative). The difference is that the earlier method keeps the quality the same (affirmative to affirmative) while the later method flips the quality.
+
+Key Terms
+عكس النقيض
+المتقدمون
+المتأخرون
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the later scholars, what is the contrapositive of 'Every human is an animal'?
+A) Every non-animal is non-human
+B) Nothing that is not an animal is a human
+C) Some non-animal is non-human
+D) Every animal is human
+
+Key Takeaway
+Contrapositive in Islamic logic has two definitions: early (swap terms with negations preserving quality) and later (negate predicate as subject and flip quality).
+
+How This Lesson Applies — to MY Life?
+?
+Apply the early definition of contrapositive to the proposition 'Every intoxicant is forbidden' (khamr is haram). Write the resulting proposition.
+?
+Apply the later definition to the same proposition. Compare the results and state the key difference.
+
+Pages p. 33 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 46
+Module 13 · Lesson 3
+Next →
+Immediate Inference
+intermediate
+10 min
+Mental Entailment and Denotation: A Dialectical Exchange
+Author presents an objection against the necessity of mental entailment and refutes it.
+
+Learning Objective
+By the end of this lesson, you will be able to analyze a dialectical exchange about mental entailment and evaluate the objector's argument and the author's reply.
+
+Core Idea
+Not every logical consequence is a valid entailment; it must be mentally present after full understanding.
+
+In this lesson, we examine a classic jadal (debate) about the role of mental entailment in denotation by entailment. The objector claims that mental entailment is not necessary, citing distant entailments and puzzles. The author responds by restricting what counts as a genuine entailment. Understanding this dialectic sharpens your ability to evaluate arguments about meaning and implication.
+
+Guided Path
+1
+Identify the objector's claim
+The objector says: 'We do not accept that mental entailment is a condition for denotation by entailment; otherwise, cases like distant entailments and puzzles would not have denotation by entailment, but they do.' Locate this in the Arabic beginning with 'إن قيل'.
+The objector uses two counterexamples: distant entailments (al-lawāzim al-ba'īda) and puzzles (al-mu'ammayāt).
+2
+Extract the author's reply
+The author responds by denying that distant entailments are among the denotations of words. For puzzles, he distinguishes: if after fully understanding the word's meaning, the puzzle's answer is still not grasped, then it is not a valid entailment; otherwise, mental entailment is present.
+The key phrase is 'قلنا' introducing the reply.
+3
+Analyze the logical structure
+This is a dialectical exchange: Objection (mu'tarid) → Response (jawāb). The objector's argument is: If mental entailment is necessary, then distant entailments would not be denotations, but they are; therefore mental entailment is not necessary. The author refutes by rejecting the minor premise: distant entailments are not denotations.
+The author does not concede the counterexamples; he redefines the scope of denotation by entailment.
+4
+Evaluate who wins by jadal rules
+The objector must provide valid counterexamples that are accepted as genuine entailments. The author successfully excludes distant entailments by definition. For puzzles, he conditionalizes: if they are not grasped after complete understanding, they are not denotations; if they are, then mental entailment exists, so the objection fails.
+The author's reply is effective because it shifts the burden of proof back to the objector.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+إن قيل: لا نسلم أن اللزوم الذهني شرط للدلالة الالتزامية، وإلا لما تحققت الدلالة الالتزامية بدونه واللازم باطل؛ لأن الدلالة الالتزامية موجودة بدون اللزوم(۳) الذهني كما في اللوازم البعيدة والمعميات قلنا: نمنع كون اللوازم البعيدة من مدلولات الألفاظ، والمعميات إن لم يلزم الانتقال الذهني لها بعد كمال تصورات مسميات الألفاظ فدلالتها عليها ممنوعة، وإلا فلا نقض.
+If it is said: We do not accept that mental entailment is a condition for denotation by entailment, otherwise denotation by entailment would not be realized without it, but the consequent is false, because denotation by entailment exists without mental entailment, as in distant entailments and puzzles. We say: We deny that distant entailments are among the denotations of words. As for puzzles, if the mental transition to them does not occur even after complete conceptualizations of the meanings of the words, then their denotation by them is denied; otherwise there is no refutation.
+Source pages p. 46
+
+Commentary
+This passage is a dialectical exchange (jadal). The objector argues that mental entailment cannot be a necessary condition for denotation by entailment, because there are cases of entailment where the secondary meaning is not immediately thought of, such as distant entailments (al-lawazim al-ba'ida) and puzzles (al-mu'ammayat). For example, the word 'human' might entail the possibility of writing, but someone might not think of it immediately. The author responds by denying that distant entailments are considered entailed denotations at all; they are not part of the intended meaning of the word. As for puzzles, if after fully understanding the word's meaning the puzzle's answer is still not grasped, then that puzzle is not a valid entailment. If it is grasped after complete understanding, then mental entailment is present, so the objection fails.
+
+Key Terms
+اللوازم البعيدة
+المعميات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author's reply, why are distant entailments not valid examples of denotation by entailment?
+A) They are not placed meanings
+B) They do not involve mental entailment after complete understanding
+C) They are only valid in puzzles
+D) They are too complex
+
+Key Takeaway
+Denotation by entailment requires mental transition to the secondary meaning upon full understanding; distant entailments and unsolved puzzles do not qualify.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: In a debate about the entailment of the Qur'anic verse 'Do not approach prayer while intoxicated' (4:43), an objector says this entails that any state of intoxication makes prayer invalid, even if the intoxication is due to a non-intoxicating substance. Is this a distant entailment? Apply the author's criterion: after fully understanding the verse's meaning, is this entailment mentally present? Explain.
+?
+Task 2: Construct a brief jadal exchange where a claimant argues that the term 'salat' (prayer) entails 'taharah' (purity). An objector says this is a puzzle because some prayers (like janazah) may not require wudu. Provide the claimant's reply using the author's strategy.
+
+Pages p. 46 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 67
+Module 13 · Lesson 4
+Next →
+Immediate Inference
+beginner
+10 min
+Relations Between Universals: Equality, Absolute Generality, and Generality from One Respect
+Author defines three relations between universals.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the three relations between universals (equality, absolute generality-specificity, and generality from one respect) using the logical conditions given in the passage.
+
+Core Idea
+The three relations between universals are defined by the direction and extent of their shared application.
+
+This passage from al-Badi' al-Mizan introduces three fundamental ways two universals can relate: they may apply to exactly the same individuals, one may apply to all of the other but not vice versa, or they may partially overlap. Understanding these relations is essential for analyzing definitions and arguments in Islamic logic.
+
+Guided Path
+1
+Identify the two universals
+Locate the two universals being compared. Note their individual application ranges—what individuals each applies to.
+For example, 'human' and 'rational' are universals with overlapping application.
+2
+Test for equality
+Check if each universal applies to every individual that the other applies to. If yes in both directions, the relation is equality.
+This corresponds to two universal affirmatives.
+3
+Test for absolute generality-specificity
+If one universal applies to all individuals of the other but not conversely, it is absolute generality-specificity. The more general is the one that applies to all of the other.
+This corresponds to a universal affirmative and a particular negative.
+4
+Test for generality from one respect
+If each universal applies to some individuals of the other but not to all, the relation is generality from one respect.
+They intersect but neither contains the other completely.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: (الكليان وإنما اعتبر الكليان دون المفهومين؛ لأن النسب الأربع لا تتحقق إلا بين الكليين متساويان إن صدق كل واحد منهما أي من الكليين على كل ما يصدق عليه) الكلي (الآخر كالإنسان والناطق فإن الإنسان يصدق على كل ما يصدق عليه الناطق وبالعكس. والمراد بالنطق ههنا القوة الموجودة في جنان الإنسان التي تنتقش فيها المعاني، ولا خفاء في أنها لا توجد في الملائكة فلا يرد ما قيل: إن النطق يوجد في الملائكة أيضا، وما قيل: إن المراد بالنطق الإدراك، فظاهر البطلان، ومرجع التساوي إلى موجبتين كليتين. (وبينهما عموم وخصوص مطلق إن صدق أحدهما على كل ما يصدق عليه الآخر من غير عكس كلي وإنما قيَّد بذلك؛ لأن العكس الجزئي ثابت قطعا، فالصادق على كل ما صدق عليه الآخر أعم مطلقا، والآخر أخص مطلقا، كالحيوان والإنسان) فإن الحيوان يصدق على كل ما صدق عليها الإنسان من غير عكس كلي، ومرجعه إلى موجبة كلية وسالبة جزئية. (وبينهما عموم وخصوص من وجه إن صدق كل واحد منهما على بعض ما يصدق عليه الآخر فقط) أي: لا على الكل كالحيوان والأبيض) فكل واحد منهما عام بالنظر إلى أنه شامل للآخر ولغيره، وخاص من جهة كون الآخر شاملا له ولغيره، فلا بد
+Chapter: Two universals. And only the two universals are considered, not the two concepts, because the four relations do not occur except between two universals. They are equal if each of the two applies to everything that the other applies to, like 'human' and 'rational'; for 'human' applies to everything that 'rational' applies to and vice versa. By 'rational' here is meant the power in the heart of man by which meanings are engraved, and it is clear that it does not exist in angels, so it is not refuted by the saying that 'rational' exists in angels, and what is said that 'rational' means intellect is manifestly false. And the reference of equality is to two universal affirmatives. And between them is absolute generality and specificity if one of them applies to everything that the other applies to without universal converse, and he qualified with that because particular converse is certainly established. So that which applies to everything that the other applies to is absolutely more general, and the other is absolutely more specific, like 'animal' and 'human'; for 'animal' applies to everything that 'human' applies to without universal converse. And its reference is to a universal affirmative and a particular negative. And between them is generality and specificity from one respect if each of them applies to some of what the other applies to only, i.e., not to all, like 'animal' and 'white'; so each is general insofar as it includes the other and others, and specific in that the other includes it and others. So it is necessary...
+Source pages p. 67
+
+Commentary
+This passage introduces the relations between two universals. The author explains that only universals are considered, not concepts, because the four relations only apply to universals. Three relations are defined: (1) Equality (تساوي): when each applies to everything the other applies to, e.g., 'human' and 'rational'. The author clarifies that 'rational' here means the internal power of comprehension, not intellect, to avoid the objection that angels are rational. (2) Absolute generality and specificity (عموم وخصوص مطلق): when one applies to everything the other applies to but not vice versa, e.g., 'animal' and 'human'. This corresponds to a universal affirmative and a particular negative. (3) Generality and specificity from one respect (عموم وخصوص من وجه): when each applies to some of what the other applies to but not all, e.g., 'animal' and 'white' (animal includes some white things, white includes some animals, but not all animals are white nor all white things animals). Each is general relative to the other in one respect and specific in another. The passage cuts off at 'فلا بد', but the definitions are complete.
+
+Key Terms
+التساوي
+العموم والخصوص المطلق
+العموم والخصوص من وجه
+
+Key Terms from Source Passage
+
+Checkpoint
+Which relation between universals corresponds to a universal affirmative and a particular negative?
+A) Equality
+B) Absolute generality-specificity
+C) Generality from one respect
+D) Neither
+
+Key Takeaway
+The three relations between universals—equality, absolute generality, and generality from one respect—are defined by the scope of their application and the presence or absence of universal converse.
+
+How This Lesson Applies — to MY Life?
+?
+Using the conditions given, determine the relation between the universals 'khamr' (wine) and 'muskir' (intoxicant) in Islamic law. Is it equality, absolute generality, or generality from one respect? Explain your reasoning.
+?
+Provide an example from fiqh where two universals have a generality-from-one-respect relationship, and explain why neither universal applies to all individuals of the other.
+
+Pages p. 67 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 101
+Module 13 · Lesson 5
+Next →
+Immediate Inference
+intermediate
+8 min
+Definition and Conditions of Simple Conversion
+Author defines simple conversion and explains its conditions of truth and quality preservation.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the conditions of simple conversion (al-ʿaks al-mustawī) and apply them to given propositions from Islamic sciences.
+
+Core Idea
+Simple conversion preserves truth and quality, but not quantity in affirmative propositions.
+
+In this passage, the author defines simple conversion and specifies its essential conditions. Understanding these conditions is crucial for correctly applying conversion in logical reasoning, especially in Islamic legal theory where converting propositions can reveal hidden implications without altering truth or quality.
+
+Guided Path
+1
+Identify the definiendum
+Find the term being defined: al-ʿaks al-mustawī (simple conversion). Note its literal meaning: simple because of equality in truth and quality.
+The term also applies to the resulting proposition, not just the operation.
+2
+Parse the definition
+Break down the definition: 'جعل أحد طرفي القضية في الذكر مكان الطرف الآخر مع بقاء الصدق والكيفية'. Identify the two main components: swapping the extremes and preserving truth and quality.
+The swapping must affect meaning; disjunctives are excluded.
+3
+Examine preservation of truth
+Understand the condition: if the original proposition is true, the converse must be true. Truth in reality is not required; even false propositions can have a valid conversion (e.g., 'Every wine is permissible' converts to 'Some permissible thing is wine').
+This is a material conditional, not a claim of actual truth.
+4
+Examine preservation of quality
+Affirmative originals yield affirmative converses; negative originals yield negative converses. This is because the converse is a necessary concomitant of the original.
+The author notes a defect in the definition regarding quality and invites reflection.
+5
+Identify what is not preserved
+In affirmative propositions, quantity is not preserved. Universal affirmatives (A) convert to particular affirmatives (I) because the predicate may be more general than the subject.
+The text is cut off but the rule is clear: 'A converts to I'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في العكس (المستوي) يسمى مستويا؛ لحصول المساواة بين القضية وعكسها في الصدق والكيفية وهو كما يطلق على القضية الحاصلة من التبديل كذلك يطلق على نفس التبديل، وإلى هذا أشار المصنف بقوله: (وهو) أي: العكس المستوي (عبارة) أي: معبرة عن جعل أحد طرفي (القضية في الذكر (مكان) الطرف الآخر) جعلا له تأثير في المعنى، فلا يكون قولنا: إما أن يكون هذا العدد فردا أو زوجا، عكسا لقولنا: إما أن يكون هذا العدد زوجا أو فردا، والقول بالتغاير ممنوع. مع بقاء الصدق) أي: لزومه على تقدير وجوده، ولا يشترط الصدق في الواقع، أي: لو كان الأصل صادقا كان العكس أيضا صادقا، فكل إنسان حجر» يلزمه «بعض الحجر إنسان» مع كذبهما؛ إذ ملازمة عكس القضية لا يفتقر تحققها إلى صدق الطرفين في الواقع، وإنما اعتبر بقاء الصدق؛ لأنه يمتنع صدق الملزوم مع كذب اللازم، ولم يعتبر بقاء الكذب؛ لجواز لزوم الصادق الكاذب. (والكيفية أي الإيجاب والسلب أي إن كان الأصل موجبا كان العكس كذلك، وإن كان سالبا كان كذلك؛ لأن العكس لازم من لوازم الأصل لا يجري التخلف بينهما، بخلاف الموجبة والسالبة، فإنه يجري التخلف بينهما، فظاهر التعريف لا يخلو عن اختلال، وقد أشرنا إلى دفعه، تأمل. (فأما الكمية) أي: الكلية والجزئية فلا تبقى في الموجبات؛ لأنها أي الموجبات لا) تنعكس كلية؛ لاحتمال كون المحمول أعم من الموضوع، وامتناع حمل الخاص على
+Chapter on Simple Conversion. It is called simple because of the equality between the proposition and its converse in truth and quality. And just as it is applied to the proposition resulting from the substitution, it is also applied to the substitution itself. And the author alluded to this by his statement: (It) i.e., simple conversion (is an expression) i.e., expressing making one of the two extremes of the proposition in mention (in place of) the other extreme, a making that has an effect on the meaning. So our statement: 'Either this number is odd or even' is not the converse of our statement: 'Either this number is even or odd', and the claim of difference is rejected. (With preservation of truth) i.e., its necessity on the supposition of its existence, and truth in reality is not required. That is, if the original were true, the converse would also be true. For example, 'Every man is a stone' entails 'Some stone is a man' despite both being false; because the entailment of the converse of a proposition does not require its actual truth for its realization. Preservation of truth was considered only because it is impossible for the entailing true to exist with the entailed false, and preservation of falsehood was not considered because it is possible for the true to entail the false. (And the quality) i.e., affirmation and negation: if the original is affirmative, the converse is likewise; if negative, likewise; because the converse is a necessary concomitant of the original, and discrepancy between them cannot occur, unlike the affirmative and negative, for discrepancy can occur between them. So the apparent definition is not free from defect, and we have pointed to its refutation; reflect. (As for quantity) i.e., universality and particularity, it is not preserved in affirmatives; because affirmatives do not convert universally, due to the possibility that the predicate is more general than the subject, and the impossibility of predicating the specific on...
+Source pages p. 101
+
+Commentary
+This passage defines simple conversion (al-ʿaks al-mustawī) and explains its essential conditions. The author explains that conversion involves swapping the subject and predicate of a proposition while preserving truth and quality. The equality in truth and quality is why it is called 'simple.' The definition requires that the swapping have an effect on meaning, so disjunctive statements like 'Either this number is odd or even' are not considered converses because swapping does not change the meaning. The condition 'with preservation of truth' means that if the original proposition is true, then the converse must also be true; it does not require actual truth, as the example 'Every man is a stone' converting to 'Some stone is a man' shows that both can be false yet the entailment holds. Preservation of quality means that an affirmative original yields an affirmative converse, and a negative yields a negative; this is because the converse is a necessary concomitant (lāzim) of the original, and discrepancy cannot occur. However, the author notes a defect in the definition regarding quality and points to its refutation, inviting reflection. Finally, the passage begins to discuss quantity: in affirmative propositions, quantity is not preserved because the predicate may be more general than the subject, and it is impossible to predicate the specific on the general universally. The text cuts off here, but the discussion likely continues with the rule that affirmative universals convert to particulars, etc.
+
+Key Terms
+عكس مستوي
+صدق
+كيفية
+كمية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is preserved in simple conversion?
+A) Truth and quality
+B) Truth and quantity
+C) Quality and quantity
+D) Only truth
+
+Key Takeaway
+Simple conversion preserves truth and quality, but quantity is only preserved in negatives; affirmative universals become particulars.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the universal affirmative proposition 'كل مسكر حرام' (Every intoxicant is prohibited) to its converse. Does it preserve truth and quality? What about quantity? Explain using the conditions discussed.
+?
+Given the particular affirmative proposition 'بعض المجتهدين فقهاء' (Some mujtahids are jurists), determine its converse and state whether it is valid under simple conversion. Justify your answer.
+
+Pages p. 101 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 101
+Module 13 · Lesson 6
+Next →
+Immediate Inference
+beginner
+10 min
+Simple Conversion (al-‘Aks al-Mustawī): Definition and Conditions
+Author defines simple conversion and explains its conditions of truth, quality, and quantity.
+
+Learning Objective
+By the end of this lesson, you will be able to perform simple conversion on categorical propositions and verify that the conditions of truth, quality, and quantity are satisfied.
+
+Core Idea
+Simple conversion swaps subject and predicate while preserving truth and quality, but quantity changes for affirmatives.
+
+Simple conversion is an immediate inference that transforms a proposition by swapping its subject and predicate. However, not every swap is valid: the converse must preserve truth (if the original is true) and quality (affirmation/negation), and the quantity rules differ for affirmatives and negatives. This lesson unpacks the precise conditions from the classical text so you can apply conversion correctly in Islamic logical analysis.
+
+Guided Path
+1
+Identify the subject and predicate
+In the original proposition, locate the subject (mawḍūʿ) and predicate (maḥmūl). For example, in 'Every human is an animal', the subject is 'human' and the predicate is 'animal'.
+2
+Swap the terms
+Simple conversion means making the subject become the predicate and the predicate become the subject. The operation is a straightforward replacement: the new proposition has the old predicate as subject and the old subject as predicate.
+3
+Check preservation of truth
+The condition is not that the converse is actually true, but that if the original proposition is true, the converse must also be true. This is a conditional preservation. For example, 'Every man is a stone' is false, but its converse 'Some stone is a man' is also false — yet the conditional 'if the original is true then the converse is true' holds vacuously.
+Do not confuse 'preservation of truth' with actual truth of the converse.
+4
+Check preservation of quality
+The quality (kayfiyya) — affirmation or negation — must remain the same. If the original is affirmative, the converse must be affirmative; if negative, the converse must be negative. This ensures the converse is a true logical consequent.
+5
+Determine the quantity of the converse
+For affirmative universals (A), the converse is a particular affirmative (I), because the predicate is often more general. For example, 'Every human is an animal' (A) converts to 'Some animal is a human' (I), not 'Every animal is a human' (A). For negative universals (E), the converse remains a universal negative (E). Example: 'No human is a stone' (E) converts to 'No stone is a human' (E). This rule is crucial to avoid invalid inferences.
+Affirmative particulars (I) convert to particular affirmatives (I) — e.g., 'Some human is a writer' converts to 'Some writer is a human'. Negative particulars (O) do not convert validly.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في العكس (المستوي) يسمى مستويا؛ لحصول المساواة بين القضية وعكسها في الصدق والكيفية وهو كما يطلق على القضية الحاصلة من التبديل كذلك يطلق على نفس التبديل، وإلى هذا أشار المصنف بقوله : (وهو) أي: العكس المستوي (عبارة) أي: معبرة عن جعل أحد طرفي (القضية في الذكر (مكان (الطرف الآخر) جعلا له تأثير في المعنى، فلا يكون قولنا: إما أن يكون هذا العدد فردا أو زوجا، عكسا لقولنا: إما أن يكون هذا العدد زوجا أو فردا (۱) ، والقول بالتغاير ممنوع، ومن يقول بجريان العكس بينهما يحمل الجعل على الإطلاق.
+مع بقاء الصدق) أي: لزومه على تقدير وجوده، ولا يشترط الصدق في الواقع، أي: لو كان الأصل صادقا كان العكس أيضا صادقا، فكل إنسان حجر» يلزمه «بعض الحجر إنسان» مع كذبهما ؛ إذ ملازمة عكس القضية لا يفتقر تحققها إلى صدق الطرفين في الواقع، وإنما اعتبر بقاء الصدق؛ لأنه يمتنع صدق الملزوم مع كذب اللازم، ولم يعتبر بقاء الكذب؛ لجواز لزوم الصادق الكاذب.
+(والكيفية أي الإيجاب والسلب أي إن كان الأصل موجبا كان العكس كذلك، وإن كان سالبا كان كذلك؛ لأن العكس لازم من لوازم الأصل لا يجري التخلف بينهما، بخلاف الموجبة والسالبة (۲) ، فإنه يجري التخلف بينهما، فظاهر التعريف لا يخلـو عـن اختلال، وقد أشرنا إلى دفعه، تأمل.
+(هامش خ: لانعدام التأثير، وعليها علامة صح)
+(ط: الموجب والسالب)
+(فأما الكمية) أي: الكلية والجزئية فلا تبقى في الموجبات؛ لأنها أي الموجبات لا) تنعكس كلية؛ لاحتمال كون المحمول أعم من الموضوع، وامتناع حمل الخاص على كل أفراد العام، بل تنعكس جزئية، وكون كل ناطق إنسان» عكسا لقولنا: كل إنسان ناطق، ممنوع (كقولنا كل إنسان حيوان، فلا تنعكس كلية؛ لكذب «كل حيوان إنسان»، بخلاف السوالب (لأنها أي السوالب تنعكس سالبة كلية كقولنا: لا شيء من الإنسان بحجر) فإنه ينعكس كلية؛ لأنه يصدق لا شيء من الحجر بإنسان»
+Chapter on Simple Conversion. It is called 'simple' because of the equality between the proposition and its converse in truth and quality. It is applied to the proposition resulting from replacement as well as to the replacement itself. The author pointed to this by his saying: 'It (i.e., simple conversion) is an expression' meaning an expression for making one of the two terms of the proposition in mention the place of the other term, a making that has an effect on the meaning. So our saying 'Either this number is odd or even' is not the converse of our saying 'Either this number is even or odd' (1). The claim of difference is rejected, and whoever says that conversion applies between them carries the making absolutely. With preservation of truth: i.e., its necessity on the assumption of its existence. Truth is not required in actuality; that is, if the original is true, then the converse is also true. So 'Every man is a stone' entails 'Some stone is a man' despite both being false; because the implication of the converse of a proposition does not require the truth of both sides in actuality. Rather, preservation of truth is considered because it is impossible for the implied (original) to be true while the necessary (converse) is false. Preservation of falsehood was not considered because it is possible for a true (proposition) to necessitate a false one. And the quality: i.e., affirmation and negation. That is, if the original is affirmative, the converse is likewise; if negative, likewise. Because the converse is one of the necessary consequents of the original; non-correspondence does not occur between them, unlike the affirmative and the negative (2), for non-correspondence does occur between them. So the apparent definition is not free from disorder, and we have indicated its rebuttal. Reflect. (Marginal: from manuscript خ: 'Due to lack of effect', and it is marked with a check) (Variant from ط: 'the affirmative and the negative'). As for quantity: i.e., universal and particular, it is not preserved in affirmatives; because affirmatives do not convert universally, due to the possibility that the predicate is more general than the subject, and the impossibility of carrying the specific on all individuals of the general. Rather, they convert as particulars. And the claim that 'Every speaker is a human' is the converse of 'Every human is a speaker' is rejected. An example: 'Every human is an animal' does not convert universally because 'Every animal is a human' is false. Contrary to negatives: because they convert as universal negatives, as in our saying 'No human is a stone' converts universally because 'No stone is a human' is true.
+Source pages p. 101
+
+Commentary
+This passage defines simple conversion ('aks mustawi) in logic. The author begins by giving the etymology of 'simple' due to equality in truth and quality. He clarifies that conversion refers both to the resulting proposition and the operation itself. The definition is then given: making one term take the place of the other with preservation of truth and quality. The author provides a counterexample: disjunctive propositions like 'either odd or even' do not qualify because the terms are not in a logical subject-predicate relation. The condition of preservation of truth means the implication holds only if the original is true, but the converse does not have to be actually true; it just must be true if the original is true. This is illustrated with the obviously false example 'every man is a stone' which converts to 'some stone is a man' — both false, but the conditional is valid. The quality must remain the same: affirmative to affirmative, negative to negative. The author notes a potential issue with the definition and directs to a previous rebuttal. For quantity: affirmative universals convert as particulars because the predicate could be more general; e.g., 'every human is an animal' (A) converts to 'some animal is a human' (I), not 'every animal is a human' (A) which is false. Negative universals convert as universal negatives (E to E), e.g., 'no human is a stone' converts to 'no stone is a human'. This covers the standard Aristotelian conversion rules for A and E: A converts to I (per accidens), E converts to E (simple).
+
+Key Terms
+العكس المستوي
+بقاء الصدق
+الكيفية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a valid simple conversion of the proposition 'Every intoxicant is forbidden' (an A proposition from fiqh)?
+A) Every forbidden thing is an intoxicant
+B) Some forbidden thing is an intoxicant
+C) No forbidden thing is an intoxicant
+D) Some forbidden thing is not an intoxicant
+
+Key Takeaway
+Simple conversion swaps subject and predicate while preserving truth and quality, but the quantity changes for affirmatives (A→I, I→I) while negatives remain universal (E→E).
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following Islamic propositions using simple conversion, and state whether the conversion is valid: (1) 'No act of worship is invalid without intention' (E proposition). (2) 'Every type of riba is forbidden' (A proposition).
+?
+Identify any invalid conversion attempt in this argument: 'Some scholars are jurists' converts to 'Some jurists are scholars' — is this valid? Explain using the conditions of truth and quality.
+
+Pages p. 101 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 102
+Module 13 · Lesson 7
+Next →
+Immediate Inference
+intermediate
+8 min
+Contrapositive: Two Definitions in Islamic Logic
+Contrast of early and later definitions of contrapositive
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the early and later definitions of 'aks al-naqīḍ and apply each to a categorical proposition from Islamic sciences.
+
+Core Idea
+Contrapositive has two definitions: swap both negations (early) or swap only the predicate's negation with quality change (later).
+
+This passage from al-Mīzān presents a key distinction in immediate inference. Early logicians defined contrapositive as exchanging both terms after negating them, preserving quality and truth. Later logicians defined it as taking the negation of the predicate as the new subject, keeping the original subject as the new predicate, but flipping the quality. Understanding this shift is essential for reading later commentaries and applying the operation correctly in substantive arguments.
+
+Guided Path
+1
+Identify the definiendum
+The term being defined is 'aks al-naqīḍ (contrapositive). It is an immediate inference from a categorical proposition that preserves truth.
+2
+Extract the early definition
+According to al-mutaqaddimūn: replace each term with its negation, then swap them. Quality remains unchanged. Example: 'Every human is animal' becomes 'Every non-animal is non-human'.
+3
+Extract the later definition
+According to al-muta'akhkhirūn: keep the original subject as the new predicate, but make the negation of the original predicate the new subject, and change the quality (affirmative to negative). Example: 'Every human is animal' becomes 'Nothing that is not animal is human'.
+4
+Compare the two definitions
+The early definition preserves the quality (both affirmative), the later flips it. Which one is logically equivalent to the original? The later definition is the classical contrapositive that is truth-preserving for A and O propositions, while the early one is not generally valid. The passage does not discuss validity, only the definitions.
+5
+Apply to an Islamic example
+Take the sharia ruling: 'Every intoxicant is forbidden'. Using the later definition: 'Nothing that is not forbidden is an intoxicant'? Actually, 'Every intoxicant is forbidden' contraposed becomes 'Every non-forbidden is non-intoxicant' (early) or 'Nothing not forbidden is an intoxicant' (later). Check which one holds logically.
+The later definition requires quality change, so 'Every intoxicant is forbidden' (A) becomes 'No non-forbidden is intoxicant' (E).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في عكس النقيض وجه التسمية عند المتقدمين ظاهر، وأما عند المتأخرين فبالنظر إلى الجزء الثاني من الأصل (وهو) أي : عكس النقيض (عند المتقدمين عبارة عن تبديل كلّ من طرفي القضية بنقيض (الآخر) أي: جعل نقيض الثاني أولا، ونقيض الأول ثانيا، (مع بقاء الصدق والكيف بحاله، كما يقال - في) عکس نقيض (قولنا «كل إنسان حيوان: كل لا حيوان لا إنسان و عكس النقيض (عند المتأخرين عبارة عن جعل نقيض الجزء الثاني من أصل القضية (الجزء الأول ، و) جعل (عين) الجزء (الأول) من أصل القضية الجزء الثاني مع مخالفة الأصل في الكيف) أي: الإيجاب والسلب ( وموافقته) أي الأصل في الصدق، كما يقال في عكس نقيض (قولنا: «كل إنسان حيوان»: لا شيء مما ليس بحيوان بإنسان، والفرق بينهما أي: بين قولي المتقدمين والمتأخرين يعرف في (المطولات وإن أردت أن تعرفه (۱) فعليك التشمير عن ساق الجد في تحصيل هذا الفن.
+Chapter on Conversion by Contrapositive ('Aks al-Naqīḍ). The reason for naming among the ancients is apparent, but among the moderns it is with respect to the second part of the original. It (i.e., contrapositive) among the ancients is an expression for replacing each of the two terms of the proposition with the contradiction of the other, i.e., making the contradiction of the second first and the contradiction of the first second, with preservation of truth and quality as is. For example, in contrapositive of our statement 'Every man is an animal': 'Every non-animal is non-man'. And contrapositive among the moderns is an expression for making the contradiction of the second part of the original proposition the first part, and making the same first part of the original proposition the second part, with opposition to the original in quality (affirmation and negation) and agreement in truth. For example, in contrapositive of our statement 'Every man is an animal': 'Nothing that is not animal is a man'. The difference between them is known in the detailed works. If you want to know it, then you must roll up your sleeves in earnestness to master this art.
+Source pages p. 102
+
+Commentary
+This passage defines contrapositive ('aks al-naqīḍ) and contrasts two definitions: that of the earlier logicians (mutaqaddimūn) and that of the later logicians (muta'akhkhirūn). For the ancients, contrapositive involves replacing both terms with their negations while preserving quality and truth, giving an affirmative universal converse (e.g., Every non-animal is non-man). For the moderns, it involves only negating the second part (predicate) and making it the subject, while the original subject becomes the predicate, but the quality flips (affirmative becomes negative), giving a universal negative (e.g., Nothing not animal is a man). The author notes that the difference is elaborated in longer works.
+
+Key Terms
+عكس النقيض
+المتقدمون
+المتأخرون
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the later logicians (muta'akhkhirūn), what is the contrapositive of 'Every human is an animal'?
+A) Every non-animal is non-human
+B) Some animal is human
+C) Nothing that is not an animal is a human
+D) Some non-animal is not human
+
+Key Takeaway
+The definition of contrapositive shifted in the Islamic logical tradition: early logicians swapped both negated terms with no quality change, later logicians only negated the predicate and flipped the quality.
+
+How This Lesson Applies — to MY Life?
+?
+Construct the contrapositive of the proposition 'Every khamr is intoxicating' (كل خمر مسكر) using both the early and later definitions. State which definition yields the correct logical equivalence and why.
+?
+Identify which definition of contrapositive is used in the following inference: 'If every ṣalāh has purification, then whatever lacks purification is not ṣalāh'.
+
+Pages p. 102 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 102
+Module 13 · Lesson 8
+Next →
+Immediate Inference
+beginner
+5 min
+Conversion Rules for Universal Propositions
+Author explains that universal affirmatives convert as particular, negatives as universal.
+
+Learning Objective
+By the end of this lesson, you will be able to correctly apply the conversion rules for universal propositions to determine valid converses.
+
+Core Idea
+Universal affirmatives convert as particulars; universal negatives convert as universals.
+
+In this lesson, we examine the conversion ('aks) of universal propositions. The author of al-Mizan al-Kabir lays down the critical rule: a universal affirmative (like 'every A is B') does not yield a universal converse; it yields a particular. But a universal negative ('no A is B') yields a universal negative converse. This is a cornerstone of immediate inference in Islamic logic.
+
+Guided Path
+1
+Identify the type of universal proposition
+Determine whether the proposition is a universal affirmative (kulliyya mujiba) or universal negative (kulliyya saliba).
+2
+Apply the conversion rule
+For affirmative: convert to particular (juz'iyya). For negative: convert to universal (kulliyya).
+3
+Check truth preservation
+Verify that the converse is true when the original is true, as in the examples given.
+4
+Practise with examples
+Use the examples: 'every human is animal' → 'some animal is human'; 'no human is stone' → 'no stone is human'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كل أفراد العام، بل تنعكس جزئية، وكون كل ناطق إنسان» عكسا لقولنا: كل إنسان ناطق، ممنوع (كقولنا كل إنسان حيوان، فلا تنعكس كلية؛ لكذب «كل حيوان إنسان»، بخلاف السوالب (لأنها أي السوالب تنعكس سالبة كلية كقولنا: لا شيء من الإنسان بحجر) فإنه ينعكس كلية؛ لأنه يصدق لا شيء من الحجر بإنسان»)
+All individuals of the universal, rather it converts as particular. And that 'every speaker is human' as a conversion of our statement 'every human is speaker' is prevented. Like our statement 'every human is animal', so it does not convert universally because 'every animal is human' is false, unlike negatives. Because negatives, i.e., the negatives, convert as universal negative, like our statement 'no human is stone', then it converts universally because 'no stone is human' is true.
+Source pages p. 102
+
+Commentary
+This passage explains the conversion ('aks) rules for universal propositions. The author states that a universal affirmative proposition (like 'every human is animal') does not yield a universal affirmative converse ('every animal is human') because that would be false; instead, it yields a particular affirmative converse ('some animal is human'). However, a universal negative proposition (like 'no human is stone') yields a universal negative converse ('no stone is human') because the truth is preserved. The example given shows that the converse of 'every human is animal' cannot be universal due to falsity, whereas the converse of 'no human is stone' remains universal and true. This is a standard rule in logic: A converts to I, E converts to E.
+
+Key Terms
+عكس
+كلية
+جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the correct converse of 'every human is animal'?
+A) Every animal is human.
+B) No animal is human.
+C) Some animal is human.
+D) Some human is not animal.
+
+Key Takeaway
+Universal affirmatives convert as particulars; universal negatives convert as universals — a foundational rule for immediate inference in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Given the proposition 'every intoxicant is prohibited' (kulliyya mujiba), write its valid converse and explain why it cannot be universal.
+?
+Task 2: Given the proposition 'no object of worship besides Allah is worthy of worship' (kulliyya saliba), write its valid converse and verify truth preservation.
+
+Pages p. 102 · Immediate Inference
+← Prev
+Mark Done
+Next →

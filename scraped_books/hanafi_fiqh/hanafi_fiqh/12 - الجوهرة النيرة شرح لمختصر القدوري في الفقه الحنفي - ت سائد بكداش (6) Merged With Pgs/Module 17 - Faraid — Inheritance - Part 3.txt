@@ -1,0 +1,757 @@
+← Prev
+p. 471
+Module 17 · Lesson 101
+Next →
+Faraid — Inheritance
+intermediate
+6 min
+Tawafuq: Correcting the Base When Heir Group Sizes Share a Common Divisor
+Explaining tawafuq as the third case for correcting the base number.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the tawafuq rule to correct the base number when the numbers of heirs in two groups share a common divisor greater than 1.
+
+Core Idea
+When two numbers share a common factor, use the reciprocal of one and the whole of the other to find the correction multiplier.
+
+In inheritance calculations, tawafuq (agreement) occurs when the numbers of heirs in two groups share a common divisor, such as 2 for 4 and 6. The correction multiplier is found by multiplying half of one number by the whole of the other. This lesson demonstrates tawafuq with the example of four wives, one sister, and six uncles, where the numbers 4 and 6 share the divisor 2.
+
+Guided Path
+1
+Identify the heirs and their shares
+The heirs are four wives (fard 1/4), one sister (fard 1/2?), and six uncles (asabah). The text does not specify shares, but typical shares with no children: wives 1/4, sister 1/2, uncles 1/4. The base number from these shares is 4.
+The text focuses on the number of heirs, not the shares, for the tawafuq rule.
+2
+Determine the numbers of heirs with broken shares
+The wives' share is broken over 4 wives; the uncles' share is broken over 6 uncles. The sister is a single heir, so her share is not broken. The relevant numbers are 4 and 6.
+3
+Check for tawafuq: do the numbers share a common divisor greater than 1?
+4 and 6 share a common divisor of 2. They are neither equal (tamathul) nor is one a multiple of the other (tadakhul). Thus, tawafuq applies.
+The rule states: 'If one number agrees with the other, multiply the half of one by the whole of the other.'
+4
+Apply the tawafuq rule
+Take the reciprocal (half) of one number: half of 4 is 2. Multiply by the whole of the other (6): 2 × 6 = 12. This is the correction multiplier.
+Alternatively, half of 6 is 3, multiplied by 4 gives 12; same result.
+5
+Compute the corrected base
+Multiply the base (4) by the multiplier (12) to get 48. The corrected base is 48. The final shares would be: wives get 12 (3 each), sister gets 24, uncles get 12 (2 each).
+The source states: 'it becomes forty-eight, and from it [the case] is corrected.'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن تساوت الأعداد : أجزأ أحدهما عن الآخر، كامرأتين، وأخوين، فاضرب الاثنين في أصل المسألة. فإن كان أحد العددين جزءاً من الآخر : أغنى الأكثر عن الأقل، كأربع نسوة، وأخوَيْن، إذا ضَرَبْتَ الأربعة : أجزاك عن الأخوين. وإن وافق أحدُ العددَيْن الآخرَ : ضَرَبْتَ وَفْقَ أحدهما في جميع الآخر، ثم ما اجتمع : في أصل المسألة. * قوله: (فإن تساوت الأعداد أجزأ أحدهما عن الآخر، كامرأتين وأخوين، فاضرب اثنين في أصل المسألة). وهذا يُسمى المتماثل، فأصلها من أربعة للزوجتين: الربع سهم منكسر عليهما، وللأخوين ما بقي وهو ثلاثة منكسر أيضاً، وأحد العددين يُغنيك عن الآخر، فاضرِب اثنين في أربعة يكون ثمانية: للزوجتين سهمان، وللأخوين ستة. قوله: (وإن كان أحد العددين جزءاً من الآخر: أجزأ الأكثر عن الأقل، كأربع نسوة وأخوين : إذا ضربت الأربعة: أجزاك عن عدد الأخوين). وهذا يسمى المتداخل فنقول : أصلُ المسألة من أربعة للزوجات: سهم منكسر عليهن وللأخوين ثلاثةٌ منكسرة أيضاً، فاستغن بضرب الأربعة؛ لأن الاثنين يدخلان فيها، فاضرِب الأربعة في أربعة : فتكون ستة عشر للزوجات: أربعة، وللأخوين اثنا عشر. قوله: (فإن وافق أحد العددين الآخر: ضربت وَفْقَ أحدهما في جميع الآخر، فما اجتمع فاضربه في أصل المسألة. كأربع نسوة، وأختِ، وستة أعمام : فالستة توافق الأربعة بالنصف، فاضرب نصف أحدهما في جميع الآخر، ثم ما اجتمع في أصل المسألة : يكون ثمانية وأربعين، ومنها تصح.
+If the numbers are equal: one suffices for the other, like two wives and two brothers, so multiply two by the base of the case. If one number is a part of the other: the greater suffices for the lesser, like four women and two brothers, if you multiply four, it suffices for the brothers. If one number agrees (is compatible) with the other: multiply the half of one by the whole of the other, then what results [is multiplied] by the base of the case. * His statement: (If the numbers are equal one suffices for the other, like two wives and two brothers, so multiply two by the base of the case). This is called mutamathil. Its base is four: for the two wives a quarter, a share broken over them, and for the two brothers the remainder which is three also broken, and one of the numbers suffices you from the other, so multiply two by four, it becomes eight: for the two wives two shares, and for the two brothers six. His statement: (If one number is a part of the other: the greater suffices for the lesser, like four women and two brothers: if you multiply four, it suffices from the number of brothers). This is called mutadakhil, so we say: the base of the case is four: for the wives a share broken over them and for the brothers three broken as well, so you dispense with multiplying four because the two are included in it, so multiply four by four: it becomes sixteen: for the wives four, and for the brothers twelve. His statement: (If one number agrees with the other: multiply the half of one by the whole of the other, then what results multiply by the base of the case. Like four women, a sister, and six uncles: the six agrees with the four by half, so multiply half of one by the whole of the other, then what results [by] the base of the case: it becomes forty-eight, and from it [the case] is corrected.)
+Source pages p. 471
+
+Commentary
+This passage is a ruling statement explaining three mathematical rules for correcting the base number (tas'hih al-mas'alah) when the shares of multiple heirs do not divide evenly. These rules apply when there are multiple heirs in the same category (e.g., multiple wives or multiple brothers) and the number of heirs does not divide evenly into the share. The commentator expands on each case with examples. First, tamathul (equality): when the numbers of two groups of heirs are equal, such as two wives and two brothers, one number suffices for the other; the base is multiplied by that number. Second, tadakhul (inclusion): when one number is a multiple of the other, like four wives and two brothers, the larger number suffices, so multiply the base by four. Third, tawafuq (agreement): when the numbers share a common factor, like four wives and six uncles, use the reciprocal of one number multiplied by the other. All examples follow the standard Hanafi method of inheritance calculation.
+
+Key Terms
+المتماثل (al-mutamāthil): Two numbers that are equal.
+المتداخل (al-mutadākhil): One number is a part (divisor) of the other.
+المتوافق (al-mutawāfiq): Two numbers share a common divisor greater than 1.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the tawafuq example, what is the correction multiplier?
+A) 4
+B) 6
+C) 12
+D) 48
+
+Key Takeaway
+Tawafuq requires the use of the common factor to correct the base.
+
+Pages p. 471 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 472
+Module 17 · Lesson 102
+Next →
+Faraid — Inheritance
+intermediate
+10 min
+Distributing the Estate Using the Corrected Base Number
+Explaining the distribution formula after base correction.
+
+Learning Objective
+By the end of this lesson, you will be able to calculate each heir's share from the estate using the corrected base number and the distribution formula: multiply shares by estate and divide by the corrected base.
+
+Core Idea
+The corrected base gives proportional shares; actual distribution requires multiplication by estate and division by the base.
+
+After correcting the base number in a faraid case (tasḥīḥ al-masʾalah), you obtain integer shares for each heir. But these are only proportions relative to the whole. To convert them into actual amounts from the estate, you use a straightforward formula: multiply each heir's share count by the total estate value, then divide by the corrected base number. This lesson walks through the formula and its application using a classic example.
+
+Guided Path
+1
+Identify the corrected base and each heir's shares
+From the correction step, you have a base number (e.g., 48) and the number of shares assigned to each heir (e.g., wives 12, sister 24, uncles 12). Understand that these are the numerators over the base denominator.
+The base is the total parts.
+2
+Set up the distribution formula
+The rule: multiply each heir's share count by the total estate amount, then divide by the corrected base number. This yields that heir's portion.
+Formula: (Heir's shares ÷ Base) × Estate = Heir's share.
+3
+Apply to the example
+Take the given example: base = 48, wives shares = 12, sister shares = 24, uncles shares = 12. If the estate is 240 dirhams, calculate each share: wives = (12/48)×240 = 60, sister = (24/48)×240 = 120, uncles = (12/48)×240 = 60.
+Verify that the sum matches the estate: 60+120+60=240.
+4
+Understand the significance of tashih
+The correction (tashih) ensures the shares are integers, allowing clean multiplication without fractions. Without correction, you would have fractional shares for some heirs.
+Tashih is essential for practical distribution.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإذا صحت المسألةُ : فاضرب سهام كلِّ وارث في التركة ، ثم اقسم ما اجتمع على ما صحت منه الفريضة، يخرج حق ذلك الوارث . * قوله: (فإذا صحت المسألة : فاضرِب سهام كل وارث في التركة، ثم اقسم ما اجتمع على ما صحت منه الفريضة: يخرج حق ذلك الوارث). لأنك تقول: أصل المسألة من أربعة للزوجات الربع، وللأخت النصف، وللأعمام: سهم منكسر عليهم، وهو ستة، فاضرب نصف عدد الزوجات في عدد الأعمام يكون اثني عشر، ثم في الفريضة: تكون ثمانية وأربعين للزوجات الربع اثنا عشر، وللأخت أربعة وعشرون، وللأعمام: اثنا عشر.
+When the case is corrected: multiply the shares of each heir by the estate, then divide what results by what the inheritance was corrected from; the right of that heir emerges. * His statement: (When the case is corrected: multiply the shares of each heir by the estate, then divide what results by what the inheritance was corrected from; the right of that heir emerges). Because you say: The base of the case is four: for the wives a quarter, for the sister a half, and for the uncles a share broken over them, which is six. So multiply half the number of wives by the number of uncles, it becomes twelve, then by the inheritance: it becomes forty-eight: for the wives a quarter twelve, for the sister twenty-four, and for the uncles twelve.
+Source pages p. 472
+
+Commentary
+This passage is a ruling statement providing the formula for distributing the actual estate after the base number has been corrected. The commentator explains that once you have the corrected base (mas'alah sahihah), you multiply each heir's assigned shares (from the correction) by the total estate value, then divide by the corrected base number. He illustrates with an example: four wives, a sister, and six uncles. The correction earlier gave a base of 48. The wives' share (1/4) becomes 12, the sister's (1/2) becomes 24, and the uncles' (remainder) 6 shares become 12. To distribute a monetary estate, you would multiply each heir's share count (e.g., 12 for wives) by the estate amount and divide by 48.
+
+Key Terms
+صحت المسألة (ṣaḥḥat al-masʾalah): The case is corrected, meaning the base number has been adjusted so that all shares are integers.
+
+Key Terms from Source Passage
+
+Checkpoint
+If the corrected base is 48 and the estate is 240 dirhams, what is the share of the sister?
+A) 60 dirhams
+B) 120 dirhams
+C) 240 dirhams
+D) 12 dirhams
+
+Key Takeaway
+To distribute an estate after correction, multiply each heir's assigned shares by the total estate and divide by the corrected base number.
+
+Pages p. 472 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 472
+Module 17 · Lesson 103
+Next →
+Faraid — Inheritance
+intermediate
+10 min
+Tashih of the Estate Base: Correcting Fractional Shares
+Explaining tashih with an example and general rule.
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the corrected base (al-asl al-musahhah) of an estate when the shares of a group of heirs are not divisible among their numbers, using the Hanafi method of multiplying half of one group's count by the whole of the other.
+
+Core Idea
+When a share cannot be divided among the heirs of that category, multiply half of one group by the whole of the other to correct the estate base.
+
+In inheritance calculations, after assigning the original base (asl), we sometimes find that the allocated share for a group of heirs—like six paternal uncles—is a single unit that cannot be split evenly among them. This situation is called 'inksar al-siham' (fractional shares). The Hanafi school solves this by adjusting (tas-hih) the base number, ensuring all shares become integers while preserving the proportional rights of each heir. This lesson walks through the classic example of four wives, a sister, and six uncles.
+
+Guided Path
+1
+Identify the heirs and their shares
+List the heirs and determine their Quranic or residuary shares. In this example: wives get 1/4, sister gets 1/2, uncles get the residue (1/4).
+Ensure you know which shares are Quranic (fard) and which are residuary (asabah).
+2
+Set the original base (asl)
+Find the least common multiple (LCM) of the share denominators. For 1/4 and 1/2, the LCM is 4. This becomes the original base.
+The base must be a number from which all Quranic shares can be taken as whole numbers.
+3
+Identify the broken share (inksar al-siham)
+After computing shares from the base, check if any share is not divisible by the number of heirs receiving it. Here, uncles' share is 1 (from base 4, residue 1/4 = 1), but there are 6 uncles, so 1 is not divisible by 6.
+This is the condition that triggers tashih.
+4
+Apply the tashih multiplier
+Find the common factor between the number of wives (4) and the number of uncles (6). They share a factor of 2 (half). Multiply half of one by the whole of the other: (4/2)*6 = 12 or (6/2)*4 = 12. This is the correction multiplier.
+The rule: multiply half of one group's count by the full count of the other group when they share a common factor.
+5
+Compute the new base and distribute
+Multiply the original base (4) by the multiplier (12) to get the corrected base (48). Then multiply each heir's share from the original base by the multiplier: wives 1×12=12, sister 2×12=24, uncles 1×12=12. Divide each group's total by their number: each wife gets 12/4=3, each uncle gets 12/6=2. The sister gets the full 24.
+The corrected base preserves the original proportions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كأربع نسوة وأخت وستة أعمام : فالستة توافق الأربعة بالنصف، فاضرب نصف أحدهما في جميع الآخر، ثم ما اجتمع في أصل المسألة : يكون ثمانية وأربعين، ومنها تصح. * قوله: (فإذا صحت المسألة : فاضرِب سهام كل وارث في التركة، ثم اقسم ما اجتمع على ما صحت منه الفريضة: يخرج حق ذلك الوارث). لأنك تقول: أصل المسألة من أربعة للزوجات الربع، وللأخت النصف، وللأعمام: سهم منكسر عليهم، وهو ستة، فاضرب نصف عدد الزوجات في عدد الأعمام يكون اثني عشر، ثم في الفريضة: تكون ثمانية وأربعين للزوجات الربع اثنا عشر، وللأخت أربعة وعشرون، وللأعمام: اثنا عشر.
+Like four wives, a sister, and six paternal uncles: the six coincides with the four by half, so multiply half of one by the whole of the other, then what results is added to the base of the case: it becomes forty-eight, and from it the distribution is sound. * His saying: 'When the case is corrected, multiply the shares of each heir by the estate, then divide the sum by what the estate was corrected from, the share of that heir emerges.' Because you say: the base of the case is four: for the wives the quarter, for the sister the half, and for the uncles a share that is broken upon them, which is six. So multiply half the number of wives by the number of uncles, it becomes twelve, then by the base: it becomes forty-eight. For the wives the quarter is twelve, for the sister twenty-four, and for the uncles twelve.
+Source pages p. 472
+
+Commentary
+This passage explains the correction (tashih) of the estate base when the shares of heirs do not divide evenly among their numbers. The example: four wives (1/4), one sister (1/2), and six paternal uncles (residue 1/4). Since the uncles' share of 1/4 of the base (which is 4) equals 1, and 1 cannot be divided among 6 uncles, correction is needed. The rule: find a common factor between the number of wives (4) and the number of uncles (6). They share a factor of 2 (half). Multiply half of one by the whole of the other: 2 (half of 4) × 6 = 12; or 3 (half of 6) × 4 = 12. Then multiply that product (12) by the original base (4) to get the corrected base of 48. From this, shares are: wives 12, sister 24, uncles 12 (each uncle 2). The commentary also gives the general method: after correction, multiply each heir's share by the total estate and divide by the corrected base to find the actual portion.
+
+Key Terms
+التصحيح (al-tashih): The process of adjusting the base number of the estate to avoid fractional shares for heirs of the same category
+انكسار السهام (inksar al-siham): The situation where the share allocated to a group of heirs is not divisible by their number, requiring correction
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example with four wives, one sister, and six uncles, what is the corrected base number after tashih?
+A) 4
+B) 12
+C) 48
+D) 24
+
+Key Takeaway
+Tashih corrects the estate base when a share cannot be divided equally among the heirs of that category, using a multiplier derived from the heir counts.
+
+Pages p. 472 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 472
+Module 17 · Lesson 104
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Calculating Munasakhat: Successive Deaths Before Distribution
+Explaining the ruling on successive deaths before distribution with a worked example
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the final distribution of an estate where an heir dies before distribution, including tashih (correction) and base multiplication.
+
+Core Idea
+Munasakhat combines two inheritance calculations by multiplying corrected bases when an heir dies before distribution.
+
+When an heir dies before the first estate is distributed, their share becomes a separate estate. The Hanafi method resolves this by first solving the original estate, then handling the second death. This lesson walks through a classic example from the Hanafi manuals.
+
+Guided Path
+1
+Identify the two deaths and their heirs
+First death: a man leaves a wife, a full sister, and four paternal uncles. Second death: one of the uncles dies before distribution, leaving his three brothers as his only heirs.
+The second deceased heir must have heirs of his own.
+2
+Solve the first estate and correct for indivisible shares
+The first estate has a base of 4 (for the wife's 1/4, sister's 1/2, and residue for uncles). The uncles' share is 1, which cannot be divided among 4 uncles, so we multiply the base by 4 to get 16. New shares: wife=4, sister=8, uncles=4 (each 1).
+This is the first tashih.
+3
+Identify the share of the deceased uncle and his heirs
+The deceased uncle's share from the first estate is 1 (in the 16 base). His heirs are his 3 brothers, so his own base is 3 (number of his heirs). His share 1 is not divisible by 3.
+The second estate base equals the number of his heirs, not a fractional share.
+4
+Combine the two bases by multiplication
+Since the first corrected base (16) and the second base (3) have no common factor, we multiply them: 16 × 3 = 48. This is the final universal base.
+If there were a common factor, we would reduce before multiplying.
+5
+Calculate final shares
+The wife's share (4 from first) multiplied by 3 = 12. The sister's share (8) multiplied by 3 = 24. The remaining 12 goes to the three surviving uncles, each 4. The deceased uncle's share is absorbed.
+Check that the total adds up to 48.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+* قوله: (وإذا لم تُقسم التركة حتى مات أحد الورثة: فإن كان نصيبه من الميت الأول ينقسم على عدد ورثته فاقسمه، فقد صحت المسألتان مما صحت منه الأولى. وإن لم ينقسم : صححت فريضة الميت الثاني بالطريقة التي ذكرناها، ثم ضَرَبْتَ إحدى المسألتين في الأخرى إن لم يكن بين سهام الميت الثاني وما صحت منه فريضته موافقة . كزوجة وأخت لأب وأم وأربعة أعمام ، ثم لم تُقسم التركة حتى مات أحد الأعمام، وليس له وارث سوى إخوته : فإن المسألة الأولى من أربعة: للزوجة: سهم، وللأخت سهمان وللأعمام سهم منكسر عليهم، فاضرب أربعة في أربعة : يكون ستة عشر: للزوجة: أربعة، وللأخت: ثمانية، وللأعمام: أربعة، لكل واحد سهم. مات أحدهم، وخلف إخوته الثلاثة، وبيده سهم لا ينقسم على ورثته، فاضرب مسألته، وهي ثلاثة في ستة عشر: يكون ثمانية وأربعين، ومنها تصح للزوجة أربعة في ثلاثة : يكون اثني عشر، وهو ربع الجميع، وللأخت : ثمانية في ثلاثة : يكون أربعة وعشرين، وهو النصف، يبقى اثنا عشر بين بقية الورثة، لكل واحد أربعة.
+His saying: (And if the estate is not distributed until one of the heirs dies: then if his portion from the first deceased is divisible by the number of his own heirs, divide it, and both cases are sound from what the first was made sound from. And if it is not divisible, correct the estate of the second deceased by the method we mentioned, then multiply one of the two bases by the other if the shares of the second deceased and his corrected base do not have a common factor.) For example, a wife, a full sister, and four paternal uncles, then the estate is not distributed until one of the uncles dies, leaving no other heirs except his brothers. Then the first case is from four: for the wife one share, for the sister two shares, and for the uncles a share broken upon them. Multiply four by four: it becomes sixteen. For the wife four, for the sister eight, and for the uncles four, each one share. One of them dies, leaving his three brothers, and he has one share that is not divisible among his heirs. So multiply his base, which is three, by sixteen: it becomes forty-eight. From it the distribution is sound: for the wife four times three = twelve, which is a quarter of the total; for the sister eight times three = twenty-four, which is half; remaining twelve among the rest of the heirs, each one four.
+Source pages p. 472
+
+Commentary
+This passage explains the ruling on munasakhat, which occurs when an heir dies after the first deceased but before the estate is distributed. The share of the deceased heir becomes his own estate, and we must calculate anew. The rule: if the share of the first deceased heir is evenly divisible among his own heirs, we simply divide it and both cases are solved. If not, we perform a new correction for the second deceased and then multiply the two base numbers together to get a combined base. The example: a wife, a full sister, and four paternal uncles. The first base is 4 (for the wife's quarter). The uncles' share is 1/4, but there are 4 uncles, so the share 1 is broken over 4. To correct, multiply base (4) by number of uncles (4) to get 16. Then one uncle dies leaving his 3 brothers. His share is 1, which is not divisible by 3. So we correct the second base: the second deceased has 3 heirs, so his base is 3. Since there is no common factor between the first base (16) and the second base (3), we simply multiply: 16×3=48. Then adjust: the wife's share from first (4) times 3 =12, the sister's share (8) times 3=24, and the remaining 12 for the three uncles, 4 each. This method ensures all heirs receive their proper portions.
+
+Key Terms
+المناسخات (al-munasakhat): A situation in inheritance where an heir dies before the estate of the first deceased is distributed, requiring a recalculation combining both estates
+
+Key Terms from Source Passage
+
+Checkpoint
+In the munasakhat example with a wife, full sister, and four uncles, what is the final base number after the second death?
+A) 16
+B) 48
+C) 12
+D) 4
+
+Key Takeaway
+Munasakhat requires combining multiple estates by multiplication of bases when shares are indivisible, ensuring each heir receives an integer share.
+
+Pages p. 472 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 473
+Module 17 · Lesson 105
+Next →
+Faraid — Inheritance
+intermediate
+15 min
+Calculating Manasakhah (Successive Deaths) in Inheritance
+Expands al-Quduri's matn on manasakhah calculation methods.
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the final inheritance shares when an heir dies before distribution, applying the Hanafi method of manasakhah with both harmonious and non-harmonious cases.
+
+Core Idea
+When an heir dies before distribution, recalculate by multiplying base numbers — whole if shares don't harmonize, or common factor if they do.
+
+Manasakhah occurs when an heir passes away before the estate is distributed among the original heirs. This creates a second inheritance problem that must be integrated with the first. Al-Quduri’s matn, expanded in al-Jawhara al-Nayyira, provides a clear arithmetic procedure: if the shares of the second deceased do not divide evenly among his heirs (no harmony), you multiply the two corrected base numbers; if there is harmony, you multiply by the common factor (wafq). This lesson walks through both methods step by step.
+
+Guided Path
+1
+Identify the first set of heirs
+List all surviving heirs after the first death. Determine their shares from the original estate and find the initial base number (asl al-masalah).
+Example: wife, full sister, four paternal uncles → base 4.
+2
+Correct indivisible shares in the first problem
+If any share group (e.g., uncles) cannot divide evenly among its members, multiply the base by the number of individuals in that group to make shares whole.
+Uncles' share of 1 cannot divide among 4 → multiply base 4 by 4 → new base 16.
+3
+Handle the second death
+When an heir dies before distribution, note his share and his own heirs. Check if his share is divisible by the number of his new heirs.
+One uncle dies, leaving 3 brothers; his share 1 cannot divide by 3 → no harmony.
+4
+Choose the multiplication method
+If shares and heirs have no common divisor (no harmony), multiply the second problem's base by the corrected base of the first. If harmony exists, multiply the common factor (wafq) of the second problem's base by the first base.
+No harmony: multiply 3 × 16 = 48. Harmony: multiply wafq (e.g., 2) × 4 = 8.
+5
+Compute final shares
+Multiply each original heir's share from the first corrected problem by the factor (either the full second problem base or its wafq). Distribute the second deceased's share among his heirs.
+Wife: 4×3=12, sister: 8×3=24, remaining uncles: total 4×3=12 → each 4.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مما صحت منه الأولى. وإن لم ينقسم : صححت فريضة الميت الثاني بالطريقة التي ذكرناها، ثم ضربت إحدى المسألتين في الأخرى إن لم تكن سهام الميت الثاني توافق ما صحت منه فريضته). كزوجة وأخت لأب وأم وأربعة أعمام ، ثم لم تُقسم التركة حتى مات أحد الأعمام، وليس له وارث سوى إخوته : فإن المسألة الأولى من أربعة: للزوجة: سهم، وللأخت سهمان وللأعمام سهم منكسر عليهم، فاضرب أربعة في أربعة : يكون ستة عشر: للزوجة: أربعة، وللأخت: ثمانية، وللأعمام: أربعة، لكل واحد سهم. مات أحدهم، وخلف إخوته الثلاثة، وبيده سهم لا ينقسم على ورثته، فاضرب مسألته، وهي ثلاثة في ستة عشر: يكون ثمانية وأربعين، ومنها تصح للزوجة أربعة في ثلاثة : يكون اثني عشر، وهو ربع الجميع، وللأخت : ثمانية في ثلاثة : يكون أربعة وعشرين، وهو النصف، يبقى اثنا عشر بين بقية الورثة، لكل واحد أربعة. (۱) وفي نسخ من الجوهرة فاقسمه ، وقد صحت منه المسألة». فإن كان بينهما موافقةٌ : فاضرب وَفْقَ المسألة الثانية في الأولى، فما اجتمع : صحت منه المسألتان . وكلُّ مَن كان له شيء من المسألة الأولى : مضروب في وفق المسألة الثانية . ومَن كان له شيء من المسألة الثانية : مضروب في وفق تركة الميت الثاني. وإذا صحت مسألة المناسخة، وأردت معرفةً ما يُصيب كل واحد من حبات الدرهم : قَسَمْتَ ما صحت منه المسألة على ثمانية وأربعين، فما خَرَجَ : أخذت له من سهام كل وارث حبَّةٌ . قوله: (فإن كانت سهامُهم موافقةً : فاضرب وفق المسألة الثانية في الأولى، فما اجتمع: صحت منه المسألتان. وكل من له شيء من المسألة الأولى : مضروب في وفق المسألة الثانية، وكلٌّ مَن له شيء من المسألة لثانية : مضروب في وفق تركة الميت الثاني). مثاله: زوج وأخوان تصح من أربعة ثم مات الزوج، وخلَّف أربعة بنين: أصلها من أربعة، ويتوافقان بالأنصاف، فاضرب نصف عددهم في جميع الآخر يكون ثمانية، ومنه تصح المسألتان : للأخوين: أربعة، ولأولاد الزوج: أربعة. * قوله: (وإذا صحت مسألة المناسخة، وأردت معرفة نصيب(١) كل واحد من حبات الدرهم: قسمت ما صحت منه المسألة على ثمانية وأربعين، فما خرج أخذت له من سهام كل وارث حبة). (۱) وفي نسخ: معرفة ما يصيب كل واحد.
+From what the first [estate] was corrected from. And if it does not divide: you correct the portion of the second deceased by the method we mentioned, then you multiply one of the two problems by the other if the shares of the second deceased do not harmonize with what his portion was corrected from. Example: a wife, a full sister, and four paternal uncles; then the estate was not divided until one of the uncles died, leaving only his three brothers as heirs. Then the first problem is from four: the wife gets one share, the sister two shares, and the uncles one share, which is indivisible among them. So multiply four by four: it becomes sixteen: the wife gets four, the sister eight, and the uncles four, each one share. One of them dies, leaving his three brothers, and he has a share that does not divide among his heirs. So multiply his problem, which is three, by sixteen: it becomes forty-eight, from which it is corrected: the wife gets four times three = twelve, which is one-fourth of the total; the sister gets eight times three = twenty-four, which is one-half; twelve remains among the remaining heirs, each gets four. (1) In some copies of al-Jawhara: 'so divide it, and the problem has been corrected from it.' If there is harmony between them: multiply the factor of the second problem by the first, and the sum is what both problems are corrected from. And everyone who had something from the first problem is multiplied by the factor of the second problem. And everyone who had something from the second problem is multiplied by the factor of the estate of the second deceased. And when the problem of manasakhah is corrected, and you want to know what each one gets of the dirhams: divide what the problem was corrected from by forty-eight, and whatever comes out, you take for him from the shares of each heir a unit. His statement: 'If their shares harmonize: multiply the factor of the second problem by the first, and the sum is what both problems are corrected from. And everyone who had something from the first problem is multiplied by the factor of the second problem, and everyone who had something from the second problem is multiplied by the factor of the estate of the second deceased.' Example: a husband and two brothers: it is corrected from four, then the husband dies, leaving four sons: its origin is from four, and they harmonize by halves, so multiply half of their number by the entirety of the other: it becomes eight, from which both problems are corrected: the two brothers get four, and the husband's children get four. * His statement: 'And when the problem of manasakhah is corrected, and you want to know the share of each one of the dirhams: divide what the problem was corrected from by forty-eight, and whatever comes out, you take for him from the shares of each heir a unit.' (1) In some copies: 'knowledge of what each one gets.'
+Source pages p. 473
+
+Commentary
+This passage from al-Jawhara al-Nayyira explains the Hanafi method for handling manasakhah (successive deaths) in inheritance calculations. It is a commentary expanding on al-Quduri's text. The passage first addresses the case where the shares of the second deceased do not divide evenly among his heirs (no harmony). In such a case, you multiply the two corrected base numbers together. The example: a wife, a full sister, and four paternal uncles. The original estate's base number is 4: wife gets 1 (1/4), sister gets 2 (1/2), uncles get 1 (1/4 collectively). Since the uncles' share is indivisible among them, you multiply by 4 to get 16; each uncle gets 1 share. Then one uncle dies, leaving his three brothers as heirs. He had 1 share from the 16, which is indivisible among his 3 heirs (no harmony). So you multiply the second problem (3) by 16 to get 48. The wife's share becomes 12 (4×3), the sister's 24 (8×3), and the remaining 12 is divided among the three uncles, each getting 4. The text then covers the case of harmony: if the shares of the second deceased are divisible by the number of his heirs (e.g., 2 and 4 have a common factor of 2), you multiply the reduced factor (wafq) of the second problem by the first. Example: husband and two brothers (base 4), then husband dies leaving four sons. Since 4 sons and the husband's share (?) harmonize with the brothers' shares by halves, multiply half of 4 (i.e., 2) by the first problem? Actually, the text says: multiply half their number (i.e., half of the four sons? or half the brothers?) In the example, the two brothers get 2 each? Wait: The first problem: husband and two brothers, base 4? Actually, the husband gets 1/2? No, if heirs are husband and two brothers: husband gets 1/2 (2 shares) and brothers get the rest as asabah (2 shares, 1 each). Then husband dies leaving 4 sons. The second problem: 4 sons, base 4? Actually, if only sons, they divide equally, so base 4. The two problems harmonize because 2 (shares of brothers?) and 4 (number of sons) have a common divisor 2. So they multiply 2 (half of 4) by the first problem's base? The text says fadrib nisfa 'adadihim fi jami'i al-akhar. So multiply half of their number (i.e., half of the sons' number = 2) by the entirety of the other (the first problem's base = 4? Or maybe the other way). They get 8. Then the two brothers get 4 (each 2? Actually they say 'lil-akhawayn arba'a' meaning 4 shares total, and for the husband's children 4 shares. That works: first problem becomes 8: husband's share? But husband is dead. The final distribution: brothers get 4, sons get 4. So the base is 8. The commentary then gives a note on converting the shares to actual dirham amounts by dividing the corrected base (48 in the first example) by the number of dirhams (say, 48 dirhams) to find the fraction per dirham. The passage is a detailed procedural guide typical of classical faraid manuals.
+
+Key Terms
+مناسخة (manāsakhah): A situation where an heir dies before the distribution of the original estate, requiring a new calculation.
+موافقة (muwāfaqah): Harmony: when the shares of the second deceased are divisible by the number of his heirs without remainder, allowing use of a common factor.
+وفق (wafq): The common divisor or factor; a number that divides both the number of shares and the number of heirs.
+سهم منكسر (sahm munqasir): A share that does not divide evenly among the heirs, requiring adjustment of the base.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the first example (wife, sister, four uncles), why is the base number 48 used in the final distribution?
+A) Because the original estate had 48 dirhams
+B) Because the first base was 4, multiplied by 4 (for the uncles), then by 3 (for the deceased uncle's three brothers)
+C) Because the sister got 24 shares, leaving 24 for others
+D) Because the wife's share is 12, which is one-fourth of 48
+
+Key Takeaway
+Manasakhah ensures fair reallocation of inheritance after a subsequent death before final division, using arithmetic rules based on whether shares harmonize.
+
+Pages p. 473 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 474
+Module 17 · Lesson 106
+Next →
+Faraid — Inheritance
+intermediate
+6 min
+Rule of Muwafaqa in Munasakha: Combining Compatible Bases
+Explains the procedural rule for munasakha when bases have a common factor.
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the unified base in a munasakha case when the two bases have a common factor (muwafaqa).
+
+Core Idea
+When bases are compatible, take concord of second base and multiply by first to unify.
+
+This passage from al-Jawhara al-Nayyira explains the procedure for handling munasakha when the shares from two deaths share a common factor (muwafaqa). Instead of using incompatible numbers, you find the concord (wifq) of the second problem and multiply it by the first base. The example illustrates with a husband and two brothers first, then the husband dying and leaving four sons. Mastering this rule is essential for combining inheritance problems correctly without fractions.
+
+Guided Path
+1
+Identify the two problems
+Recognize that the first problem involves the original deceased (e.g., woman) and her heirs (husband, two brothers). The second problem arises when one of those heirs (husband) dies before distribution, leaving his own heirs (four sons).
+Always list the heirs for each death separately.
+2
+Determine the bases for each problem
+Calculate the base (asl al-mas'alah) for the first death. For the second death, the base is based on the heirs of the second deceased, considering only the estate he inherits from the first. In the example, first base = 4 (husband 2, brothers 2). Second base = 4 (four sons take all).
+In munasakha, the second deceased's estate is only what he received from the first, not any separate wealth.
+3
+Check compatibility between the two bases
+Find the greatest common divisor (GCD) of the two bases. If they share a divisor greater than 1, they are compatible (muwafaqa). In the example, both bases are 4, GCD = 2, so muwafaqa by half.
+If no common divisor, it's mubayana (incompatibility) and a different rule applies.
+4
+Apply the rule of muwafaqa
+Take the concord (wifq) of the second base. The concord is the second base divided by the GCD. For 4 with GCD 2, wifq = 2. Multiply this wifq by the first base: 2 × 4 = 8. This is the unified base.
+The wifq ensures the shares from both problems become whole numbers when multiplied.
+5
+Distribute shares using the unified base
+Heirs from the first problem: multiply their original share by the wifq of the second base (2). Heirs from the second problem: multiply the share of the second deceased from the first problem by the wifq of the second base. In the example: brothers (first) had 2, × 2 = 4; sons (second) inherit the husband's 2, × 2 = 4. Check that total shares (4+4=8) equal unified base.
+If the second deceased had separate wealth, adjust accordingly; here he only had the inheritance.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن كان بينهما موافقةٌ : فاضرب وَفْقَ المسألة الثانية في الأولى، فما اجتمع : صحت منه المسألتان . وكلُّ مَن كان له شيء من المسألة الأولى : مضروب في وفق المسألة الثانية . ومَن كان له شيء من المسألة الثانية : مضروب في وفق تركة الميت الثاني. وإذا صحت مسألة المناسخة، وأردت معرفةً ما يُصيب كل واحد من حبات الدرهم : قَسَمْتَ ما صحت منه المسألة على ثمانية وأربعين، فما خَرَجَ : أخذت له من سهام كل وارث حبَّةٌ . قوله: (فإن كانت سهامُهم موافقةً : فاضرب وفق المسألة الثانية في الأولى، فما اجتمع: صحت منه المسألتان. وكل من له شيء من المسألة الأولى : مضروب في وفق المسألة الثانية، وكلٌّ مَن له شيء من المسألة الثانية : مضروب في وفق تركة الميت الثاني). مثاله: زوج وأخوان تصح من أربعة ثم مات الزوج، وخلَّف أربعة بنين: أصلها من أربعة، ويتوافقان بالأنصاف، فاضرب نصف عددهم في جميع الآخر يكون ثمانية، ومنه تصح المسألتان : للأخوين: أربعة، ولأولاد الزوج: أربعة.
+If there is a common factor (muwafaqa) between them: multiply the concord of the second problem by the first, and the result is the corrected base for both problems. Everyone who had a share from the first problem is multiplied by the concord of the second problem. And everyone who had a share from the second problem is multiplied by the concord of the estate of the second deceased. When the munasakha problem is corrected, and you want to know the share of each person in terms of dirham coins: divide the corrected base by forty-eight, and whatever results, take that many hubbah (coins) from the shares of each heir. His saying: (If their shares have a common factor: multiply the concord of the second problem by the first, and the result is the corrected base for both problems. Everyone who had a share from the first problem is multiplied by the concord of the second problem, and everyone who had a share from the second problem is multiplied by the concord of the estate of the second deceased.) Example: A husband and two brothers, the base is four. Then the husband dies, leaving four sons. Their bases are compatible by halves. So multiply half of their number by the entire other, resulting in eight. From it both problems are corrected: for the two brothers: four, and for the sons of the husband: four.
+Source pages p. 474
+
+Commentary
+This is a faraid case from the sharh of al-Quduri. It explains the procedure for munasakha (subsequent inheritance) when the shares from two deaths have a common factor (muwafaqa). The rule: if the number of shares from the first and second problems are compatible (share a divisor), take the concord of the second problem (i.e., the divisor that makes them compatible) and multiply it by the base of the first. This yields the corrected base. Then, heirs from the first problem have their shares multiplied by that concord; heirs from the second problem have their shares multiplied by the concord of the second estate (how the second estate is divided). The example: a woman dies leaving a husband and two brothers. The base is 4 (husband takes 2, brothers take 2). Then the husband dies leaving 4 sons. The bases of the two problems are each 4, compatible by half. Multiply half of one base (2) by the whole of the other (4) to get 8. From this unified base, the brothers get 4 (their original 2 times the concord factor 2) and the sons get 4 (the husband's share 2 times the concord factor 2, since they inherit his portion). This avoids fractions. The passage also introduces the concept of dividing by 48 to find shares in terms of hubbat al-dirham (a coin unit), which is detailed in the following section.
+
+Key Terms
+موافقة (muwafaqa): Compatibility of two numbers via a common divisor (e.g., 4 and 4 are compatible by half). In faraid, it refers to the relationship between the shares or bases from two deaths in munasakha.
+وفق (waqf (or wifq)): The concord or divisor that makes two numbers compatible (e.g., half of 4 is 2). In the rule, 'wifq al-mas'alah al-thaniya' means the number that when multiplied by the first base yields a common base.
+مناسخة (munasakha): Subsequent inheritance: a case where an heir dies before the final distribution of the first estate, requiring a combined calculation for both deaths.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example of munasakha with a woman leaving a husband and two brothers, and then the husband dies leaving four sons, what is the unified base after applying the rule of muwafaqa?
+A) 4
+B) 6
+C) 8
+D) 12
+
+Key Takeaway
+When bases in munasakha share a common factor, take the concord of the second base and multiply by the first to obtain a unified base for the entire inheritance.
+
+Pages p. 474 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 474
+Module 17 · Lesson 107
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Converting Inheritance Shares to Hubbat al-Dirham
+Demonstrates how to convert shares into dirham coin units
+
+Learning Objective
+By the end of this lesson, you will be able to convert fractional inheritance shares into hubbat al-dirham by dividing the total shares by 48 and multiplying each heir's shares by the resulting factor.
+
+Core Idea
+Each share equals 2/3 hubbah when total shares are 72 and a dirham has 48 hubbah.
+
+In Hanafi faraid, after computing inheritance shares, you often need to express them in coin units for distribution. This lesson walks through a munasakha example where the combined base is 72, and demonstrates the method to convert each heir's share into hubbat al-dirham (a subunit of the dirham). The key insight is that the total shares represent a fraction of a dirham, and converting requires dividing the fixed 48 hubbah by the total shares.
+
+Guided Path
+1
+Understand the munasakha problem
+The problem involves two deaths: first deceased leaves husband, parents, and son (base 12). The son dies leaving a son, a father, two grandfathers; his estate includes 5 shares from first. Multiply bases: 6 × 12 = 72 total shares.
+The specific heir distribution is secondary; focus on the total shares.
+2
+Recall dirham subunit conversion
+One dirham equals 48 hubbah. The total estate in dirhams is total shares divided by 48. Here, total shares 72 represent 1.5 dirhams.
+3
+Compute value per share in hubbah
+Divide the fixed 48 hubbah by total shares: 48 / 72 = 2/3 hubbah per share.
+4
+Convert each heir's shares
+Multiply each heir's share count by 2/3 to get hubbah. For example, father's 12 shares yield 12 × 2/3 = 8 hubbah.
+5
+Express in standard coin subunits
+Use known conversions: 1 daniq = 8 hubbah, 1 tassuj = 2 hubbah, etc. For father: 8 hubbah = 1 daniq. For mother: 17 shares = 11.33 hubbah = 1 daniq + 3.33 hubbah.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: (وإذا صحت مسألة المناسخة، وأردت معرفة نصيب(١) كل واحد من حبات الدرهم: قسمت ما صحت منه المسألة على ثمانية وأربعين، فما خرج أخذت له من سهام كل وارث حبة). صورته : زوج وأبوان وابن من اثني عشر، ثم مات الابن، وخلف ابناً وأباً وجداً وجداً، وهم الذين خلفهم الميت الأول، وبيده خمسة من اثني عشر، وأصل فريضته من ستة ، فاضرب الثانية في الأولى: يكون اثنين وسبعين: للأب في الأولى: اثنا عشر، وليس له في الثانية شيء؛ لأنه أبو أم، وللأم: سبعة عشر، وللزوج في المسألتين، وهو الأب في الثانية: ثلاثة وعشرون، وللابن في الثانية: عشرون. فاقسم سهام المسألة على حبات الدرهم، وهي ثمانية وأربعون يخرج نصف السهام: ستة وثلاثون يقابل ذلك نصف الدرهم، وهو أربعةُ وعشرون، وثلث السهام أربعة وعشرون يقابلها ثلث الدرهم، وهو ستة عشر، كل سهم ثلثا حبة وللثلاثة الأسهم : حبتان، والربع: ثمانية عشر، والدانق: اثنا عشر، والثمن : تسعة، والقيراط: ستة أسهم، والطُّسُوج، وهو نصف القيراط، وهو حبتان، ثلاثة أسهم، والحبة: سهم ونصف، ولكل سهم: ثلثا حبة. وقد علمت أن للأب اثنا عشر سهماً، وذلك دانق، وللأم سبعة عشر، وذلك دانق وثلاث حبات وثلث حبة؛ لأن الدانق اثنا عشر، بقي خمسة، قابلها بثلثيها كما قابلت ستة وثلاثين بأربعة وعشرين، وقابلت شيأ أربعة وعشرين بستة عشر، فيقابل كل بثلثيه، فإن قابلت خمسةً بثلثيها : كان ثلثاها : ثلاثة وثلثاً، كما ذكر.
+His saying: (When the munasakha problem is corrected, and you want to know the share of each person in terms of dirham coins: divide the corrected base by forty-eight, and whatever results, take that many hubbah from the shares of each heir.) Its form: A husband, two parents, and a son from twelve. Then the son dies, leaving a son, a father, and a grandfather and a grandfather, and they are the same as those left by the first deceased except one, and he has five out of twelve, and the base of his estate is six. So multiply the second by the first: becomes seventy-two. For the father in the first: twelve, and he has nothing in the second because he is the maternal grandfather. For the mother: seventeen. For the husband in both problems, who is the father in the second: twenty-three. For the son in the second: twenty. Then divide the shares of the problem by the dirham coins, which are forty-eight. That yields: half of the shares is thirty-six, corresponding to half a dirham, which is twenty-four; and one-third of the shares is twenty-four, corresponding to one-third of a dirham, which is sixteen. Each share is two-thirds of a hubbah. For three shares: two hubbahs. The quarter: eighteen. The daniq: twelve. The eighth: nine. The qirat: six shares. The tassuj, which is half a qirat, is two hubbahs: three shares. The hubbah: one and a half shares. And each share is two-thirds of a hubbah. You have already learned that the father has twelve shares, which is a daniq; the mother has seventeen, which is a daniq and three hubbahs and one-third of a hubbah; because the daniq is twelve, there remain five. Compare them to their two-thirds as you compared thirty-six to twenty-four, and you compared something twenty-four to sixteen, so each is compared to its two-thirds. If you compare five to its two-thirds, its two-thirds would be three and one-third, as mentioned.
+Source pages p. 474
+
+Commentary
+This passage details a munasakha (subsequent inheritance) case and then shows how to convert the shares into hubbat al-dirham (a coin unit). The initial problem: a first deceased (the grandfather?) leaves a husband, two parents, and a son. The base is 12. Then the son dies, leaving a son and a father (who is also the husband from the first?) and a grandfather (the father of the first deceased?). Actually the text says: 'زوج وأبوان وابن من اثني عشر' meaning the first deceased (the grandfather? No, the one who died first leaves a husband, parents, and a son. But then it says the son dies leaving a son, a father, and a grandfather and a grandfather (probably a paternal and maternal grandfather). The text says 'وبيده خمسة من اثني عشر' meaning the son (the second deceased) has 5 out of the 12 from the first estate. The base for the second estate is 6. Then they multiply the second base by the first base: 6 × 12 = 72. The shares: from the first, the father gets 12, but he is the maternal grandfather in the second? Actually 'لأب في الأولى: اثنا عشر، وليس له في الثانية شيء؛ لأنه أبو أم' meaning the father from the first (the paternal grandfather of the son?) is actually the maternal grandfather in the second? This is complex. Then the mother gets 17, the husband (who is the father in the second?) gets 23, and the son in the second (the grandson of the first?) gets 20. Total shares 12+17+23+20=72. Then to convert to hubbat al-dirham, divide the total shares (72) by 48 (the number of hubbah in a dirham? Actually the dirham is divided into 48 hubbah). So 72/48 = 1.5. This means each share is 2/3 of a hubbah (since 1.5 = 3/2, so 1 share = 48/72 = 2/3 hubbah). The passage then lists corresponding fractions: half of shares (36) corresponds to half a dirham (24 hubbah? Actually half a dirham is 24 hubbah, because 48/2=24). One-third of shares (24) corresponds to one-third dirham (16 hubbah). Then it converts each heir's shares to hubbah: father 12 shares = 12 × 2/3 = 8 hubbah, which is 2/3 of a daniq? Actually it says 'دانق' which is 12 shares? The daniq is 1/6 of a dirham, which is 8 hubbah. So father's 12 shares is a daniq (8 hubbah). Mother: 17 shares = 17 × 2/3 = 11 1/3 hubbah, which is a daniq (8) plus 3 1/3 hubbah. The explanation clarifies the proportionality. This is a purely computational example to show the conversion method.
+
+Key Terms
+حبة الدرهم (hubbat al-dirham): A subunit of the dirham; 1 dirham = 48 hubbah. Used to express fractional shares of inheritance in terms of coin weight.
+دانق (daniq): 1/6 of a dirham, equal to 8 hubbah (since 48/6=8). Used as a common fraction in inheritance distributions.
+طسوج (tassuj): Half a qirat (1/24 of a dirham). The text notes that it is 2 hubbah, corresponding to 3 shares of the problem (since each share is 2/3 hubbah, 3 shares = 2 hubbah).
+
+Key Terms from Source Passage
+
+Checkpoint
+In the munasakha example with total shares 72, if a dirham has 48 hubbah, how many hubbah is each share worth?
+A) 1 hubbah
+B) 2/3 hubbah
+C) 1.5 hubbah
+D) 3/4 hubbah
+
+Key Takeaway
+In Hanafi faraid, to convert shares to hubbat al-dirham, divide 48 by the total shares to get the value per share, then multiply each heir's shares by that factor.
+
+Pages p. 474 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 475
+Module 17 · Lesson 108
+Next →
+Faraid — Inheritance
+advanced
+12 min
+Complex Faraid Calculation with Multiple Deaths and Dirham Subunits
+Multi-death faraid with dirham conversion
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the combined inheritance shares from two deaths by multiplying base numbers and convert those shares into dirham fractions (daniq, qirat, habbah) for distribution.
+
+Core Idea
+Inheritance from multiple deaths combines by multiplying base numbers; each share equals 2/3 of a barley grain.
+
+This passage demonstrates a practical faraid problem involving two successive deaths and the distribution of an estate in non-currency form (crops). The key challenge is to allocate shares precisely using fractional units of a dirham. By the end of this lesson, you will be able to replicate the calculation and understand the method for converting shares into daniq, qirat, and grains.
+
+Guided Path
+1
+Identify the two deaths and their heirs
+First death: husband, father, mother, son. Second death: son (the first son) leaves a son, his father (the husband), and his grandmother (the mother). List each heir for both estates.
+The father from the first death is the maternal grandfather of the second deceased, so he is excluded from the second estate.
+2
+Determine base numbers and combine
+First estate asl = 12 (from husband 1/4, father 1/6, mother 1/6, son residue). Second estate asl = 6 (father 1/6, mother? Actually the second deceased leaves father and grandmother, but the text uses 6). Multiply: 12 × 6 = 72.
+The second asl = 6 is derived from the fact that the second deceased leaves a father and a grandmother? In standard faraid, the asl for those heirs might be 6, but the text does not explain. We take the given numbers.
+3
+Assign combined shares
+From the combined base 72, the father (first) gets 12 (only from first, none from second). The mother gets 17 (12 from first + 5 from second?). The husband (father in second) gets 23 (3×6=18 from first plus? Actually the text says husband gets 23). The son's son gets 20. Sum = 72.
+The breakdown of contributions between estates is not explicit; we accept the final numbers as given.
+4
+Convert shares to dirham fractions
+Divide each share by the total shares (72) to get fraction of dirham. Each share = 2/3 of a grain (habbah) since 72 shares correspond to 48 grains. Convert shares to daniq (12 grains), qirat (6 grains), tusuj (3 grains), etc.
+The dirham is defined as 48 grains for this calculation, though standard is 48? Actually standard daniq=8 grains gives dirham=48, so consistent.
+5
+Express each heir's share in subunits
+Father: 12 shares = 1 daniq. Mother: 17 shares = 1 daniq + 3.33 grains (since 5 shares remain after 12 = 3.33 grains). Husband: 23 shares = 1/4 dirham (12 grains) + 3 grains + 1/3 grain. Son's son: 20 shares = 1/4 dirham (12 grains) + 1 grain + 1/3 grain. Total = 48 grains = 1 dirham.
+The conversion uses proportional fractions: 1/2 of shares (36) = 1/2 dirham (24 grains), 1/3 (24) = 1/3 dirham (16 grains), etc.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+حساب الفرائض
+صورته : زوج وأبوان وابن من اثني عشر، ثم مات الابن، وخلف ابناً وأباً وجداً وجداً، وهم الذين خلفهم الميت الأول، وبيده خمسة من اثني عشر، وأصل فريضته من ستة ، فاضرب الثانية في الأولى: يكون اثنين وسبعين: للأب في الأولى: اثنا عشر، وليس له في الثانية شيء؛ لأنه أبو أم، وللأم: سبعة عشر، وللزوج في المسألتين، وهو الأب في الثانية: ثلاثة وعشرون، وللابن في الثانية: عشرون.
+فاقسم سهام المسألة على حبات الدرهم، وهي ثمانية وأربعون يخرج نصف السهام: ستة وثلاثون يقابل ذلك نصف الدرهم، وهو أربعةُ وعشرون، وثلث السهام أربعة وعشرون يقابلها ثلث الدرهم، وهو ستة عشر، كل سهم ثلثا حبة وللثلاثة الأسهم : حبتان، والربع: ثمانية عشر، والدانق: اثنا عشر، والثمن : تسعة، والقيراط: ستة أسهم، والطُّسُوج، وهو نصف القيراط، وهو حبتان، ثلاثة أسهم، والحبة: سهم ونصف، ولكل سهم: ثلثا حبة. وقد علمت أن للأب اثنا عشر سهماً، وذلك دانق، وللأم سبعة عشر، وذلك دانق وثلاث حبات وثلث حبة؛ لأن الدانق اثنا عشر، بقي خمسة، قابلها بثلثيها كما قابلت ستة وثلاثين بأربعة وعشرين، وقابلت شيء أربعة وعشرين بستة عشر، فيقابل كل بثلثيه، فإن قابلت خمسةً بثلثيها : كان ثلثاها : ثلاثة وثلثاً، كما ذكر.
+وللزوج: ربع درهم وثلاث حبات وثلث حبة، ولابن الابن: ربع درهم وحبة وثلث حبة، فجميع ذلك درهم.
+وعلى حسب ذلك تقسم الغلة، ويُقسم كلُّ شيءٍ من التركة.
+ثم الدائق: سدس درهم وسدس ثمانية وأربعين، ثمانية حصتها من سهام اثنين وسبعين، اثنا عشر والطسوج حبتان، والدائق أربعة طساسيج،
+والقيراط نصف دائق.
+ويُعتبر بالقيراط نصف سدس الدرهم، وأهل العراق يسمون نصف
+سدس الدرهم: قيراطاً، وهو أربع حبات.
+وقد يقال : الدرهم ستة دوانق، والدائق ثمانية حبات.
+والمراد : حبة الشعير المتوسط التي لم تُقشر، لكن قطع من طرفيها
+ما دق وطال.
+وكل عشرة دراهم وزن سبعة مثاقيل.
+وأقرب من هذا : أن تقول صورته : زوج وأبوان وابن من اثني عشر :
+6
+للزوج : الربع، ثلاثة، وللأب السدس اثنان وللأم: السدس، اثنان، ويبقى للابن : خمسة.
+ثم مات الابن وخلف ابناً وأباً، وهو الزوج في الأولى، وجدة، وهي
+الأم في الأولى:
+Calculation of Inheritances
+Its form: A husband, two parents, and a son from twelve; then the son died, leaving a son, a father, a grandfather, and a grandfather? They are those left by the first deceased, and in his hand are five from twelve, and the origin of his estate is from six. Multiply the second [estate's origin] into the first: it becomes seventy-two. For the father in the first: twelve, and he has nothing in the second because he is the father of the mother. For the mother: seventeen. For the husband in both problems, and he is the father in the second: twenty-three. For the son in the second: twenty.
+Divide the shares of the problem by the grains of the dirham, which are forty-eight. Half the shares emerge: thirty-six, corresponding to half the dirham, which is twenty-four. One-third of the shares: twenty-four, corresponding to one-third of the dirham, which is sixteen. Each share is two-thirds of a grain. For three shares: two grains. The quarter: eighteen. The daniq: twelve. The eighth: nine. The qirat: six shares. The tusuj, which is half a qirat, and it is two grains: three shares. The grain: one and a half shares. For each share: two-thirds of a grain. You have known that for the father: twelve shares, that is a daniq. For the mother: seventeen, that is a daniq and three grains and a third of a grain, because the daniq is twelve; five remains. Compare it with its two-thirds as you compared thirty-six with twenty-four, and you compared something twenty-four with sixteen. So each is compared with its two-thirds. If you compare five with its two-thirds: it becomes three and a third, as mentioned.
+For the husband: a quarter of a dirham and three grains and a third of a grain. For the son's son: a quarter of a dirham and a grain and a third of a grain. The total of that is a dirham.
+According to that, the crop is divided, and every thing from the estate is divided.
+Then the daniq: a sixth of a dirham and a sixth of forty-eight; eight, its portion from the shares of seventy-two is twelve. The tusuj: two grains. The daniq: four tassij.
+The qirat: half a daniq.
+Consideration is with the qirat: half a sixth of the dirham. The people of Iraq call half a sixth of the dirham a qirat, and it is four grains.
+It may be said: The dirham is six daniqs, and the daniq is eight grains.
+The intended [grain] is a medium barley grain that has not been peeled, but its two ends have been cut off, removing what is thin and long.
+Every ten dirhams weigh seven mithqals.
+And closer than this: you say its form: a husband, two parents, and a son from twelve: 6. For the husband: the quarter, three. For the father: the sixth, two. For the mother: the sixth, two. And the remainder for the son: five.
+Then the son died, leaving a son and a father, who is the husband in the first, and a grandmother, who is the mother in the first:
+Source pages p. 475
+
+Commentary
+This passage is a faraid (inheritance) case demonstrating how to compute shares when there are multiple deaths and how to express those shares in terms of dirham subdivisions (daniq, qirat, habba, etc.) for practical distribution of an estate that is not in coin but in kind (crops).
+
+The scenario: First death leaves a husband, father, mother, and son. The base number (asl al-mas'alah) is 12. Shares: husband 1/4 (3), father 1/6 (2), mother 1/6 (2), son gets the residue (5). Then the son dies, leaving his own son (i.e., the grandson of the first deceased), his father (who is the husband from the first death), and his mother (who is the wife of the first deceased? Actually the text says 'grandmother' which is the mother from the first death). For the second death, the base number is 6. To combine both estates, multiply 12 * 6 = 72. Now assign shares from the combined total of 72: the father (first death) gets 12 from the first estate but nothing from the second because he is a grandfather from the mother's side? The text says 'because he is the father of the mother' (ab al-umm) meaning he is the maternal grandfather, who is excluded by the grandson's father? Actually careful: In the second death, the deceased is the son from the first death. His heirs are his own son (paternal grandson of the first couple), his father (who is the husband from the first death), and his mother (first wife? Actually the grandmother is the mother from first death). So the father of the deceased is the husband from first death, and the grandmother is the mother from first death. In the second death, the father takes a share as a father, and the grandmother takes 1/6 as a grandmother. But the text says the father from first death (now grandfather of second deceased) gets nothing from the second because he is 'ab al-umm'? This might be a misinterpretation; perhaps it means he is the father of the mother of the second deceased (i.e., maternal grandfather) and thus excluded. But the scenario given earlier says the second deceased left a father and a grandmother, so the father should inherit. The text might be corrupted. We follow the numbers: father in first gets 12, mother gets 17, husband (father in second) gets 23, son (grandson) gets 20. Total 72.
+
+The author then converts these 72 shares into dirham units. The dirham is divided into 48 habbat (grains) for this calculation. Half the shares (36) correspond to half a dirham (24 grains), one-third (24) corresponds to one-third (16 grains), etc. So each share equals 2/3 of a grain (habba). Using this conversion, the father's 12 shares equal one daniq (12 grains), the mother's 17 shares equal one daniq (12) plus 5 grains = daniq + 3 and 1/3 grains (since 5 shares * 2/3 = 3.33 grains). The husband gets 1/4 dirham (12 grains) + 3 + 1/3 grains = 15.33 grains, etc. Sum of all parts equals one dirham (48 grains).
+
+The final part defines the subunits: 1 dirham = 6 daniq, 1 daniq = 5/6? Actually from earlier: 1 daniq = 48/6? The text says 1 daniq = 12 grains? Then later says 'daniq is a sixth of a dirham and a sixth of 48 = 8'? There is confusion: the standard definition given later: dirham = 6 daniq, daniq = 8 habbat. But in this calculation, daniq is taken as 12 grains (from 48/4?). This inconsistency is noted; the author is presenting a specific method where the dirham is divided into 48 parts for ease of calculation, not the standard weight. The passage ends with a summary of the first death shares using base 6 for a simpler approach.
+
+Overall, this is a technical illustration of how to redistribute shares from multiple deaths and how to apply fractional units of a dirham for equitable distribution of non-currency assets.
+
+Key Terms
+دائق (دانق) (daniq): A unit of weight equal to 1/6 of a dirham (8 barley grains per standard, but in this calculation used as 12 shares = 8 grains).
+قيراط (qirat): Half of a daniq (1/12 of a dirham), equal to 4 barley grains in Iraqi usage.
+حبة (habbah): A single barley grain, used as a standard weight. One dirham = 48 habbah in this text, consistent with standard (6 daniq × 8 grains = 48).
+طسوج (tasuj): Half of a qirat (1/24 of a dirham), equal to 2 habbah.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the combined estate (72 shares), how many shares does the mother (from the first death) receive?
+A) 12
+B) 17
+C) 23
+D) 20
+
+Key Takeaway
+When distributing an estate from multiple deaths, multiply the base numbers to combine shares, then convert each share into a fraction of a dirham (2/3 grain) for precise division in kind.
+
+Pages p. 475 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 476
+Module 17 · Lesson 109
+Next →
+Faraid — Inheritance
+intermediate
+10 min
+Two-Generation Inheritance Calculation with Unit Conversion
+Explains inheritance calculations using dirham, daniq, qirat, habba units with a worked example
+
+Learning Objective
+By the end of this lesson, you will be able to calculate inheritance shares for two generations and convert them into weight units (dirham, daniq, habba) using the Hanafi method and verify the result.
+
+Core Idea
+Inheritance shares are fractions; actual distribution uses weight units via cross-multiplication.
+
+This passage from al-Jawhara al-Nayyira walks you through a complete faraid problem involving two deaths and multiple heirs. You will not only learn how to compute shares when one heir inherits from two estates, but also how to convert those fractional shares into tangible units like dirhams and habbas (barley grains) for actual distribution. The passage also provides an elegant verification method.
+
+Guided Path
+1
+Identify all heirs and their relationships
+Read the scenario: first deceased (woman) leaves husband, father, mother, son. Then son dies leaving his own son, his father (original husband), and his grandmother (original mother). List all unique heirs across both estates.
+The same person may inherit from both estates (e.g., the husband inherits as husband from first estate and as father from second).
+2
+Determine shares for each estate separately
+For the first estate, base = 12: husband 1/4 (3/12), father 1/6 (2/12), mother 1/6 (2/12), son residue 5/12. For the second estate, base = 6: father (1/6), grandmother (1/6), grandson residue (4/6).
+The father from first estate is the maternal grandfather of the second deceased and is excluded (hajb hirman) from second estate because there is a son (grandson) present.
+3
+Find a common base for combined shares
+Multiply the bases (12 and 6) to get 72. Convert each share from each estate to 72nds. Combine shares for heirs inheriting from both estates.
+For the husband: 3/12 = 18/72 from first, 1/6 = 12/72 from second? Wait: second estate father gets 1/6 = 12/72? Actually husband as father gets 1/6 of second estate, which is 12/72? No, 1/6 of 6? Let's recalc: second estate base=6, shares in 6ths: father 1/6, grandmother 1/6, grandson 4/6. To convert to 72nds: multiply numerator and denominator by 12 (since 6*12=72). So father gets 12/72, grandmother 12/72, grandson 48/72. But husband from first: 3/12 = 18/72. So husband total = 18/72 (as husband) + 12/72 (as father) = 30/72? But the text says husband gets 23/72. Let's check: Actually the second estate: father (the original husband) gets 1/6, but note that the second estate's base is 6, and after giving father and grandmother 1/6 each, the grandson gets the remaining 4/6. In the first estate, the son received 5/12 = 30/72. When the son dies, his estate includes that 5/12 (which is 30/72 of the total combined estate?). Wait, the text combines as: the son's share from first estate becomes the asset for the second estate. So the second estate's total is 5/12 of the first estate. Since we are combining, we need to compute properly. The text actually calculates: For the husband: from first estate 3/12 = 18/72; from second estate, as father, he gets 1/6 of 5/12 = 5/72? Because 5/12 * 1/6 = 5/72. So total = 18/72 + 5/72 = 23/72. Similarly, mother: from first 2/12 = 12/72; from second as grandmother: 1/6 of 5/12 = 5/72; total 17/72. Father (first estate only): 2/12 = 12/72. Grandson: residue from second: 4/6 of 5/12 = 20/72. So the correct calculation uses multiplication of fractions, not simple addition of 72nds. The guided path must reflect this nuance.
+4
+Convert fractional shares to habbas
+Since one dirham = 48 habbas, multiply each heir's share (in 72nds) by 48 and divide by 72 to get habbas. For example, husband: 23/72 * 48 = 23*2/3 = 46/3 = 15 1/3 habbas.
+The total habbas from all heirs should equal 48 = one dirham.
+5
+Verify using the shortcut method
+Since 48 is two-thirds of 72, subtract one-third from each share (i.e., take two-thirds) to get the habba portion. This provides a quick verification.
+Check: husband's share 23, one-third is 7 2/3, remainder 15 1/3. Matches conversion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وللزوج: ربع درهم وثلاث حبات وثلث حبة، ولابن الابن: ربع درهم وحبة وثلث حبة، فجميع ذلك درهم.
+وعلى حسب ذلك تقسم الغلة، ويُقسم كلُّ شيءٍ من التركة.
+ثم الدائق: سدس درهم وسدس ثمانية وأربعين، ثمانية حصتها من سهام اثنين وسبعين، اثنا عشر والطسوج حبتان، والدائق أربعة طساسيج،
+والقيراط نصف دائق.
+ويُعتبر بالقيراط نصف سدس الدرهم، وأهل العراق يسمون نصف
+سدس الدرهم: قيراطاً، وهو أربع حبات.
+وقد يقال : الدرهم ستة دوانق، والدائق ثمانية حبات.
+والمراد : حبة الشعير المتوسط التي لم تُقشر، لكن قطع من طرفيها
+ما دق وطال.
+وكل عشرة دراهم وزن سبعة مثاقيل.
+وأقرب من هذا : أن تقول صورته : زوج وأبوان وابن من اثني عشر :
+6
+للزوج : الربع، ثلاثة، وللأب السدس اثنان وللأم: السدس، اثنان، ويبقى للابن : خمسة.
+ثم مات الابن وخلف ابناً وأباً، وهو الزوج في الأولى، وجدة، وهي
+الأم في الأولى:
+
+فريضته من ستة، ومات يوم مات وبيده خمسة لا توافق، ولا تنقسم، فاضرب الفريضة الثانية في الأولى تكون اثنين وسبعين، ومنه تصح الأولى والثانية: للزوج من الأولى والثانية : ثلاثة وعشرون، وللأم من الأولى والثانية : سبعة عشر ، وللأب في الأولى: اثنا عشر، ولا شيء له في
+الثانية ؛ لأنه أبو أم، وللابن الهالك الثاني : عشرون، فذلك اثنان وسبعون. وقد علمت أن حبات الدرهم ثمانية وأربعون، فاضرب نصيب كل وارث في ثمانية وأربعين، واقسمه على اثنين وسبعين: تصح: للأب: ثمان حبات، وللأم أحد عشر حبة وثلث حبة وللزوج: خمسة عشر حبة وثلث حبة ولابن الابن ثلاث عشرة حبة وثلث حبة، فذلك كله ثمانية وأربعون حبة.
+وامتحانه أن تقول : التركةُ وهي ثمانية وأربعون، ثلثا الفريضة، وهي اثنان وسبعون، فتُسقط من سهام كل وارث ثلثه، فما بقي فهو نصيبه من التركة، فإن أسقطت من نصيب الزوج ـ وهو ثلاثة وعشرون ـ ثلثه، وهو سبعة وثلثان : بقي خمسة عشر وثلث، وهو نصيبه من التركة، وهكذا كل
+وارث.
+والله سبحانه وتعالى أعلم بالصواب وإليه المرجع والمآب، وصلى الله على سيدنا محمد خير خلقه، وآله وصحبه، وسلم تسليماً، كلما ذكره الذاكرون وكلَّما غَفَلَ عن ذكره الغافلون، والحمد لله رب العالمين حمداً
+دائماً أبداً.
+For the husband: a quarter of a dirham and three habbas and a third of a habba, and for the son's son: a quarter of a dirham and one habba and a third of a habba, so all of that is one dirham. According to this, the produce is divided, and everything from the estate is divided. Then the daniq: a sixth of a dirham and a sixth of forty-eight, eight its portion from the shares of seventy-two, twelve, and the tassuj is two habbas, and the daniq is four tassujis, and the qirat is half a daniq. And the qirat is considered half a sixth of the dirham, and the people of Iraq call half a sixth of a dirham a qirat, and it is four habbas. And it is said: the dirham is six daniqs, and the daniq is eight habbas. And what is meant is the medium barley grain that is not peeled, but its ends that are thin and long are cut off. And every ten dirhams weigh seven mithqals. And closer than this is: say its form: a husband, two parents, and a son from twelve: [6] for the husband: the quarter, three; for the father: the sixth, two; for the mother: the sixth, two; and remains for the son: five. Then the son died leaving a son and a father, who is the husband in the first, and a grandmother, who is the mother in the first: his obligatory portion is from six, and he died on the day he died and in his hand was five, not compatible and not divisible, so multiply the second obligatory portion by the first, it becomes seventy-two, and from it the first and second are correct: for the husband from the first and second: twenty-three; for the mother from the first and second: seventeen; for the father in the first: twelve, and nothing for him in the second, because he is the maternal grandfather; and for the son of the second deceased: twenty; that is seventy-two. And you have known that the habbas of the dirham are forty-eight, so multiply the portion of each heir by forty-eight, and divide it by seventy-two: it comes out: for the father: eight habbas; for the mother: eleven habbas and a third of a habba; for the husband: fifteen habbas and a third of a habba; for the son's son: thirteen habbas and a third of a habba; all of that is forty-eight habbas. And its verification is to say: the estate is forty-eight, two-thirds of the obligatory portion, which is seventy-two, so subtract from the shares of each heir its third; what remains is his portion from the estate. For if you subtract from the portion of the husband—which is twenty-three—its third, which is seven and two-thirds, there remains fifteen and a third, which is his portion from the estate. And so on for each heir. And Allah, the Exalted, knows best what is correct, and to Him is the return and the abode. And may Allah bless our master Muhammad, the best of His creation, and his family and companions, and grant them peace, whenever the mindful remember Him and whenever the heedless neglect His remembrance. And all praise is due to Allah, Lord of the worlds, eternal praise forever.
+Source pages p. 476
+
+Commentary
+This passage from al-Jawhara al-Nayyira is a detailed faraid (inheritance law) example demonstrating how to calculate shares using both fractional and unit measures. The author first defines the units: a dirham is 6 daniqs, each daniq is 8 habbas (barley grains), and a tassuj is 2 habbas. The qirat is half a daniq (4 habbas). These definitions are practical for distributing actual assets. Then the author presents a two-generation case: A woman dies leaving her husband, parents, and a son. The base of the estate is 12. The husband gets 1/4 (3/12), the father and mother each get 1/6 (2/12), and the son gets the residue (5/12). Next, the son dies leaving his own son, his father (the original husband), and his grandmother (the original mother). The second estate has a base of 6. The father (as father of the deceased) gets 1/6, the grandmother gets 1/6, and the grandson gets the residue. Since the shares do not divide evenly, the author combines the estates by multiplying the bases (12 and 6) to get a common base of 72. The combined shares become: husband 23/72, mother 17/72, father (from first estate only) 12/72, and grandson 20/72. Then, to express in habbas (since a dirham has 48 habbas), each share is multiplied by 48 and divided by 72. The father gets 8 habbas, mother 11 1/3, husband 15 1/3, grandson 13 1/3. Finally, a verification method is given: since 48 is two-thirds of 72, subtract one-third from each share (i.e., take two-thirds) to get the same result.
+
+Key Terms
+درهم (dirham): A unit of weight in inheritance calculation, composed of 6 daniqs or 48 habbas. Also a specific silver coin.
+دائق (dāniq): A subunit of the dirham: 1/6 of a dirham, consisting of 8 habbas.
+قيراط (qīrāṭ): Half a daniq (1/12 of a dirham), equal to 4 habbas. According to the Iraqis, it is half a sixth (i.e., 1/12) of a dirham.
+حبة (ḥabba): A single grain of medium-sized barley, unpeeled with ends cut off. It is the smallest unit of weight used in faraid calculations.
+طسوج (ṭassūj): A unit of weight equal to 2 habbas. There are 4 tassujis in a daniq.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the verification method, what operation is performed on each heir's share from the total 72 to get their portion from the actual estate of 48 habbas?
+A) Multiply by 48 and divide by 72
+B) Subtract one-third of the share
+C) Add one-third of the share
+D) Multiply by 2/3
+
+Key Takeaway
+Multi-generational inheritance requires combining estates using a common base, then converting to standard weight units for accurate distribution.
+
+Pages p. 476 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 477
+Module 17 · Lesson 110
+Next →
+Faraid — Inheritance
+advanced
+8 min
+Sequential Deaths in Inheritance: Woman and Son
+Complete faraid case with calculation and verification
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the inheritance distribution when two deaths occur in succession and verify the result using the shortcut method.
+
+Core Idea
+When a son dies before distribution, his share passes to his own heirs, and the father may be excluded as a maternal grandfather.
+
+This lesson presents a classic Hanafi faraid case where a woman dies, followed shortly by her son. The calculation requires combining two estates and adjusting shares based on the actual estate in dirham grains. The text also provides a clever verification method that leverages the fractional relationship between the base number and the actual estate. You will learn step-by-step how to compute the shares and verify your answer.
+
+Guided Path
+1
+Identify the first deceased and her heirs
+The first deceased is a woman. She is survived by her husband, mother, father, and son. Record their Qur'anic shares from the first estate (base 6).
+Woman's estate base = 6 (from husband 1/4=1.5? Actually 1/4 of 6? Standard shares: husband 1/4, mother 1/6, father 1/6 + residue, son as asabah).
+2
+Identify the second deceased and his heirs
+The son dies immediately after his mother. He is survived by his own wife? Actually in this case, his heir is his son (the woman's grandson). The father of the first deceased is excluded from the second estate because he becomes a maternal grandfather relative to the son.
+The text says 'father gets nothing from second because he is the maternal grandfather' (ab al-umm).
+3
+Determine the combined base number (asl al-mas'alah)
+Multiply the base of the first estate (6) by the base of the second estate (12) to get 72. This is the common denominator for both distributions.
+Second estate base? The text implies 12 (since 6×12=72). Standard: son's estate base typically 12 if his heirs include a son? Actually from shares: husband of first gets 23/72, etc.
+4
+Assign shares in the combined base
+From the combined base of 72: husband gets 23, mother 17, father 12 (only from first), son (second deceased) gets 20. The son's share will be transferred to his own heir (the son's son) in the final distribution.
+These numbers are given in the text.
+5
+Convert to actual estate (48 dirham grains)
+The estate is 48 dirham grains. Multiply each heir's share by 48 and divide by 72 to get actual grains. Alternatively, since 48 is 2/3 of 72, subtract 1/3 from each share in the base to get the actual distribution.
+Verification method: subtract one-third from each base share (23, 17, 12, 20) to get actual grains: 15 1/3, 11 1/3, 8, 13 1/3.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فريضته من ستة، ومات يوم مات وبيده خمسة لا توافق، ولا تنقسم، فاضرب الفريضة الثانية في الأولى تكون اثنين وسبعين، ومنه تصح الأولى والثانية: للزوج من الأولى والثانية : ثلاثة وعشرون، وللأم من الأولى والثانية : سبعة عشر ، وللأب في الأولى: اثنا عشر، ولا شيء له في الثانية ؛ لأنه أبو أم، وللابن الهالك الثاني : عشرون، فذلك اثنان وسبعون. وقد علمت أن حبات الدرهم ثمانية وأربعون، فاضرب نصيب كل وارث في ثمانية وأربعين، واقسمه على اثنين وسبعين: تصح: للأب: ثمان حبات، وللأم أحد عشر حبة وثلث حبة وللزوج: خمسة عشر حبة وثلث حبة ولابن الابن ثلاث عشرة حبة وثلث حبة، فذلك كله ثمانية وأربعون حبة. وامتحانه أن تقول : التركةُ وهي ثمانية وأربعون، ثلثا الفريضة، وهي اثنان وسبعون، فتُسقط من سهام كل وارث ثلثه، فما بقي فهو نصيبه من التركة، فإن أسقطت من نصيب الزوج ـ وهو ثلاثة وعشرون ـ ثلثه، وهو سبعة وثلثان : بقي خمسة عشر وثلث، وهو نصيبه من التركة، وهكذا كل وارث.
+His [the first deceased's] faraid is from six, and he died on the day he died having five [dirhams] that do not correspond and are not divisible. So multiply the second faraid by the first, resulting in seventy-two. From it both the first and second are valid: for the husband from the first and second: twenty-three, for the mother from the first and second: seventeen, for the father in the first: twelve, and nothing for him in the second because he is the maternal grandfather, and for the second deceased son: twenty. That totals seventy-two. You have known that the dirham's grains are forty-eight. So multiply the share of each heir by forty-eight and divide by seventy-two: it is valid: for the father: eight grains, for the mother: eleven and one-third grains, for the husband: fifteen and one-third grains, and for the son's son: thirteen and one-third grains. That all totals forty-eight grains. And its verification: you say: the estate, which is forty-eight, is two-thirds of the faraid, which is seventy-two. So subtract from the shares of each heir its one-third; what remains is his share of the estate. So if you subtract from the husband's share, which is twenty-three, its one-third, which is seven and two-thirds, there remains fifteen and one-third, which is his share of the estate. And likewise for every heir.
+Source pages p. 477
+
+Commentary
+This is a faraid case dealing with the inheritance of a woman who dies, then her son dies before distribution. The passage type is a complete faraid case with both the calculation and a verification method. The first deceased woman is survived by her husband, mother, father, and son. However, the son dies immediately after, creating a second estate that includes his share of the first. The text assumes the total estate (first + second) is 72 parts (asl al-mas'alah), and the actual dirhams are 48 grains (the estate amount). The shares are calculated: husband gets 23/72, mother 17/72, father 12/72 (only from first, nothing from second because he is maternal grandfather, but here it says 'ab' not 'jadd', so it's the father; the second deceased's share goes to his own heirs, here the son's son). The son (second deceased) gets 20/72. Then to convert to actual dirhams (48 grains), multiply each share by 48 and divide by 72. The verification method is a shortcut: since the actual estate (48) is two-thirds of the base number (72), simply subtract one-third from each share to get the actual grains. This is a practical method for quick calculation when the estate is a fraction of the base.
+
+Key Terms
+فريضة (farīḍah): The inheritance case or the base number from which shares are calculated
+حبات الدرهم (ḥabbāt al-dirham): The grains of the dirham, used as a unit of measure for the estate (48 grains per dirham), possibly representing actual money
+امتحان (imtiḥān): The verification method to check the correctness of the distribution, here using the fact that the estate is two-thirds of the base
+
+Key Terms from Source Passage
+
+Checkpoint
+In the verification method described, the actual estate (48 grains) is what fraction of the base number (72)?
+A) One-half
+B) Two-thirds
+C) Three-fourths
+D) One-third
+
+Key Takeaway
+In multiple-death inheritance, calculate the combined base, assign shares proportionally, then adjust to actual estate; the shortcut of subtracting 1/3 works only when the estate is 2/3 of the base.
+
+Pages p. 477 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →

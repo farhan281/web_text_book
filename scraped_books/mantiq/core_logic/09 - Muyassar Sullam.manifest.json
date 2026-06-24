@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:56Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/muyassar_sullam/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/09 - Muyassar Sullam",
+  "output_bytes": 2738582,
+  "output_sha256": "47916b661ebb0686cf85151f32d1ece1746e2bfc394b8e2e80db63d0df2b6b21",
+  "checks": {
+    "catalog_expected_lessons": 302,
+    "course_reported_lessons": 302,
+    "index_lessons": 302,
+    "full_lessons": 302,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 19,
+    "course_reported_modules": 19,
+    "modules": 19,
+    "course_reported_sources": 210,
+    "sources": 210
+  }
+}

@@ -1,0 +1,223 @@
+← Prev
+p. 104
+Module 8 · Lesson 51
+Next →
+The Syllogism
+intermediate
+5 min
+Fallacy of Composition Due to Ambiguous Qualifier
+Author explains the fallacy caused by ambiguity of a qualifier belonging to subject or predicate.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of ambiguous qualifier in a categorical syllogism and determine whether the qualifier belongs to the subject or predicate.
+
+Core Idea
+A single word like 'alone' can entirely change a syllogism's validity.
+
+In this lesson, we examine a classic logical fallacy: when a qualifier is ambiguous as to whether it attaches to the subject or predicate. The logicians call this 'bad consideration of predication' (سوء اعتبار الحمل). By analyzing the example 'Man alone is laughing', you will see how a single word can produce a false conclusion. This skill is crucial for evaluating arguments in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the ambiguous qualifier
+Locate the word that causes the ambiguity. In the example 'Man alone is laughing', the qualifier 'alone' can be interpreted as modifying 'man' (subject) or 'laughing' (predicate).
+2
+Interpret the qualifier as part of the subject
+Write the minor premise as 'Man alone [i.e., only man] is laughing'. Combine with the major 'Every laughing thing is an animal'. The apparent conclusion is 'Man alone is an animal' – which is false because it implies only man is an animal.
+This interpretation leads to an invalid syllogism.
+3
+Interpret the qualifier as part of the predicate
+Write the minor premise as 'Man is alone [i.e., only] laughing'. Then the major should be 'Everything that is alone laughing is an animal'. The conclusion becomes 'Man is an animal' – which is true.
+This interpretation yields a valid and true syllogism.
+4
+Recognize the fallacy as bad consideration of predication
+The error is that the minor premise is actually two propositions: an affirmative ('Man is laughing') and a negative ('Nothing else laughs'). Only the affirmative works with the major. Bundling them as one leads to a false conclusion.
+This fallacy is called 'sū' i‘tibār al-ḥaml'.
+5
+Apply the lesson to Islamic reasoning
+Consider a similar qualifier in an Islamic legal argument, like 'Only the prayer is obligatory'. The fallacy could lead to incorrect rulings if the qualifier is misassigned.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومنها: اختلاف التركيب بسبب شك، وقع بأن القيد من الموضوع أو من المحمول كقولهم: "الإنسان وحده. ضاحك، وكل ضاحك حيوان" ينتج "الإنسان وحده حيوان" والغلط إنما نشأ من توهم أن لفظة "وحده" جزء من الموضوع، ولو جعل جزء من المحمول وقيل : الإنسان" هو وحده ضاحك، وكل ما هو وحده ضاحك فهو وان الصدقت النتيجة؛ لأنها إذ ذاك الإنسان حيوان؛ فالغلط في هذا المثال بسبب سوء اعتبار الحمل. فالغلط في هذا المثال إلخ يعني أن المغالطة في هذا المثال إنما وقعت بسبب سوء اعتبار حمل الأوسط على الأصغر؛ لأن في الحقيقة الصغرى مركبة من موجبة وسالبة بسبب انضمام الوحدة إلى الإنسان؛ فالموجبة "الإنسان ضاحك"، والسالبة "لا شيء غير الإنسان ضاحكاً فالقضية الموجبة ينتج مع الكبرى نتيجة صادقة، والثانية مع الكبرى ليست على تأليف فالغلط إنما نشأ القضية الثانية. والحاصل أن الصغرى قضيتان وأخذت واحدة فوقع الغلط. وهذا الغلط يسمّى باعتبار الحدود سوء اعتبار الحمل.
+And among them: difference of composition due to doubt, occurring whether the qualifier is from the subject or from the predicate, like their saying: 'Man alone is laughing, and every laughing thing is an animal' produces 'Man alone is an animal'. The error arose from imagining that the word 'alone' is part of the subject, but if it were made part of the predicate and it was said: 'Man is alone laughing, and everything that is alone laughing is an animal' then the result would be true; because then it is 'Man is an animal'. So the fallacy in this example is due to bad consideration of predication. 'The fallacy in this example' etc. means the fallacy in this example occurred due to bad consideration of predication of the middle term upon the minor; because in reality the minor premise is composed of an affirmative and a negative due to the joining of 'alone' to man; the affirmative is 'Man is laughing', and the negative is 'Nothing other than man is laughing'. The affirmative proposition together with the major produces a true result, and the second together with the major is not a valid composition. So the error arises from the second proposition. The conclusion is that the minor premise is two propositions and one was taken, so error occurred. And this fallacy is called, with regard to the terms, bad consideration of predication.
+Source pages p. 104
+
+Commentary
+This passage describes a fallacy of composition due to ambiguity. The qualifier 'alone' (وحده) is ambiguous: it can be taken as part of the subject or part of the predicate. If interpreted as part of the subject, the conclusion 'Man alone is an animal' is false. If interpreted as part of the predicate, the conclusion becomes 'Man is an animal' which is true. The fallacy arises from bad consideration of predication (سوء اعتبار الحمل). The commentary further explains that the minor premise is actually two implicit propositions: an affirmation (Man is laughing) and a negation (Nothing else laughs). Only one of these yields a true conclusion with the major premise. Taking them together as one proposition leads to error. This fallacy is called by the logicians 'bad consideration of predication' with respect to the terms.
+
+Key Terms
+سوء اعتبار الحمل
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'Man alone is laughing, and every laughing thing is an animal', why is the conclusion 'Man alone is an animal' invalid?
+A) The middle term is not distributed
+B) The qualifier 'alone' is ambiguous between subject and predicate
+C) The major premise is false
+D) The minor premise is negative
+
+Key Takeaway
+The fallacy of ambiguous qualifier arises when a word like 'alone' can be misinterpreted as part of the subject or predicate, leading to an invalid syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a syllogism that commits the fallacy of ambiguous qualifier using the statement 'Only the prayer is obligatory'. Show two interpretations and explain which is valid.
+?
+Identify a qualifier in a real Islamic legal argument (e.g., from a fatwa about zakat on cattle) that could cause this fallacy, and explain how to resolve the ambiguity.
+
+Pages p. 104 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 104
+Module 8 · Lesson 52
+Next →
+The Syllogism
+intermediate
+5 min
+Fallacy of Major Not Being Predicated of All Middle
+Author explains the fallacy when the major premise is not universal in the first figure.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a first-figure categorical syllogism fails because the major premise is not universal, and explain why the conclusion does not follow.
+
+Core Idea
+A true major premise is not enough; it must apply to every individual of the middle term.
+
+In the first figure of the categorical syllogism, one crucial condition is that the major premise must be universal. A seemingly valid syllogism can lead to a false conclusion if this condition is violated. The present passage illustrates this with an example and explains the underlying cause.
+
+Guided Path
+1
+Identify the syllogism components
+Extract the major, minor, and middle terms from the example: 'Every human is an animal; animal is a genus; therefore every human is a genus'. The major term is 'genus', the minor is 'human', and the middle is 'animal'.
+2
+Check the major premise for universality
+The major premise is 'Animal is a genus'. Is this a universal proposition? It states a property of the essence of animal, not of every individual animal. This is what the author calls a 'natural' (tabī‘iyya) proposition, not a universal (kulliyya).
+In the first figure, the major premise must be a universal affirmative or universal negative.
+3
+Recognize the fallacy source
+Because the major premise is not universal, the predicate 'genus' does not apply to every individual of the middle term 'animal'. Hence the conclusion 'Every human is a genus' is false. The error is neglecting the condition of universality of the major premise.
+The author states: 'The cause of the fallacy is only the neglect of the universality of the major premise.'
+4
+Formulate the condition
+For a valid first-figure syllogism, the major premise must be universal. If it is only a natural proposition (about the essence), the syllogism is invalid. This condition is distinct from the truth of the premises.
+Always verify the quantifier of the major premise in first-figure syllogisms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومنها أن لا يكون الأكبر محمولا على جميع أفراد الأوسط في الكبرى، وذلك كما تقول: "كل إنسان حيوان والحيوان عام، أو جنس، أو مقول على كثيرين مختلفي الحقيقة" فينتج كل إنسان عام، أو جنس، أو مقول على كثيرين مختلفي الحقيقة"، وهو باطل قطعا. والسبب في الغلط إنما هو إهمال كلية الكبرى؛ إذ الكبرى طبعية فلا يتعدى الحكم.
+And among them: that the major term is not predicated of all individuals of the middle in the major premise, such as when you say: 'Every human is an animal, and animal is a genus, or a species, or is said of many differing in reality' so it produces 'Every human is a genus, or a species, or is said of many differing in reality', and it is absolutely false. The cause of the fallacy is only the neglect of the universality of the major premise; for the major premise is natural, so the judgment does not extend.
+Source pages p. 104
+
+Commentary
+This passage presents a fallacy where the major premise is not universal. In the first figure, the major premise must be a universal proposition. Here, the major premise 'Animal is a genus' (or 'is a species', etc.) is a statement about the essence of animal, not about every individual animal. It is a 'natural' (طبعية) proposition, not a universal one. Therefore, the conclusion 'Every human is a genus' is false. The error is neglecting the requirement that the major premise must be universal (كلية) in the first figure. The commentary (not included in the cleaned text but present in the original) emphasizes that the major is 'natural' so the judgment of the major does not extend to the individuals of the middle term.
+
+Key Terms
+كلية الكبرى
+طبعية
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the syllogism 'Every human is an animal; animal is a genus' fail to prove 'Every human is a genus'?
+A) The minor premise is particular
+B) The middle term is not distributed
+C) The major premise is not universal
+D) The conclusion is negative
+
+Key Takeaway
+In the first figure, the major premise must be universal; a natural proposition does not suffice.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the syllogism: 'Every human is mortal. Mortal is a property of bodies. Therefore every human is a property of bodies.' Explain why this syllogism is invalid using the condition taught in this lesson.
+?
+Find or construct a valid first-figure syllogism from usul al-fiqh (e.g., concerning the prohibition of riba) and verify that its major premise is universal.
+
+Pages p. 104 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 111
+Module 8 · Lesson 53
+Next →
+The Syllogism
+intermediate
+6 min
+Effect of Mixed Premises on Syllogism Classification
+Author states that a syllogism's classification follows its weakest premise.
+
+Learning Objective
+By the end of this lesson, you will be able to classify a syllogism with premises of different epistemic strengths into the appropriate logical art.
+
+Core Idea
+A syllogism takes the rank of its weakest premise.
+
+In this final passage on the five arts, the author addresses a subtle challenge: what happens when a syllogism mixes premises of different types? The answer reveals a key principle: the whole follows the weakest part. This ensures that no syllogism falls outside the fivefold classification.
+
+Guided Path
+1
+Identify the principle
+Find the author's rule: if one premise is not demonstrative, the whole syllogism is not demonstrative.
+The rule applies symmetrically to all arts.
+2
+Notice the implicit objection
+The commentator raises a concern: mixed-premise syllogisms might not fit any single art, breaking the fivefold classification.
+Why is this a problem? The arts are supposed to be exhaustive.
+3
+Understand the solution
+The composite follows the weaker premise. For example, a mix of certain (yaqini) and conjectural (maznuna) becomes rhetoric.
+The weaker premise determines the art.
+4
+Apply the rule
+Given a syllogism with one certain premise and one poetic premise, which art does it belong to? Poetics.
+5
+Reflect on exhaustiveness
+Because every mixed syllogism falls under the art of its weaker premise, the five arts remain comprehensive.
+No syllogism escapes classification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: ولا بد أن يعلم أنه إذا كان إحدى مقدمتي القياس غير برهانية، بل كانت جدلية، أو خطابية، أو شعرية، أو غيرها كان القياس أيضا غير برهاني، وكذا الكلام في القياس الجدلي ،ونظائره، وبالجملة المؤلّف من الراجح والمرجوح مرجوح. وههنا قد تم بحث الصناعات الخمس وبه تمّ مقاصد الفن بنوعيه، أعني الموصل إلى التصور والموصل إلى التصديق.
+المؤلّف من الراجح إلخ جواب سؤال مقدر. وهو أن حصر الصناعات في الخمس غير حاصر؛ فإن المركب من المختلفتين منها ليس بداخل في شيء من تلك الأقسام؛ فإن معنى كل واحد منها لا يصدق على المختلفين، فلا يندرج في واحد منها؟ حاصل الجواب : أن المركب تابع لأخس المقدمتين كما أن النتيجة تابعة له؛ إذ المركب من اليقينية والمظنونة مثلا داخل في الخطابة. وكذا المركب من المظنونة والموهومة سفسطة؛ لأن النتيجة موهومة. فبهذا الاعتبار لا يخرج من إحدى الصناعات الخمس ؛ فلا يختل الحصر.
+Section: It must be known that if one of the two premises of a syllogism is not demonstrative, but rather dialectical, rhetorical, poetic, or other, then the syllogism is also not demonstrative. The same applies to dialectical syllogism and its analogues. In summary, the composite of the strong and the weak is weak. Here the discussion of the five arts has been completed, and with it the purposes of the art in its two types, namely, that which leads to conception and that which leads to assent. 'The composite of the strong and the weak, etc.' is an answer to an implicit question: The enumeration of the five arts is not exhaustive, for the composite of two different types does not fall under any of those divisions, since the meaning of each one does not apply to two different things, so it does not enter into any one? The summary of the answer: The composite follows the weaker of the two premises, just as the conclusion follows it. For example, the composite of the certain and the conjectural falls under rhetoric. Likewise, the composite of the conjectural and the illusory is sophistry because the conclusion is illusory. Thus, in this regard, it does not exit from one of the five arts, so the enumeration is not disrupted.
+Source pages p. 111
+
+Commentary
+This passage is a logical principle followed by an objection-and-answer commentary. The author first states a general rule: if one premise of a syllogism is not demonstrative (burhani), the entire syllogism becomes non-demonstrative, taking on the category of the weaker premise (jadali, khitabi, etc.). He then concludes the discussion of the five arts (demonstration, dialectic, rhetoric, poetics, sophistry), noting that the two goals of logic—conception and assent—are now complete. The commentary that follows addresses an implicit objection: since syllogisms can mix premises of different epistemic types, such mixed syllogisms might not fit into any single art, breaking the fivefold classification. The answer is that such composites are classified according to the weaker premise. For instance, a mix of certain (yaqini) and conjectural (maznuna) becomes rhetoric; a mix of conjectural and illusory (mawhuma) becomes sophistry. Thus, the five arts remain exhaustive.
+
+Key Terms
+قياس
+برهاني
+جدلية
+خطابية
+شعرية
+صناعات خمس
+
+Key Terms from Source Passage
+
+Checkpoint
+If a syllogism has one certain premise and one conjectural premise, under which logical art does it fall?
+A) Demonstration
+B) Dialectic
+C) Rhetoric
+D) Sophistry
+
+Key Takeaway
+The epistemic status of a syllogism is determined by its weakest premise, ensuring every mixed-premise syllogism is classified within one of the five arts.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following syllogism: Premise 1: 'The Quran is the word of Allah' (certain). Premise 2: 'Every word of Allah is uncreated' (dialectical, based on scholarly consensus). Which logical art does this syllogism belong to? Explain.
+?
+Give an example of a syllogism that mixes a rhetorical premise with a sophistical premise. Under which art does it fall?
+
+Pages p. 111 · The Syllogism
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,1923 @@
+← Prev
+p. 38
+Module 9 · Lesson 1
+Next →
+Propositions
+beginner
+5 min
+What is a Proposition?
+Author defines proposition.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a given statement qualifies as a proposition (qadiyya) based on the criterion of truth-aptness.
+
+Core Idea
+A proposition is a statement that can be true or false.
+
+In logic, we start with the basic unit of argumentation: the proposition. The author defines it as a statement about which it is meaningful to ask whether it is true or false. This definition sets the foundation for everything that follows. Understanding what counts as a proposition is crucial because only propositions can serve as premises and conclusions in arguments.
+
+Guided Path
+1
+Identify the definiendum
+The term being defined is 'proposition' (al-qadiyya). Find it in the Arabic text.
+2
+Extract the defining property
+The author says it is a statement (qawl) that can be called truthful or false. This gives the genus (statement) and differentia (truth-aptness).
+3
+Apply the criterion
+Test a sentence: 'Zaid is a writer.' Can we say it is true or false? Yes, so it is a proposition.
+4
+Exclude non-propositions
+Commands, questions, exclamations are not truth-apt, so they are not propositions. For example, 'Sit down!' cannot be true or false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: (القضايا، القضية: قول يصح أن يقال لقائله إنه صادق فيه، أو كاذب فيه، وهي حملية كقولنا : زيد كاتب، وإما شرطية متصلة كقولنا: إن كانت الشمس طالعة فالنهار موجود، وإمَّا شرطية منفصلة كقولنا: العدد إما أن يكون زوجاً أو فردا). أقول: لمَّا فَرَغَ المصنف من القول الشارح شرع في القضايا المرتبة الموصلة إلى المطلوب التصديقي، وهي الحجة.
+He said: 'Propositions. A proposition is a statement concerning which it is valid to say of its speaker that he is truthful in it or false in it. It is either categorical, like our saying: Zaid is a writer; or conditional conjunctive, like our saying: If the sun is rising, then daytime exists; or conditional disjunctive, like our saying: The number is either even or odd.' I say: When the author finished from the explicative statement, he began on propositions that are ordered and lead to the desired assent, which is the proof.
+Source pages p. 38
+
+Commentary
+This passage introduces the section on propositions (al-qadaya). The author first defines a proposition (qadiyya) as a statement (qawl) that can be described as true or false. He then divides it into three types: categorical (hamliyya), which predicates something of a subject (e.g., 'Zaid is a writer'); conditional conjunctive (shartiyya muttasila), which expresses a conditional link (e.g., 'If the sun is rising, then daytime exists'); and conditional disjunctive (shartiyya munfasila), which expresses a disjunction (e.g., 'The number is either even or odd'). The commentator (a'ul) explains that after finishing the explicative statement (al-qawl al-sharih) on definitions and descriptions, the author now turns to propositions, which are the building blocks of arguments (hujja) leading to assent (tasdiq).
+
+Key Terms
+القضية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a proposition according to the author's definition?
+A) 'Come here!'
+B) 'Zaid is standing.'
+C) 'What is the time?'
+D) 'May Allah bless you.'
+
+Key Takeaway
+A proposition is any statement that can be evaluated as true or false.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following is a proposition: a) 'O Allah, forgive me.' b) 'The Quran is the word of God.' c) 'Is the world eternal?' Answer with reasoning based on truth-aptness.
+?
+Take a verse from the Quran (e.g., 'Allah is the Creator of all things') and explain why it qualifies as a proposition.
+
+Pages p. 38 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 38
+Module 9 · Lesson 2
+Next →
+Propositions
+beginner
+5 min
+The Three Types of Propositions
+Author divides propositions into three types.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given proposition as categorical, conditional conjunctive, or conditional disjunctive.
+
+Core Idea
+Propositions are either categorical (subject-predicate) or conditional (if-then or either-or).
+
+After defining what a proposition is, the author divides it into three types. This classification is essential because different types of arguments use different propositional forms. Categorical propositions make a direct assertion, while conditional propositions express a relationship between two statements. Understanding these types is the first step in analyzing syllogisms.
+
+Guided Path
+1
+Identify the three types
+The author mentions: categorical (hamliyya), conditional conjunctive (shartiyya muttasila), conditional disjunctive (shartiyya munfasila).
+2
+Analyze the categorical example
+'Zaid is a writer.' This has a subject (Zaid) and predicate (writer). It asserts a property of a subject.
+3
+Analyze the conditional conjunctive
+'If the sun is rising, then daytime exists.' This has an antecedent (sun rising) and consequent (daytime exists). It asserts that if the antecedent holds, the consequent holds.
+4
+Analyze the conditional disjunctive
+'The number is either even or odd.' This presents two alternatives and asserts that one of them is true. Usually exclusive.
+5
+Contrast the types
+Categorical propositions have one subject-predicate pair, while conditionals have two component propositions linked by a conditional or disjunctive operator.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: (القضايا، القضية: قول يصح أن يقال لقائله إنه صادق فيه، أو كاذب فيه، وهي حملية كقولنا : زيد كاتب، وإما شرطية متصلة كقولنا: إن كانت الشمس طالعة فالنهار موجود، وإمَّا شرطية منفصلة كقولنا: العدد إما أن يكون زوجاً أو فردا). أقول: لمَّا فَرَغَ المصنف من القول الشارح شرع في القضايا المرتبة الموصلة إلى المطلوب التصديقي، وهي الحجة.
+He said: 'Propositions. A proposition is a statement concerning which it is valid to say of its speaker that he is truthful in it or false in it. It is either categorical, like our saying: Zaid is a writer; or conditional conjunctive, like our saying: If the sun is rising, then daytime exists; or conditional disjunctive, like our saying: The number is either even or odd.' I say: When the author finished from the explicative statement, he began on propositions that are ordered and lead to the desired assent, which is the proof.
+Source pages p. 38
+
+Commentary
+This passage introduces the section on propositions (al-qadaya). The author first defines a proposition (qadiyya) as a statement (qawl) that can be described as true or false. He then divides it into three types: categorical (hamliyya), which predicates something of a subject (e.g., 'Zaid is a writer'); conditional conjunctive (shartiyya muttasila), which expresses a conditional link (e.g., 'If the sun is rising, then daytime exists'); and conditional disjunctive (shartiyya munfasila), which expresses a disjunction (e.g., 'The number is either even or odd'). The commentator (a'ul) explains that after finishing the explicative statement (al-qawl al-sharih) on definitions and descriptions, the author now turns to propositions, which are the building blocks of arguments (hujja) leading to assent (tasdiq).
+
+Key Terms
+حملية
+شرطية متصلة
+شرطية منفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of proposition is 'The Prophet is either a prophet or a liar'?
+A) Categorical
+B) Conditional conjunctive
+C) Conditional disjunctive
+D) None of the above
+
+Key Takeaway
+The three types of propositions are the building blocks for different forms of reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each proposition: a) 'Prayer is obligatory.' b) 'If a traveler shortens the prayer, then he is allowed.' c) 'The action is either permissible or forbidden.'
+?
+Write your own example of a conditional conjunctive proposition from Islamic jurisprudence (e.g., from fiqh rulings).
+
+Pages p. 38 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 39
+Module 9 · Lesson 3
+Next →
+Propositions
+beginner
+5 min
+The Proposition (Qadiyya): Its Definition and Essential Features
+Author defines qadiyya as a saying that admits truth and falsity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the genus and differentia in the definition of a proposition and distinguish propositions from other types of speech.
+
+Core Idea
+Every logical argument begins with a proposition; know its definition to know what can be true or false.
+
+In this passage, the author lays down the foundational definition of the proposition (qadiyya) — the building block of all logical reasoning. He gives us the genus (saying) and the differentia (admitting truth/falsity). Understanding this definition is essential because it tells us which statements can serve as premises and conclusions in arguments. Let's break down the definition step by step.
+
+Guided Path
+1
+Locate the complete definition of qadiyya in the Arabic text.
+The definition is: 'qaulun yasihhu an yuqāla li-qā’ilihi innahu sādiq fīhi aw kādhib fīhi' — a saying such that it is valid to say of its speaker that he is truthful or false in it. This is the core definition.
+Note that the definition includes the condition that the speaker can be called truthful or false with respect to that saying.
+2
+Identify the genus (jins) in the definition.
+The genus is 'qawl' (saying), which the author explains is any compound, whether verbal or mental. This genus includes all types of compound expressions, not just propositions. It is the broader category.
+Qawl is also used in other contexts, but here it specifically means a compound.
+3
+Identify the differentia (fasl) that distinguishes propositions from other compounds.
+The differentia is 'yasihhu an yuqāla li-qā’ilihi innahu sādiq fīhi aw kādhib fīhi' — the validity of attributing truth or falsity. This property is what separates propositions from commands, questions, and incomplete phrases.
+The author emphasizes that non-assertoric compounds like commands do not admit truth/falsity.
+4
+Apply the definition to distinguish between a proposition and other types of speech.
+Take examples: 'Allah is One' is a proposition because we can ask if it is true or false. 'Be just!' is a command, not a proposition, because truth/falsity does not apply. Use this test to classify statements.
+This is the practical test for identifying propositions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقضية: قول يَصِحُ أن يُقالَ لقائله: إنَّهُ صادق فيه أو كاذب فيه، وهو الذي يُسمّيه بعضهم خبراً، والقول: هو المركَّب سواء كان لفظاً مركباً كما في القضية الملفوظة، أو مُفهوماً عقلياً مركباً كما في القضية المعقولة، وهو أي "القولُ" جنس يتناول الأقوال السَّامَةَ والنَّاقصة والإنشائية، وقوله يصح أن يقال لقائله: إنَّهُ صادق فيه أو كاذب فيه: فصل. قوله ( والقضية) مأخوذة من القضاء بمعنى الحكم وإنما أخذت منه لأنها تتضمن الحكم الذي هو النسبة بين الطرفين وهي إما فعيلة بمعنى مفعولة أي مقضى فيها، أو بمعنى فاعلة أي قاضية على الإسناد المجازي، والمركب التام المحتمل للصدق والكذب يسمى قضية من حيث اشتماله على القضاء بمعنى الحكم، ويسمى خبراً من حيث احتماله للصدق والكذب، ويسمى مقدمة من حيث كونه جزءاً من الدليل، ويسمى مطلوباً من حيث كونه يطلب بالدليل، ويسمى إخباراً من حيث إفادته الحكم، ويسمى مسألة من حيث كونه يُسأل عنه، ويسمى دعوى من حيث كونه يفتقر إلى دليل، ويسمى مبحثاً من حيث كونه محلا للبحث، فاختلاف العبارات باختلاف الاعتبارات. كما أفاده المحقق السعد في حواشي التلويح، وذلك المركب إما تام إنشائي كالأمر والنهي والاستفهام وغيرها وهذه لا تحتمل الصدق والكذب، وإما ناقض توصيفي كالحيوان الناطق أو إضافي كغلام زيد أو مزجي كبعلبك. قوله (قول) يُطلق على الملفوظ تارةً، وعلى المعقول أخرى اشتراكاً أو حقيقة أو مجازاً كذا استفيد. قوله (يصح) معنى صحة القول أنه لو قيل لقائله هو صادق أو هو كاذب لم يكن خطأ في عرف اللغة وإن كان خطأ باعتبار نفس الأمر بخلاف الإنشاء.
+And the proposition: a saying such that it is valid to say of its speaker that he is truthful or false therein, and it is what some call a statement (khabar). And 'saying' (qawl) is the compound, whether it be a verbal compound as in the uttered proposition, or an intellectual concept compound as in the intelligible proposition. And 'saying' is a genus that includes complete, incomplete, and non-assertoric sayings. And his statement 'it is valid to say of its speaker that he is truthful or false therein' is the differentia. His statement (and the proposition) is derived from 'judgment' (al-qada') meaning the ruling, and it is taken from it because it includes the ruling which is the relation between the two sides. It is either a fa‘ila in the sense of maf‘ula, i.e., judged in it, or in the sense of fa‘ila, i.e., judging metaphorically. The complete compound that admits truth and falsity is called a proposition (qadiyya) due to its inclusion of judgment; it is called a statement (khabar) due to its admitting truth and falsity; it is called a premise (muqaddima) due to being part of a proof; it is called a sought (matlub) due to being sought by proof; it is called an information (ikhbar) due to its conveying a judgment; it is called a question (mas'ala) due to being asked about; it is called a claim (da'wa) due to needing evidence; it is called a topic of investigation (mabhath) due to being a place for investigation. Thus the differences in expressions are due to differences in considerations. As stated by the scholar Sa‘d in his gloss on al-Talwih. And that compound is either complete non-assertoric (insha'i) like command, prohibition, interrogation, etc., and these do not admit truth and falsity; or incomplete, like descriptive (tawsifi) such as 'rational animal', or additive (idafi) like 'Zayd's slave', or synthetic (mazji) like 'Baalbak'. His statement (qawl) is applied to the uttered sometimes and to the intelligible at other times by homonymy or as a literal or metaphorical use, as was derived. His statement (yasihhu) – the meaning of the validity of the saying is that if one said to the speaker 'he is truthful' or 'he is false', it would not be an error in linguistic custom, even if it were an error with respect to the actual state, unlike non-assertoric speech.
+Source pages p. 39
+
+Commentary
+This passage is a definition of the proposition (qadiyya). It first gives the definition: a compound saying such that it is valid to attribute truth or falsity to its speaker. The genus is 'saying' (qawl), which encompasses all compounds, whether verbal or mental. The differentia is the property of admitting truth and falsity. The author then explains why the term 'proposition' is used, and notes that it is synonymous with 'statement' (khabar) but also has other names depending on the perspective (e.g., premise, claim). The commentary clarifies that the compound can be complete or incomplete; complete non-assertoric speech (like commands) does not admit truth/falsity. The commentary also explains the derivation of the word 'qadiyya' from 'judgment' and discusses the multiple meanings of 'qawl'. This definition is crucial because it distinguishes propositions from other types of speech, and it is the foundation for logical reasoning.
+
+Key Terms
+القضية
+قول
+صادق
+كاذب
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the differentia (fasl) in the definition of a proposition?
+A) Being a compound saying
+B) The validity of attributing truth or falsity to its speaker
+C) Being a verbal or mental unit
+D) Containing a judgment
+
+Key Takeaway
+A proposition is a compound saying that can be true or false; this definition is the gateway to all logical reasoning in Islamic scholarship.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following Arabic sentences are propositions: 'السماء فوقنا' (The sky above us), 'لا تشرب الخمر' (Do not drink wine), 'هل الله موجود؟' (Is Allah existent?). Explain your reasoning based on the definition.
+?
+Using the definition of qadiyya, determine whether the following saying is a proposition: 'زيد قائم' (Zayd is standing). What about 'يا زيد' (O Zayd)? Provide justification.
+
+Pages p. 39 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 40
+Module 9 · Lesson 4
+Next →
+Propositions
+beginner
+5 min
+Classification of Propositions: Categorical vs Conditional
+Author divides propositions into categorical and conditional, then subdivides conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given proposition as categorical or conditional, and if conditional, identify whether it is conjunctive or disjunctive and whether it is affirmative or negative.
+
+Core Idea
+Every proposition is either a simple categorical or a compound conditional built from two propositions.
+
+This lesson introduces the fundamental division of propositions into categorical and conditional types. This classification is essential because the structure of a proposition determines what kind of syllogism can be built from it. In Islamic theology, for example, arguments often rely on conditional statements like 'If the world is temporally originated, then it has a Creator.' Understanding this division will help you analyze such arguments correctly.
+
+Guided Path
+1
+Check if both subject and predicate are simple terms
+Look at the proposition and ask: Are the subject (مَحكوم عليه) and predicate (مَحكوم به) each a single concept (مفرد), like 'Zayd' and 'writer'? If yes, it is categorical.
+Even if one part is a phrase, like 'Zayd's father', the commentator says it can be considered as a single unit in force.
+2
+If not simple, identify as conditional
+If the proposition connects two complete statements (e.g., 'If ... then ...' or 'Either ... or ...'), it is conditional (شرطية).
+The two parts are called المقدّم (antecedent) and التالي (consequent) for conjunctive, or the two disjuncts for disjunctive.
+3
+Distinguish conjunctive vs disjunctive
+If the conditional asserts that one proposition is true on the condition that another is true, it is conjunctive (متّصلة). If it asserts mutual exclusion (تنافي) between the propositions, it is disjunctive (منفصلة).
+Example of conjunctive: 'If the sun rises, then daytime exists.' Example of disjunctive: 'Either the number is even or odd.'
+4
+Determine affirmative or negative
+If the judgment affirms the truth of the second part (or the exclusion), it is affirmative. If it negates it, it is negative.
+E.g., 'It is not that if the sun rises then night exists' is a negative conjunctive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهي - أي القضية - تنقسم إلى قسمين: أحدهما حملية، والآخر شرطية، فإن المحكوم عليه وبه في القضية إن كانـا مـفـردين، فالقضية حملية كقولنا: زيد كاتب وإلا فشرطية، وفيه نظر، لأن المحكوم عليه وبه لا يلزم أن يكونا مفردين في الحملية، بل قد يكون أحدهما جملةً نحو زيد أبوه منطلق، والشرطية إما متّصلة وهي التي يُحكم فيها بصدق قضية، أو لا صدقها على تقدير صدق قضية أخرى، وهي موجبة: إن حكم فيها بإيجاب صدق قضية على تقدير صدق قضية أخرى كقولنا: إن كانت الشمس طالعة فالنهارُ موجود وسالبة: إن حكم فيها بسلب صدق قضية على تقدير صدق قضية أخرى كقولنا : ليس إن كانت الشمس طالعة فالليل موجود، وإما شرطية منفصلة: وهي التي يُحكم فيها بالتنافي بين القضيتين، فإن حكم فيها بالتَّنافي إيجاباً، فالقضية منفصلة موجبة كقولنا: (1) قوله يحترز به عن الأقوال الناقصة لعدم صدق حد القضية عليها فإن صدق القول مطابقة حكمه للواقع وإن لم يكن مطابقا للاعتقاد على مذهب الجمهور وهو المنصور، وكذبه عدم مطابقته الواقع عندهم أيضا، ولا حكـم فـي الإنشائيات والتقيديات والإضافيات، لأن الحكم أداءً للواقع في نفس الأمر من طرفي النسبة وهما الثبوت والوقوع في الموجبة والانتفاء واللاوقوع في السائبة. (2) قوله وفيه نظر) قد يدفع بما قاله بعض المحققين من أن المحكوم به في قولنا: زيد أبوه قائم في قوة المفرد، فكأنك قلت: زيد قائمُ الأب، فلا يخرج هذا المثال عن القضية الحملية.
+And it – i.e., the proposition – is divided into two sections: one is categorical (hamliyya) and the other is conditional (shartiyya). For if the subject and predicate in the proposition are both simple terms, then the proposition is categorical, like our saying: 'Zayd is a writer'; otherwise it is conditional. But there is a consideration (fīhi nazar), because the subject and predicate are not necessarily both simple in a categorical; indeed, one of them may be a sentence, as in 'Zayd – his father is going.' And the conditional is either conjunctive (muttasila), which is that in which it is judged that a proposition is true, or not true, on the condition that another proposition is true; and it is affirmative if it judges affirmatively the truth of a proposition on the condition of the truth of another, like our saying: 'If the sun is rising, then the daytime exists'; and negative if it judges negatively the truth of a proposition on the condition of the truth of another, like our saying: 'It is not that if the sun is rising, then the night exists.' And it is either disjunctive conditional (munfasila), which is that in which mutual exclusion (tanāfī) between the two propositions is judged. So if it judges mutual exclusion affirmatively, then the proposition is an affirmative disjunctive, like our saying: (1) His statement: 'it guards against incomplete sayings' because the definition of proposition does not apply to them, for truthfulness of a saying is its judgment's correspondence with reality even if it does not correspond to belief, according to the majority (and it is the supported view), and its falseness is its non-correspondence with reality according to them as well. And there is no judgment in non-assertoric, qualifying, and additive constructions, because judgment is a rendering of reality as it is in itself from the two sides of the relation, namely affirmation and occurrence in the affirmative, and negation and non-occurrence in the negative. (2) His statement: 'But there is a consideration' may be countered by what some investigators have said, that the predicate in our saying 'Zayd – his father is going' has the force of a simple term, so it is as if you said: 'Zayd is a father-going one'; thus this example does not exit the categorical proposition.
+Source pages p. 40
+
+Commentary
+This passage classifies propositions into two main types: categorical (hamliyya) and conditional (shartiyya). The primary criterion is whether the subject (al-mahkūm `alayhi) and predicate (al-mahkūm bihi) are both single terms (mufradayn). If so, it is categorical; otherwise it is conditional. The commentator then raises a consideration (fīhi nazar) because in examples like 'Zayd – his father is going', the predicate is a phrase, yet it is still a categorical proposition. The response is that such a phrase can be considered as a single unit in force. The author then distinguishes conjunctive conditional (muttasila) and disjunctive conditional (munfasila), each with its affirmative and negative forms. Examples are given: for conjunctive affirmative: 'If the sun is rising, then the daytime exists'; for conjunctive negative: 'It is not that if the sun is rising, then the night exists'. The disjunctive conditional is defined by mutual exclusion. The commentary also includes a note on truthfulness as correspondence to reality, and explains why incomplete or non-assertoric constructions are not propositions. This division is crucial because syllogisms are built from these types.
+
+Key Terms
+حملية
+شرطية
+متّصلة
+منفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the defining characteristic of a disjunctive conditional (shartiyya munfasila)?
+A) It judges the truth of one proposition on the condition of the truth of another.
+B) It judges mutual exclusion (tanāfī) between two propositions.
+C) It has both subject and predicate as simple terms.
+D) It is always affirmative.
+
+Key Takeaway
+The proposition is either a simple categorical or a conditional compound, and conditionals divide into conjunctive (implication) and disjunctive (mutual exclusion).
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following propositions: (a) 'The world is temporally originated.' (b) 'If the world is temporally originated, then it has a creator.' (c) 'Either the action is obligatory or it is forbidden.' For each, state whether it is categorical, conjunctive conditional, or disjunctive conditional, and if conditional, whether affirmative or negative.
+?
+Take a passage from a kalam text (e.g., al-Sanūsiyya) and identify all propositions, classifying each type. Explain why the classification matters for the argument's validity.
+
+Pages p. 40 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 41
+Module 9 · Lesson 5
+Next →
+Propositions
+beginner
+5 min
+Parts of Categorical and Conditional Propositions
+Commentator identifies the parts of categorical and conditional propositions with their names.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the subject, predicate, and assertoric relation in any categorical proposition, and the antecedent and consequent in any conditional proposition.
+
+Core Idea
+Every proposition has parts: naming them correctly is the first step to analyzing arguments.
+
+The commentator unpacks the basic anatomy of propositions. Just as a body has limbs, a proposition has components that must be recognized before we can evaluate its truth or role in a syllogism. In this passage, you will learn the technical names for these parts and understand why they are called what they are.
+
+Guided Path
+1
+Distinguish categorical from conditional
+First, look at the proposition: does it assert something directly (categorical) or connect two statements (conditional)? The commentator treats both types separately.
+Categorical: 'A is B'. Conditional: 'If A then B'.
+2
+For categorical: locate subject and predicate
+The subject (mawdu') is what is being judged about; the predicate (mahmul) is what is judged. In 'The world is created', 'the world' is subject, 'created' is predicate.
+The subject is 'placed' for judgment; the predicate is 'placed' to be predicated.
+3
+Recognize the assertoric relation
+Between subject and predicate lies the relation (nisba hukmiyya) that connects them. This relation is indispensable but often implicit.
+The commentator notes that the author omitted it but it is necessary.
+4
+For conditional: identify antecedent and consequent
+The antecedent (muqaddam) is the first part mentioned; the consequent (tali) follows. In 'If water is impure, then wudu is invalid', 'water is impure' is antecedent, 'wudu is invalid' is consequent.
+Antecedent precedes in mention, even if logically subsequent.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: (والجزء الأول من الحمليةِ يُسمَّى موضوعاً، والثاني محمولاً، والجزء الأول من الشرطية يُسمَّى مُقدَّماً، والثاني تالياً). أقول: الجزء الأول أي المحكوم عليه من القضية الحملية يُسمى موضوعاً، لأنه إنما وُضِعَ لأن يُحكم عليه بشيء، والجزء الثاني أي المحكوم به منها يُسمى محمولاً، لأنه إنما وُضِعَ لأن يُحمل على شيء، والنسبة التي يرتبط بها المحمول بالموضوع تُسمى نسبةً حكميةً، ولم يذكرُ المُصنِّفُ الجزء الأخير مع أنه لا بدَّ منه في القضية، لكونه جزءاً أخيراً منها، والجزء الأول من الشرطية يُسمَّى مُقدَّماً لتقدمه في الذكر، والجزء الثاني تالياً، لكونه تابعاً له، وهو من التلوّ بمعنى التَّبع. (1) قوله لتقدمه في الذكر طبعاً وإن تأخر وضعاً.
+He said: 'And the first part of the categorical is called subject, and the second predicate; and the first part of the conditional is called antecedent, and the second consequent.' I say: The first part, i.e., that which is judged about in the categorical proposition, is called subject because it is placed to be judged about something; and the second part, i.e., that which is judged with, is called predicate because it is placed to be predicated of something. And the relation by which the predicate is connected to the subject is called the assertoric relation. And the author did not mention the last part (the relation), although it is indispensable in the proposition, because it is a last part of it. And the first part of the conditional is called antecedent because of its precedence in mention, and the second part consequent because it follows it, and it is from 'taluww' meaning 'following'. (1) His saying: 'because of its precedence in mention' naturally, even if it is subsequent in position.
+Source pages p. 41
+
+Commentary
+This passage is a commentary that identifies the components of categorical and conditional propositions. It begins by quoting the matn: the first part of a categorical is subject (mawdu'), the second predicate (mahmul); the first part of a conditional is antecedent (muqaddam), the second consequent (tali). The commentator then explains the rationale: the subject is called such because it is 'placed' to be judged upon; the predicate is 'placed' to be predicated. He notes that the relation between them (al-nisba al-hukmiyya) is a necessary part of the proposition, but the author (al-musannif) omitted it in the quoted passage. For conditionals, the antecedent is so named because it comes first in utterance (even if logically posterior), and the consequent follows it. A footnote clarifies that 'precedence in mention' is natural order, not logical order.
+
+Key Terms
+موضوع
+محمول
+نسبة حكمية
+مقدّم
+تالي
+
+Key Terms from Source Passage
+
+Checkpoint
+In the conditional 'If a traveler prays qasr, then he has shortened the prayer', what is the consequent?
+A) The traveler
+B) He has shortened the prayer
+C) The relation between them
+D) The whole proposition
+
+Key Takeaway
+Knowing the names and roles of the parts of a proposition is the foundation for understanding how statements combine in logical reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Take the categorical proposition from Usul al-Fiqh: 'Every intoxicant is forbidden.' Identify its subject, predicate, and the relation between them.
+?
+Take the conditional from Fiqh: 'If the traveler prays qasr, then he has shortened the prayer.' Identify the antecedent and consequent.
+
+Pages p. 41 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 41
+Module 9 · Lesson 6
+Next →
+Propositions
+beginner
+5 min
+Positive and Negative Propositions
+Commentator explains the secondary division of propositions into affirmative and negative.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a proposition as positive or negative based on whether the predicate is affirmed or denied of the subject.
+
+Core Idea
+Is the predicate affirmed or denied of the subject? That determines positivity or negativity.
+
+Propositions are the basic units of logical reasoning. After the primary division into categorical and conditional, the commentator introduces a second division that applies to all propositions: positive (mujaba) and negative (saliba). This distinction hinges on the nature of the judgment – whether it asserts or negates the predicate of the subject.
+
+Guided Path
+1
+Understand the basis of division
+The division is based on the assertoric relation (al-nisba al-hukmiyya): if the relation is affirmed, the proposition is positive; if denied, negative.
+2
+Examine the examples given
+The matn gives 'Zayd is a writer' as positive and 'Zayd is not a writer' as negative. Notice the presence of 'not' (laysa) in the negative.
+3
+Recognize the generality of the division
+The footnote emphasizes that this division applies to all propositions, not just categorical ones. Even conditional propositions can be positive or negative depending on the judgment.
+Example: 'If the sun rises, then it is daytime' is positive; 'If the sun rises, then it is not night' is negative.
+4
+Apply the distinction
+When encountering any proposition, ask: is the predicate affirmed or denied of the subject? This determines its polarity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: (والقضية: إمَّا مُوجَبَةٌ ) كقولنا زيد كاتب، وإما سالبة كقولنا: زيد ليس بكاتب). أقول: القضية تنقسم ثانياً إلى موجبةٍ وسالبة، لأن تلك النسبة التي ذكرناها إن كانت حكماً بأن يُقال: الموضوع محمول، فالقضية موجبة كقولنا: زيد كاتب، وإن كانت حكماً بأن يقال: الموضوع ليس بمحمول، فالقضية سالبة كقولنا: زيد ليس بكاتب. (2) قوله (والقضية إما موجبة تقسيم ثان للقضية مطلقاً.
+He said: 'And the proposition is either positive, like our saying: Zayd is a writer; or negative, like our saying: Zayd is not a writer.' I say: The proposition divides secondly into positive and negative, because that relation which we mentioned, if it is a judgment that one says: the subject is predicate, then the proposition is positive, like our saying: Zayd is a writer; and if it is a judgment that one says: the subject is not predicate, then the proposition is negative, like our saying: Zayd is not a writer. (2) His saying: 'And the proposition is either positive' is a secondary division of the proposition absolutely.
+Source pages p. 41
+
+Commentary
+This passage presents the secondary division of propositions into positive (mujaba) and negative (saliba). The commentator quotes the matn: a proposition is either positive (e.g., 'Zayd is a writer') or negative (e.g., 'Zayd is not a writer'). The commentary explains that this division is based on the nature of the assertoric relation (al-nisba al-hukmiyya): if the relation is affirmed (i.e., the predicate is attributed to the subject), the proposition is positive; if the relation is denied, the proposition is negative. A footnote clarifies that this division applies to all propositions generally, not just to categorical ones.
+
+Key Terms
+موجبة
+سالبة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what determines whether a proposition is positive or negative?
+A) The type of predicate
+B) Whether the judgment affirms or denies the predicate of the subject
+C) The number of terms in the proposition
+D) Whether the proposition is categorical or conditional
+
+Key Takeaway
+A proposition is positive when the predicate is affirmed and negative when it is denied, regardless of its type.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether each of the following propositions is positive or negative: (a) 'Prayer is obligatory' (al-salat wajiba); (b) 'Riba is not permitted' (al-riba la yajuzu); (c) 'If it rains, then the ground becomes wet' (positive conditional). Use the criterion: is the predicate affirmed or denied of the subject?
+?
+Take the proposition 'The world is temporally originated' (al-'alam muhdath) and rewrite it as a negative proposition. Then explain if the meaning changes.
+
+Pages p. 41 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 41
+Module 9 · Lesson 7
+Next →
+Propositions
+beginner
+5 min
+Classification of Propositions by Quantity: Specified, Universal, Particular, Indefinite
+Author classifies propositions by quantity with commentary.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the quantity of any categorical proposition (specified, universal, particular, or indefinite) and explain the role of the quantifier (sūr).
+
+Core Idea
+The quantifier (sūr) is the 'wall' that surrounds the subject's individuals, defining propositional quantity.
+
+In Islamic logic, every categorical proposition has a subject and predicate. But the quantity of the subject—whether it is a specific individual, all individuals, some, or unspecified—determines the proposition's type. This classification is essential for evaluating syllogisms and arguments in Islamic sciences like fiqh and kalam. In this lesson, we will explore the four types and understand the function of the quantifier.
+
+Guided Path
+1
+Distinguish specified from non-specified propositions
+Look at the subject term. If it is a specific individual (e.g., Zayd), the proposition is specified (makhṣūṣa). If the subject is a general term, it is not specified.
+Specified propositions are also called personal (shakhṣiyya).
+2
+Check for the presence of a quantifier (sūr)
+For non-specified propositions, see if a quantifier word like 'every' (kull) or 'some' (baʿḍ) appears. If yes, it is a quantified proposition (maḥṣūra); if no, it is indefinite (muhmala).
+The quantifier indicates the extent of the subject.
+3
+Classify quantified propositions as universal or particular
+If the quantifier indicates all individuals (e.g., 'every'), it is universal (kulliyya). If it indicates some (e.g., 'some'), it is particular (juz'iyya).
+Both types are called 'quantified' (maḥṣūra) because the quantifier 'surrounds' the individuals like a wall.
+4
+Identify indefinite propositions
+If the subject is a general term and no quantifier is used, the proposition is indefinite (muhmala). Its exact quantity is ambiguous and must be determined by context.
+Example: 'Human is a writer' does not specify how many humans.
+5
+Apply the classification to Islamic examples
+Practice classifying propositions from Islamic texts. For instance, 'Every intoxicant is forbidden' is universal; 'Some scholars are jurists' is particular; 'Man is in loss' (Quran 103:2) is indefinite; 'Zayd is righteous' is specified.
+This skill is crucial for understanding legal rulings and theological arguments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وكلُّ واحدٍ منهما، إما مخصوصة كما ذكرنا، وإمَّا كليةً مُسوَّرةً كقولنا: كلُّ إنسان كاتب، ولا شيء من الإنسان بكاتب، وإما جزئيةً مُسوَّرةً كقولنا: بعضُ الإنسان كاتب، وبعضُ الإنسان ليس بكاتب، وإما أن لا تكون كذلك، وتُسمَّى مُهملةً كقولنا: الإنسان كاتب، والإنسان ليس بكاتب). أقول: كلُّ واحدة من القضية الموجبة والسالبة، إما أن تكون مخصوصة أو محصورةً سواء كانت كلية أو جزئية، أو مهملة، لأنـه إن كان الموضوع في القضية شخصاً مُعيَّناً جزئياً، فالقضية مخصوصة كما ذكرنا في مثال الموجبة والسالبة نحو زيد كاتب، وزيد ليس بكاتب وأما تسميتها مخصوصةً، فلخُصوص موضوعها، وقد يُقال لها شخصية، لكون موضوعها شخصاً مُعيَّناً جزئيا، وإن لم يكن موضوعها أي موضوع القضية شخصاً معيَّناً جزئياً، بل يكونُ غَيْرَ مُعيَّن كُليَّا، فَإِن بُيِّنَ فيها كميَّة أفراد الموضوع من الكلية والجزئية، فالقضية محصورة ومسوَّرةٌ، أمَّا كونها محصورةً فلحصر أفراد موضوعها، وأما كونها مسوَّرة فلاشتمالها على السُّور الذي هو اللفظ الدال على كمية أفراد الموضوع حاصراً لها، ومُحيطاً بها، والسُّورُ مأخوذ من سور البلد، فكما أنَّه يحضر البلد كذلك ما يدلُّ على كميَّة الأفراد يحضر أفراد الموضوع.
+And each one of the two (affirmative and negative) is either specified as we mentioned, or universal quantified like our saying: 'Every human is a writer' and 'No human is a writer', or particular quantified like our saying: 'Some human is a writer' and 'Some human is not a writer', or it may not be that, and it is called indefinite like our saying: 'Human is a writer' and 'Human is not a writer'. I say: Each one of the affirmative and negative propositions is either specified or quantified, whether universal or particular, or indefinite. Because if the subject in the proposition is a specific individual particular, then the proposition is specified, as we mentioned in the example of the affirmative and negative like 'Zayd is a writer' and 'Zayd is not a writer'. And it is called specified because of the specificity of its subject, and it may be called personal because its subject is a specific individual particular. And if its subject, i.e., the subject of the proposition, is not a specific individual particular, but is an unspecified universal, then if the quantity of the individuals of the subject is clarified in terms of universality and particularity, the proposition is quantified and quantified (with a quantifier). As for it being quantified, it is because the individuals of its subject are restricted; and as for it being quantified (with quantifier), it is because it includes the quantifier which is the word indicating the quantity of the individuals of the subject, restricting and encompassing them. The term 'quantifier' (sūr) is derived from the wall of a city, for just as it surrounds the city, so that which indicates the quantity of individuals surrounds the individuals of the subject.
+Source pages p. 41
+
+Commentary
+This passage classifies all affirmative and negative propositions into four types based on how the subject is quantified. The author first lists: specified (makhṣūṣa), universal (kulliyya), particular (juz'iyya), and indefinite (muhmala). The commentator elaborates: if the subject is a specific individual (like Zayd), it is 'specified' or 'personal' (shakhṣiyya). If the subject is a universal term, then if the quantity is indicated by a quantifier (sūr) such as 'every' (kull) or 'some' (baʿḍ), it is 'quantified' (maḥṣūra), further divided into universal and particular. If no quantifier is used, it is 'indefinite' (muhmala), e.g., 'Human is a writer'—which leaves the quantity ambiguous. The commentator explains the etymology of 'sūr' from 'sūr al-balad' (city wall) because it encloses the individuals. For example, in Islamic jurisprudence, 'Every intoxicant is forbidden' is universal; 'Some scholars are jurists' is particular; 'Man is in loss' (Quranic) is indefinite. This classification is crucial for understanding syllogistic logic.
+
+Key Terms
+مخصوصة
+كلية
+جزئية
+مهملة
+سور
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of proposition is 'Zayd is praying'?
+A) Universal
+B) Particular
+C) Specified
+D) Indefinite
+
+Key Takeaway
+Propositions are classified by quantity into specified (personal subject), universal (all individuals), particular (some), and indefinite (no quantifier); the quantifier (sūr) is the key indicator for the latter three.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each of the following Islamic propositions by quantity: (a) 'Zayd is praying' (b) 'Every soul shall taste death' (Quran 3:185) (c) 'Some animals are birds' (d) 'Man is in loss' (Quran 103:2). Justify each classification.
+?
+Construct one example of each of the four proposition types using Islamic concepts (e.g., prayer, fasting, charity, hajj). Then exchange with a partner and check each other's classifications.
+
+Pages p. 41 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 42
+Module 9 · Lesson 8
+Next →
+Propositions
+beginner
+5 min
+Classification of Categorical Propositions by Quantity
+Author defines three types of categorical propositions: particular, quantified, and indeterminate.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given Arabic categorical proposition as particular (makhsusa), quantified (muhsara/musawwara) universal or particular, or indeterminate (muhmala), and identify the quantifier if present.
+
+Core Idea
+Every categorical proposition is either about a specific individual, a quantified universal, or an unspecified number.
+
+This passage from Kati's commentary on Isaghuji lays the groundwork for all syllogistic reasoning. Without understanding proposition types, you cannot evaluate arguments in kalam or fiqh. Here, al-Kati explains the threefold division with clear examples and the quantifiers used.
+
+Guided Path
+1
+Identify the subject
+Look at the subject of the proposition. Is it a specific individual (e.g., 'Zaid') or a common noun (e.g., 'human')? If it is a specific individual, the proposition is particular (makhsusa/shakhsiyya).
+The subject may be a name or a definite description referring to a single entity.
+2
+Check for a quantifier word (sur)
+If the subject is a common noun, see if there is a quantifier word like 'kull', 'ba‘d', 'la shay', etc. If present, the proposition is quantified (muhsara/musawwara).
+The quantifier indicates the scope of the subject.
+3
+Determine the quantity
+If the quantifier is universal (kull, la shay, la wahid), the proposition is universal. If it is particular (ba‘d, wahid faqat, laysa kull, etc.), it is particular.
+Universal affirmative: 'kull'; universal negative: 'la shay' or 'la wahid'; particular affirmative: 'ba‘d' or 'wahid faqat'; particular negative: 'laysa kull', 'laysa ba‘d', or 'ba‘d laysa'.
+4
+If no quantifier
+If the subject is a common noun and no quantifier is present, the proposition is indeterminate (muhmala). Example: 'Human is a writer' does not specify quantity.
+Indeterminate propositions are often treated as particular in syllogistic contexts, but their quantity is ambiguous.
+5
+Apply to Islamic examples
+Practice with examples from fiqh and kalam: 'Every intoxicant is haram' (universal affirmative), 'No contract is invalid without consent' (universal negative), 'Some scholars are jurists' (particular affirmative), 'Some acts are not obligatory' (particular negative).
+Use real texts like al-Muwatta' or al-Sanusiyya for examples.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: وكلُّ واحدٍ منهما، إما مخصوصة كما ذكرنا، وإمَّا كليةً مُسوَّرةً كقولنا: كلُّ إنسان كاتب، ولا شيء من الإنسان بكاتب، وإما جزئيةً مُسوَّرةً كقولنا: بعضُ الإنسان كاتب، وبعضُ الإنسان ليس بكاتب، وإما أن لا تكون كذلك، وتُسمَّى مُهملةً كقولنا: الإنسان كاتب، والإنسان ليس بكاتب). أقول: كلُّ واحدة من القضية الموجبة والسالبة، إما أن تكون مخصوصة أو محصورةً سواء كانت كلية أو جزئية، أو مهملة، لأنـه إن كان الموضوع في القضية شخصاً مُعيَّناً جزئياً، فالقضية مخصوصة كما ذكرنا في مثال الموجبة والسالبة نحو زيد كاتب، وزيد ليس بكاتب وأما تسميتها مخصوصةً، فلخُصوص موضوعها، وقد يُقال لها شخصية، لكون موضوعها شخصاً مُعيَّناً جزئيا، وإن لم يكن موضوعها أي موضوع القضية شخصاً معيَّناً جزئياً، بل يكونُ غَيْرَ مُعيَّن كُليَّا، فَإِن بُيِّنَ فيها كميَّة أفراد الموضوع من الكلية والجزئية، فالقضية محصورة ومسوَّرةٌ، أمَّا كونها محصورةً فلحصر أفراد موضوعها، وأما كونها مسوَّرة فلاشتمالها على السُّور الذي هو اللفظ الدال على كمية أفراد الموضوع حاصراً لها، ومُحيطاً بها، والسُّورُ مأخوذ من سور البلد، فكما أنَّه يحضر البلد كذلك ما يدلُّ على كميَّة الأفراد يحضر أفراد الموضوع، وهذه المحصورةُ إمَّا أن يُحكَمَ فيها على كلّ الأفراد، أو على بعضها، وعلى التقديرين، فالحكم إما بالإيجاب أو بالسلب، فإن كـــان الأول فالقضية كلية مسورة موجبة كقولنا كلُّ إنسان كاتب، أو سالبة كقولنا لا شيء من الإنسان بكاتب، والسُّورُ في المُوجَبةِ الكُليَّةِ نحو كُل، وفي السالبة نحو لا شيء، ولا واحد كما ذكرنا، وإن كان الثاني أي إن كان الحكم في القضية على بعض الأفراد فالقضية جزئية مسورة موجبة كقولنا بعضُ الإنسان كاتب أو سالبة كقولنا بعض الإنسان ليس بكاتب. والسُّورُ في القضية الجُزئيةِ المُوجبةِ نحو بعض، وواحد فقط، وفي الجزئية السالبة نحو ليس كُلّ وليس بعض، وبعض ليس، وإن لم يكن كل أي وإن لم يكن الموضوع في القضيَّة شخصاً معيناً، ولم يكن الحكم فيها على كل الأفراد أو على بعضها، فالقضية تُسمَّى مُهملةً كقولنا الإنسانُ كاتب، والإنسان ليس بكاتب لإهمال بيان كمية الأفراد التي حكم عليها، فإذن كانت القسمة مثلثة كما ثَلَّثَ الشَّيخُ في الشفاء، لا يقال: إنَّ القضية الطبيعية خارجة عنها، فلا يصدق الحصر، لأنَّا
+He said: And each one of them [the affirmative and negative propositions] is either particular as we mentioned, or universal quantified like our saying 'Every human is a writer' and 'No human is a writer', or particular quantified like our saying 'Some human is a writer' and 'Some human is not a writer', or it is not like that and is called indeterminate like our saying 'Human is a writer' and 'Human is not a writer'. I say: Each of the affirmative and negative propositions is either particular or quantified, whether universal or particular, or indeterminate. For if the subject in the proposition is a specific individual, then the proposition is particular as we mentioned in the example of the affirmative and negative like 'Zaid is a writer' and 'Zaid is not a writer'. And it is called particular due to the particularity of its subject, and it may be called personal because its subject is a specific individual. And if its subject—i.e. the subject of the proposition—is not a specific individual but rather is an indeterminate universal, then if the quantity of the individuals of the subject in terms of universality and particularity is specified, the proposition is quantified and quantified by a quantifier. As for it being quantified, it is due to the restriction of the individuals of its subject; and as for it being quantified by a quantifier, it is due to its inclusion of the quantifier which is the term indicating the quantity of the individuals of the subject, restricting them and encompassing them. The quantifier is taken from the wall of a city; just as it surrounds the city, so too what indicates the quantity of individuals surrounds the individuals of the subject. And this quantified [proposition] is either ruled upon all individuals or upon some of them; and in both cases the judgment is either affirmative or negative. If the first, then the proposition is a universal quantified affirmative like our saying 'Every human is a writer', or negative like our saying 'No human is a writer'. The quantifier in the universal affirmative is like 'every', and in the negative like 'no one' and 'not one' as we mentioned. If the second—i.e. if the judgment in the proposition is upon some individuals—then the proposition is a particular quantified affirmative like our saying 'Some human is a writer', or negative like our saying 'Some human is not a writer'. The quantifier in the particular affirmative is like 'some' and 'one only', and in the particular negative like 'not every' and 'not some' and 'some not'. And if it is not—i.e. if the subject in the proposition is not a specific individual and the judgment is not upon all individuals or upon some of them—then the proposition is called indeterminate, like our saying 'Human is a writer' and 'Human is not a writer', due to neglecting to specify the quantity of the individuals upon which judgment is made. So the division is tripartite as the Master in al-Shifa divided it. It cannot be said that the natural proposition is outside it, so the restriction is not true, because we...
+Source pages p. 42
+
+Commentary
+This passage provides a comprehensive classification of categorical propositions (qadaya hamliyya) according to the quantity of their subject. The author, likely al-Kati, begins by quoting a matn that divides each affirmative and negative proposition into three types: particular (makhsusa), quantified universal (kulliyya musawwara), quantified particular (juz'iyya musawwara), and indeterminate (muhmala). Then he comments (aqulu) to elaborate. He explains that the threefold division applies to every affirmative and negative proposition. If the subject is a specific individual like 'Zaid', the proposition is called particular or personal (shakhsiyya). If the subject is a universal term, then if the quantity of its individuals is specified by a quantifier (sur), the proposition is quantified (muhsara/musawwara). The quantifier is likened to a city wall (sur al-balad) that encompasses the inhabitants; similarly, the quantifier indicates the scope of the subject. Quantified propositions are then subdivided: if the judgment covers all individuals, it is universal; if some, it is particular. Each of these can be affirmative or negative, giving four types. The author lists the Arabic quantifiers: 'kull' for universal affirmative, 'la shay' and 'la wahid' for universal negative, 'ba'd' and 'wahid faqat' for particular affirmative, and 'laysa kull', 'laysa ba'd', 'ba'd laysa' for particular negative. Finally, if no quantifier is used and the subject is not a specific individual, the proposition is indeterminate (muhmala). The author asserts that this tripartite division is complete, referencing 'the Master in al-Shifa' (likely Ibn Sina). He anticipates an objection that the 'natural proposition' (qadiyya tabi'iyya) might be a fourth type, but he cuts off, implying that it is actually included. In standard logic, the natural proposition (e.g., 'Man is a species') is considered a type of universal proposition where the predicate is true of the nature itself, not of individuals. The author likely holds that it falls under the quantified universal. This classification is foundational for understanding syllogistic reasoning, as the mood and validity of syllogisms depend on the quantity and quality of propositions.
+
+Key Terms
+مخصوصة
+محصورة
+مسورة
+مهملة
+سور
+قضية طبيعية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of an indeterminate (muhmala) proposition?
+A) Every human is mortal.
+B) Some human is a writer.
+C) Zaid is standing.
+D) Human is a writer.
+
+Key Takeaway
+The threefold division of categorical propositions into particular, quantified, and indeterminate is exhaustive and foundational for valid syllogistic reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following propositions from Islamic sciences: 'All contracts require consent' (universal affirmative), 'No prayer is valid without purification' (universal negative), 'Some animals are halal' (particular affirmative), and 'Human is responsible' (indeterminate).
+?
+For each quantified proposition, write the Arabic quantifier used (e.g., kull, la shay, ba'd) and state whether it is universal or particular.
+
+Pages p. 42 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 44
+Module 9 · Lesson 9
+Next →
+Propositions
+beginner
+5 min
+Division of Conditional Propositions
+Divides conditional propositions and lists their subtypes.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the two types of conjunctive conditionals (luzumiyya and ittifaqiyya) and the three types of disjunctive conditionals (haqiqiyya, mani'at al-jam', mani'at al-khuluw).
+
+Core Idea
+Conditionals are not all alike — some follow from a real connection, others from coincidence.
+
+In this passage, the author divides conditional propositions into conjunctive and disjunctive, and further subdivides each. Understanding this classification is essential for evaluating the strength of conditional statements in Islamic argumentation, especially in kalam and fiqh.
+
+Guided Path
+1
+Identify the two main branches
+Read the passage and note that conditionals are first divided into conjunctive (mutasila) and disjunctive (munfasila). Each has its own subtypes.
+2
+Analyze conjunctive subtypes
+For conjunctive, there are two: luzumiyya (implicative) where there is a real connection, and ittifaqiyya (coincidental) where the connection is accidental. Check the examples: 'If the sun has risen, daytime exists' vs 'If man is rational, the donkey is braying'.
+The ittifaqiyya example has no real connection between rationality and braying.
+3
+Analyze disjunctive subtypes
+For disjunctive, there are three: haqiqiyya (true disjunction) where exactly one holds, mani'at al-jam' (exclusive of combination) where both cannot be true but both can be false, and mani'at al-khuluw (exclusive of emptiness) where both cannot be false but both can be true. Test each with the examples.
+In haqiqiyya, numbers are either even or odd; in mani'at al-jam', a thing can be neither tree nor stone; in mani'at al-khuluw, Zayd can be both in the sea and not drown.
+4
+Apply to Islamic examples
+Think of Islamic arguments that use conditionals. For instance, a kalam argument: 'If the world is created, it has a creator' is a luzumiyya conditional. Can you find an ittifaqiyya example?
+Ittifaqiyya examples are rare in serious argumentation because they are weak.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: والمتصلة: إما لزومية كقولنا إن كانت الشمس طالعة فالنهار موجود، وإما اتفاقية كقولنا إن كان الإنسان ناطقاً فالحمار ناهق والمنفصلة: إما حقيقية كقولنا العدد إما زوج أو فرد، وإما مانعة الجمع فقط كقولنا هذا الشيء إما شجر وإما حجر وإما مانعة الخلو فقط كقولنا زيد إما أن يكون في البحر أو لا يغرق).
+أقول: لما فرغ من تقسيم الحملية شرع في تقسيم الشرطية سواء كانت متصلة أو منفصلة. أما الشرطية المتصلة فتنقسم إلى قسمين: أحدهما لزومية، والآخر اتفاقية، لأنه إن كان صدق التالي فيها على تقدير وقوع صدق المقدم لعلاقة بينهما توجب ذلك، فالقضية متصلة لزومية، والمراد بالعلاقة ههنا شيء بسببه يستلزم المقدم التالي كالعلية، والمعلولية، والتضايف. أما العلية فكقولنا إن كانت الشمس طالعة فالنهار موجود، فإن طلوع الشمس علة لوجود النهار، وأما المعلولية فكقولنا كلما كان النهار موجوداً فالشمس طالعة، فإن وجود النهار معلول لطلوع الشمس، وأما التضايف: حقيقته أن يكون الأمران بحيث يكون تعقل كل منهما بالقياس إلى تعقل الآخر
+He said: The conjunctive [conditional] is either implicative (luzumiyya), like our saying 'If the sun has risen, then daytime exists,' or coincidental (ittifaqiyya), like our saying 'If man is rational, then the donkey is braying.' And the disjunctive [conditional] is either true (haqiqiyya), like our saying 'The number is either even or odd,' or exclusive-of-combination-only (mani'at al-jam' faqat), like our saying 'This thing is either a tree or a stone,' or exclusive-of-emptiness-only (mani'at al-khuluw faqat), like our saying 'Zayd is either in the sea or he does not drown.'
+I say: When he finished the division of categorical [propositions], he began the division of conditional [propositions], whether conjunctive or disjunctive. As for the conjunctive conditional, it divides into two parts: one is implicative (luzumiyya), and the other coincidental (ittifaqiyya). If the truth of the consequent in it, upon the supposition of the occurrence of the truth of the antecedent, is due to a connection between them that necessitates that, then the proposition is a conjunctive implicative [conditional]. What is meant by 'connection' here is something by which the antecedent entails the consequent, such as causality, effect, or reciprocity. As for causality, it is like our saying 'If the sun has risen, then daytime exists.' For the rising of the sun is a cause for the existence of daytime. As for effect, it is like our saying 'Whenever daytime exists, the sun has risen.' For the existence of daytime is an effect of the rising of the sun. As for reciprocity: its reality is that the two things are such that each is conceived in relation to the conception of the other.
+Source pages p. 44
+
+Commentary
+This passage defines the types of conditional propositions (shartiyya) and then explains the key concept of 'connection' (al-ilaqa) that distinguishes necessary (luzumiyya) conditionals from coincidental (ittifaqiyya) ones. It begins with the original matn (indicated by 'qala') dividing conjunctive conditionals (mutasila) into luzumiyya and ittifaqiyya, and disjunctive conditionals (munfasila) into three types: true (haqiqiyya), exclusive-of-combination-only, and exclusive-of-emptiness-only. Then the commentator (the one saying 'aqulu') expands on the division of muttasila, explaining that the difference between luzumiyya and ittifaqiyya lies in the presence of a real connection between antecedent and consequent. He defines 'ilaqa as that which makes the antecedent entail the consequent, and lists three forms: causality ('illiyya), effect (ma'luliyya), and reciprocity (tada'uf). Each is illustrated with an example: causality as sun's rising causing daytime; effect as daytime being an effect of the sun's rising; reciprocity as two things that are mutually dependent for their conception, like parenthood and childhood.
+
+Key Terms
+شرطية متصلة
+شرطية منفصلة
+لزومية
+اتفاقية
+حقيقية
+مانعة الجمع
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a luzumiyya (implicative) conjunctive conditional?
+A) If man is rational, then the donkey is braying.
+B) If the sun has risen, then daytime exists.
+C) If this thing is a tree, then it is a stone.
+D) Zayd is either in the sea or he does not drown.
+
+Key Takeaway
+Conjunctive conditionals are either implicative (with a real connection) or coincidental, while disjunctive conditionals have three forms depending on exclusivity.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a luzumiyya conjunctive conditional using an example from Islamic jurisprudence (e.g., 'If the transaction involves riba, it is invalid') and identify the connection (ilaqa) if any.
+?
+Identify which type of disjunctive conditional is used in the following statement: 'The prayer is either valid or invalid.'
+
+Pages p. 44 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 44
+Module 9 · Lesson 10
+Next →
+Propositions
+intermediate
+5 min
+The Concept of Connection (al-Ilaqa) in Luzumiyya Conditionals
+Explains the concept of connection (ilaqa) that distinguishes luzumiyya conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three types of connection (ilaqa) that make a conditional luzumiyya: causality, effect, and reciprocity.
+
+Core Idea
+The strength of a conditional depends on the underlying connection — causality, effect, or reciprocity.
+
+In this portion of the commentary, the author expands on what makes a conditional 'luzumiyya' by defining the concept of 'ilaqa' (connection). He lists three types: causality (illiyya), effect (ma'luliyya), and reciprocity (tada'uf). Recognizing these helps evaluate whether an inference is logically necessary or merely coincidental.
+
+Guided Path
+1
+Find the definition of ilaqa
+The commentator says: 'What is meant by connection here is something by which the antecedent entails the consequent.' This is the genus of ilaqa.
+2
+List the three types
+The types are: causality (illiyya) where antecedent causes consequent, effect (ma'luliyya) where antecedent is effect of consequent, and reciprocity (tada'uf) where each is conceived in relation to the other.
+In causality, the antecedent is cause; in effect, antecedent is effect; in reciprocity, they are mutually dependent.
+3
+Examine the examples
+Causality: 'If the sun has risen, daytime exists' (sunrise causes daytime). Effect: 'Whenever daytime exists, the sun has risen' (daytime is effect of sunrise). Reciprocity: The example is not given explicitly in this passage but is described as fatherhood and sonship.
+The reciprocity example shows that if one exists, the other must exist, but neither is the cause of the other; they are conceptually interdependent.
+4
+Apply to Islamic reasoning
+Think of a conditional in fiqh: 'If the contract is valid, the consideration must be lawful.' What type of ilaqa might that be? It could be causality if validity causes lawfulness, or reciprocity if each implies the other.
+Identifying the ilaqa helps determine whether the conditional is truly luzumiyya.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: والمتصلة: إما لزومية كقولنا إن كانت الشمس طالعة فالنهار موجود، وإما اتفاقية كقولنا إن كان الإنسان ناطقاً فالحمار ناهق والمنفصلة: إما حقيقية كقولنا العدد إما زوج أو فرد، وإما مانعة الجمع فقط كقولنا هذا الشيء إما شجر وإما حجر وإما مانعة الخلو فقط كقولنا زيد إما أن يكون في البحر أو لا يغرق).
+أقول: لما فرغ من تقسيم الحملية شرع في تقسيم الشرطية سواء كانت متصلة أو منفصلة. أما الشرطية المتصلة فتنقسم إلى قسمين: أحدهما لزومية، والآخر اتفاقية، لأنه إن كان صدق التالي فيها على تقدير وقوع صدق المقدم لعلاقة بينهما توجب ذلك، فالقضية متصلة لزومية، والمراد بالعلاقة ههنا شيء بسببه يستلزم المقدم التالي كالعلية، والمعلولية، والتضايف. أما العلية فكقولنا إن كانت الشمس طالعة فالنهار موجود، فإن طلوع الشمس علة لوجود النهار، وأما المعلولية فكقولنا كلما كان النهار موجوداً فالشمس طالعة، فإن وجود النهار معلول لطلوع الشمس، وأما التضايف: حقيقته أن يكون الأمران بحيث يكون تعقل كل منهما بالقياس إلى تعقل الآخر
+He said: The conjunctive [conditional] is either implicative (luzumiyya), like our saying 'If the sun has risen, then daytime exists,' or coincidental (ittifaqiyya), like our saying 'If man is rational, then the donkey is braying.' And the disjunctive [conditional] is either true (haqiqiyya), like our saying 'The number is either even or odd,' or exclusive-of-combination-only (mani'at al-jam' faqat), like our saying 'This thing is either a tree or a stone,' or exclusive-of-emptiness-only (mani'at al-khuluw faqat), like our saying 'Zayd is either in the sea or he does not drown.'
+I say: When he finished the division of categorical [propositions], he began the division of conditional [propositions], whether conjunctive or disjunctive. As for the conjunctive conditional, it divides into two parts: one is implicative (luzumiyya), and the other coincidental (ittifaqiyya). If the truth of the consequent in it, upon the supposition of the occurrence of the truth of the antecedent, is due to a connection between them that necessitates that, then the proposition is a conjunctive implicative [conditional]. What is meant by 'connection' here is something by which the antecedent entails the consequent, such as causality, effect, or reciprocity. As for causality, it is like our saying 'If the sun has risen, then daytime exists.' For the rising of the sun is a cause for the existence of daytime. As for effect, it is like our saying 'Whenever daytime exists, the sun has risen.' For the existence of daytime is an effect of the rising of the sun. As for reciprocity: its reality is that the two things are such that each is conceived in relation to the conception of the other.
+Source pages p. 44
+
+Commentary
+This passage defines the types of conditional propositions (shartiyya) and then explains the key concept of 'connection' (al-ilaqa) that distinguishes necessary (luzumiyya) conditionals from coincidental (ittifaqiyya) ones. It begins with the original matn (indicated by 'qala') dividing conjunctive conditionals (mutasila) into luzumiyya and ittifaqiyya, and disjunctive conditionals (munfasila) into three types: true (haqiqiyya), exclusive-of-combination-only, and exclusive-of-emptiness-only. Then the commentator (the one saying 'aqulu') expands on the division of muttasila, explaining that the difference between luzumiyya and ittifaqiyya lies in the presence of a real connection between antecedent and consequent. He defines 'ilaqa as that which makes the antecedent entail the consequent, and lists three forms: causality ('illiyya), effect (ma'luliyya), and reciprocity (tada'uf). Each is illustrated with an example: causality as sun's rising causing daytime; effect as daytime being an effect of the sun's rising; reciprocity as two things that are mutually dependent for their conception, like parenthood and childhood.
+
+Key Terms
+علاقة
+علية
+معلولية
+تضايف
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator, what are the three types of connection (ilaqa) that make a conjunctive conditional luzumiyya?
+A) Causality, effect, and conjunction
+B) Causality, effect, and reciprocity
+C) Coincidence, causality, and reciprocity
+D) Implication, causality, and effect
+
+Key Takeaway
+A luzumiyya conditional depends on a real connection (ilaqa) of causality, effect, or reciprocity between antecedent and consequent.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following conditional according to the type of ilaqa: 'If the father is alive, then the child exists.' (Answer: reciprocity/tada'uf) and explain why.
+?
+In the Quranic argument 'If there were gods besides Allah, the heavens and earth would be corrupted,' identify the type of ilaqa implied (causality: multiple gods cause corruption) and explain whether it is luzumiyya.
+
+Pages p. 44 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 45
+Module 9 · Lesson 11
+Next →
+Propositions
+beginner
+5 min
+Necessary vs Accidental Conjunctive Conditionals
+Defines conjunctive conditionals and divides them into necessary and accidental types.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between necessary (luzumiyya) and accidental (ittifaqiyya) conjunctive conditionals and identify the type of relation in necessary ones.
+
+Core Idea
+A conjunctive conditional is necessary only when a real relation links antecedent and consequent.
+
+This lesson introduces the two types of conjunctive conditionals: necessary (luzumiyya) and accidental (ittifaqiyya). The key distinction lies in whether the antecedent's truth necessitates the consequent's truth due to a genuine relation, such as causality or correlation, or whether they merely coincide. Understanding this distinction is essential for evaluating conditional statements in Islamic logic and legal reasoning.
+
+Guided Path
+1
+Identify the two types
+The author divides conjunctive conditionals into two classes: luzumiyya (necessary) and ittifaqiyya (accidental). Look for the terms in the Arabic: اللزومية and الاتفاقية.
+The classification is based on the presence or absence of a relation.
+2
+Understand the condition for luzumiyya
+For luzumiyya, there must be a relation (علاقة) that necessitates the consequent from the antecedent. The relation is defined as something by which the antecedent entails the consequent.
+The relation can be causality, effect, or correlation.
+3
+Examine the three subtypes of relation
+The author lists causality (علية), effect (معلولية), and correlation (تضايف). Study each example: sun rise/daytime for causality, daytime/sun rise for effect, father/son for correlation.
+These relations provide the logical connection.
+4
+Contrast with ittifaqiyya
+When no relation exists, the conditional is accidental. The example 'if man is rational, then the donkey is braying' shows coincidence without entailment.
+The mind does not permit the entailment because there is no connection.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القضايا اتفاقية، لأنه إن كان صدق التالي فيها على تقدير وقوع صدق المقدم العلاقة بينهما، توجب ذلك، فالقضية متصلة لزومية، والمراد بالعلاقة ههنا شيء بسببه يستلزم المقدم التالي كالعلية، والمعلولية، والتضايف. أما العلية فكقولنا إن كانت الشمس طالعة فالنهار موجود، فإن طلوع الشمس علة لوجود النهار، وأما المعلولية فكقولنا كلما كان النهار موجودا فالشمس طالعة، فإن وجود النهار معلول لطلوع الشمس، وأما التضايف فكقولنا إن كان زيد أبا لبكر فبكر ابنه، وإن كان صدق التالي في المتصلة على تقدير وقوع صدق المقدم، لا لعلاقة مذكورة، بل على سبيل الاتفاق، فالقضية متصلة اتفاقية كقولنا إن كان الإنسان ناطقا فالحمار ناهق، فإنه لا علاقة بين ناطقية الإنسان وناهقية الحمار، حتى يجوز العقل استلزام ناطقية الإنسان ناهقية الحمار بها، بل توافق الطرفان على سبيل الصدق بينهما ههنا
+Propositions: accidental, because if the truth of the consequent upon the supposition of occurrence of the truth of the antecedent (is due to) a relation between them that necessitates that, then the proposition is a necessary conjunctive conditional. What is meant by relation here is something by which the antecedent necessitates the consequent, like causality, effect, and correlation. As for causality: as our saying, 'If the sun is risen, then daytime exists,' for the rising of the sun is a cause for the existence of daytime. As for effect: as our saying, 'Whenever daytime exists, then the sun is risen,' for the existence of daytime is an effect of the rising of the sun. As for correlation: as our saying, 'If Zayd is the father of Bakr, then Bakr is his son.' And if the truth of the consequent in a conjunctive conditional upon the supposition of occurrence of the truth of the antecedent is not due to a mentioned relation, but rather by way of coincidence, then the proposition is an accidental conjunctive conditional, like our saying, 'If man is rational, then the donkey is braying,' for there is no relation between man's rationality and the donkey's braying such that the mind would permit the entailment of the donkey's braying by man's rationality; rather, the two parts happen to agree in truth here.
+Source pages p. 45
+
+Commentary
+This passage defines and classifies conjunctive conditionals (al-shartiyya al-muttasila). It begins by stating that when the consequent's truth upon the antecedent's truth is due to a relation that necessitates it, the conditional is 'luzumiyya' (necessary). The relation is then defined as something by which the antecedent entails the consequent, and three types are enumerated: causality (al-'illiyya), effect (al-ma'luliyya), and correlation (al-tada'uf). Examples are provided for each: causality (sunrise causing daytime), effect (daytime resulting from sunrise), and correlation (fatherhood and sonship). The passage then explains the opposite type: 'ittifaqiyya' (accidental), where no relation exists between the parts; the example given is 'If man is rational, then the donkey is braying' – these two facts are merely coincidentally true with no logical connection. The key point is that conditionals are evaluated based on the relation between antecedent and consequent, not on the truth values of the individual parts. In Islamic legal reasoning, similar distinctions apply, e.g., 'If the prayer time enters, then prayer is obligatory' is luzumiyya due to the divine command, whereas 'If Zayd is in the house, then 'Amr is in the market' might be ittifaqiyya.
+
+Key Terms
+المتصلة
+اللزومية
+الاتفاقية
+العلية
+التضايف
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of an accidental (ittifaqiyya) conjunctive conditional?
+A) If the sun rises, daytime exists.
+B) If man is rational, the donkey is braying.
+C) If Zayd is the father of Bakr, then Bakr is his son.
+D) If the prayer time enters, prayer is obligatory.
+
+Key Takeaway
+Conjunctive conditionals are classified by the presence or absence of a real relation between antecedent and consequent; only necessary conditionals support entailment.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following conditional is luzumiyya or ittifaqiyya: 'If a woman menstruates, she is prohibited from praying.' (Assume a legal cause.)
+?
+Construct a luzumiyya conditional based on correlation (tada'uf) using an Islamic example, e.g., marriage and its obligations.
+
+Pages p. 45 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 46
+Module 9 · Lesson 12
+Next →
+Propositions
+beginner
+5 min
+Three Types of Disjunctive Conditionals
+Author defines and exemplifies three disjunctive types
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the three types of disjunctive conditional propositions (haqiqiyya, mani'at al-jam', mani'at al-khuluw) based on the exclusion of truth and falsehood.
+
+Core Idea
+Disjunctions vary in strength: only haqiqiyya excludes both truth and falsehood together.
+
+In Islamic logic, disjunctive conditionals (al-shartiyya al-munfasila) are not all equal. Their strength depends on whether they exclude the possibility of both parts being true, both false, or both. This lesson breaks down the three types defined by classical logicians, using the example of even and odd numbers as a clear case of the strongest disjunction.
+
+Guided Path
+1
+Identify the two parts (juz'ayn)
+Every disjunctive conditional has two component propositions. For example, in 'The number is either even or odd', the two parts are 'the number is even' and 'the number is odd'.
+2
+Check truth compatibility
+Ask: Can both parts be true simultaneously? For even and odd, no: a number cannot be both even and odd at the same time.
+3
+Check falsehood compatibility
+Ask: Can both parts be false simultaneously? For even and odd, no: a number must be either even or odd; it cannot be neither.
+4
+Classify based on both checks
+If both truth and falsehood are impossible together -> haqiqiyya. If only truth is impossible -> mani'at al-jam'. If only falsehood is impossible -> mani'at al-khuluw.
+The example 'number is either even or odd' is haqiqiyya because both exclusions hold.
+5
+Apply to an Islamic example
+Consider 'This act is either obligatory (wajib) or forbidden (haram)'. Can it be both wajib and haram? No. Can it be neither? In Islamic law, every act has one of five rulings, so it cannot be neither. Thus it is haqiqiyya.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأمَّا الشَّرطيةُ المُنفصلة فتنقسم على ثلاثة أقسام: حقيقية، ومانعة الجمع، ومانعة الخلو لأنه إن حكم فيها بالتَّنافي بين جزئيها في الصدق والكذب معاً، فالقضية منفصلة حقيقية، كقولنا العدد إما زوج أو فرد، فإنه حُكم في هذه القضية بامتناع اجتماع الزوج والفرد على عدد واحد وبامتناع ارتفاعهما عنه، وإنَّما سُمّيت حقيقيةً لأن التنافي بين جزئيها أشد من التَّنافي بين جُزئين في القسمين الآخرين لأنه يُوجَدُ التنافي بين جزئيها في الصدق والكذب معاً، وهذا ليس إلا حقيقة الانفصال، وإن حُكم في القضية بالتنافي بين جزئيها في الصدق فقط، فمانعة الجمع، وإن حُكم بالتنافي بين جزئيها في الكذب فقط، فمانعة الخلو.
+As for the disjunctive conditional, it is divided into three types: haqiqiyya, mani'at al-jam', and mani'at al-khuluw. Because if it is judged in it that there is mutual exclusion between its two parts in truth and falsehood together, then the proposition is a haqiqiyya disjunctive, like our saying: 'The number is either even or odd.' For it is judged in this proposition that it is impossible for even and odd to combine in one number and impossible for both to be absent from it. It is called haqiqiyya because the mutual exclusion between its two parts is stronger than the mutual exclusion between two parts in the other two types, because mutual exclusion between its two parts exists in truth and falsehood together, and this is nothing but the reality of disjunction. And if it is judged in the proposition that there is mutual exclusion between its two parts in truth only, then it is mani'at al-jam'. And if it is judged that there is mutual exclusion between its two parts in falsehood only, then it is mani'at al-khuluw.
+Source pages p. 46
+
+Commentary
+This passage provides a classification of the three types of disjunctive conditional propositions (al-shartiyya al-munfasila). The author begins by stating that the disjunctive conditional is divided into three types: haqiqiyya (genuine), mani'at al-jam' (preventer of conjunction), and mani'at al-khuluw (preventer of emptiness). The classification is based on the nature of the mutual exclusion (tanafi) between the two parts (juz'ayn) of the proposition in terms of truth (sidq) and falsehood (kidhb).
+
+First, if the proposition asserts that the two parts cannot be simultaneously true and cannot be simultaneously false—meaning they are mutually exclusive in both truth and falsehood—then it is a haqiqiyya disjunctive. The author gives the example: 'The number is either even or odd.' In this case, a number cannot be both even and odd at the same time (they cannot be true together), nor can it be neither even nor odd (they cannot be false together). The term 'haqiqiyya' (genuine) is used because the mutual exclusion is complete; it is the strongest form of disjunction, encompassing both truth and falsehood. This is the essence of real disjunction.
+
+Second, if the proposition asserts that the two parts cannot be true together (mutual exclusion in truth only), but they could both be false, then it is called mani'at al-jam' (preventer of conjunction). For example, 'This person is either in the house or in the market.' It is possible that the person is neither (false of both), but they cannot be true simultaneously.
+
+Third, if the proposition asserts that the two parts cannot be false together (mutual exclusion in falsehood only), but they could both be true, then it is called mani'at al-khuluw (preventer of emptiness). For example, 'Either this statement is true or it is false.' It cannot be that both are false (a statement must be either true or false), but they cannot both be true simultaneously? Actually, in this example, it is a haqiqiyya; but for mani'at al-khuluw, an example from Islamic law: 'Either this act is obligatory (wajib) or recommended (mandub).' It cannot be that the act is neither wajib nor mandub (both false), but it could be both? Actually, it cannot be both; so perhaps a better example: 'Either water is pure (tahir) or impure (najis).' They cannot be false together (water is either pure or impure), but they can be true? No, it's impossible for water to be both pure and impure; so that is haqiqiyya. Actually, the author does not give examples for the other two types here, but the definitions are clear.
+
+The author emphasizes that the haqiqiyya type is the strongest and most complete form of disjunction, and that is why it is called 'genuine'.
+
+Key Terms
+القضية المنفصلة
+حقيقية
+مانعة الجمع
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of disjunctive conditional is expressed by: 'This act is either obligatory (wajib) or forbidden (haram)'?
+A) Haqiqiyya
+B) Mani'at al-jam'
+C) Mani'at al-khuluw
+D) None of the above
+
+Key Takeaway
+The three types of disjunctive conditionals are distinguished solely by whether they exclude truth, falsehood, or both between the two parts.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition: 'This liquid is either intoxicating (khamr) or pure (tahir),' determine which type of disjunction it is and explain your reasoning.
+?
+Construct an original example of a mani'at al-jam' disjunction from the domain of Islamic inheritance law.
+
+Pages p. 46 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 47
+Module 9 · Lesson 13
+Next →
+Propositions
+beginner
+5 min
+The Real Disjunctive (Haqiqiyya)
+Author defines the real disjunctive (haqiqiyya) with the even/odd example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a haqiqiyya disjunctive proposition and distinguish it from other types by testing the truth possibilities of its parts.
+
+Core Idea
+Haqiqiyya means both parts cannot be true nor false together—the strongest disjunction.
+
+The first and most fundamental type of disjunctive proposition is the haqiqiyya, where the two options are mutually exclusive and exhaustive. The author illustrates this with the classic example 'the number is either even or odd'. In this lesson, you will learn to recognize this type by checking whether both parts can be simultaneously true or false.
+
+Guided Path
+1
+Identify the disjuncts
+Find the two propositions linked by 'or' in the example. For 'even or odd', the disjuncts are 'it is even' and 'it is odd'.
+2
+Check if both can be true
+In a haqiqiyya, the disjuncts cannot both be true. A number cannot be both even and odd. Confirm this impossibility.
+3
+Check if both can be false
+In a haqiqiyya, the disjuncts cannot both be false. A number must be either even or odd; it cannot be neither. Confirm this impossibility.
+4
+Classify as haqiqiyya
+If both conjunction and disjunction (both false) are impossible, the proposition is haqiqiyya. This is the strongest form of disjunction.
+Memorize: haqiqiyya = opposition in both truth and falsity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القضايا إما زوج أو فرد، فإنه حُكم في هذه القضية بامتناع اجتماع الزوج والفرد على عدد واحد وبامتناع ارتفاعهما عنه، وإنَّما سُمّيت حقيقيةً لأن التنافي بين جزئيها أشد من التَّنافي بين جُزئين في القسمين الآخرين لأنه يُوجَدُ التنافي بين جزئيها في الصدق والكذب معاً، وهذا ليس إلا حقيقة الانفصال. وإن حُكم في القضية بالتنافي بين جزئيها في الصدق فقط، فالقضية منفصلة مانعة الجمع كقولنا هذا الشيء إما شجر أو حجر فإنه حُكم في هذه القضية بالتنافي بين الشَّجر والحجر في الصدق فقط، لا في الكذب لجواز أن يكون الشيء الواحد لا شجراً ولا حجراً، وإنما سُمّيت هذه مانعة الجمع، لاشتمالها على منع الجمع بين جزئيها في الصدق. وإن حُكم في القضية بالتنافي بين جزئيها في الكذب فقط أي، لا الصدق، فالقضية مانعة الخلو كقولنا زيد إما أن يكون في البحر وإما أن لا يغرق، فإنَّه حكم في هذه القضية بالتنافي بين أن لا يكون في البحر وأن يغرق لا بين أن يكون في البحر وأن لا يغرق، لجواز أن يكون.
+Propositions: either even or odd, for in this proposition it is judged that the conjunction of even and odd for a single number is impossible and their disjunction (both being absent) is also impossible; and it was called 'real' because the opposition between its two parts is stronger than the opposition between two parts in the other two types, since opposition between its parts is found in both truth and falsity together, and this is nothing but the reality of disjunction. And if in the proposition it is judged that there is opposition between its two parts in truth only, then the proposition is a disjunctive exclusive (mani'at al-jam'), like our saying: 'This thing is either a tree or a stone,' for in this proposition it is judged that there is opposition between tree and stone in truth only, not in falsity, because it is possible that a single thing is neither a tree nor a stone; and it was called 'exclusive' because it includes preventing conjunction between its two parts in truth. And if in the proposition it is judged that there is opposition between its two parts in falsity only, i.e. not in truth, then the proposition is an exhaustive (mani'at al-khuluw), like our saying: 'Zayd is either in the sea or he will not drown,' for in this proposition it is judged that there is opposition between his not being in the sea and his drowning, not between his being in the sea and his not drowning, because it is possible that he is in the sea and does not drown.
+Source pages p. 47
+
+Commentary
+This passage defines the three types of disjunctive propositions (al-qadaya al-munfasila) in Islamic logic. The author begins with the 'real' disjunctive (al-munfasila al-haqiqiyya), using the example 'the number is either even or odd' to illustrate that the two parts cannot both be true nor both false simultaneously. This is the strongest form of opposition. Next, he defines the 'exclusive' disjunctive (mani'at al-jam'), which only prevents both parts being true but allows both to be false, as in 'this thing is either a tree or a stone'—it could be neither. Finally, he defines the 'exhaustive' disjunctive (mani'at al-khuluw), which only prevents both parts being false but allows both to be true, as in 'Zayd is either in the sea or he will not drown'—both could be true if he is in the sea and does not drown. These distinctions are fundamental for analyzing syllogisms with disjunctive premises, as each type yields different logical consequences. Memorize these definitions and examples: they are the skeleton of disjunctive reasoning in the tradition.
+
+Key Terms
+حقيقية
+مانعة الجمع
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of disjunctive proposition is illustrated by 'This number is either even or odd'?
+A) Mani'at al-jam'
+B) Haqiqiyya
+C) Mani'at al-khuluw
+D) Mani'at al-jam' wa al-khuluw
+
+Key Takeaway
+A haqiqiyya disjunctive proposition prevents both parts from being true together and both from being false together.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following is a haqiqiyya disjunction: 'The prayer is either invalid or not invalid.' Explain why.
+?
+Construct a haqiqiyya disjunction using a category from Islamic jurisprudence (e.g., categories of water used for wudu).
+
+Pages p. 47 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 47
+Module 9 · Lesson 14
+Next →
+Propositions
+beginner
+5 min
+The Exclusive Disjunctive (Mani'at al-Jam')
+Author defines the exclusive disjunctive (mani'at al-jam') with the tree/stone example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a mani'at al-jam' disjunctive proposition and distinguish it from other types by testing whether both parts can be true together.
+
+Core Idea
+Mani'at al-jam' only forbids both parts being true; they can both be false.
+
+The second type of disjunctive proposition is 'mani'at al-jam'' ('exclusive'), where the two options cannot both be true but can both be false. The author's example is 'This thing is either a tree or a stone'. In this lesson, you will learn to recognize this type by checking the possibility of both disjuncts being true.
+
+Guided Path
+1
+Identify the disjuncts
+Find the two propositions linked by 'or'. In the example, they are 'this is a tree' and 'this is a stone'.
+2
+Check if both can be true
+In mani'at al-jam', both disjuncts cannot be true simultaneously. A thing cannot be both a tree and a stone. Confirm this impossibility.
+3
+Check if both can be false
+In mani'at al-jam', both disjuncts can be false. The thing could be neither a tree nor a stone (e.g., a rock). Confirm this possibility.
+4
+Classify as mani'at al-jam'
+If only the conjunction (both true) is impossible, but both false is possible, the proposition is mani'at al-jam'. It 'prevents combination' in truth.
+Memorize: mani'at al-jam' = opposition in truth only.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القضايا إما زوج أو فرد، فإنه حُكم في هذه القضية بامتناع اجتماع الزوج والفرد على عدد واحد وبامتناع ارتفاعهما عنه، وإنَّما سُمّيت حقيقيةً لأن التنافي بين جزئيها أشد من التَّنافي بين جُزئين في القسمين الآخرين لأنه يُوجَدُ التنافي بين جزئيها في الصدق والكذب معاً، وهذا ليس إلا حقيقة الانفصال. وإن حُكم في القضية بالتنافي بين جزئيها في الصدق فقط، فالقضية منفصلة مانعة الجمع كقولنا هذا الشيء إما شجر أو حجر فإنه حُكم في هذه القضية بالتنافي بين الشَّجر والحجر في الصدق فقط، لا في الكذب لجواز أن يكون الشيء الواحد لا شجراً ولا حجراً، وإنما سُمّيت هذه مانعة الجمع، لاشتمالها على منع الجمع بين جزئيها في الصدق. وإن حُكم في القضية بالتنافي بين جزئيها في الكذب فقط أي، لا الصدق، فالقضية مانعة الخلو كقولنا زيد إما أن يكون في البحر وإما أن لا يغرق، فإنَّه حكم في هذه القضية بالتنافي بين أن لا يكون في البحر وأن يغرق لا بين أن يكون في البحر وأن لا يغرق، لجواز أن يكون.
+Propositions: either even or odd, for in this proposition it is judged that the conjunction of even and odd for a single number is impossible and their disjunction (both being absent) is also impossible; and it was called 'real' because the opposition between its two parts is stronger than the opposition between two parts in the other two types, since opposition between its parts is found in both truth and falsity together, and this is nothing but the reality of disjunction. And if in the proposition it is judged that there is opposition between its two parts in truth only, then the proposition is a disjunctive exclusive (mani'at al-jam'), like our saying: 'This thing is either a tree or a stone,' for in this proposition it is judged that there is opposition between tree and stone in truth only, not in falsity, because it is possible that a single thing is neither a tree nor a stone; and it was called 'exclusive' because it includes preventing conjunction between its two parts in truth. And if in the proposition it is judged that there is opposition between its two parts in falsity only, i.e. not in truth, then the proposition is an exhaustive (mani'at al-khuluw), like our saying: 'Zayd is either in the sea or he will not drown,' for in this proposition it is judged that there is opposition between his not being in the sea and his drowning, not between his being in the sea and his not drowning, because it is possible that he is in the sea and does not drown.
+Source pages p. 47
+
+Commentary
+This passage defines the three types of disjunctive propositions (al-qadaya al-munfasila) in Islamic logic. The author begins with the 'real' disjunctive (al-munfasila al-haqiqiyya), using the example 'the number is either even or odd' to illustrate that the two parts cannot both be true nor both false simultaneously. This is the strongest form of opposition. Next, he defines the 'exclusive' disjunctive (mani'at al-jam'), which only prevents both parts being true but allows both to be false, as in 'this thing is either a tree or a stone'—it could be neither. Finally, he defines the 'exhaustive' disjunctive (mani'at al-khuluw), which only prevents both parts being false but allows both to be true, as in 'Zayd is either in the sea or he will not drown'—both could be true if he is in the sea and does not drown. These distinctions are fundamental for analyzing syllogisms with disjunctive premises, as each type yields different logical consequences. Memorize these definitions and examples: they are the skeleton of disjunctive reasoning in the tradition.
+
+Key Terms
+مانعة الجمع
+حقيقية
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of disjunctive proposition is illustrated by 'This thing is either a tree or a stone'?
+A) Haqiqiyya
+B) Mani'at al-jam'
+C) Mani'at al-khuluw
+D) Mani'at al-jam' wa al-khuluw
+
+Key Takeaway
+A mani'at al-jam' disjunctive proposition prevents both parts from being true together but allows both to be false.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following is a mani'at al-jam' disjunction: 'This animal is either a camel or a cow.' Explain why.
+?
+Provide a Fiqh example of a mani'at al-jam' disjunction involving categories of food during Ramadan.
+
+Pages p. 47 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 47
+Module 9 · Lesson 15
+Next →
+Propositions
+beginner
+5 min
+The Exhaustive Disjunctive (Mani'at al-Khuluw)
+Author defines the exhaustive disjunctive (mani'at al-khuluw) with the sea/drowning example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a mani'at al-khuluw disjunctive proposition and distinguish it from other types by testing whether both parts can be false together.
+
+Core Idea
+Mani'at al-khuluw only forbids both parts being false; they can both be true.
+
+The third type of disjunctive proposition is 'mani'at al-khuluw' ('exhaustive'), where the two options cannot both be false but can both be true. The author's example is 'Zayd is either in the sea or he will not drown'. In this lesson, you will learn to recognize this type by checking the possibility of both disjuncts being false.
+
+Guided Path
+1
+Identify the disjuncts
+Find the two propositions linked by 'or'. In the example, they are 'Zayd is in the sea' and 'Zayd will not drown'.
+Note the second disjunct is negative.
+2
+Check if both can be false
+In mani'at al-khuluw, both disjuncts cannot be false simultaneously. If Zayd is not in the sea (first false) and he will drown (second false? Actually second is 'not drown', so false means 'drown'), then both false would mean Zayd is not in the sea and he drowns. The author says this is impossible because drowning is only prevented if he is in the sea. Accept the logical structure.
+3
+Check if both can be true
+In mani'at al-khuluw, both disjuncts can be true. Zayd could be in the sea and also not drown (first true, second true). Confirm this possibility.
+4
+Classify as mani'at al-khuluw
+If only the disjunction (both false) is impossible, but both true is possible, the proposition is mani'at al-khuluw. It 'prevents emptiness' (both false).
+Memorize: mani'at al-khuluw = opposition in falsity only.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القضايا إما زوج أو فرد، فإنه حُكم في هذه القضية بامتناع اجتماع الزوج والفرد على عدد واحد وبامتناع ارتفاعهما عنه، وإنَّما سُمّيت حقيقيةً لأن التنافي بين جزئيها أشد من التَّنافي بين جُزئين في القسمين الآخرين لأنه يُوجَدُ التنافي بين جزئيها في الصدق والكذب معاً، وهذا ليس إلا حقيقة الانفصال. وإن حُكم في القضية بالتنافي بين جزئيها في الصدق فقط، فالقضية منفصلة مانعة الجمع كقولنا هذا الشيء إما شجر أو حجر فإنه حُكم في هذه القضية بالتنافي بين الشَّجر والحجر في الصدق فقط، لا في الكذب لجواز أن يكون الشيء الواحد لا شجراً ولا حجراً، وإنما سُمّيت هذه مانعة الجمع، لاشتمالها على منع الجمع بين جزئيها في الصدق. وإن حُكم في القضية بالتنافي بين جزئيها في الكذب فقط أي، لا الصدق، فالقضية مانعة الخلو كقولنا زيد إما أن يكون في البحر وإما أن لا يغرق، فإنَّه حكم في هذه القضية بالتنافي بين أن لا يكون في البحر وأن يغرق لا بين أن يكون في البحر وأن لا يغرق، لجواز أن يكون.
+Propositions: either even or odd, for in this proposition it is judged that the conjunction of even and odd for a single number is impossible and their disjunction (both being absent) is also impossible; and it was called 'real' because the opposition between its two parts is stronger than the opposition between two parts in the other two types, since opposition between its parts is found in both truth and falsity together, and this is nothing but the reality of disjunction. And if in the proposition it is judged that there is opposition between its two parts in truth only, then the proposition is a disjunctive exclusive (mani'at al-jam'), like our saying: 'This thing is either a tree or a stone,' for in this proposition it is judged that there is opposition between tree and stone in truth only, not in falsity, because it is possible that a single thing is neither a tree nor a stone; and it was called 'exclusive' because it includes preventing conjunction between its two parts in truth. And if in the proposition it is judged that there is opposition between its two parts in falsity only, i.e. not in truth, then the proposition is an exhaustive (mani'at al-khuluw), like our saying: 'Zayd is either in the sea or he will not drown,' for in this proposition it is judged that there is opposition between his not being in the sea and his drowning, not between his being in the sea and his not drowning, because it is possible that he is in the sea and does not drown.
+Source pages p. 47
+
+Commentary
+This passage defines the three types of disjunctive propositions (al-qadaya al-munfasila) in Islamic logic. The author begins with the 'real' disjunctive (al-munfasila al-haqiqiyya), using the example 'the number is either even or odd' to illustrate that the two parts cannot both be true nor both false simultaneously. This is the strongest form of opposition. Next, he defines the 'exclusive' disjunctive (mani'at al-jam'), which only prevents both parts being true but allows both to be false, as in 'this thing is either a tree or a stone'—it could be neither. Finally, he defines the 'exhaustive' disjunctive (mani'at al-khuluw), which only prevents both parts being false but allows both to be true, as in 'Zayd is either in the sea or he will not drown'—both could be true if he is in the sea and does not drown. These distinctions are fundamental for analyzing syllogisms with disjunctive premises, as each type yields different logical consequences. Memorize these definitions and examples: they are the skeleton of disjunctive reasoning in the tradition.
+
+Key Terms
+مانعة الخلو
+حقيقية
+مانعة الجمع
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of disjunctive proposition is illustrated by 'Zayd is either in the sea or he will not drown'?
+A) Haqiqiyya
+B) Mani'at al-jam'
+C) Mani'at al-khuluw
+D) Mani'at al-jam' wa al-khuluw
+
+Key Takeaway
+A mani'at al-khuluw disjunctive proposition prevents both parts from being false together but allows both to be true.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following is a mani'at al-khuluw disjunction: 'Either the food is halal or it is not forbidden.' Explain why.
+?
+Construct a mani'at al-khuluw disjunction using a concept from Islamic eschatology (e.g., concerning the fate of believers).
+
+Pages p. 47 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 48
+Module 9 · Lesson 16
+Next →
+Propositions
+beginner
+5 min
+Two Types of Exclusive Disjunction: Man'at al-Jam' and Man'at al-Khuluw
+Author defines two types of exclusive disjunctive propositions with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between man'at al-jam' and man'at al-khuluw in disjunctive propositions and identify which type a given example belongs to.
+
+Core Idea
+A disjunctive proposition can exclude truth or falsehood — knowing which is key to valid inference.
+
+In this passage, the author breaks down exclusive disjunctive propositions into two types: those that prevent both parts being true together (man'at al-jam') and those that prevent both parts being false together (man'at al-khuluw). Understanding this distinction is essential for correctly using disjunctive syllogisms in Islamic logic.
+
+Guided Path
+1
+Identify the judgment of the disjunction
+Determine whether the proposition rules out truth (sidq) or falsehood (kadhib) of both parts together. The author's examples and definitions directly indicate this.
+2
+Check the possibility of both parts being false
+For man'at al-jam', both can be false; for man'at al-khuluw, both cannot be false. Use the example: 'This is either a tree or a stone' — it can be neither, so both false is allowed, thus man'at al-jam'.
+3
+Check the possibility of both parts being true
+For man'at al-jam', both cannot be true; for man'at al-khuluw, both can be true. Using the second example: 'Zayd is either in the sea or he does not drown' — if he is in the sea and does not drown, both parts are true, so it is man'at al-khuluw.
+4
+Apply to new examples
+Test your understanding by classifying additional propositions. For instance, 'This food is either halal or haram' — it cannot be both, but it can be neither (if it's not food?), so it is man'at al-jam'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فالقضية منفصلة مانعة الجمع كقولنا هذا الشيء إما شجر أو حجر فإنه حُكم في هذه القضية بالتنافي بين الشَّجر والحجر في الصدق فقط، لا في الكذب لجواز أن يكون الشيء الواحد لا شجراً ولا حجراً، وإنما سُمّيت هذه مانعة الجمع، لاشتمالها على منع الجمع بين جزئيها في الصدق، وإن حُكم في القضية بالتنافي بين جزئيها في الكذب فقط أي، لا الصدق، فالقضية مانعة الخلو كقولنا زيد إما أن يكون في البحر وإما أن لا يغرق، فإنَّه حكم في هذه القضية بالتنافي بين أن لا يكون في البحر وأن يغرق لا بين أن يكون في البحر وأن لا يغرق، لجواز أن يكون في البحر وأن لا يغرق، وإنما سُميت هذه القضية مانعة الخلـو، لاشتمالها على منع الخلو بين جزئيها في الكذب.
+So the disjunctive proposition is a mutually exclusive [in truth] such as our saying 'This thing is either a tree or a stone', for in this proposition it is judged that there is incompatibility between tree and stone only in truth, not in falsehood, because it is possible that a single thing is neither a tree nor a stone. It is called 'mutually exclusive in truth' because it includes the prevention of the combination of its two parts in truth. And if in the proposition it is judged that there is incompatibility between its two parts only in falsehood, i.e., not in truth, then the proposition is 'mutually exclusive in falsehood', such as our saying 'Zayd is either in the sea or he does not drown', for in this proposition it is judged that there is incompatibility between his not being in the sea and his drowning, not between his being in the sea and his not drowning, because it is possible that he is in the sea and does not drown. And it is called 'mutually exclusive in falsehood' because it includes the prevention of the voiding [of both parts] in falsehood.
+Source pages p. 48
+
+Commentary
+This passage defines two types of exclusive disjunctive propositions (al-munfasila al-ḥaqīqiyya). The first is 'man'at al-jam'' (mutually exclusive in truth), which rules out the simultaneous truth of both disjuncts but allows both to be false. The author gives the example: 'This thing is either a tree or a stone.' If it is a tree, it cannot be a stone, and vice versa; but it could be neither (e.g., a rock). The second is 'man'at al-khuluw' (mutually exclusive in falsehood), which rules out the simultaneous falsehood of both disjuncts but allows both to be true. The example: 'Zayd is either in the sea or he does not drown.' If Zayd is not in the sea, then he must drown (since the alternative is impossible), and if he is in the sea, he may or may not drown; thus both can be true if he is in the sea and does not drown, but both cannot be false together. These two types are important for understanding conditional syllogisms in Islamic logic.
+
+Key Terms
+مانعة الجمع (man'at al-jam'): A disjunctive proposition that rules out the truth of both parts together, while allowing both to be false. [Note: Stable term.]
+مانعة الخلو (man'at al-khuluw): A disjunctive proposition that rules out the falsehood of both parts together, while allowing both to be true. [Note: Stable term.]
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of exclusive disjunctive proposition does the statement 'This prayer is either obligatory or supererogatory' represent, given that an action cannot be both obligatory and supererogatory at the same time, but it could be neither?
+A) Man'at al-jam'
+B) Man'at al-khuluw
+C) Both
+D) Neither
+
+Key Takeaway
+The distinction between man'at al-jam' and man'at al-khuluw hinges on whether the disjunctive proposition excludes the truth of both parts or the falsehood of both parts.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following proposition as man'at al-jam' or man'at al-khuluw: 'This beverage is either intoxicating or forbidden.' Assume that all intoxicants are forbidden, but some forbidden things are not intoxicants. Explain your reasoning.
+?
+Construct your own example of a man'at al-khuluw disjunction from Islamic rulings, such as the relationship between sunrise and the end of Fajr prayer time. Explain why both parts can be true and why both cannot be false.
+
+Pages p. 48 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 49
+Module 9 · Lesson 17
+Next →
+Propositions
+beginner
+5 min
+Multi-Part Disjunctives in True Disjunctions
+Author explains that disjunctives can have multiple parts, giving the number example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a true disjunctive proposition with more than two parts and explain its logical characteristics.
+
+Core Idea
+Disjunctive propositions can have more than two exclusives - like a number being equal, greater, or less than a sum.
+
+In the previous lesson, you learned that disjunctives typically have two parts. The author now expands this by showing that a true disjunctive can have three or more mutually exclusive alternatives. The example of a number's relation to a given sum — being either equal, greater, or less — illustrates a three-part exclusive disjunction used in logic.
+
+Guided Path
+1
+Identify the disjuncts
+Look at the example: 'العدد إما زائد أو ناقص أو مساو'. Count the parts: three disjuncts. Note they are mutually exclusive: a number cannot be both greater and equal to the same sum.
+2
+Classify the disjunction type
+This is a 'true disjunctive' (منفصلة حقيقية) because the parts are exclusive in truth. In logic, a true disjunctive means exactly one part holds.
+Contrast with a 'separative disjunctive' which may not be exclusive.
+3
+Apply the truth condition
+In a true disjunctive with multiple parts, only one part can be true at a time. Verify with the number example: if the number is exactly equal, then it cannot be greater or deficient.
+4
+Compare to two-part disjunctives
+The same logical rules apply; the difference is just the number of options. A two-part true disjunctive is a special case of a multi-part one.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: وقد تكونُ المُنفصلاتُ ذاتَ أجزاء كقولنا: العدد إما زائد أو ناقض أو مساو). أقول: المنفصلات المذكورةُ يَتركَّبُ كلُّ واحدة منها من جزئين غالباً كما مَرَّ، وقد تتركَّب من أكثر من جزئين، أما المنفصلة الحقيقية فكقولنا العدد إما زائد أو ناقص أو مُساوِ، فإنه حُكِمَ فيها بأن ...
+He said: 'And disjunctives may have parts, such as our saying: The number is either greater, or deficient, or equal.' I say: The mentioned disjunctives each are composed of two parts mostly, as has passed, and they may be composed of more than two parts. As for the true disjunctive, it is like our saying: The number is either greater, or deficient, or equal, for it is judged in it that...
+Source pages p. 49
+
+Commentary
+This passage notes that disjunctive propositions can have more than two disjuncts. The author first states that disjunctives usually have two parts but can have more, giving the example of a number being either greater, less, or equal to a given sum. This is a 'true disjunctive' (munfasila ḥaqīqiyya) because the parts are mutually exclusive: a number cannot be both greater and less than the same sum, nor can it be both greater and equal, etc. The example is used to illustrate a three-part exclusive disjunction.
+
+Key Terms
+منفصلة حقيقية
+أجزاء
+
+Key Terms from Source Passage
+
+Checkpoint
+In the author's example, why is 'The number is either greater, or deficient, or equal' a true disjunctive?
+A) Because the parts are mutually exclusive
+B) Because the number can be all three
+C) Because it has three parts
+D) Because it is a conditional
+
+Key Takeaway
+A true disjunctive proposition can have any number of mutually exclusive parts, not just two.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the five rulings in fiqh. Write a true disjunctive proposition that covers all possibilities for a given action, using the structure: 'The ruling for action X is either A, B, C, D, or E, and only one holds.'
+?
+Identify whether the following is a true disjunctive: 'The time for prayer is either before noon, after noon, or at night.' If it is true, explain why the parts are exclusive. If not, modify it to make it exclusive.
+
+Pages p. 49 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 49
+Module 9 · Lesson 18
+Next →
+Propositions
+beginner
+5 min
+The Nature of Exclusive Disjunction
+Definition of exclusive disjunction via its conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to define exclusive disjunction and identify its two essential conditions: man' al-jam' and man' al-khulu.
+
+Core Idea
+Exclusive disjunction: exactly one part is true; both cannot be true and both cannot be false.
+
+In Islamic logic, disjunctive propositions are crucial for exhaustive reasoning. Exclusive disjunction (al-munfasila al-haqiqiyya) is the strictest type, requiring that one and only one of its parts holds. Understanding its definition is the foundation for analyzing complex arguments.
+
+Guided Path
+1
+Identify the two conditions from the passage
+Read the first few lines of the source and note the two impossibilities: the parts cannot be true together (man' al-jam') and cannot both be false (man' al-khulu).
+2
+Write the definition in your own words
+Based on those conditions, produce a precise definition of exclusive disjunction.
+Remember: it is a proposition that asserts one and only one of its disjuncts is true.
+3
+Apply the definition to a new example
+Take the statement 'The number is either odd or even.' Does it satisfy both conditions? Explain why it does (since a number cannot be both odd and even, and it must be one of them).
+4
+Distinguish from inclusive disjunction
+Now consider 'The number is either prime or composite.' Is this exclusive? Note that 1 is neither prime nor composite, so both can be false. Hence it is not exclusive.
+Inclusive disjunction only requires that at least one is true, not that exactly one is true.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: وقد تكونُ المُنفصلاتُ ذاتَ أجزاء كقولنا: العدد إما زائد أو ناقض أو مساو). أقول: المنفصلات المذكورةُ يَتركَّبُ كلُّ واحدة منها من جزئين غالباً كما مَرَّ، وقد تتركَّب من أكثر من جزئين، أما المنفصلة الحقيقية فكقولنا العدد إما زائد أو ناقص أو مُساوِ، فإنه حُكِمَ فيها بأن هذا الجميع لا يجتمع على عددٍ واحدٍ، ولا يخلو العدد عن واحد منها، وفيه نظر لأنَّ عين أحد أجزاء الحقيقية يستلزم نقيض الآخر لامتناع الجمع، وبالعكس لامتناع الخُلُو، فلو تركَّبت الحقيقية من ثلاثة أجزاء فصاعداً يلزم جواز الجمع والخلو، وهذا خُلْفٌ، لأنه في المثال المذكور وهو قولنا: العدد إما زائد أو ناقص أو مُساوِ، يلزم أن يستلزم كونه زائداً كونه غير ناقص، ويستلزم كونه غير ناقص كونَهُ مُساوياً، وينتج من هذا أنْ يستلزم كونه زائـداً كـونـه مـسـاوياً، وقـد كـان بينهما مـنع الـجـمـع لـكـون المنفصلة حقيقيةً، هذا خُلفٌ، وأيضاً يلزم أن يستلزم كونه غير زائد كونه ناقصاً، ويستلزم كونه ناقصاً كونه غير مساو، فينتج من هذا أن يستلزم كونه غير زائد كونه غير مساو، وقد كان بينهما منعُ الخُلو أيضاً لكون المنفصلة حقيقية، هذا خُلْفٌ، بل الحقُّ أن الحقيقية قد تتركَّب من حملية ومنفصلة كقولنا العدد إما أن يكونَ مُساوياً لذلك العدد، أو زائداً عليه، أو ناقصاً عنه، والجزء الثاني أعنى قوله أو زائداً عليه أو ناقصاً عنه منفصلة، والجزء الأول حملية، وأصله: هذا العدد إما أن يكون مساوياً لذلك العدد، أو غير مساوٍ له، لكن إذا لم يكن مساوياً لـه كـان زائداً عليه، أو ناقصاً عنه.
+He said: And the disjunctive propositions may have parts, like our saying: the number is either excessive, defective, or equal. I say: The aforementioned disjunctives are each composed of two parts usually, as has passed, and may be composed of more than two parts. As for the exclusive disjunction, it is like our saying: the number is either excessive, defective, or equal, for it is judged therein that all these do not coexist in one number, nor does the number lack any one of them. But there is consideration in it, because each part of the exclusive disjunction entails the negation of the other due to the impossibility of conjunction, and vice versa due to the impossibility of both being false. So if the exclusive disjunction were composed of three parts or more, the possibility of conjunction and both being false would follow, and this is absurd. For in the mentioned example, namely our saying: the number is either excessive or defective or equal, it follows that its being excessive entails its being not defective, and its being not defective entails its being equal. Thus it follows that its being excessive entails its being equal, whereas between them there is prevention of conjunction because the disjunction is exclusive. This is absurd. Also, it follows that its being not excessive entails its being defective, and its being defective entails its being not equal. Thus it follows that its being not excessive entails its being not equal, whereas between them there is also prevention of both being false because the disjunction is exclusive. This is absurd. Rather, the truth is that the exclusive disjunction may be composed of a categorical and a disjunctive, like our saying: the number is either equal to that number, or excessive relative to it, or defective relative to it. The second part, namely his saying 'or excessive relative to it or defective relative to it' is a disjunctive, and the first part is categorical. Its origin is: this number is either equal to that number, or not equal to it; but if it is not equal to it, it is either excessive relative to it or defective relative to it.
+Source pages p. 49
+
+Commentary
+This passage examines the nature of exclusive disjunction (al-munfasila al-haqiqiyya) and argues that it cannot genuinely consist of three simple parts. The author begins by noting that disjunctives usually have two parts but can have more, but when it comes to the exclusive type—where both parts cannot be true together (man' al-jam') and cannot both be false (man' al-khulu)—a problem arises. The example given is 'the number is either excessive, defective, or equal'. The judgment is that these three do not coexist and the number is never without one. However, a closer analysis shows a contradiction: in an exclusive disjunction, each part must entail the negation of every other part. From 'excessive' we infer 'not defective', and from 'not defective' we infer 'equal', leading to 'excessive entails equal', but this contradicts the requirement that 'excessive' and 'equal' cannot be true together. Similarly, from 'not excessive' we infer 'defective', and from 'defective' we infer 'not equal', leading to 'not excessive entails not equal', but 'not excessive' and 'not equal' cannot both be false because of the exclusion of both falsehood. Thus, a three-part exclusive disjunction is logically impossible. The resolution is that such a three-part statement is actually a compound: a categorical ('the number is equal') and a disjunctive ('or excessive or defective'). The underlying structure is a two-part exclusive disjunction: 'either equal or not equal', where 'not equal' is further analyzed as 'excessive or defective'. This preserves the logical properties of exclusivity.
+
+Key Terms
+المنفصلة الحقيقية
+الجمع
+الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+What are the two conditions of exclusive disjunction?
+A) Man' al-jam' and man' al-khulu
+B) Man' al-jam' only
+C) Man' al-khulu only
+D) Neither
+
+Key Takeaway
+Exclusive disjunction is defined by the impossibility of conjunction and the impossibility of falsehood of all parts.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'This action is either obligatory or forbidden.' Determine if it is an exclusive disjunction by checking whether both can be false (e.g., if the action is permissible). Explain your reasoning.
+
+Pages p. 49 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 49
+Module 9 · Lesson 19
+Next →
+Propositions
+intermediate
+8 min
+The Impossibility of Three-Part Exclusive Disjunction and Its Resolution
+Proof of impossibility of three-part exclusive disjunction and its compound resolution.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the proof that an exclusive disjunction cannot have three simple parts and correctly resolve such a statement into a compound proposition.
+
+Core Idea
+A three-part exclusive disjunction forces contradictions; the correct form is a two-part exclusive disjunction with a nested disjunctive.
+
+The logicians show that genuine exclusive disjunctions have exactly two parts. When we encounter a statement like 'the number is excessive, defective, or equal,' it seems to be a three-part exclusive disjunction. However, careful analysis reveals a logical contradiction. The resolution is that the statement is actually a compound of a categorical and a disjunctive, preserving exclusivity.
+
+Guided Path
+1
+Write the three-part exclusive disjunction
+Write down the example: 'The number is either excessive, defective, or equal.' Note that it is claimed to be an exclusive disjunction.
+Assume that the three parts are mutually exclusive and collectively exhaustive.
+2
+Derive the first contradiction using man' al-jam'
+From 'excessive' we infer 'not defective' and 'not equal'. But then, using the assumption that the disjunction is exclusive and exhaustive, 'not defective' would imply 'equal', leading to 'excessive implies equal', which contradicts man' al-jam' between excessive and equal. Record this contradiction.
+The author's chain: 'excessive implies not defective, not defective implies equal' yields 'excessive implies equal', violation.
+3
+Derive the second contradiction using man' al-khulu
+From 'not excessive' we infer 'defective' (since one must be true), and from 'defective' we infer 'not equal'. So 'not excessive' implies 'not equal'. This means that 'excessive' and 'equal' are both false, which violates man' al-khulu (they cannot both be false). Record this contradiction.
+Thus, a three-part exclusive disjunction leads to absurdity (khulf).
+4
+Discover the resolution
+The passage says that the correct interpretation is that the statement is not a simple three-part exclusive disjunction. Instead, it is a compound: a categorical proposition ('the number is equal') and a disjunctive proposition ('or excessive or defective'). The underlying form is a two-part exclusive disjunction: 'the number is either equal or not equal', where 'not equal' is further detailed as 'excessive or defective'.
+This preserves the exclusivity because 'equal' and 'not equal' are truly exclusive and exhaustive.
+5
+Apply the resolution to another example
+Consider a legal statement: 'This act is either wajib, haram, or mubah.' Show why it cannot be an exclusive disjunction (mubah can coexist with not wajib and not haram), and then resolve it as a compound: 'The act is either wajib or not wajib; if not wajib, it is either haram or mubah.'
+This mirrors the logical structure of the number example.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: وقد تكونُ المُنفصلاتُ ذاتَ أجزاء كقولنا: العدد إما زائد أو ناقض أو مساو). أقول: المنفصلات المذكورةُ يَتركَّبُ كلُّ واحدة منها من جزئين غالباً كما مَرَّ، وقد تتركَّب من أكثر من جزئين، أما المنفصلة الحقيقية فكقولنا العدد إما زائد أو ناقص أو مُساوِ، فإنه حُكِمَ فيها بأن هذا الجميع لا يجتمع على عددٍ واحدٍ، ولا يخلو العدد عن واحد منها، وفيه نظر لأنَّ عين أحد أجزاء الحقيقية يستلزم نقيض الآخر لامتناع الجمع، وبالعكس لامتناع الخُلُو، فلو تركَّبت الحقيقية من ثلاثة أجزاء فصاعداً يلزم جواز الجمع والخلو، وهذا خُلْفٌ، لأنه في المثال المذكور وهو قولنا: العدد إما زائد أو ناقص أو مُساوِ، يلزم أن يستلزم كونه زائداً كونه غير ناقص، ويستلزم كونه غير ناقص كونَهُ مُساوياً، وينتج من هذا أنْ يستلزم كونه زائـداً كـونـه مـسـاوياً، وقـد كـان بينهما مـنع الـجـمـع لـكـون المنفصلة حقيقيةً، هذا خُلفٌ، وأيضاً يلزم أن يستلزم كونه غير زائد كونه ناقصاً، ويستلزم كونه ناقصاً كونه غير مساو، فينتج من هذا أن يستلزم كونه غير زائد كونه غير مساو، وقد كان بينهما منعُ الخُلو أيضاً لكون المنفصلة حقيقية، هذا خُلْفٌ، بل الحقُّ أن الحقيقية قد تتركَّب من حملية ومنفصلة كقولنا العدد إما أن يكونَ مُساوياً لذلك العدد، أو زائداً عليه، أو ناقصاً عنه، والجزء الثاني أعنى قوله أو زائداً عليه أو ناقصاً عنه منفصلة، والجزء الأول حملية، وأصله: هذا العدد إما أن يكون مساوياً لذلك العدد، أو غير مساوٍ له، لكن إذا لم يكن مساوياً لـه كـان زائداً عليه، أو ناقصاً عنه.
+He said: And the disjunctive propositions may have parts, like our saying: the number is either excessive, defective, or equal. I say: The aforementioned disjunctives are each composed of two parts usually, as has passed, and may be composed of more than two parts. As for the exclusive disjunction, it is like our saying: the number is either excessive, defective, or equal, for it is judged therein that all these do not coexist in one number, nor does the number lack any one of them. But there is consideration in it, because each part of the exclusive disjunction entails the negation of the other due to the impossibility of conjunction, and vice versa due to the impossibility of both being false. So if the exclusive disjunction were composed of three parts or more, the possibility of conjunction and both being false would follow, and this is absurd. For in the mentioned example, namely our saying: the number is either excessive or defective or equal, it follows that its being excessive entails its being not defective, and its being not defective entails its being equal. Thus it follows that its being excessive entails its being equal, whereas between them there is prevention of conjunction because the disjunction is exclusive. This is absurd. Also, it follows that its being not excessive entails its being defective, and its being defective entails its being not equal. Thus it follows that its being not excessive entails its being not equal, whereas between them there is also prevention of both being false because the disjunction is exclusive. This is absurd. Rather, the truth is that the exclusive disjunction may be composed of a categorical and a disjunctive, like our saying: the number is either equal to that number, or excessive relative to it, or defective relative to it. The second part, namely his saying 'or excessive relative to it or defective relative to it' is a disjunctive, and the first part is categorical. Its origin is: this number is either equal to that number, or not equal to it; but if it is not equal to it, it is either excessive relative to it or defective relative to it.
+Source pages p. 49
+
+Commentary
+This passage examines the nature of exclusive disjunction (al-munfasila al-haqiqiyya) and argues that it cannot genuinely consist of three simple parts. The author begins by noting that disjunctives usually have two parts but can have more, but when it comes to the exclusive type—where both parts cannot be true together (man' al-jam') and cannot both be false (man' al-khulu)—a problem arises. The example given is 'the number is either excessive, defective, or equal'. The judgment is that these three do not coexist and the number is never without one. However, a closer analysis shows a contradiction: in an exclusive disjunction, each part must entail the negation of every other part. From 'excessive' we infer 'not defective', and from 'not defective' we infer 'equal', leading to 'excessive entails equal', but this contradicts the requirement that 'excessive' and 'equal' cannot be true together. Similarly, from 'not excessive' we infer 'defective', and from 'defective' we infer 'not equal', leading to 'not excessive entails not equal', but 'not excessive' and 'not equal' cannot both be false because of the exclusion of both falsehood. Thus, a three-part exclusive disjunction is logically impossible. The resolution is that such a three-part statement is actually a compound: a categorical ('the number is equal') and a disjunctive ('or excessive or defective'). The underlying structure is a two-part exclusive disjunction: 'either equal or not equal', where 'not equal' is further analyzed as 'excessive or defective'. This preserves the logical properties of exclusivity.
+
+Key Terms
+المنفصلة الحقيقية
+الجمع
+الخلو
+خلف
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the exclusive disjunction 'the number is either excessive, defective, or equal' lead to a contradiction?
+A) Because 'excessive' implies 'equal', violating man' al-jam'
+B) Because 'defective' implies 'equal', violating man' al-jam'
+C) Because 'not excessive' implies 'not equal', violating man' al-khulu
+D) Both A and C
+
+Key Takeaway
+An exclusive disjunction cannot have three simple parts; a three-category exhaustive statement is actually a compound of a categorical and a disjunctive.
+
+How This Lesson Applies — to MY Life?
+?
+Take the statement: 'This action is either obligatory, prohibited, or permissible.' Explain why it cannot be a genuine exclusive disjunction and rephrase it as a compound exclusive disjunction following the pattern from the passage.
+
+Pages p. 49 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 50
+Module 9 · Lesson 20
+Next →
+Propositions
+advanced
+8 min
+The True Composition of Exclusive Disjunction
+Author refutes three-part exclusive disjunction, showing it reduces to two parts.
+
+Learning Objective
+By the end of this lesson, you will be able to analyze the composition of an exclusive disjunction and refute attempts to extend it beyond two parts using logical deduction.
+
+Core Idea
+Exclusive disjunction has exactly two parts; apparent three-part cases are composites.
+
+You have learned that an exclusive disjunction (al-munfasila al-haqīqiyya) prevents both combination and emptiness. But what if a disjunction seems to have three parts, like 'the number is greater, lesser, or equal'? The author of this passage shows that such a structure is impossible for a true exclusive disjunction and explains its real composition. Understanding this distinction is crucial for correctly analyzing compound propositions in Islamic logic.
+
+Guided Path
+1
+Identify the definition of exclusive disjunction
+Recall that an exclusive disjunction (المنفصلة الحقيقية) requires exactly one part to be true: it prevents the conjunction of any two parts (مانعة الجمع) and also the emptiness of all parts (مانعة الخلو).
+This is the starting point for the author's argument.
+2
+Recognize the three-part claim
+The author considers the example: 'The number is either greater, lesser, or equal.' This appears to be a three-part disjunction. The claim is that it could be an exclusive disjunction if the three parts cannot be together nor all false.
+The author will show this leads to contradiction.
+3
+Trace the reductio argument
+The author assumes the three-part disjunction is exclusive. Then, he derives entailments: from 'greater' we get 'not lesser', and from 'not lesser' we get 'equal' (since emptiness is prevented). This forces 'greater' to imply 'equal', which violates exclusivity (they should be mutually exclusive). Similarly, from 'not greater' we get 'lesser' and then 'not equal', again a contradiction.
+The argument uses the impossibility of both combination and emptiness.
+4
+Understand the correct composite structure
+The author explains that the apparent three-part disjunction is actually a composite: a categorical proposition ('the number is equal or not equal') combined with a disjunction ('if not equal, then greater or lesser'). Thus, true exclusive disjunction reduces to two parts.
+This clarifies the logical anatomy of compound propositions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هذا الجميع لا يجتمع على عددٍ واحدٍ، ولا يخلو العدد عن واحد منها، وفيه نظر لأنَّ عين أحد أجزاء الحقيقية يستلزم نقيض الآخر لامتناع الجمع، وبالعكس لامتناع الخُلُو، فلو تركَّبت الحقيقية من ثلاثة أجزاء فصاعداً يلزم جواز الجمع والخلو، وهذا خُلْفٌ، لأنه في المثال المذكور وهو قولنا: العدد إما زائد أو ناقص أو مُساوِ، يلزم أن يستلزم كونه زائداً كونه غير ناقص، ويستلزم كونه غير ناقص كونَهُ مُساوياً، وينتج من هذا أنْ يستلزم كونه زائـداً كـونـه مـسـاوياً، وقـد كـان بينهما مـنـع الـجـمـع لـكـون المنفصلة حقيقيةً، هذا خُلفٌ، وأيضاً يلزم أن يستلزم كونه غير زائد كونه ناقصاً، ويستلزم كونه ناقصاً كونه غير مساو، فينتج من هذا أن يستلزم كونه غير زائد كونه غير مساو، وقد كان بينهما منعُ الخُلو أيضاً لكون المنفصلة حقيقية، هذا خُلْفٌ، بل الحقُّ أن الحقيقية قد تتركَّب من حملية ومنفصلة كقولنا العدد إما أن يكونَ مُساوياً لذلك العدد، أو زائداً عليه، أو ناقصاً عنه، والجزء الثاني أعنى قوله أو زائداً عليه أو ناقصاً عنه منفصلة، والجزء الأول حملية، وأصله: هذا العدد إما أن يكون مساوياً لذلك العدد، أو غير مساءٍ له، لكن إذا لم يكن مساوياً لـه كـان زائداً عليه، أو ناقصاً عنه، فلما كانت هذه المنفصلة في قوة تلك الحملية أُقيمت مُقامَها، فيُظَنُّ أنَّها مركبة من ثلاثة أجزاء، ولكنها بالحقيقة مركبة من الحملية والمُنفصلة كما عرفتَ فلا تَتَركَّبُ الحقيقية إلا من جزئين، وكذا مانعة الخلو، بخلاف مانعة الجمع، فإنها قد تتركَّبُ من ثلاثة أجزاء فصاعداً، ولبيانها طُولٌ لا يَليقُ بهذا المُختصر، فَلْيُطْلَبُ في المطولات.
+This whole group does not come together in a single number, nor is the number devoid of any one of them. There is a consideration: because the very essence of one part of the exclusive disjunction necessitates the negation of the other due to the impossibility of combination, and conversely due to the impossibility of emptiness. So if the exclusive disjunction were composed of three or more parts, it would necessitate the permissibility of combination and emptiness, and this is a contradiction. For in the mentioned example, which is our statement: 'The number is either greater, or lesser, or equal,' it would necessitate that its being greater entails its being not lesser, and its being not lesser entails its being equal, and from this it results that its being greater entails its being equal—whereas between them there is prevention of combination because the disjunction is exclusive; this is a contradiction. Also, it would necessitate that its being not greater entails its being lesser, and its being lesser entails its being not equal, and from this it results that its being not greater entails its being not equal—whereas between them there is prevention of emptiness as well because the disjunction is exclusive; this is a contradiction. Rather, the truth is that the exclusive disjunction may be composed of a categorical and a disjunctive, like our statement: 'The number is either equal to that number, or greater than it, or lesser than it.' The second part—that is, his saying 'or greater than it or lesser than it'—is a disjunction, and the first part is categorical. Its origin is: 'This number is either equal to that number or not equal to it.' But if it is not equal to it, then it is either greater or lesser. So since this disjunction is in the power of that categorical, it was put in its place, so it is thought that it is composed of three parts, but in reality it is composed of the categorical and the disjunction, as you have learned. Thus the exclusive disjunction is not composed of more than two parts, and likewise the exclusive emptiness (man'at al-khulu), unlike the inclusive disjunction (man'at al-jam'), for it may be composed of three or more parts. Its explanation is lengthy and not suitable for this abridgment, so let it be sought in the longer works.
+Source pages p. 50
+
+Commentary
+This passage is a logical argument defending the composition of exclusive disjunctions. The author begins by referring to a previous claim that in an exclusive disjunction (المنفصلة الحقيقية) the parts cannot all be together nor all absent. The objection is raised: if one considers the example of number being greater, lesser, or equal, it seems that these three cannot be true together nor all false, suggesting a three-part exclusive disjunction. The author then demonstrates that this leads to a contradiction. Through a chain of implications, he shows that if the disjunction were truly three-part, it would allow both combination and emptiness, which violates the definition. The correct analysis is that the apparent three-part disjunction is actually a composite of a categorical proposition ('the number is equal or not equal') and a disjunction ('if not equal, then greater or lesser'). Thus exclusive disjunctions only have two parts. The same holds for 'man'at al-khulu' (disjunction preventing emptiness alone), but 'man'at al-jam'' (inclusive disjunction preventing combination only) can have more than two parts, as it does not also prevent emptiness. This is a technical point in logic about the structure of compound propositions.
+
+Key Terms
+المنفصلة الحقيقية
+مانعة الجمع
+مانعة الخلو
+حملية
+منفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, an exclusive disjunction (المنفصلة الحقيقية) can be composed of how many parts?
+A) Two parts only.
+B) Three or more parts.
+C) Any number of parts.
+D) Two parts for مانعة الجمع, but three for others.
+
+Key Takeaway
+A true exclusive disjunction (المنفصلة الحقيقية) must have exactly two parts; any appearance of three or more parts is a composite of a categorical and a disjunctive.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Water is either pure (tahir), impure (najis), or ritually purifying (mutahhir).' Analyze whether this is a true exclusive disjunction. If not, reconstruct it as a composite of a categorical and a disjunctive, following the author's method.
+?
+Craft a two-part exclusive disjunction in fiqh, then expand one of its parts into a further disjunction, creating an apparent three-part statement. Verify that the underlying exclusive disjunction remains two-part.
+
+Pages p. 50 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 51
+Module 9 · Lesson 21
+Next →
+Propositions
+beginner
+5 min
+Understanding Contradiction in Propositions
+Author defines contradiction as opposition of affirmation and negation that necessarily entails one truth and one falsity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a valid contradiction between two propositions by checking the conditions of sameness of subject, affirmation vs. negation, and inherent necessity of one truth and one falsehood.
+
+Core Idea
+Contradiction requires same subject, opposite qualities, and inherent truth-value opposition.
+
+The concept of contradiction (التناقض) is fundamental in logic because it allows us to detect impossible pairs of statements. A contradictory pair can never both be true or both false — they are exact opposites. This lesson breaks down the definition given by the author, showing you how to parse a logical definition into its genus and differentia, and how to apply the conditions to real examples from Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the genus in the definition
+The definition begins with 'opposition' (اختلاف). This is the broad category: contradiction is a kind of opposition between two things. Notice that the commentator explains that 'opposition' can occur between propositions, between terms, or between a term and a proposition. By restricting to propositions, we narrow down.
+The genus is the first part of a definition that places the term in a wider class.
+2
+Extract the differentia
+The differentia is what distinguishes contradiction from other types of opposition: it is opposition 'of two propositions in affirmation and negation' (بالإيجاب والسلب). This means one proposition must affirm and the other must negate the same predicate of the same subject. Also, the opposition must 'inherently necessitate' (لذاته) that one is true and the other false — this means the truth values are determined solely by the logical form, not by external facts.
+The differentia contains the essential conditions; a valid contradiction must satisfy all of them.
+3
+Test with the provided example
+The author gives the example: 'Zayd is a writer' and 'Zayd is not a writer'. Check each condition: same subject (Zayd), same predicate (writer) but one affirms and one negates, and inherent necessity: if one is true the other is automatically false, and vice versa. This is a perfect contradiction.
+Always verify with an example to solidify understanding.
+4
+Distinguish contradiction from mere opposition
+Not every pair of different propositions is a contradiction. For instance, 'Zayd is a writer' and 'Zayd is a scholar' are not contradictory because they can both be true. The key is the combination of affirmation/negation and the logical impossibility of both being true or both false.
+This distinction is crucial for valid inferences in debates and proofs.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: (التناقض: هو اختلاف القضيَّتين بالإيجاب والسلب بحيث يقتضي لذاته أن تكونَ إحداهما صادقةً، والأخرى كاذبة كقولنا: زيد كاتب، وزيد ليس بكاتب). أقول: من الاصطلاحاتِ المنطقية المذكورةِ التَّناقض ): وهو اختلاف القضيَّتين بالإيجاب والسَّلب بحيث يقتضي لذاتـه أن تكون إحداهما صادقةً، والأخرى كاذبةً كقولنا: زيد كاتب، وزيـد ليس بكاتب، فإنَّ هاتين القضيتين اختلفَتَا بالإيجاب والسلب اختلافاً يقتضي لذاته أن تكون إحداهما صادقةً، والأخرى كاذبةً على حَسْبِ الواقع. وقولُه اختلاف جنس شامل للاختلاف الواقع بين قضيَّتين ومفردين، ومفرد وقضية، وقوله قضيتين يُخرِجُ الاختلاف الواقع بين غير قضيتين.
+He said: 'Contradiction is the opposition of two propositions in affirmation and negation such that it inherently necessitates that one of them is true and the other false, like our statement: Zayd is a writer, and Zayd is not a writer.' I say: Among the mentioned logical terms is contradiction. And it is the opposition of two propositions in affirmation and negation such that it inherently necessitates that one of them is true and the other false, like our statement: Zayd is a writer, and Zayd is not a writer. For these two propositions differ in affirmation and negation with a difference that inherently necessitates that one is true and the other false according to reality. His statement 'opposition' (ikhtilāf) is a genus that includes the opposition occurring between two propositions, between two single terms, and between a single term and a proposition. And his statement 'two propositions' excludes opposition occurring between non-propositions.
+Source pages p. 51
+
+Commentary
+This passage defines the logical term 'contradiction' (التناقض). It begins by quoting the definition: contradiction is the opposition (اختلاف) of two propositions in affirmation and negation in such a way that it inherently (لذاته) requires that one is true and the other false. The example given is 'Zayd is a writer' and 'Zayd is not a writer' — these differ in quality (affirmation vs. negation) and necessarily cannot both be true or both false. The commentator then parses the definition: the word 'opposition' (اختلاف) is a genus that covers differences between propositions, between terms, and between a term and a proposition; but by adding 'two propositions', the definition restricts it to opposition between propositions only, excluding other types of difference. This is a standard way of giving a definition in logic by specifying genus and differentia. Note that the definition implies other conditions (like same subject, predicate, time, place, etc.) but these are not mentioned here explicitly.
+
+Key Terms
+التناقض
+اختلاف
+إيجاب
+سلب
+لذاته
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a valid example of contradiction (التناقض) according to the definition in this passage?
+A) Zayd is standing and 'Amr is sitting.
+B) Zayd is a writer and Zayd is knowledgeable.
+C) Zayd is a writer and Zayd is not a writer.
+D) Zayd is not a writer and 'Amr is a writer.
+
+Key Takeaway
+Contradiction is a specific type of opposition between two propositions that must have the same subject and predicate in affirmation and negation, and must inherently force one truth and one falsehood.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the following pair of propositions from a kalam debate: 'The world is eternal' and 'The world is originated'. Using the definition of contradiction from this lesson, determine if they are truly contradictory. Explain why or why not.
+?
+Given the propositions: 'Zayd is a scholar and Zayd is not a scholar' does not require inherent necessity? Actually it does. Provide your own example of a valid contradiction using an Islamic legal ruling (e.g., 'Riba is forbidden' and 'Riba is not forbidden') and verify each condition.
+
+Pages p. 51 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 51
+Module 9 · Lesson 22
+Next →
+Propositions
+intermediate
+10 min
+Definition of Contradiction and Its Five Conditions
+Author defines contradiction and analyses its five conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a given pair of propositions forms a contradiction by checking the five conditions taught in this passage.
+
+Core Idea
+Contradiction is the difference between two propositions by affirmation and negation necessitating one true, one false – by itself.
+
+Contradiction (tanāquḍ) is a fundamental logical relation used extensively in Islamic theology and jurisprudence to establish proofs and refute falsehood. The classical logicians defined it with precise conditions to avoid confusion with other forms of opposition. This lesson unpacks the definition from the text and shows you how to apply the five conditions to real examples from Islamic sciences.
+
+Guided Path
+1
+Identify the two propositions
+Find the two statements claimed to be contradictory. They must both be propositions (qadiyya) capable of truth and falsity. Check that they are not individuals or concepts.
+The text uses 'Zayd is a writer' and 'Zayd is not a writer'.
+2
+Check that they differ by affirmation and negation
+One proposition must affirm something, the other must negate the very same thing. For example, 'Zayd is a writer' (affirmation) vs 'Zayd is not a writer' (negation). If the opposition is not direct affirmation/negation, it is not tanāquḍ.
+The text excludes differences by connection/disconnection, universality/particularity, etc.
+3
+Verify that one must be true and the other false
+The difference must be such that it is impossible for both to be true or both false. If both can be true, like 'Zayd is stationary' and 'Zayd is not moving', it fails.
+The text explicitly mentions this exclusion.
+4
+Ensure the necessity is by itself (li-dhātihī)
+The necessity of one true and one false must arise from the logical form alone, not from external facts. For example, 'Zayd is a human' and 'Zayd is not a speaker' seem contradictory but are not, because the falsehood of the second depends on the coextensiveness of 'human' and 'speaker', not on the logical form.
+This is the most subtle condition; it excludes material contradiction.
+5
+Apply the conditions to an Islamic example
+Test a pair like 'This act is obligatory' and 'This act is not obligatory' from fiqh. Confirm all conditions are met: both propositions, affirmation/negation, one true one false by form alone.
+Practice with other examples from kalam or usul al-fiqh.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التناقض: هو اختلافُ القضيَّتين بالإيجاب والسلب بحيث يقتضي لذاته أن تكونَ إحداهما صادقةً، والأخرى كاذبة كقولنا: زيد كاتب، وزيد ليس بكاتب.
+أقول: من الاصطلاحاتِ المنطقية المذكورةِ التَّناقض:
+وهو اختلاف القضيَّتين بالإيجاب والسَّلب بحيث يقتضي لذاتـه أن تكون إحداهما صادقةً، والأخرى كاذبةً كقولنا: زيد كاتب، وزيـد ليس بكاتب، فإنَّ هاتين القضيتين اختلفَتَا بالإيجاب والسلب اختلافاً يقتضي لذاته أن تكون إحداهما صادقةً، والأخرى كاذبةً على حَسْبِ الواقع.
+وقولُه اختلاف جنس شامل للاختلاف الواقع بين قضيَّتين ومفردين، ومفرد وقضية، وقوله قضيتين يُخرِجُ الاختلاف الواقع بين غير قضيتين، وقوله بالإيجاب والسلب: يُخرجُ الاختلاف الواقع بالاتصال والانفصال، والاختلاف بالكلية والجزئية، والاختلاف بالحصر والإهمال، والاختلاف بالعدول والتحصيل وغير ذلك، وقوله بحيث يقتضي الخ يُخرجُ الاختلاف بالإيجاب والسلب، لكن لا بحيث يقتضي صدق إحداهما كَذِبَ الأخرى نحو زيد ساكن، وزيد ليس بمُتحرّك، لأنهما صادقتان، وقوله لذاته يُخرجُ الاختلاف بالإيجاب والسلب بحيثُ يقتضي صدقُ إحداهما كذب الأخرى، لكن لا لذات ذلك الاختلاف نحو زيد إنسان وزيد ليس بناطق، فإن الاختلاف بين هاتين القضيتين إنَّما يقتضى أن يكون إحداهما صادقة، والأخرى كاذبة، لكن لا لذاته بل بواسطة زيد ليس بناطق فإن الناطق والإنسان متساويان في ما يصدقان عليه من الأفراد.
+Contradiction: It is the difference of two propositions by affirmation and negation such that necessarily by itself one of them is true and the other false, like our saying: Zayd is a writer, and Zayd is not a writer. I say: Among the mentioned logical terminologies is contradiction: It is the difference of two propositions by affirmation and negation such that necessarily by itself one of them is true and the other false, like our saying: Zayd is a writer, and Zayd is not a writer. For these two propositions differ by affirmation and negation in a way that necessarily by itself one of them is true and the other false according to reality. His saying 'difference' is a genus encompassing the difference occurring between two propositions, two individuals, and an individual and a proposition. His saying 'two propositions' excludes the difference occurring between non-propositions. His saying 'by affirmation and negation' excludes difference occurring by connection and disconnection, difference by universality and particularity, difference by restriction and non-restriction, difference by modification and non-modification, and other than that. His saying 'such that it necessitates' excludes difference by affirmation and negation but not such that the truth of one necessitates the falsehood of the other, such as Zayd is stationary and Zayd is not moving, for they are both true. His saying 'by itself' excludes difference by affirmation and negation such that the truth of one necessitates the falsehood of the other, but not by virtue of that difference itself, such as Zayd is a human and Zayd is not a speaker. For the difference between these two propositions does necessitate that one be true and the other false, but not by itself, but rather by means of Zayd is not a speaker, since speaker and human are coextensive in the individuals to which they apply.
+Source pages p. 51
+
+Commentary
+This passage defines the logical term 'tanāquḍ' (contradiction) and explains its conditions through a careful breakdown of the definition. The author first presents the simple definition: contradiction is the difference between two propositions (qadiyyatayn) in affirmation (ījāb) and negation (salb) such that necessarily by itself one is true and the other false. The example given is 'Zayd is a writer' and 'Zayd is not a writer'. Then the commentary unpacks each part of the definition. 'Difference' (ikhtilāf) is the genus, covering any difference between two things, including non-propositions. 'Two propositions' excludes differences between non-propositions, like between two individuals. 'By affirmation and negation' excludes differences that arise from other logical relations, such as conditional or disjunctive connections, quantifiers (universal/particular), modal restrictions, etc. 'Such that it necessitates' ensures that the difference actually forces one to be true and the other false; for example, 'Zayd is stationary' and 'Zayd is not moving' are both true (if he is stationary, he is not moving) and thus are not contradictory. Finally, 'by itself' eliminates cases where the necessity arises from an external factor, not the mere form of the propositions. For instance, 'Zayd is a human' and 'Zayd is not a speaker' are not contradictory by virtue of the difference itself because 'human' and 'speaker' are coextensive; the falsehood of 'Zayd is not a speaker' depends on the material fact that all humans are speakers by definition, not on the logical form. Thus, the definition precisely isolates formal logical contradiction.
+
+Key Terms
+التناقض
+اختلاف
+قضية
+إيجاب وسلب
+لذاته
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is an example of a true contradiction (tanāquḍ)?
+A) 'Zayd is a writer' and 'Zayd is not a writer'
+B) 'Zayd is stationary' and 'Zayd is not moving'
+C) 'Zayd is human' and 'Zayd is not a speaker'
+D) 'Every human is rational' and 'No human is rational'
+
+Key Takeaway
+A true contradiction requires that two propositions differ specifically by affirmation and negation, such that the necessity of one true and one false arises from the logical form alone, not from external facts.
+
+How This Lesson Applies — to MY Life?
+?
+Check whether the following pairs are contradictions according to the five conditions: (a) 'The world is temporally originated' and 'The world is not temporally originated' (b) 'Zayd is alive' and 'Zayd is dead' (c) 'Every action is created by Allah' and 'No action is created by Allah'.
+?
+Construct a contradictory pair from Islamic law (fiqh) that satisfies all five conditions, and explain why each condition holds.
+
+Pages p. 51 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 54
+Module 9 · Lesson 23
+Next →
+Propositions
+beginner
+5 min
+Three Conditions for Contradiction: Potentiality, Whole-Part, Condition
+Author lists the sixth, seventh, and eighth conditions for contradiction
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a pair of propositions violates any of the three conditions (potentiality/actuality, whole/part, condition) and therefore are not truly contradictory.
+
+Core Idea
+To be contradictory, two claims must match in mode, extent, and circumstance.
+
+The logicians have identified eight conditions for two propositions to be truly contradictory. In this lesson, we examine the sixth, seventh, and eighth conditions: unity of potentiality and actuality, unity of whole and part, and unity of condition. Without these, two statements that appear contradictory may actually both be true or both false. Understanding these conditions sharpens your ability to detect false contradictions in Islamic arguments.
+
+Guided Path
+1
+Identify the two propositions under scrutiny
+Write down the two statements that appear contradictory. For example, 'Wine in the vat is intoxicating' and 'Wine in the vat is not intoxicating'.
+2
+Check for unity of potentiality and actuality
+Ask: Do both statements refer to the same mode? If one says something is potentially the case and the other says it is actually not, they are not contradictory. The wine example: the first means potentially intoxicating, the second actually not.
+The mode must be identical for contradiction.
+3
+Check for unity of whole and part
+Ask: Do both statements refer to the same scope? If one refers to part of the subject and the other to the whole, they are not contradictory. The Zanjī example: 'some of him is black' vs 'all of him is not black' differ in scope.
+The quantifier or implied scope must match.
+4
+Check for unity of condition
+Ask: Are both statements made under the same condition? If conditions differ, they are not contradictory. The body example: 'dispersing light if white' vs 'not dispersing light if black' are both true under their own conditions.
+The condition (sharṭ) must be identical.
+5
+Determine if contradiction is genuine
+If all three conditions are met, and also the earlier five (not covered here), then contradiction exists. Otherwise, it is only apparent. Apparent contradictions often arise in theological debates when these conditions are overlooked.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والسادسة: وحدة القُوَّةِ والفعل، لأنهما لو اختلفتا فيها بأن تكون النسبة في إحداهما بالقُوَّة، وفي الأخرى بالفعل، لم تتناقضا نحو: الخَمْرُ في الدَّنَ مُسكرٌ أي بالقُوَّة، والخمرُ في الدَّنَ ليس بمُسكر أي بالفعل، والسابعة وحدة الكُلِ والجُزء، لأنهما لو اختلفتا في الكل والجُزء لم يتحقق التناقض نحو الزنجي أسود أي بعضه، والزنجي ليس بأسود أي كله، والثامنة: وحدة الشرط، لعدم تحقق التناقض بين القضيتين عند اختلاف الشرط كقولنا : الجسمُ مُفرّق للبصر أي بشرط كونه أبيض، والجسم ليس بمُفرّق للبصر أي بشرط كونه أسود
+The sixth: unity of potentiality and actuality, because if they differ in them such that the relation in one is potential and in the other actual, they are not contradictory. For example: 'Wine in the vat is intoxicating' meaning potentially, and 'Wine in the vat is not intoxicating' meaning actually. The seventh: unity of whole and part, because if they differ in whole and part, contradiction does not obtain. For example: 'The Zanjī is black' meaning some of him, and 'The Zanjī is not black' meaning all of him. The eighth: unity of condition, because contradiction between the two propositions does not obtain when the condition differs, as in our saying: 'The body is light-dispersing' meaning on condition of it being white, and 'The body is not light-dispersing' meaning on condition of it being black.
+Source pages p. 54
+
+Commentary
+This passage defines the last three of the eight conditions (al-waḥdāt al-thamān) required for two propositions to be truly contradictory. The author explains each condition by stating that if it is violated, contradiction fails, and provides Islamic and everyday examples. The sixth condition is unity of potentiality and actuality (al-quwwa wa al-fiʿl): the mode of the predicate must be the same; if one proposition speaks of potentiality and the other of actuality, they can both be true. The example uses wine in a vat—potentially intoxicating but not actually so yet. The seventh condition is unity of whole and part (al-kull wa al-juzʾ): both propositions must refer to the same extent of the subject; if one refers to part and the other to the whole, they are not contradictory. The example is a dark-skinned person (Zanjī) whose whole body is black, but saying 'some of him is black' is true while 'all of him is not black' is false; they can both be false? Actually the example shows they are not contradictory because they differ in whole vs part. The eighth condition is unity of condition (al-sharṭ): the accompanying condition must be the same; if conditions differ, they can both be true. The example uses a white body dispersing light and a black body not dispersing light—each is true under its own condition.
+
+Key Terms
+القوة
+الفعل
+الكُل
+الجُزء
+الشَرط
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is 'Wine in the vat is intoxicating' and 'Wine in the vat is not intoxicating' not considered contradictory?
+A) They differ in subject unity
+B) They differ in predicate unity
+C) They differ in potentiality and actuality
+D) They differ in whole and part
+
+Key Takeaway
+For two propositions to be contradictory, they must agree in potentiality/actuality, whole/part, and condition, otherwise the contradiction is only apparent.
+
+How This Lesson Applies — to MY Life?
+?
+Take the two statements: 'The Quran is created' (meaning the paper and ink are created) and 'The Quran is not created' (meaning the divine speech is uncreated). Are they contradictory? Apply the condition of whole and part to explain your answer.
+
+Pages p. 54 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 54
+Module 9 · Lesson 24
+Next →
+Propositions
+beginner
+5 min
+Contradiction in Quantified Propositions
+Author states the rule for contradiction in quantified categorical propositions
+
+Learning Objective
+By the end of this lesson, you will be able to identify the contradictory of any standard categorical proposition (A, E, I, O) and verify the rule of contradiction.
+
+Core Idea
+Contradiction requires opposite quality and opposite quantity—one true, one false, always.
+
+In Islamic logic, establishing a contradiction is essential for proofs and refutations. The rule for categorical propositions is simple: change both quantity and quality. This lesson unpacks that rule from the Isaghuji commentary and applies it to real Islamic examples from fiqh and kalam.
+
+Guided Path
+1
+Identify the quality and quantity of the given proposition
+Determine if the proposition is affirmative or negative (quality) and universal or particular (quantity). This gives you the type: A (universal affirmative), E (universal negative), I (particular affirmative), O (particular negative).
+For example, 'Every intoxicant is forbidden' is universal affirmative (A).
+2
+Apply the contradictory rule
+To find the contradictory, flip both quality and quantity: if universal, make particular; if affirmative, make negative. A becomes O, E becomes I, I becomes E, O becomes A.
+The contradictory of A is O, of E is I, of I is E, of O is A.
+3
+Verify the truth conditions
+Ensure that the two propositions cannot be both true or both false. For a valid contradiction, one must be true and the other false, regardless of the subject's existence.
+Classical logic assumes existential import; the examples here assume non-empty subject terms.
+4
+Apply to an Islamic science example
+Take a real fiqh ruling: 'Every intoxicant is forbidden' (A). Its contradictory is 'Some intoxicant is not forbidden' (O). If a jurist asserts the first, the opponent can contradict with the second.
+This forces the debate to a clear logical opposition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإذا عرفت هذا فنقولُ: إِنَّ القضيتين إذا كانت إحداهما موجبة كلية ينبغي أن تكون الأخرى سالبة جزئية، وإذا كانت سالبة كلية ينبغي أن تكون الأُخرى موجبة جزئية، فنقيضُ الموجبة الكلية إنما هي السالبة الجزئية كقولنا : كلُّ إنسان حيوان، وبعضُ الإنسان ليس بحيوان، ونقيضُ السالبة الكلية إنما هي الموجبة الجزئية كقولنا: لا شيء من الإنسان بحيوان، وبعضُ الإنسان حيوان، وبقية هذا وكيفيته سيأتي في المحصورات، والحقُّ أنَّ إيرادَ المُصنف رحمه الله تعالى هذا أي قوله ونقيضُ الموجبة الكلية الخ ههنا ليس في موضعه، وإنما موضعه بعد تحقيق المحصورات.
+And when you know this, we say: The two propositions, if one of them is universal affirmative, the other must be particular negative; and if it is universal negative, the other must be particular affirmative. So the contradictory of the universal affirmative is only the particular negative, as in our saying: 'Every human is an animal' and 'Some human is not an animal'. And the contradictory of the universal negative is only the particular affirmative, as in our saying: 'No human is an animal' and 'Some human is an animal'. The rest of this and its modality will come in the section on quantified propositions. And the truth is that the author's (may God have mercy on him) insertion of this here—namely his saying 'the contradictory of the universal affirmative...' etc.—is not in its proper place; rather, its proper place is after the investigation of quantified propositions.
+Source pages p. 54
+
+Commentary
+This passage establishes the standard rule for logical contradiction (tanāquḍ) in quantified categorical propositions. After stating that the student must recall the eight conditions, the author applies them: for two propositions to be contradictory, they must differ in quantity (one universal, one particular) and quality (one affirmative, one negative). Specifically, the contradictory of a universal affirmative (A) is a particular negative (O), and the contradictory of a universal negative (E) is a particular affirmative (I). The author gives two examples from the Islamic intellectual tradition: 'Every human is an animal' (true) and 'Some human is not an animal' (false) are contradictories; 'No human is an animal' (false) and 'Some human is an animal' (true) are also contradictories. The author then notes that this topic properly belongs after the chapter on quantified propositions (al-mahṣūrāt) and critiques the placement of this rule in the current chapter by the original author (al-muṣannif), stating it is out of place.
+
+Key Terms
+النقيض
+موجبة كلية
+سالبة جزئية
+سالبة كلية
+موجبة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the contradictory of 'Every intoxicant (khamr) is forbidden (ḥarām)'?
+A) Some intoxicant is not forbidden
+B) No intoxicant is forbidden
+C) Every intoxicant is not forbidden
+D) Some intoxicant is forbidden
+
+Key Takeaway
+The rule of contradiction for categorical propositions is simple: change quantity and quality to get the opposite truth value always.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'No ribā-based transaction is valid' (E), write its contradictory and explain why they cannot both be false.
+?
+Identify the contradictory of 'Some prayers are incorrect if facing the wrong direction' (I), and state whether it is possible for both to be true at the same time.
+
+Pages p. 54 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 55
+Module 9 · Lesson 25
+Next →
+Propositions
+intermediate
+6 min
+Conditions for Contradiction in Quantified Propositions
+Commentator refines condition for contradiction
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two necessary conditions for contradiction between quantified propositions (quantity difference and unity agreement) and evaluate whether a given pair satisfies them.
+
+Core Idea
+Contradiction demands both quantity difference and the eight unities.
+
+In this passage, the commentator builds on the muṣannif's statement about contradiction between quantified propositions. While the muṣannif correctly notes that contradictory propositions must differ in universality and particularity, the commentator adds a crucial refinement: they must also agree on the eight unities (subject, predicate, time, place, etc.). Understanding this nuance is essential for correctly applying the concept of contradiction in logical analysis within Islamic sciences.
+
+Guided Path
+1
+Identify the muṣannif's claim
+Locate the original statement: two quantified propositions are contradictory only if they differ in universality/particularity. Note the examples showing that two universal propositions can both be false and two particulars can both be true.
+The examples use 'Every human is a writer' and 'No human is a writer'.
+2
+Extract the commentator's refinement
+Find where the commentator adds that, in addition to quantity difference, the propositions must agree on the eight unities. He suggests the muṣannif should have explicitly mentioned 'after their agreement in the mentioned unity'.
+The 'mentioned unities' refer to conditions from earlier in the text.
+3
+Understand why both conditions are necessary
+Consider why quantity difference alone is insufficient. For example, 'Every human is a writer' and 'Some human is not a writer' differ in quantity and are contradictory, but only if subject, predicate, time, etc., are the same. Without unity, they might not contradict.
+The eight unities ensure the propositions are about the same thing.
+4
+Apply the conditions to a new pair
+Given a pair of quantified propositions, check: (1) Do they differ in quantity (one universal, one particular)? (2) Do they agree on subject, predicate, and the other unities? If both yes, they are contradictory; otherwise, they are not.
+This is the practical test used in logic texts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: (المحصورتان لا يتحقَّقُ التَّناقض بينهما إلا بعد اختلافهما في الكلية والجزئية، لأنَّ الكليتين قد تكذبان كقولنا: كلُّ إنسان كاتب، ولا شيء من الإنسان بكاتب والجُزئيتين قد تَصدُقان كقولنا: بعضُ الإنسان كاتب، وبعضُ الإنسان ليس بكاتب). أقول: إن كانت القضيتان المتناقضتانِ محصورتين لا يتحقق التناقض بينهما إلا بعد اختلافهما في الكلية والجزئية، بأن تكون إحداهما كليةً، والأخرى جزئيةً، وهذا إنما يكون بعد اتفاقهما في الوحدات المذكورة، ولو قيل بعد قوله في الكلية والجزئية قوله أيضاً، لكان أولى، ليكون إشارة إليه أعني بعد اتفاقهما في الوحدة المذكورة، وإنما قلنا: إنَّه لم
+He said: 'The two quantified propositions do not achieve contradiction between them except after their difference in universality and particularity, because two universal propositions may both be false, as in our saying: Every human is a writer, and No human is a writer. And two particular propositions may both be true, as in our saying: Some human is a writer, and Some human is not a writer.' I say: If the two contradictory propositions are quantified, contradiction between them is not achieved except after their difference in universality and particularity, such that one is universal and the other particular, and this only comes after their agreement in the mentioned unities. And if one said after his saying 'in universality and particularity' also his saying 'after their agreement in the mentioned unity', it would be better, so that it might be an indication of that. And we said: he did not (the text ends abruptly).
+Source pages p. 55
+
+Commentary
+This passage is a commentary on a statement from the original author (al-muṣannif) regarding the conditions for contradiction between quantified propositions. The original statement asserts that two quantified propositions are contradictory only if they differ in universality and particularity, providing examples: two universal propositions can both be false (e.g., 'Every human is a writer' and 'No human is a writer'), and two particular propositions can both be true (e.g., 'Some human is a writer' and 'Some human is not a writer'). The commentator (the author of this sharḥ) then refines this by adding that, in addition to differing in quantity, the two propositions must also agree on the eight conditions (al-waḥdāt al-thamān) previously mentioned. He suggests that the original author should have explicitly stated 'after their agreement in the mentioned unity' after the phrase 'in universality and particularity' to make this requirement clear. The passage cuts off, but the main point is that the original statement is incomplete without noting the prior conditions.
+
+Key Terms
+المحصورتان
+التناقض
+الوحدات المذكورة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the commentator say that the muṣannif's statement should be supplemented?
+A) Because it forgot to mention quality difference
+B) Because it omitted the requirement of agreement in the eight unities
+C) Because it included an incorrect example
+D) Because it contradicted earlier definitions
+
+Key Takeaway
+For quantified propositions to be contradictory, they must differ in quantity and agree on the eight unities.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the pair: 'All prophets are truthful' and 'No prophet is truthful.' Do they satisfy the conditions for contradiction? Check quantity difference (universal-universal, same quantity) and unity agreement (subject: prophets, predicate: truthful). Explain why they are not contradictory.
+?
+Examine this pair from a fiqh context: 'Every khamr is forbidden' and 'Some khamr is not forbidden.' Determine if they are contradictory by testing both conditions (quantity: universal vs. particular; unity: same subject, predicate, etc.).
+
+Pages p. 55 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 56
+Module 9 · Lesson 26
+Next →
+Propositions
+beginner
+5 min
+Conditions for Contradiction in Quantified Propositions
+Author explains the condition for contradiction between quantified propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether two quantified propositions are contradictory by checking their quantity and quality.
+
+Core Idea
+For contradiction, propositions must differ in quantity and oppose in quality.
+
+This passage establishes the precise condition for logical contradiction in quantified propositions. You will learn why two universals can both be false and why the contradictory of a universal is a particular, not another universal. This rule is essential for constructing valid arguments in Islamic logic.
+
+Guided Path
+1
+Identify quantity
+For each proposition, determine whether it is universal (using 'every' or 'no') or particular (using 'some').
+Unquantified propositions are treated as particulars.
+2
+Check difference in quantity
+For contradiction, one proposition must be universal and the other particular. If both are universal or both particular, they cannot be contradictory.
+Two universals can both be false; two particulars can both be true.
+3
+Check opposite quality
+One proposition must be affirmative, the other negative. If both are affirmative or both negative, they cannot be contradictory.
+Quality is determined by the presence or absence of negation.
+4
+Confirm same subject and predicate
+The subject and predicate terms must be identical in both propositions. If they differ, contradiction is irrelevant.
+5
+Verify the contradictory relation
+The contradictory of a universal affirmative is a particular negative; of a universal negative is a particular affirmative; of a particular affirmative is a universal negative; of a particular negative is a universal affirmative.
+This follows from the conditions above.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يتحقق التناقض في المحصورتين إلا بعد اختلافهما في الكلية والجزئية، لأنَّ الكليتين قد تكذبان نحو: كلُّ إنسان كاتب، ولا شيء من الإنسان بكاتب، والجزئيتين قد تصدقان كقولنا: بعض الإنسان كاتب، وبعضُ الإنسان ليس بكاتب، فنقيضُ الكلية الجزئية، لا الكلية، وبالعكس أعني نقيض الجزئية الكلية لا الجُزئية، وإن كانتِ القضيتان مُهملتين فحكمهما حكم المحصورتين، لأنَّ المُهملات من المحصورات في الحقيقة من حيثُ إِنَّهَا فِي قُوَّةِ الجزئية.
+Contradiction is realized in quantified [propositions] only after they differ in universality and particularity, because two universals may both be false, like: 'Every human is a writer' and 'No human is a writer', and two particulars may both be true, like: 'Some human is a writer' and 'Some human is not a writer'. So the contradictory of the universal is the particular, not the universal, and vice versa, I mean the contradictory of the particular is the universal, not the particular. And if the two propositions are unquantified, their ruling is the ruling of quantified [propositions], because unquantified [propositions] are in reality among quantified [propositions] in that they are in the force of the particular.
+Source pages p. 56
+
+Commentary
+This passage defines the condition for contradiction (tanāquḍ) between categorical propositions. The author explains that for two quantified propositions to be contradictory, they must differ in quantity (one universal, one particular) while having opposite quality (one affirmative, one negative). He gives examples: two universal propositions like 'Every human is a writer' and 'No human is a writer' can both be false (if some are writers and some are not), so they are not contradictory. Two particular propositions like 'Some human is a writer' and 'Some human is not a writer' can both be true (if indeed some are writers and some are not), so they are not contradictory either. The correct contradictory of a universal affirmative is a particular negative, and of a universal negative is a particular affirmative. Unquantified propositions (muhmala) are treated as particular in force, so the same rule applies.
+
+Key Terms
+تناقض (tanāquḍ): contradiction
+محصورتين (mahsūratayn): quantified propositions
+مهملتين (muhmaltayn): unquantified propositions
+
+Key Terms from Source Passage
+
+Checkpoint
+Consider the propositions: 'Every Muslim prays' and 'No Muslim prays'. Are these contradictory? Why or why not?
+A) Yes, because they have opposite quality and same quantity.
+B) No, because they are both universal and can both be false (if some Muslims pray and some do not).
+C) Yes, because one is affirmative and the other is negative.
+D) No, because they have different subjects.
+
+Key Takeaway
+Contradiction between quantified propositions requires different quantity and opposite quality; unquantified propositions are treated as particulars.
+
+How This Lesson Applies — to MY Life?
+?
+Given the propositions 'Every fard is obligatory' and 'No fard is obligatory', determine if they are contradictory. Explain your reasoning using the conditions from this lesson.
+?
+State the contradictory of the proposition 'Some ijtihad is permissible'. Justify your answer by referring to quantity and quality.
+
+Pages p. 56 · Propositions
+← Prev
+Mark Done
+Next →

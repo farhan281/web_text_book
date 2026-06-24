@@ -1,0 +1,76 @@
+← Prev
+p. 117
+Module 7 · Lesson 51
+Next →
+The Syllogism
+advanced
+8 min
+The Correspondence Argument Against Infinite Regress
+Author refutes infinite regress via correspondence argument and critiques the author's wording
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the correspondence (tatbiq) argument against infinite regress and identify the logical flaw in the author's original wording.
+
+Core Idea
+An infinite ordered series is impossible because it makes the greater equal to the lesser.
+
+This passage presents a crucial proof in Islamic philosophy: the impossibility of an infinite regress of events or causes. The author initially gives a confused argument involving 'movements', but the commentator sharpens it using the method of correspondence (tatbiq). By understanding this refinement, you will see how the argument genuinely demonstrates that every ordered series must have a first term — a cornerstone for proving the existence of a Creator.
+
+Guided Path
+1
+Identify the initial claim and objection
+The passage begins with the author's claim that infinite regress is impossible, then raises the objection: 'Why do you say that an infinite ordering is impossible?' This sets up the need for a proof.
+The objection is the pivot to the correspondence argument.
+2
+Understand the method of correspondence (tatbiq)
+Imagine two infinite series: Series 1 from point A to infinity, Series 2 from point J (one step before A) to infinity. Pair the first element of Series 1 with the first of Series 2, second with second, etc.
+This pairing is the core logical operation.
+3
+Analyze the two possibilities
+Either the series match perfectly (both infinite) or Series 2 terminates. If they match, then the number of terms is equal, but Series 1 has one extra term (since it starts at A, not J) — contradiction. So Series 2 must terminate.
+This is a reductio ad absurdum on the assumption of equality.
+4
+Conclude that Series 1 is finite
+Since Series 2 terminates, and Series 1 exceeds it by only a finite number (one step), Series 1 must also be finite. Thus no actual infinite ordered series exists.
+The same reasoning applies symmetrically.
+5
+Critique the author's original wording
+The commentator notes that the author first mentions 'movements' in the proof, but the claim is about 'events'. This confuses the argument because movements are a specific type of event. The refined proof removes this redundancy and applies directly to all temporal events.
+This shows the importance of precise language in logical demonstrations.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فهذه الحوادث إما أن توجد على سبيل الاجتماع أو على التعاقب، لا سبيل إلى الأول، وإلا لزم اجتماع أمور لها ترتب في الوجود بلا نهاية، وهو محال، فقبل كل حركة حركة وقبل كل حادث حادث لا إلى أول، فإن قيل: لم قلتم إنه يستحيل ترتب أمور غير متناهية؟ قلنا: لأنا إذا أخذنا جملتين إحداهما من مبدأ معين إلى غير النهاية من حيث ذاتها مستمرة من الأزل إلى الأبد، فهي من هذه الحيثية صادرة عن القديم، ومن حيث الدورة متجددة متعاقبة علة لتغير الاستعداد فهي الواسطة بين القديم والحادث في وصول أثره إليه. هذا ما قالوا وقد بقي خبايا في زوايا، فليتأمل فيها. فقبل إلخ في كلام المصنف له انتشار؛ لأنه ذكر أولا الدعوى بقوله: "كل حادث مسبوق بشرط سبق حادث"، ثم ذكر في الدليل الحركات المحدثة، ثم ذكر النتيجة بقوله: فقبل كل حركة حركة، وقبل كل حادث حادث، وكان المناسب للدعوى أن لا يتعرض بالحركات المحدثة في الدليل، ويذكر مكانها الحوادث؛ ليلائم الدليل الدعوى، ويدخل تحت تلك الدعوى العامة حركات محدثة أيضا، ولا حاجة إلى ذكرها. قلنا: حاصل الجواب: أن وجود الأمور الغير المتناهية المترتبة المجتمعة محال بالتطبيق؛ لأنا إذا فرضنا فيها سلسلتين إحداهما مبتدئة من مبدأ معين مثلا "أ" إلى غير النهاية، والثانية مبتدئة مما قبله بمرتبة واحدة مثلا "ج"، ثم أطبقنا السلسلة الثانية على السلسلة الأولى بأن يقابل الجزء الأول من الجملة الثانية بالجزء الأول من الجملة الأولى، والثاني بالثاني وهكذا، فإما أن تتطابقا وتساويا أو تنقطع الثانية وتقف، والأول باطل، وإلا لزم أن يكون الزائد مثل الناقص؛ لأن الجملة الأولى زائدة على الثانية بمرتبة واحدة واللازم باطل فالملزوم مثله فإذا انقطعت الثانية انقطعت الأولى أيضا؛ لأن زيادتها عليها بقدر متناه، والزيادة على المتناهي بقدر متناه توجب التناهي. وأخرى مما قبله بمرتبة واحدة وأطبقنا الثانية على الأولى بأن يقابل الجزء الأول من الجملة الثانية بالجزء الأول من الأولى والثاني بالثاني، وهلم جرا، فإما أن تتطابقا إلى غير النهاية أو تنقطع الثانية، لا سبيل إلى الأول وإلا لكان الزائد مثل الناقص في عدد الآحاد، هذا خلف، فيلزم الانقطاع، فتكون الجملة الثانية متناهية والأولى زائدة عليها بعدد متناه، والزائد على المتناهي بعدد متناه يجب أن يكون متناهيا.
+These events either exist collectively or successively, the first is impossible, otherwise it would necessitate the conjunction of things that have an ordering in existence without end, which is impossible. So before every movement is a movement and before every event is an event without a first. If it is said: why did you say that the ordering of infinite things is impossible? We say: because if we take two series, one from a given beginning to infinity, from the perspective of its essence continuous from eternity to eternity, it is from this perspective emanating from the Eternal, and from the perspective of the cycle, it is renewed and successive, a cause for the change of preparedness, so it is the intermediate between the Eternal and the temporal in the arrival of His effect to it. This is what they said, and there remain hidden things in corners, so let one ponder. The 'before etc.' in the author's speech has dispersion; because he first mentioned the claim by his saying: 'Every temporal event is preceded by a condition of precedence of an event', then he mentioned in the proof the originated movements, then he mentioned the result by his saying: 'before every movement a movement and before every event an event', and it would have been appropriate for the claim not to mention originated movements in the proof, and to mention events in their place, so that the proof matches the claim, and originated movements would also be included under that general claim, without need to mention them. We say: the gist of the answer is that the existence of infinite ordered things that are conjoined is impossible by correspondence; because if we suppose in them two series, one starting from a given beginning, for example 'A', to infinity, and the second starting from what is before it by one rank, for example 'J', then we apply the second series to the first such that the first part of the second series corresponds to the first part of the first series, the second to the second, and so on, then either they correspond and are equal, or the second breaks off and stops. The first is false, otherwise it would necessitate that the greater is like the lesser; because the first series exceeds the second by one rank, and the necessary is false, so the conditional is likewise. So if the second breaks off, the first also breaks off; because its excess over it is by a finite amount, and excess over the finite by a finite amount necessitates finitude. And another [series] from what is before it by one rank, and we applied the second to the first by corresponding the first part of the second series to the first part of the first, the second to the second, and so on, then either they correspond to infinity or the second breaks off. The first is not possible, otherwise the greater would be like the lesser in number of units, which is a contradiction, so breaking off is necessitated. Thus the second series is finite and the first exceeds it by a finite number, and the one that exceeds the finite by a finite number must be finite.
+Source pages p. 117
+
+Commentary
+This passage presents a proof for the impossibility of an infinite regress of events, a key argument in Islamic philosophy for the temporal origination of the universe. It begins by stating that temporal events must exist either all together (which is impossible because it would require an infinite number of simultaneously ordered things) or successively. The latter implies that before every event there is a prior event ad infinitum, but the author then raises an objection: why is an infinite ordered chain impossible? The initial response explains that if we consider two infinite series—one starting at a given point and extending to infinity, and another starting one step earlier—from the perspective of their essence, they are eternal emanations, but from the perspective of their cycle, they are successive causes. However, the commentator critiques this answer, noting that the author's wording in the proof is confused: he should have argued directly about events rather than mentioning motions. Then a more rigorous answer is given using the method of correspondence (tatbiq). Imagine two series of ordered things, one beginning at point A and going to infinity, and another beginning at point J (one before A). If we pair the items sequentially, either the pairs match perfectly, or the second series terminates. Matching would mean the two series have the same number of terms, but since the first has one extra term, this is impossible. Therefore the second series must terminate, and since the first differs from it by only a finite number (one), the first must also be finite. The same reasoning applies if we start with the second series shifted by one. This argument demonstrates that any ordered series that is infinite in one direction cannot be infinite in the other; hence an infinite chain of events is impossible. The argument is foundational for proving the existence of a first cause.
+
+Key Terms
+التطبيق
+غير المتناهي
+الترتب
+
+Key Terms from Source Passage
+
+Checkpoint
+In the correspondence argument, what would happen if the two series matched perfectly when paired?
+A) Both series would be infinite, but the first has one extra term, causing a contradiction.
+B) The second series would terminate, showing the first series is finite.
+C) The series would be equal in number, proving infinite regress is possible.
+D) The matching proves that the universe is eternal.
+
+Key Takeaway
+The correspondence (tatbiq) argument demonstrates that any actual infinite ordered series leads to a contradiction, thus proving the necessity of a first term.
+
+How This Lesson Applies — to MY Life?
+?
+Construct the correspondence argument for a chain of efficient causes (e.g., father-son-grandson) to show that it cannot extend infinitely backwards. Use the method of pairing as in the lesson.
+?
+Identify the logical error in an opponent's claim: 'Since each effect has a cause, and each cause is itself an effect of a previous cause, the chain can be infinite.' Show how the correspondence argument refutes this.
+
+Pages p. 117 · The Syllogism
+← Prev
+Mark Done
+Next →

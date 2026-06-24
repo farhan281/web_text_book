@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:18Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/SHARH_UQOOD_E_RASMUL_MUFTI_ARABIC_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/88 - Sharh Uqood E Rasmul Mufti Arabic Merged With Pgs",
+  "output_bytes": 7198041,
+  "output_sha256": "969accbcb26c7bd7639593c236e44f52626350ac051f87306cf14c44079c87fa",
+  "checks": {
+    "catalog_expected_lessons": 849,
+    "course_reported_lessons": 849,
+    "index_lessons": 849,
+    "full_lessons": 849,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 15,
+    "course_reported_modules": 15,
+    "modules": 15,
+    "course_reported_sources": 823,
+    "sources": 823
+  }
+}

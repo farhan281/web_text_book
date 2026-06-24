@@ -1,0 +1,1138 @@
+← Prev
+p. 628
+Module 1 · Lesson 101
+Next →
+Introduction and Front Matter
+intermediate
+8 min
+The Logical Variables ج and ب in Quantified Propositions
+Lists chapter and section headings for topics on propositions, syllogisms, and logical theory.
+
+Learning Objective
+By the end of this lesson, you will be able to interpret the logical variables ج (subject) and ب (predicate) in quantified propositions as used in Arabic mantiq texts.
+
+Core Idea
+ج and ب are shorthand for subject and predicate — the skeleton of every qadiyya.
+
+In the margins of quantified propositions, logicians use ج for the subject term and ب for the predicate term. This notation, introduced in the table of contents, is essential for reading formal logical expressions in Arabic. This lesson unpacks what ج and ب mean and how they are used in quantified propositions.
+
+Guided Path
+1
+Recognize the notation
+The table says 'تعبيرهم عن الموضوع بـ (ج) وعن المحمول بـ(ب)'. So ج represents the subject (الموضوع) and ب represents the predicate (المحمول). This is a standard convention in Arabic logic texts.
+2
+Understand the quantifier scope
+In quantified propositions, the quantifier (سور) applies to the subject term ج. For example, 'كل ج ب' means 'Every subject is a predicate' (universal affirmative). The quantifier directly modifies ج.
+The fihris later specifies that 'المراد بـ(ج) هو ذات الموضوع' (What is meant by J is the essence of the subject).
+3
+Note the philosophical nuance
+The table indicates a discussion on page 383-384 about whether ج refers to the essence or the individuals (disagreement between al-Farabi and Ibn Sina). This affects how we interpret quantified propositions.
+4
+Apply to examples
+Practice reading propositions in ج/ب notation. For instance, 'لا شيء من ج هو ب' represents a universal negative: 'No subject is a predicate' (e.g., 'No human is stone').
+The negation and quantifier can vary.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فهرس محتويات الكتاب
+أجزاء القضية ثلاثة ، وما يتعلق به من الأبحاث
+وفي لغة العرب رابطة كغيرها من اللغات ولا حاجة إلى الاستعارة خلافا للسعد
+ما يراه المحقق صوابا في هذه المسألة .
+تقسيم القضية إلى الحملية والشرطية
+هل الحكم في الشرطية في الجزاء، أم باللزوم بين التالي والمقدم، وهل بين النحاة والمناطقة خلاف في ذلك ؟
+فصل، تقسيم القضية باعتبار الموضوع إلى شخصية ومهملة وطبيعية ومحصورة .
+المهملة تلازم الجزئية عند المتأخرين
+اختيار قول الدواني إن الحكم في المحصورة على نفس الحقيقة، والجزئيات معلومة بالعرض
+المحصورات أربع، وسور كل منها
+تبصرة في تحقيق المحصورات
+تعبيرهم عن الموضوع بـ (ج) وعن المحمول بـ(ب)
+الإطلاقات الثلاثة للفظ «الكل»
+المعتبر في العلوم من تلك الإطلاقات هو «الكل الأفرادي»
+٣٥٣٠
+٣٥٩
+٣٦
+٣٦٢
+٣٦٣
+۳۷۳
+٣٧٤
+۳۷
+۳۷۹
+۳۸۱
+۳۸۱
+۳۸۲
+۳۸۲
+المراد بـ(ج) هو ذات الموضوع، أي ما يصدق عليه الموضوع من الأفراد ٣٨٣
+الخلاف بين الفارابي وابن سينا في معنى صدق عنوان الموضوع على ذاته ٣٨٤
+عقد الوضع وعقد الحمل (المحقق) ....
+٣٨٥
+شرح بحر العلوم على سلم العلوم
+الحمل اتحاد المتغايرين بالذات أو بالعرض
+شبهة في إبطال الحمل وجوابها
+بيان مصداق الحمل المتعارف
+ثبوت شيء لشيء في ظرف فرع فعلية ما ثبت له
+تقسيم القضية إلى الخارجية والذهنية والحقيقية
+القضية السالبة لا تستدعي وجود الموضوع
+المحال من حيث هو محال ليس له صورة في العقل
+الاتصاف الانضمامي يستدعي تحقق الحاشيتين في ظرف الاتصاف
+الأبحاث المتعلقة بما اخترعه المتأخرون مما سموها سالبة المحمول
+مبحث في العدول والتحصيل
+فصل في الموجهات
+تكملة لمباحث الموجهات
+فصل في الشرطيات.
+القضية الشرطية المتصلة : اللزومية منها والاتفاقية
+القضية الشرطية المنفصلة : الحقيقية منها ومانعة الجمع ومانعة الخلو
+تقسيم الشرطية إلى شخصية وجزئية وكلية ومهملة، ولا يتصور فيها الطبعية ، وبيان السور
+قول ابن سينا (إن) شديد الدلالة على اللزوم ومتى» ضعيفها وإذ» كالمتوسط
+٤٢٨
+Table of Contents
+The parts of a proposition are three, and the related discussions
+In Arabic language there is a copula like other languages and there is no need for borrowing, contrary to al-Sa'd
+What the verifier (al-muhaqqiq) considers correct in this issue
+Division of the proposition into categorical and conditional
+Is the judgment in the conditional in the consequent, or is it the implication between the consequent and the antecedent, and is there a disagreement between grammarians and logicians regarding that?
+Section: Division of the proposition according to the subject into individual, neglected, natural, and quantified.
+The neglected (muhmala) entails the particular in the view of the later scholars
+Choosing the statement of al-Dawwani that the judgment in the quantified is upon the essence itself, and the individuals are known accidentally
+The quantified are four, and the quantifier of each
+Admonition regarding the verification of the quantified
+Their expression of the subject by (J) and the predicate by (B)
+The three usages of the word 'kull' (all)
+What is considered in the sciences among those usages is 'the individual all' (al-kull al-afradi)
+[page numbers]
+What is meant by (J) is the essence of the subject, i.e., the individuals of which the subject is true
+[page numbers]
+The disagreement between al-Farabi and Ibn Sina regarding the meaning of the truth of the title of the subject upon its essence
+[page numbers]
+Contract of positing and contract of predication (the verifier)
+[page number]
+Commentary of Bahr al-Ulum on Sullum al-Ulum
+Predication is the union of two different things essentially or accidentally
+A doubt in refuting predication and its answer
+Explanation of the meaning of customary predication
+Thing's subsistence for a thing in a circumstance is a branch of the actuality of what has subsistence for it
+Division of the proposition into external, mental, and real
+Negative proposition does not require the existence of the subject
+The impossible insofar as it is impossible has no image in the intellect
+The adjectival qualification requires the verification of both sides in the circumstance of qualification
+The researches related to what the later scholars invented which they called negated predicate
+A study on modification and actualization
+Chapter on modal propositions
+Completion of the researches on modal propositions
+Chapter on conditionals.
+The conditional conjunctive proposition: the implicative and the coincidental
+The conditional disjunctive proposition: the true (haqiqiyya) and the exclusive of conjunction and the exclusive of void
+Division of the conditional into individual, particular, universal, and neglected, and the natural is not conceivable, and explanation of the quantifier
+The statement of Ibn Sina: 'inna' is strongly indicative of implication, 'mata' is weak, and 'idh' is intermediate
+428
+Source pages p. 628
+
+Commentary
+This passage is a table of contents for the Bahr Ulum commentary on the Sullum al-Ulum. It lists chapter and section headings covering logical propositions and their divisions. The topics progress from the parts of a proposition, the copula in Arabic, division into categorical and conditional, then division by subject type into individual, neglected, natural, and quantified. Later sections cover modal propositions and conditionals. The table serves as a navigational tool, and the student should use it to understand the book's structure. Logical variables ج and ب are mentioned as standard notation for subject and predicate. The page numbers are given in Arabic numerals, though some may be misaligned in this OCR.
+
+Key Terms
+ج
+ب
+الموضوع
+المحمول
+ذات الموضوع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table of contents, what does the letter (ج) represent in quantified propositions?
+A) The predicate
+B) The subject
+C) The quantifier
+D) The copula
+
+Key Takeaway
+The logical variables ج (subject) and ب (predicate) are the building blocks for expressing quantified propositions in Arabic mantiq.
+
+How This Lesson Applies — to MY Life?
+?
+Write the proposition 'No human is a stone' using the ج، ب notation, with J for subject and B for predicate. Which quantifier and negation do you need? (Answer: 'لا شيء من ج هو ب' or using particular quantifier? Actually standard is 'لا ج هو ب' for universal negative.)
+?
+In the fihris, it says 'المراد بـ(ج) هو ذات الموضوع'. Explain in your own words what this means for reading quantified propositions.
+
+Pages p. 628 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 629
+Module 1 · Lesson 102
+Next →
+Introduction and Front Matter
+beginner
+5 min
+Navigating the Logical Structure of Bahr Ulum
+Index listing major topics and their page numbers.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the major topics covered in the Bahr Ulum commentary from its table of contents.
+
+Core Idea
+The table of contents is a mental map for the entire logical system.
+
+This passage is the index of Bahr Ulum, a commentary on Sullam al-Ulum. It lists all major topics from predication to conversion. By learning to navigate this index, you will gain a bird's-eye view of the logical subjects treated in the work, helping you locate specific discussions and understand the sequence of concepts.
+
+Guided Path
+1
+Identify the first topic
+The index begins with 'al-haml' (predication). Read its definition: 'the union of two things different in essence or accidentally.' This is the foundational concept for categorical propositions.
+2
+Trace the sequence of topics
+Follow the order: from predication to propositions (qadiyya), then modal propositions, conditionals, contradiction, and conversion. Notice how each topic builds on the previous.
+This mirrors the standard logic curriculum: terms → propositions → syllogisms (though syllogisms are not listed here).
+3
+Note the dialectical elements
+Look for 'shakk wa jawab' (doubt and answer) entries, like the doubt about predication and contradiction. These show the work includes objections and responses, a key feature of Islamic logical texts.
+4
+Recognize the purpose
+The index serves as a memorization anchor and reference tool. Use it to quickly find where specific topics are discussed, such as the definition of contradiction in 'Fasl fi al-tanaqud'.
+In classical madrasa education, students often memorize the table of contents to internalize the structure of knowledge.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحمل اتحاد المتغايرين بالذات أو بالعرض. شبهة في إبطال الحمل وجوابها. بيان مصداق الحمل المتعارف. ثبوت شيء لشيء في ظرف فرع فعلية ما ثبت له تقسيم القضية إلى الخارجية والذهنية والحقيقية. القضية السالبة لا تستدعي وجود الموضوع. المحال من حيث هو محال ليس له صورة في العقل. الاتصاف الانضمامي يستدعي تحقق الحاشيتين في ظرف الاتصاف. الأبحاث المتعلقة بما اخترعه المتأخرون مما سموها سالبة المحمول. مبحث في العدول والتحصيل. فصل في الموجهات. تكملة لمباحث الموجهات. فصل في الشرطيات. القضية الشرطية المتصلة : اللزومية منها والاتفاقية. القضية الشرطية المنفصلة : الحقيقية منها ومانعة الجمع ومانعة الخلو. تقسيم الشرطية إلى شخصية وجزئية وكلية ومهملة، ولا يتصور فيها الطبعية ، وبيان السور. قول ابن سينا (إن) شديد الدلالة على اللزوم ومتى» ضعيفها وإذ» كالمتوسط. فلا حكم في أطراف القضية الشرطية. تتمة لمبحث الشرطيات ، فيها أبحاث. الأول : ما اشتهر بين القوم من أن المتلازمين أن يكون أحدهما علة للآخر يجب. الثاني: اختلف في استلزام المقدم المحال للتالي في نفس الأمر الثالث: قيد ابن سينا التقادير والأوضاع بالتي يمكن اجتماعها مع المقدم. الرابع قد اعتبر في الاتفاقية صدق الطرفين. الخامس قالوا الانفصال الحقيقي لا يمكن إلا بين جزئين. السادس منهم من ادعى اللزوم الجزئي بين كل أمرين. فصل في التناقض. شك وجواب. تعريف التناقض ، والشروط المطلوبة في تحققه. الشك القائل بأن لشيء واحد نقيضين، وحله. النقيضان يختلفان كما وجهَةً ، وبيان نقائض الموجهات. وفي الشرطيات يجب الكيف والكم. الاتحاد في الجنس والنوع مع الاختلاف في. فصل في العكس المستوي، تعريفه. بيان عكس المحصورات الأربع. عكسها من حيث الجهة.
+Predication is the union of two things that are different in essence or accidentally. A doubt concerning the invalidation of predication and its answer. Explanation of the common meaning of predication. The existence of something for something in a context depends on the actuality of what it is attributed to. Division of the proposition into external, mental, and real. The negative proposition does not require the existence of the subject. The impossible as such has no image in the mind. The conjunctive attribution requires the existence of the two boundaries in the context of attribution. Research related to what later scholars invented, which they called negative predicate. Section on modification and confirmation. Chapter on modal propositions. Completion of discussions on modal propositions. Chapter on conditionals. The conditional connected proposition: the implicative and the coincidental. The conditional disjunctive proposition: the real, the exclusive of conjunction, and the exclusive of void. Division of the conditional into personal, partial, universal, and neglected; the natural is not conceivable in it; and explanation of the quantifier. Ibn Sina's saying that 'inna' is strongly indicative of implication, 'mata' is weak, and 'idh' is intermediate. There is no judgment in the parts of the conditional proposition. Completion of the chapter on conditionals, containing discussions. First: what is well-known among the people that two mutually implicating things are such that one is the cause of the other. Second: disagreement concerning the implication of the impossible antecedent for the consequent in reality. Third: Ibn Sina restricted the suppositions and conditions to those that can be combined with the antecedent. Fourth: they considered the truth of both parts in the coincidental. Fifth: they said real disjunction is only possible between two parts. Sixth: some of them claimed partial implication between every two things. Chapter on contradiction. Doubt and its resolution. Definition of contradiction and the conditions required for its realization. The doubt claiming that one thing has two contradictories, and its solution. The two contradictories differ in quantity and mode, and explanation of the contradictories of modal propositions. And in conditionals, quality and quantity are necessary. Unity in genus and species with difference in. Chapter on simple conversion, its definition. Explanation of the conversion of the four quantified propositions. Their conversion in terms of modality.
+Source pages p. 629
+
+Commentary
+This passage is the table of contents of the book 'Bahr Ulum', a commentary on 'Sullam al-Ulum' in logic. It lists the major topics covered, starting with predication (al-haml), then propositions (al-qadiyya), their divisions into external, mental, and real, negative propositions, the impossible, attribution, modified and confirmed propositions, modal propositions, conditionals (connected and disjunctive), conditional divisions, Ibn Sina's views on implication, then chapters on contradiction and conversion. The table provides a bird's-eye view of the logical subjects treated in the work, guiding the reader to specific page numbers. Each entry corresponds to a section that defines, proves, or discusses a logical concept. For example, the first topic 'Predication is the union of two things different in essence or accidentally' introduces the definition of predication, a fundamental concept in categorical propositions. The list follows the typical order of a logic textbook: from simple terms to propositions to syllogisms, though here it ends with conversion. The inclusion of 'doubt and its resolution' shows the dialectical nature of the work. This index serves as a mental map for students to locate key discussions.
+
+Key Terms
+الحمل
+القضية
+التناقض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table of contents, which section discusses the definition of contradiction?
+A) Chapter on modal propositions
+B) Chapter on contradiction
+C) Chapter on conversion
+D) Section on conditional propositions
+
+Key Takeaway
+The table of contents in Bahr Ulum encapsulates the entire logical curriculum, from predication to conversion, and is designed to be memorized as a cognitive map.
+
+How This Lesson Applies — to MY Life?
+?
+Using the table of contents, list the three main divisions of the book (e.g., predication, propositions, contradiction) and identify one subtopic under each.
+?
+Explain how the table of contents itself functions as a teaching tool: how does the order of topics help a beginner learn logic?
+
+Pages p. 629 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 630
+Module 1 · Lesson 103
+Next →
+Introduction and Front Matter
+beginner
+5 min
+Navigating Bahr Ulum: From Conditionals to Syllogisms
+Lists sections from conditional propositions to syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to trace the logical progression of topics in Bahr Ulum from conditionals through syllogisms using the table of contents.
+
+Core Idea
+The table of contents is a map of logical reasoning from conditionals to proof.
+
+This passage is the closing table of contents of Bahr Ulum, listing sections from conditional propositions to modal syllogisms. While it may seem like mere listing, it reveals the author's organization of logic: conditionals, contradiction, conversion, then syllogism with its figures and moods. Understanding this map helps you locate topics quickly and see how logic builds from simple propositions to complex arguments.
+
+Guided Path
+1
+Identify the major sections
+Scan the TOC for the sequence of chapters: conditional investigations (six issues), contradiction, simple conversion, conversion by contraposition, proof, syllogism (definition, divisions, figures, moods, mixed).
+2
+Note the logical order
+The author progresses from the parts of conditionals to contradiction (negation), then to conversion operations, and finally to syllogism as the complete argument form. This mirrors the typical structure of a logic text.
+3
+Recognize syllogism as the culmination
+Syllogism is given the most detailed treatment: definition, division into conjunctive and exceptional, then four figures with conditions for productivity, and finally mixed modal moods. This shows that syllogism is the central topic of the book.
+4
+Understand the role of mixed moods
+The final section on modal mixed moods (المختلطات) refines syllogistic validity when premises include modal operators like necessity or possibility. This indicates the author's thoroughness.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فهرس محتويات الكتاب. لا حكم في أطراف القضية الشرطية. تتمة لمبحث الشرطيات، فيها أبحاث: الأول: ما اشتهر بين القوم من أن المتلازمين أن يكون أحدهما علة للآخر. الثاني: اختلف في استلزام المقدم المحال للتالي في نفس الأمر. الثالث: قيد ابن سينا التقادير والأوضاع بالتي يمكن اجتماعها مع المقدم. الرابع: قد اعتبر في الاتفاقية صدق الطرفين. الخامس: قالوا الانفصال الحقيقي لا يمكن إلا بين جزئين. السادس: منهم من ادعى اللزوم الجزئي بين كل أمرين. فصل في التناقض: شك وجواب. تعريف التناقض، والشروط المطلوبة في تحققه، الشك القائل بأن لشيء واحد نقيضين، وحله. النقيضان يختلفان كما وجهةً، وبيان نقائض الموجهات. وفي الشرطيات يجب الكيف والكم. الاتحاد في الجنس والنوع مع الاختلاف في. فصل في العكس المستوي، تعريفه. بيان عكس المحصورات الأربع. عكسها من حيث الجهة. فصل في عكس النقيض. فصل في الحجة. شرح بحر العلوم على سلم العلوم. الموصل إلى المطلوب التصديقي ينحصر في ثلاث: القياس، تعريفه، ومحترزات التعريف. المذاهب في كيفية حصول العلم بالنتيجة من المقدمتين. تقسيم القياس إلى اقتراني واستثنائي، والاقتراني إلى الحملي والشرطي. بيان حدود القياس الثلاثة، ووجه انقسامه إلى الأشكال والضروب. الشكل الأول، وشرط إنتاجه، وبيان ضروبه المنتجة. شك مشهور وجوابه. شرط إنتاج الشكل الثاني وضروبه المنتجة. طرق رد الشكل الثاني إلى الشكل الأول للبرهنة على صحته. شرط إنتاج الشكل الثالث، وضروبه المنتجة. طرق رد الشكل الثالث إلى الأول. شرط إنتاج الشكل الرابع، وضروبه المنتجة. طرق رد الشكل الرابع إلى الأول. فصل في المختلطات. شرط إنتاج الشكل الأول حسب الجهة. شرط إنتاج الشكل الثاني حسب الجهة. شرط إنتاج الشكل الثالث حسب الجهة.
+Table of contents of the book. No ruling on the parts of the conditional proposition. Continuation of the topic of conditionals, containing investigations: First: What is well-known among the people that the two correlatives are such that one is the cause of the other. Second: They differed regarding the implication of the impossible premise for the consequent in reality. Third: Ibn Sina restricted the estimations and postures to those that can coexist with the premise. Fourth: It was considered in the accidental that both parts are true. Fifth: They said that true disjunction can only be between two parts. Sixth: Some of them claimed partial implication between every two things. Chapter on contradiction: a doubt and its answer. Definition of contradiction and the conditions required for its realization, the doubt that one thing has two contradictories, and its solution. The two contradictories differ in quality and direction, and a statement of the contradictories of modal propositions. And in conditionals, quality and quantity must be united in genus and species while differing in... Chapter on simple conversion, its definition. Statement of the conversion of the four categorical propositions. Their conversion with respect to modality. Chapter on conversion by contraposition. Chapter on proof. Bahr Ulum's commentary on Sullam al-Ulum. That which leads to the desired assent is restricted to three: syllogism, its definition, and the safeguards of the definition. The schools regarding how knowledge of the conclusion is obtained from the two premises. Division of syllogism into conjunctive and exceptional, and the conjunctive into categorical and conditional. Statement of the three terms of the syllogism and the manner of its division into figures and moods. The first figure, its condition for productivity, and statement of its productive moods. A famous doubt and its answer. The condition for productivity of the second figure and its productive moods. Methods of reducing the second figure to the first to prove its validity. The condition for productivity of the third figure and its productive moods. Methods of reducing the third figure to the first. The condition for productivity of the fourth figure and its productive moods. Methods of reducing the fourth figure to the first. Chapter on mixed [moods]. Condition for productivity of the first figure with respect to modality. Condition for productivity of the second figure with respect to modality. Condition for productivity of the third figure with respect to modality.
+Source pages p. 630
+
+Commentary
+This passage is the table of contents of Bahr Ulum, specifically the latter part covering topics from conditional propositions to modal syllogisms. The author lists sections sequentially: first, investigations on conditionals (six issues), then a chapter on contradiction (تعريف التناقض), then chapters on simple conversion (العكس المستوي) and conversion by contraposition (عكس النقيض), then a chapter on proof (الحجة). The next major section discusses 'That which leads to the desired assent' (الموصل إلى المطلوب التصديقي) which is syllogism (القياس), including its definition, divisions into conjunctive and exceptional, and the four figures with their conditions and moods. The table ends with modal mixed moods (المختلطات). This is a valuable overview for navigating the book, but it does not present any logical arguments or definitions itself.
+
+Key Terms
+القياس
+العكس المستوي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table of contents, what topic comes after 'Chapter on simple conversion' (فصل في العكس المستوي)?
+A) Chapter on conversion by contraposition (فصل في عكس النقيض)
+B) Chapter on proof (فصل في الحجة)
+C) Chapter on contradiction (فصل في التناقض)
+D) Chapter on mixed moods (فصل في المختلطات)
+
+Key Takeaway
+The table of contents provides a roadmap from basic conditionals through syllogistic reasoning, showing how logic builds step by step.
+
+How This Lesson Applies — to MY Life?
+?
+Using this TOC, create a brief outline of the book's coverage from conditionals to syllogism, listing at least five section headings in order.
+?
+When studying a specific topic like 'the fourth figure', which section would you consult, and which prior sections are prerequisites?
+
+Pages p. 630 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 631
+Module 1 · Lesson 104
+Next →
+Introduction and Front Matter
+beginner
+5 min
+Navigating the Logic Section of Bahr Ulum
+Lists chapter headings and page numbers for the logic section.
+
+Learning Objective
+By the end of this lesson, you will be able to locate and identify the main chapters and topics in the logic section of Bahr Ulum using its table of contents.
+
+Core Idea
+A table of contents is your roadmap to the logical structure of a text.
+
+Before diving into definitions and arguments, it is essential to see the big picture. This table of contents from Bahr Ulum reveals how the book progresses from the definition of syllogism through its figures, modalities, and mixed forms, ending with the five arts and sources of certainty. By studying this roadmap, you will know exactly where to find each key concept.
+
+Guided Path
+1
+Identify the main sections
+Scan the entries for major headings like 'فصل في القياس' (Chapter on Syllogism) and 'فصل في المختلطات' (Chapter on Mixed Syllogisms). These mark the broad divisions of the logic section.
+Each 'فصل' indicates a new chapter.
+2
+Note the progression of topics
+Observe the order: definition of syllogism, then its divisions (conjunctive/exceptional, categorical/conditional), then figures, then modal syllogisms, then compound and reductio, then induction and analogy, then the five arts and certainty. This shows how the text builds from basics to advanced and applied topics.
+The sequence reflects the logical learning path.
+3
+Find specific conditions and methods
+Locate entries that mention conditions for production ('شرط إنتاج') and methods of reduction ('طرق رد'). For example, you can find 'شرط إنتاج الشكل الثاني' to see the condition for the second figure.
+These are the key technical rules you will need to memorize and apply.
+4
+Recognize included debates and refutations
+Look for entries like 'شك وجوابه' (a doubt and its answer) or refutations such as 'رد مزاعم ابن سينا والطوسي المتشيع'. These indicate where the author addresses objections or critiques other scholars.
+Understanding these helps you see the dialectical context.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في عكس النقيض. فصل في الحجة. الموصل إلى المطلوب التصديقي ينحصر في ثلاث. القياس ، تعريفه ، ومحترزات التعريف. المذاهب في كيفية حصول العلم بالنتيجة من المقدمتين. تقسيم القياس إلى اقتراني واستثنائي، والاقتراني إلى الحملي والشرطي. بيان حدود القياس الثلاثة، ووجه انقسامه إلى الأشكال والضروب. الشكل الأول ، وشرط إنتاجه، وبيان ضروبه المنتجة. شك مشهور وجوابه. شرط إنتاج الشكل الثاني وضروبه المنتجة. طرق رد الشكل الثاني إلى الشكل الأول للبرهنة على صحته. شرط إنتاج الشكل الثالث ، وضروبه المنتجة. طرق رد الشكل الثالث إلى الأول. شرط إنتاج الشكل الرابع ، وضروبه المنتجة. طرق رد الشكل الرابع إلى الأول. فصل في المختلطات. شرط إنتاج الشكل الأول حسب الجهة. شرط إنتاج الشكل الثاني حسب الجهة. شرط إنتاج الشكل الثالث حسب الجهة. شرط إنتاج الشكل الرابع حسب الجهة. فصل في القياس الاقتراني الشرطي، أقسامه وانعقاد الأشكال الأربعة فيه. شك وجوابه. القياس الاستثنائي. كيفية إنتاج القياس الاستثنائي. شك وجوابه. القياس المركب من أقيسة. القياس الخلفي، وأن مرجعه إلى اقتراني واستثنائي. الاستقراء حجة. شك وجوابه. التمثيل يفيد القطع. بيان أن التمثيل يفيد القطع ، ورد مزاعم ابن سينا والطوسي المتشيع. لإثبات العلية طرق. الصناعات الخمس. تصنيف مبادئ القياسات إلى ثلاثة عشر صنفا. الأول : البرهان ، تعريفه ، والأبحاث المندرجة تحته.. أصول اليقينيات. المتواتر تعريفه، شروطه، إفادته العلم الضروري.
+Chapter on Conversion of Contradictories. Chapter on Proof. That which leads to the desired assent is limited to three. The syllogism, its definition, and the safeguards of the definition. The doctrines concerning how knowledge of the conclusion is obtained from the two premises. Division of syllogism into conjunctive and exceptional, and the conjunctive into categorical and conditional. Explanation of the three limits of the syllogism, and the aspect of its division into figures and moods. The first figure, its condition for production, and explanation of its productive moods. A famous doubt and its answer. Condition for production of the second figure and its productive moods. Methods of reducing the second figure to the first to prove its validity. Condition for production of the third figure and its productive moods. Methods of reducing the third figure to the first. Condition for production of the fourth figure and its productive moods. Methods of reducing the fourth figure to the first. Chapter on Mixed Syllogisms. Condition for production of the first figure according to modality. Condition for production of the second figure according to modality. Condition for production of the third figure according to modality. Condition for production of the fourth figure according to modality. Chapter on the Conditional Conjunctive Syllogism, its divisions and the formation of the four figures in it. A doubt and its answer. Exceptional Syllogism. How the Exceptional Syllogism produces. A doubt and its answer. Syllogism composed of multiple syllogisms. Reductio ad absurdum syllogism, and that its reference is to conjunctive and exceptional. Induction is a proof. A doubt and its answer. Example yields certainty. Explanation that example yields certainty, and refutation of the claims of Ibn Sina and the Shiite Tusi. For establishing causality there are methods. The Five Arts. Classification of the principles of syllogisms into thirteen kinds. The first: Demonstration, its definition, and the investigations subsumed under it. The foundations of certainties. Mutawatir, its definition, conditions, and its yielding necessary knowledge.
+Source pages p. 631
+
+Commentary
+This passage is a table of contents from the work 'Bahr Ulum', a commentary on 'Sullam al-'Ulum' in logic. It provides an overview of the chapters and key topics covered in the book. The order begins with fundamental concepts such as the definition of syllogism (qiyas) and its divisions into conjunctive (iqtirani) and exceptional (istithna'i). It then details the four figures (ashkal) of the categorical syllogism, their productive conditions, and methods of reduction to the first figure. Subsequent sections cover modal syllogisms, conditional syllogisms, exceptional syllogisms, compound syllogisms, and reductio ad absurdum. The later part discusses induction (istiqra') and analogy (tamthil), asserting that analogy yields certainty and refuting Ibn Sina and al-Tusi. It then lists the five arts (sana'i' khams) and classifies the principles of syllogisms into thirteen kinds, starting with demonstration (burhan). The final entries cover the sources of certainty (yaqiniyyat) and mutawatir reports. This table of contents serves as a roadmap for the student, indicating the logical progression of the text from basics to advanced topics in Islamic logic.
+
+Key Terms
+القياس
+الشكل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table of contents, which chapter discusses the condition for production of the fourth figure according to modality?
+A) فصل في القياس الاقتراني الشرطي
+B) شرط إنتاج الشكل الرابع حسب الجهة
+C) القياس الاستثنائي
+D) التمثيل يفيد القطع
+
+Key Takeaway
+The table of contents shows the logical progression from basic syllogism to advanced topics, helping you navigate the text efficiently.
+
+How This Lesson Applies — to MY Life?
+?
+Use the table of contents to find the chapter that discusses the condition for production of the third figure. Write the exact Arabic heading as it appears.
+?
+Imagine you are studying the refutation of Ibn Sina and al-Tusi. Using the table of contents, which entry tells you where this refutation occurs?
+
+Pages p. 631 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 632
+Module 1 · Lesson 105
+Next →
+Introduction and Front Matter
+beginner
+5 min
+Navigating the Table of Contents of Sharh Bahr al-Ulum
+Table of contents listing major topics of the commentary.
+
+Learning Objective
+By the end of this lesson, you will be able to trace the logical progression of topics from syllogism to the five arts as outlined in the table of contents.
+
+Core Idea
+The table of contents reveals the work's dialectical structure: each topic is followed by doubts and answers.
+
+This table of contents is your roadmap through Sharh Bahr al-Ulum. Notice how it moves from basic syllogistic forms to the five arts, with each section including a 'doubt and its answer' — a hallmark of the dialectical method. By parsing this index, you will understand the scope and organization of the entire commentary.
+
+Guided Path
+1
+Identify the main sections
+Look for the hierarchy: syllogism types (conjunctive conditional, exceptional, compound, reductio), induction, analogy, then the five arts. Each major section is a distinct topic.
+2
+Notice the dialectical pattern
+Each major topic has 'شك وجوابه' (doubt and its answer). This indicates the author's method of presenting objections and refutations.
+This pattern appears after the conditional conjunctive syllogism, exceptional syllogism, induction, etc.
+3
+Trace the progression from simple to complex
+The work starts with modalities and figures, moves to conditional syllogisms, then to induction and analogy, culminating in the five arts. This reflects the logical order of reasoning.
+Induction and analogy are presented as proofs before the arts.
+4
+Relate to the tradition
+The inclusion of 'البرهان اللمي والبرهان الإني' shows engagement with Avicennan logic, and the refutation of Ibn Sina and al-Tusi under analogy shows critical stance.
+The author is not merely summarizing but engaging with earlier scholars.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شرح بحر العلوم على سلم العلوم
+فهرس محتويات الكتاب
+الموضوع
+شرط إنتاج الشكل الرابع حسب الجهة
+فصل في القياس الاقتراني الشرطي، أقسامه وانعقاد الأشكال الأربعة فيه.
+شك وجوابه
+القياس الاستثنائي
+كيفية إنتاج القياس الاستثنائي
+شك وجوابه
+القياس المركب من أقيسة أقيسة
+القياس الخلفي، وأن مرجعه إلى اقتراني واستثنائي
+الاستقراء حجة
+شك وجوابه
+التمثيل يفيد القطع
+بيان أن التمثيل يفيد القطع ، ورد مزاعم ابن سينا والطوسي المتشيع
+لإثبات العلية طرق
+الصناعات الخمس
+تصنيف مبادئ القياسات إلى ثلاثة عشر صنفا
+الأول : البرهان ، تعريفه ، والأبحاث المندرجة تحته..
+أصول اليقينيات.
+المتواتر تعريفه، شروطه، إفادته العلم الضروري
+البرهان اللمي والبرهان الإني.
+إهمال المتأخرين لمباحث البرهان والصناعات.
+الثاني: الجدل، تعريفه، وما يتعلق به.
+الثالث: الخطابة ، تعريفها والأبحاث المتعلقة بها .
+الرابع: الشعر ، تعريفه، وما يشتمل عليه
+الخامس السفسطة ، تعريفها، وما يندرج فيها
+أهم أسباب الغلط في الاستدلال
+طرق الخلاص من هذه الأغلاط
+خاتمة الكتاب فيها : أجزاء العلوم هي المسائل والمبادئ من الوسائل ...
+الفهارس العامة
+قائمة المصادر والمراجع
+فهرس محتويات الكتاب
+Explanation of Bahr al-Ulum on Sullam al-Ulum. Table of contents of the book. Subject: Condition of the fourth figure according to modality. Chapter on conditional conjunctive syllogism, its divisions and the occurrence of the four figures therein. Doubt and its answer. Exceptional syllogism. How to produce the exceptional syllogism. Doubt and its answer. Compound syllogism from multiple syllogisms. Reductio ad absurdum syllogism, and that it reduces to conjunctive and exceptional. Induction is a proof. Doubt and its answer. Analogy yields certainty. Exposition that analogy yields certainty, and refutation of the claims of Ibn Sina and al-Tusi the Shia. Methods for establishing causality. The five arts. Classification of the principles of syllogisms into thirteen kinds. First: Demonstration, its definition, and the investigations included under it. Foundations of certainties. Mutawatir, its definition, conditions, its providing necessary knowledge. Demonstrations a priori and a posteriori. Neglect of later scholars of the topics of demonstration and the arts. Second: Dialectic, its definition, and what pertains to it. Third: Rhetoric, its definition, and the investigations related to it. Fourth: Poetics, its definition, and what it comprises. Fifth: Sophistry, its definition, and what is included in it. Major causes of error in inference. Methods of salvation from these errors. Conclusion of the book: Parts of the sciences are the issues and principles from means... General indices. List of sources and references. Table of contents of the book.
+Source pages p. 632
+
+Commentary
+This passage is the table of contents of Sharh Bahr al-Ulum, a commentary on al-Sullam al-Ulum in Islamic logic. It begins by stating the book title and then lists the topics covered in the commentary. The first entry discusses the condition for the fourth figure of the syllogism in terms of modality. Then it moves to conditional conjunctive syllogisms, covering its divisions and the occurrence of the four figures within it. Each topic is followed by 'doubt and its answer' (shakk wa jawabuhu), indicating the dialectical method of the work. Subsequent topics include the exceptional syllogism, compound syllogisms, reductio ad absurdum, induction as a proof, and analogy yielding certainty with a refutation of Ibn Sina and al-Tusi. The methods for establishing causality are listed. Then the 'five arts' are introduced: demonstration (burhan), dialectic (jadal), rhetoric (khataba), poetics (shi'r), and sophistry (safsata). The table also includes principles of syllogisms, foundations of certainties, and the mutawatir definition. It ends with a conclusion on the parts of sciences and general indices. This index provides a roadmap to the entire work, showing its comprehensive coverage of logical topics from syllogistic to the five arts and error analysis.
+
+Key Terms
+القياس الاقتراني
+القياس الاستثنائي
+الصناعات الخمس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table of contents, which of the following is explicitly stated to be a proof (hujja)?
+A) Analogy
+B) Induction
+C) Exceptional syllogism
+D) Reductio ad absurdum
+
+Key Takeaway
+The table of contents is not merely an index; it is a logical map that shows the progression from simple syllogisms to the five arts, all framed in a dialectical style.
+
+How This Lesson Applies — to MY Life?
+?
+Using the table of contents, list the five arts in order as they appear. Then, for each art, identify whether the table mentions its definition and associated investigations.
+?
+Identify two topics in the table that include a 'doubt and its answer' (shakk wa jawabuhu). Explain how this dialectical format helps clarify logical issues.
+
+Pages p. 632 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 632
+Module 1 · Lesson 106
+Next →
+Introduction and Front Matter
+intermediate
+6 min
+Syllogism Types in the Table
+Section of the table listing syllogism types.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the different types of syllogisms listed in the table and describe their dialectical treatment.
+
+Core Idea
+The commentary covers four syllogism types: conjunctive conditional, exceptional, compound, and reductio, each with doubts and answers.
+
+The table of contents lists several syllogism types in sequence. Note that each is followed by a 'doubt and its answer', indicating that the author not only presents these forms but also anticipates objections. By examining these entries, you will understand the range of syllogistic reasoning covered in the work.
+
+Guided Path
+1
+Locate the syllogism entries
+Find the lines: 'فصل في القياس الاقتراني الشرطي', 'القياس الاستثنائي', 'القياس المركب من أقيسة', 'القياس الخلفي'. These represent the four types.
+The first is a chapter on conditional conjunctive syllogism.
+2
+Note the order
+They appear after the condition of the fourth figure, showing a progression from conjunctive to exceptional to compound to reductio.
+This order is logical: from basic syllogisms to more complex ones.
+3
+Check for dialectical elements
+After the conditional conjunctive section and the exceptional syllogism, the text includes 'شك وجوابه' (doubt and its answer). This indicates that the author addresses objections.
+The compound and reductio entries do not explicitly have 'شك وجوابه' in the table, but they may within the text.
+4
+Identify the sources of doubt
+Think about what doubts might arise: e.g., are all four figures possible in conditional syllogisms? How does reductio reduce to other forms?
+These doubts are typical of logical investigations.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شرح بحر العلوم على سلم العلوم
+فهرس محتويات الكتاب
+الموضوع
+شرط إنتاج الشكل الرابع حسب الجهة
+فصل في القياس الاقتراني الشرطي، أقسامه وانعقاد الأشكال الأربعة فيه.
+شك وجوابه
+القياس الاستثنائي
+كيفية إنتاج القياس الاستثنائي
+شك وجوابه
+القياس المركب من أقيسة أقيسة
+القياس الخلفي، وأن مرجعه إلى اقتراني واستثنائي
+الاستقراء حجة
+شك وجوابه
+التمثيل يفيد القطع
+بيان أن التمثيل يفيد القطع ، ورد مزاعم ابن سينا والطوسي المتشيع
+لإثبات العلية طرق
+الصناعات الخمس
+تصنيف مبادئ القياسات إلى ثلاثة عشر صنفا
+الأول : البرهان ، تعريفه ، والأبحاث المندرجة تحته..
+أصول اليقينيات.
+المتواتر تعريفه، شروطه، إفادته العلم الضروري
+البرهان اللمي والبرهان الإني.
+إهمال المتأخرين لمباحث البرهان والصناعات.
+الثاني: الجدل، تعريفه، وما يتعلق به.
+الثالث: الخطابة ، تعريفها والأبحاث المتعلقة بها .
+الرابع: الشعر ، تعريفه، وما يشتمل عليه
+الخامس السفسطة ، تعريفها، وما يندرج فيها
+أهم أسباب الغلط في الاستدلال
+طرق الخلاص من هذه الأغلاط
+خاتمة الكتاب فيها : أجزاء العلوم هي المسائل والمبادئ من الوسائل ...
+الفهارس العامة
+قائمة المصادر والمراجع
+فهرس محتويات الكتاب
+Explanation of Bahr al-Ulum on Sullam al-Ulum. Table of contents of the book. Subject: Condition of the fourth figure according to modality. Chapter on conditional conjunctive syllogism, its divisions and the occurrence of the four figures therein. Doubt and its answer. Exceptional syllogism. How to produce the exceptional syllogism. Doubt and its answer. Compound syllogism from multiple syllogisms. Reductio ad absurdum syllogism, and that it reduces to conjunctive and exceptional. Induction is a proof. Doubt and its answer. Analogy yields certainty. Exposition that analogy yields certainty, and refutation of the claims of Ibn Sina and al-Tusi the Shia. Methods for establishing causality. The five arts. Classification of the principles of syllogisms into thirteen kinds. First: Demonstration, its definition, and the investigations included under it. Foundations of certainties. Mutawatir, its definition, conditions, its providing necessary knowledge. Demonstrations a priori and a posteriori. Neglect of later scholars of the topics of demonstration and the arts. Second: Dialectic, its definition, and what pertains to it. Third: Rhetoric, its definition, and the investigations related to it. Fourth: Poetics, its definition, and what it comprises. Fifth: Sophistry, its definition, and what is included in it. Major causes of error in inference. Methods of salvation from these errors. Conclusion of the book: Parts of the sciences are the issues and principles from means... General indices. List of sources and references. Table of contents of the book.
+Source pages p. 632
+
+Commentary
+This passage is the table of contents of Sharh Bahr al-Ulum, a commentary on al-Sullam al-Ulum in Islamic logic. It begins by stating the book title and then lists the topics covered in the commentary. The first entry discusses the condition for the fourth figure of the syllogism in terms of modality. Then it moves to conditional conjunctive syllogisms, covering its divisions and the occurrence of the four figures within it. Each topic is followed by 'doubt and its answer' (shakk wa jawabuhu), indicating the dialectical method of the work. Subsequent topics include the exceptional syllogism, compound syllogisms, reductio ad absurdum, induction as a proof, and analogy yielding certainty with a refutation of Ibn Sina and al-Tusi. The methods for establishing causality are listed. Then the 'five arts' are introduced: demonstration (burhan), dialectic (jadal), rhetoric (khataba), poetics (shi'r), and sophistry (safsata). The table also includes principles of syllogisms, foundations of certainties, and the mutawatir definition. It ends with a conclusion on the parts of sciences and general indices. This index provides a roadmap to the entire work, showing its comprehensive coverage of logical topics from syllogistic to the five arts and error analysis.
+
+Key Terms
+القياس الاقتراني الشرطي
+القياس الاستثنائي
+القياس المركب
+القياس الخلفي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table, which of the following syllogisms is said to reduce to conjunctive and exceptional forms?
+A) Conditional conjunctive syllogism
+B) Exceptional syllogism
+C) Compound syllogism
+D) Reductio ad absurdum
+
+Key Takeaway
+The table lists four distinct syllogism types, with doubts and answers for the first two, reflecting a critical approach to logical forms.
+
+How This Lesson Applies — to MY Life?
+?
+From the table, extract the four syllogism types. For each, write a one-sentence definition based on the names.
+?
+Imagine you are a commentator: propose a possible 'doubt' (shakk) that could arise about the exceptional syllogism and write a brief answer (jawab) based on logical principles.
+
+Pages p. 632 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 632
+Module 1 · Lesson 107
+Next →
+Introduction and Front Matter
+intermediate
+7 min
+Induction and Analogy as Proofs
+Entries on induction and analogy in the table.
+
+Learning Objective
+By the end of this lesson, you will be able to describe the roles of induction and analogy as proofs in this text and contrast them with the views of Ibn Sina.
+
+Core Idea
+Induction is considered a proof and analogy yields certainty, against the skepticism of Ibn Sina and al-Tusi.
+
+The table of contents includes two controversial claims: 'الاستقراء حجة' (Induction is a proof) and 'التمثيل يفيد القطع' (Analogy yields certainty). These are not neutral statements; they take positions in a long debate. Induction and analogy were often downgraded by Avicennan logicians, so this commentary explicitly defends them.
+
+Guided Path
+1
+Find the entries for induction and analogy
+Look for 'الاستقراء حجة' and 'التمثيل يفيد القطع' in the Arabic. They appear after the syllogism sections and before the five arts.
+2
+Note the dialectical treatment
+After induction, there is 'شك وجوابه', indicating a doubt and answer. For analogy, the table mentions 'بيان أن التمثيل يفيد القطع، ورد مزاعم ابن سينا والطوسي المتشيع' showing a direct refutation.
+This shows the author is not just stating but arguing.
+3
+Understand the traditional view
+Ibn Sina and many logicians held that induction (especially incomplete) only yields probability, and analogy is not certain. The author asserts the opposite.
+This is a significant epistemological stance.
+4
+Consider the grounds for certainty
+The table later mentions 'لإثبات العلية طرق' (methods for establishing causality), which may be used to support analogy as yielding certainty.
+Causality is key to analogy in Islamic jurisprudence.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شرح بحر العلوم على سلم العلوم
+فهرس محتويات الكتاب
+الموضوع
+شرط إنتاج الشكل الرابع حسب الجهة
+فصل في القياس الاقتراني الشرطي، أقسامه وانعقاد الأشكال الأربعة فيه.
+شك وجوابه
+القياس الاستثنائي
+كيفية إنتاج القياس الاستثنائي
+شك وجوابه
+القياس المركب من أقيسة أقيسة
+القياس الخلفي، وأن مرجعه إلى اقتراني واستثنائي
+الاستقراء حجة
+شك وجوابه
+التمثيل يفيد القطع
+بيان أن التمثيل يفيد القطع ، ورد مزاعم ابن سينا والطوسي المتشيع
+لإثبات العلية طرق
+الصناعات الخمس
+تصنيف مبادئ القياسات إلى ثلاثة عشر صنفا
+الأول : البرهان ، تعريفه ، والأبحاث المندرجة تحته..
+أصول اليقينيات.
+المتواتر تعريفه، شروطه، إفادته العلم الضروري
+البرهان اللمي والبرهان الإني.
+إهمال المتأخرين لمباحث البرهان والصناعات.
+الثاني: الجدل، تعريفه، وما يتعلق به.
+الثالث: الخطابة ، تعريفها والأبحاث المتعلقة بها .
+الرابع: الشعر ، تعريفه، وما يشتمل عليه
+الخامس السفسطة ، تعريفها، وما يندرج فيها
+أهم أسباب الغلط في الاستدلال
+طرق الخلاص من هذه الأغلاط
+خاتمة الكتاب فيها : أجزاء العلوم هي المسائل والمبادئ من الوسائل ...
+الفهارس العامة
+قائمة المصادر والمراجع
+فهرس محتويات الكتاب
+Explanation of Bahr al-Ulum on Sullam al-Ulum. Table of contents of the book. Subject: Condition of the fourth figure according to modality. Chapter on conditional conjunctive syllogism, its divisions and the occurrence of the four figures therein. Doubt and its answer. Exceptional syllogism. How to produce the exceptional syllogism. Doubt and its answer. Compound syllogism from multiple syllogisms. Reductio ad absurdum syllogism, and that it reduces to conjunctive and exceptional. Induction is a proof. Doubt and its answer. Analogy yields certainty. Exposition that analogy yields certainty, and refutation of the claims of Ibn Sina and al-Tusi the Shia. Methods for establishing causality. The five arts. Classification of the principles of syllogisms into thirteen kinds. First: Demonstration, its definition, and the investigations included under it. Foundations of certainties. Mutawatir, its definition, conditions, its providing necessary knowledge. Demonstrations a priori and a posteriori. Neglect of later scholars of the topics of demonstration and the arts. Second: Dialectic, its definition, and what pertains to it. Third: Rhetoric, its definition, and the investigations related to it. Fourth: Poetics, its definition, and what it comprises. Fifth: Sophistry, its definition, and what is included in it. Major causes of error in inference. Methods of salvation from these errors. Conclusion of the book: Parts of the sciences are the issues and principles from means... General indices. List of sources and references. Table of contents of the book.
+Source pages p. 632
+
+Commentary
+This passage is the table of contents of Sharh Bahr al-Ulum, a commentary on al-Sullam al-Ulum in Islamic logic. It begins by stating the book title and then lists the topics covered in the commentary. The first entry discusses the condition for the fourth figure of the syllogism in terms of modality. Then it moves to conditional conjunctive syllogisms, covering its divisions and the occurrence of the four figures within it. Each topic is followed by 'doubt and its answer' (shakk wa jawabuhu), indicating the dialectical method of the work. Subsequent topics include the exceptional syllogism, compound syllogisms, reductio ad absurdum, induction as a proof, and analogy yielding certainty with a refutation of Ibn Sina and al-Tusi. The methods for establishing causality are listed. Then the 'five arts' are introduced: demonstration (burhan), dialectic (jadal), rhetoric (khataba), poetics (shi'r), and sophistry (safsata). The table also includes principles of syllogisms, foundations of certainties, and the mutawatir definition. It ends with a conclusion on the parts of sciences and general indices. This index provides a roadmap to the entire work, showing its comprehensive coverage of logical topics from syllogistic to the five arts and error analysis.
+
+Key Terms
+الاستقراء
+التمثيل
+القطع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table, the refutation under analogy is directed against which two scholars?
+A) Al-Farabi and Avicenna
+B) Ibn Sina and al-Tusi
+C) Al-Ghazali and al-Razi
+D) Al-Taftazani and al-Jurjani
+
+Key Takeaway
+Induction and analogy are elevated to certain proofs in this commentary, a direct challenge to the Avicennan tradition and a support for juristic qiyas.
+
+How This Lesson Applies — to MY Life?
+?
+Based on the table, explain why the author likely included a specific refutation of Ibn Sina and al-Tusi under analogy. What does this tell you about the intended audience?
+?
+Give an example of an inductive argument in Islamic sciences (e.g., the inference that all prophets are truthful based on observed cases) and discuss whether it would be considered certain by this author.
+
+Pages p. 632 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 632
+Module 1 · Lesson 108
+Next →
+Introduction and Front Matter
+intermediate
+6 min
+The Five Arts: A Complete Logical System
+Section on the five arts and error analysis.
+
+Learning Objective
+By the end of this lesson, you will be able to list the five arts and identify their order and coverage in the table.
+
+Core Idea
+The five arts—demonstration, dialectic, rhetoric, poetics, sophistry—form a complete system of logical argumentation.
+
+The table culminates in the 'الصناعات الخمس' (five arts), which are the highest level of logical classification. These arts categorize arguments based on their purpose and certainty. By examining their order and the topics under each, you will see how logic moves from certain demonstration to persuasive and fallacious reasoning.
+
+Guided Path
+1
+Locate the five arts section
+Find 'الصناعات الخمس' in the Arabic. It appears after the causality methods and before the classification of principles.
+2
+List them in order
+The table lists: الأول: البرهان (demonstration), الثاني: الجدل (dialectic), الثالث: الخطابة (rhetoric), الرابع: الشعر (poetics), الخامس: السفسطة (sophistry). Write them down.
+This order follows Aristotelian tradition.
+3
+Note what is said about each
+For demonstration, it mentions definitions and investigations, foundations of certainties, mutawatir, and a priori vs a posteriori. For others, just definition and related topics.
+Demonstration gets the most detailed treatment.
+4
+Observe the inclusion of error analysis
+After the five arts, the table includes 'أهم أسباب الغلط في الاستدلال' (major causes of error) and 'طرق الخلاص' (methods of salvation). This shows the work also addresses fallacies.
+Sophistry is the art of error, but the authors add a separate section on errors.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شرح بحر العلوم على سلم العلوم
+فهرس محتويات الكتاب
+الموضوع
+شرط إنتاج الشكل الرابع حسب الجهة
+فصل في القياس الاقتراني الشرطي، أقسامه وانعقاد الأشكال الأربعة فيه.
+شك وجوابه
+القياس الاستثنائي
+كيفية إنتاج القياس الاستثنائي
+شك وجوابه
+القياس المركب من أقيسة أقيسة
+القياس الخلفي، وأن مرجعه إلى اقتراني واستثنائي
+الاستقراء حجة
+شك وجوابه
+التمثيل يفيد القطع
+بيان أن التمثيل يفيد القطع ، ورد مزاعم ابن سينا والطوسي المتشيع
+لإثبات العلية طرق
+الصناعات الخمس
+تصنيف مبادئ القياسات إلى ثلاثة عشر صنفا
+الأول : البرهان ، تعريفه ، والأبحاث المندرجة تحته..
+أصول اليقينيات.
+المتواتر تعريفه، شروطه، إفادته العلم الضروري
+البرهان اللمي والبرهان الإني.
+إهمال المتأخرين لمباحث البرهان والصناعات.
+الثاني: الجدل، تعريفه، وما يتعلق به.
+الثالث: الخطابة ، تعريفها والأبحاث المتعلقة بها .
+الرابع: الشعر ، تعريفه، وما يشتمل عليه
+الخامس السفسطة ، تعريفها، وما يندرج فيها
+أهم أسباب الغلط في الاستدلال
+طرق الخلاص من هذه الأغلاط
+خاتمة الكتاب فيها : أجزاء العلوم هي المسائل والمبادئ من الوسائل ...
+الفهارس العامة
+قائمة المصادر والمراجع
+فهرس محتويات الكتاب
+Explanation of Bahr al-Ulum on Sullam al-Ulum. Table of contents of the book. Subject: Condition of the fourth figure according to modality. Chapter on conditional conjunctive syllogism, its divisions and the occurrence of the four figures therein. Doubt and its answer. Exceptional syllogism. How to produce the exceptional syllogism. Doubt and its answer. Compound syllogism from multiple syllogisms. Reductio ad absurdum syllogism, and that it reduces to conjunctive and exceptional. Induction is a proof. Doubt and its answer. Analogy yields certainty. Exposition that analogy yields certainty, and refutation of the claims of Ibn Sina and al-Tusi the Shia. Methods for establishing causality. The five arts. Classification of the principles of syllogisms into thirteen kinds. First: Demonstration, its definition, and the investigations included under it. Foundations of certainties. Mutawatir, its definition, conditions, its providing necessary knowledge. Demonstrations a priori and a posteriori. Neglect of later scholars of the topics of demonstration and the arts. Second: Dialectic, its definition, and what pertains to it. Third: Rhetoric, its definition, and the investigations related to it. Fourth: Poetics, its definition, and what it comprises. Fifth: Sophistry, its definition, and what is included in it. Major causes of error in inference. Methods of salvation from these errors. Conclusion of the book: Parts of the sciences are the issues and principles from means... General indices. List of sources and references. Table of contents of the book.
+Source pages p. 632
+
+Commentary
+This passage is the table of contents of Sharh Bahr al-Ulum, a commentary on al-Sullam al-Ulum in Islamic logic. It begins by stating the book title and then lists the topics covered in the commentary. The first entry discusses the condition for the fourth figure of the syllogism in terms of modality. Then it moves to conditional conjunctive syllogisms, covering its divisions and the occurrence of the four figures within it. Each topic is followed by 'doubt and its answer' (shakk wa jawabuhu), indicating the dialectical method of the work. Subsequent topics include the exceptional syllogism, compound syllogisms, reductio ad absurdum, induction as a proof, and analogy yielding certainty with a refutation of Ibn Sina and al-Tusi. The methods for establishing causality are listed. Then the 'five arts' are introduced: demonstration (burhan), dialectic (jadal), rhetoric (khataba), poetics (shi'r), and sophistry (safsata). The table also includes principles of syllogisms, foundations of certainties, and the mutawatir definition. It ends with a conclusion on the parts of sciences and general indices. This index provides a roadmap to the entire work, showing its comprehensive coverage of logical topics from syllogistic to the five arts and error analysis.
+
+Key Terms
+البرهان
+الجدل
+الخطابة
+الشعر
+السفسطة
+أصول اليقينيات
+المتواتر
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the table, which art is mentioned first and includes a discussion of mutawatir?
+A) Dialectic
+B) Demonstration
+C) Rhetoric
+D) Sophistry
+
+Key Takeaway
+The five arts classification provides a complete map of argument types, with demonstration as the pinnacle and sophistry as the lowest, supplemented by a study of errors.
+
+How This Lesson Applies — to MY Life?
+?
+From the table, extract the five arts and note one sub-topic mentioned under demonstration (e.g., mutawatir). Write a sentence on how mutawatir reports are used in proving foundational Islamic beliefs.
+?
+Explain why sophistry is listed as the fifth art and how the separate section on errors complements it.
+
+Pages p. 632 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 633
+Module 1 · Lesson 109
+Next →
+Introduction and Front Matter
+intermediate
+5 min
+The Five Logical Arts: An Overview from Bahr Ulum Commentary
+Lists the sections of the commentary: burhan, jadal, khitaba, shi'r, safsata, and conclusion.
+
+Learning Objective
+By the end of this lesson, you will be able to list the five logical arts and explain the purpose of each in the Islamic logical tradition.
+
+Core Idea
+The five arts—demonstration, dialectic, rhetoric, poetics, sophistry—define the spectrum of logical discourse from certainty to deception.
+
+This passage from the Bahr Ulum commentary presents the table of contents of the work, outlining the logical arts that will be discussed. Understanding this classification is essential because it shows how Islamic logicians organized the field: from the highest epistemic certainty (demonstration) to the lowest forms of argument (sophistry). Each art has a specific function in reasoning and persuasion, and they are all treated as part of the science of logic.
+
+Guided Path
+1
+Identify the five arts listed
+Look at the Arabic headings: البرهان (demonstration), الجدل (dialectic), الخطابة (rhetoric), الشعر (poetry), السفسطة (sophistry). These are the five logical arts.
+2
+Understand the two types of demonstration
+Note that burhan is split into limmi (a priori) and inni (a posteriori). Limmi proceeds from cause to effect; inni from effect to cause.
+3
+Recognize additional topics
+The passage also mentions causes of error and methods of salvation from these errors, plus a conclusion on parts of sciences. These are supplementary to the five arts.
+4
+Apply the classification
+Think of real examples from Islamic sciences for each art. For instance, a proof for God's existence in kalam is often a demonstration (burhan). Disputes in usul al-fiqh may use dialectic (jadal). A preacher's sermon uses rhetoric (khataba). A poetic verse may use imaginative propositions (shi'r). A fallacious argument in a debate is sophistry (safsata).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+البرهان اللمي والبرهان الإني.
+إهمال المتأخرين لمباحث البرهان والصناعات.
+الثاني: الجدل، تعريفه، وما يتعلق به.
+الثالث: الخطابة، تعريفها والأبحاث المتعلقة بها.
+الرابع: الشعر، تعريفه، وما يشتمل عليه.
+الخامس: السفسطة، تعريفها، وما يندرج فيها.
+أهم أسباب الغلط في الاستدلال.
+طرق الخلاص من هذه الأغلاط.
+خاتمة الكتاب فيها: أجزاء العلوم هي المسائل والمبادئ من الوسائل.
+The demonstrative proof a priori and the demonstrative proof a posteriori.
+The neglect of later scholars for the topics of demonstration and the [intellectual] crafts.
+Second: Dialectic, its definition and what pertains to it.
+Third: Rhetoric, its definition and the research related to it.
+Fourth: Poetry, its definition and what it comprises.
+Fifth: Sophistry, its definition and what is included in it.
+The most important causes of error in reasoning.
+Methods of salvation from these errors.
+Conclusion of the book containing: The parts of the sciences are the problems and the principles from the means.
+Source pages p. 633
+
+Commentary
+This passage is the table of contents from the commentary 'Bahr Ulum' on 'Sullam al-Ulum'. It lists the sections of the book, starting with discussion of demonstrative proof (burhan) in its two forms: lammi (a priori) and inni (a posteriori). Then it mentions the neglect of later scholars for these foundational topics. The second section is on dialectic (jadal), its definition and related matters. The third is rhetoric (khataba), the fourth poetry (shi'r), and the fifth sophistry (safsata). It also includes causes of error in reasoning and methods of escaping them. The conclusion discusses the parts of the sciences: problems, principles, and means. This table of contents gives an overview of the logical arts covered in the commentary, which correspond to the five arts of Aristotelian logic: demonstration, dialectic, rhetoric, poetics, and sophistics. The mention of 'neglect of later scholars' hints at a polemical concern that later logicians abandoned rigorous demonstration.
+
+Key Terms
+البرهان اللمي
+البرهان الإني
+الجدل
+الخطابة
+الشعر
+السفسطة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is NOT among the five logical arts listed in this table of contents?
+A) Demonstration (burhan)
+B) Dialectic (jadal)
+C) Grammar (nahw)
+D) Sophistry (safsata)
+
+Key Takeaway
+The five logical arts—demonstration, dialectic, rhetoric, poetics, and sophistry—form the framework for classifying arguments in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+List the five logical arts and provide an example of each from Islamic theology or law.
+?
+Explain why the commentator mentions the 'neglect of later scholars' for demonstration. How might this affect the practice of kalam?
+
+Pages p. 633 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 634
+Module 1 · Lesson 110
+Next →
+Introduction and Front Matter
+beginner
+5 min
+Reading a Classical Islamic Title: Identifying Matn, Sharh, and Authorial Lineage
+Front matter identifying the commentary and its authors
+
+Learning Objective
+By the end of this lesson, you will be able to parse a classical Islamic scholarly title to identify the original text (matn), the commentary (sharh), the author, and his scholarly affiliation.
+
+Core Idea
+A classical title is a compressed scholarly diagram: matn, sharh, author, and school.
+
+When you pick up a book like Bahr Ulum, the title page is not just decoration. It encodes the entire scholarly relationship between the foundational text and its commentary, the author's credentials, and his doctrinal affiliation. Learning to read this code is the first step in orienting yourself within the Islamic intellectual tradition.
+
+Guided Path
+1
+Identify the word for 'commentary' (sharh)
+The term 'Sharh' (شرح) signals that this is a commentary, not an original work. Look for this word at the beginning of a title.
+2
+Find the title of the commentary
+After 'Sharh', look for the proper name that names the commentary. Here it is 'Bahr al-Uloom' (بحر العلوم). This is the commentary itself.
+3
+Identify the author of the commentary
+The phrase 'li-l-'allamah' or 'li-' introduces the commentator. Extract the full name: 'Abdul Ali al-Lakhnawi'. Also note his school affiliations (Hanafi, Maturidi) for context.
+4
+Identify the original text (matn)
+The phrase 'ala ...' (على) signals the matn. Here it is 'Sullam al-Uloom'. This is the foundational text being commented upon.
+5
+Identify the author of the matn
+The phrase 'li-imam' or 'li-' after the matn title introduces the matn author. Here it is 'Muhibbullah al-Bihari', also with his school affiliation (Hanafi).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شرح بحر العلوم للعلامة عبد علي اللكنوي المدراسي الحنفي الماتريدي على سلم العلوم للإمام محب الله البهاري الحنفي
+The Explanation of Bahr al-Uloom by the scholar Abdul Ali Al-Lakhnawi Al-Madrasi Al-Hanafi Al-Maturidi on Sullam al-Uloom by Imam Muhibbullah al-Bihari al-Hanafi.
+Source pages p. 634
+
+Commentary
+This is a front-matter passage that identifies the commentary Bahr Ulum, its author Abdul Ali Al-Lakhnawi, and the original text Sullam al-Uloom by Muhibbullah al-Bihari. It situates the work within the Hanafi-Maturidi tradition.
+
+Key Terms
+شرح
+بحر العلوم
+سلم العلوم
+عبد علي اللكنوي
+محب الله البهاري
+
+Key Terms from Source Passage
+
+Checkpoint
+In the title 'Sharh Bahr al-Uloom ... ala Sullam al-Uloom', what is the original text (matn)?
+A) Bahr al-Uloom
+B) Sullam al-Uloom
+C) Sharh
+D) al-Lakhnawi
+
+Key Takeaway
+A classical scholarly title tells you the relationship between texts and authors; parsing it correctly is essential for navigating the Islamic tradition.
+
+How This Lesson Applies — to MY Life?
+?
+Find a title of another classical commentary (e.g., 'Sharh al-Aqa'id al-Nasafiyya' or 'Fath al-Bari') and parse it: identify the matn, the sharh, the author of each, and their school affiliations.
+?
+Explain the significance of the commentator's affiliation (e.g., Hanafi-Maturidi) for understanding his doctrinal perspective on the text.
+
+Pages p. 634 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 637
+Module 1 · Lesson 111
+Next →
+Introduction and Front Matter
+beginner
+5 min
+Identifying Creedal Works in a Bibliography
+Bibliographical listing of six Sunni creedal works with authors
+
+Learning Objective
+By the end of this lesson, you will be able to identify the title, author, theological school, and genre (primary text or commentary) of each creedal work in a bibliography.
+
+Core Idea
+A creedal work's title and author reveal its theological lineage and genre.
+
+Before you can apply logical analysis to a theological argument, you must first locate and identify the work. This lesson trains you to read a bibliography like a scholar: extracting key information about a text's identity and placing it within the Islamic tradition. The list before you contains six creedal works ('aqida) from different authors and periods.
+
+Guided Path
+1
+Find the main title
+Look for the prominent phrase that names the work, often in larger font or followed by تأليف. For example, 'الرسائل الإيمانية' or 'العقيدة الحفيدة'.
+Some titles are numbered like (1), (2).
+2
+Identify the author
+Locate the author's name, usually after تأليف. Note his full name, dates of death, and any honorifics like 'الإمام' or 'الشيخ'.
+Authors may be listed with kunya and nisba (e.g., أبو عبد الله بن يوسف السنوسي).
+3
+Determine the theological school
+Look for explicit mentions of madhhab (e.g., 'المالكي الأشعري') or deduce from the author's known affiliation.
+This information is essential for understanding the doctrinal perspective.
+4
+Classify the genre: primary text or commentary
+Check words like 'شرح' (commentary) or 'منظومة' (poetic composition). A primary text is usually a concise creed, while a commentary expands upon it.
+For example, 'التحفة المفيدة في شرح العقيدة الحفيدة' is a commentary on al-Sanusi’s work.
+5
+Note publication details
+Observe the editor (اعتنى به), publisher (دار الضياء), and any series (سلسلة إحياء التراث الزيتوني). These help assess the critical edition's reliability.
+Modern editions often include introductions by contemporary scholars.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الرسائل الإيمانية لِأَعْلَام أَهْلِ السُّنَّةِ (1)
+عَقِيدَةُ الإمامية عقيدة أهل الأمان تَقِي الدِّينِ ابْنِ دَقِيقِ العِيدِ
+تأليف أَبِي مُحَمَّدٍ عَبْدِ القَادِر الفَاسِي
+(1007هـ - 1091هـ)
+با عيناء نزار حمادي لللنشر والتوزيع الكونت المالكي الشَّافِعِيِّ الأَشْعَرِي (المتوفى سنة 5702)
+دار الضياء للنشر والتوزيع الكونت
+الرسائل الإيمانية لِأَعْلَام أَهْلِ السُّنَّةِ (2)
+(3) الرسَائِلُ الإيمانية لِأَعْلَام أَهْلِ السُّنَّةِ.
+(4) العقيدة الحفيدة حقائق التوحيد لابي عبد الله محمد بن يوسف السنوسي (190 - ATS)
+تأليف أَبِي حَامِدٍ مُحمَّد العَرَبِي الفَاسِي
+تأليف أَبِي زَيدِ عَبْدِ الرَّحْمَنِ التَّعَالِي (DAVO - DV90) (01.00 - 9^^)
+باعتناء نزار حمادي دار الضياء للنشر والتوزيع الكونت
+با عيناء نزار حمادي دار الق للنشر والتوزيع الكونت
+سلسلة إحياء التراث الزيتوني ؟
+طالع البشرى التحفة المفيدة في شرح العقيدة الحفيدة
+تأليف الشيخ العلامة القاضي عَلَى العَقِيدَة الصغرى اني مهدي عيسى بن عبد الرحمن السكاني المراكشي
+تأليف الشيخ المضاف الفري إبراهيم وأحمد للارغني الزيتوني المالكي الأشعري
+ن 1349)
+ت 1062ه
+اعتنى به نزار حمادي
+تونس 1433 ه . 2012 - لهذا الشرح كان مقر ا س طرف المشيخة الزيتونية الطلبة العلوم الشرعية
+دار الضياء للنشر والتوزيع الكونت
+تقديم أ.د. فتحي أحمد عبد الرازق أستاذ العقية والفلسفة ورئيس قسم أصول الدين بكلية الدراسات الإسلامية والعربية للبنين جامعة الأزلعر بالقالمرة
+دار الضياء
+مَعَالِم الشذرات الذهبية أصول الدين للشيخ الإمام المجدد فَخَر الدين محمد بن عمر الرازي (ن 606هـ)
+عَلَى مَنْظُومَةِ العَقَائِدِ الشَّرْوبيَةِ إبراهيم برأحمد للارغني الزيتوني المالكي الأشعري
+اعتنى به نزار حمادي
+دار الضياء للنشر والتوزيع الكوت
+اعی به زاحمت دي هذا الشريح كان مقررا من طرف المشيخة الزيتونية الطالبية العلوم الشرعية
+دار الضياء للنشر والتوزيع الكوت
+The epistles of faith for the scholars of the Sunnah (1). The creed of the Imamiyya: the creed of the people of trust, Taqi al-Din ibn Daqiq al-Eid. Authored by Abu Muhammad Abd al-Qadir al-Fasi (1007 AH - 1091 AH). Published by: Nizar Hammadi, Dar al-Diya', al-Kont, the Maliki Shafi'i Ash'ari (died year 5702). The epistles of faith for the scholars of the Sunnah (2). (3) The epistles of faith for the scholars of the Sunnah. (4) The beneficial creed, the realities of monotheism, by Abu Abdullah Muhammad ibn Yusuf al-Sanusi (190 - ATS). Authored by Abu Hamid Muhammad al-Arabi al-Fasi. Authored by Abu Zayd Abd al-Rahman al-Ta'ali (DAVO - DV90) (01.00 - 9^^). Edited by Nizar Hammadi, Dar al-Diya' for publication and distribution, al-Kont. By 'Ayna, Nizar Hammadi, Dar al-Q for publication and distribution, al-Kont. Series: Reviving the Zaytuna heritage? Tali' al-Bushra, The useful masterpiece in explaining the beneficial creed. Authored by the scholar, the judge, al-Allama 'ala al-’Aqida al-Sughra, by Mahdi 'Isa ibn Abd al-Rahman al-Sukkari al-Murrakushi. Authored by the refined scholar Ibrahim wa Ahmad al-Arghani al-Zaytuni al-Maliki al-Ash'ari, died 1349, died 1062 AH. Edited by Nizar Hammadi, Tunis 1433 AH - 2012. This explanation was a curriculum on behalf of the Zaytuna shaykhdom for students of religious sciences. Dar al-Diya' for publication and distribution, al-Kont. Presented by Prof. Dr. Fathi Ahmad Abd al-Raziq, professor of creed and philosophy and head of the Department of Principles of Religion at the College of Islamic and Arabic Studies for Boys, University of al-Azhar in al-Qalama. Dar al-Diya'. Landmarks: Golden pearls of the principles of religion, by the renewing imam Fakhr al-Din Muhammad ibn Umar al-Razi (died 606 AH). On the poetic composition of creeds al-Sharubiyya, by Ibrahim bra Ahmad al-Arghani al-Zaytuni al-Maliki al-Ash'ari. Edited by Nizar Hammadi. Dar al-Diya' for publication and distribution, al-Kout. Edited by Zahmat Di. This explanation was a curriculum on behalf of the Zaytuna shaykhdom for students of religious sciences. Dar al-Diya' for publication and distribution, al-Kout.
+Source pages p. 637
+
+Commentary
+This passage consists of the title page and bibliographical data from a modern printed collection of Sunni creedal works. The page lists six different books related to Islamic theology ('aqida), each with its author and publication details. The first two entries are titled 'The Epistles of Faith for the Scholars of the Sunnah' (parts 1 and 2), attributed to various scholars including Taqi al-Din ibn Daqiq al-Eid and Abu Muhammad Abd al-Qadir al-Fasi. The third entry is a work by Abu Abdullah al-Sanusi, a prominent Ash'ari theologian. The fourth is a commentary on a creedal text. The fifth is a work of Fakhr al-Din al-Razi on principles of religion. The sixth is a commentary on al-Sharubiyya's poetic creed. The page also mentions the editor Nizar Hammadi and the publisher Dar al-Diya', indicating a modern scholarly edition. Unlike a typical logic text, this page provides no definitions, proofs, or arguments; it functions as a front matter that orients the reader to the contents of the volume. Students of logic should note that this is not a primary source for Ilm al-Mantiq, but rather a bibliographic record of theological works that may employ logical methods.
+
+Key Terms
+عقيدة
+رسائل إيمانية
+شرح
+مَنْظُومَة
+تأليف
+اعتنى به
+دار الضياء
+
+Key Terms from Source Passage
+
+Checkpoint
+How many distinct works are listed on this title page?
+A) 4
+B) 5
+C) 6
+D) 7
+
+Key Takeaway
+A creedal work's title and author immediately signal its theological school and genre, enabling accurate source identification.
+
+How This Lesson Applies — to MY Life?
+?
+From the list, identify one primary creedal work and one commentary on it. State the title and author of each.
+?
+Find the author Fakhr al-Din al-Razi in the list. What is the title of his work, and what theological school does he belong to?
+
+Pages p. 637 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 640
+Module 1 · Lesson 112
+Next →
+Introduction and Front Matter
+beginner
+5 min
+How to Read Front Matter in Islamic Manuscripts
+Publisher's catalog listing two works related to Ibn al-Hajib.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the key components of a classical Islamic manuscript's front matter and determine the author, title, and relationship between multiple works.
+
+Core Idea
+Front matter is the doorway to the manuscript's scholarly identity.
+
+This lesson takes you through a brief front matter entry from a publisher's catalog. It lists two works related to the famous grammarian Ibn al-Hajib. By learning to parse such entries, you will gain the skills to quickly orient yourself within the vast landscape of Islamic scholarly literature.
+
+Guided Path
+1
+Identify the main work title
+Look for the primary title phrase, usually the first name mentioned. Here it is 'Talbiat al-Talib' which is followed by a description of its subject.
+The title often contains 'fī' (on) or 'li' (for) indicating the topic.
+2
+Identify the author
+Find the author's name, usually introduced by 'ta'līf' (authored by). Here it is Muhammad ibn Abd al-Salam al-Amawi, a scholar from the 9th century AH.
+Sometimes the author is mentioned after a colon or in the next phrase.
+3
+Identify any additional work
+Look for 'wa yalīhi' (and followed by) to see if another work is bound with this one. Here 'al-I'lam' is mentioned as a second work on the meanings of names and proper nouns in Ibn al-Hajib's writings.
+Multiple works are often collected in one manuscript.
+4
+Note historical context
+Pay attention to any date or era mentioned. The text says the author is from the ninth century AH, which helps place the work chronologically.
+Centuries are often given as 'qarn al-tāsi' (ninth century).
+5
+Synthesize the relationship
+Combine all information: Both works are about understanding Ibn al-Hajib's terminology. The first is a general lexicon, the second focuses on proper names. The author is later than Ibn al-Hajib, indicating a commentary tradition.
+This helps you understand the work's place in the scholarly tradition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تلبية الطالب لِفَهُمْ لَغَاتِ ابن الحاجب وَيَلِيْهِ الإعلام بماني ابن الحاجب مِنَ الأَسْمَاء وَالأعلام تالیف محمد بن عبد السلام الأموي من علماء القرن التاسع الهجري
+Talbiat al-Talib for understanding the languages of Ibn al-Hajib, and followed by al-I'lam on the meanings of Ibn al-Hajib from names and proper nouns, authored by Muhammad ibn Abd al-Salam al-Amawi, a scholar of the ninth century AH.
+Source pages p. 640
+
+Commentary
+This passage is a front matter page from a book, likely a publisher's catalog. It introduces two works: 'Talbiat al-Talib' and 'al-I'lam' both related to the works of Ibn al-Hajib, a renowned grammarian and jurist. The author is Muhammad ibn Abd al-Salam al-Amawi, a scholar from the 9th century AH. The text provides basic bibliographic information without any logical or argumentative content.
+
+Key Terms
+ابن الحاجب
+
+Key Terms from Source Passage
+
+Checkpoint
+Who is the author of the work 'Talbiat al-Talib' mentioned in the front matter?
+A) Ibn al-Hajib
+B) Muhammad ibn Abd al-Salam al-Amawi
+C) Jamal al-Din al-Abhari
+D) Fakhr al-Din al-Razi
+
+Key Takeaway
+Front matter entries are concise but contain critical bibliographic information that guides the reader into the scholarly tradition.
+
+How This Lesson Applies — to MY Life?
+?
+Find a front matter entry from another classical work (e.g., from a manuscript copy of al-Ghazali's Ihya Ulum al-Din) and identify: (a) the main work title, (b) the author, (c) any additional works listed, and (d) the century of the author if given.
+
+Pages p. 640 · Introduction and Front Matter
+← Prev
+Mark Done
+Next →

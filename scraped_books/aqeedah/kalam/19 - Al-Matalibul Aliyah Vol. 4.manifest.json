@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:00Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Matalibul%20Aliyah%20Vol.%204/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/19 - Al-Matalibul Aliyah Vol. 4",
+  "output_bytes": 10140505,
+  "output_sha256": "540b4f08c632bcd0bcd46553a5ed6502781b25e20efd1ba977dea6ef0db80be1",
+  "checks": {
+    "catalog_expected_lessons": 1334,
+    "course_reported_lessons": 1334,
+    "index_lessons": 1334,
+    "full_lessons": 1334,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 13,
+    "course_reported_modules": 13,
+    "modules": 13,
+    "course_reported_sources": 1110,
+    "sources": 1110
+  }
+}

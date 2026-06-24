@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:38Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/miyar_ilm/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/high_philosophy/26 - Miyar Ilm",
+  "output_bytes": 5553392,
+  "output_sha256": "545dcd9ca2b7e98bb9236f2d0d01aef30f2c1aef9c7a84aca859de5f8364ed6a",
+  "checks": {
+    "catalog_expected_lessons": 603,
+    "course_reported_lessons": 603,
+    "index_lessons": 603,
+    "full_lessons": 603,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 23,
+    "course_reported_modules": 23,
+    "modules": 23,
+    "course_reported_sources": 432,
+    "sources": 432
+  }
+}

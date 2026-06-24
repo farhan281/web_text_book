@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:07Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/yazdi_hashiya/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/13 - Yazdi Hashiya",
+  "output_bytes": 12577954,
+  "output_sha256": "0b8ee1da70fedc996e6add07cfe64545240e5474ab74922b3d8119eb7b8966a1",
+  "checks": {
+    "catalog_expected_lessons": 1420,
+    "course_reported_lessons": 1420,
+    "index_lessons": 1420,
+    "full_lessons": 1420,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 22,
+    "course_reported_modules": 22,
+    "modules": 22,
+    "course_reported_sources": 1169,
+    "sources": 1169
+  }
+}

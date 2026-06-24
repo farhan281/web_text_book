@@ -1,0 +1,394 @@
+← Prev
+p. 107
+Module 17 · Lesson 1
+Next →
+Induction and Analogy
+intermediate
+6 min
+Induction: From Particulars to Probability
+Author defines induction and states its epistemic limit.
+
+Learning Objective
+By the end of this lesson, you will be able to identify an inductive inference and explain why the classical tradition considers it probable rather than certain.
+
+Core Idea
+Induction tracks particulars to a universal, but can never guarantee complete coverage.
+
+In daily reasoning and in Islamic sciences, we often argue from specific cases to general rules. The logicians call this induction (istiqrāʾ). But does this give certainty? The classical mantiq tradition says no — induction is only probable. In this lesson, we examine its definition and its limits.
+
+Guided Path
+1
+Identify the direction of inference
+The passage says induction moves 'from particular to universal.' Notice how this is the opposite of the categorical syllogism (universal to particular).
+2
+Extract the definition of induction
+The footnote defines istiqrāʾ as 'the examination of the particulars of a universal and tracking them to establish their ruling for the universal.' So it is a survey process.
+3
+Evaluate the epistemic claim
+The text states that induction 'does not yield certainty by proof.' Why? Because you cannot examine every particular of a universal; unexamined instances may contradict the conclusion.
+Complete induction (where all particulars are examined) would yield certainty, but such cases are rare and the text implies the ordinary incomplete induction.
+4
+Apply to an Islamic science example
+In Usul al-Fiqh, when a jurist collects multiple hadith on a ruling to derive a general principle, that is induction. The result is zann (probability), not qatʿ (certainty).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن بجزئي على كلي استدل فذا بالاستقراء عندهم عقل وعكسه يدعى القياس المنطق وهو الذي قدمته فحقق وحيث جزئي على جزئي حمل الجامع فذاك تمثيل جعل ولا يفيد القطع بالدليل قياس الاستقراء والتمثيل
+(۳) الاستقراء : هو تصفح جزئيات الكلي وتتبعها لإثبات حكمها لكليها. انظر شرح السلم في المنطق للجندي ص ۱۰۹ وانظر التعريفات للجرجاني ص ۲۰ والتوقيف على مهمات التعاريف للمناوي ص ٦٠ . ومباديء علم المنطق لأحمد حشمت جادو الطبعة الثانية دار الطباعة الأهلية القاهرة.
+(٤) التمثيل : هو حمل جزئي على جزئي آخر في حكمه لاشتراكهما في علة الحكم كقولك : النبيذ مسكر كالخمر وكل خمر حرام إذن فالنبيذ حرام والنبيذ المحمول حد أصغر وحكم الأصل حد أكبر والعلة الجامعة بينهما حد أوسط لأنه يربط الفرع بالأصل فيكون سبباً في نقل حكمه إليه والتمثيل عند المناطقة يسميه الفقهاء قياساً فقهياً ويكتفون في الاستدلال على الأحكام الشرعية لأن الأحكام الشرعية يكفي في إثباتها الظن. انظر شرح السلم في المنطق للجندي ص ۱۱۰ والتعريفات للجرجاني ٤٩ والتوقيف على مهمات التعاريف للمناوي .
+And if from particular to universal is inferred, then that is by induction among them [as] reasoned, and its opposite is called the logical syllogism and it is what I presented so verify; and when [it is] particular to particular [by] carrying the common [factor], then that is analogy conventionally; and the syllogism of induction and analogy do not yield certainty by proof.
+(3) Induction: it is the examination of the particulars of the universal and tracking them to establish their ruling for the universal. See Sharh al-Sullam in Logic by al-Jundi p. 109 and see al-Taʿrīfāt by al-Jurjānī p. 20 and al-Tawqīf by al-Manāwī p. 60. And Mabādiʾ ʿIlm al-Mantiq by Aḥmad Hishmat Jādū, second edition, Dār al-Ṭibāʿa al-Ahlīyya, Cairo.
+(4) Analogy: it is the carrying of one particular over to another particular in its ruling due to their sharing in the cause of the ruling, like your saying: Nabidh is intoxicating like wine, and every wine is forbidden, therefore nabidh is forbidden; and the nabidh [is] the minor term, and the ruling of the original [is] the major term, and the common cause between them is the middle term because it connects the branch to the original so it becomes a cause for transferring its ruling to it; and analogy among the logicians is what the jurists call juridical analogy (qiyās fiqhī), and they suffice with it in inferring legal rulings because legal rulings suffice in their establishment by probability. See Sharh al-Sullam in Logic by al-Jundi p. 110 and al-Taʿrīfāt by al-Jurjānī 49 and al-Tawqīf by al-Manāwī.
+Source pages p. 107
+
+Commentary
+This passage classifies two non-categorical forms of inference and establishes their epistemic status. The author states that when one infers from particular to universal, that is induction (istiqrāʾ). Its opposite — inference from universal to particular — is the standard logical syllogism (al-qiyās al-manṭiq), which was already presented. When one infers from particular to particular by 'carrying the common factor' (ḥaml al-jāmiʿ), that is analogy (tamthīl). The author then delivers a critical verdict: neither induction nor analogy yields certainty (qaṭʿ) by proof. The first footnote explains induction as the examination of a universal's particulars to establish a ruling for the universal. The second footnote explains analogy as sharing a cause (ʿilla) between two particulars, giving the classic example of nabidh and wine; it identifies the three terms of analogy as minor, major, and middle, and notes that the jurists call this qiyās fiqhī and accept it for legal rulings because legal rulings need only probability (ẓann), not certainty.
+
+Key Terms
+الاستقراء
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage and footnote, what is induction (istiqrāʾ)?
+A) Inference from universal to particular
+B) Inference from particular to universal by examining particulars
+C) Inference from particular to particular via a common cause
+D) A type of categorical syllogism
+
+Key Takeaway
+Induction (istiqrāʾ) moves from particular to universal but yields only probability, not certainty, because it cannot exhaust all particulars.
+
+How This Lesson Applies — to MY Life?
+?
+Look at the following statement: 'Most scholars agree that camel urine is impure based on a few hadith, so the universal rule is that camel urine is impure.' Is this an inductive argument? Why might it not yield certainty? Write your reasoning.
+?
+Find an example of induction in a classical usul text (e.g., al-Shāṭibī's al-Muwāfaqāt) and explain why it is considered zann.
+
+Pages p. 107 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 107
+Module 17 · Lesson 2
+Next →
+Induction and Analogy
+intermediate
+7 min
+Analogy (Tamthīl): Transference of a Ruling via a Common Cause
+Author defines analogy and states its epistemic limit.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the structure of an analogical argument (tamthīl) and explain why it yields probability, not certainty.
+
+Core Idea
+Analogy transfers a ruling from one particular to another via a shared cause, but its conclusion is only probable.
+
+In Islamic legal reasoning, analogy (qiyās fiqhī) is a central tool. But what is its logical structure? The logicians call it tamthīl: carrying one particular to another because they share the cause (ʿilla) of the ruling. The passage gives the classic example of wine and nabidh. In this lesson, we dissect this form and understand its epistemic status.
+
+Guided Path
+1
+Identify the direction of inference
+The passage says analogy moves 'particular to particular.' This is different from induction (particular to universal) and syllogism (universal to particular).
+2
+Extract the definition of analogy
+The footnote defines tamthīl as 'carrying one particular to another in its ruling due to their sharing in the cause of the ruling.' The key element is the common cause (ʿilla).
+3
+Map the example to the three terms
+In the example 'Nabidh is intoxicating like wine, and every wine is forbidden, therefore nabidh is forbidden,' the minor term is nabidh, the major term is 'forbidden,' and the middle term (cause) is intoxication. The commentator explicitly identifies these.
+4
+Understand the epistemic limit
+The text states that analogy 'does not yield certainty by proof.' The footnote adds that jurists accept it because legal rulings need only probability (zann). This is crucial: qiyās fiqhī is probabilistic, not certain.
+5
+Contrast with the categorical syllogism
+The categorical syllogism (universal to particular) can yield certainty if premises are certain. Analogy, by contrast, depends on the strength of the cause (ʿilla) and the assumption that the cause is common, which is always open to doubt.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن بجزئي على كلي استدل فذا بالاستقراء عندهم عقل وعكسه يدعى القياس المنطق وهو الذي قدمته فحقق وحيث جزئي على جزئي حمل الجامع فذاك تمثيل جعل ولا يفيد القطع بالدليل قياس الاستقراء والتمثيل
+(۳) الاستقراء : هو تصفح جزئيات الكلي وتتبعها لإثبات حكمها لكليها. انظر شرح السلم في المنطق للجندي ص ۱۰۹ وانظر التعريفات للجرجاني ص ۲۰ والتوقيف على مهمات التعاريف للمناوي ص ٦٠ . ومباديء علم المنطق لأحمد حشمت جادو الطبعة الثانية دار الطباعة الأهلية القاهرة.
+(٤) التمثيل : هو حمل جزئي على جزئي آخر في حكمه لاشتراكهما في علة الحكم كقولك : النبيذ مسكر كالخمر وكل خمر حرام إذن فالنبيذ حرام والنبيذ المحمول حد أصغر وحكم الأصل حد أكبر والعلة الجامعة بينهما حد أوسط لأنه يربط الفرع بالأصل فيكون سبباً في نقل حكمه إليه والتمثيل عند المناطقة يسميه الفقهاء قياساً فقهياً ويكتفون في الاستدلال على الأحكام الشرعية لأن الأحكام الشرعية يكفي في إثباتها الظن. انظر شرح السلم في المنطق للجندي ص ۱۱۰ والتعريفات للجرجاني ٤٩ والتوقيف على مهمات التعاريف للمناوي .
+And if from particular to universal is inferred, then that is by induction among them [as] reasoned, and its opposite is called the logical syllogism and it is what I presented so verify; and when [it is] particular to particular [by] carrying the common [factor], then that is analogy conventionally; and the syllogism of induction and analogy do not yield certainty by proof.
+(3) Induction: it is the examination of the particulars of the universal and tracking them to establish their ruling for the universal. See Sharh al-Sullam in Logic by al-Jundi p. 109 and see al-Taʿrīfāt by al-Jurjānī p. 20 and al-Tawqīf by al-Manāwī p. 60. And Mabādiʾ ʿIlm al-Mantiq by Aḥmad Hishmat Jādū, second edition, Dār al-Ṭibāʿa al-Ahlīyya, Cairo.
+(4) Analogy: it is the carrying of one particular over to another particular in its ruling due to their sharing in the cause of the ruling, like your saying: Nabidh is intoxicating like wine, and every wine is forbidden, therefore nabidh is forbidden; and the nabidh [is] the minor term, and the ruling of the original [is] the major term, and the common cause between them is the middle term because it connects the branch to the original so it becomes a cause for transferring its ruling to it; and analogy among the logicians is what the jurists call juridical analogy (qiyās fiqhī), and they suffice with it in inferring legal rulings because legal rulings suffice in their establishment by probability. See Sharh al-Sullam in Logic by al-Jundi p. 110 and al-Taʿrīfāt by al-Jurjānī 49 and al-Tawqīf by al-Manāwī.
+Source pages p. 107
+
+Commentary
+This passage classifies two non-categorical forms of inference and establishes their epistemic status. The author states that when one infers from particular to universal, that is induction (istiqrāʾ). Its opposite — inference from universal to particular — is the standard logical syllogism (al-qiyās al-manṭiq), which was already presented. When one infers from particular to particular by 'carrying the common factor' (ḥaml al-jāmiʿ), that is analogy (tamthīl). The author then delivers a critical verdict: neither induction nor analogy yields certainty (qaṭʿ) by proof. The first footnote explains induction as the examination of a universal's particulars to establish a ruling for the universal. The second footnote explains analogy as sharing a cause (ʿilla) between two particulars, giving the classic example of nabidh and wine; it identifies the three terms of analogy as minor, major, and middle, and notes that the jurists call this qiyās fiqhī and accept it for legal rulings because legal rulings need only probability (ẓann), not certainty.
+
+Key Terms
+التمثيل
+علة الحكم
+حد أصغر
+حد أكبر
+حد أوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+In the passage, what is the example of analogy (tamthīl) and what is its epistemic status?
+A) Wine is forbidden, therefore nabidh is forbidden by induction; it yields certainty
+B) Nabidh is intoxicating like wine, so nabidh is forbidden; it yields certainty
+C) Nabidh is intoxicating like wine, so nabidh is forbidden; it does not yield certainty by proof
+D) All intoxicants are forbidden by categorical syllogism; it yields probability
+
+Key Takeaway
+Analogy (tamthīl) transfers a ruling from one particular to another via a shared cause, but its conclusion is only probable, not certain.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an analogical argument (tamthīl) on a fiqh issue of your choice. Identify the asl, farʿ, and ʿilla. Then explain why your conclusion is probable, not certain.
+?
+Look at the following statement: 'Selling dates before they ripen is forbidden by analogy with selling grapes before they ripen.' Identify the ʿilla and assess whether the analogy is valid.
+
+Pages p. 107 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 107
+Module 17 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+5 min
+Induction and Analogy: Non-Demonstrative Reasoning in Islamic Logic
+Definitions and epistemic evaluation of induction and analogy.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish induction and analogy from categorical syllogism and explain why they yield only probability (zann) not certainty (qat').
+
+Core Idea
+Induction and analogy are useful for fiqh but cannot produce certainty.
+
+In this lesson, we examine two argument forms that Islamic logicians annex to the syllogism: induction (istiqra') and analogy (tamthil). The author defines each and evaluates their epistemic status. You will learn why these forms yield only probable opinion (zann) and why jurists nonetheless rely on them for legal rulings.
+
+Guided Path
+1
+Identify the three argument forms
+The passage distinguishes induction, logical syllogism, and analogy. Induction moves from particular to universal; logical syllogism moves from universal to particular; analogy moves from particular to particular via a common cause.
+Note that the logical syllogism is the ideal form yielding certainty.
+2
+Analyze the definition of induction
+Induction is defined as judging a universal based on most of its particulars, e.g., 'every animal moves its lower jaw when chewing' from observing humans, beasts, and predators. The author points out that this may fail due to counterexamples like the crocodile.
+The example shows that induction is probabilistic, not certain.
+3
+Analyze the definition of analogy
+Analogy (tamthil) is carrying a ruling from one particular (asl) to another (far') due to a shared cause ('illa). The example is nabidh intoxicating like wine, so nabidh is forbidden. The common cause (intoxication) serves as the middle term.
+Jurists call this qiyas fiqhi and rely on it for legal rulings.
+4
+Evaluate the epistemic status
+Both induction and analogy yield only zann (probability), not qat' (certainty). Induction fails because universality is not guaranteed; analogy fails because once the proof is established in the original case, examining another particular is unnecessary.
+The text explicitly states they are suitable only for fiqh research, where probability suffices.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن بجزئي على كلي استدل فذا بالاستقراء (۳) عندهم عقل وعكسه يدعى القياس المنطق وهو الذي قدمته فحقق وحيث جزئي على جزئي حمل الجامع فذاك تمثيل جعل ولا يفيد القطع بالدليل قياس الاستقراء والتمثيل (٤)
+
+(۳) الاستقراء : هو تصفح جزئيات الكلي وتتبعها لإثبات حكمها لكليها. انظر شرح السلم في المنطق للجندي ص ۱۰۹ وانظر التعريفات للجرجاني ص ۲۰ والتوقيف على مهمات التعاريف للمناوي ص ٦۰ . ومباديء علم المنطق لأحمد حشمت جادو الطبعة الثانية دار الطباعة الأهلية القاهرة.
+
+(٤) التمثيل : هو حمل جزئي على جزئي آخر في حكمه لاشتراكهما في علة الحكم كقولك : النبيذ مسكر كالخمر وكل خمر حرام إذن فالنبيذ حرام والنبيذ المحمول حد أصغر وحكم الأصل حد أكبر والعلة الجامعة بينهما حد أوسط لأنه يربط الفرع بالأصل فيكون سبباً في نقل حكمه إليه والتمثيل عند المناطقة يسميه الفقهاء قياساً فقهياً ويكتفون في الاستدلال على الأحكام الشرعية لأن الأحكام الشرعية يكفي في إثباتها الظن. انظر شرح السلم في المنطق للجندي ص ۱۱۰ والتعريفات للجرجاني ٤۹ والتوقيف على مهمات التعاريف للمناوي .
+
+ننبه في هذه الأبيات على نوعين مما يلحق بالقياس، وهما: الاستقراء والتمثيل.
+
+الاستقراء هو الحكم على كلي لوجوده في أكثر جزئياته كقولنا : كل حيوان يحرك فكه الأسفل عند المضغ لأن الإنسان والبهائم والسباع كذلك هذا لا يفيد القطع لاحتمال عدم العموم كهذا المثال لخروج التمساح من الحيوان، وعكس الاستقراء هو الاستدلال بالكلي على الجزئي المقيد للقطع وهو القياس المنطقي المراد من هذا الفن وقد تقدم ذكره.
+
+والتمثيل : إثبات حكم في جزئي لوجود جزئي لمعنى مشترك بينهما وهو ضعيف أيضاً لأن الدليل إذا قام في المستدل عليه أغنى عن النظر في جزئي غيره لكن يصلح لتطبيب النفس وتحصيل الاعتقاد، وإلى هذا أشرنا بقولنا : (وإن بجزئي) الخ، أي وإن استدل بجزئي على كلي فهو المعروف عندهم بالاستقراء وقولنا : (وحيث البيت، أي وإن حمل جزئي على جزئي لعلة جامعة بينهما فهو التمثيل وهو الاستقراء لا يصلحان إلا لبحث الفقهاء ولا يفيدان إلا الظن والى هذا أشرنا بقولنا : ولا يفيد القطع البيت، والله الموفق للصواب.
+And if one infers by a particular upon a universal, then that is by induction (3) among them [considered] intellectually valid, and its opposite is called the logical syllogism, and it is what I presented [before], so verify. And when a particular is carried upon a particular by a common factor, then that is called analogy. And the syllogism of induction and analogy does not yield certainty by the proof (4).
+
+(3) Al-istiqra': It is examining the particulars of a universal and tracking them to establish their ruling for their universal. See Sharh al-Sullam fi al-Mantiq by al-Jundi p. 109, and see al-Ta'rifat by al-Jurjani p. 20, and al-Tawqif 'ala Muhimmat al-Ta'arif by al-Manawi p. 60. And Mabadi' 'Ilm al-Mantiq by Ahmad Hishmat Jadu, 2nd edition, Dar al-Tiba'a al-Ahliyya, Cairo.
+
+(4) Al-tamthil: It is carrying a particular upon another particular in its ruling due to their sharing in the cause of the ruling, as in your saying: Nabidh is intoxicating like wine, and every wine is forbidden, therefore nabidh is forbidden. And the nabidh is the minor term, and the ruling of the original is the major term, and the common cause between them is the middle term, because it connects the branch to the original, so it becomes a cause for transferring its ruling to it. And analogy among the logicians is what the jurists call juridical analogy, and they suffice with it in inferring legal rulings because legal rulings are sufficiently established by opinion. See Sharh al-Sullam fi al-Mantiq by al-Jundi p. 110, and al-Ta'rifat by al-Jurjani p. 49, and al-Tawqif 'ala Muhimmat al-Ta'arif by al-Manawi.
+
+We point out in these verses to two types of what is annexed to the syllogism, and they are: induction and analogy.
+
+Induction is judging a universal due to its presence in most of its particulars, as in our saying: every animal moves its lower jaw when chewing, because the human, the beasts, and the predators are [like] that. This does not yield certainty due to the possibility of the absence of universality, as in this example by the exclusion of the crocodile from the animal. And the opposite of induction is inferring by the universal upon the particular restricted to certainty, and it is the logical syllogism intended by this art, and its mention has preceded.
+
+And analogy: establishing a ruling in a particular due to the presence of a particular for a shared meaning between them. And it is [also] weak, because when the proof is established in what is inferred from it, it dispenses with considering another particular; but it suffices for healing the soul and acquiring belief. And to this we pointed with our saying: (wa-in bi-juz'i) etc., meaning: and if one infers by a particular upon a universal, then it is what is known among them as induction. And our saying: (wa-haythu al-bayt), meaning: and if a particular is carried upon a particular due to a common cause between them, then it is analogy. And [it?] and induction are not suitable except for the research of jurists, and they yield only opinion. And to this we pointed with our saying: 'and it does not yield certainty' [in] the verse. And God is the facilitator of correctness.
+Source pages p. 107
+
+Commentary
+This passage defines and evaluates two non-demonstrative argument forms annexed to the syllogism: induction (istiqra') and analogy (tamthil). The author begins with the matn verses that set out the distinction: inferring from particular to universal is induction, while carrying one particular over another via a common factor is analogy. He then notes that neither yields certainty (qat'). In the sharh, he expands on induction first. He defines it as judging a universal based on most of its particulars, illustrating it with the example that every animal moves its lower jaw while chewing, inferred from humans, beasts, and predators. He immediately points out the epistemic gap: because universality is not guaranteed—since a crocodile might be an animal that does not move its lower jaw—induction yields only probability, not certainty. He contrasts this with its opposite, the categorical syllogism (al-qiyas al-mantiq), which moves from universal to particular and is productive of certainty. Next, he turns to analogy (tamthil), defined as establishing a ruling for one particular because it shares a meaning with another particular. He explains that this too is weak, because once the proof is established in the original case (al-mustadlal 'alayhi), there is no need to look at another particular; the original case alone suffices. Nevertheless, he allows that analogy has a therapeutic and persuasive function: it heals the soul and secures belief (tathqib al-nafs and tahsil al-i'tiqad), which is why jurists call it qiyas fiqhi and rely on it for legal rulings, since legal rulings need only attain the level of opinion (zann), not certainty. Finally, he returns to the matn verses, glossing each line to show that 'wa-in bi-juz'i' refers to induction and 'wa-haythu al-bayt' refers to analogy, and he reiterates that both are restricted to fiqh research and yield only zann.
+
+Key Terms
+الاستقراء
+التمثيل
+القياس المنطقي
+العلة الجامعة
+القطع
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following best illustrates tamthil (analogy) as defined in this passage?
+A) Every intoxicant is forbidden; nabidh is an intoxicant; therefore nabidh is forbidden.
+B) Every animal moves its lower jaw; humans, beasts, and predators do so; therefore every animal does so.
+C) Nabidh is intoxicating like wine, and every wine is forbidden; therefore nabidh is forbidden.
+D) If a person performs wudu, his prayer is valid; he performed wudu; therefore his prayer is valid.
+
+Key Takeaway
+Induction and analogy are annexed to the syllogism but do not produce certainty; they are suitable only for fiqh research where probability suffices.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following is induction, analogy, or categorical syllogism: 'Every intoxicant is forbidden; khamr is an intoxicant; therefore khamr is forbidden.' Answer: categorical syllogism. Now construct an analogical argument for the ruling of a new substance (e.g., marijuana) using a known intoxicant as the original case.
+?
+Find a real fatwa or usul example where a jurist uses analogy (qiyas). Identify the original case (asl), the branch (far'), and the common cause ('illa).
+
+Pages p. 107 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 108
+Module 17 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+8 min
+Induction (al-Istiqra') in Islamic Logic
+Commentator defines al-istiqra' and contrasts its probabilistic result with the certainty of formal qiyas.
+
+Learning Objective
+By the end of this lesson, you will be able to define al-istiqra' and evaluate its epistemic status compared to formal syllogism.
+
+Core Idea
+Induction yields only probability, not certainty, because it does not exhaust all particulars.
+
+In this lesson, we examine al-istiqra' (induction), one of the two non-syllogistic arguments that attach to formal qiyas. The commentator defines it and explains why it can never achieve the certainty of a proper categorical syllogism. Understanding this limitation is crucial for distinguishing between different types of reasoning in Islamic sciences.
+
+Guided Path
+1
+Extract the definition of istiqra'
+Locate the commentator's statement: 'al-istiqra' is judging a universal due to its existence in most of its particulars.' Identify the term being defined and its key components: the universal judgment and the basis in most particulars.
+2
+Analyze the example provided
+The commentator gives the example: 'every animal moves its lower jaw when chewing because man, cattle, and beasts of prey are such.' Note that the example is based on observation of only some animals.
+3
+Identify the epistemic limitation
+The commentator states that this does not yield certainty because universality is not guaranteed. He mentions the crocodile as a counterexample that breaks the universal claim. Understand that the inference remains probabilistic (zann).
+This is incomplete induction (istiqra' naqis).
+4
+Contrast with formal syllogism
+The commentator contrasts istiqra' with 'the opposite of al-istiqra'', which is inference from the universal to the particular restricted to certainty – the formal syllogism (qiyas mantiqiyy). Recognize that formal syllogism, unlike induction, can yield certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ننبه في هذه الأبيات على نوعين مما يلحق بالقياس، وهما: الاستقراء والتمثيل.
+الاستقراء هو الحكم على كلي لوجوده في أكثر جزئياته كقولنا: كل حيوان يحرك فكه الأسفل عند المضغ لأن الإنسان والبهائم والسباع كذلك هذا لا يفيد القطع لاحتمال عدم العموم كهذا المثال لخروج التمساح من الحيوان، وعكس الاستقراء هو الاستدلال بالكلي على الجزئي المقيد للقطع وهو القياس المنطقي المراد من هذا الفن وقد تقدم ذكره.
+والتمثيل: إثبات حكم في جزئي لوجود جزئي لمعنى مشترك بينهما وهو ضعيف أيضاً لأن الدليل إذا قام في المستدل عليه أغنى عن النظر في جزئي غيره لكن يصلح لتطبيب النفس وتحصيل الاعتقاد، وإلى هذا أشرنا بقولنا: (وإن بجزئي) الخ، أي وإن استدل بجزئي على كلي فهو المعروف عندهم بالاستقراء وقولنا: (وحيث البيت، أي وإن حمل جزئي على جزئي لعلة جامعة بينهما فهو التمثيل وهو الاستقراء لا يصلحان إلا لبحث الفقهاء ولا يفيدان إلا الظن وإلى هذا أشرنا بقولنا: ولا يفيد القطع البيت، والله الموفق للصواب.
+We point out in these verses two types of what attaches to al-qiyas, and they are: al-istiqra' and al-tamthil.
+Al-istiqra' is judging a universal due to its existence in most of its particulars, such as our saying: every animal moves its lower jaw when chewing because man, cattle, and beasts of prey are such. This does not yield certainty due to the possibility of the lack of universality, as in this example with the exclusion of the crocodile from the animal [category]. And the opposite of al-istiqra' is inference from the universal to the particular restricted to certainty, and it is al-qiyas al-mantiqiyy intended by this art, and its mention has preceded.
+And al-tamthil: establishing a ruling in a particular due to a [another] particular having a shared meaning between them. And it is weak also because the proof, when it stands in the one sought to prove, renders unnecessary consideration of another particular. However, it is suitable for healing the soul and acquiring belief. And to this we alluded by our saying: (wa-in bi-juz'i) etc., meaning: if one infers from a particular to a universal, then it is what is known among them as al-istiqra'. And our saying: (wa-haythu al-bayt), meaning: if one carries over a particular to [another] particular due to a common cause between them, then it is al-tamthil. And it is al-istiqra', they do not suit except for the investigation of the fuqaha' and do not yield except al-zann. And to this we alluded by our saying: and [the verse] 'it does not yield certainty'. And Allah is the facilitator of correctness.
+Source pages p. 108
+
+Commentary
+This passage defines and evaluates two non-syllogistic argument forms that the author describes as attaching to qiyas: al-istiqra' (induction) and al-tamthil (analogy). He begins by announcing that the verses of the matn will point out these two types. He defines al-istiqra' as judging a universal based on its presence in most of its particulars, offering the example that every animal moves its lower jaw while chewing because humans, cattle, and beasts of prey do so. He immediately cautions that this does not yield certainty, since universality remains uncertain, citing the crocodile as an excluded particular that breaks the universal claim. He then contrasts this with its opposite: inference from the universal to the particular restricted to certainty, which is al-qiyas al-mantiqiyy proper, the subject of this art, and notes that it has already been discussed. Turning to al-tamthil, he defines it as establishing a ruling in one particular due to another particular sharing a common meaning with it. He judges it weak as well, because once proof is established for the case at hand, examining another particular becomes redundant; still, he grants that it serves to heal the soul and consolidate belief. He then maps these definitions back onto the matn: the phrase 'wa-in bi-juz'i' alludes to inferring from a particular to a universal, which is al-istiqra', while 'wa-haythu al-bayt' alludes to carrying over one particular to another via a common cause, which is al-tamthil. He concludes that both forms are unsuitable for demonstrative logic and are only fit for the investigations of the fuqaha', yielding only zann and not certainty, as the matn verse states.
+
+Key Terms
+الاستقراء
+القطع
+الظن
+القياس المنطقي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the primary reason istiqra' does not yield certainty (qat')?
+A) It is based on incomplete observation of particulars.
+B) It requires a middle term which is missing.
+C) It only applies to animals, not to other categories.
+D) It is rejected by all fuqaha'.
+
+Key Takeaway
+Induction (istiqra') yields only probable knowledge (zann) because it does not examine all particulars, unlike the formal syllogism which yields certainty.
+
+How This Lesson Applies — to MY Life?
+?
+1. Identify the genus and differentia in the commentator's definition of istiqra'. Then explain why the crocodile example shows that the definition yields only zann.
+?
+2. Construct an example of istiqra' from fiqh that would be considered zanni, and explain what would be needed to make it yaqini.
+
+Pages p. 108 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 108
+Module 17 · Lesson 5
+Next →
+Induction and Analogy
+intermediate
+8 min
+Analogy (al-Tamthil) in Islamic Logic
+Commentator defines al-tamthil, explains its weakness, and notes its practical utility in forming beliefs.
+
+Learning Objective
+By the end of this lesson, you will be able to define al-tamthil and explain why it is considered weak compared to formal syllogism.
+
+Core Idea
+Analogy is epistemically weak because proof in one case makes another case redundant, yet it serves practical belief formation.
+
+This lesson focuses on al-tamthil (analogy), the second non-syllogistic argument form. The commentator defines it and evaluates its usefulness. Understanding tamthil is important because it is often used in fiqh reasoning, though logicians consider it inferior to deductive proof.
+
+Guided Path
+1
+Extract the definition of tamthil
+Locate the commentator's statement: 'al-tamthil: establishing a ruling in a particular due to a [another] particular having a shared meaning between them.' Identify the three components: two particulars and a shared meaning (illa).
+2
+Understand the weakness cited
+The commentator says it is weak because if proof is already established for the case under consideration, then considering another particular is unnecessary. In other words, analogy is circular or redundant if the ruling is already known.
+This critique applies when the ruling in the primary case is already proven; analogy adds no new evidence.
+3
+Recognize the positive role of tamthil
+Despite its weakness, the commentator says tamthil is suitable for 'healing the soul and acquiring belief' (yuslihu li-tatbib al-nafs wa-tahsil al-i'tiqad). This suggests it has a psychological or pedagogical value, even if not logically compelling.
+4
+Contrast with formal syllogism and istiqra'
+The commentator groups tamthil with istiqra' as both yielding only zann and being suited only for fiqh investigation, not for demonstrative proof. Recognize that tamthil is even weaker than istiqra' because it does not even generalize to a universal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ننبه في هذه الأبيات على نوعين مما يلحق بالقياس، وهما: الاستقراء والتمثيل.
+الاستقراء هو الحكم على كلي لوجوده في أكثر جزئياته كقولنا: كل حيوان يحرك فكه الأسفل عند المضغ لأن الإنسان والبهائم والسباع كذلك هذا لا يفيد القطع لاحتمال عدم العموم كهذا المثال لخروج التمساح من الحيوان، وعكس الاستقراء هو الاستدلال بالكلي على الجزئي المقيد للقطع وهو القياس المنطقي المراد من هذا الفن وقد تقدم ذكره.
+والتمثيل: إثبات حكم في جزئي لوجود جزئي لمعنى مشترك بينهما وهو ضعيف أيضاً لأن الدليل إذا قام في المستدل عليه أغنى عن النظر في جزئي غيره لكن يصلح لتطبيب النفس وتحصيل الاعتقاد، وإلى هذا أشرنا بقولنا: (وإن بجزئي) الخ، أي وإن استدل بجزئي على كلي فهو المعروف عندهم بالاستقراء وقولنا: (وحيث البيت، أي وإن حمل جزئي على جزئي لعلة جامعة بينهما فهو التمثيل وهو الاستقراء لا يصلحان إلا لبحث الفقهاء ولا يفيدان إلا الظن وإلى هذا أشرنا بقولنا: ولا يفيد القطع البيت، والله الموفق للصواب.
+We point out in these verses two types of what attaches to al-qiyas, and they are: al-istiqra' and al-tamthil.
+Al-istiqra' is judging a universal due to its existence in most of its particulars, such as our saying: every animal moves its lower jaw when chewing because man, cattle, and beasts of prey are such. This does not yield certainty due to the possibility of the lack of universality, as in this example with the exclusion of the crocodile from the animal [category]. And the opposite of al-istiqra' is inference from the universal to the particular restricted to certainty, and it is al-qiyas al-mantiqiyy intended by this art, and its mention has preceded.
+And al-tamthil: establishing a ruling in a particular due to a [another] particular having a shared meaning between them. And it is weak also because the proof, when it stands in the one sought to prove, renders unnecessary consideration of another particular. However, it is suitable for healing the soul and acquiring belief. And to this we alluded by our saying: (wa-in bi-juz'i) etc., meaning: if one infers from a particular to a universal, then it is what is known among them as al-istiqra'. And our saying: (wa-haythu al-bayt), meaning: if one carries over a particular to [another] particular due to a common cause between them, then it is al-tamthil. And it is al-istiqra', they do not suit except for the investigation of the fuqaha' and do not yield except al-zann. And to this we alluded by our saying: and [the verse] 'it does not yield certainty'. And Allah is the facilitator of correctness.
+Source pages p. 108
+
+Commentary
+This passage defines and evaluates two non-syllogistic argument forms that the author describes as attaching to qiyas: al-istiqra' (induction) and al-tamthil (analogy). He begins by announcing that the verses of the matn will point out these two types. He defines al-istiqra' as judging a universal based on its presence in most of its particulars, offering the example that every animal moves its lower jaw while chewing because humans, cattle, and beasts of prey do so. He immediately cautions that this does not yield certainty, since universality remains uncertain, citing the crocodile as an excluded particular that breaks the universal claim. He then contrasts this with its opposite: inference from the universal to the particular restricted to certainty, which is al-qiyas al-mantiqiyy proper, the subject of this art, and notes that it has already been discussed. Turning to al-tamthil, he defines it as establishing a ruling in one particular due to another particular sharing a common meaning with it. He judges it weak as well, because once proof is established for the case at hand, examining another particular becomes redundant; still, he grants that it serves to heal the soul and consolidate belief. He then maps these definitions back onto the matn: the phrase 'wa-in bi-juz'i' alludes to inferring from a particular to a universal, which is al-istiqra', while 'wa-haythu al-bayt' alludes to carrying over one particular to another via a common cause, which is al-tamthil. He concludes that both forms are unsuitable for demonstrative logic and are only fit for the investigations of the fuqaha', yielding only zann and not certainty, as the matn verse states.
+
+Key Terms
+التمثيل
+الظن
+العلة
+القياس الفقهي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why is tamthil considered weak?
+A) It requires a middle term that is often missing.
+B) The proof in the primary case makes examining another case unnecessary.
+C) It is rejected by all fuqaha'.
+D) It never yields any useful belief.
+
+Key Takeaway
+Analogy (tamthil) is epistemically weak because it adds no new proof beyond the original case, yet it remains useful for forming probable beliefs in fiqh.
+
+How This Lesson Applies — to MY Life?
+?
+1. Using the definition of tamthil, identify the two particulars and the shared meaning in the fiqh example: 'Nabidh is forbidden because it is an intoxicant, just like khamr.' Explain why the commentator would consider this weak.
+?
+2. Compare tamthil and istiqra': why does the commentator say both yield only zann? Give one reason from the passage for each.
+
+Pages p. 108 · Induction and Analogy
+← Prev
+Mark Done
+Next →

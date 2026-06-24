@@ -1,0 +1,521 @@
+← Prev
+p. 254
+Module 15 · Lesson 1
+Next →
+Other Lessons
+advanced
+10 min
+Caution on Necessary Predication with Possibility
+Author warns against assuming necessity transfers from predicate to subject across different subjects.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a necessary predication for one subject can coexist with a possible predication for another subject, and avoid the fallacy of illicit modal transfer.
+
+Core Idea
+Necessity for one does not force necessity for another when modality is directional.
+
+This passage warns against a subtle misinterpretation in modal logic. When we say something is necessary for one subject and possible for another, we might think a contradiction arises, but the author shows that as long as we respect the direction of predication, both can hold. Let's walk through the argument step by step.
+
+Guided Path
+1
+Identify the modal claims
+Extract the two modal statements: 'necessarily every b is j' and 'possibly every a is j'. Note that they seem to conflict if we consider transitivity, but the author argues they do not.
+2
+Consider the negation case
+Also consider the case where 'j' is negated from 'a' by possibility: 'no a is j' possibly. How does this affect the necessity for 'b'?
+3
+Examine the author's condition
+The author introduces a condition: if 'a' is necessary for 'j' (i.e., 'j' is necessary for 'a' in some sense), then because 'j' is necessary for 'b', we might think 'a' is necessary for 'b', but that would conflict with 'j' being only possible for 'a'.
+4
+Recognize the resolution
+The key is that 'a' being necessary for 'j' and 'j' being necessary for 'b' does not entail that 'j' is necessary for 'a'—modality is not symmetric. So no contradiction arises.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ونحن وإن قلنا إن ما أثبت لشيء أو سلب عنه بالإمكان العام أو الخاص أو الأخص أو الإطلاق العام أو الخاص أو الأخص، جائز أن يكون المسلوب عنه للمسلوب ضرورياً، فلا تستشعر أنا إذا قلنا بالضرورة كل "ب" "ج" و بالإمكان كل "أ" "ج" أو لا شيء من "أ" "ج" أنه ليس يلزم أن يكون بالضرورة لا شيء من "ب" "ج" لجواز أن يكون "أ" وإن كان "ج" مسلوباً عنه بالإمكان أو الإطلاق ضرورياً لـ "ج" وإذ ذاك فيكون ضرورياً لـ "ب" لضرورة أنه ضروري لـ "ج" فإنه وإن كان جائزاً مع قطع النظر عن ما قيل من المقدمة الصغرى، فليس بجائز أن يكون ضرورياً لـ "ج" مع صدق كون "ج" ضرورياً لـ "ب" وإلا كان ضرورياً لـ "ب" كونه ضرورياً للضروري، ولو كان ضرورياً لـ "ب" لكان "ج" ضرورياً لبعضه الضروري لـ "ب" لكون "ج" ضرورياً لـ "ب" وقد كان "ج" لـ "أ" ممكناً وهو محال.
+And we, even if we say that what is affirmed of a thing or negated from it by general possibility, specific possibility, more specific possibility, or general absolute, specific absolute, or more specific absolute, it is possible that the thing from which it is negated is necessary for the negated thing—so do not think that when we say 'necessarily every b is j' and 'possibly every a is j' or 'no a is j' that it is not necessary that necessarily no b is j, because it may be that a, even though j is negated from it by possibility or absoluteness, is necessary for j. And then it becomes necessary for b due to necessity that it is necessary for j. For although that is possible when considering it independently of what was said from the minor premise, it is not possible that it be necessary for j while 'j is necessary for b' is true; otherwise, it would be necessary for b that it is necessary for the necessary. And if it were necessary for b, then j would be necessary for some of its necessary [part] for b due to 'j is necessary for b', whereas j was possible for a, which is impossible.
+Source pages p. 254
+
+Commentary
+This passage provides a careful nuance about modal predication. The author warns against a misinterpretation: when we say that a predicate is necessary for one subject and possible for another, it does not automatically lead to a contradiction. Specifically, if 'j' is necessary for 'b', and 'j' is possible for 'a' (or even negated by possibility), it might seem that 'j' should also be necessary for 'b' under some relation, but the author argues that this is not forced. He explains that if 'a' is such that it is necessary for 'j' (i.e., 'j' is a necessary attribute of 'a'), then since 'j' is necessary for 'b', it might seem that 'a' would then be necessary for 'b' via transitivity, but that would require that 'j' be necessary for 'a' as well, which contradicts the assumption that 'j' is only possible for 'a'. The author shows that the possibility remains consistent as long as we do not assume a converse relation. The lesson is to avoid overgeneralizing modal transfer.
+
+Key Terms
+إمكان عام
+إطلاق
+ضروري
+مسلوب
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the main point of this caution?
+A) That necessity always transfers from a predicate to its subject.
+B) That possibility and necessity can coexist without contradiction under certain relations.
+C) That all modal statements must be necessary.
+D) That conversion always preserves modality.
+
+Key Takeaway
+Necessity for one subject does not entail necessity for another subject sharing the same predicate, because modality depends on the subject's essence.
+
+How This Lesson Applies — to MY Life?
+?
+Identify a case in Islamic theology where a property is necessary for one entity and possible for another (e.g., knowledge is necessary for God but possible for humans). Explain why no contradiction arises using the author's reasoning.
+?
+Construct a modal argument that commits the fallacy of illicit modal transfer, then correct it by applying the author's caution.
+
+Pages p. 254 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 293
+Module 15 · Lesson 2
+Next →
+Other Lessons
+intermediate
+10 min
+Formal Validity vs Factual Truth in Syllogisms
+Author explains that the conclusion follows from the premises even if they are false, but only hypothetically.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish formal logical validity from factual truth in categorical syllogisms and identify the conditions under which a syllogism is productive (muntij).
+
+Core Idea
+A syllogism can be valid even if its premises are false; validity depends on form, not truth.
+
+In this passage, the author clarifies a foundational point in logic: the conclusion of a syllogism follows necessarily if the premises are granted, even if those premises are false or unreal. This distinction between formal necessity and factual truth is crucial for evaluating arguments in the Islamic sciences. We will walk through the author's reasoning and apply it to a concrete example.
+
+Guided Path
+1
+Identify the syllogism example
+Locate the example in the Arabic: 'كل ما كان الفرد منقسماً بمتساويين فهو زوج' and 'كل ما كان زوجاً فهو عدد'. This is a first-figure, first-mood categorical syllogism. Note that the term 'fard' (individual) refers to a number divisible into two equal parts.
+The example is from arithmetic, which was part of the Islamic sciences curriculum.
+2
+Extract the form and check validity
+The form is: All A are B, All B are C, therefore All A are C. This is Barbara (AAA-1). Regardless of whether any A actually exists, the form is valid. Check that the middle term (even) is distributed correctly.
+Validity is about structure, not content.
+3
+Understand the author's point about truth
+The author says the conclusion may be thought unproductive if the premises are true but have false parts (i.e., the parts are not true in reality). However, productivity (intāj) does not depend on the actual truth of the conclusion; it depends on the formal necessity: if the premises are granted, the conclusion must be granted.
+The key term here is luzūm (necessity) and taslīm (affirmation).
+4
+Apply the distinction to an Islamic science example
+Consider the syllogism: 'Every intoxicant is forbidden. Every nabidh is an intoxicant. Therefore, every nabidh is forbidden.' This is valid in form even if someone denies that nabidh is intoxicating. The conclusion follows necessarily if the premises are accepted.
+In usul al-fiqh, this is a valid qiyas even if the minor premise is disputed.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واعلم أن النتيجة في جميع هذه الاقترانات من الأشكال الأربعة لازمة من تسليم اللزوم للمقدمات وسلبه، وسواء كانت الصادقة منها كاذبة الأجزاء أو صادقة وسواء كانت الصادقة منها حقيقية أو غير حقيقية، لكن ما تألف من الصادقة الكاذبة الأجزاء، أو المقدمات الصادقة غير الحقيقية، فالنتيجة فيها وإن كانت لازمة فليس إلا بحسب التسليم، لا بحسب اللزوم في نفس الأمر، ولعدم صدق أجزاء النتيجة في نفس الأمر عن الاقتران الكائن من المقدمات الصادقة الكاذبة الأجزاء، فقد يظن أنه غير منتج، وليس كون الاقتران من أي شكل قدر منتجاً، لكون اللازم عنه صادق الأجزاء في نفسه، بل لكونه إذا سلم لزم من تسليمه تسليم قول آخر له - ونظير ذلك من الشكل الأول من الاقتران الأول منه - (كل ما كان الفرد منقسماً بمتساويين فهو زوج) و(كل ما كان زوجاً فهو عدد) فـ (كل ما كان الفرد منقسماً بمتساويين فهو عدد). وعليك باعتباره في ما بقي من الاقترانات. وأما إن كان الاشتراك في جزء غير تام فإن كانت هيئة المتوسط على هيئة الشكل الأول كقولنا كل ما كان "ب" "ج" فـ "د" "ر") و(كل ما كان "د" "أ" في "د" :
+And know that the conclusion in all these moods of the four figures is necessary given the affirmation of the implication of the premises and its negation, regardless of whether the true ones among them have false parts or are true, and whether the true ones are real or unreal. However, what is composed of true premises with false parts, or of true unreal premises, the conclusion, though necessary, is only so according to the affirmation, not according to the necessity in itself. And because the parts of the conclusion are not true in themselves from the mood composed of true premises with false parts, it may be thought that it is not productive. But the productivity of a mood of any figure is not because what follows from it is true in parts in itself, but because when it is affirmed, the affirmation of another statement follows from its affirmation - an example of that from the first figure, its first mood: (Every individual that is divisible into two equal parts is even) and (Every even thing is a number) therefore (Every individual that is divisible into two equal parts is a number). And you should consider this in the remaining moods. As for when the sharing is in a partial part, if the form of the middle is like the form of the first figure, as in our statement: everything that is B C is D R, and everything that is D A in D...
+Source pages p. 293
+
+Commentary
+This passage addresses a crucial epistemological point in logic: the distinction between formal logical necessity and factual truth. The author states that in all the moods of conditional syllogisms discussed, the conclusion necessarily follows from the premises (once the implication is granted), regardless of whether the premises are actually true or false, real or unreal. However, if the premises are true but have false parts (meaning they are not genuinely true composite statements), or if they are true but not real (e.g., hypothetical or false in reality), the conclusion's necessity is only hypothetical — it follows only if one accepts the premises. The conclusion may not be true in itself. The author warns that one might wrongly think such a mood is unproductive. The productivity (or validity) of a syllogism does not depend on the actual truth of its conclusion but on the fact that if the premises are accepted, the conclusion must be accepted. The author gives an example from the first figure: 'Every individual divisible into two equal parts is even. Every even is a number. Therefore, every individual divisible into two equal parts is a number.' This syllogism is valid regardless of whether the individual really exists or the premises are factually true. The example uses terms from arithmetic (evenness, number) which are acceptable as they relate to Islamic sciences (mathematics was part of the curriculum). The passage ends with a note about partial sharing, but the text is cut off.
+
+Key Terms
+لزوم
+تسليم
+منتِج
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why might a mood with true premises that have false parts be mistakenly thought unproductive?
+A) Because the conclusion is false in itself
+B) Because the form is invalid
+C) Because the conclusion is not true in itself
+D) Because the premises are not really true
+
+Key Takeaway
+The productivity (intāj) of a syllogism depends on formal necessity given the premises, not on the actual truth of the premises or conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the syllogism: 'Everything temporally originated has a cause. The world is temporally originated. Therefore, the world has a cause.' Even if someone denies the minor premise (that the world is temporally originated), is the syllogism still valid? Explain using the author's distinction between formal necessity and factual truth.
+?
+Construct a categorical syllogism in the first figure about a fiqh ruling (e.g., on riba or zakat) that is valid but where one of the premises is factually false. Show that the conclusion follows necessarily from the premises if they are granted.
+
+Pages p. 293 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 466
+Module 15 · Lesson 3
+Next →
+Other Lessons
+intermediate
+8 min
+Why Co-occurrence Does Not Prove Causation
+Author explains insufficiency of co-occurrence test for causality
+
+Learning Objective
+By the end of this lesson, you will be able to explain why observing a ruling's presence with a retained attribute and its absence without it is insufficient to establish that attribute as the cause, given the possibility of multiple causes.
+
+Core Idea
+Co-occurrence alone does not prove causation when a single ruling can have multiple causes sharing an attribute.
+
+In determining the cause (ʿilla) of a ruling, a common method is to test whether the ruling is present when the attribute is present and absent when the attribute is absent. However, this test can be misleading. The author of this passage points out that the ruling might be caused by two different causes in two different cases, and the retained attribute might be shared between them. This lesson unpacks that logical insight and shows why a deeper analysis is needed.
+
+Guided Path
+1
+Identify the basic causal test
+The text describes a simple test: if a retained attribute (mustabqā) is present whenever the ruling is present, and absent whenever the ruling is absent, one might think it is the cause. But this is insufficient.
+This test is often used in usul al-fiqh to identify the ʿilla.
+2
+Understand the problem of multiple causes
+The author warns that the same ruling could have two different causes applying to two different loci (cases). The retained attribute might be common to both cases, but the real cause in each case might be a specific subtype of that attribute.
+For example, two different types of transactions might share the attribute 'exchange', but the cause of permissibility could be specific to each type.
+3
+Apply the variable notation
+The author uses variables: if the retained attribute is (ج) which divides into (ب) and (د), it is possible that in one case the cause is (ب) and in another it is (د). Thus (ج) being present does not guarantee it is the cause.
+This abstracts the logical structure: the shared attribute is a genus, and the specific cause is a differentia.
+4
+Recognize the consequence for causal analysis
+Simply observing co-occurrence of the ruling with the retained attribute can lead to a mistaken attribution of causation. One must further examine whether the retained attribute is divisible into subtypes that could independently be causes.
+This is why the method of elimination (إبطال المحذوف) requires more than just a positive correlation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المحذوف، بل أن يكون الإبطال مع ذلك لكل رتبة تحصل من اجتماعها، وليس يكفي في إبطال المحذوف وتصحيح المستبقى ثبوت الحكم مع كذا - أي المستبقى - وتخلف إذ من الجائز أن يكون الحكم معللاً بعلتين بالنسبة إلى محلين والمستبقى مشترك بينهما، وأن يكون المستبقى مع ذلك كله غير عام لنوعين أو صنفين كما لو كان المستبقى مثلاً "ج" وهو ينقسم إلى "ب" وإلى "د" وإلا جاز أن يكون علة باعتبار أحدهما، إما من حيث هو "ب" وإما من حيث هو "د" وإذ ذاك فيجوز أن يكون "ج" في المثال المثال هو "د" الذي باعتباره هو علة، وفي المحل المختلف فيه "ب"، وكذا لو قدر الأمر بالعكس. ولا يخفى أن الانتهاء في قسمة الأوصاف إلى وصف لا ينقسم بعيد، وإن أثبتوا ملازمة الحكم للوصف المشترك لذات الوصف، فمع بعده فقد استغنوا عن المثال.
+The omitted [attributes], rather the refutation is for every rank that results from their combination. It is not sufficient in refuting the omitted and correcting the retained to establish the ruling with the retained attribute and its absence, because it is possible that the ruling is caused by two causes with respect to two loci and the retained attribute is shared between them, and that the retained attribute, despite all this, is not general to two types or categories, such as if the retained attribute were for example 'j' and it is divided into 'b' and 'd' – otherwise it is possible that it is a cause with respect to one of them, either insofar as it is 'b' or insofar as it is 'd'. Then it is possible that 'j' in the example is 'd' by virtue of which it is a cause, and in the disputed locus it is 'b', and likewise if the reverse were assumed. It is not hidden that arriving at an attribute that is not divisible in the division of attributes is far-fetched, and if they establish the concomitance of the ruling to the shared attribute for the essence of the attribute, then along with its far-fetchedness they have dispensed with the example.
+Source pages p. 466
+
+Commentary
+This passage defines the logical method for eliminating irrelevant attributes (إبطال المحذوف) and correcting the retained attribute (تصحيح المستبقى) when a ruling might have multiple causes. The author explains that it is insufficient to merely observe that the ruling exists with the retained attribute and is absent without it, because the same ruling could be caused by two different causes with respect to different loci, and the retained attribute might be shared between them. The author illustrates with a variable notation: if the retained attribute is 'ج' which divides into 'ب' and 'د', it is possible that in one instance the cause is 'ب' and in another 'د'. Therefore, simply having 'ج' present does not guarantee it is the cause. The warning is that one must ensure the retained attribute is not divisible into subtypes that could serve as distinct causes. The author concludes that dividing attributes until reaching an indivisible one is unrealistic, but if one could prove that the ruling is concomitant with the shared attribute by virtue of its essence, then the example can be dispensed with.
+
+Key Terms
+المحذوف
+المستبقى
+عِلَّة
+تُخَلُّف
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, why is it insufficient to prove that a retained attribute is the cause by observing the ruling's presence with it and absence without it?
+A) Because the attribute might be too general and include both necessary and accidental properties.
+B) Because the ruling could be caused by two different causes for two different cases, and the retained attribute might be shared between them.
+C) Because the attribute must be indivisible to serve as a cause.
+D) Because the retained attribute might be a consequence of the ruling, not its cause.
+
+Key Takeaway
+Simply observing that a ruling coincides with a retained attribute is not enough to prove causation; one must rule out that the ruling has multiple causes sharing that attribute.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the ruling that 'every intoxicating drink is prohibited'. The retained attribute 'intoxication' is shared by wine and nabidh. Why is it insufficient to claim that intoxication is the cause just because the prohibition is present when intoxication is present and absent when it is absent? What further analysis would the author require?
+?
+In the example of the permissibility of sale contracts, the attribute 'consensual exchange' is shared by sales and partnerships. Show how the author's variable notation applies: let ج = 'consensual exchange', ب = 'sale', د = 'partnership'. If the permissibility of sale might be due to specificities of ب, why would the test of co-occurrence with ج be insufficient?
+
+Pages p. 466 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 466
+Module 15 · Lesson 4
+Next →
+Other Lessons
+advanced
+10 min
+The Variable Notation and the Requirement of Indivisibility
+Author uses variable notation to illustrate problematic divisibility
+
+Learning Objective
+By the end of this lesson, you will be able to use the variable notation (ج, ب, د) to analyze why a retained attribute that is divisible into subtypes cannot be considered a true cause unless indivisibility is established.
+
+Core Idea
+A retained attribute that divides into subtypes may mask multiple distinct causes; therefore, it must be shown to be indivisible or that the ruling accompanies it in essence.
+
+The author introduces a formal variable notation to illustrate the logical problem: a retained attribute (ج) that is shared by two cases might actually be composed of two distinct subtypes (ب and د), each of which could independently be the cause. This lesson focuses on that notation and the necessary condition of indivisibility. You will learn to apply this abstract structure to concrete examples from Islamic legal theory.
+
+Guided Path
+1
+Understand the variable assignment
+The author proposes a scenario: let the retained attribute be (ج). This attribute is not indivisible; rather, it divides into two distinct attributes (ب) and (د). For instance, (ج) could be 'exchange', which divides into 'sale' (ب) and 'hire' (د).
+The variables are placeholders for any real attributes in causal analysis.
+2
+See how the division creates ambiguity
+If the ruling exists in two cases, it is possible that in one case the cause is (ب) and in the other the cause is (د). The shared attribute (ج) is present in both, but the real cause is specific to the subtype.
+Thus, the test of co-occurrence with (ج) would incorrectly suggest that (ج) is the cause.
+3
+Analyze the author's warning about generality
+The author says that (ج) being 'not general to two types or categories' means that if (ج) is a genus that encompasses both (ب) and (د), then the test fails. The retained attribute must be specific enough that it cannot be further divided.
+This is why the method of elimination must ensure the retained attribute is a distinct differentia, not a genus.
+4
+Consider the far-fetched alternative
+The author notes that reaching an indivisible attribute through division is difficult. However, if one can prove that the ruling is concomitant with the shared attribute 'for the essence of the attribute' (i.e., the attribute is the cause by itself, not via a subtype), then the divisibility is irrelevant.
+This is a theoretical escape, but the author implies it is rarely achievable.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المحذوف، بل أن يكون الإبطال مع ذلك لكل رتبة تحصل من اجتماعها، وليس يكفي في إبطال المحذوف وتصحيح المستبقى ثبوت الحكم مع كذا - أي المستبقى - وتخلف إذ من الجائز أن يكون الحكم معللاً بعلتين بالنسبة إلى محلين والمستبقى مشترك بينهما، وأن يكون المستبقى مع ذلك كله غير عام لنوعين أو صنفين كما لو كان المستبقى مثلاً "ج" وهو ينقسم إلى "ب" وإلى "د" وإلا جاز أن يكون علة باعتبار أحدهما، إما من حيث هو "ب" وإما من حيث هو "د" وإذ ذاك فيجوز أن يكون "ج" في المثال المثال هو "د" الذي باعتباره هو علة، وفي المحل المختلف فيه "ب"، وكذا لو قدر الأمر بالعكس. ولا يخفى أن الانتهاء في قسمة الأوصاف إلى وصف لا ينقسم بعيد، وإن أثبتوا ملازمة الحكم للوصف المشترك لذات الوصف، فمع بعده فقد استغنوا عن المثال.
+The omitted [attributes], rather the refutation is for every rank that results from their combination. It is not sufficient in refuting the omitted and correcting the retained to establish the ruling with the retained attribute and its absence, because it is possible that the ruling is caused by two causes with respect to two loci and the retained attribute is shared between them, and that the retained attribute, despite all this, is not general to two types or categories, such as if the retained attribute were for example 'j' and it is divided into 'b' and 'd' – otherwise it is possible that it is a cause with respect to one of them, either insofar as it is 'b' or insofar as it is 'd'. Then it is possible that 'j' in the example is 'd' by virtue of which it is a cause, and in the disputed locus it is 'b', and likewise if the reverse were assumed. It is not hidden that arriving at an attribute that is not divisible in the division of attributes is far-fetched, and if they establish the concomitance of the ruling to the shared attribute for the essence of the attribute, then along with its far-fetchedness they have dispensed with the example.
+Source pages p. 466
+
+Commentary
+This passage defines the logical method for eliminating irrelevant attributes (إبطال المحذوف) and correcting the retained attribute (تصحيح المستبقى) when a ruling might have multiple causes. The author explains that it is insufficient to merely observe that the ruling exists with the retained attribute and is absent without it, because the same ruling could be caused by two different causes with respect to different loci, and the retained attribute might be shared between them. The author illustrates with a variable notation: if the retained attribute is 'ج' which divides into 'ب' and 'د', it is possible that in one instance the cause is 'ب' and in another 'د'. Therefore, simply having 'ج' present does not guarantee it is the cause. The warning is that one must ensure the retained attribute is not divisible into subtypes that could serve as distinct causes. The author concludes that dividing attributes until reaching an indivisible one is unrealistic, but if one could prove that the ruling is concomitant with the shared attribute by virtue of its essence, then the example can be dispensed with.
+
+Key Terms
+المحذوف
+المستبقى
+عِلَّة
+تُخَلُّف
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author's logical notation, if the retained attribute (ج) divides into (ب) and (د), which of the following is a possible reason why the test of co-occurrence with (ج) fails?
+A) Because (ب) and (د) are always present together.
+B) Because in one case the cause is (ب) and in another it is (د), so (ج) is not the real cause.
+C) Because (ج) is too specific and cannot be a cause.
+D) Because the ruling is absent in both cases.
+
+Key Takeaway
+A retained attribute that is a genus divisible into species cannot be safely taken as the cause unless the ruling is shown to accompany the genus by its very essence.
+
+How This Lesson Applies — to MY Life?
+?
+In the example of transactions, let ج = 'exchange of property', ب = 'sale', د = 'gift'. The ruling of 'ownership transfer' applies to both. Using the author's notation, show why it is possible that the cause of ownership transfer is different for sale and gift, and why testing for ج alone is insufficient.
+?
+Construct a similar example from the laws of purity: attribute 'change in water' (ج) divides into 'change in color' (ب) and 'change in taste' (د). The ruling of impurity might be due to ب in one case and د in another. Explain why observing that impurity accompanies ج is not enough.
+
+Pages p. 466 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 505
+Module 15 · Lesson 5
+Next →
+Other Lessons
+intermediate
+10 min
+Coexistence of Knowledge and Conjecture
+Author discusses how knowledge and conjecture can coexist in the same or different persons
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the coexistence of knowledge and conjecture in two persons versus in one person, and explain the role of potentiality/actuality and different faculties.
+
+Core Idea
+Knowledge and conjecture can coexist in one person when one is potential and the other actual, or when they stem from different faculties.
+
+This passage explores an intriguing epistemological question: how can one person simultaneously hold certain knowledge and mere conjecture about the same thing? The author clarifies that while such coexistence is impossible from the same aspect, it can occur when knowledge is potential and universal while conjecture is actual and particular, or when they issue from different cognitive faculties like intellect and estimative faculty.
+
+Guided Path
+1
+Identify the two cases
+Read the passage and locate where the author distinguishes between coexistence in two persons and in one person. Note the key phrases 'بالنسبة إلى شخصين' and 'بالنسبة إلى شخص واحد'.
+This sets up the entire discussion.
+2
+Analyze the two-person case
+Understand why coexistence in two persons is unproblematic. The author explains that Zayd's knowledge does not necessitate 'Amr's knowledge; each can have opposite states (actual/potential) based on different syllogisms or one syllogistic and one non-syllogistic reasoning.
+3
+Examine the one-person case
+The author states that from the same aspect, actual knowledge and actual conjecture about the same thing cannot coexist in one person. But they can coexist if the knowledge is potential and the conjecture actual, or if one is based on intellect and the other on estimative faculty.
+Look for the condition 'بجهة تخالف جهة الظن'.
+4
+Work through the examples
+Study the mule and star examples. In both, we have potential universal knowledge (every mule is barren; every star is not fire) but actual particular conjecture (this mule is pregnant; this star is fire). Notice how the conjecture arises from sensory similarity.
+These examples concretize the abstract distinction.
+5
+Apply to the even-number example
+The final example: you know potentially that a number in Zayd's hand is even (universal principle) but are actually ignorant of its particular evenness. This shows how knowledge and ignorance can coexist similarly.
+This extends the pattern to knowledge and ignorance.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل الثامن في كيفية اجتماع العلم والظن بالشيء أو الجهل بما يقابله في شيء واحد معـ نقول: إن العلم بالشيء والظن بما يقابله قد يجتمعان بالنسبة إلى شخصين وبالنسبة إلى شخص واحد، وإن كان الأول فغير ممتنع أن يجتمعا من جهة واحدة من جهات القوة أو الفعل، فإنه ليس واجباً أن ما علمه زيد أن يعلمه عمرو، بل جائز أن يقع الظن لزيد بالفعل بما يقابل معلوم عمرو بالفعل، وكذا بالقوة، ويكون استنادهما في ذلك إلى قياسين مختلفين أو أحدهما إلى قياس والأخر لا إلى قياس، وإن كان الثاني فغير متصور اجتماعهما من جهة واحدة - أي أن يكون زيد مثلاً يعلم أن (كل) "ب" "ج" بالفعل) ونظن مع "ج" بالفعل ونظن مع ذلك بالفعل أنه ليس كل "ب" "ج")، بل إن كان ذلك قد وقع له معاً في زمان واحد بالنسبة إلى شيء واحد، فلا بُدّ من أن يكون العلم به بجهة تخالف جهة الظن بأن يكون أحدهما بالفعل والآخر بالقوة، أو أن يكون مستند أحدهما العقل والأخرى الوهم، مثال الأول كما نعلم بالقوة أن هذه البغلة عقيم، وأن هذا الكوكب ليس بشأنه النار في طبيعتها لدخولهما بالقوة في ما من أن كل بغلة عقيم، وأن كل جرم سماوي غير مشابه للنار في طبيعتها، ومع ذلك فنظن بالفعل عند رؤية البغلة المنتفخة البطن أنها حُبلى، وأن هذا الكوكب نار لمشابهته النار في كونه نيراً، والعلم بكون البغلة عقيماً، وأن هذا الكوكب ليس مشابهاً للنار بالقوة على نحو كلي، لدخولهما بالقوة تحت ما علمنا علمناه، فما علمناه، فما علمناه، فعلى هذا يكون العلم بالشيء والجهل به بالنسبة إلى شخصين وإلى شخص واحد، وذلك كما تعلم أن ما في يد زيد مثلاً زوج عند كونه مقسماً بمتساويين، لدخوله بالقوة في معلومنا الكلي، ومع ذلك فنجهل زوجيته بالفعل على نحو جزئي يخصه.
+The eighth chapter on how knowledge and conjecture of a thing, or ignorance of its opposite, can coexist in one thing. We say: Knowledge of a thing and conjecture of its opposite may coexist with respect to two persons and with respect to one person. If the first, then it is not impossible that they coexist from one aspect of the aspects of potentiality or actuality. For it is not necessary that what Zayd knows, 'Amr knows it. Rather, it is possible that conjecture occurs to Zayd actually of what is opposite to 'Amr's actual knowledge, and similarly by potentiality. Their support in that is from two different syllogisms, or one from a syllogism and the other not from a syllogism. If the second [i.e., in one person], then their coexistence from one aspect is inconceivable — i.e., that Zayd actually knows that every B is C and at the same time actually conjectures that not every B is C. But if that occurs to him together in one time regarding one thing, then necessarily the knowledge is from a direction other than the direction of the conjecture, such that one is actual and the other potential, or one is based on intellect and the other on estimative faculty. An example of the first: we potentially know that this mule is barren and that this star is not such as to be fire in its nature, because they are potentially included in what we know that every mule is barren and every celestial body is unlike fire in its nature. Yet we actually conjecture when seeing the mule with a swollen belly that it is pregnant, and that this star is fire because of its resemblance to fire in being luminous. The knowledge of the mule being barren and this star not resembling fire is potential in a universal manner, because they are potentially included under what we knew... then upon this, knowledge and ignorance of a thing can be with respect to two persons and with respect to one person. For example, you know that what is in Zayd's hand is an even number when it is divided into two equal parts, because it is potentially included in our universal knowledge, yet we are actually ignorant of its being even in a particular manner specific to it.
+Source pages p. 505
+
+Commentary
+This passage is epistemological, addressing how knowledge (علم) and conjecture (ظن) about opposite states of affairs can coexist. The author distinguishes two cases: between two persons, and within a single person. For two persons, coexistence is straightforward: Zayd knows something while 'Amr conjectures its opposite, either actually or potentially. Their grounds may differ. For one person, actual coexistence of opposite judgments about the same thing from the same aspect is impossible. However, they can coexist if one judgment is actual and the other potential, or if they issue from different faculties (intellect vs. estimative faculty). The author gives examples: we know universally and potentially that every mule is barren, but when seeing a mule with a swollen belly, we actually conjecture it is pregnant. Similarly, we know potentially that a star is not fire, but due to its brightness we conjecture it is fire. Thus, knowledge and ignorance can coexist in one person when the knowledge is potential and universal, and the ignorance is actual and particular. The author concludes with the example of knowing potentially that an object in Zayd's hand is even, yet being ignorant of its actual evenness in that particular instance.
+
+Key Terms
+علم
+ظن
+بالقوة
+بالفعل
+وهم
+عقل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, how do we know potentially that a mule is barren?
+A) By actual observation of many mules
+B) By a universal categorical knowledge that every mule is barren
+C) By estimative faculty based on resemblance
+D) By sense perception of its appearance
+
+Key Takeaway
+Knowledge and conjecture about opposite aspects of the same thing can coexist in one person when the knowledge is potential and universal, and the conjecture is actual and particular, or when they arise from different cognitive faculties.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a mujtahid who knows with certainty that the Qur'an prohibits alcohol (khamr) based on the universal legal text, but when presented with a new beverage that resembles wine, he conjectures it might be prohibited by analogy. Explain how this scenario illustrates the coexistence of knowledge and conjecture in one person, referencing the concepts of potential/actual knowledge and different faculties (intellect vs. estimative).
+?
+Reflect on the mule example from the passage. How does the example demonstrate that potential knowledge is universal whereas actual conjecture is particular? Write a short analysis using the terms 'bil-quwwa' and 'bil-fi'l'.
+
+Pages p. 505 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 521
+Module 15 · Lesson 6
+Next →
+Other Lessons
+intermediate
+8 min
+The Nine Interrogative Particles in Islamic Inquiry
+Author enumerates the nine demands (مطالب) and defines each briefly.
+
+Learning Objective
+By the end of this lesson, you will be able to classify each of the nine interrogative particles (مطالب) and state the specific purpose of each as described by the author.
+
+Core Idea
+Every question in Islamic inquiry can be reduced to one of nine types.
+
+In Islamic logic and debate, asking the right question is half the answer. The author enumerates nine interrogative particles (مطالب) that cover all possible demands a seeker can make. This lesson will help you identify each particle and its function, from asking for essence ('ما') to asking about time ('متى'). Understanding this classification is essential for correctly framing questions in any Islamic science.
+
+Guided Path
+1
+Identify the nine particles
+List the nine Arabic words mentioned in the passage: ما, هل, لِمَ, أي, مَن, كم, كيف, أين, متى. Note that each represents a distinct demand (مطلب).
+2
+Categorize each by function
+For each particle, determine what it asks: ما asks for essence or word meaning; هل asks for existence or state; لِمَ asks for cause or assent; أي asks for a distinguisher; مَن asks for a rational person; كم for quantity; كيف for quality; أين for place; متى for time.
+3
+Distinguish subtypes for ما and هل
+For ما, note the two subtypes: explanation of meaning (for one ignorant of the word) and essence (for one who knows the word but not the reality). For هل, note simple هل (asking about existence itself) and compound هل (asking about a mode of existence).
+The author explicitly defines these subtypes in the passage.
+4
+Map to scholarly questions
+Consider how each particle is used in real Islamic scholarly inquiry. For example, 'ما العلة؟' in usul al-fiqh, 'هل الخالق موجود؟' in kalam, 'لم أمر الله بكذا؟' in tafsir.
+This step connects the logical tool to actual practice.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل الثالث: في المطالب وكمية أقسامها ووجه ترتيبها. والمطالب التي يسأل بها الطالب لتحصيل ما ليس بمتحصل فتسعة: مطلب ما وهل ولِمَ وأي ومَنْ وكم وكيف وأين ومتى. فـ (ما) يطلب بها أحد أمرين: إما شرح معنى الاسم بالنسبة إلى الجاهل بدلالته وضعاً، كما يقال: ما العقاب؟ وما الليث؟ وأما الحقيقة بالنسبة إلى العالم بالدلالة الجاهل بالحقيقة، كما يقال: ما الإنسان؟ وما الحيوان؟ وأما (هل) فيطلب بها أحد أمرين أيضاً: أما أصل الوجود، كما يقال: هل زيد موجود؟ وتسمى حينئذ هل البسيطة، وإما حالاً زائدة على الوجود، كما يقال: هل زيد الموجود عالماً؟ وتُسمّى حينئذ هل المركبة وجوابها في كلا الحالين بأحد النقيضين. وأما مطلب (لم) فيطلب به أيضاً أحد أمرين: إما علية الشيء، أو التصديق به فقط، كما يأتي مثاله. وأما (أي) فيطلب بها تمييز الشيء عما يشاركه في أمر عام له، كما يقال: أي حيوان؟ وأي جسم؟ والجواب بما يميزه ذاتياً أو عرضياً، كما يحقق. وأما (من) فسؤال عن تعيين الشخص فيمن يعقل. وأما (كم) فسؤال عن الكمية، وأما (كيف) فسؤال عن الكيفية، و(أين) فسؤال المكان، و(متى) فسؤال عن الزمان، لكنها بأجمعها قد تدخل في مطلب (هل) كما يقال: هل هو موجود؟ هل هو عالم؟ هل هو لعلة كذا؟ هل هو ضاحك؟ هل هو زيد؟ هل عدد أو مقداره كذا؟ هل هو أبيض؟ هل هو في الدار؟ هل هو في اليوم أو الأمس، لكن إنما يقع ذلك أن لو كانت الأقسام التي يتوجه إليها الطلب محصورة يسهل تعدادها، وإن كانت غير متناهية، فإن يكون غرض السائل بسؤاله منوطاً بواحد معين منها.
+Chapter Three: On the demands, the quantity of their divisions, and the manner of their arrangement. The demands by which the seeker asks to obtain what is not yet obtained are nine: the demand of 'What', 'Whether', 'Why', 'Which', 'Who', 'How many', 'How', 'Where', and 'When'. As for 'What', it asks for one of two things: either an explanation of the meaning of the name for one ignorant of its conventional indication, as it is said: 'What is 'uqāb? What is layth?' Or the reality for one who knows the indication but is ignorant of the reality, as it is said: 'What is man? What is animal?' As for 'Whether', it also asks for one of two things: either the existence itself, as it is said: 'Is Zayd existent?' and it is then called the simple 'Whether', or a state additional to existence, as it is said: 'Is the existent Zayd knowledgeable?' and it is then called the compound 'Whether', and its answer in both cases is one of the two contradictories. As for the demand 'Why', it also asks for one of two things: either the cause of the thing, or merely the assent to it, as its example will come. As for 'Which', it asks for distinguishing the thing from what shares a common general attribute, as it is said: 'Which animal? Which body?' and the answer is by what distinguishes it essentially or accidentally, as will be verified. As for 'Who', it is a question about specifying the person among rational beings. As for 'How many', it is a question about quantity. As for 'How', it is a question about quality. 'Where' is a question about place, and 'When' is a question about time. However, all of them may be subsumed under the demand 'Whether', as it is said: Is it existent? Is it knowledgeable? Is it for such a cause? Is it laughing? Is it Zayd? Is its number or magnitude such? Is it white? Is it in the house? Is it today or yesterday? But that occurs only if the categories to which the question is directed are limited and easy to enumerate; if they are infinite, then the purpose of the questioner is attached to one specific one of them.
+Source pages p. 521
+
+Commentary
+This passage is a classification of the types of questions (مطالب) used in inquiry. The author enumerates nine interrogative particles: ما, هل, لِمَ, أي, مَن, كم, كيف, أين, متى. Each particle has a specific function. For example, 'ما' can ask either for the meaning of a word (شرح معنى الاسم) for someone who does not know the conventional meaning, like asking 'ما العقاب؟' (What is 'uqāb? meaning a punishment or a bird?), or for the essence (الحقيقة) for someone who knows the word but not the essence, like 'ما الإنسان؟' (What is man?). 'هل' also has two uses: simple 'هل' asking about bare existence (هل البسيطة) like 'هل زيد موجود؟' (Is Zayd existent?), and compound 'هل' asking about a mode of existence (هل المركبة) like 'هل زيد الموجود عالماً؟' (Is the existent Zayd knowledgeable?), answered by affirmation or negation. 'لم' asks either for the cause (علية) or for assent (التصديق). 'أي' asks for a distinguisher (تمييز) that separates the thing from others sharing a common attribute, e.g., 'أي حيوان؟' (Which animal?) answered by a specific differentia. 'مَن' asks for a particular rational person. 'كم' for quantity, 'كيف' for quality, 'أين' for place, 'متى' for time. The author notes that all these questions can be subsumed under 'هل' if the categories are finite, but if infinite, the question targets one specific one. This classification is foundational for understanding the method of inquiry in the Islamic sciences, as each question type leads to a specific kind of answer.
+
+Key Terms
+مطلب
+هل البسيطة
+هل المركبة
+لم
+أي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which interrogative particle is used to ask about the cause of something?
+A) ما
+B) هل
+C) لم
+D) أي
+
+Key Takeaway
+The nine particles provide a complete classification of inquiry types in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which interrogative particle corresponds to the following question: 'How many rak'at are in Dhuhr prayer?' State the particle and explain your choice based on the function described in the passage.
+?
+Given a standard theological question: 'Is the Qur'an created or uncreated?', determine which particle (هل) and which subtype (simple or compound) is being used. Justify your answer.
+
+Pages p. 521 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 522
+Module 15 · Lesson 7
+Next →
+Other Lessons
+beginner
+5 min
+The Four Scientific Demands and Their Order
+Author reduces scientific demands to four and explains their necessary order.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four scientific demands (mā, ayy, hal, lima) and explain the necessary order in which they must be used in inquiry.
+
+Core Idea
+Scientific inquiry follows a tight logical order: name first, then existence, then essence, then cause.
+
+In this passage, the author reduces the many possible questions we can ask to just four core demands—What, Which, Whether, Why—and shows that they must be asked in a specific sequence. This ordering is not arbitrary; it reflects the logical dependency of each question on the answers to previous ones. Without it, inquiry becomes aimless.
+
+Guided Path
+1
+Identify the four scientific demands
+From the text, find the four Arabic terms (مَا, أَيّ, هَل, لِمَ) and note which two are conceptual and which two are composite.
+The author adds 'Which' to the traditional three.
+2
+Trace the order of the simple 'What' and 'Whether'
+The 'What' that explains the meaning of the name comes before the simple 'Whether' because you cannot ask about existence without knowing what the term means.
+The text says: 'ما الطالبة لشرح معنى الاسم متقدمة على هل البسيطة'.
+3
+Order the remaining demands
+After existence is confirmed, the 'What' for essence and 'Which' for distinction become possible. Finally, 'Why' asks for the cause, which presupposes knowledge of essence and existence.
+The author states: 'وهل البسيطة فمتقدمة على ما الطالبة للحقيقة وعلى أي' and 'لم فمتأخرة عن الجميع'.
+4
+Examine exceptions to the order
+The author notes that the 'Why' for assent might precede the 'Why' for cause if the assent is based on sensory evidence. Find the example of the magnet.
+The text says: 'كما في جذب المغناطيس للحديد' – we see attraction but don't know the cause.
+5
+Place the compound 'Whether'
+The compound 'Whether' (هل المركبة) comes after the 'Why' of assent, because one must first assent to existence before asking about additional states.
+The text says: 'هل المركبة فمتأخرة عن طالبة لمّية التصديق'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وما قيل في التعاليم الأولى، فهو أن المطالب العلمية من جملة هذه، فهي بالقسمة الأولى ثلاثة، وهي مطلب (ما) و(هل) و(لم) وبالقسمة الثانية على ما تحقق ستة؛ إذ كل واحد منها منقسم إلى قسمين، وأما باقي المطالب فداخلة في هل المركبة على نحو ما عرف إلا أن أبسطها مطلب (أي) إذ هي للتمييز بما يخص الشيء، وتلك فأوسع مجالاً، وقد تدخل بأسرها في (أي) كما يقال أي عدد هو؟ وأي لون هو؟ وفي أي مكان؟ وفي أي زمان هو؟ ولا جرم سانح لمن أراد جعلها مطلباً علمياً، وإذ ذاك فتكون المطالب العلمية أربعة (ما) و(أي) و(هل) و(لم) إلا أن ما هو منها مختص بالمطلوبات التصورية (ما) و(أي) وما هو مختص بالمطلوبات المركبة (هل) و(لم). فـ (ما) الطالبة لشرح معنى الاسم متقدمة على (هل) البسيطة، فإن من لا يعرف مدلول الاسم لا يسأل عن وجوده. والمعرفة وإن كانت قد تكون بالحد والحد، فلا يكون إلا بحسب الوجود، فليس يعرف في مبادئ الأمر أن القول المذكور، هل هو حد بحسب الاسم، أو بحسب الحد؟ إلا بعد معرفة الوجود كما سبق. (وهل البسيطة) فمتقدمة على (ما) الطالبة للحقيقة، وعلى (أي) الطالبة للتمييز؛ إذ الطالب للحد أو التمييز فإنما هو طالب لتصور أمر موجود عنده إما عيناً أو ذهناً. وأما (لم) فمتأخرة عن الجميع، فإنه ما لم يعرف معنى شرح اسمه، ولا وجوده، ولا تصور معناه فالطلب للميته محال. وسواء كانت اللمّية للتصديق أو العلة، وطالبة التصديق ربما تقدمت على طالبة التصور عندما إذا كان التصديق حاصلاً بقياس حده الأوسط ليس بعلة، فليس واجباً أن تتقدم لجواز أن يكون التصديق بالشيء محسوساً، وإن خفيت علته، كما في جذب المغناطيس للحديد، ولا جائزاً أن تتأخر عن طالبة العلة، فإن من حصلت عنده العلة فقد حصل له التصديق. وأما (هل) المركبة فمتأخرة عن طالبة لمّية التصديق، فإن من لا يصدق بالوجود لا يسأل عن حال زائدة على الوجود.
+And what was said in the first principles is that the scientific demands are among these. So by the first division they are three: the demand of 'What', 'Whether', and 'Why'. And by the second division, as has been verified, they are six, since each of them is divided into two. As for the remaining demands, they enter into the compound 'Whether' in the manner known, except that the simplest of them is the demand 'Which', for it is for distinguishing by what pertains to the thing, and that is wider in scope. And all of them may enter into 'Which', as it is said: Which number is it? Which color is it? In which place? In which time? And so it is possible for one who wants to make it a scientific demand. Then the scientific demands become four: 'What', 'Which', 'Whether', and 'Why', except that among them, 'What' and 'Which' are specific to conceptual demands (ṭālibāt taṣawwuriyya), while 'Whether' and 'Why' are specific to composite demands (ṭālibāt murakkaba). So the 'What' that seeks the explanation of the meaning of the name is prior to the simple 'Whether', for one who does not know the referent of the name does not ask about its existence. And knowledge, even if it may be by definition and limit, is only according to existence; so it is not known in the beginnings whether the said statement is a definition according to the name or according to the limit except after knowledge of existence, as has preceded. And the simple 'Whether' is prior to the 'What' that seeks the reality and to the 'Which' that seeks distinction; for the seeker of a definition or distinction is only seeking a conception of something existing for him either externally or mentally. As for 'Why', it is posterior to all, for as long as he does not know the meaning of his name, nor its existence, nor the conception of its meaning, the demand for its cause is impossible. And whether the 'Why' is for assent or for cause, the demand for assent may sometimes precede the demand for conception, when the assent is obtained through a syllogism whose middle term is not a cause; it is not necessary that it precede, because it is permissible that the assent to something is sensory, even if its cause is hidden, as in the attraction of iron by a magnet. And it is not permissible that it come after the demand for the cause, for one who has obtained the cause has obtained the assent. As for the compound 'Whether', it is posterior to the demand for the 'Why' of assent, for one who does not assent to existence does not ask about a state additional to existence.
+Source pages p. 522
+
+Commentary
+This passage refines the classification of demands to those specifically used in scientific inquiry. The author explains that the scientific demands are first divided into three: 'What', 'Whether', and 'Why'. According to a second division they become six, but ultimately, the remaining demands (like 'Who', 'How many', etc.) can be subsumed under the compound 'Whether' or 'Which'. Thus the scientific demands are four: 'What', 'Which', 'Whether', and 'Why'. Among these, 'What' and 'Which' seek conceptual knowledge (taṣawwur), while 'Whether' and 'Why' seek compound knowledge (taṣdīq). The author then establishes a necessary order for inquiry: First comes the 'What' that asks for the meaning of a name (e.g., 'What is wudu'?'), because without understanding the term, one cannot ask about existence. Next is the simple 'Whether' that confirms existence (e.g., 'Is wudu' obligatory?'), because one must know that the thing exists before seeking its essence or distinction. Then comes the 'What' that asks for the essence (e.g., 'What is wudu' in reality?') or 'Which' for distinction (e.g., 'Which act of worship is wudu'?'). Finally, 'Why' asks for the cause (e.g., 'Why is wudu' required?'). The author notes that the 'Why' for assent (e.g., 'Why do we believe wudu' is valid?') might precede the 'Why' for cause, if the assent is based on sensory evidence like the attraction of iron by a magnet—we see the attraction but do not know its cause. However, the compound 'Whether' (e.g., 'Is wudu' purifying?') comes after the 'Why' for assent, because one must first believe in the existence of the thing before asking about its attributes. This ordering reflects the logical progression of knowledge acquisition.
+
+Key Terms
+المطالب العلمية
+المطلوبات التصورية
+المطلوبات المركبة
+هل البسيطة
+لمّية التصديق
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the order of scientific demands, which demand must come after the simple 'Whether'?
+A) ما الطالبة لشرح معنى الاسم
+B) ما الطالبة للحقيقة
+C) لم
+D) هل المركبة
+
+Key Takeaway
+The four scientific demands must be ordered: name (What), existence (Whether), essence (What/Which), cause (Why).
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: In a fiqh inquiry about zakat, determine the correct sequence of questions using the four demands. Start with the meaning of 'zakat', then its existence as an obligation, then its essence (what makes it zakat), and finally the reason for its obligation. Write the sequence in Arabic and English.
+?
+Task 2: Identify which demand is being used in this statement: 'Is the world temporally originated?' Is it a simple or compound 'Whether'? Explain.
+
+Pages p. 522 · Other Lessons
+← Prev
+Mark Done
+Next →

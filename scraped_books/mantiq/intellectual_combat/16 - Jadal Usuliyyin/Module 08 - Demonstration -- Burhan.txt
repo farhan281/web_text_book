@@ -1,0 +1,466 @@
+← Prev
+p. 38
+Module 8 · Lesson 1
+Next →
+Demonstration -- Burhan
+intermediate
+8 min
+Reductio ad Absurdum: Qiyās al-Khalf and Dalīl al-Tamānu'
+Defines reductio and gives Quranic tamānu' example
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the reductio ad absurdum argument from the Quranic verse 'If there were gods besides Allah, they would both be corrupted' and verify its logical validity.
+
+Core Idea
+Reductio proves a truth by showing its opposite leads to absurdity.
+
+This lesson introduces qiyās al-khalf, a powerful indirect proof method used extensively in kalām and uṣūl al-fiqh. You will see how the Quran itself employs this logic to demonstrate tawḥīd. The argument from mutual exclusivity (dalīl al-tamānu') is a classic example: assume multiple gods, deduce corruption, observe order, therefore one God.
+
+Guided Path
+1
+Identify the claim to be proved
+The desired conclusion is that there is only one God (tawḥīd). The author aims to prove this by refuting its opposite: the existence of multiple gods.
+The opposite (naqīḍ) is the claim that there is more than one god.
+2
+Formulate the hypothetical assumption
+The reductio starts by assuming the opposite for the sake of argument: 'Suppose there were multiple gods in the heavens and earth.' This is the premise the opponent holds.
+This is the 'abandoned and fabricated premise' mentioned in the text.
+3
+Derive a contradiction from the assumption
+From multiple gods, we deduce conflicting wills ('irādāt mutanāzi'a) leading to corruption (fasād) of the heavens and earth. The author explicitly states that this corruption would result from divergence of wills.
+The contradiction is that the heavens and earth are observed to be in order, not corrupted.
+4
+Observe the factual reality that contradicts the derived consequence
+The Quran points to the evident fact that the heavens and earth are sound (ṣāliḥatān) and not corrupted. This observation is the 'established premise' that contradicts the derived corruption.
+This step corresponds to affirming the consequent of the conditional, but actually it's the negation of the consequent.
+5
+Apply modus tollens to reject the assumption and affirm the original claim
+Since the assumption leads to a false consequence (corruption), the assumption itself must be false. Therefore, the opposite of the assumption—oneness of God—is true.
+Logically: If P (multiple gods) then Q (corruption). Not Q (no corruption). Therefore not P (no multiple gods).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+د - قياس الخلف : وهو إثبات الأمر ببطلان نقيضه كإثبات الصدق ببطلان الكذب، وقد سمي بقياس الخلف، لأحد أمرين؛ إما لكونه يستلزم الرجوع من النتيجة إلى الخلف لأخذ المطلوب من المقدمة المتروكة والمجعولة وهي مقدمة الخصم الكاذبة، وذلك بالبرهنة بكذبها على صدق نقيضها، وإما لكونه مضافًا إلى الخلف وهو الكذب المناقض للصدق هذا الشكل من الاستدلال عند المتكلمين ويسمى دليل التمانع. ومن نماذج هذا النوع من الاستدلال في القرآن الكريم، قوله تعالى: ﴿ لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللهُ لَفَسَدَتَا ﴾. وتقرير هذا الشكل الاستدلالي هو : أنه لو كان في السموات والأرض آلهة لتنازعت الإرادات بين السلب والإيجاب، ولنتج عن هذا التنازع فسادهما لتخالف الإرادات ; ولكن لما ثبت أن السموات والأرض صالحتان غير فاسدتين، فقد بطل ما يكون سببًا إلى الفساد وهو تعدد الآلهة فثبتت الوحدانية لتخلف الفساد.
+D - Reductio ad absurdum: It is proving a thing by the falsity of its opposite, like proving truth by the falsity of falsehood. It is called reductio ad absurdum for one of two reasons: either because it requires returning from the result to the opposite to take the required from the abandoned and fabricated premise, which is the opponent's false premise, by demonstrating its falsity to prove the truth of its opposite; or because it is attributed to the opposite (al-khalf), which is falsehood contradicting truth. This form of inference among the theologians is called the argument from mutual exclusivity (dalīl al-tamānu'). Among the examples of this type of inference in the Noble Qur'an is His statement: 'If there were in them [the heavens and the earth] gods besides Allah, they would both be corrupted.' The exposition of this inferential form is: If there were in the heavens and the earth gods, there would be conflicting wills between negation and affirmation, and from this conflict their corruption would result due to the divergence of wills. But since it is established that the heavens and the earth are sound and not corrupted, then what would be a cause of corruption—namely, the multiplicity of gods—has been nullified, and oneness has been established because corruption does not occur.
+Source pages p. 38
+
+Commentary
+This passage defines 'qiyās al-khalf' (reductio ad absurdum), a method of proof that establishes a claim by showing that its opposite leads to an impossibility. The author gives two possible reasons for the name: (1) it involves going back from the result to the opposite premise (the opponent's false premise) to extract the desired conclusion by proving that premise false; (2) it is attributed to 'al-khalf' meaning falsehood that contradicts truth. In Islamic theology (kalām), this is known as 'dalīl al-tamānu' (argument from mutual exclusivity). The Quranic example is Surah Al-Anbiya (21:22): 'If there were in them gods besides Allah, they would both be corrupted.' The author unpacks the implicit reasoning: the existence of multiple gods would lead to conflicting wills, resulting in corruption of the heavens and earth; but the heavens and earth are observed to be in order, not corrupted; therefore, there cannot be multiple gods, establishing the oneness of God (tawḥīd). This is a classic reductio: assume the opposite (multiple gods), derive a contradiction (corruption), reject the assumption, affirm the original (oneness).
+
+Key Terms
+قياس الخلف
+دليل التمانع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the logical structure of the 'argument from mutual exclusivity' (dalīl al-tamānu') as exemplified in the Quran?
+A) If a claim is true, its opposite must be false.
+B) Assume multiple gods, deduce corruption, observe no corruption, therefore gods cannot be multiple.
+C) The heavens and earth are not corrupted because they were created good.
+D) Only one God can create the heavens and earth.
+
+Key Takeaway
+Qiyās al-khalf is an indirect proof that establishes a claim by showing its opposite leads to an absurdity; the Quranic tamānu' argument is a paradigm case using modus tollens.
+
+How This Lesson Applies — to MY Life?
+?
+Reconstruct the reductio ad absurdum in the following kalām argument: 'If there were two omnipotent gods, each would be able to prevent the other's will; but that would imply a limitation on omnipotence, which is contradictory. Therefore, there cannot be two omnipotent gods.' Identify the assumption, the contradiction, and the conclusion.
+?
+Using the same structural template as the Quranic verse, formulate a reductio argument to prove that the Quran is from Allah: assume it is from other than Allah, derive a contradiction from its inimitability (i'jāz), then conclude it is from Allah.
+
+Pages p. 38 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 216
+Module 8 · Lesson 2
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+The Definition of Rational Proof (al-Dalil al-'Aqli)
+Author defines rational proof using al-Juwayni's definition.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the defining characteristics of a rational proof according to Imam al-Juwayni and distinguish it from a transmitted proof.
+
+Core Idea
+Rational proofs indicate through inherent descriptions, not convention.
+
+The passage opens by defining rational proofs and then cites al-Juwayni's precise definition. This definition is crucial for understanding how reason functions in Islamic argumentation. Let's break down its components.
+
+Guided Path
+1
+Identify the term being defined
+The term is 'al-dalil al-'aqli' (rational proof). Notice that the author first gives a general description then quotes al-Juwayni.
+2
+Extract the core of al-Juwayni's definition
+'ma dalla 'ala al-matlubi bihi bi wasfin huwa fi nafsihi 'alayhi ghayru muftaqirin ila wadi'in wa istilah.' It indicates the sought by a description inherent in itself, not needing a positor or convention.
+3
+Analyze each element
+(a) 'dalla 'ala al-matlub' (indicates the sought), (b) 'bi wasfin huwa fi nafsihi 'alayhi' (by a description in itself), (c) 'ghayr muftaqir ila wadi' wa istilah' (not needing a conventional positor). This distinguishes it from transmitted proofs which rely on convention.
+4
+Contrast with transmitted proofs
+Transmitted proofs (adilla naqliyya) depend on revelation and convention; rational proofs are known by reason alone.
+This definition is foundational in usul al-fiqh for distinguishing types of evidence.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المطلب الرابع : الأدلة العقلية ونعني بها ما يرشد إليه العقل من براهين وحجج منطقية يتم استخدامها من قبل الإنسان في إقناع الغير - عقلا - بما يراه من آراء وأفكار ومفاهيم ومعلومات. ويمكن أن نستأنس هنا بتعريف الإمام الجويني في تعريف الدليل العقلي بأنه ما دل على المطلوب به بوصف هو في نفسه عليه غير مفتقر إلى واضع واصطلاح. ووظيفة الأدلة العقلية أن تسند وتقوي الاحتجاج بالأدلة النقلية أو تقوم مقامها حالة في عدم توفرها لا أن تعارضها أو تدل على غير مدلولها . وقد ذهب الظاهرية إلى عدم صحة الاحتجاج بأدلة العقل ووجوب الاكتفاء بأدلة النقل، لكن الذي عليه جمهور علماء المسلمين العمل بالأدلة العقلية إلى جانب الأدلة النقلية . قال أبو الحسين بن القطان : أنكر داود وأصحابه أدلة العقول. وذهب أبو بكر الصيرفي إلى أنها صحيحة، إلا أن الله تعالى لم يحوجنا إليها، لأن أول محجوج بالسمع آدم عليه السلام حيث قيل له: «لا تأكل»، فدل على أن أدلة العقل قد كفينا الأمر فيها واستقللنا بالسمع، قال: وعندنا أن دلائل العقول صحيحة بها ندري الأشياء، لأن العلم بالمعجزة إنما دل عليها العقل، وقال تعالى: ﴿فَمَا أَغْنَى عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَرُهُمْ وَلَا أَفْئِدَتُهُم مِّن شَيْءٍ﴾ ولم يرد سبحانه بالأفئدة قطعة اللحم، وإنما أراد به التمييز، وبهذه الآية احتج على أن محل العقل الفؤاد .
+The Fourth Topic: Rational Proofs. By them we mean what reason guides to, of logical proofs and arguments used by a person to convince others, rationally, of opinions, ideas, concepts, and information he holds. We may be guided here by the definition of Imam al-Juwayni in defining the rational proof: that it indicates the sought by a description that is in itself indicative, not depending on a positor or convention. The function of rational proofs is to support and strengthen argumentation with transmitted proofs or to take their place when they are unavailable, not to oppose them or indicate other than their signification. The Zahiris held that argumentation by rational proofs is invalid and that it is obligatory to suffice with transmitted proofs, but the position of the majority of Muslim scholars is to act upon rational proofs alongside transmitted proofs. Abu al-Husayn ibn al-Qattan said: Dawud and his followers denied rational proofs. Abu Bakr al-Sayrafi held that they are valid, except that Allah did not need us to them, because the first person argued against by audition was Adam, peace be upon him, when it was said to him: 'Do not eat,' so it indicates that we have been spared the matter of rational proofs and are independent through audition. He said: In our view, rational proofs are valid; through them we know things, because knowledge of the miracle is only indicated by reason. Allah said: 'So their hearing, sight, and hearts availed them nothing' and He did not intend by 'hearts' the piece of flesh, but rather He intended discernment; and by this verse he argued that the seat of reason is the heart.
+Source pages p. 216
+
+Commentary
+This passage defines rational proofs ('adilla 'aqliyya) and discusses their function and validity. The author begins by stating that rational proofs are the logical arguments that reason provides to convince others. He cites Imam al-Juwayni's definition: a rational proof indicates the sought conclusion through a description inherent in itself, without needing a conventional positor. The key function is to support transmitted proofs (adilla naqliyya) or substitute for them when absent, never to contradict them. The author then presents the debate: the Zahiris (literalists) reject rational proofs entirely, while the majority of Muslim scholars accept them. He quotes Abu al-Husayn ibn al-Qattan confirming the Zahiri rejection, and Abu Bakr al-Sayrafi who upholds their validity but argues that in practice transmission suffices, citing Adam's example. Al-Sayrafi also argues that miracles are known through reason, and uses the Quranic verse to show that the 'heart' (fu'ad) is the seat of reason, not a physical organ. This passage clarifies that rational proofs complement revelation, not oppose it.
+
+Key Terms
+الدليل العقلي
+الواضع
+الاصطلاح
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Juwayni's definition as presented, what distinguishes a rational proof from a transmitted proof?
+A) Rational proofs are based on consensus
+B) Rational proofs indicate by a description in themselves without needing a conventional positor
+C) Rational proofs are only used by the Zahiris
+D) Rational proofs are always stronger than transmitted proofs
+
+Key Takeaway
+A rational proof is defined by its self-sufficient indication, independent of conventional authority.
+
+How This Lesson Applies — to MY Life?
+?
+Using al-Juwayni's definition, determine whether the following is a rational proof: 'The Quran says intoxicants are forbidden, and this indicates that all intoxicants are forbidden.' Explain your reasoning.
+?
+Construct a hypothetical rational proof for the obligation of prayer based on reason alone (assuming no revelation). What description in itself would indicate obligation?
+
+Pages p. 216 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 216
+Module 8 · Lesson 3
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+The Proper Function of Rational Proofs in Islamic Argumentation
+Author explains the function of rational proofs in relation to transmitted proofs.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the two main functions of rational proofs (support/substitute) and why they should not oppose transmitted proofs, using the author's argument.
+
+Core Idea
+Rational proofs serve to support or substitute revelation, never to contradict it.
+
+After defining rational proofs, the author turns to their function. This is critical for understanding how rationality and revelation relate in Islamic thought. He explicitly states what rational proofs do and do not do.
+
+Guided Path
+1
+Locate the function statement
+Find the sentence: 'wa waẓīfatu al-adillati al-ʿaqliyyati an tusnida wa tuqawwiya al-iḥtijāja bi-al-adillati al-naqliyyati aw taqūma maqāmahā ḥālatan fī ʿadami tawafurihā lā an tuʿāriḍahā aw tadulla ʿalā ghayri madlūlihā.'
+2
+Identify the two positive functions
+(a) Support and strengthen (tusnid wa tuqawwi) argumentation with transmitted proofs. (b) Take their place (taqūma maqāmahā) when transmitted proofs are unavailable.
+3
+Identify the negative function
+It does not oppose (lā tuʿāriḍ) transmitted proofs nor indicate something other than their signification.
+4
+Explain the significance
+This shows that rational proofs are not in conflict with revelation; they are complementary tools. This refutes the misconception that reason and revelation are at odds.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المطلب الرابع : الأدلة العقلية ونعني بها ما يرشد إليه العقل من براهين وحجج منطقية يتم استخدامها من قبل الإنسان في إقناع الغير - عقلا - بما يراه من آراء وأفكار ومفاهيم ومعلومات. ويمكن أن نستأنس هنا بتعريف الإمام الجويني في تعريف الدليل العقلي بأنه ما دل على المطلوب به بوصف هو في نفسه عليه غير مفتقر إلى واضع واصطلاح. ووظيفة الأدلة العقلية أن تسند وتقوي الاحتجاج بالأدلة النقلية أو تقوم مقامها حالة في عدم توفرها لا أن تعارضها أو تدل على غير مدلولها . وقد ذهب الظاهرية إلى عدم صحة الاحتجاج بأدلة العقل ووجوب الاكتفاء بأدلة النقل، لكن الذي عليه جمهور علماء المسلمين العمل بالأدلة العقلية إلى جانب الأدلة النقلية . قال أبو الحسين بن القطان : أنكر داود وأصحابه أدلة العقول. وذهب أبو بكر الصيرفي إلى أنها صحيحة، إلا أن الله تعالى لم يحوجنا إليها، لأن أول محجوج بالسمع آدم عليه السلام حيث قيل له: «لا تأكل»، فدل على أن أدلة العقل قد كفينا الأمر فيها واستقللنا بالسمع، قال: وعندنا أن دلائل العقول صحيحة بها ندري الأشياء، لأن العلم بالمعجزة إنما دل عليها العقل، وقال تعالى: ﴿فَمَا أَغْنَى عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَرُهُمْ وَلَا أَفْئِدَتُهُم مِّن شَيْءٍ﴾ ولم يرد سبحانه بالأفئدة قطعة اللحم، وإنما أراد به التمييز، وبهذه الآية احتج على أن محل العقل الفؤاد .
+The Fourth Topic: Rational Proofs. By them we mean what reason guides to, of logical proofs and arguments used by a person to convince others, rationally, of opinions, ideas, concepts, and information he holds. We may be guided here by the definition of Imam al-Juwayni in defining the rational proof: that it indicates the sought by a description that is in itself indicative, not depending on a positor or convention. The function of rational proofs is to support and strengthen argumentation with transmitted proofs or to take their place when they are unavailable, not to oppose them or indicate other than their signification. The Zahiris held that argumentation by rational proofs is invalid and that it is obligatory to suffice with transmitted proofs, but the position of the majority of Muslim scholars is to act upon rational proofs alongside transmitted proofs. Abu al-Husayn ibn al-Qattan said: Dawud and his followers denied rational proofs. Abu Bakr al-Sayrafi held that they are valid, except that Allah did not need us to them, because the first person argued against by audition was Adam, peace be upon him, when it was said to him: 'Do not eat,' so it indicates that we have been spared the matter of rational proofs and are independent through audition. He said: In our view, rational proofs are valid; through them we know things, because knowledge of the miracle is only indicated by reason. Allah said: 'So their hearing, sight, and hearts availed them nothing' and He did not intend by 'hearts' the piece of flesh, but rather He intended discernment; and by this verse he argued that the seat of reason is the heart.
+Source pages p. 216
+
+Commentary
+This passage defines rational proofs ('adilla 'aqliyya) and discusses their function and validity. The author begins by stating that rational proofs are the logical arguments that reason provides to convince others. He cites Imam al-Juwayni's definition: a rational proof indicates the sought conclusion through a description inherent in itself, without needing a conventional positor. The key function is to support transmitted proofs (adilla naqliyya) or substitute for them when absent, never to contradict them. The author then presents the debate: the Zahiris (literalists) reject rational proofs entirely, while the majority of Muslim scholars accept them. He quotes Abu al-Husayn ibn al-Qattan confirming the Zahiri rejection, and Abu Bakr al-Sayrafi who upholds their validity but argues that in practice transmission suffices, citing Adam's example. Al-Sayrafi also argues that miracles are known through reason, and uses the Quranic verse to show that the 'heart' (fu'ad) is the seat of reason, not a physical organ. This passage clarifies that rational proofs complement revelation, not oppose it.
+
+Key Terms
+الوظيفة
+تسند
+تقوي
+تقوم مقامها
+تعارض
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the passage say rational proofs should NOT do?
+A) Support transmitted proofs
+B) Substitute for transmitted proofs when unavailable
+C) Oppose transmitted proofs or indicate other than their signification
+D) Be used by laypeople
+
+Key Takeaway
+Rational proofs are designed to complement, not contradict, transmitted proofs.
+
+How This Lesson Applies — to MY Life?
+?
+Given the following scenario: A hadith states that wine is forbidden due to intoxication. A new intoxicating substance appears, and a scholar uses rational proof to argue it is also forbidden. Identify which function of rational proofs this illustrates.
+?
+Explain why rational proofs cannot oppose transmitted proofs according to the author, using an example from Islamic law.
+
+Pages p. 216 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 216
+Module 8 · Lesson 4
+Next →
+Demonstration -- Burhan
+intermediate
+5 min
+The Zahiri Challenge and Majority Response on Rational Proofs
+Author presents the dispute between Zahiris and majority on rational proofs.
+
+Learning Objective
+By the end of this lesson, you will be able to compare the positions of the Zahiris and the majority of Muslim scholars on rational proofs, and summarize al-Sayrafi's argument for their validity.
+
+Core Idea
+The majority upheld rational proofs despite Zahiri opposition, citing miracles and Quranic endorsement.
+
+After defining rational proofs and their function, the author presents the historical disagreement. This illustrates how the definition and function translate into real theological and legal disputes. The Zahiri rejection and the majority's defense are both grounded in different understandings of revelation.
+
+Guided Path
+1
+Identify the two camps
+The Zahiris (Dawud and his followers) vs the majority of Muslim scholars.
+2
+State the Zahiri position
+They deny the validity of rational proofs and insist on exclusive use of transmitted proofs.
+3
+State the majority position
+They accept rational proofs alongside transmitted proofs.
+4
+Analyze al-Sayrafi's nuance
+He says rational proofs are valid, but Allah has not made us need them because the first person (Adam) was addressed by revelation (audition). However, we still need reason to know miracles and to understand that the 'heart' (fu'ad) in the Quran refers to reason, not a physical organ.
+5
+Evaluate the strength of al-Sayrafi's argument
+He uses Quranic evidence (verse about hearing, sight, hearts) to support the use of reason.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المطلب الرابع : الأدلة العقلية ونعني بها ما يرشد إليه العقل من براهين وحجج منطقية يتم استخدامها من قبل الإنسان في إقناع الغير - عقلا - بما يراه من آراء وأفكار ومفاهيم ومعلومات. ويمكن أن نستأنس هنا بتعريف الإمام الجويني في تعريف الدليل العقلي بأنه ما دل على المطلوب به بوصف هو في نفسه عليه غير مفتقر إلى واضع واصطلاح. ووظيفة الأدلة العقلية أن تسند وتقوي الاحتجاج بالأدلة النقلية أو تقوم مقامها حالة في عدم توفرها لا أن تعارضها أو تدل على غير مدلولها . وقد ذهب الظاهرية إلى عدم صحة الاحتجاج بأدلة العقل ووجوب الاكتفاء بأدلة النقل، لكن الذي عليه جمهور علماء المسلمين العمل بالأدلة العقلية إلى جانب الأدلة النقلية . قال أبو الحسين بن القطان : أنكر داود وأصحابه أدلة العقول. وذهب أبو بكر الصيرفي إلى أنها صحيحة، إلا أن الله تعالى لم يحوجنا إليها، لأن أول محجوج بالسمع آدم عليه السلام حيث قيل له: «لا تأكل»، فدل على أن أدلة العقل قد كفينا الأمر فيها واستقللنا بالسمع، قال: وعندنا أن دلائل العقول صحيحة بها ندري الأشياء، لأن العلم بالمعجزة إنما دل عليها العقل، وقال تعالى: ﴿فَمَا أَغْنَى عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَرُهُمْ وَلَا أَفْئِدَتُهُم مِّن شَيْءٍ﴾ ولم يرد سبحانه بالأفئدة قطعة اللحم، وإنما أراد به التمييز، وبهذه الآية احتج على أن محل العقل الفؤاد .
+The Fourth Topic: Rational Proofs. By them we mean what reason guides to, of logical proofs and arguments used by a person to convince others, rationally, of opinions, ideas, concepts, and information he holds. We may be guided here by the definition of Imam al-Juwayni in defining the rational proof: that it indicates the sought by a description that is in itself indicative, not depending on a positor or convention. The function of rational proofs is to support and strengthen argumentation with transmitted proofs or to take their place when they are unavailable, not to oppose them or indicate other than their signification. The Zahiris held that argumentation by rational proofs is invalid and that it is obligatory to suffice with transmitted proofs, but the position of the majority of Muslim scholars is to act upon rational proofs alongside transmitted proofs. Abu al-Husayn ibn al-Qattan said: Dawud and his followers denied rational proofs. Abu Bakr al-Sayrafi held that they are valid, except that Allah did not need us to them, because the first person argued against by audition was Adam, peace be upon him, when it was said to him: 'Do not eat,' so it indicates that we have been spared the matter of rational proofs and are independent through audition. He said: In our view, rational proofs are valid; through them we know things, because knowledge of the miracle is only indicated by reason. Allah said: 'So their hearing, sight, and hearts availed them nothing' and He did not intend by 'hearts' the piece of flesh, but rather He intended discernment; and by this verse he argued that the seat of reason is the heart.
+Source pages p. 216
+
+Commentary
+This passage defines rational proofs ('adilla 'aqliyya) and discusses their function and validity. The author begins by stating that rational proofs are the logical arguments that reason provides to convince others. He cites Imam al-Juwayni's definition: a rational proof indicates the sought conclusion through a description inherent in itself, without needing a conventional positor. The key function is to support transmitted proofs (adilla naqliyya) or substitute for them when absent, never to contradict them. The author then presents the debate: the Zahiris (literalists) reject rational proofs entirely, while the majority of Muslim scholars accept them. He quotes Abu al-Husayn ibn al-Qattan confirming the Zahiri rejection, and Abu Bakr al-Sayrafi who upholds their validity but argues that in practice transmission suffices, citing Adam's example. Al-Sayrafi also argues that miracles are known through reason, and uses the Quranic verse to show that the 'heart' (fu'ad) is the seat of reason, not a physical organ. This passage clarifies that rational proofs complement revelation, not oppose it.
+
+Key Terms
+الظاهرية
+جمهور
+داود
+أبو بكر الصيرفي
+السمع
+المعجزة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what did Abu Bakr al-Sayrafi claim about rational proofs?
+A) They are invalid because Adam was addressed by audition
+B) They are valid, but Allah did not make us need them, though we still use them to know miracles
+C) They are only valid for the Zahiris
+D) They are the only source of knowledge
+
+Key Takeaway
+The historical debate shows that even those who downplay the need for reason (al-Sayrafi) still affirm its validity, arguing it is essential for understanding miracles and Quranic concepts.
+
+How This Lesson Applies — to MY Life?
+?
+Write a brief argument (2-3 sentences) defending the use of rational proofs against a Zahiri opponent, using al-Sayrafi's point about miracles as evidence.
+?
+Explain why al-Sayrafi's reference to Adam (being addressed by audition) does not invalidate rational proofs, according to the passage.
+
+Pages p. 216 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 218
+Module 8 · Lesson 5
+Next →
+Demonstration -- Burhan
+intermediate
+8 min
+Al-Razi's Mulazama Argument for the Linguistic Reality of Shar'i Terms
+Razi uses mulazama to prove terms become haqiqa for shar'i meanings.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Fakhr al-Din al-Razi's conditional argument (mulazama) and identify its components: malzum, lazim, entailment, and the falsity of the lazim.
+
+Core Idea
+Al-Razi uses the falsity of an unavoidable consequence to prove that shar'i terms are genuine Arabic.
+
+Islamic scholars debated whether terms like salat and zakat remain merely metaphorical when used for new legal meanings or become genuine Arabic words. Al-Razi provides a clever proof using the logical concept of mulazama (entailment). His argument shows that if these terms were not truly Arabic, then the entire Qur'an would not be Arabic—since they appear in it—yet the Qur'an is explicitly Arabic. Thus, the terms must be real Arabic. This lesson dissects that argument step by step.
+
+Guided Path
+1
+Identify the Claim (Malzum)
+The claim that is being challenged is that the indication (ifada) of these terms for the shar'i meanings is not linguistic (i.e., they are metaphorical). This is the antecedent of the conditional.
+In the passage, Razi states this as 'the conveying of these meanings by these terms, if it were not linguistic'.
+2
+Identify the Necessary Consequence (Lazim)
+If the claim were true, then a necessary consequence would follow: the Qur'an would not be entirely Arabic, because these terms appear in the Qur'an with those meanings. This is the consequent.
+Razi states: 'if their conveying of these meanings were not Arabic, it would necessarily follow that the entire Qur'an is not Arabic.'
+3
+Show the Falsity of the Consequence
+The consequence is clearly false because the Qur'an itself declares that it is Arabic (e.g., Surah Yusuf:2 and Surah Ibrahim:4). Therefore, the lazim is corrupt (fasid).
+In the argument, fasad al-lazim is established by two Quranic verses.
+4
+Apply Modus Tollens (or Reductio)
+Since the lazim is false, the malzum must also be false. Thus, the original claim—that the terms are not linguistic—is false. Therefore, the terms' indication is indeed linguistic (haqiqa).
+Razi concludes: 'the corruption of the entailer indicates the corruption of the entailed.'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ذلك ما استدل به الإمام فخر الدين الرازي، لقوله بأن إطلاق بعض الألفاظ اللغوية على معاني شرعية جديدة مجازًا، واشتهار هذه الألفاظ بدلالتها على هذه المعاني، يجعلها حقائق لغوية قال : المختار : إن إطلاق هذه الألفاظ على هذه المعاني على سبيل المجاز لا من الحقائق اللغوية .. لنا أي دليلنا : أن إفادة هذه الألفاظ لهذه المعاني لو لم تكن لغوية لما كان القرآن كله عربيا، وفساد اللازم يدل على فساد الملزوم. أما الملازمة، فلأن هذه الألفاظ مذكورة في القرآن فلو لم تكن إفادتها لهذه المعاني عربية لزم أن لا يكون القرآن كله عربيا .. وأما فساد اللازم، فلقوله تعالى : إِنَّا أَنزَلْنَاهُ قُرْءَانًا عَرَبِيًّا (سورة يوسف، الآية: 2)، وقوله تعالى: وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ (سورة إبراهيم، الآية: 4) (6)
+That is what Imam Fakhr al-Din al-Razi used as an argument for his saying that the application of some linguistic terms to new shar'i meanings is metaphorical, and the fame of these terms for indicating these meanings makes them linguistic realities. He said: The chosen view: The application of these terms to these meanings is by way of metaphor, not from linguistic realities ... Our argument: That the conveying of these meanings by these terms, if it were not linguistic, would entail that the entire Qur'an is not Arabic, and the corruption of the entailer indicates the corruption of the entailed. As for the entailment: because these terms are mentioned in the Qur'an, so if their conveying of these meanings were not Arabic, it would necessarily follow that the entire Qur'an is not Arabic. And as for the corruption of the entailer: because of His statement: 'Indeed, We have sent it down as an Arabic Qur'an' (Surah Yusuf, verse 2), and His statement: 'And We sent not a messenger except with the language of his people' (Surah Ibrahim, verse 4) (6).
+Source pages p. 218
+
+Commentary
+This passage presents Fakhr al-Din al-Razi's argument using mulazama to prove that certain Arabic terms, after being used extensively for new shar'i (legal) meanings, become linguistic realities (حقائق لغوية) rather than remaining metaphorical. The argument is structured as a conditional proof: If the terms' indication of the new meanings were not truly Arabic (i.e., if they remained merely metaphorical), then the Qur'an would not be entirely Arabic, because these terms appear in the Qur'an with those new meanings. But the Qur'an is entirely Arabic, as proven by two verses (Surah Yusuf:2 and Surah Ibrahim:4). Therefore, the antecedent is false, meaning the indication is indeed linguistic. Razi explicitly uses the terminology of mulazama: the entailment (ملازمة) is that if the indication were not Arabic, the Qur'an would not be entirely Arabic. The corollary (لازم) — that the Qur'an is not entirely Arabic — is false (فساد اللازم), which shows the falsity of the original claim (فساد الملزوم). Thus, the argument is a modus tollens (or reductio ad absurdum) relying on the concept of mulazama.
+
+Key Terms
+ملزوم
+لازم
+
+Key Terms from Source Passage
+
+Checkpoint
+In Razi's argument, what is the 'lazim' (entailed proposition) that he claims is false?
+A) That the terms are metaphorical
+B) That the Qur'an is not entirely Arabic
+C) That the terms are not mentioned in the Qur'an
+D) That the shar'i meanings are new
+
+Key Takeaway
+Al-Razi's mulazama argument shows that the falsity of a necessary consequence (lazim) can be used to refute a claim (malzum) in usul al-fiqh reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a similar mulazama argument to prove the validity of ijmā' (consensus) in Islamic law. Identify the malzum (the claim being opposed), the lazim (the necessary consequence of that claim), and show why the lazim is false using Islamic sources.
+?
+In the following passage from Al-Amidi's al-Ihkam fi Usul al-Ahkam, identify the malzum and lazim: 'If ijtihad were not permissible, then the Prophet (peace be upon him) would have left his community in error, but the ummah is preserved from error, so ijtihad is permissible.'
+
+Pages p. 218 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 470
+Module 8 · Lesson 6
+Next →
+Demonstration -- Burhan
+intermediate
+10 min
+The Quranic Proof for Ijma' and Three Objections
+Quranic proof for ijma' with three jadal objections and answers
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the Quranic proof for ijma' and analyze the three objections and responses in a dialectical jadal exchange.
+
+Core Idea
+The Quranic threat against following non-believers proves the authority of consensus.
+
+This passage from a usul al-fiqh work presents a classic jadal exchange: a proof for ijma' from Quran 4:115, followed by three objections from opponents and the author's responses. You will learn how the proof is constructed, what the objections challenge, and how the answers defend the proof.
+
+Guided Path
+1
+Identify the claimant's position
+The author (mudda'i) asserts that ijma' is a valid legal proof (hujja). He uses Quran 4:115 as evidence. Find the precise claim: that following the way of the believers is obligatory and therefore ijma' is authoritative.
+The passage begins by citing al-Amidi to establish that the majority accept ijma'; then the specific proof is given.
+2
+Reconstruct the proof's logical structure
+The verse threatens those who oppose the Prophet and follow other than the way of the believers. The author argues: (1) It is improper to combine a prohibited act and a permissible act in a single threat. (2) Opposing the Prophet is prohibited. (3) Therefore, following other than the way of the believers must also be prohibited. (4) If that is prohibited, following the believers' way is obligatory, which establishes ijma' as a proof.
+The key move is that the conjunction in the threat implies each conjunct is prohibited individually.
+3
+Analyze the first objection and response
+Objection: The threat is conditional on both actions together, so following non-believers is only prohibited when combined with opposing the Prophet. Response: The grammatical separation of the two clauses shows that the threat applies to each individually; otherwise the separation would be meaningless.
+The response relies on a linguistic argument about the structure of the verse.
+4
+Analyze the second objection and response
+Objection: The condition 'after guidance has become clear' applies to both conjuncts, so following non-believers is only prohibited when all guidance is clear. Response: The condition refers only to guidance in tawhid and prophethood, not subsidiary rulings, which is conceded.
+This narrows the scope of the condition, salvaging the proof for subsidiary matters.
+5
+Analyze the third objection and response
+Objection: The words 'other' (ghayr) and 'way' (sabil) are singular, so they do not imply generality; they only cover clear cases like disbelief. Response: In construct form (idafa), the singular implies generality, and the possibility of making an exception (istithna') proves that.
+This is a classic usul al-fiqh principle: idafa with a singular noun can indicate generality.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المطلب الأول : الاعتراضات من جهة الحجية
+أي أن يستدل مُدَّعُ بالإجماع في حكم مسألة من المسائل، فيواجهه المعترض بأن الإجماع لا يحتج به في الأحكام الشرعية، ولا يصلح دليلا تستنبط به الأحكام. والواقع أن حجية الإجماع هي محل اتفاق بين جمهور الأصوليين ولم يخالف في ذلك إلا شواذ لا اعتبار لرأيهم ولا سند له. قال الإمام سيف الدين الآمدي رحمه الله : اتَّفَقَ أَكْثَرُ الْمُسْلِمِينَ عَلَى أَنَّ الْإِجْمَاعَ حُجَّةٌ شَرْعِيَّةٌ يَجِبُ الْعَمَلُ بِهِ عَلَى كُلِّ مُسْلِمٍ، خِلَافًا لِلشِّيعَةِ، وَالْخَوَارِجِ، وَالنَّظَّامِ مِنَ الْمُعْتَزِلَةِ. وَقَدِ اسْتَدَلَّ عُلَمَاءُ الْأُصُولِ لِلْقَوْلِ بِحُجِّيَّةِ الْإِجْمَاعِ بِأَدِلَّةٍ كَثِيرَةٍ، وَهَذِهِ الْأَدِلَّةُ أُورِدَ عَلَيْهَا الْمُخَالِفُونَ جُمْلَةً مِنَ الِاعْتِرَاضَاتِ الَّتِي لَمْ تَرْقَ إِلَى دَرَجَةِ رَدِّ تِلْكَ الْأَدِلَّةِ أَوْ مَنْعِ الِاحْتِجَاجِ بِهَا، وَهَذِهِ الْأَدِلَّةُ وَالِاعْتِرَاضَاتُ مُفَصَّلَةٌ فِي كُتُبِ أُصُولِ الْفِقْهِ، وَنَكْتَفِي هُنَا بِإِيرَادِ دَلِيلٍ وَاحِدٍ مِنْهَا مَقْرُونًا بِالِاعْتِرَاضَاتِ عَلَيْهِ وَالرُّدُودِ عَلَى تِلْكَ الِاعْتِرَاضَاتِ.
+فَقَدِ اسْتَدَلَّ جُمْهُورُ الْأُصُولِيِّينَ لِلْقَوْلِ بِحُجِّيَّةِ الْإِجْمَاعِ مِنَ الْقُرْآنِ بِقَوْلِهِ تَعَالَى: وَمَن يُشَاقِقِ الرَّسُولَ مِن بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَىٰ وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ وَسَاءَتْ مَصِيرًا. وَوَجْهُ الِاحْتِجَاجِ بِالْآيَةِ، أَنَّ اللهَ تَعَالَى جَمَعَ بَيْنَ مُشَاقَّةِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَاتِّبَاعِ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ فِي الْوَعِيدِ، حَيْثُ قَالَ تَعَالَى: نُوَلِّهِ مَا تَوَلَّىٰ وَنُصْلِهِ جَهَنَّمَ...، فَيَلْزَمُ مِنْ ذَلِكَ أَنْ يَكُونَ اتِّبَاعُ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ مُحَرَّمًا، لِأَنَّهُ لَوْ لَمْ يَكُنْ حَرَامًا لَمَا جُمِعَ بَيْنَهُ وَبَيْنَ الْمُحَرَّمِ الَّذِي هُوَ الْمُشَاقَّةُ فِي الْوَعِيدِ، فَإِنَّهُ لَا يَحْسُنُ الْجَمْعُ بَيْنَ حَرَامٍ وَحَلَالٍ فِي وَعِيدٍ. وَإِذَا حُرِّمَ اتِّبَاعُ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ وَجَبَ اتِّبَاعُ سَبِيلِهِمْ، لِأَنَّهُ لَا مَخْرَجَ عَنْهُمَا، وَيَلْزَمُ مِنْ وُجُوبِ اتِّبَاعِ سَبِيلِ الْمُؤْمِنِينَ كَوْنُ الْإِجْمَاعِ حُجَّةً، لِأَنَّ الْمُرَادَ بِالسَّبِيلِ مَا يَخْتَارُونَهُ مِنْ قَوْلٍ أَوِ اعْتِقَادٍ أَوْ عَمَلٍ. وَقَدِ اعْتَرَضَ الْمُخَالِفُونَ عَلَى الِاسْتِدْلَالِ بِهَذِهِ الْآيَةِ، بِعِدَّةِ أَوْجُهٍ مِنَ الِاعْتِرَاضَاتِ نَخْتَارُ جُمْلَةً مِنْهَا مَقْرُونَةً بِالْأَجْوِبَةِ عَلَيْهَا:
+أَوَّلُهَا: أَنَّ اللهَ عَزَّ وَجَلَّ رَتَّبَ الْوَعِيدَ عَلَى اتِّبَاعِ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ وَمُشَاقَّةِ الرَّسُولِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَعًا، فَمُتَابَعَةُ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ مُحَرَّمَةٌ إِذَا اقْتَرَنَتْ بِمُشَاقَّةِ الرَّسُولِ.
+وَأُجِيبَ عَلَى هَذَا الِاعْتِرَاضِ، بِأَنَّ الْوَعِيدَ إِنَّمَا هُوَ مُرَتَّبٌ عَلَى كُلٍّ مِنْهُمَا، وَلَوْ لَمْ يَكُنِ الْأَمْرُ كَذَلِكَ لَمَا فُصِلَ بَيْنَهُمَا، فَإِذَا كَانَ الْفَصْلُ لِغَيْرِ مَعْنَى كَانَ ذَلِكَ لَغْوًا، وَاللَّغْوُ مُحَالٌ عَلَى اللهِ تَعَالَى.
+الثَّانِي: حَتَّى مَعَ التَّسْلِيمِ بِأَنَّ الْوَعِيدَ مُرَتَّبٌ عَلَى كُلٍّ مِنْهُمَا، لَكِنْ لَا نُسَلِّمُ تَحْرِيمَ اتِّبَاعِ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ مُطْلَقًا، بَلْ بِشَرْطِ تَبَيُّنِ الْهُدَى، لِأَنَّ تَبَيُّنَ الْهُدَى شَرْطٌ فِي الْمَعْطُوفِ عَلَيْهِ لِقَوْلِهِ تَعَالَى: ... مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدَى...، فَيَكُونُ أَيْضًا شَرْطًا فِي الْمَعْطُوفِ لِكَوْنِهِ فِي حُكْمِهِ، فَتَكُونُ حُرْمَةُ اتِّبَاعِ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ مُتَوَقِّفَةً عَلَى تَبَيُّنِ جَمِيعِ أَنْوَاعِ الْهُدَى. وَأُجِيبَ عَلَى هَذَا الِاعْتِرَاضِ بِأَنَّ الْقَوْلَ بِأَنَّ الشَّرْطَ فِي الْمَعْطُوفِ عَلَيْهِ شَرْطٌ فِي الْمَعْطُوفِ لَا يَضُرُّ، فَإِنَّهُ لَا نِزَاعَ فِي أَنَّ الْهُدَى الْمَشْرُوطَ فِي تَحْرِيمِ الْمُشَاقَّةِ إِنَّمَا هُوَ دَلِيلُ التَّوْحِيدِ وَالنُّبُوَّةِ، لَا أَدِلَّةُ الْأَحْكَامِ الْفَرْعِيَّةِ، فَيَكُونُ هَذَا الْهُدَى شَرْطًا فِي اتِّبَاعِ غَيْرِ سَبِيلِ الْمُؤْمِنِينَ، وَهُوَ مُسَلَّمٌ.
+الثَّالِثُ: مَعَ التَّسْلِيمِ بِأَنَّ قَوْلَ اللهِ تَعَالَى: ... وَيَتَّبِعْ غَيْرَ سَبِيلِ الْمُؤْمِنِينَ... يُوجِبُ تَحْرِيمَ الْمُخَالَفَةِ، لَكِنْ لَفْظَا (غَيْر) وَ (سَبِيل) مُفْرَدَانِ، وَالْمُفْرَدُ لَا يُوجِبُ ذَلِكَ تَحْرِيمَ كُلِّ مَا غَايَرَ سَبِيلَهُمْ، بَلْ يَصْدُقُ عَلَى صُورَةٍ مُتَّفَقٍ عَلَيْهَا وَهِيَ صُورَةُ الْكُفْرِ وَنَحْوِهِ مِمَّا لَا خِلَافَ فِيهِ.
+وَالْجَوَابُ: أَنَّهُ وَإِنْ كَانَ مُفْرَدًا إِلَّا أَنَّهُ يَقْتَضِي الْعُمُومَ لِأَنَّهُ مُضَافٌ، وَيَدُلُّ عَلَيْهِ الِاسْتِثْنَاءُ مِنْهُ فَيُقَالُ إِلَّا سَبِيلَ كَذَا، وَالِاسْتِثْنَاءُ مِعْيَارُ الْعُمُومِ.
+The first topic: Objections concerning authority. That is, a claimant uses consensus (ijma') as evidence for a ruling on an issue, then the objector faces him by saying that consensus is not used as evidence in legal rulings and is not suitable as a proof from which rulings are derived. In fact, the authoritativeness of consensus is a point of agreement among the majority of legal theorists, and only a few deviants whose opinion is not considered and has no support disagreed. Imam Sayf al-Din al-Amidi, may Allah have mercy on him, said: 'The majority of Muslims agree that consensus is a legal proof that every Muslim must act upon, contrary to the Shi'a, the Khawarij, and al-Nazzam from the Mu'tazila.' The scholars of usul have argued for the authority of consensus with many proofs. The opponents have raised a number of objections to these proofs, which did not reach the level of refuting those proofs or preventing their use as evidence. These proofs and objections are detailed in books of usul al-fiqh, and we suffice here to present one proof accompanied by the objections against it and the responses to those objections.
+The majority of legal theorists argued for the authority of consensus from the Qur'an by His saying, may He be exalted: 'And whoever opposes the Messenger after guidance has become clear to him and follows other than the way of the believers - We will give him what he has taken and cause him to enter Hell, and evil is the destination.' [Quran 4:115] The aspect of argument from the verse is that Allah, may He be exalted, combined opposing the Messenger, may Allah bless him and grant him peace, and following other than the way of the believers in the threat, where He said: 'We will give him what he has taken and cause him to enter Hell...' Therefore, it necessarily follows that following other than the way of the believers is prohibited, because if it were not prohibited, it would not have been combined with the prohibited act, which is opposition, in the threat. For it is not proper to combine a prohibited and a permissible act in a threat. And if following other than the way of the believers is prohibited, then following their way is obligatory, because there is no escape from the two. And from the obligation of following the way of the believers necessarily follows that consensus is a proof, because what is meant by 'way' is what they choose of statement, belief, or action.
+The opponents have objected to using this verse as evidence with several aspects of objections. We select a number of them accompanied by the answers to them:
+The first: That Allah, may He be exalted and glorified, made the threat conditional on following other than the way of the believers and opposing the Messenger together. So following other than the way of the believers is prohibited only when combined with opposing the Messenger.
+The answer to this objection is that the threat is actually made conditional on each one of them; and if it were not so, there would be no separation between them. So if the separation is without meaning, that would be meaningless, and meaninglessness is impossible for Allah, may He be exalted.
+The second: Even if we concede that the threat is conditional on each one of them, we do not concede that following other than the way of the believers is absolutely prohibited, but only with the condition that guidance has become clear, because the clarification of guidance is a condition in the first conjunct due to His saying: '...after guidance has become clear to him...', so it is also a condition in the second conjunct because it is under its ruling. So the prohibition of following other than the way of the believers depends on the clarification of all types of guidance.
+The answer to this objection is that the statement that the condition in the first conjunct is a condition in the second conjunct does no harm. For there is no dispute that the guidance that is a condition for prohibiting opposition is only the evidence for tawhid and prophethood, not the evidence for subsidiary rulings. So this guidance is a condition for following other than the way of the believers, and that is conceded.
+The third: Even if we concede that Allah's saying: '...and follows other than the way of the believers...' necessitates the prohibition of opposition, the two words 'other' (ghayr) and 'way' (sabil) are singular, and the singular does not necessitate the prohibition of everything that differs from their way. Rather, it applies to an agreed-upon case, which is the case of disbelief and the like, about which there is no dispute.
+The answer: That even if it is singular, it implies generality because it is in construct form. And the exception from it indicates that, for it is said 'except such-and-such way', and the exception is the criterion of generality.
+Source pages p. 470
+
+Commentary
+This passage is a dialectical exchange about the authority of ijma' (consensus) as a proof in Islamic law. The author first establishes that the majority of scholars accept ijma' as a valid proof, citing al-Amidi. Then he selects one specific proof from the Qur'an (verse 4:115) and presents three objections along with their answers.
+
+The proof: The verse threatens those who oppose the Prophet and follow other than the way of the believers. Since it would be improper to combine a prohibited act (opposing the Prophet) with a permissible act in a single threat, following other than the way of the believers must also be prohibited. And if that is prohibited, following the believers' way is obligatory, which establishes ijma' as a proof.
+
+The first objection: The threat is conditional on both actions together, so following non-believers is only prohibited when combined with opposing the Prophet. The answer: The grammatical structure (separation of the two clauses) shows that the threat applies to each individually; otherwise the separation would be meaningless.
+
+The second objection: Even if the threat applies to each, the condition 'after guidance has become clear' applies to both actions. So following non-believers is only prohibited when all types of guidance are clear, which would be impossible for subsidiary rulings. The answer: The condition refers only to the guidance of tawhid and prophethood, not to every detail, and this is agreed upon.
+
+The third objection: The words 'other' and 'way' are singular, so they do not imply generality; they only cover clear cases like disbelief. The answer: When a singular noun is in construct (idafa) it implies generality, as shown by the possibility of making an exception from it.
+
+All examples here are from the Islamic sciences: the verse itself, the discussion of tawhid and prophethood, and the concepts of consensus and legal rulings.
+
+Key Terms
+الإجماع
+الحجية
+سبيل المؤمنين
+الوعيد
+
+Key Terms from Source Passage
+
+Checkpoint
+In the third objection, the opponent argues that the words 'غير' and 'سبيل' are singular and thus do not imply generality. What is the author's response?
+A) The words are actually plural in meaning.
+B) The singular in construct form implies generality, and the possibility of exception proves it.
+C) The context makes them general because the verse threatens all forms of following other ways.
+D) The objection is invalid because the verse is clear.
+
+Key Takeaway
+The dialectical exchange over ijma' shows that a proof's strength lies not only in its initial formulation but in its ability to withstand systematic objections.
+
+How This Lesson Applies — to MY Life?
+?
+Reconstruct the argument from the verse in your own words, showing how the threat implies the prohibition of following non-believers.
+?
+Choose one objection and its answer, and explain in jadal terms who wins the exchange and why.
+
+Pages p. 470 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →

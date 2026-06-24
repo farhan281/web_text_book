@@ -1,0 +1,467 @@
+← Prev
+p. 404
+Module 7 · Lesson 51
+Next →
+Division and Classification
+intermediate
+7 min
+Rational Division: Logical Necessity in Disjunction
+Author defines rational division with example and notes on contradictory equivalents.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a rational division in a logical text by recognizing its disjunctive form and distinguishing between the proper contradictory (naqid) and its equivalent.
+
+Core Idea
+Rational division excludes other possibilities by logical necessity alone.
+
+In logic, some divisions are rationally necessary: the divided concept must fall into one of two contradictory categories. This lesson explains how rational division is expressed and why even equivalents like 'odd' for 'not even' can be used.
+
+Guided Path
+1
+Identify the disjunction form
+Look for the phrase 'إما ... وإما ...' (either ... or ...) in the Arabic. Rational division always uses this structure between affirmation and negation.
+The disjunction must be between contradictory opposites (naqid) or their equivalents.
+2
+Locate the contradictory pair
+Determine if the second term is the exact logical contradictory (naqid) of the first, e.g., 'even' vs 'not even'. If not, check if it is an equivalent (musawi al-naqid) like 'odd' for 'not even'.
+The author notes that 'odd' is not the contradictory but is treated as equal for practical purposes.
+3
+Confirm no other division is logically possible
+Rational division excludes any third possibility by the law of excluded middle. Reason alone suffices to enforce the division.
+This distinguishes it from inductive division, which requires external observation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والأصل في التقسيم العقلي أن يؤتى به على صيغة الترديد بين الإثبات والنفي، مثل: العدد إما زوج وإما لا، باعتبار أن النفي هو نقيض الإثبات، ولكن قد يؤتى بما يساوي النقيض فيقال مثلاً : العدد إما زوج وإما فرد، فالفرد في الحقيقة ليس هو النقيض، ولكنه مساوي النقيض . التقسيم الاستقرائي : هو ما لا يمنع العقل فيه بمجرده وجود قسم آخر غير ما ورد في التقسيم، لكنه إذا نظر إلى الأقسام الموجودة فعلاً في الخارج، بناء على ما أثبته الاستقراء الصحيح، فإنه يحكم بانتفاء وجود أي قسم آخر، فحكم العقل بانحصار المقسم في أقسامه هنا، تابع لما يثبته استقراء الواقع في الوجود الخارجي، وليس مستنداً إلى نظرته المجردة عن ملاحظة الوجود الخارجي . الأمثلة : ١ - الكلمة تنقسم إلى ثلاثة أقسام : اسم وفعل وحرف . فالعقل المجرد لا يمنع من وجود قسم رابع، إلا أن استقراء واقع الكلام العربي في الوجود الخارجي، أثبت انحصار الكلمة في هذه الأقسام الثلاثة . ٢ - الكواكب السيارة التابعة للشمس تسعة وهي : عطارد، فالزهرة، فالأرض، فالمريخ، فالمشتري، فزحل، فأورانس، فنبتون، فبلوتو. والعقل لا يمنع من وجود كوكب أو كواكب أخرى، إلا أن استقراء واقع التوابع للشمس في الوجود الخارجي أثبت انحصارها في هذه الكواكب التسع، ويضاف إليها كوكب عاشر بين المريخ والمشتري، إلا أنه انفجر وغدا كتلاً صغيرة متناثرة. والأصل في التقسيم الاستقرائي أن لا يؤتى به على صيغة الترديد بين الإثبات والنفي، تخصيصاً لهذه الصيغة بالتقسيم العقلي .
+The principle in rational division is that it is presented in the form of disjunction between affirmation and negation, like: 'Number is either even or not', considering that negation is the contradictory of affirmation. But sometimes what is equivalent to the contradictory is presented, so one says for example: 'Number is either even or odd', for odd is in reality not the contradictory, but it is equivalent to the contradictory. Inductive division: it is what does not prevent, by reason alone, the existence of another division besides what is mentioned in the division, but when one looks at the existing divisions actually in external existence, based on what sound induction establishes, then reason judges the non-existence of any other division. So reason's judgment about the restriction of the divided to its divisions here is dependent on what the induction of reality in external existence establishes, and is not based on its abstract view without consideration of external existence. Examples: 1. The word is divided into three divisions: noun, verb, and particle. Abstract reason does not preclude the existence of a fourth division, but induction of the reality of Arabic speech in external existence established the restriction of the word to these three divisions. 2. The planets subordinate to the sun are nine: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Reason does not preclude the existence of another planet or planets, but induction of the reality of the subordinates of the sun in external existence established their restriction to these nine planets, and a tenth planet is added between Mars and Jupiter, except that it exploded and became small scattered masses. The principle in inductive division is that it is not presented in the form of disjunction between affirmation and negation, assigning this form exclusively to rational division.
+Source pages p. 404
+
+Commentary
+This passage defines two types of division in logic: rational ('aqli) and inductive (istiqra'i). Rational division is expressed as a disjunction between affirmation and negation, for example 'a number is either even or not even'. The negation here is the proper contradictory (naqid). Sometimes something equivalent to the contradictory is used, like 'odd' instead of 'not even', because odd is not the contradictory but its equivalent. Inductive division does not rely on reason alone to exclude other divisions; rather, it looks at what actually exists externally based on sound induction. Reason then judges that no other division exists because induction has shown it. Two examples are given: (1) The word in Arabic is divided into noun, verb, and particle. Reason alone could allow a fourth type, but induction of actual Arabic speech shows only these three. (2) The nine planets (including Pluto, then considered a planet) are listed; reason does not preclude others, but induction shows only these nine. A note adds that a tenth planet between Mars and Jupiter exploded into asteroids. The key principle: inductive division should not be phrased as a disjunction; that form is reserved for rational division.
+
+Key Terms
+التقسيم العقلي
+النقيض
+مساوي النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is an example of a rational division?
+A) The word is either noun, verb, or particle.
+B) Number is either even or not even.
+C) The planets are nine.
+D) None of the above.
+
+Key Takeaway
+Rational division is logically necessary and expressed as a disjunction between a term and its contradictory (or an equivalent).
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Every Arabic word is either mabni or mu'rab.' Is this a rational division? Justify your answer using the criteria from the passage.
+?
+Find another example of a rational division from Islamic sciences (e.g., in fiqh: an action is either wajib or not wajib). Write it in the disjunction form.
+
+Pages p. 404 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 404
+Module 7 · Lesson 52
+Next →
+Division and Classification
+intermediate
+8 min
+Inductive Division: Empirical Categories in Logic
+Author defines inductive division with two examples and a principle about its phrasing.
+
+Learning Objective
+By the end of this lesson, you will be able to identify an inductive division by its reliance on empirical observation rather than a priori necessity, and explain why it should not be phrased as a disjunction.
+
+Core Idea
+Inductive division depends on what actually exists, not on pure reason.
+
+Not all divisions are logically necessary. Some are discovered by examining the real world. This lesson introduces inductive division, where reason defers to induction (istiqra') to determine the actual categories.
+
+Guided Path
+1
+Identify the claim of division
+Look for a statement that divides a concept into specific parts, e.g., 'the word is divided into noun, verb, and particle'.
+The division may seem comprehensive, but we must check its basis.
+2
+Note that reason alone does not preclude other divisions
+The author emphasizes that 'abstract reason does not preclude the existence of a fourth division'. This is the hallmark of inductive division.
+Contrast with rational division where reason forces only two options.
+3
+Find the evidence from induction
+The text says 'induction of the reality of Arabic speech in external existence established the restriction'. Look for the empirical basis.
+The division is accepted because observation shows no other categories exist.
+4
+Check that it is NOT phrased as a disjunction
+The author explicitly states that inductive division should not be presented as a disjunction between affirmation and negation. That form is reserved for rational division.
+If you see 'إما ... وإما ...' in a division, it is likely rational, not inductive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والأصل في التقسيم العقلي أن يؤتى به على صيغة الترديد بين الإثبات والنفي، مثل: العدد إما زوج وإما لا، باعتبار أن النفي هو نقيض الإثبات، ولكن قد يؤتى بما يساوي النقيض فيقال مثلاً : العدد إما زوج وإما فرد، فالفرد في الحقيقة ليس هو النقيض، ولكنه مساوي النقيض . التقسيم الاستقرائي : هو ما لا يمنع العقل فيه بمجرده وجود قسم آخر غير ما ورد في التقسيم، لكنه إذا نظر إلى الأقسام الموجودة فعلاً في الخارج، بناء على ما أثبته الاستقراء الصحيح، فإنه يحكم بانتفاء وجود أي قسم آخر، فحكم العقل بانحصار المقسم في أقسامه هنا، تابع لما يثبته استقراء الواقع في الوجود الخارجي، وليس مستنداً إلى نظرته المجردة عن ملاحظة الوجود الخارجي . الأمثلة : ١ - الكلمة تنقسم إلى ثلاثة أقسام : اسم وفعل وحرف . فالعقل المجرد لا يمنع من وجود قسم رابع، إلا أن استقراء واقع الكلام العربي في الوجود الخارجي، أثبت انحصار الكلمة في هذه الأقسام الثلاثة . ٢ - الكواكب السيارة التابعة للشمس تسعة وهي : عطارد، فالزهرة، فالأرض، فالمريخ، فالمشتري، فزحل، فأورانس، فنبتون، فبلوتو. والعقل لا يمنع من وجود كوكب أو كواكب أخرى، إلا أن استقراء واقع التوابع للشمس في الوجود الخارجي أثبت انحصارها في هذه الكواكب التسع، ويضاف إليها كوكب عاشر بين المريخ والمشتري، إلا أنه انفجر وغدا كتلاً صغيرة متناثرة. والأصل في التقسيم الاستقرائي أن لا يؤتى به على صيغة الترديد بين الإثبات والنفي، تخصيصاً لهذه الصيغة بالتقسيم العقلي .
+The principle in rational division is that it is presented in the form of disjunction between affirmation and negation, like: 'Number is either even or not', considering that negation is the contradictory of affirmation. But sometimes what is equivalent to the contradictory is presented, so one says for example: 'Number is either even or odd', for odd is in reality not the contradictory, but it is equivalent to the contradictory. Inductive division: it is what does not prevent, by reason alone, the existence of another division besides what is mentioned in the division, but when one looks at the existing divisions actually in external existence, based on what sound induction establishes, then reason judges the non-existence of any other division. So reason's judgment about the restriction of the divided to its divisions here is dependent on what the induction of reality in external existence establishes, and is not based on its abstract view without consideration of external existence. Examples: 1. The word is divided into three divisions: noun, verb, and particle. Abstract reason does not preclude the existence of a fourth division, but induction of the reality of Arabic speech in external existence established the restriction of the word to these three divisions. 2. The planets subordinate to the sun are nine: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto. Reason does not preclude the existence of another planet or planets, but induction of the reality of the subordinates of the sun in external existence established their restriction to these nine planets, and a tenth planet is added between Mars and Jupiter, except that it exploded and became small scattered masses. The principle in inductive division is that it is not presented in the form of disjunction between affirmation and negation, assigning this form exclusively to rational division.
+Source pages p. 404
+
+Commentary
+This passage defines two types of division in logic: rational ('aqli) and inductive (istiqra'i). Rational division is expressed as a disjunction between affirmation and negation, for example 'a number is either even or not even'. The negation here is the proper contradictory (naqid). Sometimes something equivalent to the contradictory is used, like 'odd' instead of 'not even', because odd is not the contradictory but its equivalent. Inductive division does not rely on reason alone to exclude other divisions; rather, it looks at what actually exists externally based on sound induction. Reason then judges that no other division exists because induction has shown it. Two examples are given: (1) The word in Arabic is divided into noun, verb, and particle. Reason alone could allow a fourth type, but induction of actual Arabic speech shows only these three. (2) The nine planets (including Pluto, then considered a planet) are listed; reason does not preclude others, but induction shows only these nine. A note adds that a tenth planet between Mars and Jupiter exploded into asteroids. The key principle: inductive division should not be phrased as a disjunction; that form is reserved for rational division.
+
+Key Terms
+التقسيم الاستقرائي
+الاستقراء
+الانحصار
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is a correct statement about inductive division?
+A) It is phrased as a disjunction between affirmation and negation.
+B) It excludes other divisions by logical necessity.
+C) It relies on induction of external existence to establish the restriction.
+D) It is identical to rational division in form.
+
+Key Takeaway
+Inductive division relies on empirical observation and should not be expressed as a disjunction; it is contingent on what actually exists externally.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the division of Arabic sentences into جُمْلَة اِسْمِيَّة (nominal sentence) and جُمْلَة فِعْلِيَّة (verbal sentence). Is this a rational or inductive division? Explain by applying the criteria from the passage.
+?
+Give an example of an inductive division from fiqh, such as the types of water (طَاهِر, طَهُور, etc.) and explain why it is inductive rather than rational.
+
+Pages p. 404 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 405
+Module 7 · Lesson 53
+Next →
+Division and Classification
+intermediate
+7 min
+Objections to Division of Whole into Parts
+First category of objections: division of whole into parts.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and formulate objections to a division of a whole into parts based on the conditions of exhaustiveness and mutual exclusivity.
+
+Core Idea
+A valid division of a whole requires covering all parts and excluding all non-parts.
+
+In logical debates, after a division is presented, the opponent (mustadill) can challenge its validity. The first category deals with dividing a whole into its parts. Two key conditions must hold: the division must be exhaustive (حصریت) and the parts must be mutually exclusive (تباین). This lesson explores the two corresponding objections.
+
+Guided Path
+1
+Identify the whole and its parts
+Determine what is being divided (the whole) and what the proposed parts are. For example, 'human' divided into 'body' and 'soul'.
+2
+Check exhaustiveness
+Does the division include all parts of the whole? Or does it allow anything that is not a part to be included? Both are violations of exhaustiveness.
+Non-exhaustive can be due to missing a part (not جامع) or including a non-part (not مانع).
+3
+Check mutual exclusivity
+Are the parts distinct from each other? Is any part not distinct from the whole? If a part is not distinct (i.e., it is essentially the same as the whole), the division fails.
+The condition also requires that no part overlaps with another part.
+4
+Formulate the objection
+State which condition is violated and how. For example: 'The division is non-exhaustive because it omits part X' or 'The parts are not mutually exclusive because part A and part B overlap.'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ب - يُوجّه الاعتراض على التقسيم بما يخالف شروطه التي سبق بيانها.
+(فللمستدل) أن يعترض على تقسيم الكل إلى أجزائه بأحد اعتراضين:
+الأول: بأن التقسيم غير حاصر، إما لأنه غير جامع لكل أقسام المَقْسِم،
+وإما لأنه غير مانع من دخول غير أقسامه فيه.
+الثاني: بأن الأقسام غير متباينة، أو أحدها غير مباين للمَقْسِم.
+(وللمستدل) أن يعترض على تقسيم الكلي إلى جزئياته بأحد
+الاعتراضات الثلاثة التالية:
+الأول: بأن التقسيم غير حاصر، وذلك بأن يذكر المستدل قسماً آخر
+يُجيزه العقل، إن كان التقسيم عقلياً، أو يذكر قسماً متحقق الوقوع في
+الخارج، إن كان التقسيم استقرائياً، أو يبين أن أحد الأقسام التي ذكرها
+صاحب التقسيم، ليس جزئياً من جزئيات الكلي، فالتقسيم غير مانع من
+دخول ما ليس من جزئيات المَقْسِم.
+الثاني: بأن أحد الأقسام ليس أخص مطلقاً من المَقْسِم.
+الثالث: بأن الأقسام غير متباينة.
+B - The objection is directed against the division in accordance with what violates its conditions that were previously explained. (So the interrogator) may object to the division of the whole into its parts in one of two ways: First: that the division is not exhaustive, either because it does not include all the divisions of the dividend, or because it does not exclude what is not among its divisions from entering into it. Second: that the divisions are not mutually exclusive, or one of them is not distinct from the dividend. (And the interrogator) may object to the division of the universal into its particulars in one of the following three ways: First: that the division is not exhaustive, by the interrogator mentioning another division that the mind allows, if the division is rational, or mentioning a division that actually occurs in the external world, if the division is inductive, or by showing that one of the divisions mentioned by the author of the division is not a particular among the particulars of the universal, so the division does not exclude what is not among the particulars of the dividend from entering. Second: that one of the divisions is not absolutely more specific than the dividend. Third: that the divisions are not mutually exclusive.
+Source pages p. 405
+
+Commentary
+This passage outlines the types of objections that can be raised against a logical division (taqseem). It distinguishes between two categories of division: division of a whole into its parts (qismat al-kull ila ajza'ihi) and division of a universal into its particulars (qismat al-kulli ila juz'iyyatihi). For the first category, there are two possible objections: the division is not exhaustive (ghayr hasir) meaning either it does not include all parts or it allows entry of non-parts, and the parts are not mutually exclusive (ghayr mutabayina) or one part is not distinct from the whole. For the second category, there are three objections: the division is not exhaustive (explained in detail), one of the particulars is not absolutely more specific than the universal, and the particulars are not mutually exclusive. These conditions correspond to the classical requirements of a valid division: completeness (ihata), exclusivity (mana'), and distinctness (tabayun).
+
+Key Terms
+تقسيم
+مستدل
+مانع
+حاصر
+متباين
+
+Key Terms from Source Passage
+
+Checkpoint
+A scholar divides 'obligatory acts' into 'prayer, fasting, and zakat'. An opponent objects: 'This division is not exhaustive because it allows charity to be considered an obligatory act.' Which of the two objections to division of whole into parts is being raised?
+A) Non-exhaustive due to missing a part
+B) Non-exhaustive due to including a non-part
+C) Parts not mutually exclusive
+D) One part not distinct from the whole
+
+Key Takeaway
+When dividing a whole into parts, objections target either the failure to cover all parts (exhaustiveness) or the failure to keep parts distinct (mutual exclusivity).
+
+How This Lesson Applies — to MY Life?
+?
+Consider a division: 'Knowledge is either acquired or innate.' Is this a division of a whole into parts? Identify all possible objections from this lesson.
+?
+In a debate, a scholar divides 'Sunnah acts' into 'verbal and physical'. An opponent says this division is non-exhaustive because it omits 'spiritual Sunnah acts'. Which subtype of objection is this? How would you formulate the objection?
+
+Pages p. 405 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 405
+Module 7 · Lesson 54
+Next →
+Division and Classification
+intermediate
+8 min
+Objections to Division of Universal into Particulars
+Second category: three objections to division of universal into particulars.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and formulate the three types of objections to a division of a universal into its particulars.
+
+Core Idea
+A universal must be divided into particulars that are exhaustive, absolutely more specific, and mutually exclusive.
+
+The second category of objections applies when a universal (كلي) is divided into its particulars (جزئيات). The conditions are stricter: the division must be exhaustive, each particular must be absolutely more specific than the universal, and the particulars must be mutually exclusive. This lesson unpacks the three corresponding objections.
+
+Guided Path
+1
+Identify the universal and its particulars
+Determine the universal (e.g., 'animal') and the proposed particulars (e.g., 'human', 'horse').
+2
+Check exhaustiveness again
+Is the division exhaustive? For rational divisions, the opponent can propose another mentally possible particular. For inductive divisions, the opponent can give an actual existing particular. Also, if one of the proposed particulars is not actually a particular of the universal (i.e., it does not fall under it), then the division is not exclusive (non-mani').
+Non-exhaustive here can be omission or inclusion of a non-particular.
+3
+Check absolute specificity
+Each particular must be absolutely more specific (أخص مطلقاً) than the universal. That is, every instance of the particular is an instance of the universal, but not vice versa. If a particular is coextensive with the universal or broader, it fails.
+E.g., 'human' is absolutely more specific than 'animal'; but 'rational animal' might be equal to human, so it fails as a particular of 'animal' if 'animal' is already a universal.
+4
+Check mutual exclusivity
+The particulars must be mutually exclusive (متباينة). No individual can belong to two different particulars. Overlap invalidates the division.
+E.g., 'human' and 'horse' are mutually exclusive; 'human' and 'rational animal' are not.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ب - يُوجّه الاعتراض على التقسيم بما يخالف شروطه التي سبق بيانها.
+(فللمستدل) أن يعترض على تقسيم الكل إلى أجزائه بأحد اعتراضين:
+الأول: بأن التقسيم غير حاصر، إما لأنه غير جامع لكل أقسام المَقْسِم،
+وإما لأنه غير مانع من دخول غير أقسامه فيه.
+الثاني: بأن الأقسام غير متباينة، أو أحدها غير مباين للمَقْسِم.
+(وللمستدل) أن يعترض على تقسيم الكلي إلى جزئياته بأحد
+الاعتراضات الثلاثة التالية:
+الأول: بأن التقسيم غير حاصر، وذلك بأن يذكر المستدل قسماً آخر
+يُجيزه العقل، إن كان التقسيم عقلياً، أو يذكر قسماً متحقق الوقوع في
+الخارج، إن كان التقسيم استقرائياً، أو يبين أن أحد الأقسام التي ذكرها
+صاحب التقسيم، ليس جزئياً من جزئيات الكلي، فالتقسيم غير مانع من
+دخول ما ليس من جزئيات المَقْسِم.
+الثاني: بأن أحد الأقسام ليس أخص مطلقاً من المَقْسِم.
+الثالث: بأن الأقسام غير متباينة.
+B - The objection is directed against the division in accordance with what violates its conditions that were previously explained. (So the interrogator) may object to the division of the whole into its parts in one of two ways: First: that the division is not exhaustive, either because it does not include all the divisions of the dividend, or because it does not exclude what is not among its divisions from entering into it. Second: that the divisions are not mutually exclusive, or one of them is not distinct from the dividend. (And the interrogator) may object to the division of the universal into its particulars in one of the following three ways: First: that the division is not exhaustive, by the interrogator mentioning another division that the mind allows, if the division is rational, or mentioning a division that actually occurs in the external world, if the division is inductive, or by showing that one of the divisions mentioned by the author of the division is not a particular among the particulars of the universal, so the division does not exclude what is not among the particulars of the dividend from entering. Second: that one of the divisions is not absolutely more specific than the dividend. Third: that the divisions are not mutually exclusive.
+Source pages p. 405
+
+Commentary
+This passage outlines the types of objections that can be raised against a logical division (taqseem). It distinguishes between two categories of division: division of a whole into its parts (qismat al-kull ila ajza'ihi) and division of a universal into its particulars (qismat al-kulli ila juz'iyyatihi). For the first category, there are two possible objections: the division is not exhaustive (ghayr hasir) meaning either it does not include all parts or it allows entry of non-parts, and the parts are not mutually exclusive (ghayr mutabayina) or one part is not distinct from the whole. For the second category, there are three objections: the division is not exhaustive (explained in detail), one of the particulars is not absolutely more specific than the universal, and the particulars are not mutually exclusive. These conditions correspond to the classical requirements of a valid division: completeness (ihata), exclusivity (mana'), and distinctness (tabayun).
+
+Key Terms
+تقسيم
+مستدل
+حاصر
+أخص مطلق
+متباين
+
+Key Terms from Source Passage
+
+Checkpoint
+A scholar divides 'types of prayer' into 'fard, sunnah, nafl'. An opponent objects that 'fard' is not absolutely more specific than 'prayer' because all fard is prayer but not all prayer is fard. Is this a valid objection?
+A) Yes, because fard is absolutely more specific
+B) No, because fard is absolutely more specific (it is a proper subset)
+C) Yes, because fard is coextensive with prayer
+D) No, because this objection only applies to rational divisions
+
+Key Takeaway
+A division of a universal into particulars must meet three conditions: exhaustive, each particular absolutely more specific, and all particulars mutually exclusive.
+
+How This Lesson Applies — to MY Life?
+?
+A scholar divides 'types of water' used in wudu into 'rainwater, river water, well water'. Identify which of the three objections could be raised and formulate it.
+?
+In a debate, someone divides 'sources of Islamic law' into 'Qur'an, Sunnah, Ijma, Qiyas'. An opponent claims that 'Qiyas' is not absolutely more specific than 'sources of Islamic law' because it is a method, not a source. Which objection is being used?
+
+Pages p. 405 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 412
+Module 7 · Lesson 55
+Next →
+Division and Classification
+intermediate
+6 min
+Responding to Objections in Taqseem
+Author explains the dialectical rules for taqseem objections.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules for responding to objections in taqseem within a munazara context, choosing the appropriate response based on the nature of the objection.
+
+Core Idea
+A flawed division can be rescued either by correction or by clarifying intent.
+
+In scholarly disputation (munazara), divisions (taqseem) are common tools for clarifying concepts. But what happens when an objector points out a flaw? This lesson teaches you the two legitimate responses a proponent can make: either accept the objection and correct the division, or reject it by clarifying the intended meaning of key terms. You will also learn when the discussion shifts to debating new claims.
+
+Guided Path
+1
+Identify the condition violated
+Look at the objection and determine which condition of a valid division is at stake: comprehensiveness (hasir), distinctness (tabayun), or proper specificity. For example, if the objector claims an overlap between two parts, the condition of tabayun is violated.
+Refer to the footnote conditions in the passage.
+2
+Assess the proponent's first option: accept and correct
+If the objection is valid and clearly shows a flaw, the proponent should agree and either modify the division or propose a new one that meets all conditions. This resolves the dispute.
+This is the preferable response if the division is genuinely flawed.
+3
+Assess the proponent's second option: reject by clarifying
+If the proponent believes the objection is based on a misunderstanding, he can reject it by clarifying his intended meaning of the divided thing (muqsam), the parts (aqsam), the division itself, or the doctrinal school (madhhab) underlying it. This may involve redefining terms or providing context.
+The rejection must be substantive, not a mere denial.
+4
+Check for new claims from the objector
+After the proponent's response, the objector's speech may contain unsupported claims (da'awa ghayr musallama). If so, the debate shifts from the division to those new claims, now requiring proofs for them. Recognize this shift.
+This is a common escalation in munazara.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الأقسام، فإذا كان التقسيم مستوفياً شروطه(۱) التي سبق بيانها، وجب التسليم بصحته، وإذا كان فيه إخلال بشرط من الشروط، أو لا ينطبق على نوعه، كان للمعترض أن يوجه اعتراضه، متضمناً بيان الخلل الذي رآه في التقسيم، ومتضمناً الدليل على ذلك، وكان له أن يُعلن فساد التقسيم، بناء على ما فيه من خلل . وموقف صاحب التقسيم أمام اعتراض (المستدل) يتلخص بواحد من أمرين : الأول : أن يعلن موافقته على الاعتراض ويُسَلّم به، ويعدل إلى تقسيم آخر، أو يصحح تقسيمه . الثاني : أن يمنع الاعتراض بتحرير مراده من المَقْسِم، أو الأقسام، أو التقسيم، أو المذهب العلمي الذي بنى عليه التقسيم . وللمانع صاحب التقسيم أن يجيب على اعتراض المستدل بأكثر من جواب، محرراً مراده من المقسم، ومن الأقسام، ومن التقسيم، ومن المذهب العلمي الذي بنى عليه تقسيمه . وقد يكون كلام المعترض مشتملاً على دعاوى غير مسلمة، فلصاحب التقسيم عندئذ أن يمنعها، وتتحول المناظرة حينئذ إلى المناظرة في التصديقات، حول دعاوى جديدة أوردها المعترض (المستدل). (۱) تقسيم الكل إلى أجزائه يشترط فيه أن يكون حاصراً، أي : جامعاً مانعاً، وأن يكون كل قسم مبايناً لما عداه من الأقسام، ومبايناً للمقسم فلا يحمل أحدهما على الآخر. وتقسيم الكلي إلى جزئياته يشترط فيه أن يكون حاصراً، أي : جامعاً مانعاً، وأن يكون كل قسم أخص مطلقاً من المقسم، وأن يكون كل قسم مبايناً لما عداه من الأقسام .
+The divisions: if the division fulfills its conditions (1) that were previously explained, then it must be accepted as correct. If it violates a condition, or does not apply to its type, then the objector may direct his objection, including an explanation of the flaw he sees in the division and including the evidence for that, and he may declare the division invalid due to the flaw in it. The position of the proponent of the division in the face of the objection (from the arguer) comes down to one of two things: First: that he declares his agreement with the objection and accepts it, and changes to another division or corrects his division. Second: that he rejects the objection by clarifying his intended meaning from the divided thing, the parts, the division, or the doctrinal school upon which he built the division. And the proponent of the division may respond to the arguer's objection with more than one answer, clarifying his intended meaning from the divided thing, the parts, the division, and the doctrinal school upon which he built his division. And the objector's speech may include unaccepted claims; then the proponent of the division may reject them, and the discussion then turns into a discussion about assents (tasdiqat) concerning new claims brought by the objector (the arguer). (1) Dividing a whole into its parts requires that it be comprehensive (hasir), i.e., inclusive and exclusive, that each part be distinct from the other parts, and distinct from the divided whole so that neither is predicated of the other. Dividing a universal into its particulars requires that it be comprehensive, i.e., inclusive and exclusive, that each part be absolutely more specific than the divided whole, and that each part be distinct from the other parts.
+Source pages p. 412
+
+Commentary
+This passage is about the dialectical rules of division (taqseem) in the context of munazara (scholarly disputation). It first states that if a division meets its proper conditions, it must be accepted. The conditions, explained in the footnote, are: for division of a whole into parts—comprehensiveness (encompassing all parts, exclusive so no overlap), each part distinct from others and from the whole; for division of a universal into particulars—comprehensiveness and each part being absolutely more specific. If a condition is violated, an objector may point out the flaw and provide evidence. The proponent then has two options: accept the objection and correct the division, or reject the objection by clarifying his intended meaning (of the divided thing, the parts, the division, or the underlying doctrine). He may give multiple responses. If the objector's claims themselves are unsupported, the discussion shifts to debating those new claims (tasdiqat). The text thus outlines the dialectical moves in handling objections to a division.
+
+Key Terms
+تقسيم
+معترض
+مستدل
+مقسم
+أقسام
+حاصر
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if an objector's speech includes unaccepted claims (da'awa ghayr musallama), what happens?
+A) The proponent must accept those claims.
+B) The debate shifts to discussing those claims as new assents (tasdiqat).
+C) The objector is immediately disqualified.
+D) The proponent can only respond by correcting the division.
+
+Key Takeaway
+The two legitimate responses to an objection against a division are either to correct the division or to clarify the intended meaning of its components.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a division in fiqh: 'wajib acts are either 'ayni (individual) or kifa'i (collective).' An objector says this division is not comprehensive because some wajib acts are neither. Apply the rules: decide whether the proponent should correct the division (e.g., add a third category) or clarify what he means by 'wajib'.
+?
+Role-play a munazara: one person proposes a division of a concept in kalam (e.g., knowledge into necessary and acquired). The other objects that acquired knowledge is not distinct from necessary knowledge. The proponent must respond using one of the two options from the passage.
+
+Pages p. 412 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 433
+Module 7 · Lesson 56
+Next →
+Division and Classification
+beginner
+5 min
+Two Types of Mu‘āraḍa: Targeting Evidence vs. Cause
+Author begins classifying mu‘āraḍa into two types based on what it targets.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between mu‘āraḍa fī al-dalīl and mu‘āraḍa fī al-‘illa, and identify which type is being used in a given dialectical exchange.
+
+Core Idea
+Mu‘āraḍa attacks either the evidence or the cause – the two pillars of any argument.
+
+In dialectical disputation (jadal/munazara), a questioner can oppose a proponent's argument in different ways. This passage introduces a fundamental classification: the opposition may target the very evidence (dalīl) presented, or it may target the underlying cause (‘illa) that links the evidence to the claim. Recognising which type is at play helps you evaluate the strength of the objection and craft an appropriate response. Let's explore this distinction with examples from Islamic legal theory and theology.
+
+Guided Path
+1
+Identify the basis of division
+The passage divides mu‘āraḍa by what it is directed at. What two things can be targeted? Answer: the evidence (dalīl) or the cause (‘illa).
+2
+Define mu‘āraḍa fī al-dalīl
+This type attacks the premises or the proof itself. For example, challenging the truth of a major premise in a syllogism, such as 'the world is temporally originated' in a kalam argument for God's existence.
+Often called mu‘āraḍa bi-naqḍ al-dalīl in later texts.
+3
+Define mu‘āraḍa fī al-‘illa
+This type attacks the causal link or rationale. In usul al-fiqh, for instance, one may argue that the ‘illa cited (e.g., intoxication) does not produce the claimed effect (prohibition) in all cases, or that the ‘illa is not present.
+Crucial in qiyas debates.
+4
+Apply the distinction to a concrete case
+Given a hypothetical debate: Proponent says 'Nabidh is forbidden because it intoxicates.' Opponent says 'Intoxication does not always entail prohibition; some intoxicants are permissible in small quantities.' Which type of mu‘āraḍa is this? Answer: mu‘āraḍa fī al-‘illa.
+The opponent is attacking the causal link, not the evidence.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقسام المعارضة :
+للمعارضة تقسيمان باعتبارين، فهي تنقسم باعتبار ما توجه إليه إلى قسمين :
+القسم الأول : المعارضة في الدليل .
+القسم الثاني : المعارضة في العلة .
+Divisions of mu‘āraḍa:
+Mu‘āraḍa has two divisions by two considerations. It is divided by consideration of what it is directed at into two types:
+The first type: mu‘āraḍa in the evidence (dalīl).
+The second type: mu‘āraḍa in the cause (‘illa).
+Source pages p. 433
+
+Commentary
+This passage introduces a classification of mu‘āraḍa based on what it targets. The author states that mu‘āraḍa can be divided according to two different considerations; here, the division is based on the aspect of the proponent's argument that the questioner attacks. The first type is mu‘āraḍa fī al-dalīl (opposition in the evidence), where the questioner targets the proof or evidence presented. The second type is mu‘āraḍa fī al-‘illa (opposition in the cause), where the questioner targets the underlying cause or rationale. The passage does not elaborate further, but this distinction is common in later dialectical works to differentiate between attacking the premises versus attacking the reasoning or the causal link.
+
+Key Terms
+المعارضة في الدليل
+المعارضة في العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the division presented, if a questioner argues that the proponent's premise 'every effect of the Eternal is eternal' is false, what type of mu‘āraḍa is this?
+A) Mu‘āraḍa in the cause
+B) Mu‘āraḍa in the evidence
+C) Mu‘āraḍa by proving the contradictory
+D) Mu‘āraḍa by equivalence
+
+Key Takeaway
+The two types of mu‘āraḍa – opposing the evidence and opposing the cause – target different aspects of an argument; recognising them sharpens your dialectical analysis.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of mu‘āraḍa in the following exchange: The proponent argues that 'the world is temporally originated because it changes.' The questioner responds: 'Change is not a valid proof of origination because some changes are accidental.' Answer: mu‘āraḍa fī al-dalīl (attacking the evidence/premise).
+?
+Construct your own example of a mu‘āraḍa fī al-‘illa in a debate about the permissibility of euthanasia in Islamic law. Hint: use the ‘illa of preserving life.
+
+Pages p. 433 · Division and Classification
+← Prev
+Mark Done
+Next →

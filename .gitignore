@@ -1,5 +1,5 @@
 # Cache directory from scraper
-scraped_books/.cache/
+scraped_books/*/.cache/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

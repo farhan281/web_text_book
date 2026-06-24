@@ -1,0 +1,379 @@
+← Prev
+p. 282
+Module 11 · Lesson 51
+Next →
+Propositions
+beginner
+5 min
+Identifying 'Adool (Modal) Propositions
+Author defines 'adool propositions with examples and relationship to muhassala.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a categorical proposition is 'adool (modal) or muhassala (simple) based on the position of negation relative to the copula.
+
+Core Idea
+The position of negation after the copula makes a proposition 'adool; before makes it muhassala.
+
+In Islamic logic, propositions are classified by how negation interacts with the copula, affecting syllogistic validity. This passage defines 'adool (modal) propositions with clear examples, showing how the placement of negative particles like 'laysa' relative to the copula determines the type. Mastering this distinction is essential for analyzing arguments in Kalam and Usul al-Fiqh.
+
+Guided Path
+1
+Locate the copula (raabita)
+In Arabic, the copula is often the pronoun of separation (damir al-fasl), e.g., 'huwa' in 'Zayd huwa 'aalimun'. Identify this word as the anchoring point.
+2
+Find the negation word
+Look for words like 'laysa', 'ma', or 'la' that express negation. Their position relative to the copula is critical.
+3
+Check the position of negation
+If negation appears after the copula and before the predicate, the proposition is 'adool. If negation appears before the copula (or in its place), it is muhassala (simple).
+4
+Determine the quality and type
+An 'adool proposition with one negation is affirmative (mu'addala mawjiba). With two negations (e.g., 'laysa ... laysa'), it is negative modal (mu'addala saliba), which resolves to an affirmative simple.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واعلم أن ضابط العدول في الاصطلاح هو اقتران السلب (1) بالمحمول؛ بأن يكون السلب بعد الرابطة وهي في الاصطلاح اللفظ الدال على ثبوت المحمول للموضوع. ولما كانت اللغة العربية غير محتاجة إلى الرابطة؛ للاكتفاء عنها بالاشتقاق والإضافة ومطلق الإسناد، نحو زيد أخوك) ، اصطلحوا على أن يجعلوا الرابطة هي ضمير الفصل، فكل سلب كان مقترنا بالمحمول بعد ضمير الفصل فهو العدول، وما سوى ذلك بالتحصيل . فمثال المعدولة الموجبة : زيد هو ليس عالمًا . ومثال السالبة المحصلة : زيد ليس هو عالما . ومثال المحصّلة الموجبة : زيد عالم . ومثال المعدولة السالبة : ليس زيد هو ليس عالمًا . فالمعدولة السالبة يرجع معناها إلى معنى المحصلة الموجبة؛ لأن نفي النفي فيها إثبات، فيؤول للمحصلة الموجبة . والسالبة المحصلة والموجبة المعدولة يتعذر الفرق بينهما . (1) أي الرابطة
+And know that the rule of 'adool in terminology is the conjunction of negation with the predicate, such that the negation is after the copula, which in terminology is the word indicating the affirmation of the predicate of the subject. And since the Arabic language does not need the copula, contenting instead with derivation, annexation, and absolute predication, e.g., 'Zayd is your brother', they agreed to make the copula the pronoun of separation. So every negation that is conjoined with the predicate after the pronoun of separation is 'adool, and what is otherwise is tahseel (simple). So an example of the affirmative modal: 'Zayd is not knowledgeable.' And an example of the simple negative: 'Zayd is not knowledgeable.' And an example of the affirmative simple: 'Zayd is knowledgeable.' And an example of the negative modal: 'Zayd is not knowledgeable' (with double negation). So the negative modal returns in meaning to the affirmative simple because the negation of negation is affirmation, so it resolves to the affirmative simple. And the simple negative and the affirmative modal are impossible to distinguish.
+Source pages p. 282
+
+Commentary
+This passage provides a formal definition of a 'adool (modal) proposition in logic. The definition hinges on the position of the negation relative to the copula (raabita). In technical terms, a proposition is 'adool when the negation is attached to the predicate after the copula. In languages like Arabic that lack an explicit copula, grammarians substitute the 'pronoun of separation' (damir al-fasl), e.g., 'huwa' in 'Zayd huwa 'aalimun' (Zayd is knowledgeable). Therefore, if negation occurs after this pronoun and before the predicate, the proposition is 'adool. If negation occurs before the pronoun (or in its place), the proposition is muhassala (simple). The author gives four examples: (1) Affirmative modal: 'Zayd is not-knowledgeable' (Zayd huwa laysa 'aaliman) — here 'laysa' follows the pronoun, so it is 'adool. (2) Simple negative: 'Zayd is not knowledgeable' (Zayd laysa huwa 'aaliman) — negation precedes the pronoun. (3) Affirmative simple: 'Zayd is knowledgeable' (Zayd 'aalimun) — no negation. (4) Negative modal: 'Zayd is not not-knowledgeable' (laysa Zayd huwa laysa 'aaliman) — double negation, which resolves to the affirmative simple. Importantly, the simple negative and the affirmative modal are semantically indistinguishable in meaning, though their logical forms differ. This distinction is crucial for analyzing arguments where the form affects syllogistic validity.
+
+Key Terms
+عدول
+رابطة
+ضمير الفصل
+تحصيل
+معدولة موجبة
+سالبة محصلة
+معدولة سالبة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the sentence 'Zayd huwa laysa 'aaliman', what type of proposition is it?
+A) Simple negative (saliba muhassala)
+B) Affirmative modal (mu'addala mawjiba)
+C) Simple affirmative (muhassala mawjiba)
+D) Negative modal (mu'addala saliba)
+
+Key Takeaway
+An 'adool proposition is defined by negation following the copula and attaching to the predicate, distinguishing it from simple (muhassala) propositions.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of proposition: 'ليس المسلم هو ليس مؤمنًا' (The Muslim is not not-believing). Is it 'adool or muhassala? If 'adool, is it affirmative or negative modal?
+?
+Convert the following muhassala negative proposition into an 'adool affirmative without changing meaning: 'الخمر ليس هو حلال' (Wine is not permissible).
+
+Pages p. 282 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 284
+Module 11 · Lesson 52
+Next →
+Propositions
+intermediate
+8 min
+Predicate Types: Existential vs. Non-Existential Subjects
+Author classifies predicates into those that require their subject to exist and those that do not.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given predicate as either requiring its subject to exist or not, based on the nature of the attribute.
+
+Core Idea
+Not all affirmative statements imply the real existence of their subject.
+
+When we say 'Zayd is standing', we assume Zayd exists. But we can also say 'Zayd is possible' without Zayd existing. This lesson unpacks the logical distinction between predicates that require subject existence and those that do not, a key precision in Islamic logic often applied to divine attributes and theological propositions.
+
+Guided Path
+1
+Identify the two categories of predicates
+The author divides predicates into two types: (1) those that describe an existential quality (وصف وجودي) like 'standing' or 'white', and (2) those that do not, like 'possible' or 'known'. The first type requires the subject to exist; the second does not.
+The distinction hinges on whether the predicate denotes a real accident that inheres in a substance.
+2
+Understand why existential predicates require subject existence
+An existential predicate like 'white' indicates an accident (عرض) that cannot exist without a substance (جسم). Therefore, affirming such a predicate of a subject forces the subject to exist as a bearer of that accident.
+This is rooted in the kalām principle that accidents cannot subsist by themselves.
+3
+Examine the counterexamples: predicates not requiring existence
+Predicates like 'possible' or 'known' do not denote a real accident inhering in the subject. They are mental considerations (اعتبارات عقلية). Thus, we can truly say 'Zayd is possible' even if Zayd does not exist in the external world.
+This applies to theological discussions about the attributes of God and the status of non-existent possibles.
+4
+Test the classification with examples from Islamic sciences
+Consider the statement 'Allah is knowing' – the predicate 'knowing' is an existential attribute that requires Allah's existence. Conversely, 'The world is possible' does not require the world to exist at the time of predication; it is a judgment about its nature.
+This distinction is critical in kalām debates about the status of divine attributes and the ontological status of possibles before creation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بل ربما لزم أن ينعدما موضوع بعض الموجَباتِ فاعلما فالمستحيل ذو انعدام موجَبُ وعدم الموضوع فيه يوجب وبحر زئبق كذاك ممكنُ منعدم موجبه لا تؤذنُ يكون موضوع لها موجودا فبطل اقتضاؤها الوجودا فبان من ذا للذكي الحاذق الباذقِ (۱) انعدام وجه الفارق ذاك والحق في هو التفصيلُ فيما له عدول او تحصیل فكل ما منها اقتضت قيامَ وصف بموضوع لها إذا ما يكون وصفها وجوديًا فقد صح اقتضاؤها وجوده فقد لأن منع وصفِ ما قد عُدما بصفة ذاتِ وجود عُلما مثال ما ذكرتُ زيد قائم أو جالس أو أبيض أو عالم إذ البياضُ والجلوس والقيام ممتنع وجودها من ذي انعدام إذ يستحيل أن يقوم العرَضُ بنفسه بدون جرم يعرضُ وغيرُ ما ذكرته لا يقتضي وجوده موجبا اولا فارتض كمثل زيد ممكن أو معلوم فالحكم فيه صادق في المعدوم
+Rather, sometimes it is necessary that the subject of some affirmations be non-existent, so know that the impossible thing has a non-existent subject, and the non-existence of the subject necessitates it. And the sea of mercury is likewise possible, whose requisite is non-existent. Do not think that its subject exists, for then its requirement of existence would be invalid. So it becomes clear to the clever, skilled person [that] there is no difference at the level of that perspective. The truth is that there is a distinction regarding what has deviation or acquisition. Thus every one of those [predicates] that requires the subsistence of a description in a subject, if its description is existential, then its requirement of its existence is correct, because prevention of a description that has been non-existent by a description that possesses existence is known. An example of what I mentioned: Zayd standing, or sitting, or white, or knowledgeable. For whiteness, sitting, and standing: their existence is impossible from one who is non-existent, because it is impossible for an accident to subsist by itself without a body in which it inheres. And other than what I mentioned does not require its existence as a requisite, so accept that, like Zayd being possible or known: the judgment about him is true even when he is non-existent.
+Source pages p. 284
+
+Commentary
+This passage is a classification of predicates (أوصاف) into two types based on whether they require the existence of their subject. The author begins by explaining that some affirmative statements can have a non-existent subject, such as when we say 'the impossible thing has a non-existent subject' (e.g., the statement 'a partner to Allah exists' has a subject that does not exist). The author then introduces a distinction: if a predicate denotes an existential quality (وصف وجودي) like 'standing' or 'white', then it requires the subject to exist, because an accident cannot exist without a substance. The examples given are Zayd being standing, sitting, white, or knowledgeable. These accidents (like whiteness and sitting) cannot inhere in a non-existent subject. In contrast, predicates like 'possible' or 'known' do not require the subject to exist; we can truly say 'Zayd is possible' or 'Zayd is known' even if Zayd does not exist. This aligns with the Islamic theological distinction between attributes that are ontologically real (like the divine attributes of perfection) and those that are merely mental considerations (like possibility). The passage thus clarifies a subtle point in predication logic, guarding against the misunderstanding that all affirmative statements imply the real existence of their subject.
+
+Key Terms
+موجَب
+موضوع
+عَرَض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following predicates can be truly affirmed of a non-existent subject?
+A) Zayd is white
+B) Zayd is sitting
+C) Zayd is known
+D) Zayd is strong
+
+Key Takeaway
+The logical distinction between existential and non-existential predicates is essential for correct reasoning about subjects that may or may not exist, a frequent issue in Islamic theological and philosophical discourse.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each of the following predicates as either requiring the subject to exist or not, and explain your reasoning: (a) 'Zayd is a writer', (b) 'The resurrection is true', (c) 'Iblis is disobedient', (d) 'The impossible is not created'.
+?
+In a kalām debate, a theologian says: 'The attribute of power (qudra) is affirmed of Allah only if He exists.' Is this consistent with the passage's rule? Explain using the passage's criteria.
+
+Pages p. 284 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 293
+Module 11 · Lesson 53
+Next →
+Propositions
+intermediate
+10 min
+Contradiction vs. Specification: Usul al-Fiqh and Logic
+Author distinguishes contradictory propositions in usul vs. mantiq with Quranic example.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the treatment of contradictory propositions in usul al-fiqh (specification) and in logic (contradiction), and correctly apply the distinction to Quranic examples.
+
+Core Idea
+A universal affirmative and its particular negative are logical contradictories, but in usul al-fiqh the latter specifies the former.
+
+In logic, a universal affirmative and a particular negative are direct contradictories — they cannot both be true. But when the same pair of statements appears in the Quran and Sunnah, usul al-fiqh treats them differently: the particular negative is not seen as a contradiction but as a specification (takhṣīṣ) of the general rule. This lesson unpacks that critical distinction using concrete Quranic evidence and explains why the same propositions are treated differently across disciplines.
+
+Guided Path
+1
+Identify the two propositions in the Quranic example
+Find the universal affirmative: 'Every divorced woman waits three periods' (from Al-Baqarah 2:228). Then find the particular negative: 'Some divorced women do not wait three periods' (from Al-Ahzab 33:49, referring to those divorced before consummation).
+2
+Determine their logical relation per mantiq
+According to the square of opposition, a universal affirmative (كلية موجبة) and a particular negative (جزئية سالبة) are contradictories: they cannot both be true and cannot both be false. In logic, if one is true, the other must be false.
+Al-Akhdari's Sullam states: 'If a universal affirmative occurs, its contradictory is a particular negative.'
+3
+Apply the usuli notion of takhṣīṣ
+In usul al-fiqh, the later verse (Al-Ahzab) is not taken as a counterexample that invalidates the earlier general rule. Instead, it specifies the general rule by restricting its application to women not divorced before consummation. Both verses remain valid.
+Takhṣīṣ is defined as restricting a general term to some of its individuals by a proof.
+4
+Compare consequences across disciplines
+In logic and in the discipline of research and disputation (jadl), the particular negative would invalidate the universal affirmative because they are contradictories. In usul, the specification prevents contradiction, so no invalidation occurs.
+This shows that methodological frameworks differ; one must not conflate the disciplines.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التنبيه الثاني : هو ما قدمنا من أن فن الأصول إذا جاءت فيه كلية موجبة مثلاً في كتاب أو سنة ثم جاءت في نص آخر جزئية سالبة مناقضة لها أن ذلك لايُعد تناقضا في فن الأصول؛ بل تكون السالبة الجزئية مخصصة لعموم الموجبة الكلية، كما أوضحنا في المقدمة المنطقية (١) مع أمثلة قرآنية، وإنما يعد تناقضا مستلزما لبطلان أحدهما في فن المنطق . واعلم أن فن البحث والمناظرة كذلك؛ لما ذكرنا مرارا من أن إنتاج نقيض الدعوى أو مساوى نقيضها أو أخص من نقيضها مستلزم بطلانها، كما أوضحناه مراراً . وبهذا تعلم أنه ما كلُّ دليل مبطل دليلاً في البحث والمناظرة يبطله الأصول؛ لأن تخصيص أحدهما بالآخر في فن الأصول مانع من التناقض المستلزم بطلان أحدهما في المنطق والبحث والمناظرة . وقد قدمنا أمثلة متعددة لذلك، منها أن قوله - تعالى -: وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَثَةَ قُرُوءٍ ﴾ [البقرة/ ٢٢٨] في قوة كلية موجبة هي (كل) مطلقة تتربص بنفسها ثلاثة قروء)، وقوله - تعالى -: يَتَأَيُّهَا الَّذِينَ ءَامَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُن فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ الآية [الأحزاب/ ٤٩] في قوة جزئية سالبة مناقضة للكلية الموجبة المذكورة، وهي ليس بعض المطلقات يتربصن بأنفسهم ثلاثة قروء) وهن المطلقات قبل الدخول؛ لأنهن لا عدة عليهن إلى آخر الأمثلة القرآنية التي قدمنا . فهذه الموجبة الكلية لا تنقضها هذه السالبة الجزئية في الأصول، بل تكون مخصصة لعمومها والتخصيص هو قصر العام على بعض أفراده بدليل كما هو مقرر في الأصول، ومعلوم أن الجزئية السالبة بعينها نقيض الموجبة الكلية، كما قال الأخضري في سلمه (١) فإن تكن موجبــة كليــة نقيضُها سالبة جزئية أما في فن المنطق وفن البحث والمناظرة فإثبات السالبة الجزئية يقتضي إبطال الموجبة الكلية؛ لأن إثبات النقيض يستلزم نفي نقيضه الآخر كما أوضحناه مراراً .
+The second notice: It is what we previously stated: that in the discipline of principles (usul), if a universal affirmative appears, for example, in the Book or Sunnah, and then in another text a particular negative contradictory to it appears, that is not considered a contradiction in usul; rather, the particular negative specifies the generality of the universal affirmative, as we clarified in the logical introduction with Quranic examples. It is only considered a contradiction necessitating the invalidity of one of them in the discipline of logic. And know that the discipline of research and disputation is also like that, because, as we repeatedly stated, producing the contradictory of the claim, or its equivalent to its contradictory, or something more specific than its contradictory, necessitates its invalidity, as we have explained repeatedly. And by this you know that not every proof that invalidates a proof in research and disputation invalidates it in usul; because the specification of one by the other in usul prevents the contradiction that would necessitate the invalidity of one of them in logic and in research and disputation. And we have given multiple examples of that, including His saying, the Exalted: 'And the divorced women shall wait with themselves for three menstrual periods' [Al-Baqarah 2:228] which is in the force of a universal affirmative: 'Every divorced woman waits three periods'; and His saying, the Exalted: 'O you who have believed, when you marry believing women and then divorce them before you have touched them, then there is no waiting period for you...' [Al-Ahzab 33:49] which is in the force of a particular negative contradictory to the mentioned universal affirmative, namely: 'Some divorced women do not wait three periods' — they are those divorced before consummation, for they have no waiting period — up to other Quranic examples we presented. So this universal affirmative is not contradicted by this particular negative in usul; rather, it specifies its generality, and specification is restricting the general to some of its individuals by a proof, as established in usul. And it is known that the particular negative itself is the contradictory of the universal affirmative, as al-Akhdari said in his Sullam: 'If a universal affirmative occurs, its contradictory is a particular negative.' However, in the discipline of logic and in research and disputation, establishing the particular negative necessitates the invalidation of the universal affirmative, because establishing a contradictory necessitates the negation of its opposite, as we have explained repeatedly.
+Source pages p. 293
+
+Commentary
+This passage is a critical clarification about the different treatments of contradictory propositions in the disciplines of usul al-fiqh, logic, and dialectics. The author gives a 'second notice' that in usul, if a universal affirmative proposition from the Quran or Sunnah is followed by a particular negative that seems contradictory, it is not considered a logical contradiction; instead, the particular negative specifies (takhsis) the general universal. This is illustrated with a Quranic example: the verse from Al-Baqarah says every divorced woman waits three months, but the verse from Al-Ahzab says that women divorced before consummation have no waiting period. In usul, the latter specifies the former, so there is no contradiction. However, in logic (mantiq) and in the art of research and disputation (jadl), these two propositions are direct contradictions; proving the particular negative would invalidate the universal affirmative. The author cites al-Akhdari's Sullam for the logical rule that a universal affirmative's contradictory is a particular negative. The key point is that the same pair of statements is treated differently: specification in usul prevents contradiction, but in logic it is a genuine contradiction. The student should understand that the methodological frameworks differ, and one must not conflate the disciplines.
+
+Key Terms
+التناقض
+التخصيص
+كلية موجبة
+جزئية سالبة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the author's example, what is the relation between 'every divorced woman waits three periods' and 'some divorced women do not wait three periods' in usul al-fiqh?
+A) They are contradictories that invalidate each other.
+B) The particular negative specifies the universal.
+C) The universal negates the particular.
+D) They are independent and unrelated.
+
+Key Takeaway
+In usul al-fiqh, what appears as a logical contradiction between a universal affirmative and a particular negative is resolved by specification, preserving both verses as valid.
+
+How This Lesson Applies — to MY Life?
+?
+Given the Quranic verses: 'And the thief, male and female, cut off their hands' (Al-Ma'idah 5:38) and 'But whoever repents after his wrongdoing and reforms, indeed Allah will turn to him in forgiveness' (Al-Ma'idah 5:39). The first appears to command cutting, the second implies forgiveness. Explain how usul would treat this using either specification or another principle, and how logic would treat the two statements if they were taken as standalone propositions.
+?
+Identify a pair of statements from the Quran or Sunnah that appear contradictory (e.g., a general command and an exception). Determine whether in usul they are treated as specification or abrogation, and whether in logic they would be direct contradictories.
+
+Pages p. 293 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 294
+Module 11 · Lesson 54
+Next →
+Propositions
+intermediate
+8 min
+Contradiction vs. Specification: Usul al-Fiqh vs. Logic
+Author contrasts treatment of universal affirmative and particular negative in usul vs. logic/debate.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish how a particular negative proposition functions as a specification in usul al-fiqh versus a contradictory that invalidates the universal affirmative in logic and debate.
+
+Core Idea
+In logic, a particular negative contradicts a universal affirmative; in usul, it specifies without nullifying.
+
+The relationship between universal affirmative and particular negative propositions is not uniform across Islamic disciplines. In logic and debate, the particular negative directly contradicts the universal affirmative, making it false. In usul al-fiqh, however, the same proposition does not invalidate the universal but instead restricts its scope through specification (takhṣīṣ). Understanding this distinction is essential for correctly interpreting Quranic rulings and avoiding errors in juristic reasoning.
+
+Guided Path
+1
+Identify the two Quranic verses and their logical forms
+Locate the universal affirmative (Surah Al-Baqarah 2:228) and the particular negative (Surah Al-Ahzab 33:49). Note that the first asserts a rule for all divorced women; the second carves out an exception for those divorced before consummation.
+The first is 'every divorced woman waits three quru''; the second is 'some divorced women do not wait three quru''.
+2
+Recognize the logical relationship
+According to Aristotelian logic (and al-Akhdari's Sullam), the particular negative is the exact contradictory of the universal affirmative. This means they cannot both be true; establishing the particular negative invalidates the universal.
+This is the standard logical rule: if universal affirmative is true, its contradictory particular negative must be false, and vice versa.
+3
+Understand the usul principle of takhṣīṣ
+In usul al-fiqh, specification (takhṣīṣ) allows a general statement to be restricted to some of its individuals by evidence, without canceling the general ruling for the remaining individuals. Here, the particular negative specifies that the general 'iddah rule does not apply to women divorced before consummation, but it remains valid for all other divorced women.
+Takhṣīṣ is a key principle for harmonizing seemingly conflicting textual evidence.
+4
+Compare outcomes across disciplines
+In logic and debate, the particular negative would be taken as a refutation of the universal affirmative, rendering the universal false. In usul, it is not a refutation but a qualification. The universal remains true for the non-excepted cases.
+This shows that the same proposition can have different epistemic functions depending on the discipline.
+5
+Apply the distinction to a new example
+Consider a general rule: 'Every sale is permissible' and an exception: 'Sales of alcohol are not permissible.' In logic, the exception contradicts the general, banning all sales. In usul, the exception specifies that 'every sale' means 'every sale except alcohol,' so the general rule still holds for other sales.
+Practice by finding similar pairs in fiqh manuals.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الأصول؛ لأن تخصيص أحدهما بالآخر في فن الأصول مانع من التناقض المستلزم بطلان أحدهما في المنطق والبحث والمناظرة . وقد قدمنا أمثلة متعددة لذلك، منها أن قوله - تعالى -: وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَثَةَ قُرُوءٍ ﴾ [البقرة/ ٢٢٨] في قوة كلية موجبة هي (كل) مطلقة تتربص بنفسها ثلاثة قروء)، وقوله - تعالى -: يَتَأَيُّهَا الَّذِينَ ءَامَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُن فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ الآية [الأحزاب/ ٤٩] في قوة جزئية سالبة مناقضة للكلية الموجبة المذكورة، وهي ليس بعض المطلقات يتربصن بأنفسهم ثلاثة قروء) وهن المطلقات قبل الدخول؛ لأنهن لا عدة عليهن إلى آخر الأمثلة القرآنية التي قدمنا . فهذه الموجبة الكلية لا تنقضها هذه السالبة الجزئية في الأصول، بل تكون مخصصة لعمومها والتخصيص هو قصر العام على بعض أفراده بدليل كما هو مقرر في الأصول، ومعلوم أن الجزئية السالبة بعينها نقيض الموجبة الكلية، كما قال الأخضري في سلمه (۱) فإن تكن موجبــة كليــة نقيضُها سالبة جزئية أما في فن المنطق وفن البحث والمناظرة فإثبات السالبة الجزئية يقتضي إبطال الموجبة الكلية؛ لأن إثبات النقيض يستلزم نفي نقيضه الآخر كما أوضحناه مراراً . ومردنا بهذا التفصيل بين فن الأصول وفن البحث والمناظرة والمنطق أن تعلم أن ما كلُّ ما يبطل الدليل في البحث والمناظرة يبطله في الأصول، بل قد يبطله في البحث والمناظرة لمناقضته له، ويكون مخصصا له في فن الأصول لا مبطلاً له، فافهم ذلك .
+The fundamentals; because specifying one of them by the other in the discipline of usul prevents contradiction which entails the invalidity of one of them in logic, debate, and disputation. And we have already given multiple examples of that, including His saying – Exalted is He – 'And divorced women shall wait concerning themselves for three quru'' [Al-Baqarah 2:228] in the force of a universal affirmative: 'Every divorced woman waits concerning herself for three quru''. And His saying – Exalted is He – 'O you who have believed, when you marry believing women and then divorce them before you have touched them, then there is no period of 'iddah for you' [Al-Ahzab 33:49] in the force of a particular negative contradictory to the mentioned universal affirmative, which is: 'Some divorced women do not wait concerning themselves for three quru'' – and they are the women divorced before consummation, because they have no 'iddah – up to the other Quranic examples we gave. So this universal affirmative is not contradicted by this particular negative in usul, but rather it is a specification of its generality, and specification is restricting the general to some of its individuals by evidence, as established in usul. And it is known that the particular negative is precisely the contradictory of the universal affirmative, as al-Akhdari said in his Sullam: 'If it is a universal affirmative, its contradictory is a particular negative.' As for the discipline of logic and the discipline of debate and disputation, establishing the particular negative necessitates nullifying the universal affirmative, because establishing one contradictory necessitates negating the other contradictory, as we have clarified repeatedly. And our intent with this distinction between the discipline of usul and the discipline of debate, disputation, and logic is that you know that not everything that invalidates a proof in debate and disputation invalidates it in usul. Rather, it may invalidate it in debate and disputation due to its contradicting it, while being a specification of it in the discipline of usul, not an invalidator of it. So understand that.
+Source pages p. 294
+
+Commentary
+This passage clarifies a key epistemological difference between usul al-fiqh and the disciplines of logic and debate (mantiq/bahth wa munazara). The author begins by stating that in usul, specifying one of two propositions by the other prevents the contradiction that would otherwise render one invalid in logic. He then provides a well-known Quranic example: the verse from Surah al-Baqarah (2:228) asserting that all divorced women must wait three quru' is a universal affirmative (every divorced woman waits). The verse from Surah al-Ahzab (33:49) states that women divorced before consummation have no 'iddah, which is a particular negative (some divorced women do not wait). In logic, the particular negative is the direct contradictory of the universal affirmative, so proving it would invalidate the universal. However, in usul, this particular negative does not nullify the universal affirmative; rather, it acts as a specification (takhsis) of the general rule. Specification means restricting the general application to some individuals based on evidence. Thus, the universal remains valid for cases not specified. The author cites al-Akhdari's Sullam to affirm the logical relationship, then emphasizes that in logic and debate, the particular negative does invalidate the universal. The key lesson is that the same propositional relationship may function differently across disciplines: in debate, it destroys the opposing proof; in usul, it merely qualifies it. The student must understand that the rules of contradiction in logic are not directly transferable to usul al-fiqh without considering the principle of takhsis.
+
+Key Terms
+تخصيص
+نقيض
+موجبة كلية
+سالبة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+In the Quranic example, the verse from Surah al-Ahzab (33:49) about women divorced before consummation functions in usul al-fiqh as:
+A) A direct contradiction that nullifies the general rule of 'iddah from Surah al-Baqarah.
+B) A specification (takhsis) of the general rule, restricting it to women divorced after consummation.
+C) An abrogation (naskh) of the earlier verse.
+D) A confirmation of the general rule without exception.
+
+Key Takeaway
+The logical rule of contradiction is not directly transferable to usul al-fiqh because of the discipline's use of specification (takhṣīṣ), which allows a universal affirmative to coexist with a particular negative that restricts its application without negating it entirely.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a similar example from fiqh: a general ruling (e.g., 'Every sale is permissible') and a specific exception (e.g., 'Sales of alcohol are not permissible'). Show how in logic the exception would contradict the general, but in usul it specifies it. Write both the universal affirmative and particular negative in propositional form.
+?
+Analyze a given pair of propositions from a madhhab's fiqh manual (e.g., 'Every traveler may shorten prayers' and 'Travelers on a journey of sin may not shorten prayers'). Determine whether the second proposition functions as a contradictory (invalidating the first) in logic, or as a specification in usul.
+
+Pages p. 294 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 386
+Module 11 · Lesson 55
+Next →
+Propositions
+intermediate
+8 min
+Truth Values of Propositions by the Four Relations
+Author specifies truth values per the four relations.
+
+Learning Objective
+By the end of this lesson, you will be able to determine which categorical propositions (A, E, I, O) are true or false given the logical relation between subject and predicate.
+
+Core Idea
+The four relations uniquely determine truth values of universal and particular affirmatives and negatives.
+
+This lesson equips you with the rules to evaluate the truth of categorical propositions based on the logical relation between their terms. These rules are foundational for syllogistic reasoning and are used extensively in Usul al-Fiqh and Kalam to assess arguments.
+
+Guided Path
+1
+Identify the relation
+Determine which of the four relations (tabāyun, musāwāt, umūm wa khuṣūṣ min wajh, or absolute generality/specificity) holds between the subject and predicate of the proposition.
+Use definitions: tabāyun = no common individuals; musāwāt = identical extensions; umūm min wajh = partially overlapping; absolute = one term entirely includes the other.
+2
+Apply rule for tabāyun
+When the terms are in complete opposition, both universal negatives (e.g., 'No A is B' and 'No B is A') are true, and both affirmatives are false.
+Example: 'No human is stone' and 'No stone is human' are true; 'Every human is stone' is false.
+3
+Apply rule for musāwāt
+When the terms are equal in extension, both universal affirmatives (e.g., 'Every A is B' and 'Every B is A') are true, and both negatives are false.
+Example: 'Every rational animal is human' and 'Every human is rational animal' are true.
+4
+Apply rule for umūm wa khuṣūṣ min wajh
+When terms overlap partially, both particular affirmatives (e.g., 'Some A is B' and 'Some B is A') are true, but both universal affirmatives are false.
+Example: 'Some animal is white' and 'Some white thing is animal' are true; 'Every animal is white' is false.
+5
+Apply rule for absolute generality/specificity
+If one term is absolutely more specific (subject is the species, predicate is the genus), then both universal affirmatives are true and negatives false. If the subject is absolutely more general (subject is genus, predicate is species), then both particular affirmatives are true but universal affirmatives are false.
+Example with specific subject: 'Every human is animal' (true); with general subject: 'Some animal is human' (true) but 'Every animal is human' (false).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وزن الصدق والكذب في القضايا بالنسب الأربع
+صدق السلبين وكذب الإيجابين في التباين
+صدق الإيجابين وكذب السلبين في المساواة
+صدق الجزئيتين وكذب الكليتين في العموم والخصوص من وجه
+صدق الإيجابين وكذب السلبين إذا كان الموضوع أخص مطلقا
+صدق الجزئيتين وكذب الكليتين إذا كان الموضوع أعم مطلقا
+The weight of truth and falsehood in propositions according to the four relations. The truth of both negatives and the falsehood of both affirmatives in opposition. The truth of both affirmatives and the falsehood of both negatives in equality. The truth of both particulars and the falsehood of both universals in generality and specificity from one aspect. The truth of both affirmatives and the falsehood of both negatives when the subject is absolutely more specific. The truth of both particulars and the falsehood of both universals when the subject is absolutely more general.
+Source pages p. 386
+
+Commentary
+This passage explains how to determine truth values in categorical propositions when the subject and predicate are related by one of the four relations. It gives rules: For tabāyun (opposition), both universal negatives (e.g., 'No A is B' and 'No B is A') are true, and both affirmatives false. For musāwāt (equality), both universal affirmatives are true, both negatives false. For 'umūm wa khuṣūṣ min wajh (overlap), the particular affirmatives are true but the universal affirmatives false. For absolute generality/specificity, if the subject is the more specific term (e.g., 'man' as subject, 'animal' as predicate), the universal affirmative and its converse are true; if the subject is more general, the particular affirmatives are true but universals false. These rules are foundational for evaluating syllogisms.
+
+Key Terms
+التباين (tabāyun): Complete opposition; two terms with no common individuals. [Note: Stable.]
+المساواة (musāwāt): Equality; two terms with identical extensions. [Note: Stable.]
+العموم والخصوص من وجه (al-‘umūm wa al-khuṣūṣ min wajh): Partial overlap; terms sharing some individuals but not all. [Note: Stable.]
+الأعم مطلقا (al-a‘am mutlaqan): Absolutely more general; one term's extension entirely includes the other's. [Note: Stable.]
+
+Key Terms from Source Passage
+
+Checkpoint
+If the subject and predicate are in the relation of tabāyun, which propositions are true?
+A) Both universal affirmatives
+B) Both universal negatives
+C) Both particular affirmatives
+D) Both particular negatives
+
+Key Takeaway
+The truth of categorical propositions is determined by the logical relation of their terms, not by empirical observation.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the terms 'intoxicant' (muskir) and 'prohibited' (haram) in Islamic law. If it is known that every intoxicant is prohibited and vice versa, what relation holds, and which propositions (A, E, I, O) are true?
+?
+Take the terms 'human' (insān) and 'writer' (kātib). They overlap partially. State which of the four categorical propositions are true, giving a concrete example from Islamic knowledge.
+
+Pages p. 386 · Propositions
+← Prev
+Mark Done
+Next →

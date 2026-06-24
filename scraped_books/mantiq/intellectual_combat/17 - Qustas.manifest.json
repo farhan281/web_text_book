@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:18Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/qustas/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/17 - Qustas",
+  "output_bytes": 10379732,
+  "output_sha256": "cf7f231ac09930caa74793aacd2a390a6a5045900dd08d35de181ca7d0554f3b",
+  "checks": {
+    "catalog_expected_lessons": 1472,
+    "course_reported_lessons": 1472,
+    "index_lessons": 1472,
+    "full_lessons": 1472,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 22,
+    "course_reported_modules": 22,
+    "modules": 22,
+    "course_reported_sources": 1267,
+    "sources": 1267
+  }
+}

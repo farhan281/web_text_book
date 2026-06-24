@@ -1,0 +1,1394 @@
+← Prev
+p. 5
+Module 2 · Lesson 1
+Next →
+Other Lessons
+beginner
+10 min
+The Definition and Classification of Arguments
+Author defines argument and classifies it into syllogism, induction, and analogy.
+
+Learning Objective
+By the end of this lesson, you will be able to define the term 'argument' (al-hujja) and classify any given argument as qiyas, istiqra', or tamthil based on the generality relationship between evidence and conclusion.
+
+Core Idea
+Arguments are classified by the logical relationship of generality between evidence and conclusion.
+
+In this passage, the author lays down the foundation of logic by defining the argument (al-hujja) and then sorting all arguments into three fundamental types: syllogism, induction, and analogy. This classification is not just a theoretical exercise; it is the key to understanding how proofs work in Islamic theology, jurisprudence, and grammar. By mastering these categories, you will be able to identify the logical structure of arguments you encounter in Islamic texts.
+
+Guided Path
+1
+Identify the definiendum and its genus
+Find the term being defined (الحجة) and its broader category (قول). Notice that the author defines argument as a type of speech/expression.
+The genus is 'speech' (قول), not 'proposition' – it is broader.
+2
+Extract the differentia
+What makes an argument different from other speech? It is 'composed of statements from which assent is produced' (مؤلف من أقوال يحصل منه التصديق). This differentia captures both certain (yaqini) and probable (zanni) arguments.
+Assent (tasdiq) is the result; the argument itself is the instrument.
+3
+Understand the classification criterion
+The author classifies arguments based on the generality of the evidence (what you infer from) relative to the conclusion (what you infer to). If evidence is more general, it's qiyas; if conclusion is more general, it's istiqra'; if neither, it's tamthil.
+The criterion is relation of 'umum (generality) and khusus (specificity).
+4
+Apply the criterion to Islamic examples
+Take a known kalam argument: 'Everything originated has a cause; the world is originated; therefore the world has a cause.' Here the major premise is more general than the conclusion, so it's qiyas. Contrast with induction: observing that many intoxicants are forbidden and concluding 'all intoxicants are forbidden' is istiqra'. Analogy: arguing that nabidh is forbidden because it shares the 'illa of intoxication with khamr is tamthil.
+Be careful: in usul al-fiqh, qiyas often means analogical reasoning, but here it means deductive syllogism.
+5
+Resolve the universal-to-universal objection
+The author anticipates an objection: what about inference from universal to universal? He replies that one universal is subsumed under the other, so it reduces to one of the three types. For example, 'All A are B' and 'All B are C' yields 'All A are C' – here evidence 'All A are B' is more general than conclusion? Actually need to check: the example is inference from 'All B are C' and 'All A are B' to 'All A are C'. The major premise 'All B are C' is universal, minor 'All A are B' is universal, conclusion 'All A are C' is universal. But one of the premises may be more general: 'All B are C' has subject B, which is a genus relative to A? The author's point is that it still fits because either the evidence is more general or the conclusion is more general or neither.
+This shows the classification is exhaustive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بسم الله الرحمن الرحيم
+المنطق الكبيرة
+[٤] الجملة الثالثة : في الحجج وما يتعلق بها
+[١٠٤ ] [ النوع الأول : في صورة القياس ]
+ولما كانت الحجة هي المقصود الأعظم والمطلوب الأهم فيما نحن بصدده؛ وهو المنطق وإنها في نفسها مركبة. والعلم بالمركب لا يحصل إلا بعد العلم بما يتركب منه ؛ وذلك هو المركب أيضًا إما من المفردات ، وإما من المركبات نحو الحمليّات والشرطيات فقد لزمنا الابتداء ببيان المفردات وتركيب أصناف ما يتركب منها إذن حتى أتينا على جميع ذلك البيان المتبرأ عن النقصان.
+ثم الحجة عبارة عن قول مؤلف من أقوال يحصل منه التصديق مطلقا؛ وهو الذي يطلق على الظني وغيره وهي ثلاثة قياس، والاستقراء، والتمثيل. وذلك لأنا إذا استدللنا بشيء على شيء فإما أن يكون أحدهما أعم من الآخر أو لا يكون. فإن كان الأول فإما أن نستدل بالأعم على الأخص وهو القياس،
+أو بالأخص على الأعم وهو الاستقراء؛ وإن كان الثاني وهو الذي لا يكون أحدهما أعم من الآخر فهو التمثيل. وقد يعبر هذا بعبارة أخرى / كما يقال [١٤٨ظ] الاستدلال بالشيء على الشيء [1] إما أن يكون بالكلي على الجزئي وهو القياس، [ب] أو بالجزئي على الكلي وهو الاستقراء، [ت] أو بالجزئي على الجزئي وهو التمثيل. ولا يقال كيف هو والاستدلال بالكلي على الكلي خارج عن هذه القسمة؛ إذ هو داخل فيها لما أن أحدهما لا يخلو من أن يكون داخلا تحت الكلي الآخر، وذلك هو الاستدلال بالكلي على الجزئي أو بالجزئي على الكلي أو لا يكون، وذلك هو الاستدلال بالجزئي على الجزئي؛
+(( النسخة الثانية. وما أثبتناه هو الصواب كما هو الظاهر.
+In the name of God, the Most Gracious, the Most Merciful. The Great Logic. [4] The third section: On arguments and what pertains to them. [104] [The first type: On the form of the syllogism] Since the argument is the greatest goal and the most important objective in what we are dealing with—namely logic—and it is in itself composite. Knowledge of the composite is only obtained after knowledge of what it is composed of. That composite is also either from simple terms or from composite propositions such as categorical and conditional ones. So we were obliged to begin with an explanation of simple terms and the composition of the kinds of what they are composed of, until we have completed all that explanation, free from deficiency. Then the argument is an expression composed of statements from which assent is produced absolutely; it is applied to the conjectural and other than it. It is three: syllogism, induction, and analogy. That is because if we infer something from something, either one of them is more general than the other or not. If the first, then either we infer from the more general to the more specific—that is syllogism—or from the more specific to the more general—that is induction. If the second, where neither is more general than the other, that is analogy. This has been expressed in another way: it is said that inference from a thing to a thing is either from the universal to the particular—that is syllogism; or from the particular to the universal—that is induction; or from the particular to the particular—that is analogy. It cannot be said: What about inference from the universal to the universal, which is outside this division? For it is included in it because one of the two is not free from being subsumed under the other universal, and that is inference from the universal to the particular or from the particular to the universal, or not, and that is inference from the particular to the particular. ((The second copy. What we have established is correct, as is apparent.
+Source pages p. 5
+
+Commentary
+This passage defines argument (al-hujja) and classifies it into three types. The author begins by stating that argument is the main purpose of logic, and it is composite. Therefore, one must first understand its simple components. Then argument is defined as composed speech that produces assent (tasdiq), whether certain or conjectural. The classification is based on the relationship of generality between the evidence (what is used for inference) and the conclusion (what is inferred). If the evidence is more general than the conclusion, it is syllogism (qiyas); if the conclusion is more general, it is induction (istiqra'); if neither is more general, it is analogy (tamthil). The author also gives an alternative formulation: inference from universal to particular (qiyas), particular to universal (istiqra'), and particular to particular (tamthil). An objection is anticipated: what about inference from universal to universal? The author replies that it falls under the division because one universal will be subsumed under the other, thus it reduces to one of the three. This classification is foundational in logic, distinguishing the main types of argument used in Islamic sciences: syllogism (e.g., in kalam and fiqh), induction (e.g., deriving general rules from specific cases), and analogy (e.g., qiyas in usul al-fiqh).
+
+Key Terms
+الحجة
+القياس
+الاستقراء
+التمثيل
+التصديق
+
+Key Terms from Source Passage
+
+Checkpoint
+In the classification of arguments presented, if you infer from the rule 'All intoxicants are forbidden' to 'Khamr is forbidden', what type of argument is that?
+A) Syllogism (qiyas)
+B) Induction (istiqra')
+C) Analogy (tamthil)
+D) It is not covered
+
+Key Takeaway
+An argument is a composite expression that produces assent; it is classified by whether the evidence is more general, less general, or equal in generality to the conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following statement: 'All acts of worship are subject to the rule of permissibility unless a prohibition is established. Prayer is an act of worship, so it is permissible unless proven otherwise.' Classify this argument as qiyas, istiqra', or tamthil and justify your answer.
+?
+Provide your own example of an argument from an Islamic science (e.g., a hadith text, a fiqh ruling) and classify its type based on the generality criterion.
+
+Pages p. 5 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 127
+Module 2 · Lesson 2
+Next →
+Other Lessons
+intermediate
+8 min
+Distinguishing Part and Whole in Logic
+Author argues that part and whole have distinct essential and accidental properties.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the logical properties of part (بعض) and whole (كل) and correctly apply the rules of implication between them in Islamic syllogistic and juristic contexts.
+
+Core Idea
+Part is universal, whole is particular — never conflate their properties.
+
+In this passage, the author draws a sharp logical line between part (بعض) and whole (كل). Understanding this distinction is crucial for avoiding fallacies when moving from a part to the whole or vice versa. The key insight: a part, as a part, has universal reference (كلي), while the whole is a specific collection (جزئي). This lesson will guide you through the logical properties and their practical implications.
+
+Guided Path
+1
+Identify the two logical subjects
+The passage compares 'part' (بعض) and 'whole' (كل). Recognize that each has its own essence (ذات) and accident (عرض). The author asserts they are necessarily distinct.
+2
+Observe the universal/particular assignment
+Note that the part is described as universal (كلي) because 'some of something' can refer to any instance. The whole is particular (جزئي) because it refers to a specific collection. This is a key logical difference.
+The author adds that this holds for determinate things like 'every human', not for absolute things (otherwise the whole could also be universal).
+3
+Analyze the illustrative examples
+The author gives the example of an Abyssinian: if some part is white, we cannot say the whole is white. Similarly for negation: 'some of the thing is not all of it' is valid, but 'all of the thing is not all of it' is nonsense. Understand how these examples demonstrate the distinct properties.
+4
+Apply the implication rules
+The passage explains that if a part implies something, then what implies that part also implies that thing. Conversely, if a part is contrary to something, then what implies that part is contrary to that thing. This is a general rule for logical dependencies between part and whole.
+These rules are foundational for syllogistic reasoning involving quantifiers.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مطلقا (۱) ، وليس كذلك؛ إذ البعض من حيث هو البعض غير الكل لا محالة فيكون له من اللوازم ما لا يمكن أن يكون للكل. وكذلك بالعكس فإن للكل من اللوازم ما لا يمكن أن يكون للبعض. ألا ترى؟ أن بعض الشيء من حيث هو بعض الشيء كلي، وكل الشيء من حيث هو كل الشيء لا يمكن أن يكون كليا. وكذلك بالعكس فإن كل الشيء من حيث هو كل الشيء جزئي، وبعض الشيء من حيث هو بعض الشيء لا يمكن أن يكون جزئيا، والكلام في الشيء المعين كما في قولنا كل إنسان مثلا لا في الشيء مطلقا فإنه إذا كان مطلقا كان كل الشيء كليا كذلك. ولما كان البعض مخالفًا للكل ذاتا وعرضا فقد صح على الكل ما لا يصح على البعض، وعلى البعض ما لا يصح على الكل كذلك فيقال مثلا بعض الحبشي إذا كان أبيض كان بعضه مخصوصا بالبياض دون الكل. ولا يمكن أن يقال كله إذا كان أبيض كان بعضه مخصوصا بالبياض دون الكل. وعلى هذا في السلب فإنه لا يلزم من سلب الشيء عن البعض سلب ذلك الشيء عن الكل، وبالعكس كذلك فيقال مثلا بعض الشيء ليس كله البتة، ولا يقال كل الشيء ليس كله. وبالجملة فبعض الشيء إذا كان مستلزما لشيء كان المستلزم لذلك المستلزم مستلزما لذلك الشيء لما مر من قبل أن المستلزم للشيء مستلزم له وإن كان مع غيره. وكذلك إذا كان منافيًا لشيء فإن المستلزم لذلك المنافي يكون منافيا لذلك الشيء لا المستلزم لذلك البعض مطلقا، وهذا ظاهر إذا عرفت هذا فنقول:
+Absolutely, and it is not so; for the part, insofar as it is part, is necessarily not the whole, so it has properties that cannot belong to the whole. And likewise conversely, the whole has properties that cannot belong to the part. Do you not see? That a part of something, insofar as it is part of something, is universal, and the whole of something, insofar as it is whole of something, cannot be universal. And likewise conversely, the whole of something, insofar as it is whole of something, is particular, and a part of something, insofar as it is part of something, cannot be particular. And the discussion concerns a specific thing, as in our saying 'every human,' for example, not an absolute thing, for if it is absolute, then the whole of the thing would be universal as well. And since the part is different from the whole in essence and accident, what applies to the whole does not apply to the part, and what applies to the part does not apply to the whole. For example, it is said: 'Some Abyssinian, if it is white, then some of it is specified by whiteness to the exclusion of the whole.' And one cannot say: 'If all of it is white, then some of it is specified by whiteness to the exclusion of the whole.' And similarly for negation: negation of something from the part does not entail negation of that thing from the whole, and conversely. For example, it is said: 'Some of the thing is not all of it at all,' and it is not said: 'All of the thing is not all of it.' In summary, if some part of a thing implies something, then what implies that part implies that thing, as was mentioned earlier that what implies a thing implies it even if together with something else. Similarly, if it is contrary to something, then what implies that contrary is contrary to that thing, not what implies that part absolutely. This is clear. If you understand this, we say:
+Source pages p. 127
+
+Commentary
+This passage is a logical analysis of the relationship between part (بعض) and whole (كل). The author argues that part and whole are distinct in their essence (ذات) and accident (عرض), and therefore they have different logical properties and implications. He begins by stating that the part is not thewhole, so it has attributes (لوازم) that cannot belong to the whole, and vice versa. He illustrates this with the concepts of universality (كلي) and particularity (جزئي): a part, as a part, is universal (e.g., 'some human' can refer to any individual), while the whole cannot be universal because 'every human' picks out the entire class. Conversely, the whole is particular (a specific collection), while a part cannot be particular (it is a general portion). He emphasizes that this reasoning applies to determinate things (as in 'every human'), not absolute things, because if absolute, the whole could also be universal. He then gives examples: if some Abyssinian is white, we can say 'some part of it is white' but not 'the whole is white.' Similarly, for negation: 'some part is not the whole' is meaningful, while 'the whole is not the whole' is nonsense. He concludes that if a part implies something, then what implies that part implies that thing; and if a part is contrary to something, then what implies that part is contrary to that thing. This argument is foundational for understanding how quantifiers (some/all) affect logical inference in syllogistic logic.
+
+Key Terms
+بعض
+كل
+كلي
+جزئي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if some part of a thing is white, what can we correctly say?
+A) The whole is white.
+B) Some part of the thing is white, but the whole may not be white.
+C) The whole is necessarily not white.
+D) The part is not white.
+
+Key Takeaway
+The part is universal and the whole is particular; their logical properties and implications are distinct and not interchangeable.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider the statement 'Some of the scholars (بعض العلماء) are flawless (معصومون).' According to the passage, can you infer that 'All scholars are flawless'? Explain why or why not, referencing the universal/particular property of part and whole.
+?
+Task 2: The passage states: 'if some part of a thing implies something, then what implies that part implies that thing.' Provide an Islamic example from inheritance law (e.g., if a part of the estate is debt, then the whole estate is not necessarily debt-free). Use the rule to construct a valid inference.
+
+Pages p. 127 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 221
+Module 2 · Lesson 3
+Next →
+Other Lessons
+intermediate
+7 min
+The Objection to Deriving Categorical from Conditional
+Author raises an objection: the categorical conclusion may not be actual in reality, so the derivation is doubtful.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the objection to deriving categorical conclusions from conditional premises and explain why the objector places the claim in the realm of denial.
+
+Core Idea
+A conditional form does not guarantee that its categorical conclusion actually holds in reality.
+
+This lesson examines a critical objection raised against deriving a categorical conclusion from conditional premises. The objector argues that such a conclusion may not be actualized in the external world, placing the entire derivation in doubt. Understanding this objection is essential for distinguishing between logical validity and real-world truth in Islamic logic.
+
+Guided Path
+1
+Identify the target doctrine
+Find the claim being objected to: that a categorical conclusion can be derived from conditional premises (e.g., from 'if A then B' to 'B is true').
+The author says some predecessors held this view.
+2
+Extract the objector's stance
+The objector says the claim is 'in the realm of denial' (ḥayyiz al-man‘), meaning it is not accepted as valid.
+This is a strong rejection, not a minor correction.
+3
+Understand the reason: actualization depends on unknown factors
+The categorical conclusion's truth in reality requires additional conditions (like the antecedent being true) that are not guaranteed by the conditional form alone. Since these conditions are unknown, one cannot be certain the conclusion holds.
+The text says: 'إذ النتيجة الحملية لا تكون متحققة في نفس الأمر إلا وأن يتحقق من الأمور ما يحققه'.
+4
+Consider the preemptive counter-rebuttal
+The objector anticipates the response that 'there are proofs that prove actuality' and dismisses it: even if actuality is established, it does not prove the result is a logical consequence of the syllogism.
+This sets up a deeper discussion about when a result truly follows from its premises.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم إنه وإن كان من جملة ما ذهب إليه قوم من المتقدمين، فلقائل أن يقول فيه : إنه في حيز المنع؛ إذ النتيجة الحملية لا تكون متحققة في نفس الأمر إلا وأن يتحقق من الأمور ما يحققه في نفس الأمر نحو المقدم من الصغرى أو غيره ؛ وذلك من جملة ما لا يُدرى حاله فلا يمكن أن يحكم بأنها متحققة في نفس الأمر بل يمكن أن تكون متحققة وأن لا تكون. ولا يقال كيف هو وقد كان من البراهين ما يبرهن به التحقق كما مر ؛ فإن ذلك وإن كان متحققا فلا يبرهن به أنها من النتائج يعرف من بعد هذا إذا كان الاشتراك بين المقدمتين في جزء تام.
+Then, even if it is among what a group of predecessors held, one may say about it: it is in the realm of denial. For the categorical conclusion is not actualized in reality unless there are things that actualize it in reality, such as the antecedent of the minor or other than it; and this is among things whose state is unknown, so one cannot judge that it is actualized in reality. Rather, it can be actualized or not. And it cannot be said: 'How is that? There are proofs that prove actuality as mentioned', for even if that is actualized, it does not prove that they are from the results, as will be known later, when the common part between the two premises is a complete part.
+Source pages p. 221
+
+Commentary
+This passage presents an objection to the derivation of categorical conclusions from conditional premises. The objector argues that the claim is in the realm of denial (man'). Why? Because a categorical conclusion's actual truth in reality depends on extra factors (like the truth of the antecedent) that are unknown. Just because the conditional form yields a result does not guarantee that the categorical statement actually holds in the external world. The objection preemptively rejects the counterargument that there might be proofs of actuality, stating that even if actuality is established, it does not prove that the result is a logical consequence in the syllogistic sense. This sets up a discussion that the author will address later.
+
+Key Terms
+حيز المنع
+نتيجة حملية
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the objector say the claim is in the realm of denial?
+A) Because the syllogism is invalid
+B) Because the premises are false
+C) Because the categorical conclusion's actual truth depends on unknown factors
+D) Because the conclusion is contradictory
+
+Key Takeaway
+A conditional derivation does not automatically make the categorical conclusion true in reality; additional verification is needed.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the conditional argument: 'If the Qur'an is the word of Allah, then it is miraculous. The Qur'an is miraculous. Therefore it is the word of Allah.' Identify the categorical conclusion and explain why, according to the objection, its actual truth might be uncertain. (Hint: What unknown factors are involved?)
+?
+In a debate about prophetic miracles, a mutakallim says: 'If the moon was split, then Muhammad is a prophet; the moon was split, so Muhammad is a prophet.' Using the objection, point out what additional conditions would be needed to assert the conclusion as actually true.
+
+Pages p. 221 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 342
+Module 2 · Lesson 4
+Next →
+Other Lessons
+intermediate
+15 min
+Aspects of Knowledge and Ignorance
+Author discusses how the known is known from one aspect and unknown from another, distinguishing knowledge types.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish between different aspects of knowledge and ignorance (particular/universal, potential/actual) and explain how knowledge and opinion can coexist from different cognitive perspectives.
+
+Core Idea
+Knowledge and ignorance are not absolute; the same thing can be known from one aspect and unknown from another.
+
+This passage from an advanced logic text explores the layered nature of human knowledge. It addresses a common misconception: that ignorance is simply the absence of knowledge. The author shows that ignorance can be contrary to knowledge, and that knowledge and opinion can coexist in the same mind from different aspects. Understanding this helps us avoid conflating different cognitive states in our reasoning.
+
+Guided Path
+1
+Identify the core claim
+The author states that the object of inquiry is known from one aspect and unknown from another. This establishes that knowledge and ignorance are not mutually exclusive; they can coexist in different respects.
+2
+Examine the runaway slave example
+A runaway slave is known by a specific mark (the middle term) in terms of identity (who he is), but unknown in terms of location (where he is). This illustrates how the same object can be partially known and partially unknown.
+The 'mark' is the middle term in a syllogism.
+3
+Distinguish types of knowledge
+The author distinguishes knowledge as particular vs universal, and potential vs actual. This taxonomy explains why one can have universal knowledge but be ignorant of a particular instance, or have knowledge in potential but not in actuality.
+Universal knowledge does not guarantee particular knowledge.
+4
+Analyze the courage example
+One may know that something (like courage) is good in general, but mistakenly think it is evil in a specific instance. This shows how knowledge and opinion can coexist: universal knowledge (courage is good) and particular opinion (this act of courage is evil) are held simultaneously.
+This is not a contradiction because they concern different aspects.
+5
+Analyze the void example
+The mind may assent via syllogism that there is no void outside the world, yet the estimative faculty (wahm) may depict a void, leading to opinion that there is a void. When the syllogism is recollected, knowledge and opinion clash from one aspect but not from another, as they cannot both be consciously entertained at once.
+This demonstrates the coexistence of knowledge and opinion from different cognitive faculties.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وخلاصة الكلام في هذا المقام أن المطلوب يُعلم لا من الوجه الذي يجهل، ويُجهل لا من الوجه الذي يعلم؛ فليس إذن أن يجهل كل الجهل حتى إذا وجد فلا يُعلم أنه هو، ولا يعلم كل العلم حتى يكون غنيا عن الطلب. فالآبق مثلا يعرف بعلامة مخصوصة به أنه من هو؟ لكن لا يعرف أنه «أين هو؟»، فتلك العلامة هي الحد الأوسط عند الطرف. وبالجملة فالمعرفة إما خاصة وإما عامة. وأيضًا فإن المعرفة إما معرفة بالقوة وإما معرفة بالفعل، ولهذا يمكن أن يكون الشخص عارفًا بالكلي وهو جاهل بالجزئي لا الجهل الذي هو عدم العلم بل الجهل المضاد للعلم مثلا إذا علمنا أن هذه النقلة [؟] فرطية ثم رأيناها فحسبنا أنها محققة لعلمنا أنها خير أو غير تلك النقلة [؟]. وعلى هذا فإنه قد يظن خيرًا ما كالشجاعة مثلا أنه شر؛ وقد علمنا أن الشر ليس بخير أي شيء كان فيكون طيبا أن خيرًا ما ليس بخير. وقد يعرض للإنسان من جهة أخرى علم وظن لشيء واحد معا من جهة، وليس معا من جهة مثل أن الذهن قد يصدق من جهة القياس أن ليس خارج العالم خلاء ولا ملاء؛ ثم إنه إذا أعرض عن ذلك القياس ونظر في الأمر نفسه خاب [؟] الوهمية فرسمت وجوب أن يكون هناك خلاء أو ملاء فتتبعها النفس فتظن أن هناك خلاء أو ملاء على سبيل عقله. ثم إذا تذكر عن ذلك القياس انفعلت عن طاعة الوهم فيكون هناك من جهة علم وظن معا، ومن جهة ليس: أما الجهة الأولى فلأن هذا العلم قد اكتسب وحصل وليس يحتاج أن يتألف طلبه كالمشكوك فيه بقياس يستفاد والظن طارئ على هذا العلم وهو مكتسب. وفرق بين هذا المكتسب الذي هو معرض عنه وبين المجهول مطلقا. وأما الجهة الثانية فلاستحالة أن يخطرا جميعًا بالبال أن ليس هناك خلاء أو ملاء بالقياس الموجب لذلك؛ والنفس تظن أن هناك خلاء أو ملاء، وإن كانت القوة الوهمية مصمّمة على ذلك؛ إذ ليس الوهم والظن شيئًا واحدا على ما عرف.
+And the summary of the discourse in this place is that the sought thing is known not from the aspect by which it is unknown, and is unknown not from the aspect by which it is known; so it is not that it is completely unknown such that when it is found it is not known that it is it, nor is it completely known such that it is free from seeking. For example, the runaway slave is known by a specific mark that he is who he is? but he does not know 'where is he?', so that mark is the middle term at the extreme. And in sum, knowledge is either particular or general. Also, knowledge is either potential knowledge or actual knowledge. Therefore it is possible for a person to be a knower of the universal while being ignorant of the particular, not the ignorance which is absence of knowledge but the ignorance contrary to knowledge. For example, if we know that this sperm [؟] is primary then we see it and we think that it is actual for our knowledge that it is good or not that sperm. And on this basis, one may think something good, like courage, is evil; and we have known that evil is not good, whatever it is, so it would be good that something good is not good. And it may occur to a person from another aspect knowledge and opinion of one thing together from one aspect, and not together from another aspect, such as the mind may assent from the aspect of syllogism that there is no void and no plenum outside the world; then if it turns away from that syllogism and looks at the matter itself, the estimative faculty fails and depicts the necessity that there is void or plenum, so the soul follows it and supposes that there is void or plenum in the manner of its intellect. Then when it recollects that syllogism, it is affected by obedience to the estimation, so there exists from one aspect knowledge and opinion together, and from an aspect not. As for the first aspect, because this knowledge has been acquired and obtained and does not need to compose its seeking like the doubtful thing from a syllogism from which benefit is derived, and opinion is supervenient upon this knowledge and it is acquired. And there is a difference between this acquired knowledge which is turned away from and the absolutely unknown. As for the second aspect, because it is impossible that both occur to the mind that there is no void or plenum by the syllogism necessitating that; and the soul supposes that there is void or plenum, even if the estimative faculty is resolute upon that; since estimation and opinion are not one thing as has been known.
+Source pages p. 342
+
+Commentary
+This passage is an epistemological discussion about the nature of knowledge and ignorance. The author begins by stating that the object of inquiry is known from one aspect and unknown from another; it is not completely unknown (so that when encountered it would not be recognized) nor completely known (so that no search is needed). The example of a runaway slave illustrates this: the slave is known by a specific mark (the middle term) for 'who he is' but unknown regarding 'where he is'. The author then distinguishes knowledge into particular vs universal, and potential vs actual. A person may know something universally but be ignorant of a particular instance, not merely absent of knowledge but with contrary ignorance. The example given is knowing that a certain sperm is primary but mistaking it for something else. Then the author discusses how one can have both knowledge and opinion about the same thing from different aspects. The example is the void outside the world: the mind may assent via syllogism that there is no void, but when turning away from that syllogism, the estimative faculty (wahm) depicts a void, leading the soul to opine that there is a void. Then recollection of the syllogism conflicts with the estimation. Thus from one aspect there is knowledge and opinion simultaneously, but from another aspect they are not simultaneous because they cannot both be consciously entertained at once. The author emphasizes that estimation (wahm) and opinion (zann) are distinct. This section guards against conflating different types of ignorance and the coexistence of opposing cognitive states.
+
+Key Terms
+المطلوب
+العلامة
+الحد الأوسط
+المعرفة
+العلم
+الظن
+الوهم
+القوة
+الفعل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the example of something that may be mistakenly thought good when it is actually evil?
+A) Courage
+B) Generosity
+C) Knowledge
+D) Justice
+
+Key Takeaway
+Knowledge and ignorance can coexist in different respects, and the same object can be known through one cognitive faculty while unknown or opined through another.
+
+How This Lesson Applies — to MY Life?
+?
+Using the runaway slave example as a model, create your own example from Fiqh where something is known from one aspect (e.g., the ruling is known from the text) but unknown from another (e.g., its specific application).
+?
+Identify a situation in your study of 'Aqida where you might hold both knowledge (from proof) and opinion (from personal inclination) about the same matter, and explain which aspect each belongs to.
+
+Pages p. 342 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 376
+Module 2 · Lesson 5
+Next →
+Other Lessons
+intermediate
+5 min
+Classification of Scientific Principles: Existence, Essence, and the Priority of Why
+Author classifies principles of a science as existence, essence, or both, and discusses the priority of the 'why' query.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between existence-only, essence-only, and combined principles in a science, and explain why the 'why' query always precedes the other two.
+
+Core Idea
+The 'why' query is always prior to the 'is it' and 'what is it' queries in scientific inquiry.
+
+In organizing any science, we must first determine what its principles are. The author classifies these principles based on whether they involve existence, essence, or both. Additionally, he emphasizes that the search for the cause—the 'why'—always comes before the other inquiries. This lesson unpacks this classification and the priority of the 'why' query.
+
+Guided Path
+1
+Distinguish simple vs. composite matters in principles
+Identify that principles can be simple or composite. Composite matters are predicative and only seek assent, not definition. Therefore, when principles are composite, they are placed under the 'existence' category.
+Composite = predicative, simple = conceptual.
+2
+Classify principles by existence and essence
+Based on the passage, three categories emerge: principles placed with existence only (hahliyya), with essence only (mahiyya), or with both. Understand the reasoning: composite principles get existence only; simple accidents get essence only; non-accidents included in the subject get both.
+3
+Analyze the priority of the 'why' query
+The author states that the 'why' query is always prior to both existence and essence queries. Consider examples: when we know a fact (e.g., magnet attracts) without knowing the cause, the 'why' still drives inquiry.
+4
+Connect to demonstration theory
+Note that when the middle term is the cause, the 'why' and the existence/essence queries unite in one demonstration. This shows how the queries are integrated in demonstrative science.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الأمور التي تذكر في المبادئ قد تكون مفردة، وقد تكون مركبة، والمركبة إنما تليق أن يُستدعى فيها التصديق لا لأن تعطى لها الحدود فإن التركيب الخبري إنما هو للتصديق. وأما الحدود فإنها للمعاني المفردة وما في حكمها والأصول الموضوعة مركبة فإذن لا يتحقق فيها معنى إعطاء الحد والماهية؛ وحينئذ يلزم أن يكون هذا القسم من المبادئ توضع بالهلية. وأما المعاني المفردة فمنها ما هي أعراض، ومنها ما هو غير أعراض بل هي داخلة في جملة موضوع الصناعة والنظر في موضوع الصناعة لا يكون لأن موضوعها فقط بل لأن تلك الأعراض حاصلة له أم لا. وإنها لا يلزم أن تكون بينة فيجب تعريفًا، فيجب إذن أن توضع حدودها في المبادئ دون وجودها بخلاف الأمور الداخلة في الموضوع فإنه يلزم أن يعرف وجودها فإذن في البعض توجد حدودها في المبادئ دون وجودها، وفي البعض توضع حدودها ووجودها، فيتبين من جميع ذلك أن من الأمور المصدرة في الصناعة ما يوضع بهلية فقط، ومنه ما يوضع بماهية، ومنه ما يوضع بهلية وماهيته. وأما مطلب «لمَ» فإنه على كل حال متقدم عن المطلبين معا : فإن طلب عليه الشيء بعد تصور ذلك الشيء فإما طلب اللّمَ الذي بحسب القول ربَّما كان متقدما على طلب اللمَ الذي بحسب الأمر في نفسه؛ فربَّما صح عندنا بقياس إن ج ب ولا تُدرى العلة في نفس الوجود لكون «ج ب»؛ وربَّما لم يكن متقدما / عليه . وذلك حيث كان الشيء بينا بنفسه أو بالحس لكن [٢٧٧] تكون عليه خفية كجذب المغناطيس فإنه إذا أصيبت بالحس خطر بالبال طلب عليه في نفس الأمر لا طلب التصديق به وقد يتفق أن يكون الحد الأوسط في القياس علة للأمر نفسه فيجتمع المطلبان معا في بيان واحد.
+Then the matters mentioned in the principles may be simple or composite. Composite matters are only suitable for seeking assent, not for giving definitions, because predicative composition is for assent. As for definitions, they are for simple meanings and what follows their rule. The foundational principles are composite, so the meaning of giving a definition and essence does not occur in them; consequently this category of principles is placed with existence (hahliyya). As for simple meanings, some are accidents and some are not accidents but are included in the subject matter of the art. Consideration of the subject matter of the art is not only because of its subject, but because of whether those accidents occur to it or not. They need not be self-evident, so they must be defined. Thus their definitions must be placed among the principles without their existence, unlike matters included in the subject, for their existence must be known. So in some cases their definitions are placed in the principles without their existence, and in some cases both their definitions and existence are placed. From all this it becomes clear that among the items presented in an art, some are placed with existence only, some with essence only, and some with both existence and essence. As for the 'why' query, it is in any case prior to both queries. For when a thing is sought after its conception, sometimes the 'why' in terms of statement may be prior to the 'why' in terms of the thing itself. Thus it may be proven to us by a syllogism that J is B without knowing the cause in existence for 'J being B'; and sometimes it is not prior to it. That is when the thing is self-evident or sensory but its cause is hidden, like the attraction of a magnet: when it is perceived by sense, the search for its cause in re occurs to the mind, not the search for assent to it. And it may happen that the middle term in the syllogism is a cause for the thing itself, so both queries come together in one demonstration.
+Source pages p. 376
+
+Commentary
+This passage is an epistemological classification of the principles (mabadi') used in a science. The author distinguishes between simple and composite matters: composite matters, being predicative, are only sought for assent (tasdiq), not for definition (hadd). Therefore, when principles are composite, they are placed under the 'existence' (hahliyya) category—meaning we only ask whether they exist, not what they are. Simple matters, on the other hand, may be accidents or non-accidents. Accidents of the subject need definition but not their existence, since they are not part of the subject. Matters included in the subject require both existence and definition. Thus, three types emerge: some principles are given with existence only, some with essence (mahiyya) only, and some with both. Then the author turns to the 'why' (lima) query, which always precedes the other two. He notes that sometimes we know a proposition via a syllogism without knowing the cause—like knowing that a magnet attracts without understanding why. In other cases, the middle term is the cause itself, uniting the two queries in one demonstration. The commentary should emphasize that the classification is essential for organizing any science: one must first decide whether to ask 'is it?' or 'what is it?' or both, and the 'why' always leads inquiry.
+
+Key Terms
+مبادئ (mabadi'): Foundational premises or principles of a science from which conclusions are derived [Note: Stable term across logic works, but in this text it is classified by type (existence/essence).]
+هلية (hahliyya): The status of being asked about existence (هل) – whether something is [Note: Also used in kalām and falsafa; consistent.]
+ماهية (mahiyya): The quiddity or essence of something – what it is [Note: Standard term across philosophy.]
+لم (lima): The 'why' query seeking the cause or explanation [Note: In logic, often tied to demonstration (burhān); here emphasized as prior.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is true about the 'why' (lima) query?
+A) It is subsequent to the existence and essence queries.
+B) It always precedes both the existence and essence queries.
+C) It only applies to composite definitions.
+D) It is equivalent to the existence query.
+
+Key Takeaway
+The classification of principles into hahliyya and mahiyya is essential for organizing any science, and the 'why' query always drives the inquiry.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following principles from Usul al-Fiqh as placed with existence only, essence only, or both: (a) the existence of the Lawgiver, (b) the definition of ijtihad, (c) the ruling that consensus is a source.
+?
+Explain in your own words why the 'why' query is prior to both existence and essence queries, using the example of the magnet attraction from the passage.
+
+Pages p. 376 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 390
+Module 2 · Lesson 6
+Next →
+Other Lessons
+intermediate
+7 min
+Why Experimentation Does Not Yield Certainty
+Author distinguishes tajriba from istiqra' and argues tajriba does not yield certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between experimentation (tajriba) and induction (istiqra') and explain why tajriba alone produces only predominant opinion, not certainty.
+
+Core Idea
+Experimentation yields conditional knowledge, not certainty, because it depends on a suppressed syllogism and is vulnerable to mistaking accidents for essences.
+
+We often think that repeated observation of a pattern gives us certain knowledge. But the author challenges this assumption. He distinguishes experimentation (tajriba) from induction (istiqra') and shows that even repeated observation cannot yield certainty unless it is backed by a syllogism linking the observed property to the essence of the thing. This lesson unpacks that argument and examines a striking hypothetical: if you only ever see black people, would that prove all humans are black?
+
+Guided Path
+1
+Identify the author's core question
+The author opens by asking why experimentation produces knowledge differently from induction. Note the key difference: induction (complete or incomplete) yields certainty only when complete, while experimentation is not simply a matter of completeness.
+This sets up the epistemological puzzle.
+2
+Analyze the hypothetical scenario
+Consider the imaginary case where only black people are observed in Sudan. If repeated observation alone necessitated belief, one would have to believe all humans are black, which is false. The author argues this shows that tajriba does not give certainty by frequency alone.
+This reveals the problem: raw repetition can lead to error.
+3
+Extract the author's solution
+The author says tajriba produces knowledge not by frequency but by an implicit syllogism (qiyas) that connects the observed property to the thing's nature. The syllogism might be: 'This thing has nature X; nature X necessitates property Y; therefore this thing has Y.'
+This suppressed syllogism is what elevates tajriba above mere enumeration.
+4
+Understand conditional universality
+The author says tajriba gives 'kulli bi-shart' — a universal conditional on the absence of hindrances (mani'). That is, the regularity holds always unless something prevents it. This is not absolute certainty but a conditional claim.
+The condition 'unless there is a hindrance' acknowledges exceptions.
+5
+Recognize the error of mistaking accident for essence
+The author warns that tajriba often errs when accidental properties ('arad) are mistaken for essential (dhati). In the Sudan example, blackness is accidental to humanity, so tajriba based on it gives only opinion, not certainty.
+This is a crucial epistemic caution: correlation is not essence.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ما بال التجربة تفيد علمًا على وجه يخالف في إفادته الاستقراء؟ لكنا نقول إن الاستقراء إما أن يكون تاماً كما مر ، وإما أن لا يكون وذلك لا يوقع غير الظن والتجربة ليست كذلك. ثم نعود ونقول ما بال التجربة يوقع في أشياء حكما يقينيا ثم لو توهمنا أن لا وجود إلا في بلاد السودان، ولا يتكرر على الحس إنسان إلا أسود؛ فهل يوجب ذلك أن يقع اعتقاد؟ فإن لم يوجب فلِمَ صار تكرّر يوقع وتكرّر لا يوقع ؟ وإن أوجب فقد أوقع خطأ؛ وإنه مما يزيل الوثوق عن التجربة. فنقول إن التجربة ليست تفيد العلم لكثرة ما يشاهد على ذلك الحكم فقط بل الاقتران قياس بها. ومع ذلك فليس يفيد علمًا كليا قياسًا مطلقا بل كليا بشرط ؛ وهو أن هذا الشيء الذي تكرّر على الحس يلزم طباعه في الناحية الشيء تكرّر الحس فيها أمر دائما إلا أن يكون مانع ؛ فيكون كليا بهذا الشرط فهذا من جملة ما أشار إليه الشيخ في الشفاء(۱)، والحق فيه أن التجربة من حيث هي التجربة لا تفيد اليقين. وكيف والتجربة كثيرًا ما يغلظ إذا أخذ ما بالعرض مكان ما بالذات فيها؛ فتوقع ظناً لا يقينا وإن كان الظن ظنا غالبًا.
+Why does experimentation produce knowledge in a way that differs from induction? But we say that induction is either complete, as passed, or it is not; and that does not produce anything other than opinion, and experimentation is not like that. Then we return and say: Why does experimentation produce a certain judgment in things? Then if we imagine that there is no existence except in the land of Sudan, and no human is perceived by sense except a black one; does that necessitate that a belief occurs? If it does not necessitate, then why does repetition produce [certainty] and repetition does not produce? And if it necessitates, then it has produced error; and that is something that removes confidence from experimentation. So we say: Experimentation does not produce knowledge merely by the frequency of what is observed of that judgment, but rather the conjunction [implied] by syllogism with it. And despite that, it does not produce universal knowledge absolutely by syllogism, but a conditional universal; that is, that this thing which is repeated to sense — its nature necessitates in that aspect the thing repeated to sense always, unless there is a hindrance; so it is universal with this condition. This is part of what the Shaykh indicated in al-Shifa (1), and the truth in it is that experimentation as such does not yield certainty. How [could it]? For experimentation often errs when accidental [properties] are taken in place of essential [properties] in it; so it produces opinion, not certainty, even if the opinion is a predominant opinion.
+Source pages p. 390
+
+Commentary
+This passage examines the epistemological status of experimentation (tajriba) and contrasts it with induction (istiqra'). The author opens with a question: why does experimentation yield knowledge differently from induction? He notes that induction is either complete (tam) which gives certainty, or incomplete which only gives opinion; but experimentation is not simply a matter of completeness. He then presents a hypothetical: in a land where only black people exist, repeated observation of black humans might seem to yield the universal that all humans are black. If this observation does not necessitate belief in that universal, then why does repetition sometimes produce certainty? If it does necessitate, then it produces error, undermining trust in experimentation. The author resolves this by stating that experimentation does not derive knowledge merely from frequency; rather, it involves an implicit syllogism (qiyas) that connects the observed property to the nature of the thing. Even so, it yields only conditional universality (kulli bi-shart), i.e., that the observed regularity holds always unless a hindrance (mani') occurs. This is the position of Ibn Sina in al-Shifa. The author concludes that experimentation as such does not yield certainty, because it is prone to error when accidental ('arad) properties are mistaken for essential (dhati) ones; it gives predominant opinion (zann ghalib), not certainty (yaqin).
+
+Key Terms
+التجربة
+الاستقراء
+الظن
+اليقين
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why does repeated observation of only black people in Sudan not justify the universal belief that all humans are black?
+A) Because the observation is not frequent enough.
+B) Because the property 'blackness' is accidental, not essential, and there is no syllogistic connection.
+C) Because Sudan is a special region with exceptional genetics.
+D) Because experimentation as such never gives any knowledge.
+
+Key Takeaway
+Tajriba yields only conditional universality and predominant opinion, not certainty, because it relies on a suppressed syllogism and can err when accidental properties are mistaken for essential ones.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Every time I have seen a fire, it was hot. Therefore, fire is necessarily hot.' Apply the author's analysis: does this qualify as tajriba producing certainty? Why or why not? Identify the implicit syllogism and the condition that must hold.
+?
+In Islamic jurisprudence, the principle of 'amal ahl al-Madina (practice of the people of Medina) is sometimes cited as a source of law based on repeated practice. Using the author's criteria, assess whether such 'amal can yield certainty or only predominant opinion. Justify your answer.
+
+Pages p. 390 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 416
+Module 2 · Lesson 7
+Next →
+Other Lessons
+intermediate
+5 min
+Testing the Primacy of a Judgment by Removing Meanings
+Author describes the method for testing whether a judgment is primary by eliminating meanings.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the method of removing meanings to determine whether a judgment is primary in an Islamic science context.
+
+Core Idea
+A judgment is primary to a subject only if it remains when all accidental attributes are removed.
+
+In Islamic sciences, distinguishing primary (essential) judgments from accidental ones is crucial for sound reasoning. For example, in Usul al-Fiqh, identifying the effective cause ('illah) of a ruling requires knowing which attributes are essential. This lesson presents a logical method to test primacy by systematically removing attributes and observing whether the judgment persists.
+
+Guided Path
+1
+Identify the subject and the judgment
+Take the proposition in question. For example, from fiqh: 'Every intoxicating beverage is haram.' The subject is 'intoxicating beverage' and the judgment is 'haram'.
+2
+List all meanings (attributes) attached to the subject
+Enumerate the attributes associated with the subject. For 'intoxicating beverage', attributes could be: 'liquid', 'made from grapes', 'fermented', 'causes intoxication'.
+3
+Remove all attributes except one and check the judgment
+Eliminate all attributes except one, e.g., keep only 'causes intoxication'. If the judgment 'haram' still holds, then the judgment is tied to that attribute. For example, remove 'made from grapes' and 'fermented' but keep 'causes intoxication'; the ruling remains. But if you remove 'causes intoxication', the ruling disappears.
+4
+Vary the kept attribute while keeping others fixed
+Replace the kept attribute with alternatives. For 'causes intoxication', vary the substance (grape wine, date wine, etc.). If the judgment remains constant, it strengthens the conclusion that the judgment is primary for that attribute (here, intoxication).
+5
+Conclude whether the judgment is primary for the attribute or the essence
+If the judgment persists despite removal and variation of all attributes except one, and fails when that attribute is removed, then the judgment is primary for that attribute. In our example, the judgment 'haram' is primary for the attribute 'causes intoxication', not for being liquid or from grapes.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومن أراد أن لا يضل في معرفة أن الحكم أولي فيجب إذا كان الحكم متناولاً لمعاني مختلفة أن يمتحن أولية الحكم بأن يرفع جملة المعاني إلا واحدا منها، ويبدل ذلك الواحد دائما فيما إذا أثبت البواقي ثبت الحكم. وإذا ارتفع أن يقع الحكم مع بقاء البواقي فالحكم له أولا؛ مثاله مثلث متساوي الساقين من نحاس مثلا وهو أيضًا شكل : فإذا ارتفعت تساوى الساقين. وكونه من نحاس دون المثلث، وحدت كون زواياه الثلاث مساوية لقائمتين ثابتا ولو أمكن أن يُرفع معنى الشكل ويبقى المثلث كان الحكم ثابتا ولكن إنما لا يبقى لأن المثلث لا يبقى؛ ثمَّ إذا ارتفعت المثلث وبقي الشكل لم يبق هذا الحكم. فمن جانب تساوي الساقين وكونه من نحاس نجد الحكم ثابتا مع رفع الأمرين وإثبات المثلث، ومن جانب الشكل بحد الحكم مرتفعًا مع وضع الأمرين ورفع المثلث، فيجتمع من الامتحانين أن الحكم كلي للمثلث لا غير.
+And whoever wants not to stray in knowing that a judgment is primary must, when the judgment applies to different meanings, test the primacy of the judgment by removing all meanings except one, and constantly varying that one, so that when the others are affirmed the judgment is affirmed. And when it is removed, that the judgment does not occur with the rest remaining, then the judgment is primary for it. Example: an isosceles triangle made of copper, for instance, and it is also a shape. So if the equality of the sides and its being made of copper are removed without the triangle, the fact that its three angles equal two right angles remains fixed. And if it were possible to remove the meaning of shape and the triangle remain, the judgment would remain, but it does not remain because the triangle does not remain. Then when the triangle is removed and the shape remains, this judgment does not remain. So from the side of equality of sides and its being made of copper, we find the judgment fixed with the removal of the two and the affirmation of the triangle; and from the side of shape, we find the judgment removed with the positing of the two and the removal of the triangle. So from the two tests it is gathered that the judgment is universal for the triangle alone.
+Source pages p. 416
+
+Commentary
+This passage explains a method for testing whether a judgment is primary (awwali), i.e., intrinsic to the subject. The method involves removing all attributes of the subject except one and checking if the judgment still holds. If it does, the judgment is primary for that remaining attribute. An example is given: an isosceles triangle made of copper has the property that its angles equal two right angles. This property remains when we remove the attributes of being isosceles and being copper, but when we remove the triangle itself, the property vanishes. Hence the property is universal to triangle as such, not to the specific attributes. The passage demonstrates that the judgment belongs to the essence of triangle.
+
+Key Terms
+حكم أولي
+امتحان
+مثلث متساوي الساقين
+
+Key Terms from Source Passage
+
+Checkpoint
+In the test for a primary judgment described in the passage, what is the first step?
+A) Affirm all attributes of the subject simultaneously.
+B) Remove all attributes except one and check if the judgment remains.
+C) Add new attributes to see if the judgment changes.
+D) Replace the subject with a different one.
+
+Key Takeaway
+The method of removing meanings reveals which judgments are intrinsic to the essence and which are merely accidental.
+
+How This Lesson Applies — to MY Life?
+?
+Use the method of removing meanings to test whether the judgment 'Worship is due to Allah alone' is primary to the attribute 'sincerity (ikhlas)' or to 'the act of prayer (salat)'. Outline the steps and your conclusion.
+?
+Apply the method to the hadith: 'Actions are judged by intentions.' Consider whether the judgment 'reward depends on intention' is primary to 'intention' or to 'the action' itself. How does the test reveal the primacy?
+
+Pages p. 416 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 448
+Module 2 · Lesson 8
+Next →
+Other Lessons
+intermediate
+5 min
+Using Proximate Causes in Explanations
+Author critiques using distant causes when proximate ones are available.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between proximate and distant causes in explanations and identify the appropriate causal level in Islamic scholarly discourse.
+
+Core Idea
+A good explanation uses the proximate cause, not a distant one.
+
+This passage from the logical work critiques a common error in reasoning: using distant causes when proximate ones are available. The author illustrates this with an example about why the Slavs lack something. Understanding this principle helps us evaluate explanations in Islamic sciences, where causal chains matter.
+
+Guided Path
+1
+Identify the effect and the causes
+Look at the example: the effect is the Slavs lacking something (originally wines). The distant cause is 'they have no vineyards'. The proximate cause is 'they have no wines'. Understand which cause is closer to the effect.
+The cause of a cause is not itself the cause of the effect.
+2
+Analyze the author's critique
+The author criticizes those who 'distance themselves from proximate causes to distant ones'. They give the cause of the cause, which does not achieve the explanatory purpose. The proximate cause would 'dispense with the striking' (the need for further explanation).
+3
+Apply to Islamic sciences
+In usul al-fiqh, when identifying the 'illah for a ruling, the immediate cause is sought. For example, the prohibition of wine is owed to its intoxicating effect (proximate), not to its being made from grapes (distant).
+Always check if the cause directly produces the effect.
+4
+Practice distinguishing
+Given a causal claim, decide if it is proximate or distant. For instance, 'The prayer is invalid because the person did not perform wudu' – wudu is a proximate cause of validity? Actually wudu is a condition, not a cause. But if the claim were 'the prayer is invalid because the person was in a state of minor impurity', that is more proximate than saying 'because they ate lunch'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فاللا حيوان أخص منه بل علة التنفّس أخص من الحيوانية، وعلة اللا تنفس أعم من عدم الريئة لكن قوما لشدة تكلفهم يتباعدون عن العلل القريبة إلى البعيدة كما قيل إن الصقالية؛ إذ ليس فيها كروم. ولو قيل؛ إذ فيها خمور لكان عسى قد أدنت العلة القريبة في الإغناء عن المضربين ولكن أعطى علة العلة، فلم يحصل المقصود.
+The non-animal is more specific than it, but the cause of respiration is more specific than animality, and the cause of non-respiration is more general than absence of lungs. But some people, due to their great affectation, distance themselves from proximate causes to distant ones, as it was said concerning the Slavs: 'because they have no vineyards.' If it were said: 'because they have wines,' it would nearly have brought the proximate cause close in dispensing with the striking [metaphor?], but it gave the cause of the cause, so the purpose was not achieved.
+Source pages p. 448
+
+Commentary
+This passage discusses the importance of using proximate causes in explanations. The author critiques those who, out of excessive affectation, resort to distant causes instead of proximate ones. The example given: some attribute the lack of something among the Slavs to the absence of vineyards, which is a distant cause. The more proximate cause would be the absence of wines, but that is the cause of the cause, not the immediate cause. Thus, the explanation fails to achieve its aim of providing a clear, direct cause. This illustrates a logical principle about the proper structure of causal explanations in the sciences.
+
+Key Terms
+علة
+العلة القريبة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what would be an example of a proximate cause in the discussion about the Slavs?
+A) Because they have no vineyards
+B) Because they have wines
+C) Because of the cause of the cause
+D) Because of their affectation
+
+Key Takeaway
+In causal explanations, always aim for the proximate cause; the cause of a cause is not a direct explanation.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the following explanation: 'The prayer is invalid because the person didn't perform wudu.' Is wudu a proximate or distant cause for prayer validity? What would be a more distant cause?
+?
+In the example about the Slavs, why is 'because they have no wines' a better explanation than 'because they have no vineyards'? Explain using the concept of proximate cause.
+
+Pages p. 448 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 448
+Module 2 · Lesson 9
+Next →
+Other Lessons
+intermediate
+10 min
+Three Ways a Science Can Be Subordinate to Another
+Author classifies how one science can be under another and gives examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish three ways one science can be subordinate to another and identify which science provides the 'why' (lim) and which provides the 'that' (inn).
+
+Core Idea
+The higher science gives the cause; the lower science gives the fact.
+
+This passage from Aristotle's 'First Teaching' (Posterior Analytics) is expanded to classify the hierarchical relationships between sciences. The author explains that the higher science provides causal explanations (lim), while the lower science only knows the facts (inn). Understanding this hierarchy is essential for organizing knowledge in Islamic sciences and correctly attributing explanatory authority.
+
+Guided Path
+1
+Identify the two levels of science
+The passage distinguishes between the higher science (al-ilm al-a'la) and the lower science (al-ilm al-asfal). The higher science gives the cause (lim), the lower science gives the fact (inn).
+2
+Understand the first way: whole science subordinate
+One whole science is under another, like optics under astronomy, mechanics under geometry, and harmonics under arithmetic. They share a subject but differ in perspective.
+The author says these are 'almost univocal' but not truly because the relations differ in quantity and quality.
+3
+Understand the second way: a part of a science subordinate
+A part of one science is under another, e.g., the halo and rainbow in natural science are studied under optics then geometry. The naturalist gives a vague cause, the optician gives the specified cause.
+4
+Understand the third way: a particular question subordinate
+A specific question from one science has its cause in another, e.g., the slow healing of circular wounds is known by the physician (inn), but the cause is given by the geometer (lim) because the circle has the widest perimeter.
+The cause can be composite from natural and geometrical sciences.
+5
+Apply to a new Islamic example
+Think of Islamic astronomy (ilm al-nujum) and practical navigation (ilm al-malaha). The navigator knows the positions of stars (inn), while the astronomer explains the reasons (lim).
+This helps clarify explanatory dependencies in Islamic sciences like fiqh and kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد قيل في التعليم الأول: إنما يمكن أن يكون هذا في علمين إذا كان أحدهما تحت الآخر بمنزلة علم المناظر عند علم الهيئة، وعلم الحيل عند علم المجسّمات، وعلم تأليف اللحون عند علم العدد: فإن هذه العلوم يكاد أن يكون الأعلى والأسفل منها متواطئ الاسم. وإنما قيل يكاد ولم يقل بالحقيقة؛ وذلك لأن العلمين من هذين يُنسبان إلى شيء واحد مثل النجوم التعليمي ونجوم أصحاب الملاحة: فإنهما ينظران في مواضع النجوم، وتأليف اللحون التعليمي وتأليف اللحون الصناعي، فإنهما ينظران في حال النغم. وعلى هذا فإن لهذا الاشتراك لها نسبة المتواطئة؛ ولكن ليست بالحقيقة متواطئة فإن علم الموسيقى مثلا ينظر في عدد ما بحال وهو عدد يقع في النغم، وعلم المناظر ينظر في مقادير ما بحال وهي مقادير ما للبصر إليها نسبة . ولأنهما وإن اشتركا في المنظور فيه وإستفرق نسبتهما إليه من جهة كمية المنسوب إليه وكيفيته فليست النسبة تقابل لبضعها أولا ولبضعها ثانيًا؛ وإنه من جملة ما يمنع التواطؤ، ولما كادت تكون هذه من المتواطئة أسماؤها تشابهت العلم الواحد بوجه ما فتشاركت بوجه ما في المسائل لكن اختلفت فإن العلم الأعلى يعطي اللم، والأسفل يعطي الإن كما مر . ثم العلم بإنَّ لمن يحس بالأمر والعلم بلم فذلك لأصحاب التعاليم: يعني أن العلم بإن هو للملاح، والعلم بلم هو للمنجم. وعلى هذا وقيل لأن أصحاب العلوم العالية عندهم السبب ؛ وكثيرًا ما لا يحسون بالجزئيات ولا يشعرون لها على ما هي عليه؛ وهذا هو الأكثر بالنسبة. وقد يكون على وجه بإن وهو أن يكون جزء من علم تحت علم آخر لا كله مثل إن النظر في الهالة والقوس وما أشبه ذلك من الجمالات الكلية من انعكاس البصر إلى تتر أو ملوّن أملس صقيل جزء من العلم الطبيعي وموضوع تحت علم المناظر : ثم تحت علم الهندسة والعلم كله ليس كذلك فيكون عند الطبيعي أن القوس هي هكذا وهكذا بسبب كذا غير محصل، وعند المناظري أنه لم هو بالسبب المحصل المقرر. وقد يكون على وجه ثالث وهو أنه قد يتفق أن لا يكون العلم كله ولا جزء ما معين تحت علم آخر بل مسألة ما بعينها؛ إذ يتفق بعرض عارض غريب لموضوع الصناعة مثل استدارة الجرح. فإن هذا العارض موجب عارضًا ذاتيا وهو عسير الانزمال فيكون باقتران عارض غريب منهما لالتزام عارض ذاتي فيكون برهانه المعطي اللم لا من ذلك العلم بل من العلم الذي منه العارض الغريب. فالطبيب يحكم أن الجراحات المستديرة بطيئة الانزمال، والمهندس يعطي العلة في ذلك حين يقول إن الدائرة أوسع الأشكال إحاطة. وقد يمكن أن يكون السبب مركباً من العلم الطبيعي والهندسي فيقال لأن الانزمال إنما يتم بحركة إلى الوسط : فإذا كانت زاوية تعينت جهة الحركة فيسهل الالتقاء. وإذا لم يكن زاوية كانت الحركة في جميع المحيط معا؛ وتعاونت الأجزاء وأبطأ الانزمال.
+It has been said in the First Teaching: This can only occur in two sciences when one is under the other, as optics under astronomy, mechanics under geometry, harmonics under arithmetic. For these, the higher and lower almost have a univocal name. But 'almost' not 'actually' because the two sciences are attributed to one thing, like theoretical astronomy and navigators' astronomy: both look at star positions; theoretical harmonics and practical harmonics: both examine notes. So the sharing has a univocal relation, but not truly univocal. Music theory examines number in notes; optics examines magnitudes relative to sight. They share subject but relations differ in quantity and quality, preventing true univocity. Their names resemble one science, so they share some problems, but differ: the higher gives the 'why', the lower gives the 'that'. Then knowledge of 'that' is for the perceiver, knowledge of 'why' for the learned. The higher sciences have the cause, but often do not perceive particulars. A second way: a part of a science under another, e.g., halo and rainbow in natural science under optics then geometry. The naturalist says the rainbow is thus due to an unspecified cause; the optician gives the specified cause. A third way: not whole science nor a part, but a particular question, e.g., roundness of a wound. This accidental property necessitates a self-essential property (slow healing), so the demonstration of 'why' comes from the science of the accidental property. The physician judges circular wounds heal slowly; the geometer says because the circle has the widest perimeter. The cause can be composite: healing moves to center; with an angle, movement direction is fixed; without, movement along the whole circumference together, parts cooperate, healing slows.
+Source pages p. 448
+
+Commentary
+This passage explains the relationship between subordinate sciences. It opens by citing the 'First Teaching' (Posterior Analytics) and gives examples: optics under astronomy, mechanics under geometry, harmonics under arithmetic. The author notes these sciences are almost univocal but not truly, because they share the same subject but differ in perspective. The higher science provides the 'why' (cause), the lower provides the 'that' (fact). Three ways a science can be subordinate: (1) whole science under another (as optics under astronomy); (2) a part of a science under another (as natural science's study of halo and rainbow is part of optics); (3) a particular question from one science whose cause belongs to another (as the roundness of wounds studied by medicine but cause from geometry). The author illustrates with the example of circular wounds healing slowly: the physician knows the fact, the geometer provides the cause (circle's wide perimeter). The cause may be composite from natural and geometrical sciences. This classification helps understand the hierarchical structure of sciences and the different explanatory roles they play.
+
+Key Terms
+العلم الأعلى
+العلم الأسفل
+اللم
+الإن
+
+Key Terms from Source Passage
+
+Checkpoint
+What example does the author give for the third way a question can be subordinate to another science?
+A) Optics under astronomy
+B) The halo and rainbow under optics
+C) The roundness of wounds under geometry
+D) Navigation under astronomy
+
+Key Takeaway
+Sciences are interconnected hierarchically: the higher science explains the cause, while the lower science asserts the fact, and this can occur in three distinct ways.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the higher and lower science in the case of Islamic astronomy (ilm al-nujum) and practical navigation (ilm al-malaha).
+?
+Find another example from Islamic legal theory (usul al-fiqh) where a jurist gives a ruling (fatwa) and a legal theorist explains the underlying principle.
+
+Pages p. 448 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 452
+Module 2 · Lesson 10
+Next →
+Other Lessons
+beginner
+5 min
+Simple and Compound Ignorance
+Author classifies ignorance into simple and compound.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between simple and compound ignorance and identify their characteristics as described by the author.
+
+Core Idea
+Ignorance is not a single state: simple ignorance is absence of knowledge, compound ignorance is a disease of the soul.
+
+In this passage, the author breaks down the concept of ignorance into two fundamental types: simple and compound. Understanding this distinction is crucial for diagnosing why false beliefs persist and how they differ from mere lack of knowledge.
+
+Guided Path
+1
+Identify the two types of ignorance
+Read the passage and find where the author distinguishes simple ignorance (al-jahl al-basit) from compound ignorance (al-jahl al-murakkab).
+Simple ignorance is presented first, then compound.
+2
+Define simple ignorance
+Simple ignorance is the absence of knowledge in the soul. The author emphasizes it is not acquired through a syllogism; it is a privation.
+Some mistakenly think it can be produced by arguments, but the author corrects this.
+3
+Define compound ignorance
+Compound ignorance is a habitual disposition and a disease of the soul. It involves both lack of knowledge and belief in its opposite.
+The author draws an analogy with bodily health: false beliefs disrupt the soul's original nature (fitra).
+4
+Explain the analogy of health
+Just as the body has an original temperament and becomes sick when foreign matter intrudes, the soul has an original nature oriented toward true sciences. False beliefs make the soul sick.
+This analogy helps to understand why compound ignorance is called 'compound' – it combines emptiness and false belief.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد علمت أن الجهل ليس صيغا واحدا بل من الجهل [1] ما هو بسيط وهو عدم العلم في النفس فقط؛ وإنه لا يكتسب بقياس فإنه سلب العلم فقط، وخلو النفس عنه وإن كان قد يظن أنه يكتسب بقياس . وذلك أن تكافؤ الحجج يوجب هذا الجهل ؛ وهذا خطأ؛ إذ التكافؤ يثبت هذا الجهل الموجود ويحفظه. وأما أن يحدثه فليس وأما على ما ظنه بعضهم أن الرأي الباطل إذا فسد بحجج ولم يتّضح بفساده الحق يوجب ذلك الجهل ؛ وكان بقياس، وإنه خطأ أيضًا؛ إذ القياس لا يحدثه لذاته بل يحدث بالعرض؛ إذ القياس إنما يوجب بالذات بطلان الرأي الفاسد فلا يبطل ذلك. ولم يكن هناك رأي آخر عرض خلو النفس عن الرأي بل الحق أن هذا الجهل لا يكتسب. [ب] ومن الجهل ما هو مركب وهو جهل على سبيل الغنية والملكة وإنه مرض نفساني. وذلك لأن صحة كل شيء إما تكون موجودة بفطرته الأصلية أو بالكسب؛ وذلك كمالا تاما فيكون على وجهين في البدن بالنسبة إلى مزاجه الأصلي وغيره؛ وفي النفس كذلك. والصحة الثابتة لها هي أن تحصل الزوائد الكمالية التي تستعد بتلك الصحة المزاجية الأصلية وهو العلوم الحقيقية. وكما أن البدن إذا أحدث فيه أمر غريب على خلاف مزاجه الأصلي صار مريضًا فكذلك النفس إذا اعتقدت الآراء الباطلة المخالفة لما يكون مبنياً على فطرتها الأصلية صارت مريضة. وإنما يسمى هذا الجهل مركَّبًا لأن فيه خلاف العلم من وجهين: أحدهما خلو النفس عن العلم والثاني أن يحذف ضد العلم مع ذلك الخلو. وهذا النوع من الجهل قد يقع ابتداءً وإذعانًا للنفس له، وقد يقع باكتساب قياس شيء؛ وإنه إما أن يكون فيما لا وسط له، أو فيما له وسط. وهذا إما أن يكون الأوسط فيه من الأشياء المناسبة أو من الأشياء القريبة وجميع ذلك إما أن يكون الأوسط فيه هو أوسط القياس الصادق بعينه، أو ليس ولا يخلو من أن يكون مقابله حقا سالبا فيكون هو موجبا؛ ويقع في الشكل الأول فقط إن كان كليا، أو يكون مقابله حقا موجبًا فيكون هو سالبا؛ وإنه يقع في الشكل الأول والثاني معا إن كان كليا. ولنبتدأ بالانخداع الواجب فنقول: إذا كان الحق هو أنه لا شيء من «أب» وكان بغير انقطاع واختدع فظن أن كل ب أ) حتى يكون في غاية المضادة للحق. وكان ذلك بقياس حده الأوسط «ج» ؛ فقد يمكن أن تكون الكبرى . والصغرى كاذبة، وقد يمكن أن لا تكون بل الكاذبة إحداهما فقط، أما الأول
+You have known that ignorance is not one form, but there is simple ignorance, which is the absence of knowledge in the soul only; and it is not acquired through a syllogism, because it is only the negation of knowledge, and the soul's emptiness of it, although some think it is acquired through a syllogism. That is because the equivalence of arguments causes this ignorance; this is a mistake; for equivalence confirms this existing ignorance and preserves it. As for it producing it, it does not. And as for what some thought that a false opinion, when it is refuted by arguments and the truth does not become clear through its refutation, causes that ignorance; and it was by a syllogism, this is also a mistake; for the syllogism does not produce it essentially but accidentally; for the syllogism essentially necessitates the invalidity of the false opinion, so it does not negate that. And there was no other opinion that occurs; the soul is empty of opinion, but the truth is that this ignorance is not acquired. [B] And there is compound ignorance, which is ignorance by way of habit and disposition, and it is a disease of the soul. That is because the health of everything is either present by its original nature or by acquisition; and that is a perfect perfection, so it has two aspects: in the body regarding its original temperament and other than it; and in the soul likewise. Its established health is that the perfective additions which are prepared by that original temperamental health be attained, which are true sciences. Just as when a foreign matter contrary to its original temperament occurs in the body, it becomes sick, so too when the soul believes false opinions contrary to what is based on its original nature, it becomes sick. This ignorance is called compound because it contains opposition to knowledge in two respects: one is the soul's emptiness of knowledge, and the second is the existence of the opposite of knowledge along with that emptiness. This type of ignorance may occur initially and by the soul's acceptance, and may occur by acquisition through a syllogism of something; and it may be either in what has no middle term or in what has a middle term. This either has a middle term from suitable things or from proximate things, and all of that either has a middle term that is the very same middle term of the true syllogism, or not; and it must be the case that its opposite is true and negative, so it is affirmative; and it occurs only in the first figure if it is universal, or its opposite is true and affirmative, so it is negative; and it occurs in the first and second figures together if it is universal. Let us begin with necessary deception, and we say: If the truth is that nothing of A is B, and it is without separation, and [a person] is deceived and thinks that every B is A, so that it is in extreme opposition to the truth. And that is through a syllogism whose middle term is C; it is possible that both the major and minor premises are false, and it is possible that they are not, but rather only one of them is false. As for the first...
+Source pages p. 452
+
+Commentary
+This passage is a classification of ignorance (jahil) by the author. It begins by distinguishing simple ignorance, which is the mere absence of knowledge in the soul. The author argues that this simple ignorance is not acquired through a syllogism; rather, it is a privation. Some think that equal arguments (takaafu' al-hijaj) produce ignorance, but the author corrects this: equal arguments only preserve existing ignorance, not create it. Similarly, refuting a false opinion without clarifying the truth does not cause ignorance; the syllogism essentially refutes the false opinion, but the resulting emptiness is accidental. The author then introduces compound ignorance, which is a habitual disposition and a disease of the soul. He draws an analogy with bodily health: just as the body has an original temperament, and illness occurs when something foreign disrupts it, so the soul has an original nature (fitra) oriented toward true sciences. When false beliefs contrary to that nature are adopted, the soul becomes sick. Compound ignorance is called so because it involves two aspects: lack of knowledge and the presence of its opposite. This type of ignorance can occur spontaneously or by acquisition through a syllogism. The author then outlines the various possibilities for how such a deceptive syllogism can be constructed, depending on whether the middle term is the same as in a true syllogism or different, and on the figures and quality of the premises. He then begins a discussion of 'necessary deception' (al-ikhda' al-wajib) with an example: the truth is 'no A is B', but someone is deceived into thinking 'every B is A'. This deception is achieved through a syllogism with middle term C, where the premises may be both false or only one false. The passage ends mid-sentence, likely continued in subsequent pages.
+
+Key Terms
+الجهل البسيط
+الجهل المركب
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is compound ignorance called 'compound'?
+A) Because it is acquired through multiple syllogisms.
+B) Because it involves both absence of knowledge and the presence of its opposite.
+C) Because it is a mixture of true and false beliefs.
+D) Because it occurs in both the first and second figures of syllogism.
+
+Key Takeaway
+Ignorance is not a single phenomenon; simple ignorance is merely the absence of knowledge, while compound ignorance is a pathological state combining ignorance with false belief.
+
+How This Lesson Applies — to MY Life?
+?
+1. Provide an example of simple ignorance regarding the obligation of Zakat.
+?
+2. Provide an example of compound ignorance regarding the attributes of Allah.
+
+Pages p. 452 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 452
+Module 2 · Lesson 11
+Next →
+Other Lessons
+intermediate
+7 min
+The Beginning of Deception in Syllogisms
+Author begins discussion of necessary deception in syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the logical structure of necessary deception as described by the author and determine the possibilities of premise truth values.
+
+Core Idea
+Deception arises when a syllogism with false premises leads to a conclusion opposite to the truth.
+
+The author now turns to how deception occurs in syllogisms. He introduces the concept of 'necessary deception' where a person concludes the opposite of the truth through a syllogism. Understanding this helps in recognizing fallacious arguments in Islamic sciences.
+
+Guided Path
+1
+Recognize the scenario of necessary deception
+The author presents a case: the truth is 'no A is B' (universal negative), but a person is deceived and thinks 'every B is A' (universal affirmative). This is extreme opposition.
+The deception is achieved through a syllogism with a middle term C.
+2
+Identify the structure of the deceptive syllogism
+The syllogism uses middle term C to derive the false conclusion. The premises may be both false or only one false.
+The author does not specify the premises, only the truth and the deceived belief.
+3
+Distinguish the two possibilities for premises
+The author says it is possible that both major and minor premises are false, or only one of them is false. Consider what that means for the validity of the deception.
+If only one premise is false, the syllogism might still be valid in form but unsound.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد علمت أن الجهل ليس صيغا واحدا بل من الجهل [1] ما هو بسيط وهو عدم العلم في النفس فقط؛ وإنه لا يكتسب بقياس فإنه سلب العلم فقط، وخلو النفس عنه وإن كان قد يظن أنه يكتسب بقياس . وذلك أن تكافؤ الحجج يوجب هذا الجهل ؛ وهذا خطأ؛ إذ التكافؤ يثبت هذا الجهل الموجود ويحفظه. وأما أن يحدثه فليس وأما على ما ظنه بعضهم أن الرأي الباطل إذا فسد بحجج ولم يتّضح بفساده الحق يوجب ذلك الجهل ؛ وكان بقياس، وإنه خطأ أيضًا؛ إذ القياس لا يحدثه لذاته بل يحدث بالعرض؛ إذ القياس إنما يوجب بالذات بطلان الرأي الفاسد فلا يبطل ذلك. ولم يكن هناك رأي آخر عرض خلو النفس عن الرأي بل الحق أن هذا الجهل لا يكتسب. [ب] ومن الجهل ما هو مركب وهو جهل على سبيل الغنية والملكة وإنه مرض نفساني. وذلك لأن صحة كل شيء إما تكون موجودة بفطرته الأصلية أو بالكسب؛ وذلك كمالا تاما فيكون على وجهين في البدن بالنسبة إلى مزاجه الأصلي وغيره؛ وفي النفس كذلك. والصحة الثابتة لها هي أن تحصل الزوائد الكمالية التي تستعد بتلك الصحة المزاجية الأصلية وهو العلوم الحقيقية. وكما أن البدن إذا أحدث فيه أمر غريب على خلاف مزاجه الأصلي صار مريضًا فكذلك النفس إذا اعتقدت الآراء الباطلة المخالفة لما يكون مبنياً على فطرتها الأصلية صارت مريضة. وإنما يسمى هذا الجهل مركَّبًا لأن فيه خلاف العلم من وجهين: أحدهما خلو النفس عن العلم والثاني أن يحذف ضد العلم مع ذلك الخلو. وهذا النوع من الجهل قد يقع ابتداءً وإذعانًا للنفس له، وقد يقع باكتساب قياس شيء؛ وإنه إما أن يكون فيما لا وسط له، أو فيما له وسط. وهذا إما أن يكون الأوسط فيه من الأشياء المناسبة أو من الأشياء القريبة وجميع ذلك إما أن يكون الأوسط فيه هو أوسط القياس الصادق بعينه، أو ليس ولا يخلو من أن يكون مقابله حقا سالبا فيكون هو موجبا؛ ويقع في الشكل الأول فقط إن كان كليا، أو يكون مقابله حقا موجبًا فيكون هو سالبا؛ وإنه يقع في الشكل الأول والثاني معا إن كان كليا. ولنبتدأ بالانخداع الواجب فنقول: إذا كان الحق هو أنه لا شيء من «أب» وكان بغير انقطاع واختدع فظن أن كل ب أ) حتى يكون في غاية المضادة للحق. وكان ذلك بقياس حده الأوسط «ج» ؛ فقد يمكن أن تكون الكبرى . والصغرى كاذبة، وقد يمكن أن لا تكون بل الكاذبة إحداهما فقط، أما الأول
+You have known that ignorance is not one form, but there is simple ignorance, which is the absence of knowledge in the soul only; and it is not acquired through a syllogism, because it is only the negation of knowledge, and the soul's emptiness of it, although some think it is acquired through a syllogism. That is because the equivalence of arguments causes this ignorance; this is a mistake; for equivalence confirms this existing ignorance and preserves it. As for it producing it, it does not. And as for what some thought that a false opinion, when it is refuted by arguments and the truth does not become clear through its refutation, causes that ignorance; and it was by a syllogism, this is also a mistake; for the syllogism does not produce it essentially but accidentally; for the syllogism essentially necessitates the invalidity of the false opinion, so it does not negate that. And there was no other opinion that occurs; the soul is empty of opinion, but the truth is that this ignorance is not acquired. [B] And there is compound ignorance, which is ignorance by way of habit and disposition, and it is a disease of the soul. That is because the health of everything is either present by its original nature or by acquisition; and that is a perfect perfection, so it has two aspects: in the body regarding its original temperament and other than it; and in the soul likewise. Its established health is that the perfective additions which are prepared by that original temperamental health be attained, which are true sciences. Just as when a foreign matter contrary to its original temperament occurs in the body, it becomes sick, so too when the soul believes false opinions contrary to what is based on its original nature, it becomes sick. This ignorance is called compound because it contains opposition to knowledge in two respects: one is the soul's emptiness of knowledge, and the second is the existence of the opposite of knowledge along with that emptiness. This type of ignorance may occur initially and by the soul's acceptance, and may occur by acquisition through a syllogism of something; and it may be either in what has no middle term or in what has a middle term. This either has a middle term from suitable things or from proximate things, and all of that either has a middle term that is the very same middle term of the true syllogism, or not; and it must be the case that its opposite is true and negative, so it is affirmative; and it occurs only in the first figure if it is universal, or its opposite is true and affirmative, so it is negative; and it occurs in the first and second figures together if it is universal. Let us begin with necessary deception, and we say: If the truth is that nothing of A is B, and it is without separation, and [a person] is deceived and thinks that every B is A, so that it is in extreme opposition to the truth. And that is through a syllogism whose middle term is C; it is possible that both the major and minor premises are false, and it is possible that they are not, but rather only one of them is false. As for the first...
+Source pages p. 452
+
+Commentary
+This passage is a classification of ignorance (jahil) by the author. It begins by distinguishing simple ignorance, which is the mere absence of knowledge in the soul. The author argues that this simple ignorance is not acquired through a syllogism; rather, it is a privation. Some think that equal arguments (takaafu' al-hijaj) produce ignorance, but the author corrects this: equal arguments only preserve existing ignorance, not create it. Similarly, refuting a false opinion without clarifying the truth does not cause ignorance; the syllogism essentially refutes the false opinion, but the resulting emptiness is accidental. The author then introduces compound ignorance, which is a habitual disposition and a disease of the soul. He draws an analogy with bodily health: just as the body has an original temperament, and illness occurs when something foreign disrupts it, so the soul has an original nature (fitra) oriented toward true sciences. When false beliefs contrary to that nature are adopted, the soul becomes sick. Compound ignorance is called so because it involves two aspects: lack of knowledge and the presence of its opposite. This type of ignorance can occur spontaneously or by acquisition through a syllogism. The author then outlines the various possibilities for how such a deceptive syllogism can be constructed, depending on whether the middle term is the same as in a true syllogism or different, and on the figures and quality of the premises. He then begins a discussion of 'necessary deception' (al-ikhda' al-wajib) with an example: the truth is 'no A is B', but someone is deceived into thinking 'every B is A'. This deception is achieved through a syllogism with middle term C, where the premises may be both false or only one false. The passage ends mid-sentence, likely continued in subsequent pages.
+
+Key Terms
+الانخداع الواجب
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, in necessary deception, the premises of the deceptive syllogism:
+A) Must both be false.
+B) Can be both false or only one false.
+C) Must both be true.
+D) Can be any combination.
+
+Key Takeaway
+Necessary deception occurs when a syllogism with false premises leads to a conclusion opposite of the truth, and the premises may be both false or only one false.
+
+How This Lesson Applies — to MY Life?
+?
+1. Construct a syllogism that leads to necessary deception where the truth is 'Every intoxicant is forbidden' and the deceived believes 'No intoxicant is forbidden'.
+?
+2. Identify whether the premises are both false or only one false in your example.
+
+Pages p. 452 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 508
+Module 2 · Lesson 12
+Next →
+Other Lessons
+beginner
+7 min
+Classifying Discourse by Purpose
+Author classifies discourses by purpose: ta'lim, mujadala, munazara, mu'anada, imtihan, khitaba.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify any discourse into one of the seven purpose categories (ta'lim, muhawara, munazara, mu'anada, ikhtibar, inshad, khitaba) based on the author's criteria.
+
+Core Idea
+Discourse is classified not by form but by intention: truth-seeking, teaching, testing, or obstinacy.
+
+This passage from a classical logic text categorizes human discourse by its purpose. In Islamic sciences, understanding these categories helps you evaluate arguments: is the speaker seeking truth, testing you, or just being obstinate? By mastering this classification, you gain a tool for assessing the legitimacy of any scholarly exchange.
+
+Guided Path
+1
+List the discourse types
+Scan the Arabic passage and identify all names of discourse types mentioned. Write them down: al-ta'lim, al-muḥāwara, al-munāẓara, al-muʿānada, al-ikhtibār, al-inshād, al-khiṭāba.
+The author explicitly names seven types.
+2
+Extract the purpose of each type
+For each type, find the phrase that states its purpose (الغرض). For example, al-ta'lim's purpose is 'al-ʿilm' (knowledge). Al-munāẓara's purpose is 'taʿayyun al-ḥaqq' (determining truth). Al-muʿānada's purpose is 'iẓhār ʿajz' (showing incapacity).
+Note that some purposes are truth-oriented, others are not.
+3
+Distinguish truth-seeking from non-truth-seeking types
+Group the types into those that aim at knowledge/truth (ta'lim, muhawara, munazara, khitaba?) and those that do not (mu'anada, ikhtibar, inshad). Ask yourself: does the discourse intend to produce belief (tasdiq) or not?
+The author says inshad is far from producing belief; ikhtibar aims at assessment, not persuasion.
+4
+Understand how intention reclassifies the same syllogism
+The author notes that the same syllogism can be called sophistical, obstinate, or testing depending on the speaker's intention. Practice by imagining a statement like 'Necessary existence is one.' If the speaker's goal is to show the opponent's inability, it becomes a syllogism of obstinacy.
+This shows that classification is functional, not purely formal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القصد فيه إلى ما في التعليم ولكن المحاورة بالمشاركة فإن الإنسان الواحد إذا حاول أن يكون معلما لنفسه، ومتعلما من نفسه عثر عليه ذلك فيفتقر إلى آخر يشاركه في النظر، فيضم ما يجد منه ذلك إلى ما يجد بينه هو فيصير كل واحد منهما نصف معلم، وكل واحد منهما تمام متعلم؛ والغرض فيه العلم. وأما المناظرة وهي مأخوذة من النظر فالغرض منها المناقشة عن الرأيين المتقابلين لتعيين منهما الحق مساعدة الثاني عليه؛ والغرض فيه ليس إلا حصول العلم. وأما المعاندة فهي مخاطبة يحاول المخاطب بها إظهار نقص من يدعي الكمال على أي وجه كان فيكون الغرض فيها إظهار عجز لا إعطاء فائدة. ثم المعاند إذا قصد التمويه والتلبيس فذلك لا يكون مخصوصا باسم المعاند بل هو إما سوفسطائي بتشبيه بالفيلسوف، وإما المشاغبي لتشبيه بالجدلي بل إنما يكون العاند معاندًا إذا كان ظاهر قصده بعجز الآخر. ولا يقال لفظ العناد بحسب اللغة موضوع للدلالة على الخروج عن الحق والعدول عن الواجب بفضل القوة؛ لأنه وإن كان كذلك فلا يليق أن يُجعل اسما لهذه المخاطبة. وأما الاختبار فليس الغرض فيه إقناع في رأي البتة بل يعرف لمبلغ المخاطب في القوة على استبانة القياسات فكان القياس المعاند والممتحن والمغالط واحدا في الموضوع لكنه إذا استعمل على أنه إنما يراد به إثبات الحق أو الإقناع بالحق يسمّى سوفسطائياً أو مشاغبياً وإذا استعمل والغرض فيه تعجيز الخصم كان القياسُ قياس عناد. وإذا استعمل والغرض فيه استكشاف حال المخاطب المجهول أمره من غير أن يراد تضليله كان قياس امتحان. وأما الإنشاد فهو بعيد أن يكون الغرض فيه إيقاع اعتقاد وتصديق البتة. وأما الخطابة فالخطيب هو المقتدر على إقناع الناس في الأمور الجزئية فلم تبق لنا اسم أولى بهذا
+Its purpose is in teaching, but discussion is by participation. For a single person, if he tries to be a teacher to himself and a student from himself, that stumbles him; so he needs another to share in investigation, then he joins what he finds from that to what he finds with him, so that each becomes half a teacher and each a complete student; its purpose is knowledge. As for debate (al-munāẓara), derived from investigation, its purpose is to discuss the two opposing views to determine which of them is the truth, assisting the second upon it; its purpose is only attaining knowledge. As for obstinacy (al-muʿānada), it is a discourse by which the speaker tries to show deficiency in one who claims perfection in whatever way; so its purpose is to show incapacity, not to give benefit. Then the obstinate person, if he aims at obfuscation and confusion, that is not exclusive to the name 'obstinate'; rather he is either a sophist by comparison to the philosopher, or a quarreler by comparison to the dialectician; the obstinate person is only called obstinate if his apparent aim is to incapacitate the other. And it is not said that the word 'obstinacy' is linguistically placed to indicate deviation from truth and turning away from duty by force; for even if so, it is not appropriate to make it a name for this discourse. As for testing (al-ikhtibār), its purpose is not at all persuasion in an opinion, but rather to know the extent of the addressee's ability to discern syllogisms; so the syllogism of obstinacy, testing, and deception are one in subject, but if it is used intending only to establish truth or persuade to truth, it is called sophistical or quarrelsome; if it is used with the purpose of incapacitating the opponent, the syllogism is a syllogism of obstinacy; if it is used with the purpose of discovering the hidden state of the addressee without intending to mislead him, it is a syllogism of testing. As for poetry (al-inshād), it is far from its purpose being to produce belief and assent at all. As for oratory (al-khiṭāba), the orator is the one able to persuade people in particular matters; so no name remains more appropriate for this.
+Source pages p. 508
+
+Commentary
+This passage enumerates different types of discourse (khiṭāb) and clarifies their primary purposes. The author begins with teaching (taʿlīm) and mutual discussion (muḥāwara), explaining that a single person cannot effectively teach himself; he requires a partner, so each becomes both half-teacher and full student. The purpose here is knowledge (al-ʿilm). Next, debate (munāẓara), derived from investigation (naẓar), aims at comparing two opposing views to identify the truth, with the helper supporting the true view; again, the purpose is only attaining knowledge. Then obstinacy (muʿānada): the speaker aims to show the opponent's deficiency and incapacitate him, not to offer benefit. The author distinguishes pure obstinacy from sophistry (sūfisṭāʾī) and quarrelsomeness (mushāghabī), noting that if the obstinate person uses obfuscation, he is not called obstinate but a sophist or quarreler; the true obstinate person's apparent aim is simply to incapacitate. Linguistically, 'obstinacy' implies deviating from truth, but this is not suitable as a name for this type of discourse. Testing (ikhtibār) aims to assess the addressee's ability to discern syllogisms, not to persuade. The same syllogism may be used for obstinacy, testing, or deception depending on the intention: if used to establish truth, it is called sophistical; if to incapacitate, it is obstinate; if to discover the opponent's state without misleading, it is testing. Poetry (inshād) does not aim at belief or assent. Oratory (khiṭāba) belongs to the orator who persuades in particular matters. The author concludes that no other name is more appropriate for this classification. Each type is defined by its purpose, which is a key distinction in Islamic logic for evaluating the legitimacy of argumentation.
+
+Key Terms
+التعليم
+المحاورة
+المناظرة
+المعاندة
+الاختبار
+الإنشاد
+الخطابة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of discourse does NOT aim at producing belief or assent at all?
+A) Teaching (taʿlīm)
+B) Debate (munāẓara)
+C) Poetry (inshād)
+D) Oratory (khiṭāba)
+
+Key Takeaway
+Discourse is classified by intention: truth-seeking (ta'lim, muhawara, munazara, khitaba) and non-truth-seeking (mu'anada, ikhtibar, inshad); the same syllogism can belong to multiple types based on the speaker's purpose.
+
+How This Lesson Applies — to MY Life?
+?
+Given the following dialogue: Scholar A: 'Is the world eternal or created?' Scholar B: 'Prove your position.' Scholar A: 'Let me test your ability to follow syllogisms.' Determine which discourse type(s) are present and justify using the passage.
+?
+Classify each of these scenarios as ta'lim, munazara, mu'anada, or ikhtibar: (a) A teacher explaining the proof for God's existence. (b) Two scholars discussing whether riba applies to digital currency, each trying to find the truth. (c) A debater trying to make his opponent appear foolish without caring about truth. (d) A professor asking a student to solve a syllogism to gauge his understanding.
+
+Pages p. 508 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 608
+Module 2 · Lesson 13
+Next →
+Other Lessons
+beginner
+5 min
+Two Schools of Orators on Permissible Persuasion
+Author states two views on using rhetorical devices and declares the correct one.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the two schools of orators regarding permissible rhetorical devices and identify which one the author endorses.
+
+Core Idea
+The orator's toolkit includes three types of persuasion: the main argument, trickery, and emotional support.
+
+In classical rhetorical theory, scholars debated what tools an orator may permissibly use to convince an audience. This passage presents two competing doctrines. By parsing the key terms and the scope of each school, you will see how the author resolves the disagreement and why he prefers the broader approach.
+
+Guided Path
+1
+Identify the two schools
+Find the two doctrines (مذهبان) explicitly mentioned. The first is said to be specific to some regions; the second is a general restriction.
+Look for the contrast markers: the first school permits everything, the second only persuasive speech.
+2
+List the three types of persuasive means
+The first school enumerates three categories: العمود (the main proof or logical argument), الحيلة (trickery or deceptive device), and النصرة (appeals to emotion or authority). Understand each term.
+These are the components of the orator's toolkit according to the first school.
+3
+Compare the scope of each school
+The first school allows using all three means. The second school restricts the orator to only القول المقنع (persuasive speech), which likely excludes trickery and emotional support.
+Consider what القول المقنع might exclude: does it mean only logical arguments or any sound speech?
+4
+Determine the author’s verdict
+The author explicitly says: والصواب هو المذهب الأول (the correct is the first doctrine). Note that he also adds والله أعلم, a deferential closing.
+This verdict sets the stance for the rest of the work.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مذهب الخطباء في ذلك الزمان مذهبان: [أ] مذهب يختص به بلاد من بلادهم يسوغ الخطيب استعمال كل مقنع من العمود ومن الحيلة ومن النصرة [ب] ومذهب لا يسوغ أن يشتغل لشيء سوى القول المقنع؛ والصواب هو المذهب الأول، والله أعلم.
+The doctrine of orators in that time is two doctrines: [A] A doctrine specific to some of their countries, permitting the orator to use every persuasive means from the pillar (al-`amud), from trickery (al-hila), and from support (al-nusra). [B] A doctrine that does not permit occupying oneself with anything other than persuasive speech. The correct is the first doctrine, and Allah knows best.
+Source pages p. 608
+
+Commentary
+This passage classifies the two schools of thought among orators. The first school, specific to certain regions, allows the orator to employ all types of persuasive devices: the pillar (likely the main argument), trickery (rhetorical fallacies), and support (appeals to emotion or authority). The second school restricts the orator to using only persuasive speech, presumably sound logical reasoning or eloquent expression. The author affirms the first school as correct. This brief enumeration serves to introduce the scope of rhetorical practice.
+
+Key Terms
+الخطيب
+مقنع
+عمود
+حيلة
+نصرة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the first school of orators, which of the following is permitted in rhetoric?
+A) Only persuasive speech
+B) Only the pillar (main argument)
+C) All persuasive means including trickery and support
+D) Only logical syllogisms
+
+Key Takeaway
+The author endorses the broader school that permits all three types of persuasion: logical proof, rhetorical trickery, and emotional support.
+
+How This Lesson Applies — to MY Life?
+?
+1. Imagine you hear a khutba that includes a logical argument for patience, a moving story of the Prophet's life, and a rhetorical question challenging the listener. Which school's method does this khutba follow?
+?
+2. Write a short paragraph defending the author's choice of the first school, using a real example from Islamic sermons where combining all three means strengthens the message.
+
+Pages p. 608 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 629
+Module 2 · Lesson 14
+Next →
+Other Lessons
+beginner
+5 min
+Ends of Voluntary Actions and Causes of Pleasure
+Classification of ends and causes of pleasure.
+
+Learning Objective
+By the end of this lesson, you will be able to classify the ends of voluntary actions and identify the causes of pleasure as described in Islamic logical thought.
+
+Core Idea
+Voluntary actions aim at pleasure, victory, or obedience; pleasure itself springs from nature or habit.
+
+This passage from a classical logic text examines the final causes (ghaya) of voluntary actions. It introduces a threefold classification: pleasure, victory, and obedience to divine commands. It then probes deeper into pleasure, identifying its two fundamental causes: nature and habit. Understanding this taxonomy helps in analyzing human motivation and the structure of ethical reasoning in Islamic thought.
+
+Guided Path
+1
+Identify the ends of voluntary actions
+Read the first sentence and list the three ends mentioned: pleasure (al-ladhdha), victory (al-ghalaba), and other (e.g., commands and prohibitions). Note that 'other' refers to religious obedience.
+2
+Distinguish between the ends
+Recognize that pleasure and victory are natural ends, while 'other' includes acts performed purely for divine command, which may not reduce to pleasure or victory.
+This distinction relates to ethical discussions on the motive for worship.
+3
+Extract the causes of pleasure
+The passage then states that every pleasure has a cause. Identify two causes: nature (al-tabi'a) and habit (al-'ada). Consider examples: natural pleasure like eating when hungry; habitual pleasure like enjoying coffee after it becomes a routine.
+4
+Relate to logical classification
+This is a taxonomical division (taqsīm). The end is the genus, and pleasure, victory, obedience are species. Similarly, pleasure's cause is divided into nature and habit. Apply the concept of division to other Islamic sciences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والغاية في الأفعال الإرادية قد يكون حصول اللذة، وقد يكون حصول الغلبة، وقد يكون غير هذا؛ وذلك مثل أمثال الأوامر والنواهي في الأمور الشرعية. ثم لكل لذة علة فبعض اللذات علتها الطبيعة، وبعضها علتها العادة حتى
+And the end in voluntary actions may be attainment of pleasure, or attainment of victory, or other than that; and that is like the commands and prohibitions in religious matters. Then every pleasure has a cause: some pleasures have nature as their cause, and some have habit as their cause, up to
+Source pages p. 629
+
+Commentary
+This passage discusses the final causes (ghaya) of voluntary actions. It states that the goal can be pleasure (ladhdha), victory (ghalaba), or something else, such as obeying religious commands and prohibitions. It then notes that every pleasure has a cause ('illa): some pleasures are caused by nature (tabi‘a), others by habit (‘ada). The passage cuts off, implying further elaboration was to follow.
+
+Key Terms
+اللذة
+الغلبة
+علة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what are the two causes of pleasure mentioned?
+A) Nature and intellect
+B) Nature and habit
+C) Habit and victory
+D) Pleasure and victory
+
+Key Takeaway
+Voluntary actions can end in pleasure, victory, or obedience; pleasure itself arises from either nature or habit.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the end (pleasure, victory, or obedience) of the following voluntary actions: eating when hungry; supporting a Muslim army in battle; performing Fajr prayer. Give reasons based on the passage.
+
+Pages p. 629 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 631
+Module 2 · Lesson 15
+Next →
+Other Lessons
+advanced
+10 min
+Pleasure, Justice, and the Two Laws
+Author discusses pleasure and its relation to justice and written/unwritten laws.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between written and unwritten laws in Islamic legal philosophy and explain how they relate to the determination of justice and injustice.
+
+Core Idea
+Justice is not mere benefit; it is conformity to law, whether written or unwritten.
+
+In this passage, the author connects pleasure, disposition, and justice. He argues that acts like injustice can be pleasurable for some, and that being wronged can be pleasurable for others. But the core of the passage is the distinction between written law (sunnah maktuba) and unwritten law (sunnah ghayr maktuba), and how both are needed to determine justice. This distinction is foundational in Islamic legal theory, where revealed law and rational/customary law interact.
+
+Guided Path
+1
+Identify the author's claim about pleasure
+The author says pleasure can come from lawful or unlawful acts. What examples does he give of unlawful pleasures? (Injustice, oppression, arrogance). Note that pleasure depends on one's disposition.
+2
+Understand the nature of injustice
+Not every harm is injustice. Injustice is defined as violation of written or unwritten law in a specific manner and with intention. Distinguish between the act itself and the manner/intention.
+3
+Distinguish between written and unwritten laws
+Written law (sunnah maktuba) is fixed; unwritten law (sunnah ghayr maktuba) varies according to good and evil and is often called 'reason'. Both pertain to dominion, dignity, or safety.
+4
+Analyze examples of justice
+One who does good to a good-doer deserves praise; one who does good to all brothers deserves honor. These illustrate how justice is detailed by unwritten law (like 'good to all brothers') beyond written law.
+5
+Consider the relationship between the two laws
+Sometimes written and unwritten laws contradict; one may find an escape by appealing to unwritten law. This shows the flexibility in Islamic legal reasoning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في اللذة. واللذة قد تكون بأمر مشروع، وقد تكون بأمر غير مشروع نحو الظلم والجور والتكبر على الضعفاء مثلاً فإن في كل واحد منها لذة للذين هم طبائع مائلة إلى أمثال هذه الأفعال. وكما أن لهم لذة فيها فكذلك في الأضداد للذين كانوا على خلافهم من أهل التقوى. ولا يبعد أن يكون ظلمهم على الغير سببًا لحصول اللذة لذلك الغير فإن من الناس من يلتذ بالجور عليه تعجبا من حلمه؛ وذلك أمر عظيم لا يليق إلا بالحكماء الفائزين بالاطلاع على حقائق الأشياء. واللذة كما يكون بالوصول إلى الشيء والقدرة عليه تارة فكذلك يفقد أن ذلك الشيء تارة، وبالعجز عن تحصيله كذلك؛ ولهذا يكون الفقر من أسباب اللذة عند البعض قال عليه السلام: «الفقر فخري». ثمَّ الظلم قد يكون بحسب مخالفة السنة المكتوبة، وقد يكون بحسب مخالفة السنة الغير المكتوبة. وكل ذلك إما في الملك، وإما في الكرامة، وإما في السلامة؛ وليس كل مضرة ظلما، ولا كل منفعة عدلا . والزنا والسرقة والغصب والاستهانة مثلا لا يكون ظلمًا لنفس الفعل بل لوقوعه على جهة والمشيئة فيكون الاعتذار إما بإنكار نفس الفعل، وإما بإنكار وقوعه على جهة يكون بها ظلما، ولوقوعه لذلك غلطا وسهوا. وهذه الجهات متجدّدة بالشرائع المكتوبة والمشتركة، وأما المكتوبة فترجع إليها في كميتها، وأما غير المكتوبة فإن العدل والجور يتفاضل فيها على حسب تفاضل الخير والشر؛ إما من جنس ما يستحق به المدح والذم وإما من جنس ما يستحق به الكرامة والهوان ومثال الأول أن من قال ينبغي أن يحسن إلى المحسن ثمَّ فعل ذلك استحق المدح بفعله، ومن قال ينبغي أن يحسن إلى الإخوان كافة ثمَّ فعل ذلك استحق الكرامة منهم لفعله. وكثيرا من العدل لا يكون بحسب السنة المكتوبة مفصَّلا فإن الحكم يُعدُّ في السنة المكتوبة عدلًا من غير تفصيل يلحق ثمّ يفصل بالسنة الغير المكتوبة المشتركة فإن الحلم في بعض المواضع رذيلة وجور بحسب السنة المشتركة كما قيل إن بعض الحلم عجز . وإنما يقع هذا الإبهام في السنن المكتوبة حيث لا يفصل العدل والجور على واجبه، ويحتاج أن يرد، وحكم السنة المكتوبة فيه بحكم السنة الغير المكتوبة، والسنن الغير المكتوبة هي التي تسمى عند الجمهور عقلا ومثال هذا أن الشارع إذا قال من قتل بالحديد فيلزم أن يقتل بالحديد؛ فليس يمكنه بعد ذلك أن يفصل جميع وجوه القتل بالحديد من جهة القتل ومن جهة الحديد، أو من جهة المضرب، أو من جهة عوارض جزئية أخرى ربما تعترض لها أحكام، وتكون غير محدودة ولا مضبوطة دون أنها العالم. فبين أن كثيرًا من الظلم إذا كان ظلما وعدلا بحسب الشريعة المكتوبة فربَّما يجد المعتذر فيه مخلصًا بالتجائه إلى السنة الغير المكتوبة على سبيل التفصيل، وربَّما كانت السنة الغير المكتوبة تخالف المكتوبة، وبالعكس كما أن السنة الغير المكتوبة توجب الإحسان إلى الإخوان كافة، وربَّما منعت المكتوبة الإحسان إلى بعض الإخوان. وكما أن السنة المكتوبة ترى كل حكم عدلا، والمشتركة تفصل ذلك؛ وقد توجب خلاف ذلك فإن السنة المشتركة ربَّما رأت الحلم في بعض المواضع واجبًا ورأت العصوبة قبيحة؛ وكانت السنة المشتركة لا ترى ذلك بل تخصص ذلك الموضع. ومثاله أن السنن المكتوبة توجب أن يكون مقدم على سرقة الطفيف يحكم عنه، ولا تعاقب السنة
+Chapter on pleasure. Pleasure may be from a lawful matter, and may be from an unlawful matter, such as injustice, oppression, and arrogance toward the weak, for example; for in each of these there is pleasure for those whose natures incline to such actions. And just as they have pleasure in them, so also in the opposites for those who are contrary to them, the people of piety. And it is not unlikely that their injustice toward another may be a cause of pleasure for that other, for among people there is one who takes pleasure in being oppressed out of wonder at his forbearance; and that is a great matter befitting only the wise who succeed in attaining knowledge of the realities of things. And pleasure, just as it sometimes occurs through reaching a thing and having power over it, so too it is lost through that thing sometimes, and through inability to obtain it likewise; and for this reason poverty is a cause of pleasure for some. He (peace be upon him) said: 'Poverty is my pride.' Then injustice may be according to violation of the written law, and may be according to violation of the unwritten law. And all that is either in dominion, or in dignity, or in safety; and not every harm is injustice, nor every benefit justice. And fornication, theft, usurpation, and contempt, for example, are not injustice due to the act itself, but due to its occurring in a certain manner and intention; so the excuse is either through denial of the act itself, or through denial of its occurring in a manner that makes it injustice, and due to its occurring mistakenly and inadvertently. And these aspects are renewed by the written and common laws. As for the written, it refers back to them concerning their quantity; as for the unwritten, justice and injustice vary in them according to the variation of good and evil; either according to the kind that deserves praise and blame, or according to the kind that deserves honor and humiliation. An example of the first: one who says 'one should do good to the good-doer' and then does that, deserves praise for his action; and one who says 'one should do good to all brothers' and then does that, deserves honor from them for his action. And much justice is not according to the written law in detail; for a judgment is considered in the written law as justice without subsequent detail, then it is detailed by the common unwritten law; for forbearance in some situations is a vice and injustice according to the common law, as it is said that some forbearance is weakness. And this ambiguity only occurs in the written laws where justice and injustice are not detailed as they should be, and need to be referred back; and the ruling of the written law therein is like the ruling of the unwritten law. And the unwritten laws are what are called 'reason' by the common people. An example of this: if the lawgiver says 'whoever kills with iron must be killed with iron', then it is not possible for him afterwards to detail all the modes of killing with iron concerning the mode of killing, the mode of iron, the mode of the blow, or other specific accidents that may have rulings that are undefined and unregulated without that they are known. Thus it is clear that much injustice, if it is injustice or justice according to the written law, perhaps the excuse-maker finds an escape by resorting to the unwritten law by way of detail; and perhaps the unwritten law contradicts the written, and vice versa; just as the unwritten law requires doing good to all brothers, and perhaps the written law prohibits doing good to some brothers. And just as the written law considers every ruling just, and the common law details that; and it may require the opposite of that, for the common law sometimes sees forbearance as obligatory in some situations and sees harshness as ugly; and the common law does not see that, but rather specifies that situation. An example of that: the written laws require that the one who commits theft of a trifle be judged accordingly, and the law does not punish...
+Source pages p. 631
+
+Commentary
+This passage is a philosophical exposition on pleasure (al-ladhdha) and its relation to justice and laws. The author begins by stating that pleasure can arise from lawful or unlawful acts, such as injustice, oppression, or arrogance, depending on one's disposition. He notes that the pious take pleasure in opposite actions. Interestingly, the author points out that being wronged can sometimes be pleasurable for the victim, out of admiration for the oppressor's forbearance—a subtle observation reserved for the wise. He further observes that pleasure can be derived not only from attaining something but also from losing it or being unable to obtain it, citing the Prophet's saying 'Poverty is my pride' as an example. The discussion then shifts to injustice, which can violate either written law (sunnah maktuba) or unwritten law (sunnah ghayr maktuba). These laws pertain to dominion, dignity, or safety. The author clarifies that not all harm is injustice, nor all benefit justice; acts like fornication or theft are unjust not inherently but due to the manner and intention. Excuses for such acts involve denying either the act itself or its unjust manner. The passage distinguishes between written and unwritten (common) laws: written laws are fixed in quantity, while unwritten laws allow for variation based on good and evil, leading to praise/blame or honor/humiliation. The author gives an example: doing good to a good-doer merits praise; doing good to all brothers merits honor. Much justice is detailed not by written law alone but by common unwritten law, which may consider forbearance as vice in some contexts. The ambiguity in written laws is resolved by referring to unwritten laws, which are often called 'reason' by the masses. The author illustrates with a lawgiver's statement about killing with iron; it is impossible to detail all aspects of such a ruling, so unwritten law provides the necessary detail. He concludes that written and unwritten laws may contradict each other, and one may find an excuse by appealing to unwritten law. This passage is a deep analysis of legal and moral philosophy within an Islamic context, drawing on distinctions familiar in usul al-fiqh.
+
+Key Terms
+اللذة
+السنة المكتوبة
+السنة الغير المكتوبة
+الظلم
+العدل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why is an act like theft considered unjust?
+A) Because the act itself is inherently evil.
+B) Because it violates a written or unwritten law in a specific manner and with intention.
+C) Because it always causes harm.
+D) Because it is prohibited by the common law.
+
+Key Takeaway
+Justice requires conformity to both written and unwritten laws; the interplay between them allows for detailed specification of rulings.
+
+How This Lesson Applies — to MY Life?
+?
+Given a fiqh ruling from a written law (e.g., cutting off the hand of a thief), explain using the passage's framework whether a specific case (stealing a trifle) might be judged differently if the unwritten law considers the context.
+?
+Identify one example from your own knowledge where a written law in Islam is detailed or modified by unwritten customary law (e.g., local customs in marriage contracts).
+
+Pages p. 631 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 636
+Module 2 · Lesson 16
+Next →
+Other Lessons
+beginner
+5 min
+Three Types of Friendship
+Author enumerates and defines three types of friendship.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the three types of friendship as defined in Islamic ethical texts.
+
+Core Idea
+Friendship is categorized by its cause: companionship, pleasure, or kinship.
+
+In Islamic ethics, friendship (sadaqa) has specific types based on the cause of the bond. This lesson breaks down the three kinds mentioned in the text, each defined by a distinct source: prolonged observation, mutual enjoyment, or familial connection. Understanding this classification helps in analyzing social relations in Islamic texts.
+
+Guided Path
+1
+Identify the three categories
+Read the Arabic passage and list the three types of friendship mentioned: al-sihha, al-iltidhadh bi al-iltaqa', and al-wasla.
+2
+Match each type to its cause
+For each type, note the cause given: al-sihha is due to long observation; al-iltidhadh is due to pleasure in meeting; al-wasla is due to kinship or marriage.
+3
+Apply the definitions to Islamic examples
+Think of an example from Islamic tradition for each type: e.g., two companions on a journey (sihha), friends enjoying a gathering (iltidhadh), and relatives (wasla).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد قيل إن أنواع الصداقة ثلاثة؛ الأولى الصحة وهي حال تتأكَّد بين الشخصين لطول التشاهد. والثانية هي الالتذاذ بالالتقاء. والثالثة الوصلة وهي المشاركة في القرابة كالمصاهرة.
+And it has been said that the types of friendship are three: first, companionship, which is a state of mutual confirmation between two persons due to long observation; second, is the pleasure of meeting; third, is the connection, which is participation in kinship like marriage.
+Source pages p. 636
+
+Commentary
+This passage is a definitional classification of friendship into three types. The author first states the enumeration, then defines each. The first type, 'sihha', is based on prolonged mutual acquaintance. The second is based on the pleasure derived from meeting. The third, 'wasla', is based on kinship or marriage ties. This division is a common logical exercise in categorizing social relations. In Islamic ethics, friendship is often discussed in terms of rights and duties. The three types here are based on causes: continuous interaction, enjoyment, and blood or marital connection.
+
+Key Terms
+صداقة (sadaqa): General term for friendship, categorized into three types based on cause. [Note: Stable term in Arabic ethics.]
+الصحة (al-sihha): Companionship arising from prolonged mutual observation. [Note: Usually means 'health' in other contexts; here technical for a type of friendship.]
+الوصلة (al-wasla): Connection through kinship or marriage. [Note: In logic, 'wasla' can also refer to conjunction; here social bond.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of friendship is based on frequent meetings?
+A) al-wasla
+B) al-iltidhadh bi al-iltaqa'
+C) al-sihha
+D) al-musahara
+
+Key Takeaway
+Friendship in Islamic ethics is categorized into three types based on its cause: companionship from prolonged interaction, pleasure from meeting, and connection through kinship.
+
+How This Lesson Applies — to MY Life?
+?
+List the three types of friendship given in the passage and provide a real Islamic example for each type (e.g., a companion in travel for al-sihha, a friend for leisure for al-iltidhadh, a relative for al-wasla).
+?
+Explain why the author uses the term 'sihha' in a technical sense here rather than its usual meaning of 'health'.
+
+Pages p. 636 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 636
+Module 2 · Lesson 17
+Next →
+Other Lessons
+intermediate
+5 min
+Anger vs Hatred: A Logical Distinction in Causes of Enmity
+Author connects enmity to friendship and distinguishes anger and hatred.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish anger from hatred based on scope (individual vs species) and apply this distinction to Islamic ethical analysis.
+
+Core Idea
+Anger targets individuals; hatred can target entire species.
+
+This brief passage from a work on logic and ethics draws a crucial distinction between two related emotions: anger and hatred. Both are causes of enmity, but they differ in scope. Understanding this distinction helps us analyze interpersonal and communal conflicts in Islamic ethical discourse.
+
+Guided Path
+1
+Identify the key terms
+Locate the three main terms: enmity (عداوة), anger (غضب), and hatred (بغض). Notice how the author begins by linking enmity to friendship conditions.
+This sets up the relational context.
+2
+Extract the condition of anger
+The passage states anger is only towards a person (شخص). This means anger is directed at an individual, not a group or abstract category.
+Think of a specific person who wronged you.
+3
+Extract the condition of hatred
+Hatred may be towards a species (نوع), such as a type of people or action. Unlike anger, it is not limited to individuals.
+Example: hatred of oppression itself.
+4
+Explore implications in Islamic ethics
+In tazkiya (spiritual purification), anger at a specific sinner can be permissible or even praiseworthy if it leads to enjoining good, while hatred of sin (not the sinner) is encouraged. The passage's distinction supports such nuanced rulings.
+Imam al-Ghazali discusses these nuances.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما العداوة تتوقف على أحوالها من أحوال الصداقة، ومن أسباب العداوة والبغض الغضب لكن الغضب لا يكون إلا على شخص، والبغض قد يكون للنوع.
+As for enmity, it depends on its conditions from the conditions of friendship. And among the causes of enmity and hatred is anger, but anger is only towards a person, while hatred may be towards a species.
+Source pages p. 636
+
+Commentary
+This passage defines enmity in relation to friendship, stating that enmity's conditions mirror those of friendship. It then identifies anger and hatred as causes of enmity. A key distinction is made: anger is directed at a specific person, whereas hatred can be directed at a type or category (e.g., hatred of a certain group). This distinction is important in ethical discussions about emotions and interpersonal relations.
+
+Key Terms
+عداوة
+غضب
+بغض
+
+Key Terms from Source Passage
+
+Checkpoint
+How does the passage differentiate anger from hatred?
+A) Anger is stronger than hatred.
+B) Anger is only towards a person, hatred may be towards a species.
+C) Hatred is only towards a person, anger is generic.
+D) They are the same.
+
+Key Takeaway
+Anger is individual-specific; hatred may be directed at a class — a distinction critical for ethical evaluation in Islamic thought.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider the statement, 'I hate thieves.' According to the passage, is this emotion anger or hatred? Why? (Hint: thieves are a category, not a specific person.)
+?
+Task 2: In the Quran, Allah says, 'O you who have believed, let not a people ridicule [another] people' (49:11). Does this prohibition apply more to hatred or anger? Use the passage's distinction.
+
+Pages p. 636 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 636
+Module 2 · Lesson 18
+Next →
+Other Lessons
+beginner
+5 min
+The Definition of Fear: Components and Cause
+Author defines fear as sadness and agitation from anticipating evil.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two components of fear as defined in this passage and explain the role of imagination in its causal structure.
+
+Core Idea
+Fear is a compound of sadness and agitation born from imagining future harm.
+
+This lesson breaks down the concise definition of fear (al-khawf) given in the text. You will see that the definition is not arbitrary but built from observable affective states and a specific cause. Understanding this structure helps in Islamic psychology where states like fear are linked to faith and actions.
+
+Guided Path
+1
+Break down the definition into its components
+The definition states that fear is 'huzn' (sadness) and 'ikhtilat nafs' (agitation of the soul). These are two distinct affective states that together constitute fear.
+'Huzn' alone is usually sadness about past loss; here it is co-opted as part of fear.
+2
+Identify the cause of these states
+The cause is given as 'li-takhayyul sharr mutawaqqa'' (due to imagining an expected evil). The cause is not actual harm but imagined future harm.
+3
+Analyze the role of imagination (takhayyul)
+Imagination is the faculty that anticipates evil. This highlights that fear is about the future, not the present or past.
+In Islamic psychology, imagination (takhayyul) is a distinct faculty that can cause emotional responses.
+4
+Compare with similar emotions
+How does this definition differentiate fear from sadness about the past (huzn) or present distress? The key is the temporal orientation: fear is always future-oriented.
+This definition implies that if the evil is present, it is not fear but something else (e.g., pain or terror).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الخوف فهو حزن واختلاط نفس لتخيل شر متوقع.
+As for fear, it is sadness and agitation of the soul due to imagining an expected evil.
+Source pages p. 636
+
+Commentary
+This passage gives a concise psychological definition of fear. It identifies two components: sadness (huzn) and agitation of the soul (ikhtilat nafs). The cause is the imagination (takhayyul) of an expected evil (sharr mutawaqqa'). This definition is typical of Aristotelian psychology as adopted in Islamic philosophy. The focus on 'imagining' highlights that fear is about anticipated harm, not necessarily present harm.
+
+Key Terms
+خوف
+حزن
+اختلاط نفس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the definition, what is the cause of fear?
+A) Present evil
+B) Past evil
+C) Imagining an expected evil
+D) A physical threat
+
+Key Takeaway
+Fear is defined as sadness and agitation of the soul caused by imagining an expected harm.
+
+How This Lesson Applies — to MY Life?
+?
+Using the components from this definition (sadness + agitation + imagining expected evil), construct a brief definition of 'hope' (raja') as anticipation of good, mirroring the structure of fear.
+?
+Identify whether the definition of fear given here is a complete definition (hadd) or a description (rasm). What element might be missing for a full hadd?
+
+Pages p. 636 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 636
+Module 2 · Lesson 19
+Next →
+Other Lessons
+beginner
+5 min
+Definition of Courage (Shaja'a)
+Author defines courage as a disposition enabling calm and readiness despite danger.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the genus and differentia in a definition of a moral virtue from an Islamic text.
+
+Core Idea
+Courage is not just bravery but a disposition shaped by belief and positive self-estimation.
+
+In this passage, the author defines courage (shaja'a) as a stable disposition (malaka) that enables a person to be at ease about safety and ready for adversity. This definition highlights the cognitive underpinnings of courage—belief in the nearness of salvation and confidence in one's ability to avert evil. Let's analyze the logical structure of this definition.
+
+Guided Path
+1
+Identify the term being defined
+Locate the definiendum: 'shaja'a' (courage). Note that the author starts with 'wa amma al-shaja'a'.
+2
+Extract the genus (jins)
+The genus is 'malaka' (disposition). Courage is placed in the category of a stable character trait, not a fleeting emotion.
+In Islamic ethics, 'malaka' is a technical term for a firmly rooted habit.
+3
+Extract the differentia (fasl)
+The differentia is twofold: (1) being at ease (husn al-rakha') regarding safety, and (2) being prepared (musta'iddan) for the occurrence of misfortune. Additionally, the author mentions cognitive causes: belief that safety is near and good opinion of one's ability to avert evil.
+The differentia specifies what distinguishes courage from other dispositions like justice or generosity.
+4
+Assess definition completeness
+Check if the definition includes all instances (every courageous person has these traits) and excludes non-instances (the reckless or cowardly do not). The cognitive elements ensure that courage is not merely physical bravery but a reasoned trait.
+The author's definition appears comprehensive for a moral virtue.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الشجاعة وهي ملكة يكون بها الإنسان حسن الرخاء للخلاص ومستعدا لوقوع المكروه. وكان المكروه عند الشجاع غير موجود أو بعيد ؛ وكل ذلك له من جهة اعتقاده بأن أسباب الخلاص قريبة، ومن جهة حسن ظنه بالتمكن من تقويم الشر المتوقع.
+As for courage, it is a disposition by which a person is good at ease for safety and prepared for the occurrence of misfortune. And misfortune in the view of the courageous is non-existent or far off; and all that is due to his belief that the causes of safety are near, and due to his good opinion of his ability to avert anticipated evil.
+Source pages p. 636
+
+Commentary
+This passage defines courage (shaja'a) as a disposition (malaka) that allows a person to be at ease regarding safety and ready for adversity. The courageous person perceives harm as absent or distant, because he believes the means of salvation are near and he has a positive estimate of his ability to prevent anticipated evil. This definition emphasizes cognitive factors (belief and opinion) rather than just bravery.
+
+Key Terms
+شجاعة
+ملكة
+الرخاء
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the effect of the courageous person's belief about the causes of safety?
+A) He becomes reckless.
+B) He views harm as non-existent or far off.
+C) He ignores danger.
+D) He becomes fearful.
+
+Key Takeaway
+Courage is defined as a disposition that combines ease and readiness, rooted in cognitive confidence, not mere bravery.
+
+How This Lesson Applies — to MY Life?
+?
+Find a definition of 'justice' ('adl) in an Islamic ethics text (e.g., al-Raghib al-Isfahani's Mufradat). Identify its genus and differentia using the same method.
+?
+Construct a definition for 'patience' (sabr) by specifying its genus (e.g., disposition) and differentia (endurance in hardship with trust in Allah).
+
+Pages p. 636 · Other Lessons
+← Prev
+Mark Done
+Next →

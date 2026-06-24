@@ -1,0 +1,763 @@
+← Prev
+p. 878
+Module 14 · Lesson 201
+Next →
+The Syllogism
+beginner
+10 min
+Theoretical Premises and the Example Syllogism
+Author defines nazariyyat with a categorical syllogism example.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the categorical syllogism used to acquire theoretical premises and identify its logical structure.
+
+Core Idea
+Theoretical premises are acquired by reasoning but become necessary through syllogistic proof.
+
+The author defines theoretical premises (al-naẓariyyāt) as those acquired through reasoning, yet their proof is so evident that they resemble necessary premises. He illustrates this with a classic categorical syllogism from Islamic theology: the proof for the temporal origination of the world. In this lesson, we will break down that syllogism and understand how it transforms a theoretical claim into a necessary conclusion.
+
+Guided Path
+1
+Identify the theoretical premise being proved
+The passage gives the conclusion: 'the world is temporally originated' (ḥādith). This is a theoretical claim that requires proof.
+In Islamic theology, this premise is foundational for arguments for God's existence.
+2
+Extract the two premises of the syllogism
+The minor premise: 'the world is changing' (mutaghayyir). The major premise: 'everything changing is temporally originated' (kull mutaghayyir ḥādith).
+These are categorical propositions of the form 'All A are B' and 'All B are C'.
+3
+Identify the middle term
+The middle term is 'changing' (mutaghayyir), which connects the subject 'world' to the predicate 'temporally originated'.
+The middle term is the cause (ʿilla) in the syllogism – it explains why the conclusion follows.
+4
+Determine the figure and mood
+This is a first-figure syllogism (Barbara): minor premise: all S is M, major premise: all M is P, conclusion: all S is P.
+First figure yields certain conclusions directly without conversion.
+5
+Understand why this makes the premise 'necessary'
+Al-Dasuqi explains that when the causal middle term is present in the mind, the judgment becomes as if necessary – like knowing 4 is even because it is divisible into equal parts.
+This shows how a theoretical premise becomes certain through demonstration.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بطريق الكسب والنَّظرِ كَحكم العقل بحدوثِ العالم المكتسب من قولنا: العالم متغيّر، وكل متغيّر حادث. أقسام القياس البرهاني (ثُمَّ) القياسُ البرهاني : إمَّا لِمّي، أو إنِّي ، فإنَّه : (إِنْ كِان) الحدُّ الأَوْسَطُ مَعَ عِليَّتِهِ) ؛ أي: مع كونه عِلَّةٌ لِلنِّسْبَةِ)؛ أي : لنسبة الأكبر إلى الأصغر ، فِي الذِّهْن : يحتمل (١) أن يتعلَّق بقوله : «مع عليَّته»؛ أي: بمجموع المضافِ والمضاف إليه ؛ إذ المجموعُ نائب منابَ الفعل أو شبهه، لا أنَّه يتعلق بأحدهما . الدسوقي لا يغيب عن الخيال عند الحكم ؛ صارَتْ هي ضروريَّةً أيضاً، فكأنَّها لا تحتاج إلى ذلكَ كَقولِكَ : الأربعةُ زَوج ؛ لأنَّها منقسمة ... إلخ، البرهان. (قَوْلُهُ : أَيْ : بِمَجْمُوْعِ إليه : قوله : عليته . الْمُضَافِ وَالْمُصَافِ إِلَيْهِ المضافُ: لفظ مع، والمضافُ إليه : قوله : عليته . (قَوْلُهُ : مَنَابَ الْفِعْل) أي: كانَ مثلاً ، وقوله : (أو شبهه)؛ أي: كائناً، فالمعنى إنْ كانَ الحد الوسط علَّةً لِلنّسبة في الواقع حالة كونه كان أو كائناً معَ عَلِّيَّتِهِ فِي الذهن. العطار (۱) (قَوْلُ الشَّارح : يحتمل ... إلخ) فيه أن الظرف عامله محذوف وجوباً على أنَّه حال من اسم كان على رأي سيبويه أو من خبرها قدم عليه لأنه نكرة عند غيره، ومعلوم أن الجار والمجرور يتعلق بما يتعلق به الظرف لا بالظرف وحده ولا به مع ما أضيف إليه كما لا يخفى فتعين أن يكون متعلقاً بالحال المحذوفة أو بالمضاف إليه لأنه مصدر . ا.هـ. الشَّرنوبي.
+By way of acquisition and reasoning, like the judgment of the intellect about the temporal origination of the world acquired from our statement: 'The world is changing, and everything changing is temporally originated.' Sections of the demonstrative syllogism: (Then) the demonstrative syllogism is either limmi or inni. (If) the middle term is with its causality; i.e., with it being a cause for the relation; i.e., for the relation of the major to the minor, in the mind. It is possible that it attaches to his statement: 'with its causality'; i.e., to the totality of the adjunction and the adjoined; since the totality stands in place of the verb or its like, not that it attaches to one of them. Al-Dasuqi: It does not disappear from the imagination at the time of judgment; thus it becomes necessary as well, as if it does not need that, like your statement: 'Four is even because it is divisible...' etc., the proof. (His statement: i.e., by the totality of the adjoined to it: his statement: its causality. The adjunction is the word 'with', and the adjoined to it: his statement: its causality.) (His statement: stands in place of the verb) i.e., it is an example, and his statement: (or its like) i.e., being. So the meaning: if the middle term is a cause for the relation in reality while being with its causality in the mind. Al-‘Attar: (1) (The commentator's statement: 'it is possible' etc.) In it, that the adverb's operator is elided obligatorily, as a condition of the subject of 'was' according to Sibawayh's view, or of its predicate because it is indefinite according to others. It is known that the prepositional phrase attaches to what the adverb attaches to, not to the adverb alone nor to it together with what is added to it, as is not hidden. So it is determined that it attaches to the elided condition or to the adjoined because it is a verbal noun. End. Al-Sharunubi.
+Source pages p. 878
+
+Commentary
+This passage explains the theoretical premises (نظريات) that are acquired through reasoning, illustrated by the syllogism: 'The world is changing, everything changing is temporally originated, therefore the world is temporally originated.' It then divides demonstrative syllogisms (برهان) into two types: limmi (why) and inni (that). The division is based on the middle term: if the middle term is a cause for the conclusion (in reality and known as such in the mind), it is limmi; if it is merely evidence without being a cause, it is inni. The text then discusses a grammatical point about the expression 'with its causality' in the definition. Al-Dasuqi adds that when the middle term's causality is present in the mind, the judgment becomes necessary, like knowing 4 is even because it is divisible into equal parts. The later commentators (al-‘Attar, al-Sharunubi) analyze the syntax of the phrase, clarifying that the prepositional phrase 'with its causality' functions as a condition (حال) related to the middle term. The key distinction: in limmi, the middle term explains why the predicate belongs to the subject; in inni, it only shows that it does.
+
+Key Terms
+النظريات
+البرهان
+اللمي
+الإنّي
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the middle term in the syllogism 'The world is changing, everything changing is temporally originated, therefore the world is temporally originated'?
+A) The world
+B) Changing
+C) Temporally originated
+D) The conclusion
+
+Key Takeaway
+Theoretical premises become certain when their proof is a valid categorical syllogism with a causal middle term.
+
+How This Lesson Applies — to MY Life?
+?
+Reconstruct a categorical syllogism from Islamic theology: use the premise 'Every intoxicant is forbidden (ḥarām)' and 'Nabidh is an intoxicant' to conclude 'Nabidh is forbidden'. Identify the middle term and the figure.
+?
+Take the theoretical claim 'The Qur'an is the word of God' and construct a syllogism that would support it using premises from the Islamic tradition. For example: 'Every revealed book is the word of God; the Qur'an is a revealed book; therefore...'
+
+Pages p. 878 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 878
+Module 14 · Lesson 202
+Next →
+The Syllogism
+intermediate
+12 min
+Division of Demonstrative Syllogisms: Limmi vs Inni
+Author divides burhan into limmi and inni.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between limmi (causal) and inni (evidential) demonstrative syllogisms based on the role of the middle term.
+
+Core Idea
+In limmi, the middle term is the cause of the conclusion; in inni, it is merely a sign.
+
+The author divides demonstrative syllogisms (burhan) into two fundamental types: limmi, where the middle term is the cause of the conclusion in reality and this is known in the mind, and inni, where the middle term is only evidence. This division is crucial for understanding the epistemological strength of different proofs. The subsequent commentary explores the precise meaning of 'with its causality' and how the middle term functions in each type.
+
+Guided Path
+1
+Understand the division criterion
+The division is based on whether the middle term is a cause (ʿilla) for the conclusion (the relation of the major to the minor) in reality, and whether this causality is known in the mind.
+If both conditions hold, it is limmi; otherwise, it is inni.
+2
+Analyze the phrase 'with its causality'
+The text says 'if the middle term is with its causality'. Commentators debate whether 'with' attaches to the middle term itself or to the causality. The correct reading is that the middle term is accompanied by its causality in the mind.
+This ensures that the causal relationship is mentally apprehended, not just real.
+3
+Compare limmi and inni examples
+A limmi example: 'Four is even because it is divisible into equal parts' – the middle term is the cause. An inni example: 'This is a house because there is smoke' – smoke is evidence, not the cause of the house.
+In Islamic sciences, limmi is used for proofs from essence, inni for proofs from signs.
+4
+Examine the commentary chain
+Al-Dasuqi adds that when the causality is present in the mind, the judgment becomes necessary. Al-‘Attar and al-Sharunubi analyze the syntax, showing how the phrase functions grammatically to clarify the logical point.
+The grammatical analysis refines the definition, ensuring no ambiguity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بطريق الكسب والنَّظرِ كَحكم العقل بحدوثِ العالم المكتسب من قولنا: العالم متغيّر، وكل متغيّر حادث. أقسام القياس البرهاني (ثُمَّ) القياسُ البرهاني : إمَّا لِمّي، أو إنِّي ، فإنَّه : (إِنْ كِان) الحدُّ الأَوْسَطُ مَعَ عِليَّتِهِ) ؛ أي: مع كونه عِلَّةٌ لِلنِّسْبَةِ)؛ أي : لنسبة الأكبر إلى الأصغر ، فِي الذِّهْن : يحتمل (١) أن يتعلَّق بقوله : «مع عليَّته»؛ أي: بمجموع المضافِ والمضاف إليه ؛ إذ المجموعُ نائب منابَ الفعل أو شبهه، لا أنَّه يتعلق بأحدهما . الدسوقي لا يغيب عن الخيال عند الحكم ؛ صارَتْ هي ضروريَّةً أيضاً، فكأنَّها لا تحتاج إلى ذلكَ كَقولِكَ : الأربعةُ زَوج ؛ لأنَّها منقسمة ... إلخ، البرهان. (قَوْلُهُ : أَيْ : بِمَجْمُوْعِ إليه : قوله : عليته . الْمُضَافِ وَالْمُصَافِ إِلَيْهِ المضافُ: لفظ مع، والمضافُ إليه : قوله : عليته . (قَوْلُهُ : مَنَابَ الْفِعْل) أي: كانَ مثلاً ، وقوله : (أو شبهه)؛ أي: كائناً، فالمعنى إنْ كانَ الحد الوسط علَّةً لِلنّسبة في الواقع حالة كونه كان أو كائناً معَ عَلِّيَّتِهِ فِي الذهن. العطار (۱) (قَوْلُ الشَّارح : يحتمل ... إلخ) فيه أن الظرف عامله محذوف وجوباً على أنَّه حال من اسم كان على رأي سيبويه أو من خبرها قدم عليه لأنه نكرة عند غيره، ومعلوم أن الجار والمجرور يتعلق بما يتعلق به الظرف لا بالظرف وحده ولا به مع ما أضيف إليه كما لا يخفى فتعين أن يكون متعلقاً بالحال المحذوفة أو بالمضاف إليه لأنه مصدر . ا.هـ. الشَّرنوبي.
+By way of acquisition and reasoning, like the judgment of the intellect about the temporal origination of the world acquired from our statement: 'The world is changing, and everything changing is temporally originated.' Sections of the demonstrative syllogism: (Then) the demonstrative syllogism is either limmi or inni. (If) the middle term is with its causality; i.e., with it being a cause for the relation; i.e., for the relation of the major to the minor, in the mind. It is possible that it attaches to his statement: 'with its causality'; i.e., to the totality of the adjunction and the adjoined; since the totality stands in place of the verb or its like, not that it attaches to one of them. Al-Dasuqi: It does not disappear from the imagination at the time of judgment; thus it becomes necessary as well, as if it does not need that, like your statement: 'Four is even because it is divisible...' etc., the proof. (His statement: i.e., by the totality of the adjoined to it: his statement: its causality. The adjunction is the word 'with', and the adjoined to it: his statement: its causality.) (His statement: stands in place of the verb) i.e., it is an example, and his statement: (or its like) i.e., being. So the meaning: if the middle term is a cause for the relation in reality while being with its causality in the mind. Al-‘Attar: (1) (The commentator's statement: 'it is possible' etc.) In it, that the adverb's operator is elided obligatorily, as a condition of the subject of 'was' according to Sibawayh's view, or of its predicate because it is indefinite according to others. It is known that the prepositional phrase attaches to what the adverb attaches to, not to the adverb alone nor to it together with what is added to it, as is not hidden. So it is determined that it attaches to the elided condition or to the adjoined because it is a verbal noun. End. Al-Sharunubi.
+Source pages p. 878
+
+Commentary
+This passage explains the theoretical premises (نظريات) that are acquired through reasoning, illustrated by the syllogism: 'The world is changing, everything changing is temporally originated, therefore the world is temporally originated.' It then divides demonstrative syllogisms (برهان) into two types: limmi (why) and inni (that). The division is based on the middle term: if the middle term is a cause for the conclusion (in reality and known as such in the mind), it is limmi; if it is merely evidence without being a cause, it is inni. The text then discusses a grammatical point about the expression 'with its causality' in the definition. Al-Dasuqi adds that when the middle term's causality is present in the mind, the judgment becomes necessary, like knowing 4 is even because it is divisible into equal parts. The later commentators (al-‘Attar, al-Sharunubi) analyze the syntax of the phrase, clarifying that the prepositional phrase 'with its causality' functions as a condition (حال) related to the middle term. The key distinction: in limmi, the middle term explains why the predicate belongs to the subject; in inni, it only shows that it does.
+
+Key Terms
+اللمي
+الإنّي
+البرهان
+الحد الأوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+What distinguishes a limmi syllogism from an inni syllogism?
+A) The middle term is always the subject in limmi.
+B) In limmi, the middle term is a cause for the conclusion, while in inni it is merely evidence.
+C) Limmi uses conditional propositions, inni uses categorical.
+D) Limmi produces probable knowledge, inni produces certain knowledge.
+
+Key Takeaway
+The division of demonstrative syllogisms into limmi and inni hinges on whether the middle term is a cause or merely evidence for the conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following argument is limmi or inni: 'This substance is khamr because it intoxicates, and every intoxicant is khamr.' Explain why.
+?
+Given the premise 'If it is a date palm, it is a tree' and 'This is a palm tree', the conclusion 'This is a tree' is an inni syllogism? Think about whether the middle term is a cause or evidence.
+
+Pages p. 878 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 878
+Module 14 · Lesson 203
+Next →
+The Syllogism
+intermediate
+5 min
+Division of Demonstrative Syllogism: Limmi and Inni
+Author defines limmi and inni demonstrative syllogisms based on causality of middle term.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between limmi and inni demonstrative syllogisms by analyzing the causal status of the middle term.
+
+Core Idea
+Limmi gives the 'why' in mind and reality; inni gives only the 'that'.
+
+Demonstrative syllogisms are the gold standard of certainty in Islamic logic. But not all demonstrations are equal: some reveal the cause itself, others only a sign. In this passage, the author defines the two types—limmi (a priori) and inni (a posteriori)—based on whether the middle term is a real cause or merely an effect. Understanding this distinction is essential for evaluating the strength of proofs in theology and jurisprudence.
+
+Guided Path
+1
+Identify the middle term in the example
+In the example 'Zayd has putrefied humors; every putrefied-humor person is feverish,' the middle term is 'putrefied humors' because it connects Zayd to fever. Note that it appears in the minor premise as the predicate and in the major premise as the subject.
+The middle term is the causal link.
+2
+Check causal status in the mind
+The passage says the middle term is considered 'with its causality' for the relation in the mind. Here, 'putrefied humors' causes fever in our understanding: we know that putrefaction leads to fever. So it satisfies the mental causality condition.
+All demonstrative syllogisms have mental causality.
+3
+Check causal status in reality
+Now ask: does the middle term also cause the relation in external reality? In this example, putrefied humors are indeed a real cause of fever, not just a sign. So the middle term is a cause in both mind and reality.
+If it were only a sign (e.g., fever indicates putrefaction but is not the cause), it would be inni.
+4
+Classify the syllogism
+Since the middle term is a cause in both domains, the syllogism is limmi. It gives the 'why' (limmiyya) in both the intellect and external existence. If it were a cause only in the mind, it would be inni, giving only the 'that'.
+This classification determines the epistemological value of the demonstration.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياسُ البرهاني : إمَّا لِمّي، أو إنِّي ، فإنَّه : إنْ كان الحدُّ الأوسطُ مع عليَّتهِ؛ أي : مع كونه عِلَّةٌ لِلنِّسْبَةِ)؛ أي : لنسبة الأكبر إلى الأصغر ، في الذهن ... فإن كان مع كونه علَّةً للنِّسبة في الذهن علَّةٌ (لَهَا فِي الوَاقِعِ) أيضاً؛ (فَلِمِّي)؛ لأنَّه يُعطي اللميَّةَ في الذهنِ والخارج. كقولنا : زيدٌ متعفّنُ الأخلاط. وكلُّ متعفّن الأخلاط محموم.
+The demonstrative syllogism: either limmi or inni. For if the middle term is with its causality, i.e., with it being a cause for the relation, i.e., for the relation of the major to the minor, in the mind... then if it is, along with being a cause for the relation in the mind, also a cause for it in reality, then it is limmi, because it gives the limmiyya (why-ness) in the mind and externally. Like our saying: 'Zayd has putrefied humors, and every putrefied-humor person is feverish.'
+Source pages p. 878
+
+Commentary
+This passage defines the two types of demonstrative syllogism (al-qiyas al-burhani): limmi (a priori, giving the cause) and inni (a posteriori, giving the effect). The classification hinges on whether the middle term (al-hadd al-awsat) is a cause for the relation between the major and minor terms in reality (fi al-waqi) or only in the mind. The text states: if the middle term is considered with its causality (i.e., being a cause) for the relation in the mind, and additionally it is a cause for that relation in reality, then it is limmi, because it provides the 'why' (al-lamiyya) both in the intellect and in external existence. The example given involves Zayd having putrefied humors and being feverish; the middle term 'putrefied humors' is the cause of fever in reality, so the syllogism is limmi. The grammatical notes from al-Dasooqi explain that the phrase 'مع عليته' is attached to the entire predicate structure. The passage thus clarifies that the limmi syllogism is epistemologically superior because it gives the reason for the judgment in both mind and reality, while inni only gives it in the mind.
+
+Key Terms
+القياس البرهاني
+لمّي
+إنّي
+الحد الأوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+In a demonstrative syllogism, if the middle term is a cause for the relation between major and minor both in the mind and in external reality, what type is it?
+A) Inni (a posteriori)
+B) Limmi (a priori)
+C) Inductive
+D) Analogical
+
+Key Takeaway
+The distinction between limmi and inni turns on whether the middle term is a cause in reality or only a mental sign; limmi yields the 'why' while inni yields only the 'that'.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a limmi syllogism on the topic of divine attributes: use a middle term that is a real cause for the attribute (e.g., power as cause of creation). Then construct an inni syllogism on the same topic using a sign (e.g., order as effect of power).
+?
+Analyze the following argument: 'Alcohol is intoxicating; every intoxicant is prohibited; therefore alcohol is prohibited.' Is the middle term 'intoxicating' a cause in reality or only a sign? Classify the syllogism as limmi or inni.
+
+Pages p. 878 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 881
+Module 14 · Lesson 204
+Next →
+The Syllogism
+beginner
+5 min
+Distinguishing Burhan Inni from Burhan Limmi
+Author introduces burhan inni with an example.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish burhan inni from burhan limmi by analyzing the causal direction of the middle term in a categorical syllogism.
+
+Core Idea
+In burhan inni, the middle term is a sign, not a cause; in burhan limmi, it is the true cause.
+
+This lesson introduces the distinction between two types of demonstration: inni (that) and limmi (why). Using the example of fever and putrid humors, the author shows how the same syllogism can be valid but the causal relationship differs in the mind versus external reality. Understanding this distinction is crucial for evaluating the strength of arguments in Islamic sciences.
+
+Guided Path
+1
+Extract the syllogism from the Arabic
+Identify the three propositions: 'Zayd is feverish' (minor premise), 'Every feverish person has putrid humors' (major premise), and 'Zayd has putrid humors' (conclusion).
+The Arabic reads: 'كَقولنا : زيد محموم»، وكلُّ محموم متعفّن الأخلاط»، «فزيدٌ متعفّنُ الأخلاط'.
+2
+Locate the middle term
+The middle term is 'feverish' (محموم) because it appears in both premises but not in the conclusion. It connects Zayd to having putrid humors.
+The author explicitly calls it 'الأوسط' (the middle).
+3
+Analyze the causal claim in the mind
+The author states that the middle term is a cause for the conclusion in the mind—meaning it is used as a reason or sign to affirm that Zayd has putrid humors. In reasoning, we infer from the fever to the humors.
+The text says: 'فإِنَّ الأوسط وهو «محموم»، وإنْ كانَ علَّةٌ لثبوتِ تعفن الأخلاط في الذهن'.
+4
+Contrast with external causality
+The author then says that in external reality, the opposite is true: putrid humors are the cause of the fever. So the middle term (fever) is actually the effect, not the cause.
+The text says: 'بل الأمر بالعكس' and Dassuqi clarifies: 'كَوْنُ تعفن الأخلاطِ علَّةٌ لِلحُمَّى'.
+5
+Classify the demonstration
+Since the middle term is a sign (effect) rather than the real cause, this is a burhan inni (demonstration that something is the case). If the middle term were the real cause, it would be burhan limmi (demonstration why).
+Burhan inni is also called 'دليل' (sign) in Arabic logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في مؤاد الأقبسة
+كَقولنا : زيد محموم»، وكلُّ محموم متعفّن الأخلاط»، «فزيدٌ متعفّنُ الأخلاط».
+فإِنَّ الأوسط وهو «محموم»، وإنْ كانَ علَّةٌ لثبوتِ تعفن الأخلاط في الذهن؛ إلَّا أنَّه ليس علَّةٌ في الخارج، بل الأمر بالعكس.
+الدسوقي
+(قَوْلُهُ : مُتَعَفِّنُ الْأَخْلَاطِ أي : فاسدُ الطَّبائع .
+(قَوْلُهُ: فِي الذُّهْنِ) لأنَّه جعل سبباً لثبوتِ الحمل في الذهن، وقوله: (الخارج)؛ هو الواقع . (قَوْلُهُ: بَلِ الْأَمْرُ بِالْعَكْسِ) وهو كَونُ تعفن الأخلاطِ علَّةٌ لِلحُمَّى .
+Chapter on the matters of syllogisms.
+Like our saying: 'Zayd is feverish', and 'Every feverish person has putrid humors', so 'Zayd has putrid humors'.
+Indeed, the middle term, which is 'feverish', even though it is a cause for the affirmation of putrid humors in the mind, it is not a cause externally; rather, the opposite is the case.
+[Dassuqi: His saying 'putrid humors' means corrupted mixtures. His saying 'in the mind' because it is made a cause for the affirmation of the predication in the mind; and his saying 'externally' refers to reality. His saying 'rather the opposite' means that putrid humors are a cause for the fever.]
+Source pages p. 881
+
+Commentary
+This passage begins a new chapter on the 'matters' (materials) of syllogisms. It provides an example of a categorical syllogism: 'Zayd is feverish, every feverish person has putrid humors, so Zayd has putrid humors.' The author then explains that the middle term 'feverish' is a cause for the conclusion (that Zayd has putrid humors) only in the mind, not in external reality. In reality, the opposite is true: putrid humors cause the fever. This example illustrates a burhan inni, where the middle term is a sign or effect rather than a cause. The Dassuqi commentary clarifies the terms: 'putrid humors' means corrupted bodily mixtures, and 'in the mind' means it is used as a reason for affirming the predication in thought, while externally the causal relationship is reversed. This underscores the distinction between demonstration that shows the cause (limmi) and demonstration that merely confirms the fact (inni).
+
+Key Terms
+مواد الأقيسة
+تعفن الأخلاط
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example syllogism, what is the actual causal relationship in external reality?
+A) Fever causes putrid humors
+B) Putrid humors cause fever
+C) Both are uncorrelated
+D) Neither is a cause
+
+Key Takeaway
+The middle term in a burhan inni serves as a sign (effect) confirming the conclusion, but the real causal relationship is reversed in external reality.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the following argument from fiqh: 'Every intoxicant is forbidden. Every nabidh is an intoxicant. Therefore nabidh is forbidden.' Determine whether the middle term (intoxicant) is a cause in the mind and in external reality. Is this burhan inni or limmi? Explain your reasoning.
+?
+Using the example of fever and putrid humors, write a short paragraph explaining why the syllogism 'Zayd is feverish, every feverish person has putrid humors, so Zayd has putrid humors' is a burhan inni, not a burhan limmi.
+
+Pages p. 881 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 882
+Module 14 · Lesson 205
+Next →
+The Syllogism
+intermediate
+10 min
+Dialectical Syllogism: Materials and Fame
+Author defines dialectical syllogism and explains its premises.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish dialectical from demonstrative syllogisms by their premise types, and identify the three levels of widespread acceptance (mashhurat) in dialectical premises.
+
+Core Idea
+Dialectical syllogism wins by acceptance, not truth—its premises are only as strong as the opponent's concession.
+
+In this lesson, we dissect the definition of dialectical syllogism (jadal) and its building blocks: widely accepted premises (mashhurat) and conceded premises (musallamat). The commentator expands on the scope of 'fame' and contrasts it with self-evident truths (awwaliyat). Understanding this distinction is vital for constructing persuasive arguments in theological and legal debates, where the goal is to convince an opponent using premises they already accept.
+
+Guided Path
+1
+Locate the definition
+Find where the author defines dialectical syllogism. What two types of premises does it require?
+The definition appears at the start: 'يتألف من المشهورات والمسلمات'.
+2
+Distinguish mashhurat and musallamat
+Notice that both are accepted, but mashhurat have broader or narrower fame, while musallamat are specifically conceded by the opponent in a debate.
+Musallamat may be objectively false but are granted for the sake of argument.
+3
+Analyze the three levels of fame
+Identify the three categories: universal (all people), majority, and specific group. Provide examples from the passage.
+Examples: universal – 'doing good to parents is good'; majority – 'oneness of God'; specific – 'impossibility of infinite regress'.
+4
+Differentiate mashhurat from awwaliyat
+Use the distinction: awwaliyat are judged by mere conception of terms (e.g., whole > part); mashhurat depend on custom and experience, so they can change (e.g., lying might be considered good if beneficial).
+The passage gives the test of isolation from society.
+5
+Compare form: jadal vs. burhan
+Note that jadal can use induction, analogy, or syllogism, while burhan is limited to categorical syllogism. This makes jadal more flexible.
+The passage states: 'الحق أنه أعم من البرهان باعتبار الصورة أيضاً'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَإِمَّا جَدَلي) عطف على قوله إما برهاني، والجدلي (يَتَأَلَّفُ مِنَ: الْمَشْهُورَاتِ، وَالْمُسَلَّمَاتِ). أما المشهورات: فهي القضايا التي تشتهر فيما بين النَّاس. دخلَ فيهِ ما إذا كانَتِ المقدِّمتانِ مُسلَّمتين أو مشهورتين، أو الأُولى مُسَلَّمَةٌ والأخرى مشهورة؛ إذ المراد أنَّ الجدل قياس؛ إحدى مُقدِّمتيه مُسلَّمةٌ أو مشهورةٌ، ومثل ذلك يُقالُ في جميع ما يأتي... إلخ إلا البرهان، فَيشترط كونُ مُقدِّمتيهِ يَقينيَّتَين، ويصدقُ على الَّذِي مُقَدِّمتاهُ مَشهورتانِ أَنَّ إحداهما مشهورة. وفيما بَيْنَ النَّاسِ أَمَّا كُلُّهُم؛ كحسن الإحسان إلى الآباء والفقراء، أو الجلُّ؛ كوحدة الإله، أو طائفةٌ مخصوصة؛ كاستحالة التسلسل وسببُ الشُّهرة؛ إمَّا اشتمالها على مصلحة عامَّةٍ يتعلَّق بنظم أحوالهم؛ نحو قول الشَّارح: العدلُ حسن، والظُّلم قبيح، أو ما في طباعهم من الرِّقَةِ؛ نحو: مُراعاة الضعفاء محمودةٌ، أو الحمية؛ نحو: كشفُ العورة مذموم. الجدل حجةٌ منتجة على سبيل الشهرة، ولا بد أن تكون مواده مشهورة أو مسلّمة عند الخصم؛ سواء كانت صادقة أو كاذبة، وكذا هيئته منتجة على سبيل الشهرة أو تسليم الخصم، فيجوز استعمال الشكل الثاني من موجبتين إن ظنه الخصم منتجا. قال شارح سلم العلوم: هي إما مسلمة عند الأنام كافة؛ نحو: العلم حسن، وتسمى مشهورات مطلقة، أو عند جماعة مخصوصة كقولنا: «العدل حسن» و«الظلم قبيح». والمراد أن المشهورة لا يعتبر فيها مطابقة الواقع وتطابق الآراء؛ سواء كانت يقينية أم لا، فبعض القضايا يكون أوليا باعتبار، ومشهوراً باعتبار. وقد تبلغ الشهرة إلى حيث تشتبه بالأوليات، ويفرق بينهما: بأن الأوليات: يحكم بها العقل ولو لم ينظر إلى غير تصور الطرفين من غير توقف. والمشهورات: تتوقف على غير تصور الطرفين بحيث إن الإنسان لو فرض نفسه؛ لم يشاهد أحداً، ولم يمارس عملاً، ثم عرضت عليه هذه القضايا؛ لم يحكم بها، بل يتوقف؛ لأن سبب الحكم فيها ممارسة العادات، ولذا قد يتطرق التغير إليها كاستحسان الكذب إذا اشتمل على مصلحة عظيمة، بخلاف الأوليات؛ فإن الكل يستصغر بالقياس إلى الجزء أصلاً، فالمراد أن قضايا الجدل تؤخذ من حيث إنها مشهورة أو مسلمة، وإن كانت في الواقع يقينية، بل أولية. والحق أنه أعم من البرهان باعتبار الصورة أيضاً؛ لأن المعتبر فيه الإنتاج بحسب التسليم؛ سواء كان استقراء أو تمثيلاً أو قياساً، بخلاف البرهان؛ لا يكون إلا قياساً.
+And [the syllogism] is either dialectical – it is a conjunction to his saying 'either demonstrative' – and the dialectical is composed of widely accepted premises and conceded premises. As for widely accepted premises: they are propositions that are famous among the people. This includes when both premises are conceded or widely accepted, or the first is conceded and the second widely accepted; for the intended meaning is that dialectic is a syllogism, one of whose premises is conceded or widely accepted, and similar is said in all that follows... except demonstration, for it is required that both its premises be certain, and it is true of that whose premises are both widely accepted that one of them is widely accepted. And [the phrase] 'among the people' [means] either all of them, like 'doing good to parents and the poor is good', or the majority, like 'the oneness of God', or a specific group, like 'the impossibility of infinite regress'. And the cause of fame is either its comprising a general benefit related to the order of their affairs, like the commentator's saying: 'justice is good' and 'injustice is ugly', or what is in their natures of softness, like 'caring for the weak is praiseworthy', or zeal, like 'revealing the private parts is blameworthy'. Dialectic is a productive proof in the manner of fame, and it is necessary that its materials be widely accepted or conceded by the opponent, whether they are true or false, and likewise its form is productive in the manner of fame or the opponent's acceptance, so it is permissible to use the second figure from two affirmatives if the opponent thinks it productive. The commentator on Sullam al-‘Ulum said: They are either conceded by all people, like 'knowledge is good', and are called absolute widely accepted propositions, or by a specific group, like our saying: 'justice is good' and 'injustice is ugly'. And the intended meaning is that the widely accepted proposition is not considered regarding its correspondence to reality or agreement of opinions; whether it is certain or not. So some propositions are self-evident in one respect and widely accepted in another. Fame may reach a point where it is confused with self-evident propositions, and the distinction between them is: self-evident propositions are judged by the intellect even if it does not consider anything beyond the mere conception of the two terms, without any pause. Widely accepted propositions depend on something beyond the conception of the two terms, such that if a person were to imagine himself having never seen anyone, nor practiced any work, then these propositions were presented to him, he would not judge them, but would pause; because the cause of judgment in them is the practice of customs, and therefore change may occur to them, like deeming lying good if it involves a great benefit, unlike self-evident propositions; for everyone considers [the part] small in comparison to the whole originally. So the intended meaning is that the propositions of dialectic are taken insofar as they are widely accepted or conceded, even if in reality they are certain, nay self-evident. And the truth is that it is more general than demonstration in terms of form as well; because what is considered in it is productivity according to acceptance, whether it is induction, analogy, or syllogism, unlike demonstration which is only by syllogism.
+Source pages p. 882
+
+Commentary
+This passage defines the dialectical syllogism (قياس جدلي) and explains its distinctive materials. The author first states that dialectical syllogism is composed of widely accepted propositions (مشهورات) and conceded propositions (مسلمات). This is a definition by materials. The commentator expands by noting that the two premises can both be conceded or both widely accepted, or one of each; the key is that at least one premise is of this type, unlike demonstration where both must be certain. The passage then elaborates on what 'widely accepted' means: it can be among all people (e.g., 'doing good to parents is good'), among the majority (e.g., 'God is one'), or among a specific group (e.g., philosophers accepting 'the impossibility of infinite regress'). The cause of fame is also discussed: it may be due to general benefit, inherent tenderness, or zeal. The commentator from Sullam al-‘Ulum further distinguishes between absolute widely accepted propositions (accepted by all people, like 'knowledge is good') and limited ones (accepted by a group, like 'justice is good'). Importantly, the passage clarifies that widely accepted propositions are not evaluated for truth; they may be certain or not. This leads to a crucial distinction between self-evident propositions (أوليات) and widely accepted propositions (مشهورات). Self-evident propositions are judged by the mere conception of the terms without any external experience (e.g., the whole is greater than the part). Widely accepted propositions depend on custom and social practice, so they can change (e.g., lying may be considered good in certain situations). The passage concludes that dialectical syllogism is more general than demonstration in form as well, because it can use induction, analogy, or syllogism, while demonstration is restricted to syllogism. Throughout, the focus is on the material and formal flexibility of dialectic, contrasting with the strict requirements of demonstration.
+
+Key Terms
+جدل
+مشهورات
+مسلمات
+برهان
+أوليات
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a widely accepted proposition (مشهورة) as defined in the passage?
+A) The whole is greater than its part.
+B) Doing good to parents is good.
+C) The sum of angles in a triangle equals 180 degrees.
+D) All bodies are composed of atoms.
+
+Key Takeaway
+Dialectical syllogism is defined by its materials (mashhurat and musallamat) and its flexibility in form, focusing on persuasion rather than absolute truth.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a dialectical syllogism to argue that 'the world is temporally originated' using only premises that a Dahri (materialist) might grant. Identify which premises are mashhurat and which are musallamat.
+?
+In the passage, the commentator distinguishes awwaliyat from mashhurat. Pick a proposition from Islamic theology (e.g., 'the Qur'an is uncreated') and explain under what conditions it would function as a mashhurah versus an awwaliyah in a debate.
+
+Pages p. 882 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 886
+Module 14 · Lesson 206
+Next →
+The Syllogism
+beginner
+5 min
+Defining the Rhetorical Syllogism and Its Premises
+Defines rhetorical syllogism and its two premise types.
+
+Learning Objective
+By the end of this lesson, you will be able to define the rhetorical syllogism and distinguish between accepted (maqbul) and probable (maznun) premises.
+
+Core Idea
+Rhetorical syllogism persuades using accepted and probable premises, not certain ones.
+
+In this lesson, we look at the definition of one of the five logical arts: the rhetorical syllogism (al-qiyas al-khitabi). Unlike demonstrative syllogisms that yield certainty, the rhetorical syllogism aims to persuade a general audience. Its premises are either accepted from a trusted authority or probable from common experience. Understanding this distinction is key to using rhetoric effectively in Islamic preaching and ethics.
+
+Guided Path
+1
+Locate the definition
+In the Arabic, find the sentence 'القياسُ الخطابي: هو ما يَتَأَلَّفُ مِنَ الْمَقْبُولَاتِ وَالْمَظْنُونَاتِ.' This states that the rhetorical syllogism is composed of two types of premises.
+2
+Identify accepted premises (maqbulat)
+The text says they are taken from someone believed in, like a scholar or a saint. Recognize that these are authoritative statements.
+3
+Identify probable premises (maznunat)
+The text gives the example: 'Every wall from which dust falls is collapsing.' This is based on predominant belief, not certainty.
+4
+Understand the purpose
+The purpose is to encourage people in ethical and religious matters, as preachers do. Note that rhetorical syllogism is practical.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياسُ الخطابي: هو ما يَتَأَلَّفُ مِنَ الْمَقْبُولَاتِ وَالْمَظْنُونَاتِ. أمَّا المقبولاتُ: فهي القضايا المأخوذةٌ ممَّن يُعتَقَدُ فيه، كعالِم أَوْ وَلِيّ. وأما المظنوناتُ: فهي التي يُعتَقَدُ فيها اعتقاداً راجحاً كَقولنا: كلُّ حائط ينتثر منه التُراب فهو منهدم. والغرضُ منه: ترغيبُ النَّاسِ فيما ينفعهم من تهذيب الأخلاق، وأمرِ الدِّين والدُّنيا، كما يفعله الوعاظ والخطباء. قال العطار: الفطريات التي قياساتها معها، والقياسُ أنَّ هذا إخبارُ مخبر قطعاً، وإخباره حق، وعند ذوي العقولِ الضَّعيفةِ حَدسيَّاتٌ أو مُبرهناتٌ بذلك القياس، وبالجملة: عدُّ المأخوذاتِ مِنَ الأنبياء مِنَ المظنوناتِ؛ سفاهة ظاهرةٌ وجهل عظيم، بل مُكاشفات الأولياء صوادقُ قطعاً، وفطريات عندَ العقولِ الزَّكَيَّةِ، ومُبرهنات عند العقولِ الضَّعيفة المذكور.
+The rhetorical syllogism: it is composed of accepted propositions and probable propositions. As for accepted propositions: they are propositions taken from someone who is believed in, like a scholar or a saint. And as for probable propositions: they are those in which there is a predominant belief, like our saying: Every wall from which dust falls is collapsing. And its purpose: to encourage people towards what benefits them in the refinement of morals and matters of religion and this world, as preachers and orators do. Al-‘Attar said: The innate axioms (fitriyyat) whose syllogisms are with them, and the syllogism that this is a report of a reporter with certainty, and his report is true, and in the view of weak intellects they are intuitives (hadsiyyat) or demonstrables (burhaniyyat) by that syllogism. In summary: counting the taken propositions from the prophets as probable propositions is manifest foolishness and great ignorance. Rather, the unveilings of the saints are true with certainty, and innate axioms in the view of pure intellects, and demonstrables in the view of the weak intellects mentioned.
+Source pages p. 886
+
+Commentary
+This passage defines the rhetorical syllogism, one of the types of syllogisms classified by their premises (mawadd). It begins by stating that the rhetorical syllogism is composed of two types of premises: accepted propositions (maqbulat) and probable propositions (maznunat). Accepted propositions are those taken from a person whose authority is trusted, such as a scholar or a saint. The author gives the example of 'a scholar or a saint', indicating that these figures are credible sources in rhetorical discourse. Probable propositions, on the other hand, are those believed with a preponderant probability but not certainty, like the example 'Every wall from which dust falls is collapsing.' This is a likely truth based on experience, but not absolutely certain. The purpose of such syllogisms is persuasion: to encourage people towards beneficial actions in ethics and worldly and religious affairs, as preachers and orators do. Then a critical note from al-‘Attar is inserted, arguing that propositions taken from prophets should not be classified as merely probable; they are far more certain. He states that for sound intellects, such propositions are innate and self-evident (fitriyyat), and even for weak intellects they can be demonstrated. Calling them probable is foolishness. This shows an important refinement: the classification of premises can vary based on the epistemic status of the source. The passage thus not only defines but also corrects a potential misunderstanding about the material of rhetorical syllogism.
+
+Key Terms
+القياس الخطابي
+المقبولات
+المظنونات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is an example of a probable proposition (maznuna) in a rhetorical syllogism?
+A) The Prophet said: Prayer is obligatory.
+B) Every wall from which dust falls is collapsing.
+C) The world is temporally originated.
+D) Every intoxicant is forbidden.
+
+Key Takeaway
+The rhetorical syllogism is defined by its premises: accepted from authorities and probable from experience, aiming to persuade in ethical and religious matters.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following is a maqbula and which is a maznuna: 1) 'Imam al-Shafi'i said: Knowledge is light.' 2) 'Most people who wake up early are more productive.' Provide a brief explanation referencing the definitions from the text.
+
+Pages p. 886 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 886
+Module 14 · Lesson 207
+Next →
+The Syllogism
+intermediate
+5 min
+The Purpose of Rhetorical Syllogism and the Status of Prophetic Premises
+Explains purpose and critiques misclassification of prophetic premises.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the purpose of the rhetorical syllogism and critique al-‘Attar's objection to classifying prophetic statements as probable.
+
+Core Idea
+Prophetic statements are certain, not probable; calling them probable is ignorance.
+
+This lesson focuses on the latter part of the passage: the purpose of rhetorical syllogism and an important critique by al-‘Attar. While rhetorical syllogism uses accepted and probable premises, al-‘Attar warns against treating statements from prophets as merely probable. His comment elevates the epistemic status of prophetic reports, aligning with Islamic theology that prophets convey certain truth.
+
+Guided Path
+1
+Read the purpose statement
+In the Arabic, from 'والغرض منه' to 'كما يفعله الوعاظ والخطباء'. Note that the purpose is to encourage people in morals and religion.
+2
+Find al-‘Attar's critique
+The text says 'قال العطار' and then criticizes counting the taken propositions from the prophets as probable.
+3
+Understand his argument
+Al-‘Attar states that such propositions are actually certain for strong intellects, and even for weak intellects they can be demonstrated. Calling them probable is foolish.
+4
+Relate to the classification of premises
+Recognize that al-‘Attar is refining the category of maqbulat: prophets' reports should not be considered mere accepted propositions; they are of a higher epistemic rank.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياسُ الخطابي: هو ما يَتَأَلَّفُ مِنَ الْمَقْبُولَاتِ وَالْمَظْنُونَاتِ. أمَّا المقبولاتُ: فهي القضايا المأخوذةٌ ممَّن يُعتَقَدُ فيه، كعالِم أَوْ وَلِيّ. وأما المظنوناتُ: فهي التي يُعتَقَدُ فيها اعتقاداً راجحاً كَقولنا: كلُّ حائط ينتثر منه التُراب فهو منهدم. والغرضُ منه: ترغيبُ النَّاسِ فيما ينفعهم من تهذيب الأخلاق، وأمرِ الدِّين والدُّنيا، كما يفعله الوعاظ والخطباء. قال العطار: الفطريات التي قياساتها معها، والقياسُ أنَّ هذا إخبارُ مخبر قطعاً، وإخباره حق، وعند ذوي العقولِ الضَّعيفةِ حَدسيَّاتٌ أو مُبرهناتٌ بذلك القياس، وبالجملة: عدُّ المأخوذاتِ مِنَ الأنبياء مِنَ المظنوناتِ؛ سفاهة ظاهرةٌ وجهل عظيم، بل مُكاشفات الأولياء صوادقُ قطعاً، وفطريات عندَ العقولِ الزَّكَيَّةِ، ومُبرهنات عند العقولِ الضَّعيفة المذكور.
+The rhetorical syllogism: it is composed of accepted propositions and probable propositions. As for accepted propositions: they are propositions taken from someone who is believed in, like a scholar or a saint. And as for probable propositions: they are those in which there is a predominant belief, like our saying: Every wall from which dust falls is collapsing. And its purpose: to encourage people towards what benefits them in the refinement of morals and matters of religion and this world, as preachers and orators do. Al-‘Attar said: The innate axioms (fitriyyat) whose syllogisms are with them, and the syllogism that this is a report of a reporter with certainty, and his report is true, and in the view of weak intellects they are intuitives (hadsiyyat) or demonstrables (burhaniyyat) by that syllogism. In summary: counting the taken propositions from the prophets as probable propositions is manifest foolishness and great ignorance. Rather, the unveilings of the saints are true with certainty, and innate axioms in the view of pure intellects, and demonstrables in the view of the weak intellects mentioned.
+Source pages p. 886
+
+Commentary
+This passage defines the rhetorical syllogism, one of the types of syllogisms classified by their premises (mawadd). It begins by stating that the rhetorical syllogism is composed of two types of premises: accepted propositions (maqbulat) and probable propositions (maznunat). Accepted propositions are those taken from a person whose authority is trusted, such as a scholar or a saint. The author gives the example of 'a scholar or a saint', indicating that these figures are credible sources in rhetorical discourse. Probable propositions, on the other hand, are those believed with a preponderant probability but not certainty, like the example 'Every wall from which dust falls is collapsing.' This is a likely truth based on experience, but not absolutely certain. The purpose of such syllogisms is persuasion: to encourage people towards beneficial actions in ethics and worldly and religious affairs, as preachers and orators do. Then a critical note from al-‘Attar is inserted, arguing that propositions taken from prophets should not be classified as merely probable; they are far more certain. He states that for sound intellects, such propositions are innate and self-evident (fitriyyat), and even for weak intellects they can be demonstrated. Calling them probable is foolishness. This shows an important refinement: the classification of premises can vary based on the epistemic status of the source. The passage thus not only defines but also corrects a potential misunderstanding about the material of rhetorical syllogism.
+
+Key Terms
+القياس الخطابي
+المقبولات
+المظنونات
+
+Key Terms from Source Passage
+
+Checkpoint
+What does al-‘Attar say about statements taken from prophets?
+A) They are probable (maznunat).
+B) They are accepted (maqbulat).
+C) They are certain and calling them probable is foolish.
+D) They are only for weak intellects.
+
+Key Takeaway
+Al-‘Attar's correction ensures that prophetic premises are not diminished to the level of mere probability, safeguarding their authority in Islamic discourse.
+
+How This Lesson Applies — to MY Life?
+?
+Write a short paragraph explaining why, according to al-‘Attar, it is wrong to count propositions from the prophets as maznunat. Use the concepts of fitriyyat and burhaniyyat mentioned in the text.
+
+Pages p. 886 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 889
+Module 14 · Lesson 208
+Next →
+The Syllogism
+beginner
+5 min
+The Material of Poetic Syllogisms: Imaginative Propositions
+Author defines the material of poetic syllogisms as imaginative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify poetic syllogisms by their distinctive material—imaginative propositions—and distinguish them from demonstrative and dialectical syllogisms.
+
+Core Idea
+Poetic syllogisms use imaginative propositions, not truth-claims.
+
+In this lesson, we explore what makes a syllogism poetic: its material. Unlike demonstrative syllogisms that demand certainty, or dialectical ones that rely on accepted opinions, poetic syllogisms operate on imagination. The passage clarifies that their purpose is to present imaginative propositions (qadaya mukhayyala), not to assert truth. Even meter and sound are secondary; the essence is the imaginative effect on the listener.
+
+Guided Path
+1
+Locate the key term 'mawad al-aqyisa'
+Find the phrase 'مواد الأقيسة' in the Arabic. Note that the author is discussing the 'materials' or premises that define each type of syllogism.
+This term is used in the context of the five logical arts: burhan, jadal, khitaba, shi'r, and mughalata.
+2
+Extract the author's definition of poetic syllogism material
+The passage states: 'المقصود منه إيراد القضايا المخيلة' — the purpose of poetry (and thus poetic syllogisms) is to present imaginative propositions. Identify this as the defining characteristic.
+Contrast this with definitions of other syllogisms: demonstrative uses certain premises, dialectical uses accepted premises.
+3
+Analyze the role of meter and sound
+The author notes varying views on meter: ancients required both meter and imagination; moderns added meter; majority consider only meter. Then he clarifies that beautiful sound is accidental ('عارض'), not essential. The core is the imaginative proposition.
+This helps distinguish the logical form from the poetic form: the logical material is the imaginative proposition, while meter is a poetic convention.
+4
+Compare with other syllogism types
+Think of a demonstrative syllogism (e.g., 'The world is originated; everything originated has a cause; therefore the world has a cause') which aims at certainty. A poetic syllogism might be: 'The sun is a golden chariot racing across the sky' — this does not claim truth but evokes an image.
+The difference is in the type of proposition: yaqiniyya vs. mukhayyala.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في مواد الأقيسة
+والقدماء كانوا يعتبرون في الشعر الوزن، ويقتصرون على التخييل، والمحدثون اعتبروا معه الوزن أيضاً، والجمهور لا يعتبرون فيه إلا الوزن وهو المشهور.
+كذلك، فإن الكلام في شعر اليونانيين، والمقصود منه إيراد القضايا المخيلة، وأما الصوت الطيب فهو أمر عارض له، وإفادته الحسن أمر جلي يدركه من رق طبعه ولطفت شمائله.
+Chapter: On the Materials of Syllogisms. The ancients used to consider meter in poetry and restrict themselves to imagination, while the moderns considered meter along with it as well, and the majority do not consider anything except meter, and that is well-known. Likewise, the discourse on the poetry of the Greeks: its purpose is to present imaginative propositions. As for beautiful sound, it is an accidental attribute to it, and its conveying beauty is an evident matter perceived by one whose nature is delicate and whose qualities are refined.
+Source pages p. 889
+
+Commentary
+This passage defines the material of the poetic syllogism as imaginative propositions (qadaya mukhayyala). The author first notes the varying views on the constitutive elements of poetry: the ancients considered only meter and imagination, the moderns added meter as a requirement, while the majority hold that meter alone suffices. Then he clarifies that the discourse on Greek poetry is intended to produce imaginative propositions, not factual claims. Beautiful sound is merely accidental; the real effect of poetry is the imaginative impact, which is appreciated by those of refined nature. This distinguishes poetic syllogisms from demonstrative or dialectical ones, which use certain or accepted premises.
+
+Key Terms
+مواد الأقيسة
+قضايا مخيلة
+تخييل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the main purpose of Greek poetry as it relates to logic?
+A) To provide true premises for demonstrations
+B) To present imaginative propositions
+C) To achieve beautiful sound
+D) To establish dialectical arguments
+
+Key Takeaway
+The material of poetic syllogisms is imaginative propositions, aiming at emotional impact, not logical certainty.
+
+How This Lesson Applies — to MY Life?
+?
+Identify an example of an imaginative proposition from classical Arabic poetry (e.g., from the Mu'allaqat) and explain why it qualifies as a poetic syllogism premise according to this passage.
+?
+Compare the material of a poetic syllogism with that of a demonstrative syllogism: write one example of each from Islamic disciplines (e.g., a line of poetry and a kalam proof) and state the difference in their goal (imaginative vs. certain).
+
+Pages p. 889 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 895
+Module 14 · Lesson 209
+Next →
+The Syllogism
+intermediate
+5 min
+The Non-Existent Subject Fallacy
+Author explains a fallacy where the middle term's subject does not exist.
+
+Learning Objective
+By the end of this lesson, you will be able to identify fallacies in categorical syllogisms where the middle term or subject term lacks real existence, and contrast them with valid syllogisms using the same form.
+
+Core Idea
+A syllogism's validity depends on both form and material truth.
+
+This passage from the Tadhheeb al-Mantiq commentary sharpens our understanding of syllogistic fallacy. The author demonstrates that a logically valid mood (third figure) can still produce a false conclusion if the subject term of its premises does not refer to anything real. Al-Dusūqī and al-Attār clarify the distinction between a non-existent composite subject and a genuine universal. By studying this fallacy, you will learn to check not only the form but also the material truth of premises—a skill essential in kalām and uṣūl al-fiqh debates.
+
+Guided Path
+1
+Identify the fallacious syllogism
+Locate the example: 'Every human-and-horse is a human; Every human-and-horse is a horse; therefore Some human is a horse.' Recognize that the conclusion is absurd.
+2
+Determine why it fails
+The passage states the error: the subject ('human-and-horse') does not exist. Since no entity satisfies that description, both premises are false, even though the syllogistic form (third figure with valid mood Darapti) is correct.
+Compare with the valid example of 'rational animal'.
+3
+Analyze the valid contrast
+Al-Dusūqī contrasts with 'Every rational animal is an animal; Every rational animal is rational; therefore Some animal is rational.' Here the subject 'rational animal' does exist, so the premises are true and conclusion follows.
+Both syllogisms share the same logical structure; only material truth differs.
+4
+Formulate the general lesson
+A syllogism can be formally valid but materially unsound if its premises are false. This is a material fallacy (mughālaṭa māddiyya). Always check that the terms involved have real referents in Islamic sciences.
+For instance, claiming 'every jinn-and-human is a prophet' would be absurd.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في مَوَادُ الأَقْيِسَةِ
+
+ينتج: «إِنَّ تلكَ الصُّورة صهَّالة».
+وإمَّا من حيث المعنى، كقولنا: «كلُّ إنسانٍ وفرس فهو إنسان». و«كلُّ إنسانٍ وفرس فهو فرس». ينتج: إنَّ بعضَ الإنسان فرس». والغلط فيه: أنَّ موضوع المقدّمتين ليس بموجود؛ إذ ليس شيء يصدُقُ عليه أنَّه إنسان وفرس.
+الدسوقي: (قَوْلُهُ: وَإِمَّا مِنْ حَيْثُ الْمَعْنَى) أي: من حيثُ لزوم الجزء لِكُلِّه في كُلِّ. (قَوْلُهُ: مِنْ حَيْثُ الْمَعْنَى فَكُلُّ مِن مقدِّمتَيْهِ شَبيهةٌ بِقَولِنَا: «كُلُّ حيوان ناطق»؛ أي: حيوان الذي هو من الأَوَّلِيَّات؛ لأنَّ كُلَّ مَن تصوَّرَ الكُلَّ والجزء؛ جزم بأنَّ الجزء لازمٌ لِكُلِّهِ، لكنَّ الفرق بينَ الأَوَّلِ والثَّاني: أَنَّ الأَوَّلَ؛ الكُلُّ فيه، وهو الإنسانُ والفرسُ لم يصدق على ذاتٍ واحدة، فلم يوجد، فكذبَتِ القضيَّتان؛ لعدم وجودِ الموضوع بخلافِ الكُلِّ في الثَّاني، وَلِذا؛ صح أن يُقالَ: «كُلُّ حيوان ناطق، فهو حيوان»، و«كُلُّ حيوان ناطق، فهو ناطق»؛ ينتج: بعضُ الحيوانِ ناطق.
+العطار: (قَوْلُ الشَّارح: كل إنسان ... إلخ) قياس من الشكل الثالث الحد الوسط فيه غير موجود.
+Chapter: On the materials of syllogisms.
+It produces: 'Indeed that form is erroneous.'
+And [it is] sometimes from the meaning, like our statement: 'Every human and horse is a human.' and 'Every human and horse is a horse.' It produces: 'Some human is a horse.' The error in it is that the subject of the two premises does not exist, because there is nothing of which 'it is a human and a horse' is true.
+Al-Dusūqī: (His statement: 'And sometimes from the meaning') i.e., from the perspective of the necessity of the part for the whole in every [case]. (His statement: 'from the meaning, so each of its two premises is similar to our statement: 'Every rational animal' i.e., an animal which is among the primary [intuitions]; because everyone who conceives the whole and the part is certain that the part is necessary for its whole. But the difference between the first and the second is that in the first, the whole, which is 'human and horse', is not true of a single entity, so it does not exist, so the two propositions are false due to the non-existence of the subject, unlike the whole in the second. Thus it is correct to say: 'Every rational animal is an animal' and 'Every rational animal is rational'; it produces: 'Some animal is rational.'
+Al-Attār: (The commentator's statement: 'Every human ... etc.') is a syllogism of the third figure in which the middle term does not exist.
+Source pages p. 895
+
+Commentary
+This passage discusses a material fallacy in syllogisms, specifically when the subject term has no real existence. The author first gives a cryptic example: a syllogism that 'produces' an erroneous form. Then he clarifies with a concrete example: the premises 'Every human-and-horse is a human' and 'Every human-and-horse is a horse' lead to the conclusion 'Some human is a horse.' The error lies in the fact that no actual entity satisfies the description 'human and horse'; the subject of both premises is non-existent. Consequently, the premises are false, and the conclusion is absurd. Al-Dusūqī’s commentary explains that this fallacy arises from the relationship of part to whole. He contrasts it with a valid syllogism: 'Every rational animal is an animal' and 'Every rational animal is rational' yields 'Some animal is rational'—valid because the subject 'rational animal' exists. Al-Attār notes that the problematic example is a third-figure syllogism with a non-existent middle term. The key lesson: logical form alone is insufficient; the material truth of premises—including the existence of the subject—is essential for sound deduction.
+
+Key Terms
+موضوع
+مقدمة
+شكل ثالث
+حد وسط
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the syllogism 'Every human-and-horse is a human; Every human-and-horse is a horse; therefore, Some human is a horse' fail?
+A) Because the middle term is undistributed.
+B) Because the subject of the premises does not exist in reality.
+C) Because the conclusion is a particular while the premises are universal.
+D) Because the syllogism is in the second figure.
+
+Key Takeaway
+A formally valid syllogism can be materially unsound if its subject terms lack real existence; always verify the existential import of premises.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider the valid syllogism: 'Every rational animal is an animal; Every rational animal is rational. Therefore, some animal is rational.' Identify the subject term and confirm that it exists in reality. Now construct a fallacious syllogism on a topic from Islamic law (e.g., regarding the rulings on nabīdh) where the composite subject term does not exist.
+
+Pages p. 895 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 901
+Module 14 · Lesson 210
+Next →
+The Syllogism
+beginner
+7 min
+Premises of Sciences: Clear and Accepted
+Author classifies premises of sciences into clear and accepted, with subcategories.
+
+Learning Objective
+By the end of this lesson, you will be able to classify premises of a science as clear or taken, and further subdivide taken premises into postulated principles and postulates based on the learner's acceptance.
+
+Core Idea
+Scientific syllogisms rest on premises that are either self-evident or accepted from authority.
+
+Every science builds its conclusions on premises. Some premises are so obvious they need no proof; others are taken on trust from an expert. This lesson walks you through the author's classification, which is essential for understanding how knowledge is structured in any discipline, including the Islamic sciences.
+
+Guided Path
+1
+Identify the two main categories
+Find where the author divides all premises into two types: clear (bayyinah) and taken (ma'khūdhah). The Arabic text says: 'إِمَّا مُقَدِّمَاتٌ بَيْنَةٌ ... أَوْ مُقَدِّمَاتٌ مَأْخُوذَةٌ'.
+This is the fundamental taxonomy.
+2
+Define clear premises
+Look for the description: 'واضحةٌ شديدة الوضوح بنفسها' – they are self-evident. Note they are also called 'common knowledge' (علوم متعارفة) as per al-'Attar.
+They require no proof.
+3
+Define taken premises
+Taken premises are 'مقبولةٌ ممَّن يُعتَقَدُ فيه، غيرُ بيِّنةٍ بنفسها'. The learner accepts them by good opinion (بحسن الظن). They come from a trusted authority.
+They are not self-evident.
+4
+Subdivide taken premises
+Al-Dasuqi explains: if accepted with good opinion without denial, they are 'أصول موضوعة' (postulated principles); if accepted with some denial or skepticism, they are 'مصادرات' (postulates).
+The key difference is the learner's attitude.
+5
+Apply to an Islamic science example
+Think of usul al-fiqh: the premise 'Certainty is not removed by doubt' is a clear premise. The acceptance of a solitary hadith (khabar al-wahid) as evidence is a taken premise; if accepted with full trust it is a postulated principle, if with slight doubt it is a postulate until corroborated.
+This tool helps evaluate the foundation of any argument.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في أجزاء العلوم
+فهي: - إِمَّا مُقَدِّمَاتٌ بَيْنَةٌ واضحةٌ شديدة الوضوح بنفسها. - أَوْ مُقَدِّمَاتٌ مَأْخُوذَةٌ مقبولةٌ ممَّن يُعتَقَدُ فيه، غيرُ بيِّنةٍ بنفسها أَذْعَنَ المتعلّم بها بحسنِ الظَّنِّ. (يُبتَنَى) على صيغة المضارع المجهول من الابتناء؛ أي: يُبْتَنَى (عَلَيْهَا): أي: على المقدِّماتِ البيّنة والمأخوذة، (قِيَاسَاتُ الْعِلْم)
+الدسوقي: (قَوْلُهُ: أَوْ مُقَدِّمَاتٌ ... إلخ) وبالجملة: إنَّ تلك المقدِّماتِ القريبة؛ أي: التي ليسَتْ بيِّنةً؛ إن سلمت بحُسن ظن به؛ سُمِّيَتْ: أُصولاً موضوعة، وإن سلمت منه مع نوع إنكار؛ سُمِّيَتْ: مُصادرات. (قَوْلُهُ: مِمَّنْ يَعْتَقِدُ) مُتعلّق بمأخوذة. (قَوْلُهُ: بِحُسْنِ الظَّنِّ) أي: بسببٍ حُسنِ ظَنِّهِ بِمَنْ أَخذَهَا مِنهُ. (قَوْلُهُ: يُبْتَنَى) أي: يُبنى. (قَوْلُهُ: قِيَاسَاتُ الْعِلْم ... إِلَخ)
+العطار: (قَوْلُهُ: فَهِيَ مُقَدِّمَاتٌ بَيْنَةٌ وتُسمَّى: علوماً مُتعارفةٌ، وقضايا متعارفةً أيضاً، وهي إما عامَّةً تستعمل في جميع العلوم؛ كَقَولِنَا: الكُلُّ أعظمُ مِنَ الجزء، والشَّيءُ الواحدُ إمَّا أن يكونَ ثابتاً أو منفيًّا، وإمَّا خاصَّةٌ ببعضها؛ كَقول أهل الهندسة: الأشياء المساوية لشيء واحدٍ مُتساوية.
+(قَوْلُهُ: أَذْعَنَ الْمُتَعَلِّمُ بِهَا بِحُسْنِ الظَّنِّ ... إِلَخ) وتُسمَّى: أصولاً موضوعةً؛ كَقول إقليدس في أوَّلِ الهندسة: لَنَا أَنْ نصلَ بينَ كُلِّ نُقطتين بخط مُستقيم، وأنْ نعملَ بأَيِّ بُعْدٍ شئنَا خَطَّا، وبِكُلِّ نقطة شئنا دائرةً، فإذا أخذَتْ تلك القضايا مع استنكار وتشكُّكِ مِنَ المتعلم؛ سُمِّيَتْ مُصادرات؛ لأنَّهُ يصدرُ بِهَا المسائل الَّتي تتوقَّفُ عليها؛ كَقول إقليدس: إذا وقعَ خَطَّ على خَطَّيْنِ، وكانت الزَّاويتانِ الدَّاخِلَتانِ
+Chapter: On the Parts of the Sciences
+They are: - Either clear premises, obvious, intensely evident by themselves. - Or taken premises, accepted from one who is trusted, not evident by themselves, to which the learner assents by good opinion. (Are built) — in the form of passive present from 'building upon' i.e., are built (upon them) i.e., upon the clear and taken premises, (the syllogisms of the science).
+Al-Dasuqi: (His saying: 'Or premises... etc.') In summary: those near premises i.e., that are not clear; if they are accepted by good opinion of him (the teacher), they are called 'postulated principles'; if they are accepted with a kind of denial, they are called 'postulates'. (His saying: 'from one who is trusted') is attached to 'taken'. (His saying: 'by good opinion') i.e., because of his good opinion of the one from whom he took them. (His saying: 'are built') i.e., are constructed. (His saying: 'the syllogisms of the science... etc.')
+Al-'Attar: (His saying: 'They are clear premises') and they are called 'common knowledge' and 'common propositions' also. They are either general, used in all sciences, like our saying: 'The whole is greater than the part' and 'One thing is either existent or nonexistent'; or specific to some sciences, like the saying of geometers: 'Things equal to one thing are equal to each other.'
+(His saying: 'The learner assents to them by good opinion... etc.') They are called 'postulated principles' like the saying of Euclid at the beginning of geometry: 'It is possible for us to connect any two points with a straight line, and to make a line at any distance we wish, and with any point we wish a circle.' Then if those propositions are taken with denial and doubt from the learner, they are called 'postulates' because the problems that depend on them are solved by them; like the saying of Euclid: 'If a line falls on two lines, and the two interior angles are...'
+Source pages p. 901
+
+Commentary
+This passage is a chapter (fasl) on the parts of the sciences, specifically the premises used in scientific demonstrations. The author defines two main types of premises: clear (bayyinah) and taken (ma'khudhah). Clear premises are self-evident, requiring no proof; taken premises are accepted on the authority of a trusted source. The syllogisms of the science are built upon both types. Al-Dasuqi's gloss further subdivides taken premises: if accepted with good opinion (without doubt), they are called 'postulated principles' (uṣūl mawḍūʿah); if accepted with some denial or skepticism, they are called 'postulates' (muṣādarāt). Al-'Attar's gloss elaborates that clear premises are also called 'common knowledge' (ʿulūm mutaʿārifah) and common propositions. They can be general, like the principle that the whole is greater than the part, or specific, like geometric axioms such as 'Things equal to the same thing are equal to each other.' He then explains that taken premises with good opinion are exemplified by Euclid's postulates in geometry, such as the ability to draw a straight line between any two points. If the learner accepts these with doubt, they become postulates, like Euclid's axiom about a line falling on two lines. This classification is foundational for understanding how scientific knowledge is built.
+
+Key Terms
+مقدمات بينة
+مأخوذة
+أصول موضوعة
+مصادرات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the difference between 'أصول موضوعة' and 'مصادرات'?
+A) The former are general, the latter specific.
+B) The former are accepted with good opinion, the latter with doubt.
+C) The former are clear, the latter are taken.
+D) The former are used in all sciences, the latter in geometry only.
+
+Key Takeaway
+A science's syllogisms are built on premises that are either self-evident (clear) or accepted on authority (taken), with taken premises further divided by the degree of the learner's acceptance.
+
+How This Lesson Applies — to MY Life?
+?
+1. Classify the following premises from Islamic sciences as clear or taken, and if taken, as postulated principle or postulate: a) 'The whole is greater than the part' (used in masa'il of inheritance). b) 'The consensus of the ummah is infallible' (accepted from tradition). c) 'The world is created ex nihilo' (derived from revelation, accepted with some initial doubt by a skeptic).
+?
+2. Explain why the distinction between postulated principles and postulates matters in evaluating the strength of a syllogism built upon them.
+
+Pages p. 901 · The Syllogism
+← Prev
+Mark Done
+Next →

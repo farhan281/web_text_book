@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:08Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Maqasid%20Vol.%202/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/26 - Sharh Al-Maqasid Vol. 2",
+  "output_bytes": 11838115,
+  "output_sha256": "75a6bf1c39650d6d19d4e9a2ea7fd9d01ad6a6db3fb5ef8f20e913afc1f5f665",
+  "checks": {
+    "catalog_expected_lessons": 1449,
+    "course_reported_lessons": 1449,
+    "index_lessons": 1449,
+    "full_lessons": 1449,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 14,
+    "course_reported_modules": 14,
+    "modules": 14,
+    "course_reported_sources": 1108,
+    "sources": 1108
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:19Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/waldiyya/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/20 - Waldiyya",
+  "output_bytes": 3520802,
+  "output_sha256": "bc933502d0e7d384bb734839dd95e8a7eca76b1888ada1e4e92d2866a7f1c5bf",
+  "checks": {
+    "catalog_expected_lessons": 339,
+    "course_reported_lessons": 339,
+    "index_lessons": 339,
+    "full_lessons": 339,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 16,
+    "course_reported_modules": 16,
+    "modules": 16,
+    "course_reported_sources": 255,
+    "sources": 255
+  }
+}

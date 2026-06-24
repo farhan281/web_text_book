@@ -1,0 +1,656 @@
+← Prev
+p. 116
+Module 20 · Lesson 1
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+Introduction to Error in Proofs: Matter, Form, and Expression Fallacies
+Author introduces the chapter on error and divides it into matter and form.
+
+Learning Objective
+By the end of this lesson, you will be able to classify errors in demonstrative proofs as errors of matter or form, and identify the expression fallacies of equivocation and false synonymy.
+
+Core Idea
+A proof fails either because its content is corrupt or its structure is flawed—or both.
+
+This passage opens the final chapter of al-Akhdari's logical text, where he warns students about the most common pitfalls in constructing proofs. He divides error into two broad categories—matter and form—then immediately drills into expression errors, giving vivid examples from Arabic that every student would recognise. By learning this taxonomy, you will not only detect errors in the logic of others but also safeguard your own theological and legal arguments.
+
+Guided Path
+1
+Identify the overarching division of error.
+Note that the author splits error into two kinds: error in the matter (content) and error in the form (structure). Understand what each comprises.
+2
+Distinguish matter from form.
+Matter refers to the actual terms and propositions used; form refers to the syllogistic arrangement. A valid proof requires both sound matter and correct form.
+3
+Recognise the two expression fallacies.
+The first is equivocation (ishtirak): a single word used in two senses in the same proof, breaking the unity of the middle term. The second is treating two distinct words as if they were synonymous (mutabayina as mutaradifa), which also undermines the middle term.
+4
+Apply to an Islamic example.
+Consider the proof: 'Every nabidh is an intoxicant; every intoxicant is forbidden; therefore nabidh is forbidden.' If 'nabidh' shifts meaning between premises (e.g., date drink in one, grape drink in another), the proof becomes invalid due to equivocation.
+This example illustrates ishtirak.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+من خاتمة الشيء ما يختم به ولما كان هذا الفصل آخر الموضوع قلت فيه خاتمة، ولما كان الخطأ كثيراً ما يعرض للبراهين لاختلال شرط شروطها أو حكم من أحكامها جعل للتنبيه على ذلك فصل يخصه. واعلم أن الخطأ قسمان: تارة يكون بخطأ مادته، وتارة يكون بخطأ صورته. والأول : إما من جهة اللفظ أو المعنى. أما اللفظ : فكالإشتراك نحو : هذا عين وكاستعمال المتباينة كالمترادفة نحو السيف والصارم فيغفل الذهن عما به الافتراق فيجري اللفظين مجرى واحد فيظن أن الوسط متحد.
+From the khatima of a thing is what it is concluded with, and since this chapter is the last of the subject I said in it 'khatima,' and since error often occurs in proofs due to the corruption of a condition of their conditions or a rule of their rules, I made a chapter to alert to that which is specific to it. And know that error is two types: sometimes it is by error of its matter, and sometimes it is by error of its form. And the first: either from the side of expression or meaning. As for expression: such as equivocation, like: this is 'ayn, and like using the mutually exclusive as the synonymous, like al-sayf and al-sarim, so the mind neglects what differentiates them and treats the two expressions as one, thinking the middle term is unified.
+Source pages p. 116
+
+Commentary
+This passage opens the final chapter of the work and establishes a taxonomy of error in demonstrative proofs. The author first explains the title 'khatima': just as a khatima is what a thing is concluded with, this chapter concludes the book because it is the last subject treated. He then states the necessity of the chapter: errors frequently infect proofs when one of their conditions or rules is corrupted, so a dedicated section is needed to alert the student to these dangers. He divides error into two broad categories: error in matter and error in form. Matter refers to the content of the proof—its terms and propositions—while form refers to the syllogistic structure and figure. He then subdivides error in matter into two sources: expression (lafz) and meaning (ma'na). Under expression, he presents two fallacies. The first is equivocation (ishtirak), illustrated by the word 'ayn, which can signify both eye and spring; if a term shifts sense between premises, the middle term is not truly unified and the proof collapses. The second is the treatment of mutually exclusive terms (mutabayina) as if they were synonymous (mutaradifa), illustrated by al-sayf and al-sarim—two words for sword that are not perfectly interchangeable in every respect. The mind overlooks their differences and runs them together as a single middle term, which destroys the proof.
+
+Key Terms
+خاتمة
+خطأ
+مادة
+صورة
+إشتراك
+متباينة
+مترادفة
+وسط
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an error in the matter of a proof from the side of expression (lafz)?
+A) Judging the genus 'color' by the species 'black' because black is a color.
+B) Using the term 'nabidh' to mean a specific drink in the major premise and any beverage in the minor premise, then treating the middle term as unified.
+C) Concluding that al-A'sha sees at night because he is called 'the sighted one'.
+D) Arguing that Zayd is a writer because he is human and some humans write.
+
+Key Takeaway
+Errors in proofs must be diagnosed as either content-based (matter) or structure-based (form); the most common matter errors from expression are equivocation and false synonymy.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument: 'Every intoxicating drink is forbidden. Every nabidh is an intoxicating drink. Therefore, every nabidh is forbidden.' If the major premise uses 'intoxicating drink' to mean any beverage that causes intoxication, but the minor premise uses 'nabidh' to refer specifically to date wine, is there any equivocation? Why or why not?
+?
+In a kalam argument, a theologian says: 'The world is temporally originated. Everything temporally originated has a cause. Therefore, the world has a cause.' Which part of this proof, if any, could be corrupted by an error in matter? Which part by an error in form?
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 2
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Identifying Iham al-'Aks and Genus-Species Confusion
+Author explains two meaning errors: genus-species confusion and iham al-'aks.
+
+Learning Objective
+By the end of this lesson, you will be able to identify instances of iham al-'aks and genus-species confusion in arguments and explain why they are fallacious.
+
+Core Idea
+Judging a genus by a species' property confuses particular with universal.
+
+This passage from al-Akhdari turns to the second source of material error: meaning. It explains how one might confuse true premises with false ones by attributing a property of a species to its entire genus. The most famous form of this error is iham al-'aks, the illusion of the converse. Let's break down the examples to see exactly how this fallacy works.
+
+Guided Path
+1
+Identify the fallacy structure
+Look for an argument where a property that belongs only to a specific subset (species) is attributed to the whole category (genus). This is a material error because the premise about the genus is false.
+2
+Test the first example
+The argument: 'This is a color; color is black; so this is black.' Why does this fail? The premise 'color is black' is false because black is only one species of color, not a property of the entire genus. The conclusion does not follow despite the syllogistic form.
+This is a confusion of genus and species.
+3
+Test the second example
+The argument: 'This is a yellow liquid; yellow liquid is bitter; so this is bitter.' Here the premise 'yellow liquid is bitter' is false because only some yellow liquids (e.g., certain saps) are bitter. The observer commits iham al-'aks by converting a true observation—that every bitter thing is a yellow liquid—into the false universal 'every yellow liquid is bitter.'
+The fallacy of illicit conversion.
+4
+Recognize the general pattern of iham al-'aks
+Iham al-'aks occurs when one observes that every A is B and falsely concludes that every B is A. The passage highlights this as the core error: confusing a particular correlation with a universal necessary judgment.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما المعنى : فكالتباس الصادقة بالكاذبة أيضاً وذلك نحو الحكم على الجنس بحكم النوع المندرج تحته نحو هذا لون واللون سواد فهذا سواد، وهذا سيال أصفر والسيال الأصفر مرة فهذا مُرٌّ ويسمى مثله إيهام العكس لأنه لما رأى كل مرة سيالاً أصفر ظن أنه كل سيال أصفر مرة،
+As for meaning: such as confusing the true with the false also, and that is like judging the genus by the judgment of the species subsumed under it, like: this is a color, and color is black, so this is black, and this is a yellow liquid, and yellow liquid is bitter, so this is bitter. And the like of that is called the illusion of the converse (iham al-'aks), because when he saw every bitter thing is a yellow liquid, he thought that every yellow liquid is bitter,
+Source pages p. 116
+
+Commentary
+This passage turns to the second source of material error: meaning. The author identifies the confusion of true premises with false ones, specifically when one judges an entire genus by a property that belongs only to one species contained under it. He gives two examples. First, arguing 'this is a color, and color is black, therefore this is black' is fallacious because black is merely one species of the genus color, not a property of the whole genus. Second, arguing 'this is a yellow liquid, and yellow liquid is bitter, therefore this is bitter' assumes that bitterness belongs to the whole genus of yellow liquids when it in fact belongs only to some. The author names this specific mistake iham al-'aks, the illusion of conversion, because the observer sees that every bitter thing happens to be a yellow liquid and falsely converts the proposition to 'every yellow liquid is bitter,' thereby confusing a particular accidental correlation with a universal necessary judgment.
+
+Key Terms
+تباس
+جنس
+نوع
+إيهام العكس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, the error called iham al-'aks arises from which mistaken reasoning?
+A) Assuming that because every A is B, every B is A
+B) Confusing a genus with a different genus
+C) Treating a definition as a description
+D) Using an analogy without a common 'illah
+
+Key Takeaway
+Iham al-'aks is the fallacy of illicit conversion: observing that all A are B does not warrant concluding that all B are A.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the fallacy in the following argument from a fiqh discussion: 'Every sale of gharar is prohibited. This contract involves a sale, so it is prohibited because it might involve gharar.' [Hint: check if the premise about gharar is being misapplied.]
+?
+Construct an example of iham al-'aks from the field of kalam: If a mutakallim argues that 'All created things have a creator; therefore all creators have created things,' is that valid? Why or why not?
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 3
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+The Fallacy of Absolute vs Qualified Judgments
+Author lists further meaning errors: absolute versus qualified.
+
+Learning Objective
+By the end of this lesson, you will be able to identify arguments that improperly apply a qualified judgment to an absolute term.
+
+Core Idea
+A judgment true of a qualified term may be false of the absolute term.
+
+This lesson addresses a common material fallacy in reasoning: taking a judgment that is true only under a specific condition or time and applying it without that qualification. The author illustrates with two examples: the case of 'this is a neck; every neck is turbaned' and the poet al-A'sha, called 'sighted' but night-blind. Understanding this fallacy helps you evaluate when a conclusion overreaches its premises.
+
+Guided Path
+1
+Spot the qualified judgment
+Identify the predicate that includes an implicit condition (e.g., 'turbaned' implies a person wearing a turban, not the neck itself).
+2
+Identify the unqualified term
+Find the subject in the conclusion that is taken absolutely (e.g., 'neck' without qualification).
+3
+Check if the condition is necessary
+Determine whether the predicate's truth depends on the condition (e.g., 'sighted' does not guarantee night vision).
+4
+Verify the conclusion removes the condition
+See if the conclusion applies the predicate to the absolute term without the condition. If so, the argument is fallacious.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومنه الحكم على المطلق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مُعَمَّمة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء غير القطعي كالوهميات وغيرها مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو هذا إنسان والإنسان كاتب.
+And from it is judging the absolute by the judgment of the qualified by condition or time, like: this is a neck, and every neck is turbaned, and in [the case of] al-A'sha: this is sighted, and the sighted one sees at night. And from it are non-decisive parts like the presumptive and others from what is not decisive treated as decisive, and like making the accidental as the essential, like: this is a human, and the human is a writer.
+Source pages p. 116
+
+Commentary
+This passage continues the enumeration of meaning-based material errors in proofs. The author first presents the confusion of the absolute (mutlaq) with the qualified (muqayyad): a judgment true only under a certain condition or time is applied without that qualification. He illustrates this with two examples. In the first, one argues about a neck as if the judgment of being turbaned applied to the neck absolutely, when it properly belongs to the qualified whole, namely the person who wears the turban. In the second, referring to the poet al-A'sha—who was called 'the sighted one' yet was night-blind—one falsely concludes that because he is called sighted, he sees at night, ignoring that the predicate 'sighted' was not qualified by nighttime vision. The author then notes another species of error: treating non-decisive premises, such as presumptive propositions (wahmiyyat), as if they were decisive (qati'), which destroys the certainty required of a demonstration. Finally, he gives the example of making the accidental ('aradi) into the essential (dhati): arguing 'this is a human, and human is a writer, therefore this is a writer' falsely assumes that writing belongs to the essence of humanity, when it is merely an accidental property of some humans.
+
+Key Terms
+مطلق
+مقيد
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'this is a neck, and every neck is turbaned', what is the error?
+A) 'Neck' is taken absolutely when the judgment 'turbaned' applies to the person, not the neck.
+B) 'Turbaned' is an accidental property.
+C) The premise is not decisive.
+D) The conclusion reverses the terms.
+
+Key Takeaway
+Always check whether a predicate implicitly depends on a condition that is omitted in the conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the fallacy in this argument: 'The Qur'an commands freeing a neck (رقبة) for expiation. Therefore, freeing any neck, even a non-Muslim, fulfills the obligation.' Explain why this confuses absolute and qualified.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 4
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+The Fallacy of Treating Non-Decisive Premises as Decisive
+Author lists further meaning errors: non-decisive premises treated as decisive.
+
+Learning Objective
+By the end of this lesson, you will be able to detect when a presumptive or non-decisive premise is incorrectly used as if it were certain in a demonstration.
+
+Core Idea
+Only decisive premises yield certain conclusions; using presumptive ones destroys demonstrative certainty.
+
+This lesson focuses on the error of treating non-decisive premises (like opinions or presumptions) as if they were certain (qati'). The author warns that such premises, called wahmiyyat, cannot serve as foundations for a valid demonstration (burhan). Recognizing this fallacy is crucial for evaluating arguments that claim certainty but rely on uncertain foundations.
+
+Guided Path
+1
+Identify the claimed conclusion
+Determine what the arguer is trying to prove with certainty.
+2
+Examine the premises
+List all premises used in the argument and classify them as certain (qati') or presumptive (wahmi).
+Presumptive premises include statements based on common opinion, analogy, or incomplete evidence.
+3
+Check if any premise is non-decisive
+If even one premise is not decisive, the argument cannot produce certain knowledge.
+4
+Declare the fallacy
+If a non-decisive premise is treated as decisive, the argument commits a material error.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومنه الحكم على المطلق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مُعَمَّمة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء غير القطعي كالوهميات وغيرها مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو هذا إنسان والإنسان كاتب.
+And from it is judging the absolute by the judgment of the qualified by condition or time, like: this is a neck, and every neck is turbaned, and in [the case of] al-A'sha: this is sighted, and the sighted one sees at night. And from it are non-decisive parts like the presumptive and others from what is not decisive treated as decisive, and like making the accidental as the essential, like: this is a human, and the human is a writer.
+Source pages p. 116
+
+Commentary
+This passage continues the enumeration of meaning-based material errors in proofs. The author first presents the confusion of the absolute (mutlaq) with the qualified (muqayyad): a judgment true only under a certain condition or time is applied without that qualification. He illustrates this with two examples. In the first, one argues about a neck as if the judgment of being turbaned applied to the neck absolutely, when it properly belongs to the qualified whole, namely the person who wears the turban. In the second, referring to the poet al-A'sha—who was called 'the sighted one' yet was night-blind—one falsely concludes that because he is called sighted, he sees at night, ignoring that the predicate 'sighted' was not qualified by nighttime vision. The author then notes another species of error: treating non-decisive premises, such as presumptive propositions (wahmiyyat), as if they were decisive (qati'), which destroys the certainty required of a demonstration. Finally, he gives the example of making the accidental ('aradi) into the essential (dhati): arguing 'this is a human, and human is a writer, therefore this is a writer' falsely assumes that writing belongs to the essence of humanity, when it is merely an accidental property of some humans.
+
+Key Terms
+قطعي
+وهمي
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following best describes the fallacy of 'treating non-decisive as decisive'?
+A) Using an accidentally true premise as if it were necessarily true.
+B) Using a premise based on common opinion as if it were certain.
+C) Claiming a conclusion without any premises.
+D) Undermining the opponent's character instead of argument.
+
+Key Takeaway
+For a demonstration to yield certainty, every premise must be certain; presumptive premises corrupt the proof.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the premise 'Every event has a cause' as decisive (qati') or presumptive (wahmi). Justify your answer and explain why the Islamic theologians debated its certainty.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 5
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+The Fallacy of Confusing Accidental with Essential
+Author lists further meaning errors: accidental versus essential.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish essential properties from accidental ones and identify arguments that treat accidental properties as part of the essence.
+
+Core Idea
+An accidental property does not define the essence of a thing; treating it as essential leads to false universal claims.
+
+The last fallacy in this passage is making the accidental ('aradi) like the essential (dhati). The author gives the example: 'this is a human, and the human is a writer, therefore this is a writer.' While the conclusion may be true, the reasoning is flawed because writing is not an essential property of being human; it is accidental, shared only by some humans. This lesson teaches you to critically evaluate whether a property truly defines the subject's nature or is merely incidental.
+
+Guided Path
+1
+Identify the property in question
+Find the predicate that the argument claims is true of all members of the category (e.g., 'writer' attributed to 'human').
+2
+Determine if the property is essential or accidental
+Ask: Can the subject exist without this property? If yes, the property is accidental. For example, a human can exist without being a writer.
+3
+Check the argument's quantification
+The argument treats 'human is a writer' as a universal affirmative (all humans are writers) when in reality only some are.
+4
+Identify the fallacy
+If the argument uses an accidental property as if it were essential, it commits the fallacy of making accidental like essential.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومنه الحكم على المطلق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مُعَمَّمة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء غير القطعي كالوهميات وغيرها مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو هذا إنسان والإنسان كاتب.
+And from it is judging the absolute by the judgment of the qualified by condition or time, like: this is a neck, and every neck is turbaned, and in [the case of] al-A'sha: this is sighted, and the sighted one sees at night. And from it are non-decisive parts like the presumptive and others from what is not decisive treated as decisive, and like making the accidental as the essential, like: this is a human, and the human is a writer.
+Source pages p. 116
+
+Commentary
+This passage continues the enumeration of meaning-based material errors in proofs. The author first presents the confusion of the absolute (mutlaq) with the qualified (muqayyad): a judgment true only under a certain condition or time is applied without that qualification. He illustrates this with two examples. In the first, one argues about a neck as if the judgment of being turbaned applied to the neck absolutely, when it properly belongs to the qualified whole, namely the person who wears the turban. In the second, referring to the poet al-A'sha—who was called 'the sighted one' yet was night-blind—one falsely concludes that because he is called sighted, he sees at night, ignoring that the predicate 'sighted' was not qualified by nighttime vision. The author then notes another species of error: treating non-decisive premises, such as presumptive propositions (wahmiyyat), as if they were decisive (qati'), which destroys the certainty required of a demonstration. Finally, he gives the example of making the accidental ('aradi) into the essential (dhati): arguing 'this is a human, and human is a writer, therefore this is a writer' falsely assumes that writing belongs to the essence of humanity, when it is merely an accidental property of some humans.
+
+Key Terms
+عرضي
+ذاتي
+
+Key Terms from Source Passage
+
+Checkpoint
+In the argument 'this is a human, and the human is a writer, therefore this is a writer', which term is the accidental property?
+A) Human
+B) Writer
+C) This
+D) Is
+
+Key Takeaway
+Essential properties define what something is; accidental properties are contingent and cannot be used for universal definitions.
+
+How This Lesson Applies — to MY Life?
+?
+In fiqh, it is said that 'every intoxicant is forbidden'. Is 'intoxication' an essential or accidental property of substances like khamr? Explain using the essential/accidental distinction.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 6
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+The Two Divisions of Error in Demonstration
+Author classifies error into material and formal.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between material error (khaṭa' fī al-mādda) and formal error (khaṭa' fī al-ṣūra) in a demonstration.
+
+Core Idea
+Error in demonstration is either in content or form, each with distinct causes.
+
+The passage opens by explaining why this chapter is called 'khatamah' — the seal — because it seals the discussion of demonstration. The author then announces the fundamental division: error can arise from the matter (premises) or the form (syllogistic structure). This classification is critical for diagnosing why a proof fails.
+
+Guided Path
+1
+Identify the two categories
+Find where the author states 'اعلم أن الخطأ قسمان'. Then note the two types: material (مادة) and formal (صورة).
+2
+Define each category
+In your own words, what is material error? What is formal error? Material error concerns the content of the premises; formal error concerns the syllogistic structure.
+3
+Apply the distinction
+Consider a real argument from kalam. Determine whether its defect is material (e.g., a false premise) or formal (e.g., invalid figure).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(خاتمة) من خاتمة الشيء ما يختم به ولما كان هذا الفصل آخر الموضوع قلت فيه خاتمة، ولما كان الخطأ كثيراً ما يعرض للبراهين لاختلال شرط شروطها أو حكم من أحكامها جعل للتنبيه على ذلك فصل يخصه. واعلم أن الخطأ قسمان: تارة يكون بخطأ مادته، وتارة يكون بخطأ صورته.
+والأول : إما من جهة اللفظ أو المعنى.
+أما اللفظ : فكالإشتراك نحو : هذا ،عين وكاستعمال المتباينة كالمترادفة نحو السيف والصارم فيغفل الذهن عما به الافتراق فيجري اللفظين مجرى واحد فيظن أن الوسط متحد.
+،
+وأما المعنى : فكالتباس الصادقة بالكاذبة أيضاً وذلك نحو الحكم على الجنس بحكم النوع المندرج تحته نحو هذا لون واللون سواد فهذا سواد، وهذا سيال أصفر والسيال الأصفر مرة فهذا أمراً ويسمى مثله إيهام العكس لأنه لما رأى كل مرة سيالاً أصفر ظن أنه كل سيال أصفر مرة، ومنه الحكم على المطاق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مؤمنة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء :
+غير القطعي كالوهميات وغيرها.
+- مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو
+هذا إنسان والإنسان كاتب.
+ونحو جعل النتيجة إحدى مقدمتي البرهان بتغييرها ويسمى مصادرة
+عن المطلوب كهذا نقلة وكل نقلة حركة فهذا حركة.
+(Khatamah) From that which seals a thing, and since this chapter is the last of the subject, I called it 'khatamah'. And since error often occurs in demonstrations due to a disruption of a condition of their conditions or a judgment of their judgments, a special chapter was made for alerting to that. Know that error is of two types: sometimes it is due to an error in its matter, and sometimes due to an error in its form.
+The first: either from the aspect of wording or meaning.
+As for wording: like homonymy, such as 'this is 'ayn', and like using contrasting terms as synonyms, such as 'al-sayf' and 'al-sārim' (sword). The mind neglects the distinction, treats the two expressions as one, and thinks the middle term is unified.
+And as for meaning: like confusing the true with the false as well. That is like judging the genus by the judgment of the species subordinate to it, such as 'This is a color; color is black; so this is black'. And 'This is a yellow liquid; every yellow liquid is bitter; so this is bitter' and it is called the fallacy of the inverse because when he saw that every bitter thing is a yellow liquid he thought that every yellow liquid is bitter. And from it is judging the absolute by the judgment of that which is qualified by a condition or time, such as 'This is a neck; every neck is believing'. And in al-A'sha: 'This is seeing; the seeing sees at night'. And from it are parts: non-certain, like illusory and others — things that are not certain treated as certain. And like making the accidental as essential, such as 'This is a human; a human is a writer'.
+And like making the result one of the premises of the demonstration by changing it, and it is called begging the question, such as 'This is a moving thing; every moving thing is a motion; so this is motion'.
+Source pages p. 116
+
+Commentary
+This passage is a definitional and classificatory passage from the conclusion of the logic text, where the author explains the types of error that occur in demonstrations (burhān). The author begins by justifying the name 'khatamah' (seal) for this chapter, as it seals the subject matter. He then states that error in demonstration arises from a defect in either the conditions or judgments of the proof. The main classification: error is either material (khaṭa' fī al-mādda) or formal (khaṭa' fī al-ṣūra). The material is further subdivided into verbal (lafẓī) and conceptual (ma'nawī). Under verbal errors, he gives examples of ishtirāk (homonymy) — where one word has multiple meanings, like 'ayn which can mean eye, spring, etc. — and using mutually exclusive words but treating them as synonyms, like sayf and ṣārim, both meaning sword but distinct in connotation. The mind fails to distinguish them and assumes the middle term is the same, leading to fallacy. Under conceptual errors, he gives several examples: confusing true with false, such as judging the genus by the property of one of its species (e.g., 'this is a color, color is black' — but not all colors are black). This fallacy is called īhām al-'aks (fallacy of the inverse), because from observing that all bitter things are yellow liquids, one incorrectly concludes all yellow liquids are bitter. Another example is judging the absolute by the qualified (e.g., 'this is a neck, every neck is believing' — but the premise 'every neck is believing' is qualified by a condition of free believing slave, not absolute). He also mentions treating non-certain premises as certain, such as those from imagination (wahmiyyāt). Also treating accidental properties as essential, like 'this is a human, every human is a writer' — writing is accidental to humanity. Finally, he discusses begging the question (muṣādara 'alā al-maṭlūb), where the conclusion itself is covertly used as a premise, e.g., 'this is a moving thing, every moving thing is motion, therefore this is motion' — but 'every moving thing is motion' is essentially the same as the conclusion. All examples are drawn from Islamic logical and theological discourse.
+
+Key Terms
+الخطأ
+المادة
+الصورة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, error in demonstration is divided into two types: error in ________ and error in ________.
+A) matter / form
+B) wording / meaning
+C) subject / predicate
+D) conclusion / premise
+
+Key Takeaway
+Error in demonstration is fundamentally of two types: one arising from the content of the premises (material), and the other from the logical structure (form).
+
+How This Lesson Applies — to MY Life?
+?
+Examine the proof: 'The world is changing; everything changing is temporally originated; therefore the world is temporally originated.' Identify whether the error is material or formal if the conclusion is false.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 7
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+Verbal Material Errors: Homonymy and False Synonymity
+Author lists verbal material errors with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify verbal material errors caused by homonymy (ishtirāk) and the misuse of synonyms (tarāduf).
+
+Core Idea
+Words with multiple meanings or synonyms treated as identical can mislead the mind and cause the middle term to appear unified.
+
+After stating the division of error, the author begins to detail material errors. The first category is verbal errors, which occur when the language of the premises causes confusion. Specifically, he gives two examples: homonymy (a single word with multiple meanings) and using contrasting terms as if they were synonyms. These errors make the mind think the middle term is the same across premises when it is not.
+
+Guided Path
+1
+Identify the two verbal error types
+The passage mentions 'الاشتراك' (homonymy) and using 'المتباينة كالمترادفة' (distinct words as synonyms). Understand each.
+2
+Analyze the homonymy example
+The example is 'هذا عين' — the word 'عين' can mean eye, spring, etc. Imagine a syllogism where 'عين' means eye in one premise and spring in another. The middle term appears the same but is not.
+3
+Analyze the synonymity example
+The example 'السيف والصارم' — both mean sword, but one connotes sharpness. The mind ignores the difference and treats them as identical, leading to a false middle term unification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(خاتمة) من خاتمة الشيء ما يختم به ولما كان هذا الفصل آخر الموضوع قلت فيه خاتمة، ولما كان الخطأ كثيراً ما يعرض للبراهين لاختلال شرط شروطها أو حكم من أحكامها جعل للتنبيه على ذلك فصل يخصه. واعلم أن الخطأ قسمان: تارة يكون بخطأ مادته، وتارة يكون بخطأ صورته.
+والأول : إما من جهة اللفظ أو المعنى.
+أما اللفظ : فكالإشتراك نحو : هذا ،عين وكاستعمال المتباينة كالمترادفة نحو السيف والصارم فيغفل الذهن عما به الافتراق فيجري اللفظين مجرى واحد فيظن أن الوسط متحد.
+،
+وأما المعنى : فكالتباس الصادقة بالكاذبة أيضاً وذلك نحو الحكم على الجنس بحكم النوع المندرج تحته نحو هذا لون واللون سواد فهذا سواد، وهذا سيال أصفر والسيال الأصفر مرة فهذا أمراً ويسمى مثله إيهام العكس لأنه لما رأى كل مرة سيالاً أصفر ظن أنه كل سيال أصفر مرة، ومنه الحكم على المطاق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مؤمنة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء :
+غير القطعي كالوهميات وغيرها.
+- مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو
+هذا إنسان والإنسان كاتب.
+ونحو جعل النتيجة إحدى مقدمتي البرهان بتغييرها ويسمى مصادرة
+عن المطلوب كهذا نقلة وكل نقلة حركة فهذا حركة.
+(Khatamah) From that which seals a thing, and since this chapter is the last of the subject, I called it 'khatamah'. And since error often occurs in demonstrations due to a disruption of a condition of their conditions or a judgment of their judgments, a special chapter was made for alerting to that. Know that error is of two types: sometimes it is due to an error in its matter, and sometimes due to an error in its form.
+The first: either from the aspect of wording or meaning.
+As for wording: like homonymy, such as 'this is 'ayn', and like using contrasting terms as synonyms, such as 'al-sayf' and 'al-sārim' (sword). The mind neglects the distinction, treats the two expressions as one, and thinks the middle term is unified.
+And as for meaning: like confusing the true with the false as well. That is like judging the genus by the judgment of the species subordinate to it, such as 'This is a color; color is black; so this is black'. And 'This is a yellow liquid; every yellow liquid is bitter; so this is bitter' and it is called the fallacy of the inverse because when he saw that every bitter thing is a yellow liquid he thought that every yellow liquid is bitter. And from it is judging the absolute by the judgment of that which is qualified by a condition or time, such as 'This is a neck; every neck is believing'. And in al-A'sha: 'This is seeing; the seeing sees at night'. And from it are parts: non-certain, like illusory and others — things that are not certain treated as certain. And like making the accidental as essential, such as 'This is a human; a human is a writer'.
+And like making the result one of the premises of the demonstration by changing it, and it is called begging the question, such as 'This is a moving thing; every moving thing is a motion; so this is motion'.
+Source pages p. 116
+
+Commentary
+This passage is a definitional and classificatory passage from the conclusion of the logic text, where the author explains the types of error that occur in demonstrations (burhān). The author begins by justifying the name 'khatamah' (seal) for this chapter, as it seals the subject matter. He then states that error in demonstration arises from a defect in either the conditions or judgments of the proof. The main classification: error is either material (khaṭa' fī al-mādda) or formal (khaṭa' fī al-ṣūra). The material is further subdivided into verbal (lafẓī) and conceptual (ma'nawī). Under verbal errors, he gives examples of ishtirāk (homonymy) — where one word has multiple meanings, like 'ayn which can mean eye, spring, etc. — and using mutually exclusive words but treating them as synonyms, like sayf and ṣārim, both meaning sword but distinct in connotation. The mind fails to distinguish them and assumes the middle term is the same, leading to fallacy. Under conceptual errors, he gives several examples: confusing true with false, such as judging the genus by the property of one of its species (e.g., 'this is a color, color is black' — but not all colors are black). This fallacy is called īhām al-'aks (fallacy of the inverse), because from observing that all bitter things are yellow liquids, one incorrectly concludes all yellow liquids are bitter. Another example is judging the absolute by the qualified (e.g., 'this is a neck, every neck is believing' — but the premise 'every neck is believing' is qualified by a condition of free believing slave, not absolute). He also mentions treating non-certain premises as certain, such as those from imagination (wahmiyyāt). Also treating accidental properties as essential, like 'this is a human, every human is a writer' — writing is accidental to humanity. Finally, he discusses begging the question (muṣādara 'alā al-maṭlūb), where the conclusion itself is covertly used as a premise, e.g., 'this is a moving thing, every moving thing is motion, therefore this is motion' — but 'every moving thing is motion' is essentially the same as the conclusion. All examples are drawn from Islamic logical and theological discourse.
+
+Key Terms
+الاشتراك
+المتباينة
+المترادفة
+
+Key Terms from Source Passage
+
+Checkpoint
+The author gives the example 'هذا عين' to illustrate which type of verbal error?
+A) Use of synonyms
+B) Homonymy
+C) Use of antonyms
+D) Fallacy of the inverse
+
+Key Takeaway
+Verbal material errors arise when language ambiguity causes the middle term to appear unified when it is not.
+
+How This Lesson Applies — to MY Life?
+?
+Find a real argument from fiqh that uses the term 'dalil' (evidence) in two different senses (e.g., scriptural evidence vs. rational evidence). Identify the potential verbal fallacy.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 8
+Next →
+Sophistry and Fallacies
+intermediate
+7 min
+Conceptual Material Errors: Fallacy of the Inverse and Genus-Species Confusion
+Author lists conceptual material errors with examples, focusing on the fallacy of the inverse.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of the inverse (īhām al-‘aks) and the error of judging the genus by the species.
+
+Core Idea
+Confusing the logical relations between genus and species, or between absolute and qualified terms, leads to material error.
+
+The author continues with conceptual material errors, which occur in the meaning of the propositions rather than the wording. He presents several examples, the most detailed being the fallacy of the inverse, where one incorrectly infers the converse. He also mentions judging the absolute by the qualified, treating non-certain premises as certain, and treating accidental properties as essential.
+
+Guided Path
+1
+Understand the genus-species example
+The example 'this is a color; color is black; so this is black' is invalid because not all colors are black. The middle term 'color' is the genus, but the premise 'color is black' treats the genus as if it were a species.
+2
+Recognize the fallacy of the inverse
+The example with yellow liquid and bitter: from 'every bitter thing is a yellow liquid' (which may be true), one incorrectly concludes 'every yellow liquid is bitter'. This is īhām al-‘aks — affirming the converse.
+3
+Identify other conceptual errors
+The passage also mentions judging the absolute by the qualified (e.g., 'every neck is believing' — but the premise assumed a believing slave), using non-certain premises as if certain (e.g., wahmiyyāt), and treating accidental as essential (e.g., 'every human is a writer').
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(خاتمة) من خاتمة الشيء ما يختم به ولما كان هذا الفصل آخر الموضوع قلت فيه خاتمة، ولما كان الخطأ كثيراً ما يعرض للبراهين لاختلال شرط شروطها أو حكم من أحكامها جعل للتنبيه على ذلك فصل يخصه. واعلم أن الخطأ قسمان: تارة يكون بخطأ مادته، وتارة يكون بخطأ صورته.
+والأول : إما من جهة اللفظ أو المعنى.
+أما اللفظ : فكالإشتراك نحو : هذا ،عين وكاستعمال المتباينة كالمترادفة نحو السيف والصارم فيغفل الذهن عما به الافتراق فيجري اللفظين مجرى واحد فيظن أن الوسط متحد.
+،
+وأما المعنى : فكالتباس الصادقة بالكاذبة أيضاً وذلك نحو الحكم على الجنس بحكم النوع المندرج تحته نحو هذا لون واللون سواد فهذا سواد، وهذا سيال أصفر والسيال الأصفر مرة فهذا أمراً ويسمى مثله إيهام العكس لأنه لما رأى كل مرة سيالاً أصفر ظن أنه كل سيال أصفر مرة، ومنه الحكم على المطاق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مؤمنة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء :
+غير القطعي كالوهميات وغيرها.
+- مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو
+هذا إنسان والإنسان كاتب.
+ونحو جعل النتيجة إحدى مقدمتي البرهان بتغييرها ويسمى مصادرة
+عن المطلوب كهذا نقلة وكل نقلة حركة فهذا حركة.
+(Khatamah) From that which seals a thing, and since this chapter is the last of the subject, I called it 'khatamah'. And since error often occurs in demonstrations due to a disruption of a condition of their conditions or a judgment of their judgments, a special chapter was made for alerting to that. Know that error is of two types: sometimes it is due to an error in its matter, and sometimes due to an error in its form.
+The first: either from the aspect of wording or meaning.
+As for wording: like homonymy, such as 'this is 'ayn', and like using contrasting terms as synonyms, such as 'al-sayf' and 'al-sārim' (sword). The mind neglects the distinction, treats the two expressions as one, and thinks the middle term is unified.
+And as for meaning: like confusing the true with the false as well. That is like judging the genus by the judgment of the species subordinate to it, such as 'This is a color; color is black; so this is black'. And 'This is a yellow liquid; every yellow liquid is bitter; so this is bitter' and it is called the fallacy of the inverse because when he saw that every bitter thing is a yellow liquid he thought that every yellow liquid is bitter. And from it is judging the absolute by the judgment of that which is qualified by a condition or time, such as 'This is a neck; every neck is believing'. And in al-A'sha: 'This is seeing; the seeing sees at night'. And from it are parts: non-certain, like illusory and others — things that are not certain treated as certain. And like making the accidental as essential, such as 'This is a human; a human is a writer'.
+And like making the result one of the premises of the demonstration by changing it, and it is called begging the question, such as 'This is a moving thing; every moving thing is a motion; so this is motion'.
+Source pages p. 116
+
+Commentary
+This passage is a definitional and classificatory passage from the conclusion of the logic text, where the author explains the types of error that occur in demonstrations (burhān). The author begins by justifying the name 'khatamah' (seal) for this chapter, as it seals the subject matter. He then states that error in demonstration arises from a defect in either the conditions or judgments of the proof. The main classification: error is either material (khaṭa' fī al-mādda) or formal (khaṭa' fī al-ṣūra). The material is further subdivided into verbal (lafẓī) and conceptual (ma'nawī). Under verbal errors, he gives examples of ishtirāk (homonymy) — where one word has multiple meanings, like 'ayn which can mean eye, spring, etc. — and using mutually exclusive words but treating them as synonyms, like sayf and ṣārim, both meaning sword but distinct in connotation. The mind fails to distinguish them and assumes the middle term is the same, leading to fallacy. Under conceptual errors, he gives several examples: confusing true with false, such as judging the genus by the property of one of its species (e.g., 'this is a color, color is black' — but not all colors are black). This fallacy is called īhām al-'aks (fallacy of the inverse), because from observing that all bitter things are yellow liquids, one incorrectly concludes all yellow liquids are bitter. Another example is judging the absolute by the qualified (e.g., 'this is a neck, every neck is believing' — but the premise 'every neck is believing' is qualified by a condition of free believing slave, not absolute). He also mentions treating non-certain premises as certain, such as those from imagination (wahmiyyāt). Also treating accidental properties as essential, like 'this is a human, every human is a writer' — writing is accidental to humanity. Finally, he discusses begging the question (muṣādara 'alā al-maṭlūb), where the conclusion itself is covertly used as a premise, e.g., 'this is a moving thing, every moving thing is motion, therefore this is motion' — but 'every moving thing is motion' is essentially the same as the conclusion. All examples are drawn from Islamic logical and theological discourse.
+
+Key Terms
+إيهام العكس
+المطاق
+المقيد
+الوهميات
+العرضي
+الذاتي
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the fallacy called when one infers that all yellow liquids are bitter from the fact that all bitter things are yellow liquids?
+A) Homonymy
+B) Begging the question
+C) Fallacy of the inverse
+D) Accident fallacy
+
+Key Takeaway
+Conceptual material errors often involve confusing logical relations between genus and species, or illicitly converting a proposition.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'Every invalidating act of salah requires a new wudu. Every act of laughing invalidates salah; therefore every act of laughing requires a new wudu.' Is this an instance of the fallacy of the inverse? Explain.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 20 · Lesson 9
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Begging the Question: Muṣādara 'alā al-Maṭlūb
+Author defines and exemplifies the fallacy of begging the question.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of begging the question (muṣādara) in an argument.
+
+Core Idea
+Using the conclusion as a premise, even if disguised, makes the argument circular and fails to prove anything.
+
+The final material error the author presents is begging the question (muṣādara 'alā al-maṭlūb), where the result (conclusion) is covertly used as one of the premises. He gives the example: 'This is a moving thing; every moving thing is motion; therefore this is motion.' The middle premise is essentially the same as the conclusion, so no proof is achieved.
+
+Guided Path
+1
+Understand the definition
+Begging the question occurs when the premise assumes the conclusion. The author says it is 'making the result one of the premises of the demonstration by changing it' (بتغييرها).
+2
+Analyze the example
+The example: 'This is a moving thing; every moving thing is motion; so this is motion.' The second premise 'every moving thing is motion' is essentially the same as the conclusion 'this is motion', just phrased differently.
+3
+Apply to other domains
+In kalam, one might argue: 'The world is created because it is temporally originated; everything temporally originated is created; therefore the world is created.' This is transparently circular.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(خاتمة) من خاتمة الشيء ما يختم به ولما كان هذا الفصل آخر الموضوع قلت فيه خاتمة، ولما كان الخطأ كثيراً ما يعرض للبراهين لاختلال شرط شروطها أو حكم من أحكامها جعل للتنبيه على ذلك فصل يخصه. واعلم أن الخطأ قسمان: تارة يكون بخطأ مادته، وتارة يكون بخطأ صورته.
+والأول : إما من جهة اللفظ أو المعنى.
+أما اللفظ : فكالإشتراك نحو : هذا ،عين وكاستعمال المتباينة كالمترادفة نحو السيف والصارم فيغفل الذهن عما به الافتراق فيجري اللفظين مجرى واحد فيظن أن الوسط متحد.
+،
+وأما المعنى : فكالتباس الصادقة بالكاذبة أيضاً وذلك نحو الحكم على الجنس بحكم النوع المندرج تحته نحو هذا لون واللون سواد فهذا سواد، وهذا سيال أصفر والسيال الأصفر مرة فهذا أمراً ويسمى مثله إيهام العكس لأنه لما رأى كل مرة سيالاً أصفر ظن أنه كل سيال أصفر مرة، ومنه الحكم على المطاق بحكم المقيد بحال أو وقت نحو هذه رقبة وكل رقبة مؤمنة، وفي الأعشى هذا مبصر والمبصر مبصر بالليل ومنه أجزاء :
+غير القطعي كالوهميات وغيرها.
+- مما ليس قطعياً مجرى القطعي ونحو جعل العرضي كالذاتي نحو
+هذا إنسان والإنسان كاتب.
+ونحو جعل النتيجة إحدى مقدمتي البرهان بتغييرها ويسمى مصادرة
+عن المطلوب كهذا نقلة وكل نقلة حركة فهذا حركة.
+(Khatamah) From that which seals a thing, and since this chapter is the last of the subject, I called it 'khatamah'. And since error often occurs in demonstrations due to a disruption of a condition of their conditions or a judgment of their judgments, a special chapter was made for alerting to that. Know that error is of two types: sometimes it is due to an error in its matter, and sometimes due to an error in its form.
+The first: either from the aspect of wording or meaning.
+As for wording: like homonymy, such as 'this is 'ayn', and like using contrasting terms as synonyms, such as 'al-sayf' and 'al-sārim' (sword). The mind neglects the distinction, treats the two expressions as one, and thinks the middle term is unified.
+And as for meaning: like confusing the true with the false as well. That is like judging the genus by the judgment of the species subordinate to it, such as 'This is a color; color is black; so this is black'. And 'This is a yellow liquid; every yellow liquid is bitter; so this is bitter' and it is called the fallacy of the inverse because when he saw that every bitter thing is a yellow liquid he thought that every yellow liquid is bitter. And from it is judging the absolute by the judgment of that which is qualified by a condition or time, such as 'This is a neck; every neck is believing'. And in al-A'sha: 'This is seeing; the seeing sees at night'. And from it are parts: non-certain, like illusory and others — things that are not certain treated as certain. And like making the accidental as essential, such as 'This is a human; a human is a writer'.
+And like making the result one of the premises of the demonstration by changing it, and it is called begging the question, such as 'This is a moving thing; every moving thing is a motion; so this is motion'.
+Source pages p. 116
+
+Commentary
+This passage is a definitional and classificatory passage from the conclusion of the logic text, where the author explains the types of error that occur in demonstrations (burhān). The author begins by justifying the name 'khatamah' (seal) for this chapter, as it seals the subject matter. He then states that error in demonstration arises from a defect in either the conditions or judgments of the proof. The main classification: error is either material (khaṭa' fī al-mādda) or formal (khaṭa' fī al-ṣūra). The material is further subdivided into verbal (lafẓī) and conceptual (ma'nawī). Under verbal errors, he gives examples of ishtirāk (homonymy) — where one word has multiple meanings, like 'ayn which can mean eye, spring, etc. — and using mutually exclusive words but treating them as synonyms, like sayf and ṣārim, both meaning sword but distinct in connotation. The mind fails to distinguish them and assumes the middle term is the same, leading to fallacy. Under conceptual errors, he gives several examples: confusing true with false, such as judging the genus by the property of one of its species (e.g., 'this is a color, color is black' — but not all colors are black). This fallacy is called īhām al-'aks (fallacy of the inverse), because from observing that all bitter things are yellow liquids, one incorrectly concludes all yellow liquids are bitter. Another example is judging the absolute by the qualified (e.g., 'this is a neck, every neck is believing' — but the premise 'every neck is believing' is qualified by a condition of free believing slave, not absolute). He also mentions treating non-certain premises as certain, such as those from imagination (wahmiyyāt). Also treating accidental properties as essential, like 'this is a human, every human is a writer' — writing is accidental to humanity. Finally, he discusses begging the question (muṣādara 'alā al-maṭlūb), where the conclusion itself is covertly used as a premise, e.g., 'this is a moving thing, every moving thing is motion, therefore this is motion' — but 'every moving thing is motion' is essentially the same as the conclusion. All examples are drawn from Islamic logical and theological discourse.
+
+Key Terms
+مصادرة
+مطلوب
+نتيجة
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the name of the fallacy where the conclusion is covertly used as a premise?
+A) Fallacy of the inverse
+B) Homonymy
+C) Begging the question
+D) Accident fallacy
+
+Key Takeaway
+Begging the question renders a demonstration useless because it assumes what it sets out to prove.
+
+How This Lesson Applies — to MY Life?
+?
+Evaluate the argument: 'The Quran is the word of God because it is revealed; everything that is revealed is the word of God; therefore the Quran is the word of God.' Is this begging the question? Explain.
+
+Pages p. 116 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →

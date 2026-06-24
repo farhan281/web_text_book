@@ -1,0 +1,367 @@
+← Prev
+p. 62
+Module 15 · Lesson 1
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+Causal Demonstration (Ta'lil) vs Inference (Istidlal)
+Author defines causal demonstration and inference with examples
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between limmi and inni proofs and reconstruct their categorical syllogisms from arguments in Islamic sciences.
+
+Core Idea
+Ta'lil moves from cause to effect; istidlal moves from effect to cause.
+
+In this lesson, we examine two types of demonstration in Islamic logic: ta'lil (causal demonstration) and istidlal (inference). The author illustrates them with a medical example: fever and putrid humors. Understanding the direction of reasoning is crucial for evaluating arguments in kalam, fiqh, and other disciplines.
+
+Guided Path
+1
+Identify the direction of reasoning
+Look for the causal connective like 'because'. In 'this is feverous because his humors are putrid', the cause (putrid humors) is given as the reason for the effect (fever). This is ta'lil (limmi). In the reverse, it is istidlal (inni).
+2
+Extract the causal relationship
+Note the cause and effect. Cause: putrid humors. Effect: fever. In ta'lil, the cause is the middle term. In istidlal, the effect is the middle term.
+3
+Reconstruct the categorical syllogism
+For ta'lil: Major premise: Every person with putrid humors is feverous. Minor: This person has putrid humors. Conclusion: This person is feverous. For istidlal: Major: Every feverous person has putrid humors. Minor: This person is feverous. Conclusion: This person has putrid humors.
+4
+Label the proof type
+If the argument goes from cause to effect, it is limmi (ta'lil). If from effect to cause, it is inni (istidlal). Both are valid but differ in epistemological strength.
+5
+Apply to an Islamic example
+Consider the fiqh argument: 'Nabidh is forbidden because it is intoxicating, and every intoxicating substance is forbidden.' This is a limmi proof: cause (intoxication) to effect (forbiddeness).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+العلة تسمى بالتعليل كما إذا قلنا هذا محموم لأنه متعفن الأخلاط وكل متعفن الأخلاط محموم، وهو مختص بالدليل اللمى، والاستدلال بالعكس كما إذا قلنا هذا متعفن الأخلاط لأنه محموم وكل محموم متعفن الأخلاط وهو مختص بالدليل الانى.
+The cause is called ta'lil (causal demonstration) as when we say: This person is feverous because his humors are putrid, and every person with putrid humors is feverous. This is specific to the limmi proof. And inference (istidlal) is the opposite, as when we say: This person's humors are putrid because he is feverous, and every feverous person has putrid humors. This is specific to the inni proof.
+Source pages p. 62
+
+Commentary
+This passage defines two types of demonstration in Islamic logic: ta'lil (limmi) and istidlal (inni). Ta'lil is reasoning from the cause to the effect, while istidlal is reasoning from the effect to the cause. The example uses a medical syllogism: fever (effect) and putrid humors (cause). This distinction is crucial for understanding different ways of establishing knowledge. The limmi proof proceeds from the cause (illa) to the effect (ma'lul), giving certainty about why something is true. The inni proof proceeds from the effect to the cause, establishing that something is true but not necessarily why. In fiqh, for example, proving a ruling from its 'illa (ratio legis) is limmi, while inferring the 'illa from the ruling is inni.
+
+Key Terms
+التعليل
+الاستدلال
+الدليل اللمى
+الدليل الانى
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'This is wine because it intoxicates, and everything intoxicating is wine', which type of proof is used?
+A) Limmi proof
+B) Inni proof
+C) Neither
+D) Both
+
+Key Takeaway
+Ta'lil (limmi) proves the effect from the cause, while istidlal (inni) proves the cause from the effect.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: For the statement 'This water is ritually pure because it has not changed, and every water that has not changed is pure', determine whether the reasoning is limmi or inni. Reconstruct the categorical syllogism.
+?
+Task 2: Provide a different example from fiqh or kalam that illustrates an inni proof. Explain why the direction is from effect to cause.
+
+Pages p. 62 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 84
+Module 15 · Lesson 2
+Next →
+Demonstration -- Burhan
+intermediate
+5 min
+The Conditions for Valid Taqrib
+Defines taqrib and its completeness criteria.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether a given proof's taqrib is complete based on the logical relation between its premises and conclusion.
+
+Core Idea
+A proof must produce the exact claim, an equivalent, or a specific instance—not a general or contradictory one.
+
+In Islamic dialectical argumentation, the questioner may object not to the truth of the premises but to the way the proof is presented—specifically, whether the proof genuinely entails the claim. This objection, known as preventing taqrib, is a key move in munazara. This lesson explains the precise conditions under which a proof's taqrib is considered complete or incomplete.
+
+Guided Path
+1
+Identify the claim and the proof
+Start by clearly stating the claim (mudda'a) and the proof (dalil) as presented in the argument. What exactly is being argued, and what premises are given?
+2
+Determine the logical product of the proof
+Examine what conclusion the proof actually supports. This may differ from the intended claim. The product is the natural conclusion that follows from the premises.
+3
+Compare the product to the claim
+Classify the relation between the product and the claim. Is it exactly the same ('ayn), logically equivalent (musawi), more specific (akhass), more general (a'am), or contradictory (mubayin)?
+Use the definitions: a'am means the product is broader and includes cases not in the claim; akhass means the product is narrower and implies the claim.
+4
+Apply the taqrib completeness rule
+Taqrib is complete only if the product is 'ayn, musawi, or akhass. If it is a'am (absolutely or from one aspect) or mubayin, the taqrib is incomplete and can be objected to.
+An example from the text: claiming 'some animals are actually writers' and proving 'some animals are actually laughing' yields a'am min wajh, so taqrib incomplete.
+5
+Practice with Islamic examples
+Take arguments from fiqh or kalam and evaluate their taqrib. For instance, using the example from the text or a new one like 'Wine is forbidden because it is an intoxicant'.
+Always ask: does the proof's conclusion match the claim exactly, or is it broader/narrower/contradictory?
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل فى بيان منع التقريب: لما كثر وقوعه خصصه بالذكر بعد التعميم. اعلم أن السائل قد يمنع تقريب دليل المعلل، ومعنى التقريب سوق الدليل على وجه يستلزم المدعى. وتقرير منعه أنا لا نسلم استلزام هذا الدليل لذلك المدعى أو لزوم هذا المدعى لذلك الدليل. وقد يجمل التقرير فيقال لا نسلم التقريب أو التقريب ممنوع أو غير تام. والتقريب إنما يتم إذا أنتج الدليل عين المدعى أو ما يساويه أو الأخص منه. أما إذا أنتج الأعم مطلقا أو من وجه أو المباين فلا تقريب. مثال الأعم من وجه: إذا ادعينا بعض الحيوان كاتب بالفعل وقلنا لأنه متعجب بالفعل وكل متعجب بالفعل ضاحك بالفعل فبعض الحيوان ضاحك بالفعل، فهذا أعم من المدعى من وجه. مثال المباين: هذا لا حيوان لأنه جماد وكل جماد لا حيوان، فهذا لا حيوان وهو مباين للمدعى. والحاصل أن الدليل إذا أنتج عين المدعى أو مساويا له أو أخص منه مطلقا كان التقريب تاما، وإن أنتج الأعم مطلقا أو من وجه أو المباين فلا تقريب.
+
+[فائدة] ولما كان الاستلزام مما يصح منعه كانت المعارضة التقديرية والنقض الإجمالي الشبيهي باعتبار الدعوى الضمنية غصبين عنده لأن الغصب استدلال السائل على بطلان ما صح منعه، ولا شك في صحة منع التقريب ولذا لم يتعرض لهما.
+Section on explaining the prevention of approximation: Since it occurred frequently, he specified it by mention after generalization. Know that the questioner may prevent the approximation of the proof of the reason-giver. The meaning of taqrib is presenting the proof in a manner that entails the claim. The formulation of its prevention is: we do not accept that this proof entails that claim or that this claim is necessary for that proof. And the formulation may be summarized, and it is said: we do not accept the taqrib, or the taqrib is prevented, or it is incomplete. And taqrib is only complete when the proof produces the very claim or its equal or the more specific. But if it produces the more general absolutely or from one aspect or the contradictory, there is no taqrib. Example of the more general from one aspect: if we claim 'some animals are actually writers' and we say 'because it is actually amazed and everything actually amazed is actually laughing', so 'some animals are actually laughing'—this is more general than the claim from one aspect. Example of the contradictory: 'this is not an animal because it is inanimate and everything inanimate is not an animal', so 'this is not an animal' and it contradicts the claim. The conclusion: if the proof produces the very claim or its equal or more specific absolutely, then the taqrib is complete; if it produces the more general absolutely or from one aspect or the contradictory, then there is no taqrib. [Benefit] And since entailment is valid to prevent, the estimated objection and the summary refutation like it, by considering the implied claim, are considered usurpations according to him, because usurpation is the questioner's inference of the invalidity of what is valid to prevent, and there is no doubt about the validity of preventing taqrib, so he did not address them.
+Source pages p. 84
+
+Commentary
+This passage defines the concept of 'taqrib' (approximation) in the context of dialectical argumentation. The author explains that a questioner may object to the taqrib of a proof presented by the respondent. Taqrib means presenting the proof in such a way that it entails the claimed conclusion. The objection can be stated directly as 'we do not accept the entailment' or more concisely as 'the taqrib is not accepted' or 'incomplete'. The key point is that taqrib is only considered complete if the proof yields exactly the same claim, a logically equivalent claim, or a more specific claim (where the specific implies the general). If the proof yields a more general claim (e.g., the premise supports a broader conclusion than claimed) or a contradictory claim, then the taqrib fails. Examples clarify: claiming 'some animals are actually writers' and using the argument that they are amazed leads to 'some animals are actually laughing' — this is more general since not all laughing animals are writers, so taqrib is incomplete. The contradictory example shows a proof that leads to the opposite conclusion. The final conclusion reiterates the conditions. The benefit note adds that since preventing taqrib is valid, any objection that treats it as an estimated constraint or summary refutation is considered a usurpation (ghasb) and thus invalid, because the questioner's interference is unnecessary when the taqrib itself is correctly prevented.
+
+Key Terms
+التقريب (al-taqrib): Presenting a proof in a manner that entails the claim; the proof's formulation relative to the conclusion. [Note: In other logic texts, taqrib may refer to the process of making an argument approximate, but here it is a specific term for the logical entailment condition.]
+الاستلزام (al-istilzam): The entailment of the conclusion by the premises; a necessary logical consequence. [Note: Stable term across logical tradition.]
+عين المدعى ('ayn al-mudda'a): The exact proposition claimed as the conclusion. [Note: Standard term.]
+المساوي (al-musawi): A proposition logically equivalent to the claim (i.e., each implies the other). [Note: Standard term in discussions of logical equivalence.]
+الأخص (al-akhass): A more specific proposition (e.g., an individual case or narrower scope) that implies the general claim. [Note: Standard term in logic of universals.]
+الأعم (al-a'am): A more general proposition (broader scope) that does not necessarily imply the specific claim. [Note: Standard term.]
+المباين (al-mubayin): A proposition that is contradictory or incompatible with the claim. [Note: Standard term.]
+
+Key Terms from Source Passage
+
+Checkpoint
+If a proof produces a more general claim than the original claim, what is the status of the taqrib? Example: claim = 'Zayd is a writer', proof yields 'Zayd is a human' (which is more general). Is the taqrib complete?
+A) Yes, because the proof entails something true.
+B) Yes, because the proof yields a logical consequence.
+C) No, because the proof yields a more general claim, so taqrib is incomplete.
+D) No, because the proof yields a contradictory claim.
+
+Key Takeaway
+For a proof's taqrib to be valid, its conclusion must be exactly the claim, its equivalent, or a specific case; general or contradictory conclusions invalidate the taqrib.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Evaluate the taqrib for this argument: Claim: 'Wine is forbidden.' Proof: 'Every intoxicant is forbidden; wine is an intoxicant.' Is the taqrib complete? Explain using the categories from the passage.
+?
+Task 2: Consider a proof that yields 'Some actions are obligatory' when the claim is 'Prayer is obligatory'. Is the taqrib complete? Why or why not? If incomplete, what is the relation between the product and the claim?
+
+Pages p. 84 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 96
+Module 15 · Lesson 3
+Next →
+Demonstration -- Burhan
+intermediate
+6 min
+Classification of Proofs into Four Types
+Author classifies proofs into four types and explains how strength is determined.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given proof as either certain proof (dalil qat'i), intellectual indication (amara 'aqliyya), induction (istiqra'), or analogy (tamthil) based on the criteria of certainty/uncertainty and composition of premises.
+
+Core Idea
+Proofs are not all equal; they are classified by certainty and composition.
+
+In this passage, the author lays out a fundamental classification of proofs (adilla) that is essential for evaluating arguments. He distinguishes between certain and probable proofs, and further subdivides probable proofs into induction and analogy. This classification is not merely theoretical—it directly impacts how we weigh evidence in Islamic sciences.
+
+Guided Path
+1
+Identify the two main categories of proof.
+The author first divides proofs into two: those that give certainty (qat'i) and those that give probability (zanni).
+2
+Subdivide the probabilistic proofs.
+The probabilistic proofs are further divided into induction (istiqra') and analogy (tamthil). Induction moves from many particular cases to a general rule; analogy transfers a ruling from one case to another based on a common attribute.
+3
+Subdivide the certain proofs.
+Certain proofs are divided into those composed of certain premises (which yield certain proof) and those not composed of certain premises (which yield an intellectual indication, amara).
+4
+Combine to get the four types.
+Thus we have: (1) certain proof (dalil qat'i), (2) intellectual indication (amara 'aqliyya), (3) induction, (4) analogy.
+Note that jurists often call all four 'qiyas' broadly.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن الدليل يستلزم مدلوله إما قطعا أو ظنا والثاني إما استقراء أو تمثيل والأول إما أن يتركب من مقدمات قطعية أولاً والأول دليل قطعي والثاني أمارة عقلية فالمجموع أربعة: دليل قطعي وأمارة عقلية واستقراء وتمثيل، وتسميه الفقهاء قياسا، والأول أقوى من الباقية والباقية متساوية بحسب النوع، لكن قد يكون بعض منها أقوى من الآخر بغلبة الظن فتأمل. والأول لا يكون أقوى من مثله لا بنفسه ولا بالكثرة. والثاني يكون أقوى من مثله بالكثرة وبنفسه أيضا، فإن كان الظن في مقدماته أغلب كان أقوى، وكذا الثالث لأن ما كان استقراؤه أكثر كان أقوى، وأما الرابع فيقوى بنفسه، ومحل بيانه في الأصول، وكذا بالكثرة عند محمد رحمه الله، وهو الأظهر خلافا لهما. فإذا عارض معارض فللخصم أن يدفعها بإثبات قوة دليله عن دليل المعارض، وفي الحقيقة باستلزام الفساد وهو رجحان المرجوح اعرف. وأما منع كون الدليل المعارض في معرض المعارضة مستندا بضعفه فلم تجر به عادة المحققين. ومما ينبغي أن يعلم أنه إذا كان غرض المستدل إيقاع الشك لا الاثبات كاستدلال الرازي على نفي اللزوم فالمعارضة غير مرضية فالأولى دفعه بالنقض بل بالمناقضة لأن المعارضة لا تدفع الشبهة لكن لما كان ظاهر حاله الاثبات جاز الدفع بالمعارضة أيضا انتهى كلامه.
+Know that the evidence (dalil) entails its conclusion either certainly or probabilistically. The second (probabilistic) is either induction (istiqra') or analogy (tamthil). The first (certain) either is composed of certain premises or not. The first (composed of certain premises) is certain proof (dalil qat'i), the second (not composed of certain premises) is an intellectual indication (amara 'aqliyya). So the total is four: certain proof, intellectual indication, induction, and analogy. The jurists call it (all) qiyas. The first is stronger than the rest, and the rest are equal in type, but one of them may be stronger than another due to preponderance of probability—so reflect. The first is not stronger than its like, neither in itself nor by multiplicity. The second becomes stronger than its like by multiplicity and also in itself; if the probability in its premises is more dominant, it is stronger. Similarly the third, because the more extensive its induction is, the stronger it is. As for the fourth, it becomes stronger in itself; its place of explanation is in usul al-fiqh. Likewise by multiplicity according to Muhammad (may Allah have mercy on him)—and that is the more evident view contrary to the two others. So if an objector makes a counter-argument, the opponent can repel it by proving the strength of his evidence over the objector's evidence, and in reality by entailing corruption—which is the preponderance of the preponderated—recognize. As for denying that the counter-evidence is in the position of being countered based on its weakness, the habit of the verifiers has not proceeded with that. Among what should be known is that if the aim of the one adducing evidence is to cause doubt, not to prove, like al-Razi's argument for denying necessity, then the counter-argument is not satisfactory; rather it should be repelled by refutation (naqd) or even by contradictory argument (munaqada), because the counter-argument does not repel the doubt. But since his apparent state is to prove, it is permissible to repel with a counter-argument as well. End of his speech.
+Source pages p. 96
+
+Commentary
+This passage is an epistemological classification of proofs (adilla) according to their strength. The author begins by stating that evidence (dalil) entails its conclusion either certainly (qat'an) or probabilistically (zannan). He then subdivides: the probabilistic is either induction (istiqra') or analogy (tamthil). The certain is either composed of certain premises or not; the former is a certain proof (dalil qat'i), the latter is an intellectual indication (amara 'aqliyya). Thus there are four types. He notes that jurists call all of them qiyas (analogical reasoning) in a broad sense. The certain proof is strongest; the other three are equal in type but can differ in degree due to preponderance of probability. He then explains how each type can become stronger: the certain proof does not become stronger by multiplicity; the intellectual indication does, both by multiplicity and in itself if its premises are more probable; induction becomes stronger with more extensive induction; analogy becomes stronger in itself, with details deferred to usul al-fiqh. The practical import: in debate, if an objector makes a mu'arada, the opponent can repel it by proving his own evidence is stronger; this ultimately entails corruption (fasad) of the objector's argument. He also addresses the case where the arguer's goal is to create doubt (like al-Razi's argument denying necessity); then mu'arada is not appropriate, and one should repel by naqd or munaqada instead, unless the arguer's apparent aim is proof. This passage is a typical epistemological expansion of matn material, common in hashiya/comments on jadal texts.
+
+Key Terms
+الدليل
+الأمارة العقلية
+الاستقراء
+التمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of proof is not composed of certain premises?
+A) Certain proof (dalil qat'i)
+B) Intellectual indication (amara 'aqliyya)
+C) Induction (istiqra')
+D) Analogy (tamthil)
+
+Key Takeaway
+Proofs are classified into certain and probable; probable proofs include induction and analogy, while intellectual indication is a certain-probable hybrid that does not use certain premises.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following argument: 'All intoxicants are forbidden (from Qur'an); Nabidh is an intoxicant (by empirical observation); therefore Nabidh is forbidden.' Classify this proof according to the four types. Is it certain or probable? Does it involve induction or analogy? Is it composed of certain premises? State its type.
+?
+Find a real example from fiqh where a ruling is derived by analogy (tamthil) and identify the original case, the new case, and the common attribute ('illah).
+
+Pages p. 96 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 96
+Module 15 · Lesson 4
+Next →
+Demonstration -- Burhan
+intermediate
+7 min
+How Proofs Vary in Strength
+Author classifies proofs into four types and explains how strength is determined.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why certain proof is strongest, why probabilistic proofs can differ in degree, and what factors increase their strength.
+
+Core Idea
+Certainty is absolute; probability admits degrees of strength.
+
+The previous lesson classified proofs; now we examine their relative strength. The author tells us that certain proof is strongest, while the other three are equal in kind but can vary in strength depending on factors like multiplicity and the strength of their premises. Understanding this hierarchy is crucial for weighing arguments.
+
+Guided Path
+1
+Recognize the strength ordering.
+The author states that certain proof is stronger than the other three. The remaining three are equal in type (mutasawiya bi-hasab al-naw') but one may be stronger than another by preponderance of probability (ghalabat al-zann).
+2
+Understand how certain proof cannot become stronger.
+Certain proof does not become stronger by multiplicity (e.g., having multiple proofs for the same conclusion) nor by itself (i.e., it is already maximal).
+3
+Understand how intellectual indication becomes stronger.
+Amara becomes stronger by multiplicity (having more indicators) and also in itself: if its premises are more probable, it is stronger.
+4
+Understand how induction becomes stronger.
+Induction becomes stronger when more instances are examined (the more extensive the induction, the stronger).
+5
+Understand how analogy becomes stronger.
+Analogy becomes stronger in itself (by the strength of the 'illah) and, according to Muhammad ibn al-Hasan, also by multiplicity (having multiple analogies). The author says this is the more evident view.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن الدليل يستلزم مدلوله إما قطعا أو ظنا والثاني إما استقراء أو تمثيل والأول إما أن يتركب من مقدمات قطعية أولاً والأول دليل قطعي والثاني أمارة عقلية فالمجموع أربعة: دليل قطعي وأمارة عقلية واستقراء وتمثيل، وتسميه الفقهاء قياسا، والأول أقوى من الباقية والباقية متساوية بحسب النوع، لكن قد يكون بعض منها أقوى من الآخر بغلبة الظن فتأمل. والأول لا يكون أقوى من مثله لا بنفسه ولا بالكثرة. والثاني يكون أقوى من مثله بالكثرة وبنفسه أيضا، فإن كان الظن في مقدماته أغلب كان أقوى، وكذا الثالث لأن ما كان استقراؤه أكثر كان أقوى، وأما الرابع فيقوى بنفسه، ومحل بيانه في الأصول، وكذا بالكثرة عند محمد رحمه الله، وهو الأظهر خلافا لهما. فإذا عارض معارض فللخصم أن يدفعها بإثبات قوة دليله عن دليل المعارض، وفي الحقيقة باستلزام الفساد وهو رجحان المرجوح اعرف. وأما منع كون الدليل المعارض في معرض المعارضة مستندا بضعفه فلم تجر به عادة المحققين. ومما ينبغي أن يعلم أنه إذا كان غرض المستدل إيقاع الشك لا الاثبات كاستدلال الرازي على نفي اللزوم فالمعارضة غير مرضية فالأولى دفعه بالنقض بل بالمناقضة لأن المعارضة لا تدفع الشبهة لكن لما كان ظاهر حاله الاثبات جاز الدفع بالمعارضة أيضا انتهى كلامه.
+Know that the evidence (dalil) entails its conclusion either certainly or probabilistically. The second (probabilistic) is either induction (istiqra') or analogy (tamthil). The first (certain) either is composed of certain premises or not. The first (composed of certain premises) is certain proof (dalil qat'i), the second (not composed of certain premises) is an intellectual indication (amara 'aqliyya). So the total is four: certain proof, intellectual indication, induction, and analogy. The jurists call it (all) qiyas. The first is stronger than the rest, and the rest are equal in type, but one of them may be stronger than another due to preponderance of probability—so reflect. The first is not stronger than its like, neither in itself nor by multiplicity. The second becomes stronger than its like by multiplicity and also in itself; if the probability in its premises is more dominant, it is stronger. Similarly the third, because the more extensive its induction is, the stronger it is. As for the fourth, it becomes stronger in itself; its place of explanation is in usul al-fiqh. Likewise by multiplicity according to Muhammad (may Allah have mercy on him)—and that is the more evident view contrary to the two others. So if an objector makes a counter-argument, the opponent can repel it by proving the strength of his evidence over the objector's evidence, and in reality by entailing corruption—which is the preponderance of the preponderated—recognize. As for denying that the counter-evidence is in the position of being countered based on its weakness, the habit of the verifiers has not proceeded with that. Among what should be known is that if the aim of the one adducing evidence is to cause doubt, not to prove, like al-Razi's argument for denying necessity, then the counter-argument is not satisfactory; rather it should be repelled by refutation (naqd) or even by contradictory argument (munaqada), because the counter-argument does not repel the doubt. But since his apparent state is to prove, it is permissible to repel with a counter-argument as well. End of his speech.
+Source pages p. 96
+
+Commentary
+This passage is an epistemological classification of proofs (adilla) according to their strength. The author begins by stating that evidence (dalil) entails its conclusion either certainly (qat'an) or probabilistically (zannan). He then subdivides: the probabilistic is either induction (istiqra') or analogy (tamthil). The certain is either composed of certain premises or not; the former is a certain proof (dalil qat'i), the latter is an intellectual indication (amara 'aqliyya). Thus there are four types. He notes that jurists call all of them qiyas (analogical reasoning) in a broad sense. The certain proof is strongest; the other three are equal in type but can differ in degree due to preponderance of probability. He then explains how each type can become stronger: the certain proof does not become stronger by multiplicity; the intellectual indication does, both by multiplicity and in itself if its premises are more probable; induction becomes stronger with more extensive induction; analogy becomes stronger in itself, with details deferred to usul al-fiqh. The practical import: in debate, if an objector makes a mu'arada, the opponent can repel it by proving his own evidence is stronger; this ultimately entails corruption (fasad) of the objector's argument. He also addresses the case where the arguer's goal is to create doubt (like al-Razi's argument denying necessity); then mu'arada is not appropriate, and one should repel by naqd or munaqada instead, unless the arguer's apparent aim is proof. This passage is a typical epistemological expansion of matn material, common in hashiya/comments on jadal texts.
+
+Key Terms
+الدليل
+الأمارة العقلية
+الاستقراء
+التمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following can become stronger by multiplicity?
+A) Certain proof
+B) Intellectual indication
+C) Induction
+D) Analogy
+
+Key Takeaway
+Certain proof is maximal; probabilistic proofs (amara, istiqra', tamthil) can increase in strength through multiplicity or stronger premises.
+
+How This Lesson Applies — to MY Life?
+?
+Consider two inductive arguments: one based on 10 cases, another on 100 cases. Which is stronger and why? Explain using the passage.
+?
+Explain why a certain proof (e.g., a clear Qur'anic text) cannot be made stronger by repeating it multiple times.
+
+Pages p. 96 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 96
+Module 15 · Lesson 5
+Next →
+Demonstration -- Burhan
+advanced
+8 min
+How to Repel Counter-Arguments (Mu'arada, Naqd, Munaqada)
+Author classifies proofs into four types and explains how strength is determined.
+
+Learning Objective
+By the end of this lesson, you will be able to select the appropriate method (mu'arada, naqd, or munaqada) to repel a counter-argument based on the strength of the original proof and the intent of the arguer.
+
+Core Idea
+The method of refutation depends on the purpose and strength of the argument.
+
+The author ends the passage with a practical note on handling objections. If someone makes a counter-argument (mu'arada), you can repel it by showing your evidence is stronger. But if the arguer's aim is to create doubt (like al-Razi), then mu'arada is not sufficient; you should use naqd (rebuttal) or munaqada (contradictory argument). This distinction is crucial for effective dialectic.
+
+Guided Path
+1
+Identify the standard response to a mu'arada.
+If an objector brings a counter-argument (mu'arada), the opponent can repel it by proving his own evidence is stronger. This ultimately entails corruption (fasad) of the objector's evidence, i.e., showing it is false or invalid.
+2
+Recognize the condition for mu'arada.
+The counter-argument must be in the position of being countered; if it is too weak, it might not count. The author says verifiers (muhaqqiqun) do not usually deny the counter-argument's ability to be countered based on its weakness.
+3
+Handle the case where the arguer aims to cause doubt.
+If the arguer's goal is to create doubt (shakk), not to prove, then mu'arada is not satisfactory. Instead, use naqd (rebuttal that shows the argument fails) or munaqada (argument that contradicts it). As an example, al-Razi argued to deny necessity (nafi al-luzum).
+4
+Apply the appearance rule.
+Since superficiality (zahir al-hal) often suggests the arguer is trying to prove, you may still use mu'arada in that case. But if the intent is clearly doubt, then avoid mu'arada.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن الدليل يستلزم مدلوله إما قطعا أو ظنا والثاني إما استقراء أو تمثيل والأول إما أن يتركب من مقدمات قطعية أولاً والأول دليل قطعي والثاني أمارة عقلية فالمجموع أربعة: دليل قطعي وأمارة عقلية واستقراء وتمثيل، وتسميه الفقهاء قياسا، والأول أقوى من الباقية والباقية متساوية بحسب النوع، لكن قد يكون بعض منها أقوى من الآخر بغلبة الظن فتأمل. والأول لا يكون أقوى من مثله لا بنفسه ولا بالكثرة. والثاني يكون أقوى من مثله بالكثرة وبنفسه أيضا، فإن كان الظن في مقدماته أغلب كان أقوى، وكذا الثالث لأن ما كان استقراؤه أكثر كان أقوى، وأما الرابع فيقوى بنفسه، ومحل بيانه في الأصول، وكذا بالكثرة عند محمد رحمه الله، وهو الأظهر خلافا لهما. فإذا عارض معارض فللخصم أن يدفعها بإثبات قوة دليله عن دليل المعارض، وفي الحقيقة باستلزام الفساد وهو رجحان المرجوح اعرف. وأما منع كون الدليل المعارض في معرض المعارضة مستندا بضعفه فلم تجر به عادة المحققين. ومما ينبغي أن يعلم أنه إذا كان غرض المستدل إيقاع الشك لا الاثبات كاستدلال الرازي على نفي اللزوم فالمعارضة غير مرضية فالأولى دفعه بالنقض بل بالمناقضة لأن المعارضة لا تدفع الشبهة لكن لما كان ظاهر حاله الاثبات جاز الدفع بالمعارضة أيضا انتهى كلامه.
+Know that the evidence (dalil) entails its conclusion either certainly or probabilistically. The second (probabilistic) is either induction (istiqra') or analogy (tamthil). The first (certain) either is composed of certain premises or not. The first (composed of certain premises) is certain proof (dalil qat'i), the second (not composed of certain premises) is an intellectual indication (amara 'aqliyya). So the total is four: certain proof, intellectual indication, induction, and analogy. The jurists call it (all) qiyas. The first is stronger than the rest, and the rest are equal in type, but one of them may be stronger than another due to preponderance of probability—so reflect. The first is not stronger than its like, neither in itself nor by multiplicity. The second becomes stronger than its like by multiplicity and also in itself; if the probability in its premises is more dominant, it is stronger. Similarly the third, because the more extensive its induction is, the stronger it is. As for the fourth, it becomes stronger in itself; its place of explanation is in usul al-fiqh. Likewise by multiplicity according to Muhammad (may Allah have mercy on him)—and that is the more evident view contrary to the two others. So if an objector makes a counter-argument, the opponent can repel it by proving the strength of his evidence over the objector's evidence, and in reality by entailing corruption—which is the preponderance of the preponderated—recognize. As for denying that the counter-evidence is in the position of being countered based on its weakness, the habit of the verifiers has not proceeded with that. Among what should be known is that if the aim of the one adducing evidence is to cause doubt, not to prove, like al-Razi's argument for denying necessity, then the counter-argument is not satisfactory; rather it should be repelled by refutation (naqd) or even by contradictory argument (munaqada), because the counter-argument does not repel the doubt. But since his apparent state is to prove, it is permissible to repel with a counter-argument as well. End of his speech.
+Source pages p. 96
+
+Commentary
+This passage is an epistemological classification of proofs (adilla) according to their strength. The author begins by stating that evidence (dalil) entails its conclusion either certainly (qat'an) or probabilistically (zannan). He then subdivides: the probabilistic is either induction (istiqra') or analogy (tamthil). The certain is either composed of certain premises or not; the former is a certain proof (dalil qat'i), the latter is an intellectual indication (amara 'aqliyya). Thus there are four types. He notes that jurists call all of them qiyas (analogical reasoning) in a broad sense. The certain proof is strongest; the other three are equal in type but can differ in degree due to preponderance of probability. He then explains how each type can become stronger: the certain proof does not become stronger by multiplicity; the intellectual indication does, both by multiplicity and in itself if its premises are more probable; induction becomes stronger with more extensive induction; analogy becomes stronger in itself, with details deferred to usul al-fiqh. The practical import: in debate, if an objector makes a mu'arada, the opponent can repel it by proving his own evidence is stronger; this ultimately entails corruption (fasad) of the objector's argument. He also addresses the case where the arguer's goal is to create doubt (like al-Razi's argument denying necessity); then mu'arada is not appropriate, and one should repel by naqd or munaqada instead, unless the arguer's apparent aim is proof. This passage is a typical epistemological expansion of matn material, common in hashiya/comments on jadal texts.
+
+Key Terms
+الدليل
+الأمارة العقلية
+الاستقراء
+التمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, when is mu'arada not a satisfactory response?
+A) When the counter-argument is very strong.
+B) When the original arguer's aim is to cause doubt.
+C) When the original proof is an analogy.
+D) When the counter-argument is based on induction.
+
+Key Takeaway
+When an arguer intends doubt, use naqd or munaqada, not mu'arada; but if the apparent intent is proof, mu'arada is permissible.
+
+How This Lesson Applies — to MY Life?
+?
+Suppose someone argues: 'If the world were originated, it would need a creator; but it is not originated (because originated things change, and the world is always changing); therefore no creator needed.' Is this a proof or an attempt to cast doubt? How would you respond: mu'arada, naqd, or munaqada? Use the passage's criteria.
+?
+In a debate, your opponent brings a mu'arada that is weaker than your original proof. Should you (a) deny it is in the position of being countered, or (b) prove your evidence is stronger? Which approach does the passage recommend?
+
+Pages p. 96 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →

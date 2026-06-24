@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:28Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/daqaiq_haqaiq/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/high_philosophy/21 - Daqaiq Haqaiq",
+  "output_bytes": 13126880,
+  "output_sha256": "e2cfba97de9083be3be969a1c4f26776b95efb52fe578af44a0b2c578b608d03",
+  "checks": {
+    "catalog_expected_lessons": 1338,
+    "course_reported_lessons": 1338,
+    "index_lessons": 1338,
+    "full_lessons": 1338,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 19,
+    "course_reported_modules": 19,
+    "modules": 19,
+    "course_reported_sources": 1008,
+    "sources": 1008
+  }
+}

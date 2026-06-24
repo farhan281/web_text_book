@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:52:10Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/AL_SHARH_UL_SAMERI_VOL_1_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/21 - Al Sharh Ul Sameri Vol 1 Merged With Pgs",
+  "output_bytes": 10138439,
+  "output_sha256": "d7f168f1aabb6dc6dd96091884491009d67f96abfefa2d9ff1df556c54282c5a",
+  "checks": {
+    "catalog_expected_lessons": 1340,
+    "course_reported_lessons": 1340,
+    "index_lessons": 1340,
+    "full_lessons": 1340,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 10,
+    "course_reported_modules": 10,
+    "modules": 10,
+    "course_reported_sources": 1325,
+    "sources": 1325
+  }
+}

@@ -1,0 +1,1041 @@
+← Prev
+p. 419
+Module 11 · Lesson 51
+Next →
+The Syllogism
+advanced
+7 min
+Implications of Universal Exclusive Disjunction
+Author enumerates implications of universal affirmative exclusive disjunctive
+
+Learning Objective
+By the end of this lesson, you will be able to derive multiple implied disjunctives from a given universal exclusive disjunction using equivalents, contradictories, and implications.
+
+Core Idea
+From one exclusive disjunction, many others are entailed by substituting equivalents and contradictories.
+
+The author now shows that the universal exclusive disjunction 'Every A is either B or C' does not stand alone: it logically implies a host of other disjunctive propositions. Understanding these implications will help you see the richness of logical entailment and prepare you for later uses in argumentation.
+
+Guided Path
+1
+Identify the original proposition
+Recognize the universal affirmative exclusive disjunction 'Every A is either B or C' (man'at al-jam' wal khuluw).
+2
+Derive the tautological implication
+From the original, the simplest implication is 'Every A is either B or not B', composed of the antecedent and the negation of B.
+This is a logical tautology but demonstrates the method.
+3
+Substitute equivalents for the second disjunct
+Replace 'not B' with any term that is equivalent to it (musawi), or replace C with its equivalent, yielding more disjunctives.
+The number of such disjunctives is as many as the equivalents.
+4
+Use contradictories and implications
+Similarly, use what contradicts B (munafi) and what is implied by B and C (muqtada) to generate further disjunctives.
+5
+Recognize the multiplicity
+The author emphasizes that the number of such implications is vast, based on the multiplicity of equivalents and contradictories.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الثاني من المباحث فذلك في اللوازم من المنفصلات للموجبة الكلية التي مرّ ذكرها وهي مانعة الجمع والخلو وللسالبة الكلية كذلك. أما الموجبة فنقول: إذا صدق قولنا دائما كل «أ» إما «ب» وإما «ج»؛ صدق من المنفصلات الحقيقة ما يتركب من عين المقدم ونقيض الباء فيقال دائما كل «أ» إما «ب» وإما ليس «ب». وكذلك من عين المقدم وعين ما يساوي النقيض، ومن عين المقدم وعين ما يساوي الجيم، وإنه متعدد تعدد المساوي لا محالة، ومن المساوي لهذا. ولذلك كذلك يتركب من عين المقدم وعين ما ينافي الباء وإنه متعدد تعدد المنافي أيضًا، ومن عين المقدم وعين الباء، وإنه متعدد غاية التعداد. وكذلك يتركب من مقتضى الباء والجيم، ومن المساوي لهذا النقيض. ولذلك كذلك، فهذه هي الموجبات من اللوازم. وأما السوالب فإنها متعددة حسب تعدد هذه الموجبات. فإن العناد لا يكون بين الشيء وغيره إلا وأن يكون اللزوم متحققا بينه وبين نقيض ذلك الشيء لما مر واللزوم من جملة ما.
+As for the second investigation, that is regarding the implications of disjunctives for the universal affirmative that was mentioned—it is the exclusive disjunction (preventing conjunction and vacancy)—and similarly for the universal negative. As for the affirmative, we say: if our statement is always true: 'Every A is either B or C', then from the true disjunctives, those are true that are composed of the very antecedent and the negation of B, so it is said: 'Every A is either B or not B'. And likewise from the very antecedent and what equals the negation, and from the very antecedent and what equals C, and it is multiple according to the multiplicity of equivalents necessarily, and from the equivalent of this. And likewise similarly, it is composed of the very antecedent and what contradicts B, and it is multiple according to the multiplicity of contradictors as well, and from the very antecedent and B, and it is multiple to the utmost multiplicity. And likewise, it is composed of the implication of B and C, and of the equivalent of this negation. And similarly, these are the affirmative implications. As for the negatives, they are multiple according to the multiplicity of these affirmatives. For opposition does not occur between a thing and another unless implication is realized between it and the negation of that thing, according to what passed, and implication is among the things...
+Source pages p. 419
+
+Commentary
+This passage begins the second investigation, which concerns the implications that universal affirmative and universal negative exclusive disjunctives (man'at al-jam' wal khuluw) have for other disjunctives. The author focuses on the affirmative case first. Given the true statement 'Every A is either B or C' (universal affirmative exclusive disjunction), he states that several true disjunctives can be derived. The first is composed of the same antecedent (A) and the negation of B, yielding 'Every A is either B or not B'. This is a tautology but demonstrates the method. Then from the same antecedent and what equals the negation of B (i.e., any term equivalent to not B), and from the antecedent and what equals C, leading to multiple disjunctives based on equivalents. Similarly, from the antecedent and what contradicts B (which is stronger than negation?), and from the antecedent and B itself (yielding 'Every A is either B or B', which is a tautology but author says it is multiple to the utmost). Also from the implications (muqtada) of B and C, and from the equivalent of this negation. The author then notes that these are the affirmative implications. For the negative implications (universal negative exclusive disjunctions), they are multiple according to the multiplicity of these affirmatives, because opposition (inad) between two things requires implication between one and the negation of the other, as previously established. The passage cuts off, but the structure is clear: the author is enumerating all possible disjunctive propositions that are entailed by a given universal exclusive disjunction.
+
+Key Terms
+الموجبة الكلية
+نقيض
+مساوي
+منافي
+مقتضى
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is NOT an implied disjunctive from 'Every A is either B or C'?
+A) Every A is either B or not B.
+B) Every A is either C or not C.
+C) Every A is either B or C.
+D) Every A is either B or what contradicts B.
+
+Key Takeaway
+From a universal exclusive disjunction, a multitude of disjunctive implications can be derived by manipulating the disjuncts with negation, equivalence, and contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+Take the universal exclusive disjunction 'Every act is either obligatory or forbidden'. Derive at least three implied disjunctives using equivalents and contradictories of the terms.
+?
+Given 'Every human is either knowing or ignorant', apply the method to produce the disjunctive 'Every human is either knowing or not-knowing' and explain why it follows.
+
+Pages p. 419 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 421
+Module 11 · Lesson 52
+Next →
+The Syllogism
+intermediate
+10 min
+Implicative and Converse Disjunctions
+Author defines and illustrates disjunctions that are mutually implicative and convertible.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when two disjunctive propositions are mutually implicative and converse (logically equivalent) based on the pattern of their disjuncts.
+
+Core Idea
+When disjunctions share a common disjunct and differ in the other, they can become logically equivalent.
+
+In the previous lessons, we learned about disjunctive propositions and their types. Now the author introduces a special relation between disjunctions: mutual implication and convertibility. This means that under certain conditions, two disjunctions can be logically equivalent, so that each entails the other. The passage establishes a pattern: when the disjunctions share a common disjunct (either in the first or second position) and the other disjuncts vary, they can be mutually implicative and converse. This is important for understanding how different formulations of a disjunction can be equivalent in logical reasoning.
+
+Guided Path
+1
+Identify the common disjunct
+In the first set of examples, note that the first disjunct is always 'B' across all lines: 'A is either B or C', 'A is either B or D', etc. The second disjunct varies. Identify what remains constant.
+2
+Observe the pattern of the negations
+Each disjunction is paired with its negation in the form 'not at all not every A is either B or C'. This double negation indicates that the statement is being affirmed as true. Note that the negation uses the same disjuncts.
+3
+Understand mutual implication
+The author says these disjunctions are 'mutalazima and muta'akisa' (mutually implicative and converse). That means each statement implies the other. For instance, 'Every A is either B or C' implies 'Every A is either B or D' (under certain conditions), and vice versa. The condition is that the disjunctions differ in their two forms (i.e., the second disjunct differs) but are still mutually implicative.
+4
+Check the second set of examples
+Now the common disjunct is 'C' in the second position. The first disjunct varies: D, H, W, etc. The same pattern of mutual implication holds. This shows the symmetry: whether the common disjunct is first or second, the mutual implication holds.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في بيان ما يكون من المنفصلات متلازمة ومتعاكسةً موجبةً كانت أو سالبة كلية كانت أو جزئيةً
+وذلك لأنها لا يخلو [1] من أن تكون متوافقة في المقدم دون التالي [ب] أو في التالي دون المقدم، [ت] أو لا تكون بل تكون متوافقة في هذا دون ذلك، [ث] أو بالعكس. والمتخالفة في الصورتين إذا كانت متلازمة ومتعاكسة كانت المنفصلات كلها متلازمة ومتعاكسة على هذا المثال :
+دائما كل «أه إما «ب» وإما «ج» ليس البتة ليس كل «أ» إما «ب» وإما «ج» دائما كل «أ» إما (ب) وإما (د) ليس البتة ليس كل «أ» إما «ب» وإما «د» دائما كل «أ» إما «ب» وإما «هه ليس البتة ليس كل «أ» إما «ب» وإما «ه» / دائمًا كل «أ» إما «ب» وإما و ليس البتة ليس كل «أ» إما «ب» وإما «و» [۱۱۸ و] دائما كل «أ» اما «ب» واما «ز» ليس البتة ليس كل «أ» إما «ب» وإما «ز» دائما كل «أ» إما «ب» وإما «ح» ليس البتة ليس كل «أ» إما «ب» وإما «أ»
+وعلى هذا إذا كان الأمر على العكس كما يقال:
+دائما كل «أه إما «ب» وإما «ج» ليس البئة ليس كل «أه إما «ب» وإما «ج» دائما كل «أ» إما «د» وإما «ج» ليس البتة ليس كل «أ» إما «د» وإما «ج»
+دائما كل «أ» إما «ه» وإما «ج» ليس البتة ليس كل «أ» إما «ه» وإما «ج» البتة ليس كل «أ» إما «هه وإما (ج)
+دائما كل «أ» إما «و» وإما «ج» ليس البتة ليس كل «أ» إما «و» وإما «ج» دائما كل «أ» إما «ز» وإما «ج» ليس البتة ليس كل «أ» إما «ز» وإما «ج» دائما كل «أ» إما «ح» وإما «ج» ليس البتة ليس كل «أ» إما «ح» وإما «ج»
+Section: On explaining which of the disjunctions are implicative and converse, whether affirmative or negative, universal or particular.
+And that is because they are not free from being either agreeing in the antecedent without the consequent [B], or in the consequent without the antecedent [T], or not agreeing but agreeing in this without that [Th], or the opposite. And the differing in the two forms, if they are implicative and converse, then all the disjunctions are implicative and converse on this model:
+Always every A is either B or C; not at all not every A is either B or C; always every A is either B or D; not at all not every A is either B or D; always every A is either B or H; not at all not every A is either B or H; always every A is either B or Z; not at all not every A is either B or Z; always every A is either B or H; not at all not every A is either B or A.
+And likewise if the matter is the opposite, as is said:
+Always every A is either B or C; not at all not every A is either B or C; always every A is either D or C; not at all not every A is either D or C;
+always every A is either H or C; not at all not every A is either H or C; always every A is either W or C; not at all not every A is either W or C; always every A is either Z or C; not at all not every A is either Z or C; always every A is either H or C; not at all not every A is either H or C.
+Source pages p. 421
+
+Commentary
+This section opens a new discussion on disjunctions that are mutually implicative (mutalazima) and converse (muta'akisa). The author first categorizes the possible agreements between the antecedent and consequent of a disjunction: they may agree in the antecedent only, in the consequent only, or in neither (or the opposite). When the disjunctions differ in their two forms but are mutually implicative and convertible, all such disjunctions become implicative and converse. The author then provides two sets of examples. In the first set, the common term is B in the first disjunct, while the second disjunct varies (C, D, H, etc.), and each such disjunction is paired with its negation: 'Always every A is either B and C' followed by 'Not at all not every A is either B and C', which is logically equivalent. The pattern repeats for each variant. In the second set, the common term is C in the second disjunct, and the first disjunct varies. The overall idea is that when the disjuncts are related in a certain way (e.g., when the first disjunct is the same across different disjunctions), the disjunctions are all equivalent and convertible. This is a technical discussion about the structure of disjunctive propositions and their interrelations.
+
+Key Terms
+متلازمة
+متعاكسة
+المنفصلات
+
+Key Terms from Source Passage
+
+Checkpoint
+What condition does the author state for disjunctions to be mutually implicative and converse?
+A) The antecedent must be the same in all disjunctions.
+B) The disjunctions must differ in their two forms and be mutually implicative and convertible.
+C) The consequent must be the same in all disjunctions.
+D) The disjunctions must be universal affirmative.
+
+Key Takeaway
+When disjunctive propositions share a common disjunct and their other disjuncts vary systematically, they can be logically equivalent, i.e., mutually implicative and converse.
+
+How This Lesson Applies — to MY Life?
+?
+Given the following pair of disjunctions: (1) 'Every A is either B or C' and (2) 'Every A is either B or D'. If the author says that these are mutually implicative and converse, what must be true about the relationship between C and D? Explain.
+
+Pages p. 421 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 433
+Module 11 · Lesson 53
+Next →
+The Syllogism
+intermediate
+5 min
+Classifying Eternal Disjunctive Propositions
+Author lists the possible combinations of universal and particular terms in disjunctive propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify the possible forms of eternal disjunctive propositions based on the quantifiers of their disjuncts.
+
+Core Idea
+Eternal disjunctives are always true; their forms are determined by the four quantifier types in each disjunct.
+
+Disjunctive propositions (munfaṣilāt) come in many forms. In this passage, the author lists all possible combinations of universal and particular terms that yield an eternal (always true) disjunction. Understanding these forms is the first step to handling disjunctive syllogisms in Islamic logic.
+
+Guided Path
+1
+Identify the four quantifier types
+The passage uses four quantifiers: 'every' (kull), 'some' (baʿḍ), 'none' (lā shay'), and 'not every' (lā kull). Note that 'none' may appear as 'lā shay'' or similar.
+2
+List all binary combinations
+The author lists 12 eternal disjunctives, each with a quantifier for the first disjunct and one for the second. Write down all possible pairs of the four quantifiers (including orders) and see which ones appear.
+Some pairs like 'not every - none' may be omitted due to equivalence.
+3
+Check the structure in Arabic
+Each form begins with 'dā’iman' (eternally) followed by 'immā ... aw' (either ... or). The disjuncts use the variables A, B, C, D as subjects and predicates.
+Example: 'دائما إما أن يكون كل أب أو بعض (جد)' means 'Eternally, either every A is B or some C is D'.
+4
+Memorize the pattern
+Focus on the first four (affirmatives with 'every/some'), then the next four (negatives with 'none/not every'), then the remaining mixed forms. Use a mnemonic to remember the twelve.
+The list may have redundancy due to symmetry; verify with teacher.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في بيان ما يكون من المنفصلات الضرورية والدوام () وحال التلازم فيها من الكليات كلها أو من الجزئيات دائما إما أن يكون كل أب» أو كل (ج) دائما إما أن يكون كل أب أو بعض (جد) دائما إما أن يكون بعض (أب) أو كل (ج) د) جد" دائما إما أن يكون بعض «أب» أو بعض (ج د) دائما إما أن يكون لا شر (آب) أو لا شيء من اج دا دائما إما أن يكون لا كل «أب» أو لا شيء من «ج د» دائما إما أن يكون لا كل أب أو لا كل (ج) دائما إما أن يكون لا كل «أب» أو لا كل «ج د» دائما إما أن يكون ذاته أو لا شيء من اج دائما إما أن يكون بعض أب أو لا شيء من (جد) دائما إما أن يكون كل (أ ب) أو لا كل (ج (د) دائما إما أن يكون بعض أب» أو لا كل جده
+Chapter: On explaining what consists of the necessary and eternal disjunctives and the situation of implication therein from the universals all or from the particulars. Eternally, either A is every B or C is every D. Eternally, either A is every B or C is some D. Eternally, either A is some B or C is every D. Eternally, either A is some B or C is some D. Eternally, either A is no B or C is none from D. Eternally, either A is not every B or C is none from D. Eternally, either A is not every B or C is not every D. Eternally, either A is not every B or C is not every D. Eternally, either it is itself or none from C? Eternally, either A is some B or C is none from D. Eternally, either A is every B or C is not every D. Eternally, either A is some B or C is not every D.
+Source pages p. 433
+
+Commentary
+This passage is a classification chapter (fasl) dealing with disjunctive propositions (munfasilāt) that are necessary (ḍarūriyya) and eternal (dawām) – meaning the disjunction holds at all times. The author lists twelve possible forms of disjunctive propositions using the quantifiers 'every' (kull), 'some' (ba‘ḍ), 'none' (lā shay’), and 'not every' (lā kull). The structure is always 'eternally, either ... or ...'. The list covers combinations of universal and particular terms in both disjuncts, including affirmative and negative versions. The author also notes that the implications among these disjunctives are analogous to those in categorical universals and particulars, but the text is too corrupt to extract the exact rule. The purpose is to provide a complete inventory of disjunctive propositions for use in syllogistic reasoning. Students should memorize these patterns as the building blocks of disjunctive arguments (e.g., in qiyas munfasil).
+
+Key Terms
+منفصلات
+ضرورية
+دوام
+التلازم
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a valid eternal disjunctive according to the text?
+A) Either every A is B or some C is D
+B) Either every A is B or no C is D
+C) Either some A is B or some C is D
+D) Either no A is B or not every C is D
+
+Key Takeaway
+The twelve forms of eternal disjunctives cover all possible quantifier combinations, providing a complete inventory for disjunctive syllogisms.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an eternal disjunctive proposition using the pattern 'Eternally, either every sinner is punished or some wrongdoer is forgiven'. Then identify which of the twelve forms it matches.
+?
+List all twelve forms from memory and check your list against the passage. Note any missing or duplicate forms and discuss why they might be omitted.
+
+Pages p. 433 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 457
+Module 11 · Lesson 54
+Next →
+The Syllogism
+intermediate
+5 min
+The Claim on Actual Affirmative External Propositions
+Author records a view that actual affirmative propositions, if external, do not differ in rules.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the claim that universal and particular actual affirmative propositions do not differ in rules when external, and identify why this claim is controversial.
+
+Core Idea
+Even for actual existence, universal and particular may behave differently in inference.
+
+This lesson examines a historical claim about actual affirmative propositions. Some early scholars held that when these propositions are interpreted externally—referring to real extra-mental existence—the universal and particular forms follow the same logical rules. However, this view is likely contested by the author, highlighting a subtle but important distinction in propositional logic.
+
+Guided Path
+1
+Identify the claim
+Locate the group and their assertion: earlier scholars claimed that for actual affirmative propositions, if they are external (kharijiyya), the universal and particular do not differ in the rules previously mentioned.
+The passage is incomplete, but this core claim is preserved.
+2
+Understand 'actual affirmative'
+Actual affirmative propositions (mujibat fi'liyya) affirm something of a subject at a specific actual time. Example: 'Zayd is standing at noon.' This contrasts with non-actual (e.g., potential) affirmations.
+3
+Understand 'external' interpretation
+External (kharijiyya) means the proposition refers to actual extra-mental existence at a given time. Example: 'Every student is present in the classroom now.' This is opposed to mental (dhihniyya) interpretation, which is about mental concepts.
+The claim only applies to external interpretation.
+4
+Consider the implication
+If universal and particular do not differ in rules, then operations like conversion or syllogistic inference would treat 'Every S is P' and 'Some S is P' identically. This seems implausible because in logic, universal and particular have distinct properties (e.g., conversion rules differ).
+This tension is why the author likely critiques the claim.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد زعم قوم من المتقدمين في الموجبات الفعلية «أنها إذا كانت خارجية فلا تختلف بين الكلية منها والجزئية في الأحكام التي مر ذكرها. فأما إذا كانت
+And a group of earlier scholars claimed regarding actual affirmative propositions that 'if they are external, then the universal and particular among them do not differ in the rules that have been mentioned. As for if they are...
+Source pages p. 457
+
+Commentary
+This brief passage records a claim by some earlier scholars about actual affirmative propositions (الموجبات الفعلية). According to them, if these propositions are interpreted externally (خارجية), meaning they refer to actual existence at a specific time, then the universal and particular forms do not differ in the rules that were previously discussed. The sentence is incomplete, but it suggests a contrast with internal (ذهنية) interpretation. The author likely goes on to critique or qualify this claim. This is a critical refinement because the author is probably questioning the validity of this uniform treatment.
+
+Key Terms
+موجبات فعلية
+خارجية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the group mentioned, what is said about actual affirmative propositions when they are external?
+A) They differ between universal and particular
+B) They do not differ between universal and particular
+C) They are impossible
+D) They are only universal
+
+Key Takeaway
+The claim that universal and particular actual affirmative propositions are rule-identical under external interpretation is an overgeneralization that standard logic rejects.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an example of a universal actual affirmative external proposition from fiqh (e.g., 'Every sale involving uncertainty is forbidden at the time of contract') and its corresponding particular proposition. Then check whether the conversion rules taught earlier (e.g., 'No particular converts to universal') would treat them identically. Explain why the claim would be problematic.
+
+Pages p. 457 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 469
+Module 11 · Lesson 55
+Next →
+The Syllogism
+advanced
+8 min
+The Conversion of Perpetual Negative Universals: Al-Razi's Challenge
+Author discusses conversion of perpetual negative universal, with al-Razi's objection and responses.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct al-Razi's argument against the conversion of the perpetual negative universal and evaluate the objections made against it.
+
+Core Idea
+Perpetual negatives fail to convert when the predicate is non-essential and the subject is real.
+
+In this passage, we encounter a major dispute in post-classical logic: whether the perpetual negative universal proposition converts to itself. The majority holds that it does, but Imam Fakhr al-Din al-Razi presents a powerful counterexample. We will trace his reasoning, the objections raised against him, and the responses that defend his position.
+
+Guided Path
+1
+Recall the standard conversion rule
+For a universal negative (E proposition), standard conversion yields another universal negative. The majority extends this to perpetual negatives.
+The standard rule is that 'No S is P' converts to 'No P is S'.
+2
+Understand al-Razi's distinction
+Al-Razi distinguishes between external (khariji) and real (haqiqi) subjects. For real subjects, where the subject is an essence, conversion may fail.
+This distinction is crucial for understanding his objection.
+3
+Examine al-Razi's example
+Consider the perpetual negative 'No human is a writer at any time'. Al-Razi claims this is false but that its truth is possible. If the conversion rule held, 'No writer is a human at any time' would be true, which is clearly false. Thus the rule fails for real subjects.
+The example hinges on writing being a non-necessary attribute.
+4
+Analyze the first objection to al-Razi
+Some object that if the original were true, it would lead to absurdities. The author shows this objection misses the mark by confusing the truth conditions of the original.
+The objection attempts to prove the original cannot be true, but al-Razi only needs possibility.
+5
+Analyze the second objection and response
+Others attack al-Razi's proof that if writing is not necessary at one time, it is never necessary. The author dismisses this as invalid reasoning, noting that falsity of a proof does not falsify the conclusion.
+The author concludes that al-Razi's position remains intact.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما السالبة الدائمة الكلية فإنها تنعكس كنفسها عند الجمهور كما إذا كانت خارجية، وعند الإمام الكامل الفاضل فخر الدين الرازي لا تنعكس كنفسها إذا كانت حقيقية الموضوع لما أن الكتابة غير ضرورية للإنسان في شيء من الأوقات، وحينئذ يمكن أن يكون سلبها عنه في جميع الأوقات. فلو صدق عكسها كنفسها لصدق لا شيء من الكاتب بإنسان دائما، وذلك محال؛ ولأنها إذا انعكست كنفسها انعكست الموجبة الضرورية مطلقة عامة لتمام البرهان، وليس كذلك لما مر. ثم من الناس من قدح دعواه بناء على ما يدل على انتفاء صدق الأصل دون صدق العكس كما يقال إن الأصل لا يكون صادقًا، فإنه إذا صدق. فإما أن يصدق عليه أو لا يصدق وأيهما لزم يلزم انتفاء المجموع: أما إذا لزم الأول فظاهر، وأما إذا لزم الثاني فكذلك فإنه يصدق نقيضه وهو قولنا بعض الكاتب إنسان بالإطلاق العام. وأنه مع الأصل ينتج قولنا بعض الكاتب ليس بكاتب؛ وهو محال ولأنه إذا صدق فإما أن يثبت الكتابة لشيء من الذوات في شيء من الأوقات؛ وحينئذ يلزم أن تكون الكتابة لغير الإنسان مع أنها لا تكون للإنسان، أو لا يثبت؛ وحينئذ يلزم أن يصدق قولنا لا شيء من الكاتب بإنسان دائما ضرورة عدم الموضوع في جميع الأوقات. غير أنه إذا لم يكن سلب الشيء عن الشيء دائما مع أنه لا يمكن سلب ذلك الآخر عنه فلا يظهر القدح بمثل هذه الدلائل في القدح فيها أظهر من القدح في ذلك يعرف بالتأمل. ومنهم من قدح في دعواه بناء على القدح في الدليل الذي مرَّ ذكره وهو أن الكتابة إذا لم تكن ضرورية الإنسان في وقت ما يلزم أن لا تكون ضرورية له أصلا فإنه يمكن تكون ضروية في وقت من الأوقات بحسب الغير. غير أنه فاسد فإنه لا يلزم من فساد الدليل فساد المدلول على الخصوص إذا كانت الدلائل متعددة.
+As for the perpetual negative universal, it converts to itself according to the majority, as when it is [purely] external. But according to the perfect and virtuous Imam Fakhr al-Din al-Razi, it does not convert to itself if it is [a proposition] with a real subject, because writing is not necessary for the human at any time, and then its negation of him can be at all times. For if its conversion to itself were true, then 'No writer is a human' would be true eternally, and that is impossible. Also because if it converted to itself, then the affirmative necessary would convert to a general absolute, for the completion of the proof, but that is not the case as previously mentioned. Then among people are those who objected to his claim based on evidence that indicates the falsity of the original [proposition] without the falsity of the converse, as it is said that the original is not true. For if it is true, then either it is true or not, and whichever follows, the nullification of the composite follows. If the first follows, it is obvious; if the second follows, likewise, for its contradictory is true, namely 'Some writer is a human' in the general absolute sense. And that, together with the original, yields 'Some writer is not a writer', which is impossible. Also because if it is true, then either writing is affirmed for some essence at some time, in which case writing would belong to a non-human even though it does not belong to the human, or it is not affirmed, in which case the statement 'No writer is a human eternally' would be true due to the necessity of the subject's non-existence at all times. However, if the negation of one thing of another is not perpetual, while it is impossible to negate that other of it, then the objection does not appear with such proofs; the objection in them is more apparent than the objection in that, which is known by reflection. And among them are those who objected to his claim based on objecting to the proof that was mentioned earlier, namely that if writing is not necessary for the human at any time, it follows that it is not necessary for him at all, for it is possible that it becomes necessary at some time in relation to something else. However, this is invalid, for the falsity of the proof does not entail the falsity of the particular conclusion if there are multiple proofs.
+Source pages p. 469
+
+Commentary
+This passage discusses the conversion (aks) rule for the perpetual negative universal proposition (السالبة الدائمة الكلية), which is a proposition that negates something of everything for all times (e.g., 'No human is a stone eternally'). The majority view is that it converts to itself: if the original is true, its converse (with subject and predicate swapped) is also a perpetual negative universal and true. Imam Fakhr al-Din al-Razi dissents, arguing that when the subject is real (haqiqi al-mawdu', i.e., the proposition is about an actual essence, not merely a concept), conversion to itself fails. He gives the example: 'No writer is a human at all times' is false because writing is not a necessary attribute of any human at any moment; in fact, it can be negated of every human at all times. But its converse, 'No human is a writer at all times', is false because some humans are writers at some times. Thus the conversion rule fails. The author then presents two types of objections to al-Razi's claim. The first objection argues that if the original (e.g., 'No writer is a human') were true, it would imply absurdities. But the author counters that this objection confuses the truth conditions of the original. The second objection attacks al-Razi's proof itself, claiming that if writing is not necessary for a human at some time, it does not follow that it is never necessary, but the author dismisses this as invalid reasoning, noting that the falsity of a proof does not necessarily falsify the conclusion when other proofs exist.
+
+Key Terms
+السالبة الدائمة الكلية
+انعكاس
+حقيقية الموضوع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Imam Fakhr al-Din al-Razi, why does the perpetual negative universal 'No J is B' fail to convert to itself?
+A) Because the subject may not exist at all times
+B) Because the predicate may be a necessary attribute of the subject
+C) Because the predicate may be non-necessary and can be absent from all individuals of the subject at all times
+D) Because conversion only works for affirmative propositions
+
+Key Takeaway
+Imam al-Razi's objection shows that the conversion rule for perpetual negatives is not absolute; it depends on whether the predicate is a necessary attribute of the subject.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the perpetual negative 'No human is a prophet eternally'. According to al-Razi's objection, would this proposition convert to itself? Justify your answer using the distinction between real and external subjects.
+?
+Construct a similar counterexample from Islamic jurisprudence where a perpetual negative conversion might fail, and explain why.
+
+Pages p. 469 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 470
+Module 11 · Lesson 56
+Next →
+The Syllogism
+intermediate
+10 min
+Conversion of General Conditional and General Conventional
+Conversion rules for general conditional and conventional propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to state the conversion rule for general conditional and general conventional propositions and verify it with examples from Islamic logic.
+
+Core Idea
+General conditionals and general conventionals convert exactly to themselves.
+
+In this passage, the author clarifies that some proposition types retain their form upon conversion. We focus on the general conditional (al-mashruta al-'amma) and general conventional (al-'urfiya al-'amma), which convert to themselves due to the nature of their conditions. Let's see why.
+
+Guided Path
+1
+Identify the proposition types
+Locate in the Arabic the statements about al-mashruta al-'amma and al-'urfiya al-'amma. Note that they are classified as 'general' because their condition applies universally to the subject's existence or customary usage.
+The terms are defined in key_terms.
+2
+Understand the conversion rule
+The author says they 'convert to themselves,' meaning the converse proposition is identical in form and truth value. For example, 'Every A is B as long as A exists' converts to 'Every B is A as long as B exists'? No, it converts to itself, so the same subject and predicate. Actually 'to itself' means the converse is the same as the original? That would be odd. The text says 'تنعكس كنفسها' meaning it converts like itself, i.e., the converted proposition has the same quality and quantity as the original. For a universal affirmative general conditional, the converse would be a universal affirmative general conditional. The subject and predicate swap, but the condition remains attached to the new subject. So it's not identical in words but in form.
+Be careful: 'converts to itself' means the converse has the same type, not the same subject-predicate order.
+3
+Apply to an Islamic example
+Take the proposition: 'Every intoxicant is forbidden as long as it intoxicates' (al-mashruta al-'amma). Its converse is 'Every forbidden thing is an intoxicant as long as it is forbidden'? That is not necessarily true. So the rule works only if the predicate is also conditional? Actually, the author's point is that the general conditional behaves like an external proposition, where condition is tied to subject's essence. The conversion preserves the condition on the new subject. For example, if we have 'Every human is rational as long as he exists', the converse 'Every rational is human as long as it exists' is also true. So it works.
+This shows the importance of essential vs. accidental predicates.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وبالجملة فالكلام في انعكاس هذه القضية كلام مشوّش غير مضبوط. ولو كان كذلك لكان تحرير المبحث من اللوازم بأن الموضوع إذا كانت السالبة حقيقية الموضوع ما هو، وكيف هو ؟ وكذلك المحمول وهو الكاتب، فإن الكاتب بحسب اللغة وهو شيء به الكتابة لا يلزم أن يكون إنسانًا كما أن الإنسان من حيث هو الإنسان لا يلزم أن يكون كاتبًا. [٣] وأما المشروطة العامة فإنها تنعكس كنفسها كما إذا كانت خارجية لما مر، [٤] وكذلك العرفية العامة. [٥] وأما المشروطة الخاصة، [٦] والعرفية الخاصة فإنهما تنعكسان إلى عامتهما عند الجمهور في جميع الأحوال. وعند قوم أنهما تنعكسان دائما في البعض لا دائمًا في البعض كما مرَّ؛ وهذا هو الأصح لما مر من قبل. [۷] وأما البواقي فإنها إذا كانت من الفعليات نحو الوقتيتين والوجوديتين والمطلقة العامة وغير ذلك لا تنعكس أصلا عند الجمهور منهم لامتناع العكس في الأخص منها، وهي الوقتية كما مرَّ. وعند قوم من المتقدمين أنها تنعكس سالبة جزئية دائمة لما أن المطلقة العامة أعم من الكل. وأنها تنعكس سالبة جزئية دائمة؛ وذلك لأنه إذا صدق قولنا لا شيء من ج) ب) بالإطلاق العام يصدق قولنا ليس بعض ب ج دائما لاستلزام صدق الأصل صدق مجموع هاتين القضيتين أعني قولنا كل ما هو «ب» دائمًا فهو «ب» بالإطلاق العام، وقولنا لا شيء من (ب) دائمًا «بج» دائمًا؛ إما / صدق الأولى فظاهر، وإما صدق الثانية، فلأنها إذا لم يصدق صدق نقيضه وإنه مع الأصل ينتج قولنا بعض «ب» دائمًا «ج» بالإطلاق العام؛ وهو محال. ويلزم من صدقها بين المقدمتين صدق المدعى لإنتاجهما إياه من الشكل الثالث. ثم إنه لا يتم إلا وأن تكون الوقتية منعكسة وإنها لا تكون منعكسة إلا وأن
+In summary, the discussion on the conversion of this proposition is confused and uncontrolled. If it were otherwise, the investigation would need to treat the subject when the negative [proposition] has a real subject—what it is and how it is—and similarly the predicate, namely 'writer'. For a writer, linguistically, is a thing by which writing is [done]; it does not necessarily have to be a human, just as a human, as a human, does not necessarily have to be a writer. [3] As for the general conditional (mashruta 'amma), it converts to itself, as when it is [purely] external, as previously mentioned. [4] And similarly the general conventional ('urfiya 'amma). [5] As for the special conditional, [6] and the special conventional, they both convert to their general [form] according to the majority in all cases. And according to some, they always convert in some cases but not always in others, as previously mentioned; and this is the sounder view, as stated before. [7] As for the remaining [propositions], if they are among the actual (fi'liyya) ones, like the two temporals (waqtiyyatayn), the two existentials (wujudiyyatayn), and the general absolute (mutlaqa 'amma), and others, they do not convert at all according to the majority, because conversion is impossible for the more specific among them, namely the temporal, as previously mentioned. And according to some of the earlier scholars, they convert to a perpetual negative particular, because the general absolute is more universal than all. And they convert to a perpetual negative particular; this is because if the statement 'Nothing of B is J' is true in the general absolute sense, then 'Some B is not J eternally' is true, because the truth of the original necessitates the truth of the conjunction of these two propositions, namely the statement 'Everything that is B eternally is B' in the general absolute sense, and the statement 'Nothing of B eternally is J eternally'. As for the truth of the first, it is obvious; as for the truth of the second, because if it were not true, its contradictory would be true, and it together with the original would yield 'Some B is eternally J' in the general absolute sense, which is impossible. And the truth of that [conjunction] between the two premises entails the truth of the claim, because they produce it from the third figure. Then it is only complete if the temporal is convertible, but it is not convertible unless...
+Source pages p. 470
+
+Commentary
+This passage first acknowledges confusion in the conversion discussion of the perpetual negative universal (from the previous lesson), then clarifies the need to analyze subject and predicate properly. The key example: 'writer' (الكاتب) does not necessarily imply 'human' in language, and vice versa. Then the author enumerates conversion rules for various proposition types following a classification. (3) The general conditional (مشروطة عامة) — a proposition conditional on the subject's existence with a general condition — converts to itself, like an external proposition. (4) The general conventional (عرفية عامة) — a proposition conditioned by conventional usage — also converts to itself. (5-6) The special conditional and special conventional convert to their general forms (i.e., to general conditionals/conventionals) according to the majority; some hold they always convert in some cases but not always, and the author deems one view sounder. (7) The remaining propositions that are 'actual' (فعليات), such as temporal propositions (e.g., 'Every person is writing at some time') and existential propositions (e.g., 'Every writer is a human when existing') and the general absolute (mutlaqa 'amma, e.g., 'No J is B' without any temporal condition) do not convert at all according to the majority, because the temporal (الوقتية) is the most specific and its conversion is impossible. However, some earlier scholars held that they do convert to a perpetual negative particular (سالبة جزئية دائمة, e.g., 'Some B is not J eternally'). The author gives a logical reasoning: if the general absolute negative universal is true ('No B is J'), then two propositions are entailed: (i) 'Everything that is B eternally is B' (a tautology) and (ii) 'Nothing of B eternally is J eternally' (a stronger claim). If (ii) were false, its contradictory would be true, leading to an absurd result. From (i) and (ii) in the third figure of syllogism, the desired converse (a perpetual negative particular) follows. However, the author notes that this reasoning only works if the temporal proposition itself is convertible, which is not the case; hence the argument is incomplete.
+
+Key Terms
+المشروطة العامة
+العرفية العامة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the conversion rule for the general conditional (al-mashruta al-'amma)?
+A) It converts to a special conditional
+B) It converts to itself
+C) It does not convert at all
+D) It converts to a general absolute
+
+Key Takeaway
+General conditional and general conventional propositions convert to themselves, preserving their type and truth conditions.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition: 'Every prayer is valid as long as its conditions are met' (general conditional). Write its converse and check if the converted proposition is also true. Explain why or why not.
+?
+Identify whether the proposition 'Every Muslim is obligated to pray five times a day according to the Sharia' is a general conventional ('urfiya 'amma) or a different type. State its conversion rule.
+
+Pages p. 470 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 470
+Module 11 · Lesson 57
+Next →
+The Syllogism
+intermediate
+10 min
+Conversion of Special Conditional and Special Conventional
+Conversion rules for special conditional and conventional propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to convert special conditional and special conventional propositions to their general forms and differentiate between the majority and minority views.
+
+Core Idea
+Special conditionals and conventionals convert to their general forms, but not always.
+
+The author now turns to the 'special' versions of conditional and conventional propositions. Unlike the general types, these do not convert to themselves but to a more general form. There is disagreement on whether this conversion always holds. Let's explore the rules and the preferred view.
+
+Guided Path
+1
+Define the special types
+A special conditional (mashruta khassa) is a proposition where the condition applies only to some instances of the subject, e.g., 'Every human is breathing at some time'. The special conventional ('urfiya khassa) is similar but based on customary usage.
+These are more specific than the general ones.
+2
+State the majority rule
+The majority (jumhur) hold that both special types convert to their general forms in all cases. For example, a special conditional 'Every A is B at some time' converts to a general conditional 'Every B is A at some time? No, it converts to the general form meaning the converse becomes a general conditional: 'Every B is A as long as B exists'. Actually, the text says 'تنعكسان إلى عامتهما' meaning they convert to their general [counterparts].
+So the converse is a general proposition of the same kind.
+3
+Examine the minority view
+Some scholars argue that the conversion is not always valid; it holds only in some cases. The author sides with this view, calling it 'the sounder' (al-asahh). The reason is that the special condition may not hold after conversion.
+This reflects caution in logical inference.
+4
+Apply to an Islamic example
+Consider the proposition from Fiqh: 'Every traveler may shorten prayers when traveling' (special conditional: condition is traveling). Its converse would be 'Every person who may shorten prayers is traveling (as long as they shorten prayers)'. Is this always true? No, because a resident may also shorten prayers in some cases (e.g., illness). So conversion is not universal, supporting the minority view.
+This shows practical relevance.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وبالجملة فالكلام في انعكاس هذه القضية كلام مشوّش غير مضبوط. ولو كان كذلك لكان تحرير المبحث من اللوازم بأن الموضوع إذا كانت السالبة حقيقية الموضوع ما هو، وكيف هو ؟ وكذلك المحمول وهو الكاتب، فإن الكاتب بحسب اللغة وهو شيء به الكتابة لا يلزم أن يكون إنسانًا كما أن الإنسان من حيث هو الإنسان لا يلزم أن يكون كاتبًا. [٣] وأما المشروطة العامة فإنها تنعكس كنفسها كما إذا كانت خارجية لما مر، [٤] وكذلك العرفية العامة. [٥] وأما المشروطة الخاصة، [٦] والعرفية الخاصة فإنهما تنعكسان إلى عامتهما عند الجمهور في جميع الأحوال. وعند قوم أنهما تنعكسان دائما في البعض لا دائمًا في البعض كما مرَّ؛ وهذا هو الأصح لما مر من قبل. [۷] وأما البواقي فإنها إذا كانت من الفعليات نحو الوقتيتين والوجوديتين والمطلقة العامة وغير ذلك لا تنعكس أصلا عند الجمهور منهم لامتناع العكس في الأخص منها، وهي الوقتية كما مرَّ. وعند قوم من المتقدمين أنها تنعكس سالبة جزئية دائمة لما أن المطلقة العامة أعم من الكل. وأنها تنعكس سالبة جزئية دائمة؛ وذلك لأنه إذا صدق قولنا لا شيء من ج) ب) بالإطلاق العام يصدق قولنا ليس بعض ب ج دائما لاستلزام صدق الأصل صدق مجموع هاتين القضيتين أعني قولنا كل ما هو «ب» دائمًا فهو «ب» بالإطلاق العام، وقولنا لا شيء من (ب) دائمًا «بج» دائمًا؛ إما / صدق الأولى فظاهر، وإما صدق الثانية، فلأنها إذا لم يصدق صدق نقيضه وإنه مع الأصل ينتج قولنا بعض «ب» دائمًا «ج» بالإطلاق العام؛ وهو محال. ويلزم من صدقها بين المقدمتين صدق المدعى لإنتاجهما إياه من الشكل الثالث. ثم إنه لا يتم إلا وأن تكون الوقتية منعكسة وإنها لا تكون منعكسة إلا وأن
+In summary, the discussion on the conversion of this proposition is confused and uncontrolled. If it were otherwise, the investigation would need to treat the subject when the negative [proposition] has a real subject—what it is and how it is—and similarly the predicate, namely 'writer'. For a writer, linguistically, is a thing by which writing is [done]; it does not necessarily have to be a human, just as a human, as a human, does not necessarily have to be a writer. [3] As for the general conditional (mashruta 'amma), it converts to itself, as when it is [purely] external, as previously mentioned. [4] And similarly the general conventional ('urfiya 'amma). [5] As for the special conditional, [6] and the special conventional, they both convert to their general [form] according to the majority in all cases. And according to some, they always convert in some cases but not always in others, as previously mentioned; and this is the sounder view, as stated before. [7] As for the remaining [propositions], if they are among the actual (fi'liyya) ones, like the two temporals (waqtiyyatayn), the two existentials (wujudiyyatayn), and the general absolute (mutlaqa 'amma), and others, they do not convert at all according to the majority, because conversion is impossible for the more specific among them, namely the temporal, as previously mentioned. And according to some of the earlier scholars, they convert to a perpetual negative particular, because the general absolute is more universal than all. And they convert to a perpetual negative particular; this is because if the statement 'Nothing of B is J' is true in the general absolute sense, then 'Some B is not J eternally' is true, because the truth of the original necessitates the truth of the conjunction of these two propositions, namely the statement 'Everything that is B eternally is B' in the general absolute sense, and the statement 'Nothing of B eternally is J eternally'. As for the truth of the first, it is obvious; as for the truth of the second, because if it were not true, its contradictory would be true, and it together with the original would yield 'Some B is eternally J' in the general absolute sense, which is impossible. And the truth of that [conjunction] between the two premises entails the truth of the claim, because they produce it from the third figure. Then it is only complete if the temporal is convertible, but it is not convertible unless...
+Source pages p. 470
+
+Commentary
+This passage first acknowledges confusion in the conversion discussion of the perpetual negative universal (from the previous lesson), then clarifies the need to analyze subject and predicate properly. The key example: 'writer' (الكاتب) does not necessarily imply 'human' in language, and vice versa. Then the author enumerates conversion rules for various proposition types following a classification. (3) The general conditional (مشروطة عامة) — a proposition conditional on the subject's existence with a general condition — converts to itself, like an external proposition. (4) The general conventional (عرفية عامة) — a proposition conditioned by conventional usage — also converts to itself. (5-6) The special conditional and special conventional convert to their general forms (i.e., to general conditionals/conventionals) according to the majority; some hold they always convert in some cases but not always, and the author deems one view sounder. (7) The remaining propositions that are 'actual' (فعليات), such as temporal propositions (e.g., 'Every person is writing at some time') and existential propositions (e.g., 'Every writer is a human when existing') and the general absolute (mutlaqa 'amma, e.g., 'No J is B' without any temporal condition) do not convert at all according to the majority, because the temporal (الوقتية) is the most specific and its conversion is impossible. However, some earlier scholars held that they do convert to a perpetual negative particular (سالبة جزئية دائمة, e.g., 'Some B is not J eternally'). The author gives a logical reasoning: if the general absolute negative universal is true ('No B is J'), then two propositions are entailed: (i) 'Everything that is B eternally is B' (a tautology) and (ii) 'Nothing of B eternally is J eternally' (a stronger claim). If (ii) were false, its contradictory would be true, leading to an absurd result. From (i) and (ii) in the third figure of syllogism, the desired converse (a perpetual negative particular) follows. However, the author notes that this reasoning only works if the temporal proposition itself is convertible, which is not the case; hence the argument is incomplete.
+
+Key Terms
+المشروطة الخاصة
+العرفية الخاصة
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the view of the majority (al-jumhur) regarding the conversion of special conditional and special conventional propositions?
+A) They convert to themselves
+B) They convert to their general form in all cases
+C) They do not convert at all
+D) They convert to a perpetual negative particular
+
+Key Takeaway
+Special conditionals and conventionals convert to their general forms, but the conversion is not always sound according to the preferred view.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition from Usul al-Fiqh: 'Every contract is valid if its elements are complete' (special conditional). Convert it to its general form and then test whether the converse is always true by finding a counterexample.
+?
+Evaluate the two views on conversion of special propositions using the example: 'Every student studies at some time'. Which view does the example support?
+
+Pages p. 470 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 470
+Module 11 · Lesson 58
+Next →
+The Syllogism
+advanced
+15 min
+Conversion of Actual Propositions and the Minority Argument
+Conversion of actual propositions and the minority argument for perpetual negative particular converse.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why actual propositions (temporal, existential, general absolute) do not convert according to the majority, and reconstruct the minority argument that they convert to perpetual negative particulars.
+
+Core Idea
+Actual propositions cannot convert because the most specific type (temporal) resists conversion.
+
+The final category in this passage deals with 'actual' propositions (al-fi'liyyat), which include temporal, existential, and general absolute types. The majority holds they do not convert at all. However, some early scholars advanced a sophisticated argument that they convert to perpetual negative particulars. We'll examine both positions and identify the flaw in the minority argument.
+
+Guided Path
+1
+Identify the actual propositions
+From the text: 'البواقي إذا كانت من الفعليات نحو الوقتيتين والوجوديتين والمطلقة العامة'. These are temporal (waqtiyya), existential (wujudiyya), and general absolute (mutlaqa 'amma). They share being 'actual' in that they refer to actual existence or time.
+They are contrasted with conditional and conventional types.
+2
+State the majority view
+The majority (al-jumhur) say these do not convert at all. Reason: the most specific among them, the temporal proposition, cannot convert; therefore the others also cannot. For example, 'Every person is eating at noon' cannot convert to 'Every eating thing is a person at noon' because the predicate (eating) may occur at other times.
+The impossibility of converting the temporal case blocks all.
+3
+Understand the minority claim
+Some earlier scholars claim that these propositions convert to a perpetual negative particular (saliba juz'iyya da'ima). For instance, if 'No J is B' is true in the general absolute sense, then 'Some B is not J eternally' is true.
+This is a strong claim because it gives a perpetual converse.
+4
+Follow the reasoning
+The argument: Assume 'No B is J' (general absolute) is true. Then two premises are entailed: (1) 'Everything that is B eternally is B' (a tautology) and (2) 'Nothing of B eternally is J eternally'. If (2) were false, its contradictory 'Some B eternally is J eternally' would be true, which together with the original would entail a contradiction. So (2) must be true. Then from (1) and (2) in the third figure, we get 'Some B is not J eternally'. Therefore the converse holds.
+The third figure: middle term is subject in both premises. Here middle term 'B eternally' appears in both.
+5
+Identify the hidden assumption
+The author notes that this reasoning only works if the temporal proposition itself is convertible, because the argument uses 'B eternally' which is like a temporal proposition. But the temporal does not convert, so the argument fails.
+Thus the majority view stands.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وبالجملة فالكلام في انعكاس هذه القضية كلام مشوّش غير مضبوط. ولو كان كذلك لكان تحرير المبحث من اللوازم بأن الموضوع إذا كانت السالبة حقيقية الموضوع ما هو، وكيف هو ؟ وكذلك المحمول وهو الكاتب، فإن الكاتب بحسب اللغة وهو شيء به الكتابة لا يلزم أن يكون إنسانًا كما أن الإنسان من حيث هو الإنسان لا يلزم أن يكون كاتبًا. [٣] وأما المشروطة العامة فإنها تنعكس كنفسها كما إذا كانت خارجية لما مر، [٤] وكذلك العرفية العامة. [٥] وأما المشروطة الخاصة، [٦] والعرفية الخاصة فإنهما تنعكسان إلى عامتهما عند الجمهور في جميع الأحوال. وعند قوم أنهما تنعكسان دائما في البعض لا دائمًا في البعض كما مرَّ؛ وهذا هو الأصح لما مر من قبل. [۷] وأما البواقي فإنها إذا كانت من الفعليات نحو الوقتيتين والوجوديتين والمطلقة العامة وغير ذلك لا تنعكس أصلا عند الجمهور منهم لامتناع العكس في الأخص منها، وهي الوقتية كما مرَّ. وعند قوم من المتقدمين أنها تنعكس سالبة جزئية دائمة لما أن المطلقة العامة أعم من الكل. وأنها تنعكس سالبة جزئية دائمة؛ وذلك لأنه إذا صدق قولنا لا شيء من ج) ب) بالإطلاق العام يصدق قولنا ليس بعض ب ج دائما لاستلزام صدق الأصل صدق مجموع هاتين القضيتين أعني قولنا كل ما هو «ب» دائمًا فهو «ب» بالإطلاق العام، وقولنا لا شيء من (ب) دائمًا «بج» دائمًا؛ إما / صدق الأولى فظاهر، وإما صدق الثانية، فلأنها إذا لم يصدق صدق نقيضه وإنه مع الأصل ينتج قولنا بعض «ب» دائمًا «ج» بالإطلاق العام؛ وهو محال. ويلزم من صدقها بين المقدمتين صدق المدعى لإنتاجهما إياه من الشكل الثالث. ثم إنه لا يتم إلا وأن تكون الوقتية منعكسة وإنها لا تكون منعكسة إلا وأن
+In summary, the discussion on the conversion of this proposition is confused and uncontrolled. If it were otherwise, the investigation would need to treat the subject when the negative [proposition] has a real subject—what it is and how it is—and similarly the predicate, namely 'writer'. For a writer, linguistically, is a thing by which writing is [done]; it does not necessarily have to be a human, just as a human, as a human, does not necessarily have to be a writer. [3] As for the general conditional (mashruta 'amma), it converts to itself, as when it is [purely] external, as previously mentioned. [4] And similarly the general conventional ('urfiya 'amma). [5] As for the special conditional, [6] and the special conventional, they both convert to their general [form] according to the majority in all cases. And according to some, they always convert in some cases but not always in others, as previously mentioned; and this is the sounder view, as stated before. [7] As for the remaining [propositions], if they are among the actual (fi'liyya) ones, like the two temporals (waqtiyyatayn), the two existentials (wujudiyyatayn), and the general absolute (mutlaqa 'amma), and others, they do not convert at all according to the majority, because conversion is impossible for the more specific among them, namely the temporal, as previously mentioned. And according to some of the earlier scholars, they convert to a perpetual negative particular, because the general absolute is more universal than all. And they convert to a perpetual negative particular; this is because if the statement 'Nothing of B is J' is true in the general absolute sense, then 'Some B is not J eternally' is true, because the truth of the original necessitates the truth of the conjunction of these two propositions, namely the statement 'Everything that is B eternally is B' in the general absolute sense, and the statement 'Nothing of B eternally is J eternally'. As for the truth of the first, it is obvious; as for the truth of the second, because if it were not true, its contradictory would be true, and it together with the original would yield 'Some B is eternally J' in the general absolute sense, which is impossible. And the truth of that [conjunction] between the two premises entails the truth of the claim, because they produce it from the third figure. Then it is only complete if the temporal is convertible, but it is not convertible unless...
+Source pages p. 470
+
+Commentary
+This passage first acknowledges confusion in the conversion discussion of the perpetual negative universal (from the previous lesson), then clarifies the need to analyze subject and predicate properly. The key example: 'writer' (الكاتب) does not necessarily imply 'human' in language, and vice versa. Then the author enumerates conversion rules for various proposition types following a classification. (3) The general conditional (مشروطة عامة) — a proposition conditional on the subject's existence with a general condition — converts to itself, like an external proposition. (4) The general conventional (عرفية عامة) — a proposition conditioned by conventional usage — also converts to itself. (5-6) The special conditional and special conventional convert to their general forms (i.e., to general conditionals/conventionals) according to the majority; some hold they always convert in some cases but not always, and the author deems one view sounder. (7) The remaining propositions that are 'actual' (فعليات), such as temporal propositions (e.g., 'Every person is writing at some time') and existential propositions (e.g., 'Every writer is a human when existing') and the general absolute (mutlaqa 'amma, e.g., 'No J is B' without any temporal condition) do not convert at all according to the majority, because the temporal (الوقتية) is the most specific and its conversion is impossible. However, some earlier scholars held that they do convert to a perpetual negative particular (سالبة جزئية دائمة, e.g., 'Some B is not J eternally'). The author gives a logical reasoning: if the general absolute negative universal is true ('No B is J'), then two propositions are entailed: (i) 'Everything that is B eternally is B' (a tautology) and (ii) 'Nothing of B eternally is J eternally' (a stronger claim). If (ii) were false, its contradictory would be true, leading to an absurd result. From (i) and (ii) in the third figure of syllogism, the desired converse (a perpetual negative particular) follows. However, the author notes that this reasoning only works if the temporal proposition itself is convertible, which is not the case; hence the argument is incomplete.
+
+Key Terms
+الوقتية
+الوجودية
+المطلقة العامة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the majority of logicians, what is the conversion rule for actual propositions (al-fi'liyyat) such as temporal and existential propositions?
+A) They convert to perpetual negative particulars
+B) They convert to themselves
+C) They do not convert at all
+D) They convert to their general forms
+
+Key Takeaway
+Actual propositions (temporal, existential, general absolute) do not convert according to the majority, and the minority argument for conversion to perpetual negative particular is flawed because it depends on the convertibility of temporal propositions.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition from Kalam: 'No created thing is eternal' (general absolute negative universal). According to the majority, does it convert? If not, why? According to the minority, what would be its converse?
+?
+Reconstruct the minority argument in your own words, using the variables B and J from the text. Then check what happens if you try to apply it to a temporal proposition like 'No person is writing at noon'.
+
+Pages p. 470 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 470
+Module 11 · Lesson 59
+Next →
+The Syllogism
+advanced
+10 min
+Proof of Conversion for the Absolute General Proposition
+Author proves conversion of absolute general proposition via third figure.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the proof that the absolute general proposition (al-mutlaqa al-‘amma) converts to a perpetual particular negative using a third-figure categorical syllogism.
+
+Core Idea
+The absolute general universal negative converts to a perpetual particular negative, proven via the third figure.
+
+In this passage, the author provides a logical demonstration that the absolute general universal negative proposition does not convert to a universal, but rather to a particular negative with perpetual modality. This proof is a sophisticated application of syllogistic reasoning in the third figure, along with a reductio ad absurdum. Understanding this conversion is essential for handling propositions in Islamic logic, especially when dealing with temporal and modal modifiers.
+
+Guided Path
+1
+Identify the initial claim
+The original proposition is 'No J is B with absolute generality'. The claimed converse is 'Some B is not J perpetually'. Note that the converse is particular and perpetual, not universal.
+2
+Extract the two auxiliary premises
+The author asserts that the truth of the original entails two premises: (1) 'Everything that is B perpetually is B with absolute generality' (a tautology), and (2) 'Nothing of B perpetually is (B and J) perpetually'. These are the building blocks of the proof.
+3
+Understand the reductio for the second premise
+If premise (2) were false, its contradictory 'Some B perpetually is (B and J) perpetually' would be true. This, combined with the original 'No J is B', would produce a contradiction (some B is J, conflicting with no J is B). Therefore premise (2) must be true.
+This is a proof by contradiction: assuming the negation leads to an impossibility.
+4
+Recognize the third figure structure
+The two premises share a common subject 'B perpetually' (the middle term). They are of the form: All M is P, No M is Q. This is a third-figure syllogism, where the middle term is subject of both premises.
+In the third figure, the conclusion relates the predicates P and Q.
+5
+Verify the conclusion
+From the premises in the third figure, one can derive that some P is not Q. Here P is 'B with absolute generality' and Q is '(B and J) perpetually'. The desired conclusion 'Some B is not J perpetually' follows after simplification: if some B is not both B and J, then it is not J. The author states this is valid.
+The proof is compressed; the logical steps are accepted by the tradition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأنها تنعكس سالبة جزئية دائمة؛ وذلك لأنه إذا صدق قولنا لا شيء من ج ب بالإطلاق العام يصدق قولنا ليس بعض ب ج دائما لاستلزام صدق الأصل صدق مجموع هاتين القضيتين أعني قولنا كل ما هو «ب» دائمًا فهو «ب» بالإطلاق العام، وقولنا لا شيء من ب دائمًا بج دائمًا؛ إما صدق الأولى فظاهر، وإما صدق الثانية، فلأنها إذا لم يصدق صدق نقيضه وإنه مع الأصل ينتج قولنا بعض «ب» دائمًا «ج» بالإطلاق العام؛ وهو محال. ويلزم من صدقها بين المقدمتين صدق المدعى لإنتاجهما إياه من الشكل الثالث. ثم إنه لا يتم إلا وأن تكون الوقتية منعكسة وإنها لا تكون منعكسة إلا وأن يمكن وجود المنخسف من غير أن يكون قمرًا في الحقيقة؛ وذلك في حيز المنع؛ إذ المنخسف عبارة عن قمر هو كذا فإن قيل: المنخسف عبارة عن شيء له الانخساف، وهذا الشيء لا يلزم أن يكون قمرًا إلا في الخارج، فنقول: هب أنه كذلك لكن لا يلزم منه صدق الانعكاس إلا وأن يتبين ببيان صادق أن المنخسف من حيث هو المنخسف لا يلزم أن يكون قمرًا. وعلى هذا في المنتشرة فإن المتنفس عند الجمهور عبارة عن حيوان له التنفس؛ وذلك إما إنسان وإما غير إنسان، هذا إذا كانت من الفعليات.
+And that it converts to a perpetual particular negative; because if our statement 'Nothing of J is B with absolute generality' is true, then our statement 'Some B is not J perpetually' is true, because the truth of the original necessitates the truth of the sum of these two propositions, namely: our statement 'Everything that is B perpetually is B with absolute generality', and our statement 'Nothing of B is perpetually B and J perpetually'. As for the truth of the first, it is obvious. As for the truth of the second, it is because if it is not true, its contradictory is true, and it together with the original yields our statement 'Some B is perpetually J with absolute generality', which is impossible. And from the truth of these two premises follows the truth of the claim because they produce it by the third figure. Then this is only complete if the temporal proposition is convertible, and it is only convertible if it is possible for an eclipse to exist without actually being a moon; that is subject to denial, since 'eclipse' is a moon that is such-and-such. If it is said: 'Eclipse' is a thing that has eclipse, and this thing is not necessarily a moon except externally, we say: grant that it is so, but the truth of the conversion does not follow unless it is shown by a true demonstration that the eclipse qua eclipse is not necessarily a moon. And similarly for the dispersed, for 'breathing' according to the majority is an animal that has respiration; that is either human or non-human. This applies to actuals.
+Source pages p. 470
+
+Commentary
+This passage provides a detailed proof that the absolute general proposition (al-mutlaqa al-‘amma) converts to a perpetual particular negative (saliba juz’iyya da’ima). The author uses a logical argument structured as a deduction in the third figure of the categorical syllogism. The proof begins by assuming the truth of the original proposition: 'Nothing of J is B with absolute generality' (i.e., no J is B at any time). From this, the claim is that 'Some B is not J perpetually'. To establish this, the author demonstrates that the original entails two premises: (1) 'Everything that is B perpetually is B with absolute generality' (a tautology), and (2) 'Nothing of B is perpetually B and J perpetually' (derived via a reduction ad absurdum). The truth of (2) is shown because if it were false, its contradictory (some B is perpetually B and J perpetually) together with the original would produce a contradiction. These two premises together, in the third figure, yield the desired conclusion. The author then addresses a challenge: the conversion of temporal propositions requires that an eclipse could exist without being a moon, which is denied. He argues that even if an eclipse is defined as a thing with eclipse, it does not automatically make the conversion true; a demonstration is needed to show that the eclipse qua eclipse does not necessarily imply being a moon. The example of breathing (al-mutanafis) is analogous: breathing is an animal that breathes, which may be human or non-human. This reasoning applies to actual (fi‘liyya) propositions.
+
+Key Terms
+المطلقة العامة
+سالبة جزئية دائمة
+الشكل الثالث
+
+Key Terms from Source Passage
+
+Checkpoint
+In the proof for the conversion of the absolute general proposition, which figure of the syllogism is used?
+A) First figure
+B) Second figure
+C) Third figure
+D) Fourth figure
+
+Key Takeaway
+The absolute general universal negative proposition converts to a perpetual particular negative, and this is proven by a third-figure syllogism with a reductio step.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a third-figure syllogism that proves the conversion of the absolute general proposition 'No human is immortal' (i.e., 'No human is immortal with absolute generality') to its perpetual particular negative. Show the two auxiliary premises and the conclusion.
+?
+Identify in the given passage the point where the author uses reductio ad absurdum to establish the second premise. Explain why the contradictory would be impossible.
+
+Pages p. 470 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 471
+Module 11 · Lesson 60
+Next →
+The Syllogism
+advanced
+8 min
+Conversion Proof for General Possible and the Necessity Objection
+Proof for general possible conversion and objection on necessity
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the syllogistic proof for the conversion of a general possible proposition to a perpetual particular negative, and identify the grounds of the objection that the result should be a necessary particular negative.
+
+Core Idea
+The general possible converts to a perpetual particular negative, but does it yield a necessary negative?
+
+Having learned the conversion rules for absolute and necessary propositions, we now turn to possible propositions. The author presents a proof for the conversion of the general possible proposition, and then entertains an objection that challenges whether the result is merely a perpetual negative or must be a necessary negative. This objection is cut off, but understanding the proof structure is essential for evaluating the strength of the author's position.
+
+Guided Path
+1
+Identify the target proposition and its conversion claim
+The target is the general possible proposition 'Nothing of J is B with general possibility' (لا شيء من ج ب بالإمكان العام). The claim is that it converts to a perpetual particular negative (سالب جزئي دائم). Extract the original and the alleged converse.
+Perpetual means 'always' (دائم), a modal-temporal qualifier.
+2
+Extract the two premises used in the proof
+The author says that if the original is true, then two propositions are true: (1) 'Everything that is B necessarily is B with general possibility' (كل ما هو ب بالضرورة فهو ب بالإمكان العام), and (2) 'Nothing of B is necessarily B and J perpetually' (لا شيء من ب بالضرورة ب ج دائما). Locate these in the Arabic.
+Premises (1) and (2) are derived from the original plus earlier principles.
+3
+Reconstruct the third figure syllogism
+Combine the two premises in the third figure. The middle term is B. Premise (1) is affirmative (A is B), premise (2) is negative (no B is J). The conclusion is a particular negative (some J is not B? Actually it is 'Nothing of J is B' but the author claims 'perpetual particular negative'). Check the mood and validity.
+The third figure with premises A (universal affirmative) and E (universal negative) gives a particular negative conclusion (Felapton). But here the conclusion is 'لا شيء من ج ب دائم' which is universal? Wait: the text says 'تنعكس إلى سالبة جزئية دائمة' which is 'converts to a perpetual particular negative'. So the converse is 'Some B is not J perpetually'? Actually careful: The standard conversion of 'No J is B' to 'Some B is not J' is a particular negative. So the claim is that the converse is a particular negative with perpetual modality.
+4
+Understand the principle of generality
+The author argues that proving conversion for the general possible suffices because it is more general than the absolute general, and the necessary of the more general is necessary for the more specific (لازم الأعم لازم الأخص). This is used to avoid separate proof for absolute general.
+General possible is broader in scope; its conversion covers the absolute general case.
+5
+Analyze the objection about necessity
+The objector says: if these negatives convert to a particular negative, then they convert to a necessary particular negative, using the same proof. The passage ends here. Consider why the objector might think the result must be necessary, and what the author's response might be.
+The objection likely targets the modality: the premises involve necessity (بالضرورة), so the conclusion might be necessary, not merely perpetual.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما إذا كانت الممكنات فكذلك؛ إذ الممكنة العامة أعم من الكل وإنها تنعكس إلى سالبة جزئية دائمة أيضًا؛ وذلك لأنه إذا صدق لا شيء من «ج ب» بالإمكان العام صدق مجموع قضيتين: أحدهما كل ما هو «ب» بالضرورة فهو (ب) بالإمكان العام، والثانية لا شيء من (ب) بالضرورة ب ج دائما لما مر من قبل. ويلزم من لزوم هاتين المقدمتين صدق المدعى من الثالث. وأما أنه يلزم من انعكاس المطلقة العامة والممكنة العامة انعكاس ما هو الأخص منهما فذلك هذا البرهان أيضًا وبما مرَّ من قبل، وهو أن لازم الأعم لازم الأخص. وأما المراتب في كون البعض منها أخص من البعض فقد مر ، ولو اقتصروا على بيان انعكاس الممكنة العامة فقد حصل لهم المرام من أن تعرضوا لبيان انعكاس المطلقة العامة لما أن الممكنة العامة أعم من الكل. والبحث الذي مرَّ ذكره في الفعليات فذلك لا يكون مختصا بها، فإنه يصدق أن يقال لا شيء من القمر بمنخسف بالإمكان الخاص ولا يصدق بعض المنخسف ليس بقمر دائما لما أن المنخسف لا يكون إلا وأن يكون قمرًا عند الجمهور.
+ثم لقائل أن يقول: هذه السوالب إذا كانت منعكسة إلى سالبة جزئية كانت منعكسة إلى سالبة جزئية ضرورية بعين ما ذكرتم من البرهان، فإنه إذا صدق
+As for the possible propositions, it is similar; for the general possible is more general than everything, and it also converts to a perpetual particular negative. That is because if 'Nothing of J is B with general possibility' is true, then the sum of two propositions is true: one is 'Everything that is B necessarily is B with general possibility', and the second is 'Nothing of B is necessarily B and J perpetually' as previously mentioned. And from the necessity of these two premises follows the truth of the claim from the third figure. And that the conversion of the absolute general and the general possible entails the conversion of what is more specific than them is also by this proof and by what preceded, namely that the necessary of the more general is necessary for the more specific. As for the degrees of some being more specific than others, this has passed. If they had restricted themselves to explaining the conversion of the general possible, they would have achieved the goal without needing to explain the conversion of the absolute general, because the general possible is more general than everything. And the discussion that passed regarding actuals is not exclusive to them, for it is true to say 'Nothing of the moon is eclipsed with special possibility' but it is not true that 'Some eclipse is not a moon perpetually', because an eclipse only occurs when it is a moon according to the majority.
+Then one may say: These negatives, if they convert to a particular negative, they convert to a necessary particular negative by the very proof you have mentioned. For if it is true...
+Source pages p. 471
+
+Commentary
+This passage extends the previous argument to possible propositions (mumkinat). The author states that the general possible proposition (al-mumkina al-‘amma) also converts to a perpetual particular negative. The proof is analogous: from the original 'Nothing of J is B with general possibility', two premises are derived: (1) 'Everything that is B necessarily is B with general possibility', and (2) 'Nothing of B is necessarily B and J perpetually'. These two yield the desired conclusion via the third figure. The author then explains that proving the conversion of the general possible suffices, since it is more general than the absolute general, and the more general implying the more specific is a principle already established. He notes that the earlier discussion on actuals is not exclusive to them, giving the example: 'Nothing of the moon is eclipsed with special possibility' is true, but 'Some eclipse is not a moon perpetually' is false, because an eclipse by definition is a moon (according to the majority). Finally, an objection is raised: if these negatives convert to a particular negative, the result must be a necessary particular negative (daruriyya), using the same proof. The passage ends abruptly, likely continuing with a response in the original text.
+
+Key Terms
+الممكنة العامة
+الإمكان العام
+الإمكان الخاص
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is the evidence that the conversion of the general possible suffices for the absolute general?
+A) The general possible is more specific than the absolute general.
+B) The general possible is more general, and the necessary of the more general is necessary for the more specific.
+C) The proof for the absolute general is impossible.
+D) The author has already proven both separately.
+
+Key Takeaway
+The conversion of the general possible proposition is proved via a third-figure syllogism, and its generality covers the absolute general, but an objection about necessity awaits a response.
+
+How This Lesson Applies — to MY Life?
+?
+1. Construct a similar proof for the conversion of the general possible affirmative proposition (كل ج ب بالإمكان العام) and determine what its converse should be.
+?
+2. Evaluate the objection: If the premises in the proof include necessity (بالضرورة), does the conclusion inherit necessity? Write a short analysis using the rule that the conclusion follows the weaker modality.
+
+Pages p. 471 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 487
+Module 11 · Lesson 61
+Next →
+The Syllogism
+advanced
+15 min
+Three Objections to Interpreting Universal Propositions as Conditionals
+Author presents the third, fourth, and fifth objections to the majority's interpretation of 'كل ج ب' and concludes the truth lies with the majority.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and evaluate three objections to interpreting universal categorical propositions as conditional statements.
+
+Core Idea
+The literal meaning of universal propositions is necessary for valid syllogisms.
+
+In this passage, the author presents three objections (third, fourth, fifth) to a common interpretation of universal propositions like 'كل ج ب'. These objections challenge the use of 'consideration' (haythiyya) as predicate, the interpretation of the proposition as a conditional about necessary conditions, and the need for non-literal interpretations in scientific discourse. Understanding these objections sharpens your ability to evaluate logical interpretations.
+
+Guided Path
+1
+Locate the third objection
+Find where the author criticizes the claim that the predicate in 'كل ج ب' is al-haythiyya (the consideration). Notice how he argues that al-haythiyya cannot serve as a predicate itself without requiring further interpretation, leading to a regress.
+This objection targets the use of abstract concepts as predicates without proper grounding.
+2
+Analyze the fourth objection
+Examine the author's critique of interpreting 'كل ج ب' as 'Everything that is a necessary condition (malzum) for J is a necessary condition for B'. See how he shows that this would make the subject and predicate either the terms themselves (rendering the mention of conditions useless) or their necessary conditions (breaking syllogistic validity because the middle term is not unified).
+The key is that in a valid syllogism like 'كل ج ب, كل ب أ → كل ج أ', the middle term 'ب' must be the same term, not a condition.
+3
+Evaluate the fifth objection
+Read the author's argument that using words in their literal sense is essential in scientific discourse. He rejects the idea that non-literal interpretations are needed to clarify technical meanings, since the words already indicate those meanings literally.
+This objection emphasizes that scientific discourse operates with practitioners who understand the literal meanings.
+4
+Summarize the author's conclusion
+Note that the author concludes that after reflecting on these objections and the preceding sections, the truth lies with the majority (al-jumhur) of earlier scholars. This affirms the standard interpretation of universal propositions as direct categorical statements.
+The majority view avoids the problems raised by these alternative interpretations.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما ثالثًا فلأن قولهم إن المحمول هنا هو الحيثية فذلك في معرض القدح أيضًا لما أن الحيثية لا تصلح لكونها محمولة من حيث هي الحيثية بل يقال إن المراد منها كذا؛ وذلك غير الحيثية لا محالة وإلا لكان في حيز المنع. فيكون الحكم عليها بكونها محمولة، وإن صح التأويل فلا يخلو عن الفساد. وأما رابعا فلأنهم فسروا قولنا كل (ج) (ب) إذا كان موضوعها بحسب الحقيقة ومحمولها كذلك بقولهم كل ما لو دخل في الوجود كان «ج» فهو بحيث لو دخل في الوجود كان «ب»؛ وكان معناه كل ما هو ملزوم للجيم فهو ملزوم للباء. وفي هذا التفسير كلام فإن ملزوم الشيء لا بد وأن يكون غير ذلك الشيء فالموضوع والمحمول في قولنا كل «ج» «ب» إما أن يكون (ج) و «ب»؛ وحينئذ يكون الجيم بالباء على الجيم، وإما أن يكون ملزوم الجيم وملزوم الباء؛ وحينئذ يكون التعرض للجيم والباء لغوا خاليًا عن الفائدة. ومن المعلوم أنه ليس كذلك بل الموضوع في قولنا كل «ج» «ب» ليس إلا «ج»؛ والمحمول ليس إلا «ب». ولهذا ينتج قولنا كل «ج» «ب» وكل «ب» «أ» قولنا كل «ج» «أ». ولو كان كما ذكروه فلا ينتج أصلا لا هذا ولا غيره؛ إذ الأوسط لا يكون متحدا؛ وهذا ظاهر. وأما خامسًا فلأن استعمال الألفاظ في العلوم بطريق الحقيقة على الخصوص فيما نحن فيه؛ فإن المقصود هو تعريف ما يكون من اللوازم معرفته والمستعمل بطريق الحقيقة لا يفتقر في الإفادة إلى التأويل والتفسير؛ فالتعرض لذلك إذن من غير حاجة وهو عبث لا يليق بالحكم. ولا يقال التعرض لذلك لإيضاح ما يكون معناه بالاصطلاح لا لإيضاح ما يكون معناه بحسب أصل اللغة. فإن اللفظ يدل على ذلك المعنى بطريق الحقيقة أيضًا. والكلام في كل علم مع أصحاب ذلك العلم لا مع غيرهم. فهذه الخمسة هي مواضع الاعتراضات على كلامهم، وقد مر في أثناء هذه الأقسام ما هو فيها كذلك. وبالجملة فمن تأمل في هذه الأقسام وما يتعلق بها حق التأمل علم أن الحق هو ما ذهب إليه الجمهور من المتقدمين.
+And third, because their saying that the predicate here is the 'consideration' (al-haythiyya) is also in the context of criticism because the consideration is not suitable as a predicate in itself; rather it is said that what is meant is something else. And that is necessarily other than the consideration; otherwise it would be subject to denial. So judging it as a predicate, even if interpretation is valid, does not avoid corruption. And fourth, because they interpreted our saying 'Every J is B' when its subject and predicate are according to reality as 'Everything that if it were to exist would be J, is such that if it were to exist would be B'; its meaning being 'Everything that is a necessary condition for J is a necessary condition for B'. There is an issue with this interpretation: the necessary condition of something must be other than that thing. So the subject and predicate in 'Every J is B' are either J and B, in which case we have J with B upon J, or they are the necessary condition of J and the necessary condition of B, in which case the mention of J and B is useless and void of benefit. It is known that this is not the case; rather the subject in 'Every J is B' is only J, and the predicate is only B. For this reason our saying 'Every J is B and every B is A' produces 'Every J is A'. If it were as they said, it would not produce this or any other conclusion at all, because the middle term would not be unified. This is clear. And fifth, because the use of words in the sciences in the literal sense specifically in our case is important; for the purpose is to define what is necessary to know, and what is used in the literal sense does not require interpretation and explanation to convey meaning. So indulging in that without need is frivolous and unbecoming of a scholar. It cannot be said that this is done to clarify its meaning in technical usage, not to clarify its meaning according to the original language. For the word indicates that meaning in the literal sense as well. And discourse in each science is with the practitioners of that science, not with others. So these are the five points of objection to their statement, and what has passed in these sections includes what is therein. In summary, whoever reflects on these sections and what pertains to them with true reflection knows that the truth is what the majority of earlier scholars held.
+Source pages p. 487
+
+Commentary
+This passage presents three out of five objections to the majority interpretation of universal categorical propositions, specifically regarding the predicate being a 'consideration' (haythiyya), the interpretation of 'كل ج ب' as a conditional, and the use of words in their literal sense. The author argues that the consideration is not suitable as a predicate in itself, leading to a regress. The conditional interpretation makes the subject and predicate either the terms themselves or their necessary conditions; both options lead to problems, such as the middle term not being unified in syllogisms. Finally, using non-literal interpretations is unnecessary and frivolous in scientific discourse, which relies on literal meanings. The author concludes that the truth is with the majority view.
+
+Key Terms
+الحيثية
+ملزوم
+الجمهور
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is the problem with interpreting 'كل ج ب' as 'everything that is a necessary condition for J is a necessary condition for B'?
+A) It makes the subject and predicate identical.
+B) It results in a valid syllogism.
+C) It makes the middle term not unified in a syllogism.
+D) It requires no interpretation.
+
+Key Takeaway
+The literal interpretation of universal propositions is necessary for valid syllogisms; alternative interpretations using 'consideration' or 'necessary condition' undermine logical reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a valid categorical syllogism from Islamic law (e.g., using 'every intoxicant is forbidden' and 'every khamr is intoxicant'). Then, following the fourth objection, rewrite the first premise as a conditional about necessary conditions and show why the syllogism no longer yields the conclusion.
+?
+Identify the third objection in a debate: Suppose someone claims that the predicate in 'All acts of worship are prescribed' is 'al-haythiyya' (the consideration of being prescribed). Explain why this leads to an infinite regress and why the literal reading is preferable.
+
+Pages p. 487 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 506
+Module 11 · Lesson 62
+Next →
+The Syllogism
+intermediate
+8 min
+The Objector's Challenge: Conversion and Non-Existent Consequents
+Objector raises first argument against universal conversion
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the objector's first argument against universal conversion and identify its logical weakness.
+
+Core Idea
+A conditional can be true even if its consequent never exists; conversion still holds.
+
+A critic raises a subtle objection: if a consequence (like punishment) never occurs, the conditional may be vacuously true, but its converse seems impossible. This challenges the universal validity of conversion for negative modal propositions. Let's dissect the objector's reasoning.
+
+Guided Path
+1
+Identify the target claim
+The objector attacks the claim that a true conditional (such as 'If A, then B') can always be converted to 'If not B, then not A' universally, even when B never exists.
+The original claim is about universal negative propositions in modal logic.
+2
+Extract the objector's first argument (أ)
+The objector says: if the conditional is true, then the non-existence of the antecedent (A) is a necessary consequence of the implication. So, if B never exists, A must also never exist, making the converse ('If not B, then not A') impossible because the antecedent of the converse (not B) is always true while its consequent (not A) is false.
+The objector uses the notion of 'luzum' (implication).
+3
+Focus on the critical phrase: 'non-existence of the antecedent is a necessary consequence of the implication'
+The objector assumes that the implication alone forces the antecedent to be absent when the consequent is absent. But is that always true?
+This is the key point the author will reject.
+4
+Recognize the dialectical structure
+The passage presents three distinct objections (أ, ب, ت). We focus on the first, which the author addresses fully.
+Understanding the structure helps in following the logical progression.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم لقائل أن يقول في هذا المقام لو كان كما ذكرتم لكان الصدق في الأصل مستلزمًا للصدق في العكس في كل صورة من هذه الصور سواء كان التالي من جملة ما يتحقق وجوده في نفس الأمر أو من جملة ما لا يتحقق وجوده أصلًا؛ وليس كذلك لاستحالة الصدق في الأصل مع الصدق في العكس إذا كان التالي من جملة ما لا يتحقق وجوده في نفس الأمر. وذلك لأن ارتفاع المقدم من لوازم اللزوم فيها فيكون ارتفاع اللزوم من لوازم تحققه كذلك. ولو كان كذلك فلا مجال للصدق في الأصل بلزومه وفي العكس وإلا لا يكون ارتفاع المقدم من لوازم لزوم التالي في مثل هذه الصورة؛ وذلك محال. [ب] أو يقول صدق الأصل لا يمكن أن يكون مستلزما لصدق العكس استلزاما كليا. وذلك لأن صدقه مع صدق النقيض أعنى نقيض العكس كلَّما كان متحققا كان صدقه متحققا بالضرورة. وكذلك كلّما كان متحققا كان صدق النقيض متحققا بالضرورة؛ وحينئذ يلزم أن يكون صدق الأصل مما يستلزم صدق النقيض في الجملة من الشكل الثالث. ولو كان كذلك فلا يمكن أن يكون صدق الأصل مستلزما لصدق العكس استلزاما كليًّا؛ وإنه من اللوازم للانعكاس فيما ذكرتم. [ت] أو يقول إنه لا يكون مستلزما لذلك استلزاما كليا فإن صدقه مع صدق ما ينافي الصدق في العكس كلَّما كان متحققا كان صدقه متحققا. وكذلك كلّما كان متحققا كان صدق ما ينافي الصدق في العكس متحققا فيكون الصدق في الأصل مستلزما لصدق ما ينافي الصدق في العكس من الثالث كما مر؛ وإنه مما ينا في كونه مستلزما على ما عرف. لكنا نقول: في الأول لا نسلم أن ارتفاع المقدم من لوازم لزوم التالي في تلك الصورة بل من لوازم هذا المجموع وهو اللزوم بدون التالي. وقد علمت بأنه لا يلزم من كون الشيء ملزوما للشيء أن يكون جزؤه ملزوما. ولما كان ارتفاعه من لوازم المجموع كان ارتفاع المجموع من لوازم تحققه؛ وهذا هو المطلوب ليس إلا. وإن قيل هب أنه كذلك لكن لا يلزم أن يكون ارتفاع المجموع عند تحققه بارتفاع ما دون اللزوم؛ وإنه مما ينافي اللزوم أيضًا. فنقول بل يلزم ضرورة انتفاء هذا المجموع في نفس الأمر وهو تحقق المقدم دون
+Then a speaker may say in this place: If it were as you have mentioned, then truth in the original would entail truth in the converse in every one of these forms, whether the consequent is among things whose existence is realized in actuality or among things whose existence is not realized at all; but it is not so, because it is impossible for the original to be true along with the truth of the converse when the consequent is among things whose existence is not realized in actuality. That is because the non-existence of the antecedent is a necessary consequence of the implication in it, so the non-existence of the implication is a necessary consequence of its realization likewise. And if that were so, then there is no room for the truth of the original with its implication and of the converse; otherwise the non-existence of the antecedent would not be a necessary consequence of the implication of the consequent in such a form; and that is impossible. [B] Or he may say: The truth of the original cannot entail the truth of the converse in a universal entailment. That is because its truth with the truth of the contradictory, i.e., the contradictory of the converse, whenever it is realized, its truth is realized necessarily. And likewise, whenever it is realized, the truth of the contradictory is realized necessarily. Then it follows that the truth of the original entails the truth of the contradictory in some way from the third figure. And if that were so, then it cannot be that the truth of the original entails the truth of the converse in a universal entailment; and that is among the consequences for the conversion in what you mentioned. [C] Or he may say: It does not entail that in a universal entailment, because its truth along with the truth of what contradicts the truth in the converse, whenever it is realized, its truth is realized. And likewise, whenever it is realized, the truth of what contradicts the truth in the converse is realized, so the truth in the original entails the truth of what contradicts the truth in the converse from the third figure as mentioned; and that is something that opposes its being an entailment as known. But we say: As for the first [objection], we do not accept that the non-existence of the antecedent is a necessary consequence of the implication of the consequent in that form; rather, it is a necessary consequence of this composite, which is the implication without the consequent. And you have known that it does not follow from something being a necessary condition for something that its part is a necessary condition. And since its non-existence is a necessary consequence of the composite, the non-existence of the composite is a necessary consequence of its realization; and this is exactly what is required. And if it is said: Granted that it is so, but it does not follow that the non-existence of the composite at its realization is by the non-existence of what is below the implication; and that too contradicts the implication. Then we say: Rather, it necessarily follows the negation of this composite in actuality, which is the realization of the antecedent without ...
+Source pages p. 506
+
+Commentary
+This passage presents three objections from a hypothetical critic against the author's claim that a universal negative modal proposition converts universally. The objector argues that the conversion fails when the consequent (the predicate of the original proposition) is something that never exists in reality. The first objection (أ) states: If the original proposition is true and implies a relation, then the non-existence of the antecedent is a necessary consequence of the implication. Therefore, if the consequent never exists, the antecedent must also never exist, making the original vacuously true but its converse (which would require the antecedent to exist when the consequent does not) impossible. The second objection (ب) uses the third figure syllogism to show that if the original is true, its contradictory (i.e., the negation of the converse) must also be true, leading to a contradiction unless the entailment is not universal. The third objection (ت) similarly argues that the truth of the original entails the truth of something that contradicts the truth of the converse, again blocking universal entailment. The author then responds to the first objection. He distinguishes between the implication alone and the composite of implication without the consequent. The non-existence of the antecedent is a necessary consequence of the composite, not of the implication per se. Therefore, when the consequent is non-existent, the composite (implication without consequent) is negated, which is exactly what is needed for the converse to hold. The response is cut off, but the point is that the conversion remains valid even when the consequent is non-existent. For example, in fiqh, consider the proposition: 'If someone drinks an intoxicant, he is punished.' The consequent (punished) may not always exist due to lack of evidence, but the implication still holds. The conversion would be: 'If someone is not punished, he did not drink an intoxicant.' The objector's worry is that if 'not punished' never occurs, the original may be vacuously true, but the author clarifies that the logical structure remains sound.
+
+Key Terms
+ارتفاع المقدم
+لزوم
+استلزام كلي
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the objector's main worry in the first argument?
+A) The original conditional might be false when the consequent never exists.
+B) The converse might be false when the consequent never exists, even though the original is true.
+C) The non-existence of the antecedent is not a necessary consequence of the implication.
+D) The author's conversion rule only works when the consequent exists.
+
+Key Takeaway
+The objector's first argument fails to account for the composite nature of the conditional; the non-existence of the antecedent follows from the composite, not from the implication alone.
+
+How This Lesson Applies — to MY Life?
+?
+Reconstruct the objector's first argument in your own words, using the example of 'If a person is a Sahih (sound) narrator, then his narration is accepted.' What would happen if no narrator is ever considered Sahih? Does the conversion still hold?
+?
+Write a brief response to the objector's first argument using the author's distinction between the implication and the composite 'implication without consequent'. Does this resolve the challenge?
+
+Pages p. 506 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 506
+Module 11 · Lesson 63
+Next →
+The Syllogism
+advanced
+10 min
+Author's Response: Dissecting the Implication Composite
+Author's response to the first objection
+
+Learning Objective
+By the end of this lesson, you will be able to explain the author's distinction between the implication and the composite 'implication without consequent' and apply it to preserve conversion validity.
+
+Core Idea
+Non-existence of the antecedent is a consequence of the composite, not of the implication itself.
+
+The author responds to the objector's first argument by carefully distinguishing between the pure implication relation (luzum) and the composite of that implication together with the absence of the consequent. This subtle but crucial distinction saves the universal conversion rule.
+
+Guided Path
+1
+Locate the author's rejection statement
+The author says: 'In the first [objection], we do not accept that the non-existence of the antecedent is a necessary consequence of the implication of the consequent in that form; rather, it is a necessary consequence of this composite, which is the implication without the consequent.'
+This is the core of the response.
+2
+Understand the composite 'implication without consequent'
+The author introduces a compound: the implication (luzum) combined with the absence of the consequent. It is this composite, not the bare implication, that entails the non-existence of the antecedent.
+Think of it as: if the consequent never exists, the implication still holds, but the absence of the consequent is an additional fact.
+3
+Trace the logical consequence
+Since the non-existence of the antecedent is necessary for the composite, it follows that the composite's realization (i.e., the implication without the consequent) does not occur when the antecedent exists. That is exactly what is needed for the converse to hold: if the antecedent exists, the consequent must exist (by implication), so the composite 'implication without consequent' is false.
+This shows the converse 'if not B then not A' remains valid.
+4
+Test the distinction with an Islamic example
+Example: 'If someone is a qualified mujtahid, then his ruling is authoritative.' Suppose no ruling is ever considered authoritative (consequent missing). The implication remains valid. The objector says: then the non-existence of being a mujtahid follows. But the author says: the non-existence follows from the composite 'implication + no authoritative ruling', not from the implication alone. This preserves the converse: 'If his ruling is not authoritative, then he is not a mujtahid.'
+The distinction resolves the apparent paradox.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم لقائل أن يقول في هذا المقام لو كان كما ذكرتم لكان الصدق في الأصل مستلزمًا للصدق في العكس في كل صورة من هذه الصور سواء كان التالي من جملة ما يتحقق وجوده في نفس الأمر أو من جملة ما لا يتحقق وجوده أصلًا؛ وليس كذلك لاستحالة الصدق في الأصل مع الصدق في العكس إذا كان التالي من جملة ما لا يتحقق وجوده في نفس الأمر. وذلك لأن ارتفاع المقدم من لوازم اللزوم فيها فيكون ارتفاع اللزوم من لوازم تحققه كذلك. ولو كان كذلك فلا مجال للصدق في الأصل بلزومه وفي العكس وإلا لا يكون ارتفاع المقدم من لوازم لزوم التالي في مثل هذه الصورة؛ وذلك محال. [ب] أو يقول صدق الأصل لا يمكن أن يكون مستلزما لصدق العكس استلزاما كليا. وذلك لأن صدقه مع صدق النقيض أعنى نقيض العكس كلَّما كان متحققا كان صدقه متحققا بالضرورة. وكذلك كلّما كان متحققا كان صدق النقيض متحققا بالضرورة؛ وحينئذ يلزم أن يكون صدق الأصل مما يستلزم صدق النقيض في الجملة من الشكل الثالث. ولو كان كذلك فلا يمكن أن يكون صدق الأصل مستلزما لصدق العكس استلزاما كليًّا؛ وإنه من اللوازم للانعكاس فيما ذكرتم. [ت] أو يقول إنه لا يكون مستلزما لذلك استلزاما كليا فإن صدقه مع صدق ما ينافي الصدق في العكس كلَّما كان متحققا كان صدقه متحققا. وكذلك كلّما كان متحققا كان صدق ما ينافي الصدق في العكس متحققا فيكون الصدق في الأصل مستلزما لصدق ما ينافي الصدق في العكس من الثالث كما مر؛ وإنه مما ينا في كونه مستلزما على ما عرف. لكنا نقول: في الأول لا نسلم أن ارتفاع المقدم من لوازم لزوم التالي في تلك الصورة بل من لوازم هذا المجموع وهو اللزوم بدون التالي. وقد علمت بأنه لا يلزم من كون الشيء ملزوما للشيء أن يكون جزؤه ملزوما. ولما كان ارتفاعه من لوازم المجموع كان ارتفاع المجموع من لوازم تحققه؛ وهذا هو المطلوب ليس إلا. وإن قيل هب أنه كذلك لكن لا يلزم أن يكون ارتفاع المجموع عند تحققه بارتفاع ما دون اللزوم؛ وإنه مما ينافي اللزوم أيضًا. فنقول بل يلزم ضرورة انتفاء هذا المجموع في نفس الأمر وهو تحقق المقدم دون
+Then a speaker may say in this place: If it were as you have mentioned, then truth in the original would entail truth in the converse in every one of these forms, whether the consequent is among things whose existence is realized in actuality or among things whose existence is not realized at all; but it is not so, because it is impossible for the original to be true along with the truth of the converse when the consequent is among things whose existence is not realized in actuality. That is because the non-existence of the antecedent is a necessary consequence of the implication in it, so the non-existence of the implication is a necessary consequence of its realization likewise. And if that were so, then there is no room for the truth of the original with its implication and of the converse; otherwise the non-existence of the antecedent would not be a necessary consequence of the implication of the consequent in such a form; and that is impossible. [B] Or he may say: The truth of the original cannot entail the truth of the converse in a universal entailment. That is because its truth with the truth of the contradictory, i.e., the contradictory of the converse, whenever it is realized, its truth is realized necessarily. And likewise, whenever it is realized, the truth of the contradictory is realized necessarily. Then it follows that the truth of the original entails the truth of the contradictory in some way from the third figure. And if that were so, then it cannot be that the truth of the original entails the truth of the converse in a universal entailment; and that is among the consequences for the conversion in what you mentioned. [C] Or he may say: It does not entail that in a universal entailment, because its truth along with the truth of what contradicts the truth in the converse, whenever it is realized, its truth is realized. And likewise, whenever it is realized, the truth of what contradicts the truth in the converse is realized, so the truth in the original entails the truth of what contradicts the truth in the converse from the third figure as mentioned; and that is something that opposes its being an entailment as known. But we say: As for the first [objection], we do not accept that the non-existence of the antecedent is a necessary consequence of the implication of the consequent in that form; rather, it is a necessary consequence of this composite, which is the implication without the consequent. And you have known that it does not follow from something being a necessary condition for something that its part is a necessary condition. And since its non-existence is a necessary consequence of the composite, the non-existence of the composite is a necessary consequence of its realization; and this is exactly what is required. And if it is said: Granted that it is so, but it does not follow that the non-existence of the composite at its realization is by the non-existence of what is below the implication; and that too contradicts the implication. Then we say: Rather, it necessarily follows the negation of this composite in actuality, which is the realization of the antecedent without ...
+Source pages p. 506
+
+Commentary
+This passage presents three objections from a hypothetical critic against the author's claim that a universal negative modal proposition converts universally. The objector argues that the conversion fails when the consequent (the predicate of the original proposition) is something that never exists in reality. The first objection (أ) states: If the original proposition is true and implies a relation, then the non-existence of the antecedent is a necessary consequence of the implication. Therefore, if the consequent never exists, the antecedent must also never exist, making the original vacuously true but its converse (which would require the antecedent to exist when the consequent does not) impossible. The second objection (ب) uses the third figure syllogism to show that if the original is true, its contradictory (i.e., the negation of the converse) must also be true, leading to a contradiction unless the entailment is not universal. The third objection (ت) similarly argues that the truth of the original entails the truth of something that contradicts the truth of the converse, again blocking universal entailment. The author then responds to the first objection. He distinguishes between the implication alone and the composite of implication without the consequent. The non-existence of the antecedent is a necessary consequence of the composite, not of the implication per se. Therefore, when the consequent is non-existent, the composite (implication without consequent) is negated, which is exactly what is needed for the converse to hold. The response is cut off, but the point is that the conversion remains valid even when the consequent is non-existent. For example, in fiqh, consider the proposition: 'If someone drinks an intoxicant, he is punished.' The consequent (punished) may not always exist due to lack of evidence, but the implication still holds. The conversion would be: 'If someone is not punished, he did not drink an intoxicant.' The objector's worry is that if 'not punished' never occurs, the original may be vacuously true, but the author clarifies that the logical structure remains sound.
+
+Key Terms
+ارتفاع المقدم
+لزوم
+مجموع
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the author identify as the actual source of the non-existence of the antecedent?
+A) The bare implication (luzum) alone.
+B) The composite of the implication and the non-existence of the consequent.
+C) The truth of the original conditional.
+D) The non-existence of the consequent alone.
+
+Key Takeaway
+A property of a composite (like 'implication without consequent') does not necessarily belong to its parts; this distinction upholds the universal conversion rule even for non-existent consequents.
+
+How This Lesson Applies — to MY Life?
+?
+Apply the author's composite distinction to another fiqh conditional: 'If a person is in a state of janabah (ritual impurity), then his prayer is invalid.' Suppose a person never prays (so the consequent never occurs). Does the conversion 'If his prayer is valid, then he is not in janabah' hold? Explain using the composite 'implication without the consequent'.
+?
+Write a short jadal dialogue where a student objects to the author's response and the teacher defends it using the part-whole principle.
+
+Pages p. 506 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 508
+Module 11 · Lesson 64
+Next →
+The Syllogism
+advanced
+8 min
+Proof that True Antecedent Necessitates Consequent
+Proof of necessary implication in conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the proof that in a valid conditional, the truth of the antecedent necessitates the truth of the consequent and derive the contrapositive.
+
+Core Idea
+The truth of a conditional is defined by the impossibility of the antecedent without the consequent.
+
+This passage presents a rigorous proof that in a conditional proposition, if the antecedent is true, the consequent must be true. The author uses the concept of necessary implication (luzūm) and shows that the contrapositive follows by necessity. This principle is foundational in Islamic logic and is used extensively in kalām and uṣūl al-fiqh to ensure consistency in arguments.
+
+Guided Path
+1
+Identify the claim
+The author aims to prove that truth of the antecedent implies truth of the consequent. Note that he is responding to objections, so the proof is dialectically framed.
+The claim is the conclusion of the proof: truth of original entails truth of converse (contrapositive).
+2
+Analyze the first proof via impossibility
+The author argues that the combination of truth of original without truth of converse is impossible. This impossibility is either because possibility contradicts implication or because the absence of converse negates the original. Thus, the truth of the original universally entails the truth of the converse.
+This is a proof by contradiction: assume the opposite leads to an impossibility.
+3
+Understand the second, more direct proof
+The author states: 'If the original is true, then the existence of the antecedent without the consequent is impossible.' This is because the truth of a conditional is precisely this impossibility.
+This directly links truth of the conditional to the impossibility of the antecedent alone.
+4
+Derive the contrapositive
+From the impossibility of the antecedent without the consequent, the author deduces that the contradictory of the consequent necessarily implies the contradictory of the antecedent. This is the contrapositive (ʿaks al-naqīḍ).
+This step is crucial: it shows that implication is logically equivalent to its contrapositive.
+5
+Refute the objection about possibility
+An objector might say this inference holds only if the contradictory is possible. The author replies that assuming the contradictory is enough; its actual possibility does not affect the entailment.
+This strengthens the proof: the contrapositive holds regardless of the contingent status of terms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وفي الثاني نقول ما ذكرتم في حيز التعارض فإن من الممكن أن يكون الأوسط في الثالث مجموع صدق الأصل مع صدق ما يتحقق اللزوم لكنا لا نتعرض لذلك؛ وقد كان من البراهين القاطعة على انتفاء هذا المجموع وهو صدق الأصل دون صدق العكس كما يقال صدق الأصل لا غير إما أن يكون ممكنا في نفس الأمر أو لا يكون دائما. وإنما كان ينبغي هذا المجموع وهو الصدق في الأصل دون الصدق في العكس أما إذا كان ممكنا فلانتفاء صدق الأصل؛ إذ الإمكان مما ينافي اللزوم. وأما إذا لم يكن فلانتفاء الغير وهو لا غير وانتفاء المجموع مما يحقق استلزام صدق الأصل صدق العكس استلزاما كليا وهو المطلوب. وبهذا خرج الجواب عن الثالث أيضًا؛ إذ الثالث في حيز التعارض لما مر؛ وقد تعارض بهذا البرهان كذلك فإنه من جملة ما لا اختصاص له بالتالي؛ وهذا ظاهر . أو نقول إذا كان الأصل صادقًا كان وجود المقدم بدون التالي ممتنعا؛ إذ صدقه عبارة عن هذا الامتناع. ولما كان المقدم دون التالي ممتنعا كان نقيضه من لوازم نقيض التالي بالضرورة ضرورة امتناع نقيض التالي بدونه وإلا لما تحقق ذلك الامتناع؛ وقد تحقق بالضرورة؛ إذ الكلام فيه. وإن قيل إنما يكون كذلك إذا كان ذلك النقيض أمرًا ممكنا فنقول هذا المنع ضايع فإنا إذا فرضنا ذلك النقيض كان فرضه فرض نقيض التالي لا محالة ممتنعًا كان ذلك النقيض في نفس الأمر أو لا يكون. ولما كان فرضه فرض نقيض التالي كان ذلك الفرض مستلزما لنقيض المقدم، وإن كان الأمر الذي يوصف بصفة كونه مقدَّما قطعي الثبوت على ذلك التقدير؛ وهذا من جملة ما لا خفاء فيه بعد الاطلاع على حقيقة كون الشيء مقدما لتاليه.
+And regarding the second [point], we say: what you mentioned is subject to conflict, for it is possible that the middle term in the third is the combination of the truth of the original with the truth of what realizes the implication, but we do not address that. And it has been among the decisive proofs of the non-existence of this combination—namely the truth of the original without the truth of the converse—as it is said: the truth of the original alone is either possible in reality or not always. This combination, i.e., truth in the original without truth in the converse, should be [considered]: if it is possible, then due to the non-existence of the truth of the original, for possibility is incompatible with implication. And if it is not [possible], then due to the non-existence of the other, namely 'not alone', and the non-existence of the combination realizes that the truth of the original entails the truth of the converse universally, which is what is desired. And by this the answer to the third also emerges; for the third is subject to conflict as previously mentioned, and it conflicts with this proof as well, for it is among that which has no exclusivity with the consequent; this is obvious. Or we say: if the original is true, then the existence of the antecedent without the consequent is impossible; for its truth is this impossibility. And since the antecedent without the consequent is impossible, its contradictory is among the necessary consequences of the contradictory of the consequent necessarily, by the necessity of the impossibility of the contradictory of the consequent without it, otherwise that impossibility would not be realized; and it has been realized necessarily, for the discussion is about it. And if it is said that is only so if that contradictory is a possible matter, we say: this prevention is wasted, for we if we assume that contradictory, its assumption is an assumption of the contradictory of the consequent inevitably, whether that contradictory is in reality or not. And since its assumption is an assumption of the contradictory of the consequent, that assumption entails the contradictory of the antecedent, even if the matter described by the attribute of being antecedent is certain in that estimation; and this is among that which is not obscure after understanding the reality of something being antecedent to its consequent.
+Source pages p. 508
+
+Commentary
+This passage presents a proof (burhan) concerning conditional propositions. The context is a dialectical exchange where the author responds to a second objection. The argument aims to show that if the original (antecedent) is true, then the truth of the converse (contrapositive) follows necessarily. The author first considers a possible middle term and then provides a decisive proof: the combination of the truth of the original without the truth of the converse is impossible, either because possibility contradicts implication or because the absence of the converse negates the original. He then gives an alternative formulation: if the original is true, the existence of the antecedent without the consequent is impossible. This impossibility means that the contradictory of the antecedent is necessarily implied by the contradictory of the consequent. The author addresses a potential objection regarding the possibility of the contradictory, asserting that the assumption itself suffices. The passage concludes that once one understands the reality of something being antecedent to its consequent, this is clear.
+
+Key Terms
+لزوم
+مقدم
+تالي
+عكس
+نقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the proof given, if the original (antecedent) is true, what follows about the existence of the antecedent without the consequent?
+A) It is possible.
+B) It is impossible.
+C) It is necessary.
+D) It is contingent.
+
+Key Takeaway
+The truth of a conditional proposition is defined by the impossibility of the antecedent without the consequent, which entails the contrapositive by necessity.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conditional proposition from fiqh (e.g., 'If the water is pure, then it is permissible for wudu') and derive its contrapositive. Verify that the truth of the antecedent necessitates the consequent.
+?
+In the following argument from kalam: 'If the world is eternal, then it would have no beginning. But it has a beginning, therefore it is not eternal.' Identify the conditional, the antecedent, and the consequent. Check whether this is a valid modus tollens.
+
+Pages p. 508 · The Syllogism
+← Prev
+Mark Done
+Next →

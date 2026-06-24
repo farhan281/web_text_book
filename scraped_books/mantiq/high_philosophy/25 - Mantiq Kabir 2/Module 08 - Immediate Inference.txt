@@ -1,0 +1,1798 @@
+← Prev
+p. 95
+Module 8 · Lesson 1
+Next →
+Immediate Inference
+intermediate
+10 min
+False Premises and Conditional Implications
+Author discusses paradoxes of implication with numerical examples.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rule that a true premise cannot imply a false conclusion, while a false premise may imply either a true or false conclusion, using examples from Islamic logic.
+
+Core Idea
+A true premise must yield a true conclusion; a false premise can yield anything.
+
+This lesson examines a foundational principle of conditional arguments: the relationship between the truth of premises and the truth of conclusions. The author illustrates this with the examples 'every number is even' and 'five is even' to show that from a false premise, the conclusion can be true or false, but from a true premise, the conclusion must be true. Understanding this is crucial for evaluating arguments in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the conditional form
+The author discusses two conditionals: 'If every number is even, then five is even' and 'If every number is even, then four is even'. Note the truth values of the antecedent and consequent.
+2
+Determine truth values
+In the first conditional, the antecedent ('every number is even') is false, and the consequent ('five is even') is also false. In the second, the antecedent is false but the consequent ('four is even') is true.
+3
+Apply the rule
+For the first case, a false antecedent leads to a false consequent; that is allowed. For the second, a false antecedent leads to a true consequent; that is also allowed. However, if the antecedent were true, the consequent must be true; a true antecedent cannot imply a false consequent.
+4
+Reflect on the implication for argument evaluation
+When you encounter a conditional argument in kalam or usul, always check the truth of the premise. If the premise is true, the conclusion must be true; if the premise is false, the conclusion could be either, so the argument may be unsound.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+في نفسه أن كل زوج عدد فيلزم ذلك المحقق حينئذ أن يكون الخمسة عددًا. والسبب فيه تسليم أمر باطل مع تسليم أمر حق؛ وليس يجب تسليم ذلك الباطل على من سلم ذلك الحق والحق أنه لا يصح هذا التسليم مع ذلك التسليم بل يجب أن لا يسلم هذا فإن وضع الخمسة زوجا يوجب في نفس الأمر أن لا يسلم هذا؛ ولا بأس من أن يلزم من المحال محال . ثم المقدم إذا كان باطلا فلا يمتنع أن يكون التالي حقًا، فأما إذا كان حقا فلا يمكن أن يكون التالي باطلا؛ إذ المستلزم للباطل لا بد وأن يكون باطلا؛ والمستلزم الحق قد يكون حقا، وقد يكون باطلا كما مرَّ في قولهم إن الخمسة زوج. وعلى هذا إذا قالوا إن الأربعة زوج فإنه حق في نفس الأمر. فأما من حيث إنه قياس حذفت عنه مقدّمة كان باطلاً. وذلك لأن المحقق لهذه القضية إذا وضع أن الأربعة زوج على أنه حق وكان حقا في نفسه أن كل زوج فهو أولي يلزم ذلك المحقق حينئذ أن يكون الأربعة زوجًا أوليا، والسبب فيه تسليم أمر حق مع تسليم أمر باطل على عكس ذلك؛ إذ الأولي عبارة عن عدد لا يعده إلا واحد؛ والأزواج كلها ليست كذلك. وقد قيل في مثل هذا القول وهو قولهم إن الأربعة زوج»، إنه من جملة ما فيه من الكلام؛ وذلك لأن واحدًا إذا ادعى أن له علما بأن كل أربعة زوج فيقال له هل الذي في كمي زوج أم لا؟ فإن قال لا علم لي به فيقال ما في كمي أربعة؛ ولم تعرف أنه زوج، وقد ادعيت أن كل أربعة زوج ثمَّ إن قوما أجابوا عن هذا فقالوا إنا لا ندعي أن كل أربعة زوج مطلقا بل ندعي أن كل أربعة هي من جملة ما عرفناه فهو زوج وذلك خطأ لأنــا نـعــرف أن كل أربعة فهي في نفسها زوج عرفنا الكل، أو لم نعرفه بل الجواب عنه أنا ندعي المعرفة بأن كل أربعة فهي في نفسها زوج وهذه هي المعرفة بحكم كلي، ولا يلزم من المعرفة بالكلي المعرفة بكل فرد من أفراد جزئياته ولا بما يقابله أيضًا نقيضا كان ذلك أو ضدا. ألا ترى أنك تعرف الإنسان من حيث هو الإنسان؛ ولا تعرف كل فرد من أفراد الإنسان، وتعرف العالم حادث من حيث هو العالم؛ ولا تعرف كل فرد من أفراد العالم. وكذلك في كل شيء يمكن أن يكون مشتركا بين الأشياء فإنك إذا عرفته فلا يلزم من معرفته معرفة تلك الأشياء. ثم لقائل أن يقول: هب أنه كذلك لكن لما قلتم بأنه لا يلزم من معرفة الشيء معرفة نقيضه؛ ونقيض الشيء عبارة عن رفع ذلك الشيء في هذا الموضع، والمعرفة برفع الشيء من جملة ما يكون ضرورياً عند معرفة ذلك الشيء. لكنا نقول هذا في حيز المنع فإن نقيض الشيء عبارة عن اللا شيء، لا عن رفع ذلك الشيء وإلا لكان عدم الرفع عبارة عن ذلك الشيء. وذلك لا يمكن إذا كان ذلك الشيء أمرًا وجوديًا. ثم اللاشيء من هو اللاشيء عدم صرف، والعدم الصرف من قبيل ما لا هوية له في الذهن؛ وما يكون من هذا القبيل فلا يمكن معرفته بأنه ما هو، ولنقتصر على هذا القدر في هذا الكلام فإنه لا يليق بهذا المقام وهو مقام نذكر فيه ما يمكن أن تكون مقدمة من مقدّمات القياسات الشرطية.
+In itself that every number is even, then that verifier must then that five be a number. The reason for it is accepting a false matter with accepting a true matter; and it is not necessary to accept that false for the one who accepted that true, and the truth is that this acceptance is not valid with that acceptance, but rather it is necessary not to accept this, for placing five as even necessitates in the matter itself that this not be accepted; and there is no harm in the impossible entailing the impossible. Then if the premise is false, it is not impossible for the consequent to be true, but if it is true, it is not possible for the consequent to be false; for that which entails the false must be false; and that which entails the true may be true or may be false, as passed in their statement that five is even. And upon this, if they say that four is even, it is true in itself. But in respect that it is a syllogism with a premise deleted, it is false. That is because the verifier of this proposition, if he posits that four is even as being true, and it is true in itself that every even [number] is... then that verifier must that four is even... and the reason is accepting a true matter with accepting a false matter in reverse of that; for 'awwali is a term for a number that only one counts; and all evens are not like that. And it has been said about such a statement, namely their saying 'four is even', that it is among the things that contain speech; because if someone claims that he has knowledge that every four is even, he is asked: Is what is in your sleeve even or not? If he says: I have no knowledge of it, he is told: What is in your sleeve is four, and you did not know it is even, yet you claimed that every four is even. Then some people answered this saying: We do not claim that every four is even absolutely, but rather we claim that every four that is among what we know is even, and that is wrong because we know that every four is in itself even, whether we know all or not. Rather the answer is that we claim knowledge that every four is in itself even, and this is knowledge of a universal judgment, and knowledge of the universal does not entail knowledge of every individual of its particulars nor of what opposes it, whether that be a contradictory or a contrary. Do you not see that you know man qua man, and you do not know every individual of mankind, and you know that the world is temporally originated qua world, and you do not know every individual of the world. And likewise in everything that can be common among things, if you know it, knowledge of it does not entail knowledge of those things. Then one might say: Granted that it is so, but you have said that knowledge of a thing does not entail knowledge of its contradictory, and the contradictory of a thing is a term for the removal of that thing in this place, and knowledge of removing the thing is among what is necessary when knowing that thing. But we say this is subject to denial, for the contradictory of a thing is a term for not-thing, not for the removal of that thing, otherwise the absence of removal would be a term for that thing. And that is not possible if that thing is an existent. Then not-thing, as it is not-thing, is pure non-existence, and pure non-existence is of the kind that has no identity in the mind; and what is of this kind cannot be known as to what it is. And we will restrict ourselves to this extent in this speech, for it is not suitable for this station, and it is a station in which we mention what can be a premise from among the premises of conditional syllogisms.
+Source pages p. 95
+
+Commentary
+This passage is a critical discussion of the logic of implication and the nature of universal knowledge. The author begins by examining a paradoxical case: if one accepts that 'every number is even' (a false premise) and also accepts that 'five is a number', then it follows that 'five is even' (a false conclusion). The author argues that accepting a false premise does not obligate accepting another falsehood; rather, if a false premise is accepted, the conclusion may still be false, but it is not necessary to accept that false conclusion. Then the author distinguishes between a false antecedent and a true consequent: a false premise can imply a true conclusion, but a true premise cannot imply a false conclusion. The example 'five is even' illustrates that the antecedent 'every number is even' is false, so the consequent 'five is even' is false, but it could have been true? Actually the point is that from a false premise any conclusion can follow. Then the author turns to the proposition 'four is even', which is true in itself, but when constructed as a syllogism with a missing premise, it becomes invalid. The author explains that if someone claims to know that 'every four is even', a test is proposed: consider an unknown instance (e.g., a number in a sleeve). If the person cannot say whether it is even, yet claims universal knowledge, then the claim is flawed. Some respondents said they only claim knowledge of the fours they know, but the author corrects this: true knowledge of a universal does not depend on knowing every instance; rather, it is knowledge of a universal judgment. The author uses analogies: knowing 'man' as a universal does not mean knowing every individual man, and knowing 'the world is originated' does not mean knowing every individual world. Finally, the author addresses an objection about the knowledge of the contradictory of a thing. The objector claims that knowing a thing requires knowing its contradictory (negation). The author refutes this by defining the contradictory as 'not-thing' (non-existence), not the removal of the thing. Since pure non-existence has no mental identity, it cannot be known. Thus, knowledge of a thing does not entail knowledge of its negation. The passage concludes by noting that this discussion is not fully suitable for the current context, which is about premises of conditional syllogisms.
+
+Key Terms
+زوج
+قضية
+مقدم
+تالي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the rule regarding a true premise and its conclusion?
+A) A true premise can imply a false conclusion.
+B) A true premise cannot imply a false conclusion.
+C) A true premise always implies a false conclusion.
+D) A true premise implies only true conclusions if the argument is valid.
+
+Key Takeaway
+A true premise must yield a true conclusion; a false premise can yield any conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the syllogism: 'Every intoxicant is haram. Every nabidh is an intoxicant. Therefore, nabidh is haram.' Identify the truth of the premises and the conclusion. Is this valid? Now consider: 'Every intoxicant is haram. Every khamr is an intoxicant. Therefore, khamr is haram.' Both premises are true, so the conclusion is true. What if the first premise were false? Would the conclusion still be true? Construct an example from fiqh where a false premise leads to a true conclusion.
+
+Pages p. 95 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 95
+Module 8 · Lesson 2
+Next →
+Immediate Inference
+intermediate
+10 min
+Universal Knowledge and Particular Instances
+Author distinguishes between universal knowledge and particular instances.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why knowledge of a universal proposition does not entail knowledge of every particular instance, using examples from Islamic sciences.
+
+Core Idea
+Knowing a universal does not require knowing all its particulars.
+
+This lesson addresses a common confusion: if you know a general statement like 'every four is even', must you also know whether any given four is even? The author uses the 'sleeve test' to show that universal knowledge is conceptual and does not require exhaustive particular knowledge. This has important implications for how we understand general rulings in Islamic jurisprudence.
+
+Guided Path
+1
+Understand the objection
+A person claims to know that 'every four is even'. Then he is asked about a specific four (in his sleeve). He does not know if it is even. This seems to contradict his claim.
+2
+Identify the fallacious response
+Some respond by limiting the universal to 'every four that I know', but the author rejects this as incorrect.
+3
+Grasp the author's answer
+The author explains that the person knows the universal proposition 'every four is even' in itself, but this knowledge does not imply knowledge of every individual four. Universal knowledge is of the judgment, not of each instance.
+4
+Apply to other examples
+The author gives analogies: knowing 'man' conceptually does not require knowing every man; knowing 'the world is originated' does not require knowing every world.
+5
+Connect to Islamic sciences
+Consider the universal ruling 'every intoxicant is haram'. A jurist knows this as a general principle, but he may not know whether a specific substance is an intoxicant. That is fine; knowledge of the universal does not entail knowledge of all particulars.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+في نفسه أن كل زوج عدد فيلزم ذلك المحقق حينئذ أن يكون الخمسة عددًا. والسبب فيه تسليم أمر باطل مع تسليم أمر حق؛ وليس يجب تسليم ذلك الباطل على من سلم ذلك الحق والحق أنه لا يصح هذا التسليم مع ذلك التسليم بل يجب أن لا يسلم هذا فإن وضع الخمسة زوجا يوجب في نفس الأمر أن لا يسلم هذا؛ ولا بأس من أن يلزم من المحال محال . ثم المقدم إذا كان باطلا فلا يمتنع أن يكون التالي حقًا، فأما إذا كان حقا فلا يمكن أن يكون التالي باطلا؛ إذ المستلزم للباطل لا بد وأن يكون باطلا؛ والمستلزم الحق قد يكون حقا، وقد يكون باطلا كما مرَّ في قولهم إن الخمسة زوج. وعلى هذا إذا قالوا إن الأربعة زوج فإنه حق في نفس الأمر. فأما من حيث إنه قياس حذفت عنه مقدّمة كان باطلاً. وذلك لأن المحقق لهذه القضية إذا وضع أن الأربعة زوج على أنه حق وكان حقا في نفسه أن كل زوج فهو أولي يلزم ذلك المحقق حينئذ أن يكون الأربعة زوجًا أوليا، والسبب فيه تسليم أمر حق مع تسليم أمر باطل على عكس ذلك؛ إذ الأولي عبارة عن عدد لا يعده إلا واحد؛ والأزواج كلها ليست كذلك. وقد قيل في مثل هذا القول وهو قولهم إن الأربعة زوج»، إنه من جملة ما فيه من الكلام؛ وذلك لأن واحدًا إذا ادعى أن له علما بأن كل أربعة زوج فيقال له هل الذي في كمي زوج أم لا؟ فإن قال لا علم لي به فيقال ما في كمي أربعة؛ ولم تعرف أنه زوج، وقد ادعيت أن كل أربعة زوج ثمَّ إن قوما أجابوا عن هذا فقالوا إنا لا ندعي أن كل أربعة زوج مطلقا بل ندعي أن كل أربعة هي من جملة ما عرفناه فهو زوج وذلك خطأ لأنــا نـعــرف أن كل أربعة فهي في نفسها زوج عرفنا الكل، أو لم نعرفه بل الجواب عنه أنا ندعي المعرفة بأن كل أربعة فهي في نفسها زوج وهذه هي المعرفة بحكم كلي، ولا يلزم من المعرفة بالكلي المعرفة بكل فرد من أفراد جزئياته ولا بما يقابله أيضًا نقيضا كان ذلك أو ضدا. ألا ترى أنك تعرف الإنسان من حيث هو الإنسان؛ ولا تعرف كل فرد من أفراد الإنسان، وتعرف العالم حادث من حيث هو العالم؛ ولا تعرف كل فرد من أفراد العالم. وكذلك في كل شيء يمكن أن يكون مشتركا بين الأشياء فإنك إذا عرفته فلا يلزم من معرفته معرفة تلك الأشياء. ثم لقائل أن يقول: هب أنه كذلك لكن لما قلتم بأنه لا يلزم من معرفة الشيء معرفة نقيضه؛ ونقيض الشيء عبارة عن رفع ذلك الشيء في هذا الموضع، والمعرفة برفع الشيء من جملة ما يكون ضرورياً عند معرفة ذلك الشيء. لكنا نقول هذا في حيز المنع فإن نقيض الشيء عبارة عن اللا شيء، لا عن رفع ذلك الشيء وإلا لكان عدم الرفع عبارة عن ذلك الشيء. وذلك لا يمكن إذا كان ذلك الشيء أمرًا وجوديًا. ثم اللاشيء من هو اللاشيء عدم صرف، والعدم الصرف من قبيل ما لا هوية له في الذهن؛ وما يكون من هذا القبيل فلا يمكن معرفته بأنه ما هو، ولنقتصر على هذا القدر في هذا الكلام فإنه لا يليق بهذا المقام وهو مقام نذكر فيه ما يمكن أن تكون مقدمة من مقدّمات القياسات الشرطية.
+In itself that every number is even, then that verifier must then that five be a number. The reason for it is accepting a false matter with accepting a true matter; and it is not necessary to accept that false for the one who accepted that true, and the truth is that this acceptance is not valid with that acceptance, but rather it is necessary not to accept this, for placing five as even necessitates in the matter itself that this not be accepted; and there is no harm in the impossible entailing the impossible. Then if the premise is false, it is not impossible for the consequent to be true, but if it is true, it is not possible for the consequent to be false; for that which entails the false must be false; and that which entails the true may be true or may be false, as passed in their statement that five is even. And upon this, if they say that four is even, it is true in itself. But in respect that it is a syllogism with a premise deleted, it is false. That is because the verifier of this proposition, if he posits that four is even as being true, and it is true in itself that every even [number] is... then that verifier must that four is even... and the reason is accepting a true matter with accepting a false matter in reverse of that; for 'awwali is a term for a number that only one counts; and all evens are not like that. And it has been said about such a statement, namely their saying 'four is even', that it is among the things that contain speech; because if someone claims that he has knowledge that every four is even, he is asked: Is what is in your sleeve even or not? If he says: I have no knowledge of it, he is told: What is in your sleeve is four, and you did not know it is even, yet you claimed that every four is even. Then some people answered this saying: We do not claim that every four is even absolutely, but rather we claim that every four that is among what we know is even, and that is wrong because we know that every four is in itself even, whether we know all or not. Rather the answer is that we claim knowledge that every four is in itself even, and this is knowledge of a universal judgment, and knowledge of the universal does not entail knowledge of every individual of its particulars nor of what opposes it, whether that be a contradictory or a contrary. Do you not see that you know man qua man, and you do not know every individual of mankind, and you know that the world is temporally originated qua world, and you do not know every individual of the world. And likewise in everything that can be common among things, if you know it, knowledge of it does not entail knowledge of those things. Then one might say: Granted that it is so, but you have said that knowledge of a thing does not entail knowledge of its contradictory, and the contradictory of a thing is a term for the removal of that thing in this place, and knowledge of removing the thing is among what is necessary when knowing that thing. But we say this is subject to denial, for the contradictory of a thing is a term for not-thing, not for the removal of that thing, otherwise the absence of removal would be a term for that thing. And that is not possible if that thing is an existent. Then not-thing, as it is not-thing, is pure non-existence, and pure non-existence is of the kind that has no identity in the mind; and what is of this kind cannot be known as to what it is. And we will restrict ourselves to this extent in this speech, for it is not suitable for this station, and it is a station in which we mention what can be a premise from among the premises of conditional syllogisms.
+Source pages p. 95
+
+Commentary
+This passage is a critical discussion of the logic of implication and the nature of universal knowledge. The author begins by examining a paradoxical case: if one accepts that 'every number is even' (a false premise) and also accepts that 'five is a number', then it follows that 'five is even' (a false conclusion). The author argues that accepting a false premise does not obligate accepting another falsehood; rather, if a false premise is accepted, the conclusion may still be false, but it is not necessary to accept that false conclusion. Then the author distinguishes between a false antecedent and a true consequent: a false premise can imply a true conclusion, but a true premise cannot imply a false conclusion. The example 'five is even' illustrates that the antecedent 'every number is even' is false, so the consequent 'five is even' is false, but it could have been true? Actually the point is that from a false premise any conclusion can follow. Then the author turns to the proposition 'four is even', which is true in itself, but when constructed as a syllogism with a missing premise, it becomes invalid. The author explains that if someone claims to know that 'every four is even', a test is proposed: consider an unknown instance (e.g., a number in a sleeve). If the person cannot say whether it is even, yet claims universal knowledge, then the claim is flawed. Some respondents said they only claim knowledge of the fours they know, but the author corrects this: true knowledge of a universal does not depend on knowing every instance; rather, it is knowledge of a universal judgment. The author uses analogies: knowing 'man' as a universal does not mean knowing every individual man, and knowing 'the world is originated' does not mean knowing every individual world. Finally, the author addresses an objection about the knowledge of the contradictory of a thing. The objector claims that knowing a thing requires knowing its contradictory (negation). The author refutes this by defining the contradictory as 'not-thing' (non-existence), not the removal of the thing. Since pure non-existence has no mental identity, it cannot be known. Thus, knowledge of a thing does not entail knowledge of its negation. The passage concludes by noting that this discussion is not fully suitable for the current context, which is about premises of conditional syllogisms.
+
+Key Terms
+معرفة
+كلي
+جزئي
+قضية
+
+Key Terms from Source Passage
+
+Checkpoint
+The author uses the example of knowing 'man' to illustrate that knowledge of a universal does not require knowledge of every particular. What does this example show?
+A) That 'man' is a universal that applies to all men.
+B) That you can know the definition of man without knowing every individual man.
+C) That every man is known by its essence.
+D) That knowledge of the world requires knowledge of every world.
+
+Key Takeaway
+Universal knowledge is conceptual; it does not imply knowledge of all instantiations.
+
+How This Lesson Applies — to MY Life?
+?
+In kalam, a mutakallim knows the universal proposition 'Everything that is temporally originated has a cause'. Does this require him to know the cause of every temporally originated thing? Explain using the author's reasoning.
+?
+Construct a similar example from fiqh: 'Every transaction involving gharar is prohibited.' Does a faqih need to know every specific transaction that involves gharar to know this universal? Why or why not?
+
+Pages p. 95 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 95
+Module 8 · Lesson 3
+Next →
+Immediate Inference
+intermediate
+10 min
+The Nature of the Contradictory (Naqid)
+Author redefines the contradictory and denies its knowability.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the author's definition of 'contradictory' (naqid) as absolute non-existence from the common view of mere negation, and argue why knowledge of a thing does not entail knowledge of its contradictory.
+
+Core Idea
+The contradictory of a thing is not its negation but pure non-existence, which cannot be known.
+
+This lesson tackles a subtle objection: if you know a thing, must you also know its contradictory? The author responds by redefining the contradictory of a thing as 'not-thing' (al-la shay'), which is pure non-existence. Since non-existence has no mental identity, it cannot be known. This clarifies that knowledge of a positive reality does not entail knowledge of its opposite.
+
+Guided Path
+1
+Identify the objection
+The objector claims that knowledge of a thing necessarily includes knowledge of its contradictory, because the contradictory is the removal (raf') of that thing, and removal is known when the thing is known.
+2
+Understand the author's distinction
+The author differentiates between 'not-thing' (al-la shay') and 'removal' (raf'). The contradictory is 'not-thing', not 'removal'. If it were removal, then the absence of removal would be the thing itself, which is impossible for an existent.
+3
+Analyze the nature of non-existence
+Pure non-existence has no identity in the mind; it is 'adaam sirf (pure non-existence). What has no mental identity cannot be known as 'what it is'.
+4
+Draw the epistemological conclusion
+Since the contradictory is absolute non-existence, it cannot be known. Therefore, knowledge of a thing does not entail knowledge of its contradictory.
+5
+Apply the principle
+In kalam, when discussing the attribute of knowledge, some argue that knowing an existent requires knowing its non-existence. The author's view refutes this.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+في نفسه أن كل زوج عدد فيلزم ذلك المحقق حينئذ أن يكون الخمسة عددًا. والسبب فيه تسليم أمر باطل مع تسليم أمر حق؛ وليس يجب تسليم ذلك الباطل على من سلم ذلك الحق والحق أنه لا يصح هذا التسليم مع ذلك التسليم بل يجب أن لا يسلم هذا فإن وضع الخمسة زوجا يوجب في نفس الأمر أن لا يسلم هذا؛ ولا بأس من أن يلزم من المحال محال . ثم المقدم إذا كان باطلا فلا يمتنع أن يكون التالي حقًا، فأما إذا كان حقا فلا يمكن أن يكون التالي باطلا؛ إذ المستلزم للباطل لا بد وأن يكون باطلا؛ والمستلزم الحق قد يكون حقا، وقد يكون باطلا كما مرَّ في قولهم إن الخمسة زوج. وعلى هذا إذا قالوا إن الأربعة زوج فإنه حق في نفس الأمر. فأما من حيث إنه قياس حذفت عنه مقدّمة كان باطلاً. وذلك لأن المحقق لهذه القضية إذا وضع أن الأربعة زوج على أنه حق وكان حقا في نفسه أن كل زوج فهو أولي يلزم ذلك المحقق حينئذ أن يكون الأربعة زوجًا أوليا، والسبب فيه تسليم أمر حق مع تسليم أمر باطل على عكس ذلك؛ إذ الأولي عبارة عن عدد لا يعده إلا واحد؛ والأزواج كلها ليست كذلك. وقد قيل في مثل هذا القول وهو قولهم إن الأربعة زوج»، إنه من جملة ما فيه من الكلام؛ وذلك لأن واحدًا إذا ادعى أن له علما بأن كل أربعة زوج فيقال له هل الذي في كمي زوج أم لا؟ فإن قال لا علم لي به فيقال ما في كمي أربعة؛ ولم تعرف أنه زوج، وقد ادعيت أن كل أربعة زوج ثمَّ إن قوما أجابوا عن هذا فقالوا إنا لا ندعي أن كل أربعة زوج مطلقا بل ندعي أن كل أربعة هي من جملة ما عرفناه فهو زوج وذلك خطأ لأنــا نـعــرف أن كل أربعة فهي في نفسها زوج عرفنا الكل، أو لم نعرفه بل الجواب عنه أنا ندعي المعرفة بأن كل أربعة فهي في نفسها زوج وهذه هي المعرفة بحكم كلي، ولا يلزم من المعرفة بالكلي المعرفة بكل فرد من أفراد جزئياته ولا بما يقابله أيضًا نقيضا كان ذلك أو ضدا. ألا ترى أنك تعرف الإنسان من حيث هو الإنسان؛ ولا تعرف كل فرد من أفراد الإنسان، وتعرف العالم حادث من حيث هو العالم؛ ولا تعرف كل فرد من أفراد العالم. وكذلك في كل شيء يمكن أن يكون مشتركا بين الأشياء فإنك إذا عرفته فلا يلزم من معرفته معرفة تلك الأشياء. ثم لقائل أن يقول: هب أنه كذلك لكن لما قلتم بأنه لا يلزم من معرفة الشيء معرفة نقيضه؛ ونقيض الشيء عبارة عن رفع ذلك الشيء في هذا الموضع، والمعرفة برفع الشيء من جملة ما يكون ضرورياً عند معرفة ذلك الشيء. لكنا نقول هذا في حيز المنع فإن نقيض الشيء عبارة عن اللا شيء، لا عن رفع ذلك الشيء وإلا لكان عدم الرفع عبارة عن ذلك الشيء. وذلك لا يمكن إذا كان ذلك الشيء أمرًا وجوديًا. ثم اللاشيء من هو اللاشيء عدم صرف، والعدم الصرف من قبيل ما لا هوية له في الذهن؛ وما يكون من هذا القبيل فلا يمكن معرفته بأنه ما هو، ولنقتصر على هذا القدر في هذا الكلام فإنه لا يليق بهذا المقام وهو مقام نذكر فيه ما يمكن أن تكون مقدمة من مقدّمات القياسات الشرطية.
+In itself that every number is even, then that verifier must then that five be a number. The reason for it is accepting a false matter with accepting a true matter; and it is not necessary to accept that false for the one who accepted that true, and the truth is that this acceptance is not valid with that acceptance, but rather it is necessary not to accept this, for placing five as even necessitates in the matter itself that this not be accepted; and there is no harm in the impossible entailing the impossible. Then if the premise is false, it is not impossible for the consequent to be true, but if it is true, it is not possible for the consequent to be false; for that which entails the false must be false; and that which entails the true may be true or may be false, as passed in their statement that five is even. And upon this, if they say that four is even, it is true in itself. But in respect that it is a syllogism with a premise deleted, it is false. That is because the verifier of this proposition, if he posits that four is even as being true, and it is true in itself that every even [number] is... then that verifier must that four is even... and the reason is accepting a true matter with accepting a false matter in reverse of that; for 'awwali is a term for a number that only one counts; and all evens are not like that. And it has been said about such a statement, namely their saying 'four is even', that it is among the things that contain speech; because if someone claims that he has knowledge that every four is even, he is asked: Is what is in your sleeve even or not? If he says: I have no knowledge of it, he is told: What is in your sleeve is four, and you did not know it is even, yet you claimed that every four is even. Then some people answered this saying: We do not claim that every four is even absolutely, but rather we claim that every four that is among what we know is even, and that is wrong because we know that every four is in itself even, whether we know all or not. Rather the answer is that we claim knowledge that every four is in itself even, and this is knowledge of a universal judgment, and knowledge of the universal does not entail knowledge of every individual of its particulars nor of what opposes it, whether that be a contradictory or a contrary. Do you not see that you know man qua man, and you do not know every individual of mankind, and you know that the world is temporally originated qua world, and you do not know every individual of the world. And likewise in everything that can be common among things, if you know it, knowledge of it does not entail knowledge of those things. Then one might say: Granted that it is so, but you have said that knowledge of a thing does not entail knowledge of its contradictory, and the contradictory of a thing is a term for the removal of that thing in this place, and knowledge of removing the thing is among what is necessary when knowing that thing. But we say this is subject to denial, for the contradictory of a thing is a term for not-thing, not for the removal of that thing, otherwise the absence of removal would be a term for that thing. And that is not possible if that thing is an existent. Then not-thing, as it is not-thing, is pure non-existence, and pure non-existence is of the kind that has no identity in the mind; and what is of this kind cannot be known as to what it is. And we will restrict ourselves to this extent in this speech, for it is not suitable for this station, and it is a station in which we mention what can be a premise from among the premises of conditional syllogisms.
+Source pages p. 95
+
+Commentary
+This passage is a critical discussion of the logic of implication and the nature of universal knowledge. The author begins by examining a paradoxical case: if one accepts that 'every number is even' (a false premise) and also accepts that 'five is a number', then it follows that 'five is even' (a false conclusion). The author argues that accepting a false premise does not obligate accepting another falsehood; rather, if a false premise is accepted, the conclusion may still be false, but it is not necessary to accept that false conclusion. Then the author distinguishes between a false antecedent and a true consequent: a false premise can imply a true conclusion, but a true premise cannot imply a false conclusion. The example 'five is even' illustrates that the antecedent 'every number is even' is false, so the consequent 'five is even' is false, but it could have been true? Actually the point is that from a false premise any conclusion can follow. Then the author turns to the proposition 'four is even', which is true in itself, but when constructed as a syllogism with a missing premise, it becomes invalid. The author explains that if someone claims to know that 'every four is even', a test is proposed: consider an unknown instance (e.g., a number in a sleeve). If the person cannot say whether it is even, yet claims universal knowledge, then the claim is flawed. Some respondents said they only claim knowledge of the fours they know, but the author corrects this: true knowledge of a universal does not depend on knowing every instance; rather, it is knowledge of a universal judgment. The author uses analogies: knowing 'man' as a universal does not mean knowing every individual man, and knowing 'the world is originated' does not mean knowing every individual world. Finally, the author addresses an objection about the knowledge of the contradictory of a thing. The objector claims that knowing a thing requires knowing its contradictory (negation). The author refutes this by defining the contradictory as 'not-thing' (non-existence), not the removal of the thing. Since pure non-existence has no mental identity, it cannot be known. Thus, knowledge of a thing does not entail knowledge of its negation. The passage concludes by noting that this discussion is not fully suitable for the current context, which is about premises of conditional syllogisms.
+
+Key Terms
+نقيض
+رفع
+لا شيء
+عدم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is the contradictory (naqid) of a thing?
+A) The removal of the thing (raf').
+B) The opposite of the thing (did).
+C) The not-thing (al-la shay'), which is pure non-existence.
+D) The opposite affirmative proposition.
+
+Key Takeaway
+The contradictory as pure non-existence cannot be known, so knowledge of a thing does not imply knowledge of its contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition 'The world is temporally originated'. Does knowledge of this entail knowledge of the world's non-existence before creation? Use the author's definition of contradictory to answer.
+?
+In fiqh, if a jurist knows that 'wine is haram', does he necessarily know the contradictory 'wine is not haram'? Explain why or why not according to the author.
+
+Pages p. 95 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 126
+Module 8 · Lesson 4
+Next →
+Immediate Inference
+beginner
+5 min
+Part-Whole Implication Principle
+Author summarizes that the proofs show if a part implies something, the whole implies it too.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the Part-Whole Implication Principle to verify immediate inferences in conditional propositions from Islamic logical texts.
+
+Core Idea
+If a part entails, the whole entails — a key to conversion rules.
+
+The author concludes the discussion by extracting a general principle: what holds for a part holds for the whole in conditional entailments. This principle is the foundation for the conversion rules between universal and particular conditional propositions. Understanding this principle allows you to immediately see why certain conversions are valid.
+
+Guided Path
+1
+Identify the principle in Arabic
+Find the Arabic phrase that expresses the part-whole entailment. Look especially at the part: 'كان مستلزما لشيء كان كله مستلزما لذلك الشيء'.
+Key terms are 'بعض' (part) and 'كل' (whole).
+2
+Translate the principle into a logical statement
+Write the principle in English: If a part of a thing entails something, then the whole of that thing also entails it.
+This is an immediate inference principle.
+3
+Recall the preceding rules
+The principle is derived from the proofs of the conversion rules for conditional propositions. Think of the first rule: the conversion from particular to universal conditional.
+The author says the proofs make this principle understood.
+4
+Apply the principle to a conditional example from Islamic theology
+Take the conditional: 'If some of the creation is temporal, then it requires a creator.' According to the principle, what can you say about the universal version using the same consequent?
+The universal version would be: 'If all creation is temporal, then all creation requires a creator.'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم إنهم تعرضوا لهذه الأحكام وأقاموا البراهين عليها بطريق يفهم منه أن البعض من الشيء إذا كان مستلزما لشيء كان كله مستلزما لذلك الشيء
+Then they addressed these rulings and established proofs for them in a manner from which it is understood that the part of a thing, if it entails something, then the whole of it entails that thing.
+Source pages p. 126
+
+Commentary
+This passage is a concluding remark by the author reflecting on the previous series of rules. The author notes that all the proofs given above demonstrate a general principle: if a part of a thing (e.g., a particular antecedent or consequent) entails something, then the whole (the universal counterpart) also entails that thing. This principle underlies the validity of the conversions between universal and particular in conditional propositions. For example, if a particular antecedent implies a consequent, then the universal antecedent also implies that consequent, as shown in the first rule. The author emphasizes that the proofs were designed to make this principle evident.
+
+Key Terms
+مستلزم
+بعض
+
+Key Terms from Source Passage
+
+Checkpoint
+What general principle does the author derive from the proofs about conditional propositions?
+A) The whole always entails the part
+B) If a part entails something, the whole also entails it
+C) The part and whole are equivalent
+D) The whole never entails what the part entails
+
+Key Takeaway
+The Part-Whole Implication Principle states that if a part of a thing (e.g., a particular antecedent) entails something, then the whole (the universal antecedent) also entails it, justifying certain immediate inferences.
+
+How This Lesson Applies — to MY Life?
+?
+Restate the main principle of the passage in your own words. Then, provide an original example from Islamic fiqh that illustrates the principle. For instance, if a specific category of transactions (part) implies a ruling, then the general category (whole) implies that ruling as well. Ensure your example is logically valid.
+?
+The author claims that the proofs demonstrate the principle 'in a manner from which it is understood.' Write a brief explanation of how one of the earlier proofs (e.g., the first rule of conditional conversion) leads to this principle.
+
+Pages p. 126 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 158
+Module 8 · Lesson 5
+Next →
+Immediate Inference
+advanced
+10 min
+Converting Negative Conditionals to Affirmatives for Inference
+Author explains how to derive conclusions from negative conditional premises by converting them to affirmatives.
+
+Learning Objective
+By the end of this lesson, you will be able to convert a negative conditional proposition into an equivalent affirmative form using reversion (irtidād) and identify when such a conversion yields a valid syllogistic conclusion.
+
+Core Idea
+A negative conditional becomes productive when reverted to an affirmative with a contradictory consequent.
+
+In classical logic, negative conditionals might seem unproductive for syllogistic reasoning. However, this passage reveals a powerful technique: by converting a negative conditional into an affirmative that shares the antecedent but contradicts the consequent, we unlock its inferential potential. This reversion (irtidād) is a standard move in conditional logic and is essential for constructing valid syllogisms from seemingly negative premises.
+
+Guided Path
+1
+Identify the negative conditional
+Locate the negative conditional proposition (e.g., 'It is not the case that if A then B'). Note whether it is universal or particular.
+The passage treats both universal and particular negative conditionals.
+2
+Determine the equivalent affirmative form
+The negative conditional 'Not (if A then B)' is equivalent to 'If A then not B'. This reversion keeps the antecedent the same but contradicts the consequent.
+This is an immediate inference known as contraposition of the implication.
+3
+Check the condition for productivity
+The passage states that the syllogism is productive when the consequent of the affirmative is 'what must be' (i.e., the necessary consequent). In practice, ensure that the affirmative form is a true conditional.
+If the original negative is false, the conversion may not preserve truth, but the logical form remains valid.
+4
+Apply in a syllogism
+Use the converted affirmative as a premise in a syllogism. The passage indicates that such a syllogism yields a particular conclusion due to the reversion of each one.
+The particularity may arise from the nature of the conversion or the original quantifier.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الشيخ يستنتج من المتّصلة السالبة كلية كانت أو جزئية إذا كان تاليها نقيض ما يجب أن يكون من موجبها لارتدادها إلى الموجبة الموافقة المقدم المتناقضة التالي التي هي منتجة بالذات. وذلك لأن الموجبة إذا كان تاليها ما يجب أن يكون في الموجبة كان القياس منتجا نتجية جزئية لارتداد كل واحدة.
+Then the Shaykh (the author) infers from the negative conditional, whether universal or particular, if its consequent is the contradictory of what must be from its affirmative, because it reverts to the affirmative that agrees in antecedent and contradicts in consequent, which is productive essentially. That is because the affirmative, if its consequent is what must be in the affirmative, the syllogism produces a particular result due to the reversion of each one.
+Source pages p. 158
+
+Commentary
+This passage explains a technique for deriving conclusions from negative conditional propositions. The author states that from a negative conditional (either universal or particular), if its consequent is the contradictory of what would be the consequent of an affirmative version, then the negative can be converted into an affirmative that shares the same antecedent but has a contradictory consequent. This affirmative form is essentially productive. The reasoning is that if the affirmative, when its consequent is what must be true (i.e., the necessary consequent), then the syllogism yields a particular conclusion because each one (the negative and its affirmative equivalent) can revert to the other. This is a standard move in conditional logic: a negative conditional 'Not (if A then B)' is equivalent to 'A and not B' or can be treated as an affirmative 'If A then not B' after contraposition. The author is showing how to use this conversion to obtain valid syllogistic results.
+
+Key Terms
+المتّصلة السالبة
+لارتداد
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what must be true about the consequent of the negative conditional for the reversion to be productive?
+A) It must be affirmative.
+B) It must be the contradictory of what would be the consequent of the affirmative version.
+C) It must be particular.
+D) It must be universal.
+
+Key Takeaway
+The reversion (irtidād) of a negative conditional to an affirmative with a contradictory consequent is a valid immediate inference that unlocks productive syllogistic reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Take the negative conditional 'ليس إذا كان الشيء محدثا فهو مخلوق' (It is not the case that if something is temporally originated then it is created). Convert it to an affirmative using reversion, then use it as a premise in a categorical syllogism to derive a conclusion about a specific originated thing.
+?
+Examine a passage from a kalam text where a negative conditional is asserted. Apply the reversion to see if it yields a productive syllogistic form. Discuss whether the conclusion matches the author's intent.
+
+Pages p. 158 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 251
+Module 8 · Lesson 6
+Next →
+Immediate Inference
+advanced
+7 min
+Negating a Composite by a Part: The Union Condition
+Author analyzes conditions for negating a composite by parts
+
+Learning Objective
+By the end of this lesson, you will be able to evaluate whether negating one part of a composite suffices to negate the whole, using the condition of union (ittiḥād).
+
+Core Idea
+Negation of a composite by a part is valid only when that part's negation is 'united' with negation by a part in general.
+
+In Islamic logic, composites are common in definitions and proofs. Knowing when negating a part entails negating the whole is critical for valid reasoning. This lesson unpacks the first part of our passage, which analyzes the conditions under which partial negation suffices.
+
+Guided Path
+1
+Identify the composite and its parts
+Recognize that the composite consists of parts that either all exist or all do not exist. Determine which parts are being negated.
+2
+Distinguish two scenarios
+The passage treats two cases: negation by the first part only, and negation by some parts without others.
+3
+Test the union condition for negation by first part only
+Check if the negation of the whole by the first part is 'united' (muttaḥid) with negation by a part in general. If united, it cannot be that the negation by the second part only is also united; otherwise contradiction. If not united, it is clear that the negation by first part alone does not suffice.
+Union here means logical equivalence in negating the whole.
+4
+Analyze negation by some parts without others
+Determine if the partial negation is contrary to the union between that partial negation and the negation of the whole. If contrary, the negation of those parts does not negate the whole. If not contrary, then the whole must be actually negated.
+The union between the partial negation and the whole's negation is examined in terms of actualization.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ذلك المجموع مركباً من الأشياء المتفقة في الوجود أو من الأشياء المتفقة في العدم فيمكن أن يقال في انتفاء كل واحد منهما ما قلناه في الثاني. ويمكن أن يقال انتفاء المجموع بانتفاء الجزء الأول لا غير؛ إما أن يكون متحدا مع انتفائه بجزء ما على الإطلاق، أو لا يكون، فإن لم يكن متحدا فظاهر. وإن كان فكذلك فإنه لا يمكن أن يكون انتفاء المجموع بانتفاء الجزء الثاني لا غير متحدا مع انتفاء بجزء ما على الإطلاق وإلا لكان انتفاؤه بانتفاء الجزء الأول لا غير متحدًا مع انتفائه بانتفاء الجزء الثاني لا غير؛ وذلك لا يمكن ويمكن أن يقال أيضًا انتفاء البعض من الأجزاء دون البعض لا يخلو من أن يكون منافيًا للاتحاد بينه وبين ما يلزم منه انتفاء المجموع، أو لا يكون، فإن كان منافيا فظاهر. وإن لم يكن فكذلك فإنه يلزم أن يتحقق ذلك الشيء حينئذ؛ وذلك لأن الاتحاد بينهما في التحقق لا يخلو من أن يكون متحققا حينئذ، أو لا يكون: فإن لم يكن متحققا فقد تحقق ذلك الشيء لما مر . وإن كان متحققا فقد تحقق ذلك الشيء كذلك وإلا لكان انتفاء البعض من الأجزاء دون البعض منافيًا للاتحاد بينهما؛ والتقدير بخلافه. والأولى في الكل أن يقال على تقدير انتفاء ما يلزم منه انتفاء المجموع فإنه إذا كان منتفيًا على ذلك التقدير كان منتفيًا في نفس الأمر سواء يتحقق ذلك التقدير في نفس الأمر أو لم يتحقق. فإن قلت نفي المجموع بهذه الطرق من جملة ما يقدح في الأوليات فنقول إنما يكون كذلك أن لو كان كل واحد من هذه الطرق مطردّا في كل واحد من المجموعات التي يمكن انتفاؤه في نفس الأمر، وأن لا يمكن؛ ولا يكون كذلك فإن كلامنا لا يكون في انتفاء المجموع مطلقا بل فيما يمكن انتفاؤه في نفس الأمر: إما بالبعض من الأجزاء أو بالكل منه. ولو كان كذلك لكان المحال اللازم على التقدير فيما ذكرناه لازمًا على تقدير ممكن؛ وذلك محال بخلاف ما يكون لازما على تقدير غير ممكن.
+That composite is composed of things that agree in existence or of things that agree in non-existence, so it can be said regarding the negation of each one what we said in the second. And it can be said that the negation of the composite is by the negation of the first part only; either it is united with its negation by some part absolutely, or it is not. If it is not united, then it is clear. And if it is, then likewise: it cannot be that the negation of the composite by the negation of the second part only is united with negation by some part absolutely, otherwise its negation by the negation of the first part only would be united with its negation by the negation of the second part only; and that is impossible. And it can also be said that the negation of some parts without others is not free from being contrary to the union between it and that which follows from it of the negation of the composite, or not. If it is contrary, it is clear; if not, then likewise, for then that thing must obtain. That is because the union between them in actualization is not free from being actualized then or not: if it is not actualized, then that thing has been actualized for the previous reason; and if it is actualized, then that thing has also been actualized, otherwise the negation of some parts without others would be contrary to the union between them, contrary to the assumption. The better in all is to say: on the supposition of the negation of that from which the negation of the composite follows, then if it is negated on that supposition, it is negated in reality, whether that supposition is actualized in reality or not. If you say: The negation of the composite by these methods is among what invalidates primary propositions, we reply: That would be so only if each of these methods were universal in every one of the composites that can be negated in reality, and that it cannot; but it is not so, for our discussion is not about the negation of the composite absolutely, but rather about what can be negated in reality: either by some of the parts or by all of it. And if it were so, then the impossible necessarily following from the supposition as we mentioned would be necessary on a possible supposition; and that is impossible, unlike what is necessary on an impossible supposition.
+Source pages p. 251
+
+Commentary
+This passage is a logical analysis of the conditions under which a composite (المجموع) can be negated by negating one or more of its parts. The author begins by considering a composite made of things that agree in existence or in non-existence. He then states that the negation of the composite might be due to the negation of the first part alone. For this to be acceptable, the negation of the whole by that part must be 'united' (متحد) with the negation of a part in general. If it is not united, the matter is clear; if it is united, then further analysis shows that the negation cannot be attributed to the second part alone without contradiction. Next, he examines the case where some but not all parts are negated. This negation must either be compatible or incompatible with the union between that partial negation and the negation of the whole. If incompatible, it's clear; if compatible, then the thing (i.e., the whole being negated) must actually obtain. The author then provides a general rule: if a supposition is made such that negating that supposition entails negating the whole, then whenever that supposition is false, the whole is false in reality, regardless of whether the supposition itself is actually false or not. Finally, he addresses an objection that these methods undermine self-evident primary propositions (الأوليات). He replies that for that objection to hold, the methods would have to be universally applicable, which they are not, because the discussion is limited to composites that can actually be negated. If it were universal, then an impossible consequence would follow from a possible supposition, which is absurd, unlike a consequence that follows from an impossible supposition.
+
+Key Terms
+المجموع
+الانتفاء
+الاتحاد
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the first part of the passage, what must be true for the negation of the first part only to be sufficient for negating the entire composite?
+A) The negation of the first part must be identical with the negation of the second part.
+B) The negation of the first part must be 'united' (muttaḥid) with the negation by some part in general.
+C) The composite must be impossible in reality.
+D) The negation must be a primary proposition (awwaliyya).
+
+Key Takeaway
+Negating a composite by negating a part requires that the part's negation be 'united' with the negation of the composite in general; otherwise, the inference is invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a composite of three conditions for a valid contract (offer, acceptance, capacity). Analyze whether negating only the first condition (offer) suffices to negate the entire contract according to the passage's criteria. Explain the role of the union condition.
+?
+Construct a scenario where negating some parts without others does not negate the whole, using the passage's analysis of contrariety to union.
+
+Pages p. 251 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 251
+Module 8 · Lesson 7
+Next →
+Immediate Inference
+advanced
+6 min
+Responding to the Objection: Preservation of Self-Evident Truths
+Author addresses objection that these methods contradict primary propositions
+
+Learning Objective
+By the end of this lesson, you will be able to defend the method of negating composites against the charge that it contradicts primary propositions, by distinguishing between universal and restricted application.
+
+Core Idea
+The method of negation by parts does not undermine self-evident truths because it is limited to composites that can actually be negated in reality.
+
+Logical methods sometimes face objections that they clash with foundational truths. Here, the author addresses the concern that the methods of negating composites might invalidate primary (self-evident) propositions. This lesson unpacks the author's reply, which hinges on the distinction between universal applicability and restricted scope.
+
+Guided Path
+1
+Identify the objection
+The objector claims that the methods of negating composites (discussed earlier) are among things that invalidate primary propositions (al-awwaliyyāt), i.e., self-evident truths.
+Primary propositions are foundational in Islamic logic and theology.
+2
+Understand the author's reply structure
+The author responds by stating that the objection would hold only if each method were universal (muṭṭarid) in every composite that can be negated in reality, but it is not.
+3
+Grasp the key distinction
+The discussion is not about negating composites absolutely (muṭlaqan), but only about those composites that can be negated in reality (mā yumkin intifā’uhu fī nafs al-amr). This restricts the scope.
+4
+Recognize the logical consequence of universality
+If the method were universal, then an impossible consequence (muḥāl) that follows from the supposition would become necessary on a possible supposition, which is absurd. This shows the method is not universal and therefore does not threaten primary propositions.
+The author contrasts consequences on possible vs. impossible suppositions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ذلك المجموع مركباً من الأشياء المتفقة في الوجود أو من الأشياء المتفقة في العدم فيمكن أن يقال في انتفاء كل واحد منهما ما قلناه في الثاني. ويمكن أن يقال انتفاء المجموع بانتفاء الجزء الأول لا غير؛ إما أن يكون متحدا مع انتفائه بجزء ما على الإطلاق، أو لا يكون، فإن لم يكن متحدا فظاهر. وإن كان فكذلك فإنه لا يمكن أن يكون انتفاء المجموع بانتفاء الجزء الثاني لا غير متحدا مع انتفاء بجزء ما على الإطلاق وإلا لكان انتفاؤه بانتفاء الجزء الأول لا غير متحدًا مع انتفائه بانتفاء الجزء الثاني لا غير؛ وذلك لا يمكن ويمكن أن يقال أيضًا انتفاء البعض من الأجزاء دون البعض لا يخلو من أن يكون منافيًا للاتحاد بينه وبين ما يلزم منه انتفاء المجموع، أو لا يكون، فإن كان منافيا فظاهر. وإن لم يكن فكذلك فإنه يلزم أن يتحقق ذلك الشيء حينئذ؛ وذلك لأن الاتحاد بينهما في التحقق لا يخلو من أن يكون متحققا حينئذ، أو لا يكون: فإن لم يكن متحققا فقد تحقق ذلك الشيء لما مر . وإن كان متحققا فقد تحقق ذلك الشيء كذلك وإلا لكان انتفاء البعض من الأجزاء دون البعض منافيًا للاتحاد بينهما؛ والتقدير بخلافه. والأولى في الكل أن يقال على تقدير انتفاء ما يلزم منه انتفاء المجموع فإنه إذا كان منتفيًا على ذلك التقدير كان منتفيًا في نفس الأمر سواء يتحقق ذلك التقدير في نفس الأمر أو لم يتحقق. فإن قلت نفي المجموع بهذه الطرق من جملة ما يقدح في الأوليات فنقول إنما يكون كذلك أن لو كان كل واحد من هذه الطرق مطردّا في كل واحد من المجموعات التي يمكن انتفاؤه في نفس الأمر، وأن لا يمكن؛ ولا يكون كذلك فإن كلامنا لا يكون في انتفاء المجموع مطلقا بل فيما يمكن انتفاؤه في نفس الأمر: إما بالبعض من الأجزاء أو بالكل منه. ولو كان كذلك لكان المحال اللازم على التقدير فيما ذكرناه لازمًا على تقدير ممكن؛ وذلك محال بخلاف ما يكون لازما على تقدير غير ممكن.
+That composite is composed of things that agree in existence or of things that agree in non-existence, so it can be said regarding the negation of each one what we said in the second. And it can be said that the negation of the composite is by the negation of the first part only; either it is united with its negation by some part absolutely, or it is not. If it is not united, then it is clear. And if it is, then likewise: it cannot be that the negation of the composite by the negation of the second part only is united with negation by some part absolutely, otherwise its negation by the negation of the first part only would be united with its negation by the negation of the second part only; and that is impossible. And it can also be said that the negation of some parts without others is not free from being contrary to the union between it and that which follows from it of the negation of the composite, or not. If it is contrary, it is clear; if not, then likewise, for then that thing must obtain. That is because the union between them in actualization is not free from being actualized then or not: if it is not actualized, then that thing has been actualized for the previous reason; and if it is actualized, then that thing has also been actualized, otherwise the negation of some parts without others would be contrary to the union between them, contrary to the assumption. The better in all is to say: on the supposition of the negation of that from which the negation of the composite follows, then if it is negated on that supposition, it is negated in reality, whether that supposition is actualized in reality or not. If you say: The negation of the composite by these methods is among what invalidates primary propositions, we reply: That would be so only if each of these methods were universal in every one of the composites that can be negated in reality, and that it cannot; but it is not so, for our discussion is not about the negation of the composite absolutely, but rather about what can be negated in reality: either by some of the parts or by all of it. And if it were so, then the impossible necessarily following from the supposition as we mentioned would be necessary on a possible supposition; and that is impossible, unlike what is necessary on an impossible supposition.
+Source pages p. 251
+
+Commentary
+This passage is a logical analysis of the conditions under which a composite (المجموع) can be negated by negating one or more of its parts. The author begins by considering a composite made of things that agree in existence or in non-existence. He then states that the negation of the composite might be due to the negation of the first part alone. For this to be acceptable, the negation of the whole by that part must be 'united' (متحد) with the negation of a part in general. If it is not united, the matter is clear; if it is united, then further analysis shows that the negation cannot be attributed to the second part alone without contradiction. Next, he examines the case where some but not all parts are negated. This negation must either be compatible or incompatible with the union between that partial negation and the negation of the whole. If incompatible, it's clear; if compatible, then the thing (i.e., the whole being negated) must actually obtain. The author then provides a general rule: if a supposition is made such that negating that supposition entails negating the whole, then whenever that supposition is false, the whole is false in reality, regardless of whether the supposition itself is actually false or not. Finally, he addresses an objection that these methods undermine self-evident primary propositions (الأوليات). He replies that for that objection to hold, the methods would have to be universally applicable, which they are not, because the discussion is limited to composites that can actually be negated. If it were universal, then an impossible consequence would follow from a possible supposition, which is absurd, unlike a consequence that follows from an impossible supposition.
+
+Key Terms
+الأوليات
+مطرد
+انتفاء المجموع مطلقا
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, under what condition would the methods of negating composites invalidate primary propositions?
+A) If the methods are used only in theology.
+B) If the methods are universal in every composite than can be negated in reality.
+C) If the methods are applied to impossible composites.
+D) If the methods are based on possible suppositions.
+
+Key Takeaway
+A logical method's apparent conflict with self-evident truths can be resolved by carefully delimiting its scope of application.
+
+How This Lesson Applies — to MY Life?
+?
+A student argues that the method of negating a composite by negating a part is invalid because it would make self-evident propositions false. Write a response using the author's reasoning from the passage, specifying the necessary distinction.
+?
+Give an example from fiqh where a composite ruling (e.g., validity of a contract) can be negated in reality, and explain why the method does not apply absolutely to all composites.
+
+Pages p. 251 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 253
+Module 8 · Lesson 8
+Next →
+Immediate Inference
+intermediate
+7 min
+The Reciprocal Relation Between Entailment and Contradiction
+Author discusses entailment, contradiction, and the infinite chain of necessary conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the reciprocal relation between entailment and contradiction in logical analysis.
+
+Core Idea
+To contradict something, your position must entail its opposite.
+
+This passage explores the foundational logical relation between entailment (luzum) and contradiction (tanaqud). The author shows that these are not separate concepts but internally related: a thing is contrary to another only if it entails what contradicts it, and it entails another only if it is contrary to what contradicts that other. This reciprocity ensures the impossibility of combining a thing and its opposite.
+
+Guided Path
+1
+Identify the key terms
+Familiarize yourself with the terms: mustalzim (that which entails), malzum (that which is entailed), lazim (necessary consequence), naqid (contradictory), munafi (contrary).
+These terms are stable across the tradition.
+2
+Parse the definition of contrary
+The author states: 'a thing is not contrary to another unless it entails what contradicts it.' This defines contrary (munafi) in terms of entailment (mustalzim).
+3
+Parse the reciprocal definition of entailment
+The author also states: 'a thing does not entail another unless it is contrary to what contradicts that other.' This defines entailment in terms of contrariety.
+This completes the reciprocal relation.
+4
+Understand the impossibility of contradiction
+If these conditions were not met, then a thing and its opposite could coexist, which is impossible. Therefore, the relation is necessary.
+5
+Apply to a real Islamic example
+Consider the ruling of an act being wajib (obligatory). Wajib is contrary to haram (forbidden). The entailment: wajib entails the negation of haram. This satisfies the definition.
+This shows how the logical tool is used in usul al-fiqh.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+إذا عرفت هذا فنقول إن الشيء لا يكون منافيًا للشيء إلا وأن يكون مستلزما لما يناقضه. ولا يكون متسلزما للشيء أيضًا إلا وأن يكون منافيا لما يناقضه وإلا يلزم أن يمكن الاجتماع بين الشيء ونقيضه: وذلك لا يمكن فلا شيء إلا وأن يكون بينه وبين غير لازمه لأنه إما أن يكون ملزوما للغير أو لازما للغير. ولا يلزم أن يكون ذلك الغير شيئًا واحدًا؛ ولا نهاية لملزومات الشيء ولوازمه لما كان ملزومية كل موجود ملزوما لوجود هذا الشيء أي شيء كان. وملزومية هذه الملزومية من جملة ما له وجود أيضًا. ولما كانت الملزومات غير متناهية كانت اللوازم كذلك فإن الشيء لا يكون ملزوما للشيء إلا وأن يكون عدمه لازما لعدم ذلك الشيء. وعلى حسب هذا التعدد يلزم تعدد المنافات بين الشيء وغيره لما مرَّ ، وعلى حسب تعدد كل واحدة منهما بعدد القياسات الاستثنائية؛ وإنها مستعملة بين جميع الناس وأكثر استعمالات العامة على وجه يوهم أن لا يكون منتجا كما يقال مثلا لو قدرت على ذلك الأمر لفعلت
+If you have known this, we say that a thing is not contrary to another thing unless it entails what contradicts it. And it is not an entailer of a thing also unless it is contrary to what contradicts it; otherwise the combination of a thing and its opposite would be possible — and that is impossible. So there is nothing except that between it and its non-necessary thing, because it is either a necessary condition of the other or a necessary consequence of the other. And it is not necessary that that other be one thing; and there is no end to the necessary-conditionalities of a thing and its necessary consequences, because every existent's being a necessary condition for the existence of this thing is whatever thing it is. And the necessary-conditionality of this necessary-conditionality is among things that also have existence. And since the necessary-conditionalities are infinite, the necessary consequences are likewise. For a thing is not a necessary condition of a thing unless its non-existence is a necessary consequence of the non-existence of that thing. And according to this multiplicity, the multiplicity of contrarieties between a thing and other than it follows, as has passed, and according to the multiplicity of each one of them according to the number of exceptional syllogisms. And they are used among all people, and most usages of the common folk are in a way that suggests they are non-productive, as for example if one says: 'If you were able to do that thing, you would do it.'
+Source pages p. 253
+
+Commentary
+This passage is a logical analysis of the relationship between entailment (luzum) and contradiction (tanaqud). The author defines mutual entailment and contradiction: a thing is contrary to another only if it entails what contradicts the other; and a thing entails another only if it is contrary to what contradicts the other. This leads to the impossibility of combining a thing and its opposite. Then he discusses the chain of necessary conditions (malzum) and necessary consequences (lazim), arguing that they are infinite because every existent can be a necessary condition for any other existent. Since the necessary condition itself has existence, it also has its own necessary conditions, leading to an infinite regress. This multiplicity of entailments necessitates a multiplicity of contrarieties, corresponding to the number of exceptional syllogisms (qiyasat istithnaiyya). He observes that these logical relations are used by all people, but common usage often appears non-productive, as in the example 'If you were able to do that thing, you would do it.' This underscores that the logical structure is implicit in everyday reasoning.
+
+Key Terms
+منافي
+مستلزم
+نقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is necessary for a thing to be contrary to another thing?
+A) It must be identical to it.
+B) It must entail what contradicts the other.
+C) It must be different in genus.
+D) It must be a necessary condition.
+
+Key Takeaway
+Contrariety and entailment are mutually defined: contrariety implies entailment of the opposite, and entailment implies contrariety to the opposite.
+
+How This Lesson Applies — to MY Life?
+?
+Using the definition from this lesson, determine whether 'wajib' and 'mandub' are contrary. Justify your answer by identifying the entailment.
+
+Pages p. 253 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 253
+Module 8 · Lesson 9
+Next →
+Immediate Inference
+advanced
+8 min
+The Infinite Chain of Necessary Conditions
+Author discusses entailment, contradiction, and the infinite chain of necessary conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why, according to the author, the chain of necessary conditions and necessary consequences is infinite.
+
+Core Idea
+Every existent can be a necessary condition for any other, leading to an infinite regress.
+
+After establishing the reciprocity of entailment and contradiction, the author turns to the consequences: there is no end to the necessary conditionalities (malzumiyyat) and necessary consequences (lawazim) of a thing. Since every existent can serve as a necessary condition for any other, and the condition itself exists, it too has conditions, ad infinitum. This infinite multiplicity directly parallels the multiplicity of contrarieties and can be analyzed through exceptional syllogisms.
+
+Guided Path
+1
+Understand the definition of necessary condition
+A thing is a necessary condition (malzum) for another if the non-existence of the thing entails the non-existence of the other. This is the inverse of entailment.
+2
+Recognize the infinite regress
+For any existent X, there are infinite malzumiyyat and lawazim because 'every existent's being a necessary condition for the existence of this thing' means that for any existent Y, X's malzumiyya for Y exists, and that malzumiyya itself exists, so it too has malzumiyya, etc.
+The author explicitly says 'the necessary-conditionalities are infinite, the necessary consequences are likewise.'
+3
+Connect to contrariety
+The multiplicity of entailments leads to multiplicity of contrarieties, because each entailment corresponds to a contrariety relation (as defined earlier).
+4
+Correlate to exceptional syllogisms
+Each entailment relation corresponds to a conditional syllogism (qiyas istithnai). These syllogisms are used by all people, but common usage often seems non-productive, e.g., 'If you were able, you would do it.'
+This shows the practical relevance of the infinite regress.
+5
+Apply to a real Islamic example
+Consider the existence of the world. In kalam, the world is contingent and requires a cause. The non-existence of the cause entails the non-existence of the effect. This is a conditional syllogism. The cause itself, if contingent, would require another cause. But in kalam, the chain terminates at the Necessary Being. The author's logical regress is distinct from causal regress.
+This illustrates how logical analysis applies to theological arguments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+إذا عرفت هذا فنقول إن الشيء لا يكون منافيًا للشيء إلا وأن يكون مستلزما لما يناقضه. ولا يكون متسلزما للشيء أيضًا إلا وأن يكون منافيا لما يناقضه وإلا يلزم أن يمكن الاجتماع بين الشيء ونقيضه: وذلك لا يمكن فلا شيء إلا وأن يكون بينه وبين غير لازمه لأنه إما أن يكون ملزوما للغير أو لازما للغير. ولا يلزم أن يكون ذلك الغير شيئًا واحدًا؛ ولا نهاية لملزومات الشيء ولوازمه لما كان ملزومية كل موجود ملزوما لوجود هذا الشيء أي شيء كان. وملزومية هذه الملزومية من جملة ما له وجود أيضًا. ولما كانت الملزومات غير متناهية كانت اللوازم كذلك فإن الشيء لا يكون ملزوما للشيء إلا وأن يكون عدمه لازما لعدم ذلك الشيء. وعلى حسب هذا التعدد يلزم تعدد المنافات بين الشيء وغيره لما مرَّ ، وعلى حسب تعدد كل واحدة منهما بعدد القياسات الاستثنائية؛ وإنها مستعملة بين جميع الناس وأكثر استعمالات العامة على وجه يوهم أن لا يكون منتجا كما يقال مثلا لو قدرت على ذلك الأمر لفعلت
+If you have known this, we say that a thing is not contrary to another thing unless it entails what contradicts it. And it is not an entailer of a thing also unless it is contrary to what contradicts it; otherwise the combination of a thing and its opposite would be possible — and that is impossible. So there is nothing except that between it and its non-necessary thing, because it is either a necessary condition of the other or a necessary consequence of the other. And it is not necessary that that other be one thing; and there is no end to the necessary-conditionalities of a thing and its necessary consequences, because every existent's being a necessary condition for the existence of this thing is whatever thing it is. And the necessary-conditionality of this necessary-conditionality is among things that also have existence. And since the necessary-conditionalities are infinite, the necessary consequences are likewise. For a thing is not a necessary condition of a thing unless its non-existence is a necessary consequence of the non-existence of that thing. And according to this multiplicity, the multiplicity of contrarieties between a thing and other than it follows, as has passed, and according to the multiplicity of each one of them according to the number of exceptional syllogisms. And they are used among all people, and most usages of the common folk are in a way that suggests they are non-productive, as for example if one says: 'If you were able to do that thing, you would do it.'
+Source pages p. 253
+
+Commentary
+This passage is a logical analysis of the relationship between entailment (luzum) and contradiction (tanaqud). The author defines mutual entailment and contradiction: a thing is contrary to another only if it entails what contradicts the other; and a thing entails another only if it is contrary to what contradicts the other. This leads to the impossibility of combining a thing and its opposite. Then he discusses the chain of necessary conditions (malzum) and necessary consequences (lazim), arguing that they are infinite because every existent can be a necessary condition for any other existent. Since the necessary condition itself has existence, it also has its own necessary conditions, leading to an infinite regress. This multiplicity of entailments necessitates a multiplicity of contrarieties, corresponding to the number of exceptional syllogisms (qiyasat istithnaiyya). He observes that these logical relations are used by all people, but common usage often appears non-productive, as in the example 'If you were able to do that thing, you would do it.' This underscores that the logical structure is implicit in everyday reasoning.
+
+Key Terms
+ملزوم
+لازم
+منافي
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the author claim about the number of necessary conditions (malzumiyyat) of a thing?
+A) They are finite.
+B) They are infinite.
+C) They depend on the thing's essence.
+D) They are limited to ten.
+
+Key Takeaway
+The chain of necessary conditions and consequences is infinite because every existent can serve as a condition for any other.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an infinite chain of necessary conditions for the existence of a specific thing, e.g., the existence of knowledge. According to the passage, what are the implications for contrarieties?
+
+Pages p. 253 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 264
+Module 8 · Lesson 10
+Next →
+Immediate Inference
+advanced
+10 min
+The Benefit of an Implicit Major Premise in Categorical Syllogisms
+Author argues when an implicit major premise is beneficial in categorical syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether an implicit major premise in a categorical syllogism is beneficial based on its self-evidence and timing of mental occurrence.
+
+Core Idea
+An implicit major premise is useful only if self-evident and occurs separately from the minor.
+
+The author delves into the practicality of omitting the major premise in a categorical syllogism. He argues that if the major premise is self-evident, the mind grasps it without utterance, but if not, the hearer will demand it. However, even when implicit, the meaning is essential. The key is whether the major premise occurs to the mind at the right time—separately from the minor premise—to be beneficial.
+
+Guided Path
+1
+Distinguish explicit vs. implicit major premise
+Identify the major premise in a categorical syllogism (the predicate of the conclusion) and note whether it is stated or left implicit. The author calls this 'idmar'.
+The minor premise is typically explicit.
+2
+Assess self-evidence of the major premise
+Determine if the major premise is self-evident (bayyin bi nafsihi). The author says if it is, the mind can supply it without being stated; if not, the hearer will object and demand it.
+Self-evident means the proposition is so clear it does not require demonstration.
+3
+Check timing of mental occurrence
+According to the author, the implicit major premise must occur to the mind separately from the minor premise, with its time connected to the minor's time. If it occurs simultaneously, it is useless.
+The mental occurrence should mimic the explicit statement.
+4
+Apply the conditions to a real case
+Consider a syllogism like 'Every intoxicant is forbidden; this beverage is intoxicant; therefore it is forbidden.' If the major is self-evident and occurs to the mind upon hearing the minor, then idmar is beneficial. If not, the hearer will ask for the major.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+النفس عن التوقف عليه إلا أنه لو صرّح به لكان الأمر يخطر بالبال مرتين بل لأنه لو صرّح به لكان يخطر بالبال استخطر بالبال وإن لم يلفظ بلفظة. ويكون إذا خطر بالبال وإن لم يلفظ به خطر مرة واحدة. ويكون خطوره بالبال معاقبًا لخطور المصرح به في زمان ثاني الذي لو صرّح به أيضًا لكان يخطر بالبال فيه أيضًا مرة واحدة فيما يكون على سبيل القسم الثاني فإنه يكون فصلا من حيث هو قول. وأما من حيث هو معنى فيكون هو محتاجا إليه ليس بفصل بل لا بد منه في أن يتم المعنى كما عرفت من حال الكبرى لكن التصريح بما صرّح به واتباعه المطلوب يخطر بالبال أن القائل أضمر شيئًا وهو مثلا إنه كل ب أ، فإن كان بينا بنفسه استغنى بخطوره بالبال في اتباع النتيجة للمقدمة عن التصريح به وإن لم يكن بينا بنفسه طالب به المخاطب فقال، ولم يجب أن يكون كل ب أ؛ فلولا أنه فهم من المخاطب ما صرح وما لم يصرح به جميعا لما كان الحق في قوله لم قلت إن كل ب أ. فأما إن كان إيقاع هذه النتيجة لا يخطر بالبال الكبرى فلا يكون هذا الكلام نافعا البتة فإذن إنما ينفع هذا الإضمار إذا خطر الكبرى بالبال خارجًا عن خطور الصغرى بالبال متصلاً زمانه بزمانه كما لو صرّح بالكبرى؛ فإن لم يخطر لم ينفع أصلا. ولم يكن الضمير جدوى في علم البتة. وإن خطر فإنما ينفع الضمير لشيء لا بد من أن يخطر بالبال في زمان التلفظ لكن إفادة ذلك الإخطار في ذلك الزمان لو صرّح به؛ فإذن المعنى الذي يدل عليه تلفظ المقدمة الكبرى فيحتاج لكن خطوره بالبال يعني استفادته بدلالة اللفظ، فمعنى اللفظ محتاج إليه وإن كان اللفظ مستغنى عنه. وأما في الشرطية فإنا إذا قلنا إن كان كل ب أ فيخطر الوضع بالبال وخطر معه التصديق به؛ فإن التصديق يكون خاطرا قبل الزمان الذي ينتقل فيه الذهن إلى التالي فضلا عن الزمان الذي استأنف فيه الاستثناء. فإذا ورد الاستثناء لم يخل من أن لا يفيد إخطار شيء بالبال أو يفيد بتكرير الأمر حاصل ليس زمان خطوره بالبال زمان التلفظ بالاستثناء كما كان زمان التلفظ بالكبرى زمان خطوره بالبال فيما يستغني عن التلفظ؛ فإذن هذا الاستثناء ليس يفيد أمرًا ذاتياً في الاتصال إلى الغرض بل أمر أسبق التصديق به. وما سبق التصديق به فليس الدلالة عليه باللفظ مطابقا لوقت الحاجة إليه فهو فضل بحسب اللفظ وبحسب الإفادة جميعًا فلا يفيد مع الاستثناء عنه؛ فبين إذن أن استعمال أمثال هذه المقدمات على صورة قياسية تكلف. وإنما الواجب أن يستعمل على نحو ما قلنا فكلما كان كذا كان كذا، وليس كلما كان كذا كان كذا على صورة قياس؛ فيكون له فائدة قياس.
+The soul [is] about stopping at it, except that if he stated it explicitly, the matter would occur to the mind twice. Rather, because if he stated it explicitly, it would occur to the mind, it is brought to mind, even if he did not utter a word. And when it occurs to the mind even if not uttered, it occurs once. And its occurrence to the mind is subsequent to the occurrence of the explicitly stated in a second time, which if he also stated explicitly, it would also occur to the mind at that time once, in what is on the way of the second division, then it is a part insofar as it is a statement. But insofar as it is a meaning, it is needed, not a part, but rather essential in completing the meaning as you understood from the case of the major premise. But stating what is stated and following it with the required makes it occur to the mind that the speaker implied something, for example 'every B is A'. If it is self-evident, he dispenses with its occurrence to the mind in following the conclusion from the premise over stating it explicitly. And if it is not self-evident, the interlocutor demands it and says, 'Why must every B be A?' For if he did not understand from the interlocutor what he stated and what he did not state all together, he would not have been correct in saying 'Why did you say that every B is A?' As for if the occurrence of this conclusion does not bring the major premise to mind, then this speech is not at all beneficial. So then this implicitness is only beneficial if the major premise occurs to the mind separately from the occurrence of the minor premise, with its time connected to its time, as if he stated the major premise explicitly. For if it does not occur, it is not at all beneficial. And the implicit has no benefit in knowledge at all. And if it occurs, then the implicit benefits for something that must occur to the mind at the time of utterance, but the benefit of that occurrence at that time would have been if he stated it explicitly. So the meaning indicated by uttering the major premise is needed, but its occurrence to the mind means deriving it by the indication of the wording. So the meaning of the wording is needed even if the wording is dispensed with. As for the conditional, we say 'if every B is A', the hypothesis occurs to the mind and with it occurs the assent to it. For the assent occurs before the time when the mind transfers to the consequent, let alone the time when it begins the exception. When the exception comes, it is either not beneficial in bringing anything to mind, or it benefits by repeating something that has already occurred, but its time of occurrence is not the time of uttering the exception, as the time of uttering the major premise was the time of its occurrence when it is dispensed with utterance. So then this exception does not bring about an essential matter in reaching the goal, but rather something whose assent preceded. And what has been previously assented to, its indication by wording is not in accordance with the time of need, so it is redundant in terms of wording and in terms of benefit, so it is not beneficial with the exception from it. So it is clear that using such premises in the form of a syllogism is a burden. And the proper way is to use it as we said: 'whenever it is so, it is so', and not 'whenever it is so, it is so' in syllogistic form, for then it has the benefit of a syllogism.
+Source pages p. 264
+
+Commentary
+This passage is a lengthy discussion on the use of implicit premises (idmar) in categorical and conditional syllogisms. The author begins by analyzing what happens when the major premise is not stated explicitly. If the major premise is self-evident (bayyin bi nafsihi), the mind grasps it without needing to be uttered, but if it is not, the interlocutor will demand it. The author then contrasts two scenarios: one where the implicit premise occurs to the mind at the same time as the minor, which is useless, and one where it occurs separately, which is beneficial. This leads to the conclusion that the meaning of the major premise is always needed, even if its wording can be dispensed with. The discussion then shifts to conditional syllogisms. If we say 'if every B is A', the hypothesis and its assent occur to the mind before any exception is made. When the exception comes, it either brings nothing new or repeats what is already known, so it is redundant. Thus, using conditional syllogisms with a self-evident antecedent is a unnecessary burden; instead, one should simply use the form 'whenever it is so, it is so' without syllogistic form to achieve real benefit. The argument relies on the principle that a conditional premise is only useful if its antecedent is not already known.
+
+Key Terms
+إضمار
+الشرطية
+بينا بنفسه
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, an implicit major premise is beneficial only when:
+A) It is self-evident and occurs simultaneously with the minor premise
+B) It is self-evident and occurs to the mind separately from the minor premise
+C) It is not self-evident
+D) It is never beneficial
+
+Key Takeaway
+Implicit major premises are beneficial only when the major premise is self-evident and its mental occurrence is separate from the minor's occurrence.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the categorical syllogism: "Every intoxicant is forbidden; this beverage is intoxicant; therefore it is forbidden." If the major premise is self-evident, would stating it explicitly be beneficial according to the author? Justify your answer using the conditions discussed.
+?
+Construct a similar syllogism from fiqh where the major premise is not self-evident. What would the hearer's objection be?
+
+Pages p. 264 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 264
+Module 8 · Lesson 11
+Next →
+Immediate Inference
+advanced
+10 min
+Are Conditional Syllogisms with Self-Evident Antecedents Useful?
+Author analyzes conditional syllogisms with self-evident antecedents.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a conditional syllogism with an explicit exception is beneficial or redundant based on the antecedent's prior assent.
+
+Core Idea
+If the antecedent is already known, a conditional syllogism is a burden, not a benefit.
+
+The author extends his analysis of implicit premises to conditional syllogisms. He argues that when the antecedent of a conditional is self-evident or already assented to, stating the conditional premise in syllogistic form is redundant. The mind already grasps the implication, and the exception (e.g., modus ponens) adds no new information. Thus, such syllogisms are an unnecessary burden; one should instead use a simple 'whenever it is so, it is so' without syllogistic form.
+
+Guided Path
+1
+Recall the structure of a conditional syllogism
+A conditional syllogism has a major premise of the form 'if A then B', a minor premise affirming the antecedent (modus ponens) or denying the consequent (modus tollens), and a conclusion. The author focuses on modus ponens: if A is true, then B is true.
+The passage uses 'if every B is A' as the antecedent and assumes the exception affirms it.
+2
+Recognize the timing of mental assent
+The author claims that when the conditional premise is stated, the hypothesis and the assent to it occur to the mind before any exception is made. In fact, the assent precedes the time when the mind even considers the consequent.
+Self-evident or already-known antecedents trigger immediate mental assent.
+3
+Evaluate the role of the exception
+When the exception (affirming the antecedent) is uttered, it either brings nothing new (if the antecedent is already assented to) or repeats what is already known. In both cases, it does not add essential information.
+The author says the exception does not 'bring about an essential matter in reaching the goal'.
+4
+Contrast with a useful conditional
+A conditional syllogism is only beneficial if the antecedent is doubted (mashkuk). Then the exception actually informs the mind and leads to a new conclusion. Otherwise, it is a burden.
+The passage implies that using self-evident antecedents in syllogistic form is 'takalluf' (an unnecessary burden).
+5
+Apply to an Islamic science example
+Consider: 'If a person prays with impurity, his prayer is invalid. Zaid prays with impurity. Therefore his prayer is invalid.' If the antecedent is not self-evident (e.g., the rule is known from revelation but not obvious), the syllogism is useful. But if it is self-evident that impurity invalidates prayer, then the conditional is redundant.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+النفس عن التوقف عليه إلا أنه لو صرّح به لكان الأمر يخطر بالبال مرتين بل لأنه لو صرّح به لكان يخطر بالبال استخطر بالبال وإن لم يلفظ بلفظة. ويكون إذا خطر بالبال وإن لم يلفظ به خطر مرة واحدة. ويكون خطوره بالبال معاقبًا لخطور المصرح به في زمان ثاني الذي لو صرّح به أيضًا لكان يخطر بالبال فيه أيضًا مرة واحدة فيما يكون على سبيل القسم الثاني فإنه يكون فصلا من حيث هو قول. وأما من حيث هو معنى فيكون هو محتاجا إليه ليس بفصل بل لا بد منه في أن يتم المعنى كما عرفت من حال الكبرى لكن التصريح بما صرّح به واتباعه المطلوب يخطر بالبال أن القائل أضمر شيئًا وهو مثلا إنه كل ب أ، فإن كان بينا بنفسه استغنى بخطوره بالبال في اتباع النتيجة للمقدمة عن التصريح به وإن لم يكن بينا بنفسه طالب به المخاطب فقال، ولم يجب أن يكون كل ب أ؛ فلولا أنه فهم من المخاطب ما صرح وما لم يصرح به جميعا لما كان الحق في قوله لم قلت إن كل ب أ. فأما إن كان إيقاع هذه النتيجة لا يخطر بالبال الكبرى فلا يكون هذا الكلام نافعا البتة فإذن إنما ينفع هذا الإضمار إذا خطر الكبرى بالبال خارجًا عن خطور الصغرى بالبال متصلاً زمانه بزمانه كما لو صرّح بالكبرى؛ فإن لم يخطر لم ينفع أصلا. ولم يكن الضمير جدوى في علم البتة. وإن خطر فإنما ينفع الضمير لشيء لا بد من أن يخطر بالبال في زمان التلفظ لكن إفادة ذلك الإخطار في ذلك الزمان لو صرّح به؛ فإذن المعنى الذي يدل عليه تلفظ المقدمة الكبرى فيحتاج لكن خطوره بالبال يعني استفادته بدلالة اللفظ، فمعنى اللفظ محتاج إليه وإن كان اللفظ مستغنى عنه. وأما في الشرطية فإنا إذا قلنا إن كان كل ب أ فيخطر الوضع بالبال وخطر معه التصديق به؛ فإن التصديق يكون خاطرا قبل الزمان الذي ينتقل فيه الذهن إلى التالي فضلا عن الزمان الذي استأنف فيه الاستثناء. فإذا ورد الاستثناء لم يخل من أن لا يفيد إخطار شيء بالبال أو يفيد بتكرير الأمر حاصل ليس زمان خطوره بالبال زمان التلفظ بالاستثناء كما كان زمان التلفظ بالكبرى زمان خطوره بالبال فيما يستغني عن التلفظ؛ فإذن هذا الاستثناء ليس يفيد أمرًا ذاتياً في الاتصال إلى الغرض بل أمر أسبق التصديق به. وما سبق التصديق به فليس الدلالة عليه باللفظ مطابقا لوقت الحاجة إليه فهو فضل بحسب اللفظ وبحسب الإفادة جميعًا فلا يفيد مع الاستثناء عنه؛ فبين إذن أن استعمال أمثال هذه المقدمات على صورة قياسية تكلف. وإنما الواجب أن يستعمل على نحو ما قلنا فكلما كان كذا كان كذا، وليس كلما كان كذا كان كذا على صورة قياس؛ فيكون له فائدة قياس.
+The soul [is] about stopping at it, except that if he stated it explicitly, the matter would occur to the mind twice. Rather, because if he stated it explicitly, it would occur to the mind, it is brought to mind, even if he did not utter a word. And when it occurs to the mind even if not uttered, it occurs once. And its occurrence to the mind is subsequent to the occurrence of the explicitly stated in a second time, which if he also stated explicitly, it would also occur to the mind at that time once, in what is on the way of the second division, then it is a part insofar as it is a statement. But insofar as it is a meaning, it is needed, not a part, but rather essential in completing the meaning as you understood from the case of the major premise. But stating what is stated and following it with the required makes it occur to the mind that the speaker implied something, for example 'every B is A'. If it is self-evident, he dispenses with its occurrence to the mind in following the conclusion from the premise over stating it explicitly. And if it is not self-evident, the interlocutor demands it and says, 'Why must every B be A?' For if he did not understand from the interlocutor what he stated and what he did not state all together, he would not have been correct in saying 'Why did you say that every B is A?' As for if the occurrence of this conclusion does not bring the major premise to mind, then this speech is not at all beneficial. So then this implicitness is only beneficial if the major premise occurs to the mind separately from the occurrence of the minor premise, with its time connected to its time, as if he stated the major premise explicitly. For if it does not occur, it is not at all beneficial. And the implicit has no benefit in knowledge at all. And if it occurs, then the implicit benefits for something that must occur to the mind at the time of utterance, but the benefit of that occurrence at that time would have been if he stated it explicitly. So the meaning indicated by uttering the major premise is needed, but its occurrence to the mind means deriving it by the indication of the wording. So the meaning of the wording is needed even if the wording is dispensed with. As for the conditional, we say 'if every B is A', the hypothesis occurs to the mind and with it occurs the assent to it. For the assent occurs before the time when the mind transfers to the consequent, let alone the time when it begins the exception. When the exception comes, it is either not beneficial in bringing anything to mind, or it benefits by repeating something that has already occurred, but its time of occurrence is not the time of uttering the exception, as the time of uttering the major premise was the time of its occurrence when it is dispensed with utterance. So then this exception does not bring about an essential matter in reaching the goal, but rather something whose assent preceded. And what has been previously assented to, its indication by wording is not in accordance with the time of need, so it is redundant in terms of wording and in terms of benefit, so it is not beneficial with the exception from it. So it is clear that using such premises in the form of a syllogism is a burden. And the proper way is to use it as we said: 'whenever it is so, it is so', and not 'whenever it is so, it is so' in syllogistic form, for then it has the benefit of a syllogism.
+Source pages p. 264
+
+Commentary
+This passage is a lengthy discussion on the use of implicit premises (idmar) in categorical and conditional syllogisms. The author begins by analyzing what happens when the major premise is not stated explicitly. If the major premise is self-evident (bayyin bi nafsihi), the mind grasps it without needing to be uttered, but if it is not, the interlocutor will demand it. The author then contrasts two scenarios: one where the implicit premise occurs to the mind at the same time as the minor, which is useless, and one where it occurs separately, which is beneficial. This leads to the conclusion that the meaning of the major premise is always needed, even if its wording can be dispensed with. The discussion then shifts to conditional syllogisms. If we say 'if every B is A', the hypothesis and its assent occur to the mind before any exception is made. When the exception comes, it either brings nothing new or repeats what is already known, so it is redundant. Thus, using conditional syllogisms with a self-evident antecedent is a unnecessary burden; instead, one should simply use the form 'whenever it is so, it is so' without syllogistic form to achieve real benefit. The argument relies on the principle that a conditional premise is only useful if its antecedent is not already known.
+
+Key Terms
+إضمار
+الشرطية
+بينا بنفسه
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, when is using a conditional syllogism with an explicit exception beneficial?
+A) When the antecedent is self-evident
+B) When the antecedent is not self-evident and its occurrence is prior to the exception
+C) When the antecedent is doubted
+D) When the consequent is self-evident
+
+Key Takeaway
+Conditional syllogisms are only beneficial if the antecedent is not already known; otherwise they are an unnecessary burden.
+
+How This Lesson Applies — to MY Life?
+?
+Take the conditional syllogism: 'If a person prays with impurity, his prayer is invalid. Zaid prays with impurity. Therefore his prayer is invalid.' Is the antecedent self-evident in Islamic law? Use the author's reasoning to determine if this syllogism is beneficial or a burden.
+?
+Construct a conditional syllogism from usul al-fiqh where the antecedent is doubted (mashkuk). Explain why it would be beneficial according to the passage.
+
+Pages p. 264 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 288
+Module 8 · Lesson 12
+Next →
+Immediate Inference
+intermediate
+8 min
+Essential vs. Verificational Negation and Universal Attachments
+Author defends essential negation conversion and advises seeking universal attachments.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between essential and verificational negation and identify universal attachments to construct valid syllogisms.
+
+Core Idea
+Negation is convertible in essence but not in verification; focus on universal attachments for productive syllogisms.
+
+This passage tackles a subtle point in logical inference: the convertibility of negation. You will learn that a negative statement is necessarily convertible only when the negation concerns the essence of the terms, not when it concerns accidental, verificational attributes. The author then guides you to concentrate on universal attachments (lawāḥiq kulliyya) and to avoid unproductive searches that lead to invalid syllogistic figures. This prepares you to efficiently construct sound arguments.
+
+Guided Path
+1
+Understand the objection against conversion of negation
+The author presents an objection: separate properties (khuṣūṣ mufāriqa) can be negated of a thing, but the thing cannot be negated of those properties (e.g., 'a human is not laughing' is true, but 'laughing is not human' is false). Recognize that this challenges the universal convertibility of negation.
+Separate properties are accidental, not essential.
+2
+Distinguish essential vs. verificational negation
+The author argues that if negation is based on essence (i.e., 'this is not that' in terms of identity), then conversion holds necessarily: 'that is not this'. But if it is based on verification (actual existence or accident), conversion may fail. Identify which type of negation is at play in a given statement.
+Essential negation is about the thing's quiddity; verificational negation concerns actual state.
+3
+Define universal attachments (lawāḥiq kulliyya)
+A universal attachment is not what attaches to every individual of the subject, but what attaches to the universality of the subject (i.e., to the concept as a whole). Know that seeking such attachments is productive for syllogisms, unlike attachments to non-universal subjects.
+Example: 'Human' is a universal attached thing; 'rationality' is a universal attachment that applies to the concept of human, not necessarily every individual.
+4
+Identify unproductive searches to avoid
+The author specifies three cases: (1) attachments that attach to both extremes of a proposition or neither, (2) seeking whether the predicate of the conclusion is predicated of something that is negated of its subject (negative minor in second figure), (3) seeking whether the predicate is predicated of something of which the subject is not predicated (negative minor in third figure). Also avoid particular negative in fourth figure. Memorize these pitfalls to waste no effort.
+These all involve invalid or non-productive syllogistic forms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لا يلحق حدًا حدا. وأما ما يلحق فليس هو نفس ما يلحق فإن الموضوعات التي على المجرى الطبعي تمايز المحمولات التي على المجرى الطبعي وإن دخل بعضها في بعض إذا كانت على غير المجرى الطبعي. ثم لقائل أن يقول كيف هو ولا يلزم من سلب الشيء عن غيره سلب ذلك الغير عنه. ألا ترى أن الخواص المفارقة للشيء من جملة ما يصح سلبه عن ذلك الشيء ولا يصح سلب ذلك الشيء عن شيء من الخواص ؟ لكنا نقول : إذا صح قولنا هذا الشيء ليس ذلك صح قولنا ذلك الشيء ليس هذا. فإن من المحال أن يكون هذا من حيث إنه هو غير ذلك الشيء، وإن ذلك الشيء من حيث هو هو نفس هذا. نعم يمكن أن يسلب الشيء عن الشيء بحسب التحقق، ولا يمكن أن يسلب ذلك الشيء عنه بحسب التحقق كما في الخواص المفارقة. ثم إنك إذا أمعنت النظر في الإستكثار من هذه اللواحق والملحوقات وغيرها فأنتَ أقرب من إصابة الغرض. واللواحق التي تلحق غير الملحوق الكلي مما لا ينتفع به في أكثر الأمر بل عليك باقتناص اللواحق الكلية والملحوقات الكلية. وليس اللاحق الكلي ما يلحق بكلية الموضوع بل ما يلحق كلية الموضوع : ولا عليك أن تشتغل بطلب اللواحـق التي تلحق الطرفين والتي لا تلحق الطرفين. فإن ذلك لا يفيد لما مر من قبل أن المتفقتين في الكيف لا تنتجان في الشكل الثاني. وكذلك لا يفيد اشتغالك بطلب أن محمول المطلوب هل يحمل على شيء هو مسلوب عن موضوعه؛ فإن الصغرى السالبة في الشكل الثاني لا تنتج. وكذلك لا يفيد طلب أن ما هو محمول المطلوب هل يحمل على شيء لا يحمل موضوعه عليه؛ فإن الصغرى السالبة في الشكل الثالث لا تنتج. وعلى هذا بالنسبة إلى ما لا ينتج نحو السالبة الجزئية في الشكل الرابع: فإن الاشتغال بطلبه اشتغال بما لا يعنيه.
+No definition attaches to a definition. As for what attaches, it is not the same as what is attached, for the subjects that are in the natural course differentiate the predicates that are in the natural course, even if some enter into others when they are not in the natural course. Then someone may say: How is that? It is not necessary that negating a thing of another negates that other of the thing. Do you not see that the separate properties of a thing are among what can be negated of that thing, but that thing cannot be negated of any of the properties? But we say: If our statement 'This thing is not that' is true, then our statement 'That thing is not this' is true. For it is impossible that this, inasmuch as it is itself, is other than that thing, and that thing, inasmuch as it is itself, is identical to this. Yes, it is possible to negate a thing of another thing with respect to verification, and it is not possible to negate that other thing of it with respect to verification, as in separate properties. Then if you ponder deeply in multiplying these attachments and attached things and others, you will be closer to hitting the target. Attachments that attach to a non-universal attached thing are not useful in most cases; rather, you must seek universal attachments and universal attached things. The universal attachment is not what attaches to the whole subject, but rather what attaches to the universality of the subject. You should not occupy yourself with seeking attachments that attach to both extremes or that attach to neither extreme, for that is not beneficial, as previously mentioned: two premises agreeing in quality produce no conclusion in the second figure. Similarly, it is not beneficial to seek whether the predicate of the desired conclusion is predicated of something that is negated of its subject; for the negative minor premise in the second figure yields no conclusion. Similarly, it is not beneficial to seek whether what is the predicate of the desired conclusion is predicated of something of which its subject is not predicated; for the negative minor premise in the third figure yields no conclusion. And likewise for what yields no conclusion, such as the particular negative in the fourth figure: occupying oneself with seeking it is occupying oneself with what does not concern one.
+Source pages p. 288
+
+Commentary
+This passage begins by discussing the nature of difference and attachment. The author first states that no definition attaches to a definition, and that subjects in the natural course differentiate predicates. Then he anticipates an objection: negation is not always convertible, as seen in accidental properties. The author responds by distinguishing essential negation (where if 'this is not that' then 'that is not this' necessarily) from verificational negation, which can hold asymmetrically for accidents. He then advises the reader to multiply such attachments and attached things to approach the goal. The key methodological point: one should focus on universal attachments (al-lawāḥiq al-kulliyya) and universal attached things (al-malḥūqāt al-kulliyya). A universal attachment is not what attaches to every individual of the subject, but rather what attaches to the universality of the subject. Then the author warns against unproductive pursuits: seeking attachments that attach to both extremes or neither, as they lead to invalid syllogisms. He specifically mentions that two premises agreeing in quality in the second figure yield nothing, that a negative minor in second figure yields nothing, and that a negative minor in third figure yields nothing. He also mentions the particular negative in the fourth figure. The overall teaching is to avoid wasted effort and to concentrate on universal attachments that can yield valid syllogisms. This passage is essentially a methodological preface to the next lesson on constructing syllogisms.
+
+Key Terms
+سلب
+خواص مفارقة
+لواحق كلية
+ملحوقات كلية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, which of the following is true about the conversion of negation?
+A) Negation is never convertible.
+B) Negation is convertible only in terms of verification, not essence.
+C) Negation is convertible in terms of essence, but not always in terms of verification.
+D) Negation is fully convertible in all respects.
+
+Key Takeaway
+Essential negation is convertible, but verificational negation may not be; always seek universal attachments for fruitful syllogisms.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Determine whether the following negation is essential or verificational: 'Wine is not permissible (halal).' If essential, write the converted statement; if verificational, explain why conversion fails.
+?
+Task 2: Identify which universal attachment is productive in the syllogism: 'Every intoxicant is forbidden. Nabidh is an intoxicant. Therefore nabidh is forbidden.' What is the universal attachment? What is the universal attached thing? Then, propose a similar syllogism on a different fiqh topic.
+
+Pages p. 288 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 311
+Module 8 · Lesson 13
+Next →
+Immediate Inference
+intermediate
+8 min
+Essential vs. Accidental Consequences of Syllogisms
+Author lists the accidental consequences of categorical syllogisms: particular, converse, and contradictory.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish essential (bi-dhāt) from accidental (bi-l-'araḍ) products of a categorical syllogism, and list the accidental consequences (particular, converse, converse of contradictory, falsity of contradictory) for universal and particular affirmative syllogisms.
+
+Core Idea
+A syllogism's essential product is its direct conclusion; it accidentally yields the particular, converse, and contradictory implications.
+
+In the previous lesson, we saw how categorical syllogisms produce direct conclusions. But a syllogism also yields additional logical implications, which the author calls 'accidental consequences' (al-lawāzim al-'araḍiyya). Understanding this distinction sharpens your ability to extract all valid inferences from a proof. In this lesson, we will unpack which consequences follow from universal and particular syllogisms, and why particular negatives are more limited.
+
+Guided Path
+1
+Identify the essential vs. accidental distinction
+Find where the author uses بالذات (bi-dhāt) and بالعرض (bi-l-'araḍ). The essential product is the direct conclusion of the syllogism; the accidental products require additional reasoning.
+The key sentence: 'إنتاجه للكلي بالذات والجزئي بالعرض'.
+2
+List accidental consequences for a universal syllogism
+The author states that a syllogism producing a universal also yields: the particular subsumed under it, its simple converse (if it has one), the converse of its contradictory, and the falsity of its contradictory. Write these down.
+For a universal negative (E), the simple converse is valid; for universal affirmative (A), the simple converse is not valid (only particular affirmative converse).
+3
+Examine particular affirmative syllogisms
+The author says a syllogism producing a particular affirmative yields its converse, the converse of its contradictory, the falsity of its contradictory, and all necessary implications. Note that the simple converse of I is valid (I converts to I).
+This is consistent with standard immediate inference rules.
+4
+Understand why particular negatives are restricted
+The author explicitly states that a particular negative syllogism does NOT produce its simple converse because simple conversion of O is invalid. It still produces the falsity of its contradictory and the converse of its contradictory.
+The text says: 'دون عكسها المستوي لاستحالة انعكاسها عكسا مستويا'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما استقرار النتائج، فالقياس الذي ينتج الكلي موجباً كان أو سالبا فإنه ينتج الجزئي الذي في ضمنه لكنه إنتاجه للكلي بالذات والجزئي بالعرض؛ لأنه بواسطة قياس آخر وهو أن الأصغر فيه مقدّمتا القياس الأول والأوسط نبحثه وهو ذلك الكلي، والأكبر هو الجزئي. وكذلك ينتج عكسه عكس نقيضه إن كان له عكس، وعكس نقيض. وينتج كذب نقيضه أيضًا؛ وهذه كلها بالعرض لا بالذات. وكذلك القياس الذي ينتج الموجبة الجزئية فإنه ينتج عكسها وعكس نقيضها وكذب نقيضها وكل ما يكون من اللوازم لها. وأما السالبة الجزئية فإذا كان القياس منتجا لها كان منتجًا كذب نقيضها وعكس نقیضها دون عكسها المستوي لاستحالة انعكاسها عكسا مستويا. ولا يقال: إنها تنعكس عكسا مستويًا في البعض من الصور فإن ذلك لا يكون عكسها وإلا لا يكون مختصا بالعكس من المواد وهذا من جملة ما قد مرّ الكلام فيه.
+As for the establishment of the conclusions: the syllogism that produces the universal, either affirmative or negative, produces the particular that is subsumed under it, but its production of the universal is essential and of the particular is accidental, because it is through another syllogism: the minor premise is the two premises of the first syllogism, and the middle is that universal, and the major is the particular. Likewise, it produces its simple converse, the converse of its contradictory (if it has a converse), and the contradictory of its converse, and also the falsity of its contradictory. All these are accidental, not essential. Similarly, the syllogism that produces the particular affirmative produces its converse, the converse of its contradictory, the falsity of its contradictory, and all that are necessary implications of it. As for the particular negative, if the syllogism produces it, it produces the falsity of its contradictory and the converse of its contradictory, but not its simple converse, because it is impossible for it to be simply converted. It is not said that it is simply converted in some figures, for that would not be its proper converse, otherwise it would not be specific to conversion of materials. This is among what has already been discussed.
+Source pages p. 311
+
+Commentary
+This passage is an expansion on what a categorical syllogism produces beyond its direct conclusion. The author distinguishes between essential (bi-dhāt) and accidental (bi-l-'araḍ) production. A syllogism that yields a universal conclusion (e.g., 'Every intoxicant is forbidden') essentially proves that universal, but accidentally it also proves the particular ('Some intoxicant is forbidden'), the simple converse ('Some forbidden thing is an intoxicant'), the converse of the contradictory ('Some non-intoxicant is not forbidden'? careful), and the falsity of the contradictory ('It is false that some intoxicant is not forbidden'). These consequences require additional syllogisms to be derived. Similarly for particular affirmative syllogisms, they produce the same types of consequences. For particular negative syllogisms, however, the simple converse is not producible because a particular negative proposition cannot be simply converted (e.g., 'Some intoxicant is not whisky' does not imply 'Some whisky is not an intoxicant' in standard logic). The author notes that some may argue it converts in certain figures, but that is not its proper conversion. This passage reinforces the theory of immediate inferences.
+
+Key Terms
+الذات
+العرض
+العكس المستوي
+
+Key Terms from Source Passage
+
+Checkpoint
+A particular negative syllogism does NOT accidentally produce which of the following?
+A) The falsity of its contradictory
+B) The converse of its contradictory
+C) The simple converse
+D) The falsity of its contradictory
+
+Key Takeaway
+A categorical syllogism accidentally yields immediate inferences (subalternation, conversion, contraposition) beyond its essential conclusion, with particular negatives being the exception for simple conversion.
+
+How This Lesson Applies — to MY Life?
+?
+A categorical syllogism yields the conclusion 'Every riba is forbidden'. List all accidental consequences mentioned in the passage (particular, simple converse, converse of contradictory, falsity of contradictory). For each, state whether it is valid and why.
+?
+Explain why a syllogism concluding 'Some intoxicant is not whisky' cannot accidentally produce 'Some whisky is not an intoxicant' as a simple converse, referencing the author's argument.
+
+Pages p. 311 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 343
+Module 8 · Lesson 14
+Next →
+Immediate Inference
+advanced
+7 min
+Conversion of Syllogistic Conclusions
+Author demonstrates conversion of syllogistic conclusions via premise conversion.
+
+Learning Objective
+By the end of this lesson, you will be able to convert the conclusion of a valid categorical syllogism by converting its premises.
+
+Core Idea
+Converting a syllogism's conclusion requires converting its premises and shifting figures.
+
+In this passage, the author demonstrates a technique for deriving the converse of a categorical conclusion by manipulating the premises. This operation not only yields the converse but also reveals how premises change figures. Understanding this process is key to mastering immediate inference in syllogistic logic.
+
+Guided Path
+1
+Identify the original syllogism
+Locate the initial syllogism: 'Every J is B' and 'Every B is A' yield 'Every J is A'. Note the terms and their order.
+The middle term B connects J and A.
+2
+State the desired converted conclusion
+The author wants to derive 'Every A is J' from the conclusion 'Every J is A'. Recognize that this is a conversion of the original conclusion.
+In standard logic, 'Every J is A' converts to 'Some A is J', but the author assumes reciprocity for this demonstration.
+3
+Convert the minor premise
+To support 'Every A is J', convert the minor premise 'Every J is B' to 'Every B is J'. Then combine with the unchanged major 'Every B is A' to get 'Every B is J'? Actually follow the text: 'Every B is A' and 'Every A is J' yield 'Every B is J'. This step shows the minor's conversion.
+The author uses the converted minor to create a new syllogism in the first figure.
+4
+Observe the figure shift
+When converting the major premise, it becomes a minor in the second figure, producing the converse of the conclusion. Check the text: 'when the major is converted, it becomes the second figure'.
+This illustrates how conversion manipulates syllogistic figures.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في عكس النتائج
+وهنا اعتبارات تعرض للقياس والمقدمات بسبب أحوال في الحدود فنقول إذا قلنا كل ج ب وكل ب أ ينتج كل ج أ؛ ثم إذا انعكس هذا يصح إن كل أ ج فيلزم أن تنعكس الصغرى. وذلك لأنك تقول كل ب أ وكل أ ج فكل ب ج؛ ويلزم أن تنعكس الكبرى لأنك تقول كل أ ج وكل ج ب فكل أ ب. فإن كانت الكبرى سالبة فعلت كل ج ب ولا شيء من ب أ فلا شيء من ج أ؛ فالكبرى تنعكس. وكما أنها تنعكس فكذلك النتيجة لانعكاسهما. وذلك لأن الكبرى إذا انعكست صارت إلى الشكل الثاني وصلحت أن تكون صغرى؛ فأنتجت عكس النتيجة. وكذلك إن انعكست الصغرى. والنتيجة السالبة انعكست الكبرى السالبة لأنه إذا كان كل ب ج ولا شيء من أ ج؛ وهو عكس النتيجة ينتج لا شيء من أ ب. وأما انعكاس المتلازمات والمتقابلات فإنه إذا كان كل واحد من أ و ب ينعكس على الآخر في الحمل. وكان كذلك ج و د؛ وكان د و ج موضوع إما الشيء ج و د؛ د ج المطلق وإما الأخص لا يخلو إما أن يكون ج وإما أن يكون أ. فكذلك هو ل ب و د لأنه إذا كان إذا وجد في الموضوع أ وجد فيه ب؛ وحينئذ لا يوجد فيه ج فيجب أيضًا أن لا يوجد فيه د وإلا فقد وجد فيه ج لأن كل ج د. فإذن عندما يوجد فيه ب لا يوجد فيه د. وكذلك عندما يوجد فيه د يجب أن يوجد فيه ج ولا يوجدا؛ فيجب أن لا يوجد فيه ب وإلا فقد وجدا وأقول أيهما يوجد فالآخر يوجد لأنه إذا لم يكن فيه د ويكون فيه ب لأنه إذا لم يكن فيه د لم يكن فيه ج وإلا كان ج ليس ب د. فإذا لم يكن فيه ج كان فيه أ وكل أ ب لكان فيه ب. وكذلك بالعكس. ومثال أن المكون والفاسد إذا انعكس أحدهما على الآخر فغير
+Chapter on the conversion of conclusions. And here there are considerations that occur to the syllogism and its premises due to states in the terms. So we say: If we say 'Every J is B' and 'Every B is A', it yields 'Every J is A'. Then if this is converted, 'Every A is J' is valid, so it is necessary that the minor premise is converted. That is because you say 'Every B is A' and 'Every A is J', so 'Every B is J'. And it is necessary that the major premise is converted because you say 'Every A is J' and 'Every J is B', so 'Every A is B'. If the major premise is negative, you say 'Every J is B' and 'No B is A', so 'No J is A'; so the major premise is converted. And just as it is converted, the conclusion is also converted due to their conversion. That is because when the major is converted, it becomes the second figure and becomes suitable to be minor, so it produces the conversion of the conclusion. Similarly if the minor is converted. And the negative conclusion is converted [i.e., the negative major is converted] because if 'Every B is J' and 'No A is J'—which is the conversion of the conclusion—it yields 'No A is B'. As for the conversion of reciprocals and opposites, it is that if each one of A and B reciprocates upon the other in predication, and similarly C and D, and D and C are subject either the thing 'C and D', 'D C' absolute or the more specific; it is not free either that it is C or that it is A. So similarly it is for 'L B' and 'D' because if when A is found in the subject, B is found in it; and then C is not found in it, so it is necessary that D is also not found in it, otherwise C would be found in it because every C is D. So then when B is found in it, D is not found in it. Similarly, when D is found in it, C must be found in it and they are not both found; so it is necessary that B is not found in it, otherwise they would both be found. And I say whichever of them is found, the other is found because if D is not in it and B is in it, because if D is not in it, C is not in it, otherwise C would not be 'B D'. So if C is not in it, then A is in it, and every A is B, so B would be in it. And similarly conversely. And an example is that the generated and the corrupted, if one of them reciprocates upon the other, then [unclear].
+Source pages p. 343
+
+Commentary
+This passage is a technical exposition on the conversion of syllogistic conclusions and reciprocal relationships. The author begins by stating that there are considerations regarding the syllogism and premises based on the states of the terms. He then presents the conversion of a universal affirmative syllogism: from 'Every J is B' and 'Every B is A', we get 'Every J is A'. Converting the conclusion gives 'Every A is J', and to derive this, the minor premise must be converted (yielding 'Every B is A' and 'Every A is J' to get 'Every B is J'). Similarly, converting the major premise yields 'Every A is B'. If the major premise is negative (e.g., 'Every J is B' and 'No B is A'), the conclusion is 'No J is A', and conversion of the major premise is performed. The author explains that when the major premise is converted, it becomes a premise of the second figure, which then yields the conversion of the conclusion. The discussion then shifts to the conversion of reciprocals (mutalāzimāt) and opposites (mutaqābilāt). These are terms that are co-extensive or mutually implicative. The author outlines a logical relationship involving four terms (A, B, C, D) and shows that if A and B are reciprocals, and C and D are reciprocals, then certain relations hold. The key idea is that if something is in a subject, its reciprocal is also in it. The passage ends with an example involving al-mukawwan (the generated) and al-fāsid (the corrupted), which are mutually convertible concepts. This section is crucial for understanding how conversion operations work in categorical logic, particularly for deriving new syllogisms.
+
+Key Terms
+عكس
+النتائج
+الصغرى
+الكبرى
+سالبة
+
+Key Terms from Source Passage
+
+Checkpoint
+When the major premise of a universal affirmative syllogism is converted, according to the text, what figure does it become?
+A) First figure
+B) Second figure
+C) Third figure
+D) Fourth figure
+
+Key Takeaway
+The conversion of a syllogism's conclusion is achieved by converting its premises, which may shift the syllogism to a different figure.
+
+How This Lesson Applies — to MY Life?
+?
+Using the author's method, take the syllogism: 'Every intoxicant is forbidden, every nabidh is an intoxicant, therefore every nabidh is forbidden.' Attempt to derive the conversion of the conclusion by converting the minor premise. What new syllogism does this produce?
+?
+Explain why the author's claim that 'Every A is J' is valid is problematic in standard logic. Provide a corrected version of the conversion using a particular affirmative.
+
+Pages p. 343 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 343
+Module 8 · Lesson 15
+Next →
+Immediate Inference
+advanced
+6 min
+Conversion of Reciprocals and Opposites
+Author explains conversion of reciprocal and opposite terms with logical relationships.
+
+Learning Objective
+By the end of this lesson, you will be able to identify reciprocal terms and apply conversion rules to them in logical reasoning.
+
+Core Idea
+Reciprocal terms imply each other; their conversion preserves universal affirmative truth.
+
+The author extends conversion to reciprocal terms (mutalāzimāt) and opposites (mutaqābilāt). These are terms that are co-extensive, meaning they always go together. Understanding how to manipulate such pairs is crucial for constructing valid arguments in Islamic sciences, especially when dealing with mutually dependent concepts.
+
+Guided Path
+1
+Identify reciprocal pairs
+Look for pairs like A and B that 'reciprocate upon the other in predication' – i.e., every A is B and every B is A. Similarly, find C and D as another reciprocal pair.
+These are co-extensive terms.
+2
+Apply the presence rule
+If a subject contains A, it must contain B, and vice versa. The author argues that if a subject has A (and thus B), and does not have C, then it also cannot have D (since every C is D). This logic forces either presence or absence of reciprocals.
+The reasoning uses the mutual implication of reciprocals.
+3
+Derive the conversion
+From the rules, the author shows that the relationship between A and B, and C and D, allows converting propositions involving them. For example, if every A is B, then every B is A (valid because they are reciprocals).
+This is the key: conversion of universal affirmatives holds for reciprocals.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في عكس النتائج
+وهنا اعتبارات تعرض للقياس والمقدمات بسبب أحوال في الحدود فنقول إذا قلنا كل ج ب وكل ب أ ينتج كل ج أ؛ ثم إذا انعكس هذا يصح إن كل أ ج فيلزم أن تنعكس الصغرى. وذلك لأنك تقول كل ب أ وكل أ ج فكل ب ج؛ ويلزم أن تنعكس الكبرى لأنك تقول كل أ ج وكل ج ب فكل أ ب. فإن كانت الكبرى سالبة فعلت كل ج ب ولا شيء من ب أ فلا شيء من ج أ؛ فالكبرى تنعكس. وكما أنها تنعكس فكذلك النتيجة لانعكاسهما. وذلك لأن الكبرى إذا انعكست صارت إلى الشكل الثاني وصلحت أن تكون صغرى؛ فأنتجت عكس النتيجة. وكذلك إن انعكست الصغرى. والنتيجة السالبة انعكست الكبرى السالبة لأنه إذا كان كل ب ج ولا شيء من أ ج؛ وهو عكس النتيجة ينتج لا شيء من أ ب. وأما انعكاس المتلازمات والمتقابلات فإنه إذا كان كل واحد من أ و ب ينعكس على الآخر في الحمل. وكان كذلك ج و د؛ وكان د و ج موضوع إما الشيء ج و د؛ د ج المطلق وإما الأخص لا يخلو إما أن يكون ج وإما أن يكون أ. فكذلك هو ل ب و د لأنه إذا كان إذا وجد في الموضوع أ وجد فيه ب؛ وحينئذ لا يوجد فيه ج فيجب أيضًا أن لا يوجد فيه د وإلا فقد وجد فيه ج لأن كل ج د. فإذن عندما يوجد فيه ب لا يوجد فيه د. وكذلك عندما يوجد فيه د يجب أن يوجد فيه ج ولا يوجدا؛ فيجب أن لا يوجد فيه ب وإلا فقد وجدا وأقول أيهما يوجد فالآخر يوجد لأنه إذا لم يكن فيه د ويكون فيه ب لأنه إذا لم يكن فيه د لم يكن فيه ج وإلا كان ج ليس ب د. فإذا لم يكن فيه ج كان فيه أ وكل أ ب لكان فيه ب. وكذلك بالعكس. ومثال أن المكون والفاسد إذا انعكس أحدهما على الآخر فغير
+Chapter on the conversion of conclusions. And here there are considerations that occur to the syllogism and its premises due to states in the terms. So we say: If we say 'Every J is B' and 'Every B is A', it yields 'Every J is A'. Then if this is converted, 'Every A is J' is valid, so it is necessary that the minor premise is converted. That is because you say 'Every B is A' and 'Every A is J', so 'Every B is J'. And it is necessary that the major premise is converted because you say 'Every A is J' and 'Every J is B', so 'Every A is B'. If the major premise is negative, you say 'Every J is B' and 'No B is A', so 'No J is A'; so the major premise is converted. And just as it is converted, the conclusion is also converted due to their conversion. That is because when the major is converted, it becomes the second figure and becomes suitable to be minor, so it produces the conversion of the conclusion. Similarly if the minor is converted. And the negative conclusion is converted [i.e., the negative major is converted] because if 'Every B is J' and 'No A is J'—which is the conversion of the conclusion—it yields 'No A is B'. As for the conversion of reciprocals and opposites, it is that if each one of A and B reciprocates upon the other in predication, and similarly C and D, and D and C are subject either the thing 'C and D', 'D C' absolute or the more specific; it is not free either that it is C or that it is A. So similarly it is for 'L B' and 'D' because if when A is found in the subject, B is found in it; and then C is not found in it, so it is necessary that D is also not found in it, otherwise C would be found in it because every C is D. So then when B is found in it, D is not found in it. Similarly, when D is found in it, C must be found in it and they are not both found; so it is necessary that B is not found in it, otherwise they would both be found. And I say whichever of them is found, the other is found because if D is not in it and B is in it, because if D is not in it, C is not in it, otherwise C would not be 'B D'. So if C is not in it, then A is in it, and every A is B, so B would be in it. And similarly conversely. And an example is that the generated and the corrupted, if one of them reciprocates upon the other, then [unclear].
+Source pages p. 343
+
+Commentary
+This passage is a technical exposition on the conversion of syllogistic conclusions and reciprocal relationships. The author begins by stating that there are considerations regarding the syllogism and premises based on the states of the terms. He then presents the conversion of a universal affirmative syllogism: from 'Every J is B' and 'Every B is A', we get 'Every J is A'. Converting the conclusion gives 'Every A is J', and to derive this, the minor premise must be converted (yielding 'Every B is A' and 'Every A is J' to get 'Every B is J'). Similarly, converting the major premise yields 'Every A is B'. If the major premise is negative (e.g., 'Every J is B' and 'No B is A'), the conclusion is 'No J is A', and conversion of the major premise is performed. The author explains that when the major premise is converted, it becomes a premise of the second figure, which then yields the conversion of the conclusion. The discussion then shifts to the conversion of reciprocals (mutalāzimāt) and opposites (mutaqābilāt). These are terms that are co-extensive or mutually implicative. The author outlines a logical relationship involving four terms (A, B, C, D) and shows that if A and B are reciprocals, and C and D are reciprocals, then certain relations hold. The key idea is that if something is in a subject, its reciprocal is also in it. The passage ends with an example involving al-mukawwan (the generated) and al-fāsid (the corrupted), which are mutually convertible concepts. This section is crucial for understanding how conversion operations work in categorical logic, particularly for deriving new syllogisms.
+
+Key Terms
+المتلازمات
+المتقابلات
+المكون
+الفاسد
+
+Key Terms from Source Passage
+
+Checkpoint
+What example does the author give for reciprocals?
+A) The generated and the corrupted
+B) The necessary and the contingent
+C) The universal and the particular
+D) The substance and the accident
+
+Key Takeaway
+Reciprocal terms are co-extensive; conversion of a universal affirmative proposition between them is valid as a universal affirmative.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the reciprocal pair 'halal' and 'permissible' in Islamic law. If every halal thing is permissible and every permissible thing is halal, and we know that all trade is halal, use the reciprocal conversion rule to determine what follows about trade and permissibility.
+?
+Identify another pair of reciprocals from fiqh or kalam (e.g., 'wajib' and 'mandub' in some contexts) and construct an argument showing the conversion of a universal affirmative proposition between them.
+
+Pages p. 343 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 345
+Module 8 · Lesson 16
+Next →
+Immediate Inference
+intermediate
+5 min
+Conversion Under Restricted Extension: Coextensive Terms
+Author explains conversion of A and B when A is only in B and C and every C is B.
+
+Learning Objective
+By the end of this lesson, you will be able to determine when two terms are coextensive based on their extensions and apply conversion correctly in Islamic logical arguments.
+
+Core Idea
+If A applies only to B and C, and all C is B, then A and B are convertible.
+
+This passage presents a specific case of immediate inference: conversion. The author shows that if the extension of A is exactly B and C, and every C is B (i.e., C is a subset of B), then A and B are coextensive—every A is B and every B is A. This means the universal affirmative propositions convert mutually. Understanding this helps manipulate categorical propositions in syllogistic reasoning, a key tool in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the extension of A
+The passage states that A exists only in B and C. That is, the set of things of which A is predicated is exactly {B, C}.
+Assume all terms are categories (e.g., genera or species).
+2
+Apply the condition that every C is B
+Given 'every C is B', the set C is a subset of set B. Thus, everything that is C is also B.
+This establishes an inclusion relation.
+3
+Derive that every A is B
+Since A applies only to B and C, and C is a subset of B, everything A applies to is in B. Therefore, 'Every A is B' holds.
+This is direct from the extension assumption.
+4
+Derive that every B is A
+The passage then notes that B applies to B and C. Since A applies to exactly B and C, B applies only to things A applies to (assuming B's extension is also exactly {B, C}). Thus, 'Every B is A' holds.
+This step requires the assumption that B is only in B and C, which the passage implicitly holds.
+5
+Conclude coextension and conversion
+Since every A is B and every B is A, A and B are coextensive. Consequently, the conversion (in'ikās) between A and B is mutual: the subject and predicate can be swapped while preserving truth.
+The passage then notes that if B and C are convertible, A and B are also convertible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما إذا كان «أ» موجودًا في كل «ب» وفي كل «ج» فقط ولا يوجد في غيرهما ثمَّ كان كل (ج) (ب) فيكون كل «أب» لأن «ب» يقال على جميع ما يقال عليه «أ» لأن «أ» يقال على (ب) و (ج) فقط. ثمَّ «ب» يقال على (ب) وعلى «ج» فـ «ب» يقال على جميع ما يقال عليه «أ» فكل «ب أ» . فإن انعكس بج» انعكس أيضًا «أب»؛ وهذا ظاهر.
+And if A exists in all B and all C only, and does not exist in others, then if every C is B, then every A is B, because B is predicated of everything of which A is predicated, since A is predicated only of B and C. Then B is predicated of B and of C, so B is predicated of everything of which A is predicated, so every B is A. Then if the conversion of B and C holds, the conversion of A and B also holds; this is obvious.
+Source pages p. 345
+
+Commentary
+This passage explains a case of immediate inference (conversion). The author assumes that A is predicated only of B and C (i.e., the extension of A is exactly B and C). If every C is B, then every A is B (since everything A applies to is either B or C, and C is also B). Conversely, B is predicated of B and of C, so B applies to everything A applies to, thus every B is A. Hence A and B are coextensive (every A is B and every B is A). Then, if B and C are convertible, A and B are also convertible. In Islamic logic, conversion is used to manipulate categorical propositions, often for syllogistic validity.
+
+Key Terms
+انعكاس
+
+Key Terms from Source Passage
+
+Checkpoint
+If A exists only in B and C, and every C is B, what can we conclude about A and B?
+A) Every A is B and every B is A.
+B) Some A is not B.
+C) A and B are unrelated.
+D) Only every A is B, but not vice versa.
+
+Key Takeaway
+When A's extension is exactly B and C and C is a subset of B, A and B are coextensive and mutually convertible.
+
+How This Lesson Applies — to MY Life?
+?
+Suppose in a fiqh analogy, the effective cause ('illah) of a ruling is 'intoxication'. Intoxication is found only in 'khamr' (grape wine) and 'nabidh' (date wine). Every nabidh is intoxicating (i.e., shares the same 'illah). Using the logic from this passage, determine whether 'intoxication' and 'khamr' are convertible. Explain your reasoning.
+?
+Construct an example using Islamic terms (e.g., 'body', 'accident', 'created') to illustrate coextension and conversion based on the pattern in the passage.
+
+Pages p. 345 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 502
+Module 8 · Lesson 17
+Next →
+Immediate Inference
+intermediate
+5 min
+The Condition of Equality for Convertibility of the Middle Term
+Author concludes discussion on middle term's equality and its relation to major and minor.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a middle term is equal (musawi) and explain why equality is necessary for conversion in syllogistic demonstration.
+
+Core Idea
+The middle term must be equal to be convertible; equality is the condition for immediate inference via conversion.
+
+In this passage, the author concludes a discussion on the middle term's role in demonstration. He emphasizes that for a middle term to be convertible (mun'akis), it must be equal (musawi) to the terms. This is a key condition for valid immediate inference. We will dissect the logical conditions and apply them to Islamic legal reasoning.
+
+Guided Path
+1
+Find the claim about conversion
+Read the last sentence: 'the middle term is not convertible unless it is equal'. Identify the Arabic phrase that expresses this condition.
+The key phrase is 'لا يكون منعكسًا إلا وأن يكون مساويًا'.
+2
+Understand 'equal' in context
+The author explains that the cause (middle term) is not specific to each subject but is 'equal to the effect' (مساوية للمعلول). This means the middle term applies to all and only those things that have the effect; it is coextensive.
+Equality here means the middle term's extension is identical to the major term's extension, enabling conversion.
+3
+Relate to immediate inference
+Conversion ('aks) is an immediate inference where the subject and predicate swap. For a universal affirmative proposition (e.g., 'Every A is B'), conversion is only valid if A and B are equal (coextensive). The middle term in a demonstration must satisfy this for the conclusion to be convertible.
+In Aristotelian logic, 'Every A is B' converts to 'Some B is A' without equality; but here the author seems to require full equality for demonstration purposes.
+4
+Apply to an Islamic example
+Consider the demonstration: 'Every intoxicating drink is forbidden; this drink is intoxicating; therefore it is forbidden.' The middle term 'intoxicating' is not equal to 'forbidden' (since not everything forbidden is intoxicating). Therefore, it is not convertible. But for a valid demonstration where the middle term is the cause, equality is needed.
+In usul al-fiqh, the 'illa (cause) must be coextensive for qiyas to be certain.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فلا يمكن لأنها تكون حدا مبدأ برهان كما مر . وأما علة القياس كالعلامة والأعراض القريبة فهو ممكن لا يمكن أن يفهم أنه تعني هذه التي هي علة في جميع الموضوعات ليست علة خاصة بموضوع موضوع بل هي مساوية للمعلول حتى إن المشترك بين العلل هو علة للمشترك بين المعلولات؛ فالعلة واحدة، والمعلول لا يمكن أن يوجد أحدهما بدون صاحبه. والأوسط على طبيعة الحد الأكبر؛ فإن كان الأكبر متواطناً كان ما يوجبه بالذات متواطئاً أيضًا. ولما ظهرت حال نسبة الأوسط إلى الأكبر فقد ظهرت حال نسبة الأوسط إلى الأصغر، ولنقتصر على هذا القدر فإن من المعلوم أن يكون الأوسط لا يكون منعكسًا إلا وأن يكون مساويًا، وإنه قد يكون مساويًا، وقد لا يكون كما مر من غير مرة.
+So it is not possible for it to be a definition that is the principle of demonstration as has passed. As for the cause of the syllogism like the sign and the proximate accidents, it is possible that it cannot be understood that it means these which are the cause in all subjects, not a cause specific to each subject, but rather it is equal to the effect, such that the common between the causes is the cause of the common between the effects. So the cause is one, and the effect cannot exist without its companion. And the middle term follows the nature of the major term. So if the major is univocal, then what it necessitates essentially is also univocal. And when the state of the relation of the middle to the major has become clear, then the state of the relation of the middle to the minor has become clear. And let us suffice with this much, for it is known that the middle term is not converse unless it is equal, and that it may be equal and may not be, as has been mentioned many times.
+Source pages p. 502
+
+Commentary
+This passage concludes a discussion on the middle term in demonstration (burhan). The author states that a definition cannot serve as the principle of demonstration. Then he discusses the 'cause of the syllogism' (illa al-qiyas), which is like a sign or proximate accident. He says it is possible that this cause is not specific to each subject but is equal to the effect, meaning the common cause is the cause of the common effect. He then states that the middle term follows the nature of the major term: if the major is univocal (mutawat'), then what it necessitates essentially is also univocal. Once the relation of the middle to the major is clear, the relation of the middle to the minor is also clear. Finally, he notes that the middle term is not convertible (mun'akis) unless it is equal (musawi), and it may or may not be equal, as previously mentioned.
+
+Key Terms
+علة القياس
+مساوٍ
+منعكس
+متواطئ
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what condition is necessary for the middle term to be convertible (mun'akis)?
+A) It must be a definition.
+B) It must be equal (musawi) to the terms.
+C) It must be univocal.
+D) It must be a cause of the syllogism.
+
+Key Takeaway
+For a middle term to be convertible in demonstration, it must be equal (coextensive) to the major and minor terms; without equality, conversion is invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the middle term 'intoxicating' is equal to the major term 'forbidden' in the syllogism: 'Every intoxicating drink is forbidden; this drink is intoxicating; therefore it is forbidden.' Is it convertible? Explain using the author's condition.
+?
+Construct a valid demonstrative syllogism from usul al-fiqh where the middle term is equal to the major term, ensuring convertibility. Justify your choice.
+
+Pages p. 502 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 534
+Module 8 · Lesson 18
+Next →
+Immediate Inference
+intermediate
+5 min
+The Priority of Negation and Affirmation in Debate
+Author warns against assuming negation precedes affirmation
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether negation or affirmation is used by a respondent or questioner in a debate and recognize how universal refutation can be achieved.
+
+Core Idea
+Negation does not always precede affirmation; context determines who negates.
+
+In logical debates, it is often assumed that negation is the primary operation. However, the author cautions that negation can originate from either side. Understanding this helps clarify strategies for refutation.
+
+Guided Path
+1
+Identify the claim about negation
+Find the statement that negation precedes affirmation. The author warns against this assumption.
+2
+Locate the author's correction
+The author says negation can be from respondent or questioner. Note that this moves the focus from logical priority to dialectical context.
+3
+Analyze universal refutation
+Determine which propositions (affirmative/negative, universal/particular) can achieve universal refutation according to the passage.
+The passage lists particular affirmative, particular negative, or universal of both.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولا يظن أن السلب مقدم على الإيجاب؛ إذ السلب قد يكون من جانب المجيب، وقد يكون من جانب السائل. والإبطال الكلي قد يكون بموجب جزئي، وقد يكون بسالب جزئي، وقد يكون بالكلي منهما جميعًا. ثمَّ الغلط في الذاتيات قد يكون بإدخال الشرط كما يقال إن البياض عرض له إن كان لونا وإنما اللون جنسه ، وقد يكون بترك الشرط كما يقال إنه جنس له لا بالتواطؤ بل بالاشتقاق كالأعراض فيقال إن البياض لون، وإن المشي تحرك وأمثال هذه الأشياء أعم من موضوعاتها فلا يمكن أن يكون من الخواص
+And do not think that negation precedes affirmation; for negation may be on the side of the respondent, and it may be on the side of the questioner. And universal refutation may be by a particular affirmative, or by a particular negative, or by the universal of both together. Then error in essential predicates may be by inserting a condition, as when it is said that whiteness is an accident if it is a color, but color is its genus; and it may be by omitting a condition, as when it is said that it is a genus for it not by univocity but by derivation, like accidents, so it is said that whiteness is a color, and that walking is a movement, and such things are more general than their subjects, so they cannot be among the properties.
+Source pages p. 534
+
+Commentary
+This passage clarifies two important logical points. First, regarding negation and affirmation: one should not assume that negation always precedes affirmation. Negation can come from either the respondent or the questioner. Universal refutation (إبطال كلي) can be achieved by a particular affirmative, a particular negative, or a universal of both. Second, the author discusses errors in essential predicates (الذاتيات). Errors occur either by inserting an unnecessary condition or by omitting a necessary one. For example, saying 'whiteness is an accident if it is a color' wrongly inserts the condition 'if it is a color', because color is actually its genus. Conversely, omitting the condition of univocity leads to errors like calling 'whiteness' a genus for its referred object by derivation, when it is actually a genus by univocity. The passage warns that such predicates are more general than their subjects and thus cannot be properties.
+
+Key Terms
+السلب مقدم على الإيجاب
+الذاتيات
+بالاشتقاق
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which types of propositions can achieve universal refutation?
+A) Only universal negatives
+B) Only particular affirmatives
+C) Particular affirmative, particular negative, or universal of both
+D) Only universal affirmatives
+
+Key Takeaway
+Negation is not always prior to affirmation; its source depends on the dialectical context.
+
+How This Lesson Applies — to MY Life?
+?
+Given a debate scenario: A claimant says 'All knowledge is acquired through reason'. An objector responds 'Not all knowledge is acquired through reason'. Identify which party is using negation and what type of refutation this represents (particular negative, universal negative, etc.).
+?
+Construct a universal refutation using a particular affirmative on an Islamic issue (e.g., 'Some intoxicants are not wine' is a particular negative; for universal refutation you need a universal claim). Show how a universal negative can refute a universal affirmative.
+
+Pages p. 534 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 534
+Module 8 · Lesson 19
+Next →
+Immediate Inference
+intermediate
+5 min
+Errors in Essential Predicates: Inserting or Omitting Conditions
+Author gives examples of errors in defining essential predicates
+
+Learning Objective
+By the end of this lesson, you will be able to identify errors in definitions that involve inserting unnecessary conditions or omitting required conditions.
+
+Core Idea
+Essential predicates must be defined without redundant or missing conditions.
+
+Defining essential predicates (dhātiyyāt) requires precision. The author warns against two common errors: inserting a condition that is already implied by the genus, or omitting a condition that specifies the mode of predication. These errors undermine the correctness of definitions.
+
+Guided Path
+1
+Identify the term being defined
+In the examples, whiteness and walking are the subjects of definition.
+2
+Extract the erroneous definition
+For example, 'whiteness is an accident if it is a color' inserts an unnecessary condition.
+3
+Determine the error
+Is a condition inserted unnecessarily? Here, 'if it is a color' is redundant because color is already the genus.
+4
+Compare with the correct definition
+Correct: 'whiteness is a color' (no condition). The error is inserting a condition that is already part of the definition.
+5
+Identify the second error
+Omitting the condition of univocity leads to claiming genus by derivation, which is incorrect.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولا يظن أن السلب مقدم على الإيجاب؛ إذ السلب قد يكون من جانب المجيب، وقد يكون من جانب السائل. والإبطال الكلي قد يكون بموجب جزئي، وقد يكون بسالب جزئي، وقد يكون بالكلي منهما جميعًا. ثمَّ الغلط في الذاتيات قد يكون بإدخال الشرط كما يقال إن البياض عرض له إن كان لونا وإنما اللون جنسه ، وقد يكون بترك الشرط كما يقال إنه جنس له لا بالتواطؤ بل بالاشتقاق كالأعراض فيقال إن البياض لون، وإن المشي تحرك وأمثال هذه الأشياء أعم من موضوعاتها فلا يمكن أن يكون من الخواص
+And do not think that negation precedes affirmation; for negation may be on the side of the respondent, and it may be on the side of the questioner. And universal refutation may be by a particular affirmative, or by a particular negative, or by the universal of both together. Then error in essential predicates may be by inserting a condition, as when it is said that whiteness is an accident if it is a color, but color is its genus; and it may be by omitting a condition, as when it is said that it is a genus for it not by univocity but by derivation, like accidents, so it is said that whiteness is a color, and that walking is a movement, and such things are more general than their subjects, so they cannot be among the properties.
+Source pages p. 534
+
+Commentary
+This passage clarifies two important logical points. First, regarding negation and affirmation: one should not assume that negation always precedes affirmation. Negation can come from either the respondent or the questioner. Universal refutation (إبطال كلي) can be achieved by a particular affirmative, a particular negative, or a universal of both. Second, the author discusses errors in essential predicates (الذاتيات). Errors occur either by inserting an unnecessary condition or by omitting a necessary one. For example, saying 'whiteness is an accident if it is a color' wrongly inserts the condition 'if it is a color', because color is actually its genus. Conversely, omitting the condition of univocity leads to errors like calling 'whiteness' a genus for its referred object by derivation, when it is actually a genus by univocity. The passage warns that such predicates are more general than their subjects and thus cannot be properties.
+
+Key Terms
+الذاتيات
+بالاشتقاق
+الشرط
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of an error in essential predicates by inserting an unnecessary condition?
+A) Saying 'whiteness is a color' without qualification.
+B) Saying 'whiteness is an accident if it is a color'.
+C) Saying 'walking is a movement'.
+D) Saying 'genus is predicated by derivation'.
+
+Key Takeaway
+Errors in essential predicates arise from misplacing conditions; careful definition requires including only necessary and sufficient conditions.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the definition: 'Wine is an intoxicant if it is consumed'. Identify the error (inserting condition 'if consumed' unnecessarily, because intoxication is the genus). Rewrite correctly.
+?
+Consider the definition: 'Walking is a movement not by univocity but by derivation'. Identify the omitted condition (univocity) and state the correct definition.
+
+Pages p. 534 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 539
+Module 8 · Lesson 20
+Next →
+Immediate Inference
+intermediate
+7 min
+Conditional Inference in Privation and Possession
+Conditional inference in privation/possession dialectic.
+
+Learning Objective
+By the end of this lesson, you will be able to identify conditional inferences in dialectical contexts and evaluate their validity using Islamic examples.
+
+Core Idea
+Privation is the absence of a possession; their dialectical implication runs both ways.
+
+This passage introduces the dialectical relation of privation (عدم) and possession (ملكة), illustrated with sight and blindness. The author notes that the conditional implication 'if sight is good, then blindness is absence of good' is famous and valid when taken straightforward. We will examine how this conditional reasoning works and why it matters in Islamic dialectic.
+
+Guided Path
+1
+Identify the two terms in the opposition
+Find the pair of opposites: one is a possession (e.g., sight as good), the other is its privation (e.g., blindness as absence of good). Note that privation implies the absence of a quality in a subject naturally capable of it.
+Privation differs from simple negation; it requires a subject that normally has the quality.
+2
+Formulate the conditional statement
+Express the relation as a conditional: 'If S possesses P, then the privation of P is absent (or is a lack).' For the example: if sight is good, then blindness is the absence of good. Recognize that this is an immediate inference based on the definition of privation.
+The conditional is not causal but definitional.
+3
+Test the implication in both directions
+Check if the converse holds: 'If blindness is absence of good, then sight is good'? The author says the implication from both sides is famous, meaning the biconditional may hold. Reflect on whether that is always logically necessary or only in dialectical contexts.
+In strict logic, the converse may not be valid; dialectical contexts sometimes allow broader inferences.
+4
+Evaluate validity for Islamic dialectic
+Apply this conditional pattern to Islamic sciences: e.g., in kalam, if knowledge of Allah is present, then ignorance is its privation. The 'straightforward' condition requires that the subject (human soul) is capable of knowledge. This filters invalid applications.
+False analogy arises if the subject lacks capacity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما العدم والمكلة فاللزوم من الجانبين مشهور فإنه إذا كان البصر حسنا فالعمى عدم حسن؛ ويُشبه أن يكون هذا الموضع حقًا إذا أخذ على الاستقامة.
+As for privation and possession, the implication from both sides is famous: for if sight is good, then blindness is an absence of good. It seems that this topic is valid if taken straightforwardly.
+Source pages p. 539
+
+Commentary
+This passage briefly discusses the relation of privation (عدم) and possession (ملكة), such as sight and blindness. The author states that the implication from both sides is famous: if sight is good, then blindness is the absence of good. This is a dialectical topic, but it can be valid if taken in a straightforward manner, i.e., the privation of a good thing is itself not good. This is an expansion probe explaining a simple logical relation.
+
+Key Terms
+العدم والملكة
+اللزوم من الجانبين
+الاستقامة
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the example of privation and possession given in the passage?
+A) Hot and cold
+B) Sight and blindness
+C) Good and evil
+D) Father and son
+
+Key Takeaway
+The dialectical relation of privation and possession yields a conditional inference that is valid only when the subject is capable of the possession.
+
+How This Lesson Applies — to MY Life?
+?
+Given the pair 'justice (possession) and injustice (privation)', formulate the conditional inference both ways and test whether the subject (a judge) is capable of justice. Provide an Islamic legal example.
+?
+Identify a conditional inference in a kalam argument about the world being temporally originated (possibility as possession vs. necessity as privation) and explain if the inference is 'straightforward'.
+
+Pages p. 539 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 539
+Module 8 · Lesson 21
+Next →
+Immediate Inference
+intermediate
+8 min
+Relative Terms and the Condition of Parallel Equivalence
+Author discusses how relative terms imply each other, with conditions for true implication.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when an inference from relative terms is valid by checking the parallel equivalence condition.
+
+Core Idea
+Relatives imply each other only when the correlation is parallel and preserved.
+
+In this passage, the author examines a common logical move: inferring one relative from another. For example, if knowledge is related to the known, can we infer something about the knower? The answer is: only if we observe the parallel equivalence. Let's unpack the conditions.
+
+Guided Path
+1
+Identify the relative pair
+Find the two terms in the conditional statement that are correlatives, such as 'knowledge' and 'known'. Note: they are defined in relation to each other.
+2
+Determine the direction of relation
+Specify which term is the subject and which is the object of the relation. For example, knowledge is the attribute, known is the thing known.
+3
+Check the parallel equivalence (al-muwāzāh al-mu‘ādala)
+Ensure that the roles are preserved. If the first term is related to the second in a certain way, the inference must maintain that exact relation without switching roles.
+4
+Test the inference
+Apply the conditional: if the first relative holds, then the second must hold in the same relational direction. Use the author's examples to see which satisfy the condition and which do not.
+The example about sense and knowledge fails because sense is not knowledge; they are not genuine relatives in the same parallel manner.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما المتضايفات فإنها متلازمة على الاستقامة إذا روعي ما يجب أن يراعى ملازماً حقيقياً، ومتلازمة على الإطلاق ملازما مشهورًا. فيقال إن كان ذو ثلاثة أضعاف كثير الأضعاف فذو ثلاثة أجزاء كثير الأجزاء، وإن كان العلم ظنا فالمعلوم مظنون. وأما في الحقيقة فليس يجب أن يلزم إلا بشرائط؛ وذلك لأن العلم من حيث هو فيه مضاف إلى العالم، ومضاف من وجه آخر إلى المعلوم. وليس يجب إذا كان العلم إدراكًا أن يكون العالم مدركًا أي واقعا عليه الإدراك أو المعلوم مدرَكًا أي واقعا منه الإدراك بل يجب أن تكون الموازاة المعادلة محفوظة. فلو قلت إذا كان محسوس ما معلوما كان حس ما علما كان ذلك قولًا جدليًّا؛ إذ الحس ليس بعلم أصلا، وبالعكس.
+As for relatives, they are mutually implicative straightforwardly if what must be observed for a real implication is observed, and they are mutually implicative absolutely in a famous implication. So it is said: 'If something with three times is many-times, then something with three parts is many-parts.' And: 'If knowledge is opinion, then the known is opined.' However, in reality, it does not necessarily follow except under conditions. That is because knowledge, in itself, is related to the knower, and related from another aspect to the known. It does not follow that if knowledge is perception, then the knower is perceived (i.e., subject to perception) or the known is perceptive (i.e., exercising perception). Rather, the parallel equivalence must be preserved. So if you said: 'If what is sensed is known, then sense is knowledge'—that would be a dialectical statement, since sense is not knowledge at all, and vice versa.
+Source pages p. 539
+
+Commentary
+This passage addresses the logical relation between relative terms (المتضايفات), such as father/son, triple/tripled, knowledge/known. The author states that relatives are mutually implicative if the correct correlation is maintained. He gives examples: 'If something has three times and is many-times, then something with three parts is many-parts'—this is a straightforward implication. Another example: 'If knowledge is opinion, then the known is opined'—this assumes a relation but might not hold if the terms are not properly coordinated. The author then provides a deeper analysis: knowledge is related to the knower and the known in different ways, so one cannot simply swap roles. For instance, from 'knowledge is perception' it does not follow that 'the knower is perceived' or 'the known is perceptive'. The correct parallel must be preserved. If one incorrectly infers that 'if the sensed is known, then sense is knowledge', that is only dialectical, not true, because sense and knowledge are different. This is an expansion probe detailing the conditions for valid inference from relatives.
+
+Key Terms
+المتضايفات (al-mutaḍāyifāt): Relatives; terms that are correlative, like father/son, cause/effect. [Note: Standard Aristotelian category; stable.]
+الموازاة المعادلة (al-muwāzāh al-mu‘ādala): Parallel equivalence or correspondence that must hold between the two relative terms for valid implication. [Note: This is a specific logical condition; not a widely used term elsewhere.]
+جدلي (jadali): Dialectical; based on plausible premises, not certain. [Note: Standard usage.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why is the statement 'If what is sensed is known, then sense is knowledge' not necessarily true?
+A) Because sense and knowledge are the same thing.
+B) Because the parallel equivalence is not preserved; sense is not knowledge.
+C) Because the relative relation is only famous.
+D) Because the statement uses a conditional form.
+
+Key Takeaway
+For an implication between relative terms to be valid, the correlation must be parallel and the terms must be genuine relatives; otherwise, the inference is merely dialectical.
+
+How This Lesson Applies — to MY Life?
+?
+Identify a pair of relative terms in the following passage from al-Ghazali's al-Mustasfa: 'Knowledge is the attribute by which the known is disclosed. The knower is the one who has knowledge.' Check whether the inference 'If knowledge is an attribute, then the knower is an attribute' is valid by applying the condition of parallel equivalence.
+?
+Construct a valid conditional implication from a pair of relatives in Islamic law (e.g., bay` (sale) and thaman (price) are relatives). Then construct an invalid implication that violates the parallel equivalence, and explain why it fails.
+
+Pages p. 539 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 639
+Module 8 · Lesson 22
+Next →
+Immediate Inference
+intermediate
+10 min
+Inferring Possibility from Opposites, Similarity, and Difficulty
+Author lists logical rules for inferring possibility.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of opposites, similarity, and difficulty to determine possibility in Islamic legal and theological arguments.
+
+Core Idea
+If the opposite or a similar or harder case is possible, then the thing itself is possible.
+
+In Islamic rhetorical arguments (khiṭāba), establishing possibility is often the first step toward persuasion. The author provides three foundational rules: if the opposite of something is possible, the thing is possible; if something similar or analogous is possible, it is possible; and if the more difficult is possible, the easier is possible. These rules help construct valid topoi in fiqh and kalām debates.
+
+Guided Path
+1
+Identify the thing whose possibility is in question
+Locate the act, object, or proposition (الممكن) whose possibility you want to prove. For example, 'performing ṣalāt al-qasr (shortened prayer).'
+2
+Find its opposite, similar instance, or harder version
+Determine a counterpart according to one of the three relations: opposite (نقيض), similar (ما يشبه), or more difficult (الأصعب). For instance, the opposite of qasr is itmām (complete prayer); a similar case is jamʿ (combining prayers); a harder case is fasting while travelling.
+3
+Apply the corresponding rule
+If the counterpart is established as possible, conclude that the original is possible. Use the rule: 'If the opposite is possible, it is possible; if the similar is possible, it is possible; if the harder is possible, the easier is possible.' For example, if jamʿ is known to be permissible, then qasr, being similar, is also permissible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فلنبدأ بالأنواع الخاصة بالممكن فنقول إذا كان نقيض الشيء ممكنا فهو ممكن، وإن كان ما يُشبه ويجري مجراه ممكنا فهو ممكن، وكذلك إذا كان الأصعب ممكنا فالأسهل ممكن. وما كان ابتداءً كونه ممكنا فما ينتهي إليه ممكن، وبالعكس، وكذلك في المتقدم والمتقدم بالطبع فإنه إذا أمكن أن يكون الإنسان رجلا أمكن أن يكون غلاما، وبالعكس. والذي يتعلق بمعونة الغير كيف كان فهو ممكن. وإذا كان كل جزء ممكنا فالكل ممكن، وإذا كان الكل ممكنا فكل جزء ممكن. وإذا كان النوع ممكناً فالجنس ممكن، وإذا كان أحد طرفي الإضافة ممكنا كان الطرف الآخر ممكن، وعلى هذا في سائر الممكنات.
+Let us begin with the specific types of the possible. We say: if the opposite of a thing is possible, then it is possible. And if something similar and running in its course is possible, then it is possible. Similarly, if the more difficult is possible, then the easier is possible. What is possible in its beginning, then what ends in it is possible, and conversely. Likewise in the prior and prior by nature: if it is possible that a man be a man, it is possible that he be a youth, and conversely. What depends on the help of another, however it is, is possible. If every part is possible, the whole is possible. If the whole is possible, every part is possible. If the species is possible, the genus is possible. If one of the two correlatives is possible, the other correlative is possible. And so on in all possibles.
+Source pages p. 639
+
+Commentary
+This passage provides a set of immediate inferences for determining possibility in rhetorical arguments. It is a definitional expansion of the concept of 'possible' (ممكن) as used in deliberative rhetoric. The author begins with the rule that if the opposite (نقيض) of something is possible, then the thing itself is possible. For example, if it is possible for an act to be not obligatory, then it is possible for it to be obligatory (since obligation and non-obligation are opposites in Islamic legal categories). Then, if something similar (ما يشبه) or analogous is possible, it is possible. For instance, if it is possible for a qasr (shortened prayer) for a traveler, it is possible for jam' (combining prayers) because they are similar concessions. Next, the more difficult (الأصعب) implies the easier (الأسهل): if it is possible to fast a month without break, it is possible to fast one day. The passage continues with a temporal rule: if the beginning is possible, the end is possible, and vice versa. For example, if it is possible to start a journey, it is possible to complete it. Similarly, if a later stage is possible (e.g., being a man), the earlier stage (being a youth) is possible. Things dependent on external help are possible; if every part is possible, the whole is possible (like building a house from possible bricks). Conversely, if the whole is possible, parts are possible. If a species is possible, the genus is possible (e.g., if 'fasting on Monday' is possible, 'fasting' as a genus is possible). If one correlative (e.g., father) is possible, the other (son) is possible. These rules form the basis for constructing rhetorical arguments from possibility.
+
+Key Terms
+نقيض الشيء (naqid al-shay'): The opposite or contradictory of a thing; used to infer possibility of the thing from its opposite.
+الأصعب والأسهل (al-as'ab wa al-as-hal): The more difficult and the easier; logical relation: if the harder is possible, the easier is possible. [Note: Common in rhetorical topoi, not formal logic.]
+المتقدم والمتقدم بالطبع (al-mutaqaddim wa al-mutaqaddim bil-tab'): Prior and prior by nature; temporal or natural priority used in possibility inferences. [Note: Distinction between temporal and natural priority is Aristotelian.]
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following best applies the rule 'if the opposite is possible, then the thing is possible'?
+A) If it is possible for prayer to be shortened, then it is possible for it to be complete.
+B) If it is possible for a vow to be broken, then it is possible for it to be fulfilled.
+C) If it is possible to fast while travelling, then it is possible to shorten prayer.
+D) If it is possible for a man to be a youth, then it is possible for him to be an old man.
+
+Key Takeaway
+The first three rules (opposite, similarity, and difficulty) allow a rhetor to infer possibility from related cases, forming the basis of persuasive analogies in Islamic discourse.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a short Islamic argument using the rule of opposites: 'If it is possible for an act to be non-obligatory (mubāḥ), then it is possible for it to be obligatory (wājib).' Provide a concrete fiqh example.
+?
+Identify which rule (opposite, similarity, or difficulty) is used in the following claim: 'If fasting the entire month of Ramaḍān without break is possible, then fasting a single day is also possible.' Rewrite it as a formal inference.
+
+Pages p. 639 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 639
+Module 8 · Lesson 23
+Next →
+Immediate Inference
+intermediate
+10 min
+Inferring Possibility from Temporal Priority and Parts
+Author lists logical rules for inferring possibility.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of temporal priority and part-whole relations to determine possibility in Islamic arguments.
+
+Core Idea
+If the beginning is possible, the end is possible; if each part is possible, the whole is possible.
+
+The author continues listing rules for possibility: what is possible in its beginning has a possible end, and vice versa. Similarly, if every part of a composite act is possible, the whole is possible, and conversely. These rules are used in juristic reasoning to argue about the feasibility of complex actions and processes.
+
+Guided Path
+1
+Identify the process or composite thing
+Look for an action with a clear temporal sequence (e.g., starting and completing a journey) or a composite whole made of parts (e.g., building a mosque from bricks).
+2
+Apply the temporal rule (beginning-end)
+If the start of the process is possible, then its completion is possible. For example, if it is possible to intend an act of worship, it is possible to perform it. Conversely, if the end is possible, the beginning is possible.
+The rule also works in reverse: if the end is possible, the beginning is possible.
+3
+Apply the part-whole rule
+If every individual part of a composite act is possible (e.g., each step of ḥajj), then the whole act is possible. Conversely, if the whole act is possible, each part is possible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فلنبدأ بالأنواع الخاصة بالممكن فنقول إذا كان نقيض الشيء ممكنا فهو ممكن، وإن كان ما يُشبه ويجري مجراه ممكنا فهو ممكن، وكذلك إذا كان الأصعب ممكنا فالأسهل ممكن. وما كان ابتداءً كونه ممكنا فما ينتهي إليه ممكن، وبالعكس، وكذلك في المتقدم والمتقدم بالطبع فإنه إذا أمكن أن يكون الإنسان رجلا أمكن أن يكون غلاما، وبالعكس. والذي يتعلق بمعونة الغير كيف كان فهو ممكن. وإذا كان كل جزء ممكنا فالكل ممكن، وإذا كان الكل ممكنا فكل جزء ممكن. وإذا كان النوع ممكناً فالجنس ممكن، وإذا كان أحد طرفي الإضافة ممكنا كان الطرف الآخر ممكن، وعلى هذا في سائر الممكنات.
+Let us begin with the specific types of the possible. We say: if the opposite of a thing is possible, then it is possible. And if something similar and running in its course is possible, then it is possible. Similarly, if the more difficult is possible, then the easier is possible. What is possible in its beginning, then what ends in it is possible, and conversely. Likewise in the prior and prior by nature: if it is possible that a man be a man, it is possible that he be a youth, and conversely. What depends on the help of another, however it is, is possible. If every part is possible, the whole is possible. If the whole is possible, every part is possible. If the species is possible, the genus is possible. If one of the two correlatives is possible, the other correlative is possible. And so on in all possibles.
+Source pages p. 639
+
+Commentary
+This passage provides a set of immediate inferences for determining possibility in rhetorical arguments. It is a definitional expansion of the concept of 'possible' (ممكن) as used in deliberative rhetoric. The author begins with the rule that if the opposite (نقيض) of something is possible, then the thing itself is possible. For example, if it is possible for an act to be not obligatory, then it is possible for it to be obligatory (since obligation and non-obligation are opposites in Islamic legal categories). Then, if something similar (ما يشبه) or analogous is possible, it is possible. For instance, if it is possible for a qasr (shortened prayer) for a traveler, it is possible for jam' (combining prayers) because they are similar concessions. Next, the more difficult (الأصعب) implies the easier (الأسهل): if it is possible to fast a month without break, it is possible to fast one day. The passage continues with a temporal rule: if the beginning is possible, the end is possible, and vice versa. For example, if it is possible to start a journey, it is possible to complete it. Similarly, if a later stage is possible (e.g., being a man), the earlier stage (being a youth) is possible. Things dependent on external help are possible; if every part is possible, the whole is possible (like building a house from possible bricks). Conversely, if the whole is possible, parts are possible. If a species is possible, the genus is possible (e.g., if 'fasting on Monday' is possible, 'fasting' as a genus is possible). If one correlative (e.g., father) is possible, the other (son) is possible. These rules form the basis for constructing rhetorical arguments from possibility.
+
+Key Terms
+نقيض الشيء (naqid al-shay'): The opposite or contradictory of a thing; used to infer possibility of the thing from its opposite.
+الأصعب والأسهل (al-as'ab wa al-as-hal): The more difficult and the easier; logical relation: if the harder is possible, the easier is possible. [Note: Common in rhetorical topoi, not formal logic.]
+المتقدم والمتقدم بالطبع (al-mutaqaddim wa al-mutaqaddim bil-tab'): Prior and prior by nature; temporal or natural priority used in possibility inferences. [Note: Distinction between temporal and natural priority is Aristotelian.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if it is possible that a man be an old man (shaykh), what else must be possible?
+A) That he be a child
+B) That he be a youth
+C) That he be dead
+D) That he be tall
+
+Key Takeaway
+Temporal and part-whole relations allow systematic inference about possibility in processes and composite actions, essential for evaluating religious obligations.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an Islamic example for the temporal rule: 'If it is possible to intend to fast tomorrow, then it is possible to actually fast tomorrow.' Explain why this uses the beginning-end rule.
+?
+Use the part-whole rule to argue: 'If each of the five daily prayers is possible individually, then performing all five is possible.' Identify the parts and the whole.
+
+Pages p. 639 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 639
+Module 8 · Lesson 24
+Next →
+Immediate Inference
+intermediate
+10 min
+Inferring Possibility from Species, Genus, and Correlatives
+Author lists logical rules for inferring possibility.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of species-genus and correlatives to determine possibility in Islamic conceptual arguments.
+
+Core Idea
+If a species is possible, its genus is possible; if one correlative is possible, the other is possible.
+
+The final set of rules in this passage concerns hierarchical relations: species implies genus, and correlatives imply each other. These are used in conceptual analysis within Islamic theology and jurisprudence, for example, when arguing about the possibility of attributes or relations.
+
+Guided Path
+1
+Identify the species or one correlative
+Determine the specific instance (species) or one side of a relation (e.g., father). For example, 'charity for the poor' is a species of the genus 'charity'.
+2
+Apply the species-to-genus rule
+If the species is possible, the genus is possible. For instance, if it is possible to give charity specifically to the poor, then charity in general is possible. Conversely, if the genus is possible, the species is not necessarily possible (the passage does not state the reverse, but it says 'if the species is possible, the genus is possible' only).
+The passage only gives one direction: species → genus.
+3
+Apply the correlatives rule
+If one correlate (e.g., father) is possible, the other correlate (e.g., son) is possible. For example, if it is possible for a man to be a father, it is possible for him to have a son. This works in both directions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فلنبدأ بالأنواع الخاصة بالممكن فنقول إذا كان نقيض الشيء ممكنا فهو ممكن، وإن كان ما يُشبه ويجري مجراه ممكنا فهو ممكن، وكذلك إذا كان الأصعب ممكنا فالأسهل ممكن. وما كان ابتداءً كونه ممكنا فما ينتهي إليه ممكن، وبالعكس، وكذلك في المتقدم والمتقدم بالطبع فإنه إذا أمكن أن يكون الإنسان رجلا أمكن أن يكون غلاما، وبالعكس. والذي يتعلق بمعونة الغير كيف كان فهو ممكن. وإذا كان كل جزء ممكنا فالكل ممكن، وإذا كان الكل ممكنا فكل جزء ممكن. وإذا كان النوع ممكناً فالجنس ممكن، وإذا كان أحد طرفي الإضافة ممكنا كان الطرف الآخر ممكن، وعلى هذا في سائر الممكنات.
+Let us begin with the specific types of the possible. We say: if the opposite of a thing is possible, then it is possible. And if something similar and running in its course is possible, then it is possible. Similarly, if the more difficult is possible, then the easier is possible. What is possible in its beginning, then what ends in it is possible, and conversely. Likewise in the prior and prior by nature: if it is possible that a man be a man, it is possible that he be a youth, and conversely. What depends on the help of another, however it is, is possible. If every part is possible, the whole is possible. If the whole is possible, every part is possible. If the species is possible, the genus is possible. If one of the two correlatives is possible, the other correlative is possible. And so on in all possibles.
+Source pages p. 639
+
+Commentary
+This passage provides a set of immediate inferences for determining possibility in rhetorical arguments. It is a definitional expansion of the concept of 'possible' (ممكن) as used in deliberative rhetoric. The author begins with the rule that if the opposite (نقيض) of something is possible, then the thing itself is possible. For example, if it is possible for an act to be not obligatory, then it is possible for it to be obligatory (since obligation and non-obligation are opposites in Islamic legal categories). Then, if something similar (ما يشبه) or analogous is possible, it is possible. For instance, if it is possible for a qasr (shortened prayer) for a traveler, it is possible for jam' (combining prayers) because they are similar concessions. Next, the more difficult (الأصعب) implies the easier (الأسهل): if it is possible to fast a month without break, it is possible to fast one day. The passage continues with a temporal rule: if the beginning is possible, the end is possible, and vice versa. For example, if it is possible to start a journey, it is possible to complete it. Similarly, if a later stage is possible (e.g., being a man), the earlier stage (being a youth) is possible. Things dependent on external help are possible; if every part is possible, the whole is possible (like building a house from possible bricks). Conversely, if the whole is possible, parts are possible. If a species is possible, the genus is possible (e.g., if 'fasting on Monday' is possible, 'fasting' as a genus is possible). If one correlative (e.g., father) is possible, the other (son) is possible. These rules form the basis for constructing rhetorical arguments from possibility.
+
+Key Terms
+نقيض الشيء (naqid al-shay'): The opposite or contradictory of a thing; used to infer possibility of the thing from its opposite.
+الأصعب والأسهل (al-as'ab wa al-as-hal): The more difficult and the easier; logical relation: if the harder is possible, the easier is possible. [Note: Common in rhetorical topoi, not formal logic.]
+المتقدم والمتقدم بالطبع (al-mutaqaddim wa al-mutaqaddim bil-tab'): Prior and prior by nature; temporal or natural priority used in possibility inferences. [Note: Distinction between temporal and natural priority is Aristotelian.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if it is possible for a man to be a father, what else must be possible?
+A) That he be a son
+B) That he be a mother
+C) That he be a brother
+D) That he be a husband
+
+Key Takeaway
+Species-genus and correlative rules enable inference about possibility across conceptual levels and relations, crucial for coherent theological and legal analysis.
+
+How This Lesson Applies — to MY Life?
+?
+Give an example from fiqh using the species-genus rule: 'If it is possible to give zakāt to a poor relative (species), then it is possible to give zakāt in general (genus).' Explain the hierarchy.
+?
+Create an example using the correlatives rule: 'If it is possible for a woman to be a mother, then it is possible for her to have a child.' Identify the two correlatives.
+
+Pages p. 639 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 639
+Module 8 · Lesson 25
+Next →
+Immediate Inference
+intermediate
+8 min
+Rules for Inferring Existence from Signs and Causes
+Author gives rules for inferring existence from conditions and causes.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and apply the rules of immediate inference from consequent to antecedent and from cause to effect, and distinguish necessary from probabilistic connections, using Islamic legal and theological examples.
+
+Core Idea
+The existence of a consequent or effect proves the antecedent or cause existed.
+
+This passage from the Mantiq Kabir provides practical rules for inferring existence from signs and causal connections. These are not speculative but grounded in everyday reasoning and Islamic theology. For instance, the presence of forgetfulness proves prior knowledge, and the presence of capability and will proves the act occurred. The author also clarifies a key distinction between necessary and probabilistic connections, correcting a common misunderstanding about Aristotle's view on rhetorical arguments.
+
+Guided Path
+1
+Identify the two inference types
+The passage presents two main types: consequent-antecedent (التابع والمتبوع) and cause-effect (السبب والمسبب). Understand that in both, the existence of the second item (consequent/effect) implies the existence of the first (antecedent/cause).
+2
+Test the consequent-antecedent rule
+Apply the rule 'if the consequent exists, the antecedent existed' to the example: forgetting (nisyan) is the consequent of not-knowing? Actually, forgetting presupposes prior knowledge (the antecedent). So if a person forgot (nisyan), then he must have known ('ilm) before. This is a necessary connection in human psychology.
+In Islamic legal reasoning, this rule is used to infer past events from present signs, e.g., the presence of wine indicates prior drinking.
+3
+Test the cause-effect rule
+Apply 'if the cause exists, the effect exists' to the Ash'ari example: capability (qudra) and will (irada) together cause the act. So if both exist, the act must exist. This reflects the occasionalist view that God creates the act when power and will are present.
+This is a strong causal inference used in kalam arguments for divine predetermination.
+4
+Understand necessary vs. probabilistic connections
+The author notes that some of these connections are necessary (اضطرارية) and some are merely probabilistic (أكثرية). For example, the inference from forgetting to knowledge is necessary; but many causal links in everyday life are only probable (e.g., smoke indicates fire, but not always). This distinction affects the certainty of arguments in different sciences.
+In rhetoric, premises are often probabilistic; in demonstration, they are necessary.
+5
+Apply the distinction to the arts of logic
+The author corrects Aristotle's supposed view that all rhetorical premises are equally possible. Rather, they vary in modality. This is crucial for classifying arguments into the five arts: demonstration, dialectic, rhetoric, sophistry, and poetics.
+The rule helps decide whether an argument is suitable for burhan (certain) or khitaba (persuasive).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما أنواع الكائن وغير الكائن فمنها ما هو أقل استعدادًا للكون إن كان بالأكبر استعداد قد كان؛ وإن كان التابع قد كان فالمتبوع قد كان. فإنه إن كان قد نسي فقد كان قد علم، وإن كان السبب قد كان فالمسبب قد كان. فإنه إذا كانت القدرة والإرادة فقد كان الشيء. وكذلك إذا كان الملزوم والمدار. وبالجملة ما يوجب وجوده وجود غيره فإنه ما كان إلا وقد كان الغير: قال المعلم الأول ومن هذه ما هي اضطرارية، ومنها ما هي أكثرية فيجب أن تعلم من ذلك أن رأيه في الخطابيات ليس ما ينسب إليه من وجوب تساوي الإمكان فيها، وأنتَ ستعلم أنواع ما لا يكون من أنواع ما يكون.
+As for the types of existent and non-existent, among them is what is less prepared for existence: if it was by the greater preparation, it existed. And if the consequent existed, then the antecedent existed. For example, if he forgot, then he had known. And if the cause existed, then the effect existed. For if capability and will existed, then the thing existed. Likewise for the necessary condition and what revolves around it. In summary, whatever necessitates its existence the existence of another, it is not except that the other existed. The First Teacher said: among these are necessary, and among them are probabilistic. So you must know from that that his opinion in rhetorical matters is not what is attributed to him of the necessity of equality of possibility in them. And you will learn the types of what is not from the types of what is.
+Source pages p. 639
+
+Commentary
+This passage continues the discussion of the second common type: statements about the existent and non-existent. The author provides rules for inferring existence from signs and causes. First, if something is less prepared for existence but later exists with greater preparation, then it exists. For example, if a student was not prepared for a test but studied (greater preparation) and passed, the passing exists. Second, if the consequent exists, the antecedent exists. The example given: if he forgot (the effect of not knowing, but forgetting presupposes prior knowledge), then he had known (antecedent). For instance, in Islamic legal theory, if a person is found with wine (consequent of drinking), it indicates he drank (cause). Third, if the cause exists, the effect exists. The cause here is capability (qudra) and will (irada)—if both are present, the action exists. This echoes the Ash'ari occasionalist view: power and will create the act. Fourth, the necessary condition (ملزوم) and what revolves around it (مدار) imply each other. The author then summarizes: anything whose existence necessitates the existence of another, that other must exist. He cites Aristotle (The First Teacher) noting that some of these connections are necessary (اضطراري) and some are merely probabilistic (أكثرية). He corrects a misconception that Aristotle held that all rhetorical premises are equally possible; rather, they vary in certainty. This is important for distinguishing between demonstrative and rhetorical arguments. For example, in Islamic dialectic, a probable sign like 'this is wine because it ferments' is probabilistic, not necessary.
+
+Key Terms
+التابع والمتبوع
+السبب والمسبب
+القدرة والإرادة
+المعلم الأول
+اضطراري
+أكثرية
+الخطابيات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if a person forgot, what must have been true?
+A) He never knew
+B) He had known
+C) He was incapable
+D) He was forgetful by nature
+
+Key Takeaway
+The inference from consequent to antecedent and from cause to effect is not always certain; some are necessary, some probabilistic, and this distinction determines the type of argument (demonstrative or rhetorical) in Islamic sciences.
+
+How This Lesson Applies — to MY Life?
+?
+In a fiqh scenario: If a man is found with a hidden bottle of wine (consequent of drinking), apply the rule of cause-effect: does the existence of wine necessarily imply he drank it? Consider the possibility that he merely possessed it without drinking. How would the author's distinction between necessary and probabilistic connections help you evaluate this inference?
+?
+In an Ash'ari theological argument: If an act occurs (e.g., raising a hand), what must have preceded it according to the passage? Apply the qudra wa irada example and explain whether this inference is necessary or probabilistic in the Ash'ari framework.
+
+Pages p. 639 · Immediate Inference
+← Prev
+Mark Done
+Next →

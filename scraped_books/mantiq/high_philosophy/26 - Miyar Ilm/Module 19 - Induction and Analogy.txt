@@ -1,0 +1,962 @@
+← Prev
+p. 73
+Module 19 · Lesson 1
+Next →
+Induction and Analogy
+intermediate
+10 min
+Critique of Induction: Why It Yields Only Probability
+Author defines induction and argues it cannot yield certainty, only probability.
+
+Learning Objective
+By the end of this lesson, you will be able to critique incomplete induction using the author's two-pronged argument and explain why it fails to produce certainty.
+
+Core Idea
+Induction can never yield certainty because the unexamined may always be the exception.
+
+The author defines induction and then subjects it to a rigorous critique. He shows that even if you examine many particulars, you cannot be sure about those you haven't examined. This lesson unpacks his argument and its implications for using induction in Islamic sciences like kalam and fiqh.
+
+Guided Path
+1
+Identify the definition of induction
+Find the definition: induction is inferring a universal judgment from examining many particulars falling under a universal concept. Note that the author calls it 'istiqra'.
+The definition is in the first sentence.
+2
+Analyze the example given
+The example: someone claims the agent of the world is a body because all observed agents (tailor, builder, etc.) are bodies. Work out the inductive inference: from many individuals to the universal 'every agent is a body'.
+The example uses 'fā'il al-ʿālam' (agent of the world) referring to God.
+3
+Follow the first prong of critique: completeness
+The author asks: Did you examine the agent of the world itself? If yes, the conclusion is already known and induction is redundant. If no, then you only examined some agents, so you can only conclude 'some agents are bodies', not 'all'. A universal conclusion requires examining all without exception—but then the sought item is already known, making induction circular.
+This prong attacks complete induction (istiqra' tamm) as circular.
+4
+Follow the second prong: majority
+If the defender says 'I examined most but not all', the author replies: it is possible that all are bodies except the one unexamined. This possibility prevents certainty; only probability (zann) is obtained.
+This prong attacks incomplete induction (istiqra' naqis).
+5
+Assess the conclusion and connect to Islamic sciences
+The author concludes that induction is useless for certain knowledge (yaqīn). In kalam, for example, proving that God is not a body cannot rely on induction; it requires a different method, such as a categorical syllogism or revelation.
+This shows why Islamic logicians preferred deductive proofs.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الصنف الخامس : الاستقراء وهو الاستدلال أن تتصفح جزئيات كثيرة داخلة تحت معنى كلّي، حتى إذا وجدت حكماً في تلك الجزئيات حكمت على ذلك الكلّي به. ومثاله في العقليات أن يقول قائل : فاعل العالم جسم فيقال له: لم؟ فيقول : لأن كل فاعل جسم فيقال له : لِمَ؟ فيقول : تصفّحت أصناف الفاعلين من خياط وبناء وإسكاف ونجار ونساج وغيرهم فوجدت كلّ واحدٍ منهم جسماً، فعلمت أن الجسمية حكم ملازم للفاعلية، فحكمت على كل فاعل به. وهذا الضرب من غیر منتفع به في هذا المطلوب، فإنا نقول : هل تصفّحت في جملة ذلك فاعل العالم؟ فإن تصفّحته ووجدته جسماً فقد عرفت المطلوب قبل أن تتصفّح الإسكاف والبناء ونحوهما، فاشتغالك به اشتغال بما لا يعنيك، وإن لم تتصفّح فاعل العالم ولم تعلم حاله فَلِمَ حكمت بأن كل فاعل جسم؟ وقد تصفحت بعض الفاعلين ولا يلزم منه إلا أن بعض الفاعلين جسم، وإنما يلزم أن كلّ فاعل جسم إذا تصفحت الجميع تصفّحاً لا يشذ عنه شيء، وعند ذلك يكون المطلوب أحد أجزاء المتصفح فلا يعرف بمقدمة تُبنى على التصفح . وإن قال : لم أتصفح الجميع ولكن الأكثر ، قلنا : فلِمَ لا يجوز أن يكون الكل جسماً إلا واحداً، وإذا احتمل ذلك لم يحصل اليقين به، ولكن يحصل الظنّ، ولذلك
+The fifth type: Induction. It is inference that you examine many particulars falling under a universal concept, until when you find a judgment in those particulars, you judge that universal by it. An example in rational matters: someone says, 'The agent of the world is a body.' It is said to him, 'Why?' He says, 'Because every agent is a body.' It is said to him, 'Why?' He says, 'I examined the types of agents—tailor, builder, shoemaker, carpenter, weaver, and others—and found each of them to be a body, so I knew that bodiliness is a necessary attribute of agency, and I judged every agent by it.' This kind is useless for what is sought. For we say: Did you examine, among all that, the agent of the world? If you examined and found it to be a body, then you knew the sought result before examining the shoemaker, builder, and the like, so your occupation with them is occupation with what does not concern you. If you did not examine the agent of the world and do not know its state, then why did you judge that every agent is a body? You examined some agents, and that only entails that some agents are bodies. It would only entail that every agent is a body if you examined all of them without exception—and in that case the sought item is one of the examined particulars, so it is not known by a premise built on the examination. If he says, 'I did not examine all, but the majority,' we say: Why is it not possible that all are bodies except one? If that is possible, then certainty is not obtained, but only probability. Therefore...
+Source pages p. 73
+
+Commentary
+This passage critiques induction (istiqra') as a method for obtaining certainty. The author defines induction as examining many particulars to infer a universal judgment. He provides an example: someone argues that the agent of the world is a body because all observed agents are bodies. The critique is twofold. First, if the agent of the world was already examined, then the conclusion is known from that particular case, making the induction redundant. If it was not examined, then examining only some agents yields only a partial conclusion (some agents are bodies), not a universal one. To get a universal conclusion, one must examine all agents without exception—but then the sought particular is part of the examined set and is already known, so the induction is circular. Second, if only most agents were examined, it remains possible that the one unexamined agent (here, the agent of the world) is an exception, so only probability (zann) is obtained, not certainty. This shows that induction does not produce certain knowledge required in demonstrative sciences.
+
+Key Terms
+الاستقراء (al-istiqrā')
+الظن (al-ẓann)
+اليقين (al-yaqīn)
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this critique, why does incomplete induction (examining most but not all) fail to give certainty?
+A) Because it is based on analogy.
+B) Because the unexamined instances could be exceptions.
+C) Because it uses false premises.
+D) Because it is a form of deduction.
+
+Key Takeaway
+Incomplete induction yields probability, not certainty, because the unexamined cases may be exceptions.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an inductive argument in fiqh: 'All observed intoxicants (khamr, nabidh) are forbidden; therefore all intoxicants are forbidden.' Then critique it using the author's two-pronged argument: (1) Is the case of an unobserved intoxicant already known? (2) If only most are examined, can an exception exist?
+?
+Find a real example from usul al-fiqh where induction (istiqra') is used (e.g., in determining the 'illah of a ruling) and evaluate whether it yields certainty or probability according to this critique.
+
+Pages p. 73 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 73
+Module 19 · Lesson 2
+Next →
+Induction and Analogy
+intermediate
+8 min
+Induction: Definition, Critique, and Juridical Role
+Author defines induction, critiques its certitude, and defends its use in fiqh.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete from incomplete induction and explain why incomplete induction yields only probability (zann) sufficient for fiqh but not for theoretical certainty.
+
+Core Idea
+Incomplete induction yields probability, not certainty, yet that probability is the bedrock of fiqh reasoning.
+
+In this passage, the author formally defines istiqra' (induction) as examining many particulars under a universal and judging the universal accordingly. He critiques the claim that such induction can produce certainty, arguing that unless all particulars are examined, only probability (zann) results. However, he defends the use of induction in fiqh precisely because juridical reasoning operates on preponderant probability, not absolute certainty. The passage also distinguishes induction from analogy (tamthil) and syllogistic deduction.
+
+Guided Path
+1
+Define induction as given in the text
+Identify the two key components: (1) examining many particulars that fall under a universal meaning, and (2) then judging that universal based on those particulars.
+Note that the author's definition covers both complete and incomplete induction.
+2
+Understand the critique of induction's certainty
+The author presents an intellectual example: someone claims the Agent of the world is a body because all observed agents (tailors, builders, etc.) are bodies. The critique shows that if the Agent of the world is not among the examined particulars, the induction is incomplete and cannot guarantee the universal claim.
+The key point: unless all particulars are examined, the inference remains probable, not certain.
+3
+Recognize the three-fold classification of judgment
+The author divides transmitted judgment into: (i) universal to particular (valid syllogism), (ii) one particular to another (tamthil/analogy), and (iii) many particulars to one (istiqra'/induction). Induction is stronger than analogy but weaker than syllogism.
+This classification helps place induction in the hierarchy of argumentative strength.
+4
+Apply to fiqh examples
+The author gives fiqh examples: the witr prayer (if obligatory, would not be performed on a camel; induction from other obligatory acts) and the Hanafi position on waqf (binding contracts cannot have conditions followed; induction from sale, marriage, etc.).
+In each case, the jurist relies on induction from multiple instances to establish a general rule.
+5
+Grasp the epistemic level: zann in fiqh
+The author acknowledges that incomplete induction yields only zann (probability), not yaqin (certainty). However, in juridical matters, zann is sufficient because it creates preponderance (tarjih) over the opposite probability.
+This epistemological stance justifies the widespread use of induction in fiqh rulings.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الصنف الخامس : الاستقراء أن الاستدلال أن تتصفح جزئيات كثيرة داخلة تحت معنى كلّي، حتى إذا وجدت وهو حكماً في تلك الجزئيات حكمت على ذلك الكلّي به. ومثاله في العقليات أن يقول قائل : فاعل العالم جسم فيقال له: لم؟ فيقول : لأن كل فاعل فيقال له : لِمَ؟ فيقول : تصفّحت أصناف الفاعلين من خياط وبناء وإسكاف ونجار ونساج وغيرهم فوجدت كلّ واحدٍ منهم جسماً، فعلمت أن الجسمية حكم ملازم للفاعلية، فحكمت على كل فاعل به. وهذا الضرب من غير منتفع به في هذا المطلوب، فإنا نقول : هل تصفّحت في جملة ذلك فاعل العالم؟ فإن تصفّحته ووجدته جسماً فقد عرفت المطلوب قبل أن تتصفّح الإسكاف والبناء ونحوهما، فاشتغالك به اشتغال بما لا يعنيك، وإن لم تتصفّح فاعل العالم ولم تعلم حاله فَلِمَ حكمت بأن كل فاعل جسم؟ وقد تصفحت بعض الفاعلين ولا يلزم منه إلا أن بعض الفاعلين جسم، وإنما يلزم أن كلّ فاعل جسم إذا تصفحت الجميع تصفّحاً لا يشذ عنه شيء، وعند ذلك يكون المطلوب أحد أجزاء المتصفح فلا يعرف بمقدمة تُبنى على التصفح . وإن قال : لم أتصفح الجميع ولكن الأكثر ، قلنا : فلِمَ لا يجوز أن يكون الكل جسماً إلا واحداً، وإذا احتمل ذلك لم يحصل اليقين به، ولكن يحصل الظنّ، ولذلك يكتفى به في الفقهيات في أول النظر، بل يكتفى بالتمثيل على ما سيأتي، وهو حكم من جزئي واحد على جزئي آخر .والحكم المنقول ثلاثة : إما حكم من كلّي على جزئي وهو الصحيح اللازم وهو القياس الصحيح الذي قدمناه وإما حكم من جزئي واحد على جزئي واحد كاعتبار الغائب بالشاهد وهو التمثيل وسيأتي وإما حكم من جزئيات كثيرة على جزئي واحد وهو الاستقراء وهو أقوى من التمثيل. ومثال الاستقراء في الفقه قولنا : الوتر لو كان فرضاً لما أدي على الراحلة، ويستدلّ به كما سبق في قياس الخلف فيقال : ولم عرفتم أن الفرض لا يُؤدّى على الراحلة؟ قلنا: باستقراء جزئيات الفرض من الرواتب وغيرها كصلاة الجنازة والمنذورة والقضاء وغيرها، وكذلك يقول الحنفي : الوقف لا يلزم في الحياة لأنه لو لزم لما اتبع شرط الواقف، فيقال له : ولم قلت إن كلّ لازم فلا يتبع فيه شرط العاقد؟ فيقول : قد استقريت جزئيات التصرفات اللازمة من البيع والنكاح والعتق والخلع وغيرها، ومن جوز التمسك بالتمثيل المجرّد الذي لا مناسبة فيه يلزمه، هذا بل إذا كثرت الأصول قوي الظنّ، ومهما ازدادت الأصول الشاهدة أعني الجزئيات اختلافاً كان الظن أقوى فيه حتى إذا قلنا مسح الرأس وظيفة أصلية في الوضوء فيستحب فيه التكرار فقيل : لم؟ فقلنا: استقرينا ذلك من غسل الوجه واليدين وغسل الرجلين، ولم يكن معنا إلا مجرد هذا الاستقراء. وقال الحنفي: مسح فلا يكرّر، فقيل : لم؟ فقال : استقريت مسح التيمم ومسح الخفّ كان ظنّه أقوى لدلالة جزأين مختلفين عليه. وأما الأعضاء الثلاثة في الوضوء ففي حكم شاهد واحد لتجانسها، وهي كشهادة الوجه واليد اليمنى واليسرى في التيمم.فإن قيل : فلِمَ لا يقال للفقيه استقراؤك غير كامل فإنك لم تتصفّح محلّ الخلاف؟ فالجواب : أن قصور الاستقراء عن الكمال أوجب قصور الاعتقاد الحاصل عن اليقين ولم يوجب بقاء الاحتمال على التعادل كما كان بل رجّح بالظن أحد الاحتمالين والظنّ في الفقه كافٍ وإثبات الواحد على وفق الجزئيات الكثيرة أغلب من كونه مستثنى على الندور ، فإذا لم يكن لنا دليل على أن الوتر
+The fifth type: Induction. It is that you examine many particulars that fall under a universal meaning, until when you find it—and it is a judgment in those particulars—you judge that universal by it. Its example in intellectual matters is that someone says: The agent of the world is a body. It is said to him: Why? He says: Because every agent. It is said to him: Why? He says: I examined the categories of agents: tailors, builders, shoemakers, carpenters, weavers, and others, and I found each one of them to be a body, so I knew that corporeality is a necessary attribute of being an agent, so I judged every agent by it. This type is of no use in this desired matter, for we say: Did you examine among all that the agent of the world? If you examined it and found it to be a body, then you have known the desired before examining the shoemaker, builder, and the like, so your engagement with it is engagement with what does not concern you. And if you did not examine the agent of the world and do not know its state, then why did you judge that every agent is a body? You have examined some agents, and that only entails that some agents are bodies; it only entails that every agent is a body if you have examined all of them in a way that nothing escapes. In that case, the desired would be one of the parts of the examined, so it would not be known by a premise built upon the examination. If he says: I did not examine all, but most, we say: Why is it not possible that all are bodies except one? And if that is possible, then certainty is not attained, but opinion (zann) is attained. Therefore, it is relied upon in fiqh matters at first consideration; rather, analogy (tamthil) is relied upon as will come, and it is a judgment from one particular to another particular. And the transmitted judgment is three: either a judgment from universal to particular, and that is the sound necessary judgment which is the correct syllogism we have presented; or a judgment from one particular to one particular, like considering the absent by the present, and that is tamthil (analogy) and will come; or a judgment from many particulars to one particular, and that is istiqra', and it is stronger than tamthil. An example of induction in fiqh is our saying: The witr prayer, if it were obligatory, would not be performed on a riding camel. And it is used as evidence as previously in qiyas al-khalf. It is said: How do you know that the obligatory is not performed on a riding camel? We say: By induction of the particulars of the obligatory from the rawatib (supererogatory) and others, such as the funeral prayer, the vowed prayer, the make-up prayer, etc. Similarly, the Hanafi says: A waqf is not binding during one's lifetime, because if it were binding, the condition of the waqf would not be followed. It is said to him: Why do you say that every binding [contract] is such that the condition of the contracting party is not followed? He says: I have inductively examined the particulars of binding transactions: sale, marriage, manumission, khul', etc. And whoever permits adhering to mere analogy that has no suitability incurs this. Actually, when the principles are many, opinion becomes strong, and whenever the witnessing principles—I mean the particulars—increase in diversity, opinion becomes stronger in it. For example, when we say: Wiping the head is an original function in ablution, so repetition is recommended in it. It is said: Why? We say: We induced that from the washing of the face, hands, and feet, and we had nothing but this mere induction. The Hanafi said: Wiping should not be repeated. It was said: Why? He said: I induced from the wiping of tayammum and wiping of the khuff; his opinion was stronger due to the indication of two different particulars upon it. As for the three limbs in ablution, they are in the ruling of a single witness due to their homogeneity; they are like the testimony of the face and the right and left hands in tayammum. If it is said: Why is it not said to the jurist that your induction is incomplete because you did not examine the point of contention? The answer: The deficiency of induction from completeness necessitated a deficiency of belief from certainty but did not necessitate the persistence of probability in equilibrium as it was; rather, it made one of the two probabilities preponderant by opinion, and opinion in fiqh is sufficient. Proving the one in accordance with many particulars is more likely than it being an exception on rarity. So if we have no evidence that the witr...
+Source pages p. 73
+
+Commentary
+This passage defines induction (istiqra') and critically examines its epistemological status. The author first defines induction as examining many particulars under a universal and then judging the universal based on them. He gives an intellectual example: someone claims the Agent of the world is a body because he observed that all known agents (tailors, builders, etc.) are bodies. The author critiques this, pointing out its flaw: if the Agent of the world (God) is already known to be a body, the induction is unnecessary; if not, the induction does not cover the crucial case. He argues that unless all particulars are examined, induction only yields probability (zann), not certainty. He then classifies three types of transferred judgment: (1) universal to particular (sound syllogism), (2) one particular to another (tamthil/analogy), and (3) many particulars to one (induction, stronger than analogy). He gives fiqh examples: the witr prayer not being obligatory because if it were, it would not be performed on a riding camel (using induction to prove that obligatory acts are not performed on a camel). He also discusses Hanafi positions on waqf and the repetition of wiping in ablution, showing how induction from different particulars strengthens probability. The passage concludes with an objection: why doesn't the jurist examine the specific disputed case? The answer: incomplete induction yields probability, not certainty, but that suffices in fiqh. The jurist's induction makes one probability outweigh the other, and proving something in line with many particulars is more likely than it being a rare exception.
+
+Key Terms
+استقراء
+ظن
+تمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why does incomplete induction (istiqra' naqis) not produce certainty?
+A) Because it is based on analogy.
+B) Because it requires complete enumeration to guarantee universality.
+C) Because it relies on contradictory premises.
+D) Because it only applies to fiqh matters.
+
+Key Takeaway
+Induction from many particulars yields probability (zann) unless all are examined; this probability is sufficient for juridical reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the inductive argument in the following: 'Every intoxicant is forbidden because I have examined khamr, nabidh, and other intoxicants and found them forbidden.' Is this induction complete or incomplete? Does it yield certainty or probability? Explain using the author's criteria.
+?
+Using the author's critique, evaluate a jurist who claims 'All binding contracts cannot have conditions followed' by inducting from sale, marriage, and manumission. Explain why this induction is incomplete and what epistemic status holds.
+
+Pages p. 73 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 74
+Module 19 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+10 min
+Induction in Fiqh: Examples and the Objection of Incompleteness
+Illustrates istiqra' with fiqh examples and addresses objection about incompleteness.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the structure of an inductive argument in fiqh and explain how incomplete induction yields preponderant probability (ghalabat al-dhann).
+
+Core Idea
+Incomplete induction suffices for probability in fiqh, not certainty.
+
+In this passage, al-Ghazali illustrates how jurists use induction (istiqra') to support rulings, such as witr not being obligatory because it is performed on a riding animal, unlike other obligatory prayers. He then addresses the natural objection: induction is incomplete. The answer reveals a key principle: incomplete induction still gives preponderant probability, which is the standard for fiqh. We will unpack these examples and the dialectic.
+
+Guided Path
+1
+Examine the witr prayer argument
+The author uses qiyas al-khalf: if witr were obligatory, it would not be performed on a riding animal; but it is; so it is not obligatory. The major premise 'obligatory prayers are not performed on riding animals' is supported by induction over many obligatory prayers. Identify the inductive step.
+Induction here is incomplete because not every obligatory prayer is checked.
+2
+Identify the objection
+An opponent could say the induction is incomplete since the jurist did not survey all instances, especially the locus of disagreement (witr itself). Understand why this seems problematic.
+3
+Grasp the response
+The author replies that deficiency of induction only reduces certainty but does not leave probability in equilibrium; it preponderates one side. Probability is sufficient because the judgment agreeing with many particulars is more likely than a rare exception.
+This is the core epistemological point: probability in fiqh is enough.
+4
+Apply to other examples
+Consider the waqf argument and the wiping debate. In each, the inductive base is limited but yields preponderant probability. Note how different particulars (e.g., wiping in tayammum vs. khuff) strengthen the probability.
+The author emphasizes that diversity of supporting particulars increases strength.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومثال الاستقراء في الفقه قولنا : الوتر لو كان فرضاً لما أدي على الراحلة (۱) ، ويستدلّ به كما سبق في قياس الخلف فيقال : ولم عرفتم أن الفرض لا يُؤدّى على الراحلة؟ قلنا: باستقراء جزئيات الفرض من الرواتب (۲) وغيرها كصلاة الجنازة والمنذورة(۳) والقضاء وغيرها، وكذلك يقول الحنفي : الوقف لا يلزم في الحياة لأنه لو لزم لما اتبع شرط الواقف، فيقال له : ولم قلت إن كلّ لازم فلا يتبع فيه شرط العاقد؟ فيقول : قد استقريت جزئيات التصرفات اللازمة من البيع والنكاح والعتق والخلع وغيرها، ومن جوز التمسك بالتمثيل المجرّد الذي لا مناسبة فيه يلزمه ،هذا بل إذا كثرت الأصول قوي الظنّ، ومهما ازدادت الأصول الشاهدة أعني الجزئيات اختلافاً كان الظن أقوى فيه حتى إذا قلنا مسح الرأس وظيفة أصلية في الوضوء فيستحب فيه التكرار فقيل : لم؟ فقلنا: استقرينا ذلك من غسل الوجه واليدين وغسل الرجلين، ولم يكن معنا إلا مجرد هذا الاستقراء. وقال الحنفي: مسح فلا يكرّر، فقيل : لم؟ فقال : استقريت مسح التيمم ومسح الخفّ كان ظنّه أقوى لدلالة جزأين مختلفين عليه. وأما الأعضاء الثلاثة في الوضوء ففي حكم شاهد واحد لتجانسها، وهي كشهادة الوجه واليد اليمنى واليسرى في التيمم. (٤) (0) فإن قيل : فلِمَ لا يقال للفقيه استقراؤك غير كامل فإنك لم تتصفّح محلّ الخلاف؟ فالجواب : أن قصور الاستقراء عن الكمال أوجب قصور الاعتقاد الحاصل عن اليقين ولم يوجب بقاء الاحتمال على التعادل كما كان بل رجّح بالظن أحد الاحتمالين والظنّ في الفقه كافٍ وإثبات الواحد على وفق الجزئيات الكثيرة أغلب من كونه مستثنى على الندور ، فإذا لم يكن لنا دليل على أن الوتر واجب وأن الوقف لازم، ورأينا جواز أدائه على الراحلة ولا عهد به في فرض ووجوب اتباع شرط الواقف ولا عهد به في تصرّف لازم صار منع الفرضية ومنع اللزوم أغلب على الظنّ وأرجح من نقيضه، وإمكان الخلاف لا يمنع الظن ولا سبيل إلى جحد الإمكان مهما لم يكن الاستقراء تاماً، ولا يكفي في تمام الاستقراء أن تتصفّح ما وجدته شاهداً على الحكم إذا أمكن أن ينتقل عنه شيء، كما لو حكم إنسان بأن كل حيوان يحرك عند المضغ فكه الأسفل لأنه استقرى أصناف الحيوانات الكثيرة، ولكنه لما لم يشاهد جميع الحيوانات لم يأمن أن يكون في البحر حيوان هو التمساح يحرّك عند المضغ فكه الأعلى - على ما قيل ـ وإذا حكم بأن كل حيوان سوى الإنسان، فنزوانه (۱) على الأنثى من وراء بلا تقابل الوجهين لم يأمن أن يكون سفاد القنفذ وهو من الحيوانات على المقابلة لكنه لم يشاهده، فإذن حصل من هذا أن الاستقراء التام يفيد العلم والتناقض يفيد الظنّ، فإذن لا ينتفع بالاستقراء مهما وقع خلاف في بعض الجزئيات فلا يفيد الاستقراء علماً كلياً بثبوت الحكم للمعنى الجامع للجزئيات، حتى يجعل ذلك مقدمة في قياس آخر لا في إثبات الحكم لبعض الجزئيات، كما إذا قلنا كلّ حركة في زمان وكلّ ما في زمان فهو محدث فالحركة محدثة وأثبتنا قولنا كلّ حركة في زمان باستقراء أنواع الحركة من سباحة وطيران ومشي وغيرها . فأما إذا أردنا أن نثبت أن السباحة في زمان بهذا الاستقراء لم يكن تامًا والضبط أن القضية التي عرفت بالاستقراء إن أثبت لمحمولها حكماً ليتعدَّى إلى موضوعها فلا بأس، وإن نقل محمولها إلى بعض جزئیات موضوعها لم يجز إذ تدخل النتيجة في نفس الاستقراء فتسقط فائدة القياس . فإذا كان مطلبنا مثلاً أن نُبيّن أن القوة العقلية المدركة للمعقولات هل هي منطبعة (۳) في أم لا؟ فقلنا : ليست منطبعة في جسم لأنها تدرك نفسها والقوى المنطبعة في الأجسام لا تدرك نفسها (٤) . فيقال : ولم؟ قلت : إن القوى المنطبعة الأجسام لا تدرك نفسها؟ فقلنا : تصفّحنا القوى المدركة من الآدمي كقوة البصر والسمع والشم والذوق واللمس والخيال والوهم فرأيناها لا تدرك نفسها. فيقال :
+An example of induction in fiqh is our saying: 'If witr were obligatory, it would not be performed on a riding animal.' And it is used as in the earlier proof by reductio ad absurdum: it is said: 'How did you know that the obligatory is not performed on a riding animal?' We say: by inducting over the particulars of the obligatory, such as the regular prayers and others like the funeral prayer, the vowed prayer, the make-up prayer, and others. Similarly, the Hanafi says: 'A waqf is not binding during life because if it were binding, the condition of the waqif would not be followed.' It is said to him: 'Why did you say that every binding contract does not have the condition of the contracting party followed?' He says: 'I have inducted over the particulars of binding transactions such as sale, marriage, manumission, khul', and others.' And whoever permits adhering to mere tamthil without appropriateness is obligated... Rather, when the principles are numerous, probability becomes strong; and whenever the witnessing principles – meaning the particulars – increase in diversity, probability becomes stronger. Until we say: 'Wiping the head is an original function in ablution, so repetition is recommended in it.' It is said: 'Why?' We say: 'We inducted that from washing the face, hands, and feet, and we had only this mere induction.' And the Hanafi says: 'It is wiping, so it is not repeated.' It is said: 'Why?' He says: 'I inducted over the wiping of tayammum and the wiping of the khuff – his probability becomes stronger due to the indication of two different particulars. As for the three limbs in ablution, they are in the status of a single witness due to their homogeneity, and they are like the witness of the face, right hand, and left hand in tayammum.' So if it is said: 'Why is it not said to the jurist: Your induction is incomplete because you have not surveyed the locus of disagreement?' The answer: 'The deficiency of induction from completeness caused the deficiency of the resulting belief from certainty, and it did not necessitate the probability remaining in equilibrium as it was; rather it preponderated one of the two probabilities by probability, and probability in fiqh is sufficient. And affirming the one in accordance with many particulars is more likely than its being an exception rarely. So if we have no evidence that witr is obligatory and that waqf is binding, and we see the permissibility of performing it on a riding animal and no precedent of that in an obligatory act, and the necessity of following the condition of the waqif and no precedent of that in a binding transaction, then negating the obligation and negating the bindingness become more preponderant in probability and more likely than their opposites. And the possibility of opposition does not prevent probability, and there is no way to deny possibility as long as the induction is not complete. And it is not sufficient for the completeness of induction to survey what you have found as evidence for the ruling if it is possible that something transfers from it, as if a person judged that every animal moves its lower jaw when chewing because he inducted over many types of animals, but since he did not observe all animals, he cannot be safe that in the sea there is an animal, the crocodile, which moves its upper jaw when chewing – as is said. And if he judges that every animal except man mounts the female from behind without face-to-face orientation, he cannot be safe that the copulation of the hedgehog – which is an animal – is face-to-face, but he did not observe it. Thus from this it is obtained that complete induction yields knowledge, and contradictory yields probability. Therefore, one does not benefit from induction whenever disagreement occurs in some of the particulars, for induction does not yield universal knowledge of the ruling being established for the common meaning of the particulars, such that it can be made a premise in another syllogism – not in establishing the ruling for some of the particulars. For example, if we say: 'Every motion is in time, and everything in time is originated, so motion is originated,' and we establish our statement 'Every motion is in time' by inducting over types of motion such as swimming, flying, walking, etc. But if we want to prove that swimming is in time by this induction, it is not complete. And the rule: The proposition known by induction: if it establishes a ruling for its predicate to be transferred to its subject, then there is no harm; but if its predicate is transferred to some of the particular instances of its subject, it is not permissible, because the result enters into the induction itself, thus the benefit of the syllogism is lost. For example, if our aim is to show whether the rational faculty that perceives intelligibles is imprinted in a body or not? We say: 'It is not imprinted in a body because it perceives itself, and the powers imprinted in bodies do not perceive themselves.' It is said: 'Why?' I say: 'Do the powers imprinted in bodies not perceive themselves?' We say: 'We have surveyed the perceiving powers of man, such as the power of sight, hearing, smell, taste, touch, imagination, and fantasy, and we saw that they do not perceive themselves.' It is said: '...'
+Source pages p. 74
+
+Commentary
+This passage provides a detailed discussion of induction (istiqra') and its application in fiqh. The author begins by giving three examples: (1) The witr prayer is not obligatory because it can be performed on a riding animal, while obligatory prayers are not performed on riding animals. This is proven by inducting over obligatory prayers such as fajr, etc., and using qiyas al-khalf (reductio). (2) The Hanafi argument that waqf (endowment) is not binding during life because binding transactions do not allow following the condition of the contracting party; this is supported by inducting over binding transactions. (3) The debate about repetition in wiping the head in wudu: one side uses induction from the three limbs (face, hands, feet) to argue that wiping is an original function and thus repetition is recommended; the Hanafi uses induction from wiping in tayammum and khuff to argue that wiping is not repeated. The author then addresses an objection: an opponent might say that the jurist's induction is incomplete because he did not survey all instances. The answer is that incomplete induction still yields preponderant probability (ghalabat al-dhann), since the affirmative judgment is more likely than an exceptional case, and this probability is sufficient in fiqh. The author then discusses the logical conditions for valid induction: complete induction yields certainty, while incomplete induction yields only probability. He illustrates with examples: one cannot conclude that all animals move their lower jaw because the crocodile moves its upper jaw; nor that all animals mount from behind because the hedgehog does otherwise. The key rule is that if an inductive generalization is used as a premise in a syllogism to prove something about the predicate, it is acceptable; but if it is used to prove the inductive premise itself by citing the particular instances, it is circular and useless. Finally, the author applies this to the rational faculty: to prove it is not imprinted in a body, one needs the premise that all imprinted powers do not perceive themselves, which is established by induction; but using that induction to prove that each individual power (e.g., sight) does not perceive itself would be circular. The passage ends mid-sentence on page 75.
+
+Key Terms
+الاستقراء (al-istiqra'): The inference from many particulars to one particular; when incomplete, it yields preponderant probability (ghalabat al-dhann). [Note: In this passage, istiqra' is used in fiqh; the distinction between complete and incomplete induction is emphasized.]
+قياس الخلف (qiyas al-khalf): A syllogism by reductio ad absurdum, used here to test the premise by showing its consequence. [Note: No significant shift.]
+الظن (al-dhann): Preponderant probability, sufficient for fiqh judgments, as opposed to certainty (yaqin). [Note: In usul al-fiqh, dhann is the basis of most legal rulings; in logic, it is a level of conviction below certainty.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Ghazali, what is the epistemological status of a ruling derived from incomplete induction in fiqh?
+A) Certainty (yaqin)
+B) Preponderant probability (ghalabat al-dhann)
+C) Doubt (shakk)
+D) Ignorance (jahl)
+
+Key Takeaway
+Incomplete induction in fiqh is acceptable because it yields preponderant probability, which is the standard for legal rulings.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an inductive argument for the ruling that nabidh (date drink) is forbidden because it shares the 'illah (effective cause) of intoxication with wine. Then explain why this induction is incomplete and why it is still valid for a fatwa.
+?
+Analyze the waqf example in the passage: identify the inductive premise and explain how the Hanafi uses it to argue that waqf is not binding during life. What objection might be raised, and how does the response use the principle of preponderant probability?
+
+Pages p. 74 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 74
+Module 19 · Lesson 4
+Next →
+Induction and Analogy
+advanced
+10 min
+The Logical Conditions of Induction and the Rule of Non-Circularity
+States conditions for valid induction and introduces rule against circular use.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between using an inductive generalization as a premise in a syllogism and using it to prove its own instances, and evaluate the validity of each.
+
+Core Idea
+Using induction to prove its own instances is circular and invalid.
+
+After establishing that incomplete induction yields probability, al-Ghazali discusses the logical conditions for valid induction. He emphasizes that complete induction yields certainty, while incomplete induction only yields probability. More importantly, he introduces a crucial rule: an inductive generalization can be used as a premise to prove a new predicate about its subject, but cannot be used to prove the same predicate about its own particular instances, as that would be circular. We will examine these conditions and the examples of the crocodile, hedgehog, and motion in time.
+
+Guided Path
+1
+Understand the condition of completeness
+The author gives examples: observing many animals does not guarantee that all animals move their lower jaw, because the crocodile is an exception. Similarly for the hedgehog. This shows that induction must be exhaustive to yield certainty.
+Incomplete induction only yields probability, not certainty.
+2
+Identify the rule about using induction
+The rule is: if an inductive proposition establishes a ruling for its predicate to be transferred to its subject (i.e., used as a premise for a new conclusion), it is permissible. But if it is used to prove the same predicate for some of its own particular instances, it is not permissible because the conclusion is already assumed in the induction.
+This is the key logical point.
+3
+Apply to the motion example
+The inductive generalization 'every motion is in time' can be used with the premise 'everything in time is originated' to conclude 'motion is originated'. But if we try to use the same induction to prove that swimming is in time, we are proving an instance that is already part of the inductive base, leading to circularity.
+The author says this is not permissible.
+4
+Consider the rational faculty example
+To prove that the rational faculty is not imprinted in a body, the premise 'all imprinted powers do not perceive themselves' is established by induction over the five senses, imagination, etc. That premise can be used to conclude about the rational faculty. But using that induction to prove that sight does not perceive itself would be circular.
+The passage ends mid-sentence, but the intended rule is clear.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومثال الاستقراء في الفقه قولنا : الوتر لو كان فرضاً لما أدي على الراحلة (۱) ، ويستدلّ به كما سبق في قياس الخلف فيقال : ولم عرفتم أن الفرض لا يُؤدّى على الراحلة؟ قلنا: باستقراء جزئيات الفرض من الرواتب (۲) وغيرها كصلاة الجنازة والمنذورة(۳) والقضاء وغيرها، وكذلك يقول الحنفي : الوقف لا يلزم في الحياة لأنه لو لزم لما اتبع شرط الواقف، فيقال له : ولم قلت إن كلّ لازم فلا يتبع فيه شرط العاقد؟ فيقول : قد استقريت جزئيات التصرفات اللازمة من البيع والنكاح والعتق والخلع وغيرها، ومن جوز التمسك بالتمثيل المجرّد الذي لا مناسبة فيه يلزمه ،هذا بل إذا كثرت الأصول قوي الظنّ، ومهما ازدادت الأصول الشاهدة أعني الجزئيات اختلافاً كان الظن أقوى فيه حتى إذا قلنا مسح الرأس وظيفة أصلية في الوضوء فيستحب فيه التكرار فقيل : لم؟ فقلنا: استقرينا ذلك من غسل الوجه واليدين وغسل الرجلين، ولم يكن معنا إلا مجرد هذا الاستقراء. وقال الحنفي: مسح فلا يكرّر، فقيل : لم؟ فقال : استقريت مسح التيمم ومسح الخفّ كان ظنّه أقوى لدلالة جزأين مختلفين عليه. وأما الأعضاء الثلاثة في الوضوء ففي حكم شاهد واحد لتجانسها، وهي كشهادة الوجه واليد اليمنى واليسرى في التيمم. (٤) (0) فإن قيل : فلِمَ لا يقال للفقيه استقراؤك غير كامل فإنك لم تتصفّح محلّ الخلاف؟ فالجواب : أن قصور الاستقراء عن الكمال أوجب قصور الاعتقاد الحاصل عن اليقين ولم يوجب بقاء الاحتمال على التعادل كما كان بل رجّح بالظن أحد الاحتمالين والظنّ في الفقه كافٍ وإثبات الواحد على وفق الجزئيات الكثيرة أغلب من كونه مستثنى على الندور ، فإذا لم يكن لنا دليل على أن الوتر واجب وأن الوقف لازم، ورأينا جواز أدائه على الراحلة ولا عهد به في فرض ووجوب اتباع شرط الواقف ولا عهد به في تصرّف لازم صار منع الفرضية ومنع اللزوم أغلب على الظنّ وأرجح من نقيضه، وإمكان الخلاف لا يمنع الظن ولا سبيل إلى جحد الإمكان مهما لم يكن الاستقراء تاماً، ولا يكفي في تمام الاستقراء أن تتصفّح ما وجدته شاهداً على الحكم إذا أمكن أن ينتقل عنه شيء، كما لو حكم إنسان بأن كل حيوان يحرك عند المضغ فكه الأسفل لأنه استقرى أصناف الحيوانات الكثيرة، ولكنه لما لم يشاهد جميع الحيوانات لم يأمن أن يكون في البحر حيوان هو التمساح يحرّك عند المضغ فكه الأعلى - على ما قيل ـ وإذا حكم بأن كل حيوان سوى الإنسان، فنزوانه (۱) على الأنثى من وراء بلا تقابل الوجهين لم يأمن أن يكون سفاد القنفذ وهو من الحيوانات على المقابلة لكنه لم يشاهده، فإذن حصل من هذا أن الاستقراء التام يفيد العلم والتناقض يفيد الظنّ، فإذن لا ينتفع بالاستقراء مهما وقع خلاف في بعض الجزئيات فلا يفيد الاستقراء علماً كلياً بثبوت الحكم للمعنى الجامع للجزئيات، حتى يجعل ذلك مقدمة في قياس آخر لا في إثبات الحكم لبعض الجزئيات، كما إذا قلنا كلّ حركة في زمان وكلّ ما في زمان فهو محدث فالحركة محدثة وأثبتنا قولنا كلّ حركة في زمان باستقراء أنواع الحركة من سباحة وطيران ومشي وغيرها . فأما إذا أردنا أن نثبت أن السباحة في زمان بهذا الاستقراء لم يكن تامًا والضبط أن القضية التي عرفت بالاستقراء إن أثبت لمحمولها حكماً ليتعدَّى إلى موضوعها فلا بأس، وإن نقل محمولها إلى بعض جزئیات موضوعها لم يجز إذ تدخل النتيجة في نفس الاستقراء فتسقط فائدة القياس . فإذا كان مطلبنا مثلاً أن نُبيّن أن القوة العقلية المدركة للمعقولات هل هي منطبعة (۳) في أم لا؟ فقلنا : ليست منطبعة في جسم لأنها تدرك نفسها والقوى المنطبعة في الأجسام لا تدرك نفسها (٤) . فيقال : ولم؟ قلت : إن القوى المنطبعة الأجسام لا تدرك نفسها؟ فقلنا : تصفّحنا القوى المدركة من الآدمي كقوة البصر والسمع والشم والذوق واللمس والخيال والوهم فرأيناها لا تدرك نفسها. فيقال :
+An example of induction in fiqh is our saying: 'If witr were obligatory, it would not be performed on a riding animal.' And it is used as in the earlier proof by reductio ad absurdum: it is said: 'How did you know that the obligatory is not performed on a riding animal?' We say: by inducting over the particulars of the obligatory, such as the regular prayers and others like the funeral prayer, the vowed prayer, the make-up prayer, and others. Similarly, the Hanafi says: 'A waqf is not binding during life because if it were binding, the condition of the waqif would not be followed.' It is said to him: 'Why did you say that every binding contract does not have the condition of the contracting party followed?' He says: 'I have inducted over the particulars of binding transactions such as sale, marriage, manumission, khul', and others.' And whoever permits adhering to mere tamthil without appropriateness is obligated... Rather, when the principles are numerous, probability becomes strong; and whenever the witnessing principles – meaning the particulars – increase in diversity, probability becomes stronger. Until we say: 'Wiping the head is an original function in ablution, so repetition is recommended in it.' It is said: 'Why?' We say: 'We inducted that from washing the face, hands, and feet, and we had only this mere induction.' And the Hanafi says: 'It is wiping, so it is not repeated.' It is said: 'Why?' He says: 'I inducted over the wiping of tayammum and the wiping of the khuff – his probability becomes stronger due to the indication of two different particulars. As for the three limbs in ablution, they are in the status of a single witness due to their homogeneity, and they are like the witness of the face, right hand, and left hand in tayammum.' So if it is said: 'Why is it not said to the jurist: Your induction is incomplete because you have not surveyed the locus of disagreement?' The answer: 'The deficiency of induction from completeness caused the deficiency of the resulting belief from certainty, and it did not necessitate the probability remaining in equilibrium as it was; rather it preponderated one of the two probabilities by probability, and probability in fiqh is sufficient. And affirming the one in accordance with many particulars is more likely than its being an exception rarely. So if we have no evidence that witr is obligatory and that waqf is binding, and we see the permissibility of performing it on a riding animal and no precedent of that in an obligatory act, and the necessity of following the condition of the waqif and no precedent of that in a binding transaction, then negating the obligation and negating the bindingness become more preponderant in probability and more likely than their opposites. And the possibility of opposition does not prevent probability, and there is no way to deny possibility as long as the induction is not complete. And it is not sufficient for the completeness of induction to survey what you have found as evidence for the ruling if it is possible that something transfers from it, as if a person judged that every animal moves its lower jaw when chewing because he inducted over many types of animals, but since he did not observe all animals, he cannot be safe that in the sea there is an animal, the crocodile, which moves its upper jaw when chewing – as is said. And if he judges that every animal except man mounts the female from behind without face-to-face orientation, he cannot be safe that the copulation of the hedgehog – which is an animal – is face-to-face, but he did not observe it. Thus from this it is obtained that complete induction yields knowledge, and contradictory yields probability. Therefore, one does not benefit from induction whenever disagreement occurs in some of the particulars, for induction does not yield universal knowledge of the ruling being established for the common meaning of the particulars, such that it can be made a premise in another syllogism – not in establishing the ruling for some of the particulars. For example, if we say: 'Every motion is in time, and everything in time is originated, so motion is originated,' and we establish our statement 'Every motion is in time' by inducting over types of motion such as swimming, flying, walking, etc. But if we want to prove that swimming is in time by this induction, it is not complete. And the rule: The proposition known by induction: if it establishes a ruling for its predicate to be transferred to its subject, then there is no harm; but if its predicate is transferred to some of the particular instances of its subject, it is not permissible, because the result enters into the induction itself, thus the benefit of the syllogism is lost. For example, if our aim is to show whether the rational faculty that perceives intelligibles is imprinted in a body or not? We say: 'It is not imprinted in a body because it perceives itself, and the powers imprinted in bodies do not perceive themselves.' It is said: 'Why?' I say: 'Do the powers imprinted in bodies not perceive themselves?' We say: 'We have surveyed the perceiving powers of man, such as the power of sight, hearing, smell, taste, touch, imagination, and fantasy, and we saw that they do not perceive themselves.' It is said: '...'
+Source pages p. 74
+
+Commentary
+This passage provides a detailed discussion of induction (istiqra') and its application in fiqh. The author begins by giving three examples: (1) The witr prayer is not obligatory because it can be performed on a riding animal, while obligatory prayers are not performed on riding animals. This is proven by inducting over obligatory prayers such as fajr, etc., and using qiyas al-khalf (reductio). (2) The Hanafi argument that waqf (endowment) is not binding during life because binding transactions do not allow following the condition of the contracting party; this is supported by inducting over binding transactions. (3) The debate about repetition in wiping the head in wudu: one side uses induction from the three limbs (face, hands, feet) to argue that wiping is an original function and thus repetition is recommended; the Hanafi uses induction from wiping in tayammum and khuff to argue that wiping is not repeated. The author then addresses an objection: an opponent might say that the jurist's induction is incomplete because he did not survey all instances. The answer is that incomplete induction still yields preponderant probability (ghalabat al-dhann), since the affirmative judgment is more likely than an exceptional case, and this probability is sufficient in fiqh. The author then discusses the logical conditions for valid induction: complete induction yields certainty, while incomplete induction yields only probability. He illustrates with examples: one cannot conclude that all animals move their lower jaw because the crocodile moves its upper jaw; nor that all animals mount from behind because the hedgehog does otherwise. The key rule is that if an inductive generalization is used as a premise in a syllogism to prove something about the predicate, it is acceptable; but if it is used to prove the inductive premise itself by citing the particular instances, it is circular and useless. Finally, the author applies this to the rational faculty: to prove it is not imprinted in a body, one needs the premise that all imprinted powers do not perceive themselves, which is established by induction; but using that induction to prove that each individual power (e.g., sight) does not perceive itself would be circular. The passage ends mid-sentence on page 75.
+
+Key Terms
+الاستقراء (al-istiqra'): The inference from many particulars to one particular; when incomplete, it yields preponderant probability (ghalabat al-dhann). [Note: In this passage, istiqra' is used in fiqh; the distinction between complete and incomplete induction is emphasized.]
+قياس الخلف (qiyas al-khalf): A syllogism by reductio ad absurdum, used here to test the premise by showing its consequence. [Note: No significant shift.]
+الظن (al-dhann): Preponderant probability, sufficient for fiqh judgments, as opposed to certainty (yaqin). [Note: In usul al-fiqh, dhann is the basis of most legal rulings; in logic, it is a level of conviction below certainty.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Ghazali, what happens if you try to use an inductive generalization to prove a particular instance that was part of the induction?
+A) It is valid if the induction is complete
+B) It is invalid because it is circular
+C) It yields probability
+D) It is valid for incomplete induction
+
+Key Takeaway
+An inductive generalization can be used as a premise for new conclusions but not to prove its own instances, which would be circular.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the inductive claim: 'All intoxicants (muskar) are forbidden (haram), established by induction from wine, hashish, etc.' Can this induction be used to prove that wine is haram? Explain why or why not based on al-Ghazali's rule.
+?
+Construct a valid use of induction in a kalam argument: Use induction to establish that all bodies are composite, then use that as a premise to prove that the world is composite. Identify the inductive base and explain why the conclusion is not circular.
+
+Pages p. 74 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 75
+Module 19 · Lesson 5
+Next →
+Induction and Analogy
+intermediate
+5 min
+Induction: Certainty vs. Probability
+Author critiques induction with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and explain why incomplete induction yields only probability, not certainty.
+
+Core Idea
+A single unobserved counterexample can defeat any inductive generalization.
+
+Induction seems powerful, but as the author demonstrates, it is fragile. Unless you have examined every single instance, your conclusion remains probable at best. In this lesson, we will see how the author uses vivid examples from crocodiles and hedgehogs to show the limits of induction.
+
+Guided Path
+1
+Identify the author's claim about induction and certainty
+Find in the text where the author states that complete induction yields knowledge ('ilm) and incomplete yields probability (zann). Note the exact phrasing.
+Look for the sentence starting with 'فإذن حصل من هذا أن الاستقراء التام يفيد العلم...'
+2
+Extract the counterexamples
+Locate the two examples: the crocodile (jaw movement) and the hedgehog (mating). How do these examples demonstrate that a single unobserved case can falsify a universal claim?
+The crocodile is said to move its upper jaw, contrary to the generalization that all animals move their lower jaw.
+3
+Contrast complete vs. incomplete induction
+Define 'complete induction' (istiqra' tamm) as covering all particulars, and 'incomplete induction' as covering only some. The author emphasizes that only the former yields certainty.
+Complete induction is rare; most inductions in practice are incomplete.
+4
+Formulate the epistemological lesson
+Summarize why the possibility of a counterexample prevents certainty. The author says 'imkan al-khilaf' (possibility of disagreement) does not negate probability but prevents certainty.
+This has direct implications for using induction in proofs.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واجب وأن الوقف لازم، ورأينا جواز أدائه على الراحلة ولا عهد به في فرض ووجوب اتباع شرط الواقف ولا عهد به في تصرّف لازم صار منع الفرضية ومنع اللزوم أغلب على الظنّ وأرجح من نقيضه، وإمكان الخلاف لا يمنع الظن ولا سبيل إلى جحد الإمكان مهما لم يكن الاستقراء تاماً، ولا يكفي في تمام الاستقراء أن تتصفّح ما وجدته شاهداً على الحكم إذا أمكن أن ينتقل عنه شيء، كما لو حكم إنسان بأن كل حيوان يحرك عند المضغ فكه الأسفل لأنه استقرى أصناف الحيوانات الكثيرة، ولكنه لما لم يشاهد جميع الحيوانات لم يأمن أن يكون في البحر حيوان هو التمساح يحرّك عند المضغ فكه الأعلى - على ما قيل ـ وإذا حكم بأن كل حيوان سوى الإنسان، فنزوانه على الأنثى من وراء بلا تقابل الوجهين لم يأمن أن يكون سفاد القنفذ وهو من الحيوانات على المقابلة لكنه لم يشاهده، فإذن حصل من هذا أن الاستقراء التام يفيد العلم والتناقض يفيد الظنّ، فإذن لا ينتفع بالاستقراء مهما وقع خلاف في بعض الجزئيات فلا يفيد الاستقراء علماً كلياً بثبوت الحكم للمعنى الجامع للجزئيات، حتى يجعل ذلك مقدمة في قياس آخر لا في إثبات الحكم لبعض الجزئيات، كما إذا قلنا كلّ حركة في زمان وكلّ ما في زمان فهو محدث فالحركة محدثة وأثبتنا قولنا كلّ حركة في زمان باستقراء أنواع الحركة من سباحة وطيران ومشي وغيرها . فأما إذا أردنا أن نثبت أن السباحة في زمان بهذا الاستقراء لم يكن تامًا والضبط أن القضية التي عرفت بالاستقراء إن أثبت لمحمولها حكماً ليتعدَّى إلى موضوعها فلا بأس، وإن نقل محمولها إلى بعض جزئیات موضوعها لم يجز إذ تدخل النتيجة في نفس الاستقراء فتسقط فائدة القياس . فإذا كان مطلبنا مثلاً أن نُبيّن أن القوة العقلية المدركة للمعقولات هل هي منطبعة في أم لا؟ فقلنا : ليست منطبعة في جسم لأنها تدرك نفسها والقوى المنطبعة في الأجسام لا تدرك نفسها . فيقال : ولم؟ قلت : إن القوى المنطبعة الأجسام لا تدرك نفسها؟ فقلنا : تصفّحنا القوى المدركة من الآدمي كقوة البصر والسمع والشم والذوق واللمس والخيال والوهم فرأيناها لا تدرك نفسها. فيقال : هل تصفحت في جملة ذلك القوة العقلية؟ فإن تصفّحتها فقد عرفتها قبل هذا الدليل فلا تحتاج إلى هذا الدليل، وإن لم تعرفها بل هي المطلوب فلم تتصفّح الكل بل تصفحت البعض فلِمَ حكمت على الكلّ بهذا الحكم؟ ومن أين يبعد أن تكون القوى المنطبعة كلّها لا تدرك نفسها إلا واحدة فيكون حكم واحدة منها بخلاف حكم الجملة وهو ممكن كما ذكرناه في مثال التمساح والقنفذ، وفي وفي مثال من يدعي أن صانع العالم جسم، بل من ليس له سمع بصر ربما يحكم بأن الحس لا ولا يدرك الشيء إلا بالاتصال بذلك الشيء، بدليل الذوق واللمس والشم، فلو يجري ذلك في البصر والسمع كان مخطئاً إذ يقال : لم يستحيل أن تنقسم الحواس إلى ما يفتقر فيه إلى الإتصال بالمحسوس وإلى ما لا يفتقر ؟ وإذا جاز الانقسام جاز أن يعتدل القسمان وجاز أن يكون الأكثر في أحد القسمين، ولا يبقى في القسم الآخر إلَّا واحد فهذا لا يورث يقيناً إنما يحرك ظنّاً، وربما يقنع إقناعاً يسبق الاعتقاد إلى قبوله ويستمر عليه .
+And it is obligatory and the endowment is binding, and we saw the permissibility of performing it on a mount, and there is no known [ruling] regarding its being a duty and the obligation to follow the condition of the endower, and there is no known [ruling] regarding a binding disposition; thus denying the duty and denying the binding nature became more probable and more likely than their opposite. The possibility of disagreement does not prevent probability, and there is no way to deny possibility as long as induction is not complete. It is not sufficient for the completeness of induction that you examine what you found as evidence for the ruling if it is possible that something else could transfer from it. For example, if a person judged that every animal moves its lower jaw when chewing because he induced many species of animals, but since he did not observe all animals, he cannot be safe from the possibility that there is an animal in the sea, the crocodile, which moves its upper jaw when chewing – according to what is said. And if he judged that every animal except man (leaps upon the female from behind without facing), he cannot be safe from the possibility that the mating of the hedgehog, which is an animal, is face-to-face, but he did not observe it. So from this it follows that complete induction yields knowledge, while incomplete yields probability. Therefore, induction is of no use whenever there is a disagreement in some particulars; it does not yield universal knowledge of the establishment of the ruling for the meaning common to the particulars, so that it can be made a premise in another syllogism – not in establishing the ruling for some particulars. For example, if we say: Every motion is in time, and everything in time is originated, so motion is originated, and we proved our statement 'Every motion is in time' by induction of the types of motion – swimming, flying, walking, etc. But if we want to prove that swimming is in time by this induction, it would not be complete. The rule is that a proposition known by induction, if it establishes a ruling for its predicate to be transferred to its subject, then it is fine; but if it transfers its predicate to some of its subject's particulars, it is not permissible because the conclusion would enter into the induction itself, and the benefit of the syllogism would be lost. For example, if our aim is to show whether the rational faculty that perceives intelligibles is imprinted [in a body] or not. Then we said: It is not imprinted in a body because it perceives itself, while the forces imprinted in bodies do not perceive themselves. It is said: Why? Did you say that the forces imprinted in bodies do not perceive themselves? We say: We examined the perceptive forces in man – like sight, hearing, smell, taste, touch, imagination, and estimation – and we saw that they do not perceive themselves. It is said: Did you examine among all that the rational force? If you examined it, then you knew it before this proof, and you do not need this proof. And if you did not know it, and it is what is sought, then you did not examine the whole but examined only a part, so why did you judge the whole by this ruling? And how far is it from possibility that all the imprinted forces do not perceive themselves except one, so that the ruling of that one is different from the ruling of the whole? This is possible as we mentioned in the example of the crocodile and the hedgehog, and in the example of one who claims that the Maker of the world is a body. Rather, someone who has no hearing or sight might judge that sensation does not perceive anything except by contact with that thing, as evidenced by taste, touch, and smell. If he applies that to sight and hearing, he would be mistaken, because it is said: Why is it impossible that the senses divide into those that need contact with the sensed and those that do not? And if division is possible, then it is possible that the two divisions are balanced, and possible that the majority are in one division, leaving only one in the other division. So this does not produce certainty; it only moves probability, and perhaps it persuades with a persuasion that precedes belief to accept it and continues upon it.
+Source pages p. 75
+
+Commentary
+This passage is an epistemological critique of inductive reasoning (istiqra'). The author begins by discussing a specific case involving endowment (waqf) to illustrate that when there is possibility of alternative rulings, one only achieves probability (zann), not certainty. He then states that the possibility of disagreement (imkan al-khilaf) does not negate probability, but that one cannot deny the possibility of a counterexample unless induction is complete. The author provides two vivid examples to show the weakness of incomplete induction: first, the claim that all animals move their lower jaw when chewing is refuted by the crocodile, which is reported to move its upper jaw; second, the claim that all animals except humans mate from behind without facing is challenged by the hedgehog, which mates face-to-face. These examples demonstrate that a single unobserved counterexample can defeat a universal generalization. The author then distinguishes complete induction (istiqra' tamm), which yields certainty ('ilm), from incomplete induction, which yields only probability (zann). He warns that incomplete induction cannot establish a universal law to be used as a premise in a syllogism; it can only be used to transfer a ruling from a predicate to its subject if the induction is complete, but not to transfer a predicate to individual subjects, as that would render the syllogism circular. The author then applies this critique to a philosophical argument: the claim that the rational soul is not imprinted in a body because it perceives itself, while imprinted forces do not. The proof is based on an induction of sensory faculties (sight, hearing, etc.) that do not perceive themselves. However, the objector points out that the rational faculty itself was not included in the induction, so the conclusion is invalid. The author extends the critique to a sense-based argument: a person without hearing or sight might claim that all senses require contact with the object, based on taste, touch, and smell, but this induction is incomplete because sight and hearing, which do not require contact, were not observed. The final takeaway is that such incomplete inductions only produce probable opinion, not certainty.
+
+Key Terms
+الاستقراء
+الظن
+التام
+القوة العقلية
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the author say about the claim 'Every animal moves its lower jaw when chewing'?
+A) It is certainly true because many animals were observed.
+B) It is false because the crocodile is known to move its upper jaw.
+C) It is probable but not certain because the crocodile may be a counterexample.
+D) It is a necessary truth of biology.
+
+Key Takeaway
+Incomplete induction yields only probability, not certainty; a single potential counterexample is enough to undermine certainty.
+
+How This Lesson Applies — to MY Life?
+?
+In Usul al-Fiqh, scholars often inductively derive the 'illah (effective cause) from multiple cases. Using the author's criteria, construct a scenario where an incomplete induction would lead to a false universal ruling. Explain why certainty is not achieved.
+
+Pages p. 75 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 75
+Module 19 · Lesson 6
+Next →
+Induction and Analogy
+intermediate
+5 min
+Induction as a Premise in Syllogisms
+Author critiques induction with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when induction can and cannot serve as a premise in a syllogism, and apply this rule to the rational faculty argument.
+
+Core Idea
+Induction used to prove a predicate's ruling on a subject is fine; used to prove a predicate on a particular of that subject is circular.
+
+The author presents a subtle rule: if you use induction to establish that a predicate applies to a subject, you can then transfer that ruling to the subject's particulars. But if you try to prove the predicate for a particular that was part of the induction itself, the argument becomes circular. We will see this applied to the rational faculty argument.
+
+Guided Path
+1
+Identify the rule about induction in syllogisms
+Find the sentence starting with 'والضبط أن القضية التي عرفت بالاستقراء...' and understand the two scenarios: (1) transferring a ruling from predicate to subject is fine, (2) transferring from predicate to a particular of the subject is not allowed.
+This rule prevents circular reasoning where the conclusion would be part of the induction.
+2
+Analyze the rational faculty argument
+Identify the claim: the rational faculty is not imprinted because it perceives itself, while imprinted forces do not. The proof uses induction of sensory faculties (sight, hearing, etc.) that do not perceive themselves.
+The induction covers only some forces, not the rational faculty itself.
+3
+Find the flaw in the argument
+The objector notes that the rational faculty was not included in the induction. If it had been, the argument would be circular; if not, the induction is incomplete and cannot be generalized.
+This is exactly the rule violation: the induction's conclusion is about the rational faculty, but the induction did not include it.
+4
+Apply the rule to the sense argument
+Consider the example of a person without sight/hearing who claims all senses require contact. This induction from taste, touch, smell is incomplete because it omits sight and hearing. Thus, it produces only probability.
+The possibility of a sense that does not require contact (like sight) undermines the universal claim.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واجب وأن الوقف لازم، ورأينا جواز أدائه على الراحلة ولا عهد به في فرض ووجوب اتباع شرط الواقف ولا عهد به في تصرّف لازم صار منع الفرضية ومنع اللزوم أغلب على الظنّ وأرجح من نقيضه، وإمكان الخلاف لا يمنع الظن ولا سبيل إلى جحد الإمكان مهما لم يكن الاستقراء تاماً، ولا يكفي في تمام الاستقراء أن تتصفّح ما وجدته شاهداً على الحكم إذا أمكن أن ينتقل عنه شيء، كما لو حكم إنسان بأن كل حيوان يحرك عند المضغ فكه الأسفل لأنه استقرى أصناف الحيوانات الكثيرة، ولكنه لما لم يشاهد جميع الحيوانات لم يأمن أن يكون في البحر حيوان هو التمساح يحرّك عند المضغ فكه الأعلى - على ما قيل ـ وإذا حكم بأن كل حيوان سوى الإنسان، فنزوانه على الأنثى من وراء بلا تقابل الوجهين لم يأمن أن يكون سفاد القنفذ وهو من الحيوانات على المقابلة لكنه لم يشاهده، فإذن حصل من هذا أن الاستقراء التام يفيد العلم والتناقض يفيد الظنّ، فإذن لا ينتفع بالاستقراء مهما وقع خلاف في بعض الجزئيات فلا يفيد الاستقراء علماً كلياً بثبوت الحكم للمعنى الجامع للجزئيات، حتى يجعل ذلك مقدمة في قياس آخر لا في إثبات الحكم لبعض الجزئيات، كما إذا قلنا كلّ حركة في زمان وكلّ ما في زمان فهو محدث فالحركة محدثة وأثبتنا قولنا كلّ حركة في زمان باستقراء أنواع الحركة من سباحة وطيران ومشي وغيرها . فأما إذا أردنا أن نثبت أن السباحة في زمان بهذا الاستقراء لم يكن تامًا والضبط أن القضية التي عرفت بالاستقراء إن أثبت لمحمولها حكماً ليتعدَّى إلى موضوعها فلا بأس، وإن نقل محمولها إلى بعض جزئیات موضوعها لم يجز إذ تدخل النتيجة في نفس الاستقراء فتسقط فائدة القياس . فإذا كان مطلبنا مثلاً أن نُبيّن أن القوة العقلية المدركة للمعقولات هل هي منطبعة في أم لا؟ فقلنا : ليست منطبعة في جسم لأنها تدرك نفسها والقوى المنطبعة في الأجسام لا تدرك نفسها . فيقال : ولم؟ قلت : إن القوى المنطبعة الأجسام لا تدرك نفسها؟ فقلنا : تصفّحنا القوى المدركة من الآدمي كقوة البصر والسمع والشم والذوق واللمس والخيال والوهم فرأيناها لا تدرك نفسها. فيقال : هل تصفحت في جملة ذلك القوة العقلية؟ فإن تصفّحتها فقد عرفتها قبل هذا الدليل فلا تحتاج إلى هذا الدليل، وإن لم تعرفها بل هي المطلوب فلم تتصفّح الكل بل تصفحت البعض فلِمَ حكمت على الكلّ بهذا الحكم؟ ومن أين يبعد أن تكون القوى المنطبعة كلّها لا تدرك نفسها إلا واحدة فيكون حكم واحدة منها بخلاف حكم الجملة وهو ممكن كما ذكرناه في مثال التمساح والقنفذ، وفي وفي مثال من يدعي أن صانع العالم جسم، بل من ليس له سمع بصر ربما يحكم بأن الحس لا ولا يدرك الشيء إلا بالاتصال بذلك الشيء، بدليل الذوق واللمس والشم، فلو يجري ذلك في البصر والسمع كان مخطئاً إذ يقال : لم يستحيل أن تنقسم الحواس إلى ما يفتقر فيه إلى الإتصال بالمحسوس وإلى ما لا يفتقر ؟ وإذا جاز الانقسام جاز أن يعتدل القسمان وجاز أن يكون الأكثر في أحد القسمين، ولا يبقى في القسم الآخر إلَّا واحد فهذا لا يورث يقيناً إنما يحرك ظنّاً، وربما يقنع إقناعاً يسبق الاعتقاد إلى قبوله ويستمر عليه .
+And it is obligatory and the endowment is binding, and we saw the permissibility of performing it on a mount, and there is no known [ruling] regarding its being a duty and the obligation to follow the condition of the endower, and there is no known [ruling] regarding a binding disposition; thus denying the duty and denying the binding nature became more probable and more likely than their opposite. The possibility of disagreement does not prevent probability, and there is no way to deny possibility as long as induction is not complete. It is not sufficient for the completeness of induction that you examine what you found as evidence for the ruling if it is possible that something else could transfer from it. For example, if a person judged that every animal moves its lower jaw when chewing because he induced many species of animals, but since he did not observe all animals, he cannot be safe from the possibility that there is an animal in the sea, the crocodile, which moves its upper jaw when chewing – according to what is said. And if he judged that every animal except man (leaps upon the female from behind without facing), he cannot be safe from the possibility that the mating of the hedgehog, which is an animal, is face-to-face, but he did not observe it. So from this it follows that complete induction yields knowledge, while incomplete yields probability. Therefore, induction is of no use whenever there is a disagreement in some particulars; it does not yield universal knowledge of the establishment of the ruling for the meaning common to the particulars, so that it can be made a premise in another syllogism – not in establishing the ruling for some particulars. For example, if we say: Every motion is in time, and everything in time is originated, so motion is originated, and we proved our statement 'Every motion is in time' by induction of the types of motion – swimming, flying, walking, etc. But if we want to prove that swimming is in time by this induction, it would not be complete. The rule is that a proposition known by induction, if it establishes a ruling for its predicate to be transferred to its subject, then it is fine; but if it transfers its predicate to some of its subject's particulars, it is not permissible because the conclusion would enter into the induction itself, and the benefit of the syllogism would be lost. For example, if our aim is to show whether the rational faculty that perceives intelligibles is imprinted [in a body] or not. Then we said: It is not imprinted in a body because it perceives itself, while the forces imprinted in bodies do not perceive themselves. It is said: Why? Did you say that the forces imprinted in bodies do not perceive themselves? We say: We examined the perceptive forces in man – like sight, hearing, smell, taste, touch, imagination, and estimation – and we saw that they do not perceive themselves. It is said: Did you examine among all that the rational force? If you examined it, then you knew it before this proof, and you do not need this proof. And if you did not know it, and it is what is sought, then you did not examine the whole but examined only a part, so why did you judge the whole by this ruling? And how far is it from possibility that all the imprinted forces do not perceive themselves except one, so that the ruling of that one is different from the ruling of the whole? This is possible as we mentioned in the example of the crocodile and the hedgehog, and in the example of one who claims that the Maker of the world is a body. Rather, someone who has no hearing or sight might judge that sensation does not perceive anything except by contact with that thing, as evidenced by taste, touch, and smell. If he applies that to sight and hearing, he would be mistaken, because it is said: Why is it impossible that the senses divide into those that need contact with the sensed and those that do not? And if division is possible, then it is possible that the two divisions are balanced, and possible that the majority are in one division, leaving only one in the other division. So this does not produce certainty; it only moves probability, and perhaps it persuades with a persuasion that precedes belief to accept it and continues upon it.
+Source pages p. 75
+
+Commentary
+This passage is an epistemological critique of inductive reasoning (istiqra'). The author begins by discussing a specific case involving endowment (waqf) to illustrate that when there is possibility of alternative rulings, one only achieves probability (zann), not certainty. He then states that the possibility of disagreement (imkan al-khilaf) does not negate probability, but that one cannot deny the possibility of a counterexample unless induction is complete. The author provides two vivid examples to show the weakness of incomplete induction: first, the claim that all animals move their lower jaw when chewing is refuted by the crocodile, which is reported to move its upper jaw; second, the claim that all animals except humans mate from behind without facing is challenged by the hedgehog, which mates face-to-face. These examples demonstrate that a single unobserved counterexample can defeat a universal generalization. The author then distinguishes complete induction (istiqra' tamm), which yields certainty ('ilm), from incomplete induction, which yields only probability (zann). He warns that incomplete induction cannot establish a universal law to be used as a premise in a syllogism; it can only be used to transfer a ruling from a predicate to its subject if the induction is complete, but not to transfer a predicate to individual subjects, as that would render the syllogism circular. The author then applies this critique to a philosophical argument: the claim that the rational soul is not imprinted in a body because it perceives itself, while imprinted forces do not. The proof is based on an induction of sensory faculties (sight, hearing, etc.) that do not perceive themselves. However, the objector points out that the rational faculty itself was not included in the induction, so the conclusion is invalid. The author extends the critique to a sense-based argument: a person without hearing or sight might claim that all senses require contact with the object, based on taste, touch, and smell, but this induction is incomplete because sight and hearing, which do not require contact, were not observed. The final takeaway is that such incomplete inductions only produce probable opinion, not certainty.
+
+Key Terms
+الاستقراء
+الظن
+التام
+القوة العقلية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why is the argument that the rational faculty does not perceive itself invalid?
+A) Because the rational faculty is not a force imprinted in a body.
+B) Because the rational faculty was not included in the induction of sensory faculties.
+C) Because the induction of sensory faculties was complete but the conclusion is still false.
+D) Because the argument uses an analogy instead of induction.
+
+Key Takeaway
+An induction that omits the very instance under dispute cannot serve as a premise in a syllogism for that instance; it only yields probability.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the claim: 'All created things are temporally originated because we have observed that all physical substances are temporally originated.' Identify whether this induction is complete and whether it can be used as a premise to prove that the rational soul is temporally originated. Explain using the author's rule.
+
+Pages p. 75 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 76
+Module 19 · Lesson 7
+Next →
+Induction and Analogy
+intermediate
+8 min
+Tamthil: When Analogy Becomes a Valid Syllogism
+Author defines analogical reasoning and critiques its use unless reduced to categorical syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when an analogical argument is reducible to a valid first-figure categorical syllogism and when it remains fallacious.
+
+Core Idea
+Analogy is only logically sound when reduced to a universal syllogism with a shared middle term.
+
+In this passage, the author defines the sixth type of argument – tamthil (analogy). He critiques the common practice of transferring a ruling from one particular instance to another based on mere similarity. The key insight is that for analogical reasoning to be logical, it must be expressible as a first-figure categorical syllogism with a properly identified middle term. We will walk through his reasoning and the example from intellectual matters.
+
+Guided Path
+1
+Identify the definition of tamthil
+Find the author's definition of analogical reasoning. He states that tamthil is what jurists call qiyas and theologians call 'reducing the unseen to the witnessed'. The basic meaning is transferring a ruling from one particular to another due to similarity.
+2
+Analyze the unsound analogy
+Examine the example: claiming the heavens are created by analogy to plants and animals. The author says this is unsound (ghayr sadid). Why? Because the similarity does not guarantee the same cause.
+3
+Extract the missing middle term
+To make the argument valid, one must show that the plants were created because they are bodies (jism). Corporeality (jismiyya) becomes the middle term (al-hadd al-awsat) that connects the particular to the general ruling of creation.
+The middle term is the property that makes the inference universal.
+4
+Reconstruct the valid syllogism
+Once the middle term is identified, the argument becomes a first-figure categorical syllogism: Every body is created (major premise), the heavens are a body (minor premise), therefore the heavens are created. The transfer is now from the universal to the particular, which is sound.
+The specific examples (plant, animal) become superfluous.
+5
+Apply the test to the story of the Jew
+The story illustrates the fallacy: a man argues that sailing brings wealth because a Jew did so and became rich. The Jew's wealth might be due to being Jewish, not sailing. The argument fails unless the universal cause (e.g., merchant activity) is identified and used as the middle term.
+This shows why analogical reasoning must be universalized.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الصنف السادس : التمثيل وهو الذي تُسمّيه الفقهاء قياساً، وَيُسمّيه المتكلمون ردّ الغائب إلى الشاهد، ومعناه أن يوجد حكم في جزئي معين واحد فينقل حكمه إلى جزئي آخر يشابهه بوجه ما . ومثاله في العقليات أن نقول : السماء حادث لأنه قياساً على النبات والحيوان، وهذه الأجسام التي يشاهد حدوثها وهذا غير سديد ما لم يمكن أن يتبين أن النبات كان حادثاً لأنه جسم، وأن جسميته هي الحد الأوسط للحدوث، فإن ثبت ذلك فقد عرفت أن الحيوان حادث لأن الجسم حادث، فهو حكم كلّي وينتظم منه قياس على هيئة الشكل الأول، وهو أن السماء حادث، فينتج أن السماء حادث، فيكون نقل الحكم من كلّي إلى جزئي داخلاً تحته، وهو صحيح، وسقط أثر الشاهد المعين وكان ذكر الحيوان فضلة في الكلام كما إذا قيل :لإنسان لم ركبت البحر ؟ فقال : لاستغني، فقيل له : ولم قلت إذا ركبت البحر استغنيت؟ فقال : لأن ذلك اليهودي ركب البحر فاستغنى، فيقال: وأنت لست بيهودي فلا يلزم من ثبوت الحكم فيه ثبوت الحكم فيك، فلا يخلّصه إلَّا أن يقول : هو لم يستغن لأنه يهودي بل لأنه ركب البحر تاجراً، فنقول: إذن جسم وكل جسم .
+The sixth type: representation (tamthil). It is what the jurists call analogical reasoning (qiyas), and the theologians call 'reducing the unseen to the witnessed' (radd al-gha'ib ila al-shahid). Its meaning is that a ruling exists in one specific particular, so its ruling is transferred to another particular that resembles it in some respect. An example in intellectual matters: we say 'The heavens are created' by analogy to plants and animals, which are bodies whose creation is witnessed. This is not sound unless it can be shown that the plant was created because it is a body, and that its corporeality is the middle term for creation. If that is established, then you have known that the animal is created because the body is created; so it is a universal ruling, and from it a syllogism in the first figure is formed: 'Every body is created, the heavens are a body, therefore the heavens are created.' Thus the transfer of the ruling is from the universal to the particular subsumed under it, and this is correct, and the effect of the specific witnessed instance disappears, and the mention of the animal becomes superfluous speech. For example, if it is said to a man: 'Why did you board the sea?' He said: 'To become rich.' It was said to him: 'Why do you say that if you board the sea you become rich?' He said: 'Because that Jew boarded the sea and became rich.' It is said: 'You are not a Jew, so the establishment of the ruling in him does not necessitate the establishment of the ruling in you.' Nothing can save him except to say: 'He did not become rich because he is a Jew, but because he boarded the sea as a merchant.' Then we say: 'Thus, [the middle term is] body, and every body [is created].'
+Source pages p. 76
+
+Commentary
+This passage defines the sixth type of argument in the classification, namely tamthil (representation/analogy). The author notes that jurists (fuqaha') call this 'qiyas' and theologians (mutakallimun) call it 'radd al-gha'ib ila al-shahid' (reducing the unseen to the witnessed). The basic meaning is that a judgment found in one particular instance is transferred to another particular instance because of some similarity between them. The author then gives an example from intellectual matters: claiming that the heavens are created (حادث) by analogy to plants and animals, which are observed to be created. However, the author immediately critiques this as unsound unless the common property (the middle term) is identified. To be valid, one must first establish that the plant is created because it is a body (jism), and that corporeality (jismiyya) is the middle term for creation. Then one can form a universal categorical syllogism in the first figure: All bodies are created (major premise), the heavens are a body (minor premise), therefore the heavens are created. In this valid syllogism, the transfer is from the universal predicate (being created) to a particular subject (the heavens) subsumed under it, and this is correct. The specific examples (plant, animal) become superfluous. The author then illustrates the fallacy of relying on a particular example with a story: a man boards a sea voyage to become rich because a Jew did so and became rich. The man fails to realize that the Jew's wealth may have been due to his being a Jew or some other specific factor, not merely the act of sailing. To make the argument valid, one must identify the universal property that causes wealth (e.g., trading at sea) and use it as a middle term. Thus, analogical reasoning is only logical when it can be reduced to a universal categorical syllogism with the middle term properly identified.
+
+Key Terms
+التمثيل
+قياس
+رد الغائب إلى الشاهد
+الحد الأوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say that the example of the Jew who became rich by sailing does not justify that sailing brings wealth for everyone?
+A) Because the Jew's wealth might be due to his being a Jew, not to sailing.
+B) Because the man did not actually become rich.
+C) Because sailing is not a permissible activity.
+D) Because the man was not a Jew.
+
+Key Takeaway
+Analogies in Islamic reasoning are only logically sound when they can be recast as universal categorical syllogisms with a proper middle term.
+
+How This Lesson Applies — to MY Life?
+?
+1. Given the following analogy: 'If a divorced woman who is not menstruating must observe an 'idda of three months, then a widow must observe an 'idda of four months and ten days because she is also a woman.' Identify whether this is a valid tamthil in the author's sense. What would be the missing middle term? Reconstruct the argument as a first-figure syllogism.
+?
+2. Take the invalid analogy from the Jew story: 'The Jew boarded the sea and became rich; therefore, I (non-Jew) will become rich if I board the sea.' Find the missing middle term (universal cause) and construct a valid first-figure syllogism.
+
+Pages p. 76 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 76
+Module 19 · Lesson 8
+Next →
+Induction and Analogy
+intermediate
+8 min
+Critique of Tamthil: From Analogy to Syllogism
+Al-Ghazali critiques tamthil and shows its dependence on categorical syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the logical flaw in analogical reasoning (tamthil) and transform it into a valid categorical syllogism in the first figure.
+
+Core Idea
+Analogical reasoning is only valid when the specific example is discarded and the common meaning becomes a universal premise.
+
+In this passage, al-Ghazali defines tamthil — the method jurists call qiyas and theologians call 'returning the absent to the present.' He then unveils its hidden weakness: tamthil appears compelling but is logically incomplete unless it is restructured as a categorical syllogism. You will learn to spot when an analogy is merely an argument from example and when it meets the rigorous standard of demonstrative proof.
+
+Guided Path
+1
+Identify the analogical claim
+Locate the judgment being transferred from one particular instance (the shahid) to another (the gha'ib). For example: 'The heaven is originated because it is like plants and animals, which are observed to be originated.'
+The specific witness is explicitly named (e.g., plant, animal, Jew, man).
+2
+Extract the common meaning (al-ma'na al-jami')
+Determine the attribute shared between the two instances that supposedly justifies the transfer. In the example, it is 'being a body' for origination, or 'boarding the sea as a merchant' for wealth.
+This is equivalent to the 'illa in usul al-fiqh, but here it must be universalized.
+3
+Formulate the universal premise
+Turn the common meaning into a universal categorical statement: 'Every body is originated' or 'Everyone who boards the sea as a merchant becomes wealthy.' This is the major premise.
+The specific witness is no longer needed; it becomes a mere instance of the universal.
+4
+Construct the first-figure syllogism
+Combine the universal premise with a minor premise that subsumes the new instance under it: 'The heaven is a body' or 'I board the sea as a merchant.' The conclusion follows deductively, not by analogy.
+Al-Ghazali insists the middle term (e.g., 'body') must be explicitly the cause of the judgment.
+5
+Check for hidden attributes
+Even after universalization, the opponent may deny the universal because the common meaning may not be the sole cause; hidden attributes of the specific witness may be necessary. In that case, you must specify the exact condition (e.g., 'concurrent with events in a specific manner').
+This step reveals the deeper epistemological limitation of analogical reasoning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الصنف السادس : التمثيل وهو الذي تُسمّيه الفقهاء قياساً، ويُسمّيه المتكلمون ردّ الغائب إلى الشاهد، ومعناه أن يوجد حكم في جزئي معين واحد فينقل حكمه إلى جزئي آخر يشابهه بوجه ما . ومثاله في العقليات أن نقول : السماء حادث لأنه قياساً على النبات والحيوان، وهذه الأجسام التي يشاهد حدوثها وهذا غير سديد ما لم يمكن أن يتبين أن النبات كان حادثاً لأنه جسم، وأن جسميته هي الحد الأوسط للحدوث، فإن ثبت ذلك فقد عرفت أن الحيوان حادث لأن الجسم حادث، فهو حكم كلّي وينتظم منه قياس على هيئة الشكل الأول، وهو أن السماء حادث، فينتج أن السماء حادث، فيكون نقل الحكم من كلّي إلى جزئي داخلاً تحته، وهو صحيح، وسقط أثر الشاهد المعين وكان ذكر الحيوان فضلة في الكلام كما إذا قيل :لإنسان لم ركبت البحر ؟ فقال : لاستغني، فقيل له : ولم قلت إذا ركبت البحر استغنيت؟ فقال : لأن ذلك اليهودي ركب البحر فاستغنى، فيقال: وأنت لست بيهودي فلا يلزم من ثبوت الحكم فيه ثبوت الحكم فيك، فلا يخلّصه إلَّا أن يقول : هو لم يستغن لأنه يهودي بل لأنه ركب البحر تاجراً، فنقول: إذن فذكر اليهودي حشو، بل طريقك أن تقول : كلّ من ركب البحر أيسر، فأنا أيضاً أركب البحر لأوسر، ويسقط أثر اليهودي، فإذن لا خير في ردّ الغائب إلى الشاهد إلا بشرط مهما تحقق سقط أثر الشاهد المعين . ثم في هذا الشرط موضع غلط أيضاً، فربما يكون المعنى الجامع مما يظهر أثره وغناه في الحكم، فيظن أنه صالح ولا يكون صالحاً لأن الحكم لا يلزمه بمجرده بل لكونه على حال خفي، وأعيان الشواهد تشتمل على صفات خفية فلذلك يجب اطراح الشاهد المعيّن، فإنك تقول : السماء حادث لأنه مقارن للحوادث كالحيوان فيجب عليك اطراح ذكر الحيوان لأنه يقال لك: الحيوان بمجرد كونه مقارناً للحوادث فقط، فاطرح الحيوان وقل: كلّ مقارن للحوادث حادث والسماء مقارن فكان حادثاً، وعند ذلك ربما يمنع الخصم المقدمة الكبرى فلا يسلم أن كلّ مقارن للحوادث حادث إلا على وجه مخصوص، وإن جوزت أن الموجب للحدوث كونه مقارناً على وجه مخصوص فلعل ذلك الوجه وأنت لا تدريه موجود في الحيوان لا في السماء، فإن عرفت ذلك فأبرزه وأضفه إلى المقارن واجعله مقدمة كلّية وقل : كلّ مقارن للحوادث بصفة كذا فهو حادث، والسماء مقارن بصفة كذا فهو إذن حادث، فعلى جميع الأحوال لا فائدة في تعيين شاهد معيّن في العقليات ليقاس عليه؛ ومن هذا القبيل قولك : الله عالم بعلم لا بنفسه لأنه لو كان عالماً لكان عالماً بعلم قياساً على الإنسان، فيقال: ولم قلت: إن ما ينسب للإنسان ينسب لله؟ فتقول : لأن العلة جامعة، فيقال: العلة كونه إنساناً عالماً أو كونه عالماً فقط، فإن كان كونه إنساناً عالماً فلا يلزم في حق الله مثله، وإن كانت كونه عالماً فقط فاطرح الإنسان وقل : كلّ عالم فهو عالم بعلم والباري عالم فهو عالم بعلم وعند ذلك إنما ينازع في قولك كل عالم فهو عالم بعلم، فإن ذلك إن لم يكن أولياً لزمك أن تبينه بقياس آخر لا محالة. فإن قيل : فهل يمكن إثبات كون المعنى الجامع علة للحكم بأن نرى أن الحكم يرتفع بارتفاعه؟ قلنا : لا ، فإن الحكم يرتفع بارتفاع بعض أجزاء العلة وشروطها، ولا يوجد بوجود ذلك البعض فمهما ارتفعت الحياة ارتفع الإنسان ومهما وجدت الحياة لم يلزم وجود الإنسان، بل ربما يوجد الفرس أو غيره ولكن الأمر بالضد هذا، وهو أنه مهما وجد الحكم دلّ على وجود المعنى الجامع،
+The sixth kind: Tamthil (analogy). It is what the jurists call qiyas, and the theologians call returning the absent to the present. Its meaning is that a judgment exists in one particular instance, and its judgment is transferred to another particular instance that resembles it in some respect. An example in intellectual matters is our saying: 'The heaven is originated because it is qiyas upon the plant and animal, these bodies whose origination is witnessed.' And this is not sound unless it is shown that the plant was originated because it is a body, and that its corporeality is the middle term for origination. If that is established, then you know that the animal is originated because the body is originated, so it is a universal judgment, and from it a syllogism in the form of the first figure is formed, namely: 'The heaven is originated, and every originated is a body? Actually the text: 'The heaven is originated, and every body is originated? No, careful: 'in that the heaven is originated, it yields that the heaven is originated.' That is nonsense. Actually the text: 'فإن ثبت ذلك فقد عرفت أن الحيوان حادث لأن الجسم حادث، فهو حكم كلّي وينتظم منه قياس على هيئة الشكل الأول، وهو أن السماء حادث، فينتج أن السماء حادث' This seems garbled; likely a scribal error. The intended meaning: 'then you know the animal is originated because the body is originated, so it is a universal judgment, and from it a syllogism in the form of the first figure is formed: The body is originated, and the heaven is a body, so the heaven is originated.' But the text says 'وهو أن السماء حادث' which is the conclusion, not the minor premise. I'll translate literally: 'and from it is formed a syllogism in the form of the first figure, which is that the heaven is originated, so it produces that the heaven is originated.' This is problematic. I'll translate as is: '...and from it a syllogism in the form of the first figure is formed, namely that the heaven is originated, so it yields that the heaven is originated.' The text then: 'so the transfer of judgment from universal to particular falling under it is correct, and the effect of the specific witness falls away.' Then the example of the Jew and the sea: 'As when it is said to a man: Why did you board the sea? He said: To become wealthy. It was said to him: And why did you say that when you board the sea you become wealthy? He said: Because that Jew boarded the sea and became wealthy. So it is said: But you are not a Jew, so the judgment's being established in him does not entail its establishment in you. Nothing saves him except that he says: He did not become wealthy because he is a Jew but because he boarded the sea as a merchant. So we say: Then the mentioning of the Jew is superfluous. Rather your way is to say: Everyone who boards the sea becomes wealthy, and I also board the sea to become wealthy, and the effect of the Jew falls away. So there is no good in returning the absent to the present except with a condition: once it is realized, the effect of the specific witness falls away.' Then: 'Then in this condition there is also a place of error. For perhaps the common meaning appears to have effect and sufficiency in the judgment, so one thinks it is suitable, but it is not suitable because the judgment does not follow from it merely but due to being in a hidden state. And the specific witnesses include hidden attributes. Therefore it is necessary to discard the specific witness. For if you say: The heaven is originated because it is concurrent with events like the animal, then you must discard the mention of the animal, because it is said to you: The animal only due to its being concurrent with events only. So discard the animal and say: Everything concurrent with events is originated, and the heaven is concurrent, so it is originated. At that point the opponent may deny the major premise and not concede that everything concurrent with events is originated except in a specific manner. And if you allow that the cause of origination is its being concurrent in a specific manner, perhaps that specific manner – and you do not know it – exists in the animal but not in the heaven. If you know that, then bring it out and add it to the concurrency and make it a universal premise and say: Everything concurrent with events in such a manner is originated, and the heaven is concurrent in such a manner, so it is originated. So in all cases, there is no benefit in specifying a particular witness in intellectual matters to be analogized upon. And of this kind is your saying: God is knowing by a knowledge not by Himself, because if He were knowing He would be knowing by knowledge, qiyas upon man. So it is said: And why did you say that what is attributed to man is attributed to God? So you say: Because the cause is universal. So it is said: Is the cause his being a knowing man or his being knowing only? If his being a knowing man, then the like is not necessitated in the case of God. And if it is his being knowing only, then discard the man and say: Every knower is knowing by knowledge, and the Creator is a knower, so He is knowing by knowledge. And then the opponent only disputes your saying 'Every knower is knowing by knowledge.' For if it is not primary, you must demonstrate it by another syllogism inevitably.' Then: 'If it is said: Can it be established that the common meaning is the cause of the judgment by seeing that the judgment is removed by its removal? We say: No. For the judgment is removed by the removal of some parts of the cause and its conditions, and it does not exist by the existence of that part. For whenever life is removed, man is removed, and whenever life exists, the existence of man does not follow; rather, perhaps the horse or something else exists. But the matter is contrary to this: whenever the judgment exists, it indicates the existence of the common meaning.'
+Source pages p. 76
+
+Commentary
+This passage critiques the method of tamthil (analogical reasoning), which jurists call qiyas and theologians call 'returning the absent to the present' (radd al-gha'ib ila al-shahid). The author defines tamthil as transferring a judgment from one particular instance to another that resembles it in some respect. He immediately exposes the flaw: analogical reasoning is unsound unless the judgment is first established as a universal rule. He illustrates with the claim that the heaven is originated by analogy with plants and animals. The author argues that to be valid, one must first show that plants are originated because they are bodies, making corporeality the middle term. Then one can form a universal syllogism in the first figure: 'Every body is originated; the heaven is a body; so the heaven is originated.' The specific example (plant/animal) becomes superfluous. The author reinforces this with a story of a man who becomes wealthy by following a Jew's example. The man's reasoning is flawed because the Jew's wealth does not transfer to him unless the common cause (boarding the sea as a merchant) is universalized. Hence, the condition for tamthil is that the specific witness must be discarded once the universal is established. However, the author points out a further pitfall: the common meaning (al-ma'na al-jami') may appear suitable but may not be the true cause due to hidden attributes. Even if one drops the specific witness, the opponent may reject the universal premise. One must then explicitly state the precise condition. The author gives the theological example of God's knowledge. If one argues that God has knowledge by analogy with man, the cause might be 'being a knower' or 'being a knowing man'. The former can be universalized, but the opponent may then question the universal premise. Finally, the author rejects the notion that one can prove the common meaning is the cause by seeing the judgment rise and fall with it, because the judgment may depend on multiple conditions. The passage ends mid-argument, emphasizing that the presence of the judgment indicates the common meaning, but not vice versa.
+
+Key Terms
+التمثيل
+رد الغائب إلى الشاهد
+المعنى الجامع
+الشاهد المعين
+العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Ghazali in this passage, what is the essential condition for tamthil (analogical reasoning) to be valid?
+A) The specific witness (shahid) must be identical in all respects to the new case.
+B) The common meaning (ma'na jami') must be stated as a universal premise, and the specific witness must be dropped.
+C) The analogy must be drawn from a revealed text (Qur'an or Hadith).
+D) The reasoning must be in the form of a disjunctive syllogism.
+
+Key Takeaway
+To be logically sound, analogical reasoning must be transformed into a categorical syllogism with a universal major premise, discarding the specific example, and even then one must guard against hidden attributes that may invalidate the universal.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Convert the following tamthil argument into a valid first-figure categorical syllogism: 'Nabidh is prohibited because it resembles wine in being an intoxicant.' (After conversion: All intoxicants are prohibited; nabidh is an intoxicant; therefore nabidh is prohibited. The specific witness 'wine' is discarded.)
+?
+Task 2: Identify the hidden attribute problem in this kalam argument: 'The world is created because it is like a building that has a builder.' (The common meaning 'having a builder' may not apply to the world in the same way; there may be hidden attributes of the building (e.g., being material, having a beginning in time) that are not shared by the world in the same sense.)
+
+Pages p. 76 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 81
+Module 19 · Lesson 9
+Next →
+Induction and Analogy
+advanced
+10 min
+The Sixth Type of Qiyas: Hidden Meaning Analogy
+Author defines the sixth type of qiyas and gives an example from purification jurisprudence.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the conditions for a hidden meaning analogy and apply it to a fiqh case by evaluating whether the common attribute more strongly suggests a hidden effective cause than the differing attributes.
+
+Core Idea
+Analogy is valid even without manifest suitability when the common attribute strongly hints at a hidden effective cause.
+
+The author has already described five types of qiyas. Now he introduces a subtle type where the common attribute is determinate but lacks obvious suitability (munasaba) and influence (ta'thir). Yet it can still produce valid conjecture if it more strongly suggests that a hidden maslahi meaning (the true effective cause in God's knowledge) is contained within it, rather than in the differing attributes. This type is essential for understanding how mujtahids extend rulings in cases where the 'illa is not explicit.
+
+Guided Path
+1
+Identify the common and differing attributes
+In the author's description, both the common attribute (al-ma'na al-jami') and the differing attributes (ma fihi al-iftiraq) are 'determinate' (mu'ayyan). Note that the common attribute lacks manifest suitability (munasaba) and influence (ta'thir) for the ruling. But it may still serve as an indicator of a hidden meaning.
+Determinate means specific and known, not ambiguous.
+2
+Recognize the condition for preferring the common attribute
+The author states that if the common attribute makes it more probable (agh lab) that it contains the hidden beneficial meaning (al-ma'na al-maslahi al-khafi) than the differing attributes do, then the ruling based on the common attribute (i.e., that both cases share the same ruling) is preferable.
+This is a probabilistic judgment, not a certain one.
+3
+Examine the example: wudu and tayammum
+The example compares wudu (ablution with water) and tayammum (dry ablution). Both are 'ritual purification' (tahara hukmiyya) from an event (hadath) that requires intention (niyya). They share that attribute. They differ in that wudu is with water while tayammum is with earth. The author argues that the hidden requirement for intention is more likely tied to the common attribute 'ritual purification' than to the differing attribute 'with water'. Thus, wudu is analogically attached to tayammum regarding intention.
+The point is not that 'with water' is irrelevant, but that 'ritual purification' is a stronger indicator of the hidden cause.
+4
+Understand the epistemic status: conjecture (zann)
+The author emphasizes that this type of analogy yields preponderant conjecture (zann), not certainty. It is a tool for ijtihad and is subject to disagreement among mujtahids. The practice of the Companions, according to the author, only shows consideration of preponderant conjectures without precise rules; any attempt to regulate it strictly is arbitrary.
+This highlights the role of ijtihad in Islamic jurisprudence.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+السادس : أن يكون المعنى الجامع أمراً معيناً متحداً وما فيه الافتراق أيضاً أمراً معيناً أو أموراً معينة، ولم يكن للجامع مناسبة وتأثير، إلا أنه إن كان الجامع موهماً أن المعنى المصلحي الخفي الملحوظ بعين الاعتبار من جهة الشرع، مودع في طيّه، وانطواؤه على ذلك المعنى، الذي هو المقتضي للحكم عند الله، أغلب من احتواء المعنى الذي فيه المفارقة، كان الحكم بالاشتراك لذلك أولى من الحكم بالافتراق . مثاله قولنا : الوضوء طهارة حكمية عن حدث فتفتقر إلى النية كالتيمم، فقد اشتركا في هذا وافترقا في أن ذاك طهارة بالماء دون التيمم، وتشبهه إزالة النجاسة . وقولنا : طهارة حكمية جمع التيمم وأخرج إزالة النجاسة. ونحن نقول : المقتضي للنية في علم الله تعالى معنى خفي عنا، ومقارنته بكونه طهارة حكمية يعتد به موجباً في حال ،موجبها أغلب من كونه مقروناً بكونه طهارة بالتراب، فيصير إلحاق الوضوء به أغلب على الظنّ من قطعه عنه ؛ وهذا أيضاً مما اختلف فيه . والرأي عندنا أن ذلك مما يتصوّر أن يفيد رجحان ظنّ على ظن، فهو موكول إلى المجتهد. ولم يبن لنا من سيرة الصحابة في إلحاق غير المنصوص بالمنصوص، إلَّا اعتبار أغلب الظنون ولا ضوابط بعد ذلك في تفصيل مدارك الظنون، بل كلّ ما يضبط به تحكم،
+The sixth: that the common attribute is a determinate unified thing, and that in which the difference lies is also a determinate thing or determinate things, and there is no suitability and influence for the common attribute; however, if the common attribute suggests that the hidden beneficial meaning observed with due consideration from the side of the Law, deposited within it, and its being enveloped by that meaning, which is the requirement of the ruling in God's knowledge, is more predominant than the meaning containing the difference, then the ruling by the sharing is more appropriate than the ruling by the difference. Its example is our saying: Wudu is a ritual purification from an event, so it requires intention like tayammum; they share in this and differ in that the former is purification with water unlike tayammum, and it resembles the removal of impurity. And our saying: 'ritual purification' includes tayammum and excludes removal of impurity. And we say: The requirement for intention in God's knowledge is a meaning hidden from us, and its being accompanied by being ritual purification is considered as a cause in a situation; its being a cause is more predominant than its being accompanied by being purification with earth; thus attaching wudu to it becomes more predominant in conjecture than separating it from it. And this too is something about which there is disagreement. And our opinion is that this is something that can be conceived to benefit the preponderance of one conjecture over another, so it is left to the mujtahid. And nothing has become clear to us from the practice of the Companions in attaching the unstated to the stated except consideration of preponderant conjectures, and no rules after that in detailing the bases of conjectures; rather, anything by which it is regulated is arbitrary.
+Source pages p. 81
+
+Commentary
+This passage defines the sixth type of analogical reasoning (qiyas) in the author's classification. The author describes a situation where the common attribute is a specific, determinate thing, and the differing attributes are also determinate. The common attribute lacks manifest suitability (munasaba) and influence (ta'thir) for the ruling. However, if the common attribute more strongly suggests that it contains a hidden beneficial meaning (al-maslahi al-khafi) that is the true effective cause in God's knowledge, then the ruling that both cases share the same legal status is preferable over ruling that they differ. The author gives an example from ritual purification: wudu and tayammum. Both are 'ritual purification' (tahara hukmiyya) and therefore require intention (niyya), analogous to the removal of impurity (which does not require intention). The wudu shares with tayammum the attribute of being ritual purification, while it differs in being purification with water. The author argues that the hidden meaning requiring intention is more likely tied to being ritual purification than to being with water, so attaching wudu to tayammum is more probable. The author then states that this type of analogy can produce preponderance of conjecture (zann) but is subject to disagreement among mujtahids. The Companions' practice does not show precise rules beyond considering preponderant conjectures; any regulation is arbitrary.
+
+Key Terms
+المعنى الجامع
+الافتراق
+المناسبة
+التأثير
+الظن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what determines that the ruling by sharing is preferable over the ruling by difference in the sixth type of qiyas?
+A) The common attribute has manifest suitability and influence.
+B) The differing attribute is more likely to contain the hidden effective cause.
+C) The common attribute suggests that it contains the hidden effective cause more than the difference.
+D) The practice of the Companions mandates this preference.
+
+Key Takeaway
+The sixth type of qiyas relies on the common attribute's suggestion of a hidden meaning to produce preponderant conjecture, and is a valid basis for ijtihad despite lacking manifest suitability.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the case of selling dates before they ripen (bay' al-thimar qabl an yabduwa salahuhu). The Prophet prohibited it for fear of disputation (gharar). Now consider selling grapes before they become raisins. Identify the common and differing attributes, and evaluate whether this would be a valid sixth-type qiyas, explaining which attribute more strongly suggests the hidden cause (prevention of dispute).
+?
+Examine the author's statement that 'any regulation is arbitrary'. Based on the passage, explain why the author holds this view and whether you agree with his conclusion that no precise rules can be set for this type of analogy.
+
+Pages p. 81 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 91
+Module 19 · Lesson 10
+Next →
+Induction and Analogy
+intermediate
+8 min
+Experimented Premises (Mujarribat) and Their Certainty
+Al-Ghazali defines mujarribat as judgments arrived at through repeated sense observation with a hidden syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to explain how al-Ghazali's mujarribat combine sense observation and a hidden syllogism to produce certain premises, and distinguish between decisive and probable experimental judgments.
+
+Core Idea
+Experimented premises are sense observations plus a hidden syllogism that eliminates coincidence.
+
+In this passage, al-Ghazali introduces the third type of certain premises: mujarribat (experimented premises). Unlike direct sense perceptions (mahsusat), mujarribat require repeated observation and an implicit rational inference that rules out coincidence. This hidden syllogism is what transforms repeated empirical regularity into certain knowledge. Understanding this concept is crucial for evaluating how the Islamic tradition grounded empirical claims within a rational framework.
+
+Guided Path
+1
+Identify the term and its definition
+Find the definition of mujarribat in the Arabic: 'matters that are assented to through sense with the help of a hidden syllogism.' Note that it involves both sense and reasoning.
+2
+Examine the examples
+List the examples given (beating is painful, scammony purgative, bread satiating, etc.). Observe that they all involve repeated observation of a regular effect.
+3
+Understand the hidden syllogism
+Al-Ghazali explains that if the observed effect were accidental or coincidental, it would not persist consistently. The mind infers a necessary connection: the observed property is essential to the object. This inference is the hidden syllogism.
+4
+Distinguish decisive vs. probable experiments
+Experiments sometimes yield decisive (jizmi) judgment and sometimes majority (akthari) judgment. When the effect is uniform, certainty arises; when variations occur, the mind seeks a preventing cause and considers non-occurrence rare.
+5
+Compare to tawatur
+Al-Ghazali likens repeated observations to multiple witnesses in tawatur (concurrent testimony). Each observation is like a witness, and their consistency, combined with the syllogism, compels assent.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الصنف الثالث : المجرّبات وهي أمور وقع التصديق بها من الحس بمعاونة قياس خفي، كحكمنا بأن الضرب مؤلم للحيوان والقطع مؤلم، وحَزّ الرقبة مُهلك والسقمونيا مسهل ، والخبز مُشبع، والماء مرو، والنار محرقة؛ فإن الحسّ أدرك الموت مع حَزّ الرقبة، وعرف التألم عند القطع بهيئات في المضروب، وتكرّر ذلك على الذكر فتأكد منه عقد قوي لا يشك فيه، وليس علينا ذكر السبب في حصول اليقين بعد أن عرفنا أنه يقيني، وربما أوجبت التجربة قضاء جزمياً وربما أوجبت قضاءً أكثرياً، ولا تخلو عن قوة قياسية خفية تخالط المشاهدات، لو كان هذا الأمر اتفاقياً أو عرضياً غير لازم لما استمرَّ في الأكثر من غير اختلاف، حتى إذا لم يوجد ذلك اللازم استبعدت النفس تأخره عنه وعدته نادراً، وطلبت له سبباً عارضاً مانعاً. وإذا اجتمع هذا الإحساس متكرراً مرة بعد أخرى، ولا ينضبط عدد المرات كما لا ينضبط عدد المخبرين في التواتر، فإن كل واقعة ههنا مثل شاهد مخبر وانضمّ إليه القياس الذي ذكرناه أذعنت النفس للتصديق
+The third type: experimented things, which are matters that are assented to through sense with the help of a hidden syllogism, like our judgment that beating is painful for an animal, cutting is painful, severing the neck is deadly, scammony is purgative, bread is satiating, water is quenching, fire is burning. For the sense perceives death with severing the neck, and recognizes pain upon cutting through states in the beaten, and that is repeated in memory so a strong belief becomes confirmed in it without doubt. And we are not required to mention the reason for obtaining certainty after we know that it is certain. Sometimes experiment yields a decisive judgment and sometimes it yields a majority judgment. And it is never free of a hidden syllogistic force mixed with observations: if this matter were coincidental or accidental and not necessary, it would not persist in most cases without variation, such that when that necessary consequence does not occur, the mind deems its absence unlikely and regards it as rare, and seeks a preventing accidental cause. And when this sensation recurs repeatedly, one after another, and the number of times cannot be limited just as the number of informants in tawatur cannot be limited, for each occurrence here is like a reporting witness, and when combined with the syllogism we mentioned, the mind submits to assent.
+Source pages p. 91
+
+Commentary
+This passage defines mujarribat (experimented premises). Al-Ghazali explains that these are judgments based on repeated sense observation, but with an implicit syllogistic reasoning. For example, we know that scammony is a purgative because we have observed that after ingesting it, purgation occurs repeatedly, and we reason that if it were accidental, it would not be consistent. This hidden syllogism transforms repeated observation into certain knowledge. Al-Ghazali distinguishes between decisive and probable experiments. The key is that the mind expects uniformity; when a regularity is observed without exception, certainty arises. The comparison with tawatur (concurrent testimony) emphasizes the cumulative effect.
+
+Key Terms
+المجرّبات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Ghazali, what distinguishes mujarribat from mahsusat?
+A) Mahsusat are certain, mujarribat are not.
+B) Mahsusat are known through one sense experience, mujarribat require repeated experience with reasoning.
+C) Mahsusat are common to all, mujarribat are only for scholars.
+D) Mahsusat are about external objects, mujarribat about internal states.
+
+Key Takeaway
+Mujarribat achieve certainty by combining repeated sense observations with a hidden syllogism that rules out coincidence, and they can be either decisive or probable.
+
+How This Lesson Applies — to MY Life?
+?
+Take one of al-Ghazali's examples (e.g., scammony purges) and explicitly state the hidden syllogism that transforms the repeated observation into certainty. Use the format: 'If scammony were not inherently purgative, then its effect would not be consistent; but it is consistent; therefore it is inherently purgative.'
+?
+Identify a claim from a classical Islamic text (e.g., 'Honey cures' in hadith or Tibb Nabawi) and argue whether it qualifies as mujarribat according to al-Ghazali's criteria. Would it be decisive or probable? Explain the role of the hidden syllogism.
+
+Pages p. 91 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 92
+Module 19 · Lesson 11
+Next →
+Induction and Analogy
+intermediate
+8 min
+Intuitive Judgments (Hadsiyat) as a Subtype of Experimented Premises
+Al-Ghazali defines hadsiyat as judgments arising from a strong innate insight.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the defining characteristics of hadsiyat and explain why they are classified under mujarribat in al-Ghazali's epistemology.
+
+Core Idea
+Intuitive judgments are certain insights rooted in observation and a hidden syllogism, but they require personal reflection to attain.
+
+Al-Ghazali introduces a fascinating category of knowledge called hadsiyat (intuitive judgments). These are propositions that arise from a strong innate insight (hadس) based on repeated observation. They are certain yet cannot be demonstrated through formal proof. In this lesson, we will parse al-Ghazali's description to understand the nature of such knowledge and its place within the framework of mujarribat.
+
+Guided Path
+1
+Identify the definition of hadsiyat
+Locate in the Arabic where al-Ghazali says 'ومن قبيل المجربات الحدسيات وهي قضايا مبدأ الحكم بها حدس النفس'. Note that he defines them as propositions whose judgment originates from intuition of the soul, due to clarity and strength of mind.
+2
+Note the certainty claim
+He says the soul submits to acceptance without doubting, but if someone disputes it, they cannot be convinced unless they develop the same intuition. This highlights the subjective nature of hadsiyat.
+3
+Examine the example
+The example given is that the light of the moon is derived from the sun, known by observing the moon's phases relative to its position from the sun. This is an empirical observation that leads to an intuitive conclusion.
+4
+Recognize the hidden syllogism
+Al-Ghazali states that in hadsiyat there is the same syllogism (قياس) as in mujarribat. The argument is: if the moon's varying phases were not caused by the sun, they would not follow a regular pattern over time. This is an inductive inference that the cause must be the sun.
+5
+Understand the pedagogical limitation
+He concludes that such knowledge cannot be taught directly; the teacher can only guide the student to the path of observation, and the student must personally develop the insight.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومن قبيل المجربات الحدسيات وهي قضايا مبدأ الحكم بها حدس النفس يقع لصفاء الذهن وقوته وتوليه الشهادة الأمور، فتذعن النفس لقبوله والتصديق له بحديث لا يقدر على التشكك فيه، ولكن لو نازع فيه منازع معتقداً أو معانداً لم يمكن أن يعرف به ما لم يَقْوَ حدسه ولم يتول الاعتقاد الذي تولاه ذو الحدس القوي، وذلك مثل قضائنا بأن نور القمر مستفاد من الشمس، وأن انعكاس شعاعه إلى العالم يضاهي انعكاس شعاع المرآة إلى سائر الأجسام التي تقابله، وذلك لاختلاف تشكله عند اختلاف نسبته من الشمس قرباً وبعداً وتوسّطاً. ومن تأمل شواهد ذلك لم يبق له فيه ريبة وفيه من القياس ما في المجرّبات، فإن هذه الاختلافات لو كانت بالاتفاق أو بأمر خارج سوى الشمس لما استمرت على نمط واحد على طول الزمن ومن مارس العلوم يحصل له من هذا الجنس على طريق الحدس والاعتبار قضايا كثيرة لا يمكنه إقامة البرهان عليها، ولا يمكنه أن يشكّ فيها، ولا يمكنه أن يشرك فيها غيره بالتعليم، إلا أن يدلّ الطالب على الطريق الذي سلكه واستنهجه، حتى إذا تولّى السلوك بنفسه أفضاه ذلك السلوك إلى ذلك
+And of the category of experimented things are intuitive judgments, which are propositions whose judgment originates from intuition of the soul, occurring due to clarity and strength of mind and its undertaking to testify to matters, so the soul submits to its acceptance and assent with a discourse that it cannot manage to doubt, but if a disputant disputes it, believing or obstinate, he cannot be made to know it unless his intuition becomes strong and he undertakes the belief which the one with strong intuition undertook. That is like our judgment that the light of the moon is derived from the sun, and that the reflection of its rays to the world resembles the reflection of a mirror's rays to other bodies facing it, due to the variation of its shape with variation of its relation to the sun in proximity, distance, and intermediateness. And whoever contemplates the evidences of that will have no doubt about it. And in it there is the same syllogism as in experimented things, for if these variations were by coincidence or by something other than the sun, they would not persist in the same pattern over time. And whoever practices the sciences obtains from this type, by way of intuition and reflection, many propositions that he cannot establish a demonstration for, and cannot doubt them, and cannot share them with others by instruction, except that he directs the student to the path he followed and took as his way, so that when he undertakes the path himself, that path leads him to that.
+Source pages p. 92
+
+Commentary
+This passage introduces hadsiyat (intuitive judgments) as a subtype of mujarribat. These are judgments that arise from a powerful innate insight, not from deliberate reasoning. The example given is that the moon's light is derived from the sun, known by observing the correlation between the moon's phases and its position relative to the sun. This intuitive knowledge has the same hidden syllogism as experimental knowledge: the regularity observed cannot be coincidental. However, it is difficult to teach this knowledge to others unless they themselves develop the same intuition by following the same path of observation. Al-Ghazali notes that such knowledge is certain and cannot be demonstrated but also cannot be doubted.
+
+Key Terms
+الحدسيات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Ghazali, why can intuitive judgments (hadsiyat) not be demonstrated through formal proof?
+A) Because they are based on divine revelation.
+B) Because they depend on a personal intuitive insight that must be developed through independent reflection.
+C) Because they are only known by the elite.
+D) Because they are inherently probabilistic.
+
+Key Takeaway
+Hadsiyat are certain empirical-intuitive judgments that rely on a hidden inductive syllogism and can only be attained through personal reflection on observation.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the Islamic legal principle of 'custom' (urf). Is the knowledge of customary practices in a community a form of hadsiyat? Explain by referring to al-Ghazali's criteria: is it based on observation? Does it involve a hidden syllogism? Can it be taught directly?
+?
+Find an example from Islamic medicine (e.g., the curative effect of honey) and argue whether it qualifies as hadsiyat or mujarribat. Identify the observational basis and the hidden syllogism.
+
+Pages p. 92 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 92
+Module 19 · Lesson 12
+Next →
+Induction and Analogy
+intermediate
+5 min
+Defending Certainty of Empirical Generalizations Against Occasionalism
+Response to objection that empirical generalizations are not certain because causality is not necessary
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the empirical certainty of a correlation and the philosophical inquiry into its causal modality, using the dialectical exchange between the occasionalist and the defender.
+
+Core Idea
+Empirical certainty survives occasionalist doubt because the conjunction itself is undeniable.
+
+The passage addresses a powerful objection: if causality is not necessary, how can we be certain of empirical generalizations? The author offers a sharp distinction between the observable conjunction and the metaphysical explanation. This dialectical move rescues empirical certainty from occasionalist skepticism without committing to a specific theory of causality.
+
+Guided Path
+1
+Identify the objection
+The theologians (mutakallimun) deny necessary causality, claiming that God directly creates effects at the time of antecedents, not by them. For example, decapitation does not cause death; God creates death when decapitation occurs.
+This is the occasionalist position.
+2
+Locate the respondent's distinction
+The author distinguishes between the conjunction (al-iqtiran) itself and the mode of conjunction (wajh al-iqtiran). The conjunction is the observed correlation; the mode is the metaphysical explanation (necessity vs. custom).
+This distinction is key.
+3
+Apply the test case
+The author asks: If the theologian is told his son's neck was cut, would he doubt his death? The answer is no. He acknowledges the death but investigates the mode.
+The immediate certainty of the event remains.
+4
+Draw the epistemological conclusion
+The certainty of the empirical proposition (mujarrabat) is about the conjunction itself, not the mode. Doubt about causal necessity does not affect certainty about the correlation.
+Thus empirical knowledge is secure.
+5
+Recognize the fallacy caution
+The author labels doubt about such certainties as 'mere delusion' (waswas). It confuses two distinct questions: 'what happens?' and 'how does it happen?'
+This protects empirical science from philosophical skepticism.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن قال قائل : كيف تعتقدون هذا يقيناً، والمتكلمون شكوا فيه وقالوا : ليس الحز سبباً للموت، ولا الأكل سبباً للشبع، ولا النار علة للإحراق، ولكن الله تعالى يخلق الاحتراق والموت والشبع عند جريان هذه الأمور لا بها؟ قلنا: قد نبهنا على غور هذا الفصل وحقيقته في كتاب «تهافت الفلاسفة». والقدر المحتاج إليه الآن أن المتكلم إذا أخبره بأن ولده حُزّت رقبته لم يشك في موته، وليس في العقلاء من يشك فيه، وهو معترف بحصول الموت وباحث عن وجه الاقتران . وأما النظر في أنه هل هو لزوم ضروري ليس في الإمكان تغييره أو هو بحكم جريان سنة الله لنفوذ مشيئته الأزلية، التي لا تحتمل التبديل والتغيير، فهو نظر في وجه الاقتران لا في نفس الاقتران فليفهم هذا وليعلم أن التشكك في موت من حُزت رقبته وسواس مُجرّد، وأن اعتقاد موته يقين لا يُستراب فيه .
+If someone says: How do you believe this with certainty, while the theologians have doubted it and said: Decapitation is not a cause of death, nor eating a cause of satiety, nor fire a cause of burning, but rather God Most High creates burning, death, and satiety when these things occur, not by means of them? We say: We have already indicated the depth of this chapter and its reality in the book 'The Incoherence of the Philosophers'. What is needed now is that the theologian, if he is informed that his son's neck was cut, does not doubt his death, and none of the rational people doubt it; he acknowledges the occurrence of death and investigates the mode of conjunction. As for considering whether it is a necessary necessity that cannot be changed, or whether it is by the ruling of the ongoing custom of Allah for the penetration of His eternal will, which does not admit of alteration and change, this is a consideration of the mode of conjunction, not of the conjunction itself. So let this be understood, and know that doubting the death of one whose neck has been cut is mere delusion, and that belief in his death is certainty not to be doubted.
+Source pages p. 92
+
+Commentary
+This passage is a dialectical exchange defending the certainty of empirical generalizations (mujarrabat) against an occasionalist objection. The author presents the objection of the theologians (mutakallimun) who deny necessary causality, arguing that God directly creates effects at the time of customary antecedents. The response distinguishes two levels: the empirical certainty of the correlation itself (e.g., decapitation is followed by death) and the philosophical inquiry into the nature of the connection (whether it is necessary or customary). The author asserts that even the occasionalist theologian, when informed of his son's decapitation, would not doubt his death. Thus, the certainty of the empirical proposition remains intact; doubt about the underlying causal mechanism does not affect the immediate certainty of the observed conjunction. The author warns that doubting such certainties is mere delusion.
+
+Key Terms
+المجربات
+الاقتران
+التشكك
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why does the occasionalist theologian not doubt that decapitation causes death?
+A) Because he accepts necessary causality
+B) Because he distinguishes between the conjunction and the mode of conjunction
+C) Because he relies on revelation
+D) Because he is irrational
+
+Key Takeaway
+The certainty of empirical generalizations lies in the observed conjunction, not in the necessity of the causal link.
+
+How This Lesson Applies — to MY Life?
+?
+In a debate with a theologian who denies necessary causality, use the author's distinction to defend the certainty that cutting off a dead person's hand does not cause the person to die. Show how you separate the empirical correlation from the causal explanation.
+?
+Identify a contemporary objection to empirical knowledge in the sciences (e.g., 'correlation does not imply causation') and explain how the author's response in this passage would handle it, using an Islamic example like the efficacy of honey as a cure.
+
+Pages p. 92 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 92
+Module 19 · Lesson 13
+Next →
+Induction and Analogy
+intermediate
+7 min
+Intuitive Judgments (al-Hidsiyyat): Certainty Beyond Demonstration
+Defines intuitive judgments as certain premises reached by strong intuition, with the example of the moon's light
+
+Learning Objective
+By the end of this lesson, you will be able to characterize intuitive judgments, identify their epistemological features, and explain why they cannot be transmitted through proof alone.
+
+Core Idea
+Some truths are known by intuition, not demonstration, and require personal experience.
+
+This lesson introduces intuitive judgments (al-hidsiyyat), a category of certain premises that are reached by a strong mental intuition (hads). Unlike truths derived from sense perception or explicit syllogisms, hidsiyyat are characterized by personal certainty that cannot be fully transmitted to others through teaching. The example of the moon's light illustrates how such judgments are formed and why they resist dialectical refutation.
+
+Guided Path
+1
+Identify the defining characteristic of hidsiyyat
+Locate the phrase 'قضايا مبدأ الحكم بها حدس النفس' — note that the judgment originates from an intuition of the soul, not from external senses or explicit reasoning. This is the core differentia.
+The author emphasizes clarity and strength of mind (صفاء الذهن وقوته) as prerequisites.
+2
+Analyze the moon example
+Examine how the author argues that the moon's light comes from the sun: he cites the variation of phases relative to the sun and the regularity over time. Identify the empirical observations and the inference drawn.
+The argument contains both inductive reasoning (regularity) and analogy (mirror reflection).
+3
+Understand the transmission limitation
+Find the statement that one cannot teach these judgments to others except by guiding them on the same path. Explain why this is the case: the certainty is personal and requires the hearer to independently follow the same intuitive process.
+The author contrasts this with demonstrative proof (برهان) which can be taught directly.
+4
+Apply the lesson to the limits of debate
+Reflect on the concluding remark: 'لا ينبغي أن تطمع في القدرة على المجادلة في كلّ حقّ' — not every truth can be argued into someone. This has practical implications for jadal (dialectics).
+Consider how this affects theological debate and preaching.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومن قبيل المجربات الحدسيات وهي قضايا مبدأ الحكم بها حدس النفس يقع لصفاء الذهن وقوته وتوليه الشهادة الأمور، فتذعن النفس لقبوله والتصديق له بحديث لا يقدر على التشكك فيه، ولكن لو نازع فيه منازع معتقداً أو معانداً لم يمكن أن يعرف به ما لم يَقْوَ حدسه ولم يتول الاعتقاد الذي تولاه ذو الحدس القوي، وذلك مثل قضائنا بأن نور القمر مستفاد من الشمس، وأن انعكاس شعاعه إلى العالم يضاهي انعكاس شعاع المرآة إلى سائر الأجسام التي تقابله، وذلك لاختلاف تشكله عند اختلاف نسبته من الشمس قرباً وبعداً وتوسّطاً. ومن تأمل شواهد ذلك لم يبق له فيه ريبة وفيه من القياس ما في المجرّبات، فإن هذه الاختلافات لو كانت بالاتفاق أو بأمر خارج سوى الشمس لما استمرت على نمط واحد على طول الزمن ومن مارس العلوم يحصل له من هذا الجنس على طريق الحدس والاعتبار قضايا كثيرة لا يمكنه إقامة البرهان عليها، ولا يمكنه أن يشكّ فيها، ولا يمكنه أن يشرك فيها غيره بالتعليم، إلا أن يدلّ الطالب على الطريق الذي سلكه واستنهجه، حتى إذا تولّى السلوك بنفسه أفضاه ذلك السلوك إلى ذلك الاعتقاد وإن كان ذهنه في القوة والصفاء على رتبة الكمال ولمثل هذا لا يمكن إفحام كلّ مجادل بكلام مُسكت، فلا ينبغي أن تطمع في القدرة على المجادلة في كلّ حقٍّ، فمن الاعتقادات اليقينية ما لا نقدر على تعريفه غيرنا بطريق البرهان إلا إذا شاركنا في ممارسته ليشاركنا في العلوم المستفادة منه وفي مثل هذا المقام يقال : من لم يذق لم يعرف ومن لم يصل لم يدرك .
+And among empirical [propositions] are the intuitive [ones]; they are propositions whose judgment originates from an intuition of the soul occurring due to clarity and strength of mind and its undertaking to witness matters, so the soul submits to accepting it and assenting to it with a speech that cannot be doubted. But if someone disputes it, whether believer or obstinate, he cannot know it unless his intuition is strong and he undertakes the belief that the one with strong intuition undertook. This is like our judgment that the light of the moon is derived from the sun, and that the reflection of its rays to the world resembles the reflection of the rays of a mirror to other bodies facing it, due to the variation of its appearance when its relation to the sun varies in closeness, distance, and intermediacy. Whoever ponders the evidence of that will have no doubt left in it, and it contains analogy as in empirical [propositions]. For if these variations were by chance or by an external cause other than the sun, they would not continue in a single pattern over time. One who practices the sciences obtains from this type, by way of intuition and consideration, many propositions that he cannot demonstrate a proof for, nor can he doubt them, nor can he share them with others by teaching, unless he guides the student to the path he followed and adopted, so that when he undertakes the path himself, that path leads him to that belief, even if his mind is at the level of perfection in strength and clarity. For such [propositions], it is not possible to silence every disputant with a silencing speech. So you should not desire the ability to argue about every truth. For some certain beliefs we cannot define for others by way of proof unless they share in our practice to share in the sciences derived from it. In such a situation it is said: He who does not taste does not know, and he who does not arrive does not perceive.
+Source pages p. 92
+
+Commentary
+This passage defines intuitive judgments (hidsiyyat) as a category of certain premises. They are characterized by a strong intuitive leap (hads) based on clarity of mind and direct witnessing. The example given is the judgment that the moon's light comes from the sun, deduced from the changing phases relative to the sun's position and the analogy with a mirror's reflection. The author explains that the regularity of these variations over time rules out chance or other causes, lending certainty. However, this certainty is personal: one cannot teach it to others except by guiding them along the same investigatory path. The passage concludes with a practical note: not every truth can be demonstrated to a disputant; some knowledge requires personal experience. This is a crucial point about the limits of dialectic and demonstration.
+
+Key Terms
+الحدسيات
+الحدس
+الاعتبار
+
+Key Terms from Source Passage
+
+Checkpoint
+Why can intuitive judgments (hidsiyyat) not be taught to others through proof?
+A) Because they are based on false assumptions
+B) Because they require the person to independently follow the same intuitive path
+C) Because they are revealed by God directly
+D) Because they are purely subjective
+
+Key Takeaway
+Intuitive judgments are certain but personally acquired; they cannot be demonstrated to others except by guiding them through the same path of inquiry.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'The Quran is the word of God.' For a Muslim, this may be an intuitive judgment based on spiritual experience. Using the criteria from the passage, explain why this cannot be demonstrated to a non-believer through logical proof alone.
+?
+Identify the inductive elements in the moon example: what observations are used, and what conclusion is drawn? How does the author use the regularity argument to support certainty?
+
+Pages p. 92 · Induction and Analogy
+← Prev
+Mark Done
+Next →

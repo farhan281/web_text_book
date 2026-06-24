@@ -1,0 +1,2051 @@
+← Prev
+p. 381
+Module 5 · Lesson 251
+Next →
+Propositions
+intermediate
+5 min
+Mutual Opposition of Conditionals: Talazum and Ta'akus
+Definition of two opposition patterns for conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between symmetric and asymmetric mutual opposition of conditional propositions and apply these distinctions to evaluate causal arguments in kalam.
+
+Core Idea
+Two conditionals can oppose symmetrically or asymmetrically, defining logical causality.
+
+In Islamic logic, the mutual opposition of conditional propositions is not monolithic. The author distinguishes two cases: when conditionals are both mutually implying (talazum) and mutually contrary (ta'akus), their truth-values are direct opposites. In the second case, where they are not mutually contrary, the relationship is one-sided: the truth of the implied forces the falsehood of the implicans, but the falsehood of the implied forces the truth of the implicans. This precision shapes Islamic causal debates.
+
+Guided Path
+1
+Identify the two cases
+The passage states two conditions: one where conditionals have both talazum and ta'akus, and another where they have only talazum.
+Talazum = mutual implication; ta'akus = mutual contrariety (cannot be both true or both false).
+2
+Analyze the symmetric case
+When both relations hold, the identity of each proposition is the opposite of the other in both truth and falsehood. So if one is true, the other is false, and vice versa.
+This is a strong opposition; the two propositions are logical negations.
+3
+Analyze the asymmetric case
+When only talazum holds (not ta'akus), the truth relation is one-sided: the identical of the implied (malzumah) is the opposite of the implicans (lazimah) in truth, and the opposite of the implied is the identical of the implicans in falsehood.
+This means: if the implied is true, the implicans is false; if the implied is false, the implicans is true. But not necessarily the reverse.
+4
+Apply to an Islamic causal example
+Consider the propositions: 'If the world is contingent, it has a cause' (implied: world is contingent; implicans: it has a cause). The asymmetric rule tells us: if the world is contingent (true), then 'it has a cause' is false? Wait, that seems wrong. Actually, we need to be careful: the passage discusses two conditionals in opposition, not a single conditional. So let's take two conditionals: (1) 'If the world is contingent, then it has a cause' and (2) 'If the world has a cause, then it is contingent'. These two conditionals are (as a pair) in mutual opposition. The symmetric case would mean (1) and (2) are opposites in truth; the asymmetric case would mean only one direction holds.
+This step is conceptual; the exact assignment of malzumah and lazimah requires careful identification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المبحث الخامس: في تعاند المتصلات والمنفصلات مجانسة ومختلطة. تلازمتا وتعاكستا، عائد عين كل منها نقيض الأخرى صدقاً وكذباً. وإن لم تتعاكسا، عائد: عين الملزومة نقيض اللازمة صدقاً، ونقيض الملزومة عين اللازمة كذباً.
+The fifth topic: on the opposition of conjunctives and disjunctives, homogeneous and mixed. If they are mutually implying and mutually contrary, then the identical of each one is the opposite of the other in truth and falsehood. If they are not mutually contrary, then the identical of the implied is the opposite of the implicans in truth, and the opposite of the implied is the identical of the implicans in falsehood.
+Source pages p. 381
+
+Commentary
+This passage defines the mutual opposition (ta'anud) between conjunctive (mutasilat) and disjunctive (munfasilat) conditionals. The author considers two cases: when the conditionals are both mutually implying (talazum) and mutually contrary (ta'akus), their truth-values directly oppose each other. In the second case, where they are not mutually contrary, the relationship is asymmetrical: the truth of one implies the falsehood of the other, but not vice versa. This is a key logical distinction for evaluating conditional statements, relevant in Islamic debates about causal relationships in kalam.
+
+Key Terms
+تعاند
+تلازم
+تعاكس
+ملزومة
+لازمة
+
+Key Terms from Source Passage
+
+Checkpoint
+If two conditional propositions are mutually implying (talazum) and mutually contrary (ta'akus), what can we say about their truth-values?
+A) They have the same truth-value.
+B) One is true and the other false in all cases.
+C) They can both be true but not both false.
+D) They are independent in truth-value.
+
+Key Takeaway
+The opposition of conditionals is not always symmetrical; when it is not, the truth of the implied forces falsehood of the implicans but not vice versa.
+
+How This Lesson Applies — to MY Life?
+?
+Evaluate the pair of conditionals: 'If a thing is permissible (mubah), then it is not obligatory' and 'If a thing is not obligatory, then it is permissible.' Are they in symmetric or asymmetric opposition? Apply the two cases from the passage.
+?
+In the kalam debate on divine attributes, consider: 'If knowledge is eternal, then it is not temporally originated' and 'If knowledge is not temporally originated, then it is eternal.' Determine which case of opposition applies and what that implies for the truth relationship.
+
+Pages p. 381 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 381
+Module 5 · Lesson 252
+Next →
+Propositions
+advanced
+8 min
+The Rule of Implication from Categorical to Conditional Propositions and Its Exception
+Rules and exception for categorical-to-conditional implication
+
+Learning Objective
+By the end of this lesson, you will be able to determine when a categorical proposition implies a conditional proposition and when it does not, using the rule of quantity and modality and the critical exception for accidental partial categoricals.
+
+Core Idea
+Not every categorical implies a conditional – the connection must be genuine, not accidental.
+
+This passage presents a powerful rule in Islamic logic: every universal categorical proposition implies a conjunctive conditional with the same quantity and modality. However, the author immediately warns us that this rule fails for partial categoricals where the predicate is not essentially related to the subject. Understanding this exception is crucial when applying logical transformations in Islamic sciences, such as usul al-fiqh and kalam, where accidental vs. essential attributes must be distinguished.
+
+Guided Path
+1
+Identify the Rule: Every Universal Categorical Implies a Conjunctive Conditional
+The author states that every categorical proposition (hamliyya), whether affirmative or negative, implies a conjunctive conditional (mutasila) that agrees in quantity (kamm) and is composed of two categoricals sharing the same subject. The consequent of the conditional must match the modality (jihah) and quality (kayfiyya) of the original categorical.
+For negative categoricals, the consequent takes the opposite modality and quality.
+2
+Examine the Concrete Examples
+The example 'Every human is a writer potentially' (كل إنسان كاتب بالإمكان) implies 'Whenever something is a human, it is a writer potentially' (كلما كان الشيء إنساناً فهو كاتب بالإمكان). Similarly, the negative 'No human is not a writer necessarily' implies the conditional 'Never if something is a human, it is not a writer necessarily'.
+These examples show how the rule applies to universal categoricals with modality.
+3
+Recognise the Exception: Partial Categoricals Fail
+The author critically notes that the rule does NOT apply to partial categoricals like 'Some white is sweet' (بعض الأبيض حلو). Such a statement does not imply 'It may be that if a thing is white, it is sweet' because there is no real relation between whiteness and sweetness – similar to al-Khunaji's example of coincidental events.
+This exception shows that implication requires an essential connection, not mere co-occurrence.
+4
+Apply the Exception to Islamic Examples
+In Islamic reasoning, consider the categorical 'Some wealthy are arrogant'. This does not imply a conditional because wealth and arrogance are not necessarily connected. In contrast, 'Every intoxicant is forbidden' (universal) does imply 'If something is an intoxicant, it is forbidden' because the ruling is based on the essential attribute of causing intoxication.
+This distinction is vital in usul al-fiqh when deriving conditional rulings from categorical legal principles.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تذنيب في الملازمة بين الحملية والشرطية: كل حملية، موجبة كانت أو سالبة، تستلزم متصلة، موافقة لها في الكم، مركبة من حمليتين مشتركتين في الموضوع: تاليها موجهاً بجهة الحملية ومكيفاً بكيفيتها إن كانت المتصلة موجبة، وبنقيض جهة الحملية وكيفيتها إن كانت سالبة. فإن قولنا: «كل إنسان كاتب بالإمكان» يستلزم: «كلما كان الشيء إنساناً فهو كاتب بالإمكان». و«ليس البتة إذا كان الشيء إنساناً فهو ليس بكاتب بالضرورة». وتستلزم أيضاً مانعة الجمع ومانعة الخلق موجبة وسالبة لاستلزام المتصلة إياها. وقد بينا ذلك. ولا تنعكس الجواز امتناع موضوع المقدم، إلا إذا أخذت الحملية ذهنية. هذا الحكم بكليته ممنوع في الحمليات الجزئية فإن قولنا بعض الأبيض حلو لا يستلزم «قد يكون إذا كان الشيء أبيض فهو حلو» لأنه يشبه مثال الخونجي: قد يكون إذا كان أكل زيد شرب عمرو. فكما لا تكون علاقة بين أكل زيد وشرب عمرو، لا تكون علاقة بين بياض الشيء وحلاوته، فلا يلزم أحدهما الآخر ولو بملازمة جزئية.
+Appendix on the implication between categorical and conditional: Every categorical, whether affirmative or negative, implies a conjunctive conditional, agreeing with it in quantity, composed of two categoricals sharing the subject, its consequent qualified by the modality of the categorical and conditioned by its quality if the conjunctive is affirmative, and by the opposite of the modality and quality if it is negative. For our saying: 'Every human is a writer potentially' implies: 'Whenever a thing is a human, it is a writer potentially' and 'Never if a thing is a human is it not a writer necessarily'. It also implies the exclusive disjunction and the inclusive disjunction, affirmative and negative, because the conjunctive implies them. And we have shown that. And the possibility of the subject's non-existence does not reverse it unless the categorical is taken as mental. This judgment is entirely forbidden for partial categoricals, for our saying 'Some white is sweet' does not imply 'It may be that if a thing is white, it is sweet' because it resembles the example of al-Khunaji: 'It may be that if Zayd ate, Amr drank'. So just as there is no relation between Zayd's eating and Amr's drinking, there is no relation between a thing's whiteness and its sweetness, so one does not imply the other even by a partial implication.
+Source pages p. 381
+
+Commentary
+This appendix (tadhnib) explains the logical implication from categorical (hamliyya) propositions to conditional (shartiyya) ones. The author states that every categorical implies a conjunctive conditional (mutasila) with the same quantifier (universal/particular) and composed of two categoricals sharing the same subject. The consequent of that conditional is qualified by the same modality (e.g., possibility) and quality (affirmative/negative) as the original categorical. Two examples are given: from 'Every human is a writer potentially' we derive 'Whenever something is a human, it is a writer potentially' and 'Never if something is a human, it is not a writer necessarily'. The categorical also implies disjunctives (mani'at al-jam' and mani'at al-khuluw) because the conjunctive implies them. A critical note follows: this rule fails for partial categoricals like 'Some white is sweet' because there is no real connection between whiteness and sweetness, similar to a coincidental relationship (like Zayd eating and Amr drinking). Thus partial categoricals lack the necessary relation for implication. This highlights a key epistemological point: implication requires a genuine connection, not mere co-occurrence.
+
+Key Terms
+تذنيب
+ملازمة
+حملية
+شرطية
+كم
+جهة
+مانعة الجمع
+مانعة الخلق
+ذهنية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following categorical propositions does NOT imply a conjunctive conditional according to the critical note in the passage?
+A) Every human is mortal (necessary).
+B) Some white is sweet (accidental).
+C) No fire is cold (necessary).
+D) Every body is created (possible).
+
+Key Takeaway
+The rule that every categorical implies a conditional holds only for universal categoricals with an essential connection; partial categoricals with accidental predicates fail, reminding us that logical implication requires real relation, not mere co-occurrence.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Take the universal categorical 'Every temporally originated thing has a cause' (كل حادث له سبب) and construct the implied conjunctive conditional. Then explain why the partial categorical 'Some bodies are light' does not imply a similar conditional.
+?
+Task 2: Identify a real categorical statement from Islamic theology or law (e.g., 'Every believer is righteous') and test whether it implies a conditional. Consider if there is an essential connection or if it could be accidental like 'Some wealthy are arrogant'.
+
+Pages p. 381 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 382
+Module 5 · Lesson 253
+Next →
+Propositions
+intermediate
+5 min
+Altered Conditionals and Their Logical Equivalence
+Author describes altered conditionals and their logical equivalences through particle substitution.
+
+Learning Objective
+By the end of this lesson, you will be able to identify altered conditionals and determine their equivalent logical force (exclusive/inclusive disjunction or implication).
+
+Core Idea
+Altered conditionals change particles to reveal hidden disjunction or implication.
+
+In this lesson, we explore how modifying particles in conditionals changes their logical meaning, as described by the author. This is crucial for interpreting Islamic legal arguments where conditional statements are frequently used. By understanding these transformations, you will be able to unpack the precise logical relationships intended by jurists and theologians.
+
+Guided Path
+1
+Identify the altered verbal form
+Notice the original phrase 'لا يكون آب ويكون جد' (It is not that A is and B is). The 'wa' (and) has replaced the original conditional particle.
+The particle substitution is key to the alteration.
+2
+Determine the type of opposition
+The author states it has the force of 'عناد الجمع' (exclusive disjunction) between A and B: they cannot both be true. For 'لا يكون آب أو يكون جد', it becomes 'عناد الخلق' (inclusive disjunction): 'not A' and B cannot both be false.
+'Inad al-jam' means at least one is false; 'inad al-khuluw' means at least one is true.
+3
+Derive the implication
+The text adds that each form also has an implication: for 'wa', A implies 'not B'; for 'aw', A implies B. Check how the implication follows from the disjunction.
+Implication (istilzam) is the conditional relation that naturally arises.
+4
+Apply to an Islamic example
+Take 'لا يكون الصحيح مبطلًا ويكون الوضوء ناقصًا' (It is not that the valid is invalidating and the ablution is deficient). This means valid and deficient cannot both hold (exclusive), and valid implies 'not deficient'. This helps in fiqh rulings about ritual purity.
+Choose a real example from fiqh to solidify understanding.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+خاتمة في الشرطيات المحرفة: الشرطيات قد تغير عن أوضاعها اللفظية وتسمى محرفة. كقولنا: لا يكون آب ويكون جد. وهو في قوة عناد الجمع بين آب وجد، وفي قوة استلزام آب لـ«لا يكون جد». وإذا بدلت الواو بأو مثل قولنا: لا يكون آب أو يكون جد، يكون في قوة عناد الخلق بين «لا يكون آب» وجد، وفي قوة استلزام آب لـجد. وكذا إذا بدل بـ«حتى» و«إلا» مع الدلالة على السور الكلي كقولنا: لا يكون آب حتى يكون جد أو إلا يكون جد.
+Conclusion on altered conditionals: Conditionals may be changed from their verbal forms and are called 'altered'. Like our saying: 'It is not that A is and B is.' It has the force of exclusive conjunction (opposition of union) between A and B, and the force of implication of A for 'It is not that B is'. And if the waw is replaced by 'aw', like our saying: 'It is not that A is or B is', it has the force of inclusive conjunction (opposition of emptiness) between 'It is not that A is' and B, and the force of implication of A for B. And likewise if replaced by 'hatta' and 'illa' with indication of universal quantification, like our saying: 'It is not that A is until B is' or 'except that B is'.
+Source pages p. 382
+
+Commentary
+This 'conclusion' (khatima) discusses altered conditionals (al-shartiyyat al-muharrafa), which are conditionals whose original verbal form has been changed. The author gives three cases. First, using 'wa' (and) in 'It is not that A is and B is' means that A and B cannot both be true (exclusive conjunction, 'anad al-jam'), and also A implies that B is not. Second, replacing 'wa' with 'aw' (or) yields 'It is not that A is or B is', which means that 'not A' and B cannot both be false (inclusive conjunction, 'anad al-khuluw'), and also A implies B. Third, replacing with 'hatta' (until) or 'illa' (except) with universal quantification gives similar equivalences. This passage shows how particles affect logical semantics, which is crucial for interpreting conditional statements in Islamic legal and theological arguments.
+
+Key Terms
+محرفة
+عناد الجمع
+عناد الخلق
+استلزام
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the logical force of 'لا يكون آب ويكون جد'?
+A) It implies that both A and B are true.
+B) It has the force of exclusive conjunction (opposition of union) between A and B: they cannot both be true.
+C) It has the force of inclusive conjunction (opposition of emptiness) between A and B.
+D) It has no logical force; it is merely a verbal change.
+
+Key Takeaway
+Altered conditionals change the logical meaning from the original verbal form, revealing exclusive or inclusive disjunction and implication.
+
+How This Lesson Applies — to MY Life?
+?
+Take the phrase 'لا يكون الصلاة صحيحة أو يكون الوضوء فاسدًا' (It is not that the prayer is valid or the ablution is invalid). Identify the logical force: inclusive disjunction between 'not valid' and 'invalid', and implication from 'valid' to 'not invalid' (i.e., if prayer is valid then ablution is sound). Check against the rules in the passage.
+?
+Construct an altered conditional using an Islamic example (e.g., from fasting or trade) and explain whether it is exclusive or inclusive disjunction, and what implication follows.
+
+Pages p. 382 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 382
+Module 5 · Lesson 254
+Next →
+Propositions
+intermediate
+5 min
+Alif-Lam and the Logic of Generality and Exclusivity
+Author begins enumeration of compound categorical forms, starting with alif-lam.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the logical effects of the definite article on the subject (generality/specificity) and on the predicate (exclusivity) in a compound categorical.
+
+Core Idea
+The definite article in Arabic logic can turn a simple categorical into a statement of generality or exclusivity.
+
+In this lesson, we examine the first way a categorical becomes 'compound'—through the alif-lam (ال). The author explains that when attached to the subject, it signals either generality (العموم) or a known specific referent (العهد). When attached to the predicate, it indicates exclusivity (الحصر), but only if the copula is explicitly mentioned. This distinction is crucial for interpreting precise statements in Islamic texts.
+
+Guided Path
+1
+Locate the definite article
+In the example 'الإنسان هو الضاحك', find the alif-lam on both subject and predicate.
+The subject is 'الإنسان' and the predicate is 'الضاحك'.
+2
+Determine the effect on the subject
+Does 'الإنسان' mean 'all humans' (general) or 'the well-known human' (specific)? The text says it can indicate either based on context (لغة العرب).
+Context determines whether it is 'umum or 'ahd.
+3
+Determine the effect on the predicate
+'الضاحك' with alif-lam and copula 'هو' makes the predicate exclusive: only humans laugh.
+The copula is essential to avoid ambiguity.
+4
+Check the copula requirement
+The text warns that the copula must be present to avoid suggesting restriction (التقييد) in a different way. Without it, the phrase becomes a description, not a categorical.
+The copula here is 'هو'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحمليات المركبة: وقد تلحق الحملية هيئات تفيدها زيادة أحكام. ١ - كالألف واللام تدخل على الموضوع فتفيد العموم أو العهد في لغة العرب، وعلى المحمول فتفيد الحصر، لكن يجب ذكر الرابطة لئلا يشعر بالتقييد. كقولنا: الإنسان هو الضاحك. ٢ - تقديم الخبر على المبتدأ. ٣ - دخول إنما في الحملية.
+Compound categoricals: Categoricals may acquire forms that give them additional judgments. 1. Like the alif and lam: they enter on the subject and give generality or specificity (al-'ahd) in the Arabic language, and on the predicate they give exclusivity, but the copula must be mentioned lest it suggest restriction. As in our saying: 'The human is the laughing one.' 2. Fronting the predicate before the subject. 3. The entry of 'innama' into the categorical.
+Source pages p. 382
+
+Commentary
+This passage on 'compound categoricals' (al-hamliyyat al-murakkaba) discusses how certain Arabic syntactic forms add extra logical meaning to categorical propositions. Three cases are given. First, the definite article alif-lam when attached to the subject indicates universality or a known specific referent (al-'ahd). When attached to the predicate, it indicates exclusivity (hasr), but the copula (rabita) must be explicitly stated to avoid ambiguity, e.g., 'al-insan huwa al-dahik' (The human is the laughing one) implies only humans laugh. Second, fronting the predicate (taqdim al-khabar 'ala al-mubtada') also adds emphasis. Third, using 'innama' restricts the predicate to the subject. These forms are important for interpreting categorical propositions in Islamic scholarly discourse, particularly in usul al-fiqh and kalam where precision of exclusive statements matters.
+
+Key Terms
+الألف واللام
+العموم
+العهد
+الحصر
+الرابطة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the compound categorical 'الإنسان هو الضاحك', what does the definite article on the predicate (الضاحك) indicate?
+A) Generality of the predicate.
+B) Exclusivity of the predicate to the subject.
+C) That the subject is specific.
+D) That the copula is unnecessary.
+
+Key Takeaway
+The definite article on the predicate in a compound categorical, with the copula, signifies that the predicate belongs exclusively to the subject.
+
+How This Lesson Applies — to MY Life?
+?
+Take the statement 'الصلاة هي الفريضة' and determine what the definite article on subject and predicate indicates according to this lesson. Is the predicate exclusive? Does it require a copula? Why?
+
+Pages p. 382 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 382
+Module 5 · Lesson 255
+Next →
+Propositions
+intermediate
+5 min
+Predicate Fronting: Emphasizing the Predicate in Categoricals
+Author mentions predicate fronting as the second form of compound categorical.
+
+Learning Objective
+By the end of this lesson, you will be able to explain how fronting the predicate before the subject adds emphasis and changes the logical interpretation of a categorical proposition.
+
+Core Idea
+In Arabic, putting the predicate first signals that the predicate is the focus, often implying exclusivity or restriction.
+
+The second way a categorical becomes compound is through word order: fronting the predicate before the subject (تقديم الخبر على المبتدأ). While a simple categorical has subject-predicate order (e.g., 'Zaid is standing'), reversing the order (e.g., 'Standing is Zaid') adds emphasis and can imply that the predicate is exclusive to the subject. This syntactic change is a logical tool used in Islamic argumentation.
+
+Guided Path
+1
+Identify the standard order
+In a simple categorical, the subject comes first (مبتدأ) then predicate (خبر). Recognize this baseline.
+Example: 'زيد قائم' (Zaid is standing).
+2
+Spot a fronted predicate
+Look for sentences where the predicate appears before the subject (e.g., 'قائم زيد' or with copula 'هو').
+In Arabic, the fronted element is often in the accusative or nominative accordingly.
+3
+Understand the effect
+The text says fronting gives 'additional judgment' (زيادة أحكام). In Arabic rhetoric, fronting often indicates restriction (اختصاص). So the proposition becomes stronger: the predicate applies only to that subject.
+This effect is similar to exclusivity but achieved through syntax.
+4
+Apply to Islamic examples
+Consider the categorical 'الظالم هو فرعون' (The oppressor is Pharaoh) becomes 'فرعون هو الظالم' (Pharaoh is the oppressor) after fronting, but fronting the predicate would be 'الظالم فرعون' (The oppressor is Pharaoh) – actually subject first. A better example: 'المؤمن صادق' (The believer is truthful) fronted: 'صادق المؤمن' (Truthful is the believer), emphasizing that the truthful one is the believer.
+The passage does not provide an example, so we construct one.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحمليات المركبة: وقد تلحق الحملية هيئات تفيدها زيادة أحكام. ١ - كالألف واللام تدخل على الموضوع فتفيد العموم أو العهد في لغة العرب، وعلى المحمول فتفيد الحصر، لكن يجب ذكر الرابطة لئلا يشعر بالتقييد. كقولنا: الإنسان هو الضاحك. ٢ - تقديم الخبر على المبتدأ. ٣ - دخول إنما في الحملية.
+Compound categoricals: Categoricals may acquire forms that give them additional judgments. 1. Like the alif and lam: they enter on the subject and give generality or specificity (al-'ahd) in the Arabic language, and on the predicate they give exclusivity, but the copula must be mentioned lest it suggest restriction. As in our saying: 'The human is the laughing one.' 2. Fronting the predicate before the subject. 3. The entry of 'innama' into the categorical.
+Source pages p. 382
+
+Commentary
+This passage on 'compound categoricals' (al-hamliyyat al-murakkaba) discusses how certain Arabic syntactic forms add extra logical meaning to categorical propositions. Three cases are given. First, the definite article alif-lam when attached to the subject indicates universality or a known specific referent (al-'ahd). When attached to the predicate, it indicates exclusivity (hasr), but the copula (rabita) must be explicitly stated to avoid ambiguity, e.g., 'al-insan huwa al-dahik' (The human is the laughing one) implies only humans laugh. Second, fronting the predicate (taqdim al-khabar 'ala al-mubtada') also adds emphasis. Third, using 'innama' restricts the predicate to the subject. These forms are important for interpreting categorical propositions in Islamic scholarly discourse, particularly in usul al-fiqh and kalam where precision of exclusive statements matters.
+
+Key Terms
+تقديم الخبر على المبتدأ
+
+Key Terms from Source Passage
+
+Checkpoint
+What additional logical effect does fronting the predicate have according to the passage?
+A) It makes the proposition negative.
+B) It adds emphasis, possibly restriction.
+C) It removes the need for a copula.
+D) It changes the subject to indefinite.
+
+Key Takeaway
+Fronting the predicate before the subject adds emphasis and can imply exclusivity.
+
+How This Lesson Applies — to MY Life?
+?
+Transform the simple categorical 'المؤمن صادق' (The believer is truthful) into a fronted-predicate version. Explain how the logical meaning changes.
+
+Pages p. 382 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 382
+Module 5 · Lesson 256
+Next →
+Propositions
+intermediate
+5 min
+Innama: The Particle of Exclusivity
+Author lists innama as the third form of compound categorical.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the logical function of 'innama' in a categorical proposition and distinguish it from other exclusive forms.
+
+Core Idea
+Innama restricts the predicate to the subject, functioning like 'only' in English.
+
+The third form of compound categorical is the introduction of the particle إنما (innama). This particle, placed at the beginning of a sentence, is a well-known tool in Arabic for expressing exclusivity. For example, 'إنما المؤمنون إخوة' means 'The believers are only brothers' – i.e., they are brothers and nothing else. The author lists it as a syntactic device that adds a logical judgment of restriction (حصر).
+
+Guided Path
+1
+Recognize 'innama'
+Identify the particle at the start of the proposition (e.g., 'إنما').
+It is a single word with two parts: 'إن' and 'ما'.
+2
+Parse its effect
+Innama restricts the predicate to the subject. It is equivalent to saying 'only the subject has the predicate' or 'the predicate is exclusive to the subject'.
+It does not require a copula, though one may appear (e.g., 'إنما المؤمنون هم الإخوة').
+3
+Contrast with alif-lam on predicate
+Both can indicate exclusivity, but innama does so explicitly without requiring a copula. The alif-lam on predicate does require the copula to avoid ambiguity.
+Innama is a concise particle, while alif-lam is an inflectional marker.
+4
+Use an Islamic example
+The Quranic 'إنما أنت منذر' (You are only a warner) shows that the Prophet's role is exclusively warning, not controlling faith.
+This is a common example in tafsir.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحمليات المركبة: وقد تلحق الحملية هيئات تفيدها زيادة أحكام. ١ - كالألف واللام تدخل على الموضوع فتفيد العموم أو العهد في لغة العرب، وعلى المحمول فتفيد الحصر، لكن يجب ذكر الرابطة لئلا يشعر بالتقييد. كقولنا: الإنسان هو الضاحك. ٢ - تقديم الخبر على المبتدأ. ٣ - دخول إنما في الحملية.
+Compound categoricals: Categoricals may acquire forms that give them additional judgments. 1. Like the alif and lam: they enter on the subject and give generality or specificity (al-'ahd) in the Arabic language, and on the predicate they give exclusivity, but the copula must be mentioned lest it suggest restriction. As in our saying: 'The human is the laughing one.' 2. Fronting the predicate before the subject. 3. The entry of 'innama' into the categorical.
+Source pages p. 382
+
+Commentary
+This passage on 'compound categoricals' (al-hamliyyat al-murakkaba) discusses how certain Arabic syntactic forms add extra logical meaning to categorical propositions. Three cases are given. First, the definite article alif-lam when attached to the subject indicates universality or a known specific referent (al-'ahd). When attached to the predicate, it indicates exclusivity (hasr), but the copula (rabita) must be explicitly stated to avoid ambiguity, e.g., 'al-insan huwa al-dahik' (The human is the laughing one) implies only humans laugh. Second, fronting the predicate (taqdim al-khabar 'ala al-mubtada') also adds emphasis. Third, using 'innama' restricts the predicate to the subject. These forms are important for interpreting categorical propositions in Islamic scholarly discourse, particularly in usul al-fiqh and kalam where precision of exclusive statements matters.
+
+Key Terms
+إنما
+الحصر
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the primary logical function of 'innama' in a compound categorical?
+A) It makes the proposition general.
+B) It makes the predicate exclusive to the subject.
+C) It negates the proposition.
+D) It makes the subject indefinite.
+
+Key Takeaway
+Innama is a concise way to express that the predicate holds exclusively for the subject.
+
+How This Lesson Applies — to MY Life?
+?
+Write a categorical proposition using 'innama' on the topic of salah, and then restate it without innama to show the difference in meaning.
+
+Pages p. 382 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 382
+Module 5 · Lesson 257
+Next →
+Propositions
+intermediate
+10 min
+Modified Conditionals and Their Logical Equivalences
+Author defines modified conditionals and demonstrates their logical equivalences.
+
+Learning Objective
+By the end of this lesson, you will be able to reduce a modified conditional statement to its equivalent logical relation (opposition of conjunction/disjunction or implication) and identify the transformation.
+
+Core Idea
+Modified conditionals are disguised logical relations; knowing their equivalences is key to parsing complex statements.
+
+In classical logic, conditionals often appear in forms that are not straightforward 'if...then'. The author introduces modified conditionals (al-shartiyyat al-muharrafa) and shows how they map to standard logical relations like opposition of conjunction (inād al-jam‘) and implication (istilzām). Understanding these transformations allows you to see the underlying logical structure of many statements in Islamic legal and theological arguments.
+
+Guided Path
+1
+Locate the modified conditional in Arabic
+Find the phrase that begins with 'لا يكون' and has a particle like 'و', 'أو', 'حتى', or 'إلا'. This is the modified conditional.
+Example: 'لا يكون آب ويكون جد' uses 'و'.
+2
+Identify the transformed logical relation
+Determine whether the statement expresses opposition of conjunction (not both true, عناد الجمع) or opposition of disjunction (not both false, عناد الخلو). For 'و', it's opposition of conjunction; for 'أو', it's opposition of disjunction.
+Opposition of conjunction means the two cannot be simultaneously true; opposition of disjunction means they cannot be simultaneously false.
+3
+Derive the equivalent implication
+Convert the modified conditional into an 'if...then' form. For opposition of conjunction, it becomes 'if A then not B'. For opposition of disjunction, it becomes 'if not A then B' or 'if A then B' depending on the phrasing.
+The author states: 'لا يكون آب ويكون جد' is equivalent to 'A implies not B'.
+4
+Apply the transformation to a new Islamic example
+Take a statement like 'لا تكون الصلاة صحيحة ويكون الوضوء منقوضًا' (It is not that prayer is valid and ablution is invalid). This is equivalent to 'إذن الصلاة صحيحة تستلزم عدم نقض الوضوء' (prayer being valid implies ablution is not invalid).
+Practice with similar statements from fiqh or usul.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الشرطيات قد تُغَيَّرُ عن أوضاعها اللفظية وتُسَمَّى «مُحَرَّفَة». كقولنا: «لا يكون آب ويكون جد»: وهو في قوة عناد الجمع بين «آب» و«جد» وفي قوة استلزام «آب» لـ«لا يكون جد». وإذا بُدِّلَت الـ«واو» بـ«أو»: مثل قولنا: لا يكون آب أو يكون جد» يكون في قوة عناد الخلو بين «لا يكون آب» و«جد» وفي قوة استلزام «آب» لـ«جد». وكذلك إذا بدل بـ«حتى» و«إلا» مع الدلالة على السور الكلي: كقولنا: لا يكون آب حتى يكون جد» أو «إلا يكون جد».
+Conditionals may be changed from their verbal formulations and are called 'modified'. As our saying: 'It is not that A and B' is equivalent to the opposition of conjunction between A and B, and equivalent to the implication of A for 'not B'. And if the 'waw' is changed to 'aw': like our saying: 'It is not that A or B' is equivalent to the opposition of disjunction between 'not A' and B, and equivalent to the implication of A for B. And similarly, if it is changed to 'hata' and 'illa' with indication of universal quantifier: as our saying: 'It is not that A until B' or 'except B'.
+Source pages p. 382
+
+Commentary
+This passage defines modified conditionals (al-shartiyyat al-muharrafa), which are conditionals whose wording has been altered from standard forms. The author explains how these statements can be reduced to equivalent logical relations. He gives three examples. First, 'لا يكون آب ويكون جد' (It is not that A and B) is equivalent to the opposition of conjunction (عناد الجمع) between A and B, meaning they cannot both be true, and also equivalent to the implication that A implies not B. Second, when 'و' is replaced by 'أو', the statement 'لا يكون آب أو يكون جد' (It is not that A or B) is equivalent to the opposition of disjunction (عناد الخلو) between 'not A' and B, meaning they cannot both be false, and also equivalent to the implication that A implies B. Third, replacing with 'حتى' or 'إلا' with a universal quantifier, e.g., 'لا يكون آب حتى يكون جد' (It is not that A until B), conveys a similar logical force. This passage shows how to parse complex conditional expressions into basic logical operations, a key skill in mantiq. For instance, in Islamic jurisprudence, one might say 'لا تكون الصلاة صحيحة ويكون الوضوء منقوضًا' (It is not that prayer is valid and ablution is invalid), which is equivalent to 'الصلاة صحيحة تستلزم عدم نقض الوضوء'.
+
+Key Terms
+شرطية محرفة
+عناد الجمع
+عناد الخلو
+استلزام
+
+Key Terms from Source Passage
+
+Checkpoint
+Which logical relation is equivalent to the statement 'لا يكون آب ويكون جد'?
+A) Implication of A for B
+B) Opposition of conjunction between A and B
+C) Opposition of disjunction between A and B
+D) Implication of not A for B
+
+Key Takeaway
+A modified conditional is equivalent to a combination of negation and conjunction/disjunction, which in turn is equivalent to an implication; mastering these reductions is essential for accurate logical analysis in Islamic sciences.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following statement to its equivalent logical relation: 'لا تكون الزكاة واجبة ويكون النصاب ناقصًا' (It is not that zakat is obligatory and the nisab is incomplete). Write both the opposition of conjunction form and the implication form.
+?
+In a debate, an opponent says: 'لا يكون القياس صحيحًا أو لا تكون العلة منضبطة' (It is not that analogy is correct or the cause is well-defined). Analyse the logical structure and state what it implies.
+
+Pages p. 382 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 382
+Module 5 · Lesson 258
+Next →
+Propositions
+intermediate
+10 min
+Understanding Compound Categoricals and Negation
+Author describes compound categorical forms and negation effects.
+
+Learning Objective
+By the end of this lesson, you will be able to identify compound categorical forms (alif-lam, تقديم الخبر, إنما) in Arabic propositions and determine whether negation lifts restriction or the predicate itself.
+
+Core Idea
+Negation of a compound categorical lifts the restriction, not the basic predication.
+
+Compound categoricals are simple categorical propositions enhanced with particles like alif-lam, تقديم الخبر, or إنما that add rulings such as generality or restriction. Understanding these forms is essential for correctly interpreting propositions in Arabic logic, especially when negation is applied. In this lesson, we will explore the key forms and learn how negation affects them — it primarily lifts the restriction, not the predication.
+
+Guided Path
+1
+Identify the copula (الرابطة)
+In compound categoricals, the copula (e.g., 'هو' or Persian 'است') must be mentioned. Without it, the predicate might appear essential. Find the copula in the proposition.
+Example: 'الإنسان هو الضاحك' has copula 'هو'.
+2
+Recognise the form: alif-lam on subject or predicate
+When the definite article enters on the subject, it gives generality or definiteness. When on the predicate, it gives restriction (the predicate applies exclusively to the subject). Check whether 'ال' appears on the subject, predicate, or both.
+In 'الإنسان هو الضاحك', 'ال' on 'الضاحك' implies restriction: only man laughs.
+3
+Spot other restriction forms: تقديم الخبر and إنما
+Advancing the predicate before the subject (تقديم الخبر) or using 'إنما' also create restriction. Practise identifying these in Arabic sentences.
+'إنما الإنسان كاتب' means 'Indeed, man is a writer' implying writing is restricted to man.
+4
+Analyse negation effects
+When negation (e.g., 'ليس') is added to a compound categorical, it conventionally lifts the restriction (رفع الحصر), not the predication. Determine whether the negation is intended to deny the predicate or just the exclusivity.
+'ليس الإنسان هو الضاحك' denies that man alone laughs, not that man laughs at all.
+5
+Examine negation with exception
+When negation is on the subject and exception (إلا) on the predicate, it yields identity or implication. Practise with 'ليس الإنسان إلا البشر'.
+This form indicates 'Man is nothing but human' — identity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد تلحق الحملية هيئات تفيدها زيادة أحكام. كـ«الألف» و«اللام» تدخل: على الموضوع فيفيد العموم أو العهد في لغة العرب وعلى المحمول فيفيد الحصر، لكن يجب ذكر الرابطة لئلا يشعر بالتقييد. كقولنا: «الإنسان هو الضاحك». تقديم الخبر على المبتدأ، ودخول «إنما» في الحملية كقولنا: إنما الإنسان كاتب. وتكريم الرابطة في الفارسية: كقولنا: مزید است که دبیر است. ففي أمثال هذه القضايا إيجابان: أحدهما إيجاب المحمول للموضوع .. والثاني إيجاب وإذا دخل كلمة السلب على هذه القضايا، أفاد رفع الحصر عرفاً، لا رفع الحمل، كقولك: ليس الإنسان هو الضاحك .. وإن أريد به رفع المحمول، يصح ويقع رفع الحصر تبعاً. ودخول حرف السلب على الموضوع وحرف الاستثناء على المحمول يقيد: اتحاد الموضوع والمحمول تارة. وتلازمها أخرى مثل: ليس الإنسان إلا البشر.
+And categoricals may be attached with forms that give them additional rulings. Like the 'alif' and 'lam' enter upon the subject and give generality or definiteness in the Arabic language, and upon the predicate they give restriction, but the copula must be mentioned to avoid suggesting restriction. As our saying: 'Man is the laughing one'. Advancing the predicate over the subject, and the entry of 'innama' in the categorical: as our saying: 'Indeed, man is a writer'. And the honorification of the copula in Persian: as our saying: 'Mizad ast keh dabir ast'. So in such propositions there are two affirmations: one is affirmation of the predicate for the subject, and the second is affirmation. And when the word of negation enters upon these propositions, it conventionally indicates lifting the restriction, not lifting the predication, as you say: 'Not: man is the laughing one'... And if lifting the predicate is intended, it is valid and lifting the restriction occurs consequently. And the entry of the negation particle upon the subject and the exception particle upon the predicate yields: sometimes union of subject and predicate, and sometimes their implication, like: 'Not: man except the human being'.
+Source pages p. 382
+
+Commentary
+This passage explains compound categoricals (al-hamliyyat al-murakkaba), which are categorical propositions enhanced with particles that add logical force. The author lists several forms: (1) The definite article 'al' (alif-lam) when attached to the subject indicates generality or definiteness (e.g., 'الإنسان' meaning 'all mankind' or 'the specific man'), and when attached to the predicate it indicates restriction (e.g., 'هو الضاحك' means 'he is the laughing one', implying only he laughs). However, the copula (e.g., 'هو') must be mentioned to avoid implying that the predicate is essential. (2) Advancing the predicate over the subject (تقديم الخبر) also adds emphasis. (3) The particle 'إنما' (innama) in a categorical like 'إنما الإنسان كاتب' (Indeed, man is a writer) implies restriction. (4) In Persian, the copula is honored with forms like 'است که'. The author then notes that such propositions contain two affirmations: one is the basic predication, and the second is some additional affirmation (like restriction). When negation enters, it conventionally lifts the restriction, not the basic predication. For example, 'ليس الإنسان هو الضاحك' (Man is not the laughing one) denies that man alone laughs, not that man laughs at all. If the predicate itself is negated, the negation of restriction follows. Finally, using negation on the subject and exception on the predicate (e.g., 'ليس الإنسان إلا البشر' meaning 'Man is nothing but human') indicates either identity or implication between subject and predicate. This passage is crucial for understanding how particles modify basic categorical propositions in Arabic logic.
+
+Key Terms
+الحملية المركبة
+الرابطة
+الحصر
+رفع الحصر
+
+Key Terms from Source Passage
+
+Checkpoint
+In the proposition 'ليس الإنسان هو الضاحك' (Man is not the laughing one), what is primarily negated?
+A) The predicate 'ضاحك'
+B) The subject 'الإنسان'
+C) The restriction that only man laughs
+D) The copula
+
+Key Takeaway
+Negation in compound categoricals primarily lifts the restriction (the exclusive sense), not the basic predication.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition 'إنما الإنسان ناطق' (Indeed, man is rational). Determine whether this proposition is a simple categorical or a compound categorical. If you negate it as 'ليس الإنسان ناطقاً', what does the negation primarily affect according to the passage? Give your reasoning.
+?
+In a fiqh debate, a scholar says 'ليس الوضوء هو الطهور' (Wudu is not the purifier). Based on the lesson, what is the most likely intended meaning? Does it deny that wudu purifies, or does it deny that wudu alone purifies? Explain using the concept of رفع الحصر.
+
+Pages p. 382 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 383
+Module 5 · Lesson 259
+Next →
+Propositions
+intermediate
+5 min
+Effect of the Particle 'Ma' on Conditionals
+Author explains that the particle 'ma' added to a conditional affirms the antecedent and provides two affirmations.
+
+Learning Objective
+By the end of this lesson, you will be able to analyze a conditional with the particle 'ما' and identify the two affirmations it contains, and determine the effect of negation on such a conditional.
+
+Core Idea
+'ما' adds antecedent truth to a conditional; negation cancels only the implication.
+
+In this lesson, we examine the logical effect of the Arabic particle 'ما' (ma) when it enters a conditional proposition. As the author explains, this particle does more than indicate connection—it also affirms the actual occurrence of the antecedent. This yields two distinct affirmations: the implication relation and the truth of the antecedent. Understanding this distinction is crucial for correctly interpreting and negating such conditionals in Islamic legal and theological discourse.
+
+Guided Path
+1
+Identify the baseline conditional
+Start with a simple conditional (if A then B) which only asserts the implication (luzūm) between antecedent and consequent.
+The simple conditional has only one affirmation: the implication.
+2
+Recognize the effect of adding 'ما'
+When 'ما' is prefixed, it adds an extra affirmation: the truth of the antecedent (ḥaqīyyat al-muqaddam). So the proposition now includes both the implication and the actual occurrence of A.
+The particle 'ما' is augmentative here, not conditional itself.
+3
+Note the two affirmations
+The passage explicitly states there are two affirmations (ījābān): one is the implication (al-luzūm) and the second is the exclusion/affirmation of the antecedent (istithnā' al-muqaddam).
+استثناء المقدم refers to the affirmation that the antecedent holds.
+4
+Understand the effect of negation
+If you negate such a conditional (e.g., with 'lā'), it only negates the implication, not the truth of the antecedent. The antecedent's truth may still hold or not; only the conditional link is denied.
+This is crucial: negation of a 'ma' conditional does not deny the occurrence of the antecedent.
+5
+Consider the case where implication holds without antecedent truth
+The author notes that the negation and affirmation of the conditional are opposite, but they can coexist if the implication is true while the antecedent is not (i.e., a material conditional case). This scenario helps clarify the logical relationship.
+This shows that the two affirmations are independent: the implication can be true even if the antecedent is false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ودخول ملاء على الشرطية: مع إفادته الاتصال، يفيد حقية المقدم؛ فيكون هناك إيجابان: أحدهما اللزوم والثاني استثناء المقدم. ودخول حرف السلب عليه يفيد سلب اللزوم فقط. ففي تقابل سلبه وإيجابه، لكنهما معاً إذا كان اللزوم ثابتاً بدون حقية المقدم. والله أعلم.
+And the entry of 'ma' upon the conditional: with its indication of connection, it indicates the truth of the antecedent; so there are two affirmations: one is the implication and the second is the exclusion of the antecedent. And the entry of the negation particle upon it (the conditional) indicates only the negation of the implication. So its negation and affirmation are opposed, but they are together when the implication is established without the truth of the antecedent. And God knows best.
+Source pages p. 383
+
+Commentary
+This passage addresses the effect of the particle 'ما' (ma) when prefixed to a conditional proposition. In Arabic, 'ما' can add emphasis or a temporal sense. The author states that when 'ما' enters a conditional, in addition to indicating connection (i.e., the conditional is a connected conditional), it also indicates the truth (حقية) of the antecedent. For example, 'ما إن جاء زيد فأكرمه' (Whenever Zayd comes, honor him) implies that Zayd actually came. Consequently, the proposition now contains two affirmations: (1) the implication (اللزوم) that if the antecedent then the consequent, and (2) the exclusion or affirmation of the antecedent (استثناء المقدم). If a negation particle (like 'لا') enters such a conditional, it negates only the implication, not the truth of the antecedent. This is important because normally the negation of a conditional is a matter of logic: 'ليس إذا كان كذا فكذا' negates the implication. The author notes that the negation and affirmation of such conditionals are opposed, but they can coexist if the implication holds without the antecedent being true (i.e., a material conditional). This aligns with logical distinctions in Islamic jurisprudence where hypothetical scenarios are discussed. The passage concludes with 'والله أعلم' (And God knows best), indicating the author's humility.
+
+Key Terms
+ملاء
+حقية المقدم
+استثناء المقدم
+اللزوم
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the particle 'ما' add to a conditional beyond the implication?
+A) Negation of the implication
+B) Truth of the antecedent
+C) Exclusion of the consequent
+D) Opposition of the antecedent
+
+Key Takeaway
+Adding 'ما' to a conditional yields two affirmations: the implication and the truth of the antecedent; negation of such a conditional only cancels the implication.
+
+How This Lesson Applies — to MY Life?
+?
+Take the conditional 'إذا كان الماء نجسا فلا يجوز الوضوء به' (If the water is impure, then performing ablution with it is not permissible). Apply the particle 'ما' to it and write down the two affirmations that result.
+?
+Now consider the negated version: 'لَيْسَ ما إن كان الماء نجسا فلا يجوز الوضوء به' (It is not the case that whenever the water is impure, performing ablution with it is not permissible). What exactly is being negated? Explain using the concepts from the passage.
+
+Pages p. 383 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 383
+Module 5 · Lesson 260
+Next →
+Propositions
+intermediate
+10 min
+Two Affirmatives and the Effect of Negation
+Author explains two affirmatives and effects of negation and exception.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two affirmatives in a restrictive proposition and determine whether negation removes the restriction or the predication.
+
+Core Idea
+Negation on a restrictive proposition removes the restriction, not the predication.
+
+When a proposition restricts a predicate to a subject, like 'Man is the laughing one' (implying only man laughs), it contains two affirmatives: one affirming the predicate and one affirming the restriction. Understanding how negation interacts with these affirmatives is crucial for interpreting legal and theological statements. This lesson will guide you through parsing such propositions and recognizing the effects of negation and exception.
+
+Guided Path
+1
+Identify the two affirmatives
+Look at a restrictive proposition, e.g., 'الإنسان هو الضاحك' (Man is the laughing one). The first affirmative is the predication: that man possesses the property of laughing. The second affirmative is the restriction: that only man possesses that property (or that the property is exclusive to man).
+The restriction is often implied by the definite article or context.
+2
+Apply negation and observe the effect
+When negation enters, as in 'ليس الإنسان هو الضاحك' (Man is not the laughing one), the default effect is to remove the restriction, not the predication. So the statement primarily means that laughing is not exclusive to man, not that man does not laugh at all.
+If the intention is to negate the predication, it is also valid, but the restriction is removed incidentally.
+3
+Examine negation with exception particles
+Consider 'ليس الإنسان إلا البشر' (Man is nothing but flesh). The negation on the subject combined with the exception particle on the predicate yields either union (identity) or entailment. 'Man is nothing but flesh' means man is identical to flesh (union). 'Man is nothing but rational' means rationality is entailed by man.
+Determine whether the exception indicates identity or a necessary property.
+4
+Analyze conditionals with 'ملا'
+In a conditional like 'إذا جاء زيد جاء عمرو' (If Zayd comes, Amr comes), the particle 'إذا' introduces the antecedent's actuality and connection. This gives two affirmatives: one of entailment (if Zayd comes, Amr comes) and one of the antecedent's actuality (Zayd did come). Negation on such a conditional only negates the entailment, not the actuality.
+The negation and affirmation of entailment are opposites, but can coexist if entailment is constant.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ففي أمثال هذه القضايا إيجابان: أحدهما إيجاب المحمول للموضوع .. و الثاني إيجاب و إذا دخل كلمة السلب على هذه القضايا، أفاد رفع الحصر عرفاً، لا رفع الحمل، كقولك: ليس الإنسان هو الضاحك .. و إن أريد به رفع المحمول، يصح و يقع رفع الحصر تبعاً. و دخول حرف السلب على الموضوع و حرف الاستثناء على المحمول يقيد: تولد: اتحاد الموضوع و المحمول تارة. و تلازمها أخرى. مثل: ليس الإنسان إلا البشر أو الناطق. و دخول ملاء على الشرطية: مع إفادته الاتصال، يفيد حقية المقدم؛ فيكون هناك إيجابان: أحدهما اللزوم و الثاني استثناء المقدم. و دخول حرف السلب عليه يفيد سلب اللزوم فقط. فط يتقابل سلبه و إيجابه، لكنهما معاً إذا كان اللزوم ثابتاً بدون حقية المقدم. و الله أعلم.
+For such propositions there are two affirmatives: one is the affirmation of the predicate for the subject, and the second is an affirmation. And if the word of negation enters upon these propositions, it causes the removal of restriction conventionally, not the removal of predication, as you say: 'Man is not the laughing one'. And if by it the removal of the predicate is intended, it is correct and the removal of restriction occurs incidentally. And the entry of the negation particle on the subject and the exception particle on the predicate restricts: generation: union of subject and predicate sometimes, and their entailment at other times. For example: 'Man is nothing but flesh' or 'the rational'. And the entry of 'mula' upon the conditional: while it conveys connection, it conveys the actuality of the antecedent; so there are two affirmatives: one is the entailment, and the second is the exception of the antecedent. And the entry of the negation particle on it conveys only the negation of entailment. So its negation and affirmation are opposite, but they are together if the entailment is constant without actuality of the antecedent. And God knows best.
+Source pages p. 383
+
+Commentary
+This passage defines the behavior of negation and exception in propositions. The author begins by noting that in restrictive propositions (like 'Man is the laughing one' implying uniqueness), there are two affirmatives: one affirming the predicate of the subject, and another affirming the restriction. When negation enters such a proposition, it typically removes the restriction, not the predication itself—e.g., 'Man is not the laughing one' negates the exclusive property, not man's existence. If the negation is meant to remove the predicate entirely, that is also valid, but then the restriction is removed incidentally. Next, the combination of negation on the subject and an exception particle on the predicate yields either union (identity) or entailment—e.g., 'Man is nothing but flesh' (union) or 'Man is nothing but rational' (entailment, since rationality is a necessary property). For conditional propositions, the particle 'ملا' (perhaps 'لو' or 'إذا') introduces the antecedent's actuality while also indicating connection. This yields two affirmatives: one of entailment, and one of the antecedent's exception. Negation on this conditional only negates the entailment, not the antecedent's actuality. The negation and affirmation of entailment are opposites, but they can coexist if entailment is constant irrespective of the antecedent's actuality. The passage is dense with technical terms: 'سلب' (negation), 'حصر' (restriction), 'حمل' (predication), 'لزوم' (entailment), 'حقية المقدم' (actuality of antecedent). The examples are from the Islamic tradition: 'الإنسان هو الضاحك' (Man is the laughing one) is a standard example for a restrictive proposition, and 'ليس الإنسان إلا البشر' (Man is nothing but flesh) critiques materialist definitions.
+
+Key Terms
+إيجاب (ījāb): An affirmation or positive proposition; in this context, it refers to the two affirmatives in a restrictive proposition: one of predication and one of restriction. [Note: Generally stable across logic texts, but here it is distinguished between two types within a single proposition.]
+حصر (ḥaṣr): Restriction or exclusivity of a predicate to a subject, often expressed by 'إلا' or 'فقط'. [Note: In later works, 'حصر' is often synonymous with 'قصر' (limitation).]
+لزوم (luzūm): Entailment or necessary connection between antecedent and consequent in a conditional. [Note: No significant shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+In the proposition 'ليس الإنسان هو الضاحك' (Man is not the laughing one), what does the negation primarily affect?
+A) It negates the existence of man.
+B) It negates the predication of 'laughing' to man.
+C) It removes the restriction that man is uniquely laughing.
+D) It negates the universal quantifier.
+
+Key Takeaway
+Negation on a restrictive proposition removes the restriction, not the predication, unless intended otherwise; in conditionals, negation only negates entailment, not the antecedent's actuality.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the following proposition from fiqh: 'ليس الإيمان إلا بالقلب والعمل' (Faith is nothing but heart and action). Identify the two affirmatives and determine whether the exception indicates union or entailment. Explain your reasoning.
+?
+Construct a restrictive proposition from usul al-fiqh (e.g., 'لا وضوء إلا بعد الحدث') and show how negation affects it. State what is affirmed and what is negated.
+
+Pages p. 383 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 413
+Module 5 · Lesson 261
+Next →
+Propositions
+beginner
+5 min
+Rule for Indefinite and Determinate Propositions in Syllogisms
+Author states the treatment of indefinite and determinate propositions in syllogisms
+
+Learning Objective
+By the end of this lesson, you will be able to classify propositions as indefinite or determinate and apply the rules for their treatment in categorical syllogisms.
+
+Core Idea
+Indefinite propositions act as particulars; determinate propositions act as universals.
+
+In categorical syllogisms, not all propositions come with explicit quantifiers. Some are indefinite (مهملة) like 'Man is mortal', and some refer to a specific individual (مخصوصة) like 'Zayd is a writer'. This lesson clarifies how these propositions behave in syllogisms according to the classical logicians.
+
+Guided Path
+1
+Distinguish the two types
+Indefinite propositions lack quantifiers (e.g., 'Man is mortal'), while determinate propositions refer to a specific individual (e.g., 'Zayd is a writer'). Recognize that in syllogistic logic, they are treated differently.
+2
+Recall the rules
+Indefinites are treated like particulars (جزئيات): they are considered as 'some' statements. Determinates are treated like universals (كليات): they are taken as applying to all instances of that individual (which is effectively universal).
+3
+Apply the rules to syllogism formation
+Because determinates are universals and indefinites are particulars, a syllogism cannot be formed from two determinates (since that would be two universals with no particular) nor from a determinate and a particular (since that would be a universal and a particular, but the particular in the minor may not distribute the middle term properly). However, a determinate can serve as the major premise in the first and second figures, provided the other premise is universal.
+This rule ensures the middle term is distributed correctly.
+4
+Test with examples
+Try analyzing: 'Zayd is a writer' (determinate) and 'Every writer is creative' (universal). Can we form a valid syllogism? The determinate acts as universal, so we have two universals, but that is allowed in the first figure (Barbara). The conclusion is 'Zayd is creative'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هذا حكم المحصورات. وأما المهملات فحكمها حكم الجزئيات. والمخصوصات حكمها حكم الكليات. ولهذا: لا ينعقد القياس عن مخصوصتين، ومخصوصة وجزئية. وتصلح أن تكون كبرى الشكل الأول والثاني.
+This is the ruling of quantified propositions. As for indefinite propositions, their ruling is the ruling of particulars. And as for determinate propositions, their ruling is the ruling of universals. And for this reason: a syllogism does not form from two determinate propositions, nor from a determinate and a particular. And they (determinate propositions) are suitable to be the major premise of the first and second figures.
+Source pages p. 413
+
+Commentary
+This passage defines the logical behavior of two types of non-standard categorical propositions: indefinite (muhmala) and determinate (mukhassasa). The author states that indefinite propositions, which lack quantifiers, are treated like particular propositions in syllogistic reasoning. For example, 'Man is mortal' is taken as 'Some man is mortal.' Determinate propositions, which refer to a specific individual (like 'Zayd is a writer'), are treated like universals—they function as if they apply to all instances of the subject (i.e., 'Every Zayd is a writer,' but since Zayd is a single individual, it is effectively universal). Consequently, a syllogism cannot be formed from two determinate propositions or from one determinate and one particular because the middle term would not be distributed properly. However, a determinate proposition can serve as the major premise in the first and second figures, provided the other premise is universal. This rule ensures that the syllogism's conditions for validity are met.
+
+Key Terms
+مهملات (muhmalaat): Indefinite propositions that lack quantifiers; they are treated like particulars in syllogisms. [Note: In later logic texts, the term 'muhmala' sometimes refers to propositions with an indefinite quantifier distinct from particular. This usage is standard.]
+مخصوصات (mukhassasaat): Determinate propositions referring to a specific individual; they are treated like universals in syllogisms. [Note: The term 'mukhassasa' is less common in later logic; some commentators equate them with singular propositions (shakhsiyya).]
+
+Key Terms from Source Passage
+
+Checkpoint
+If we have the propositions 'Zayd is a writer' (determinate) and 'Every writer is a human,' which figure can they form a valid syllogism in?
+A) Only the first figure
+B) Only the second figure
+C) Neither first nor second figure
+D) Both first and second figures
+
+Key Takeaway
+Indefinite propositions are treated as particulars, and determinate propositions as universals, which affects the validity of syllogisms in which they appear.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following propositions as indefinite, determinate, or quantified: 'Some animals are rational', 'Zayd is standing', 'Man is mortal'. Then state how each would be treated in a categorical syllogism.
+?
+Consider the determinate proposition 'This universe is created' and the universal 'Everything created has a Creator'. Determine whether a valid syllogism can be formed, and if so, in which figure(s).
+
+Pages p. 413 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 472
+Module 5 · Lesson 262
+Next →
+Propositions
+intermediate
+5 min
+The Coincidental Conditional and Its Truth Condition
+Author explains the coincidental conditional and its truth condition according to Ibn Sina.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a coincidental conditional and determine its truth value based solely on the truth of the consequent.
+
+Core Idea
+A coincidental conditional is true if the consequent is true, regardless of antecedent truth.
+
+In this passage, the author clarifies a point about the coincidental conditional (al-sharṭiyya al-ittiqāqiyya) from Ibn Sina's al-Shifa'. Most conditionals require a real connection between antecedent and consequent, but the coincidental type does not. Understanding this truth condition is essential for correctly evaluating such propositions in logical arguments, especially in Islamic logic where conditionals are used in various disciplines.
+
+Guided Path
+1
+Identify the conditional type
+Look for whether the truth of the conditional depends on a necessary connection between antecedent and consequent, or merely on the truth of the consequent itself.
+The passage distinguishes coincidental from non-coincidental conditionals.
+2
+Extract the antecedent and consequent
+In the given example, the antecedent is 'man is not rational' (كاذب) and the consequent is 'man is rational' (صادق في نفسه).
+3
+Check the truth of the consequent independently
+Determine whether the consequent is actually true in reality. The truth of the antecedent is irrelevant.
+The consequent 'man is rational' is true, so the conditional is true.
+4
+Understand the role of non-contradiction
+The author concludes that 'non-contradiction' (عدم المنافاة) is not a condition for coincidental conditionals, meaning antecedent and consequent can be contradictory.
+This clarifies a point of disagreement among logicians.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قد نص الشيخ في الشفاء: أن الاتفاقية الموجبة لا يتوقف صدقها على صدق المقدم، بل على صدق التالي، فلو كان المقدم كاذباً يكون معنى «موافقة التالي إيتاء»: «أن التالي موجود في نفسه مع كون المقدم الكذب مفروضاً»، لا أن التالي موجود مع وجود المقدم، فإن ذلك حينئذ كاذب دائماً. فيصدق قولنا: كلما كان الإنسان غير ناطق فالإنسان ناطق». أي الأول لو كان مفروضاً على أنه حق، يكون الثاني في نفسه حقاً. فعلم من كلامه أن «عدم المنافاة» ليس بشرط بين المقدم و التالي في الاتفاقية.
+The Sheikh [Ibn Sina] stated in al-Shifa': The affirmative coincidental [conditional] does not depend for its truth on the truth of the antecedent, but on the truth of the consequent. So if the antecedent is false, the meaning of 'the consequent's agreement with it' is that the consequent exists in itself while the false antecedent is assumed, not that the consequent exists with the existence of the antecedent – for that would then be always false. Thus our statement is true: 'Whenever man is not rational, man is rational.' That is, if the first is assumed to be true, the second is in itself true. So it is known from his words that 'non-contradiction' is not a condition between the antecedent and the consequent in the coincidental [conditional].
+Source pages p. 472
+
+Commentary
+This passage defines the coincidental conditional (al-sharṭiyya al-ittiqāqiyya) and its truth condition according to Ibn Sina's al-Shifa'. The author begins by quoting Ibn Sina: the truth of an affirmative coincidental conditional does not depend on the truth of the antecedent, but solely on the truth of the consequent. This means that even if the antecedent is false, the conditional can still be true as long as the consequent is actually true. The meaning of 'the consequent's agreement with the antecedent' in such a case is that the consequent exists in reality while the false antecedent is merely assumed – not that the consequent exists when the antecedent exists, because that would be false when the antecedent is false. An example is given: 'Whenever man is not rational, man is rational.' Here the antecedent 'man is not rational' is false, but the consequent 'man is rational' is true in itself, so the conditional is true. This example shows that the conditional does not require any real connection between antecedent and consequent; they are merely coincidental. From this, the author concludes that the condition of 'non-contradiction' (i.e., that antecedent and consequent not be contradictory) is not required in coincidental conditionals. This is a clarification against some logicians who may have insisted on such a condition. The passage thus defines the nature of coincidental conditionals and sets the stage for their use in syllogisms.
+
+Key Terms
+اتفاقية
+مقدم
+تالي
+عدم المنافاة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a correct coincidental conditional according to the passage?
+A) Whenever water is boiling, the sun has risen.
+B) Whenever Zayd is a prophet, the earth is round.
+C) Whenever the prayer is invalid, the Kaaba exists.
+D) Both B and C, provided the consequent is true.
+
+Key Takeaway
+The coincidental conditional is true if and only if its consequent is true, regardless of antecedent truth, and without requiring any logical connection.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider the conditional: 'Whenever Zayd is a prophet, the Kaba is in Mecca.' Is it a true coincidental conditional according to Ibn Sina's criterion? Explain why or why not.
+?
+Task 2: Write your own coincidental conditional whose consequent is a true Islamic belief and antecedent is false. Determine its truth value and justify.
+
+Pages p. 472 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 473
+Module 5 · Lesson 263
+Next →
+Propositions
+intermediate
+8 min
+Truth Conditions of Conditional Propositions
+Definition and critique of conditional truth conditions
+
+Learning Objective
+By the end of this lesson, you will be able to identify the truth conditions of a conditional proposition in Islamic logic and explain why non-contradiction is not a requirement.
+
+Core Idea
+A conditional proposition is true when the antecedent is false or the consequent is true—no connection needed.
+
+In classical Islamic logic, conditional propositions (al-qadaya al-shartiyya) are often misunderstood as requiring a real connection between antecedent and consequent. This passage from the Qustas clarifies that even contradictory or unrelated pairs can form true conditionals, and critiques al-Khunaji for imposing an extra condition.
+
+Guided Path
+1
+Identify the antecedent and consequent
+In the example 'Every time a human is not speaking, a human is speaking', identify the antecedent (insaan ghayr natiq) and consequent (insaan natiq). Note that they are contradictory.
+2
+Understand the author's claim about conditional truth
+The author states that a conditional is not the claim that the consequent exists with the existence of the antecedent, but that if the antecedent is assumed, the consequent is true in itself.
+This emphasizes the hypothetical nature of conditionals.
+3
+Test with a contradictory pair
+The example 'Every time a human is not speaking, a human is speaking' is true because the antecedent is false (since not all humans are non-speaking), making the conditional true regardless of the consequent's truth.
+This shows that non-contradiction is not required.
+4
+Recognize the role of assumption (farḍ)
+The author introduces the concept of 'assumption' (farḍ): the antecedent is taken as a supposition, not necessarily true in reality. The conditional holds if the consequent follows under that supposition.
+This is why false antecedents are allowed.
+5
+Analyze the critique of al-Khunaji
+The author criticizes al-Khunaji for requiring 'non-contradiction' (adam al-munāfāh) between antecedent and consequent. The passage shows that even contradictory pairs can form true conditionals, so the condition is unnecessary.
+This critique is a key point in Islamic logic debates.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم قال: قسطاس الأفكار في المنطق. لا أنّ التالي موجود مع وجود المقدم، فإن ذلك حينئذ كاذب دائماً. فيصدق قولنا: كلما كان الإنسان غير ناطق فالإنسان ناطق. أي الأول لو كان مفروضاً على أنه حق، يكون الثاني في نفسه حقاً. فعلم من كلامه أن «عدم المنافاة» ليس بشرط بين المقدم و التالي في الاتفاقية. ثم قال: إذا قلنا: كلما كان كل إنسان ناطقاً فكل حمار ناهق عنينا بالمقدم الفرض و بالتالي الموافقة. فكانا قلنا: كلما فرضنا أنّ الإنسان ناطق - إما فرضاً على أنه حق في نفس الأمر، أو حق بحسب الفرض، أو منتظر موقوف - فإنه يوافقه أن كل حمار ناهق. و لو كان بدل كلّ حمار ناهق كلّ إنسان ضاحك كان الفرض يلزمه التالي. و يشتركان في أن الفرض يتبعه هذا التالي. و قال: عدم البأس في أخذ الحق مع الفرض في قياس الخلف. هذا تعريض على الخوجي حيث اشترط في الاتفاقية «عدم المنافاة بين المقدم و التالي».
+Then he said: The balance of thoughts in logic. Not that the consequent exists with the existence of the antecedent, for that would then always be false. Thus our statement is true: 'Every time a human is not speaking, a human is speaking.' That is, if the first is assumed to be true, the second is true in itself. So it is known from his speech that 'non-contradiction' is not a condition between the antecedent and the consequent in the conditional. Then he said: If we say: 'Every time every human is speaking, every donkey is braying,' we mean by the antecedent the assumption and by the consequent the agreement. So it is as if we said: 'Every time we assume that a human is speaking' — either as a true assumption in reality, or true according to the assumption, or as a pending stop — then it agrees that every donkey is braying. And if instead of 'every donkey braying' we had 'every human laughing,' the assumption would necessitate the consequent. And they share in that the assumption follows this consequent. And he said: There is no harm in taking the truth together with the assumption in a reductio syllogism. This is a critique of al-Khunaji, as he required in the conditional 'non-contradiction between the antecedent and the consequent.'
+Source pages p. 473
+
+Commentary
+This passage is a definitional and critical exposition about the nature of conditional propositions (qadaya shartiyya) in logic. The author begins by quoting a statement from an earlier source (possibly Ibn Sina's Shifa') that a conditional is not the claim that the consequent exists simultaneously with the antecedent, as that would be false in cases like 'Every time a human is not speaking, a human is speaking.' Instead, the conditional means that if the antecedent is assumed true, the consequent is true in itself, regardless of actual connection. From this, the author concludes that the condition of 'non-contradiction' (adam al-munafah) between antecedent and consequent is not required in a conditional. To illustrate, he gives the example: 'Every time every human is speaking, every donkey is braying.' Here the antecedent ('every human is speaking') is false (since not all humans speak), but the conditional is true because the consequent ('every donkey brays') is always true. If instead the consequent were 'every human laughs' (which is also false), the conditional would still be true because the false antecedent can be followed by any consequent. The author then notes that al-Khunaji (Khoja) insisted on the condition of non-contradiction, and the present text is a critique of that position. Finally, he connects this to qiyas al-khalf (reductio ad absurdum), stating that it is permissible to combine a true premise with an assumed premise in such syllogisms. All examples are from logic itself, not from external sciences, but they illustrate how conditional propositions function in the Islamic logical tradition.
+
+Key Terms
+اتفاقية
+مقدم
+تالي
+منافاة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, which condition is NOT necessary for the truth of a conditional proposition (qadiyya shartiyya)?
+A) The antecedent must be true in reality.
+B) The consequent must be true when the antecedent is assumed.
+C) There must be no contradiction between the antecedent and the consequent.
+D) The antecedent must be possible.
+
+Key Takeaway
+The truth of a conditional depends only on the assumption of the antecedent and the truth of the consequent under that assumption; non-contradiction between them is irrelevant.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the conditional: 'Every time the world is eternal, it has a Creator.' According to the author's criterion, is this conditional true or false? Explain your reasoning. (Hint: The antecedent 'the world is eternal' is false in Islamic theology.)
+?
+Construct a conditional proposition with an antecedent and consequent that are contradictory (like 'human is speaking' and 'human is not speaking') and show that it is true according to the conditions given in the passage. Use an example from Islamic studies (e.g., involving prophets or attributes of Allah).
+
+Pages p. 473 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 557
+Module 5 · Lesson 264
+Next →
+Propositions
+intermediate
+5 min
+Conditions for Productive Conditional Syllogisms
+Author enumerates the second condition (non-accidental) and third condition (affirmative) for productive conditional syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a conditional proposition is accidental or non-accidental and determine if it satisfies the conditions for a productive istithna'i syllogism.
+
+Core Idea
+Accidental conditionals lack real connection: excepting one part yields no certain conclusion.
+
+Not every true conditional can serve as a premise in an istithna'i syllogism. The author of the matn lays out two key conditions: the conditional must be non-accidental and affirmative. Understanding these conditions prevents false inferences, especially in fields like fiqh where conditionals are used to derive rulings. Let's unpack why accidental conditionals fail and what makes a conditional truly productive.
+
+Guided Path
+1
+Identify the two conditions
+Read the passage and list the two conditions the author gives for a productive conditional syllogism: (2) the conditional must be non-accidental, (3) it must be affirmative.
+The first condition was covered earlier; here we focus on the second and third.
+2
+Understand 'non-accidental' (ghayr ittifaqiyya)
+A non-accidental conditional has a real, necessary connection between its antecedent and consequent. For example, 'If this is wine, then it is forbidden' is non-accidental because the prohibition follows from the nature of wine. An accidental conditional lacks such a tie: 'If Zayd entered the mosque, then he prayed' may be true on occasion but not by necessity.
+The author uses the term 'ghayr ittifaqiyya' meaning 'not coincidental'.
+3
+Analyze why accidental conditionals fail
+The passage explains that for an accidental conjunctive conditional, knowledge of the consequent does not depend on the antecedent, so negating the consequent does not negate the antecedent. Similarly, for accidental disjunctives, excepting one part does not yield the other. Subdivide into particular (cannot have both parts true with the conditional) and universal (both parts can be true).
+The author mentions a counterview that even accidental conditionals yield determination of parts, but the majority holds they do not.
+4
+Distinguish particular vs. universal accidental
+In the particular accidental conjunctive, the conditional cannot be true while both parts are raised (e.g., 'If it is day, then it is night' is false when both are raised). In the universal, both parts can be true (e.g., 'If Zayd is in the mosque, then he is praying' allows both 'Zayd is in the mosque' and 'he is praying' to be true simultaneously), so negation of the consequent does not force negation of the antecedent.
+The same reasoning applies to accidental disjunctives.
+5
+Understand the third condition (affirmative)
+The conditional must be affirmative; the rules change when it is negative. The author states this is self-evident. A negative conditional would not allow the standard istithna'i operations.
+For example, 'If it is not wine, then it is permissible' is negative and requires different handling.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+٢. الثاني كون الشرطية غير الاتفاقية، لأن استثناء شيء منها لا يفيد شيئاً آخر، لأنها: إن كانت متصلة. لا يتوقف العلم بتاليها على الوضع أو الاتصال، و لا يلزم من رفع التالي رفع المقدم: ١. لعدم العلاقة بين الرفعين؛ ٢. ولا يلزم أيضاً اتفاقياً: . أما الخاصة فلامتناع صدق المتصلة مع رفع طرفيها. و أما العامة فلجواز صدق الطرفين فلا يلزم نقيض المقدم. وكذا إن كانت الاتفاقية منفصلة. وقيل: يفيد شيئاً و هو تعيين أحد الطرفين أو تعيين نقيض أحد الطرفين. الثالث كونها موجبة، الاختلاف عند كونها سالبة. وذلك ظاهر.
+The second: that the conditional be non-accidental, because excepting something from it does not yield another thing, because it, if it is conjunctive, knowledge of its consequent does not depend on the situation or connection, and it does not follow from raising the consequent the raising of the antecedent. 1. Due to lack of relation between the two raisings; 2. And it does not also follow accidentally: as for the particular, because of the impossibility of the truth of the conjunctive with the raising of its two parts. And as for the universal, because of the possibility of the truth of both parts, so the negation of the antecedent does not follow. Similarly if the accidental is disjunctive. It was said: it does yield a thing, which is the determination of one of the two parts or the determination of the negation of one of the two parts. The third: that it be affirmative, the difference when it is negative. And that is apparent.
+Source pages p. 557
+
+Commentary
+This passage defines two conditions for a conditional proposition to be productive in an istithna'i syllogism. The second condition is that the conditional must be non-accidental (ghayr ittifaqiyya). An accidental conditional is one whose truth depends on a mere coincidence rather than a real logical or natural connection between its parts. In such a conditional, excepting one part does not guarantee anything about the other because there is no necessary relation. For example, consider the accidental conjunctive conditional: 'If it is day, then it is night' (which is false) or 'If Zayd is in the mosque, then he is praying' (possibly true but not necessary). The author explains that for an accidental conditional, knowledge of the consequent does not depend on the antecedent's situation. Therefore, negating the consequent does not entail negating the antecedent. He then subdivides accidental conditionals into particular (where the parts are such that they cannot both be true together with the conditional) and universal (where both parts can be true). In the particular case, the conditional itself cannot be true while its parts are raised, so no inference is possible. In the universal case, both parts can be true, so negating one does not give the other. The same applies to accidental disjunctive conditionals. A counterview is mentioned: some say it does yield something, namely the determination of one of the two parts or its negation. The third condition is that the conditional must be affirmative; if it is negative, the rules differ. This is self-evident. In the context of Islamic sciences, a non-accidental conditional is one like: 'If this is wine, then it is forbidden' because the prohibition necessarily follows from the essence of wine. An accidental conditional would be: 'If Zayd entered the mosque, then he prayed' which may be true on occasion but not by necessity.
+
+Key Terms
+شرطية غير اتفاقية
+استثناء
+اتفاقية
+متصلة
+منفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does an accidental conditional fail to produce a conclusion in an istithna'i syllogism?
+A) Because it is negative
+B) Because there is no necessary relation between its parts
+C) Because it is particular
+D) Because it is universal
+
+Key Takeaway
+A conditional must be non-accidental (real connection) and affirmative to be productive in an istithna'i syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Given the conditional 'If Zayd is in the mosque, then he is praying', determine whether it is accidental or non-accidental. Explain why it fails to produce a conclusion in an istithna'i syllogism.
+?
+Construct a non-accidental conditional using an Islamic legal example (e.g., involving wine or another prohibited substance) and show how it would be productive in an istithna'i syllogism (e.g., if you except the consequent, you can deduce the negation of the antecedent).
+
+Pages p. 557 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 574
+Module 5 · Lesson 265
+Next →
+Propositions
+intermediate
+7 min
+Certain Premises for Demonstration: Intuitive, Recurrent, and Innate Syllogistic
+Author defines hadsiyat, mutawatirat, and fitri qiyas as certain premises for demonstration.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between hadsiyat, mutawatirat, and fitri qiyas, and identify which can serve as principles for demonstration.
+
+Core Idea
+Demonstration rests on three types of certain premises: intuitive, recurrent, and innate syllogistic.
+
+In building a demonstration (burhan), not all premises are equal. The author here identifies three special types of propositions that yield certainty without external proof: intuitive insights gleaned from clues, widely transmitted reports, and innate syllogistic truths. Understanding these is key to recognizing the foundations of demonstrative knowledge.
+
+Guided Path
+1
+Identify the three types
+Find the three categories in the Arabic: al-hadsiyyat, al-mutawatirat, and al-fitri al-qiyas.
+2
+Understand the basis of certainty
+For each type, note the source of certainty: intuition for hadsiyat, multitude of testimonies for mutawatirat, and an innate mental principle for fitri qiyas.
+3
+Examine the examples
+The text provides examples: moon's light for hadsiyat, 'four is even' for fitri qiyas. Mutawatirat has no explicit example here but is defined as testimonies producing certainty.
+4
+Analyze epistemological role
+The passage states these are primary principles for demonstration, but three (or four) are not proof for those lacking certainty. The mainstays are awwaliyat and fitri qiyas.
+The 'six' mentioned likely includes three others (awwaliyat, etc.) not defined here.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الباب الثالث: في توابع القياس. المسلك السابع في الرهان. ثم الحدسيات و هي التي يكون الجزم بها بتوسط حدس النفس بسبب مشاهدة القرائن دون الأثر - لتخرج المجربات - كقولنا نور القمر مستفاد من الشمس لاختلاف تشكلاته حسب أوضاعه منها. و الحدس هو سرعة الانتقال من المبادئ إلى المطالب. و المتواترات و هي التي يكون الجزم بها كثرة الشهادات الموقعة لليقين. و القضايا الفطري القياس هي التي تكون الجزم بها بواسطة مستقرة في العقل كقولنا الأربعة زوج بما تقرر في العقل أنها منقسمة متساويين. و ذلك لأنه إذا شك في زوجية عدد. مرجع العقل إلى أنه هل ينقسم متساويين أم لا؟ و لكلّ من هذه الستة علة خفية موجبة لليقين. وكلُّ ما هو أجلى فعلته أخفى و بالعكس. وكل منها قد تكون ضرورية و ممكنة و وجودية. فهذه هي مبادئ أولى للبرهان يتألف البرهان منها أو مما يُستفاد منها. و الثلاثة التي هي قبل السادسة بل الأربعة لا تكون حجة على غير من حصل له اليقين بها. والعمدة: هي الأوليات و القضايا الفطري القياس.
+Chapter three: On the consequences of syllogism. The seventh path on demonstration. Then the intuitive propositions: they are those whose certainty occurs through the intuition of the soul by observing clues without the effect - to exclude the empirical - like our statement: the light of the moon is derived from the sun because of the variation of its phases according to its positions relative to it. And intuition is the swift transition from principles to desired conclusions. And the recurrent propositions: they are those whose certainty occurs through the multitude of testimonies that produce certainty. And the innate syllogistic propositions: they are those whose certainty occurs through a [principle] settled in the mind, like our statement: four is even, based on what is settled in the mind that it is divisible into two equal parts. And that is because if one doubts the evenness of a number, the mind refers to whether it is divisible into two equal parts or not. And each of these six has a hidden cause necessitating certainty. And everything that is more evident has its cause more hidden, and vice versa. And each of them may be necessary, possible, or existential. So these are primary principles for demonstration; demonstration is composed from them or from what is derived from them. And the three that are before the sixth, rather the four, are not proof for someone who has not attained certainty in them. And the mainstays are the primary propositions and the innate syllogistic propositions.
+Source pages p. 574
+
+Commentary
+This passage is a definitional and classificatory text from the chapter on the consequences of syllogism, specifically the seventh approach on demonstration. The author begins by defining three types of certain premises that serve as principles for demonstration. First are intuitive propositions (حدسيات), which are known by a swift intuition of the soul from observing clues without empirical trial; example: light of the moon comes from the sun due to its phases relative to the sun. Second are recurrent propositions (متواترات), known through numerous testimonies that produce certainty. Third are innate syllogistic propositions (قضايا فطري القياس), known through a settled principle in the mind, such as knowing four is even because it is divisible into two equal halves. The passage then explains that each of these six (the three listed plus three others presumably mentioned earlier) has a hidden cause for certainty. It notes that what is more evident in itself may have a more hidden cause, and that these premises can be necessary, possible, or existential. These are the primary principles from which demonstration is composed or derived. However, three or four of them are not proof for someone who has not attained certainty, and the mainstays are the primary propositions and the innate syllogistic propositions. The author follows a logical order: first defining each type, then discussing their epistemological status and utility.
+
+Key Terms
+الحدسيات
+المتواترات
+الفطري القياس
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a 'fitri qiyas' (innate syllogistic) proposition?
+A) The light of the moon is derived from the sun.
+B) Four is even because it is divisible into two equal parts.
+C) A report from a large group that cannot conspire on a lie.
+D) The world is created because it changes.
+
+Key Takeaway
+The three types of certain premises each have a distinct basis for certainty: intuition, recurrent testimony, or innate syllogistic reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Provide a real Islamic example of a hadsi proposition (e.g., the direction of the qibla based on stars).
+?
+Explain why 'four is even' is fitri qiyas and not a primary proposition (awwali).
+
+Pages p. 574 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 575
+Module 5 · Lesson 266
+Next →
+Propositions
+beginner
+10 min
+Six types of non-certain propositions
+Author enumerates six types of non-certain propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the six types of non-certain propositions and their defining sources of acceptance.
+
+Core Idea
+Non-certain propositions are the building blocks of dialectical, rhetorical, and sophistical arguments.
+
+In the previous lesson we examined the five certain premises (al-yaqiniyyat). Now we turn to the six types of premises that lack certainty but are still widely used in debate, poetry, and persuasive speech. These are categorized by how they gain acceptance: through social consensus, scientific concession, trust in authority, preponderant opinion, emotional effect, or the fallible estimative faculty. Mastering these distinctions allows you to identify the epistemic status of premises in any argument.
+
+Guided Path
+1
+Identify the source of acceptance
+For each of the six types, note what gives the proposition its non-certain status: social agreement (mashhurat), scientific concession (musallamat), trust in a person (maqbulat), preponderant belief (maznunat), emotional effect (mukhayyalat), or estimative error (wahmiyyat).
+2
+Classify the context of use
+Determine in which context each type is typically used: dialectic (mashhurat, musallamat, maqbulat), rhetoric (mukhayyalat), or sophistry/estimation (wahmiyyat). Maznunat may appear in dialectic as well.
+3
+Compare closely related types
+Compare mashhurat and musallamat: both involve acceptance from others, but musallamat are explicitly conceded within a science or by an opponent. Compare maqbulat: it depends on personal trust rather than general consensus.
+4
+Apply classification to a given proposition
+Given a proposition like 'Justice is good because people agree', classify it as mashhurat. Given 'The Quran is created' in a kalam debate where the opponent concedes it, classify as musallamat.
+5
+Summarize epistemological status
+None of these yield certainty; they are either zanni (probable) or false (wahmiyyat). Recognizing this prevents overestimating the strength of premises.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقسام غير اليقينيات. و أما غير اليقينيات فهي أيضاً ستة: الأول و هي المشهورات و هي القضايا التي يحكم العقل بها بواسطة اعتراف الناس إما لمصلحة عامة أو رقة أو حمية من عادات و شرائع و آداب. الثاني و المسلمات و هي التي تكون مسلّمة في علم أو عند الخصم. الثالث و المقبولات و هي التي تقبل من شخص للاعتقاد فيه. الرابع و المظنونات و هي التي يحكم فيها للاعتقاد الراجح. الخامس و المخيلات و هي التي تتأثر النفس عنها بقبض أو بسط. السادس و الوهميات و هي قضايا كاذبة تحكم بها الوهم في أمور غير محسوسة بأحكام المحسوسات، إذ هو تابع للحس فقد يُخطئ.
+Sections of non-certain propositions. As for the non-certain propositions, they are also six: First, the widely accepted (mashhurat): they are propositions that the mind judges through the acknowledgment of people, either for public interest, softness, or zeal from customs, laws, and manners. Second, the conceded (musallamat): they are those that are conceded in a science or by an opponent. Third, the accepted (maqbulat): they are those that are accepted from a person due to belief in him. Fourth, the probable (maznunat): they are those whose judgment is based on preponderant belief. Fifth, the imaginative (mukhayyalat): they are those whose effect on the soul is either attraction or repulsion. Sixth, the estimative (wahmiyyat): they are false propositions that the estimative faculty judges concerning non-sensible matters with judgments of sensibles, for it is dependent on sense and may err.
+Source pages p. 575
+
+Commentary
+This passage is a classification of non-certain propositions into six types, following the previous discussion of certain premises. Each type is defined briefly. First are widely accepted propositions (مشهورات), accepted due to social agreement for interest, emotion, or custom. Second are conceded propositions (مسلمات), which are accepted as given within a science or by an opponent. Third are accepted propositions (مقبولات), accepted from a trusted person. Fourth are probable propositions (مظنونات), based on preponderant opinion. Fifth are imaginative propositions (مخيلات), which affect the soul with pleasure or pain. Sixth are estimative propositions (وهميات), false judgments of the estimative faculty about non-sensible things using sensible judgments, prone to error. This enumeration is standard in logic, showing propositions used in dialectic, rhetoric, and sophistry.
+
+Key Terms
+المشهورات
+المسلمات
+المقبولات
+المظنونات
+المخيلات
+الوهميات
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of non-certain proposition is used when an opponent in a debate accepts a premise for the sake of argument?
+A) المشهورات
+B) المسلمات
+C) المقبولات
+D) المظنونات
+
+Key Takeaway
+The six types of non-certain propositions are distinguished by their source of acceptance: social consensus, scientific concession, trust, preponderant belief, emotional effect, or estimative error.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: For each of the following statements used in Islamic debate, identify which type of non-certain proposition it is: (a) 'The Quran is eternal' (if conceded by the opponent in a kalam debate). (b) 'Generosity is good' (common social agreement). (c) 'This hadith is acceptable because it was narrated by a trustworthy person' (based on trust). (d) 'The new evidence suggests the ruling should be changed' (preponderant belief). (e) 'The hero's sacrifice is beautiful' (poetic, affecting the soul). (f) 'Time is a flowing river' (estimative, false).
+?
+Task 2: Write a short dialogue between two debaters in a fiqh dispute where one uses a musallamat premise and the other responds by challenging its status as musallamat.
+
+Pages p. 575 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 619
+Module 5 · Lesson 267
+Next →
+Propositions
+intermediate
+10 min
+Spotting False Contradictions in Propositions
+Author shows how two propositional forms may seem contradictory but are not.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when two propositions that appear contradictory are not, by analyzing their jihha (direction/aspect) and quantifiers.
+
+Core Idea
+Not every apparent contradiction is real: check the modalities and quantifiers.
+
+In Islamic logic, identifying genuine contradiction is crucial for valid argumentation. This passage warns against a common mistake: assuming two propositions are contradictory when they are not. The author gives a concrete example and explains that examining their 'jihha' (aspects) reveals the truth. As students of logic, you must learn to distinguish real contradictions from apparent ones, especially in theological and juristic debates.
+
+Guided Path
+1
+Identify the example propositions
+The author gives 'Every J is B' and 'Not every J is B'. These seem contradictory at first glance. Note that they share the same subject (J) and predicate (B).
+2
+Understand the term 'united in jihha'
+The key phrase is 'al-muttaḥidatayn al-jihhatayn' – the two propositions are uniform in their two directions. This likely means they have the same subject, predicate, and possibly modal status. The author suggests that when these are examined, the apparent contradiction disappears.
+Jihha may also refer to modality (e.g., necessity, possibility). In classical logic, 'Not every J is B' is equivalent to 'Some J is not B', which is the contradictory of 'Every J is B'. So why does the author deny contradiction? Possibly because of an underlying modal difference.
+3
+Contrast with standard contradiction rules
+In Aristotelian logic, a universal affirmative (A) and a particular negative (O) are contradictories. But if the propositions carry different modalities (e.g., one necessary, one possible), they may not be contradictions. The author's lesson is to always check the full context.
+This is especially important in kalam and usul al-fiqh where propositions often have modal qualifiers.
+4
+Apply the lesson to real debates
+In a munazara, a disputant might claim a contradiction between two statements to weaken an opponent's position. The author's teaching helps you verify whether the contradiction is genuine or only apparent by examining the jihha.
+Always ask: 'Are the subject, predicate, and modality identical? Does the quantifier really conflict?'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+. و أما اجتماع النقيضين فقد يظن اجتماعيها و لا يكون كذلك:
+كما في القضيتين المتحدة الجهتين كقولنا «كل ج ب»، ب»، «ليس كل ج ب»
+فإذا استفسر جحتاهما ظهر عدم التناقض.
+And as for the conjunction of the two contradictories, perhaps their conjunction is thought and it is not so:
+As in the two propositions that are uniform in their two directions, like our saying 'Every J is B' and 'Not every J is B' – so if their two [quantifiers] are investigated, the absence of contradiction appears.
+Source pages p. 619
+
+Commentary
+This passage addresses a common illusion: that two propositions are contradictory when they are not. The example given is 'Every J is B' and 'Not every J is B'. These seem to be contradictories, but the author says they are 'uniform in their two directions' (muttaḥidatan al-jihhatayn), meaning they share the same subject and predicate but differ in quantity. Actually, 'Every J is B' is a universal affirmative, and 'Not every J is B' is a particular negative (since 'not every' is equivalent to 'some not' in classical logic). These are indeed contradictories in standard logic? Wait: In Aristotelian square, the contradictory of 'All J is B' is 'Some J is not B', which is exactly 'Not every J is B'. So the author seems to be saying that they might appear to be contradictory but when their 'jihha' (direction/aspect) is examined, they are not? Possibly 'jihha' here refers to modality or time? The text says 'if their two directions are investigated, the absence of contradiction appears'. This might indicate that if we consider the modality (e.g., necessity, possibility), they are not true contradictories. Given the context of critical logic, this could be about mistaken claims of contradiction in debate. The commentary should clarify that the author is warning against misidentifying contradictory pairs.
+
+Key Terms
+القضيتين المتحدة الجهتين
+اجتماع النقيضين
+الجهة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why might 'Every J is B' and 'Not every J is B' not be true contradictories?
+A) They have different subjects
+B) They have different predicates
+C) Their modalities or quantifiers may need careful examination
+D) They are actually the same proposition
+
+Key Takeaway
+Always examine the full jihha (direction/modality) of two propositions before declaring them contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the pair: 'Every act of riba is forbidden' and 'Not every act of riba is forbidden'. Are they genuine contradictories? Explain the role of jihha (e.g., definition of riba, context of the ruling).
+?
+In a debate, one person says: 'The world is eternal' and another says: 'The world is not eternal'. Is this a genuine contradiction? What would you need to check to be sure?
+
+Pages p. 619 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 619
+Module 5 · Lesson 268
+Next →
+Propositions
+intermediate
+5 min
+Resolving Apparent Contradictions by Different Respects
+Author explains that a statement like 'Some existent is non-existent' is not a true contradiction.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a statement that seemingly predicates opposites on the same subject does not actually violate the law of non-contradiction due to different respects (jihha).
+
+Core Idea
+An apparent contradiction dissolves when the same subject is considered in different respects.
+
+Sometimes a statement appears to assert a contradiction, like 'Some existent is non-existent'. A quick reader might think this violates the law of non-contradiction. However, upon analysis, the statement can be true when 'existent' refers to one respect and 'non-existent' to another. This lesson teaches you to spot such subtle distinctions and avoid hasty accusations of fallacy.
+
+Guided Path
+1
+Identify the apparent contradiction
+Look for a statement that seems to affirm both a term and its opposite (e.g., existent and non-existent) of the same subject. Write down the two predicates.
+Here: 'existent' and 'non-existent' are predicated of 'some existent'.
+2
+Determine the subject and the two predicates
+In 'Some existent is non-existent', the subject is 'some existent' (some thing that is existent in some way). The first predicate is 'existent' (implicitly), and the second is 'non-existent'.
+The subject is already described as 'existent' in the phrase, but the statement adds 'is non-existent'.
+3
+Check for qualifiers or different respects
+Ask: Are the predicates applied in exactly the same respect? The author explains that the meaning is 'some of that which is existent in some respect is non-existent in some respect.' Thus the predicates apply in different respects (jihha).
+If one predicate were qualified by 'permanently' (dawam), then it would be a true contradiction.
+4
+Confirm no violation of non-contradiction
+Since the predicates are not applied to the same aspect of the subject, the statement does not assert both P and not-P of the same thing in the same sense. Hence it is not contradictory.
+This principle is used in kalam and usul to resolve seemingly conflicting attributes of Allah or rulings in fiqh.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+. و قد يظنّ حمل النقيض على النقيض و لا يكون كذلك:
+.a. كقولنا بعض الموجود معدوم» فإن معناه بعض ما صدق عليه أنه في الجملة فهو معدوم في الجمة». اللهم إلا أن يقيد أحدهما بـ«الدوام».
+And perhaps the predication of the opposite on the opposite is thought and it is not so:
+a. Like our saying 'Some existent is non-existent' – for its meaning is: some of that of which it is true that it is in some respect is non-existent in some respect. Unless one of them is qualified by 'permanence'.
+Source pages p. 619
+
+Commentary
+This passage addresses another illusion: when someone predicates a term and its opposite of the same subject, it may seem contradictory, but it is not if the terms are taken in different respects. The example is 'Some existent is non-existent', which sounds contradictory. However, the author explains that it means something exists in one respect (e.g., accidentally) but is non-existent in another respect (e.g., essentially). The contradiction is avoided by considering different aspects (jihha). In Islamic philosophy, this is familiar from discussions of potentiality and actuality, or of composite entities. The author adds that unless one term is qualified by 'permanence' (dawam), which would make them absolute opposites.
+
+Key Terms
+حمل النقيض على النقيض
+موجود
+معدوم
+جهة
+دوام
+
+Key Terms from Source Passage
+
+Checkpoint
+How is the phrase 'Some existent is non-existent' resolved according to the passage?
+A) By denying its truth altogether
+B) By understanding it as 'existent in one respect, non-existent in another'
+C) By changing the subject
+D) By applying the law of excluded middle
+
+Key Takeaway
+A statement that seems to predicate opposites on the same subject is not contradictory if the opposites are understood in different respects.
+
+How This Lesson Applies — to MY Life?
+?
+Find an example from kalam where something is described as both existent and non-existent (e.g., the potential existence of a contingent being before creation, versus its actual existence after creation). Explain how different respects remove the contradiction.
+?
+In usul al-fiqh, consider the phrase 'the act is both obligatory and forbidden.' Under what circumstances could this statement be true without contradiction? (Hint: different times, conditions, or persons).
+
+Pages p. 619 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 619
+Module 5 · Lesson 269
+Next →
+Propositions
+intermediate
+5 min
+Self-Negation When the Subject Does Not Exist
+Author distinguishes when self-negation is merely apparent and when it is real but not impossible.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a self-negation proposition is actually true (not merely apparent) by checking whether the subject exists in external reality.
+
+Core Idea
+Self-negation can be true when the subject has no external existence.
+
+The author concludes the discussion on negative propositions with a subtle point: sometimes negating a thing of itself is genuine and yet not logically impossible. This occurs when the subject term refers to something that does not exist in the external world. Understanding this principle is essential for correctly interpreting theological and legal statements about non-existent entities.
+
+Guided Path
+1
+Recognize the two cases
+The passage presents two scenarios: one where self-negation is merely apparent (like 'some existent is not existent'), and another where it is genuine but still not impossible. Identify which case is being discussed in a given statement.
+2
+Test for external existence
+For a genuine self-negation to be true, the subject must not exist in external reality. If the subject does exist, the self-negation is false (or only apparent).
+The author uses 'void' (khalā') as an example of something non-existent.
+3
+Apply the principle to an Islamic example
+Consider 'No partner (sharik) for Allah is a god.' Since partners do not exist in reality, the self-negation is true. This aligns with the principle that non-existent subjects can be truly negated of themselves.
+This avoids the fallacy of thinking such statements are contradictory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+. وقد يظنّ سلب الشيء عن نفسه أو سلب لازمه عن نفسه: و ذلك: إما أن لا يكون كما ظن، أو يكون ولا يكون محالاً:
+. أما الأول فكقولنا بعض الموجود ليس بموجود و قد مر معناه.
+. أما الثاني فكما لا يكون ذلك الشيء في الخارج فيصدق [سلبه عن نفسه أو سلب لازمه عنه بحسب الخارج إذ يصح أن يقال: «لا شيء من من الخلاء في الخارج بخلاء» و «لا شيء من الخلاء في الخارج ببعد» ] لأن ما لا يكون في الخارج لا يصدق عليه شيء في الخارج سواء كان نفسه أو لازمه فيصدق
+سلبها عنه، كما مر في المنطق.
+And perhaps the negation of a thing of itself or the negation of its necessary property of itself is thought: and that is either not as thought, or it occurs and is not impossible:
+As for the first, like our saying 'Some existent is not existent' and its meaning has passed.
+As for the second, like when that thing does not exist in external reality, so its negation of itself or the negation of its necessary property from it is true according to external reality, for it is correct to say: 'No void in external reality is void' and 'No void in external reality is a dimension' – because that which does not exist in external reality, nothing in external reality is true of it, whether it is itself or its necessary property, so their negation of it is true, as has passed in logic.
+Source pages p. 619
+
+Commentary
+The final caution concerns statements that negate a thing of itself or negate a necessary property of the thing. Two cases arise. First, the negation may be merely apparent, as in 'some existent is not existent', which is resolved by the previous explanation (different respects). Second, the negation may be actual but not impossible: when the subject does not exist in the external world. For example, 'void' (khalā') does not exist externally. Therefore, saying 'No void is void' is true because 'void' in reality has no existence; nothing can be predicated of it, even itself. Similarly, 'No void is a dimension' (i.e., it has no extension) is true. In Islamic logic, this applies to non-existent entities: they can be truly negated of themselves or of their properties. The author ends by referencing earlier discussions in logic.
+
+Key Terms
+سلب الشيء عن نفسه
+
+Key Terms from Source Passage
+
+Checkpoint
+When is it true to say 'No void is void'?
+A) Never, because it is a self-contradiction
+B) When void is considered as a mental concept
+C) When void does not exist in external reality
+D) When void is a necessary property
+
+Key Takeaway
+Self-negation is genuinely true when the subject has no external existence, as in the case of nonexistent entities like void.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement from Kalam: 'No partner (sharik) for Allah is a god.' Is this an instance of self-negation? Under what condition is it true according to the passage?
+?
+Find another example from Islamic jurisprudence where a ruling is made about a non-existent subject (e.g., 'No wine in the mosque is permissible'). Determine whether the negation is true or false based on the principle in this lesson.
+
+Pages p. 619 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 619
+Module 5 · Lesson 270
+Next →
+Propositions
+beginner
+5 min
+Unity of Aspect in Contradictory Propositions
+Author explains when propositions that seem contradictory are not.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when two propositions are only apparently contradictory due to different aspects (jiha).
+
+Core Idea
+True contradiction requires unity of aspect, not just opposing wording.
+
+You might think that 'Every J is B' and 'Not every J is B' are direct contradictions. But in logic, contradiction requires more than surface-level opposition. The author of this passage points out that if the two propositions are considered under different respects—for example, one in terms of essence and the other in terms of accidents—they can both be true. This lesson will teach you to spot the condition of 'unity of aspect' (ittiḥād al-jiha) that is essential for genuine contradiction.
+
+Guided Path
+1
+Identify the two propositions
+Find the two propositions that are claimed to be contradictory. In the example, they are 'كل ج ب' and 'ليس كل ج ب'.
+2
+Check the aspects (jiha) of each proposition
+Determine under what respect each proposition is asserted. Are they both asserted in the same respect? If not, they are not true contradictories.
+Aspect (jiha) refers to the condition or respect under which the proposition is true, e.g., essential vs. accidental properties.
+3
+Apply the rule of contradiction
+Recall that two contradictories must differ in truth value in every possible situation under the same aspect. If they can both be true under different aspects, they are not contradictory.
+This is the standard logical principle of ittiḥād al-jihatayn.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و أما اجتماع النقيضين فقد يظن اجتماعيها و لا يكون كذلك: كما في القضيتين المتحدة الجهتين كقولنا «كل ج ب»، «ليس كل ج ب» فإذا استفسر جحتاهما ظهر عدم التناقض.
+And as for the conjunction of two contradictories, sometimes one imagines their conjunction but it is not so: as in two propositions that are univocal in aspect, like our saying 'Every J is B' and 'Not every J is B'; when their aspects are examined, the lack of contradiction appears.
+Source pages p. 619
+
+Commentary
+This passage clarifies a common misunderstanding about contradictory opposites. The author gives an example of two propositions that appear to be contradictories: 'Every J is B' and 'Not every J is B'. However, if the two propositions are considered under different respects (جهات), they are not truly contradictory. For instance, 'Every J is B' may be true in one respect (e.g., in terms of essence) while 'Not every J is B' may be true in another respect (e.g., in terms of accidents). When the respects are distinguished, the apparent contradiction disappears. This is a standard logical principle that requires checking the univocity of the subject and predicate conditions.
+
+Key Terms
+الجهة
+النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say that 'Every J is B' and 'Not every J is B' might not be true contradictories?
+A) Because they are not in the same mood and figure.
+B) Because they may be false if J is empty.
+C) Because they might be under different respects (aspects).
+D) Because 'not every' is not the contradictory of 'every'.
+
+Key Takeaway
+True contradiction between two propositions requires that they be asserted under the same respect (jiha); otherwise, they are only apparently contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the two propositions: 'Every prayer is valid with facing the qibla' and 'Not every prayer is valid with facing the qibla' (e.g., due to inability). Are these true contradictories? Identify the aspect of each and determine if the contradiction is only apparent.
+?
+From a kalam debate: 'The world is eternal' and 'The world is not eternal'. Under what aspects could both be considered true? Explain using the principle of unity of aspect.
+
+Pages p. 619 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 619
+Module 5 · Lesson 271
+Next →
+Propositions
+beginner
+5 min
+Predicting Opposites: When Is It a Real Contradiction?
+Author explains the fallacy of thinking an opposite is predicated on its opposite.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a statement that predicates an opposite of its opposite is a true contradiction or can be resolved by distinguishing the aspects involved.
+
+Core Idea
+Predicating an opposite of its opposite can be non-contradictory if the two terms are understood in different senses.
+
+This lesson addresses a subtle logical pitfall: a statement that appears to be a contradiction may actually be true if the terms are used in different respects. The author illustrates this with the example 'Some existent is non-existent', explaining that it can be true when 'existent' is taken in a general sense and 'non-existent' in a particular sense. However, if one of the terms is qualified as perpetual (al-dawām), the contradiction becomes real. Understanding this distinction is crucial for accurately evaluating statements in Islamic scholarship.
+
+Guided Path
+1
+Identify the apparent opposite predication
+Find the statement that seems to carry an opposite onto its opposite. In the text, it is 'Some existent is non-existent'. This appears to combine existence and non-existence in the same subject.
+2
+Parse the two different senses
+Notice that the subject 'existent' and the predicate 'non-existent' are understood in different respects. The author clarifies that 'existent' means 'existent in a general way' and 'non-existent' means 'non-existent in a particular sense'. Therefore, the statement does not assert a true opposite because the aspects differ.
+The Arabic phrase في الجملة indicates 'in a general sense'.
+3
+Apply the perpetuity qualification
+Understand that if either term is qualified with 'perpetual' (al-dawām), then the opposite predication is impossible. For example, if we say 'Some perpetual existent is non-existent', the contradiction becomes real because 'perpetual' makes the existence absolute and unqualified.
+The term الدوام is key: it locks the aspect and prevents qualification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و قد يظنّ حمل النقيض على النقيض و لا يكون كذلك: كقولنا بعض الموجود معدوم» فإن معناه بعض ما صدق عليه أنه في الجملة فهو معدوم في الجمة». اللهم إلا أن يقيد أحدهما بـ«الدوام».
+And sometimes one imagines carrying the opposite on the opposite and it is not so: like our saying 'Some existent is non-existent'; for its meaning is: that which is truly described as being in a certain sense is non-existent in a certain sense. Unless one of them is qualified by 'perpetual'.
+Source pages p. 619
+
+Commentary
+This passage addresses another fallacy: predicating an opposite of its opposite. The example given is 'Some existent is non-existent'. At first glance, this seems contradictory. But the author explains that it is not a true opposite because the subject 'existent' is taken in one sense (e.g., existent in a general way) while the predicate 'non-existent' is taken in another sense (e.g., non-existent in a particular respect). In other words, the same thing can be existent in some way and non-existent in another way. However, if the opposite is qualified as perpetual or absolute, then it becomes impossible. This clarifies the need for qualification in such predications.
+
+Key Terms
+حمل النقيض على النقيض
+الدوام
+
+Key Terms from Source Passage
+
+Checkpoint
+When is 'Some existent is non-existent' not a contradiction?
+A) When the predicate is taken as absolute non-existence.
+B) When the subject and predicate are understood in different senses (aspects).
+C) When the subject is indefinite.
+D) It is always a contradiction.
+
+Key Takeaway
+A statement that predicated an opposite on its opposite is not necessarily a contradiction; it depends on whether the terms are used in the same respect or different respects.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the fiqhi statement 'Some obligation is also forbidden'. Determine whether it is a true contradiction or can be resolved by distinguishing aspects (e.g., obligation in one school, prohibition in another). Provide your reasoning using the author's rule.
+?
+Consider a kalam statement: 'The attributes of Allah are both identical to His essence and distinct from it.' Explain whether this is a case of carrying the opposite on the opposite, and how the author's principle applies.
+
+Pages p. 619 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 619
+Module 5 · Lesson 272
+Next →
+Propositions
+intermediate
+5 min
+Negating a Thing from Itself: Conditions for Truth
+Author explains cases where negation of self or necessary concomitant is possible.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether the negation of a thing from itself or its necessary concomitant is true based on the external existence of the subject.
+
+Core Idea
+Negating a thing from itself is only impossible if the thing exists; if it doesn't exist externally, the negation is true.
+
+In this passage, the author clarifies a subtle point about negative propositions: sometimes it is perfectly valid to say 'A is not A' or 'A is not its necessary concomitant.' This is not a contradiction, provided the subject does not exist externally. We will walk through the two scenarios he presents and learn to apply this principle correctly in Islamic logic.
+
+Guided Path
+1
+Distinguish the two imagined cases
+The author presents two situations where one might imagine the negation of a thing from itself. Identify what they are: (a) when the negation is not as imagined, e.g., 'Some existent is not existent' (which is not actually a self-negation under the same respect), and (b) when the thing does not exist externally, then the self-negation is true.
+2
+Focus on the second case: the non-existent subject
+The key condition is external existence (al-kharij). If the subject has no external reality, then any affirmative predication about it is false, so the corresponding negative is true.
+3
+Apply to the example of void
+The author uses 'void' (khalā') as an example. Void does not exist externally. Therefore, 'No void in external existence is void' is true, and 'No void in external existence is extended' is also true (since 'extended' is a necessary concomitant of body, but void is not extended because it doesn't exist).
+4
+Generalise the principle
+Whenever a subject is non-existent externally (ma'dum), the negation of itself or any of its necessary concomitants from it is true. This does not contradict the principle of non-contradiction because the subject has no referent.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد يظنّ سلب الشيء عن نفسه أو سلب لازمه عن نفسه و ذلك: إما أن لا يكون كما ظن، أو يكون ولا يكون محالاً: أما الأول فكقولنا بعض الموجود ليس بموجود و قد مر معناه. أما الثاني فكما لا يكون ذلك الشيء في الخارج فيصدق [سلبه عن نفسه أو سلب لازمه عنه بحسب الخارج إذ يصح أن يقال: «لا شيء من من الخلاء في الخارج بخلاء» و «لا شيء من الخلاء في الخارج ببعد» ] لأن ما لا يكون في الخارج لا يصدق عليه شيء في الخارج سواء كان نفسه أو لازمه فيصدق سلبها عنه، كما مر في المنطق.
+And sometimes one imagines the negation of a thing from itself or the negation of its necessary concomitant from itself, and that: either it is not as imagined, or it is and it is not impossible. As for the first, like our saying 'Some existent is not existent' and its meaning has passed. As for the second, as when that thing does not exist externally, then the negation of itself or the negation of its necessary concomitant from it is true according to external existence, for it is valid to say: 'Nothing of void in external existence is void' and 'Nothing of void in external existence is extended' because what does not exist externally, nothing external is true of it, whether itself or its necessary concomitant, so the negation of them from it is true, as previously in logic.
+Source pages p. 619
+
+Commentary
+This passage distinguishes two situations in the misunderstanding of negating a thing from itself or its necessary property. The first situation is when the negation is not actually what is imagined, e.g., 'Some existent is not existent'—this is similar to the earlier discussion of opposites under different respects. The second situation is when the negation is true and not impossible, namely when the subject does not exist externally. The author gives the example of void (khalā’): void does not exist externally, so it is true to say 'No void in external existence is void' and 'No void in external existence is extended'. Since void has no external reality, any affirmative predication about it is false, and negation is true. This illustrates that negative judgments about non-existent things are not necessarily false.
+
+Key Terms
+سلب الشيء عن نفسه
+الخارج
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is it true to say 'Nothing of void in external existence is void'?
+A) Because void is not a thing in itself.
+B) Because void does not exist externally.
+C) Because the predicate 'void' is not correctly predicated.
+D) Because it is a tautology.
+
+Key Takeaway
+The negation of a thing from itself is true if and only if the subject does not exist externally.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'No ma'dum (non-existent) in external existence is a thing.' Using the principle from this lesson, explain whether this statement is true or false, and why.
+?
+Find another example from Islamic philosophy where a self-negation might be imagined but is actually true because the subject does not exist externally. (Hint: think of concepts like 'nothingness' or 'the vacuum' in classical debates.)
+
+Pages p. 619 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 647
+Module 5 · Lesson 273
+Next →
+Propositions
+intermediate
+8 min
+Resolving the Liar Paradox: Two Interpretations
+Author resolves liar paradox by parsing self-reference.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish two interpretations of a self-referential statement and identify why no contradiction follows.
+
+Core Idea
+Self-reference does not always produce contradiction; the key is fixing the referent.
+
+The liar paradox (e.g., 'this statement is false') has puzzled logicians. In this passage, the author dissects a similar statement and shows that careful analysis of what the statement refers to dissolves the apparent contradiction.
+
+Guided Path
+1
+Identify the paradoxical statement
+The statement being analyzed is essentially a self-referential claim like 'كل كلامي غير هذا الكلام' or 'هذا الكلام كاذب'.
+The exact phrasing is less important than the self-referential structure.
+2
+Separate the two interpretations
+First interpretation: the statement refers to all speech except itself. Second interpretation: it includes this statement and possibly others.
+The difference lies in what 'غير هذا الكلام' excludes.
+3
+Trace truth conditions for interpretation 1
+If the statement is true, then every other statement is false; if false, some other statement is true. Truth and falsehood affect different statements, not the same one.
+4
+Trace truth conditions for interpretation 2
+Here we have a compound statement: two reports, each claiming truth/falsehood about the other. Their truth values are interdependent but not contradictory because they are about different subjects.
+The author describes this as 'خبرين كل منهما متعلق الآخر'.
+5
+Verify that no contradiction results
+In both interpretations, truth and falsehood never attach to the same single proposition, so the conjunction of contradictories (اجتماع النقيضين) is avoided.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن أراد بقوله «كل كلامي غير هذا الكلام» فلا يلزم اجتماع النقيضين؛ لأنه حينئذ يلزم من صدق هذا الكلام وكذبه كذب كلام آخر وصدقه، لا صدقه وكذبه حتى يلزم الاجتماع. وإن أراد هذا الكلام وغيره فيكون كأنه تكلّم هذا الكلام ثم قال ثانياً: «إن هذا الكلام كاذب» فقد جمع في هذا الكلام خبرين كلّ منهما متعلّق الآخر. فصدق كل من الخبرين يوجب كذب الآخر وكذب كلّ منهما صدق الآخر. ولا منافاة إذ ليس الصدق والكذب حينئذ واردين على شيء واحد.
+If by his statement 'all my speech is other than this speech' is intended, then the conjunction of two contradictories is not necessary; because then from the truth of this statement and its falsehood follows the falsehood of another statement and its truth, not its truth and falsehood such that conjunction would be necessary. And if he intends this statement and other, then it is as if he spoke this statement then said secondly: 'This statement is false'. Then he has combined in this statement two reports each of which relates to the other. So the truth of each of the two reports necessitates the falsehood of the other, and the falsehood of each necessitates the truth of the other. And there is no contradiction since truth and falsehood then are not applied to one thing.
+Source pages p. 647
+
+Commentary
+This passage critically resolves a logical paradox similar to the liar paradox. The author considers a statement such as 'All my statements are false' and interprets it in two ways. First, if the statement refers to all statements other than itself, then no contradiction arises because the truth/falsehood of this statement implies only the opposite for another statement, not self-contradiction. Second, if it refers to itself and others, it becomes a compound statement with two reports that are mutually dependent: each being true forces the other false, and vice versa. The author points out that since truth and falsehood are not predicated of the same subject, no actual contradiction occurs. This is a typical logical analysis in Islamic logic to handle self-referential paradoxes.
+
+Key Terms
+النقيضين
+كلام
+صدق
+كذب
+منافاة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the analysis of the liar-like statement, why does the author claim no contradiction arises?
+A) Because the statement is meaningless.
+B) Because truth and falsehood do not apply to the same statement.
+C) Because the statement is about another statement.
+D) Because the speaker is lying.
+
+Key Takeaway
+The liar paradox is resolved by clarifying the reference of the statement, showing that truth and falsehood never attach to the same proposition.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'كل حديثي اليوم كذب' (All my hadith today are false). Apply the two interpretations from this lesson and check whether a contradiction arises in each case.
+?
+In a fiqh discussion, a mufti says: 'All my fatwas are wrong.' Explain why this does not necessarily produce a logical contradiction, using the author's method.
+
+Pages p. 647 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 680
+Module 5 · Lesson 274
+Next →
+Propositions
+beginner
+5 min
+The Three Types of Disjunctive Propositions in Islamic Logic
+Definition and classification of disjunctive propositions
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between veritable, incompatible, and exhaustive disjunctive propositions and identify their truth conditions.
+
+Core Idea
+A disjunction can exclude falsehood, coexistence, or both—each type yields different logical rules.
+
+Disjunctive propositions (al-qadiyya al-munfasila) are central to conditional syllogisms in Islamic logic. In this lesson, we examine the author's classification of disjunctives into three types based on what they prevent: coexistence (jam') and/or emptiness (khuluw). Understanding these distinctions is essential for correctly applying disjunctive syllogisms in legal and theological reasoning.
+
+Guided Path
+1
+Identify the three types from the passage
+List the three types named: al-munfasila al-haqiqiyya (veritable), al-māni‘a al-jam‘ (incompatible), and al-māni‘a al-khuluw (exhaustive). Note their Arabic names and literal meanings.
+The terms are precise: 'veritable' means genuine exclusive or; 'incompatible' prevents coexistence only; 'exhaustive' prevents emptiness only.
+2
+Understand what each type prevents
+For each type, note whether it prohibits both parts being true together (jam'), both being false together (khuluw), or both. Veritable prevents both; incompatible prevents only jam'; exhaustive prevents only khuluw.
+Emptiness (khuluw) refers to the case where neither disjunct is true—the disjunction would be false.
+3
+Map the truth conditions using a table
+Create a truth table for two propositions A and B. For veritable: T/F or F/T only. For incompatible: T/F, F/T, F/F allowed; T/T forbidden. For exhaustive: T/F, F/T, T/T allowed; F/F forbidden.
+This visualisation helps distinguish the three types clearly.
+4
+Apply to a fiqh example
+The commentary gives: 'The act is either wajib or haram' as a veritable disjunction. Explain why it is veritable: an act cannot be both wajib and haram, and it cannot be neither; it must be one of the two rulings.
+This example shows how the classification is used in Islamic legal theory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المنفصلة الحقيقية: تمنع الجمع والخلو. المانعة الجمع: تمنع الجمع فقط. المانعة الخلو: تمنع الخلو فقط.
+The veritable disjunctive: prevents both coexistence and emptiness. The incompatible disjunctive: prevents coexistence only. The exhaustive disjunctive: prevents emptiness only.
+Source pages p. 680
+
+Commentary
+This passage classifies disjunctive propositions into three types. The veritable (al-munfasila al-haqiqiyya) excludes both parts being true together and both being false together. The incompatible (al-mani'a al-jam') excludes only coexistence, meaning both cannot be true but both can be false. The exhaustive (al-mani'a al-khuluw) excludes only emptiness, meaning both cannot be false but both can be true. This classification is crucial in conditional syllogisms, as each type yields different inference rules. For example, in fiqh, a veritable disjunction is 'the act is either wajib or haram' — they cannot both be true nor both false.
+
+Key Terms
+المنفصلة الحقيقية
+المانعة الجمع
+المانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+In a veritable disjunction, if one part is true, what is the other part necessarily?
+A) True
+B) False
+C) Either true or false
+D) Unknown
+
+Key Takeaway
+Disjunctive propositions are classified by whether they prevent coexistence (jam') and/or emptiness (khuluw), with veritable being the most restrictive.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a veritable disjunction from fiqh: e.g., 'This transaction is either valid or invalid.' Explain why it is veritable (both cannot be true, nor both false).
+?
+Identify the type of disjunction in the following statement from kalam: 'The world is either eternal or temporally originated.' Is it veritable, incompatible, or exhaustive? Why?
+
+Pages p. 680 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 680
+Module 5 · Lesson 275
+Next →
+Propositions
+intermediate
+8 min
+The Three Types of Disjunctive Conditionals
+Author defines three types of disjunctive conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between veritable, incompatible, and exhaustive disjunctive propositions based on their truth and falsity conditions.
+
+Core Idea
+Disjunctions differ in whether they exclude coexistence in truth, falsity, or both.
+
+In logic, not all 'or' statements are the same. Some allow both options to be false, some allow both to be true, and some allow neither. This lesson breaks down the three types of disjunctive conditionals as defined by the author, using clear examples from everyday reasoning. Mastering these distinctions is essential for evaluating arguments that hinge on alternative choices.
+
+Guided Path
+1
+Identify the two parts (disjuncts)
+A disjunctive conditional has two components, often called the muqaddam (antecedent) and tali (consequent), but in disjunctions they are simply the two alternatives. Find the 'either...or' structure.
+In the example 'either even or odd', the disjuncts are 'even' and 'odd'.
+2
+Check truth relations
+Ask: Can both disjuncts be true simultaneously? If not, the disjunction excludes coexistence in truth (i.e., is incompatible).
+Veritable and incompatible disjunctions both exclude both true; exhaustive does not.
+3
+Check falsity relations
+Ask: Can both disjuncts be false simultaneously? If not, the disjunction excludes coexistence in falsity (i.e., is exhaustive).
+Veritable and exhaustive disjunctions exclude both false; incompatible does not.
+4
+Classify the disjunction
+Based on the two conditions: if both truth and falsity are mutually exclusive, it is veritable; if only truth is exclusive, it is incompatible; if only falsity is exclusive, it is exhaustive.
+Memorize the pattern: veritable = both; incompatible = truth only; exhaustive = falsity only.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+The serable dipunctive proposition pronounces that its two parts exclude each Vother literally deriv or refute each other, both in case of] truth and in case of falsity, Jue if the one true the other must be false and also if the one is false the other must be true, ai "Butumier either even on odd. The moongeable dijunctive literally the hypothetical which excludes coexistence) prianounces tour the two parts are opposed to each other in truth only, eg thus thing is either be a tree, if in a stone it cannot be a tree, but it may be neither of the two, and therefore it it to lose it does nor follow that it is a tree]. The hypothetical literally the hypothetical which leaves no vacuum) pronounces that the parts are upposed to each other in faliny only, as "eather Zayd is
+The separable disjunctive proposition pronounces that its two parts exclude each other, literally differing or refuting each other, both in case of truth and in case of falsity, i.e., if one is true the other must be false and also if one is false the other must be true, as in 'Butumier either even or odd'. The incompatible disjunctive (literally the hypothetical which excludes coexistence) pronounces that the two parts are opposed to each other in truth only, e.g., 'This thing is either a tree or a stone', for if it is a stone it cannot be a tree, but it may be neither of the two, and therefore if it is not a stone it does not follow that it is a tree. The exhaustive hypothetical (literally the hypothetical which leaves no vacuum) pronounces that the parts are opposed to each other in falsity only, as in 'Either Zayd is
+Source pages p. 680
+
+Commentary
+This passage defines three types of disjunctive conditional propositions based on how their two parts (disjuncts) relate in truth and falsity. The first is the separable (veritable) disjunction: it requires that the two parts mutually exclude each other in both truth and falsity—if one is true, the other is false, and if one is false, the other is true. An example given is 'Butumier either even or odd' (likely a natural number example). The second is the incompatible disjunction (the hypothetical that excludes coexistence): here the parts are opposed only in truth, meaning they cannot both be true, but they can both be false. The example is 'This thing is either a tree or a stone': if it is a stone, it is not a tree, but it could be neither (e.g., water), so falsity of one does not imply truth of the other. The third is the exhaustive hypothetical (the hypothetical that leaves no vacuum): parts are opposed only in falsity, meaning they cannot both be false, but they can both be true. The example is cut off: 'Either Zayd is...' presumably a contrast like 'either Zayd is in the house or he is in the garden'. These distinctions are crucial in logic for evaluating arguments involving disjunctions, especially in dialectical and syllogistic contexts.
+
+Key Terms
+قضية شرطية منفصلة (qadiyya shartiyya munfasila)
+مانعة الجمع (mani'at al-jam')
+مانعة الخلو (mani'at al-khuluw)
+مانعة الجمع والخلو (mani'at al-jam' wa al-khuluw)
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of disjunction is used when options cannot both be false but can both be true?
+A) Veritable disjunction
+B) Incompatible disjunction
+C) Exhaustive disjunction
+D) Conjunctive conditional
+
+Key Takeaway
+The three types of disjunction are distinguished by whether they exclude truth, falsity, or both.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the following statement from Islamic inheritance law: 'The deceased either has a surviving son or a surviving daughter.' Determine which type of disjunction this is, and explain what follows if it is known that the deceased has no son.
+?
+Construct a veritable disjunction using a fiqh example (e.g., concerning acts of worship) and an incompatible disjunction using a kalam example (e.g., divine attributes). Verify the truth conditions for each.
+
+Pages p. 680 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 682
+Module 5 · Lesson 276
+Next →
+Propositions
+intermediate
+5 min
+The Real Subject: Extension vs. Intension
+States that the real subject of a categorical proposition is extension, not intension.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between extensional and intensional reference of a subject term in a categorical proposition and determine which is considered the 'real subject' in classical logic.
+
+Core Idea
+The subject of a categorical proposition is about individuals, not concepts.
+
+In a proposition like 'every A is B', what exactly does 'A' refer to? Does it refer to the abstract concept of A, or to all the individual things that are A? This passage from classical logic gives a clear answer: the real subject is the extension—the set of individuals. This distinction is not merely theoretical; it affects how we interpret and verify propositions in Islamic sciences like usul al-fiqh and kalam.
+
+Guided Path
+1
+Identify the proposition and its subject term
+Pick a categorical proposition, e.g., 'every prophet is truthful'. The subject term is 'prophet'. Write it down.
+2
+Distinguish intension from extension
+Intension is the set of qualities that define the concept (e.g., 'chosen by Allah to convey revelation'). Extension is the set of all individual prophets (Adam, Nuh, Ibrahim, Musa, 'Isa, Muhammad, etc.).
+3
+Determine the real subject according to this passage
+The passage asserts that the subject term refers to its extension, not its intension. So in 'every prophet is truthful', the subject refers to all individual prophets, not the concept of prophethood.
+This is the extensionalist position.
+4
+Apply to an Islamic science example
+Find a general ruling in fiqh like 'every intoxicant is haram'. The subject 'intoxicant' refers extensionally to every individual substance that intoxicates, not the abstract category. This affects how new substances are judged.
+If a new substance is intoxicating, it falls under the subject's extension.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+Source pages p. 682
+
+Commentary
+This passage defines the real subject of a categorical proposition. It asserts that the subject term in a proposition like 'all A is B' refers to the extension (the actual individuals that are A) rather than the intension (the concept of A). This distinction is crucial in logical analysis, as it affects the truth conditions of propositions. For example, in the proposition 'every human is rational,' the subject 'human' is taken to refer to all individual humans, not the abstract concept of humanity.
+
+Key Terms
+الموضوع
+الامتداد
+المفهوم
+
+Key Terms from Source Passage
+
+Checkpoint
+In the proposition 'Every prophet is truthful,' what does the subject 'prophet' refer to according to this passage?
+A) The concept of prophethood
+B) All individual prophets
+C) Both the concept and the individuals equally
+D) The predicate 'truthful'
+
+Key Takeaway
+The subject of a categorical proposition is always interpreted extensionally in classical logic—it denotes the individuals, not the concept.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition from the Qur'an: 'Every soul shall taste death' (3:185). Identify whether the subject 'soul' (nafs) is taken extensionally or intensionally according to this passage, and explain what difference that makes for understanding the verse.
+?
+In a fiqh ruling: 'Every intoxicating drink is forbidden.' If a new beverage is discovered that intoxicates, does the subject 'intoxicating drink' include it? Use the extensional/intensional distinction to argue why or why not.
+
+Pages p. 682 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 683
+Module 5 · Lesson 277
+Next →
+Propositions
+beginner
+5 min
+Deviant and Natural Propositions
+Summarizes rules for deviant propositions and natural universals
+
+Learning Objective
+By the end of this lesson, you will be able to differentiate deviant propositions from natural propositions and apply the rule for their truth and falsity.
+
+Core Idea
+Deviant propositions have quantified predicates; natural propositions involve secondary intelligibles.
+
+In the study of logic, propositions are classified by their subject and predicate. Two special types are deviant propositions, where the predicate is quantified, and natural propositions, which deal with concepts as such. Understanding their rules helps avoid confusion in logical analysis.
+
+Guided Path
+1
+Identify a deviant proposition
+Look for a proposition where the predicate includes a quantifier (e.g., 'all', 'some'). For example, 'Man is every body' has a quantified predicate.
+The quantifier applies to the predicate, not the subject.
+2
+Apply the rule for truth and falsity
+A deviant proposition is true only if the predicate quantifier matches the quantity rule: e.g., 'Every man is every body' is false because 'man' is not identical to 'body'.
+This contrasts with ordinary propositions where only the subject is quantified.
+3
+Identify a natural proposition
+A natural proposition has a secondary intelligible as subject or predicate, e.g., 'Horse is a species' or 'Man is a concept.'
+These propositions do not follow the same transitive rules as ordinary ones.
+4
+Distinguish natural from deviant
+Deviant propositions involve quantified predicates; natural propositions involve second-order concepts. A proposition can be both if it has a quantified predicate and a secondary intelligible subject.
+Practice by examining examples from the text.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+Source pages p. 683
+
+Commentary
+This passage, provided in English, summarizes several logical concepts discussed in the original Arabic work. It begins by addressing deviant propositions—those with quantified predicates—and offers a rule for their truth and falsity. The text then moves to natural propositions, which involve secondary intelligibles (e.g., 'horse is a concept'), and discusses the non-transitivity of judgment in such cases. Further sections critique definitions by Avicenna, Khunaji, and Urmawi, and touch on categories, differentia, and definition theory. The commentary is fragmented, likely serving as lecture notes or a modern synopsis of classical logical debates.
+
+Key Terms
+deviant proposition (قضية منحرفة)
+natural proposition (قضية طبيعية)
+secondary intelligible (معقول ثانٍ)
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, a deviant proposition is one that:
+A) Has a quantified predicate
+B) Contains a negative predicate
+C) Is about natural universals
+D) Uses secondary intelligibles
+
+Key Takeaway
+Deviant propositions have quantified predicates; natural propositions involve secondary intelligibles; each has distinct logical rules.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following is a deviant or natural proposition: 'Wine is every intoxicant'.
+?
+Classify these propositions: 'Man is a species' (natural), 'Every servant of Allah is pious' (ordinary). Explain your reasoning.
+
+Pages p. 683 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 687
+Module 5 · Lesson 278
+Next →
+Propositions
+beginner
+5 min
+Understanding Exclusive Disjunction (Man'iat al-Jam')
+Define exclusive disjunction with example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the structure of an exclusive disjunction (man'iat al-jam') and distinguish it from other types of disjunctive propositions.
+
+Core Idea
+Exclusive disjunction prevents conjunction but allows both false.
+
+In Islamic logic, propositions are categorized in various ways. One important type is the disjunctive proposition, which can be exclusive or inclusive. This passage defines the exclusive disjunction, also known as 'man'iat al-jam'. Understanding this distinction is crucial for analyzing arguments in usul al-fiqh and kalam, where ruling options often are mutually exclusive.
+
+Guided Path
+1
+Identify the two components
+The definition states the exclusive disjunction is composed of 'a proposition' (qadiyya) and 'what is more specific than its negation' (akhaṣṣ min naqīḍihā). Recognize that the second part is a more specific term than the negation of the first proposition.
+For example, 'human' is more specific than 'not-human' because human implies not-non-human.
+2
+Understand the prevention of conjunction
+The key condition is that the two parts cannot be true together (yamtani'u ijtimā'uhumā). This is the 'preventing conjunction' aspect.
+If one disjunct is true, the other must be false.
+3
+Note the possibility of both being false
+The author explicitly says 'it is possible for both to be false' (yajūzu irtifā'uhā). This distinguishes it from other disjunctions where at least one must be true.
+In modern terms, this is a non-exhaustive exclusive OR.
+4
+Recognize multiple disjuncts
+The definition allows for more than two disjuncts (ajzā' kathīrah). When there are multiple, the condition applies to every pair: they cannot be true together.
+This extends the exclusive relation to a set of mutually exclusive options.
+5
+Apply the definition to the example
+The example 'The thing is either a human, a horse, or an eagle' illustrates the definition. These three are mutually exclusive: one cannot be both human and horse, etc. And a thing can be none of them (e.g., a stone), so both can be false.
+Check that each pair meets the condition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و المانعة الجمع تتركب من قضية و أخص من نقيضها ليمتنع اجتماعهما. و يجوز ارتفاعها و يجوز تركبيها من أجزاء كثيرة. و إن شرطنا منع الجمع بين كل جزئين لامتناع الجمع بين كل معنيين ضرورة، كون كل معين أخص من نقيض الآخر كقولنا: الشيء إما أن يكون إنسانا أو فرسا أو عقابا.
+And the preventing conjunction (man'iat al-jam') is composed of a proposition and what is more specific than its negation so that their conjunction is prevented. And it is possible for both to be false, and it is possible to compose it from many parts. And if we stipulate the prevention of conjunction between every two parts, due to the necessary prevention of conjunction between every two meanings, since each specific meaning is more specific than the negation of the other, such as our saying: 'The thing is either a human, or a horse, or an eagle.'
+Source pages p. 687
+
+Commentary
+This passage defines the exclusive disjunction (man'iat al-jam'), one of the types of disjunctive propositions. The author explains that it is composed of a proposition and something that is more specific (أخص) than its negation (نقيضها). The condition is that the two parts cannot be true together (يمتنع اجتماعهما). It is possible for both to be false (يجوز ارتفاعها). The exclusive disjunction can also have more than two disjuncts (تركيبها من أجزاء كثيرة). If we require that every pair of disjuncts cannot be true together, then it results in a set where each disjunct is more specific than the negation of any other. An example is given: 'The thing is either a human, or a horse, or an eagle.' These three are mutually exclusive: being a human prevents being a horse or an eagle, etc., and it is possible for a thing to be none of them (e.g., a stone). This corresponds to the logical structure of exclusive 'or' in the Islamic logical tradition.
+
+Key Terms
+المانعة الجمع
+قضية
+أخص من نقيضها
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of exclusive disjunction (مانعة الجمع) according to the definition in the passage?
+A) Either Zayd is in the house or 'Amr is in the market.
+B) The number is either even or odd.
+C) The thing is either a human or a horse or an eagle.
+D) Either the prayer is valid or it is invalid.
+
+Key Takeaway
+Exclusive disjunction (man'iat al-jam') prevents the conjunction of disjuncts but does not require one to be true; both can be false.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following proposition: 'The prayer is either valid or invalid.' Is it an exclusive disjunction (man'iat al-jam')? Why or why not? (Hint: Can both be false?)
+?
+Construct an exclusive disjunction using three options from Islamic law (e.g., categories of water: pure, impure, or doubtful) and verify that each pair cannot be true together and that all can be false.
+
+Pages p. 687 · Propositions
+← Prev
+Mark Done
+Next →

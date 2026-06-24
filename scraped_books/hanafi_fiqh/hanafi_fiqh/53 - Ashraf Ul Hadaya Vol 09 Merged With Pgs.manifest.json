@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:53:50Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Ashraf%20ul%20Hadaya%20Vol%2009_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/53 - Ashraf Ul Hadaya Vol 09 Merged With Pgs",
+  "output_bytes": 8785167,
+  "output_sha256": "c0da8cf3f46a37e4a69e4a526ffd933b80fde7a80d5bc6aabc0f0ca05b63b463",
+  "checks": {
+    "catalog_expected_lessons": 728,
+    "course_reported_lessons": 728,
+    "index_lessons": 728,
+    "full_lessons": 728,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 19,
+    "course_reported_modules": 19,
+    "modules": 19,
+    "course_reported_sources": 708,
+    "sources": 708
+  }
+}

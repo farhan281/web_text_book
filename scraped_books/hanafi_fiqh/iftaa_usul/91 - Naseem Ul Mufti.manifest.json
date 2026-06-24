@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:17Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/NASEEM_UL_MUFTI/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/91 - Naseem Ul Mufti",
+  "output_bytes": 1995411,
+  "output_sha256": "23e90ea219603d80b25088081c7e0773a4eacb59fde707bdc92fdcc3077439fa",
+  "checks": {
+    "catalog_expected_lessons": 274,
+    "course_reported_lessons": 274,
+    "index_lessons": 274,
+    "full_lessons": 274,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 11,
+    "course_reported_modules": 11,
+    "modules": 11,
+    "course_reported_sources": 272,
+    "sources": 272
+  }
+}

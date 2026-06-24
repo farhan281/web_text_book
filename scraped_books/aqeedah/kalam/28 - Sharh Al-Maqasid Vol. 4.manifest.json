@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:15Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Maqasid%20Vol.%204/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/28 - Sharh Al-Maqasid Vol. 4",
+  "output_bytes": 9494842,
+  "output_sha256": "9b42023b44a8d61ca6911f701248aa9be3b6b867e428f97d4bd8a38db84eefad",
+  "checks": {
+    "catalog_expected_lessons": 1251,
+    "course_reported_lessons": 1251,
+    "index_lessons": 1251,
+    "full_lessons": 1251,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 959,
+    "sources": 959
+  }
+}

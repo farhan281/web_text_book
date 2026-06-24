@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:17Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/jadal_usuliyyin/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/16 - Jadal Usuliyyin",
+  "output_bytes": 10125669,
+  "output_sha256": "0cda9aeb9c1c0dcf10ab8a4c789a9fbf6cfd8655eba27f96749c10b1c217661e",
+  "checks": {
+    "catalog_expected_lessons": 1170,
+    "course_reported_lessons": 1170,
+    "index_lessons": 1170,
+    "full_lessons": 1170,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 980,
+    "sources": 980
+  }
+}

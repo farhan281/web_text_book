@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:38Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Dars%20E%20Talweeh%20Urdu%20Sharh%20Al%20Taozeeh%20Wat%20Talweeh_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/74 - Dars E Talweeh Urdu Sharh Al Taozeeh Wat Talweeh Merged With Pgs",
+  "output_bytes": 2593932,
+  "output_sha256": "d10a9c579854d2356b3153cbfd2c616a94da8576286f52e8796e0269a21f854a",
+  "checks": {
+    "catalog_expected_lessons": 232,
+    "course_reported_lessons": 232,
+    "index_lessons": 232,
+    "full_lessons": 232,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 16,
+    "course_reported_modules": 16,
+    "modules": 16,
+    "course_reported_sources": 225,
+    "sources": 225
+  }
+}

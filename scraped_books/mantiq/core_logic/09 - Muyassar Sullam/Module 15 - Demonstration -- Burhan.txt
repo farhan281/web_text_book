@@ -1,0 +1,388 @@
+← Prev
+p. 76
+Module 15 · Lesson 1
+Next →
+Demonstration -- Burhan
+intermediate
+5 min
+Why Premises Must End in Certainty
+Author proves that premises must be necessary or trace back to necessary premises.
+
+Learning Objective
+By the end of this lesson, you will be able to identify why premises in a demonstration must either be necessary or trace back to necessary premises, and illustrate this with a kalam argument for the world's origination.
+
+Core Idea
+Every valid demonstration rests on a foundation of self-evident truths.
+
+This passage tackles a foundational epistemological requirement for any demonstration (burhan). The author argues that if the premises of an argument are not self-evidently certain, they cannot simply be assumed; they must themselves be proven by premises that eventually lead back to necessary truths. Otherwise, the argument collapses into circular reasoning (dawr) or an infinite regress (tasalsul). Understanding this is crucial for evaluating the strength of theological proofs.
+
+Guided Path
+1
+Identify the two fallacies
+Recognize the two logical problems that arise when premises are not ultimately necessary: circularity (dawr) where a premise depends on the conclusion, and infinite regress (tasalsul) where the chain of proofs never ends.
+These are the two invalid forms the author warns against.
+2
+Understand the requirement
+Note the author's claim: every chain of reasoning in a demonstration must terminate in necessary premises. If it ends with a premise that is neither necessary nor conceded, the proof is insufficient.
+This is a foundational principle for any valid burhan.
+3
+Analyze the examples
+Look at the simple mathematical example (necessary premises) and the complex kalam example (theoretical premises that reduce to necessary). See how the mathematical premises are immediately certain, while the kalam premises require further justification that eventually reaches necessary truths.
+The kalam example shows how a theoretical proof can be valid if its premises are ultimately supported by necessary ones.
+4
+Trace the kalam argument's regress
+Follow the chain of syllogisms in the world's origination proof: from 'attributes are changing' to 'change implies originatedness', etc. Verify that each step ends with a necessary premise like 'the contingent only occurs as originated'.
+This exercise demonstrates how a complex theological argument can meet the foundational requirement.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+رابعاً: إذا لم تكن المقدمات ضرورية فيجب انتهاؤها إلى مقدمة راجعة إلى الضرورة، لئلا يلزم الدور وهو توقف الآخر على ما يتوقف عليه، أو التسلسل وهو ترتب أمر على أمر إلى ما لا نهاية له. فيلزم الدور فيما إذا استدل على المتأخر بما يتوقف عليه ذلك المتأخر، ويلزم التسلسل فيما إذا توقف الأول على أدلة مترتبة لا غاية لها، فإن انتهى الأمر إلى دليل غير ضروري المقدمات ولا مسلَّمة لم يَكْفِ. مثالُ ما مقدماته ضرورية: [هذا العدد ينقسم إلى متساويين]، وكل منقسم كذلك زوج. ومثال ما مقدماته نظرية: قولك [العالم صفاته حادثة] [وكل من صفاته حادثة فهو حادث]. فنستدل على الصغرى بقولنا: [صفاته متغيرة]، وكل متغير حادث. والأولى من هاتين المقدمتين ضرورية، ونستدل على الثانية منهما بأن نقول: [التغير إن كان من عدم إلى وجود كان الوجود طارئاً، وإن كان من وجود إلى عدم كان الوجود جائزاً]، و[الجائز لا يقع إلا حادثاً]. ونستدل على الكبرى من القياس الأول بقولنا: كل من كان صفاته حادثة لا يعرى عن الحوادث]، وكل من لا يعرى عن الحوادث لا يسبقها]، وكل من لا يسبق الحوادث فهو حادث]. فقد انتهينا إلى الضرورة، ولا عبرة باعتراض بعض الفلاسفة على بعض تلك المقدمات فإن ذلك مكابرة.
+Fourth: If the premises are not necessary, then they must end at a premise that goes back to necessity, so that circularity does not occur—which is the dependence of one thing on that which it depends on—nor infinite regress—which is the arrangement of one thing upon another without end. Thus circularity occurs when the later is inferred by means of that on which that later depends, and infinite regress occurs when the first depends on an endless chain of proofs. If the matter ends at a proof whose premises are neither necessary nor conceded, it does not suffice. An example of premises that are necessary: [This number is divisible into two equals], and everything divisible like that is even. And an example of premises that are theoretical: your saying [The world's attributes are originated] and [Everything whose attributes are originated is itself originated]. So we infer the minor premise by our saying: [Its attributes are changing], and everything changing is originated. The first of these two premises is necessary. And we infer the second of them by our saying: [Change—if it is from non-existence to existence, then existence is accidental; and if it is from existence to non-existence, then existence is contingent], and [The contingent only occurs as originated]. And we infer the major premise of the first syllogism by our saying: [Everyone whose attributes are originated is not devoid of originated things], and [Everyone who is not devoid of originated things does not precede them], and [Everyone who does not precede originated things is originated]. So we have arrived at necessity, and there is no heed to the objection of some philosophers against some of those premises, for that is sheer obstinacy.
+Source pages p. 76
+
+Commentary
+This passage is an epistemological argument about the foundational requirements for valid demonstration (burhan). The author states that if the premises of an argument are not themselves necessary (self-evident or intuitively certain), then they must ultimately trace back to necessary premises. The reason is to avoid two logical fallacies: circularity (dawr) and infinite regress (tasalsul). Circularity occurs when you prove the later (the conclusion) by something that depends on that later. Infinite regress occurs when you rely on an endless chain of proofs. If the chain ends with a premise that is neither necessary nor conceded, the proof is insufficient. The author then provides examples. For necessary premises: 'This number is divisible into two equals, and everything divisible like that is even'—this is a simple mathematical example, which is a necessary truth. For theoretical premises, he uses a kalam argument about the world's attributes being originated, leading to the conclusion that the world is originated. He breaks down the proof into several syllogisms, showing that eventually each chain ends in a necessary premise. He dismisses objections from philosophers as stubbornness. The passage underscores the importance of foundational certainty in Islamic logic, especially in kalam arguments for the world's temporality.
+
+Key Terms
+المقدمات الضرورية
+الدور
+التسلسل
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the consequence if a demonstration's premises do not end in necessity?
+A) Circular reasoning only
+B) Infinite regress only
+C) Both circularity and infinite regress
+D) No consequence if the premises are plausible
+
+Key Takeaway
+A valid demonstration requires that every chain of reasoning terminate in self-evident necessary premises, avoiding circularity and infinite regress.
+
+How This Lesson Applies — to MY Life?
+?
+Trace the premises in the provided kalam example to identify which are necessary and which are theoretical. List each premise and indicate whether it is necessary or requires further proof.
+?
+Construct a similar chain of reasoning for the claim 'The Qur'an is the word of God' that ends in necessary premises. Use at least three syllogisms and show the regress.
+
+Pages p. 76 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 82
+Module 15 · Lesson 2
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+The First Two Sources of Certain Premises
+Author lists and begins to explain the six types of certain premises.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish awwaliyat from mushahadat and identify which type of certainty each provides.
+
+Core Idea
+Certain premises for demonstration come from self-evident truths and inner observation.
+
+Demonstration (burhan) requires premises that are absolutely certain. The author lists six sources, beginning with the two most basic: awwaliyat (self-evident truths) and mushahadat (inner observations). Understanding these sources is essential for constructing sound theological and legal proofs. In this lesson, you will learn to identify each type and see how they function in Islamic arguments.
+
+Guided Path
+1
+Define awwaliyat
+Find the description in the passage: awwaliyat are propositions the intellect judges immediately upon understanding the terms, without sensory aid. Note the examples: 'one is half of two' and 'the whole is greater than the part'.
+These are necessary truths, not empirical.
+2
+Define mushahadat
+Find the description: mushahadat require inner sense observation (hiss batini). They are called wijdaniyyat. Examples: knowing you are hungry, angry, in pleasure or pain.
+These are certain but depend on internal perception.
+3
+Distinguish by dependency
+Compare the two: awwaliyat need only conceptualization of the terms; mushahadat need inner observation. Awwaliyat are universal and necessary; mushahadat are personal but certain.
+4
+Apply to Islamic context
+Think of an Islamic example for each. Awwaliyat: 'Allah is one' is not awwali because it requires revelation? Actually, the oneness of Allah is known through reasoning and revelation, not self-evident. Better: 'The whole is greater than the part' is awwali. For mushahadat: 'I feel sincere devotion (khushu') in prayer' is known through inner sense.
+Not all Islamic truths are awwali; many are theoretical.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقدمات اليقينية لما كان القياس البرهاني أجل هذه الحجج، وهو ما ألف من مقدمات يقينية، يلزم بيان ما هي مصادر المقدمات اليقينية، لكي يُعْتَمَدَ عليها في تأليف القضايا. المصدر الأول: الأوليات أي الضروريات التي لا يتوقف حكم العقل فيها على استعانة بحسي أو غيره، بل بمجرد تصور الطرفين يحكم العقل فيها ، كقولنا الواحد نصف الاثنين و [الكل أعظم من الجزء]. المصدر الثاني: المشاهدات، وهي ما لا يحكم العقل فيها بمجرد تصور الطرفين بل يحتاج إلى المشاهدة بالحس الباطني وتسمى وجدانيات كالعلم بأنك جائع أو غضبان أو متلذذ أو متألم.
+The certain premises: Since the demonstrative syllogism is the most eminent of these proofs, and it is composed of certain premises, it is necessary to explain what are the sources of certain premises, so that one may rely on them in composing propositions. The first source: primary indisputables (awwaliyat), i.e. necessary propositions in which the intellect's judgment does not depend on aid from sense or anything else, but merely by conceptualizing the two extremes the intellect judges, like our saying: the one is half of two, and the whole is greater than the part. The second source: observations (mushahadat), which are things about which the intellect does not judge merely by conceptualizing the two extremes but needs observation by inner sense, called findings (wijdaniyyat), like knowing that you are hungry, angry, experiencing pleasure, or pain.
+Source pages p. 82
+
+Commentary
+This passage specifies the sources of certain premises that form the foundation of demonstrative proof (burhan). The author emphasizes that the demonstrative syllogism is the highest kind of proof because it uses premises that are absolutely certain. He then begins to list the sources. The first is primary indisputables (awwaliyat), which are self-evident truths that the intellect affirms immediately upon understanding the terms, such as 'one is half of two' or 'the whole is greater than the part.' These do not require sensory experience or other aids. The second is observations (mushahadat), which are internal perceptions like hunger, anger, or pleasure—known through inner sense (hiss batini). These are also certain but require inner observation. The passage then cuts off; the poem earlier mentioned four more: experienced (mujarrabat), widely transmitted (mutawatirat), intuitive (hadsyvat), and sensible (mahsubsat). In an Islamic context, examples of primary truths include logical and mathematical truths. Observations include knowing one's own states. The author's classification follows the standard list of certain premises in Islamic logic.
+
+Key Terms
+أوليات
+مشاهدات
+وجدانيات
+
+Key Terms from Source Passage
+
+Checkpoint
+Which source of certain premises is described as requiring inner sense observation, such as knowing you are hungry?
+A) Awwaliyat
+B) Mushahadat
+C) Mujarrabat
+D) Mutawatirat
+
+Key Takeaway
+The first two sources of certain premises are awwaliyat (self-evident) and mushahadat (inner observation), each providing certainty through different means.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether each of the following is awwali or mushahadat: (1) 'A thing cannot both exist and not exist at the same time.' (2) 'I feel thirsty while fasting.' (3) 'The number 2 is even.'
+?
+Construct an argument for the existence of the Creator using an awwali premise and a mushahadat premise. Explain which is which.
+
+Pages p. 82 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 83
+Module 15 · Lesson 3
+Next →
+Demonstration -- Burhan
+beginner
+10 min
+The Four Remaining Sources of Certain Premises
+Defines the last four of the six certain sources
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish among المجربات, المتواترات, الحدسيات, and المحسوسات and provide an Islamic example for each.
+
+Core Idea
+Certainty in Islamic logic comes from six sources; the last four depend on experience, transmission, intuition, or direct sense.
+
+We have covered the first two sources (أوليات and وجدانيات). Now the author completes the list with four more: تجربيات (based on repeated observation), متواترات (based on mass transmission), حدسيات (based on intuition from signs), and محسوسات (based on external senses). Each has a distinct epistemic basis, and knowing them prevents errors in reasoning.
+
+Guided Path
+1
+Identify the term being defined
+For each source, locate its name in the Arabic text. The author gives a precise definition and an example.
+المجربات, المتواترات, الحدسيات, المحسوسات are the terms.
+2
+Extract the defining property
+Determine what epistemic operation yields certainty for each: repeated observation (تجربة) for مجربات; hearing from an incorruptible multitude for متواترات; intuition (حدس) based on a sign for حدسيات; direct sense perception for محسوسات.
+The definitions use phrases like 'يحتاج العقل في الجزم بحكمه إلى تكرار المشاهدة'.
+3
+Examine the example
+The author gives an Islamic example for each: scammony for تجربيات, Prophet's prophethood for متواترات, moonlight for حدسيات, sun rising for محسوسات. See how the example illustrates the definition.
+The examples are taken from natural science, history, astronomy, and everyday experience.
+4
+Contrast the sources
+Compare the sources: How does تجربيات differ from محسوسات? (requires repetition vs. single observation). How does متواترات differ from others? (relies on social transmission). Note that حدسيات involves inference.
+The footnote mentions that some scholars distinguish محسوسات from مشاهدات (observational).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المصدر الثالث المجربات، وهي ما يحتاج العقل في الجزم بحكمه إلى تكرار المشاهدة مرة بعد أخرى، كقولنا السقمونيا مسهلة للصفراء. المصدر الرابع: المتواترات، وهي ما يحكم العقل فيها بواسطة السماع من جمع يؤمن تواطؤهم على الكذب، كقولنا سيدنا محمد صلى الله عليه وسلم ادعى النبوة، وظهرت المعجزة على يديه. المصدر الخامس الحدسيات، وهي ما يحكم العقل فيه بواسطة حدس أي ظنّ مستند إلى أمارة كقولنا: نور القمر مستفاد من الشمس لاختلاف تشكلاته النورية بحسب قربه من الشمس وبعده عنها. المصدر السادس: المحسوسات، وهي ما يحكم به العقل بواسطة الحس الظاهر من غير توقف على شيء آخر كقولنا الشمس مشرقة والنار محرقة. فهذه هي المصادر التي يمكن أن نأخذ منها المقدمات القطعية، فعلى الواحد أن يعرف مصادر القضايا التي يعتمد عليها في فكره ليسلم من الوقوع في الغلط. (1) من الناس من أدخل المحسوسات فى المشاهدات. قال بعض الفضلاء فصل المحسوسات بالحس الظاهر عر المشاهدات هو اصطلاح ابن الحاجب ورحمهما الله تعالى. والحواس خمس ظاهرة معروفة هي اللمس والشم والذوق والسمع والبصر. خمس باطنة: هي الحس المشترك وهو قوة تدرک صور المحسوسات. والمصورة أو المتصرفة وهى قوة تركب الصور والمعانى على وفق الإرادة والمتخيّله وتسمى الخيال، وهي قوة تحفظ المحسوسات بعد غيبتها من الحس المشترك والحواس الظاهرة والوهمية ويعبر عنها بالواهمـة وهـى قـوة تدرك المعاني الجزئية كصداقة زيد وعداوة عمرو. والحافظة وقى تحفظ ما يدركه الوهم. وتثبتهـا الفلاسفة على نحو هذا التفصيل. وعندنا أن فى ثبوتها نظر. وقد لا تتم دلائلها على الأصول الإسلامية. والكلام في ذلك يطول. صور (2) وجه حصر اليقينيات في الستة أن المعنى إما أن يستقل العقل بـه فهو الأوليات، أو لا يحتاج إليـه فهـو الوجدانيات والمحسوسات، أو يحتاج له ولغيره فهو التجربيات والمتواترات والحدسيات. والعلم الحاصــل مــن الثلاثة المتأخرة لا يقوم حجّة على الغير بسبب أنه قد لا تكون له تجربه ولا تواتر، ولا حدس، لعدم مشاركته في ذلك المستدل. دمنهوری.
+The third source: the experiential premises, which are those for whose judgment the mind needs repeated observation, like our saying: 'Scammony is a laxative for bile.' The fourth source: the recurrently reported premises, which are those about which the mind judges via hearing from a group whose collusion upon falsehood is inconceivable, like our saying: 'Our master Muhammad, peace be upon him, claimed prophethood, and the miracle appeared at his hands.' The fifth source: the intuitive premises, which are those about which the mind judges by intuition, i.e., a conjecture based on a sign, like our saying: 'The light of the moon is derived from the sun, because of the variation of its luminous phases according to its proximity to and distance from the sun.' The sixth source: the sensory premises, which are those about which the mind judges by the external sense without depending on anything else, like our saying: 'The sun is rising and fire is burning.' So these are the sources from which we can take certain premises. So one must know the sources of the propositions upon which he relies in his thinking to be safe from falling into error. (1) Some people included the sensory premises in the observational premises. Some virtuous people said: Distinguishing the sensory premises by the external sense, contrary to observational premises, is the terminology of Ibn al-Hajib, may Allah have mercy on them both. The external senses are five, well-known: touch, smell, taste, hearing, sight. The internal senses are five: the common sense, which is a faculty that perceives the forms of sensed things; the imaginative or manipulative faculty, which is a faculty that composes forms and meanings according to will, and it is called imagination; the retentive imagination, which is a faculty that preserves sensed things after their absence from the common sense and the external senses; and the estimative faculty, which is a faculty that perceives particular meanings like the friendship of Zayd and the enmity of 'Amr; and the memory, which preserves what the estimation perceives. The philosophers affirm them in this detail, but in our view their existence is questionable, and their proofs may not be consistent with Islamic principles. The discussion on that is lengthy. (2) The reason for confining the certainties to six is that the meaning is either that the mind is independent with it, so it is the primary premises; or it does not need it, so it is the introspective and sensory premises; or it needs it and something else, so it is the experiential, recurrently reported, and intuitive premises. The knowledge obtained from the latter three does not serve as proof for others because he may not have experience, recurrence, or intuition, due to his not sharing that with the reasoner. (Damanhuri)
+Source pages p. 83
+
+Commentary
+This passage completes the enumeration of the six sources of certain premises (اليقينيات) by defining the last four: المجربات (experiential), المتواترات (recurrent reports), الحدسيات (intuitive), and المحسوسات (sensory). Each is defined by its epistemic basis and illustrated with an example. For تجربيات, the mind relies on repeated observation, e.g., the laxative effect of scammony. For متواترات, it relies on widespread uninterrupted transmission from a group that cannot conspire on a lie, e.g., the prophethood and miracles of the Prophet ﷺ. For حدسيات, it relies on a strong conjecture (حدس) based on a sign, e.g., the moonlight originating from the sun due to its phases. For محسوسات, it relies directly on external senses without further mediation, e.g., the sun shining and fire burning. The author then emphasizes that one must know these sources to avoid error. A footnote (1) clarifies that some scholars distinguish المحسوسات from المشاهدات (observational), attributing this distinction to Ibn al-Hajib. It then lists the five external and five internal senses according to philosophers, but the commentator expresses caution about the existence of internal senses from an Islamic perspective. Another footnote (2) summarizes why certainties are confined to six: either the mind is independent (أوليات), or it needs nothing beyond itself (وجدانيات ومحسوسات), or it needs something else (تجربيات, متواترات, حدسيات). It also notes that knowledge from the latter three cannot prove something to others who lack the same experience.
+
+Key Terms
+المجربات
+المتواترات
+الحدسيات
+المحسوسات
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a premise from المجربات (experiential premises)?
+A) The sun is rising (sensory)
+B) Scammony is a laxative for bile (experiential)
+C) Muhammad claimed prophethood (recurrent report)
+D) The moon's light is from the sun (intuitive)
+
+Key Takeaway
+The four sources—تجربيات, متواترات, حدسيات, محسوسات—each have a unique epistemic basis that determines how we can use them in building certain premises.
+
+How This Lesson Applies — to MY Life?
+?
+For each of the four sources (المجربات, المتواترات, الحدسيات, المحسوسات), provide a new Islamic example not given in the text, and explain which source it belongs to and why.
+?
+Classify the following statement according to its source of certainty: 'The world is temporally originated.' Justify your answer using the definitions from the passage.
+
+Pages p. 83 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 85
+Module 15 · Lesson 4
+Next →
+Demonstration -- Burhan
+intermediate
+10 min
+Linguistic Material Fallacies: Homonymy and False Synonymy
+Author explains linguistic material fallacies with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the two linguistic causes of material error in demonstration: homonymy (ishtirāk) and misuse of distinct terms as synonyms (tabāyun).
+
+Core Idea
+A repeated term must have the same meaning; otherwise, the middle term is lost.
+
+In demonstration, the form may be perfect, but if the matter is flawed, the conclusion fails. One source of material error lies in language: either a single word used in two senses (homonymy) or two different words wrongly treated as synonyms. The author illustrates both with concrete examples from Islamic law and everyday language, showing how these linguistic errors break the required repetition of the middle term.
+
+Guided Path
+1
+Identify the middle term
+Find the term that appears in both premises and should connect them.
+In a valid syllogism, the middle term is the same in meaning in both occurrences.
+2
+Check for multiple meanings
+If the middle term is a single word, verify that it is used in exactly the same sense in both premises. If not, it is homonymy (ishtirāk).
+Example: 'qur' in fiqh can mean menstruation or purity.
+3
+Check for false synonymy
+If different words are used in the two premises but treated as if they mean the same, verify whether they are truly synonymous. If not, it is the fallacy of false synonymy (tabāyun).
+Example: 'sārim' (sharp sword) and 'sayf' (sword generally) are not synonyms.
+4
+Confirm that the middle term is repeated truly
+In both cases, the middle term fails to be repeated in meaning. Conclude that the argument is invalid due to material error in wording.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَخَطَأَ الْبُرْهَان حَيْثُ وُجِدَا فِي مَادَّةٍ أَوْ صُورَةٍ فَالْمُبْتَدَا
+فِي اللَّفْظِ كَاشْتِرَاكِ أَوْ كَجَعْلِ ذَا تَبَايُنِ مِثْلَ الرَّدِيفِ مَأْخَذَا
+وَفِي المَعَانِي كَالْتِبَاسِ الكَاذِبَةُ بِذَاتِ صِدْقٍ فَافْهَمِ الْمُخَاطَبَةُ
+كَمِثْلِ جَعْـلِ العَرَضِي كَالذَّاتِي أَوْ لازم إحْدَى المَقَدِّمَاتِ
+وَالْحُكْمُ لِلْجِنْسِ بحكم النَّوْعِ وَجَعَلِ كَالقَطْعِي غَيْرِ القَطْعِن
+أَقُول: الْخَطَأُ فِي الْبُرْهَانِ إِمَّا أَنْ يَكُونَ فِي مَادَّةِ الْقَضَايَا، أَوْ يَكُونَ فِي الصُّورَةِ وَالْهَيْئَةِ الَّتِي يَتَرَتَّبُ عَلَيْهَا الْقِيَاسُ.
+الْغَلَطُ فِي الْمَادَّةِ:
+أَسْبَابُ الْغَلَطِ فِي الْمَادَّةِ، إِمَّا فِي الْأَلْفَاظِ أَوْ فِي الْمَعَانِي،
+أَمَّا أَسْبَابُ الْغَلَطِ فِي الْأَلْفَاظِ فَهِيَ: أَوَّلاً: اشْتِرَاكُ اللَّفْظِ الْمُسْتَعْمَلِ، مِثْلُ قَوْلِكَ هَذَا قَرْءٌ، وَتُرِيدُ الْحَيْضَ، وَكُلُّ قَرْءٍ يَجُوزُ فِيهِ الْوَطْءُ، وَتُرِيدُ بِهِ الطُّهْرَ، فَلَمْ يَتَكَرَّرِ الْحَدُّ الْوَسَطُ، فَكَذَبَتِ النَّتِيجَةُ.
+ثَانِياً: جَعْلُ الْأَلْفَاظِ الْمُتَبَايِنَةِ مِثْلَ الْمُتَرَادِفَةِ، كَقَوْلِكَ [هَذَا صَارِمٌ] مُشِيراً إِلَى سَيْفٍ غَيْرِ قَاطِعٍ، وَكُلُّ صَارِمٍ سَيْفٌ، فَحَقِيقَةُ السَّيْفِ تُبَايِنُ حَقِيقَةَ الصَّارِمِ، لِأَنَّ السَّيْفَ مَا كَانَ عَلَى الْهَيْئَةِ الْمَخْصُوصَةِ قَاطِعاً كَانَ أَوْ غَيْرَ قَاطِعٍ، وَالصَّارِمُ هُوَ السَّيْفُ بِقَيْدِ الْقَطْعِ، فَكَانَتِ النَّتِيجَةُ كَاذِبَةً لِأَنَّ الصَّارِمَ فِي الصُّغْرَى أُرِيدَ بِهِ غَيْرَ الْقَاطِعِ، فَلَمْ يَصِحَّ حَمْلُ السَّيْفِ عَلَيْهِ فِي الْكُبْرَى، بَلْ هُوَ مَحْمُولٌ عَلَى الصَّارِمِ الَّذِي هُوَ الْقَاطِعُ مِنْ جِنْسِ السَّيْفِ فَلَمْ يَتَكَرَّرِ الْحَدُّ الْوَسَطُ.
+وَأَمَّا أَسْبَابُ الْغَلَطِ فِي الْمَعَانِي فَهِيَ:
+أَوَّلاً: الْتِبَاسُ الْقَضِيَّةِ الْكَاذِبَةِ بِقَضِيَّةٍ صَادِقَةٍ، كَأَنْ تَجْعَلَ الْعَرَضِيَّ ذَاتِياً، مِثَالُهُ كَقَوْلِنَا [الْجَالِسُ فِي السَّفِينَةِ مُتَحَرِّكٌ، وَكُلُّ مُتَحَرِّكٍ لَا يَثْبُتُ فِي مَكَانٍ وَاحِدٍ]، فَإِحْدَى الْمُقَدِّمَتَيْنِ كَاذِبَةٌ إِنْ أُرِيدَ بِالْمُتَحَرِّكِ فِيهَا مَعْنَىً وَاحِدٌ، وَإِنْ أُرِيدَ بِالْمُتَحَرِّكِ فِي الْأُولَى الْمُتَحَرِّكَ بِالْعَرَضِ وَفِي الثَّانِيَةِ الْمُتَحَرِّكَ بِالذَّاتِ كَانَتَا صَادِقَتَيْنِ، لَكِنْ لَمْ تُكَرَّرْ، فَلَمْ تَصْدُقِ النَّتِيجَةُ.
+ثَانِياً: جَعْلُ النَّتِيجَةِ إِحْدَى الْمُقَدِّمَتَيْنِ، كَقَوْلِنَا هَذِهِ نَقْلَةٌ، وَكُلُّ نَقْلَةٍ حَرَكَةٌ، فَهَذِهِ حَرَكَةٌ، فَالنَّتِيجَةُ عَيْنُ الصُّغْرَى لِأَنَّ الْحَرَكَةَ مُرَادِفَةٌ لِلنَّقْلَةِ.
+ثَالِثاً: الْحُكْمُ لِلْجِنْسِ بِحُكْمِ النَّوْعِ، كَقَوْلِنَا كُلُّ فَرَسٍ حَيَوَانٌ، وَكُلُّ حَيَوَانٍ نَاطِقٌ، فَكُلُّ فَرَسٍ نَاطِقٌ، وَهُوَ كَذِبٌ، وَيُسَمَّى مِثْلُهُ إِيْهَامَ الْعَكْسِ، لِأَنَّهُ لَمَّا رَأَى أَنَّ كُلَّ نَاطِقٍ حَيَوَانٌ تَوَهَّمَ أَنَّ كُلَّ حَيَوَانٍ نَاطِقٌ، وَلَيْسَ كَذَلِكَ، فَجَاءَ الْخَطَأُ.
+رَابِعاً: جَعْلُ الْمُقَدِّمَةِ غَيْرِ الْقَطْعِيَّةِ قَطْعِيَّةً، مِثَالُهُ قَوْلُكَ هَذَا مَيِّتٌ وَكُلُّ مَيِّتٍ جَمَادٌ، فَالْكُبْرَى وَهْمِيَّةٌ لِأَنَّ الْوَهْمَ يَحْكُمُ بِجَمَادِيَّةِ الْمَيِّتِ لِكَوْنِهِ كَالْجَمَادِ فِي عَدَمِ الرُّوحِ وَالْإِحْسَاسِ وَالْحَرَكَةِ فَجُعِلَتْ فِي هَذَا الْقِيَاسِ كَالْقَطْعِيَّةِ، وَنُزِّلَتْ مَنْزِلَتَهَا فِي أَخْذِهَا جُزْءاً لَهَا.
+And the error in demonstration, wherever it is found, is either in matter or form, so begin. In wording, like homonymy, or like making something with distinct meanings as a synonym. And in meanings, like confusing the false with the true, so understand the address, like making the accidental like the essential or a necessary consequence of one of the premises, and judging the genus by the ruling of the species, and making the non-certain as certain. I say: The error in demonstration is either in the matter of the propositions, or in the form and structure upon which the syllogism is based. Error in matter: The causes of error in matter are either in words or in meanings. As for the causes of error in words, they are: First: homonymy of the term used, like your saying 'this is a qur' (meaning menstrual period), and you intend menstruation, and 'every qur' allows intercourse', and you intend by it purity (non-menstrual state), so the middle term was not repeated, and the conclusion was false. Second: making distinct terms like synonyms, like your saying 'this is a sword' pointing to a non-cutting sword, and 'every sword is a sword', so the reality of 'sword' is distinct from the reality of 'sharp', because 'sword' is whatever is in the specific form, cutting or not, and 'sharp' is the sword with the condition of cutting. So the conclusion was false because 'sharp' in the minor premise was intended for the non-cutting, so the attribution of 'sword' to it in the major premise was invalid; rather it is attributed to the sharp one which is of the kind of sword, so the middle term was not repeated. As for the causes of error in meanings, they are: First: confusing a false proposition with a true one, like making the accidental essential, e.g., our saying 'the person sitting in the ship is moving, and everything moving does not remain in one place'. One of the two premises is false if 'moving' in them has one meaning; but if 'moving' in the first is intended as accidental motion and in the second as essential motion, both are true but not repeated, so the conclusion is not true. Second: making the conclusion one of the premises, like our saying 'this is a movement' and 'every movement is a motion', so 'this is a motion', the conclusion is identical to the minor premise because 'motion' is synonymous with 'movement'. Third: judging the genus by the ruling of the species, like our saying 'every horse is an animal' and 'every animal is rational', so 'every horse is rational', which is false. This is called 'illusion of the converse', because when he saw that every rational is an animal, he imagined that every animal is rational, but it is not so, so error occurred. Fourth: making a non-certain premise certain, e.g., your saying 'this is dead' and 'every dead is inanimate'. The major premise is illusory because the illusion judges the dead to be inanimate due to its being like inanimate in lacking spirit, sensation, and motion; so it was made in this syllogism as certain, and given the status of a certain premise in taking it as a part.
+Source pages p. 85
+
+Commentary
+This passage is a commentary on a poem (matn) that summarizes the types of errors in demonstration. The author first quotes the poem, which states that error in demonstration occurs either in matter (material) or form. He then explains each cause in detail. The material errors are divided into those in wording and those in meanings. In wording, the first cause is homonymy (اشتراك اللفظ), where the same word is used in two different senses across premises, so the middle term is not truly repeated. The example uses the Arabic word 'qur' (قرء), which can mean either menstruation or purity in Islamic law (fiqh). If one premise uses it for menstruation and the other for purity, the middle term is not actually the same, and the conclusion is false. The second wording error is treating distinct terms as synonyms. The example uses 'sārim' (صارم, sharp sword) and 'sayf' (سيف, sword generally). A non-cutting sword is not truly a 'sārim' in the same sense. In meanings, the first error is confusing a false proposition with a true one, exemplified by accidental motion vs. essential motion: a person sitting in a moving ship moves accidentally, but an object that moves essentially changes place. Comparing them leads to a deceptive syllogism. The second meaning error is making the conclusion identical to a premise, which adds no new knowledge—like 'movement' (naqla) and 'motion' (haraka) being synonyms. The third is judging a genus by the property of a species, such as assuming all animals are rational because all rational beings are animals. This is the 'illusion of the converse' (إيهام العكس). The fourth is treating an uncertain or illusory premise as certain, like assuming a dead body is inanimate because it resembles inanimate objects, while in reality it was once alive. Each fallacy is illustrated with clear examples from logic and Islamic law.
+
+Key Terms
+اشتراك
+تباين
+رديف
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following best illustrates homonymy as a material error?
+A) Using 'qur' to mean menstruation in one premise and purity in another.
+B) Using 'sārim' and 'sayf' as synonyms.
+C) Assuming all animals are rational because all rational beings are animals.
+D) Treating a probable premise as certain.
+
+Key Takeaway
+A word must have a single meaning throughout a demonstration; otherwise, the middle term is not truly repeated.
+
+How This Lesson Applies — to MY Life?
+?
+Find a term in fiqh that has multiple meanings (e.g., 'wala') and construct a syllogism that would be valid only if the term is used consistently. Then show how homonymy would make it invalid.
+
+Pages p. 85 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 85
+Module 15 · Lesson 5
+Next →
+Demonstration -- Burhan
+intermediate
+12 min
+Conceptual Material Fallacies: Accidental, Tautology, Genus-Species, and False Certainty
+Author explains conceptual material fallacies with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify four types of conceptual material fallacies: confusing accidental with essential, conclusion as a premise, judging genus by species, and treating an uncertain premise as certain.
+
+Core Idea
+Even sound language can hide flawed content; premises must be true and relevant to demonstrate certainty.
+
+Beyond wording, the meanings themselves can be erroneous. The author lists four distinct conceptual pitfalls: taking an accidental property as essential (e.g., motion in a ship), using a premise that is identical to the conclusion (tautology), assuming a property of a species applies to its genus (illusion of the converse), and treating a merely probable or illusory generalization as certain. These fallacies corrupt demonstration even when the syllogistic form is valid.
+
+Guided Path
+1
+Identify accidental vs. essential
+Check whether a property used in the syllogism is essential (dhātī) or accidental (ʿaraḍī). If accidental is treated as essential, the premise is false or ambiguous.
+Example: 'moving' in 'the person in the ship is moving' is accidental motion; 'everything moving changes place' assumes essential motion.
+2
+Check if conclusion is a premise
+See if the conclusion simply restates one of the premises. If so, it is a tautology and adds no new knowledge.
+Example: 'this is a movement, every movement is a motion, therefore this is a motion'—'motion' and 'movement' are synonyms.
+3
+Avoid judging genus by species
+Do not assume that a property of a species (e.g., rationality in humans) applies to the entire genus (animals). This is the 'illusion of the converse' (īhām al-ʿaks).
+Example: every horse is an animal, every animal is rational → false.
+4
+Distinguish certain from uncertain premises
+Verify that each premise is certain (yaqīni), not merely assumed due to imagination or illusion (wahm). Treating an uncertain premise as certain leads to false conclusions.
+Example: 'every dead is inanimate' is not certain; a dead body was once alive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَخَطَأَ الْبُرْهَان حَيْثُ وُجِدَا فِي مَادَّةٍ أَوْ صُورَةٍ فَالْمُبْتَدَا
+فِي اللَّفْظِ كَاشْتِرَاكِ أَوْ كَجَعْلِ ذَا تَبَايُنِ مِثْلَ الرَّدِيفِ مَأْخَذَا
+وَفِي المَعَانِي كَالْتِبَاسِ الكَاذِبَةُ بِذَاتِ صِدْقٍ فَافْهَمِ الْمُخَاطَبَةُ
+كَمِثْلِ جَعْـلِ العَرَضِي كَالذَّاتِي أَوْ لازم إحْدَى المَقَدِّمَاتِ
+وَالْحُكْمُ لِلْجِنْسِ بحكم النَّوْعِ وَجَعَلِ كَالقَطْعِي غَيْرِ القَطْعِن
+أَقُول: الْخَطَأُ فِي الْبُرْهَانِ إِمَّا أَنْ يَكُونَ فِي مَادَّةِ الْقَضَايَا، أَوْ يَكُونَ فِي الصُّورَةِ وَالْهَيْئَةِ الَّتِي يَتَرَتَّبُ عَلَيْهَا الْقِيَاسُ.
+الْغَلَطُ فِي الْمَادَّةِ:
+أَسْبَابُ الْغَلَطِ فِي الْمَادَّةِ، إِمَّا فِي الْأَلْفَاظِ أَوْ فِي الْمَعَانِي،
+أَمَّا أَسْبَابُ الْغَلَطِ فِي الْأَلْفَاظِ فَهِيَ: أَوَّلاً: اشْتِرَاكُ اللَّفْظِ الْمُسْتَعْمَلِ، مِثْلُ قَوْلِكَ هَذَا قَرْءٌ، وَتُرِيدُ الْحَيْضَ، وَكُلُّ قَرْءٍ يَجُوزُ فِيهِ الْوَطْءُ، وَتُرِيدُ بِهِ الطُّهْرَ، فَلَمْ يَتَكَرَّرِ الْحَدُّ الْوَسَطُ، فَكَذَبَتِ النَّتِيجَةُ.
+ثَانِياً: جَعْلُ الْأَلْفَاظِ الْمُتَبَايِنَةِ مِثْلَ الْمُتَرَادِفَةِ، كَقَوْلِكَ [هَذَا صَارِمٌ] مُشِيراً إِلَى سَيْفٍ غَيْرِ قَاطِعٍ، وَكُلُّ صَارِمٍ سَيْفٌ، فَحَقِيقَةُ السَّيْفِ تُبَايِنُ حَقِيقَةَ الصَّارِمِ، لِأَنَّ السَّيْفَ مَا كَانَ عَلَى الْهَيْئَةِ الْمَخْصُوصَةِ قَاطِعاً كَانَ أَوْ غَيْرَ قَاطِعٍ، وَالصَّارِمُ هُوَ السَّيْفُ بِقَيْدِ الْقَطْعِ، فَكَانَتِ النَّتِيجَةُ كَاذِبَةً لِأَنَّ الصَّارِمَ فِي الصُّغْرَى أُرِيدَ بِهِ غَيْرَ الْقَاطِعِ، فَلَمْ يَصِحَّ حَمْلُ السَّيْفِ عَلَيْهِ فِي الْكُبْرَى، بَلْ هُوَ مَحْمُولٌ عَلَى الصَّارِمِ الَّذِي هُوَ الْقَاطِعُ مِنْ جِنْسِ السَّيْفِ فَلَمْ يَتَكَرَّرِ الْحَدُّ الْوَسَطُ.
+وَأَمَّا أَسْبَابُ الْغَلَطِ فِي الْمَعَانِي فَهِيَ:
+أَوَّلاً: الْتِبَاسُ الْقَضِيَّةِ الْكَاذِبَةِ بِقَضِيَّةٍ صَادِقَةٍ، كَأَنْ تَجْعَلَ الْعَرَضِيَّ ذَاتِياً، مِثَالُهُ كَقَوْلِنَا [الْجَالِسُ فِي السَّفِينَةِ مُتَحَرِّكٌ، وَكُلُّ مُتَحَرِّكٍ لَا يَثْبُتُ فِي مَكَانٍ وَاحِدٍ]، فَإِحْدَى الْمُقَدِّمَتَيْنِ كَاذِبَةٌ إِنْ أُرِيدَ بِالْمُتَحَرِّكِ فِيهَا مَعْنَىً وَاحِدٌ، وَإِنْ أُرِيدَ بِالْمُتَحَرِّكِ فِي الْأُولَى الْمُتَحَرِّكَ بِالْعَرَضِ وَفِي الثَّانِيَةِ الْمُتَحَرِّكَ بِالذَّاتِ كَانَتَا صَادِقَتَيْنِ، لَكِنْ لَمْ تُكَرَّرْ، فَلَمْ تَصْدُقِ النَّتِيجَةُ.
+ثَانِياً: جَعْلُ النَّتِيجَةِ إِحْدَى الْمُقَدِّمَتَيْنِ، كَقَوْلِنَا هَذِهِ نَقْلَةٌ، وَكُلُّ نَقْلَةٍ حَرَكَةٌ، فَهَذِهِ حَرَكَةٌ، فَالنَّتِيجَةُ عَيْنُ الصُّغْرَى لِأَنَّ الْحَرَكَةَ مُرَادِفَةٌ لِلنَّقْلَةِ.
+ثَالِثاً: الْحُكْمُ لِلْجِنْسِ بِحُكْمِ النَّوْعِ، كَقَوْلِنَا كُلُّ فَرَسٍ حَيَوَانٌ، وَكُلُّ حَيَوَانٍ نَاطِقٌ، فَكُلُّ فَرَسٍ نَاطِقٌ، وَهُوَ كَذِبٌ، وَيُسَمَّى مِثْلُهُ إِيْهَامَ الْعَكْسِ، لِأَنَّهُ لَمَّا رَأَى أَنَّ كُلَّ نَاطِقٍ حَيَوَانٌ تَوَهَّمَ أَنَّ كُلَّ حَيَوَانٍ نَاطِقٌ، وَلَيْسَ كَذَلِكَ، فَجَاءَ الْخَطَأُ.
+رَابِعاً: جَعْلُ الْمُقَدِّمَةِ غَيْرِ الْقَطْعِيَّةِ قَطْعِيَّةً، مِثَالُهُ قَوْلُكَ هَذَا مَيِّتٌ وَكُلُّ مَيِّتٍ جَمَادٌ، فَالْكُبْرَى وَهْمِيَّةٌ لِأَنَّ الْوَهْمَ يَحْكُمُ بِجَمَادِيَّةِ الْمَيِّتِ لِكَوْنِهِ كَالْجَمَادِ فِي عَدَمِ الرُّوحِ وَالْإِحْسَاسِ وَالْحَرَكَةِ فَجُعِلَتْ فِي هَذَا الْقِيَاسِ كَالْقَطْعِيَّةِ، وَنُزِّلَتْ مَنْزِلَتَهَا فِي أَخْذِهَا جُزْءاً لَهَا.
+And the error in demonstration, wherever it is found, is either in matter or form, so begin. In wording, like homonymy, or like making something with distinct meanings as a synonym. And in meanings, like confusing the false with the true, so understand the address, like making the accidental like the essential or a necessary consequence of one of the premises, and judging the genus by the ruling of the species, and making the non-certain as certain. I say: The error in demonstration is either in the matter of the propositions, or in the form and structure upon which the syllogism is based. Error in matter: The causes of error in matter are either in words or in meanings. As for the causes of error in words, they are: First: homonymy of the term used, like your saying 'this is a qur' (meaning menstrual period), and you intend menstruation, and 'every qur' allows intercourse', and you intend by it purity (non-menstrual state), so the middle term was not repeated, and the conclusion was false. Second: making distinct terms like synonyms, like your saying 'this is a sword' pointing to a non-cutting sword, and 'every sword is a sword', so the reality of 'sword' is distinct from the reality of 'sharp', because 'sword' is whatever is in the specific form, cutting or not, and 'sharp' is the sword with the condition of cutting. So the conclusion was false because 'sharp' in the minor premise was intended for the non-cutting, so the attribution of 'sword' to it in the major premise was invalid; rather it is attributed to the sharp one which is of the kind of sword, so the middle term was not repeated. As for the causes of error in meanings, they are: First: confusing a false proposition with a true one, like making the accidental essential, e.g., our saying 'the person sitting in the ship is moving, and everything moving does not remain in one place'. One of the two premises is false if 'moving' in them has one meaning; but if 'moving' in the first is intended as accidental motion and in the second as essential motion, both are true but not repeated, so the conclusion is not true. Second: making the conclusion one of the premises, like our saying 'this is a movement' and 'every movement is a motion', so 'this is a motion', the conclusion is identical to the minor premise because 'motion' is synonymous with 'movement'. Third: judging the genus by the ruling of the species, like our saying 'every horse is an animal' and 'every animal is rational', so 'every horse is rational', which is false. This is called 'illusion of the converse', because when he saw that every rational is an animal, he imagined that every animal is rational, but it is not so, so error occurred. Fourth: making a non-certain premise certain, e.g., your saying 'this is dead' and 'every dead is inanimate'. The major premise is illusory because the illusion judges the dead to be inanimate due to its being like inanimate in lacking spirit, sensation, and motion; so it was made in this syllogism as certain, and given the status of a certain premise in taking it as a part.
+Source pages p. 85
+
+Commentary
+This passage is a commentary on a poem (matn) that summarizes the types of errors in demonstration. The author first quotes the poem, which states that error in demonstration occurs either in matter (material) or form. He then explains each cause in detail. The material errors are divided into those in wording and those in meanings. In wording, the first cause is homonymy (اشتراك اللفظ), where the same word is used in two different senses across premises, so the middle term is not truly repeated. The example uses the Arabic word 'qur' (قرء), which can mean either menstruation or purity in Islamic law (fiqh). If one premise uses it for menstruation and the other for purity, the middle term is not actually the same, and the conclusion is false. The second wording error is treating distinct terms as synonyms. The example uses 'sārim' (صارم, sharp sword) and 'sayf' (سيف, sword generally). A non-cutting sword is not truly a 'sārim' in the same sense. In meanings, the first error is confusing a false proposition with a true one, exemplified by accidental motion vs. essential motion: a person sitting in a moving ship moves accidentally, but an object that moves essentially changes place. Comparing them leads to a deceptive syllogism. The second meaning error is making the conclusion identical to a premise, which adds no new knowledge—like 'movement' (naqla) and 'motion' (haraka) being synonyms. The third is judging a genus by the property of a species, such as assuming all animals are rational because all rational beings are animals. This is the 'illusion of the converse' (إيهام العكس). The fourth is treating an uncertain or illusory premise as certain, like assuming a dead body is inanimate because it resembles inanimate objects, while in reality it was once alive. Each fallacy is illustrated with clear examples from logic and Islamic law.
+
+Key Terms
+عرضي
+ذاتي
+إيهام العكس
+وهم
+
+Key Terms from Source Passage
+
+Checkpoint
+In the fallacy 'Every horse is an animal, every animal is rational, therefore every horse is rational', which type of material error is being committed?
+A) Homonymy
+B) Judging the genus by the ruling of the species (Illusion of the Converse)
+C) Confusing accidental with essential
+D) Making a non-certain premise certain
+
+Key Takeaway
+Material errors in meaning corrupt demonstration even when the form is valid; premises must be true, properly defined, and certain.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which conceptual fallacy is present in this argument: 'The world is changing; everything changing is created; therefore the world is created.' (Hint: Is 'changing' used in the same sense?)
+
+Pages p. 85 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →

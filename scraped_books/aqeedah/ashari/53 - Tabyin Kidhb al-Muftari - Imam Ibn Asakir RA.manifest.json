@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:59:02Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Tabyin%20Kidhb%20al-Muftari%20-%20Imam%20Ibn%20Asakir%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/ashari/53 - Tabyin Kidhb al-Muftari - Imam Ibn Asakir RA",
+  "output_bytes": 9166086,
+  "output_sha256": "6d7f611f60a5a4fae9d8d43d5e27e1e4c3dc639f8d74c141bda156e7a61541d9",
+  "checks": {
+    "catalog_expected_lessons": 1100,
+    "course_reported_lessons": 1100,
+    "index_lessons": 1100,
+    "full_lessons": 1100,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 16,
+    "course_reported_modules": 16,
+    "modules": 16,
+    "course_reported_sources": 840,
+    "sources": 840
+  }
+}

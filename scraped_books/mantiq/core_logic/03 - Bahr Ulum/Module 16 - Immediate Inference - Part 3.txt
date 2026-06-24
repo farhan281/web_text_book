@@ -1,0 +1,531 @@
+← Prev
+p. 487
+Module 16 · Lesson 101
+Next →
+Immediate Inference
+intermediate
+8 min
+Conversion of Conditional Propositions
+Author explains conversion rules for conditional propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to determine the correct converse of any universal affirmative conditional proposition and explain the role of the negation of the consequent.
+
+Core Idea
+The converse of a universal affirmative conditional is also universal affirmative.
+
+This passage explains the rules for converting conditional propositions. The author provides a proof for universal affirmatives and addresses an objection, then covers particular affirmatives and negatives.
+
+Guided Path
+1
+Identify the rule for universal affirmative conditionals
+The author states that universal affirmative conditionals convert to universal affirmative conditionals. Examine the proof: 'because the negation of the consequent necessitates the negation of the antecedent by necessity.'
+This is contraposition.
+2
+Consider the objection about impossible negation
+An objector asks: what if the negation of the consequent is impossible? Then it might not necessitate the negation of the antecedent. The author dismisses this as obstinacy, noting that impossibility can entail even contradictions.
+The rebuttal relies on the principle that from impossibility anything follows.
+3
+Apply the rule for particular affirmatives
+The author gives an example: 'Sometimes if something is an animal, it is not a human' (true) but its converse 'Sometimes if something is a human, it is not an animal' (false). Thus particular affirmatives do not convert.
+The example shows partial implication does not reverse.
+4
+Understand the rule for negatives
+Negative conditionals (universal or particular) convert only into particular negatives. The author provides a reductio proof using variables (A,B,C,D).
+The proof shows that universal conversion would contradict the original.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الشرطية فالموجبة الكلية تنعكس موجبة كلية ؛ لأن انتفاء اللازم مستلزم لانتفاء الملزوم ضرورة .
+فإن قلت: يجوز أن يكون انتفاء اللازم محالا، فجاز أن لا يستلزم انتفاء الملزوم ؟
+أن قلت: عسى يعد هذا مكابرة، وجواز استلزامه عين الملزوم لا ينافي ذلك ؛ لأن المحال يجوز استلزامه للنقيضين.
+والجزئية الموجبة لا تنعكس؛ لصدق قولنا قد يكون إذا كان الشيء حيوانا لم يكن إنسانا ، وكذب قولنا قد يكون إذا كان الشيء إنسانا لم يكن حيوانا»، فتأمل، وتذكر ما سلف من إثبات اللزوم الجزئي بين كل مفهومين، والسالبة منها كلية كانت أو جزئية لا تنعكس إلا جزئية ؛ إذ لو لم يصدق «قد لا يكون إذا لم يكن (ج) (د) لم يكن (أ) (ب) ، مع «ليس ألبتة أو قد لا يكون إذا كان (أ) (ب) فـ ( ج ) ( د )) لصدق كلما لم يكن (ج) (د) لم يكن (أ) (ب)»، وتنعكس بهذا العكس إلى كلما كان (أ) (ب) فـ(ج) (د)» ، وهو مناف للأصل. هذا، والله أعلم بالصواب.
+(وَهَهُنَا شَكٍّ مِنْ وَجْهَيْنِ ، الْأَوَّلُ : أَنَّ قَوْلَنَا كُلُّ لَا اجْتِمَاعُ النَّقِيضَيْنِ لَا شَرِيكُ الْبَارِي صَادِقٌ ، مَعَ أَنَّ عَكْسَهُ كُلُّ شَرِيكِ الْبَارِي اجْتِمَاعُ النَّقِيضَيْنِ» كَاذِبٌ بعدم وجود الموضوع، ولتباين حقائقهما الباطلة. (وَلَكَ أَنْ تَلْتَزِمَ صِدْقَهُ حَقِيقَيةً)، وتقول عكسه صادق ، (فَافْهَمْ). فيه إشارة إلى أنه غير تام؛ لأن أصل الإشكال أن كل لا اجتماع النقيضين لاشريك الباري صادق خارجية، وعكسه خارجية كاذب، فلا ينفع التزام الحقيقة في العكس. ثم الحقيقية إن أخذت بتية فالتزام صدقه يكاد يقرب إلى المكابرة ، ثم لا حاجة
+As for the conditional [proposition], the universal affirmative converts into a universal affirmative; because the negation of the consequent necessitates the negation of the antecedent by necessity.
+If you say: It is possible for the negation of the consequent to be impossible, and so it may not necessitate the negation of the antecedent?
+You say: Perhaps this is considered obstinacy; and the possibility that it necessitates the very antecedent does not contradict that; because the impossible may necessitate both contradictories.
+And the particular affirmative does not convert; because our statement 'Sometimes if something is an animal, it is not a human' is true, and our statement 'Sometimes if something is a human, it is not an animal' is false. So reflect, and recall what preceded regarding the proof of partial implication between every two concepts. And the negative [conditional], whether universal or particular, converts only into a particular [negative]; because if 'It is not the case that if not-C then not-D is not not-A then not-B' were not true, while 'Absolutely not or sometimes not if A then B then C then D' [is true], then 'Whenever not-C then not-D is not not-A then not-B' would be true, and it converts by this conversion into 'Whenever A then B then C then D', which contradicts the original. This, and Allah knows best what is correct.
+(And here is a doubt from two aspects: The first: That our statement 'Every non-contradiction is not a partner to God' is true, while its converse 'Every partner to God is a contradiction' is false due to the non-existence of the subject and the disparity of their false realities. (But you may commit to its truth as a genuine [proposition]), and say its converse is true, (so understand). There is an indication that this is incomplete; because the original problem is that 'Every non-contradiction is not a partner to God' is true as an external [proposition], and its converse is false as an external [proposition], so committing to the genuine [sort] in the conversion is of no use. Then if the genuine is taken as absolute, committing to its truth approaches obstinacy, then there is no need [for it].)
+Source pages p. 487
+
+Commentary
+This passage covers the conversion of conditional propositions (al-shartiyya) and then addresses a skeptical doubt. First, the author states that universal affirmative conditionals convert universally because the negation of the consequent necessitates the negation of the antecedent. An objection is raised: what if the negation of the consequent is impossible? The author dismisses this as obstinacy, noting that even the impossible can entail both contradictories, so the conversion holds. Next, particular affirmative conditionals do not convert, as shown by the example 'Sometimes if something is an animal, it is not a human' (true) but its converse 'Sometimes if something is a human, it is not an animal' (false). Negative conditionals (universal or particular) convert only to particular negatives, with a similar reductio proof. Finally, a doubt is presented: the statement 'Every non-contradiction is not a partner to God' is true, but its converse 'Every partner to God is a contradiction' is false because there is no subject (partner to God) and the realities are false. The author suggests one might commit to the truth of the converse as a genuine (haqiqiyya) proposition, but this is inadequate because the original is external (kharijiyya). Taking the genuine as absolute would be obstinate. Thus the doubt remains unresolved.
+
+Key Terms
+الشرطية (al-shartiyya): A conditional proposition (if-then statement), used in logic for hypothetical syllogisms.
+الموجبة الكلية (al-mujiba al-kulliyya): Universal affirmative proposition.
+السالبة (al-saliba): Negative proposition.
+الجزئية (al-juz'iyya): Particular proposition.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of conditional proposition converts to a universal affirmative?
+A) Universal negative
+B) Particular affirmative
+C) Universal affirmative
+D) Particular negative
+
+Key Takeaway
+Universal affirmative conditional propositions convert to universal affirmative conditionals by contraposition.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative conditional from Islamic theology: 'If something is a necessary being (wajib al-wujud), it cannot be caused.' State the converse and explain why it is valid.
+
+Pages p. 487 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 487
+Module 16 · Lesson 102
+Next →
+Immediate Inference
+advanced
+10 min
+The Doubt about Conversion with Non-Existent Subjects
+Author presents and discusses a skeptical doubt about conversion of conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to analyze the problem of converting conditionals when the subject does not exist, and evaluate the proposed solution.
+
+Core Idea
+Conversion fails when the subject has no existence unless the proposition is taken as genuine (haqiqiyya).
+
+The author raises a doubt: the proposition 'Every non-contradiction is not a partner to God' is true, but its converse 'Every partner to God is a contradiction' is false because the subject 'partner to God' is non-existent. He considers a potential resolution but finds it lacking.
+
+Guided Path
+1
+Identify the original proposition and its converse
+The original is 'Every non-contradiction is not a partner to God' (true). Its converse is 'Every partner to God is a contradiction' (false).
+Non-contradiction refers to something that is not a contradiction.
+2
+Determine why the converse is false
+The author gives two reasons: non-existence of the subject (partner to God does not exist) and disparity of their false realities (the concepts are incompatible and false).
+The converse would be about a non-existent subject.
+3
+Understand the suggestion to treat the converse as genuine (haqiqiyya)
+One might claim the converse is true as a genuine proposition, i.e., a proposition that holds conceptually even if the subject does not exist in reality.
+A genuine proposition does not require actual existence.
+4
+Analyze why the suggestion is insufficient
+The original is external (kharijiyya), considering actual existence. Treating the converse as genuine does not match. If one insists on absolute genuineness, it borders on obstinacy.
+Thus the doubt remains unresolved.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الشرطية فالموجبة الكلية تنعكس موجبة كلية ؛ لأن انتفاء اللازم مستلزم لانتفاء الملزوم ضرورة .
+فإن قلت: يجوز أن يكون انتفاء اللازم محالا، فجاز أن لا يستلزم انتفاء الملزوم ؟
+أن قلت: عسى يعد هذا مكابرة، وجواز استلزامه عين الملزوم لا ينافي ذلك ؛ لأن المحال يجوز استلزامه للنقيضين.
+والجزئية الموجبة لا تنعكس؛ لصدق قولنا قد يكون إذا كان الشيء حيوانا لم يكن إنسانا ، وكذب قولنا قد يكون إذا كان الشيء إنسانا لم يكن حيوانا»، فتأمل، وتذكر ما سلف من إثبات اللزوم الجزئي بين كل مفهومين، والسالبة منها كلية كانت أو جزئية لا تنعكس إلا جزئية ؛ إذ لو لم يصدق «قد لا يكون إذا لم يكن (ج) (د) لم يكن (أ) (ب) ، مع «ليس ألبتة أو قد لا يكون إذا كان (أ) (ب) فـ ( ج ) ( د )) لصدق كلما لم يكن (ج) (د) لم يكن (أ) (ب)»، وتنعكس بهذا العكس إلى كلما كان (أ) (ب) فـ(ج) (د)» ، وهو مناف للأصل. هذا، والله أعلم بالصواب.
+(وَهَهُنَا شَكٍّ مِنْ وَجْهَيْنِ ، الْأَوَّلُ : أَنَّ قَوْلَنَا كُلُّ لَا اجْتِمَاعُ النَّقِيضَيْنِ لَا شَرِيكُ الْبَارِي صَادِقٌ ، مَعَ أَنَّ عَكْسَهُ كُلُّ شَرِيكِ الْبَارِي اجْتِمَاعُ النَّقِيضَيْنِ» كَاذِبٌ بعدم وجود الموضوع، ولتباين حقائقهما الباطلة. (وَلَكَ أَنْ تَلْتَزِمَ صِدْقَهُ حَقِيقَيةً)، وتقول عكسه صادق ، (فَافْهَمْ). فيه إشارة إلى أنه غير تام؛ لأن أصل الإشكال أن كل لا اجتماع النقيضين لاشريك الباري صادق خارجية، وعكسه خارجية كاذب، فلا ينفع التزام الحقيقة في العكس. ثم الحقيقية إن أخذت بتية فالتزام صدقه يكاد يقرب إلى المكابرة ، ثم لا حاجة
+As for the conditional [proposition], the universal affirmative converts into a universal affirmative; because the negation of the consequent necessitates the negation of the antecedent by necessity.
+If you say: It is possible for the negation of the consequent to be impossible, and so it may not necessitate the negation of the antecedent?
+You say: Perhaps this is considered obstinacy; and the possibility that it necessitates the very antecedent does not contradict that; because the impossible may necessitate both contradictories.
+And the particular affirmative does not convert; because our statement 'Sometimes if something is an animal, it is not a human' is true, and our statement 'Sometimes if something is a human, it is not an animal' is false. So reflect, and recall what preceded regarding the proof of partial implication between every two concepts. And the negative [conditional], whether universal or particular, converts only into a particular [negative]; because if 'It is not the case that if not-C then not-D is not not-A then not-B' were not true, while 'Absolutely not or sometimes not if A then B then C then D' [is true], then 'Whenever not-C then not-D is not not-A then not-B' would be true, and it converts by this conversion into 'Whenever A then B then C then D', which contradicts the original. This, and Allah knows best what is correct.
+(And here is a doubt from two aspects: The first: That our statement 'Every non-contradiction is not a partner to God' is true, while its converse 'Every partner to God is a contradiction' is false due to the non-existence of the subject and the disparity of their false realities. (But you may commit to its truth as a genuine [proposition]), and say its converse is true, (so understand). There is an indication that this is incomplete; because the original problem is that 'Every non-contradiction is not a partner to God' is true as an external [proposition], and its converse is false as an external [proposition], so committing to the genuine [sort] in the conversion is of no use. Then if the genuine is taken as absolute, committing to its truth approaches obstinacy, then there is no need [for it].)
+Source pages p. 487
+
+Commentary
+This passage covers the conversion of conditional propositions (al-shartiyya) and then addresses a skeptical doubt. First, the author states that universal affirmative conditionals convert universally because the negation of the consequent necessitates the negation of the antecedent. An objection is raised: what if the negation of the consequent is impossible? The author dismisses this as obstinacy, noting that even the impossible can entail both contradictories, so the conversion holds. Next, particular affirmative conditionals do not convert, as shown by the example 'Sometimes if something is an animal, it is not a human' (true) but its converse 'Sometimes if something is a human, it is not an animal' (false). Negative conditionals (universal or particular) convert only to particular negatives, with a similar reductio proof. Finally, a doubt is presented: the statement 'Every non-contradiction is not a partner to God' is true, but its converse 'Every partner to God is a contradiction' is false because there is no subject (partner to God) and the realities are false. The author suggests one might commit to the truth of the converse as a genuine (haqiqiyya) proposition, but this is inadequate because the original is external (kharijiyya). Taking the genuine as absolute would be obstinate. Thus the doubt remains unresolved.
+
+Key Terms
+الخارجية (al-kharijiyya): An external proposition, one that considers actual existence of the subject. [Note: In later texts, this may be distinguished from 'haqiqiyya' (genuine) which considers possible existence.]
+الحقيقية (al-haqiqiyya): A genuine proposition, one that holds even if the subject does not exist in reality, as long as it is conceptually possible.
+الشك (al-shakk): Doubt or skeptical objection.
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say the converse of 'Every non-contradiction is not a partner to God' is false?
+A) Because it is a particular proposition
+B) Because the subject has no existence
+C) Because it is a conditional
+D) Because it contradicts the original
+
+Key Takeaway
+Conversion of conditionals may fail when the subject of the converse lacks existence.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the true proposition: 'Every non-existent thing is not known to us in detail'. Write its converse and explain why it might be false, referencing the issue of non-existence of subject.
+
+Pages p. 487 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 487
+Module 16 · Lesson 103
+Next →
+Immediate Inference
+intermediate
+10 min
+Rules of Contraposition for Categorical Propositions
+Author states rules of contraposition for universal and particular propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to determine the valid contrapositive form for each categorical proposition type (A, E, I, O) and justify it using the entailment principle.
+
+Core Idea
+Contraposition flips and negates both terms, but only some proposition types yield a valid immediate inference.
+
+This passage from a logical work lays down the rules for contraposition (عكس النقيض) in categorical logic. You will learn which propositions can be validly contraposed and in what form, using the principle that the negation of the consequent entails the negation of the antecedent. The author also addresses a subtle objection and provides examples to clarify the rules.
+
+Guided Path
+1
+Identify the proposition types
+Recall the four categorical forms: A (universal affirmative), E (universal negative), I (particular affirmative), O (particular negative). The passage gives rules for each.
+2
+Understand the entailment principle
+The author uses the principle that if 'A implies B' is true, then 'not-B implies not-A' is also true. This is the basis for contraposition.
+In Arabic: انتفاء اللازم مستلزم لانتفاء الملزوم.
+3
+Apply to universal affirmative
+For 'Every A is B', the contrapositive is 'Every non-B is non-A'. The author argues this is universal affirmative, not particular, by the entailment principle.
+The objection about impossible consequent is dismissed as obstinacy.
+4
+Apply to particular affirmative
+For 'Some A is B', there is no valid contrapositive. The example: 'If something is an animal, it may not be a human' is true, but its contrapositive 'If something is a human, it may not be an animal' is false.
+This shows the inference does not hold.
+5
+Apply to negative propositions
+For universal negative 'No A is B' and particular negative 'Some A is not B', the contrapositive is only a particular negative: 'Some non-B is not A'. The author uses a reductio to prove it cannot be universal.
+Check the example with variables (أ، ب، ج، د) to see the logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فالموجبة الكلية تنعكس موجبة كلية ؛ لأن انتفاء اللازم مستلزم لانتفاء الملزوم ضرورة .
+فإن قلت: يجوز أن يكون انتفاء اللازم محالا، فجاز أن لا يستلزم انتفاء الملزوم ؟
+أن قلت: عسى يعد هذا مكابرة، وجواز استلزامه عين الملزوم لا ينافي ذلك ؛ لأن المحال يجوز استلزامه للنقيضين.
+والجزئية الموجبة لا تنعكس؛ لصدق قولنا قد يكون إذا كان الشيء حيوانا لم يكن إنسانا ، وكذب قولنا قد يكون إذا كان الشيء إنسانا لم يكن حيوانا»، فتأمل، وتذكر ما سلف من إثبات اللزوم الجزئي بين كل مفهومين، والسالبة منها كلية كانت أو جزئية لا تنعكس إلا جزئية ؛ إذ لو لم يصدق «قد لا يكون إذا لم يكن (ج) (د) لم يكن (أ) (ب) ، مع «ليس ألبتة أو قد لا يكون إذا كان (أ) (ب) فـ ( ج ) ( د )) لصدق كلما لم يكن (ج) (د) لم يكن (أ) (ب)»، وتنعكس بهذا العكس إلى كلما كان (أ) (ب) فـ(ج) (د)» ، وهو مناف للأصل. هذا، والله أعلم بالصواب.
+The universal affirmative is converted to a universal affirmative; because the negation of the consequent necessarily entails the negation of the antecedent. If you say: It is possible that the negation of the consequent is impossible, so it may not entail the negation of the antecedent? I say: This is considered obstinacy, and the possibility of its entailing the antecedent itself does not contradict that; because the impossible may entail both contradictories. The particular affirmative does not convert; because our statement 'it may be that if something is an animal it is not a human' is true, and our statement 'it may be that if something is a human it is not an animal' is false, so reflect, and remember what preceded regarding the proof of partial implication between any two concepts. The negative, whether universal or particular, converts only to a particular; because if it were not true that 'it may not be that if (c) is not (d) then (a) is not (b)' with 'absolutely not or it may not be that if (a) is (b) then (c) is (d)', then it would be true that 'every time (c) is not (d), (a) is not (b)', and by this conversion it would convert to 'every time (a) is (b), (c) is (d)', which contradicts the original. This, and Allah knows best the truth.
+Source pages p. 487
+
+Commentary
+This passage explains the rules of contraposition (عكس النقيض) for categorical propositions. The author begins by stating that the contrapositive of a universal affirmative proposition is also universal affirmative. He justifies this by the principle that the negation of the consequent entails the negation of the antecedent (من انتفاء اللازم ينتفي الملزوم). An objection is raised: what if the negation of the consequent is impossible? The author replies that this is obstinacy because even if the consequent's negation is impossible, it can still entail the antecedent's negation; impossibilities can entail both. Next, the author notes that a particular affirmative does not have a valid contrapositive; he gives the example: 'if something is an animal, it may not be a human' is true, but 'if something is a human, it may not be an animal' is false. Finally, he discusses negative propositions: both universal and particular negatives contraposit to a particular negative. He provides a reductio argument: if the contrapositive were not particular, it would be universal, leading to a contradiction with the original proposition. This section sets the foundational rules for contraposition in logic.
+
+Key Terms
+عكس النقيض
+انتفاء اللازم
+الملزوم
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the contrapositive of the universal affirmative proposition 'Every intoxicant is haram'?
+A) Every non-haram is non-intoxicant.
+B) Some non-haram is non-intoxicant.
+C) Every intoxicant is non-haram.
+D) Some haram is intoxicant.
+
+Key Takeaway
+The contrapositive of a universal affirmative is universal affirmative; of a particular affirmative it is invalid; of negatives (universal or particular) it is particular negative.
+
+How This Lesson Applies — to MY Life?
+?
+1) Give the contrapositive of 'Every intoxicant is forbidden' (a universal affirmative) and verify it is valid. Answer: 'Every non-forbidden is non-intoxicant'.
+?
+2) Explain why the proposition 'Some animal is not human' (particular negative) does not have a valid universal contrapositive, following the author's reductio argument.
+
+Pages p. 487 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 487
+Module 16 · Lesson 104
+Next →
+Immediate Inference
+advanced
+10 min
+First Doubt: Contrapositive of an Impossible Subject
+Author critiques and resolves a doubt about contraposition with a non-existent subject.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why contraposition fails when the subject of the original proposition is non-existent and identify the correct resolution.
+
+Core Idea
+Contraposition requires real individuals; impossible subjects break the rule.
+
+In this lesson, we tackle a subtle problem: if a proposition is true but its subject cannot exist, does its contrapositive have to be true? The author presents a theological example and guides us through the pitfalls of applying contraposition blindly.
+
+Guided Path
+1
+Locate the original true proposition
+Identify the proposition: 'Every non-conjunction of contradictories is not a partner of Allah.' Note that its subject is impossible (non-conjunction of contradictories cannot exist).
+2
+Compute the contrapositive
+Form the contrapositive: 'Every partner of Allah is a conjunction of contradictories.' This is the result of reversing and negating the terms.
+3
+Evaluate truth values
+The original is true because its subject is impossible (a universal negative with an empty subject is true). The contrapositive is false because its subject 'partner of Allah' does not exist, making a universal affirmative false.
+This reveals a counterexample to the claim that contraposition always preserves truth.
+4
+Examine the attempted fix (haqiqiyya)
+One might try to reinterpret the original as a haqiqiyya proposition (allowing hypothetical existence) to save the contrapositive. The author rejects this as it either leads to obstinacy or does not resolve the issue.
+5
+Understand the author's resolution
+The author concludes that the only proper answer is to restrict the rule of contraposition to propositions whose terms have actual individuals in reality. Otherwise, the rule does not apply.
+This is a critical refinement of the logical principle.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَهَهُنَا شَكٍّ مِنْ وَجْهَيْنِ ، الْأَوَّلُ : أَنَّ قَوْلَنَا كُلُّ لَا اجْتِمَاعُ النَّقِيضَيْنِ لَا شَرِيكُ الْبَارِي صَادِقٌ ، مَعَ أَنَّ عَكْسَهُ كُلُّ شَرِيكِ الْبَارِي اجْتِمَاعُ النَّقِيضَيْنِ» كَاذِبٌ بعدم وجود الموضوع، ولتباين حقائقهما الباطلة. (وَلَكَ أَنْ تَلْتَزِمَ صِدْقَهُ حَقِيقَيةً)، وتقول عكسه صادق ، (فَافْهَمْ). فيه إشارة إلى أنه غير تام؛ لأن أصل الإشكال أن كل لا اجتماع النقيضين لاشريك الباري صادق خارجية، وعكسه خارجية كاذب، فلا ينفع التزام الحقيقة في العكس. ثم الحقيقية إن أخذت بتية فالتزام صدقه يكاد يقرب إلى المكابرة ، ثم لا حاجة إلى التزام صدق ذلك بتية كانت أو غير بتية ؛ لأن الأصل لو فرض حقيقية، ويكتفى للحكم الإيجابي بالوجود الفرضي للأفراد، فهو ممنوع الصدق، فكذب العكس غير ضار، وإن لم يكتف بالوجود الفرضي للإيجاب فالتزام الحقيقية لا ينفع، فإذن قد ظهر أن لا جواب إلا بتخصيص الدعوى بالقضايا التي يكون لنقيضي طرفيها أفراد في نفس الأمر، كما مر في بحث الكليات. هذا، والعلم الحقيقي عند العليم الخبير. وَمِنْ هَهُنَا أَمْكَنَ لَكَ الْتِزَامُ تَصَادُقِ الْمُمْتَنِعَاتِ كُلِّهَا)، بأن تأخذ نقيضي أي ممتنعين شئتَ ، وتعقد منهما قضية موجبة ، فينعكس بعكس النقيض، فيلزم صدق كل منهما على الآخر، نحو كل لاجزء لا يتجزأ لاخلاء، فكل خلاء جزء لا يتجزأ»، (فَكَأَنَّ الاِمْتِنَاعَ عَدَمٌ وَاحِدٌ) له عنوانات ، تارة يعبر عنه باجتماع النقيضين، وتارة بالجواهر الفردة، وتارة بشريك الباري، (كَمَا أَنَّ الْوُجُوبَ وُجُودٌ وَاحِدٌ لا شركة فيه أصلا، وهذا قياس خال عن الجامع، (وَيَتَأَكَّد التَّجْوِيزُ فِي اسْتِلْزَامِ الْمُحَالِ مُحَالا] (١) مُطْلَقًا) ؛ إذ كل شيء يستلزم نفسه .
+And here is a doubt from two aspects. The first: Our statement 'Every non-conjunction of contradictories is not a partner of Allah' is true, while its contrapositive 'Every partner of Allah is a conjunction of contradictories' is false due to the non-existence of the subject and the disparity of their false essences. And you may adopt its truth as a true proposition (haqiqiyya) and say its contrapositive is true, so understand. There is an indication that it is incomplete; because the origin of the problem is that 'Every non-conjunction of contradictories is not a partner of Allah' is true as an external (kharijiyya) proposition, and its contrapositive as external is false, so adopting the true proposition in the conversion does not benefit. Then if the true proposition is taken as absolute, adopting its truth nearly approaches obstinacy, then there is no need to adopt the truth of that whether absolute or not; because the original, if it is assumed as true proposition, and for affirmative judgment the hypothetical existence of individuals suffices, then it is prevented from being true, so the falsity of the contrapositive is not harmful. And if hypothetical existence is not sufficient for affirmation, then adopting the true proposition does not benefit. So it has become clear that there is no answer except by restricting the claim to propositions whose contradictory terms have actual individuals in reality, as was mentioned in the discussion of universals. This, and true knowledge is with the All-Knowing, the All-Aware. And from here it is possible for you to adopt the mutual truth of all impossibilities, by taking the contradictories of any two impossibilities you wish and forming a positive proposition from them, then it is converted by contraposition, necessitating the truth of each about the other, like 'Every non-part indivisible is a void', so 'Every void is a non-part indivisible'. So as if impossibility is one non-existence with different designations, sometimes expressed as conjunction of contradictories, sometimes as indivisible atoms, sometimes as partner of Allah, just as necessity is one existence with no sharing at all. And this is a syllogism devoid of a common term. And the possibility of an impossible entailing an impossible is confirmed absolutely; because everything entails itself.
+Source pages p. 487
+
+Commentary
+This passage presents the first of two doubts concerning contraposition. The doubt arises from a proposition with an impossible subject: 'Every non-conjunction of contradictories is not a partner of Allah' is true (since the subject is impossible), but its contrapositive 'Every partner of Allah is a conjunction of contradictories' would be false because the subject does not exist. The author discusses several attempted resolutions, such as interpreting the original as a haqiqiyya (true proposition with hypothetical existence). He dismisses these, concluding that the only proper answer is to restrict the rules of contraposition to propositions whose terms have actual individuals in reality. After resolving the doubt, he notes a corollary: that all impossibilities can be mutually true of each other via contraposition, since they are essentially the same non-existence. This leads to the affirmation that an impossible can entail an impossible, because everything entails itself.
+
+Key Terms
+قضية خارجية
+قضية حقيقية
+الممتنعات
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the contrapositive of 'Every non-conjunction of contradictories is not a partner of Allah' fail?
+A) Because the original is false.
+B) Because the contrapositive has a non-existent subject.
+C) Because the contrapositive is particular affirmative.
+D) Because the contrapositive is universal affirmative.
+
+Key Takeaway
+The rule of contraposition must be restricted to propositions whose terms have actual individuals; otherwise, it may lead to false conclusions.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition 'Every non-eternal is created' (i.e., everything that is not eternal is created). Form its contrapositive. Evaluate whether the contrapositive is true or false according to the author's criterion.
+?
+Identify a theological statement with an impossible subject (e.g., 'Every partner of Allah is a conjunction of contradictories') and test whether its contrapositive would be true or false under the author's resolution.
+
+Pages p. 487 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 488
+Module 16 · Lesson 105
+Next →
+Immediate Inference
+intermediate
+5 min
+Contrapositive and Contradiction in Kalam
+Author presents a premise and its contrapositive leading to contradiction.
+
+Learning Objective
+By the end of this lesson, you will be able to apply contraposition to a conditional statement about temporal existence and identify the resulting contradiction with a given premise.
+
+Core Idea
+Contraposition can expose hidden contradictions in premises about existence.
+
+In Kalam, philosophers rigorously analyze the logical implications of premises about necessary and temporal existence. This passage presents a doubt that arises when we contrapose a statement about temporal things. By carefully tracing the logical steps, you will see how a seemingly true premise can lead to a contradiction, revealing a potential flaw in the reasoning.
+
+Guided Path
+1
+Identify the established premise
+The author first establishes a premise: if something's existence does not entail the removal of an actual non-existence, then it must be eternal (always existent). Note how this is proved by contrapositive in the background.
+This premise sets the stage for the contradiction.
+2
+Locate the statement about temporal things
+The author then considers the statement: 'Whenever the temporal thing exists, its existence entails the removal of a non-existence in reality.' Recognize this as a conditional proposition (if-then).
+This statement is taken as true.
+3
+Apply contraposition to the statement
+Compute the contrapositive: 'If the existence of the temporal thing does not entail the removal of an actual non-existence, then the temporal thing is not existent.' This is a valid immediate inference.
+Contraposition preserves truth for conditionals.
+4
+Compare the contrapositive with the established premise
+The established premise says: anything not entailing removal of non-existence is eternal. But the contrapositive says: if it does not entail removal, then it is not existent (i.e., non-existent). These two conclusions conflict: the same condition leads to 'eternal' vs. 'non-existent', a contradiction.
+This contradiction shows a problem with the initial premise or the application.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَالثَّانِي: وَلْتُمَهَّدْ مُقَدِّمَةٌ ، وَهِيَ كُلُّ مَا لَمْ يَسْتَلْزِمْ وُجُودُهُ رَفْعَ عَدَمٍ وَاقِعِيٌّ كَانَ مَوْجُودًا دَائِمًا أزلا وأبدا ، (وَإِلَّا) يكن موجودا دائما فيكون معدوما في الجملة، اسْتَلْزَمَ وُجُودُهُ رَفْعَ ذَلِكَ الْعَدَم)، فلا يكون غير مستلزم رفع عدم واقعي، هذا خلف. فَنَقُولُ : [ قَوْلُنَا ] (٢) كُلَّمَا وُجِدَ الْحَادِثُ اسْتَلْرَمَ وُجُودُهُ رَفْعَ عَدَمٍ فِي الْوَاقِعِ حَقٌّ، وَهُوَ يَنْعَكِسُ بِهَذَا الْعَكْسِ إِلَى مَا يُنَافِي الْمُقَدِّمَةَ الْمُمَهَّدَةَ) ، وهو «كلما لم يستلزم وجود الحادث رفع عدم واقعي لم يكن موجودا».
+And the second: Let a premise be established, which is: Everything whose existence does not entail the removal of an actual non-existence is always existent, from eternity to eternity. (Otherwise) if it is not always existent, then it is existent at some time and non-existent at some time, then its existence would entail the removal of that non-existence, so it would not be something that does not entail removal of an actual non-existence; this is a contradiction. So we say: Our statement 'Whenever the temporal thing exists, its existence entails removal of a non-existence in reality' is true, and it converts by this contraposition to something that contradicts the established premise, namely: 'Whenever the existence of the temporal thing does not entail removal of an actual non-existence, it is not existent.'
+Source pages p. 488
+
+Commentary
+This passage presents the second doubt. It first establishes a premise: if something's existence does not necessitate the removal of some actual non-existence, then it must be eternal (always existing). This is proved by contrapositive: if it were not eternal, then it would be temporal, meaning its existence would remove a prior non-existence, contradicting the assumption. Then the author applies this to the statement: 'Whenever the temporal thing (al-hadith) exists, its existence entails the removal of a non-existence in reality.' The contrapositive of this statement would be: 'Whenever the existence of the temporal thing does not entail removal of an actual non-existence, it is not existent.' This contradicts the established premise, which says that anything not entailing removal of non-existence is eternal (always existent), not non-existent. Thus, the contrapositive leads to a contradiction, showing a problem with the initial premise or the application of contraposition.
+
+Key Terms
+حادث
+عدم واقعي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the premise, if a thing's existence does not entail removal of an actual non-existence, what must be true of it?
+A) It is temporal.
+B) It is non-existent.
+C) It is eternal.
+D) It is impossible.
+
+Key Takeaway
+Contraposition is a powerful but delicate logical tool; applying it to premises about existence can reveal hidden contradictions that demand refinements in the original reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Take the premise: 'Every eternal being does not entail removal of non-existence.' Write its contrapositive and compare it with the statement 'The Necessary Existent is eternal'. Does any contradiction arise? Use the same method as in the lesson.
+?
+Consider the conditional: 'If the world were eternal, it would not need a cause.' Find its contrapositive and evaluate whether the conclusion supports the Kalam cosmological argument.
+
+Pages p. 488 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 488
+Module 16 · Lesson 106
+Next →
+Immediate Inference
+intermediate
+6 min
+Conditions for Valid Conversion by Contraposition
+Author restricts conversion by contraposition to terms with actual existence
+
+Learning Objective
+By the end of this lesson, you will be able to identify the necessary condition for valid conversion by contraposition and evaluate whether a given contrapositive inference is justified.
+
+Core Idea
+Conversion by contraposition requires terms with actual individuals.
+
+Conversion by contraposition (عكس النقيض) is a powerful tool for deriving new propositions, but it does not work unconditionally. The author warns that we must restrict it to propositions whose contradictory terms have actual existence. This lesson unpacks that condition and shows how to apply it correctly.
+
+Guided Path
+1
+Recall the form of conversion by contraposition
+Conversion by contraposition transforms 'Every A is B' into 'Every non-B is non-A'. Write down this form and identify the subject and predicate of the original and the converse.
+This differs from simple conversion (عكس مستوي).
+2
+Identify the problem with hypothetical existence
+The author considers a scenario where we allow hypothetical existence for the affirmative. Under that, even if terms lack actual instances, the converse might be false but that doesn't harm the original. However, he rejects this as a solution. Recognize the issue: if the terms don't refer to real things, the inference is shaky.
+The passage says: 'فكذب العكس غير ضار' – the falsity of the converse is not harmful if we rely on hypothetical existence. But this is not accepted.
+3
+Extract the author's solution
+The only answer, the author says, is to restrict the claim to propositions 'whose contradictory terms have individuals in actual reality' (القضايا التي يكون لنقيضي طرفيها أفراد في نفس الأمر). Underline this condition in the Arabic.
+This refers back to the discussion of universals (كليات).
+4
+Test with an Islamic example
+Take the proposition 'Every mu'min is not a kafir' (from fiqh). Its contrapositive is 'Every kafir is not a mu'min'. Do the terms 'mu'min' and 'kafir' have actual individuals? Yes. So the contraposition holds. Now consider 'Every impossible is non-existent.' The contradictory terms ('impossible' and 'non-existent') arguably do not have actual individuals because impossibles are not real. Thus contraposition would not be valid.
+This shows the practical relevance of the condition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في عكس النقيض
+إلى التزام صدق ذلك بتية كانت أو غير بتية ؛ لأن الأصل لو فرض حقيقية، ويكتفى للحكم الإيجابي بالوجود الفرضي للأفراد، فهو ممنوع الصدق، فكذب العكس غير ضار، وإن لم يكتف بالوجود الفرضي للإيجاب فالتزام الحقيقية لا ينفع، فإذن قد ظهر أن لا جواب إلا بتخصيص الدعوى بالقضايا التي يكون لنقيضي طرفيها أفراد في نفس الأمر، كما مر في بحث الكليات. هذا، والعلم الحقيقي عند العليم الخبير.
+وَمِنْ هَهُنَا أَمْكَنَ لَكَ الْتِزَامُ تَصَادُقِ الْمُمْتَنِعَاتِ كُلِّهَا، بأن تأخذ نقيضي أي ممتنعين شئتَ، وتعقد منهما قضية موجبة، فينعكس بعكس النقيض، فيلزم صدق كل منهما على الآخر، نحو: كل لاجزء لا يتجزأ لاخلاء، فكل خلاء جزء لا يتجزأ، فَكَأَنَّ الاِمْتِنَاعَ عَدَمٌ وَاحِدٌ له عنوانات، تارة يعبر عنه باجتماع النقيضين، وتارة بالجواهر الفردة، وتارة بشريك الباري، كَمَا أَنَّ الْوُجُوبَ وُجُودٌ وَاحِدٌ لا شركة فيه أصلا، وهذا قياس خال عن الجامع، وَيَتَأَكَّد التَّجْوِيزُ فِي اسْتِلْزَامِ الْمُحَالِ مُحَالا مُطْلَقًا؛ إذ كل شيء يستلزم نفسه.
+Chapter on conversion by contraposition: [It is] to the commitment of the truth of that, whether [the terms] have actual individuals or not; because the original statement, if assumed to be genuine, and for the affirmative judgment the hypothetical existence of individuals suffices, then it is prevented from being true, so the falsity of the converse is not harmful. And if one does not suffice with the hypothetical existence for the affirmative, then commitment to genuineness is of no use. So it has become clear that there is no answer except by restricting the claim to propositions whose contradictory terms actually have individuals, as passed in the discussion of universals. This, and true knowledge is with the All-Knowing, the All-Aware. And from here it became possible for you to commit to the truthfulness of all impossible propositions, by taking the contradictories of any two impossibles you wish, and forming an affirmative proposition from them, then it converts by conversion by contraposition, necessitating the truth of each [term] of the other, like: Every indivisible part is not void, so every void is an indivisible part. So it is as if impossibility is a single non-existence with multiple designations: sometimes it is expressed by the conjunction of two contradictories, sometimes by indivisible atoms, sometimes by a partner of the Creator. Just as necessity is a single existence with absolutely no participation, and this is an analogical reasoning without a common [principle]. And the permission is strengthened in the implication of an impossible from an impossible absolutely; because everything implies itself.
+Source pages p. 488
+
+Commentary
+This passage is a two-part discussion. First, it clarifies the conditions for conversion by contraposition (عكس النقيض). The author states that the rule applies only when the contradictory terms of the subject and predicate actually have individuals in reality. If we rely on hypothetical existence for the affirmative, the falsity of the converse does not harm the original. But if we demand actual existence, then we must restrict the claim to propositions with real referents for their terms. Second, the author shows a startling application: by taking two impossible propositions (like 'an indivisible part is void' and its contradictory), we can form an affirmative that, via contraposition, yields the truth of each about the other. This makes all impossibilities equivalent—they are all 'non-existence' under different names. The author compares this to necessity, which is one unified existence. This leads to the principle that an impossible implies any impossible (since everything implies itself). The commentary here is expanding on the implications of the conversion rule, guarding against the mistake of thinking contraposition applies unrestrictedly.
+
+Key Terms
+عكس النقيض
+ممتنعات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what condition must be met for conversion by contraposition to be valid?
+A) The original proposition must be affirmative.
+B) The terms of the proposition must have actual individuals in reality.
+C) The proposition must be universal.
+D) The converse must be true by hypothetical existence.
+
+Key Takeaway
+The validity of conversion by contraposition hinges on the actual existence of individuals for the contradictory terms of the subject and predicate.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition from fiqh: 'Every intoxicant is haram.' Form its contrapositive. Then check whether the condition of actual individuals is met for its contradictory terms ('non-haram' and 'non-intoxicant').
+?
+Identify a case where someone mistakenly uses contraposition on a proposition about non-existent things (e.g., 'Every partner of God is non-existent'). Explain why the inference fails according to the author's condition.
+
+Pages p. 488 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 488
+Module 16 · Lesson 107
+Next →
+Immediate Inference
+advanced
+8 min
+Equivalence of All Impossibles via Contraposition
+Author uses contraposition to show equivalence of all impossible propositions
+
+Learning Objective
+By the end of this lesson, you will be able to apply conversion by contraposition to show that any two impossible propositions are equivalent, and explain the philosophical implication that impossibility is a single non-existence.
+
+Core Idea
+All impossibilities are one non-existence under different names.
+
+Building on the condition for contraposition, the author presents a striking demonstration: by taking any two impossible propositions, forming an affirmative from their contradictories, and applying contraposition, we can prove that each implies the other. This leads to the insight that impossibility is a unified non-existence, just as necessity is a unified existence.
+
+Guided Path
+1
+Select two impossible propositions from Islamic kalam
+Pick two statements that are widely considered impossible, such as 'There exists an indivisible part' (الجواهر الفردة) and 'There exists a partner of God' (شريك الباري). Both are impossible in the Islamic tradition.
+The author uses 'كل لا جزء لا يتجزأ لاخلاء' – 'Every indivisible part is not void' and its contrapositive.
+2
+Form an affirmative proposition linking their contradictories
+The author says to take the contradictories of the two impossibles and form an affirmative. For example, the contradictory of 'There exists an indivisible part' is 'No indivisible part exists' (or 'Every indivisible part is non-existent'). But the author's example uses a different phrasing: 'Every indivisible part is not void' – this is an affirmative that the indivisible part is not void. Then the contradictory of 'The void exists' would be 'The void is not an indivisible part' or something. Actually, follow the author's example: take 'The void is an indivisible part'? No, read the Arabic: 'كل لاجزء لا يتجزأ لاخلاء' means 'Every indivisible part is not void' (i.e., no indivisible part is void). Then contraposition gives 'كل خلاء لا يتجزأ' meaning 'Every void is an indivisible part'. So the two impossibles are: (1) 'An indivisible part is void' (impossible) and (2) 'The void is an indivisible part' (impossible). The affirmative is the original proposition. So essentially, you take an impossible proposition like 'Some A is B', you form its contradictory 'No A is B' (which is affirmative universal?), then contraposition yields 'Every non-B is non-A'? This needs careful understanding.
+The key is that by starting with an affirmative that relates the contradictories, contraposition yields the other impossible.
+3
+Apply conversion by contraposition
+Assuming the condition is met (though here the terms may not have actual individuals), the author applies contraposition to the affirmative. From 'Every indivisible part is not void', contraposition gives 'Every void is an indivisible part'. Now we have two impossible propositions that are converses of each other.
+The author seems to overlook the condition here, or rather he is showing that even if we apply it, we get an equivalence among impossibles.
+4
+Draw the philosophical consequence
+The author concludes that all impossibilities are essentially the same non-existence, just with different names. Similarly, necessity (wujub) is a single existence with no participation. This is a deep metaphysical point: impossibility is not multiple; it's one.
+The passage says: 'فَكَأَنَّ الامْتِنَاعَ عَدَمٌ وَاحِدٌ له عنوانات' – 'So it is as if impossibility is a single non-existence with multiple designations.'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في عكس النقيض
+إلى التزام صدق ذلك بتية كانت أو غير بتية ؛ لأن الأصل لو فرض حقيقية، ويكتفى للحكم الإيجابي بالوجود الفرضي للأفراد، فهو ممنوع الصدق، فكذب العكس غير ضار، وإن لم يكتف بالوجود الفرضي للإيجاب فالتزام الحقيقية لا ينفع، فإذن قد ظهر أن لا جواب إلا بتخصيص الدعوى بالقضايا التي يكون لنقيضي طرفيها أفراد في نفس الأمر، كما مر في بحث الكليات. هذا، والعلم الحقيقي عند العليم الخبير.
+وَمِنْ هَهُنَا أَمْكَنَ لَكَ الْتِزَامُ تَصَادُقِ الْمُمْتَنِعَاتِ كُلِّهَا، بأن تأخذ نقيضي أي ممتنعين شئتَ، وتعقد منهما قضية موجبة، فينعكس بعكس النقيض، فيلزم صدق كل منهما على الآخر، نحو: كل لاجزء لا يتجزأ لاخلاء، فكل خلاء جزء لا يتجزأ، فَكَأَنَّ الاِمْتِنَاعَ عَدَمٌ وَاحِدٌ له عنوانات، تارة يعبر عنه باجتماع النقيضين، وتارة بالجواهر الفردة، وتارة بشريك الباري، كَمَا أَنَّ الْوُجُوبَ وُجُودٌ وَاحِدٌ لا شركة فيه أصلا، وهذا قياس خال عن الجامع، وَيَتَأَكَّد التَّجْوِيزُ فِي اسْتِلْزَامِ الْمُحَالِ مُحَالا مُطْلَقًا؛ إذ كل شيء يستلزم نفسه.
+Chapter on conversion by contraposition: [It is] to the commitment of the truth of that, whether [the terms] have actual individuals or not; because the original statement, if assumed to be genuine, and for the affirmative judgment the hypothetical existence of individuals suffices, then it is prevented from being true, so the falsity of the converse is not harmful. And if one does not suffice with the hypothetical existence for the affirmative, then commitment to genuineness is of no use. So it has become clear that there is no answer except by restricting the claim to propositions whose contradictory terms actually have individuals, as passed in the discussion of universals. This, and true knowledge is with the All-Knowing, the All-Aware. And from here it became possible for you to commit to the truthfulness of all impossible propositions, by taking the contradictories of any two impossibles you wish, and forming an affirmative proposition from them, then it converts by conversion by contraposition, necessitating the truth of each [term] of the other, like: Every indivisible part is not void, so every void is an indivisible part. So it is as if impossibility is a single non-existence with multiple designations: sometimes it is expressed by the conjunction of two contradictories, sometimes by indivisible atoms, sometimes by a partner of the Creator. Just as necessity is a single existence with absolutely no participation, and this is an analogical reasoning without a common [principle]. And the permission is strengthened in the implication of an impossible from an impossible absolutely; because everything implies itself.
+Source pages p. 488
+
+Commentary
+This passage is a two-part discussion. First, it clarifies the conditions for conversion by contraposition (عكس النقيض). The author states that the rule applies only when the contradictory terms of the subject and predicate actually have individuals in reality. If we rely on hypothetical existence for the affirmative, the falsity of the converse does not harm the original. But if we demand actual existence, then we must restrict the claim to propositions with real referents for their terms. Second, the author shows a startling application: by taking two impossible propositions (like 'an indivisible part is void' and its contradictory), we can form an affirmative that, via contraposition, yields the truth of each about the other. This makes all impossibilities equivalent—they are all 'non-existence' under different names. The author compares this to necessity, which is one unified existence. This leads to the principle that an impossible implies any impossible (since everything implies itself). The commentary here is expanding on the implications of the conversion rule, guarding against the mistake of thinking contraposition applies unrestrictedly.
+
+Key Terms
+عكس النقيض
+ممتنعات
+
+Key Terms from Source Passage
+
+Checkpoint
+What metaphysical conclusion does the author draw from applying contraposition to impossible propositions?
+A) That all impossibilities are false.
+B) That impossibility is a single non-existence with many names.
+C) That contraposition cannot be applied to impossibilities.
+D) That necessity and impossibility are the same.
+
+Key Takeaway
+By applying contraposition to impossibles, we discover that all impossibilities are equivalent expressions of a single non-existence.
+
+How This Lesson Applies — to MY Life?
+?
+Choose two impossible propositions from Islamic theology: 'The Qur'an is created' (an impossibility according to Sunni creed) and 'God has a son' (impossible). Following the author's method, construct an affirmative proposition from their contradictories and apply contraposition. Show what conclusion you reach.
+?
+Explain in your own words why the author says 'this is an analogical reasoning without a common principle' (وهذا قياس خال عن الجامع). What does that mean for the strength of the argument?
+
+Pages p. 488 · Immediate Inference
+← Prev
+Mark Done
+Next →

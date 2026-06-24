@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:02Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/%D8%A7%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%DB%8C%20%D8%A8%DB%8C%D8%B1%D9%88%D8%AA_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/81 - اصول الشاشی بیروت Merged With Pgs",
+  "output_bytes": 2957765,
+  "output_sha256": "212ec596dc7748d23e2f6fef4d87d114d8d77c81ddec65907db13c451199a64a",
+  "checks": {
+    "catalog_expected_lessons": 417,
+    "course_reported_lessons": 417,
+    "index_lessons": 417,
+    "full_lessons": 417,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 23,
+    "course_reported_modules": 23,
+    "modules": 23,
+    "course_reported_sources": 432,
+    "sources": 432
+  }
+}

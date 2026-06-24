@@ -1,0 +1,1816 @@
+← Prev
+p. 280
+Module 14 · Lesson 101
+Next →
+The Syllogism
+beginner
+5 min
+Affirming the antecedent conditional syllogism
+Author demonstrates affirming the antecedent with mercury example
+
+Learning Objective
+By the end of this lesson, you will be able to construct a valid conditional syllogism using affirming the antecedent (wad' al-muqaddam) and verify its validity.
+
+Core Idea
+Affirming the antecedent is one of only two valid conditional inference forms.
+
+In this lesson, we examine the first valid form of the conditional syllogism, where the antecedent is affirmed. Using the classic mercury example from the source, we see how affirming the truth of the 'if' clause logically compels the truth of the 'then' clause. This form is widely used in Islamic legal reasoning, such as deriving rulings from conditional premises.
+
+Guided Path
+1
+Identify the conditional statement
+Locate the major premise in the Arabic: 'إذا كان هذا السائل زئبقاً فهو يتمدد بالحرارة'. This is a conditional (shartiyya muttasila) with an antecedent (muqaddam) and consequent (tali).
+2
+Find the affirmative minor premise
+The minor premise 'لكنه فعلاً زئبق' affirms the antecedent (wad' al-muqaddam). In the Arabic, the phrase 'وقد وضع فيها المقدم' indicates this explicitly.
+Affirming the antecedent means asserting the 'if' part is true.
+3
+State the conclusion
+The conclusion 'فهو يتمدد بالحرارة' affirms the consequent (tali). This follows necessarily because the conditional is true and the antecedent holds.
+4
+Distinguish from the fallacy of affirming the consequent
+Note that affirming the consequent (e.g., 'it expands, so it must be mercury') is not valid. The lesson's form is valid only because we affirm the antecedent, not the consequent.
+Affirming the consequent is a common fallacy in Islamic jurisprudence debates.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و - إذا كان هذا السائل زئبقاً فهو يتمدد بالحرارة (الكبرى).
+لكنه فعلاً زئبق (الصغرى. وقد وضع فيها المقدم).
+.. فهو يتمدد بالحرارة (النتيجة. وقد وضع فيها التالي).
+أو: لكنه بالتجربة لا يتمدد بالحرارة (الصغرى. وقد رفع فيها التالي).
+.. فهو ليس زئبقاً (النتيجة. وقد رفع فيها المقدم).
+W: If this liquid is mercury, then it expands with heat (major premise). But it is indeed mercury (minor premise, in which the antecedent is affirmed). Therefore it expands with heat (conclusion, in which the consequent is affirmed). Or: But it does not expand with heat in experiment (minor premise, in which the consequent is denied). Therefore it is not mercury (conclusion, in which the antecedent is denied).
+Source pages p. 280
+
+Commentary
+This passage provides an example of a conditional syllogism using a scientific observation about mercury. It shows both valid forms: affirming the antecedent (wad' al-muqaddam) and denying the consequent (raf' al-tali). In the first, the minor premise affirms that the liquid is mercury, so the consequent (expands with heat) is concluded. In the second, the minor premise denies the consequent (does not expand), so the antecedent (it is mercury) is denied. This demonstrates the two valid modes of the conditional syllogism. In Islamic logic, such examples are used to illustrate reasoning that can be applied in jurisprudence, e.g., 'If an act is obligatory, it is rewarded; this act is obligatory; therefore it is rewarded.'
+
+Key Terms
+وضع المقدم (wad' al-muqaddam)
+زئبق (zi'baq)
+
+Key Terms from Source Passage
+
+Checkpoint
+In the conditional syllogism 'If an act is obligatory, it is rewarded. This act is obligatory. Therefore it is rewarded.' Which form is used?
+A) Affirming the antecedent
+B) Denying the consequent
+C) Affirming the consequent
+D) Denying the antecedent
+
+Key Takeaway
+Affirming the antecedent (wad' al-muqaddam) is one of only two valid conditional syllogism forms; it yields a necessary conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conditional syllogism using affirming the antecedent on a fiqh topic of your choice (e.g., 'If a drink is khamr, it is forbidden. This drink is khamr. Therefore it is forbidden.'). Ensure the minor premise affirms the antecedent.
+?
+Identify the form in the following passage: 'If the witness is trustworthy, his testimony is accepted. He is trustworthy. Therefore his testimony is accepted.' Is this affirming the antecedent or something else?
+
+Pages p. 280 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 280
+Module 14 · Lesson 102
+Next →
+The Syllogism
+beginner
+5 min
+Denying the consequent conditional syllogism
+Author demonstrates denying the consequent with mercury example
+
+Learning Objective
+By the end of this lesson, you will be able to construct a valid conditional syllogism using denying the consequent (raf' al-tali) and distinguish it from the fallacy of denying the antecedent.
+
+Core Idea
+Denying the consequent is the other valid conditional form, often mistaken for denying the antecedent.
+
+This lesson covers the second valid form of the conditional syllogism: denying the consequent. In the mercury example, we deny that the liquid expands, so we conclude it is not mercury. This form is essential in Islamic legal reasoning for rejecting invalid causes or disproving hypotheticals, such as in Kalam arguments for the temporality of the world.
+
+Guided Path
+1
+Identify the conditional statement
+The major premise is the same conditional: 'إذا كان هذا السائل زئبقاً فهو يتمدد بالحرارة'.
+2
+Find the negative minor premise
+The minor premise 'لكنه بالتجربة لا يتمدد بالحرارة' denies the consequent (raf' al-tali). The Arabic phrase 'وقد رفع فيها التالي' indicates this.
+Denying the consequent means asserting the 'then' part is false.
+3
+State the conclusion
+The conclusion 'فهو ليس زئبقاً' denies the antecedent (raf' al-muqaddam). This follows necessarily: if the conditional is true and the consequent is false, the antecedent must be false.
+4
+Distinguish from the fallacy of denying the antecedent
+Note that denying the antecedent (e.g., 'it is not mercury, so it does not expand') is not valid. The valid form is denying the consequent only.
+Denying the antecedent is a common fallacy in Islamic jurisprudence debates.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و - إذا كان هذا السائل زئبقاً فهو يتمدد بالحرارة (الكبرى).
+لكنه فعلاً زئبق (الصغرى. وقد وضع فيها المقدم).
+.. فهو يتمدد بالحرارة (النتيجة. وقد وضع فيها التالي).
+أو: لكنه بالتجربة لا يتمدد بالحرارة (الصغرى. وقد رفع فيها التالي).
+.. فهو ليس زئبقاً (النتيجة. وقد رفع فيها المقدم).
+W: If this liquid is mercury, then it expands with heat (major premise). But it is indeed mercury (minor premise, in which the antecedent is affirmed). Therefore it expands with heat (conclusion, in which the consequent is affirmed). Or: But it does not expand with heat in experiment (minor premise, in which the consequent is denied). Therefore it is not mercury (conclusion, in which the antecedent is denied).
+Source pages p. 280
+
+Commentary
+This passage provides an example of a conditional syllogism using a scientific observation about mercury. It shows both valid forms: affirming the antecedent (wad' al-muqaddam) and denying the consequent (raf' al-tali). In the first, the minor premise affirms that the liquid is mercury, so the consequent (expands with heat) is concluded. In the second, the minor premise denies the consequent (does not expand), so the antecedent (it is mercury) is denied. This demonstrates the two valid modes of the conditional syllogism. In Islamic logic, such examples are used to illustrate reasoning that can be applied in jurisprudence, e.g., 'If an act is obligatory, it is rewarded; this act is obligatory; therefore it is rewarded.'
+
+Key Terms
+رفع التالي (raf' al-tali)
+زئبق (zi'baq)
+
+Key Terms from Source Passage
+
+Checkpoint
+In the conditional syllogism 'If an intoxicant is consumed, then it is forbidden. This drink is not forbidden. Therefore it is not an intoxicant.' Which form is this?
+A) Affirming the antecedent
+B) Denying the consequent
+C) Affirming the consequent
+D) Denying the antecedent
+
+Key Takeaway
+Denying the consequent (raf' al-tali) is the second valid conditional form; it refutes the antecedent by negating the consequent.
+
+How This Lesson Applies — to MY Life?
+?
+Take the conditional 'If a drink is khamr, it is forbidden. This drink is not forbidden.' Write the valid conclusion using denying the consequent.
+?
+Identify which form is used in the following passage from a Fiqh debate: 'If this transaction is riba, it would be invalid; but the scholars ruled it is valid, so it is not riba.' Is this a valid inference? Why or why not?
+
+Pages p. 280 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 280
+Module 14 · Lesson 103
+Next →
+The Syllogism
+beginner
+8 min
+Valid Forms of Conditional Syllogism
+Author uses weather example to show both valid forms of conditional syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to identify modus ponens and modus tollens in conditional syllogisms and construct valid examples from Islamic sciences.
+
+Core Idea
+Conditional syllogisms yield certainty only through affirming the antecedent or denying the consequent.
+
+Conditional syllogisms (qiyas istithna'i muttasil) are central to Islamic reasoning, especially in kalam and usul al-fiqh. The author illustrates both valid forms using a simple weather correlation: clear sky implies no rain. This lesson shows you how to verify the validity of such arguments and avoid common fallacies.
+
+Guided Path
+1
+Identify the conditional major premise
+Find the statement that expresses a constant correlation using 'if... then...' (in Arabic: 'idha... fa...'). In the example: 'If the sky is clear, then no rain falls.' This is the universal rule (da'iman).
+The word 'da'iman' (always) marks a universal conditional.
+2
+Recognize the two valid forms
+The author presents two valid ways to use this premise. First: affirm the antecedent (clear sky) to conclude the consequent (no rain). Second: deny the consequent (rain falls) to conclude the denial of the antecedent (sky not clear).
+These are modus ponens and modus tollens respectively.
+3
+Check which part is asserted in the minor premise
+Read the minor premise: does it affirm the antecedent (clear sky) or deny the consequent (rain falls)? Each leads to a valid conclusion. If it affirms the consequent or denies the antecedent, the argument is invalid.
+Invalid forms: affirming the consequent, denying the antecedent.
+4
+Extract the conclusion
+The conclusion always matches the other part. If antecedent affirmed, conclude the consequent. If consequent denied, conclude the denial of the antecedent. Verify that the conclusion follows necessarily.
+This step tests logical necessity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ز - دائماً إذا كانت السماء صحواً فلا مطر ينزل على الأرض (الكبرى).
+لكنها فعلاً صحو (الصغرى. وقد وضع فيها المقدم).
+.. فلا مطر ينزل على الأرض (النتيجة. وقد وضع فيها التالي).
+أو: لكن المطر ينزل على الأرض (الصغرى. وقد رفع فيها التالي).
+.. فالسماء ليست صحواً (النتيجة. وقد رفع فيها المقدم).
+Z: Always if the sky is clear, then no rain falls on the earth (major premise). But it is indeed clear (minor premise, in which the antecedent is affirmed). Therefore no rain falls on the earth (conclusion, in which the consequent is affirmed). Or: But rain falls on the earth (minor premise, in which the consequent is denied). Therefore the sky is not clear (conclusion, in which the antecedent is denied).
+Source pages p. 280
+
+Commentary
+This passage presents a conditional syllogism example from natural observation. The major premise states a constant correlation: if the sky is clear, then no rain falls. The first minor premise affirms the antecedent (the sky is clear), leading to the conclusion that no rain falls. The second minor premise denies the consequent (rain falls), leading to the conclusion that the sky is not clear. Both are valid forms. In Islamic reasoning, such syllogisms are used in arguments about natural signs, e.g., 'If the day is long, then night is short; today is long; therefore night is short.'
+
+Key Terms
+دائماً
+القياس الاستثنائي الشرطي
+المقدم
+التالي
+وضع المقدم
+رفع التالي
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'If it rains, the ground becomes wet. The ground is not wet. Therefore it did not rain.' Which form is used?
+A) Affirming the antecedent
+B) Denying the consequent
+C) Affirming the consequent
+D) Denying the antecedent
+
+Key Takeaway
+A conditional syllogism is valid only when the minor premise either affirms the antecedent or denies the consequent; any other combination is invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conditional syllogism about prayer: 'If the sun has passed the zenith, then the time for dhuhr has entered. The sun has passed the zenith. Therefore...' Complete the conclusion and identify the form used.
+?
+Evaluate this argument: 'If the Qur'an is the word of God, then it is inimitable. But it is not inimitable (as some claim). Therefore it is not the word of God.' Is it valid? Which form does it use?
+
+Pages p. 280 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 280
+Module 14 · Lesson 104
+Next →
+The Syllogism
+beginner
+5 min
+Two Valid Forms of Conditional Syllogism
+Author uses political example to show both valid forms of conditional syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to identify and construct both modus ponens and modus tollens conditional syllogisms using Islamic examples.
+
+Core Idea
+Affirm the antecedent or deny the consequent to reach a valid conclusion.
+
+This lesson breaks down a political conditional syllogism to show two valid argument forms. Understanding these forms will help you reason correctly in Islamic jurisprudence and other sciences. The author provides a clear example that you can analyze step by step.
+
+Guided Path
+1
+Identify the major premise
+Recognize the universal conditional statement: 'If authority weakens or becomes corrupt, then security is disturbed.' Note that the part after 'if' is the antecedent, and the part after 'then' is the consequent.
+2
+Examine the first minor premise
+The first minor premise denies the consequent: 'Security was not disturbed.' This sets up a modus tollens inference.
+3
+Derive the first conclusion
+From denying the consequent, we validly deny the antecedent: 'Therefore authority did not weaken nor become corrupt.' Confirm the validity.
+4
+Examine the second minor premise
+The second minor premise affirms the antecedent: 'Authority weakened and became corrupt.' This sets up a modus ponens inference.
+5
+Derive the second conclusion
+From affirming the antecedent, we validly affirm the consequent: 'Therefore security was disturbed.' Confirm the validity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ح - دائماً إذا ضعفت السلطة أو فسدت اختل الأمن (الكبرى).
+لكن الأمن لم يختل. (الصغرى. وقد رفع فيها التالي).
+.. فالسلطة لم تضعف ولم تفسد. (النتيجة. وقد رفع فيها المقدم).
+أو: لكن ضعفت السلطة وفسدت. (الصغرى. وقد وضع فيها المقدم).
+.. فقد اختل الأمن. (النتيجة. وقد وضع فيها التالي).
+H: Always if the authority weakens or becomes corrupt, then security is disturbed (major premise). But security was not disturbed (minor premise, in which the consequent is denied). Therefore authority did not weaken nor become corrupt (conclusion, in which the antecedent is denied). Or: But authority weakened and became corrupt (minor premise, in which the antecedent is affirmed). Therefore security was disturbed (conclusion, in which the consequent is affirmed).
+Source pages p. 280
+
+Commentary
+This passage gives a political example of a conditional syllogism. The major premise is a universal conditional: if authority weakens or becomes corrupt, then security is disturbed. The first minor premise denies the consequent (security not disturbed), leading to the denial of the antecedent (authority not weak nor corrupt). The second minor premise affirms the antecedent (authority weakens and corrupts), leading to the affirmation of the consequent (security disturbed). Both are valid. In Islamic jurisprudence, similar reasoning is used, e.g., 'If a ruler is just, then the people prosper; the people are not prospering; therefore the ruler is not just.'
+
+Key Terms
+السلطة
+اختل الأمن
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example, when the minor premise states 'the authority weakened and became corrupt' (affirming antecedent), what is the conclusion?
+A) Security is disturbed
+B) Security is not disturbed
+C) Authority did not weaken
+D) Authority weakened but security was not disturbed
+
+Key Takeaway
+In a conditional syllogism, affirming the antecedent and denying the consequent are the two and only valid inference patterns.
+
+How This Lesson Applies — to MY Life?
+?
+1. Construct a valid modus ponens syllogism using the following: 'If a person breaks an intentional oath, he must expiate. Zaid broke an intentional oath. Therefore...' Complete the conclusion.
+?
+2. Identify which form (modus ponens or modus tollens) is used: 'If a woman is menstruating, she does not pray. She is praying. Therefore she is not menstruating.'
+
+Pages p. 280 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 280
+Module 14 · Lesson 105
+Next →
+The Syllogism
+beginner
+8 min
+Conditional Syllogism: Valid Forms in Islamic Legal Reasoning
+Ownership example illustrating both valid conditional syllogisms
+
+Learning Objective
+By the end of this lesson, you will be able to identify and construct valid conditional syllogisms (modus ponens and modus tollens) from Islamic legal examples.
+
+Core Idea
+Affirm the antecedent or deny the consequent to reach a valid conclusion.
+
+This passage presents a classic Islamic legal example of a conditional syllogism, demonstrating both valid forms: affirming the antecedent and denying the consequent. By studying this example, you will learn to identify the structure of conditional arguments and apply them to rulings in fiqh.
+
+Guided Path
+1
+Identify the antecedent and consequent
+In the major premise 'If A then B', locate A (the condition) and B (the permission). Here, A = 'the item is his property and he is capable of disposal', B = 'it is permissible for him to sell and gift'.
+Antecedent and consequent are the two parts of the conditional.
+2
+Recognize the two valid forms
+The first minor premise affirms the antecedent (A is true), leading to the conclusion that B is true (modus ponens). The second minor premise denies the consequent (B is false), leading to the conclusion that A is false (modus tollens).
+These are the only two valid forms for a conditional syllogism.
+3
+Verify logical necessity
+Check that the conclusion follows necessarily. If the major premise is true, affirming A forces B; denying B forces not-A. The example shows both are logically sound.
+If you affirm the consequent or deny the antecedent, the argument becomes invalid.
+4
+Connect to Islamic jurisprudence
+This pattern appears widely in fiqh. For instance, 'If a person is bankrupt (muflis), then his disposal is restricted. This person is bankrupt, so his disposal is restricted' (modus ponens). Or 'This person's disposal is not restricted, so he is not bankrupt' (modus tollens).
+Recognizing these forms helps evaluate legal arguments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ط - إذا كان هذا المتاع ملكه وهو أهل للتصرف جاز له بيعه وهبته (الكبرى).
+لكنه ملكه وهو أهل للتصرف (الصغرى. وقد وضع فيها المقدم).
+.. فيجوز له بيعه وهبته. (النتيجة. وقد وضع فيها التالي).
+أو: لكنه لا يجوز له بيعه وهبته. (الصغرى. وقد رفع فيها التالي).
+.. فهو ليس ملكه أو ليس أهلاً للتصرف. (النتيجة. وقد رفع فيها المقدم).
+T: If this item is his property and he is capable of disposal, then it is permissible for him to sell it and give it as a gift (major premise). But it is his property and he is capable of disposal (minor premise, in which the antecedent is affirmed). Therefore it is permissible for him to sell it and give it as a gift (conclusion, in which the consequent is affirmed). Or: But it is not permissible for him to sell it or give it as a gift (minor premise, in which the consequent is denied). Therefore it is not his property or he is not capable of disposal (conclusion, in which the antecedent is denied).
+Source pages p. 280
+
+Commentary
+This passage presents a legal example from Islamic jurisprudence (fiqh) of a conditional syllogism. The major premise states a rule: if an item is someone's property and they are legally capable of disposal, then they may sell or gift it. The first minor premise affirms the antecedent (he owns it and is capable), leading to the conclusion that he may sell or gift. The second minor premise denies the consequent (he may not sell or gift), leading to the conclusion that either he does not own it or he is not capable. Both forms are valid. This shows how conditional syllogisms apply in Islamic legal reasoning, e.g., 'If a person is bankrupt, then his disposal of property is restricted; this person is bankrupt; therefore his disposal is restricted.'
+
+Key Terms
+التصرف
+جاز
+
+Key Terms from Source Passage
+
+Checkpoint
+In the passage, when the minor premise denies the consequent (لا يجوز له بيعه), what is the conclusion?
+A) فهو ليس ملكه أو ليس أهلاً للتصرف
+B) فهو ملكه وهو أهل للتصرف
+C) يجوز له بيعه وهبته
+D) لا يجوز له بيعه ولا هبته
+
+Key Takeaway
+A conditional syllogism is valid only when the antecedent is affirmed or the consequent is denied; this is exemplified in Islamic legal reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conditional syllogism based on the fiqh rule: 'If a traveler (musafir) intends a journey of at least 3 days, then he may shorten the prayer (qasr).' Given the minor premise 'This person is a traveler intending a 3-day journey', state the conclusion and identify the form.
+?
+Identify whether the following argument is valid or invalid: 'If a person fasting intentionally eats, then the fast is invalid. This person's fast is invalid. Therefore he intentionally ate.' Explain why.
+
+Pages p. 280 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 282
+Module 14 · Lesson 106
+Next →
+The Syllogism
+intermediate
+8 min
+The Disjunctive Conditional Syllogism: Structure and Conditions
+Author defines the disjunctive conditional syllogism, its premises, conditions, and three cases.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of a disjunctive conditional syllogism and determine which exceptive premises are valid based on the type of disjunction.
+
+Core Idea
+The disjunctive syllogism relies on the type of disjunction to know which exceptions yield a valid conclusion.
+
+In this passage, the author defines the disjunctive conditional syllogism (al-qiyas al-istithna'i al-munfasil), explaining its two premises and the crucial conditions for a valid inference. You will learn how the type of disjunction—whether it prevents both truth together, both falsehood together, or both—determines which part can be excepted to reach a sound conclusion. This lesson will equip you to analyze arguments like 'Either the act is wajib or mubah; it is not wajib; therefore it is mubah.'
+
+Guided Path
+1
+Identify the two premises
+The major premise is a conditional disjunctive proposition (must be affirmative contradictory). The minor premise is a categorical proposition introduced by 'but' (lakinna) called the exceptive premise. One of the two premises must be universal (or singular with universal force).
+Look for the structure: major=disjunctive, minor=categorical exception.
+2
+Understand the three types of disjunction
+Preventive of conjunction (mani'at al-jam') means both cannot be true together. Preventive of void (mani'at al-khuluw) means both cannot be false together. Preventive of both (mani'at al-jam' wa al-khuluw) means exactly one is true. Each type allows different exceptions.
+This classification determines the valid exceptive operation.
+3
+Determine which exception is valid for each type
+For preventive of both: you can except the antecedent, its contradictory, the consequent, or its contradictory. For preventive of conjunction only: except only the antecedent or consequent directly (not their contradictories). For preventive of void only: except only the contradictory of the antecedent or the contradictory of the consequent.
+This is the key condition that avoids invalid inferences.
+4
+Apply the rule of affirmation and negation
+In this syllogism, affirming one part yields negation of the other, and negating one part yields affirmation of the other (for complete disjunction). This is the logical operation that produces the conclusion.
+Works only when the disjunction is exclusive (preventive of both).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياس الاستثنائي المنفصل
+هو ـ كما علمنا ـ القياس المؤلف من مقدمتين: كبرى وصغرى.
+المقدمة الكبرى: قضية شرطية منفصلة، ويشترط فيها أن تكون موجبة عنادية لا اتفاقية.
+المقدمة الصغرى: قضية حملية مقترنة بلفظة (لكن) أو نحوها، وتسمى استثنائية.
+ويجب أن تكون إحدى المقدمتين كلية (والشخصية بقوة الكلية).
+ويستثنى بالمقدمة الصغرى (الاستثنائية) مقدم الشرطية المنفصلة أو نقيضه، أو تالي الشرطية المنفصلة أو نقيضه. هذا إذا كانت المنفصلة مانعة جمع ومانعة خلو، فإن كانت مانعة جمع فقط، فيقتصر فيها على استثناء المقدم أو التالي دون نقيضيهما، وإن كانت مانعة خلو فقط فيقتصر فيها على استثناء نقيض المقدم أو نقيض التالي فقط، والوضع في هذا القياس ينتج الرفع، والرفع ينتج الوضع.
+ومن هذا يتبين لنا ثلاث حالات للاستثنائي المنفصل:
+الحالة الأولى: أن تكون الشرطية المنفصلة حقيقية، أي مانعة جمع وخلو معاً (كما سبق بيانه في القضايا)، ويشترط فيها أن تكون مؤلفة من
+The Disjunctive Conditional Syllogism
+It is — as we have learned — the syllogism composed of two premises: a major and a minor.
+The major premise: a conditional disjunctive proposition, and it is required to be an affirmative contradictory (not accidental) disjunction.
+The minor premise: a categorical proposition linked with the word 'but' or similar, and it is called the exceptive premise.
+One of the two premises must be universal (and a singular proposition has the force of a universal).
+By the minor (exceptive) premise, either the antecedent of the disjunctive conditional or its contradictory, or the consequent of the disjunctive conditional or its contradictory, is excepted. This is if the disjunction is both 'preventive of conjunction and preventive of void'. If it is preventive of conjunction only, then one restricts to excepting the antecedent or the consequent, not their contradictories. If it is preventive of void only, then one restricts to excepting the contradictory of the antecedent or the contradictory of the consequent only. And in this syllogism, affirmation produces negation, and negation produces affirmation.
+From this, three cases of the disjunctive conditional syllogism become clear for us:
+The first case: that the disjunctive conditional is real, i.e., both preventive of conjunction and preventive of void together (as previously explained in the section on propositions), and it is required that it is composed of
+Source pages p. 282
+
+Commentary
+This passage defines and explains the disjunctive conditional syllogism (al-qiyas al-istithna'i al-munfasil). The author begins by stating that it is a syllogism composed of two premises: a major and a minor. The major premise is a conditional disjunctive proposition, which must be an affirmative contradictory (i.e., true exclusive disjunction, not an accidental one where both parts could be true). The minor premise is a categorical proposition introduced by 'but' (lakinna) or similar, called the exceptive premise. One of the two premises must be universal (or singular with the force of universal).
+
+The author then explains how the exceptive premise works: it excepts either the antecedent (muqaddam) of the disjunction or its contradictory, or the consequent (tali) or its contradictory. This applies when the disjunction is both 'preventive of conjunction' (mani'at al-jam', i.e., they cannot both be true) and 'preventive of void' (mani'at al-khuluw, i.e., they cannot both be false). If the disjunction is only preventive of conjunction (meaning exactly one is true, but it's possible both are false), then the exception is limited to the antecedent or the consequent directly, not their contradictories. If it is only preventive of void (meaning at least one is true, both could be true), then the exception is limited to the contradictory of the antecedent or the contradictory of the consequent only. In this syllogism, 'affirmation' (of one part) produces 'negation' (of the other), and 'negation' produces 'affirmation'.
+
+Finally, the author states that from this we see three cases of the disjunctive conditional syllogism, and begins describing the first case: when the disjunction is 'real', i.e., both preventive of conjunction and preventive of void, as previously explained. The passage ends abruptly, but the intended continuation would detail the three cases with examples.
+
+Key Terms
+القياس الاستثنائي المنفصل
+مانعة جمع ومانعة خلو
+مقدم
+تالي
+
+Key Terms from Source Passage
+
+Checkpoint
+In a disjunctive syllogism where the major premise is 'Either the prayer is valid or the ablution is nullified' (preventive of conjunction only), what can be legitimately excepted?
+A) The antecedent or the consequent only, not their contradictories.
+B) Only the contradictory of the antecedent.
+C) Either the antecedent or its contradictory.
+D) Only the consequent.
+
+Key Takeaway
+The disjunctive conditional syllogism's validity hinges on the type of disjunction, which determines which exceptions yield a sound conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Take the disjunction 'Either the prayer is valid or the ablution is nullified.' If this is a preventive of conjunction only (not preventive of void), what can you validly except? Construct the syllogism and determine the conclusion.
+?
+Identify a real example from fiqh where a disjunctive syllogism is used (e.g., 'Either the marriage is valid or it is invalid; it is not invalid; therefore it is valid') and check if the disjunction type supports the conclusion.
+
+Pages p. 282 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 282
+Module 14 · Lesson 107
+Next →
+The Syllogism
+intermediate
+8 min
+The Disjunctive Syllogism: Definition and First Case
+Author defines the disjunctive syllogism, its conditions, and the first case with four valid moods.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four valid moods of a real disjunctive syllogism and determine the correct conclusion from a given exception.
+
+Core Idea
+In a real disjunction, affirming one disjunct denies the other; denying one affirms the other.
+
+The disjunctive syllogism is a powerful tool for reasoning with exclusive alternatives. In this lesson, we examine its definition, the condition that the major premise be a true disjunction, and the first case where the disjunction is both mutually exclusive and exhaustive. Mastering this allows you to draw valid conclusions in theological and juristic debates where options are strictly opposed.
+
+Guided Path
+1
+Identify the major premise
+Locate the disjunctive conditional (إِمَّا ... وَإِمَّا) in the passage. Ensure it is 'مانعة جمع وخلو' (exclusive or), not accidental.
+The condition is that the disjuncts must be actual opposites, like existence and non-existence.
+2
+Identify the minor premise (exception)
+Find the proposition introduced by 'لكن' (but). It affirms or denies one of the disjuncts (muqaddam or tali) or its contradictory.
+For a real disjunction, the exception can be any of the four possibilities.
+3
+Determine the mood
+Classify the exception: waḍ' al-muqaddam (affirm antecedent), waḍ' al-tālī (affirm consequent), raf' al-muqaddam (deny antecedent), raf' al-tālī (deny consequent).
+Each mood produces a unique valid conclusion.
+4
+Derive the conclusion
+Apply the rule: in a real disjunction, affirmation of one disjunct entails denial of the other, and denial of one entails affirmation of the other.
+The conclusion will be either affirmation or negation of the remaining disjunct.
+5
+Verify with an Islamic example
+Take a Fiqh example: 'The action is either obligatory or prohibited. It is not obligatory. Therefore it is prohibited.' Check that the disjunction is real and the conclusion follows.
+This reflects the four valid forms: 1) وضع المقدم ينتج رفع التالي, etc.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياس الاستثنائي المنفصل هو ـ كما علمنا ـ القياس المؤلف من مقدمتين: كبرى وصغرى. المقدمة الكبرى: قضية شرطية منفصلة، ويشترط فيها أن تكون موجبة عنادية لا اتفاقية. المقدمة الصغرى: قضية حملية مقترنة بلفظة (لكن) أو نحوها، وتسمى استثنائية. ويجب أن تكون إحدى المقدمتين كلية (والشخصية بقوة الكلية). ويستثنى بالمقدمة الصغرى (الاستثنائية) مقدم الشرطية المنفصلة أو نقيضه، أو تالي الشرطية المنفصلة أو نقيضه. هذا إذا كانت المنفصلة مانعة جمع ومانعة خلو، فإن كانت مانعة جمع فقط، فيقتصر فيها على استثناء المقدم أو التالي دون نقيضيهما، وإن كانت مانعة خلو فقط فيقتصر فيها على استثناء نقيض المقدم أو نقيض التالي فقط، والوضع في هذا القياس ينتج الرفع، والرفع ينتج الوضع. ومن هذا يتبين لنا ثلاث حالات للاستثنائي المنفصل: الحالة الأولى: أن تكون الشرطية المنفصلة حقيقية، أي مانعة جمع وخلو معاً (كما سبق بيانه في القضايا)، ويشترط فيها أن تكون مؤلفة من الشيء والمساوي لنقيضه، لا من نقيضه لئلا يكون الإنتاج من باب تحصيل الحاصل. وفي هذه الحالة تنتج الاحتمالات الأربعة: ١ - فَوَضْعُ المُقَدَّمِ يُنْتِجُ رَفْعَ التَّالِي. ٢ - وَوَضْعُ التَّالِي يُنْتِجُ رَفْعَ المُقَدَّمِ. ٣ - وَرَفْعُ المُقَدَّمِ يُنْتِجُ وَضْعَ التَّالِي. ٤ - وَرَفْعُ التَّالِي يُنْتِجُ وَضْعَ المُقَدَّمِ. أمثلة: المُقَدَّمُ التَّالِي • العَنْقَاءُ إِمَّا مَوْجُودَةٌ وَإِمَّا مَعْدُومَةٌ (الكبرى. وهي منفصلة حقيقية) لَكِنَّهَا غَيْرُ مَوْجُودَةٍ (الصغرى. وقد رُفِعَ فِيهَا المُقَدَّمُ) ∴ فَهِيَ مَعْدُومَةٌ (النتيجة. وقد وُضِعَ فِيهَا التَّالِي) أو لَكِنَّهَا مَعْدُومَةٌ (الصغرى. وقد وُضِعَ فِيهَا التَّالِي) ∴ فَهِيَ غَيْرُ مَوْجُودَةٍ (النتيجة. وقد رُفِعَ فِيهَا المُقَدَّمُ) المُقَدَّمُ التَّالِي • جِبَالُ هِمَالَايَا إِمَّا مَوْجُودَةٌ وَإِمَّا مَعْدُومَةٌ (الكبرى. منفصلة حقيقية) لَكِنَّهَا مَوْجُودَةٌ (الصغرى. وقد وُضِعَ فِيهَا المُقَدَّمُ) ∴ فَهِيَ غَيْرُ مَعْدُومَةٍ (النتيجة. وقد رُفِعَ فِيهَا التَّالِي) أو لَكِنَّهَا غَيْرُ مَعْدُومَةٍ (الصغرى. وقد رُفِعَ فِيهَا التَّالِي) ∴ فَهِيَ مَوْجُودَةٌ (النتيجة. وقد وُضِعَ فِيهَا المُقَدَّمُ) فَبَيْنَ الْوُجُودِ وَالْعَدَمِ تَعَانُدٌ تَامٌّ، وَضَعُ كُلٍّ مِنْهُمَا يَسْتَلْزِمُ رَفْعَ الآخَرِ، وَرَفْعُ كُلٍّ مِنْهُمَا يَسْتَلْزِمُ وَضْعَ الآخَرِ.
+The disjunctive conditional syllogism is, as we have learned, the syllogism composed of two premises: major and minor. The major premise is a disjunctive conditional proposition, and it is required that it be a true disjunctive [actual opposition], not an accidental one. The minor premise is a categorical proposition connected with the word 'but' or similar, and it is called the exceptional [premise]. It is necessary that one of the two premises be universal (and the particular is [treated as] in the strength of the universal). By the minor (exceptional) premise, the antecedent of the disjunctive conditional or its contradictory, or the consequent of the disjunctive conditional or its contradictory is excepted. This is when the disjunctive is 'preventing both conjunction and emptiness'. If it is only 'preventing conjunction', then the exception is limited to the antecedent or the consequent, not their contradictories. And if it is only 'preventing emptiness', then the exception is limited to the contradictory of the antecedent or the contradictory of the consequent only. And the affirmation [of one] in this syllogism results in the negation [of the other], and the negation results in the affirmation. From this, three cases of the disjunctive conditional syllogism become clear to us: The first case: that the disjunctive conditional is real, i.e., preventing both conjunction and emptiness together (as previously explained in the propositions), and it is required that it be composed of the thing and what is equal to its contradictory, not of its contradictory, in order that the production [of the conclusion] not be from the category of obtaining the already obtained. And in this case, the four probabilities produce: 1- Affirming the antecedent produces negating the consequent. 2- Affirming the consequent produces negating the antecedent. 3- Negating the antecedent produces affirming the consequent. 4- Negating the consequent produces affirming the antecedent. Examples: Antecedent Consequent • The Phoenix is either existent or non-existent (the major, a real disjunctive). But it is non-existent (the minor, where the antecedent is negated) ∴ So it is non-existent (the conclusion, where the consequent is affirmed). Or but it is non-existent (the minor, where the consequent is affirmed) ∴ So it is non-existent (the conclusion, where the antecedent is negated). Antecedent Consequent • The Himalayas are either existent or non-existent (the major, a real disjunctive). But they are existent (the minor, where the antecedent is affirmed) ∴ So they are not non-existent (the conclusion, where the consequent is negated). Or but they are not non-existent (the minor, where the consequent is negated) ∴ So they are existent (the conclusion, where the antecedent is affirmed). So between existence and non-existence there is complete opposition; the affirmation of each necessitates the negation of the other, and the negation of each necessitates the affirmation of the other.
+Source pages p. 282
+
+Commentary
+This passage defines the disjunctive conditional syllogism (qiyas istithna'i munfasil) and explains its first case. The author begins by recalling that this syllogism consists of two premises: a major and a minor. The major premise must be a disjunctive conditional proposition that is truly disjunctive (mutually exclusive and exhaustive), not merely accidental. The minor premise is a categorical proposition introduced by 'but' (lakin) and is called the exceptional premise (istithna'iyya). One of the two premises must be universal (or particular treated as universal). The minor premise excepts either the antecedent (muqaddam) of the disjunctive or its contradictory (naqid), or the consequent (tali) or its contradictory. This description applies to the complete disjunction (mani'at al-jam' wa al-khuluw). The author then distinguishes the three cases of disjunctive syllogism based on the type of disjunction, but only the first case is covered here: when the disjunction is 'real' (haqiqiyya), i.e., preventing both conjunction and emptiness. In such a complete disjunction, all four possible inferences are valid: affirming one disjunct necessitates denying the other, and denying one necessitates affirming the other. The author provides two examples: the Phoenix (existent/non-existent) and the Himalayas (existent/non-existent). In each, the four syllogistic forms are illustrated. The passage concludes that existence and non-existence have a complete opposition (ta'and tam), so affirmation of one implies negation of the other, and vice versa. This is a foundational discussion for understanding valid argument forms in jurisprudence and theology, where exclusive options (like 'the world is either eternal or created') yield decisive inferences.
+
+Key Terms
+القياس الاستثنائي المنفصل
+مانعة جمع وخلو
+وضع المقدم
+رفع التالي
+
+Key Terms from Source Passage
+
+Checkpoint
+In a real disjunctive syllogism (مانعة جمع وخلو), if the minor premise affirms the consequent (تالي), what is the valid conclusion?
+A) Affirm the antecedent
+B) Negate the antecedent
+C) Negate the consequent
+D) Either A or B
+
+Key Takeaway
+A real disjunctive syllogism allows four valid inferences: affirming one disjunct denies the other, and denying one affirms the other.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a valid disjunctive syllogism on a Fiqh issue: 'The sale is either valid or invalid. It is not invalid. Therefore it is valid.' Identify which of the four moods you used.
+?
+Analyze the following argument from a jurist: 'The marriage contract is either concluded with a guardian or without a guardian. It is without a guardian. Therefore it is not concluded with a guardian.' State whether the disjunction is real and why.
+
+Pages p. 282 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 283
+Module 14 · Lesson 108
+Next →
+The Syllogism
+intermediate
+5 min
+Four Inferences in a True Disjunction (Man'iat al-Jam' wa al-Khuluw)
+Author lists four possible inferences for a true disjunction with examples from existence and parity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and construct the four valid inferences in a true disjunctive syllogism (man'iat al-jam' wa al-khuluw) and apply them to examples from Islamic theology and law.
+
+Core Idea
+In a true disjunction, each part's truth denies the other, and each part's falsity affirms the other.
+
+In this passage, the author explains that when a major premise is a true disjunction (man'iat al-jam' wa al-khuluw), four distinct inferences are possible: affirming one part negates the other, and negating one part affirms the other. This is because true disjunctions are both exclusive and exhaustive. Understanding these four forms is essential for constructing valid arguments in Islamic logic, where disjunctive reasoning appears in legal and theological debates.
+
+Guided Path
+1
+Identify the Major Premise as a True Disjunction
+Look for phrases like 'either ... or ...' that indicate the two parts cannot be simultaneously true or false. In the passage, the examples show true disjunctions between existence/non-existence and even/odd.
+A true disjunction is also called 'man'iat al-jam' wa al-khuluw'.
+2
+Recognize the Four Inferential Modes
+The passage lists four: (1) Positing antecedent → Negate consequent; (2) Positing consequent → Negate antecedent; (3) Negating antecedent → Posit consequent; (4) Negating consequent → Posit antecedent.
+Memorize these as pairs: affirming one negates the other; negating one affirms the other.
+3
+Apply to the Existence Examples
+For the phoenix (non-existent), negating the antecedent 'existent' leads to positing the consequent 'non-existent'. For the Himalayas (existent), positing the antecedent leads to negating the consequent 'non-existent'. Trace the four possibilities in both examples.
+These examples illustrate the complete opposition between existence and non-existence.
+4
+Apply to the Number Example
+The number is either even or odd. Work through each inference: if even, then not odd; if odd, then not even; if not even, then odd; if not odd, then even.
+This shows the four inferences work equally well with any true disjunction.
+5
+Understand the Condition of Complete Opposition
+The passage states that between existence and non-existence there is ta'and tam (complete opposition), which is what makes all four inferences valid. This condition holds for any true disjunction.
+Without complete opposition (e.g., exclusive but not exhaustive disjunction), only two inferences would be valid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الشيء والمساوي لنقيضه، لا من نقيضه لئلا يكون الإنتاج من باب تحصيل الحاصل. وفي هذه الحالة تنتج الاحتمالات الأربعة: ١ - فوضع المقدم ينتج رفع التالي. ٢ - ووضع التالي ينتج رفع المقدم. ٣ - ورفع المقدم ينتج وضع التالي. ٤ - ورفع التالي ينتج وضع المقدم. أمثلة: المقدم التالي • العنقاء إما موجودة وإما معدومة (الكبرى. وهي منفصلة حقيقية) لكنها غير موجودة (الصغرى. وقد رفع فيها المقدم) ∴ فهي معدومة (النتيجة. وقد وضع فيها التالي) أو لكنها معدومة (الصغرى. وقد وضع فيها التالي) ∴ فهي غير موجودة (النتيجة. وقد رفع فيها المقدم) المقدم التالي • جبال هيمالايا إما موجودة وإما معدومة (الكبرى. منفصلة حقيقية) لكنها موجودة (الصغرى. وقد وضع فيها المقدم) ∴ فهي غير معدومة (النتيجة. وقد رفع فيها التالي) أو لكنها غير معدومة (الصغرى. وقد رفع فيها التالي) ∴ فهي موجودة (النتيجة. وقد وضع فيها المقدم) فبين الوجود والعدم تعاند تام، وضع كل منهما يستلزم رفع الآخر، ورفع كل منهما يستلزم وضع الآخر. المقدم التالي • العدد إما زوج وإما فرد (كبرى. منفصلة حقيقية) لكنه زوج ∴ فهو ليس بفرد لكنه فرد ∴ فهو ليس بزوج لكنه ليس بزوج ∴ فهو فرد لكنه ليس بفرد ∴ فهو زوج
+The thing and its equal to its contradictory, not from its contradictory, lest the production be from the category of obtaining the obtained. And in this case, four possibilities are produced: 1 - Positing the antecedent produces negating the consequent. 2 - Positing the consequent produces negating the antecedent. 3 - Negating the antecedent produces positing the consequent. 4 - Negating the consequent produces positing the antecedent. Examples: Antecedent Consequent • The phoenix is either existent or non-existent (major premise, it is a true disjunction) but it is non-existent (minor premise, in which the antecedent is negated) ∴ it is non-existent (conclusion, in which the consequent is posited) or but it is non-existent (minor premise, in which the consequent is posited) ∴ it is non-existent (conclusion, in which the antecedent is negated). Antecedent Consequent • The Himalaya mountains are either existent or non-existent (major premise, true disjunction) but they are existent (minor premise, in which the antecedent is posited) ∴ they are not non-existent (conclusion, in which the consequent is negated) or but they are not non-existent (minor premise, in which the consequent is negated) ∴ they are existent (conclusion, in which the antecedent is posited). So between existence and non-existence there is complete opposition; positing each necessitates negating the other, and negating each necessitates positing the other. Antecedent Consequent • Number is either even or odd (major premise, true disjunction) but it is even ∴ it is not odd; but it is odd ∴ it is not even; but it is not even ∴ it is odd; but it is not odd ∴ it is even.
+Source pages p. 283
+
+Commentary
+This passage classifies the inferential possibilities for a true disjunction (man'iat al-jam' wa al-khuluw). It begins by stating that the production of the conclusion must come from the thing itself or its equal to its contradictory, not from the contradictory itself, to avoid rendering what is already obtained. Then it enumerates four possible inferences: (1) positing the antecedent yields negation of the consequent, (2) positing the consequent yields negation of the antecedent, (3) negating the antecedent yields positing the consequent, (4) negating the consequent yields positing the antecedent. These four are illustrated with examples: the phoenix (nonexistent entity) and the Himalayas (existent entity). The passage emphasizes that between existence and non-existence there is complete opposition (ta'and tam), meaning each pair is mutually exclusive and exhaustive. The number example (even/odd) further confirms that true disjunction allows all four inferences. The commentary follows the author's order: first the general rule, then the four possibilities, then examples, then the explanatory note about complete opposition.
+
+Key Terms
+منفصلة حقيقية
+المقدم
+التالي
+وضع
+رفع
+
+Key Terms from Source Passage
+
+Checkpoint
+In a true disjunction (man'iat al-jam' wa al-khuluw), if you negate the consequent (al-tāli), what do you conclude about the antecedent (al-muqaddam)?
+A) Affirm the antecedent
+B) Negate the antecedent
+C) Neither affirm nor negate
+D) It depends on the specific content
+
+Key Takeaway
+A true disjunction (man'iat al-jam' wa al-khuluw) allows four equally valid inferences: affirming one negates the other, and negating one affirms the other.
+
+How This Lesson Applies — to MY Life?
+?
+Using the number example, write out all four valid inferences for the true disjunction 'The number is either even or odd.' Specify which part is posited/negated.
+?
+Construct a true disjunctive syllogism in the field of Islamic theology: 'The world is either eternal or created.' Then provide all four valid inferences, assuming the disjunction is true.
+
+Pages p. 283 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 284
+Module 14 · Lesson 109
+Next →
+The Syllogism
+beginner
+5 min
+Two Valid Inferences in Exclusive Disjunction
+Author explains the two possible inferences for an exclusive disjunction with examples from color and travel.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two valid inferences in an exclusive disjunction and explain why negating one disjunct does not imply the other.
+
+Core Idea
+In exclusive disjunction, affirming one side negates the other; negating one side proves nothing.
+
+In Islamic logic, disjunctions are classified by whether they allow both parts to be true or both false. This lesson focuses on the exclusive disjunction (man'iat al-jam' only), where the two parts cannot both be true but could both be false. Understanding which inferences are valid is essential for correct reasoning in juristic and theological arguments.
+
+Guided Path
+1
+Identify the type of disjunction
+Check if the proposition is 'man'iat al-jam' only'. In this type, the two disjuncts cannot be true together, but they can be false together.
+The passage gives examples: red/green (colours) and land/sea (travel).
+2
+Recognize the two valid inferences
+If you affirm one disjunct, you can validly negate the other. So 'It is red' leads to 'It is not green'; 'It is green' leads to 'It is not red'.
+These are the only two valid forms: positing antecedent negates consequent, and positing consequent negates antecedent.
+3
+Understand why negating one disjunct does not work
+If you negate one disjunct, you cannot infer the other because the disjunction is not exhaustive. For example, 'not red' does not imply 'green' – it could be blue, yellow, etc.
+The author emphasizes that the disjunction is 'man'at jam' fqṭ' not 'man'at khalā'.
+4
+Apply to Islamic examples
+Think of a fiqh ruling: 'This act is either obligatory or recommended' (exclusive). If you know it is obligatory, it cannot be recommended. But if it is not obligatory, it does not have to be recommended – it could be permissible.
+This shows the practical importance of the distinction.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحالة الثانية : أن تكون الشرطية المنفصلة مانعة جمع فقط، وفي هذه الحالة ينتج احتمالان فقط : ١ - فوضع المقدم ينتج رفع التالي . ٢ - ووضع التالي ينتج رفع المقدم . أما رفع أحدهما فلا ينتج شيئاً . أمثلة : المقدم التالي • الثوب إما أحمر وإما أخضر (كبرى. منفصلة مانعة جمع فقط) لكنه أحمر ∴ فهو ليس أخضر لكنه أخضر ∴ فهو ليس أحمر ولا ينتج رفع أحدهما وضع الآخر، لأننا إذا قلنا : (لكنه ليس أحمر) فإنه لا يلزم منه أن يكون أخضر، لاحتمال أن يكون أسود أو أبيض أو أصفر أو غير ذلك من الألوان، وكذلك إذا قلنا : (لكنه ليس أخضر). والسبب في هذا أن هذه القضية الشرطية من أساسها هي مانعة جمع فقط وليست مانعة خلو. المقدم التالي • سافر الحاج إما براً وإما بحراً (كبرى. منفصلة مانعة جمع فقط) لكنه سافر براً ∴ فهو لم يسافر بحراً لكنه سافر بحراً ∴ فهو لم يسافر براً
+The second case: that the disjunctive conditional is exclusive only (man'iat jam' faqaṭ). In this case, only two possibilities are produced: 1 - Positing the antecedent produces negating the consequent. 2 - Positing the consequent produces negating the antecedent. As for negating either one, it produces nothing. Examples: Antecedent Consequent • The garment is either red or green (major premise, exclusive disjunction) but it is red ∴ it is not green; but it is green ∴ it is not red. And negating one does not produce positing the other, because if we say: (but it is not red), it does not necessitate that it is green, due to the possibility that it is black, white, yellow, or other colors. Similarly if we say: (but it is not green). The reason for this is that this conditional proposition is from its foundation exclusive only and not exhaustive. Antecedent Consequent • The pilgrim traveled either by land or by sea (major premise, exclusive disjunction) but he traveled by land ∴ he did not travel by sea; but he traveled by sea ∴ he did not travel by land.
+Source pages p. 284
+
+Commentary
+This passage presents the second type of disjunction: exclusive (man'iat al-jam' only), where the two parts cannot be simultaneously true but can be simultaneously false. The author states that only two inferences are valid: (1) positing the antecedent negates the consequent, and (2) positing the consequent negates the antecedent. Negating either term does not yield the other. The passage illustrates with two examples: the color of a garment (red/green) and the pilgrim's mode of travel (land/sea). In the color example, if the garment is not red, it does not have to be green; it could be any other color. The reason given is that the disjunction is from its foundation exclusive only (man'at jam' fqṭ) and not exhaustive (man'at khuluw). The commentary follows the author's order: first the definition, then the two inferences, then the explanation of why negations do not produce conclusions, then the examples.
+
+Key Terms
+مانعة جمع فقط
+مانعة خلو
+رفع
+وضع
+
+Key Terms from Source Passage
+
+Checkpoint
+In an exclusive disjunction (man'iat al-jam' only), if you negate the antecedent, what can you conclude about the consequent?
+A) Affirm the consequent
+B) Negate the consequent
+C) Nothing; no conclusion follows
+D) The opposite of the antecedent
+
+Key Takeaway
+Exclusive disjunction only allows inference from affirmation of one disjunct to negation of the other; negation proves nothing.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an exclusive disjunction about a fiqh ruling (e.g., 'This transaction is either valid or invalid') and state the two valid inferences. Then explain why negating one side does not lead to concluding the other side.
+?
+Identify an example from usul al-fiqh where an exclusive disjunction is used and show how a mistaken inference (negating one part and concluding the other) would be a logical error.
+
+Pages p. 284 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 284
+Module 14 · Lesson 110
+Next →
+The Syllogism
+intermediate
+5 min
+Exclusive Disjunction Inference Rules
+Exclusive disjunction syllogism with rules and examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and apply the valid inference rules for exclusive disjunction (man'iat jam' faqat) in Islamic reasoning.
+
+Core Idea
+Exclusive disjunction: affirming one excludes the other, but negating one does not affirm the other.
+
+In this lesson, we explore the second type of disjunctive conditional: exclusive disjunction (man'iat jam' faqat). Unlike the exhaustive disjunction, here both alternatives cannot be true together, but they may both be false. This yields only two valid inference forms: affirming one allows negating the other, but negating one does not allow affirming the other. Understanding this distinction is crucial for correct reasoning in Islamic legal and theological arguments.
+
+Guided Path
+1
+Identify the type of disjunction
+Check if the disjunction is exclusive (مانعة جمع فقط). In an exclusive disjunction, the two alternatives cannot both be true but may both be false.
+2
+Recall the valid inference rules
+For exclusive disjunction, only two inferences are valid: (i) Affirm the antecedent → negate the consequent. (ii) Affirm the consequent → negate the antecedent.
+These are the only valid forms; negating either does not give a conclusion.
+3
+Recognize invalid inferences
+Negating one disjunct does NOT allow affirming the other, because there could be other possibilities. For example, if a garment is not red, it could be green, black, white, etc.
+This is the key difference from exhaustive disjunction.
+4
+Apply the rules to the given examples
+Test with the examples: (1) Garment red/green; affirming one yields negation of the other. (2) Pilgrim travel by land/sea; same pattern. Verify that negating one does not yield affirmation.
+The reason is that the disjunction is exclusive only, not exhaustive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحالة الثانية : أن تكون الشرطية المنفصلة مانعة جمع فقط، وفي هذه الحالة ينتج احتمالان فقط : ١ - فوضع المقدم ينتج رفع التالي . ٢ - ووضع التالي ينتج رفع المقدم . أما رفع أحدهما فلا ينتج شيئاً . أمثلة : المقدم التالي • الثوب إما أحمر وإما أخضر (كبرى. منفصلة مانعة جمع فقط) لكنه أحمر ∴ فهو ليس أخضر لكنه أخضر ∴ فهو ليس أحمر ولا ينتج رفع أحدهما وضع الآخر، لأننا إذا قلنا : (لكنه ليس أحمر) فإنه لا يلزم منه أن يكون أخضر، لاحتمال أن يكون أسود أو أبيض أو أصفر أو غير ذلك من الألوان، وكذلك إذا قلنا : (لكنه ليس أخضر). والسبب في هذا أن هذه القضية الشرطية من أساسها هي مانعة جمع فقط وليست مانعة خلو. المقدم التالي • سافر الحاج إما براً وإما بحراً (كبرى. منفصلة مانعة جمع فقط) لكنه سافر براً ∴ فهو لم يسافر بحراً لكنه سافر بحراً ∴ فهو لم يسافر براً فوضع أحدهما أنتج رفع الآخر، لكن رفع أحدهما لا ينتج وضع الآخر، لأننا إذا قلنا : (لكنه لم يسافر براً) فإنه لا يلزم منه أن يكون قد سافر بحراً، لاحتمال أن يكون قد سافر جواً، وكذلك إذا قلنا : (لكنه لم يسافر بحراً). والسبب في هذا أن هذه القضية الشرطية المنفصلة من أساسها هي مانعة جمع فقط، وليست مانعة خلو، لذلك فالقياس على أساسها لا ينتج إلا في حالتي الوضع .
+The second case: that the disjunctive conditional is exclusive (man'iat jam' only). In this case, only two results are possible: 1 - Affirming the antecedent yields negating the consequent. 2 - Affirming the consequent yields negating the antecedent. As for negating either, it yields nothing. Examples: (Major premise) The garment is either red or green (exclusive disjunctive). (Minor) It is red, therefore it is not green. (Or) It is green, therefore it is not red. And negating one does not produce affirming the other, because if we say: 'It is not red', it does not necessitate that it is green, because it could be black, white, yellow, or other colors. Similarly if we say: 'It is not green'. The reason is that this conditional is fundamentally exclusive (man'iat jam' only) and not exhaustive. (Another example) (Major) The pilgrim traveled either by land or by sea (exclusive disjunctive). (Minor) He traveled by land, therefore he did not travel by sea. (Or) He traveled by sea, therefore he did not travel by land. So affirming one produced negating the other, but negating one does not produce affirming the other, because if we say: 'He did not travel by land', it does not necessitate that he traveled by sea, because he might have traveled by air. Similarly if we say: 'He did not travel by sea'. The reason is that this disjunctive conditional is fundamentally exclusive (man'iat jam' only), not exhaustive. Therefore the syllogism based on it produces results only in the two cases of affirmation.
+Source pages p. 284
+
+Commentary
+This passage discusses the second type of disjunctive conditional syllogism: exclusive disjunction (man'iat jam' faqat). In this type, the two disjuncts cannot be true together, but they may both be false. Therefore, from the affirmation of one disjunct, we can infer the negation of the other. But from the negation of one, we cannot infer the affirmation of the other because there may be other possibilities. The author provides two examples: one with colors and one with travel. In the first example, if a garment is red, it cannot be green, but if it is not red, it could be any color. In the travel example, if the pilgrim traveled by land, he did not travel by sea, but if he did not travel by land, he might have traveled by air. The reason given is that the disjunction is only exclusive (man'iat jam') and not exhaustive (man'iat khalā'). Therefore, valid inferences are only the two affirmations: placing the antecedent yields negation of the consequent, and placing the consequent yields negation of the antecedent.
+
+Key Terms
+مانعة جمع فقط
+رفع المقدم
+وضع المقدم
+
+Key Terms from Source Passage
+
+Checkpoint
+In an exclusive disjunction (مانعة جمع فقط), given the major premise 'The garment is either red or green (exclusive)', and the minor premise 'It is not red', what is the correct logical conclusion?
+A) Therefore, it is green.
+B) Therefore, it is not green.
+C) No conclusion follows; it could be another color.
+D) Therefore, it is either green or some other color.
+
+Key Takeaway
+Exclusive disjunction permits inference from affirmation of one to negation of the other, but not from negation to affirmation.
+
+How This Lesson Applies — to MY Life?
+?
+In a debate about the attributes of Allah, someone says: 'Either Allah is just or He is arbitrary (exclusive disjunction).' If you affirm that Allah is just, what can you conclude? Check the validity using the rules from this lesson.
+?
+Consider the exclusive disjunction: 'The traveler either went by land or by sea.' If you learn that the traveler did not go by sea, can you conclude he went by land? Why or why not? Use the concept of man'iat jam' faqat.
+
+Pages p. 284 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 285
+Module 14 · Lesson 111
+Next →
+The Syllogism
+intermediate
+12 min
+Rules for Exclusive and Inclusive Disjunctive Syllogisms
+Author explains inference rules for exclusive and inclusive disjunctive syllogisms with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish exclusive from inclusive disjunctive syllogisms and apply their valid inference rules.
+
+Core Idea
+The type of disjunction decides whether positing or negating yields a conclusion.
+
+Disjunctive syllogisms are common in Islamic legal reasoning, where a ruling may be one of two options. Knowing whether the two alternatives can coexist (inclusive) or cannot (exclusive) determines which inferences are valid. This lesson unpacks the rules with concrete examples from the text.
+
+Guided Path
+1
+Identify the type of disjunction in the major premise
+Determine if the disjunction is exclusive (man'iyya jami'), inclusive (man'iyya khuluww), or true (haqiqiyya). Exclusive means both cannot be true simultaneously; inclusive means both cannot be false; true means both properties hold.
+The passage uses 'man'iyya jami' fakat' and 'man'iyya khuluww fakat' to indicate only one property.
+2
+Apply the inference rule for exclusive disjunction
+If the disjunction is exclusive only, then positing (affirming) one disjunct yields negation of the other. Negating one does not yield positing the other because a third option might exist.
+Example: Travel by land/sea/air shows that negating land does not imply sea.
+3
+Apply the inference rule for inclusive disjunction
+If the disjunction is inclusive only, then negating one disjunct yields positing the other. Positing one does not yield negating the other because both could be true together.
+Example: A place lit by natural and/or artificial light shows that positing natural light does not exclude artificial.
+4
+Check the conclusion against the rule
+Verify that the inference matches the expected pattern: for exclusive, only positive affirmations give conclusions; for inclusive, only negations give conclusions.
+The summary table in the passage recaps all cases.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فوضع أحدهما أنتج رفع الآخر، لكن رفع أحدهما لا ينتج وضع الآخر، لأننا إذا قلنا : (لكنه لم يسافر براً) فإنه لا يلزم منه أن يكون قد سافر بحراً، لاحتمال أن يكون قد سافر جواً، وكذلك إذا قلنا : (لكنه لم يسافر بحراً). والسبب في هذا أن هذه القضية الشرطية المنفصلة من أساسها هي مانعة جمع فقط، وليست مانعة خلو، لذلك فالقياس على أساسها لا ينتج إلا في حالتي الوضع .
+الحالة الثالثة : أن تكون الشرطية المنفصلة مانعة خلو فقط وليست مانعة جمع، وفي هذه الحالة ينتج احتمالان فقط .
+١ - فرفع المقدم ينتج وضع التالي .
+٢ - ورفع التالي ينتج وضع المقدم .
+أما وضع أحدهما فلا ينتج شيئاً .
+أمثلة :
+المقدم التالي
+• المكان المضيء إما مضيء بنور طبيعي وإما مضيء بأنوار اصطناعية (كبرى).
+لكنه غير مضيء بنور طبيعي (الصغرى. وقد رفع فيها المقدم).
+.. فهو مضيء بنور اصطناعي (النتيجة. وقد وضع فيها التالي).
+أو لكنه غير مضيء بنور اصطناعي (الصغرى. وقد رفع فيها التالي).
+.. فهو مضيء بنور طبيعي (النتيجة. وقد وضع فيها المقدم).
+فرفع أحدهما قد أنتج وضع الآخر، لكن وضع أحدهما لا ينتج رفع الآخر، لأننا إذا قلنا : (لكنه مضيء بنور طبيعي فإنه لا يلزم منه أن يكون غير مضيء أيضاً بنور اصطناعي، لاحتمال اجتماع الأمرين معاً، وكذلك إذا قلنا : (لكنه مضيء بنور اصطناعي). والسبب في هذا أن هذه القضية الشرطية المنفصلة من أساسها هي مانعة خلو فقط وليست مانعة جمع .
+المقدم التالي
+• الشاعر إما مبتكر وإما مقتبس (الكبرى)
+لكنه ليس مبتكراً ∴ فهو مقتبس
+لكنه ليس مقتبساً ∴ فهو مبتكر
+فرفع أحدهما أنتج وضع الآخر، لكن وضع أحدهما لا ينتج رفع الآخر، لاحتمال اجتماعهما معاً، بأن يكون مبتكراً في بعض الأفكار ومقتبساً في البعض الآخر، فالمقدمة الكبرى هنا منفصلة مانعة خلو فقط، وليست مانعة جمع، لذلك فالقياس على أساسها لا ينتج إلا في حالتي الرفع.
+خلاصة عامة
+فالقياس الاستثنائي
+متصل
+وهو ما كانت مقدمته الكبرى شرطية متصلة
+وإنتاجه كما يلي :
+١- وضع المقدم ينتج وضع التالي
+٢- رفع التالي ينتج رفع المقدم
+منفصل
+وهو ما كانت مقدمته الكبرى شرطية منفصلة
+حقيقية
+إنتاجه في هذه الحالة كالتالي :
+١- وضع كل من المقدم والتالي ينتج رفع الآخر .
+٢- رفع كل من المقدم والتالي ينتج وضع الآخر .
+مانعة جمع فقط
+إنتاجه في هذه الحالة كما يلي :
+وضع كل من المقدم والتالي ينتج رفع الآخر .
+مانعة خلو فقط
+إنتاجه في هذه الحالة كما يلي :
+رفع كل من المقدم والتالي ينتج وضع الآخر .
+Then positing one of them results in negating the other, but negating one of them does not result in positing the other, because if we say: 'But he did not travel by land', it does not necessarily follow that he traveled by sea, due to the possibility that he traveled by air. Likewise if we say: 'But he did not travel by sea'. The reason for this is that this disjunctive conditional is essentially an exclusive disjunction (man'iyya jami' fakat) and not an inclusive disjunction (man'iyya khuluww fakat). Therefore the syllogism based on it yields results only in the two cases of positing. The third case: that the disjunctive conditional is an inclusive disjunction only and not an exclusive disjunction. In this case, only two possibilities yield results: 1. Negating the antecedent yields positing the consequent. 2. Negating the consequent yields positing the antecedent. As for positing one of them, it yields nothing. Examples: (Major premise) The illuminated place is either illuminated by natural light or by artificial lights. (Minor) But it is not illuminated by natural light (negating the antecedent). ∴ It is illuminated by artificial light (positing the consequent). Or (Minor) But it is not illuminated by artificial light (negating the consequent). ∴ It is illuminated by natural light (positing the antecedent). So negating one of them produced positing the other, but positing one of them does not produce negating the other, because if we say: 'But it is illuminated by natural light', it does not necessarily follow that it is also not illuminated by artificial light, due to the possibility of both together. Likewise if we say: 'But it is illuminated by artificial light'. The reason is that this disjunctive conditional is essentially an inclusive disjunction (man'iyya khuluww fakat) and not an exclusive disjunction. (Another example) (Major) The poet is either original or imitative. (Minor) But he is not original. ∴ He is imitative. (Minor) But he is not imitative. ∴ He is original. So negating one produced positing the other, but positing one does not produce negating the other, due to the possibility of both together—that he is original in some ideas and imitative in others. So the major premise here is an inclusive disjunction only, not exclusive; therefore the syllogism based on it yields results only in the two cases of negation. General summary: The conditional syllogism is either conjunctive—where the major premise is a conjunctive conditional—and its output is as follows: 1. Positing the antecedent produces positing the consequent. 2. Negating the consequent produces negating the antecedent. Or disjunctive—where the major premise is a disjunctive conditional. If it is a true disjunction (haqiqiyya), its output in this case is: 1. Positing each of the antecedent and consequent produces negating the other. 2. Negating each of the antecedent and consequent produces positing the other. If it is exclusive disjunction only (man'iyya jami' fakat), its output in this case is: Positing each of the antecedent and consequent produces negating the other. If it is inclusive disjunction only (man'iyya khuluww fakat), its output in this case is: Negating each of the antecedent and consequent produces positing the other.
+Source pages p. 285
+
+Commentary
+This passage continues the discussion of conditional syllogisms (qiyas istithna'i), specifically focusing on the disjunctive type (munfasil). The text first reminds us of the exclusive disjunction (man'iyya jami' fakat), where the two parts cannot coexist. For such a disjunction, positing one allows us to negate the other, but negating one does not allow us to posit the other because a third possibility might exist. The author gives the example of traveling: if someone did not travel by land, they might have traveled by sea or by air. Thus the syllogism only works when we have a positive assertion. Then the text proceeds to the inclusive disjunction (man'iyya khuluww fakat), where the two parts cannot both be absent. Here, negating one allows us to posit the other, but positing one does not negate the other because both may be true. Two examples illustrate this: illuminated places can have both natural and artificial light, and a poet can be both original and imitative. Finally, a general summary recaps all three types of disjunctive syllogism: true disjunction (haqiqiyya, i.e., both exclusive and inclusive) gives four valid inferences; exclusive only gives two (positing one negates the other); inclusive only gives two (negating one posits the other). The conjunctive conditional syllogism is also briefly mentioned for contrast. The passage is crucial for understanding how to reason with 'either-or' statements in Islamic logic, preserving the precision of inference based on the nature of the disjunction.
+
+Key Terms
+شرطية منفصلة
+مانعة جمع
+مانعة خلو
+وضع
+رفع
+مقدم
+تالي
+
+Key Terms from Source Passage
+
+Checkpoint
+Consider the disjunctive premise: 'This object is either a solid or a liquid.' Assuming it is an exclusive disjunction (cannot be both). Which of the following inferences is valid?
+A) It is a solid, therefore it is not a liquid.
+B) It is not a solid, therefore it is a liquid.
+C) It is a liquid, therefore it is a solid.
+D) It is not a liquid, therefore it is not a solid.
+
+Key Takeaway
+The validity of a disjunctive syllogism depends on correctly identifying whether the disjunction is exclusive, inclusive, or true.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Given the major premise 'This animal is either halal or haram to eat' (assume exclusive), what can you conclude if you learn that the animal is halal? What if you learn it is not haram? Explain using the rule for exclusive disjunction.
+?
+Task 2: Given the major premise 'The cause of the impurity is either direct contact or indirect contact' (assume inclusive), what can you conclude if you determine the cause is not direct contact? What if it is direct contact? Explain using the rule for inclusive disjunction.
+
+Pages p. 285 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 286
+Module 14 · Lesson 112
+Next →
+The Syllogism
+intermediate
+10 min
+Connected and Disjunctive Conditional Syllogisms
+Author starts with a disjunctive example to illustrate the point.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between a connected (muttasil) and a disjunctive (munfasil) conditional syllogism and identify the minor premise operation (wad' or raf').
+
+Core Idea
+In conditional syllogisms, the validity depends on whether the conditional is connected or disjunctive, and which part is affirmed or denied.
+
+In this passage, the author introduces the two fundamental types of conditional syllogisms: connected (if-then) and disjunctive (either-or). You will learn to recognize each type and understand how the minor premise interacts with the major premise.
+
+Guided Path
+1
+Identify the major premise
+Read the example: 'The poet is either innovator or imitator.' This is a disjunctive conditional (shartiyya munfasila).
+The major premise is the first statement in the syllogism.
+2
+Identify the minor premise
+The text says 'but he is not an innovator' – this is a denial (raf') of the first disjunct. Similarly, 'but he is not an imitator' – denial of the second.
+The minor premise either places (wad') or raises (raf') one of the parts.
+3
+Observe the conclusions
+From 'not innovator' we conclude 'imitator'; from 'not imitator' we conclude 'innovator'. So denying one affirms the other.
+This pattern is valid for this disjunctive type.
+4
+Note the author's comment on type
+The author says this major premise is 'mana'at khuluw' (exclusive of emptiness) only, so only denial (raf') produces a conclusion, not affirmation (wad').
+This will be detailed in the next lesson.
+5
+Contrast with a connected conditional
+For a connected conditional (muttasil), e.g., 'If the sun rises, then day comes', placing (wad') the antecedent gives the consequent; raising (raf') the consequent denies the antecedent.
+Connected is 'if A then B'; disjunctive is 'either A or B'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقدم التالي • الشاعر إما مبتكر وإما مقتبس (الكبرى) لكنه ليس مبتكراً ∴ فهو مقتبس لكنه ليس مقتبساً ∴ فهو مبتكر فرفع أحدهما أنتج وضع الآخر، لكن وضع أحدهما لا ينتج رفع الآخر، لاحتمال اجتماعهما معاً، بأن يكون مبتكراً في بعض الأفكار ومقتبساً في البعض الآخر، فالمقدمة الكبرى هنا منفصلة مانعة خلو فقط، وليست مانعة جمع، لذلك فالقياس على أساسها لا ينتج إلا في حالتي الرفع. خلاصة عامة فالقياس الاستثنائي متصل وهو ما كانت مقدمته الكبرى شرطية متصلة وإنتاجه كما يلي : ١- وضع المقدم ينتج وضع التالي ٢- رفع التالي ينتج رفع المقدم منفصل وهو ما كانت مقدمته الكبرى شرطية منفصلة حقيقية إنتاجه في هذه الحالة كالتالي : ١- وضع كل من المقدم والتالي ينتج رفع الآخر . ٢- رفع كل من المقدم والتالي ينتج وضع الآخر . مانعة جمع فقط إنتاجه في هذه الحالة كما يلي : وضع كل من المقدم والتالي ينتج رفع الآخر . مانعة خلو فقط إنتاجه في هذه الحالة كما يلي : رفع كل من المقدم والتالي ينتج وضع الآخر . شروط انتاج هذا القياس ١ أن تكون الشرطية المتصلة أو المنفصلة موجبة ٢ أن تكون المتصلة لزومية لا اتفاقية أن تكون المنفصلة عنادية لا اتفاقية ٣ أن تكون احدى مقدمتي هذا القياس كلية ٤ أن تكون المنفصلة الحقيقية أي مانعة الجمع والخلو فقط مؤلفة من الشيء والمساوي لنقيضه لا من الشيء ونقيضه
+The antecedent and consequent: The poet is either innovator or imitator (the major premise), but he is not an innovator, therefore he is an imitator; but he is not an imitator, therefore he is an innovator. So raising one produced the placing of the other, but placing one does not produce the raising of the other, due to the possibility of their combination together, such that he is an innovator in some ideas and an imitator in others. Thus the major premise here is a disjunctive exclusive of emptiness only, and not exclusive of conjunction. Therefore the syllogism based on it produces only in the two cases of raising. General summary: The conditional syllogism: Connected: it is that whose major premise is a connected conditional. Its production is as follows: 1- Placing the antecedent produces the placing of the consequent. 2- Raising the consequent produces the raising of the antecedent. Disjunctive: it is that whose major premise is a disjunctive conditional. Real (true exclusive): its production in this case is as follows: 1- Placing each of the antecedent and consequent produces the raising of the other. 2- Raising each of the antecedent and consequent produces the placing of the other. Exclusive of conjunction only: its production in this case is as follows: placing each of the antecedent and consequent produces the raising of the other. Exclusive of emptiness only: its production in this case is as follows: raising each of the antecedent and consequent produces the placing of the other. Conditions for the production of this syllogism: 1- The connected or disjunctive conditional must be affirmative. 2- The connected must be implicative, not coincidental. The disjunctive must be adversative, not coincidental. 3- One of the two premises of this syllogism must be universal. 4- The real disjunctive (i.e., exclusive of both conjunction and emptiness only) must be composed of the thing and the equal of its contradictory, not of the thing and its contradictory.
+Source pages p. 286
+
+Commentary
+This passage classifies the conditional syllogism (al-qiyas al-istithna'i) into two main types: connected (muttasil) and disjunctive (munfasil). It first provides an example of a disjunctive syllogism: 'The poet is either an innovator or an imitator; he is not an innovator, therefore he is an imitator; he is not an imitator, therefore he is an innovator.' The author then notes that in this example, the major premise is 'exclusive of emptiness only' (mana'at khuluw), not 'exclusive of conjunction' (mana'at jam'), because the poet could be both in different respects. Hence, the syllogism only produces a conclusion when the antecedent or consequent is denied (raf'), not when affirmed (wad'). Following this, the author presents a systematic summary of the two types and their production rules. For the connected conditional (if-then), affirming the antecedent yields the consequent, and denying the consequent yields the denial of the antecedent. For the real disjunctive (true exclusive: either A or B, but not both and not neither), both affirming one yields denial of the other, and denying one yields affirmation of the other. For disjunctive exclusive of conjunction only (at least one must be true, but both can be true), only affirming one yields denial of the other. For disjunctive exclusive of emptiness only (not both can be true, but both can be false), only denying one yields affirmation of the other. Finally, four conditions for validity are given: (1) The conditional premise must be affirmative. (2) The connected must be implicative, not coincidental; the disjunctive must be adversative, not coincidental. (3) One of the two premises must be universal. (4) The real disjunctive must be composed of a thing and the equal of its contradictory (i.e., a proper exclusive disjunction like 'the number is either even or odd'), not of a thing and its contradictory (like 'Zayd is either standing or not standing', which is a tautology). This ensures the disjunctive is genuinely informative.
+
+Key Terms
+القياس الاستثنائي
+متصل
+منفصل
+وضع
+رفع
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example given in the passage, the major premise 'The poet is either innovator or imitator' is described as which type of disjunctive?
+A) Mana'at jam'
+B) Mana'at khuluw
+C) Haqiqiyya
+D) None of the above
+
+Key Takeaway
+A conditional syllogism can be connected or disjunctive; the type determines which operations (affirming/denying) yield a valid conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following as muttasil or munfasil: 'If the fasting person eats forgetfully, his fast is not broken.' The minor premise: 'He ate forgetfully.' Conclude: 'His fast is not broken.'
+?
+For the disjunctive: 'Either the prayer is in congregation or it is valid individually.' The minor premise: 'It is not in congregation.' Conclude: 'It is valid individually.' Identify the type of disjunctive (if not specified, assume haqiqiyya).
+
+Pages p. 286 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 286
+Module 14 · Lesson 113
+Next →
+The Syllogism
+intermediate
+10 min
+Sub-types of Disjunctive Syllogisms: Mana'at Jam', Mana'at Khuluw, and Haqiqiyya
+Author systematically lists the three sub-types with production rules.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three sub-types of disjunctive syllogisms (mana'at jam', mana'at khuluw, haqiqiyya) and apply the correct production rules for each.
+
+Core Idea
+The validity of a disjunctive syllogism depends on whether the disjunction excludes conjunction, emptiness, or both.
+
+In the previous lesson, we saw that the example of the poet is a disjunctive of type 'mana'at khuluw'. The author then provides a general summary listing three sub-types of disjunctive syllogisms and their specific production rules. In this lesson, we will dissect each sub-type.
+
+Guided Path
+1
+Review the three sub-types
+The text lists: (1) Haqiqiyya (real exclusive) – both mana'at jam' and mana'at khuluw; (2) Mana'at jam' only – excludes conjunction; (3) Mana'at khuluw only – excludes emptiness.
+Haqiqiyya is the most common in Islamic logic.
+2
+Learn the production rules for Haqiqiyya
+For real exclusive: placing (affirming) one yields raising (denying) the other; raising one yields placing the other. Both directions work.
+This is the familiar 'either A or B, but not both'.
+3
+Learn the production rules for Mana'at jam' only
+Only placing one yields raising the other. Raising does not work because both could be false.
+Example: 'Either the cat is black or it is white' – it could be neither.
+4
+Learn the production rules for Mana'at khuluw only
+Only raising one yields placing the other. Placing does not work because both could be true.
+Example: the poet example – he could be both.
+5
+Practice applying the rules
+Given a disjunctive premise, identify its type from context, then apply the correct rule.
+The text also gives a condition for haqiqiyya: it must be composed of a thing and the equal of its contradictory, not the contradictory itself.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقدم التالي • الشاعر إما مبتكر وإما مقتبس (الكبرى) لكنه ليس مبتكراً ∴ فهو مقتبس لكنه ليس مقتبساً ∴ فهو مبتكر فرفع أحدهما أنتج وضع الآخر، لكن وضع أحدهما لا ينتج رفع الآخر، لاحتمال اجتماعهما معاً، بأن يكون مبتكراً في بعض الأفكار ومقتبساً في البعض الآخر، فالمقدمة الكبرى هنا منفصلة مانعة خلو فقط، وليست مانعة جمع، لذلك فالقياس على أساسها لا ينتج إلا في حالتي الرفع. خلاصة عامة فالقياس الاستثنائي متصل وهو ما كانت مقدمته الكبرى شرطية متصلة وإنتاجه كما يلي : ١- وضع المقدم ينتج وضع التالي ٢- رفع التالي ينتج رفع المقدم منفصل وهو ما كانت مقدمته الكبرى شرطية منفصلة حقيقية إنتاجه في هذه الحالة كالتالي : ١- وضع كل من المقدم والتالي ينتج رفع الآخر . ٢- رفع كل من المقدم والتالي ينتج وضع الآخر . مانعة جمع فقط إنتاجه في هذه الحالة كما يلي : وضع كل من المقدم والتالي ينتج رفع الآخر . مانعة خلو فقط إنتاجه في هذه الحالة كما يلي : رفع كل من المقدم والتالي ينتج وضع الآخر . شروط انتاج هذا القياس ١ أن تكون الشرطية المتصلة أو المنفصلة موجبة ٢ أن تكون المتصلة لزومية لا اتفاقية أن تكون المنفصلة عنادية لا اتفاقية ٣ أن تكون احدى مقدمتي هذا القياس كلية ٤ أن تكون المنفصلة الحقيقية أي مانعة الجمع والخلو فقط مؤلفة من الشيء والمساوي لنقيضه لا من الشيء ونقيضه
+The antecedent and consequent: The poet is either innovator or imitator (the major premise), but he is not an innovator, therefore he is an imitator; but he is not an imitator, therefore he is an innovator. So raising one produced the placing of the other, but placing one does not produce the raising of the other, due to the possibility of their combination together, such that he is an innovator in some ideas and an imitator in others. Thus the major premise here is a disjunctive exclusive of emptiness only, and not exclusive of conjunction. Therefore the syllogism based on it produces only in the two cases of raising. General summary: The conditional syllogism: Connected: it is that whose major premise is a connected conditional. Its production is as follows: 1- Placing the antecedent produces the placing of the consequent. 2- Raising the consequent produces the raising of the antecedent. Disjunctive: it is that whose major premise is a disjunctive conditional. Real (true exclusive): its production in this case is as follows: 1- Placing each of the antecedent and consequent produces the raising of the other. 2- Raising each of the antecedent and consequent produces the placing of the other. Exclusive of conjunction only: its production in this case is as follows: placing each of the antecedent and consequent produces the raising of the other. Exclusive of emptiness only: its production in this case is as follows: raising each of the antecedent and consequent produces the placing of the other. Conditions for the production of this syllogism: 1- The connected or disjunctive conditional must be affirmative. 2- The connected must be implicative, not coincidental. The disjunctive must be adversative, not coincidental. 3- One of the two premises of this syllogism must be universal. 4- The real disjunctive (i.e., exclusive of both conjunction and emptiness only) must be composed of the thing and the equal of its contradictory, not of the thing and its contradictory.
+Source pages p. 286
+
+Commentary
+This passage classifies the conditional syllogism (al-qiyas al-istithna'i) into two main types: connected (muttasil) and disjunctive (munfasil). It first provides an example of a disjunctive syllogism: 'The poet is either an innovator or an imitator; he is not an innovator, therefore he is an imitator; he is not an imitator, therefore he is an innovator.' The author then notes that in this example, the major premise is 'exclusive of emptiness only' (mana'at khuluw), not 'exclusive of conjunction' (mana'at jam'), because the poet could be both in different respects. Hence, the syllogism only produces a conclusion when the antecedent or consequent is denied (raf'), not when affirmed (wad'). Following this, the author presents a systematic summary of the two types and their production rules. For the connected conditional (if-then), affirming the antecedent yields the consequent, and denying the consequent yields the denial of the antecedent. For the real disjunctive (true exclusive: either A or B, but not both and not neither), both affirming one yields denial of the other, and denying one yields affirmation of the other. For disjunctive exclusive of conjunction only (at least one must be true, but both can be true), only affirming one yields denial of the other. For disjunctive exclusive of emptiness only (not both can be true, but both can be false), only denying one yields affirmation of the other. Finally, four conditions for validity are given: (1) The conditional premise must be affirmative. (2) The connected must be implicative, not coincidental; the disjunctive must be adversative, not coincidental. (3) One of the two premises must be universal. (4) The real disjunctive must be composed of a thing and the equal of its contradictory (i.e., a proper exclusive disjunction like 'the number is either even or odd'), not of a thing and its contradictory (like 'Zayd is either standing or not standing', which is a tautology). This ensures the disjunctive is genuinely informative.
+
+Key Terms
+مانعة جمع
+مانعة خلو
+حقيقية
+وضع
+رفع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, for a disjunctive of type 'mana'at khuluw only', which operation yields a valid conclusion?
+A) Placing one disjunct
+B) Raising one disjunct
+C) Either placing or raising
+D) Neither
+
+Key Takeaway
+Disjunctive syllogisms have three sub-types; the production rules differ: haqiqiyya allows both ways, mana'at jam' only by placing, mana'at khuluw only by raising.
+
+How This Lesson Applies — to MY Life?
+?
+Given the disjunctive: 'Either the commodity is contaminated or it is pure' (context: a food item). Assume it is mana'at jam' only. If we affirm that it is contaminated, what can we conclude?
+?
+Given the disjunctive: 'Either the prayer is offered on time or it is missed.' If this is haqiqiyya, and we know the prayer is not offered on time, what follows?
+
+Pages p. 286 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 286
+Module 14 · Lesson 114
+Next →
+The Syllogism
+intermediate
+10 min
+Four Conditions for a Valid Conditional Syllogism
+Author lists four conditions at the end of the passage.
+
+Learning Objective
+By the end of this lesson, you will be able to list and apply the four conditions for the validity of conditional syllogisms as given by the author.
+
+Core Idea
+A conditional syllogism is valid only when the conditional premise is affirmative, implicative (not coincidental), one premise is universal, and a real disjunctive must be properly formed.
+
+After explaining the types and production rules, the author gives four conditions that must be satisfied for any conditional syllogism to be productive (valid). These conditions apply to both connected and disjunctive syllogisms, with specific requirements for each.
+
+Guided Path
+1
+Identify the first condition
+The conditional premise (either connected or disjunctive) must be affirmative. Negative conditionals do not yield valid conclusions.
+Affirmative means the connection or disjunction is stated positively.
+2
+Identify the second condition
+For connected, it must be implicative (luzumiyya), not coincidental (ittifaqiyya). For disjunctive, it must be adversative ('inadiyya), not coincidental. Coincidental conditionals (e.g., 'If the sun rises, then the river flows') are not valid because the connection is not necessary.
+The connection must be real and necessary.
+3
+Identify the third condition
+One of the two premises (major or minor) must be universal (kulliyya). This ensures the conclusion is universal or at least follows.
+This is analogous to the categorical syllogism condition.
+4
+Identify the fourth condition
+For the real disjunctive (haqiqiyya), it must be composed of a thing and the equal of its contradictory (musawi naqdihi), not the thing and its contradictory (naqdihi). For example, 'either even or odd' is valid; 'either standing or not standing' is not because it's a tautology (one is the negation of the other).
+This ensures the disjunctive is exclusive and informative.
+5
+Apply the conditions to an example
+Take the poet example: the premise is affirmative, it is adversative (since 'innovator' and 'imitator' are genuinely distinct), one premise is universal? The major premise 'The poet is either innovator or imitator' is universal (all poets are one or the other). The fourth condition applies to haqiqiyya, but this is not haqiqiyya; it's mana'at khuluw.
+So the poet syllogism satisfies conditions 1,2,3 but not 4 because it's not haqiqiyya.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقدم التالي • الشاعر إما مبتكر وإما مقتبس (الكبرى) لكنه ليس مبتكراً ∴ فهو مقتبس لكنه ليس مقتبساً ∴ فهو مبتكر فرفع أحدهما أنتج وضع الآخر، لكن وضع أحدهما لا ينتج رفع الآخر، لاحتمال اجتماعهما معاً، بأن يكون مبتكراً في بعض الأفكار ومقتبساً في البعض الآخر، فالمقدمة الكبرى هنا منفصلة مانعة خلو فقط، وليست مانعة جمع، لذلك فالقياس على أساسها لا ينتج إلا في حالتي الرفع. خلاصة عامة فالقياس الاستثنائي متصل وهو ما كانت مقدمته الكبرى شرطية متصلة وإنتاجه كما يلي : ١- وضع المقدم ينتج وضع التالي ٢- رفع التالي ينتج رفع المقدم منفصل وهو ما كانت مقدمته الكبرى شرطية منفصلة حقيقية إنتاجه في هذه الحالة كالتالي : ١- وضع كل من المقدم والتالي ينتج رفع الآخر . ٢- رفع كل من المقدم والتالي ينتج وضع الآخر . مانعة جمع فقط إنتاجه في هذه الحالة كما يلي : وضع كل من المقدم والتالي ينتج رفع الآخر . مانعة خلو فقط إنتاجه في هذه الحالة كما يلي : رفع كل من المقدم والتالي ينتج وضع الآخر . شروط انتاج هذا القياس ١ أن تكون الشرطية المتصلة أو المنفصلة موجبة ٢ أن تكون المتصلة لزومية لا اتفاقية أن تكون المنفصلة عنادية لا اتفاقية ٣ أن تكون احدى مقدمتي هذا القياس كلية ٤ أن تكون المنفصلة الحقيقية أي مانعة الجمع والخلو فقط مؤلفة من الشيء والمساوي لنقيضه لا من الشيء ونقيضه
+The antecedent and consequent: The poet is either innovator or imitator (the major premise), but he is not an innovator, therefore he is an imitator; but he is not an imitator, therefore he is an innovator. So raising one produced the placing of the other, but placing one does not produce the raising of the other, due to the possibility of their combination together, such that he is an innovator in some ideas and an imitator in others. Thus the major premise here is a disjunctive exclusive of emptiness only, and not exclusive of conjunction. Therefore the syllogism based on it produces only in the two cases of raising. General summary: The conditional syllogism: Connected: it is that whose major premise is a connected conditional. Its production is as follows: 1- Placing the antecedent produces the placing of the consequent. 2- Raising the consequent produces the raising of the antecedent. Disjunctive: it is that whose major premise is a disjunctive conditional. Real (true exclusive): its production in this case is as follows: 1- Placing each of the antecedent and consequent produces the raising of the other. 2- Raising each of the antecedent and consequent produces the placing of the other. Exclusive of conjunction only: its production in this case is as follows: placing each of the antecedent and consequent produces the raising of the other. Exclusive of emptiness only: its production in this case is as follows: raising each of the antecedent and consequent produces the placing of the other. Conditions for the production of this syllogism: 1- The connected or disjunctive conditional must be affirmative. 2- The connected must be implicative, not coincidental. The disjunctive must be adversative, not coincidental. 3- One of the two premises of this syllogism must be universal. 4- The real disjunctive (i.e., exclusive of both conjunction and emptiness only) must be composed of the thing and the equal of its contradictory, not of the thing and its contradictory.
+Source pages p. 286
+
+Commentary
+This passage classifies the conditional syllogism (al-qiyas al-istithna'i) into two main types: connected (muttasil) and disjunctive (munfasil). It first provides an example of a disjunctive syllogism: 'The poet is either an innovator or an imitator; he is not an innovator, therefore he is an imitator; he is not an imitator, therefore he is an innovator.' The author then notes that in this example, the major premise is 'exclusive of emptiness only' (mana'at khuluw), not 'exclusive of conjunction' (mana'at jam'), because the poet could be both in different respects. Hence, the syllogism only produces a conclusion when the antecedent or consequent is denied (raf'), not when affirmed (wad'). Following this, the author presents a systematic summary of the two types and their production rules. For the connected conditional (if-then), affirming the antecedent yields the consequent, and denying the consequent yields the denial of the antecedent. For the real disjunctive (true exclusive: either A or B, but not both and not neither), both affirming one yields denial of the other, and denying one yields affirmation of the other. For disjunctive exclusive of conjunction only (at least one must be true, but both can be true), only affirming one yields denial of the other. For disjunctive exclusive of emptiness only (not both can be true, but both can be false), only denying one yields affirmation of the other. Finally, four conditions for validity are given: (1) The conditional premise must be affirmative. (2) The connected must be implicative, not coincidental; the disjunctive must be adversative, not coincidental. (3) One of the two premises must be universal. (4) The real disjunctive must be composed of a thing and the equal of its contradictory (i.e., a proper exclusive disjunction like 'the number is either even or odd'), not of a thing and its contradictory (like 'Zayd is either standing or not standing', which is a tautology). This ensures the disjunctive is genuinely informative.
+
+Key Terms
+موجبة
+لزومية
+اتفاقية
+عنادية
+كلية
+المساوي لنقيضه
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the fourth condition for a valid conditional syllogism, specifically for a real disjunctive?
+A) It must be composed of a thing and its contradictory
+B) It must be composed of a thing and the equal of its contradictory
+C) It must be universal
+D) It must be affirmative
+
+Key Takeaway
+Four conditions must be met: affirmative, implicative/adversative, one universal premise, and for haqiqiyya, proper composition.
+
+How This Lesson Applies — to MY Life?
+?
+Check the following syllogism against the four conditions: Major: 'If a person is asleep, then their responsibility is suspended.' Minor: 'Zayd is asleep.' Conclusion: 'Zayd's responsibility is suspended.' Is this valid?
+?
+Construct a real disjunctive (haqiqiyya) using an Islamic legal example that satisfies the fourth condition (thing and equal of its contradictory, not just contradictory).
+
+Pages p. 286 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 287
+Module 14 · Lesson 115
+Next →
+The Syllogism
+intermediate
+5 min
+Four Conditions for Conditional Syllogism
+Four conditions for conditional syllogism validity
+
+Learning Objective
+By the end of this lesson, you will be able to identify and apply the four conditions for a valid conditional syllogism to a given Islamic argument.
+
+Core Idea
+Conditional syllogisms require implicative, affirmative, universal, and properly structured disjunctions.
+
+In this passage, the author lays out the four strict conditions a conditional syllogism must meet to be valid. These rules ensure that the logical connection is necessary, not accidental, and that the syllogism is properly formed. Understanding these conditions is crucial when employing conditional arguments in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the first condition: affirmation
+The first condition requires that the conditional premise—whether conjunctive ('if...then') or disjunctive ('either...or')—be affirmative. A negative conditional cannot serve as a premise in this syllogism.
+2
+Distinguish implicative from accidental conditionals
+The second condition tells us that a conjunctive conditional must be luzumiyya (implicative), meaning the antecedent necessarily entails the consequent. Disjunctives must be 'anadiyya (contradictory), where the two parts are mutually exclusive and exhaustive. Accidental (ittifaqiyya) connections are invalid.
+3
+Check universality
+The third condition requires that at least one of the two premises in the syllogism be universal (kulliyya). This ensures the argument has generality.
+4
+Understand the fourth condition on exclusive disjunction
+The fourth condition specifies that the only valid type of exclusive disjunction is one that prevents both parts being true together (jam') and both being false (khuluw). It must be composed of the thing (shay') and its equal to its negation (al-musawi li-naqidihi), not the thing and its direct negation.
+This technical point ensures the disjunction is properly exclusive and exhaustive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شروط انتاج هذا القياس: ١ أن تكون الشرطية المتصلة أو المنفصلة موجبة. ٢ أن تكون المتصلة لزومية لا اتفاقية، وأن تكون المنفصلة عنادية لا اتفاقية. ٣ أن تكون احدى مقدمتي هذا القياس كلية. ٤ أن تكون المنفصلة الحقيقية أي مانعة الجمع والخلو فقط مؤلفة من الشيء والمساوي لنقيضه لا من الشيء ونقيضه.
+Conditions for producing this syllogism: 1. The conditional conjunctive or disjunctive must be affirmative. 2. The conjunctive must be implicative, not accidental; and the disjunctive must be contradictory, not accidental. 3. One of the two premises of this syllogism must be universal. 4. The true exclusive disjunction, i.e., the only one preventing conjunction and emptiness, must be composed of the thing and its equal to its negation, not of the thing and its negation.
+Source pages p. 287
+
+Commentary
+This passage enumerates four conditions for the production of a conditional syllogism (qiyas shartiy). The first condition requires the conditional premise—whether conjunctive (muttasila) or disjunctive (munfasila)—to be affirmative. The second condition specifies that for the conjunctive, it must be implicative (luzumiyya), meaning the antecedent necessarily implies the consequent, not merely accidental (ittifaqiyya). For the disjunctive, it must be contradictory ('anadiyya)—the two parts mutually exclusive and exhaustive—again not accidental. The third condition demands that at least one of the two premises be universal (kulliyya). The fourth condition pertains to the true exclusive disjunction (al-munfasila al-haqiqiyya), which prevents both conjunction (jam') and emptiness (khuluw). This type must be composed of the thing (shay') and its equal to the negation (al-musawi li-naqidihi), not the thing and its direct negation—a technical point for proper formulation.
+
+Key Terms
+شرطية متصلة
+شرطية منفصلة
+لزومية
+اتفاقية
+عنادية
+مانعة الجمع والخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the fourth condition, what must the true exclusive disjunction be composed of?
+A) The thing and its direct negation
+B) The thing and its equal to its negation
+C) Two accidental parts
+D) A universal and a particular
+
+Key Takeaway
+The validity of a conditional syllogism hinges on four conditions: affirmative, implicative/contradictory, universal premise, and proper exclusive disjunction formulation.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument from usul al-fiqh: 'If the ruling is wajib, then it must be performed; it is wajib; therefore it must be performed.' Check whether it satisfies the first three conditions (affirmative, implicative, universal).
+?
+Examine this disjunctive argument: 'Either the act is halal or it is haram; it is not halal; therefore it is haram.' Is the disjunction 'anadiyya? Does it meet the fourth condition? Explain why or why not.
+
+Pages p. 287 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 288
+Module 14 · Lesson 116
+Next →
+The Syllogism
+beginner
+5 min
+Introduction to Qiyas al-'Illa: Syllogism of Cause
+Text introduces Qiyas al-'Illa as a type where the middle term is the cause of the major term, with example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a qiyas al-'illa (syllogism of cause) and explain how the middle term functions as the cause of the major term.
+
+Core Idea
+In qiyas al-'illa, the middle term is the cause of the judgment itself.
+
+This lesson introduces a special type of categorical syllogism called qiyas al-'illa, where the middle term is not just a link but the very cause (ʿilla) of the major term. The text provides an example from the case of Abū Lahab to illustrate this. Understanding this concept bridges logical syllogism and legal analogy in Islamic sciences.
+
+Guided Path
+1
+Identify the syllogism's components
+In the example, find the minor term (Abū Lahab), middle term (dying upon polytheism), and major term (non-forgiveness). Write them down.
+2
+Determine the cause relationship
+Ask: Why does the major term apply to the minor term? Because the middle term is the cause. Verify by checking if the middle term answers 'why'
+3
+Compare with legal analogy
+Note that jurists (fuqahāʾ) use this structure in qiyas fiqhi, where the ʿilla of the original ruling is applied to a new case.
+4
+Distinguish from other syllogisms
+Not all categorical syllogisms have a causal middle term; in qiyas al-dalāla, the middle term is an indication, not a cause.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لَوَاحِقُ القِيَاسِ (١) قياس العلة وقياس الدلالة. أولاً : نلاحظ في بعض الأقيسة المنطقية أنّ الحدّ الأوسط في القياس هو علة للحدّ الأكبر. المثال : أبو لهب مَاتَ مشركاً وكل من مات مشركاً لا يغفر الله له. حدّ أصغر حدّ أوسط حدّ أوسط حدّ أكبر. ∴ فأبو لهب لا يغفر الله له . ففي هذا المثال نلاحظ أنّ الحدّ الأوسط وهو الموت على الشرك هو علّة في عدم غفران الله لمن مات على الشرك . لأنه إذا قيل : ما علّة عدم غفران الله له؟ كان الجواب : لأنه مات مشركاً، والله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء . فعلّة عدم الغفران، وهو الحدّ الأكبر في هذا القياس هو الموت على الشرك . وهذا النوع من القياس : • يسمّيه الفقهاء : «قياس العلّة» ملاحظين في هذه التسمية أنّ الحدّ الأوسط هو علّة في الحدّ الأكبر.
+Appendices of Syllogism (1) Syllogism of Cause and Syllogism of Indication. Firstly: We observe in some logical syllogisms that the middle term in the syllogism is a cause for the major term. The example: Abū Lahab died as a polytheist, and everyone who died as a polytheist will not be forgiven by Allah. (Minor term, middle term, middle term, major term.) Therefore, Abū Lahab will not be forgiven by Allah. In this example we observe that the middle term, which is dying upon polytheism, is a cause for the non-forgiveness by Allah for one who dies upon polytheism. Because if one asks: What is the cause of Allah's non-forgiveness for him? The answer would be: Because he died as a polytheist, and Allah does not forgive that partners be associated with Him, and He forgives what is less than that for whom He wills. So the cause of non-forgiveness, which is the major term in this syllogism, is dying upon polytheism. And this type of syllogism: The jurists call it 'Syllogism of Cause', noting in this naming that the middle term is a cause for the major term.
+Source pages p. 288
+
+Commentary
+This passage introduces the appendices (lawāḥiq) of the syllogism, specifically focusing on Qiyas al-'Illa (Syllogism of Cause) and Qiyas al-Dalāla (Syllogism of Indication). The text explains that in some logical syllogisms, the middle term (ḥadd al-awsaṭ) serves as the cause ('illa) for the major term (ḥadd al-akbar). The example given is a categorical syllogism: the minor premise states that Abū Lahab died as a polytheist (mushrik), the major premise states that everyone who dies as a polytheist will not be forgiven by Allah, and the conclusion is that Abū Lahab will not be forgiven. Here, the middle term is 'dying upon polytheism'. The text reasons: if one asks why Allah does not forgive such a person, the answer is because he died as a polytheist. Thus, the cause of the major term (non-forgiveness) is the middle term. The text notes that jurists (fuqahā') call this type 'Qiyas al-'Illa', because they observe that the middle term is the cause for the major term. This is an important classification in Islamic legal theory, where the 'illa is the effective cause of a legal ruling.
+
+Key Terms
+الحدّ الأوسط
+الحدّ الأكبر
+علة
+قياس العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example given, what is the middle term?
+A) Abū Lahab
+B) Dying upon polytheism
+C) Not being forgiven by Allah
+D) The minor premise
+
+Key Takeaway
+Qiyas al-'illa is a categorical syllogism where the middle term is the cause (ʿilla) of the major term, a cornerstone for legal analogy in Islamic jurisprudence.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a qiyas al-'illa on a fiqh topic: 'Wine is prohibited because it is intoxicating; nabidh is intoxicating; therefore nabidh is prohibited.' Explain why the middle term (intoxicating) is the cause of the prohibition.
+?
+Analyze the following syllogism: 'Every intoxicating substance is haram. This beverage is intoxicating. Therefore, this beverage is haram.' Determine if it qualifies as qiyas al-'illa and justify your answer.
+
+Pages p. 288 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 288
+Module 14 · Lesson 117
+Next →
+The Syllogism
+intermediate
+8 min
+Syllogism of Cause and Syllogism of Indication
+Author defines two types of syllogism based on the middle term's relation: cause or indication.
+
+Learning Objective
+By the end of this lesson, you will be able to differentiate between a syllogism of cause and a syllogism of indication by identifying whether the middle term functions as a cause or a sign of the major term.
+
+Core Idea
+In a syllogism, the middle term may be a cause or merely a sign of the major term.
+
+Not all syllogisms explain why a conclusion holds. Some syllogisms use the middle term as a cause, while others use it only as a sign. This lesson explores the difference between these two types using examples from Islamic theology and natural science, helping you analyse arguments in Islamic disciplines.
+
+Guided Path
+1
+Identify the middle term
+Find the term that appears in both premises. In the first example, it is 'dying as an idolater'; in the second, 'eternity in the Fire'.
+2
+Determine the relationship of the middle term to the major term
+Ask: Is the middle term the cause of the major term, or is it merely an indication? In the first example, dying in idolatry causes non-forgiveness. In the second, eternity in the Fire does not cause dying in disbelief—rather, it indicates it.
+The causal direction is crucial.
+3
+Classify the syllogism
+If the middle term is the cause, it is qiyas al-'illa (also called burhan al-limmi). If it is only a sign, it is qiyas al-dalala.
+Jurists call the first 'syllogism of cause'; logicians call it 'demonstration of why'.
+4
+Test with other examples
+Consider the mercury example from the passage: metal is the cause of expansion, so it is qiyas al-'illa. Can you think of an Islamic legal example where the middle term is a sign rather than a cause?
+For instance, the presence of a legal effect may indicate a cause without being the cause itself.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لَوَاحِقُ القِيَاسِ
+(١)
+قياس العلة وقياس الدلالة
+أولاً : نلاحظ في بعض الأقيسة المنطقية أنّ الحدّ الأوسط في القياس هو علة للحدّ الأكبر.
+المثال :
+أبو لهب مَاتَ مشركاً وكل من مات مشركاً لا يغفر الله له
+حدّ أصغر حدّ أوسط حدّ أوسط حدّ أكبر
+∴ فأبو لهب لا يغفر الله له .
+ففي هذا المثال نلاحظ أنّ الحدّ الأوسط وهو الموت على الشرك هو علّة في عدم غفران الله لمن مات على الشرك .
+لأنه إذا قيل : ما علّة عدم غفران الله له؟ كان الجواب : لأنه مات مشركاً، والله لا يغفر أن يشرك به ويغفر ما دون ذلك لمن يشاء .
+فعلّة عدم الغفران، وهو الحدّ الأكبر في هذا القياس هو الموت على الشرك .
+وهذا النوع من القياس :
+• يسمّيه الفقهاء : «قياس العلّة» ملاحظين في هذه التسمية أنّ الحدّ الأوسط هو علّة في الحدّ الأكبر.
+• ويسميه المنطقيون: «بُرْهَانَ اللَّم» أو «البرهان اللِّمِّي» لأنه إذا قيل في الحدّ الأكبر: لِمَ لا يغفر الله له؟ كان الجواب: لأنه مات مشركاً. وهذا الجواب مأخوذ من الحدّ الأوسط، فاشتقوا هذا الاسم من (لِمَ؟) الاستفهامية.
+مثال آخر :
+الزئبق معدن وكل معدن يتمدد بالحرارة
+حد أصغر حد أوسط حد أوسط حد أكبر
+.. فالزئبق يتمدد بالحرارة
+ففي هذا المثال نلاحظ أيضاً أنّ الحدّ الأوسط وهو المعدن هو علة التمدد بالحرارة الذي هو الحد الأكبر.
+فهذا القياس هو من قبيل قياس العلة، أو البرهان اللمي، لأنه إذا قيل: ما علة تمدده بالحرارة؟ كان الجواب : لأنه معدن .
+ثانياً : ونلاحظ في بعض الأقيسة المنطقية أنّ الحد الأوسط ليس علة للحد الأكبر، بل هو دليل فقط على أنّ الحد الأكبر ثابت للحد الأصغر، بسبب شمول الحد الأوسط للأصغر، أو مساواته له في الماصدق.
+المثال :
+أبو لهب خالد في النار وكل خالد في النار فقد مات كافراً
+حد أصغر حد أوسط حد أوسط حد أكبر
+.. فأبو لهب قد مات كافراً .
+ففي هذا المثال نلاحظ أنّ الحدّ الأوسط وهو الخلود في النار ليس هو العلة في الحد الأكبر وهو الموت على الكفر، بل الأمر بالعكس، إذ الموت على الكفر هو العلة في الخلود في النار.
+Corollaries of the Syllogism (1) Syllogism of Cause and Syllogism of Indication. First: We observe in some logical syllogisms that the middle term in the syllogism is the cause of the major term. Example: Abu Lahab died as an idolater, and everyone who dies as an idolater, Allah will not forgive him. (Minor term, middle term, middle term, major term) Therefore, Abu Lahab, Allah will not forgive him. In this example we observe that the middle term, which is dying in idolatry, is the cause of Allah not forgiving one who dies in idolatry. Because if it is said: What is the cause of Allah not forgiving him? The answer would be: Because he died as an idolater, and Allah does not forgive that partners be associated with Him, and forgives what is less than that for whom He wills. So the cause of non-forgiveness, which is the major term in this syllogism, is dying in idolatry. This type of syllogism: The jurists call it 'syllogism of cause', observing in this name that the middle term is the cause in the major term. And the logicians call it 'demonstration of why' (burhan al-lim) or 'the demonstration of why' because if it is said regarding the major term: Why will Allah not forgive him? The answer: Because he died as an idolater. This answer is taken from the middle term, so they derived this name from the interrogative 'why?'. Another example: Mercury is a metal, and every metal expands with heat. (Minor term, middle term, middle term, major term) Therefore, mercury expands with heat. In this example we also observe that the middle term, which is metal, is the cause of expansion by heat which is the major term. So this syllogism is of the type of syllogism of cause, or the demonstration of why, because if it is said: What is the cause of its expansion by heat? The answer: Because it is a metal. Second: And we observe in some logical syllogisms that the middle term is not a cause for the major term, but rather it is only an indication that the major term is established for the minor term, due to the universality of the middle term over the minor, or its equality with it in extension. Example: Abu Lahab is eternally in the Fire, and everyone eternally in the Fire died as a disbeliever. (Minor term, middle term, middle term, major term) Therefore, Abu Lahab died as a disbeliever. In this example we observe that the middle term, which is eternity in the Fire, is not the cause of the major term, which is dying in disbelief; rather the opposite, for dying in disbelief is the cause of eternity in the Fire.
+Source pages p. 288
+
+Commentary
+This passage classifies syllogisms into two types based on the relationship of the middle term to the major term. The author presents the first type, 'syllogism of cause' (qiyas al-‘illa), also called 'demonstration of why' (burhan al-limmi), where the middle term is the cause of the major term. Two examples are given: the first from Islamic theology—Abu Lahab's death in idolatry causes Allah's non-forgiveness; the second from natural science—being a metal causes expansion by heat. The author notes that jurists call it 'qiyas al-‘illa' and logicians call it 'burhan al-limmi' because it answers the question 'why?'. The second type is 'syllogism of indication' (qiyas al-dalala), where the middle term is not the cause but merely an indication that the major term applies to the minor, often because the middle term includes the minor or is coextensive with it. The example: Abu Lahab's eternity in the Fire indicates that he died a disbeliever, but in reality, dying a disbeliever is the cause of eternity in the Fire. Thus, the causal relation is reversed: the major term (dying a disbeliever) is the cause of the middle term (eternity in the Fire), not the other way around. The passage clarifies that in the second type, the middle term serves as a sign or evidence, not a cause.
+
+Key Terms
+قياس العلة
+قياس الدلالة
+برهان اللم
+الحد الأوسط
+الحد الأكبر
+الحد الأصغر
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'Abu Lahab is eternally in the Fire, and everyone eternally in the Fire died as a disbeliever, therefore Abu Lahab died as a disbeliever', what is the relationship between the middle term and the major term?
+A) The middle term is the cause of the major term.
+B) The middle term is an indication of the major term, and the major term is actually the cause of the middle term.
+C) The middle term is unrelated to the major term.
+D) The middle term is the effect of the major term.
+
+Key Takeaway
+A syllogism can have the middle term as a cause (qiyas al-'illa) or as a sign (qiyas al-dalala); the direction of causation determines the type.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a syllogism of cause using an Islamic theological example: pick a statement about reward or punishment and identify the middle term as the cause of the major term.
+?
+Analyse the following syllogism: 'Zayd is alive. Every living being will die. Therefore Zayd will die.' Is this a syllogism of cause or indication? Explain.
+
+Pages p. 288 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 290
+Module 14 · Lesson 118
+Next →
+The Syllogism
+intermediate
+8 min
+Qiyas al-Dalala and Burhan al-Inn
+Author defines qiyas al-dalala and burhan al-inn with a categorical syllogism example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a qiyas al-dalala (indicative analogy) and analyze its structure as a categorical syllogism in the first figure.
+
+Core Idea
+Qiyas al-dalala uses a sign to prove a conclusion without revealing the cause.
+
+In this passage, the author introduces two closely related terms: qiyas al-dalala (used by jurists) and burhan al-inn (used by logicians). Both refer to a type of inference that establishes a fact from a sign, without uncovering the underlying cause. The author illustrates this with a concrete example from eschatology and then provides a formal categorical syllogism. By the end of this lesson, you will be able to distinguish this non-causal demonstration from causal analogy and to identify its logical structure.
+
+Guided Path
+1
+Identify the real-world example
+The passage begins with a scenario: being judged to remain eternally in the fire indicates that the person died as a disbeliever, but the cause is not mentioned. This sets the context for the type of inference being defined.
+This example is from Islamic eschatology but serves as a concrete illustration.
+2
+Extract the two technical names
+The author gives two names: jurists call it 'qiyas al-dalala' (indicative analogy) because the middle term indicates the major term; logicians call it 'burhan al-inn' (demonstration of the 'that') because the emphatic particle 'inna' is used to assert the connection.
+The shift in terminology reflects different disciplinary perspectives.
+3
+Parse the formal syllogism example
+The passage gives a categorical syllogism: 'Every changing thing has no permanence, and everything with no permanence is originated.' Identify the three terms: minor term (changing thing), middle term (no permanence), major term (originated).
+This is a first-figure syllogism: all A are B, all B are C, therefore all A are C.
+4
+Verify that the middle term is a sign, not a cause
+Notice that the middle term (no permanence) is not the cause of being originated; it is a sign (dalil) of temporality. This is what distinguishes qiyas al-dalala from causal analogy (qiyas al-illa).
+The conclusion follows from the sign, not from an efficient cause.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولكنّ كونه محكوماً عليه بالخلود في النار هو دليل على أنّه قد مات كافراً، من غير بيان علته.
+وهذا النوع من القياس:
+. يسميه الفقهاء: «قياس الدلالة» ملاحظين في هذه التسمية أنّ الحدّ الأوسط يدلُّ على الحدّ الأكبر.
+. ويسميه المنطقيون: «بُرْهانَ الإنّ» أو «البرهان الإنّي» ملاحظين أنّ إثبات الحدّ الأوسط يدلُّ بالتأكيد الذي يستخدم فيه حرف «إنّ» المؤكدة على الحدّ الأكبر المستدعي للنتيجة.
+مثال آخر:
+كلّ متغيّر لا بقاء له وكل ما لا بقاء له فهو حادث الذات من ذاته من ذاته
+But his being judged to remain eternally in the fire is evidence that he died as a disbeliever, without explaining its cause. This type of syllogism: The jurists call it 'qiyas al-dalala' (indicative analogy), observing in this naming that the middle term indicates the major term. And the logicians call it 'burhan al-inn' (demonstration of the 'that'), observing that establishing the middle term indicates, with the emphasis using the emphatic particle 'inna', the major term necessitating the conclusion. Another example: Every changing thing has no permanence, and everything with no permanence is originated. The essence from its essence from its essence [unclear].
+Source pages p. 290
+
+Commentary
+This passage defines two related concepts: qiyas al-dalala (indicative analogy) and burhan al-inn (demonstration of the 'that'). The author begins with a concrete scenario: someone being judged to remain eternally in the fire indicates that the person died as a disbeliever, but without specifying the cause (i.e., they do not identify the specific sin or reason). This exemplifies the type of inference under discussion. The author then gives the technical names: jurists (fuqaha) call this 'qiyas al-dalala' because the middle term (the fact of being judged to remain in the fire) serves as a sign (dalil) pointing to the major term (that the person died a disbeliever). Logicians (mantiqiyyun) call it 'burhan al-inn' or 'the demonstration of the that' (al-burhan al-inni) because the middle term's existence is established and through an emphatic assertion (the particle 'inna') it indicates the major term which brings about the conclusion. An example is given: 'Every changing thing has no permanence, and everything with no permanence is originated.' This is a categorical syllogism (qiyas iqtirani) in the first figure: middle term = 'no permanence' (la baqa'a lahu), major term = 'originated' (hadith). The conclusion is that every changing thing is originated. The final phrase 'al-dhat min dhatihi' appears garbled, likely intending to complete 'hadith al-dhat' (originated in essence).
+
+Key Terms
+قياس الدلالة
+برهان الإنّ
+الحدّ الأوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example given: 'Every changing thing has no permanence, and everything with no permanence is originated', what is the middle term (al-hadd al-awsat)?
+A) Changing thing (mutaghayyir)
+B) No permanence (la baqa'a lahu)
+C) Originated (hadith)
+D) Essence (dhat)
+
+Key Takeaway
+Qiyas al-dalala (burhan al-inn) is a non-causal demonstration that uses a sign to establish a conclusion, exemplified by a first-figure categorical syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a categorical syllogism of the burhan al-inn type proving that the world is originated, using the premises 'The world is changing' and 'Everything changing is originated'. Identify the middle term and explain why it is a sign rather than a cause.
+?
+In the following example from usul al-fiqh: 'The impurity of wine is indicated by its intoxication, without knowing the cause of the prohibition.' Identify whether this is qiyas al-dalala or qiyas al-illa, and state the middle term.
+
+Pages p. 290 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 297
+Module 14 · Lesson 119
+Next →
+The Syllogism
+advanced
+8 min
+Why Tamthil Cannot Produce Certainty
+Author lists three impossible conditions for tamthil to yield certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three conditions required for tamthil to yield certainty and explain why each is impossible to verify.
+
+Core Idea
+Tamthil cannot produce certainty because its required conditions are impossible to verify.
+
+In this passage, the author argues that analogical reasoning (tamthil) is fundamentally incapable of delivering certain knowledge (qat'). While tamthil is widely used in Fiqh, here it is critiqued as insufficient for intellectual matters. The key is that for analogy to give certainty, three conditions must be met—but none of them can be verified in practice. This lesson unpacks each condition and the author's reasoning.
+
+Guided Path
+1
+Identify the author's overall claim
+Read the opening: 'tamthil is not useful for certainty' and that the unseen world cannot be analogized to the witnessed world except in universal rational principles.
+The author restricts tamthil's domain.
+2
+Distinguish applicable domains
+Note that for universal principles like existence and impossibility, tamthil is unnecessary—categorical syllogism is used instead. Tamthil is only relevant for specific cases.
+3
+Extract the three conditions
+List the three conditions the author gives: 1) the shared attribute must be the complete cause with no other contributors or unknown conditions; 2) no particularity of the original case is a condition; 3) no particularity of the branch prevents the judgment.
+These are conditions for tamthil to yield certainty.
+4
+Analyze why each condition is impossible
+For each condition, consider why verification is impossible. For condition 1, we cannot be sure that the identified cause is complete and exclusive. For conditions 2 and 3, we cannot rule out hidden peculiarities.
+The author says verification is 'non-feasible' and the conditions are 'impossible to exist'.
+5
+Conclude the implication
+Since the conditions are impossible, tamthil cannot produce certainty. Therefore it is useless in intellectual sciences (al-'aqliyyat) that require certainty.
+This does not mean tamthil is useless in all contexts—only for certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يتعذر الوصول إلى معرفته، لذلك فلا يقاس عالم الغيب على عالم الشهادة، إلا في الحقائق العامة العقلية الكبرى الشاملة لعالم الغيب وعالم الشهادة معاً، كالوجود، والإمكان، والاستحالة، وعدم جمع النقيضين، ونحو ذلك. وهذه لا يحتاج فيها إلى دليل التمثيل، بل ينطبق عليها دليل القياس المنطقي. ولكي يفيد التمثيل القطع بالحكم يجب استيفاء شروط يتعذر وجودها وهي : أولاً : القطع بكون الوصف المشترك هو تمام العلة أو تمام السبب حتماً، ولا يوجد شيء آخر مشارك له، ولا توجد شروط له لم تعرف . وتحقيق هذا الشرط غير متيسر في علل الأشياء وأسبابها . ثانياً : القطع بأن لا تكون خصوصية الأصل شرطاً لثبوت الحكم له، أو وجود الظاهرة فيه . ثالثاً : القطع بأن لا تكون خصوصية الفرع مانعاً من ثبوت الحكم له، أو وجود الظاهرة فيه . ولما كان التحقق من وجود هذه الشروط متعذراً، كان التمثيل غير مفيد للقطع، فهو إذن لا ينفع في العقليات التي يتطلب فيها اليقين .
+It is impossible to attain knowledge of it, therefore the unseen world should not be analogized to the witnessed world, except in the universal rational realities that encompass both the unseen and witnessed worlds together, such as existence, contingency, impossibility, and the impossibility of combining two contradictories, and similar matters. These do not require analogical proof, rather the proof of logical syllogism applies to them. For analogy to yield certainty in judgment, conditions must be fulfilled whose existence is impossible. They are: First: certainty that the shared attribute is exactly the complete cause or complete reason necessarily, and that there is no other thing sharing with it, and that there are no unknown conditions for it. Verification of this condition is not feasible in the causes of things. Second: certainty that no particularity of the original case is a condition for the establishment of the judgment for it, or for the existence of the phenomenon in it. Third: certainty that no particularity of the branch case prevents the establishment of the judgment for it, or the existence of the phenomenon in it. Since verifying the existence of these conditions is impossible, analogy is not useful for certainty; therefore it is of no benefit in intellectual matters that require certainty.
+Source pages p. 297
+
+Commentary
+This passage critiques the method of tamthil (analogical reasoning) and argues that it cannot produce certain knowledge (qat'). The author begins by stating that the unseen world (al-ghayb) cannot be measured against the witnessed world (al-shahada) except in the broad rational principles common to both, such as existence and impossibility. For such principles, tamthil is unnecessary; rather, categorical syllogism (qiyas mantiqi) is used. The core argument is that for tamthil to yield certainty, three impossible conditions must be met. First, one must be certain that the shared attribute is the complete cause (tamam al-illa) without any other contributing factor or unknown conditions—this is practically unattainable. For example, in Fiqh, if we claim that intoxication is the cause for prohibition, we cannot be sure that there is no other hidden condition. Second, one must be certain that no particularity of the original case (asl) is a condition for the ruling—e.g., the grape-specific nature might be required. Third, one must be certain that no particularity of the branch (far') prevents the ruling—e.g., nabidh might have a peculiarity that makes it an exception. Since verifying these is impossible, tamthil cannot provide certainty, rendering it useless for the intellectual sciences (al-'aqliyyat) where certainty is required.
+
+Key Terms
+التمثيل
+القطع
+العلة
+خصوصية الأصل
+خصوصية الفرع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the first condition for tamthil to produce certainty?
+A) The shared attribute must be the complete cause with no other contributor or unknown conditions.
+B) The original and branch must be identical in all respects.
+C) The judgment must be from the Qur'an or Sunnah.
+D) The analogy must be accepted by all scholars.
+
+Key Takeaway
+Tamthil cannot produce certainty because its required conditions—complete causal attribution, no peculiarity in the original, no obstacle in the branch—are impossible to verify, thus it is unsuitable for intellectual sciences demanding yaqin.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the Fiqh analogy between selling dates for dates (riba al-fadl) and selling wheat for wheat. The shared attribute is 'same type of food'. Apply the author's three conditions to determine whether this analogy can yield certainty. Write a short explanation of why or why not.
+?
+Take the Kalam argument that the world is contingent because it resembles contingent things. Is this tamthil? According to the passage, why does it fail to produce certainty? What alternative reasoning would be appropriate for such a universal claim?
+
+Pages p. 297 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 309
+Module 14 · Lesson 120
+Next →
+The Syllogism
+beginner
+5 min
+Fallacy of Middle Term Identity (Circularity)
+Author illustrates fallacy of middle term identity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a syllogism's middle term is identical in meaning to the minor term, rendering the argument circular and invalid.
+
+Core Idea
+A middle term that is a mere synonym of the minor term cannot produce new knowledge.
+
+The first fallacy related to the middle term occurs when the middle term is not distinct from the minor term. The author gives an example where 'mortal' is synonymous with 'human', making the argument circular. We will learn to detect this by analyzing the relationship between the terms.
+
+Guided Path
+1
+Extract the three terms
+Identify the major term (predicate of conclusion), minor term (subject of conclusion), and middle term (appears only in premises). In the example: major = 'animal', minor = 'human', middle = 'mortal'.
+2
+Check synonymy between middle and minor
+Determine if the middle term and minor term have identical or near-identical meanings. Here, 'mortal' (بشر) and 'human' (إنسان) are synonymous in Arabic.
+Synonymy may be context-dependent; check lexical relationships.
+3
+Assess the argument's informativeness
+If the middle term is synonymous with the minor term, the conclusion is already implicit in the premises. The syllogism provides no new evidence.
+4
+Conclude invalidity due to circularity
+Recognize that the syllogism is technically valid but practically fallacious because it begs the question. The middle term does not independently link the terms.
+This fallacy is distinct from equivocation; the error is lack of distinction.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ب ـ وكأن ينعدم التمايز بين الحدود الثلاثة، فيكون الحد الأوسط مثلاً هو عين الحد الأصغر، كقول المستدل: كل إنسان بشر. وكل بشر حيوان.. فكل إنسان حيوان. فالحد الأوسط هنا ـ وهو «بشر» ـ هو عين الحد الأصغر وهو «إنسان»، والفارق هو اختلاف اللفظ فقط.
+جـ ـ وكأن ينعدم في القياس وجود الحد المشترك، وهو الحد الأوسط. ومن صور المغالطة هنا أن يستخدم في الحد الأوسط لفظ من الألفاظ المشتركة (وهي ما اتحد فيها اللفظ وتعدد المعنى)، ثم يقصد به في المقدمة الصغرى معنى، وفي المقدمة الكبرى معنى آخر. كأن يقول عن الذهب: «هذا عين» ويعتبرها مقدمة صغرى، ثم يقول في المقدمة الكبرى «وكل عين زينة للوجوه»، ويقصد بالعين هنا عين البصر، ثم يستنتج نتيجته فيقول: «فهذا زينة للوجوه». وظاهر أن فساد هذا القياس ناشيء عن انعدام الحد الأوسط فيه، ومعلوم أنه لا عبرة باتحاد اللفظ بعد أن اختلف المعنى.
+وكأن يكون للكلام معينان باعتبارين، ويقصد في المقدمة الصغرى أحد المعنيين، ويقصد في المقدمة الكبرى المعنى الآخر. ومن أمثلة ذلك: استدلال المستدل على سبيل المغالطة بقول الله تعالى في شأن ما تشابه من الآيات: ﴿ وما يعلم تأويله إلا الله، والراسخون في العلم يقولون: آمنا به كل من عند ربنا ﴾، فلهذه الآية تأويلان: أحدهما عطف (الراسخون) على لفظ الجلالة، والثاني اعتبار (واو) العطف استئنافية، والمعنى على أحد التأويلين يخالف المعنى على التأويل الآخر، ففي العطف يكون الراسخون في العلم يعلمون تأويله، وفي الاستئناف ينحصر البيان بالدلالة على أن الراسخين في العلم يقولون: آمنا به كل من عند ربنا. فيأتي المغالط المجادل ويقصد في المقدمة الصغرى أحد المعنيين، ويقصد في المقدمة الكبرى المعنى الآخر. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف عود الضمير، وذلك حين يأتي ضمير ويكون قبله عدة أسماء، يصلح الضمير أن يكون عائداً على أي واحد منها، ثم يقصد المغالط في المقدمة الصغرى واحداً من هذه الاحتمالات، وفي المقدمة الكبرى احتمالاً آخر. وبحيلة تردُّد عود الضمير بين احتمالين، استطاع أحد العلماء الأذكياء أن يتخلص من سؤال محرج طرح عليه بين فريقين متعصبين، أحدهما يفضل علياً رضي الله عنه على أبي بكر، والفريق الآخر يفضل أبا بكر رضي الله عنه على علي. ولمّا صعد العالم درجات المنبر، وجموع الفريقين محتشدون في الجامع الكبير، قام السائل فقال له: أيهما أفضل أبو بكر أو علي؟ فقال العالم: الحمد لله رب العالمين، والصلاة والسلام على سيدنا محمد أفضل الخلق وخاتم المرسلين، من كانت ابنته تحته فهو الأفضل، فقال البكريون: بنت أبي behind under the Prophet ﷺ so he is better, and the Alawites said: the daughter of the Prophet ﷺ is under Ali so he is better, and the scholar escaped the embarrassing situation with this clever trick. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف تحديد الموصوف، وذلك حين يأتي وصف، ويأتي قبله شيئان أو أكثر، يحتمل كلٌّ منها أن يكون هو الموصوف، وباختلاف تحديد الموصوف يختلف المعنى، فيقصد المغالط في المقدمة الصغرى تأويلاً، ثم يقصد في المقدمة الكبرى تأويلاً آخر، بغية تغليط المخاطب وتضليله عن الحقيقة. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف الجمع والتفريق، كقول المغالط: الخمسة زوج وفرد، أي: مؤلفة من عددين أحدهما زوج والآخر فرد، ثم يقول: ومحال أن يكون العدد زوجاً وفرداً بآن واحد، أي: لا يكون كامل العدد زوجاً وفرداً.
+b) And it may be that the distinction between the three terms is absent, such that the middle term, for example, is identical to the minor term, as when the arguer says: Every human is a mortal. And every mortal is an animal. So every human is an animal. Here the middle term — 'mortal' — is identical to the minor term 'human', and the difference is merely verbal. c) And it may be that in the syllogism there is no common term present, which is the middle term. One form of fallacy here is to use in the middle term a word from the equivocal words (those that have one wording but multiple meanings), then intend in the minor premise one meaning, and in the major premise another meaning. As when he says about gold: 'This is a 'ayn' and considers it a minor premise, then says in the major premise 'Every 'ayn is an adornment for faces', intending by 'ayn here the eye of sight, then draws his conclusion saying: 'So this is an adornment for faces.' It is evident that the corruption of this syllogism arises from the absence of the middle term in it, and it is known that no consideration is given to the unity of wording after the meaning has differed. And it may be that a statement has two meanings according to two perspectives, and he intends in the minor premise one of the two meanings, and in the major premise the other meaning. Examples of that include: the arguer's argument by way of fallacy using the saying of Allah Almighty concerning the ambiguous verses: 'And none knows its interpretation except Allah, and those firmly rooted in knowledge say: We believe in it, all is from our Lord.' So this verse has two interpretations: one is to join 'those firmly rooted in knowledge' to the name of majesty, and the second is to consider the conjunction 'waw' as resumptive, and the meaning on one interpretation contradicts the meaning on the other interpretation. For on the conjunction, those firmly rooted in knowledge know its interpretation, while on the resumption, the statement confines [the knowledge] to Allah, indicating that those firmly rooted in knowledge say: We believe in it, all is from our Lord. So the fallacious disputant comes and intends in the minor premise one of the two meanings, and intends in the major premise the other meaning. Another example of that: the difference of meaning according to the difference of the pronoun's referent. That is when a pronoun occurs and before it are several nouns, and the pronoun could refer back to any one of them. Then the fallacious person intends in the minor premise one of these probabilities, and in the major premise another probability. And by the trick of the pronoun's ambiguous referent between two probabilities, a clever scholar managed to escape an embarrassing question posed to him between two fanatical groups, one preferring Ali (may Allah be pleased with him) over Abu Bakr, and the other preferring Abu Bakr (may Allah be pleased with him) over Ali. When the scholar ascended the steps of the pulpit, with the crowds of the two groups gathered in the great mosque, the questioner stood and said to him: Which is better, Abu Bakr or Ali? So the scholar said: Praise be to Allah, Lord of the worlds, and blessings and peace be upon our master Muhammad, the best of creation and the seal of the messengers. Whoever has his daughter under him is the best. So the Bakrites said: The daughter of Abu Bakr is under the Prophet ﷺ, so he is the best. And the Alawites said: The daughter of the Prophet ﷺ is under Ali, so he is the best. And the scholar escaped the embarrassing situation with this clever trick. Another example of that: the difference of meaning according to the difference in determining the described term. That is when a description occurs, and before it are two or more things, each of which could be the described term. By the difference in determining the described term, the meaning differs. So the fallacious person intends in the minor premise one interpretation, then intends in the major premise another interpretation, with the aim of misleading the interlocutor and leading him away from the truth. Another example of that: the difference of meaning according to composition and division, as when the fallacious person says: Five is even and odd, i.e., composed of two numbers, one even and the other odd. Then he says: It is impossible for a number to be even and odd at the same time, i.e., the whole number cannot be both even and odd.
+Source pages p. 309
+
+Commentary
+This passage discusses two types of fallacies related to the middle term in a syllogism. The first (ب) occurs when the middle term is indistinguishable from the minor term, as in the example 'Every human is a mortal; every mortal is an animal; therefore every human is an animal' — here the middle term 'mortal' is synonymous with 'human', so the argument is circular. The second and more detailed fallacy (ج) is when the middle term is altogether absent because of equivocation or ambiguity. The author elaborates several sub-cases of this fallacy. First, a word that is equivocal (having multiple meanings) is used differently in the two premises, e.g., 'ayn meaning 'gold' in the minor premise and 'eye' in the major. The syllogism fails because there is no real common term. Second, a phrase may have two interpretations; the fallacious arguer uses one in the minor premise and the other in the major. The Quranic verse about the ambiguous verses (Āl ʿImrān 7) is cited: the phrase 'and those firmly rooted in knowledge' can be grammatically interpreted either as an object of knowing (i.e., they know the interpretation) or as a new sentence (they only affirm faith). By taking one interpretation in the minor premise and the other in the major, a false conclusion can be drawn. Third, ambiguity arises from an ambiguous pronoun referent. The story of the scholar on the minbar illustrates this: when asked who is better, Abu Bakr or Ali, he responds with a statement 'Whoever has his daughter under him is the best.' The pronoun 'his' can refer either to the Prophet (his daughter being his wife) or to the person being compared (e.g., Ali's daughter being his wife). Each faction interprets it to support their preference, but the scholar avoids directly answering. Fourth, ambiguity arises from an ambiguous description where the described term is not fixed. Fifth, the fallacy of composition and division: a statement true of parts is falsely claimed to be true of the whole, e.g., 'Five is even and odd' (because it is composed of an even and an odd number) versus 'It is impossible for a number to be even and odd at the same time' (treating 'five' as a whole). The author shows that in all these cases, the middle term is not truly shared, so the syllogism is invalid.
+
+Key Terms
+الحد الأوسط
+الحد الأصغر
+المغالطة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example from the text, the syllogism 'Every human is mortal; every mortal is animal; therefore every human is animal' is considered fallacious because:
+A) The major premise is false.
+B) The middle term 'mortal' is actually synonymous with 'human', making the argument circular.
+C) The conclusion does not follow from the premises.
+D) The minor premise is false.
+
+Key Takeaway
+A syllogism fails to prove anything if the middle term is merely a synonym of the minor term, as it becomes circular.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a syllogism where the middle term is identical in meaning to the minor term, then explain why it fails to prove its conclusion. Use an example from fiqh (e.g., defining 'salah' as 'prayer' and 'prayer' as 'salah').
+
+Pages p. 309 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 309
+Module 14 · Lesson 121
+Next →
+The Syllogism
+beginner
+6 min
+Fallacy of Equivocation in the Middle Term
+Author explains fallacy of equivocation in middle term with example of 'عين'.
+
+Learning Objective
+By the end of this lesson, you will be able to detect when a syllogism's middle term is an equivocal word (homonym) used with different meanings in the two premises, causing the syllogism to lack a genuine common term.
+
+Core Idea
+Same wording ≠ same meaning; equivocation destroys the middle term.
+
+The second type of middle-term fallacy involves using a word that has multiple meanings (مشترك) in the two premises. The author gives the example of 'عين' meaning gold and eye. We will learn to identify such equivocation and understand why it invalidates the syllogism.
+
+Guided Path
+1
+Identify the equivocal word
+Locate the word that appears in both premises as the middle term. In the example, it is 'عين'.
+Equivocal words have multiple distinct meanings.
+2
+Determine the intended meaning in each premise
+Check what the word refers to in the minor premise and in the major premise. In the example, in the minor premise 'عين' means 'gold', while in the major premise 'عين' means 'eye'.
+Context clues help determine meaning.
+3
+Verify if the meanings are different
+If the meanings are distinct, then the word does not represent the same concept in both premises. Therefore, there is no common middle term.
+A true middle term must have the same meaning throughout.
+4
+Conclude that the syllogism is invalid
+Without a shared middle term, the premises do not connect, and the conclusion does not follow. The argument commits the fallacy of equivocation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ب ـ وكأن ينعدم التمايز بين الحدود الثلاثة، فيكون الحد الأوسط مثلاً هو عين الحد الأصغر، كقول المستدل: كل إنسان بشر. وكل بشر حيوان.. فكل إنسان حيوان. فالحد الأوسط هنا ـ وهو «بشر» ـ هو عين الحد الأصغر وهو «إنسان»، والفارق هو اختلاف اللفظ فقط.
+جـ ـ وكأن ينعدم في القياس وجود الحد المشترك، وهو الحد الأوسط. ومن صور المغالطة هنا أن يستخدم في الحد الأوسط لفظ من الألفاظ المشتركة (وهي ما اتحد فيها اللفظ وتعدد المعنى)، ثم يقصد به في المقدمة الصغرى معنى، وفي المقدمة الكبرى معنى آخر. كأن يقول عن الذهب: «هذا عين» ويعتبرها مقدمة صغرى، ثم يقول في المقدمة الكبرى «وكل عين زينة للوجوه»، ويقصد بالعين هنا عين البصر، ثم يستنتج نتيجته فيقول: «فهذا زينة للوجوه». وظاهر أن فساد هذا القياس ناشيء عن انعدام الحد الأوسط فيه، ومعلوم أنه لا عبرة باتحاد اللفظ بعد أن اختلف المعنى.
+وكأن يكون للكلام معينان باعتبارين، ويقصد في المقدمة الصغرى أحد المعنيين، ويقصد في المقدمة الكبرى المعنى الآخر. ومن أمثلة ذلك: استدلال المستدل على سبيل المغالطة بقول الله تعالى في شأن ما تشابه من الآيات: ﴿ وما يعلم تأويله إلا الله، والراسخون في العلم يقولون: آمنا به كل من عند ربنا ﴾، فلهذه الآية تأويلان: أحدهما عطف (الراسخون) على لفظ الجلالة، والثاني اعتبار (واو) العطف استئنافية، والمعنى على أحد التأويلين يخالف المعنى على التأويل الآخر، ففي العطف يكون الراسخون في العلم يعلمون تأويله، وفي الاستئناف ينحصر البيان بالدلالة على أن الراسخين في العلم يقولون: آمنا به كل من عند ربنا. فيأتي المغالط المجادل ويقصد في المقدمة الصغرى أحد المعنيين، ويقصد في المقدمة الكبرى المعنى الآخر. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف عود الضمير، وذلك حين يأتي ضمير ويكون قبله عدة أسماء، يصلح الضمير أن يكون عائداً على أي واحد منها، ثم يقصد المغالط في المقدمة الصغرى واحداً من هذه الاحتمالات، وفي المقدمة الكبرى احتمالاً آخر. وبحيلة تردُّد عود الضمير بين احتمالين، استطاع أحد العلماء الأذكياء أن يتخلص من سؤال محرج طرح عليه بين فريقين متعصبين، أحدهما يفضل علياً رضي الله عنه على أبي بكر، والفريق الآخر يفضل أبا بكر رضي الله عنه على علي. ولمّا صعد العالم درجات المنبر، وجموع الفريقين محتشدون في الجامع الكبير، قام السائل فقال له: أيهما أفضل أبو بكر أو علي؟ فقال العالم: الحمد لله رب العالمين، والصلاة والسلام على سيدنا محمد أفضل الخلق وخاتم المرسلين، من كانت ابنته تحته فهو الأفضل، فقال البكريون: بنت أبي behind under the Prophet ﷺ so he is better, and the Alawites said: the daughter of the Prophet ﷺ is under Ali so he is better, and the scholar escaped the embarrassing situation with this clever trick. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف تحديد الموصوف، وذلك حين يأتي وصف، ويأتي قبله شيئان أو أكثر، يحتمل كلٌّ منها أن يكون هو الموصوف، وباختلاف تحديد الموصوف يختلف المعنى، فيقصد المغالط في المقدمة الصغرى تأويلاً، ثم يقصد في المقدمة الكبرى تأويلاً آخر، بغية تغليط المخاطب وتضليله عن الحقيقة. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف الجمع والتفريق، كقول المغالط: الخمسة زوج وفرد، أي: مؤلفة من عددين أحدهما زوج والآخر فرد، ثم يقول: ومحال أن يكون العدد زوجاً وفرداً بآن واحد، أي: لا يكون كامل العدد زوجاً وفرداً.
+b) And it may be that the distinction between the three terms is absent, such that the middle term, for example, is identical to the minor term, as when the arguer says: Every human is a mortal. And every mortal is an animal. So every human is an animal. Here the middle term — 'mortal' — is identical to the minor term 'human', and the difference is merely verbal. c) And it may be that in the syllogism there is no common term present, which is the middle term. One form of fallacy here is to use in the middle term a word from the equivocal words (those that have one wording but multiple meanings), then intend in the minor premise one meaning, and in the major premise another meaning. As when he says about gold: 'This is a 'ayn' and considers it a minor premise, then says in the major premise 'Every 'ayn is an adornment for faces', intending by 'ayn here the eye of sight, then draws his conclusion saying: 'So this is an adornment for faces.' It is evident that the corruption of this syllogism arises from the absence of the middle term in it, and it is known that no consideration is given to the unity of wording after the meaning has differed. And it may be that a statement has two meanings according to two perspectives, and he intends in the minor premise one of the two meanings, and in the major premise the other meaning. Examples of that include: the arguer's argument by way of fallacy using the saying of Allah Almighty concerning the ambiguous verses: 'And none knows its interpretation except Allah, and those firmly rooted in knowledge say: We believe in it, all is from our Lord.' So this verse has two interpretations: one is to join 'those firmly rooted in knowledge' to the name of majesty, and the second is to consider the conjunction 'waw' as resumptive, and the meaning on one interpretation contradicts the meaning on the other interpretation. For on the conjunction, those firmly rooted in knowledge know its interpretation, while on the resumption, the statement confines [the knowledge] to Allah, indicating that those firmly rooted in knowledge say: We believe in it, all is from our Lord. So the fallacious disputant comes and intends in the minor premise one of the two meanings, and intends in the major premise the other meaning. Another example of that: the difference of meaning according to the difference of the pronoun's referent. That is when a pronoun occurs and before it are several nouns, and the pronoun could refer back to any one of them. Then the fallacious person intends in the minor premise one of these probabilities, and in the major premise another probability. And by the trick of the pronoun's ambiguous referent between two probabilities, a clever scholar managed to escape an embarrassing question posed to him between two fanatical groups, one preferring Ali (may Allah be pleased with him) over Abu Bakr, and the other preferring Abu Bakr (may Allah be pleased with him) over Ali. When the scholar ascended the steps of the pulpit, with the crowds of the two groups gathered in the great mosque, the questioner stood and said to him: Which is better, Abu Bakr or Ali? So the scholar said: Praise be to Allah, Lord of the worlds, and blessings and peace be upon our master Muhammad, the best of creation and the seal of the messengers. Whoever has his daughter under him is the best. So the Bakrites said: The daughter of Abu Bakr is under the Prophet ﷺ, so he is the best. And the Alawites said: The daughter of the Prophet ﷺ is under Ali, so he is the best. And the scholar escaped the embarrassing situation with this clever trick. Another example of that: the difference of meaning according to the difference in determining the described term. That is when a description occurs, and before it are two or more things, each of which could be the described term. By the difference in determining the described term, the meaning differs. So the fallacious person intends in the minor premise one interpretation, then intends in the major premise another interpretation, with the aim of misleading the interlocutor and leading him away from the truth. Another example of that: the difference of meaning according to composition and division, as when the fallacious person says: Five is even and odd, i.e., composed of two numbers, one even and the other odd. Then he says: It is impossible for a number to be even and odd at the same time, i.e., the whole number cannot be both even and odd.
+Source pages p. 309
+
+Commentary
+This passage discusses two types of fallacies related to the middle term in a syllogism. The first (ب) occurs when the middle term is indistinguishable from the minor term, as in the example 'Every human is a mortal; every mortal is an animal; therefore every human is an animal' — here the middle term 'mortal' is synonymous with 'human', so the argument is circular. The second and more detailed fallacy (ج) is when the middle term is altogether absent because of equivocation or ambiguity. The author elaborates several sub-cases of this fallacy. First, a word that is equivocal (having multiple meanings) is used differently in the two premises, e.g., 'ayn meaning 'gold' in the minor premise and 'eye' in the major. The syllogism fails because there is no real common term. Second, a phrase may have two interpretations; the fallacious arguer uses one in the minor premise and the other in the major. The Quranic verse about the ambiguous verses (Āl ʿImrān 7) is cited: the phrase 'and those firmly rooted in knowledge' can be grammatically interpreted either as an object of knowing (i.e., they know the interpretation) or as a new sentence (they only affirm faith). By taking one interpretation in the minor premise and the other in the major, a false conclusion can be drawn. Third, ambiguity arises from an ambiguous pronoun referent. The story of the scholar on the minbar illustrates this: when asked who is better, Abu Bakr or Ali, he responds with a statement 'Whoever has his daughter under him is the best.' The pronoun 'his' can refer either to the Prophet (his daughter being his wife) or to the person being compared (e.g., Ali's daughter being his wife). Each faction interprets it to support their preference, but the scholar avoids directly answering. Fourth, ambiguity arises from an ambiguous description where the described term is not fixed. Fifth, the fallacy of composition and division: a statement true of parts is falsely claimed to be true of the whole, e.g., 'Five is even and odd' (because it is composed of an even and an odd number) versus 'It is impossible for a number to be even and odd at the same time' (treating 'five' as a whole). The author shows that in all these cases, the middle term is not truly shared, so the syllogism is invalid.
+
+Key Terms
+اللفظ المشترك
+المغالطة
+الحد الأوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+In the 'عين' example, why is the syllogism invalid?
+A) The major premise is false.
+B) The minor premise is false.
+C) The word 'عين' has two different meanings in the premises, so there is no real middle term.
+D) The conclusion does not follow because the middle term is in the wrong position.
+
+Key Takeaway
+Equivocation destroys the middle term; the same word with different meanings cannot link premises in a valid syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Identify an equivocal word in Islamic legal or theological discourse (e.g., 'riba', 'nikah', 'shirk') and construct a fallacious syllogism using it, then explain why it is invalid.
+
+Pages p. 309 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 309
+Module 14 · Lesson 122
+Next →
+The Syllogism
+intermediate
+8 min
+Fallacies from Grammatical and Syntactic Ambiguity
+Author elaborates fallacies from grammatical ambiguity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify fallacies arising from ambiguous syntax, ambiguous pronoun reference, ambiguous description, and composition/division, all of which eliminate the middle term.
+
+Core Idea
+Ambiguity in grammar, reference, or scope can make a middle term illusory.
+
+Beyond simple equivocation, the author discusses more subtle ambiguities that can undermine a syllogism: ambiguous sentence structure (as in the Quranic verse), ambiguous pronoun referent, ambiguous description, and the fallacy of composition/division. We will examine each with Islamic examples.
+
+Guided Path
+1
+Identify the type of ambiguity
+Determine whether the ambiguity stems from syntax (different grammatical parsing), pronoun referent (multiple antecedents), ambiguous description (unclear described term), or scope (part vs. whole).
+2
+Track the intended meaning across premises
+For each premise, decide which interpretation the arguer uses. The fallacy occurs when the meaning differs between premises.
+The arguer may exploit genuine linguistic ambiguity.
+3
+Check for a genuine common middle term
+If the interpretation of the key phrase changes between premises, there is no shared middle term. The argument is invalid.
+4
+Evaluate real-world examples
+Study the provided examples: the Quranic verse (Āl ʿImrān 7), the scholar on the minbar story, and the composition/division example. For each, identify how the middle term disappears.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ب ـ وكأن ينعدم التمايز بين الحدود الثلاثة، فيكون الحد الأوسط مثلاً هو عين الحد الأصغر، كقول المستدل: كل إنسان بشر. وكل بشر حيوان.. فكل إنسان حيوان. فالحد الأوسط هنا ـ وهو «بشر» ـ هو عين الحد الأصغر وهو «إنسان»، والفارق هو اختلاف اللفظ فقط.
+جـ ـ وكأن ينعدم في القياس وجود الحد المشترك، وهو الحد الأوسط. ومن صور المغالطة هنا أن يستخدم في الحد الأوسط لفظ من الألفاظ المشتركة (وهي ما اتحد فيها اللفظ وتعدد المعنى)، ثم يقصد به في المقدمة الصغرى معنى، وفي المقدمة الكبرى معنى آخر. كأن يقول عن الذهب: «هذا عين» ويعتبرها مقدمة صغرى، ثم يقول في المقدمة الكبرى «وكل عين زينة للوجوه»، ويقصد بالعين هنا عين البصر، ثم يستنتج نتيجته فيقول: «فهذا زينة للوجوه». وظاهر أن فساد هذا القياس ناشيء عن انعدام الحد الأوسط فيه، ومعلوم أنه لا عبرة باتحاد اللفظ بعد أن اختلف المعنى.
+وكأن يكون للكلام معينان باعتبارين، ويقصد في المقدمة الصغرى أحد المعنيين، ويقصد في المقدمة الكبرى المعنى الآخر. ومن أمثلة ذلك: استدلال المستدل على سبيل المغالطة بقول الله تعالى في شأن ما تشابه من الآيات: ﴿ وما يعلم تأويله إلا الله، والراسخون في العلم يقولون: آمنا به كل من عند ربنا ﴾، فلهذه الآية تأويلان: أحدهما عطف (الراسخون) على لفظ الجلالة، والثاني اعتبار (واو) العطف استئنافية، والمعنى على أحد التأويلين يخالف المعنى على التأويل الآخر، ففي العطف يكون الراسخون في العلم يعلمون تأويله، وفي الاستئناف ينحصر البيان بالدلالة على أن الراسخين في العلم يقولون: آمنا به كل من عند ربنا. فيأتي المغالط المجادل ويقصد في المقدمة الصغرى أحد المعنيين، ويقصد في المقدمة الكبرى المعنى الآخر. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف عود الضمير، وذلك حين يأتي ضمير ويكون قبله عدة أسماء، يصلح الضمير أن يكون عائداً على أي واحد منها، ثم يقصد المغالط في المقدمة الصغرى واحداً من هذه الاحتمالات، وفي المقدمة الكبرى احتمالاً آخر. وبحيلة تردُّد عود الضمير بين احتمالين، استطاع أحد العلماء الأذكياء أن يتخلص من سؤال محرج طرح عليه بين فريقين متعصبين، أحدهما يفضل علياً رضي الله عنه على أبي بكر، والفريق الآخر يفضل أبا بكر رضي الله عنه على علي. ولمّا صعد العالم درجات المنبر، وجموع الفريقين محتشدون في الجامع الكبير، قام السائل فقال له: أيهما أفضل أبو بكر أو علي؟ فقال العالم: الحمد لله رب العالمين، والصلاة والسلام على سيدنا محمد أفضل الخلق وخاتم المرسلين، من كانت ابنته تحته فهو الأفضل، فقال البكريون: بنت أبي behind under the Prophet ﷺ so he is better, and the Alawites said: the daughter of the Prophet ﷺ is under Ali so he is better, and the scholar escaped the embarrassing situation with this clever trick. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف تحديد الموصوف، وذلك حين يأتي وصف، ويأتي قبله شيئان أو أكثر، يحتمل كلٌّ منها أن يكون هو الموصوف، وباختلاف تحديد الموصوف يختلف المعنى، فيقصد المغالط في المقدمة الصغرى تأويلاً، ثم يقصد في المقدمة الكبرى تأويلاً آخر، بغية تغليط المخاطب وتضليله عن الحقيقة. ومن أمثلة ذلك أيضاً: اختلاف المعنى باختلاف الجمع والتفريق، كقول المغالط: الخمسة زوج وفرد، أي: مؤلفة من عددين أحدهما زوج والآخر فرد، ثم يقول: ومحال أن يكون العدد زوجاً وفرداً بآن واحد، أي: لا يكون كامل العدد زوجاً وفرداً.
+b) And it may be that the distinction between the three terms is absent, such that the middle term, for example, is identical to the minor term, as when the arguer says: Every human is a mortal. And every mortal is an animal. So every human is an animal. Here the middle term — 'mortal' — is identical to the minor term 'human', and the difference is merely verbal. c) And it may be that in the syllogism there is no common term present, which is the middle term. One form of fallacy here is to use in the middle term a word from the equivocal words (those that have one wording but multiple meanings), then intend in the minor premise one meaning, and in the major premise another meaning. As when he says about gold: 'This is a 'ayn' and considers it a minor premise, then says in the major premise 'Every 'ayn is an adornment for faces', intending by 'ayn here the eye of sight, then draws his conclusion saying: 'So this is an adornment for faces.' It is evident that the corruption of this syllogism arises from the absence of the middle term in it, and it is known that no consideration is given to the unity of wording after the meaning has differed. And it may be that a statement has two meanings according to two perspectives, and he intends in the minor premise one of the two meanings, and in the major premise the other meaning. Examples of that include: the arguer's argument by way of fallacy using the saying of Allah Almighty concerning the ambiguous verses: 'And none knows its interpretation except Allah, and those firmly rooted in knowledge say: We believe in it, all is from our Lord.' So this verse has two interpretations: one is to join 'those firmly rooted in knowledge' to the name of majesty, and the second is to consider the conjunction 'waw' as resumptive, and the meaning on one interpretation contradicts the meaning on the other interpretation. For on the conjunction, those firmly rooted in knowledge know its interpretation, while on the resumption, the statement confines [the knowledge] to Allah, indicating that those firmly rooted in knowledge say: We believe in it, all is from our Lord. So the fallacious disputant comes and intends in the minor premise one of the two meanings, and intends in the major premise the other meaning. Another example of that: the difference of meaning according to the difference of the pronoun's referent. That is when a pronoun occurs and before it are several nouns, and the pronoun could refer back to any one of them. Then the fallacious person intends in the minor premise one of these probabilities, and in the major premise another probability. And by the trick of the pronoun's ambiguous referent between two probabilities, a clever scholar managed to escape an embarrassing question posed to him between two fanatical groups, one preferring Ali (may Allah be pleased with him) over Abu Bakr, and the other preferring Abu Bakr (may Allah be pleased with him) over Ali. When the scholar ascended the steps of the pulpit, with the crowds of the two groups gathered in the great mosque, the questioner stood and said to him: Which is better, Abu Bakr or Ali? So the scholar said: Praise be to Allah, Lord of the worlds, and blessings and peace be upon our master Muhammad, the best of creation and the seal of the messengers. Whoever has his daughter under him is the best. So the Bakrites said: The daughter of Abu Bakr is under the Prophet ﷺ, so he is the best. And the Alawites said: The daughter of the Prophet ﷺ is under Ali, so he is the best. And the scholar escaped the embarrassing situation with this clever trick. Another example of that: the difference of meaning according to the difference in determining the described term. That is when a description occurs, and before it are two or more things, each of which could be the described term. By the difference in determining the described term, the meaning differs. So the fallacious person intends in the minor premise one interpretation, then intends in the major premise another interpretation, with the aim of misleading the interlocutor and leading him away from the truth. Another example of that: the difference of meaning according to composition and division, as when the fallacious person says: Five is even and odd, i.e., composed of two numbers, one even and the other odd. Then he says: It is impossible for a number to be even and odd at the same time, i.e., the whole number cannot be both even and odd.
+Source pages p. 309
+
+Commentary
+This passage discusses two types of fallacies related to the middle term in a syllogism. The first (ب) occurs when the middle term is indistinguishable from the minor term, as in the example 'Every human is a mortal; every mortal is an animal; therefore every human is an animal' — here the middle term 'mortal' is synonymous with 'human', so the argument is circular. The second and more detailed fallacy (ج) is when the middle term is altogether absent because of equivocation or ambiguity. The author elaborates several sub-cases of this fallacy. First, a word that is equivocal (having multiple meanings) is used differently in the two premises, e.g., 'ayn meaning 'gold' in the minor premise and 'eye' in the major. The syllogism fails because there is no real common term. Second, a phrase may have two interpretations; the fallacious arguer uses one in the minor premise and the other in the major. The Quranic verse about the ambiguous verses (Āl ʿImrān 7) is cited: the phrase 'and those firmly rooted in knowledge' can be grammatically interpreted either as an object of knowing (i.e., they know the interpretation) or as a new sentence (they only affirm faith). By taking one interpretation in the minor premise and the other in the major, a false conclusion can be drawn. Third, ambiguity arises from an ambiguous pronoun referent. The story of the scholar on the minbar illustrates this: when asked who is better, Abu Bakr or Ali, he responds with a statement 'Whoever has his daughter under him is the best.' The pronoun 'his' can refer either to the Prophet (his daughter being his wife) or to the person being compared (e.g., Ali's daughter being his wife). Each faction interprets it to support their preference, but the scholar avoids directly answering. Fourth, ambiguity arises from an ambiguous description where the described term is not fixed. Fifth, the fallacy of composition and division: a statement true of parts is falsely claimed to be true of the whole, e.g., 'Five is even and odd' (because it is composed of an even and an odd number) versus 'It is impossible for a number to be even and odd at the same time' (treating 'five' as a whole). The author shows that in all these cases, the middle term is not truly shared, so the syllogism is invalid.
+
+Key Terms
+اللفظ المشترك
+الإجمال
+عود الضمير
+المغالطة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the story of the scholar on the minbar, the statement 'Whoever has his daughter under him is the best' is ambiguous because:
+A) The word 'best' is unclear.
+B) The pronoun 'his' can refer to different persons (Prophet or Abu Bakr/Ali), allowing each faction to interpret it favorably.
+C) The scholar used a fallacy of equivocation.
+D) The statement is a tautology.
+
+Key Takeaway
+Grammatical and structural ambiguity can destroy the common middle term, making a syllogism fallacious even if the words are identical.
+
+How This Lesson Applies — to MY Life?
+?
+Take the Quranic verse 3:7 and construct two different syllogisms, each using one of the two grammatical interpretations as a premise. Then explain why combining them across premises would be fallacious.
+?
+Analyze the scholar's trick on the minbar: identify the ambiguous pronoun and show how each faction's conclusion is based on a different meaning of the same statement.
+
+Pages p. 309 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 14 · Lesson 123
+Next →
+The Syllogism
+intermediate
+5 min
+Burhan al-Tatbiq: Proof by Application Against Infinite Regress
+Author presents and explains the proof by application against infinite regress.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Burhan al-Tatbiq as a conditional syllogism (modus tollens) and identify the contradiction it exposes in the assumption of infinite regress.
+
+Core Idea
+Infinite regress forces the lesser to equal the greater, which is impossible by self-evidence.
+
+Burhan al-Tatbiq is one of the most powerful arguments in Islamic thought against the possibility of an infinite temporal regress. It uses a simple conditional reasoning: if regress were possible, then a contradiction would follow (the lesser equals the greater). Since the consequent is impossible, the antecedent must be false. This lesson walks you through the logical structure and the intuitive application of the two chains.
+
+Guided Path
+1
+Extract the conditional statement
+Identify the 'if-then' structure in the Arabic: 'If this regress were intellectually permissible, then the lesser number would equal the greater number.' This is the conditional premise (P → Q).
+The Arabic: 'لو كان هذا التسلسل جائزاً عقلاً، لكان العدد الأقل مساوياً للعدد الأكثر'.
+2
+Identify the denial of the consequent
+The author explicitly states: 'the lesser number is in no way equal to the greater number.' This denies the consequent (¬Q).
+Arabic: 'العدد الأقل لا يكون بحال من الأحوال مساوياً للعدد الأكثر'.
+3
+Apply modus tollens
+From P → Q and ¬Q, we conclude ¬P: 'Therefore, the regress is intellectually impermissible.' Check that the reasoning is valid.
+This is the standard rule of modus tollens.
+4
+Visualize the two chains
+Imagine an existential chain from the present moment extending infinitely into the past, and another chain starting a million years earlier, also infinite. When applying them ring-by-ring backward, both chains become equal in number because they are both infinite, contradicting the obvious fact that one is longer by a million rings.
+This thought experiment illustrates the contradiction that underlies the conditional.
+5
+Recognize the argument form
+The proof is a conditional syllogism (al-istithna'i al-muttasil) of the modus tollens form. It is intellectually sound because denying the consequent requires denying the antecedent.
+This form is widely used in Kalam to establish the impossibility of an infinite past.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ويبدو أن البداهة تحكم باستحالة التسلسل، ولكن قد ذكروا عدة براهين لإثبات استحالة هذا التسلسل، أظهرها وأوضحها ما يسمى: (برهان التطبيق). ويمكن صياغة برهان التطبيق على الشكل التالي: لو كان هذا التسلسل جائزاً عقلاً، لكان العدد الأقل مساوياً للعدد الأكثر، لكن العدد الأقل لا يكون بحال من الأحوال مساوياً للعدد الأكثر، إذن: فالتسلسل غير جائز عقلاً. وتحليل هذا البرهان يظهر لنا حينما نتصور أننا أمسكنا بسلسلة وجودية، تبدأ من لحظة الزمان الحاضر، وتتسلسل إلى جانب الزمان الماضي دون نهاية. وأمسكنا بسلسلة أخرى مماثلة لها تماماً، ولكن من حلقة من حلقاتها وجدت قبل مليون سنة أو أكثر. ثم أخذنا نطبق في التصور حلقات السلسلتين، هذه من لحظة الزمان الحاضر، وتلك من حلقة قبل مليون سنة، وسرنا القهقرى في تطبيق متناظر، مُتّبعين ما كان في جانب الزمان الماضي، فإننا نلاحظ أننا مهما سرنا في عملية التطبيق، نجد أن السلسلتين متساويتان، ما دام جانب الماضي غير متناهٍ، مع أن الواقع البدَهي هو أن إحداهما أطول من الأخرى بما يعادل حلقات مليون سنة. وهذا تناقض ظاهر، وهو محال، وما لزم عنه المحال فهو محال. أو نقول: لو أجزنا هذا التسلسل، للزم أن نجيز عقلاً مساواة الأقل للأكثر، لكن هذا محال، ومتى بطل اللازم بطل الملزوم.
+It appears that self-evidence rules the impossibility of the regress, but they have mentioned several proofs to establish the impossibility of this regress, the most apparent and clearest of which is what is called: (the proof of application). And this proof can be formulated as follows: If this regress were intellectually permissible, then the lesser number would equal the greater number, but the lesser number is in no way equal to the greater number. Therefore, the regress is intellectually impermissible. And the analysis of this proof appears to us when we imagine that we have taken hold of an existential chain, starting from the present moment of time, and extending into the past without end. And we have taken hold of another chain exactly similar to it, but from one of its rings that existed a million years ago or more. Then we begin applied in imagination the rings of the two chains, this one from the present moment, and that one from a ring a million years ago, and we proceed backwards in a symmetrical application, following what was in the past side. We observe that no matter how far we go in the process of application, we find the two chains equal, as long as the past side is infinite, even though the self-evident reality is that one of them is longer than the other by the equivalent of a million years' rings. And this is an apparent contradiction, which is impossible, and that which entails the impossible is impossible. Or we say: If we allowed this regress, we would have to allow intellectually the equality of the lesser to the greater, but this is impossible, and whenever the necessary consequence is false, the necessitating premise is also false.
+Source pages p. 331
+
+Commentary
+This passage presents and explains the burhan al-tatbiq (proof by application) against the possibility of an infinite temporal regress. The author begins by stating that self-evident reason (badaha) rules the impossibility of regress, but additional proofs are given. The most apparent is the proof by application. The proof is formulated as a conditional syllogism: If regress were possible, then the smaller number would equal the larger number. But the smaller number never equals the larger. Therefore regress is impossible. The author then provides an intuitive analysis: imagine two chains extending infinitely into the past, one starting from the present and one starting from a point a million years earlier. When we apply them ring by ring backward, both are infinite so they become equal in number, yet one is intuitively longer by a million rings. This contradiction shows the assumption of regress is false. This is an argument by modus tollens (al-istithna'i al-muttasil): if P then Q, not Q, so not P.
+
+Key Terms
+التسلسل
+برهان التطبيق
+البداهة
+
+Key Terms from Source Passage
+
+Checkpoint
+In Burhan al-Tatbiq, what is the conditional statement (if-then) used?
+A) If the past is finite, then the number of past events is countable.
+B) If regress is possible, then the lesser number equals the greater number.
+C) If the lesser number equals the greater number, then regress is possible.
+D) If two chains are equal, then one is longer by a million years.
+
+Key Takeaway
+Burhan al-Tatbiq uses modus tollens to show that assuming infinite regress leads to the impossible consequence that a shorter series equals a longer one.
+
+How This Lesson Applies — to MY Life?
+?
+Write out Burhan al-Tatbiq in the standard conditional form (if P then Q, not Q, so not P) and identify where the contradiction appears.
+?
+Consider an alternative scenario: Suppose the two chains are both infinite but one starts from the present and the other from a billion years earlier. Explain why the same contradiction arises, showing the proof does not depend on the specific finite gap.
+
+Pages p. 331 · The Syllogism
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,939 @@
+← Prev
+p. 82
+Module 16 · Lesson 1
+Next →
+Other Lessons
+intermediate
+5 min
+Partial Opposition of Contradictories of General from a Certain Aspect
+Editor corrects a misprint to clarify the relationship between contradictories of two concepts related as 'general from a certain aspect'.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and explain the relationship of partial opposition between the contradictories of two concepts that are related as 'general from a certain aspect' (أعم من وجه).
+
+Core Idea
+The contradictories of partially overlapping concepts are themselves partially opposed, not totally.
+
+In Islamic logic, understanding the relationships between concepts is fundamental. This passage corrects a common misprint to clarify a precise logical point: when two concepts are related as 'general from a certain aspect' (each is more general in one respect and more specific in another), their contradictories are not totally opposed but partially opposed. This distinction is crucial for accurate classification and definition in the Islamic sciences.
+
+Guided Path
+1
+Recall the 'general from a certain aspect' relationship
+Two concepts are 'general from a certain aspect' (أعم من وجه) if each partially overlaps with the other. For example, 'body' and 'white': some bodies are white, some are not; some white things are bodies, some are not. Recognise that they intersect partially.
+This relationship is often contrasted with 'general absolutely' (أعم مطلق) where one concept fully includes the other.
+2
+Define 'contradictory' in the term sense
+The contradictory (نقيض) of a term is a term that denies the original entirely, applying to everything that is not the original. For 'body', the contradictory is 'non-body'; for 'white', it is 'non-white'.
+In this context, naqīḍ refers to term negation, not propositional negation.
+3
+Examine the truth conditions of the contradictories
+Take the contradictory of the first concept, e.g., 'non-body'. Is it true with the second concept 'white'? Yes, because some white things are not bodies (e.g., the colour white itself). Now check if 'non-body' is true with 'non-white': some non-bodies are non-white (e.g., sounds), but not all. Similarly, check the contradictory of the second concept against the first.
+This shows that the contradictory of each is true with the other concept itself, establishing partial opposition.
+4
+Determine the overall relationship
+If the contradictory of one were also true with the contradictory of the other in all cases, there would be total opposition (مباينة كلية). However, since that is not generally true, the relationship is partial opposition (مباينة جزئية). The corrected text asserts that partial opposition is necessary (لازمة).
+Thus, the contradictories of two concepts related as 'general from a certain aspect' are themselves partially opposed.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و بين نقيضي الأعم أو الأخص من وجه مباينة جزئية إذ يصدق نقيض كل واحد منهما مع عين الآخر. فإن صدق مع نقيضه أيضاً تبايناً جزئياً وإلا فكلياً. فالمباينة الجزئية لازمة.
+And between the two contradictories of the more general or the more specific from a certain aspect there is partial opposition, since the contradictory of each one of them is true with the other itself. If it is also true with its own contradictory, then there is partial opposition, otherwise total. So partial opposition is necessary.
+Source pages p. 82
+
+Commentary
+This passage, after correction by the editor, defines the logical relationship between the contradictories (نقيضان) of two concepts that are related as 'general from a certain aspect' (أعم من وجه) and 'specific from a certain aspect' (أخص من وجه). The claim is that there is partial opposition (مباينة جزئية) between these contradictories, not total opposition. The reasoning is that the contradictory of each concept is true with the other concept itself. For example, consider 'animal' (general from a certain aspect) and 'rational' (specific from a certain aspect). Their contradictories are 'non-animal' and 'non-rational'. 'Non-animal' is true with 'rational' (e.g., a rational being that is not an animal? Actually, in Islamic logic, 'rational' is a differentia, but an example could be: the concept 'white' (general from a certain aspect) and 'black' (specific from a certain aspect) — their contradictories 'non-white' and 'non-black' partially overlap: some non-white things are black, some non-black things are white. So partial opposition holds. If the contradictory of one were also true with the contradictory of the other, that would be total opposition, but that is not the case here.
+
+Key Terms
+نقيض
+أعم من وجه
+مباينة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the corrected text, what is the relationship between the contradictories of two concepts that are related as 'general from a certain aspect'?
+A) Total opposition
+B) Partial opposition
+C) Identity
+D) No relation
+
+Key Takeaway
+The contradictories of concepts related as 'general from a certain aspect' are necessarily in partial opposition, not total opposition.
+
+How This Lesson Applies — to MY Life?
+?
+Identify two concepts from Islamic jurisprudence (e.g., 'wajib' and 'mandub') that are related as 'general from a certain aspect'? Actually, they are not partially overlapping; better: consider 'action that is obligatory' and 'action that is recommended'? No. Instead, use the example from the commentary: 'animal' and 'rational'. Explain why their contradictories 'non-animal' and 'non-rational' are partially opposed, providing specific instances.
+?
+Contrast the above with the relationship between contradictories of two concepts that are related as 'general absolutely' (e.g., 'animal' and 'human'). Determine whether their contradictories are totally opposed or partially opposed, and justify your answer using the logic from this passage.
+
+Pages p. 82 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 120
+Module 16 · Lesson 2
+Next →
+Other Lessons
+intermediate
+5 min
+Reductio and Conversion as Reliable Logical Foundations
+Author defends logic by explaining reducio method and conversion as reliable
+
+Learning Objective
+By the end of this lesson, you will be able to explain how conversion is derived from reductio and identify the distinction between terms and relations in logical reasoning.
+
+Core Idea
+Reductio is the core method; conversion is built upon it.
+
+This passage addresses an objection that logic is unreliable because logicians err. The author defends logic by clarifying that the core method, reductio ad absurdum, is sound, and that conversion—often seen as merely conventional—is actually derived from reductio and other certain proofs. Understanding this hierarchy of logical methods is key to appreciating logic's epistemic strength.
+
+Guided Path
+1
+Identify the objection being answered
+The objection claims that logicians' mistakes make logic useless. Find the phrase that signals this: 'عدم الفائدة لخطأ المنطقي' means 'lack of benefit due to the logician's error'.
+2
+Extract the author's core claim
+The author states: 'والطريق في الكل هو الخلف' — 'The method in all is reductio'. This means reductio ad absurdum is the foundational proof method for all logical inferences.
+Reductio works by assuming the opposite of the desired conclusion and deriving a contradiction.
+3
+Distinguish terms from relations
+The phrase 'التوقف إنما هو للأطراف لا للنسب' means 'stopping is only for the extremities, not for the relations'. Here, 'extremities' (أطراف) refer to the subject and predicate terms and their modalities, while 'relations' (نسب) refer to the copula or judgmental bond. The tawaqquf (inability to proceed) applies only to the terms, not to the logical connection between them.
+This clarifies that definitions and term analysis do not hinder the logical relation that ties them together.
+4
+Trace the derivation of conversion
+The author says: 'والعكس - وإن كان كسبياً لكنه - مكتسب من الخلف وغيره من الطرق اليقينية' — 'Conversion – even though it is acquisitive – is acquired from reductio and other certain methods'. So conversion is not primitive; it depends on reductio and other established proofs.
+This means conversion (swapping subject and predicate) is valid because it can be justified by reductio.
+5
+Conclude why this refutes the objection
+Since the foundational method (reductio) is sound, and conversion is derived from it, any error by logicians in applying these methods does not undermine the methods themselves. The objection is invalid because it confuses human error with the inherent reliability of the logical tools.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الجواب عن عدم الفائدة لخطأ المنطقي: والطريق في الكل هو الخلف وهو بدعوى والتوقف إنما هو للأطراف لا للنسب. والعكس - وإن كان كسبياً لكنه - مكتسب من الخلف وغيره من الطرق اليقينية؛ فاعتمدوا عليه.
+Answer regarding the lack of benefit due to the logician's error: The method in all is reductio (al-khalf), and it is by claim, and the stopping (tawaqquf) is only for the extremities, not for the relations. And conversion (al-aks) – even though it is acquisitive – is acquired from reductio and other certain methods; so they relied upon it.
+Source pages p. 120
+
+Commentary
+This passage is a response to an objection that logic is useless because logicians make mistakes. The author counters by explaining that the fundamental method in logic is reductio ad absurdum (الخلف), which relies on supposition (دعوى). The 'stopping' (التوقف) – meaning the inability to proceed – applies only to the terms (أطراف القضية), i.e., subject, predicate, quantifier, modality, not to the judgmental relation (نسبة حكمية). Conversion (العكس) is an acquired inference derived from reductio and other certain methods, and thus it is reliable. So the objection is refuted by showing that error does not undermine the method itself.
+
+Key Terms
+الخلف
+التوقف
+العكس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the basis for conversion (al-aks)?
+A) Direct intuition
+B) Reductio and other certain methods
+C) Empirical observation
+D) Divine inspiration
+
+Key Takeaway
+Conversion is a derived logical method whose reliability rests on the foundational method of reductio ad absurdum.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a simple reductio argument for the Islamic creedal statement: 'The Quran is the speech of Allah, uncreated.' Assume the opposite and derive a contradiction.
+?
+Given the proposition 'Every obligatory act leads to reward', perform a valid conversion (al-aks) and state whether the result is certain or probable, referencing the passage's claim about derivation.
+
+Pages p. 120 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 120
+Module 16 · Lesson 3
+Next →
+Other Lessons
+beginner
+5 min
+Distinguishing Material Error from Logical Form
+Author distinguishes errors due to material content from logical form
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between errors arising from the material content of an argument and errors in its logical form, and explain why logic is not responsible for material errors.
+
+Core Idea
+Errors in premises are not errors in logic; logic only governs the form, not the matter.
+
+In this passage, the author addresses a common objection: if logicians themselves make mistakes, then logic is useless. The response is a crucial distinction: errors can come from the material content of an argument (false premises or incorrect facts), not from the logical form. Since logic deals with form, such errors do not indict the discipline. This distinction is foundational for appreciating the scope and limits of logic.
+
+Guided Path
+1
+Identify the objection
+Find the criticism being raised against logic in the passage. It is the claim that logicians make mistakes, so logic is not beneficial.
+2
+Extract the author's distinction
+The author distinguishes between 'matter' (مادة) and 'form' (صورة). Matter refers to the content or premises, while form is the logical structure.
+This distinction is key to defending logic.
+3
+Apply the distinction
+Think of a valid syllogism with a false premise, e.g., 'All mutakallimun are philosophers; All philosophers are infallible; therefore all mutakallimun are infallible.' The form is valid, but the premise is false. The error is in the matter.
+4
+Conclude why the objection fails
+Since logic concerns form, material errors do not invalidate logic. The objector confuses the two sources of error.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الجواب عن عدم الفائدة لخطأ المنطقي: وعن أن الغلط قد يقع عن المادة، لا عن الصورة التي هي من وظائف المنطق.
+Answer regarding the lack of benefit due to the logician's error: And regarding that error may occur due to matter, not due to form, which is the function of logic.
+Source pages p. 120
+
+Commentary
+The third objection is that logicians themselves make mistakes, so logic is not beneficial. The author responds by distinguishing between matter (مادة) and form (صورة). Error often arises from the material content of the argument (e.g., false premises), not from its logical form. Since logic is concerned with form (the structure of reasoning), such errors do not implicate logic. Therefore, the objection is invalid.
+
+Key Terms
+المادة
+الصورة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the source of error that is not the concern of logic?
+A) Form
+B) Matter
+C) Reductio
+D) Conversion
+
+Key Takeaway
+Logic evaluates the form of arguments, not the truth of premises; errors from premises are material, not logical.
+
+How This Lesson Applies — to MY Life?
+?
+Provide an example from usul al-fiqh where the premises are false but the logical form is valid. Identify which is matter and which is form.
+?
+Explain why the following argument fails as a criticism of logic: 'A logician once concluded a falsehood, therefore logic is unreliable.' Use the matter/form distinction.
+
+Pages p. 120 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 140
+Module 16 · Lesson 4
+Next →
+Other Lessons
+intermediate
+10 min
+Defending the Predicability of Nouns: A Dialectical Analysis
+Author argues nouns alone can be predicates and responds to objections.
+
+Learning Objective
+By the end of this lesson, you will be able to parse the dialectical structure of objections and answers in a logical debate about predication.
+
+Core Idea
+Nouns alone can be predicates – but defending this requires handling self-referential paradoxes.
+
+In this passage, the author defends a key logical property of nouns: only nouns can truly be the subject of predication. Opponents raise clever objections that appear to use verbs or particles as subjects. The author responds by clarifying that the subject is never the verb or particle qua verb or particle, but either its wording or a compound. This dialectical exchange sharpens our understanding of what it means for something to be a subject of predication in Islamic logic.
+
+Guided Path
+1
+Identify the initial claim
+Find the property being argued: that only nouns can be the subject of a true predication (الإخبار عنه). Notice that verbs and particles are excluded by their mere wording.
+The claim is about the word type itself, not about meaning.
+2
+Parse the first objection and answer
+The objection uses the example 'ضَرَبَ لا يخبر عن معناه' - this seems to predicate about a verb. The answer says the actual subject is the wording of 'ضَرَبَ', not the verb as a type. The pronoun 'عنه' refers to the word, not the verb's meaning.
+This avoids the paradox: the subject is a noun (the word 'ضَرَبَ').
+3
+Analyze the second objection and answer
+The objection 'معنى ضَرَبَ لا يخبر عنه' again predicates about a verb's meaning. The answer says the subject includes the word 'معنى', so it is a compound, not the verb alone.
+The addition of 'معنى' makes the subject a noun phrase.
+4
+Examine the third objection and answer
+The objections 'ضَرَبَ فعل ماض' and 'في حرف جر' predicate about a verb and a particle directly. The answer says the subject is the combination of the word and its meaning (مجموع اللفظ والمعنى), not the meaning alone.
+This preserves the rule: the subject is not a verb or particle by itself.
+5
+Synthesize the defense strategy
+The author consistently shows that whenever a verb or particle appears to be the subject, the actual subject is either its wording, a compound including it, or the combination of word and meaning. Thus the original claim holds.
+The defense relies on distinguishing between the word as a linguistic entity and the word as a type.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قالوا: و من خواص الاسم أن يصح الإخبار عنه دون الفعل والحرف. وقيل: لو صح أن «الفعل لا يخبر عنه» يلزم كذبه؛ لأنّ المخبر عنه فيه إن كان اسما كذب؛ و إن كان فعلاً تناقض . و أجيب بأن المراد أنه لا يكون مخبراً عنه بمجرد لفظه. و نقض ذلك بقولنا "ضرب" لا يخبر عن معناه» فإنّه يلزم الإخبار عن معنى الفعل معبراً بمجرد لفظه، سواء صدق هذا القول أو لم يصدق. و أجيب بأنّ المخبر عنه لفظ «ضَرَبَ» لكون الضمير عائداً إليه. ثم نقض بقولنا: معنى "ضرب" لا يخبر عنه». و أجيب بأنه منضم مع غيره و هو لفظة «معنى» ثم نقض بقولنا "ضرب" فعل ماض و "في" حرف جرّ ». و أجيب بأنّ المخبر عنه مجموع اللفظ والمعنى، لا المعنى فقط.
+They said: Among the properties of the noun is that it is valid to predicate about it, but not the verb or particle. And it was said: If the statement 'the verb is not predicated about' were true, it would lead to its falsehood; because the thing predicated about in it, if it is a noun, then it is false; and if it is a verb, there is a contradiction. And it was answered that what is meant is that it is not predicated about by its mere wording. And this was objected to by our saying: 'ضَرَبَ does not predicate about its meaning,' for it necessitates predicating about the meaning of the verb expressed by its mere wording, whether this statement is true or false. And it was answered that the thing predicated about is the wording of 'ضَرَبَ' because the pronoun refers back to it. Then they objected by our saying: 'The meaning of ضَرَبَ is not predicated about.' And it was answered that it is combined with something else, which is the word 'meaning'. Then they objected by our saying: 'ضَرَبَ is a past tense verb and "في" is a particle of jar.' And it was answered that the thing predicated about is the combination of the word and the meaning, not the meaning alone.
+Source pages p. 140
+
+Commentary
+This is a dialectical passage that examines the claim that only nouns can be the subject of a true predication (الإخبار عنه). The author presents an initial argument: if someone says 'the verb is not predicated about,' that statement itself would be false if its subject ('the verb') is a noun, or contradictory if it is a verb. The answer is that 'not predicated about by its mere wording' is intended. Then follow three objections (naqd) and their answers (jawab). First objection: saying 'ضَرَبَ does not predicate about its meaning' involves predicating about the verb's meaning using its mere wording. Answer: the actual subject is the word 'ضَرَبَ', as the pronoun refers to it. Second objection: 'The meaning of ضَرَبَ is not predicated about' — answer: the subject here includes the word 'meaning' as an additional element, so it is not just the verb. Third objection: saying 'ضَرَبَ is a past tense verb' and 'في is a particle of jar' — answer: the subject is the combination of the word and its meaning, not the meaning alone. The passage demonstrates the logical finesse required to defend the property of nouns against self-referential paradoxes.
+
+Key Terms
+اسم
+فعل
+حرف
+مخبر عنه
+
+Key Terms from Source Passage
+
+Checkpoint
+In the objection 'ضَرَبَ لا يخبر عن معناه', what is the actual subject of the predication according to the answer?
+A) The meaning of ضَرَبَ
+B) The word 'ضَرَبَ'
+C) The verb as a type
+D) The word 'معنى'
+
+Key Takeaway
+Self-referential objections can be resolved by carefully distinguishing the linguistic form (word) from the grammatical category (verb or particle) when identifying the subject of predication.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a similar objection-answer pair for the claim 'Only nouns can be predicates' using a different Arabic verb, e.g., 'ذهب' (he went). Write the objection as if you are predicating about 'ذهب' and then provide the answer using the same principle from the passage.
+?
+Identify which of the three objection-answer examples in the passage most closely resembles a situation in fiqh where an exception is made by adding an extra word to the subject, and explain the parallel.
+
+Pages p. 140 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 160
+Module 16 · Lesson 5
+Next →
+Other Lessons
+beginner
+5 min
+Ambiguity of 'Compound' and 'Part'
+Clarifies homonymy of 'compound' and 'part'
+
+Learning Objective
+By the end of this lesson, you will be able to identify homonymy (ishtirak lafzi) in logical terminology and distinguish between real and mental compounds.
+
+Core Idea
+The same term can refer to different realities; recognizing this prevents logical confusion.
+
+The passage clarifies that the words 'compound' and 'part' are used homonymously for both real compounds (e.g., physical mixtures) and mental compounds (e.g., definitions). This distinction is essential because failing to recognize it leads to errors in reasoning about composition and decomposition.
+
+Guided Path
+1
+Identify the terms
+The passage singles out 'compound' (المُرَكَّب) and 'part' (الجُزْء). Recognize that these are the terms under discussion.
+2
+Recognize homonymy
+Note that these terms are not univocal but homonymous: they apply to both real and mental entities. The text says 'مقول بالاشتراك' (said by common name).
+3
+Distinguish real vs. mental compound
+Real compound is physical (e.g., body made of elements); mental compound is conceptual (e.g., definition composed of genus and difference).
+4
+Apply to parts
+The homonymy also applies to the parts of each compound – e.g., a physical part vs. a conceptual part like 'animal' in the definition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لفظ «المركب» - و «الجزء» - مقول بالاشتراك على المركب الحقيقي و العقلي – و على أجزائهما. و العقلي أعم من الحقيقي إذ كل مركب مندرج تحت مقولة عند الحكماء. فلا بد له من الجنس و الفصل المحمولين عليه بالمواطأة. ثم الماهية إذا وجدت في الخارج فلا بد وأن يخالطها معاني و أمور أخرى يتحصل بها كل واحد واحد من أشخاص تلك الماهية. هذا هو تحقيق هذا الموضع. لكن يشكل ذلك بالماهيات النفسانية كـ «الإنسان» مثلاً؛ فإنه:
+The word 'compound' – and 'part' – is said by common name (ishtirāk) upon real compound and mental compound, and upon their parts. And the mental is more general than the real, for every compound falls under a category according to the philosophers. So it must have a genus and a difference predicated of it by equivalence. Then, when the essence exists in the external world, it must be mixed with meanings and other matters by which each individual of that essence is particularized. This is the verification of this position. But that is problematic with psychic essences like 'man', for example, for it:
+Source pages p. 160
+
+Commentary
+This passage makes three points: (1) The terms 'compound' and 'part' are ambiguous, used for both real and mental compounds and their parts. (2) Mental compound is more general because every real compound falls under a category, so it must have a genus and difference predicated by equivalence. (3) Essence when existing externally is individuated by accidents. The author then raises a doubt: this analysis fails for psychic essences like man, because man is a real compound? The text cuts off, but the doubt likely concerns whether the distinction between real and mental compound applies to such essences.
+
+Key Terms
+الاشتراك اللفظي
+المُرَكَّب
+الجُزْء
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, the word 'compound' is said by what type of designation?
+A) By equivalence (bil-muwata'ah)
+B) By common name (bil-ishtirak)
+C) By derivation
+D) By relation
+
+Key Takeaway
+The terms 'compound' and 'part' are homonymous, applying to both real and mental entities.
+
+How This Lesson Applies — to MY Life?
+?
+Find another logical term used homonymously in Islamic logic (e.g., 'qiyas' for categorical syllogism and analogical reasoning in fiqh). Explain the distinction.
+?
+In the passage, the author says 'compound' is used for real and mental compounds. Give a concrete example of each from Islamic philosophy (e.g., real compound: a human body; mental compound: the definition 'animal rational').
+
+Pages p. 160 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 160
+Module 16 · Lesson 6
+Next →
+Other Lessons
+intermediate
+6 min
+Generality of Mental Compound
+Shows mental compound is more general
+
+Learning Objective
+By the end of this lesson, you will be able to explain why mental compound is more general than real compound and why it must be defined by genus and difference predicated by equivalence.
+
+Core Idea
+Every real compound falls under a category, so mental compound is broader.
+
+The author argues that mental compound is more general (أعم) than real compound. The reason: every real compound falls under a category (مقولة) according to the philosophers. Therefore, any real compound must have a genus and species, which are predicated by equivalence (bil-muwata'ah). This establishes mental compound as the broader category.
+
+Guided Path
+1
+State the claim
+Notice the author says 'العقلي أعم من الحقيقي' – mental compound is more general than real compound.
+2
+Understand the reason
+The reason: 'كل مركب مندرج تحت مقولة' – every (real) compound falls under a category. This means real compounds are classified by genera and species.
+3
+Connect to genus and difference
+Since real compounds fall under a category, they must have a genus and difference. Moreover, these are predicated by equivalence (المواطأة) – the same meaning applies to all members.
+4
+Conclude the generality
+Because all real compounds are mental compounds (they exist as concepts), but mental compounds also include purely conceptual ones (like definitions), mental is more general.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لفظ «المركب» - و «الجزء» - مقول بالاشتراك على المركب الحقيقي و العقلي – و على أجزائهما. و العقلي أعم من الحقيقي إذ كل مركب مندرج تحت مقولة عند الحكماء. فلا بد له من الجنس و الفصل المحمولين عليه بالمواطأة. ثم الماهية إذا وجدت في الخارج فلا بد وأن يخالطها معاني و أمور أخرى يتحصل بها كل واحد واحد من أشخاص تلك الماهية. هذا هو تحقيق هذا الموضع. لكن يشكل ذلك بالماهيات النفسانية كـ «الإنسان» مثلاً؛ فإنه:
+The word 'compound' – and 'part' – is said by common name (ishtirāk) upon real compound and mental compound, and upon their parts. And the mental is more general than the real, for every compound falls under a category according to the philosophers. So it must have a genus and a difference predicated of it by equivalence. Then, when the essence exists in the external world, it must be mixed with meanings and other matters by which each individual of that essence is particularized. This is the verification of this position. But that is problematic with psychic essences like 'man', for example, for it:
+Source pages p. 160
+
+Commentary
+This passage makes three points: (1) The terms 'compound' and 'part' are ambiguous, used for both real and mental compounds and their parts. (2) Mental compound is more general because every real compound falls under a category, so it must have a genus and difference predicated by equivalence. (3) Essence when existing externally is individuated by accidents. The author then raises a doubt: this analysis fails for psychic essences like man, because man is a real compound? The text cuts off, but the doubt likely concerns whether the distinction between real and mental compound applies to such essences.
+
+Key Terms
+العقلي
+الحقيقي
+المقولة
+المواطأة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is mental compound more general than real compound?
+A) Because real compound does not exist.
+B) Because every real compound falls under a category.
+C) Because mental compound has no parts.
+D) Because real compound is only in the mind.
+
+Key Takeaway
+Mental compound is more general because every real compound is subsumed under a category.
+
+How This Lesson Applies — to MY Life?
+?
+Identify another pair where mental is more general than real, e.g., 'existing' (mental includes both possible and actual). Explain.
+?
+In Islamic logic, why must every real compound have a genus and difference? Relate to the predication by equivalence.
+
+Pages p. 160 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 160
+Module 16 · Lesson 7
+Next →
+Other Lessons
+intermediate
+5 min
+Individuation of Essence and Doubt about Man
+Explains individuation and raises doubt about man
+
+Learning Objective
+By the end of this lesson, you will be able to define individuation (tashakhkhus) of essences and identify the problem with applying it to psychic essences like man.
+
+Core Idea
+Essences are individuated by external accidents, but for psychic essences this seems problematic.
+
+The passage then discusses how an essence, when existing externally, is individuated by mixing with accidental meanings. However, the author raises a doubt: this account fails for psychic essences (الماهيات النفسانية) like 'man'. The text cuts off, but the doubt likely concerns whether man in the mind (the concept) can be individuated the same way as external individuals. This lesson explores the concept of individuation and the beginning of the doubt.
+
+Guided Path
+1
+Understand the claim about externality
+The author says: when an essence exists in the external world, it must be mixed with meanings and other matters that particularize each individual.
+2
+Identify 'tashakhkhus'
+This process of particularization is called 'تشخص الماهية' (individuation of essence). It occurs through external accidents.
+3
+Recognize the scope
+This applies to physical essences like 'horse' or 'tree', but the author asks: does it apply to psychic essences like 'man'?
+4
+Consider the doubt
+The text says 'يشكل ذلك بالماهيات النفسانية كالإنسان' – it is problematic with psychic essences like man. The doubt likely points to the universality of mental concepts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لفظ «المركب» - و «الجزء» - مقول بالاشتراك على المركب الحقيقي و العقلي – و على أجزائهما. و العقلي أعم من الحقيقي إذ كل مركب مندرج تحت مقولة عند الحكماء. فلا بد له من الجنس و الفصل المحمولين عليه بالمواطأة. ثم الماهية إذا وجدت في الخارج فلا بد وأن يخالطها معاني و أمور أخرى يتحصل بها كل واحد واحد من أشخاص تلك الماهية. هذا هو تحقيق هذا الموضع. لكن يشكل ذلك بالماهيات النفسانية كـ «الإنسان» مثلاً؛ فإنه:
+The word 'compound' – and 'part' – is said by common name (ishtirāk) upon real compound and mental compound, and upon their parts. And the mental is more general than the real, for every compound falls under a category according to the philosophers. So it must have a genus and a difference predicated of it by equivalence. Then, when the essence exists in the external world, it must be mixed with meanings and other matters by which each individual of that essence is particularized. This is the verification of this position. But that is problematic with psychic essences like 'man', for example, for it:
+Source pages p. 160
+
+Commentary
+This passage makes three points: (1) The terms 'compound' and 'part' are ambiguous, used for both real and mental compounds and their parts. (2) Mental compound is more general because every real compound falls under a category, so it must have a genus and difference predicated by equivalence. (3) Essence when existing externally is individuated by accidents. The author then raises a doubt: this analysis fails for psychic essences like man, because man is a real compound? The text cuts off, but the doubt likely concerns whether the distinction between real and mental compound applies to such essences.
+
+Key Terms
+تشخص الماهية
+الماهيات النفسانية
+الإنسان
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the author say must happen when an essence exists externally?
+A) It becomes a universal.
+B) It must be mixed with meanings and matters that particularize it.
+C) It loses its genus.
+D) It becomes mental.
+
+Key Takeaway
+External existence of an essence requires individuation by accidents; psychic essences challenge this.
+
+How This Lesson Applies — to MY Life?
+?
+Explain the concept of tashakhkhus using the example of 'horse': the essence is individuated by specific accidents.
+?
+Consider the doubt: in what sense is the concept of 'man' in your mind individuated? Does it have accidents? Discuss.
+
+Pages p. 160 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 174
+Module 16 · Lesson 8
+Next →
+Other Lessons
+advanced
+10 min
+Critique of the Condition of Evident Concomitant and the Problem of Infinite Regress
+Author critiques the claim that conceptualizing the subject gives knowledge of its proximate concomitant, then addresses regress in the relation of concomitance itself.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between acceptable infinite regress in mental (iʿtibāri) matters and unacceptable regress in real (ḥaqīqī) matters, and identify the critique of the claim that conceptualizing the subject gives knowledge of its proximate concomitant.
+
+Core Idea
+Infinite regress in mental relations is acceptable; in real relations it is not.
+
+This passage tackles a subtle but critical distinction in Islamic logic: the difference between mental and real relations. A tempting claim—that knowing a subject automatically gives you knowledge of its necessary concomitant—is shown to lead to an infinite regress. But not all regresses are vicious, as the example of numbers demonstrates. Understanding this distinction prevents a common error in reasoning about relations and attributes.
+
+Guided Path
+1
+Identify the initial claim and its consequence
+Find the claim: 'Conceptualizing the subject necessitates conceptualizing its proximate necessary concomitant.' The author objects that if true, this would require knowing the concomitant of that concomitant, and so on, leading to an infinite chain. This would make everything known, which is clearly false.
+2
+Recognize the objection about the relation itself
+The Imam (al-Razi) raises a second problem: the relation of concomitance (luzūm) is itself distinct from the two relata. If this relation is also a concomitant of the subject, then we have another regress. If not, then the subject can be separated from its concomitant, contradicting the necessity of the relation.
+3
+Understand the answer: mental vs. real regress
+The answer denies that such regress is always impossible. In mental (iʿtibāri) matters, like numbers, regress is harmless: 'one' entails being 'half of two', 'third of three', etc. These entailments are mental relations, not extramental realities. In real (ḥaqīqī) matters, regress would be problematic.
+4
+Apply the distinction to the problem
+The initial claim's regress is in mental matters (since the knowledge relation is mental), so it might be acceptable if the chain is purely conceptual. However, the author suggests that the claim still fails because it would make all concomitants known, which contradicts our experience. The true solution lies in the nature of the relation being mental.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و قيل: تصوّر الملزوم يقتضي تصوّر لازمه القريب لأنه معاول[؟] للماهية و تصوّر العلة يوجب تصوّر المعلول». و فيه نظر لأنه حينئذ يلزم من تصوّر لازمه القريب تصوّر لازم ذلك اللازم و على هذا، و حينئذ لا يجهل ثبوت شيء لشيء لأنه إن كان قريباً له فذاك و إلا فيكون قريباً للقريب فيكون أيضاً معلوماً.
+و شكك الإمام في نفي اللزوم بأنّ لزوم الشيء لغيره غيرهما لكونه نسبة بينهما. فإن لزم أيضاً تسلسل و إلا أمكن انفكاك الملزوم عن اللازم.
+و أجيب بمنع امتناع مثل هذا التسلسل فإنّه في الأمور الاعتبارية؛ إذ «الواحد» يلزمه كونه «نصف الاثنين» و «ثلث الثلاثة» وهلم جرا.
+و لقائل أن يقول: اللزوم لا يخلو من أن يكون في الخارج أو لا:
+فإن كان يلزم التسلسل في الأمور الحقيقية من طرف المبدأ، إذ كل لزوم حينئذ يفتقر إلى لزوم آخر قبله؛
+And it was said: Conceptualizing the subject necessitates conceptualizing its proximate necessary concomitant because it is a cause[?] of the essence, and conceptualizing the cause necessitates conceptualizing the effect. But this is questionable, because then conceptualizing its proximate concomitant would necessitate conceptualizing the concomitant of that concomitant, and so on, and then nothing would be unknown in its affirmation for anything because if it is proximate to it then that is known, otherwise it is proximate to the proximate and thus also known. And the Imam raised a doubt regarding the negation of concomitance: that the concomitance (luzūm) of a thing for another is distinct from both, being a relation between them. If it is also concomitant, then there is regress; otherwise it would be possible for the subject to be separated from the concomitant. And it was answered by denying that such regress is impossible, for it is in mental matters (umūr iʿtibāriyya); thus 'one' entails being 'half of two' and 'third of three' and so on. And one may say: the concomitance is either in the external world or not: if it is external, then regress occurs in real things from the side of the beginning, for every concomitance then would need another concomitance before it.
+Source pages p. 174
+
+Commentary
+This passage discusses two related issues. First, a claim that knowing the subject automatically gives knowledge of its proximate concomitant because the subject is the cause of the concomitant. The objection points out that this would lead to infinite regress, making all concomitants known, which is false. Second, the Imam (al-Razi) raises a doubt about the relation of concomitance itself: if the relation is distinct and itself concomitant, that also leads to regress. The answer distinguishes between real (haqiqi) and mental (i'tibari) matters: in mental relations like numbers, such regress is acceptable (e.g., one is half of two, and that relation itself can be described ad infinitum without contradiction). However, in external realities, regress is impossible. This highlights the foundational difference between real and relational attributes.
+
+Key Terms
+لزوم
+أمور اعتبارية
+أمور حقيقية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why is infinite regress (tasalsul) in mental matters not problematic?
+A) Because mental matters are not real.
+B) Because infinite regress is always impossible.
+C) Because in mental matters, such as the relation of 'one' to 'half of two', the regress is acceptable.
+D) Because the Imam argued against it.
+
+Key Takeaway
+Infinite regress is only problematic in real (extramental) matters; in mental relations, it is harmless and often unavoidable.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an argument showing how the Ash'ari position on divine attributes (sifat) avoids infinite regress by treating the relation between essence and attribute as mental (i'tibari) rather than real. Use the example of 'one' being half of two to illustrate the acceptability of mental regress.
+?
+Analyze the following claim: 'Knowing that the world is created necessitates knowing its Creator.' Using the distinctions in the passage, explain whether this claim suffers from the same regress problem and why.
+
+Pages p. 174 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 283
+Module 16 · Lesson 9
+Next →
+Other Lessons
+intermediate
+5 min
+Objection Against General Possibility and Answer
+Author presents an objection that possibility applied to the Necessary Being leads to contingency, then answers.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between general possibility (al-imkān al-‘āmm) and specific possibility (al-imkān al-khāṣṣ) in Kalam, and explain why applying general possibility to the Necessary Being does not entail contingency.
+
+Core Idea
+General possibility negates necessity; it does not imply contingency of non-existence.
+
+Some have objected that if possibility applies to the Necessary Being, then the Necessary would be possibly non-existent or impossible. The author's response hinges on a crucial distinction between general and specific possibility. In this lesson, you will learn to parse this logical distinction and see how it unravels the objection.
+
+Guided Path
+1
+Identify the objection's core dilemma
+The objector claims that either possibility applies to the Necessary Being or it does not. If it does, the Necessary becomes possibly non-existent (contingent). If it does not, the Necessary becomes impossible. Both conclusions are unacceptable for the Necessary Being.
+This is a classic dilemma used to challenge the concept of possibility in theology.
+2
+Locate the answer's key move
+The author denies that either conclusion follows. The answer turns on the meaning of the term 'possibility'. The objector assumes a single meaning, but the author shows that 'possibility' is ambiguous.
+3
+Distinguish general possibility from specific possibility
+General possibility (الإمكان العام) is simply the negation of necessity: it means 'not necessary'. Specific possibility (الإمكان الخاص) is the negation of both necessity and impossibility, i.e., true contingency. Apply this to the dilemma: if 'possibility' means general, its applying to the Necessary only denies that the Necessary is necessary in a descriptive sense, not that it could be non-existent. If 'possibility' means specific, its failure to apply does not entail impossibility because the Necessary is necessary, not impossible.
+General possibility is a broader, more inclusive concept.
+4
+Evaluate the answer
+The author's distinction resolves the dilemma: under the general meaning, the first horn (possibility of non-existence) does not follow; under the specific meaning, the second horn (impossibility) does not follow. The objection commits a fallacy of equivocation.
+This distinction is standard in later Kalam works.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قد نفى بعضهم الإمكان بأنه إن صدق على الواجب كان الواجب ممكن العدم، و إلا لكان ممتنعاً. و جوابه: أنه لا يلزم من صدق الإمكان العام إمكان العدم إن عنى به «الإمكان العام». و أن عنى به الإمكان الخاص، فلا يلزم من عدم صدقه الامتناع.
+Some have negated possibility by saying: if it applies to the Necessary Being, then the necessary would be possibly non-existent, otherwise it would be impossible. And the answer: that it does not follow from the truth of general possibility the possibility of non-existence if by it is meant 'general possibility'. And if by it is meant specific possibility, then from its non-truth non-impossibility does not follow.
+Source pages p. 283
+
+Commentary
+This is a critical exchange. The objector argues that the concept of possibility (الإمكان) cannot be applied to God (الواجب) because if possibility is true of the Necessary, then God would be possibly non-existent; but if it is not true, then God would be impossible (non-existent). This is a dilemma. The author answers by distinguishing two meanings of possibility. If by 'possibility' the objector means general possibility (الإمكان العام), then its applying to God does not entail that God is possibly non-existent, because general possibility only negates necessity—it does not affirm contingency of non-existence. If by 'possibility' the objector means specific possibility (الإمكان الخاص), then its failure to apply to God does not entail impossibility, because specific possibility is a narrower concept; God's exclusion from it does not make Him impossible. Thus, the objection fails.
+
+Key Terms
+الإمكان العام (al-imkān al-‘āmm)
+الواجب (al-wājib)
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the answer, what does applying general possibility to the Necessary Being entail?
+A) That God is possibly non-existent
+B) That God is impossible
+C) Not necessarily the possibility of non-existence
+D) That God is contingent
+
+Key Takeaway
+The objection that possibility applied to the Necessary Being leads to contingency is resolved by distinguishing general possibility (negation of necessity) from specific possibility (true contingency).
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: In the Kalam argument 'The world is possible (ممكن) because it is temporally originated, therefore it requires a cause', which sense of 'possible' is meant: general or specific? Explain based on the distinction in this lesson.
+?
+Task 2: A student objects: 'If the Necessary Being is not impossible, then He is possible, which makes Him contingent.' Write a response using the author's distinction between general and specific possibility.
+
+Pages p. 283 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 284
+Module 16 · Lesson 10
+Next →
+Other Lessons
+intermediate
+5 min
+Distinguishing Conditional Necessity from Per Se Possibility
+Author presents objection and answer on specific possibility
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between per se possibility and conditional necessity, and explain why an objection that specific possibility implies impossibility fails.
+
+Core Idea
+The objection confuses conditional necessity with absolute necessity; specific possibility remains valid.
+
+In this passage, the author addresses a second objection against specific possibility (الإمكان الخاص). The objector argues that any given thing, if it exists, its non-existence is impossible, and if it does not exist, its existence is impossible—thus no possibility. The author clarifies that this necessity is conditional on the actual state, not per se, and therefore does not negate possibility according to essence. Understanding this distinction is key to defending contingency in Islamic philosophy and theology.
+
+Guided Path
+1
+Identify the objection's form
+The objector uses two conditional statements: if a thing exists, then its non-existence is impossible; if it does not exist, then its existence is impossible. This aims to show that specific possibility leads to impossibility in all cases.
+The conditional nature is key: the necessity depends on the actual state.
+2
+Recognize the challenge to possibility
+The objection concludes that no thing is possible, because either existence or non-existence is impossible at every moment. This would eliminate contingency entirely.
+The objector assumes the necessity is absolute, not conditional.
+3
+Locate the author's distinction
+The author introduces 'necessity conditioned by the predicate' (الضرورة بشرط المحمول): a hypothetical necessity that arises from the actual truth of a proposition. This is different from per se necessity.
+Also mentions 'necessity by another' (الضرورة بالغير) which similarly does not contradict per se possibility.
+4
+Apply the distinction to answer the objection
+The conditional necessity admitted by the author does not negate per se possibility. A thing is possible in itself even when actual, because its actuality is contingent, not necessary in essence.
+Thus, the objection fails: it conflates conditional necessity with absolute necessity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و على آخر الإمكان الخاص: بأن الشيء إن كان موجوداً امتنع عدمه، و إن كان معدوماً امتنع وجوده. .. و بان علة وجوده إن كانت متحققة امتنع عدمه، و الا امتنع وجوده و جوابه أن الضرورة بشرط الوجود أو العدم هي الضرورة بشرط المحمول، و هي و الضرورة بالغير لا تنافي الإمكان بحسب الذات.
+And regarding another (objection) about specific possibility: that a thing if it exists, its non-existence is impossible, and if it does not exist, its existence is impossible. ... And that if the cause of its existence is realized, its non-existence is impossible, otherwise its existence is impossible. And the answer is that necessity conditioned by existence or non-existence is necessity conditioned by the predicate, and it and necessity by another do not contradict possibility according to the essence.
+Source pages p. 284
+
+Commentary
+This is a second objection against specific possibility. The objector argues: for any contingent thing, if it exists now, its non-existence is impossible (because actual existence excludes non-existence at that moment); conversely, if it does not exist, its existence is impossible. Also, if the cause of its existence is present, non-existence is impossible; if the cause is absent, existence is impossible. Therefore, the thing is either necessary or impossible, leaving no room for possibility. The author answers by distinguishing types of necessity. Necessity that is conditioned by the actual existence or non-existence of the thing (i.e., hypothetical necessity) is 'necessity conditioned by the predicate' (ضرورة بشرط المحمول) — meaning that given the predicate holds, its opposite is impossible. This does not negate possibility according to the essence (بحسب الذات), because the thing remains possible in itself even when actual. Similarly, necessity by another (الضرورة بالغير) — like the necessity of an effect given its cause — does not contradict per se possibility. Thus, the objection fails to refute specific possibility.
+
+Key Terms
+الإمكان الخاص
+الضرورة بشرط المحمول
+
+Key Terms from Source Passage
+
+Checkpoint
+What type of necessity does the author admit when a thing exists?
+A) Absolute necessity
+B) Necessity by another
+C) Necessity conditioned by the predicate
+D) Per se necessity
+
+Key Takeaway
+The objection that specific possibility entails impossibility fails because the necessity involved is conditional on the actual state, not a necessity of essence.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a similar objection against the possibility of a freely chosen act: 'If an act is performed, its non-performance is impossible; if it is not performed, its performance is impossible. Therefore, no act is possible.' Then answer using the distinction between conditional and per se possibility.
+
+Pages p. 284 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 372
+Module 16 · Lesson 11
+Next →
+Other Lessons
+intermediate
+7 min
+Critique of Ibn Sina's Rule on Conditional Entailment
+Author presents and critiques a rule about mutual entailment of conditionals with contradictory consequents.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct al-Khunaji's objection to Ibn Sina's rule on mutual entailment of conditionals and evaluate whether the rule necessarily holds.
+
+Core Idea
+Contradictory consequents do not guarantee mutual entailment — al-Khunaji shows why.
+
+In this passage, the author presents a rule attributed to Ibn Sina (al-Shaykh) concerning the relationship between two conditional propositions that share the same antecedent but have contradictory consequents. According to the rule, such conditionals are mutually entailing. However, al-Khunaji challenges this rule by pointing out logical possibilities that undermine its necessity. Understanding this critique sharpens your ability to assess logical relationships in Islamic theological and legal arguments.
+
+Guided Path
+1
+State Ibn Sina's rule
+Identify the exact conditions: two conditionals must agree in quantity (universal/particular) and antecedent, differ in quality (affirmative/negative), and have contradictory consequents. The rule claims they are mutually entailing.
+This is essentially a claim about contraposition in conditional logic.
+2
+Understand the logical relationship
+If the rule holds, then from 'If P then Q' we can derive 'If not Q then not P'. The rule extends this to conditionals with the same antecedent but contradictory consequents.
+3
+Recognize al-Khunaji's objection
+Al-Khunaji says the rule is not necessary (ghayr lāzim). He gives two reasons: (a) it is possible for both contradictories to be entailed by one antecedent, (b) it is possible for neither to be entailed. Therefore, the truth of one conditional does not necessarily imply the truth of the other.
+If both follow, the antecedent implies a contradiction; if neither follows, the antecedent implies nothing about those consequents.
+4
+Evaluate the critique's validity
+Consider whether the possibilities al-Khunaji raises are genuinely possible in logical systems. In standard logic, an antecedent cannot entail both a proposition and its negation unless it is impossible. However, the critique highlights that the rule lacks necessity without additional assumptions.
+Al-Khunaji's argument is accepted by later logicians as a valid refinement.
+5
+Apply to Islamic reasoning
+When encountering conditionals in Kalam or Fiqh arguments, check whether mutual entailment is assumed. Use al-Khunaji's critique to avoid false equivalences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل الحادي عشر في تلازم الشرطيات و تعاندها. المبحث الأول في تلازم المتصلات. أما استلزامها لعكسها، فقد عرفت ما فيه. و أما غير ذلك: نقض التالي. فقد ذكر الشيخ أن كل متصلتين توافقتا في الكم والمقدم و تخالفتا في الكيف و تناقضتا في التالي تلازمتا و تعاكستا. تخطئة الخونجي لنقض التالي: و هو غير لازم: الجواز ملازمة النقيضين لمقدم واحد، كما عرفت؛ فلم تلزم السالبة الموجبة؛ و جواز أن لا يلزم واحدٌ من النقيضين مقدماً واحداً، فلا تلزم الموجبة السالبة.
+Chapter Eleven on the mutual entailment and opposition of conditionals. First investigation: on the mutual entailment of conditionals. As for their entailment of their converse, you have known what is in it. And as for other than that: refutation of the consequent. Al-Shaykh mentioned that every two conditionals that agree in quantity and antecedent, differ in quality, and have contradictory consequents, are mutually entailing and converse. Correction by al-Khunaji of the refutation of the consequent: and it is not necessary: the possibility that two contradictories are entailed by one antecedent, as you have known; so the negative does not entail the affirmative; and the possibility that neither of the two contradictories follows from one antecedent, so the affirmative does not entail the negative.
+Source pages p. 372
+
+Commentary
+This passage presents a critical examination of a rule attributed to Ibn Sina (al-Shaykh) concerning the mutual entailment of conditional propositions. The rule states that if two conditionals have the same antecedent (maddam), same quantity (i.e., both universal or both particular), but differ in quality (one affirmative, one negative), and have contradictory consequents (tāliyan mutanāqiḍān), then they are mutually entailing and convertible. In other words, if the antecedent implies one consequent, then the contradictory of that consequent would imply the contradictory of the antecedent (this is essentially contraposition). Al-Khunaji objects that this rule is not necessary (ghayr lāzim). His justification is that it is possible for two contradictories (like p and not-p) to both be entailed by the same antecedent (maddam wāḥid) — which would be a logical contradiction, but he considers it possible as a hypothetical. Also, it is possible that neither of the two contradictories follows from a given antecedent. Therefore, from the fact that one conditional is true, we cannot necessarily infer the truth of the other conditional. The critique shows that the logical relationship between conditionals with contradictory consequents is not always one of mutual entailment; additional conditions are needed. The teacher should explain that this is a technical point in logic about the strength of implication and the conditions for contraposition in Arabic logic.
+
+Key Terms
+متصلة
+نقيض
+لازم
+ملزوم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Khunaji's critique, why is Ibn Sina's rule about two conditionals with contradictory consequents not always valid?
+A) Because the antecedents may differ in quantity.
+B) Because two contradictories may both be entailed by one antecedent, or neither may follow.
+C) Because the conditionals must be explicit.
+D) Because the consequents must be mutually exclusive.
+
+Key Takeaway
+Al-Khunaji's critique refutes the necessity of mutual entailment for conditionals with contradictory consequents, emphasizing that logical possibilities can break the supposed equivalence.
+
+How This Lesson Applies — to MY Life?
+?
+Construct two universal affirmative conditionals with the same antecedent but contradictory consequents from a kalām topic (e.g., 'If the Qur'an is created, then it is temporally originated' and 'If the Qur'an is created, then it is not temporally originated'). According to Ibn Sina's rule, are they mutually entailing? Now apply al-Khunaji's objection: is it possible that both consequents follow from the antecedent? What does this say about the validity of the rule in this case?
+?
+In uṣūl al-fiqh, consider the conditional: 'If the act is commanded, then it is obligatory.' Its contrary: 'If the act is commanded, then it is not obligatory.' Would Ibn Sina's rule claim they are equivalent? Use al-Khunaji's reasoning to argue why they might not be.
+
+Pages p. 372 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 373
+Module 16 · Lesson 12
+Next →
+Other Lessons
+intermediate
+10 min
+Immediate Inferences of Universal Affirmative Conditionals
+Author enumerates entailments of universal affirmative conditional.
+
+Learning Objective
+By the end of this lesson, you will be able to derive valid immediate inferences from a universal affirmative conditional proposition using the rules of entailed and necessary terms.
+
+Core Idea
+A universal affirmative conditional entails a family of conditionals by substituting entailing or entailed terms for its parts.
+
+In the previous lesson, you learned about the nature of conditional propositions. Here, the author provides a systematic set of rules for generating new conditionals from a given universal affirmative conditional. These are not arbitrary; they rely on the relationships of entailment (luzūm) between terms. Mastering these rules is essential for constructing valid arguments in Islamic legal reasoning and theology.
+
+Guided Path
+1
+Understand the base form
+Identify the original conditional: 'If A then B', where the implication is strict (luzūmiyya). Recognize the parts: antecedent (muqaddam), consequent (tālī), and their respective entailments.
+The base conditional is the starting point for all derivations.
+2
+Apply substitution rules
+For each rule, identify what is being substituted: (1) from antecedent and necessary of consequent, (2) from entailed of antecedent and necessary of consequent, (3) from entailed of antecedent and very consequent. Note the conditions for converse when the terms are mutually entailing or reversible.
+Rule (1) yields 'If A then C' where B entails C; rule (2) yields 'If D then C' where D entails A; rule (3) yields 'If D then B'.
+3
+Apply contraposition rules
+Recognize that from the original conditional we can also derive conditionals involving contradictories: from the entailed of the contradictory of the consequent and the contradictory of the antecedent, and from the contradictory of the consequent and the necessary of the contradictory of the antecedent.
+This is standard contraposition but with substitution of entailments.
+4
+Test with an Islamic example
+Use a fiqh example: 'If it is wine (A), then it is prohibited (B).' Derive: (1) If wine, then impure (since prohibition entails impurity). (2) If a liquid intoxicant withdrawn from sale (which entails wine), then prohibited. (3) If not prohibited, then not wine (contrapositive).
+This demonstrates the practical application of the rules.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و إذا عرفت ذلك، فنقول: كل متصلة موجبة كلية لزومية تستلزم مثلها: ١. من مقدمها و لازم تاليها، و بالعكس إن كان التاليان متلازمين. ٢. من ملزوم مقدمها و لازم تاليها، و بالعكس إن كان تلازم المقدم و التالي منعكساً. ٣. من ملزوم مقدمها و عين تاليها، و بالعكس إن كان تلازم المقدم منعكساً. كل ذلك على أن ملزوم الملزوم ملزوم. و تستلزم مثلها: من ملزوم نقيض تاليها و نقيض مقدمها، و من نقيض تاليها و لازم نقيض مقدمها.
+And when you have known that, we say: Every universal affirmative conditional of implication entails its like: 1) from its antecedent and the necessary of its consequent, and conversely if the two consequents are mutually entailing. 2) from the entailed of its antecedent and the necessary of its consequent, and conversely if the mutual entailment of the antecedent and consequent is reversible. 3) from the entailed of its antecedent and the very consequent, and conversely if the mutual entailment of the antecedent is reversible. All of that is on the basis that the entailed of the entailed is entailed. And it entails its like: from the entailed of the contradictory of its consequent and the contradictory of its antecedent, and from the contradictory of its consequent and the necessary of the contradictory of its antecedent.
+Source pages p. 373
+
+Commentary
+This passage provides rules for the immediate inferences (entailments) of a universal affirmative conditional proposition (muttasila mūjiba kulliyya luzūmiyya). The conditional is of the form 'if A then B' where the implication is strict (luzūmiyya). The author states that such a conditional 'entails its like' meaning that other conditionals can be derived from it under certain conditions. The first set of rules: (1) From the original antecedent (maddam) and the necessary consequent (lāzim tālihā) — meaning that if the original consequent (B) has a necessary implication (C), then we can form 'if A then C'. Conversely, if the two consequents (original and new) are mutually entailing (i.e., each implies the other), then the derivation works both ways. (2) From the entailed of the antecedent (malzūm muqaddamihā) and the necessary of the consequent — meaning if there is something that entails A (called D, i.e., D implies A), then from D and B's necessary we get 'if D then C'. The converse holds if the mutual entailment between antecedent and consequent is reversible (i.e., if A implies B and B implies A). (3) From the entailed of the antecedent and the very consequent (ayn tālīhā) — from D and B we get 'if D then B'. Conversely if the entailment of the antecedent is reversible (i.e., if A and D are equivalent). The author also gives the principle: 'the entailed of the entailed is entailed' (malzūm al-malzūm malzūm), which is the transitivity of entailment. The second set of rules involves contraposition: from the entailed of the contradictory of the consequent (malzūm naqīḍ tālīhā) and the contradictory of the antecedent, and from the contradictory of the consequent and the necessary of the contradictory of the antecedent. These are standard contraposition rules for conditionals. The teacher should illustrate with a fiqh example: e.g., 'If it is wine (A), then it is prohibited (B).' Then (1): 'If it is wine (A), then it is impure (C)' where C is a necessary consequence of B. (2): 'If it is a liquid intoxicant withdrawn from sale (D, which entails A), then it is impure (C).' (3): 'If it is a liquid intoxicant withdrawn from sale (D), then it is prohibited (B).' And contrapositive: 'If it is not prohibited (contradictory of B), then it is not wine (contradictory of A).'
+
+Key Terms
+لزومية
+ملزوم
+متلازم
+منعكس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, a universal affirmative conditional 'If A then B' entails which of the following under the rule 'from the entailed of its antecedent and the necessary of its consequent'?
+A) If C (where C entails A) then B.
+B) If A then C (where B entails C).
+C) If C (where C entails A) then D (where B entails D).
+D) If not B then not A.
+
+Key Takeaway
+A universal affirmative conditional yields multiple conditional entailments by systematically exchanging terms with their entailments or contradictories, under specified conditions.
+
+How This Lesson Applies — to MY Life?
+?
+Using the rule 'from malzūm muqaddamihā and lāzim tālīhā', derive a new conditional from the base: 'If the prayer is performed without correct intention (A), then it is invalid (B).' What is the derived conditional? (Hint: 'absence of fiqh instructions' entails A; 'must be repeated' is entailed by B.)
+?
+Write the contrapositive of: 'If the meat is not slaughtered Islamically (A), then it is forbidden (B).' Check your result against the rules in the passage.
+
+Pages p. 373 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 492
+Module 16 · Lesson 13
+Next →
+Other Lessons
+intermediate
+8 min
+Defining Foreign Premises in Syllogisms
+Al-Khūnajī's objection and the author's refinement of 'foreign premise'
+
+Learning Objective
+By the end of this lesson, you will be able to apply the author's refined definition of 'foreign premise' to evaluate syllogisms in Islamic juristic debates.
+
+Core Idea
+A foreign premise violates the syllogism's limits entirely, not just one.
+
+In this passage, al-Khūnajī objects that certain conclusions are based on foreign premises, which would invalidate the syllogism. The author responds by refining what 'foreign' means: it is not a mere violation of one condition, but a breach of the entire set of formal limits. This clarification is essential for correctly evaluating arguments in munazara and usul al-fiqh, where the admissibility of premises is often contested.
+
+Guided Path
+1
+Identify the objection
+Find the two reasons al-Khūnajī gives for calling the premises 'foreign'. First, they violate one limit of the syllogism. Second, the conclusion does not contain the original minor and major terms but one of them and its opposite.
+The objection targets the validity of deriving conclusions from disjunctive premises.
+2
+Extract the author's response
+The author redefines 'foreign premise' as one that violates the limits of the syllogism in their entirety (بجدها), not just a single limit. He points to Ibn Sina's practice in al-Shifa' as support.
+The Arabic word 'بجدها' likely means 'بحدها' (its limit) but could be read as 'entirety'.
+3
+Apply the refined definition
+Take a sample syllogism and check if a premise violates all conditions (form, number, arrangement) or just one. Only the former qualifies as truly foreign in this technical sense.
+For example, in a categorical syllogism, if a premise has the wrong quantity but still fits the figure, it may not be 'foreign' by this definition.
+4
+Assess the implication for the original argument
+Consider whether the premises al-Khūnajī objected to actually violate all limits or just one. If only one, they are not foreign, and the derivation stands.
+The passage cuts off, so the full verdict is missing, but the logical move is clear.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن قلت: هذا باطل من وجهين أما الأول: فلأن هذه البيانات بمقدمات أجنبية، لأنّها خالفت بأحد حدها حدود القياس. و الثاني: أن النتائج ما حصلت من الأصغر والأكبر، بل من أحدهما و نقيض الآخر. قلت: المراد بـ «المقدمة الأجنبية» ما يخالف بجدها حدود القياس لا بأحد حدهما. و قد فعل الشيخ مثل ذلك في هذا الفصل حيث قال في الشفاء:
+For if you say: This is invalid from two aspects: As for the first, because these [premises] are foreign premises, since they violate one of the limits of the syllogism. And the second: that the conclusions are not obtained from the minor and major, but from one of them and the opposite of the other. I say: What is meant by 'foreign premise' is that which violates the limits of the syllogism in its entirety, not in only one of its limits. And the Shaykh has done similarly in this chapter, where he said in al-Shifa':
+Source pages p. 492
+
+Commentary
+This passage presents an objection by al-Khūnajī against the earlier derivation of conclusions from disjunctive premises. He raises two points: (1) The premises used are 'foreign' (مقدمة أجنبية) because they violate one of the limits (حدود) of the syllogism—presumably the condition that the conclusion must follow directly from the given premises without introducing new elements. (2) The conclusions are not composed of the originally given minor and major terms but involve one of them and the opposite of the other. The author responds by redefining 'foreign premise': it is one that violates the limits in its entirety (بجدها/بحدها), not just in one limit. He then invokes the authority of Ibn Sina (الشيخ) in al-Shifa' to support his approach. Unfortunately, the passage cuts off, so the full argument is incomplete. In Islamic logic, 'foreign premises' are a key concept in ensuring syllogistic validity. An example: In a debate about the impermissibility of nabidh, if someone uses a premise like 'Every intoxicant is forbidden' which is not part of the original syllogism, it might be considered foreign unless it is a logical necessity.
+
+Key Terms
+مقدمة أجنبية
+حدود القياس
+الأصغر والأكبر
+
+Key Terms from Source Passage
+
+Checkpoint
+How does the author define a 'foreign premise' in his response?
+A) A premise not originally given by the opponent
+B) A premise that violates the limits of the syllogism in its entirety
+C) A premise that goes against common sense
+D) A premise that is false
+
+Key Takeaway
+The precise definition of 'foreign premise' is that it violates all formal limits of the syllogism, not just one, which protects valid arguments from overcritical rejection.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument in a fiqh discussion: 'Wine is forbidden because it intoxicates. Nabidh is intoxicating, therefore nabidh is forbidden.' Objector: 'The premise that every intoxicant is forbidden is foreign because it was not originally granted.' Using the author's definition, assess whether this premise is truly foreign (i.e., does it violate all limits of the syllogism?).
+?
+Identify a syllogism from a kalam text (e.g., al-Sanusiyya) and check if any of its premises could be considered foreign by al-Khūnajī's original objection and by the author's refined definition. Write a brief analysis.
+
+Pages p. 492 · Other Lessons
+← Prev
+Mark Done
+Next →

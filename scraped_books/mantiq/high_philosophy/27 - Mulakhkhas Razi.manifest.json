@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:40Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/mulakhkhas_razi/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/high_philosophy/27 - Mulakhkhas Razi",
+  "output_bytes": 6593295,
+  "output_sha256": "43115744fcf306978c51dfba6ee2d11747afd0d16d26038e7853019c305de23c",
+  "checks": {
+    "catalog_expected_lessons": 789,
+    "course_reported_lessons": 789,
+    "index_lessons": 789,
+    "full_lessons": 789,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 656,
+    "sources": 656
+  }
+}

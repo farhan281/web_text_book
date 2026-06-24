@@ -1,0 +1,447 @@
+← Prev
+p. 121
+Module 7 · Lesson 101
+Next →
+The Syllogism
+intermediate
+8 min
+Distinguishing Qiyas al-Illa and Qiyas al-Dalala
+Defining the two types of syllogism based on the middle term's causality.
+
+Learning Objective
+By the end of this lesson, you will be able to classify a given syllogism as qiyas al-illa or qiyas al-dalala by identifying whether the middle term is a cause of the major term.
+
+Core Idea
+The middle term's causal role determines whether a syllogism explains why or merely that.
+
+This passage introduces a fundamental distinction between two types of syllogism: those that provide the cause (qiyas al-illa) and those that only indicate existence (qiyas al-dalala). Understanding this distinction is crucial for evaluating whether an argument offers explanation or mere evidence. The author also gives examples from physics and jurisprudence to illustrate the difference.
+
+Guided Path
+1
+Identify the middle term
+Find the term that connects the subject (minor term) and predicate (major term) in the conclusion. For example, in 'This wood is burning because fire touched it', the middle term is 'fire'.
+The middle term appears in both premises but not in the conclusion.
+2
+Check if the middle term is a cause of the major term
+Determine whether the middle term is the cause of the major term's presence in the minor. In the example, fire is the cause of burning, so it is qiyas al-illa.
+If the middle term is not a cause but merely indicates the major, it is qiyas al-dalala.
+3
+Classify accordingly
+If the middle term is a cause, the syllogism is qiyas al-illa (burhan limmi); if not, it is qiyas al-dalala (burhan inni).
+4
+Verify with the passage examples
+Apply the test to the given examples: 'This person is full because he ate now' (illa), and 'This person is full, so he recently ate' (dalala). Confirm the classification.
+The reverse examples show that the direction of inference changes the type.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن الحد الأوسط إن كان علة للحدّ الأكبر سمّاه الفقهاء قياس العلة، وسمّاه المنطقيون برهان اللم» أي : ذكر ما يجاب به عن «لم». وإن لم يكن علة سمّاه الفقهاء قياس الدلالة والمنطقيون سموه برهان (الآن)) أي : هو دليل على أن الحدّ الأكبر موجود للأصغر من غير بيان علّته . ومثال قياس العلّة من المحسوسات قولك : هذه الخشبة محترقة لأنها أصابتها النار، وهذا الإنسان شبعان لأنه أكل الآن. وقياس الدلالة عكسه وهو أن يستدلّ بالنتيجة على المنتج فنقول : هذا شبعان فإذا هو قريب العهد بالأكل، وهذه المرأة ذات لبن فهي قريبة العهد بالولادة. ومثاله من الفقه قولك : : هذه عين نجسة فإذن لا تصح الصلاة معها، وقياس الدلالة عكسه وهو أن نقول هذه عين لا تصح الصلاة معها فإذن هي نجسة. وبالجملة الاستدلال بالنتيجة على المنتج يدلّ على وجوده فقط لا على علته، بحدوث العالم على وجود المحدث، وبوجود الكتابة المنظومة على
+فإنّا نستدل
+علم الكاتب، ونجعل الكتابة حداً أوسط والعلم حداً أكبر، ونقول : كلّ من منظوماً فهو عالم بالكتابة وهذا قد كتب منظوماً فهو عالم بالكتابة، والكتابة ليست علة للعلم بل العلم أولى بأن نقدر عليته. وكذلك إذا تلازمت نتيجتان بعلة واحدة جاز أن يستدلّ بإحدى النتيجتين على الأخرى فيكون قياس دلالة . ومثاله من قولنا : إن الزنا لا يوجب المحرمية فلا يوجب حرمة النكاح، فإن تحريم النكاح وحل النظر متلازمان وهما نتيجتان للوطء المقتضى لحرمة المصاهرة، فإذا ثبت تلازمهما لعلة واحدة دلّ وجود إحداهما على وجود الأخرى، فإن اختلف شرطهما
+لم يمكن الاستدلال لاحتمال افتراقهما في الشرط، وكما انقسم قياس الدلالة إلى نوعين فقياس العلة أيضاً ينقسم إلى قسمين :
+الأول : ما يكون الأوسط فيه علّة للنتيجة ولا يكون علة لوجود الأكبر في نفسه، كقولنا كلّ إنسان حيوان وكلّ حيوان جسم، فكل إنسان فالإنسان إنما كان جسماً من قبل أنه حيوان والجسمية أولاً للحيوان، ثم بسببه للإنسان، فإذاً الحيوان علة لحمل الجمل على الإنسان لا لوجود الجسمية، فإن الجسمية تتقدم بالذات في ترتيب الأنواع والأجناس على الحيوان واعلم أن ما ثبت للنوع من حمل الجنس عليه وكذا جنس الجنس، وكذا الفصول والحدود واللوازم إنما تكون من جهة الجنس، ويكون الجنس علة في حمله على النوع لا في وجود ذات المحمول أعني محمول النتيجة .
+والقسم الثاني : ما يكون علة لوجود الحدّ الأكبر على الإطلاق لا كهذا المثال، وقد لا يكون على الإطلاق كالشيء الذي له علل متعددة، فإن آحاد العلل لا يمكن أن تجعل علة للحدّ الأكبر مطلقاً، بل هي علة في وقت مخصوص ومحل مخصوص، ومثاله في الفقه : أن العدوان علة للتأثيم على الإطلاق، والزنا علّة للرجم على الإطلاق، فإن القتل يجب على سبيل القصاص وغيره، ولكن تكون علّة للقتل في حق شخص مخصوص، وذلك لا يخرجه عن كونه قياس العلة .
+Know that the middle term, if it is a cause of the major term, jurists call it 'syllogism of cause', and logicians call it 'demonstration of the 'why?'' i.e., mentioning that which answers 'why?'. And if it is not a cause, jurists call it 'syllogism of indication', and logicians call it 'demonstration of the 'that'' i.e., it is a proof that the major term exists for the minor without explaining its cause. An example of syllogism of cause from physical things is your saying: This wood is burning because fire touched it, and this person is full because he ate now. And syllogism of indication is its opposite, which is to infer from the result to the producer, so we say: This person is full, so he has recently eaten, and this woman has milk, so she has recently given birth. An example from jurisprudence is your saying: This is an intrinsically impure substance, therefore prayer is not valid with it. And syllogism of indication is its opposite, which is to say: This substance is such that prayer is not valid with it, therefore it is impure. In summary, inferring from the result to the producer indicates its existence only, not its cause, like the occurrence of the world on the existence of the Maker, and like the existence of orderly writing on the knowledge of the writer, for we infer: we make writing a middle term and knowledge a major term, and we say: Everyone who writes in an orderly manner knows writing, and this person has written orderly, so he knows writing. Yet writing is not a cause of knowledge; rather, knowledge is more appropriate to be considered its cause. Likewise, if two results follow from one cause, it is permissible to infer from one result to the other, and this is a syllogism of indication. An example from our saying: Adultery does not necessitate kinship so it does not necessitate prohibition of marriage, for prohibition of marriage and permissibility of looking are concomitant, and they are two results of sexual intercourse which necessitates affinity. So if their concommitence by one cause is established, the existence of one indicates the existence of the other. But if their conditions differ, inference is not possible due to the possibility of their differing in condition. And just as syllogism of indication divides into two types, so too syllogism of cause divides into two sections: The first: that in which the middle term is a cause of the result but is not a cause of the existence of the major [term] in itself, as when we say: Every human is an animal, and every animal is a body, so every human is a body. So a human is only a body because he is animal, and corporeality belongs first to animal, then due to it to human. So the animal is a cause for the predication of body to human, not for the existence of corporeality, for corporeality takes precedence essentially in the order of species and genera over animal. Know that what is established for the species of the predication of genus upon it, and likewise the genus of genus, and likewise the differentiae, definitions, and accidents, are only from the direction of the genus, and the genus is a cause in its predication on the species, not in the existence of the subject itself, i.e., the subject of the conclusion. The second section: that which is a cause for the existence of the major term absolutely, not like this example; but it may not be absolute, like a thing that has multiple causes, for individual causes cannot be made a cause for the major term absolutely, but they are a cause in a specific time and specific place. An example in jurisprudence: Transgression is a cause for punishment absolutely, and adultery is a cause for stoning absolutely, whereas killing may be obligatory as retaliation or otherwise, but it may be a cause for killing in the case of a specific person, and that does not remove it from being a syllogism of cause.
+Source pages p. 121
+
+Commentary
+This passage defines and distinguishes two types of syllogism: qiyas al-illa (syllogism of cause) and qiyas al-dalala (syllogism of indication). The author begins by stating that if the middle term is a cause of the major term, jurists call it qiyas al-illa and logicians call it burhan limmi (demonstration of the 'why'), because it answers the question 'why?'. If the middle term is not a cause, jurists call it qiyas al-dalala and logicians call it burhan inni (demonstration of the 'that'), meaning it proves existence without explaining the cause. The author gives examples: from physics, 'This wood is burning because fire touched it' (qiyas al-illa) and its reverse 'This person is full, so he has recently eaten' (qiyas al-dalala). From jurisprudence: 'This substance is impure, therefore prayer is not valid with it' (qiyas al-illa), and its reverse 'Prayer is not valid with this substance, therefore it is impure' (qiyas al-dalala). The author then clarifies that inferring from result to producer indicates only existence, not cause, as in inferring the existence of a Maker from the world's occurrence, or inferring knowledge of writing from orderly writing; here writing is the middle term but it is not the cause of knowledge—knowledge is more fundamental. Next, the author explains that when two results are concomitant from a single cause, one can be inferred from the other as qiyas al-dalala, e.g., prohibition of marriage and permissibility of looking both follow from sexual intercourse causing affinity; but if their conditions differ, inference fails. Finally, both types have subtypes. Qiyas al-dalala has two types based on condition agreement. Qiyas al-illa also has two sections: (1) where the middle term is a cause of the predication (e.g., animal as cause for predicating body to human) but not a cause of the existence of the major in itself (corporeality exists in animal first); (2) where the middle term is a cause for the existence of the major absolutely, though sometimes restricted to a specific time/place, like transgression causing punishment absolutely, or killing causing retribution for a specific person. The passage ensures a nuanced understanding of causality in syllogisms, emphasizing that not every predication entails existential causation.
+
+Key Terms
+الحد الأوسط
+الحد الأكبر
+قياس العلة
+قياس الدلالة
+برهان اللم
+برهان الآن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the key condition for a syllogism to be classified as qiyas al-illa?
+A) The middle term must be the cause of the minor term.
+B) The middle term must be the cause of the major term.
+C) The conclusion must be about the physical world.
+D) The syllogism must use juristic terminology.
+
+Key Takeaway
+The middle term's causal relationship to the major term determines whether a syllogism provides a causal explanation (qiyas al-illa) or a mere indication (qiyas al-dalala).
+
+How This Lesson Applies — to MY Life?
+?
+Given the syllogism 'This wine is forbidden because it is an intoxicant', identify whether it is qiyas al-illa or qiyas al-dalala and justify your answer.
+?
+Construct a qiyas al-illa from Islamic law using the 'illa of 'travel' to justify shortening prayer.
+
+Pages p. 121 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 121
+Module 7 · Lesson 102
+Next →
+The Syllogism
+intermediate
+10 min
+Subtypes of Qiyas al-Illa: Cause of Predication vs. Cause of Existence
+Breaking down qiyas al-illa into two subtypes based on the nature of causation.
+
+Learning Objective
+By the end of this lesson, you will be able to differentiate between the two subtypes of qiyas al-illa: one where the middle term is a cause of the predication and one where it is a cause of the existence of the major term.
+
+Core Idea
+Causal syllogisms vary: sometimes the middle term causes the connection, sometimes it causes the very existence of the predicate.
+
+The passage explains that qiyas al-illa has two subtypes: the first where the middle term is a cause of the predicative connection (e.g., animal causing 'body' to be predicated of human) and the second where it is a cause of the existence of the major term itself (e.g., transgression causing punishment). This nuance prevents overgeneralization of causal relationships in logic and is critical for accurate reasoning in Islamic sciences.
+
+Guided Path
+1
+Identify the two sections of qiyas al-illa
+Locate where the author divides qiyas al-illa into two sections. The first section is introduced with 'الأول : ما يكون الأوسط فيه علّة للنتيجة ولا يكون علة لوجود الأكبر في نفسه'.
+The second section begins with 'والقسم الثاني : ما يكون علة لوجود الحدّ الأكبر على الإطلاق'.
+2
+Understand the first subtype: cause of predication
+In this subtype, the middle term is the cause of the predication of the major term on the minor, but not the cause of the major term's existence. Example: 'Every human is an animal; every animal is a body; so every human is a body.' The animal is the cause of 'body' being predicated of human, but 'body' exists first in animal.
+The middle term (animal) does not cause the existence of corporeality; rather, it causes the logical connection.
+3
+Understand the second subtype: cause of existence
+In this subtype, the middle term is the cause of the existence of the major term absolutely or conditionally. Example: 'Transgression is a cause for punishment absolutely'; 'Killing is a cause for retaliation in a specific case'.
+The second subtype can be either absolute (like transgression) or restricted (like killing with specific conditions).
+4
+Apply the distinction to new examples
+Given a syllogism, determine which subtype applies. For instance, 'Every intoxicant is prohibited; wine is an intoxicant; so wine is prohibited' is the first subtype because 'intoxicant' causes the predication of 'prohibited' on wine, not the existence of prohibition itself.
+Prohibition exists in the ruling, not caused by the intoxicant.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن الحد الأوسط إن كان علة للحدّ الأكبر سمّاه الفقهاء قياس العلة، وسمّاه المنطقيون برهان اللم» أي : ذكر ما يجاب به عن «لم». وإن لم يكن علة سمّاه الفقهاء قياس الدلالة والمنطقيون سموه برهان (الآن)) أي : هو دليل على أن الحدّ الأكبر موجود للأصغر من غير بيان علّته . ومثال قياس العلّة من المحسوسات قولك : هذه الخشبة محترقة لأنها أصابتها النار، وهذا الإنسان شبعان لأنه أكل الآن. وقياس الدلالة عكسه وهو أن يستدلّ بالنتيجة على المنتج فنقول : هذا شبعان فإذا هو قريب العهد بالأكل، وهذه المرأة ذات لبن فهي قريبة العهد بالولادة. ومثاله من الفقه قولك : : هذه عين نجسة فإذن لا تصح الصلاة معها، وقياس الدلالة عكسه وهو أن نقول هذه عين لا تصح الصلاة معها فإذن هي نجسة. وبالجملة الاستدلال بالنتيجة على المنتج يدلّ على وجوده فقط لا على علته، بحدوث العالم على وجود المحدث، وبوجود الكتابة المنظومة على
+فإنّا نستدل
+علم الكاتب، ونجعل الكتابة حداً أوسط والعلم حداً أكبر، ونقول : كلّ من منظوماً فهو عالم بالكتابة وهذا قد كتب منظوماً فهو عالم بالكتابة، والكتابة ليست علة للعلم بل العلم أولى بأن نقدر عليته. وكذلك إذا تلازمت نتيجتان بعلة واحدة جاز أن يستدلّ بإحدى النتيجتين على الأخرى فيكون قياس دلالة . ومثاله من قولنا : إن الزنا لا يوجب المحرمية فلا يوجب حرمة النكاح، فإن تحريم النكاح وحل النظر متلازمان وهما نتيجتان للوطء المقتضى لحرمة المصاهرة، فإذا ثبت تلازمهما لعلة واحدة دلّ وجود إحداهما على وجود الأخرى، فإن اختلف شرطهما
+لم يمكن الاستدلال لاحتمال افتراقهما في الشرط، وكما انقسم قياس الدلالة إلى نوعين فقياس العلة أيضاً ينقسم إلى قسمين :
+الأول : ما يكون الأوسط فيه علّة للنتيجة ولا يكون علة لوجود الأكبر في نفسه، كقولنا كلّ إنسان حيوان وكلّ حيوان جسم، فكل إنسان فالإنسان إنما كان جسماً من قبل أنه حيوان والجسمية أولاً للحيوان، ثم بسببه للإنسان، فإذاً الحيوان علة لحمل الجمل على الإنسان لا لوجود الجسمية، فإن الجسمية تتقدم بالذات في ترتيب الأنواع والأجناس على الحيوان واعلم أن ما ثبت للنوع من حمل الجنس عليه وكذا جنس الجنس، وكذا الفصول والحدود واللوازم إنما تكون من جهة الجنس، ويكون الجنس علة في حمله على النوع لا في وجود ذات المحمول أعني محمول النتيجة .
+والقسم الثاني : ما يكون علة لوجود الحدّ الأكبر على الإطلاق لا كهذا المثال، وقد لا يكون على الإطلاق كالشيء الذي له علل متعددة، فإن آحاد العلل لا يمكن أن تجعل علة للحدّ الأكبر مطلقاً، بل هي علة في وقت مخصوص ومحل مخصوص، ومثاله في الفقه : أن العدوان علة للتأثيم على الإطلاق، والزنا علّة للرجم على الإطلاق، فإن القتل يجب على سبيل القصاص وغيره، ولكن تكون علّة للقتل في حق شخص مخصوص، وذلك لا يخرجه عن كونه قياس العلة .
+Know that the middle term, if it is a cause of the major term, jurists call it 'syllogism of cause', and logicians call it 'demonstration of the 'why?'' i.e., mentioning that which answers 'why?'. And if it is not a cause, jurists call it 'syllogism of indication', and logicians call it 'demonstration of the 'that'' i.e., it is a proof that the major term exists for the minor without explaining its cause. An example of syllogism of cause from physical things is your saying: This wood is burning because fire touched it, and this person is full because he ate now. And syllogism of indication is its opposite, which is to infer from the result to the producer, so we say: This person is full, so he has recently eaten, and this woman has milk, so she has recently given birth. An example from jurisprudence is your saying: This is an intrinsically impure substance, therefore prayer is not valid with it. And syllogism of indication is its opposite, which is to say: This substance is such that prayer is not valid with it, therefore it is impure. In summary, inferring from the result to the producer indicates its existence only, not its cause, like the occurrence of the world on the existence of the Maker, and like the existence of orderly writing on the knowledge of the writer, for we infer: we make writing a middle term and knowledge a major term, and we say: Everyone who writes in an orderly manner knows writing, and this person has written orderly, so he knows writing. Yet writing is not a cause of knowledge; rather, knowledge is more appropriate to be considered its cause. Likewise, if two results follow from one cause, it is permissible to infer from one result to the other, and this is a syllogism of indication. An example from our saying: Adultery does not necessitate kinship so it does not necessitate prohibition of marriage, for prohibition of marriage and permissibility of looking are concomitant, and they are two results of sexual intercourse which necessitates affinity. So if their concommitence by one cause is established, the existence of one indicates the existence of the other. But if their conditions differ, inference is not possible due to the possibility of their differing in condition. And just as syllogism of indication divides into two types, so too syllogism of cause divides into two sections: The first: that in which the middle term is a cause of the result but is not a cause of the existence of the major [term] in itself, as when we say: Every human is an animal, and every animal is a body, so every human is a body. So a human is only a body because he is animal, and corporeality belongs first to animal, then due to it to human. So the animal is a cause for the predication of body to human, not for the existence of corporeality, for corporeality takes precedence essentially in the order of species and genera over animal. Know that what is established for the species of the predication of genus upon it, and likewise the genus of genus, and likewise the differentiae, definitions, and accidents, are only from the direction of the genus, and the genus is a cause in its predication on the species, not in the existence of the subject itself, i.e., the subject of the conclusion. The second section: that which is a cause for the existence of the major term absolutely, not like this example; but it may not be absolute, like a thing that has multiple causes, for individual causes cannot be made a cause for the major term absolutely, but they are a cause in a specific time and specific place. An example in jurisprudence: Transgression is a cause for punishment absolutely, and adultery is a cause for stoning absolutely, whereas killing may be obligatory as retaliation or otherwise, but it may be a cause for killing in the case of a specific person, and that does not remove it from being a syllogism of cause.
+Source pages p. 121
+
+Commentary
+This passage defines and distinguishes two types of syllogism: qiyas al-illa (syllogism of cause) and qiyas al-dalala (syllogism of indication). The author begins by stating that if the middle term is a cause of the major term, jurists call it qiyas al-illa and logicians call it burhan limmi (demonstration of the 'why'), because it answers the question 'why?'. If the middle term is not a cause, jurists call it qiyas al-dalala and logicians call it burhan inni (demonstration of the 'that'), meaning it proves existence without explaining the cause. The author gives examples: from physics, 'This wood is burning because fire touched it' (qiyas al-illa) and its reverse 'This person is full, so he has recently eaten' (qiyas al-dalala). From jurisprudence: 'This substance is impure, therefore prayer is not valid with it' (qiyas al-illa), and its reverse 'Prayer is not valid with this substance, therefore it is impure' (qiyas al-dalala). The author then clarifies that inferring from result to producer indicates only existence, not cause, as in inferring the existence of a Maker from the world's occurrence, or inferring knowledge of writing from orderly writing; here writing is the middle term but it is not the cause of knowledge—knowledge is more fundamental. Next, the author explains that when two results are concomitant from a single cause, one can be inferred from the other as qiyas al-dalala, e.g., prohibition of marriage and permissibility of looking both follow from sexual intercourse causing affinity; but if their conditions differ, inference fails. Finally, both types have subtypes. Qiyas al-dalala has two types based on condition agreement. Qiyas al-illa also has two sections: (1) where the middle term is a cause of the predication (e.g., animal as cause for predicating body to human) but not a cause of the existence of the major in itself (corporeality exists in animal first); (2) where the middle term is a cause for the existence of the major absolutely, though sometimes restricted to a specific time/place, like transgression causing punishment absolutely, or killing causing retribution for a specific person. The passage ensures a nuanced understanding of causality in syllogisms, emphasizing that not every predication entails existential causation.
+
+Key Terms
+قياس العلة
+الحد الأوسط
+الحد الأكبر
+علة الحمل
+علة الوجود
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, in the first subtype of qiyas al-illa, the middle term is a cause of what?
+A) The existence of the major term
+B) The predication of the major term on the minor
+C) The existence of the minor term
+D) The truth of the conclusion
+
+Key Takeaway
+In qiyas al-illa, the middle term may be a cause of the logical connection rather than of the reality of the predicate.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which subtype of qiyas al-illa is used in: 'Every intoxicant is prohibited; wine is an intoxicant; so wine is prohibited.' Explain whether the middle term ('intoxicant') is a cause of predication or a cause of existence of prohibition.
+?
+Construct a syllogism using the second subtype of qiyas al-illa with an absolute cause from Islamic legal theory (e.g., 'Transgression causes punishment absolutely').
+
+Pages p. 121 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 127
+Module 7 · Lesson 103
+Next →
+The Syllogism
+intermediate
+8 min
+Distinguishing True Circular Demonstration from Apparent Causal Cycles
+Author resolves doubt that causal chains appear circular, clarifying true circularity requires numerical identity.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish true circular demonstration (same individual) from apparent circularity (same species but different individual) using the cloud/rain example and apply this to Islamic proofs.
+
+Core Idea
+True circular demonstration requires numerical identity, not just species similarity.
+
+A common doubt about circular demonstration arises from natural causal chains that seem to loop back on themselves. The author of this passage anticipates this doubt and clarifies that not every causal cycle is a logical fallacy. To benefit from this distinction, you need to grasp the key difference between identity in number (ayn) and identity in type (naw). This lesson will walk you through the doubt and its resolution.
+
+Guided Path
+1
+Identify the doubt about circularity
+Find the objection presented in the passage: a chain of causes and effects (cloud → vapor → moist earth → rain → cloud) appears to return to the starting point, suggesting circular reasoning.
+The doubt is that this looks like a circle, which would make demonstration invalid.
+2
+Locate the author's response
+The author rejects this as true circularity. He defines true circularity as using the same individual thing to explain itself (e.g., 'this cloud' because of 'this cloud').
+The Arabic phrase is 'bi-aynihi' – the very same in number.
+3
+Analyze the cloud example for numerical identity
+In the example, the final cloud is not the same individual as the first cloud. They are two different clouds, though of the same species. The first cloud causes rain, which moistens the earth, leading to evaporation and a new cloud.
+The cause and effect differ numerically (bi al-‘adad), even if they share the same nature (bi al-naw).
+4
+Apply the rule to other Islamic proofs
+Consider a theological argument that uses the Quran as evidence for the Quran's divine origin without external support. That would be circular because the same text is used to prove itself. In contrast, using one miracle to prove the prophethood of Muhammad and then using that prophethood to confirm another miracle is not circular if the miracles are different individuals.
+This distinction protects against invalid reasoning while allowing legitimate causal sequences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في حل شبهة في القياس الدوري فإن قال قائل : فلم قضيتم ببطلان البرهان الدوري؟ ومعلوم أنه إذا سأل الأسباب والمسببات على ما أجرى الله سنته بارتباط البعض منها بالبعض، ففيها ما يرجع بالدور إلى الأول إذ يقال : لم كان السحاب؟ فيقال : لأنه كان بخاراً فكثف وانعقد فقيل : لم كان البخار؟ فيقال: لأن الأرض كانت ندية فأثر الحرُّ فيها فتبخرت أجزاء الرطوبة وتصعدت. فقيل : ولم كانت الأرض ندية؟ فقيل : لأنه كان مطر . فقيل : ولم كان المطر؟ فقيل : لأنه كان سحاب. فرجع بالدور إلى السحاب، فكأنه قيل : لم كان السحاب؟ فقلت : لأنه كان سحاب. والدوري باطل سواء كان الحد المتكرّر تخلله واسطة أو وسائط، أو لم يتخلل فنقول : ليس هذا هو الدوري الباطل، إنما الباطل أن يؤخذ الشيء في بيان نفسه بعينه بأن يقال : لم كان هذا السحاب ؛ فيعلل بما يرجع بالآخرة إلى التعليل بهذا السحاب بعينه ؛ فأما أن يرجع إلى التعليل بسحاب آخر فالعلة غير المعلول بالعدد إلا أنه مساو له في النوع، ولا يبعد أن يكون سحاب بعينه علة لسحاب آخر بواسطة ترطيب الأرض، ثم تصعد البخار ثم انعقاده سحاباً آخر
+Section on resolving a doubt concerning circular syllogism. If someone says: Why do you judge that circular demonstration is invalid? Yet it is known that when one asks about causes and effects according to God's habit of linking some to others, among them there is that which returns circularly to the first. For it is said: Why was the cloud? It is said: Because it was vapor that condensed and coagulated. So it was said: Why was the vapor? It is said: Because the ground was moist, and heat affected it, so the parts of moisture evaporated and ascended. So it was said: And why was the ground moist? It is said: Because there was rain. So it was said: And why was the rain? It is said: Because there was cloud. Thus it returns circularly to the cloud, as if it were said: Why was the cloud? And you said: Because it was cloud. The circular is invalid whether the repeated term intervenes one or many intermediaries or does not intervene. We say: This is not the invalid circularity; rather, the invalid is when a thing is taken in clarifying itself exactly, as if it is said: Why was this cloud? and it is explained by that which ultimately returns to explaining by this very cloud. As for returning to an explanation by another cloud, the cause is numerically different from the effect, even though it is equal in species. And it is not unlikely that a specific cloud is a cause for another cloud by way of moistening the ground, then the vapor ascends, then it condenses into another cloud.
+Source pages p. 127
+
+Commentary
+This passage is a dialectical refutation of a doubt about circular demonstration. The author presents an objection: in natural causal chains, we often find what appears to be circular reasoning. For example, when asked why clouds exist, we say because of vapor; vapor because of moist earth; moist earth because of rain; rain because of clouds. This seems to circle back to the original cloudy, which would be invalid. The author responds by distinguishing true circularity from this example. True circular demonstration (al-burhān al-dawrī al-bāṭil) is when the same individual thing (bi-ʿaynihī) is used to explain itself. In the cloud example, the initial cloud is not the same individual as the final cloud; they are different clouds that share the same species. The cause (first cloud) is numerically different from the effect (second cloud), even though they are equal in species. The author explains that one cloud can be the cause of another through intermediate steps (moistening ground, evaporation, condensation). Therefore, the chain is not a true circle because the same item is not repeated; it is a linear chain of causes and effects where the type repeats, not the individual. This clarifies that circularity is only invalid when the same thing (in number) is used to prove itself.
+
+Key Terms
+البرهان الدوري
+العلة
+المعلول
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the cloud-rain example not a circular demonstration?
+A) Because the clouds are the same in number
+B) Because the cause is different in number though similar in type
+C) Because the argument is invalid in form
+D) Because the chain has more than two steps
+
+Key Takeaway
+True circular demonstration requires numerical identity (ayn), not just species similarity; causal chains with type repetition are valid.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument: 'The Quran is the word of Allah because it is miraculous in its eloquence. And the miracle of eloquence is proven by the Quran's inimitability.' Is this a true circular demonstration? Identify whether the same individual thing is used to prove itself. Explain using the cloud example.
+?
+In a debate about the existence of God, a mutakallim argues: 'The world is temporally originated; everything temporally originated has a cause; therefore the world has a cause, which is Allah.' Then someone objects: 'But you used the existence of the world to prove Allah, and then you use Allah to explain the world. Isn't that circular?' Respond to this objection using the distinction from this lesson.
+
+Pages p. 127 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 127
+Module 7 · Lesson 104
+Next →
+The Syllogism
+intermediate
+7 min
+Distinguishing Invalid Circularity from Valid Causal Cycles
+Author distinguishes between invalid circular proof and valid natural cycles.
+
+Learning Objective
+By the end of this lesson, you will be able to identify invalid circular demonstration (where the same individual is used as cause and effect) and distinguish it from natural cycles where causes and effects are different individuals of the same type.
+
+Core Idea
+Circular proof is only invalid when the exact same individual is used to explain itself.
+
+This passage addresses a common doubt: If natural cycles like the water cycle appear to go in circles, why is circular proof condemned? The author clarifies that the invalidity lies in the identity of the individual, not the repetition of the type. This distinction is crucial for evaluating causal arguments in Islamic sciences such as Kalam and Fiqh.
+
+Guided Path
+1
+Identify the doubt presented
+The objector points to a natural cycle: cloud → rain → moisture → vapor → cloud. Recognize that this appears circular. The objector argues that if circular demonstration is invalid, then this cycle must also be invalid, which is absurd.
+2
+Extract the author's distinction
+The author distinguishes between using the exact same individual as cause and effect (invalid) versus using a different individual of the same species (valid). In the natural cycle, the cause (cloud A) and effect (cloud B) are numerically different, even though they share the same nature (cloudness).
+Key phrase: 'العلة غير المعلول بالعدد' (the cause is numerically different from the effect).
+3
+Apply the distinction to the example
+Check if the causal chain involves the same individual. In the water cycle, each link involves a different particular: this specific cloud causes rain, which causes moisture on a specific patch of earth, which causes vapor, which condenses into another specific cloud. No single individual is both cause and effect of itself.
+4
+Test with an Islamic example
+Consider a theological argument: 'The world is originated because it changes; change requires an originator; therefore the world has an originator.' The cause (originator) is not the same individual as the world. This is valid. But if someone argued 'The world is caused by itself' (same individual), that would be invalid circularity.
+This distinction helps assess the validity of causal proofs in Kalam and Usul al-Fiqh.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن قال قائل : فلم قضيتم ببطلان البرهان الدوري؟ ومعلوم أنه إذا سأل الأسباب والمسببات على ما أجرى الله سنته بارتباط البعض منها بالبعض، ففيها ما يرجع بالدور إلى الأول إذ يقال : لم كان السحاب؟ فيقال : لأنه كان بخاراً فكثف وانعقد فقيل : لم كان البخار؟ فيقال: لأن الأرض كانت ندية فأثر الحرُّ فيها فتبخرت أجزاء الرطوبة وتصعدت. فقيل : ولم كانت الأرض ندية؟ فقيل : لأنه كان مطر . فقيل : ولم كان المطر؟ فقيل : لأنه كان سحاب. فرجع بالدور إلى السحاب، فكأنه قيل : لم كان السحاب؟ فقلت : لأنه كان سحاب. والدوري باطل سواء كان الحد المتكرّر تخلله واسطة أو وسائط، أو لم يتخلل فنقول : ليس هذا هو الدوري الباطل، إنما الباطل أن يؤخذ الشيء في بيان نفسه بعينه بأن يقال : لم كان هذا السحاب ؛ فيعلل بما يرجع بالآخرة إلى التعليل بهذا السحاب بعينه ؛ فأما إلى التعليل بسحاب آخر فالعلة غير المعلول بالعدد يرجع إلا أنه مساو له في النوع، ولا يبعد أن يكون سحاب بعينه علة لسحاب آخر بواسطة ترطيب الأرض، ثم تصعد البخار ثم انعقاده سحاباً آخر.
+If someone says: Why have you judged that circular demonstration is invalid? It is known that when one asks about causes and effects according to God's customary practice of linking some to others, there are those that return to the first by way of a circle. For it is said: Why was there cloud? It is said: Because there was vapor that condensed and formed. It is said: Why was there vapor? It is said: Because the earth was moist and heat affected it, so parts of moisture evaporated and rose. It is said: Why was the earth moist? It is said: Because there was rain. It is said: Why was there rain? It is said: Because there was cloud. So it returns in a circle to the cloud, as if it were said: Why was there cloud? And you said: Because there was cloud. And the circular is invalid whether the repeated term is separated by an intermediary or intermediaries, or not. We reply: This is not the invalid circular demonstration. The invalid one is when a thing is taken to explain itself, exactly, as in: Why was this cloud? And it is explained by what ultimately returns to explaining by this same cloud. As for explaining by another cloud, the cause is numerically different from the effect, though equal in species. And it is not far-fetched that a particular cloud be the cause of another cloud through the intermediary of moistening the earth, then the vapor rising, then its condensing into another cloud.
+Source pages p. 127
+
+Commentary
+This passage addresses a common doubt about circular proof. The objection presents a natural cycle: clouds cause rain, rain moistens earth, moisture evaporates to form vapor, vapor condenses to form clouds. This appears circular. The author clarifies that the invalid circle is when the exact same individual thing is used as both cause and effect in a demonstration. In the natural cycle, the cause and effect are different individuals of the same species (e.g., cloud A causes rain, which leads to cloud B). Thus, it is not a logical circle. The circle is only invalid if one says 'this cloud exists because of this cloud' without a change in individual. Therefore, such natural cycles do not invalidate the principle that circular demonstration is false.
+
+Key Terms
+برهان دوري (burhan dawri): A circular demonstration where the conclusion is used as a premise in its own proof, considered invalid when the same individual is involved.
+دور (dawr): Circle; logical circularity in reasoning.
+علة (illa): Cause; here used in the context of causal explanation.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, when is a circular demonstration invalid?
+A) When the cause and effect are of the same species.
+B) When the same individual thing is used to explain itself.
+C) Whenever there is a cycle of causes and effects.
+D) When intermediaries are absent.
+
+Key Takeaway
+A causal chain that returns to the same type is not necessarily circular; it is only invalid if the same individual is both cause and effect.
+
+How This Lesson Applies — to MY Life?
+?
+1. Consider the following causal sequence: 'The increase in rain is due to the increase in evaporation; the increase in evaporation is due to the increase in heat; the increase in heat is due to the increase in cloud cover.' Identify whether this is an invalid circular demonstration according to the author and explain why.
+?
+2. In a debate about divine attributes, a theologian argues: 'God's attribute of power is proven by the act of creation.' And then later: 'The act of creation is known by God's power.' Is this a valid or invalid circular proof? Use the author's distinction.
+
+Pages p. 127 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 131
+Module 7 · Lesson 105
+Next →
+The Syllogism
+intermediate
+5 min
+Fiqhi Terminology for the Four Causes
+Author explains how fuqaha rename the four causes
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fiqhi terms for the four causes (mahall, ahl, hukm, sigha) and map them to their logical counterparts.
+
+Core Idea
+Fuqaha rename the four causes to fit legal contexts—learn their language to analyze juristic reasoning.
+
+In logic, the four causes are matter, agent, form, and end. But when jurists analyze rulings, they use terms like mahall (locus), ahl (agent), hukm (ruling), and sigha (formula). This lesson unpacks that renaming using the example of marriage.
+
+Guided Path
+1
+Identify the four logical causes
+Recall the four causes from earlier: material (madda), efficient (fa'il), formal (sura), final (ghaya). Find them in the passage.
+The author lists them implicitly through the fiqhi terms.
+2
+Map each to its fiqhi counterpart
+The passage says: they call madda 'mahall', fa'il 'ahl', ghaya 'hukm'. The form corresponds to the contract formula (sigha). Write these mappings.
+The form is not given a new name but is associated with the contract formula.
+3
+Analyze the marriage example
+The husband is the agent (ahl), the private part is the locus (mahall), permissibility is the end (hukm), and the contract formula is the form (sigha). Check that all four are present.
+Without any one, marriage does not exist.
+4
+Understand the necessity of the final cause
+The final cause (hukm) must exist both as a rational motive before the act and as an actual result after. If a marriage yields no permissibility, it is null.
+This is why sales without ownership are invalid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وكذا في الأحكام الفقهية، والفقهاء ربما سمّوا المادة محلاً والفاعل الذي هو كالنجار والأب أهلاً، والغاية حكماً، فإذا فرض النكاح فالزوج أهل والبضع محلّ والحلّ غاية وصيغة العقد كأنها الصورة وما لم تجتمع هذه الأمور لا يتمّ للنكاح وجود، ولذلك قيل : النكاح الذي لا يفيد الحلّ لا وجود له، وكذا البيع الذي لا يفيد الملك. فإن وجود الغاية لا بد منه وكونها معقولاً باعثاً شرط قبل الوجود، وكونها موجودة بالفعل واجب بعد الوجود ومهما قدّر الفاعل والمادة موجود موجوداً لم يلزم وجود الشيء في كل حال كالنجار والخشب والأب والنطفة والبايع والمبيع، ومهما وجدت الصورة لزم وجود الشيء كصورة السرير وصورة الإنسانية، ومهما وجدت الغاية بالفعل لزم وجود الشيء كالحلّ في النكاح والصلوح للاكتنان والجلوس في البيت، والشيء بهذه الجهات الأربع يختلف في هذا المعنى. ثم كلّ هذه العلل إما بعيدة كإسلام المرأة للزوج عند ملك الزوج نصف الصداق، إنه علّة الصداق والصداق هو العلّة القريبة للتسليم، وإما بالقوة كالإسكار للخمر قبل الشرب، وإما الفعل كما في حال الشرب، وإما خاصة كالزنا للرجم، وإما عامة كالجناية للرجم أو العقوبة، وإما بالذات وهو المُسمّى علة عند الفقهاء كالزنا للرجم وإما بالعرض كالإحصان له وهو الذي يُسمّى شرطاً، فإن الرجم لا يجب إلا بالإحصان، وهي خصال كمال ولكن يعمل عمل العلة عنده، كما لو أرسلت الدعامة من تحت السقف فنزل فيقال نزوله بعلة الثقل، ولكن عند إشالة الدعامة فإن للهوي شرطاً، وهو فراغ جهة الأسفل عن جسم صلب لا ينخرق. وأمثلة هذا في المعقولات كثيرة ، فلذلك اقتصرنا على الأمثلة الفقهية، والمقصود أن المعلل في الفقه والمعقول إذا توجهت المطالبة عليه بالعلة، ينبغي أن يذكر العلة الخاصة القريبة التي بالفعل حتى تقطع المطالبة بلم، وإلا فيكون الطلب قائماً .
+Similarly in juristic rulings. The jurists sometimes call the material cause 'place' (mahall), the efficient cause which is like the carpenter and the father 'agent' (ahl), and the final cause 'ruling' (hukm). If one considers marriage, the husband is the agent, the sexual organ is the place, permissibility (hall) is the final cause, and the marriage contract formula is like the form. Unless these things come together, marriage does not exist. Hence it was said: 'Marriage that does not yield permissibility has no existence,' and likewise a sale that does not yield ownership. For the existence of the final cause is necessary; its being a rational motive is a condition before existence, and its being actually existent is obligatory after existence. Whenever the efficient cause and material cause are present as existent, the existence of the thing does not necessarily follow in every case, such as the carpenter and wood, the father and sperm, the seller and the sold item. Whenever the form exists, the existence of the thing follows, like the form of a bed and the form of humanity. Whenever the final cause exists actually, the existence of the thing follows, like permissibility in marriage and suitability for concealment and sitting in a house. A thing differs in this meaning by these four aspects. Then all these causes are either distant, like the woman's conversion to Islam for the husband when the husband owns half the dowry, for it is the cause of the dowry, and the dowry is the proximate cause for delivery; or potential, like intoxication in wine before drinking; or actual, as in the state of drinking; or specific, like adultery for stoning; or general, like criminality for stoning or punishment; or essential, which is called 'illa by the jurists, like adultery for stoning; or accidental, like ihsan (marital status) for stoning, which is called 'shart' (condition). For stoning is not obligatory except with ihsan, and these are virtues but they function like the cause in his view, just as if one removes the support from under the ceiling and it falls, it is said its fall is by the cause of weight, but upon removing the support, there is a condition for descent, namely the space below being free of a solid body that does not split. Examples of this in rational matters are many, so we limit ourselves to juristic examples. The point is that the person being asked for the cause in jurisprudence and rational matters, when demanded to give the cause, should mention the specific, proximate, actual cause in order to terminate the demand for 'why'; otherwise the demand remains.
+Source pages p. 131
+
+Commentary
+This passage continues the discussion of the four causes by examining how jurists (fuqaha) rename them in the context of fiqh rulings. The material cause is called 'mahall' (place/locus), the efficient cause is called 'ahl' (agent), the final cause is called 'hukm' (ruling), and the form corresponds to the contract formula (sigha). The author illustrates with marriage: husband (agent), private part (locus), permissibility (goal), and contract formula (form). The necessity of the final cause is emphasized: before existence, it is a rational motive (condition); after existence, it must be actual. Then the author lists various divisions of causes: distant vs. proximate, potential vs. actual, specific vs. general, essential vs. accidental. He notes that jurists call the essential cause simply 'illa' (e.g., adultery for stoning) and the accidental cause 'shart' (condition, e.g., ihsan for stoning). He uses the analogy of a falling ceiling: the weight is the cause, but the removal of support is a condition. The conclusion is that in any demand for explanation (bi-lim), one must provide the specific, proximate, actual cause to satisfy the inquiry; otherwise the question remains unanswered.
+
+Key Terms
+محل
+أهل
+حكم
+علة قريبة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what do jurists call the efficient cause in marriage?
+A) Mahall
+B) Ahl
+C) Hukm
+D) Sigha
+
+Key Takeaway
+Jurists rename the four causes—material becomes mahall, efficient becomes ahl, final becomes hukm—and the form is the contract formula.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the contract of sale: identify the agent (ahl), the locus (mahall), the form (sigha), and the final cause (hukm). Use fiqhi terminology as in the passage.
+
+Pages p. 131 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 131
+Module 7 · Lesson 106
+Next →
+The Syllogism
+intermediate
+5 min
+Classification of Causes in Fiqh and Logic
+Author classifies causes as close/distant, potential/actual, etc.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between distant/proximate, potential/actual, specific/general, and essential/accidental causes, and explain why only the specific, proximate, actual cause terminates a demand for explanation.
+
+Core Idea
+Not every cause satisfies a demand for 'why'—only the specific, proximate, actual cause does.
+
+The passage goes beyond naming the four causes to classify them in multiple ways: distant vs proximate, potential vs actual, specific vs general, essential vs accidental. This is crucial for answering 'why' questions in fiqh and theology.
+
+Guided Path
+1
+List the binary classifications
+Find each pair in the passage: ba'ida/qariba, bi'l-quwwa/bi'l-fi'l, khassa/'amma, bi'dh-dhat/bi'l-arad. Write them down.
+These are introduced after all the examples.
+2
+Define each pair with an example
+For each classify, pick the example from the passage: e.g., distant cause is the woman's Islam for the dowry; proximate is the dowry for delivery. Potential is intoxication in wine before drinking; actual is during drinking. Specific is adultery for stoning; general is criminality. Essential is adultery for stoning; accidental is ihsan (condition).
+The essential/accidental distinction is also called 'illa and shart.
+3
+Understand the 'illa vs shart distinction
+The passage notes that jurists call the essential cause simply 'illa and the accidental cause 'shart'. Example: adultery is the 'illa for stoning; ihsan (marital status) is a condition (shart). Both are necessary, but only the 'illa is properly the cause.
+The analogy of the ceiling fall: weight is the cause, removal of support is a condition.
+4
+Apply the rule for terminating a demand for 'why'
+When someone asks for the cause of a ruling, you must mention the cause that is specific, proximate, and actual. Otherwise the demand remains unsatisfied.
+This is the practical payoff of the classification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وكذا في الأحكام الفقهية، والفقهاء ربما سمّوا المادة محلاً والفاعل الذي هو كالنجار والأب أهلاً، والغاية حكماً، فإذا فرض النكاح فالزوج أهل والبضع محلّ والحلّ غاية وصيغة العقد كأنها الصورة وما لم تجتمع هذه الأمور لا يتمّ للنكاح وجود، ولذلك قيل : النكاح الذي لا يفيد الحلّ لا وجود له، وكذا البيع الذي لا يفيد الملك. فإن وجود الغاية لا بد منه وكونها معقولاً باعثاً شرط قبل الوجود، وكونها موجودة بالفعل واجب بعد الوجود ومهما قدّر الفاعل والمادة موجود موجوداً لم يلزم وجود الشيء في كل حال كالنجار والخشب والأب والنطفة والبايع والمبيع، ومهما وجدت الصورة لزم وجود الشيء كصورة السرير وصورة الإنسانية، ومهما وجدت الغاية بالفعل لزم وجود الشيء كالحلّ في النكاح والصلوح للاكتنان والجلوس في البيت، والشيء بهذه الجهات الأربع يختلف في هذا المعنى. ثم كلّ هذه العلل إما بعيدة كإسلام المرأة للزوج عند ملك الزوج نصف الصداق، إنه علّة الصداق والصداق هو العلّة القريبة للتسليم، وإما بالقوة كالإسكار للخمر قبل الشرب، وإما الفعل كما في حال الشرب، وإما خاصة كالزنا للرجم، وإما عامة كالجناية للرجم أو العقوبة، وإما بالذات وهو المُسمّى علة عند الفقهاء كالزنا للرجم وإما بالعرض كالإحصان له وهو الذي يُسمّى شرطاً، فإن الرجم لا يجب إلا بالإحصان، وهي خصال كمال ولكن يعمل عمل العلة عنده، كما لو أرسلت الدعامة من تحت السقف فنزل فيقال نزوله بعلة الثقل، ولكن عند إشالة الدعامة فإن للهوي شرطاً، وهو فراغ جهة الأسفل عن جسم صلب لا ينخرق. وأمثلة هذا في المعقولات كثيرة ، فلذلك اقتصرنا على الأمثلة الفقهية، والمقصود أن المعلل في الفقه والمعقول إذا توجهت المطالبة عليه بالعلة، ينبغي أن يذكر العلة الخاصة القريبة التي بالفعل حتى تقطع المطالبة بلم، وإلا فيكون الطلب قائماً .
+Similarly in juristic rulings. The jurists sometimes call the material cause 'place' (mahall), the efficient cause which is like the carpenter and the father 'agent' (ahl), and the final cause 'ruling' (hukm). If one considers marriage, the husband is the agent, the sexual organ is the place, permissibility (hall) is the final cause, and the marriage contract formula is like the form. Unless these things come together, marriage does not exist. Hence it was said: 'Marriage that does not yield permissibility has no existence,' and likewise a sale that does not yield ownership. For the existence of the final cause is necessary; its being a rational motive is a condition before existence, and its being actually existent is obligatory after existence. Whenever the efficient cause and material cause are present as existent, the existence of the thing does not necessarily follow in every case, such as the carpenter and wood, the father and sperm, the seller and the sold item. Whenever the form exists, the existence of the thing follows, like the form of a bed and the form of humanity. Whenever the final cause exists actually, the existence of the thing follows, like permissibility in marriage and suitability for concealment and sitting in a house. A thing differs in this meaning by these four aspects. Then all these causes are either distant, like the woman's conversion to Islam for the husband when the husband owns half the dowry, for it is the cause of the dowry, and the dowry is the proximate cause for delivery; or potential, like intoxication in wine before drinking; or actual, as in the state of drinking; or specific, like adultery for stoning; or general, like criminality for stoning or punishment; or essential, which is called 'illa by the jurists, like adultery for stoning; or accidental, like ihsan (marital status) for stoning, which is called 'shart' (condition). For stoning is not obligatory except with ihsan, and these are virtues but they function like the cause in his view, just as if one removes the support from under the ceiling and it falls, it is said its fall is by the cause of weight, but upon removing the support, there is a condition for descent, namely the space below being free of a solid body that does not split. Examples of this in rational matters are many, so we limit ourselves to juristic examples. The point is that the person being asked for the cause in jurisprudence and rational matters, when demanded to give the cause, should mention the specific, proximate, actual cause in order to terminate the demand for 'why'; otherwise the demand remains.
+Source pages p. 131
+
+Commentary
+This passage continues the discussion of the four causes by examining how jurists (fuqaha) rename them in the context of fiqh rulings. The material cause is called 'mahall' (place/locus), the efficient cause is called 'ahl' (agent), the final cause is called 'hukm' (ruling), and the form corresponds to the contract formula (sigha). The author illustrates with marriage: husband (agent), private part (locus), permissibility (goal), and contract formula (form). The necessity of the final cause is emphasized: before existence, it is a rational motive (condition); after existence, it must be actual. Then the author lists various divisions of causes: distant vs. proximate, potential vs. actual, specific vs. general, essential vs. accidental. He notes that jurists call the essential cause simply 'illa' (e.g., adultery for stoning) and the accidental cause 'shart' (condition, e.g., ihsan for stoning). He uses the analogy of a falling ceiling: the weight is the cause, but the removal of support is a condition. The conclusion is that in any demand for explanation (bi-lim), one must provide the specific, proximate, actual cause to satisfy the inquiry; otherwise the question remains unanswered.
+
+Key Terms
+علة قريبة
+بالعرض
+شرط
+علة بالذات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of cause terminates a demand for explanation (لم)?
+A) The distant cause
+B) The potential cause
+C) The general cause
+D) The specific, proximate, actual cause
+
+Key Takeaway
+To satisfy a 'why' question, you must give the cause that is specific, proximate, and actual—not vague or remote.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the obligation of zakat: the cause (illa) is possession of nisab (minimum wealth) for a full lunar year. Is the passage of time a condition (shart) or part of the cause? Classify it using the passage's framework.
+
+Pages p. 131 · The Syllogism
+← Prev
+Mark Done
+Next →

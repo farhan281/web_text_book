@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:52Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/radd_mantiqiyyin/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/deconstruction/29 - Radd Mantiqiyyin",
+  "output_bytes": 12534947,
+  "output_sha256": "d0f6b27bae1816623a3002e44de3fb1268dfc9a8e21808e1d2c1f1b282d567ec",
+  "checks": {
+    "catalog_expected_lessons": 1311,
+    "course_reported_lessons": 1311,
+    "index_lessons": 1311,
+    "full_lessons": 1311,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 1055,
+    "sources": 1055
+  }
+}

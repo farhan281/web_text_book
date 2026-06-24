@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:36Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/mantiq_kabir_2/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/high_philosophy/25 - Mantiq Kabir 2",
+  "output_bytes": 18912826,
+  "output_sha256": "c4417d0a23923d044723ddbcc4031cbb734689a049571ed34865c287a8b0ad0a",
+  "checks": {
+    "catalog_expected_lessons": 1956,
+    "course_reported_lessons": 1956,
+    "index_lessons": 1956,
+    "full_lessons": 1956,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 21,
+    "course_reported_modules": 21,
+    "modules": 21,
+    "course_reported_sources": 1386,
+    "sources": 1386
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:57:53Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Tuhfat%20al-Mureed%20ala%20Jawharat%20al-Tawhid/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/pedagogy/15 - Tuhfat al-Mureed ala Jawharat al-Tawhid",
+  "output_bytes": 12406006,
+  "output_sha256": "09145ec3f480cd220a9c7cf8e20b159f288c2ed69bdba25836997da13849e833",
+  "checks": {
+    "catalog_expected_lessons": 1576,
+    "course_reported_lessons": 1576,
+    "index_lessons": 1576,
+    "full_lessons": 1576,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 19,
+    "course_reported_modules": 19,
+    "modules": 19,
+    "course_reported_sources": 1205,
+    "sources": 1205
+  }
+}

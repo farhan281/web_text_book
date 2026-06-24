@@ -1,0 +1,1647 @@
+← Prev
+p. 184
+Module 9 · Lesson 51
+Next →
+Immediate Inference
+intermediate
+5 min
+Conversion of Affirmative Propositions to Particular Affirmatives
+Author states that all affirmative propositions convert to particular affirmatives
+
+Learning Objective
+By the end of this lesson, you will be able to convert any affirmative proposition into its correct converse according to Islamic logic.
+
+Core Idea
+All affirmatives become particular, never universal.
+
+In this passage, the author establishes a crucial rule for logical conversion: every affirmative proposition, regardless of its quantity (universal, particular, indefinite, individual), converts to a particular affirmative. This rule is essential for constructing valid arguments in Islamic theology and jurisprudence. Let's walk through the examples to see the pattern.
+
+Guided Path
+1
+Identify the original proposition's quality and quantity
+Determine whether the proposition is affirmative or negative, and whether it is universal (كلي), particular (جزئي), indefinite (مهمل), or individual (شخصي). The rule only applies to affirmatives.
+The original propositions in the examples are all affirmative.
+2
+Apply the conversion rule
+Swap the subject and predicate (for categoricals) or antecedent and consequent (for conditionals), and change the quantity to particular (جزئي). The quality remains affirmative.
+Exceptions: individual propositions with both terms individual convert as themselves, not to particular.
+3
+Verify the result
+Check that the converse is a particular affirmative. For universal affirmatives, the converse must be particular; for particular affirmatives, the converse remains particular.
+If the converse were universal, it could be false, e.g., 'Every human is an animal' does not imply 'Every animal is a human'.
+4
+Note the exception for individual propositions
+The author notes that an individual proposition with two individual terms (شخصية الحدين) converts as itself, not to particular. The examples given are individual with one individual term (Imam al-Shafi‘i), which still converts to particular.
+The exception was covered in the previous section.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+٢ - القضايا الموجبة كلها تنعكس إلى موجبات جزئية، سواء أكانت كلية أو جزئية أو مهملة أو مخصوصة (عدا شخصية الحدَّين).
+الأمثلة من الحمليات:
+موضوع محمول
+أ - الأصل: ك م: كل إنسان حيوان
+العكس: ج م: بعض الحيوان إنسان
+كلية موجبة انعكست
+جزئية موجبة ولا يصح
+عكسها كنفسها ك م لأنها
+عندئذ تختل فلا تنتج
+إنتاجاً صادقاً.
+ب - الأصل: ج م: بعض النبات مأكول
+العكس: ج م: بعض المأكول نبات
+انعكست كنفسها
+جزئية موجبة.
+ج - الأصل: مهملة م: الطائر هو حيوان
+العكس: ج م: بعض الحيوان هو طائر
+مهملة موجبة
+انعكست جزئية موجبة.
+د - الأصل: شخصية م: الإمام الشافعي فقيه مجتهد
+العكس: ج م: من الفقهاء الإمام
+المجتهدين الشافعي
+شخصية موجبة
+انعكست جزئية موجبة
+الأمثلة من الشرطيات المتصلة:
+مقدم تالي
+أ - الأصل: ك م: كلما اعتصم المسلمون بحبل الله تولاهم الله ونصرهم
+العكس: ج م: قد يكون إذا تولى الله المسلمين فقد اعتصموا بحبل
+ونصرهم الله
+ب - الأصل: ج م: قد يكون إذا حافظ المسلم على انتهى عن الفحشاء
+صلاته والمنكر
+2. All affirmative propositions convert to particular affirmatives, whether they are universal, particular, indefinite, or individual (except the individual with two terms). The examples from categorical (propositions): Subject Predicate (a) Original: universal affirmative: ‘Every human is an animal’ → Converse: particular affirmative: ‘Some animal is a human’. A universal affirmative converts to a particular affirmative; it is not correct to convert it as itself (universal affirmative) because then it would be invalid and would not produce truthful output. (b) Original: particular affirmative: ‘Some plant is edible’ → Converse: particular affirmative: ‘Some edible thing is a plant’. It converts to itself (particular affirmative). (c) Original: indefinite affirmative: ‘The bird is an animal’ → Converse: particular affirmative: ‘Some animal is a bird’. An indefinite affirmative converts to a particular affirmative. (d) Original: individual affirmative: ‘Imam al-Shafi‘i is a jurist-mujtahid’ → Converse: particular affirmative: ‘Among the jurist-mujtahids is Imam al-Shafi‘i’. An individual affirmative converts to a particular affirmative. Examples from connected conditionals: Antecedent Consequent (a) Original: universal affirmative: ‘Whenever the Muslims hold fast to the rope of God, God succours and aids them’ → Converse: particular affirmative: ‘It may be that if God succours the Muslims, then they have held fast to His rope and He aids them.’ (b) Original: particular affirmative: ‘It may be that if a Muslim preserves his prayer, he refrains from obscenity and evil.’
+Source pages p. 184
+
+Commentary
+This passage explains the conversion rule for all affirmative propositions. The author states that every affirmative proposition—whether universal (كلية), particular (جزئية), indefinite (مهملة), or individual (مخصوصة)—converts to a particular affirmative. The only exception is the individual proposition with both terms individual (شخصية الحدين), which was covered in the previous section and converts exactly as itself. The author provides examples from categorical propositions: a universal affirmative like 'Every human is an animal' converts to 'Some animal is a human' (a particular affirmative); it cannot remain universal, as that would be invalid. A particular affirmative like 'Some plant is edible' converts to itself (still particular affirmative). An indefinite affirmative like 'The bird is an animal' converts to 'Some animal is a bird' (particular affirmative). An individual affirmative like 'Imam al-Shafi‘i is a jurist-mujtahid' converts to 'Among the jurist-mujtahids is Imam al-Shafi‘i' (a particular affirmative). The same principle applies to connected conditionals: a universal conditional like 'Whenever the Muslims hold fast to the rope of God, God succours them' converts to a particular conditional: 'It may be that if God succours the Muslims, they have held fast to His rope' (i.e., the converse is not universal but particular). The author also notes that if one tries to convert a universal affirmative to another universal affirmative, the result may be false (e.g., 'Every human is an animal' does not imply 'Every animal is a human').
+
+Key Terms
+القضية الموجبة (al-qadiyat al-mūjaba): An affirmative proposition, i.e., one that affirms the predicate of the subject (or the consequent of the antecedent). [Note: No significant shift; stable term.]
+العكس إلى موجبة جزئية (al-‘aks ilā mūjaba juz’iyya): The conversion of an affirmative proposition into a particular affirmative (i.e., the converse is always a particular affirmative). [Note: In some texts, the conversion of particular affirmative is also particular; the rule here is general.]
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the converse of the universal affirmative proposition 'Every jurist is a scholar'?
+A) Every scholar is a jurist.
+B) Some scholar is a jurist.
+C) Every non-jurist is a non-scholar.
+D) Some jurist is a scholar.
+
+Key Takeaway
+Every affirmative proposition, regardless of its quantity, converts to a particular affirmative.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative proposition: 'Every scholar is a person of knowledge.' Write its correct converse in Arabic or English.
+?
+Identify which of the following conversions is valid according to this rule: (a) 'Some animal is a human' to 'Some human is an animal'; (b) 'Every human is an animal' to 'Some animal is a human'; (c) 'Every human is an animal' to 'Every animal is a human'.
+
+Pages p. 184 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 184
+Module 9 · Lesson 52
+Next →
+Immediate Inference
+beginner
+5 min
+Conversion of Affirmative Propositions to Particular Affirmatives
+Author states the rule for converting affirmative propositions and provides examples from categoricals and conditionals.
+
+Learning Objective
+By the end of this lesson, you will be able to convert any affirmative categorical or conditional proposition into its correct converse using the rule that all affirmatives become particular affirmatives.
+
+Core Idea
+All affirmative propositions convert only to particular affirmatives.
+
+This passage introduces the foundational rule for conversion in Islamic logic: swapping subject and predicate (or antecedent and consequent) while preserving quality yields a particular affirmative. This rule prevents the common error of converting 'All A are B' to 'All B are A'. We will examine the rule and its application to categorical and conditional propositions.
+
+Guided Path
+1
+Identify the original proposition
+Determine the proposition's type (categorical or conditional), its quantity (universal, particular, indefinite, singular), and its quality (affirmative). Ensure it is affirmative.
+The rule applies only to affirmative propositions.
+2
+Swap the terms
+For categoricals, exchange subject and predicate. For conditionals, exchange antecedent (muqaddam) and consequent (tali).
+This is the core of the conversion operation.
+3
+Change quantity to particular
+Regardless of the original quantity, the converse must be a particular affirmative. For universal affirmatives, this means 'Some B is A'. For conditionals, add 'possibly' (قد يكون) to indicate particularity.
+A universal affirmative cannot convert to universal affirmative; that would be invalid.
+4
+Preserve quality
+Keep the proposition affirmative. Conversion does not change the quality.
+Negative propositions have different rules.
+5
+Verify with examples
+Check the provided examples: universal, particular, indefinite, and singular categoricals all become particular affirmatives. Conditionals likewise become particular conditionals with 'قد يكون'.
+The singular with two singular terms is an exception.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فلا نجري أي شيء غير التبديل بين المقدم والتالي ونحافظ على الكيف إيجاباً كان أو سلباً. ٢ - القضايا الموجبة كلها تنعكس إلى موجبات جزئية، سواء أكانت كلية أو جزئية أو مهملة أو مخصوصة (عدا شخصية الحدَّين). الأمثلة من الحمليات: الموضوع المحمول أ - الأصل: ك م: كل إنسان حيوان العكس: ج م: بعض الحيوان إنسان كلية موجبة انعكست جزئية موجبة ولا يصح عكسها كنفسها ك م لأنها عندئذ تختل فلا تنتج إنتاجاً صادقاً. ب - الأصل: ج م: بعض النبات مأكول العكس: ج م: بعض المأكول نبات انعكست كنفسها جزئية موجبة. ج - الأصل: مهملة م: الطائر هو حيوان العكس: ج م: بعض الحيوان هو طائر مهملة موجبة انعكست جزئية موجبة. د - الأصل: شخصية م: الإمام الشافعي فقيه مجتهد العكس: ج م: من الفقهاء الإمام المجتهدين الشافعي شخصية موجبة انعكست جزئية موجبة. الأمثلة من الشرطيات المتصلة: المقدم التالي أ - الأصل: ك م: كلما اعتصم المسلمون بحبل الله تولاهم الله ونصرهم العكس: ج م: قد يكون إذا تولى الله المسلمين فقد اعتصموا بحبل الله ونصرهم. ب - الأصل: ج م: قد يكون إذا حافظ المسلم على صلاته انتهى عن الفحشاء والمنكر العكس: ج م: قد يكون إذا انتهى المسلم عن الفحشاء والمنكر فقد حافظ على صلاته. ج - الأصل: مهملة م: إذا أكل الجائع خبزاً شبع العكس: ج م: قد يكون إذا شبع الجائع فقد أكل خبزاً. د - الأصل: شخصية م: إذا جاءني سعيد إلى داري علمته العربية العكس: ج م: قد أكون إذا علمت سعيداً العربية فقد جاءني إلى داري.
+We do not perform anything other than swapping the antecedent and consequent and we preserve the quality, whether affirmative or negative. 2 - All affirmative propositions convert to particular affirmatives, whether they are universal, particular, indefinite, or qualified (except singular with two singular terms). Examples from categoricals: Subject Predicate a - Original: U.A.: Every human is an animal. Converse: P.A.: Some animal is human. A universal affirmative converts to a particular affirmative, and it is not correct to convert it as itself as universal affirmative because then it would become defective and would not produce a true result. b - Original: P.A.: Some plants are edible. Converse: P.A.: Some edible things are plants. It converted as itself, particular affirmative. c - Original: Indefinite A.: The bird is an animal. Converse: P.A.: Some animal is a bird. An indefinite affirmative converts to a particular affirmative. d - Original: Singular A.: Imam al-Shafi'i is a jurist mujtahid. Converse: P.A.: Among the jurist mujtahids is al-Shafi'i. A singular affirmative converts to a particular affirmative. Examples from conditional conjunctives: Antecedent Consequent a - Original: U.A.: Whenever Muslims hold fast to the rope of Allah, Allah helps and supports them. Converse: P.A.: Possibly, if Allah helps the Muslims, then they have held fast to the rope of Allah. b - Original: P.A.: Possibly, if a Muslim guards his prayer, he refrains from immorality and evil. Converse: P.A.: Possibly, if a Muslim refrains from immorality and evil, then he guards his prayer. c - Original: Indefinite A.: If a hungry person eats bread, he becomes full. Converse: P.A.: Possibly, if a hungry person becomes full, then he has eaten bread. d - Original: Singular A.: If Sa'id comes to my house, I teach him Arabic. Converse: P.A.: Possibly, if I teach Sa'id Arabic, then he has come to my house.
+Source pages p. 184
+
+Commentary
+This passage begins with a general statement about conversion: it is simply swapping the antecedent and consequent (or subject and predicate for categoricals) while preserving the quality (affirmative or negative). Then it presents rule 2: all affirmative propositions convert to particular affirmatives, regardless of their original quantity (universal, particular, indefinite, or qualified 'makhsusa'), except when both terms are singular (since singulars are individuals and conversion loses identity). The author then provides examples from categorical propositions. The first example: a universal affirmative 'Every human is an animal' converts to a particular affirmative 'Some animal is human.' The author notes that converting it as a universal affirmative would be invalid because it would be false (not every animal is human). The second example: a particular affirmative 'Some plants are edible' converts to itself (particular affirmative) 'Some edible things are plants.' The third example: an indefinite affirmative 'The bird is an animal' (treated as universal in quantity? here it converts to particular) converts to 'Some animal is a bird.' The fourth example: a singular affirmative 'Imam al-Shafi'i is a jurist mujtahid' converts to a particular affirmative 'Among the jurist mujtahids is al-Shafi'i.' After categoricals, the author gives examples from conditional conjunctive propositions (if-then). In each case, the conditional converts to a particular conditional with the antecedent and consequent swapped, introduced by 'maybe' (قد يكون) to indicate particularity. For instance, the universal conditional 'Whenever Muslims hold fast to the rope of Allah, Allah helps them' converts to 'Possibly, if Allah helps Muslims, they have held fast.' This shows that the rule applies analogously to conditionals.
+
+Key Terms
+عكس
+قضية موجبة
+كلية
+جزئية
+مهملة
+شخصية
+حمليات
+شرطيات متصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the valid converse of the universal affirmative categorical proposition 'Every human is an animal'?
+A) Some animal is human
+B) Every animal is human
+C) No animal is human
+D) Some human is not an animal
+
+Key Takeaway
+All affirmative propositions, whether categorical or conditional, convert only to particular affirmatives, preserving quality but changing quantity to particular.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative categorical proposition from fiqh: 'Every intoxicant is forbidden (khamr)' into its correct converse. Explain why it cannot be 'Every forbidden thing is an intoxicant'.
+?
+Convert the conditional proposition from Kalam: 'If the world is created (hadith), then it has a creator (muhdith).' Apply the rule to produce the valid converse.
+
+Pages p. 184 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 185
+Module 9 · Lesson 53
+Next →
+Immediate Inference
+beginner
+5 min
+Conversion of Universal Negatives to Universal Negatives
+Rule 3: conversion of universal negatives
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rule that universal negative propositions convert to universal negatives, including the special case of singular negatives with general predicates.
+
+Core Idea
+Universal negatives convert to universal negatives, preserving both quality and quantity.
+
+In immediate inference, conversion (aks) is the operation of swapping subject and predicate while preserving truth. A key rule is that universal negative propositions ('No A are B') convert to universal negatives ('No B are A'). This rule also covers singular negatives like 'Khalid is not a coward' which, after conversion, become universal negatives ('No coward is Khalid'). Understanding this rule allows you to derive logically equivalent propositions effortlessly.
+
+Guided Path
+1
+State the rule for universal negatives
+The author states: 'The universal negative converts like itself as a universal negative.' This means that when you swap subject and predicate, the result remains a universal negative proposition.
+2
+Examine the examples
+Look at three examples: (a) 'No Muslim denies the message of Muhammad' converts to 'No one who denies the message of Muhammad is a Muslim'. (b) 'No act of adultery is permissible' converts to 'No permissible thing is adultery'. (c) 'Khalid is not a coward' (singular negative) converts to 'No coward is Khalid' (universal negative).
+Examples (a) and (b) are standard universal negatives; (c) is a special singular case.
+3
+Understand the singular case
+A singular negative like 'Khalid is not a coward' cannot remain singular after conversion because the subject 'Khalid' becomes part of the predicate. The only natural result is a universal negative: 'No coward is Khalid'. This works only if the original predicate (here 'coward') is a general term, not a singular.
+If the predicate were also singular, conversion would not yield a universal negative; that case is excluded by the author.
+4
+Apply the rule yourself
+Take a universal negative from Islamic jurisprudence, e.g., 'No intoxicant is halal'. Convert it: 'No halal thing is an intoxicant'. Verify that the conversion is a valid universal negative.
+The truth is preserved: if the original is true, the converse is also true.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+٣ - السالبة الكلية تنعكس مثل نفسها سالبة كلية، وكذلك السالبة الشخصية التي لا يكون محمولها شخصياً أيضاً تنعكس سالبة كلية، مثل السالبة الكلية. أمثلة من الحمليات: الموضوع المحمول أ - الأصل: ك س: لا أحد من المسلمين يجحد رسالة محمد العكس: ك س: لا أحد ممن يجحد رسالة محمد هو من المسلمين. ب - الأصل: ك س: لا شيء من الزنى هو مباح العكس: ك س: لا شيء من المباح هو زنى. ج - الأصل: شخصية س: خالد ليس بجبان العكس: ك س: لا أحد من الجبناء هو خالد.
+3 - The universal negative converts like itself as a universal negative. Likewise, the singular negative whose predicate is not singular also converts to a universal negative, like the universal negative. Examples from categoricals: Subject Predicate a - Original: U.N.: None of the Muslims denies the message of Muhammad. Converse: U.N.: No one who denies the message of Muhammad is among the Muslims. b - Original: U.N.: No act of adultery is permissible. Converse: U.N.: No permissible thing is adultery. c - Original: Singular N.: Khalid is not a coward. Converse: U.N.: No one among the cowards is Khalid.
+Source pages p. 185
+
+Commentary
+This passage presents rule 3: the universal negative proposition ('saliba kulliyya') converts to a universal negative, preserving both the quality (negative) and the quantity (universal). The author also includes a special case: a singular negative proposition whose predicate is not itself singular (i.e., a general term) also converts to a universal negative. This is because converting a singular negative like 'Khalid is not a coward' cannot remain singular after conversion, since the subject 'Khalid' becomes part of the predicate in the converse; the only natural result is a universal negative: 'No coward is Khalid.' The author provides three examples from categoricals. The first is a universal negative 'None of the Muslims denies the message of Muhammad' converting to 'No one who denies the message of Muhammad is among the Muslims.' The second is 'No act of adultery is permissible' converting to 'No permissible thing is adultery.' The third example is a singular negative 'Khalid is not a coward' converting to the universal negative 'No one among the cowards is Khalid.' This demonstrates that the conversion of a universal negative does not change its quantity, and singular negatives with non-singular predicates follow the same universal pattern.
+
+Key Terms
+سالبة كلية
+سالبة شخصية
+عكس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the converse of the universal negative 'No Muslim is a disbeliever'?
+A) Some disbeliever is Muslim.
+B) No disbeliever is Muslim.
+C) Some Muslim is not a disbeliever.
+D) Every disbeliever is Muslim.
+
+Key Takeaway
+Universal negative propositions convert to universal negatives, preserving both quantity and quality; singular negatives with general predicates follow the same rule.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal negative proposition from Islamic theology: 'No temporally originated thing exists without a cause.' Write its converse and explain why it remains universal negative.
+?
+Consider the singular negative 'Zayd is not a disbeliever.' Assuming the predicate 'disbeliever' is general, convert it to a universal negative. Is the conversion valid? Why?
+
+Pages p. 185 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 185
+Module 9 · Lesson 54
+Next →
+Immediate Inference
+intermediate
+15 min
+Rules of Conversion (al-'Aks) for Categorical and Conditional Propositions
+Author explains conversion rules with examples and states why particular negatives cannot be converted.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of conversion to universal negative and particular negative propositions in categorical and conditional forms, and identify which conversions are valid.
+
+Core Idea
+Universal negatives convert cleanly; particular negatives cannot be converted at all.
+
+Conversion (al-'aks) is a type of immediate inference where the subject and predicate of a proposition are swapped. This lesson examines the rules for converting universal and particular negatives in both categorical and conditional propositions. Understanding these rules prevents logical errors when interpreting Islamic legal and theological statements.
+
+Guided Path
+1
+Understand conversion as immediate inference
+Conversion swaps the subject and predicate of a proposition. The key condition is preserving truth value. Read the author's definition and examples to grasp the operation.
+2
+Identify the type of proposition
+Look at the quality (affirmative/negative) and quantity (universal/particular). The passage provides examples: universal negative (e.g., 'No Muslim denies the message'), singular negative (e.g., 'Khalid is not a coward'), particular negative (e.g., 'Some animal is not human'). Note the abbreviations: ك س for universal negative, ج س for particular negative.
+Abbreviations are standard in Arabic logic.
+3
+Apply conversion rule for universal negatives
+The author states: the universal negative converts to itself as universal negative. Check the examples: 'No Muslim denies the message' becomes 'None who deny the message are Muslims' – both are universal negatives and true if original is true.
+Similarly for conditional universal negatives.
+4
+Test conversion for particular negatives
+The author demonstrates that converting a particular negative (e.g., 'Some animal is not human') to either a particular negative or a universal negative produces a false statement. Therefore, conversion is invalid.
+The example shows the original true but the converted false, violating truth preservation.
+5
+Understand why conversion fails for particular negatives
+The condition of conversion includes preserving quality. Converting a negative to affirmative would change quality, so it's not allowed. Moreover, attempts within the same quality fail because the truth value changes. The author mentions that logicians attribute this to one of three reasons (though not detailed here).
+The three reasons are typically: change in quantity, change in truth conditions, etc.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مقدم تالي
+العكس: ج م: قد يكون إذا انتهى المسلم فقد حافظ على صلاته
+عن الفحشاء والمنكر
+ج - الأصل: مهملة م: إذا أكل الجائع خبزاً شبع
+العكس: ج م: قد يكون إذا شبع الجائع فقد أكل خبزاً
+د - الأصل: شخصية م: إذا جاءني سعيد إلى داري علمته العربية
+العكس: ج م: قد أكون إذا علمت سعيداً العربية فقد جاءني إلى داري
+٣ - السالبة الكلية تنعكس مثل نفسها سالبة كلية، وكذلك السالبة الشخصية التي لا يكون محمولها شخصياً أيضاً تنعكس سالبة كلية، مثل السالبة الكلية.
+أمثلة من الحمليات:
+الموضوع المحمول
+أ - الأصل: ك س: لا أحد من المسلمين يجحد رسالة محمد
+العكس: ك س: لا أحد ممن يجحد رسالة هو من المسلمين محمد
+ب - الأصل: ك س: لا شيء من الزنى هو مباح
+العكس: ك س: لا شيء من المباح هو زنى
+ج - الأصل: شخصية س: خالد ليس بجبان
+العكس: ك س: لا أحد من الجبناء هو خالد
+أمثلة من الشرطيات المتصلة:
+المقدم التالي
+أ - الأصل: ك س: ليس البتة إذا كان الإنسان خطيباً كان أبكم
+العكس: ك س: ليس البتة إذا كان الإنسان أبكم كان خطيباً
+ب - الأصل: ك س: ليس البتة إذا كانت الآلهة متعددة فنظام الكون مستمر
+العكس: ك س: ليس البتة إذا كان نظام الكون مستمراً فالآلهة متعددة
+ج - الأصل شخصية س: ليس البتة لو كان أسامة جباناً لكان قائداً منتصراً
+العكس: ك س: ليس البتة لو كان القادة منتصرين لكانوا جبناء
+٤ - السالبة الجزئية (ومثلها السالبة المهملة) لا تقبل عكساً صحيحاً على أية صورة من الصور. ولنمتحن ذلك بالتطبيق.
+فلو عكسنا جزئية سالبة إلى مثلها أو إلى كلية سالبة لما أنتج عكساً صحيحاً كما في المثال التالي:
+الأصل: ج س: بعض الحيوان ليس بإنسان / صادقة
+العكس: ج س: بعض الإنسان ليس بحيوان / كاذبة
+أو: ك س: لا شيء من الإنسان بحيوان / كاذبة
+وهكذا فليس أي من العكسين صحيحاً لاختلال الصدق في كليهما على خلاف القضية التي هي الأصل.
+أما عكسها إلى موجبة جزئية فهو غير وارد أصلاً لأن شرط العكس المحافظة على الكيف.
+ضوابط العكس
+بحث المناطقة في سبب عدم صحة بعض العكوس فرأوا أنه يرجع إلى أحد ثلاثة أمور:
+Consequent antecedent
+Conversion: particular affirmative: It may be that if the Muslim finishes his prayer, he has preserved it from immorality and wrongdoing.
+J - original: particular indeterminate: If a hungry person eats bread, he becomes full.
+Conversion: particular affirmative: It may be that if a person becomes full, he has eaten bread.
+D - original: singular affirmative: If Sa'id comes to my house, I teach him Arabic.
+Conversion: particular affirmative: It may be that if I teach Sa'id Arabic, he has come to my house.
+3 - The universal negative converts to itself as universal negative, and likewise the singular negative whose predicate is not singular also converts to universal negative, like the universal negative.
+Examples from categoricals:
+Subject Predicate
+A - original: universal negative: No Muslim denies Muhammad's message.
+Conversion: universal negative: None who deny the message are of the Muslims, Muhammad.
+B - original: universal negative: Nothing of zina is permissible.
+Conversion: universal negative: Nothing of the permissible is zina.
+C - original: singular negative: Khalid is not a coward.
+Conversion: universal negative: No one among cowards is Khalid.
+Examples from conditionals (conjunctives):
+Antecedent Consequent
+A - original: universal negative: Not at all if a man is an orator then he is dumb.
+Conversion: universal negative: Not at all if a man is dumb then he is an orator.
+B - original: universal negative: Not at all if the gods are multiple then the order of the universe is continuous.
+Conversion: universal negative: Not at all if the order of the universe is continuous then the gods are multiple.
+C - original: singular negative: Not at all if Usama is a coward then he is a victorious leader.
+Conversion: universal negative: Not at all if the leaders are victorious then they are cowards.
+4 - The particular negative (and likewise the indeterminate negative) does not accept a valid conversion in any form. And let us test that by application.
+For if we convert a particular negative to its like or to a universal negative, it would not produce a valid conversion, as in the following example:
+Original: particular negative: Some animal is not human / true.
+Conversion: particular negative: Some human is not animal / false.
+Or: universal negative: No human is animal / false.
+And thus neither of the two conversions is correct due to the truth being violated in both, contrary to the original proposition.
+As for converting it to a particular affirmative, it is not even considered because the condition of conversion is preserving the quality.
+Rules of conversion
+Logicians investigated the cause of the incorrectness of some conversions and saw that it is due to one of three things:
+Source pages p. 185
+
+Commentary
+This passage explains the rules of conversion (al-'aks) for categorical and conditional propositions. The author first defines conversion as the operation where the subject and predicate change places while preserving truth. The text lists examples for each type: particular affirmative (ج م), indefinite affirmative, singular affirmative, then universal negative (ك س), singular negative. For universal negatives, conversion yields a universal negative (e.g., 'No Muslim denies the message' converts to 'None who deny the message are Muslims'). For particular negatives (including indeterminate), the author states they cannot be validly converted at all. To demonstrate, an example is given: 'Some animal is not human' (true) converts to 'Some human is not animal' (false) or to 'No human is animal' (false), both false. Therefore, conversion fails. The author notes that converting to a particular affirmative is impossible because the quality (negative) must be preserved. Finally, the passage introduces the topic of the causes of invalid conversions, which the logicians attributed to three factors, though the text cuts off before listing them. All examples are taken from Islamic contexts: prayer, zina (fornication), prophecy, etc., adhering to the Islamic sciences.
+
+Key Terms
+العكس
+السالبة الكلية
+السالبة الجزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+Why can a particular negative proposition not be validly converted?
+A) Because its subject is particular and cannot become universal.
+B) Because the conversion would change the quantity from particular to universal.
+C) Because converting it to a particular negative or universal negative yields falsehood, as shown by the example 'Some animal is not human'.
+D) Because the quality must be preserved and negatives can only convert to negatives.
+
+Key Takeaway
+Universal negatives convert to universal negatives; particular negatives cannot be converted at all.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Convert the proposition 'No intoxicant is permissible' (a universal negative from fiqh) to its valid converted form. Explain why the result is also a universal negative and remains true.
+?
+Task 2: Attempt to convert the proposition 'Some inherited properties are not obligatory' (a particular negative from fiqh). Show that both conversion to a particular negative and to a universal negative produce falsehoods, and explain why conversion to an affirmative is not allowed.
+
+Pages p. 185 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 186
+Module 9 · Lesson 55
+Next →
+Immediate Inference
+intermediate
+8 min
+Conversion of Universal Negative Conditionals and the Invalidity of Particular Negative Conversion
+Author gives examples of converting universal negative conditionals and demonstrates that particular negatives do not convert.
+
+Learning Objective
+By the end of this lesson, you will be able to convert universal negative conditional propositions correctly and determine whether a particular negative proposition has a valid converse.
+
+Core Idea
+Universal negatives convert; particular negatives do not.
+
+This lesson examines the rule of conversion ('aks) as applied to conditional propositions. The author provides clear examples showing that universal negative conditionals can be converted while preserving truth and quality. In contrast, particular negatives fail to yield a true converse under any form. Understanding this distinction is crucial for correctly performing immediate inferences in logical analysis.
+
+Guided Path
+1
+Identify the type of conditional proposition
+Determine whether it is universal (kulliyya) or particular (juziyya) and whether it is negative (saliba) or affirmative (mujiba). This sets the conversion rules.
+2
+For universal negatives, perform the conversion
+Swap the antecedent and consequent, keeping the quantity universal and quality negative. Verify truth preservation by checking if the converse is logically true given the original.
+3
+Test the conversion of particular negatives
+Attempt to convert a particular negative by swapping terms while preserving quality and quantity. Check if the resulting proposition is true; the passage shows it is false.
+4
+Generalize the rule
+Universal negatives convert validly; particular negatives do not convert validly. Also note that quality must be preserved, so conversion to affirmative is invalid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أمثلة من الشرطيات المتصلة :
+المقدم التالي
+أ - الأصل : ك س : ليس البتة إذا كان الإنسان خطيباً كان أبكم
+العكس : ك س : ليس البتة إذا كان الإنسان أبكم كان خطيباً
+ب - الأصل : ك س : ليس البتة إذا كانت الآلهة متعددة فنظام الكون مستمر
+العكس : ك س : ليس البتة إذا كان نظام الكون مستمراً فالآلهة متعددة
+ج - الأصل شخصية س : ليس البتة لو كان أسامة جباناً لكان قائداً منتصراً
+العكس : ك س : ليس البتة لو كان القادة منتصرين لكانوا جبناء
+٤ - السالبة الجزئية (ومثلها السالبة المهملة) لا تقبل عكساً صحيحاً على أية صورة من الصور. ولنمتحن ذلك بالتطبيق .
+فلو عكسنا جزئية سالبة إلى مثلها أو إلى كلية سالبة لما أنتج عكساً صحيحاً كما في المثال التالي :
+الأصل : ج س : بعض الحيوان ليس بإنسان / صادقة
+العكس : ج س : بعض الإنسان ليس بحيوان / كاذبة
+أو : ك س : لا شيء من الإنسان بحيوان / كاذبة
+وهكذا فليس أي من العكسين صحيحاً لاختلال الصدق في كليهما على خلاف القضية التي هي الأصل .
+أما عكسها إلى موجبة جزئية فهو غير وارد أصلاً لأن شرط العكس المحافظة على الكيف .
+Examples from connected conditionals:
+Premise - Consequent
+A - Original: Universal negative: Not at all if a person is a speaker then he is mute.
+Converse: Universal negative: Not at all if a person is mute then he is a speaker.
+B - Original: Universal negative: Not at all if the gods are many then the order of the universe is continuous.
+Converse: Universal negative: Not at all if the order of the universe is continuous then the gods are many.
+C - Original: Personal negative: Not at all if Usama is a coward then he is a victorious leader.
+Converse: Universal negative: Not at all if the leaders are victorious then they are cowards.
+4 - The particular negative (and likewise the indefinite negative) does not admit a valid converse in any form. Let us test it by application.
+For if we convert a particular negative to its like or to a universal negative, it would not produce a valid converse, as in the following example:
+Original: Particular negative: Some animal is not human / true
+Converse: Particular negative: Some human is not animal / false
+Or: Universal negative: Nothing of human is animal / false
+Thus neither converse is true because truth fails in both contrary to the original proposition.
+As for converting it to a particular affirmative, it is not even considered because the condition of conversion is preservation of quality.
+Source pages p. 186
+
+Commentary
+This passage demonstrates the conversion ('aks) of universal negative conditional (shartiyya muttasila) propositions and proves that particular negative and indefinite negative propositions do not have a valid converse. The author first provides three examples of converting universal negative conditionals: (a) 'If a person is a speaker, then he is mute' converts to 'If a person is mute, then he is a speaker' – both universal negatives. (b) 'If the gods are many, then the order of the universe is continuous' converts to 'If the order is continuous, then the gods are many'. (c) A personal negative 'If Usama is a coward, then he is a victorious leader' converts to a universal negative 'If leaders are victorious, then they are cowards'. In each case, the quality (negative) and quantity (universal) are preserved. Then the author states a crucial rule: particular negative (and indefinite negative) propositions cannot be converted validly in any form. He tests this with an example: 'Some animal is not human' is true, but its converse as a particular negative 'Some human is not animal' is false, and as a universal negative 'No human is animal' is also false. Neither converse preserves truth. Converting to a particular affirmative is invalid because it changes the quality (from negative to affirmative), violating a condition of conversion. This illustrates the principle that conversion must preserve truth and quality.
+
+Key Terms
+العكس
+ك س
+ج س
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the result of converting a particular negative proposition like 'Some animal is not human'?
+A) It converts to a true particular negative 'Some human is not animal'.
+B) It converts to a true universal negative 'No human is animal'.
+C) It has no valid converse that preserves truth.
+D) It converts to a true particular affirmative 'Some human is animal'.
+
+Key Takeaway
+Universal negatives convert preserving truth; particular negatives have no valid converse.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal negative conditional proposition: 'Not at all if an act is obligatory then it is forbidden.' Does it convert validly? If so, state the converse.
+?
+Test whether the particular negative proposition 'Some human is not a prophet' can be converted to any true proposition. Explain why or why not using the rule from this lesson.
+
+Pages p. 186 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 186
+Module 9 · Lesson 56
+Next →
+Immediate Inference
+intermediate
+5 min
+Three Reasons and Three Conditions for Valid Conversion
+Author explains the three causes of invalid conversion and the three conditions for valid conversion.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three conditions for valid conversion and apply them to check whether a given conversion is valid.
+
+Core Idea
+Valid conversion preserves quality, avoids new distribution, and excludes disjunctive conditionals.
+
+The logicians noticed that some conversions fail. They traced the failures to three causes and derived three conditions to ensure correctness. Mastering these conditions lets you evaluate any conversion quickly, a key skill in logical analysis.
+
+Guided Path
+1
+Identify the three causes of invalid conversion
+List the three reasons (asbab) given: change in quality, new distribution of a term, and the proposition being a disjunctive conditional.
+2
+Derive the three conditions from the causes
+For each cause, the corresponding condition removes the cause: same quality, no new distribution, and not a disjunctive conditional.
+The conditions are the opposites of the causes.
+3
+Apply the conditions to a test conversion
+Take an example conversion and check each condition. If all are satisfied, the conversion is valid; otherwise it is invalid.
+Use a real Islamic logic example, such as 'Every human is mortal' to 'Some mortal is human'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ضوابط العكس
+بحث المناطقة في سبب عدم صحة بعض العكوس فرأوا أنه يرجع إلى أحد ثلاثة أمور :
+الأمر الأول: اختلاف الكيف (السلب أو الإيجاب) في القضية الأصل وفي عكسها.
+الأمر الثاني: استغراق حدّ في القضية الجديدة التي هي (العكس) لم يكن مستغرقاً في الأصل.
+الأمر الثالث: كون العكس في شرطية منفصلة.
+لذلك وضعوا في ضابط العكس ثلاثة شروط:
+الشرط الأول: اتحاد الكيف في القضيتين الأصل وعكسها.
+الشرط الثاني: عدم استغراق حدّ في القضية (العكس) لم يكن مستغرقاً في الأصل.
+الشرط الثالث: أن لا تكون القضية شرطية منفصلة.
+وتتبعوا التزام هذه الشروط فانتهوا إلى النهايات التي أوضحناها في أحكام العكس.
+Rules of Conversion
+The logicians investigated the reason for the invalidity of some conversions and found that it goes back to one of three matters:
+The first matter: Difference in quality (negation or affirmation) between the original proposition and its converse.
+The second matter: Distribution of a term in the new proposition which is the converse that was not distributed in the original.
+The third matter: The converse being in a disjunctive conditional.
+Therefore they laid down in the rule of conversion three conditions:
+The first condition: Unity of quality in the two propositions, the original and its converse.
+The second condition: Not distributing a term in the proposition (the converse) that was not distributed in the original.
+The third condition: That the proposition not be a disjunctive conditional.
+And they examined the fulfillment of these conditions and arrived at the conclusions that we have clarified in the rules of conversion.
+Source pages p. 186
+
+Commentary
+This passage explains the theoretical underpinnings of valid conversion ('aks). The author states that logicians identified three causes (asbab) why some conversions are invalid: (1) Change in quality (salb/ijab) between original and converse; (2) A term becomes distributed in the converse that was not distributed in the original (e.g., converting a particular affirmative yields a universal affirmative incorrectly); (3) The proposition is a disjunctive conditional (shartiyya munfasila), which does not admit a simple converse because of its structure. Based on these causes, three corresponding conditions (shurut) are set for valid conversion: (1) The quality must remain the same (preserving affirmation or negation); (2) No term that was undistributed in the original becomes distributed in the converse; (3) The proposition must not be a disjunctive conditional. These conditions are applied systematically to produce the specific rules summarized later. This passage thus moves from observed causes to normative conditions, a typical method in Islamic logic.
+
+Key Terms
+الكيف
+الاستغراق
+شرطية منفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is NOT a condition for valid conversion according to the passage?
+A) Quality must be the same in original and converse.
+B) The proposition must not be a disjunctive conditional.
+C) The converse must have the same quantity as the original.
+D) No term may become distributed in the converse that was not distributed in the original.
+
+Key Takeaway
+For a conversion to be valid, the quality must remain the same, no term may become newly distributed, and the proposition must not be a disjunctive conditional.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Take a proposition from Islamic law: 'Some contracts are void.' Convert it and check each condition. Is the converse valid?
+?
+Task 2: Given the invalid conversion: 'Every intoxicant is forbidden' converted to 'Every forbidden thing is an intoxicant', identify which condition is violated.
+
+Pages p. 186 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 187
+Module 9 · Lesson 57
+Next →
+Immediate Inference
+beginner
+10 min
+Five Rules of Propositional Conversion
+Author summarizes five rules for conversion of categorical and conditional propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to state and apply the five rules of conversion (عكس) for categorical and conditional propositions using Islamic science examples.
+
+Core Idea
+Conversion preserves truth only under specific quantity and quality conditions.
+
+The rules of conversion (عكس) are essential for immediate inference in logic. This summary crystalizes when a proposition can be inverted without losing truth. We will walk through each rule and see how it applies to propositions from Islamic sciences.
+
+Guided Path
+1
+Identify the proposition type
+Determine if the proposition is universal, particular, personal, affirmative, negative, or conditional, and note its form (categorical or disjunctive).
+Refer to the categories listed in rules 1-5.
+2
+Locate the corresponding rule
+Find which of the five rules covers that proposition type. For example, a universal affirmative falls under rule 2.
+Rules are numbered in the passage.
+3
+Apply the conversion rule
+Based on the rule, produce the converse by swapping subject and predicate (or antecedent and consequent for conditionals) while adjusting quantity and quality as specified.
+Rule 2: all affirmatives become particular affirmatives. Rule 3: universal negatives remain universal negatives.
+4
+Verify the converse
+Check that the converse matches the rule's description: same quantity and quality as stated, or note if no valid conversion exists (rules 4-5).
+For disjunctives (rule 5), no valid converse exists.
+5
+Test with Islamic examples
+Apply the rules to real propositions from kalam or fiqh, e.g., 'Every intoxicant is forbidden' converts to 'Some forbidden thing is intoxicant'.
+Ensure examples are from Islamic sciences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+خلاصة أحكام العكس في القضايا:
+١ - القضية الشخصية التي يكون محمولها (في الحملية) أو تاليها (في الشرطية) شخصياً أيضاً تنعكس مثل نفسها تماماً كمّاً وكيفاً، أي تنعكس شخصية موجبة إن كانت موجبة وسالبة إن كانت سالبة.
+٢ - القضايا الموجبة كلها تنعكس إلى موجبات جزئية، سواء أكانت كلية أو جزئية أو مهملة أو شخصية (عدا شخصية الحدّين).
+٣ - السالبة الكلية تنعكس مثل نفسها سالبة كلية، وكذلك السالبة الشخصية التي لا يكون محمولها شخصياً أيضاً تنعكس سالبة كلية.
+٤ - السالبة الجزئية (ومثلها السالبة المهملة) لا تقبل عكساً صحيحاً على أية صورة من الصور.
+٥ - لا يجري عكس صحيح في القضايا الشرطية المنفصلة.
+Summary of the rules of conversion for propositions:
+1 - The personal proposition whose predicate (in categorical) or consequent (in conditional) is also personal converts exactly like itself in quantity and quality, i.e., it converts to a personal affirmative if it was affirmative, and a personal negative if it was negative.
+2 - All affirmative propositions convert to particular affirmatives, whether they are universal, particular, indefinite, or personal (except personal with both terms personal).
+3 - The universal negative converts like itself as a universal negative, and likewise the personal negative whose predicate is not also personal converts as a universal negative.
+4 - The particular negative (and likewise the indefinite negative) does not admit a valid converse in any form.
+5 - No valid conversion occurs in disjunctive conditional propositions.
+Source pages p. 187
+
+Commentary
+This passage provides a concise five-point summary (khulasah) of the rules for conversion ('aks) for all types of propositions. The author lists: (1) Personal propositions where both terms (subject and predicate, or antecedent and consequent) are personal convert identically in quality and quantity – a personal affirmative stays personal affirmative, a personal negative stays personal negative. (2) All affirmative propositions – universal, particular, indefinite, or personal (except those with both terms personal, which are covered by rule 1) – convert to particular affirmatives. For example, 'Every human is mortal' (universal affirmative) converts to 'Some mortal is human' (particular affirmative). (3) Universal negatives convert to universal negatives – e.g., 'No human is stone' converts to 'No stone is human'. Similarly, personal negatives with a non-personal predicate become universal negatives. (4) Particular negatives (and indefinite negatives) have no valid converse, as previously explained. (5) Disjunctive conditionals (e.g., 'Either it is day or night') cannot be converted validly because their truth conditions are not preserved by simple swapping of disjuncts. This summary is a useful mnemonic for applying conversion rules.
+
+Key Terms
+القضية الشخصية
+السالبة الكلية
+القضايا الموجبة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the summary, what is the correct conversion of a universal affirmative proposition like 'Every human is mortal'?
+A) Every mortal is human
+B) Some mortal is human
+C) Some human is mortal
+D) No mortal is human
+
+Key Takeaway
+Conversion is a valid immediate inference when quantity and quality are correctly transformed according to these five rules.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'Every intoxicant is forbidden' (from fiqh), apply rule 2 to state its valid converse.
+?
+Given the proposition 'No human is stone', apply rule 3 to find its converse and verify it is universal negative.
+
+Pages p. 187 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 187
+Module 9 · Lesson 58
+Next →
+Immediate Inference
+beginner
+5 min
+Three Conditions for Valid Conversion
+Author lists three pitfalls and three conditions for valid conversion
+
+Learning Objective
+By the end of this lesson, you will be able to apply the three conditions to determine whether a given logical conversion is valid.
+
+Core Idea
+Conversion preserves truth only if quality stays the same, no term becomes newly distributed, and the proposition is not disjunctive.
+
+This passage lays out the three essential conditions for a valid conversion. These are the rules that guarantee the converse is logically equivalent to the original proposition. The author first identifies three pitfalls, then gives the three conditions to avoid them.
+
+Guided Path
+1
+Identify the original proposition
+Read the proposition to be converted. Note its quality (affirmative or negative) and the distribution of its subject and predicate terms.
+Distribution means the term refers to all individuals in its domain.
+2
+Check condition #1: Quality must match
+Verify that the quality (affirmative/negative) of the converse is exactly the same as the original. A change in quality invalidates the conversion.
+E.g., 'No intoxicant is halal' is negative; its converse 'No halal is an intoxicant' is also negative – valid.
+3
+Check condition #2: No new distribution
+Ensure that no term becomes distributed in the converse that was undistributed in the original. For universal affirmatives, the predicate is undistributed, so it cannot become subject in a universal converse.
+E.g., converting 'Every intoxicant is haram' to 'All haram is intoxicant' would distribute 'haram' – invalid.
+4
+Check condition #3: Not a disjunctive conditional
+If the original proposition is a disjunctive conditional (e.g., 'Either A or B'), conversion is not permitted. This type of proposition does not yield a valid converse.
+Disjunctive conditionals have a different logical structure that does not admit simple subject-predicate swapping.
+5
+Apply all three to a sample conversion
+Test a conversion from an Islamic science example: 'Every intoxicant is haram'. The valid converse is 'Some haram is an intoxicant'. Check: quality same (affirmative), no new distribution ('haram' remains undistributed), and it is not disjunctive – all conditions satisfied.
+This step consolidates the checklist.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الأمر الأول: اختلاف الكيف (السلب أو الإيجاب) في القضية الأصل وفي عكسها.
+الأمر الثاني: استغراق حدّ في القضية الجديدة التي هي (العكس) لم يكن مستغرقاً في الأصل.
+الأمر الثالث: كون العكس في شرطية منفصلة.
+لذلك وضعوا في ضابط العكس ثلاثة شروط:
+الشرط الأول: اتحاد الكيف في القضيتين الأصل وعكسها.
+الشرط الثاني: عدم استغراق حدّ في القضية (العكس) لم يكن مستغرقاً في الأصل.
+الشرط الثالث: أن لا تكون القضية شرطية منفصلة.
+وتتبعوا التزام هذه الشروط فانتهوا إلى النهايات التي أوضحناها في أحكام العكس.
+First matter: difference of quality (negation or affirmation) between the original proposition and its converse. Second matter: distribution of a term in the new proposition which is the converse that was not distributed in the original. Third matter: that the converse be a disjunctive conditional. Therefore they established for the rule of conversion three conditions: First condition: unity of quality in the two propositions, the original and its converse. Second condition: that no term be distributed in the converse that was not distributed in the original. Third condition: that the proposition not be a disjunctive conditional. And they adhered to these conditions and concluded with the rulings we have explained in the judgments of conversion.
+Source pages p. 187
+
+Commentary
+This passage sets out the three conditions necessary for a valid conversion (ʿaks) of a proposition. The author first identifies three matters that could go wrong: change of quality between original and converse, introducing a distributed term that was not distributed, or converting a disjunctive conditional. To avoid these errors, three corresponding conditions are given: (1) The quality (affirmative/negative) must remain the same; (2) No term may become distributed in the converse that was not distributed in the original; (3) The proposition must not be a disjunctive conditional (since such conditionals do not admit of valid conversion). These conditions are foundational for all conversion rules that follow. For example, in a universal affirmative like 'Every intoxicant is haram', conversion to 'Some haram is intoxicant' preserves quality and distribution (the predicate 'haram' is undistributed in the original and remains undistributed in the converse). The author notes that these conditions were thoroughly observed to produce the complete rulings on conversion.
+
+Key Terms
+عكس
+كيف
+استغراق
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following would violate the condition that the converse must not distribute a term that was undistributed in the original?
+A) Converting 'All intoxicants are haram' to 'Some haram is an intoxicant'.
+B) Converting 'No intoxicant is halal' to 'No halal is an intoxicant'.
+C) Converting 'Some intoxicant is not haram' to 'Some haram is not an intoxicant'.
+D) Converting 'Every intoxicant is haram' to 'All haram is intoxicant'.
+
+Key Takeaway
+The three conditions for valid conversion are quality constancy, no new distribution, and prohibition of disjunctive conditionals.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'No gharar contract is valid' (universal negative), what is its valid converse? Check the three conditions step by step.
+?
+Which condition is violated in the invalid conversion: 'Every najis substance is impure' → 'All impure substances are najis'? Explain.
+
+Pages p. 187 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 187
+Module 9 · Lesson 59
+Next →
+Immediate Inference
+intermediate
+5 min
+Conversion Rulings for Propositions
+Author enumerates five specific rulings for converting different proposition types.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the five conversion rulings to any categorical or conditional proposition and determine its valid converse.
+
+Core Idea
+Conversion is not symmetric: affirmative and negative propositions behave differently, and particular negatives never convert.
+
+This passage compiles all the conversion rules into a single reference. You will learn exactly which propositions can be converted and into what form. Mastering this summary is essential for manipulating propositions in syllogistic reasoning and for validating immediate inferences in Islamic sciences.
+
+Guided Path
+1
+Identify proposition type
+Determine whether the proposition is categorical or conditional, affirmative or negative, universal, particular, singular, or indefinite. Also note if it is a singular with singular predicate/consequent (shakhṣiyya al-ḥaddayn).
+For conditionals, distinguish conjunctive (muttaṣila) from disjunctive (munfaṣila).
+2
+Check for the special singular case
+If the proposition is singular and both subject and predicate (in categorical) or antecedent and consequent (in conditional) are singular, it converts identically in quantity and quality.
+Example: 'Zayd is the author' converts to 'The author is Zayd'.
+3
+Apply the affirmative rule
+If the proposition is affirmative (A, I, or indefinite affirmative, and singular outside the special case), it converts to a particular affirmative (I).
+This includes universal affirmatives: 'Every S is P' becomes 'Some P is S'.
+4
+Apply the universal negative rule
+If the proposition is a universal negative (E) or a singular negative without a singular predicate, it converts to a universal negative (E): 'No S is P' becomes 'No P is S'.
+5
+Identify non-convertible types
+Particular negatives (O) and indefinite negatives, as well as disjunctive conditionals, have no valid conversion. Any attempt to convert them yields a statement that is not logically entailed.
+Example: 'Some S is not P' does not imply 'Some P is not S'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+خلاصة أحكام العكس في القضايا:
+١ - القضية الشخصية التي يكون محمولها (في الحملية) أو تاليها (في الشرطية) شخصياً أيضاً تنعكس مثل نفسها تماماً كمّاً وكيفاً، أي تنعكس شخصية موجبة إن كانت موجبة وسالبة إن كانت سالبة.
+٢ - القضايا الموجبة كلها تنعكس إلى موجبات جزئية، سواء أكانت كلية أو جزئية أو مهملة أو شخصية (عدا شخصية الحدّين).
+٣ - السالبة الكلية تنعكس مثل نفسها سالبة كلية، وكذلك السالبة الشخصية التي لا يكون محمولها شخصياً أيضاً تنعكس سالبة كلية.
+٤ - السالبة الجزئية (ومثلها السالبة المهملة) لا تقبل عكساً صحيحاً على أية صورة من الصور.
+٥ - لا يجري عكس صحيح في القضايا الشرطية المنفصلة.
+شكل توضيحي
+القضية تنعكس إلى
+شخصية الحديث ← مثل نفسها
+السالبة الكلية ← سالبة كلية
+السالبة الشخصية ←
+(عدا شخصية الحديث)
+الموجبات كلها ← موجبات جزئية
+(عدا شخصية الحديث)
+السالبة الجزئية قاصرة لا تنعكس عكساً صحيحاً (ومثلها السالبة المهملة).
+الشرطيات المنفصلة قاصرة لا تنعكس عكساً صحيحاً (ومثلها السالبة المهملة).
+Summary of the rulings of conversion for propositions:
+1 - The singular proposition whose predicate (in categorical) or consequent (in conditional) is also singular converts exactly like itself in quantity and quality, i.e., it converts as singular affirmative if affirmative, and negative if negative.
+2 - All affirmative propositions convert to particular affirmatives, whether universal, particular, indefinite, or singular (except singular of two terms).
+3 - The universal negative converts like itself as universal negative, and likewise the singular negative whose predicate is not also singular converts as universal negative.
+4 - The particular negative (and likewise the indefinite negative) does not accept a valid conversion in any form.
+5 - No valid conversion occurs in disjunctive conditional propositions.
+Explanatory diagram
+The proposition converts to
+Singular of two terms → like itself
+Universal negative → universal negative
+Singular negative → (except singular of two terms)
+All affirmatives → particular affirmatives (except singular of two terms)
+Particular negative is deficient, does not convert validly (and likewise indefinite negative).
+Disjunctive conditionals are deficient, do not convert validly (and likewise indefinite negative).
+Source pages p. 187
+
+Commentary
+This passage presents the complete set of rulings for converting propositions, followed by a diagrammatic summary. The author lists five main points: (1) Singular propositions with singular predicates/consequents convert identically. (2) All affirmatives (A, I, and indefinite) convert to particular affirmatives (I) — except the special singular case. (3) Universal negatives (E) convert to universal negatives (E), and singular negatives with singular predicates also become universal negatives. (4) Particular negatives (O) do not convert validly at all; similarly, indefinite negatives are excluded. (5) Disjunctive conditionals have no valid conversion. The diagram recaps these rules visually. For instance, 'Every intoxicant is haram' (A) converts to 'Some haram is intoxicant' (I), while 'No intoxicant is halal' (E) becomes 'No halal is intoxicant' (E). But 'Some intoxicant is not haram' (O) has no valid converse. These rules are essential for immediate inference and for manipulating propositions in syllogisms.
+
+Key Terms
+قضية شخصية
+قضية مهملة
+سالبة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the rulings, what is the valid converse of the proposition: 'No khamr (wine) is halal'?
+A) Some halal is not khamr.
+B) No halal is khamr.
+C) Some khamr is halal.
+D) All halal is khamr.
+
+Key Takeaway
+The conversion of a proposition depends on its quantity, quality, and type; particular negatives and disjunctive conditionals are the only types that never convert.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of the proposition 'Some animals are not rational' (O) and state whether it has a valid converse according to the rulings.
+?
+Convert the proposition 'Every Muslim is obligated to pray' (A) and explain the result in terms of quantity and quality.
+
+Pages p. 187 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 188
+Module 9 · Lesson 60
+Next →
+Immediate Inference
+beginner
+5 min
+Three Reasons Why Conversion Matters in Islamic Logic
+Author explains three reasons why knowledge of conversion is necessary.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the three uses of conversion in logical reasoning as presented in this passage.
+
+Core Idea
+Conversion is not a trick—it is a practical tool for solving problems in inference and syllogism.
+
+This passage from our coursebook explains why mastering conversion (al-'aks) is essential for the logician. The author presents three distinct scenarios where knowing the converse of a proposition is not just useful but necessary. Understanding these reasons will help you see conversion as a practical skill, not a theoretical curiosity.
+
+Guided Path
+1
+Identify the first reason – Direct inference
+The author says conversion is needed for 'direct inference' (istidlāl mubāshir). This means that from a single proposition, you can immediately derive another proposition without any middle term. For example, from 'No intoxicant is halal' you can directly infer 'No halal is intoxicant'. That's conversion.
+Direct inference is immediate, not mediated by a third term.
+2
+Understand the second reason – Clarifying syllogisms
+Some syllogisms, especially those outside the first figure, rely on conversion to reveal their validity. For instance, a second-figure syllogism like 'No intoxicant is halal; every khamr is intoxicant; therefore no khamr is halal' is actually valid only after converting the major premise. Why? Because without conversion, the middle term is not in the right position for the first figure.
+The author alludes to this by saying 'some syllogisms have their mode of production clarified by conversion'.
+3
+Grasp the third reason – When the syllogism's conclusion is not exactly what we need
+Sometimes we prove a proposition, but our desired conclusion (maṭlūb) is the converse of that proposition. For example, we might prove that 'No intoxicant is halal', but we need to prove that 'No halal is intoxicant'. Conversion gives us that. So we use the converse to establish our maṭlūb.
+This shows conversion as a bridge between what is proven and what is needed.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحاجة إلى معرفة العكس:
+قد تمس حاجة الباحث الناظر إلى معرفة عكس القضية، وما يقتضيه هذا العكس، للاستدلال المباشر، ولأن بعض الأقيسة يظهر وجه إنتاجها بالعكس، ولأنه قد ينتج القياس شيئاً ومطلوبنا عكسه، فنستدل من العكس على إثبات المطلوب.
+The need for knowing conversion:
+The need of the examining researcher may arise for knowing the converse of a proposition and what this converse entails, for direct inference, and because some syllogisms have their mode of production clarified by conversion, and because a syllogism may produce something while our desired conclusion is its converse, so we infer from the converse to establish the desired conclusion.
+Source pages p. 188
+
+Commentary
+This passage justifies the study of conversion by highlighting three practical benefits. First, conversion is a tool for direct inference: from a given proposition we immediately derive another. Second, in some syllogisms, the validity or the arrangement of terms becomes clear only after converting one of the premises. For example, in a second-figure syllogism, conversion may be needed to reduce it to the first figure. Third, sometimes the conclusion we seek is actually the converse of what a syllogism directly yields; we can then use the converse to obtain the desired proposition. Thus mastering conversion is essential for the logician. The author uses terms like 'direct inference' (istidlāl mubāshir) and 'production' (intāj) of syllogisms, showing conversion's role in both simple and complex reasoning.
+
+Key Terms
+استدلال مباشر
+إنتاج
+مطلوب
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following best illustrates the third reason for needing conversion (when a syllogism produces something whose converse is our desired conclusion)?
+A) Converting 'Every intoxicant is haram' to 'Some haram is intoxicant'.
+B) Having a proof that 'Some intoxicant is haram' but wanting to show 'Every intoxicant is haram'.
+C) Having a proof that 'No intoxicant is halal' and converting to 'No halal is intoxicant' to prove that something halal cannot be intoxicant.
+D) Reducing a second-figure syllogism to first figure by conversion.
+
+Key Takeaway
+Conversion serves three practical roles: as a direct inference, as a clarifier for syllogisms, and as a means to obtain a desired conclusion from a syllogism's output.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a valid syllogism in Islamic law that proves a universal negative, then convert it to show the desired conclusion is the converse. Use the example of nabidh (a type of legal intoxicant) and the ruling of prohibition.
+?
+Identify which of the three reasons in this passage is being used when a dialectician, after proving that 'No intoxicant is halal', immediately deduces 'No halal is intoxicant'.
+
+Pages p. 188 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 188
+Module 9 · Lesson 61
+Next →
+Immediate Inference
+beginner
+5 min
+Conversion Rules for Categorical Propositions
+Lists conversion rules for categorical propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the conversion rules to correctly transform categorical propositions into their converses.
+
+Core Idea
+Conversion swaps subject and predicate but changes quantity for affirmatives.
+
+Conversion (al-'aks) is an immediate inference that yields a new proposition by swapping the subject and predicate. The result depends on the type of proposition. These rules are essential for deriving new knowledge from given statements, such as when a mufti uses a known ruling to infer a related ruling. Let's learn the rules systematically.
+
+Guided Path
+1
+Identify the type of original proposition
+Determine whether it is singular (present-time or not), universal affirmative, universal negative, particular affirmative, particular negative, or indeterminate.
+2
+Apply the conversion rule for singular present-time
+If the proposition is a singular about the present (e.g., 'Zaid is standing'), it converts to itself (same quality and quantity).
+This is an exception.
+3
+Apply the conversion rule for universal negative
+A universal negative (e.g., 'No intoxicant is halal') converts to a universal negative ('No halal thing is an intoxicant').
+Quality and quantity preserved.
+4
+Apply the conversion rule for all affirmatives
+Any affirmative (universal, particular, singular except present-time) converts to a particular affirmative. For example, 'Every intoxicant is haram' becomes 'Some haram things are intoxicants'.
+Quantity changes to particular.
+5
+Recognize deficient propositions
+Particular negatives, indeterminate negatives, and disjunctive conditionals are 'deficient' (qasira) and do not convert correctly.
+They are not used in standard immediate inference.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شكل توضيحي
+القضية تنعكس إلى
+شخصية الحديث ← مثل نفسها
+السالبة الكلية ← سالبة كلية
+السالبة الشخصية ←
+(عدا شخصية الحديث)
+الموجبات كلها ← موجبات جزئية
+(عدا شخصية الحديث)
+السالبة الجزئية قاصرة لا تنعكس عكساً صحيحاً (ومثلها السالبة المهملة).
+الشرطيات المنفصلة قاصرة لا تنعكس عكساً صحيحاً (ومثلها السالبة المهملة).
+Illustrative diagram: The proposition converts to: Singular of the present ← like itself. Universal negative ← universal negative. Singular negative ← (except singular of the present). All affirmatives ← particular affirmatives (except singular of the present). The particular negative is deficient and does not convert correctly (and similarly the indeterminate negative). Disjunctive conditionals are deficient and do not convert correctly (and similarly the indeterminate negative).
+Source pages p. 188
+
+Commentary
+This passage enumerates the rules of conversion (al-'aks) for categorical propositions. Conversion is an immediate inference where the subject and predicate are swapped. The diagram lists the conversion results for different types of propositions. The singular proposition about present time (shakhsiya hadith) remains the same when converted. A universal negative converts to a universal negative, preserving both quantity and quality. For singular negatives (except the present-time singular), the rule is not fully stated. All affirmative propositions (universal, particular, singular except present) convert to particular affirmatives. The particular negative and indeterminate negative are 'deficient' in that they do not yield a true converse in the standard sense. Disjunctive conditionals also do not convert correctly. These rules are foundational for direct inference and are used to derive new propositions from given ones.
+
+Key Terms
+عكس
+قضية شخصية الحديث
+سالبة كلية
+قاصرة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the rules, what does a universal affirmative proposition convert to?
+A) Universal affirmative
+B) Universal negative
+C) Particular affirmative
+D) Particular negative
+
+Key Takeaway
+Conversion preserves truth for universal negatives and all affirmatives (as particular), but fails for particular negatives and disjunctive conditionals.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'No alcoholic drink is permissible in salah' (universal negative) and write its correct converse. Then take the proposition 'Every form of riba is forbidden' (universal affirmative) and write its converse. Check your answers against the rules.
+?
+Why is the particular negative 'Some drinks are not intoxicants' considered deficient? Explain in terms of what its converse would falsely claim.
+
+Pages p. 188 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 327
+Module 9 · Lesson 62
+Next →
+Immediate Inference
+beginner
+5 min
+Circularity: Definition and Logical Impossibility
+Author defines circularity, gives two forms and examples, proving its impossibility by reason.
+
+Learning Objective
+By the end of this lesson, you will be able to identify circularity (al-dawr) in a causal argument and explain why it is logically impossible.
+
+Core Idea
+Circularity makes a thing depend on itself — it would need to exist before it exists.
+
+The author declares circularity (al-dawr) an intellectual impossibility. He defines it as self-dependence, with or without an intermediary, and gives two vivid examples to expose the contradiction. By understanding this, you will spot circular reasoning in Islamic legal and theological arguments — a key skill for rigorous debate.
+
+Guided Path
+1
+Grasp the definition of al-dawr
+Notice that the author defines circularity as 'the dependence of a thing upon itself' either directly or through an intermediary. This is the core idea: a thing is both cause and effect of itself.
+2
+Analyze the direct circularity example (universe)
+The claim 'the universe came into existence by itself' forces the universe to be both cause (existent) and effect (non-existent) at the same time — an obvious contradiction. Check how the author uses the principle that cause must precede effect.
+The contradiction violates the law of non-contradiction, which is foundational in Islamic logic.
+3
+Analyze the indirect circularity example (chicken-egg)
+Here the circularity goes through an intermediary: the first chicken depends on the first egg, and the first egg depends on the first chicken. This creates a loop where each requires the other first, leading to the absurdity that the chicken must exist before itself.
+Indirect circularity is trickier to spot but equally invalid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+من المستحيلات العقلية الدور والتسلسل. الدور: هو توقف الشيء على نفسه، أي: أن يكون هو نفسه علّة لنفسه، بواسطة أو بدون واسطة. والدور مستحيل بالبداهة العقلية. أمثلة: أ - الكون وجد بنفسه من العدم المطلق. في هذا الكلام دور مرفوض عقلاً، إذ يقتضي أن يكون الكون علّة لنفسه، وأن يكون معلولاً لها بآنٍ واحد، والعلّة تقتضي سبق المعلول، وبما أن العلة بحسب الدعوى هي المعلول نَفْسُه، فإن هذا الكلام يقتضي أن يكون وجود الشيء سابقاً على وجوده نفسه، وفي هذا تناقض ظاهر، وهو أن الكون بوصفه علةً هو موجود، وبوصفه معلولاً هو غير موجود، مع أنه شيء واحد لا شيئان، فهو إذن بحسب الدعوى (موجود غير موجود) في آن واحد. والتناقض مستحيل مرفوض بالبداهة العقلية. ب ـ أول دجاجة يتوقف وجودها على أول بيضة، وأول بيضة يتوقف وجودها على أول دجاجة. هذا كلام مرفوض بالبداهة العقلية، لما فيه من الدور المستحيل عقلاً، إذ يقتضي أن العلة في وجود الدجاجة الأولى هي البيضة الأولى، وأن العلة في وجود البيضة الأولى هي الدجاجة الأولى التي هي معلول للبيضة الأولى، فلا توجد ما لم توجد. إذن: فالدجاجة الأولى لا توجد إلا إذا وجدت هي فأنتجت بيضة ففقست البيضة عنها. لقد دار الشيء على نفسه بواسطة، وانتهى إلى تناقض ظاهر مرفوض، لزم منه إثبات أن يكون الشيء الواحد موجوداً قبل أن يكون موجوداً، ليوجد شيئاً آخر، يكون هذا الشيء الآخر علة في وجود ما كان هو سبباً في وجوده. وظاهر أن هذا الدور ينتهي إلى أن تكون الدجاجة علة في وجود
+From the intellectual impossibilities: circularity and infinite regress. Circularity: it is the dependence of a thing upon itself, i.e., that it itself is a cause of itself, with or without an intermediary. And circularity is impossible by intellectual intuition. Examples: A - The universe came into existence by itself from absolute nothingness. In this statement there is a circularity rejected by reason, for it requires that the universe be a cause of itself, and that it be an effect of it at one and the same time, while the cause requires priority over the effect. And since the cause according to the claim is the very effect, this statement requires that the existence of a thing precede its own existence, and in this is an apparent contradiction, namely that the universe as a cause is existent, and as an effect is non-existent, while it is one thing not two. So it is, according to the claim, (existent non-existent) at one time. And contradiction is impossible, rejected by intellectual intuition. B - The existence of the first chicken depends on the first egg, and the existence of the first egg depends on the first chicken. This statement is rejected by intellectual intuition, because of the circularity that is intellectually impossible, for it requires that the cause of the existence of the first chicken be the first egg, and that the cause of the existence of the first egg be the first chicken which is an effect of the first egg, so it does not exist unless it exists. Therefore: the first chicken does not exist unless it itself exists, then it produces an egg, and the egg hatches into it. The thing has gone in a circle upon itself by means of an intermediary, and has ended in an apparent rejected contradiction, necessitating the proof that one and the same thing exists before it exists, in order to bring into existence something else, that this other thing be a cause in the existence of that which was a cause in its existence. And it is apparent that this circularity ends with the chicken being a cause in the existence of
+Source pages p. 327
+
+Commentary
+This passage defines and refutes the concept of circularity (al-dawr) as one of the intellectual impossibilities, alongside infinite regress. The author begins by stating that from the intellectual impossibilities are circularity and infinite regress. Circularity is defined as the dependence of a thing upon itself, meaning that it is a cause of itself either directly or through an intermediary. The author asserts that circularity is impossible by intellectual intuition (badahah 'aqliyyah). To illustrate, two examples are given. The first example is the claim that the universe came into existence by itself from absolute nothingness. The author explains that this entails a logical contradiction: the universe would have to be both cause and effect of itself simultaneously. A cause must be prior to its effect, but here the same thing is claimed to be both cause and effect, requiring it to exist before its own existence. This results in the absurdity that the universe is both existent (as cause) and non-existent (as effect) at the same time, which is an obvious contradiction. The second example is the chicken-and-egg paradox: the first chicken depends on the first egg, and the first egg depends on the first chicken. This creates a circular dependency where each is the cause of the other. The author points out that this leads to the conclusion that the first chicken cannot exist unless it already exists, which is a clear absurdity. The passage thus establishes that circular reasoning is invalid and intellectually untenable, as it violates the principle of non-contradiction.
+
+Key Terms
+الدور
+التسلسل
+علة
+معلول
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the chicken-egg example considered an instance of circularity (al-dawr)?
+A) Because it involves an infinite regress of causes.
+B) Because the existence of each depends on the other in a closed loop.
+C) Because it violates the principle of causality.
+D) Because it assumes the chicken came first.
+
+Key Takeaway
+Circularity is an intellectual impossibility because it requires a thing to be its own cause, leading to a logical contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following argument contains circularity (dawr): 'The Quran is true because it is the word of God, and we know it is the word of God because it is true.' Explain why.
+?
+Construct a valid non-circular causal chain for the existence of the universe according to kalam: The universe is temporally originated, so it must have a creator (not self-caused). Any circularity would invalidate the proof.
+
+Pages p. 327 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 358
+Module 9 · Lesson 63
+Next →
+Immediate Inference
+beginner
+5 min
+Two-way Entailment (Talazum min al-Tarafayn)
+Defines two-way entailment with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify two-way entailment relations and test whether a given pair of propositions are mutually entailing.
+
+Core Idea
+Two-way entailment: each implies the other; denial of one denies the other.
+
+In Islamic logic, entailment (talazum) is a fundamental relation. This lesson introduces two-way entailment, where two propositions or entities are such that each necessarily follows from the other. This concept appears in discussions of correlatives (mutadayfat) and in immediate inferences. Understanding this helps in constructing sound arguments and avoiding fallacies in Islamic jurisprudence and theology.
+
+Guided Path
+1
+Identify the two items
+Find the two entities or propositions said to entail each other. In the passage, examples include daytime and sunrise, and fatherhood and sonship.
+2
+Check forward implication
+Verify that the existence of the first item implies the existence of the second. For example, existence of daytime implies sunrise.
+3
+Check reverse implication
+Verify that the existence of the second item implies the existence of the first. For daytime and sunrise, both directions hold, making it two-way.
+4
+Check non-existence implications
+Verify that the non-existence of each item implies the non-existence of the other. The passage states that negation of each mutual entailer entails negation of the other.
+5
+Determine if two-way
+If all four conditions hold (forward, reverse, negation forward, negation reverse), the relation is two-way entailment. If only forward and negation forward hold, it is one-way.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ووجود النهار فيه يلزم منه أن تكون الشمس طالعة فيه. وكالتلازم بين الأبوة والبنوة، وكل تلازم بين أي متضايفين. ونظراً إلى التلازم بين الشيئين نلاحظ أن نفي كل من المتلازمين يلزم نفي الآخر، وإثبات كل من المتلازمين يلزم منه إثبات الآخر. وقد يكون التلازم بين وجود الشيء وانتفاء الشيء الآخر، كالتلازم بين وجود النهار في مكان من الأرض وعدم وجود الليل فيه، وكالتلازم بين وجود الشيء وانتفاء نقيضه. ٢ - وأما اللزوم من طرف واحد فوجود الملزوم يستلزم وجود لازمه لكن انعدام الملزوم لا يستلزم انعدام لازمه، لاحتمال أن يكون لازماً أيضاً لملزوم آخر. ومن أمثلة ذلك ما يلي: أ - إضاءة المصباح الكهربائي تستلزم وجود الضوء، لكن انطفاء المصباح الكهربائي لا يستلزم انعدام الضوء، لاحتمال وجود الضوء من مصدر آخر غير المصباح الكهربائي. ب - قطع رقبة الحيوان يستلزم بحسب العادة موت ذلك الحيوان، لكن موت الحيوان لا يستلزم أن تكون رقبته قد قطعت لاحتمال أن يكون موته قد كان بسبب آخر. جـ - نزول المطر على الأرض يستلزم بللها، لكن بللها لا يستلزم أن تكون المطر قد نزلت عليها، لاحتمال أن يكون البلل قد حدث بسبب آخر. وقد يكون اللزوم بين وجود الشيء وانتفاء شيء آخر، كاللزوم بين وجود الشيء وانتفاء ضده، فكون الشيء أبيض يلزم منه أن لا يكون أسود، لكن كونه غير أسود لا يلزم منه أن يكون أبيض، لاحتمال أن يكون أحمر أو أصفر أو أخضر أو نحو ذلك. (يقصد من طلوع الشمس وجودها في السماء المقابلة لذلك المكان المعين من الأرض، ولو كانت محجوبة بالسحاب.)
+And the existence of daytime in it entails that the sun is rising in it. And like the entailment between fatherhood and sonship, and every entailment between any two correlatives. And with regard to the entailment between two things, we observe that the negation of each of the two mutually entailing things entails the negation of the other, and the affirmation of each of the two mutually entailing things entails the affirmation of the other. And entailment can be between the existence of a thing and the non-existence of another thing, like the entailment between the existence of daytime in a place on earth and the absence of nighttime in it, and like the entailment between the existence of a thing and the non-existence of its opposite. 2 - As for one-way entailment, the existence of the necessitating entails the existence of its necessary, but the non-existence of the necessitating does not entail the non-existence of its necessary, because it is possible that it is also necessary for another necessitating. Examples of that include: a - The lighting of an electric lamp entails the existence of light, but the extinguishing of the electric lamp does not entail the non-existence of light, because light may exist from another source besides the electric lamp. b - Cutting the neck of an animal, by custom, entails the death of that animal, but the death of the animal does not entail that its neck was cut, because its death may have been due to another cause. c - The falling of rain on the ground entails its wetness, but its wetness does not entail that rain has fallen on it, because the wetness may have been caused by something else. And entailment can be between the existence of a thing and the non-existence of another thing, like the entailment between the existence of a thing and the non-existence of its opposite; so a thing being white entails that it is not black, but it being not black does not entail that it is white, because it may be red, yellow, green, or the like. (By 'rising of the sun' is meant its existence in the sky opposite that specific place on earth, even if it is hidden by clouds.)
+Source pages p. 358
+
+Commentary
+This passage defines and exemplifies two types of logical entailment: two-way (mutual) and one-way. The author begins by describing two-way entailment (تلازم بين شيئين) where the existence of each of two correlatives implies the existence of the other, and the negation of each implies the negation of the other. Examples include daytime and sunrise, and fatherhood and sonship. Additionally, entailment can hold between existence and non-existence, as with daytime and nighttime, or between a thing and its opposite's negation. The author then moves to one-way entailment (لزوم من طرف واحد): the existence of the necessitating (الملزوم) necessitates the existence of the necessary (اللازم), but the non-existence of the necessitating does not necessitate the non-existence of the necessary, because the necessary might be produced by another cause. Three everyday examples are given: electric light and light source, animal neck cutting and death, rain and ground wetness. Finally, the author notes a variant: one-way entailment between existence and non-existence of an opposite, e.g., whiteness entails not-blackness, but not-blackness does not entail whiteness. A footnote clarifies that 'sunrise' means the sun's presence in the sky opposite that location, even if clouded. The passage is an expansion on the concept of talazum, showing its application.
+
+Key Terms
+تلازم
+ملزوم
+لازم
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of two-way entailment given in the passage?
+A) Existence of daytime and sunrise
+B) Cutting an animal's neck and its death
+C) Rain and ground wetness
+D) Whiteness and non-blackness
+
+Key Takeaway
+Two-way entailment requires that the existence of each entails the existence of the other, and the non-existence of each entails the non-existence of the other.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the pair: 'The sun is shining' and 'Daytime exists'. According to the passage, is this a two-way entailment? Explain your reasoning by verifying both directions of implication and both directions of negation.
+?
+Identify another pair from Islamic studies (e.g., from Fiqh or Usul al-Fiqh) that exhibits two-way entailment, and verify that the existence of each implies the existence of the other and the non-existence of each implies the non-existence of the other.
+
+Pages p. 358 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 358
+Module 9 · Lesson 64
+Next →
+Immediate Inference
+beginner
+5 min
+One-way Entailment (Luzum min Taraf Wahid)
+Defines and exemplifies one-way entailment.
+
+Learning Objective
+By the end of this lesson, you will be able to identify one-way entailment relations and distinguish them from two-way entailment.
+
+Core Idea
+One-way entailment: the cause implies the effect, but the effect does not imply the cause.
+
+While two-way entailment is mutual, one-way entailment (luzum min taraf wahid) is more common in everyday reasoning and Islamic legal analogy. This lesson explains that the existence of the necessitating (malzum) necessarily implies the necessary (lazim), but the absence of the malzum does not negate the lazim, because the lazim may have other causes. This is crucial for valid argumentation in Fiqh and Kalam.
+
+Guided Path
+1
+Identify malzum and lazim
+Find the necessitating (الملزوم) and the necessary (اللازم) in the relation. In the passage examples: lamp lighting (malzum) and light (lazim); neck-cutting (malzum) and death (lazim); rain (malzum) and wetness (lazim).
+2
+Check forward implication
+Verify that the existence of the malzum guarantees the existence of the lazim. For all examples, this holds.
+3
+Check reverse implication
+Check whether the existence of the lazim guarantees the existence of the malzum. The passage shows it does not; e.g., light can come from sources other than the lamp.
+4
+Confirm one-way
+If forward implication holds but reverse fails, the relation is one-way entailment. The passage emphasizes this with the principle: 'the non-existence of the malzum does not entail the non-existence of the lazim' due to alternative causes.
+5
+Apply to existence/non-existence variant
+The passage also gives an example of one-way entailment between existence and non-existence: whiteness entails not-blackness, but not-blackness does not entail whiteness. Apply the same check: existence of whiteness implies non-blackness, but non-blackness does not imply whiteness.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ووجود النهار فيه يلزم منه أن تكون الشمس طالعة فيه. وكالتلازم بين الأبوة والبنوة، وكل تلازم بين أي متضايفين. ونظراً إلى التلازم بين الشيئين نلاحظ أن نفي كل من المتلازمين يلزم نفي الآخر، وإثبات كل من المتلازمين يلزم منه إثبات الآخر. وقد يكون التلازم بين وجود الشيء وانتفاء الشيء الآخر، كالتلازم بين وجود النهار في مكان من الأرض وعدم وجود الليل فيه، وكالتلازم بين وجود الشيء وانتفاء نقيضه. ٢ - وأما اللزوم من طرف واحد فوجود الملزوم يستلزم وجود لازمه لكن انعدام الملزوم لا يستلزم انعدام لازمه، لاحتمال أن يكون لازماً أيضاً لملزوم آخر. ومن أمثلة ذلك ما يلي: أ - إضاءة المصباح الكهربائي تستلزم وجود الضوء، لكن انطفاء المصباح الكهربائي لا يستلزم انعدام الضوء، لاحتمال وجود الضوء من مصدر آخر غير المصباح الكهربائي. ب - قطع رقبة الحيوان يستلزم بحسب العادة موت ذلك الحيوان، لكن موت الحيوان لا يستلزم أن تكون رقبته قد قطعت لاحتمال أن يكون موته قد كان بسبب آخر. جـ - نزول المطر على الأرض يستلزم بللها، لكن بللها لا يستلزم أن تكون المطر قد نزلت عليها، لاحتمال أن يكون البلل قد حدث بسبب آخر. وقد يكون اللزوم بين وجود الشيء وانتفاء شيء آخر، كاللزوم بين وجود الشيء وانتفاء ضده، فكون الشيء أبيض يلزم منه أن لا يكون أسود، لكن كونه غير أسود لا يلزم منه أن يكون أبيض، لاحتمال أن يكون أحمر أو أصفر أو أخضر أو نحو ذلك. (يقصد من طلوع الشمس وجودها في السماء المقابلة لذلك المكان المعين من الأرض، ولو كانت محجوبة بالسحاب.)
+And the existence of daytime in it entails that the sun is rising in it. And like the entailment between fatherhood and sonship, and every entailment between any two correlatives. And with regard to the entailment between two things, we observe that the negation of each of the two mutually entailing things entails the negation of the other, and the affirmation of each of the two mutually entailing things entails the affirmation of the other. And entailment can be between the existence of a thing and the non-existence of another thing, like the entailment between the existence of daytime in a place on earth and the absence of nighttime in it, and like the entailment between the existence of a thing and the non-existence of its opposite. 2 - As for one-way entailment, the existence of the necessitating entails the existence of its necessary, but the non-existence of the necessitating does not entail the non-existence of its necessary, because it is possible that it is also necessary for another necessitating. Examples of that include: a - The lighting of an electric lamp entails the existence of light, but the extinguishing of the electric lamp does not entail the non-existence of light, because light may exist from another source besides the electric lamp. b - Cutting the neck of an animal, by custom, entails the death of that animal, but the death of the animal does not entail that its neck was cut, because its death may have been due to another cause. c - The falling of rain on the ground entails its wetness, but its wetness does not entail that rain has fallen on it, because the wetness may have been caused by something else. And entailment can be between the existence of a thing and the non-existence of another thing, like the entailment between the existence of a thing and the non-existence of its opposite; so a thing being white entails that it is not black, but it being not black does not entail that it is white, because it may be red, yellow, green, or the like. (By 'rising of the sun' is meant its existence in the sky opposite that specific place on earth, even if it is hidden by clouds.)
+Source pages p. 358
+
+Commentary
+This passage defines and exemplifies two types of logical entailment: two-way (mutual) and one-way. The author begins by describing two-way entailment (تلازم بين شيئين) where the existence of each of two correlatives implies the existence of the other, and the negation of each implies the negation of the other. Examples include daytime and sunrise, and fatherhood and sonship. Additionally, entailment can hold between existence and non-existence, as with daytime and nighttime, or between a thing and its opposite's negation. The author then moves to one-way entailment (لزوم من طرف واحد): the existence of the necessitating (الملزوم) necessitates the existence of the necessary (اللازم), but the non-existence of the necessitating does not necessitate the non-existence of the necessary, because the necessary might be produced by another cause. Three everyday examples are given: electric light and light source, animal neck cutting and death, rain and ground wetness. Finally, the author notes a variant: one-way entailment between existence and non-existence of an opposite, e.g., whiteness entails not-blackness, but not-blackness does not entail whiteness. A footnote clarifies that 'sunrise' means the sun's presence in the sky opposite that location, even if clouded. The passage is an expansion on the concept of talazum, showing its application.
+
+Key Terms
+تلازم
+ملزوم
+لازم
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of one-way entailment given in the passage?
+A) Fatherhood and sonship
+B) Daytime and sunrise
+C) Rain and ground wetness
+D) Existence of daytime and absence of nighttime
+
+Key Takeaway
+In one-way entailment, the necessitating necessarily implies the necessary, but the necessary can occur without that specific necessitating due to alternative causes.
+
+How This Lesson Applies — to MY Life?
+?
+Test the example: 'The falling of rain entails the ground is wet. Does the ground being wet entail that it rained?' Explain using the concept of one-way entailment and the alternative cause principle.
+?
+Construct a one-way entailment relation from Islamic sciences: e.g., 'The existence of a valid marriage contract entails the permissibility of intimacy, but the permissibility of intimacy does not entail the existence of a marriage contract (since other reasons may permit intimacy, such as a permissible relationship).' Verify the forward and reverse implications.
+
+Pages p. 358 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 359
+Module 9 · Lesson 65
+Next →
+Immediate Inference
+beginner
+5 min
+Defining the General (al-A'am) and the Specific (al-Akhass)
+Defines the general and specific with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a term is general or specific relative to another term using the criteria of subsumption.
+
+Core Idea
+Generality and specificity are relative: a universal is general relative to its species but specific relative to its genus.
+
+In this passage, the author defines the key terms 'general' (al-a'am) and 'specific' (al-akhass) as relative concepts. Understanding these definitions is crucial because the subsequent rules depend on correctly identifying which term is broader. Let us see how the author distinguishes them using examples from everyday categories.
+
+Guided Path
+1
+Identify the two terms being compared
+Look for two terms where one is a universal and the other is either a species or an individual. For example, 'animal' and 'human', 'human' and 'Zayd'.
+2
+Determine the relation between them
+Check if one term is a genus (jins) of the other, or if one is a particular (juz'i) under a universal.
+3
+Apply the criterion of relativity
+If a term is a universal and you consider it in relation to its species or particulars, it is the general (a'am). If it is a universal considered in relation to its genus, or a particular in relation to its species, it is the specific (akhass).
+4
+Practice with examples
+Take 'animal' and 'human': animal is the general because it is a universal in relation to its species human. Human is specific because it is a universal in relation to its genus animal. Similarly, 'Zayd' is specific relative to 'human'.
+These definitions are foundational for the rules that follow.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القاعدة الثالثة: نفي الأعم يستلزم نفي الأخص، لكن نفي الأخص لا يستلزم نفي الأعم. وإثبات الأعم لا يستلزم إثبات الأخص، لكن إثبات الأخص يستلزم إثبات الأعم. يقصد بالأعم كلي تلاحظ فيه نسبته إلى نوعه أو بعض جزئياته، مثل الحيوان بالنسبة إلى الإنسان، والإنسان بالنسبة إلى الرجل أو المرأة، أو زيد أو خالد. ويقصد بالأخص: ١ - كلي تلاحظ فيه نسبته إلى جنسه، مثل: الإنسان بالنسبة إلى الحيوان، والحيوان بالنسبة إلى النامي. ٢ - أو جزئي ونحوه تلاحظ فيه نسبته إلى نوعه، مثل: زيد أو خالد أو حبشي بالنسبة إلى الإنسان. فالكلي بالنسبة إلى بعض أنواعه أو بعض جزئياته هو الأعم دائما. والكلي بالنسبة إلى كلي أعلى منه هو الأخص دائما. والجزئي بالنسبة إلى نوعه هو الأخص دائما. وعلى هذا: ١ - فإذا انتفى الأخص الذي هو أكثر قيودا لم يلزم من انتفائه انتفاء الأعم الذي ينطبق عليه وعلى غيره. ٢ - وإذا انتفى الأعم لزم منه انتفاء الأخص حتما، لأنه لو وجد فرد من أفراد الأخص لصح أن يطلق عليه اسم الأعم، فلم يكن الأعم منتفيا، لكن الدعوى تقرر أن أي فرد من أفراد الأعم لا وجود له. ٣ - وإذا ثبت الأعم لم يلزم منه ثبوت الأخص، لاحتمال أن يكون الأعم منطبقا على بعض جزئياته أو أفراده الأخرى غير هذا الأخص. ٤ - وإذا ثبت الأخص لزم منه ثبوت الأعم، لأن هذا الأخص هو بعض جزئيات أو أفراد الأعم، فعنوان الأعم ينطبق عليه، إذ هو موجود فيه.
+The third rule: The negation of the general entails the negation of the specific, but the negation of the specific does not entail the negation of the general. And the affirmation of the general does not entail the affirmation of the specific, but the affirmation of the specific entails the affirmation of the general. By the general is meant a universal in which its relation to its species or some of its particulars is considered, such as animal in relation to human, and human in relation to man or woman, or Zayd or Khalid. And by the specific is meant: 1 - A universal in which its relation to its genus is considered, such as human in relation to animal, and animal in relation to the growing. 2 - Or a particular and the like in which its relation to its species is considered, such as Zayd or Khalid or Habashi in relation to human. So the universal in relation to some of its species or some of its particulars is always the general. And the universal in relation to a higher universal is always the specific. And the particular in relation to its species is always the specific. According to this: 1 - If the specific, which is more restricted, is negated, its negation does not entail the negation of the general that applies to it and to others. 2 - If the general is negated, it necessarily entails the negation of the specific, because if an individual of the specific existed, it would be correct to apply the name of the general to it, so the general would not be negated; but the claim asserts that no individual of the general exists. 3 - If the general is affirmed, it does not entail the affirmation of the specific, because it is possible that the general applies to some of its other particulars or individuals besides this specific. 4 - If the specific is affirmed, it entails the affirmation of the general, because this specific is some of the particulars or individuals of the general, so the label of the general applies to it, since it exists in it.
+Source pages p. 359
+
+Commentary
+This passage presents the third rule concerning the logical relations between the general (الأعم) and the specific (الأخص). The author first defines the terms: 'general' is a universal considered relative to its species or particulars (e.g., animal to human, human to Zayd). 'Specific' can be either a universal considered relative to its genus (e.g., human to animal), or a particular considered relative to its species (e.g., Zayd to human). The author then states the rule in four parts: (1) Negation of the specific does not necessitate negation of the general, because the general may still exist through other instances. (2) Negation of the general necessarily entails negation of the specific, because if any instance of the specific existed, the general would be instantiated. (3) Affirmation of the general does not necessitate affirmation of the specific, because the general may be true of other particulars. (4) Affirmation of the specific necessarily entails affirmation of the general, because the specific is a subset of the general. The passage uses examples from everyday categories to illustrate the subsumption relations. This is a fundamental principle in logic for reasoning about hierarchical classifications.
+
+Key Terms
+أعم
+أخص
+كلي
+جزئي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following pairs correctly identifies the general and specific?
+A) 'Animal' is specific relative to 'human'.
+B) 'Human' is general relative to 'animal'.
+C) 'Zayd' is specific relative to 'human'.
+D) 'Human' is specific relative to 'Zayd'.
+
+Key Takeaway
+The general and specific are relative: a universal is general to its species, and a universal or particular is specific to its genus or species respectively.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether 'human' (al-insan) is general or specific relative to 'animal' (al-hayawan), and explain your reasoning using the author's definitions.
+?
+Find an example from fiqh where a general term (e.g., 'salat') is considered relative to its specific varieties (e.g., 'salat al-fajr') and state which is general and which is specific.
+
+Pages p. 359 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 359
+Module 9 · Lesson 66
+Next →
+Immediate Inference
+beginner
+5 min
+The Four Logical Relations Between General and Specific
+States the four logical relations between general and specific.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the four rules of negation and affirmation between general and specific to determine valid and invalid inferences.
+
+Core Idea
+Negation of the general entails negation of the specific; affirmation of the specific entails affirmation of the general; the converse inferences are invalid.
+
+Building on the definitions of general and specific, the author now states four logical rules governing their negation and affirmation. These rules are essential for correct reasoning about hierarchical classifications. They show us what follows and what does not follow when we deny or assert a general or specific term.
+
+Guided Path
+1
+Understand the four cases
+The passage lists four combinations: (1) negation of specific, (2) negation of general, (3) affirmation of general, (4) affirmation of specific. For each, we must determine whether the other term's status is entailed.
+2
+Examine the valid inferences
+Case 2: Negation of general necessitates negation of specific (because the specific is a subset). Case 4: Affirmation of specific necessitates affirmation of general (because the specific is a member of the general).
+3
+Examine the invalid inferences
+Case 1: Negation of specific does not negate the general (the general could be true of other specifics). Case 3: Affirmation of general does not affirm the specific (the general could be true of other things).
+4
+Test with examples
+If 'animal' is negated, 'human' must be negated (valid). If 'human' is affirmed, 'animal' must be affirmed (valid). If 'animal' is affirmed, 'human' is not necessarily affirmed (invalid). If 'human' is negated, 'animal' is not necessarily negated (invalid).
+These examples illustrate the rules in action.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القاعدة الثالثة: نفي الأعم يستلزم نفي الأخص، لكن نفي الأخص لا يستلزم نفي الأعم. وإثبات الأعم لا يستلزم إثبات الأخص، لكن إثبات الأخص يستلزم إثبات الأعم. يقصد بالأعم كلي تلاحظ فيه نسبته إلى نوعه أو بعض جزئياته، مثل الحيوان بالنسبة إلى الإنسان، والإنسان بالنسبة إلى الرجل أو المرأة، أو زيد أو خالد. ويقصد بالأخص: ١ - كلي تلاحظ فيه نسبته إلى جنسه، مثل: الإنسان بالنسبة إلى الحيوان، والحيوان بالنسبة إلى النامي. ٢ - أو جزئي ونحوه تلاحظ فيه نسبته إلى نوعه، مثل: زيد أو خالد أو حبشي بالنسبة إلى الإنسان. فالكلي بالنسبة إلى بعض أنواعه أو بعض جزئياته هو الأعم دائما. والكلي بالنسبة إلى كلي أعلى منه هو الأخص دائما. والجزئي بالنسبة إلى نوعه هو الأخص دائما. وعلى هذا: ١ - فإذا انتفى الأخص الذي هو أكثر قيودا لم يلزم من انتفائه انتفاء الأعم الذي ينطبق عليه وعلى غيره. ٢ - وإذا انتفى الأعم لزم منه انتفاء الأخص حتما، لأنه لو وجد فرد من أفراد الأخص لصح أن يطلق عليه اسم الأعم، فلم يكن الأعم منتفيا، لكن الدعوى تقرر أن أي فرد من أفراد الأعم لا وجود له. ٣ - وإذا ثبت الأعم لم يلزم منه ثبوت الأخص، لاحتمال أن يكون الأعم منطبقا على بعض جزئياته أو أفراده الأخرى غير هذا الأخص. ٤ - وإذا ثبت الأخص لزم منه ثبوت الأعم، لأن هذا الأخص هو بعض جزئيات أو أفراد الأعم، فعنوان الأعم ينطبق عليه، إذ هو موجود فيه.
+The third rule: The negation of the general entails the negation of the specific, but the negation of the specific does not entail the negation of the general. And the affirmation of the general does not entail the affirmation of the specific, but the affirmation of the specific entails the affirmation of the general. By the general is meant a universal in which its relation to its species or some of its particulars is considered, such as animal in relation to human, and human in relation to man or woman, or Zayd or Khalid. And by the specific is meant: 1 - A universal in which its relation to its genus is considered, such as human in relation to animal, and animal in relation to the growing. 2 - Or a particular and the like in which its relation to its species is considered, such as Zayd or Khalid or Habashi in relation to human. So the universal in relation to some of its species or some of its particulars is always the general. And the universal in relation to a higher universal is always the specific. And the particular in relation to its species is always the specific. According to this: 1 - If the specific, which is more restricted, is negated, its negation does not entail the negation of the general that applies to it and to others. 2 - If the general is negated, it necessarily entails the negation of the specific, because if an individual of the specific existed, it would be correct to apply the name of the general to it, so the general would not be negated; but the claim asserts that no individual of the general exists. 3 - If the general is affirmed, it does not entail the affirmation of the specific, because it is possible that the general applies to some of its other particulars or individuals besides this specific. 4 - If the specific is affirmed, it entails the affirmation of the general, because this specific is some of the particulars or individuals of the general, so the label of the general applies to it, since it exists in it.
+Source pages p. 359
+
+Commentary
+This passage presents the third rule concerning the logical relations between the general (الأعم) and the specific (الأخص). The author first defines the terms: 'general' is a universal considered relative to its species or particulars (e.g., animal to human, human to Zayd). 'Specific' can be either a universal considered relative to its genus (e.g., human to animal), or a particular considered relative to its species (e.g., Zayd to human). The author then states the rule in four parts: (1) Negation of the specific does not necessitate negation of the general, because the general may still exist through other instances. (2) Negation of the general necessarily entails negation of the specific, because if any instance of the specific existed, the general would be instantiated. (3) Affirmation of the general does not necessitate affirmation of the specific, because the general may be true of other particulars. (4) Affirmation of the specific necessarily entails affirmation of the general, because the specific is a subset of the general. The passage uses examples from everyday categories to illustrate the subsumption relations. This is a fundamental principle in logic for reasoning about hierarchical classifications.
+
+Key Terms
+أعم
+أخص
+نفي
+إثبات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the third rule, which inference is valid?
+A) If 'human' is negated, then 'animal' is negated.
+B) If 'animal' is affirmed, then 'human' is affirmed.
+C) If 'human' is affirmed, then 'animal' is affirmed.
+D) If 'animal' is negated, then 'human' is affirmed.
+
+Key Takeaway
+The valid inferences are: negation of general entails negation of specific, and affirmation of specific entails affirmation of general. The reverse are invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'All intoxicants are forbidden' (general) and 'Nabidh is an intoxicant' (specific), determine which of the four rules applies when you negate 'forbidden' or affirm 'intoxicant'.
+?
+Take a pair from fiqh: 'wine' (specific) and 'intoxicant' (general). Apply the rule: if wine is forbidden, what can you conclude about intoxicants? If intoxicants are not forbidden, what about wine? Be careful of the valid and invalid directions.
+
+Pages p. 359 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 359
+Module 9 · Lesson 67
+Next →
+Immediate Inference
+intermediate
+10 min
+The Third Rule: General and Specific in Immediate Inference
+Defines the general and specific and their logical implications in negation and affirmation.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the four logical entailments between general and specific to evaluate the validity of affirmations and negations in Islamic reasoning.
+
+Core Idea
+Negating the general forces negation of the specific, but affirming the general does not force affirmation of any specific.
+
+In Islamic logic, understanding the relationship between the general (al-aʿamm) and the specific (al-akhass) is essential for valid argumentation. This rule, often used in kalam and usul al-fiqh, defines how negation and affirmation propagate. For instance, if you deny the existence of all animals, you necessarily deny humans; but denying humans does not deny all animals. This lesson breaks down the four implications and shows how to apply them.
+
+Guided Path
+1
+Identify the general and specific terms
+Given a pair like 'animal' and 'human', determine which is the general (more inclusive) and which is the specific (more restrictive). The general is always the one that includes the specific as a subset.
+The general is relative: 'human' is general relative to 'Zayd' but specific relative to 'animal'.
+2
+Apply the negation implications
+Check: if the general is negated ('No animal exists'), does the specific also have to be negated? Yes. Conversely, negating the specific ('No human exists') does not negate the general.
+This is because the general can still be instantiated by other species.
+3
+Apply the affirmation implications
+Check: if the specific is affirmed ('A human exists'), does the general have to be affirmed? Yes. Affirming the general ('An animal exists') does not affirm any specific.
+The general might be instantiated by a horse, not a human.
+4
+Test with an Islamic example
+Take the pair 'intoxicant' (general) and 'khamr' (specific). Apply the four implications and state which are valid and why.
+For example, 'No intoxicant exists' entails 'No khamr exists', but not vice versa.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القاعدة الثالثة: نفي الأعم يستلزم نفي الأخص، لكن نفي الأخص لا يستلزم نفي الأعم. وإثبات الأعم لا يستلزم إثبات الأخص، لكن إثبات الأخص يستلزم إثبات الأعم.
+يُقصَدُ بالأعم كليٌّ تلاحظ فيه نسبتُه إلى نوعه أو بعض جزئياته، مثل الحيوان بالنسبة إلى الإنسان، والإنسان بالنسبة إلى الرجل أو المرأة، أو زيد أو خالد.
+ويقصد بالأخص:
+١ - كليٌّ تلاحظ فيه نسبته إلى جنسه، مثل: الإنسان بالنسبة إلى الحيوان، والحيوان بالنسبة إلى النامي.
+٢ - أو جزئي ونحوه تلاحظ فيه نسبته إلى نوعه، مثل: زيد أو خالد أو حبشي بالنسبة إلى الإنسان.
+فالكلي بالنسبة إلى بعض أنواعه أو بعض جزئياته هو الأعم دائماً.
+والكلي بالنسبة إلى كليٍّ أعلى منه هو الأخص دائماً.
+والجزئي بالنسبة إلى نوعه هو الأخص دائماً.
+وعلى هذا:
+١ - فإذا انتفى الأخص الذي هو أكثر قيوداً لم يلزم من انتفائه انتفاء الأعم الذي ينطبق عليه وعلى غيره.
+٢ - وإذا انتفى الأعم لزم منه انتفاء الأخص حتماً، لأنه لو وجد فرد من أفراد الأخص لصح أن يطلق عليه اسم الأعم، فلم يكن الأعم منتفياً، لكن الدعوى تقرّر أن أيّ فرد من أفراد الأعم لا وجود له.
+٣ - وإذا ثبت الأعم لم يلزم منه ثبوت الأخص، لاحتمال أن يكون الأعم منطبقاً على بعض جزئياته أو أفراده الأخرى غير هذا الأخص.
+٤ - وإذا ثبت الأخص لزم منه ثبوت الأعم، لأن هذا الأخص هو بعض جزئيات أو أفراد الأعم، فعنوان الأعم ينطبق عليه، إذ هو موجود فيه.
+أمثلة:
+الإنسان والحيوان : الإنسان نوع من أنواع الحيوان، والحيوان جنس له، فالإنسان إذن أخصّ من الحيوان، والحيوان أعمّ من الإنسان.
+فإذا قلنا : لا يوجد في الدّار إنسان، فقد نفينا الأخص، ولا يلزم من هذا بداهة أن لا يكون في الدار أيّ حيوان، لأننا نفينا نوع الإنسان فقط وهو أخصّ، فلم يلزم من ذلك نفي الجنس الذي هو الحيوان، إذ هو ينطبق على سائر أنواع الحيوان بعد نفي وجود الإنسان. فقد يكون في الدار فرس، أو هرّ، أو ببغاء، أو أي حيوان آخر.
+فنفي الأخص لم يستلزم نفي الأعم.
+وإذا قلنا : لا يوجد في الدار حيوان، فقد نفينا الأعم، ويلزم من ذلك بداهة نفي وجود الإنسان الذي هو الأخص، لأنه لو وجد إنسانٌ واحد لم يكن صحيحاً قولنا : لا يوجد في الدار حيوان، إذ ينطبق على هذا الإنسان عنوان «حيوان» نظراً إلى أن الإنسان نوع من أنواع الحيوان.
+فنفي الأعمّ قد استلزم نفي الأخص حتماً.
+وإذا قلنا : يوجد في الدار إنسان، فقد أثبتنا الأخص، وهذا يلزم منه بداهة إثبات الأعم، وهو الحيوان، لأن هذا الإنسان يصدق عليه أنه حيوان، إذ هو فرد من أفراد نوعه.
+فإثبات الأخص قد استلزم إثبات الأعم حتماً.
+وإذا قلنا : يوجد في الدار حيوان، فقد أثبتنا الأعم، وهذا لا يلزم منه إثبات الأخص الذي هو الإنسان في مثالنا، لأنه لو كان في الدار فرس أو أي حيوان آخر غير الإنسان لصدق عليه قولنا : يوجد في الدار حيوان. فلم يلزم من قولنا هذا وجود الأخص الذي هو الإنسان.
+فإثبات الأعم لا يستلزم إثبات الأخص.
+ونقيس على هذه الأمثلة نظائرها.
+The third rule: Negation of the general entails negation of the specific, but negation of the specific does not entail negation of the general. And affirmation of the general does not entail affirmation of the specific, but affirmation of the specific entails affirmation of the general.
+By 'general' is meant a universal considered with respect to its relationship to its species or some of its particulars, such as 'animal' in relation to 'human', and 'human' in relation to 'man' or 'woman', or Zayd or Khalid.
+By 'specific' is meant:
+1 - A universal considered with respect to its relationship to its genus, such as 'human' in relation to 'animal', and 'animal' in relation to 'growing'.
+2 - Or a particular and the like considered with respect to its relationship to its species, such as Zayd, Khalid, or Habashi in relation to 'human'.
+Thus the universal in relation to some of its species or some of its particulars is always the general.
+And the universal in relation to a higher universal is always the specific.
+And the particular in relation to its species is always the specific.
+Based on this:
+1 - If the specific, which has more constraints, is negated, its negation does not necessitate the negation of the general that applies to it and to others.
+2 - If the general is negated, the negation of the specific necessarily follows, because if an individual of the specific existed, the name of the general would correctly apply to it, so the general would not be negated; but the claim asserts that no individual of the general exists.
+3 - If the general is affirmed, the affirmation of the specific does not follow, because it is possible that the general applies to some of its other particulars or individuals other than this specific.
+4 - If the specific is affirmed, the affirmation of the general follows, because this specific is some of the particulars or individuals of the general, so the label 'general' applies to it, since it exists in it.
+Examples:
+Human and animal: Human is a species of animal, and animal is a genus for it. Thus human is more specific than animal, and animal is more general than human.
+If we say: 'There is no human in the house,' we have negated the specific, and from this it does not necessarily follow that there is no animal in the house, because we only negated the human species, which is specific. So the negation of the genus, which is animal, does not follow, since it applies to other species of animal after negating the existence of humans. There may be a horse, a cat, a parrot, or any other animal in the house.
+Thus negation of the specific did not entail negation of the general.
+If we say: 'There is no animal in the house,' we have negated the general, and from this necessarily follows the negation of the existence of the human, which is the specific, because if even one human existed, our statement 'There is no animal in the house' would not be correct, since the label 'animal' applies to that human, given that human is a species of animal.
+Thus negation of the general necessarily entailed negation of the specific.
+If we say: 'There is a human in the house,' we have affirmed the specific, and this necessarily entails affirmation of the general, which is animal, because this human is truly called an animal, since he is an individual of his species.
+Thus affirmation of the specific necessarily entailed affirmation of the general.
+If we say: 'There is an animal in the house,' we have affirmed the general, and this does not entail affirmation of the specific which is human in our example, because if there were a horse or any other animal other than human in the house, our statement 'There is an animal in the house' would be true. So the existence of the specific, which is human, does not follow from this statement.
+Thus affirmation of the general does not entail affirmation of the specific.
+And we analogize to these examples their parallels.
+Source pages p. 359
+
+Commentary
+This passage defines the 'third rule' concerning the logical relations between the general (الأعم) and the specific (الأخص). The text first states the rule in four parts: (1) negating the general entails negating the specific, but not vice versa; (2) negating the specific does not entail negating the general; (3) affirming the general does not entail affirming the specific; (4) affirming the specific entails affirming the general. The author then clarifies the definitions of 'general' and 'specific'. The general is a universal considered in relation to its species or particulars; for example, 'animal' is general relative to 'human'. The specific can be either a universal considered in relation to its higher genus (e.g., 'human' relative to 'animal') or a particular relative to its species (e.g., Zayd relative to 'human'). The text emphasizes that a universal is always general relative to its own species or particulars, and always specific relative to a higher universal. Similarly, a particular is always specific relative to its species. The author then recasts the four logical implications with reasoning: (1) negating the specific (which has more constraints) does not negate the broader general; (2) negating the general necessarily negates any specific under it; (3) affirming the general does not guarantee any particular specific; (4) affirming the specific necessarily affirms the general. The passage illustrates with the classic example of human (specific) and animal (general). If we say 'No human is in the house,' we have not negated the presence of other animals. If we say 'No animal is in the house,' then human is automatically excluded. Affirming a human in the house affirms an animal, but affirming an animal does not affirm a human—it could be a horse or cat. This rule is foundational in logical reasoning, especially in debates (jadal) and definitional analysis. Students of logic should memorize it and apply it to any general-specific relation, such as 'every moving thing is created' (general) and 'the world is moving' (specific).
+
+Key Terms
+الأعم
+الأخص
+نفي
+إثبات
+
+Key Terms from Source Passage
+
+Checkpoint
+If we affirm 'There is an animal in the house,' does it follow that there is a human in the house?
+A) Yes, necessarily.
+B) No, because the animal could be a horse or cat.
+C) Yes, because animal is the genus of human.
+D) No, because affirmation of the general never entails affirmation of any specific.
+
+Key Takeaway
+The third rule establishes that negation flows from general to specific, and affirmation flows from specific to general, but not in the reverse directions.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an argument using the general-specific rule with an Islamic example: choose a pair like 'movement' (general) and 'the world's motion' (specific). Write out the four implications and determine which are valid.
+?
+Analyze the following statement from a kalam debate: 'If the world is not temporally originated, then it does not have a creator.' Identify the general and specific terms and evaluate the logical flow using the third rule.
+
+Pages p. 359 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 360
+Module 9 · Lesson 68
+Next →
+Immediate Inference
+beginner
+5 min
+The Four Logical Relations of General and Specific Terms
+Author illustrates four logical implications between general and specific statements.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the four logical relations between general and specific terms to evaluate entailments in Islamic legal and theological arguments.
+
+Core Idea
+Denying the general denies the specific; affirming the specific affirms the general.
+
+Understanding how general and specific terms relate logically is crucial for reasoning in Islamic sciences. This lesson walks you through the four possible entailment patterns using clear examples, so you can avoid common fallacies and construct sound arguments.
+
+Guided Path
+1
+Identify general and specific
+In any pair of terms, determine which is more general (a'amm) and which is more specific (akhass). For example, 'animal' is general relative to 'man' because all men are animals but not all animals are men.
+This step is foundational: the entire inference depends on correctly identifying the genus-species relationship.
+2
+Understand the four entailment patterns
+Memorize the four rules: (1) Negation of specific does not entail negation of general. (2) Negation of general does entail negation of specific. (3) Affirmation of specific entails affirmation of general. (4) Affirmation of general does not entail affirmation of specific.
+These rules are derived from the example of man and animal, but apply to any genuine genus-species pair.
+3
+Apply to a new example
+Take a pair from an Islamic science, e.g., 'khamr' (specific) and 'intoxicant' (general). Test each rule: If 'no intoxicant is in the house', can 'khamr' be present? No. If 'khamr is in the house', must an intoxicant be present? Yes. Check all four.
+Always verify that the terms share a genuine genus-species relationship; otherwise the rules may not apply.
+4
+Reason about entailments
+Given a statement about the general, reason what must follow about the specific, and vice versa. For instance, in a figh ruling: 'All intoxicants are haram' (general). If 'khamr is an intoxicant', then 'khamr is haram' follows (since specificity is affirmed and general is affirmed).
+This step trains you to think in terms of logical consequence, essential for usul al-fiqh and kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أمثلة :
+الإنسان والحيوان : الإنسان نوع من أنواع الحيوان، والحيوان جنس له، فالإنسان إذن أخصّ من الحيوان، والحيوان أعمّ من الإنسان.
+فإذا قلنا : لا يوجد في الدّار إنسان، فقد نفينا الأخص، ولا يلزم من هذا بداهة أن لا يكون في الدار أيّ حيوان، لأننا نفينا نوع الإنسان فقط وهو أخصّ، فلم يلزم من ذلك نفي الجنس الذي هو الحيوان، إذ هو ينطبق على سائر أنواع الحيوان بعد نفي وجود الإنسان. فقد يكون في الدار فرس، أو هرّ، أو ببغاء، أو أي حيوان آخر.
+فنفي الأخص لم يستلزم نفي الأعم .
+وإذا قلنا : لا يوجد في الدار حيوان، فقد نفينا الأعم، ويلزم من ذلك بداهة نفي وجود الإنسان الذي هو الأخص، لأنه لو وجد إنسانٌ واحد لم يكن صحيحاً قولنا : لا يوجد في الدار حيوان، إذ ينطبق على هذا الإنسان عنوان «حيوان» نظراً إلى أن الإنسان نوع من أنواع الحيوان .
+فنفي الأعمّ قد استلزم نفي الأخص حتماً .
+وإذا قلنا : يوجد في الدار إنسان، فقد أثبتنا الأخص، وهذا يلزم منه بداهة إثبات الأعم، وهو الحيوان، لأن هذا الإنسان يصدق عليه أنه حيوان، إذ هو فرد من أفراد نوعه .
+فإثبات الأخص قد استلزم إثبات الأعم حتماً .
+وإذا قلنا : يوجد في الدار حيوان، فقد أثبتنا الأعم، وهذا لا يلزم منه إثبات الأخص الذي هو الإنسان في مثالنا، لأنه لو كان في الدار فرس أو أي حيوان آخر غير الإنسان لصدق عليه قولنا : يوجد في الدار حيوان. فلم يلزم من قولنا هذا وجود الأخص الذي هو الإنسان .
+فإثبات الأعم لا يستلزم إثبات الأخص .
+ونقيس على هذه الأمثلة نظائرها .
+Examples:
+Man and animal: Man is a species of the kinds of animal, and animal is a genus for it. Thus, man is more specific (akhass) than animal, and animal is more general (a'amm) than man.
+If we say: 'There is no man in the house,' we have negated the specific, and it does not necessarily follow from this that there is no animal in the house, because we only negated the species man, which is the specific; thus the negation of the genus, which is animal, does not follow, since it applies to the rest of the species of animal after negating the existence of man. So there may be in the house a horse, a cat, a parrot, or any other animal.
+Thus, negation of the specific does not entail negation of the general.
+And if we say: 'There is no animal in the house,' we have negated the general, and it necessarily follows from that the negation of the existence of man, which is the specific, because if there were one man, our statement 'There is no animal in the house' would not be true, since the title 'animal' applies to this man, considering that man is a species of the kinds of animal.
+Thus, negation of the general has necessarily entailed negation of the specific.
+And if we say: 'There is a man in the house,' we have affirmed the specific, and this necessarily entails the affirmation of the general, which is animal, because this man is truly described as animal, since he is an individual of his species.
+Thus, affirmation of the specific has necessarily entailed affirmation of the general.
+And if we say: 'There is an animal in the house,' we have affirmed the general, and this does not entail the affirmation of the specific, which is man in our example, because if there were a horse or any other animal other than man, our statement 'There is an animal in the house' would be true. So the existence of the specific, which is man, does not follow from this statement.
+Thus, affirmation of the general does not entail affirmation of the specific.
+And we analogize to these examples their parallels.
+Source pages p. 360
+
+Commentary
+This passage explains the logical relations between the general (a'amm) and the specific (akhass) using the example of animal (general) and man (specific). The author presents four cases: (1) Negation of the specific does not imply negation of the general: if we say 'no man is in the house', there could still be other animals. (2) Negation of the general does imply negation of the specific: if no animal exists, then no man exists. (3) Affirmation of the specific implies affirmation of the general: if a man exists, then an animal exists. (4) Affirmation of the general does not imply affirmation of the specific: if an animal exists, it may not be a man. These relations are foundational for understanding logical entailment and are illustrated with clear examples from everyday situations, avoiding abstract symbols. The author concludes that one can extend these examples to similar cases.
+
+Key Terms
+الأعم
+الأخص
+
+Key Terms from Source Passage
+
+Checkpoint
+If it is true that 'no intoxicant is permissible' and 'khamr is an intoxicant', what can we conclude?
+A) Khamr is permissible.
+B) Khamr is not permissible.
+C) All permissible things are intoxicants.
+D) Nothing can be concluded.
+
+Key Takeaway
+The four entailment patterns between general and specific terms are essential for evaluating arguments in Islamic legal reasoning and avoiding logical fallacies.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the general term 'haram' (forbidden) and specific term 'khamr' (wine). State the conclusion that follows from each of these premises using the four patterns: (a) 'Khamr is haram' (affirmation of specific), (b) 'No khamr is haram' (negation of specific), (c) 'Every intoxicant is haram' (affirmation of general), (d) 'No intoxicant is haram' (negation of general). For each, say whether the conclusion is valid or invalid and explain why.
+?
+Take the example from 'Usul al-Fiqh: 'All intoxicants are haram' (general). If someone claims 'nabidh is an intoxicant' (specific), what must follow? Use the appropriate pattern to justify your answer.
+
+Pages p. 360 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 456
+Module 9 · Lesson 69
+Next →
+Immediate Inference
+beginner
+5 min
+The Pitfall of Synonymy in Immediate Inference
+Author illustrates how synonymous terms in premises affect the conclusion.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a conclusion merely repeats the premise via synonym substitution and distinguish it from genuine syllogistic inference.
+
+Core Idea
+Synonymy changes the wording without changing the meaning — it is not real inference.
+
+In this passage, the author illustrates two examples where the conclusion is identical to the minor premise except that a term is replaced by its synonym. Although this is a form of immediate inference, it reveals no new information. Recognizing this helps you avoid confusing verbal substitution with valid logical deduction, a crucial skill in disciplines like Usul al-Fiqh where precise reasoning is required.
+
+Guided Path
+1
+Identify the minor premise
+In example A, the minor premise is 'this is an asad (lion)'. In example B, it is 'this is a nuqla (transfer)'.
+2
+Examine the major premise
+In A, the major premise is 'every asad is a layth'. In B, it is 'every nuqla is a haraka'. Note that these are not genuine universal statements connecting distinct categories; rather, they assert synonymy.
+3
+Compare the conclusion to the minor premise
+In A, the conclusion is 'this is a layth'; in B, 'this is a haraka'. The conclusion is exactly the same proposition as the minor premise but with a synonym substituted for the subject term. No new predicate has been introduced.
+4
+Determine logical value
+Because the major premise merely states synonymy, the conclusion adds no new information. The inference is valid but trivial—it does not advance knowledge. Genuine syllogistic inference requires the middle term to connect distinct concepts.
+5
+Apply the lesson to future arguments
+When you encounter an argument where the conclusion seems to follow from premises, check whether the middle term is truly distinct from the subject or predicate terms. If it is merely a synonym, the argument is a verbal restatement, not a logical proof.
+This is especially important in evaluating proofs in fiqh and kalam where subtle distinctions matter.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أمثلة : أ ـ هذا أسد، وكل أسد ليث . . فهذا ليث . فالنتيجة في هذا الدليل هي نفس المقدمة الصغرى بتغيير لفظة أسد بلفظة ليث، والواقع أن اللفظين بمعنى واحد لأنهما مترادفان . ب ـ هذه نقلة، وكلّ نقلة حركة . . فهذه حركة . فالنتيجة هي نفس المقدمة الصغرى بتغيير لفظة نقلة بلفظة حركة، وهما بمثابة المترادفين في الحقيقة .
+Examples: A — This is a lion (asad), and every lion (asad) is a lion (layth)... so this is a lion (layth). The conclusion in this proof is the same as the minor premise with the word asad changed to layth, and in fact the two words have the same meaning because they are synonyms. B — This is a transfer (nuqla), and every transfer is a movement (haraka)... so this is a movement. The conclusion is the same as the minor premise with the word nuqla changed to haraka, and they are effectively synonyms in reality.
+Source pages p. 456
+
+Commentary
+This passage provides two examples illustrating a type of immediate inference where the conclusion is identical in meaning to the minor premise, differing only in synonymous wording. In the first example, 'this is an asad' and 'every asad is a layth' leads to 'this is a layth'. Since asad and layth are synonyms, the conclusion adds no new information. Similarly, 'this is a nuqla' and 'every nuqla is a haraka' yields 'this is a haraka' because nuqla and haraka are effectively synonyms. The author here demonstrates that such arguments are merely verbal changes and do not constitute genuine logical inference. This guards against mistaking synonymy for real syllogistic reasoning.
+
+Key Terms
+مقدمة صغرى (muqaddima sughra): The minor premise of a syllogism; here it is the first premise that is transformed. [Note: Standard term in Aristotelian logic; stable across texts.]
+مترادفان (mutaradifan): Two synonyms; words that share the same meaning. [Note: Standard linguistic term; no shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'this is a lion (asad), and every lion (asad) is a lion (layth)', what is the logical relationship between the two terms 'asad' and 'layth'?
+A) They are contradictories.
+B) They are synonyms.
+C) They are different species of the same genus.
+D) They are unrelated concepts.
+
+Key Takeaway
+A conclusion that merely replaces a term with its synonym does not advance knowledge; true inference requires a real middle term that adds new information.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'This water is najis, and every najis thing is impure, so this water is impure.' Is the conclusion a genuine inference or a mere verbal restatement? Explain why.
+?
+In a fiqh discussion, someone says: 'This intoxicating drink is called khamr, and all khamr is haram, so it is haram.' Is the term 'khamr' a synonym for 'intoxicating drink'? Does this argument prove anything beyond the original statement? Analyse.
+
+Pages p. 456 · Immediate Inference
+← Prev
+Mark Done
+Next →

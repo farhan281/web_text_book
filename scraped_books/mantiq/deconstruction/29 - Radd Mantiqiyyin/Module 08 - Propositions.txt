@@ -1,0 +1,1511 @@
+← Prev
+p. 47
+Module 8 · Lesson 1
+Next →
+Propositions
+beginner
+7 min
+Propositions: Types and Immediate Inferences
+Author introduces propositions and immediate inferences
+
+Learning Objective
+By the end of this lesson, you will be able to classify a proposition as categorical, conditional conjunctive, or conditional disjunctive, and identify its immediate inference (contradictory, converse, contrapositive).
+
+Core Idea
+Every syllogism is built from propositions; mastering proposition types is the key to valid reasoning.
+
+Before we can construct or analyze a syllogism, we must understand its building blocks: propositions. This passage from Ibn Taymiyya's Radd 'ala al-Mantiqiyyin introduces the three types of propositions (categorical, conditional conjunctive, conditional disjunctive) and the immediate inferences (contradiction, conversion, contrapositive) used to test their validity. Let's break down this foundational material step by step.
+
+Guided Path
+1
+Identify the proposition types
+The author states that every proposition (qadiyya) is either categorical (hamliyya), conditional conjunctive (shartiyya muttasila), or conditional disjunctive (shartiyya munfasila). Practise spotting these in an Islamic text: e.g., 'The world is temporally originated' is categorical; 'If the world is temporally originated, it has a creator' is conditional conjunctive; 'The world is either temporally originated or eternal' is conditional disjunctive.
+2
+Understand immediate inferences
+The author lists three ways to derive a new proposition from a given one: contradictory (naqid), converse ('aks), and contrapositive ('aks al-naqid). For a categorical proposition, its contradictory negates the predicate; its converse swaps subject and predicate; its contrapositive negates and swaps. Note that truth is preserved only under certain conditions.
+3
+Apply the inference rules to a concrete example
+Take the proposition 'Every act is judged by intention' (categorical universal affirmative). Its contradictory is 'Some act is not judged by intention'. Its simple converse is invalid (not all intended things are acts), but its contrapositive is 'Whatever is not judged by intention is not an act'. Check the validity using classical logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والكلام في المركب مسبوق بالكلام على المفرد ودلالة اللفظ عليه. والقياس مؤلّف من مقدمتين. والمقدمة قضيّة إما موجبة وإما سالبة. وكل منهما إما كلّية وإما جزئية. فلا بد من الكلام في القضايا وأنواعها وجهاتها. وقد يستدل عليها بنقيضها، وبعكسها، وبعكس نقيضها؛ فإنها إذا طرق صحت بطل نقيضها، وعكسها، وعكس نقيضها. فنتكلم في تناقض القضايا وصحة عكسها المستوي وعكس نقيضها. والقضية إما حمليّة وإما شرطيّة متصلة وإما شرطية منفصلة. فانقسم صور الأقيسة - باعتبار صورته - إلى قياس تداخل وهو الحملي، وقياس تلازم وهو الشرطي المتصل، وقياس تعاند وهو التقسيم والترديد، وهو الشرطي المنفصل. هذا باعتبار صورته. وباعتبار مادته إلى الأصناف الخمسة المتقدمة. هذا كله في قياس الشمول.
+And the discussion of the composite is preceded by the discussion of the simple and the signification of the word upon it. And the syllogism is composed of two premises. And the premise is a proposition, either affirmative or negative. And each of them is either universal or particular. So it is necessary to discuss propositions, their types, and their modalities. And they may be inferred by their contradictory, their converse, and the converse of their contradictory; for if they are sound, their contradictory, converse, and converse of contradictory are invalid. So we will discuss the contradiction of propositions, the validity of their simple converse, and the converse of their contradictory. And the proposition is either categorical or conditional conjunctive or conditional disjunctive. So the forms of syllogisms - in terms of their form - are divided into: categorical syllogism which is the categorical, conditional conjunctive syllogism which is the conditional conjunctive, and conditional disjunctive syllogism which is the division and alternation, and it is the conditional disjunctive. This in terms of its form. And in terms of its material, it goes back to the five types mentioned earlier. All of this concerns the syllogism of inclusion.
+Source pages p. 47
+
+Commentary
+This passage discusses the composition of syllogisms from propositions. It explains that a syllogism consists of two premises, each a proposition (qadiyya) that is either affirmative or negative, universal or particular. The author then mentions types of immediate inference: contradiction (naqid), simple conversion ('aks mustawi), and contrapositive ('aks al-naqid). Propositions are classified into categorical (hamliyya), conditional conjunctive (shartiyya muttasila), and conditional disjunctive (shartiyya munfasila). Accordingly, syllogisms come in three forms: categorical (qiyas tadakhul), conditional conjunctive (qiyas talazum), and conditional disjunctive (qiyas ta'anud). The text also notes that by material, these syllogisms revert to the five types mentioned earlier (burhani, jadali, etc.). The author concludes by saying this all concerns qiyas shumul (syllogism of inclusion, i.e., categorical syllogism).
+
+Key Terms
+قضية
+حمليّة
+شرطيّة متصلة
+شرطية منفصلة
+نقيض
+عكس
+عكس نقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what are the three types of propositions?
+A) categorical, conditional conjunctive, conditional disjunctive
+B) affirmative, negative, universal
+C) simple, composite, conditional
+D) contradictory, converse, contrapositive
+
+Key Takeaway
+Mastering proposition types (categorical, conditional conjunctive, conditional disjunctive) and their immediate inferences is the first step toward understanding syllogistic reasoning in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following propositions as categorical, conditional conjunctive, or conditional disjunctive: 'If a prayer is invalid, it must be repeated.'; 'Either the sale is valid or it is void.'; 'Every Muslim is obligated to pray five times daily.'
+?
+Given the proposition 'Every intoxicant is forbidden', write its contradictory, simple converse, and contrapositive. Which of these are valid inferences according to the rules of 'aks and 'aks al-naqid?
+
+Pages p. 47 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 47
+Module 8 · Lesson 2
+Next →
+Propositions
+beginner
+6 min
+The Three Forms of Syllogisms
+Author classifies qiyas into three forms by proposition type
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the three forms of syllogisms (categorical, conditional conjunctive, conditional disjunctive) based on their constituent propositions and identify the correct form of a given syllogism.
+
+Core Idea
+The form of a syllogism is determined by its proposition type: categorical, conditional conjunctive, or conditional disjunctive.
+
+The passage not only classifies propositions but also directly links each proposition type to a corresponding syllogism form. This lesson focuses on the three forms of qiyas: categorical (tadakhul), conditional conjunctive (talazum), and conditional disjunctive (ta'anud). Understanding these forms is essential for constructing valid arguments in any Islamic science.
+
+Guided Path
+1
+Recall the three proposition types
+Review the previous lesson: categorical (حمليّة) predicates something of a subject; conditional conjunctive (شرطيّة متصلة) is an if-then statement; conditional disjunctive (شرطية منفصلة) is an either-or statement. Each forms the basis of a distinct syllogism.
+2
+Match propositions to syllogism forms
+The author states: syllogisms are divided into three forms based on their form (صورة). قياس تداخل (categorical syllogism) corresponds to the categorical proposition; قياس تلازم (conditional conjunctive syllogism) corresponds to the conditional conjunctive; قياس تعاند (conditional disjunctive syllogism) corresponds to the conditional disjunctive. Note the Arabic names: tadakhul (inclusion), talazum (implication), ta'anud (opposition).
+3
+Distinguish form from material
+The passage mentions that in terms of material (مادة), the syllogisms revert to the five types (burhani, jadali, etc.). This reminds us that a syllogism's validity depends both on its form and on the truth of its premises (material).
+4
+Identify the scope: qiyas shumul
+The author concludes that all of this concerns قياس الشمول (syllogism of inclusion). This is contrasted elsewhere with tamthil (analogy) and istiqra' (induction). So the three forms here are all deductive syllogisms, not analogies or inductions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والكلام في المركب مسبوق بالكلام على المفرد ودلالة اللفظ عليه. والقياس مؤلّف من مقدمتين. والمقدمة قضيّة إما موجبة وإما سالبة. وكل منهما إما كلّية وإما جزئية. فلا بد من الكلام في القضايا وأنواعها وجهاتها. وقد يستدل عليها بنقيضها، وبعكسها، وبعكس نقيضها؛ فإنها إذا طرق صحت بطل نقيضها، وعكسها، وعكس نقيضها. فنتكلم في تناقض القضايا وصحة عكسها المستوي وعكس نقيضها. والقضية إما حمليّة وإما شرطيّة متصلة وإما شرطية منفصلة. فانقسم صور الأقيسة - باعتبار صورته - إلى قياس تداخل وهو الحملي، وقياس تلازم وهو الشرطي المتصل، وقياس تعاند وهو التقسيم والترديد، وهو الشرطي المنفصل. هذا باعتبار صورته. وباعتبار مادته إلى الأصناف الخمسة المتقدمة. هذا كله في قياس الشمول.
+And the discussion of the composite is preceded by the discussion of the simple and the signification of the word upon it. And the syllogism is composed of two premises. And the premise is a proposition, either affirmative or negative. And each of them is either universal or particular. So it is necessary to discuss propositions, their types, and their modalities. And they may be inferred by their contradictory, their converse, and the converse of their contradictory; for if they are sound, their contradictory, converse, and converse of contradictory are invalid. So we will discuss the contradiction of propositions, the validity of their simple converse, and the converse of their contradictory. And the proposition is either categorical or conditional conjunctive or conditional disjunctive. So the forms of syllogisms - in terms of their form - are divided into: categorical syllogism which is the categorical, conditional conjunctive syllogism which is the conditional conjunctive, and conditional disjunctive syllogism which is the division and alternation, and it is the conditional disjunctive. This in terms of its form. And in terms of its material, it goes back to the five types mentioned earlier. All of this concerns the syllogism of inclusion.
+Source pages p. 47
+
+Commentary
+This passage discusses the composition of syllogisms from propositions. It explains that a syllogism consists of two premises, each a proposition (qadiyya) that is either affirmative or negative, universal or particular. The author then mentions types of immediate inference: contradiction (naqid), simple conversion ('aks mustawi), and contrapositive ('aks al-naqid). Propositions are classified into categorical (hamliyya), conditional conjunctive (shartiyya muttasila), and conditional disjunctive (shartiyya munfasila). Accordingly, syllogisms come in three forms: categorical (qiyas tadakhul), conditional conjunctive (qiyas talazum), and conditional disjunctive (qiyas ta'anud). The text also notes that by material, these syllogisms revert to the five types mentioned earlier (burhani, jadali, etc.). The author concludes by saying this all concerns qiyas shumul (syllogism of inclusion, i.e., categorical syllogism).
+
+Key Terms
+قياس تداخل
+قياس تلازم
+قياس تعاند
+قياس الشمول
+مادة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which syllogism form corresponds to the conditional disjunctive proposition?
+A) قياس تداخل (tadakhul)
+B) قياس تلازم (talazum)
+C) قياس تعاند (ta'anud)
+D) قياس الشمول (shumul)
+
+Key Takeaway
+The three forms of qiyas—categorical, conditional conjunctive, and conditional disjunctive—are directly determined by the type of proposition that forms the premises, and their proper use is essential for valid deductive reasoning in Islamic sciences.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a valid conditional conjunctive syllogism (qiyas talazum) using an Islamic legal example. Hint: Use 'If najis touches a pure thing, the pure thing becomes impure' as the conditional premise, and then apply modus ponens or modus tollens.
+?
+Given the syllogism: 'Either Zakat is obligatory or it is supererogatory. It is not supererogatory. Therefore, it is obligatory.' Identify its form (categorical, conditional conjunctive, or conditional disjunctive) and explain why.
+
+Pages p. 47 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 134
+Module 8 · Lesson 3
+Next →
+Propositions
+intermediate
+8 min
+Ibn Taymiyya's Classification of Certain Knowledge
+Ibn Taymiyya classifies certain knowledge into mutawatirat, mujarrabat, and hudsiyyat.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish mutawatirat, mujarrabat, and hudsiyyat based on Ibn Taymiyya's criteria, and explain why mujarrabat require both sense and reason.
+
+Core Idea
+Certain knowledge from experience is never purely sensory—reason is always required.
+
+Ibn Taymiyya challenges the simplistic view that experiential knowledge (mujarrabat) comes purely from the senses. In this passage, he classifies certain knowledge into three types: widely transmitted reports (mutawatirat), experiential knowledge (mujarrabat), and intuitive knowledge (hudsiyyat). He insists that universal propositions like 'drinking water quenches thirst' are known through a combination of sense and reason, not sense alone. This refinement has profound implications for how we assess certainty in Islamic sciences.
+
+Guided Path
+1
+Identify the three categories
+Find in the Arabic where Ibn Taymiyya explicitly names mutawatirat, mujarrabat, and hudsiyyat. Note how he groups them as types of shared certain knowledge.
+The categories are not mutually exclusive in his usage, but distinct in source.
+2
+Examine the role of sense vs. reason
+For mujarrabat, notice his argument: sense only perceives particulars (e.g., a specific death), while the universal judgment (e.g., cutting the neck causes death) requires reason. Identify the phrase 'بما يتركب من الحس والعقل' (by what is composed of sense and reason).
+This is the core of his critique of purely empirical accounts.
+3
+Distinguish mujarrabat and hudsiyyat
+Ibn Taymiyya explains the difference based on human control: if the action is volitional (like eating or taking medicine), it is mujarrab; if outside human power (like lunar phases), it is hudsi. Find the Arabic conditional structure 'فإن كان... وإن كان'.
+The alternative classification he mentions is not his own; he prefers the unified 'mujarrab' usage.
+4
+Apply to an Islamic example
+Consider the knowledge that wine is unlawful. Is it mutawatir (from revelation), mujarrab (experienced effect), or hudsi (inferred from underlying cause)? Classify each component.
+This tool helps evaluate which epistemic foundation supports a given claim.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المتواترات. أو شَمَّه أو ذاقه أو لَمَسه يجب اشتراك الناس فيه، وكذلك ما وجده في نفسه من جوعه والمجربات وعطشه وألمه ولذته. لكن بعض الحسيات قد تكون مشتركة بين الناس، كاشتراكهم المحسوسات في رؤية الشمس والقمر والكواكب، وأخص من ذلك اشتراك أهل البلد الواحد في رؤية عندهم من جبل وجامع ونهر وغير ذلك من الأمور المخلوقة والمصنوعة. من جنس الحدسيات كالمجربات ما وكذلك الأمور المعلومة بـ «التواتر» و «التجارب» قد يشترك فيها عامة الناس، كاشتراك الناس في العلم بوجود مكة ونحوها من البلاد المشهورة؛ واشتراكهم في وجود البحر - وأكثرهم ما رآه - واشتراكهم في العلم بوجود موسى وعيسى ومحمد وادعائهم النبوة، ونحو ذلك. فإن هؤلاء قد تواتر خبرهم إلى عامة بني آدم، وإن قدر من لم يبلغه أخبارهم فهم في أطراف المعمورة لا في الوسط. «المجربات» تحصل بالحس والعقل. وكذلك «المجربات»، فعامة الناس قد جربوا أن شرب الماء يحصل معه الرِّيُّ، وأن قطع العنق يحصل معه الموت، وأن الضرب الشديد يوجب الألم. والعلم بهذه القضية الكلية «تجربي». فإن الحس إنما يدرك رياً معيناً، وموت شخص معين، وألم شخص معين. أما كون كل من فعل به ذلك يحصل له مثل ذلك، فهذه القضية الكلية لا تعلم بالحس، بل بما يتركب من الحس والعقل. وليس «الحس» هنا هو «السمع». وهذا النوع قد يسميه بعض الناس كله «تجربيات»، وبعضهم يجعله نوعين: «تجربيات» و«حدسيات». فإن كان الحس المقرون بالعقل من فعل الإنسان، كأكله وشربه وتناوله الدواء، سماه «تجربياً»، وإن كان خارجاً عن قدرته، كتغير أشكال القمر عند مقابلة الشمس، سماه «حَدْسياً». والأول أشبه باللغة. فإن العرب تقول «رجل مجرب - بالفتح - لمن قد جربته الأمور وأحكمته، وإن كانت تلك من أنواع البلايا التي لا تكون باختياره.
+The widely reported (mutawatirat). Or [something] he smelled, tasted, or touched must be shared among people, and likewise what he finds in himself of hunger, thirst, pain, and pleasure. But some sensory things may be shared among people, like their shared sensory perceptions of seeing the sun, moon, and stars, and more specific than that is the sharing of the people of one city in seeing a mountain, mosque, river, and other created and manufactured things. Of the genus of intuitive (hudsiyyat) like experiential (mujarrabat)? And likewise matters known through 'tawatur' (widespread transmission) and 'experiences' may be shared by the general public, like people's shared knowledge of the existence of Mecca and similar well-known cities; and their shared knowledge of the existence of the sea – most of them have not seen it – and their shared knowledge of the existence of Musa, ‘Isa, Muhammad and their claims to prophethood, and so on. For the reports of these have been widely transmitted to all of mankind, and if there are those whose reports have not reached them, they are on the fringes of the inhabited world, not in the center. 'Experiential' (mujarrabat) are obtained by sense and reason. Likewise 'experiential', for the general public have experienced that drinking water results in quenching thirst, that cutting the neck results in death, and that severe beating causes pain. Knowledge of this universal proposition is 'experiential'. For sense only perceives a particular quenched thirst, a particular death, a particular pain. As for that everyone who is subjected to that will get such an effect, this universal proposition is not known by sense, but by what is composed of sense and reason. 'Sense' here is not 'hearing'. This type some people call all of it 'experiential', and some make it two types: 'experiential' and 'intuitive'. If the sense combined with reason is from human action, like eating, drinking, taking medicine, he calls it 'experiential'; if it is outside his power, like the change of the moon's shapes when facing the sun, he calls it 'intuitive'. The first is more in accordance with language. For the Arabs say 'a man mujarrab (experienced) – with fatha – for one whom affairs have tried and perfected, even if those are types of trials not by his choice.
+Source pages p. 134
+
+Commentary
+This passage is a critical classification of certain knowledge by Ibn Taymiyya. He begins by discussing mutawatirat (widely transmitted reports), noting that certain sensory experiences are shared universally, such as seeing celestial bodies, while others are more specific, like local landmarks. He then extends this to matters known through tawatur and tajriba (experience), giving examples like knowledge of Mecca, the existence of prophets, and their claims. Following this, he defines mujarrabat (experiential knowledge) as that obtained by both sense and reason. He illustrates with universal propositions: drinking water quenches thirst, cutting the neck causes death, severe beating causes pain. He emphasizes that particular observations are made by sense, but the universal judgment requires a combination of sense and reason. He notes a terminological division: some call all such knowledge 'experiential', while others split it into 'experiential' (when the action is volitional, like eating) and 'intuitive' (when the effect is beyond human power, like lunar phases). He argues that the first usage is more linguistically correct, citing the Arabic term 'mujarrab' for a person seasoned by trials, whether voluntary or not.
+
+Key Terms
+المتواترات
+المجربات
+الحدسيات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, why is the universal proposition 'drinking water quenches thirst' not purely sensory?
+A) Because sense only perceives a particular instance, not a universal.
+B) Because sense cannot perceive thirst directly.
+C) Because the proposition requires widespread reports (tawatur).
+D) Because it is actually an intuitive (hudsi) judgment.
+
+Key Takeaway
+Ibn Taymiyya refines the classification of certain knowledge by showing that experiential knowledge (mujarrabat) is not purely sensory but a composite of sense and reason, and that intuitive knowledge (hudsiyyat) is a subtype where the observed effect is beyond human control.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following proposition into mutawatirat, mujarrabat, or hudsiyyat according to Ibn Taymiyya: 'Consuming small amounts of a toxic plant causes death in humans.' Explain which elements involve sense and which involve reason.
+?
+Identify a claim from your own field (medicine, law, engineering) that most people accept as certain. Trace its epistemic basis: is it based on widespread transmission (tawatur), repeated personal experience (tajriba), or intuitive inference? How would Ibn Taymiyya categorize it?
+
+Pages p. 134 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 209
+Module 8 · Lesson 4
+Next →
+Propositions
+beginner
+5 min
+Logical Meaning Across Expressions
+Shows that the same logical implication can be expressed in multiple linguistic forms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify different linguistic formulations that express the same logical implication.
+
+Core Idea
+The same logical inference can be dressed in many verbal robes.
+
+This passage shows that the relationship of implication (between antecedent and consequent) is not tied to a specific wording. Whether you say 'If prayer is valid, then the worshipper is pure' or 'Every valid prayer requires purity,' the logical content is identical. The author insists that intellectual meanings, not words, are the true subject of logic.
+
+Guided Path
+1
+Identify the core implication
+Find the two propositions that are linked by entailment: 'prayer validity' (ملزوم/antecedent) and 'worshipper purity' (لازم/consequent). The author uses this pair in all his examples.
+The logical relation is that the antecedent necessitates the consequent.
+2
+List the different linguistic forms
+Go through the Arabic text and list each distinct form: conditional (if...then), categorical (every...is...), negated categorical (whoever is not...), statement of entailment (A entails B), statement of condition (purity is a condition), and statement of implication (it follows from...).
+The author enumerates at least six different phrasings.
+3
+Verify sameness of logical meaning
+For each form, check whether the same implication holds: if the prayer is valid, purity must be present; if purity is absent, prayer is invalid. All forms convey this bidirectional entailment.
+The unity of meaning is confirmed by the fact that the truth conditions are identical.
+4
+Generalize the principle
+Understand that the author's point is universal: any logical relationship (e.g., condition, cause, definition) can be expressed in multiple ways. The logician should focus on the intellectual meaning, not get trapped in one verbal formula.
+This principle is important for interpreting arguments in Islamic texts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فَصْلٌ فِي الْعِبَارَاتِ
+فإن ما يسمونه الشرطي المتصل مضمونه الاستدلال بثبوت الملزوم على ثبوت اللازم، وبانتفاء اللازم على انتفاء الملزوم، سواء عُبّر عن هذا المعنى بصيغة الشرط أو لا يغير بصيغة الجزم واختلاف صيغ الدليل مع اتحاد معناه لا يغير حقيقته. والكلام إنما هو حقيقة المعنى في المعاني العقلية، لا في الألفاظ . فإذا قال القائل: إن كانت الصلاةُ صحيحة فالمصلّي متطهر»؛ و «إن كانت الشمس طالعة فالنهار موجود ؛ و إن كان الفاعل عالماً قادراً فهو حي»؛ ونحو ذلك، فهذا معنى قوله : صحة الصلاة تستلزم صحة الطهارة»، وقوله : يلزم من صحة الصلاة صحة ثبوت الطهارة»، وقوله : (لا يكون مصلياً إلا مع الطهارة ، وقوله : «الطهارة شرط في صحة الصلاة، وإذا عُدم الشرط عُدم المشروط»، وقوله : «كل مصل متطهر، فمن ليس بمتطهر فليس بمصل». وأمثال ذلك من أنواع التأليف للألفاظ والمعاني التي يتضمن هذا الاستدلال من غير حَصْر الناس في عبارة واحدة .
+Chapter on Expressions. For what they call the conditional hypothetical, its content is inferring from the existence of the antecedent to the existence of the consequent, and from the non-existence of the consequent to the non-existence of the antecedent, whether this meaning is expressed with the conditional form or with the categorical form. And the difference in forms of evidence while the meaning is united does not change its reality. The discussion is about the reality of meaning in intellectual meanings, not in words. So when one says: 'If the prayer is valid, then the worshipper is pure' and 'If the sun is risen, then daytime exists' and 'If the agent is knowing and powerful, then he is alive' and so on, then this is the meaning of his saying: 'The validity of prayer entails the validity of purity' and his saying: 'It follows from the validity of prayer the establishment of purity' and his saying: 'One is not a pray-er except with purity' and his saying: 'Purity is a condition for the validity of prayer, and if the condition is absent, the conditioned is absent' and his saying: 'Every pray-er is pure, so whoever is not pure is not a pray-er.' And similar examples of types of composition of words and meanings that contain this inference, without confining people to one expression.
+Source pages p. 209
+
+Commentary
+This passage discusses that logical relationships—specifically the relation of implication—are not tied to specific linguistic formulations. The logicians' conditional (sharti muttasil) expresses the same logical relation as categorical statements, conditional statements, and other phrasings. The author emphasizes that the reality of the logical meaning is what matters, not the particular words. He gives multiple examples all expressing the same implication between prayer and purity. This shows that the same logical inference can be cast in different linguistic forms.
+
+Key Terms
+شرطي متصل
+ملزوم
+لازم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the core of logical inference?
+A) The specific verbal formula
+B) The intellectual meaning (al-ma'na al-'aqli)
+C) The conditional form
+D) The categorical form
+
+Key Takeaway
+Logical meaning is not tied to a single expression; the same implication can be stated in many ways, and what matters is the underlying intellectual content.
+
+How This Lesson Applies — to MY Life?
+?
+Take the fiqh principle 'If the water is pure, then using it in wudu is valid.' Rewrite this logical implication in at least three different linguistic forms (conditional, categorical, and condition statement) as the author does for prayer and purity.
+
+Pages p. 209 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 348
+Module 8 · Lesson 5
+Next →
+Propositions
+beginner
+5 min
+Hadsiyyat and Mujarrabat: A Comparative Definition
+Author defines hadsiyyat and distinguishes them from mujarrabat
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish hadsiyyat from mujarrabat based on the agent of the action and explain why some scholars treat them as a single category.
+
+Core Idea
+Hadsiyyat and mujarrabat differ only in whose actions they concern, not in logical structure.
+
+In Islamic epistemology, certain premises can arise from repeated experience. But whose experience? Ibn Taymiyya here clarifies that the difference between hadsiyyat (intuitions) and mujarrabat (experiential premises) is not about generality or certainty—both can be certain. Rather, the distinction lies in the subject: mujarrabat concern actions observed in others, while hadsiyyat come from one's own repeated actions. Some scholars even collapse both into one category, calling them all 'tajribiyyat'.
+
+Guided Path
+1
+Identify the two types of premises
+Locate the terms al-hadsiyyat and al-mujarrabat in the Arabic. Note that the author is defining a distinction that some scholars make.
+Both are considered sources of certain premises in Mantiq.
+2
+Extract the point of similarity
+The author says hadsiyyat, if considered certain, are 'analogous to mujarrabat' (نظير المجربات). They share the same logical status and certainty level.
+This challenges the common view that mujarrabat are more certain than hadsiyyat.
+3
+Pinpoint the differentia
+The difference is not in generality (العموم والخصوص) but in whose actions are the subject: mujarrabat concern actions of 'mujarribin' (those who experiment on others), while hadsiyyat concern the intuiters' own actions.
+The agent of the action is the key differentia.
+4
+Note the terminological conflation
+Some people (بعض الناس) call both types 'tajribiyyat' (experientials), treating hadsiyyat as a subset of experiential premises.
+This shows the fluidity of classification in the tradition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فالمسموع قول معيَّن ؛ والمرئي جسم معيَّن أو لون معين أو عمل معين، أو أمر ما معين . وأما الحدسيات إن جُعلت يقينية فهي نظير المجربات، إذ الفرق بينهما لا يعود إلى العموم والخصوص، وإنما يعود إلى أن المجربات تتعلق بما هو من أفعال المجربين والحدسيات تكون عن أفعالهم. وبعض الناس يسمي الكل «تجربيات».
+The audible is a specific utterance; and the visible is a specific body or specific color or specific action, or some specific thing. As for intuitions (hadsiyyat), if they are made certain, they are analogous to experiential premises (mujarrabat), for the difference between them does not go back to generality and particularity, but rather goes back to the fact that experiential premises pertain to what is from the actions of those who experience (mujarribin), while intuitions come from their [i.e., the intuiters'] own actions. And some people call all of them 'experientials'.
+Source pages p. 348
+
+Commentary
+This passage defines a class of premises called 'hadsiyyat' (intuitions) and compares them to 'mujarrabat' (experiential premises). The author begins by explaining that sensible objects—whether audible, visible, etc.—are always specific individuals. He then turns to hadsiyyat: if one grants that they yield certainty, they are actually similar to mujarrabat. The difference between the two types is not in generality or particularity (i.e., one is not more general than the other as some might think). Rather, the difference lies in whose actions are the subject of the premise: mujarrabat concern actions performed by others (which the experiencer observes repeatedly), while hadsiyyat concern actions performed by the intuiting person himself (such that he can intuit a general rule from his own repeated actions). Some scholars simply call both types 'tajribiyyat' (experientials), emphasizing their common empirical basis.
+
+Key Terms
+الحدسيات
+المجربات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this passage, what distinguishes hadsiyyat from mujarrabat?
+A) Hadsiyyat are more general than mujarrabat.
+B) Mujarrabat involve actions of others, hadsiyyat involve one's own actions.
+C) Hadsiyyat are uncertain while mujarrabat are certain.
+D) Mujarrabat are from the senses, hadsiyyat from intellect.
+
+Key Takeaway
+Hadsiyyat and mujarrabat are structurally similar certain premises; the sole difference lies in whether the action belongs to the observer or to the intuits.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether each of the following premises is hadsi or mujarrab: (a) 'Honey has healing properties, as repeatedly observed in patients.' (b) 'I know that I feel thirsty when I haven't drunk water for hours.'
+?
+Explain how Ibn Taymiyya's classification would affect the treatment of the premise 'Fire burns' — is it hadsi or mujarrab? Why might some call it 'tajribiyyat'?
+
+Pages p. 348 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 362
+Module 8 · Lesson 6
+Next →
+Propositions
+intermediate
+10 min
+Knowledge of Particulars Does Not Require Universal Premises
+Ibn Taymiyya argues that knowledge of particular contraries is prior to universal premises.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's argument that knowledge of particular contraries and contradictories is prior to universal propositions, and identify his critique of the logicians' epistemological claim.
+
+Core Idea
+Particular knowledge precedes and is independent of universal premises.
+
+Ibn Taymiyya challenges a cornerstone of Aristotelian logic: that knowledge of particulars depends on universal syllogisms. Using the examples of contraries and contradictories, he demonstrates that we know specific instances immediately without invoking universal rules. This lesson unpacks his argument and its epistemological significance.
+
+Guided Path
+1
+Identify the logicians' claim
+Find where Ibn Taymiyya attributes to the logicians the assertion that knowledge of particulars requires a universal premise. The target doctrine is implied in phrases like 'their saying: "The two contraries do not combine."'
+The logicians assume that the universal is needed to know any particular instance.
+2
+Analyze the contrary example
+Ibn Taymiyya states that for any two things known to be contrary, we directly know they do not combine before recalling the universal 'Every pair of contraries do not combine.' Write out the epistemic sequence: particular contrariety → immediate knowledge of non-combination, without the universal.
+3
+Extend to contradictories
+Similarly, for any particular thing, we know it cannot be both existent and non-existent, and that it is not devoid of both, prior to the universal proposition about contradictories. Confirm this in the passage.
+4
+Extract the general conclusion
+Ibn Taymiyya concludes that the particular known by the universal is known before and without it. The universal only applies to mental estimations, not to external existents. Locate this conclusion in the Arabic.
+The phrase 'ولا يحتاج العلم به إلى القضية الكلية' is key.
+5
+Assess the epistemological shift
+How does this argument undermine the necessity of syllogism for empirical knowledge? It prioritizes direct concrete experience over abstract rules, reversing the logicians' order.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وكذلك قولهم : الضدان لا يجتمعان. فأي شيئين عُلم تضادهما فإنه يعلم أنهما لا يجتمعان قبل استحضار قضية كلية بأن كل ضدين لا يجتمعان. وما من جسم معين إلا ويعلم أنه لا يكون في مكانين قبل العلم بأن كل جسم لا يكون في مكانين. وكذلك قولهم : النقيضان لا يجتمعان ولا يرتفعان. فإن مرادهم بذلك أن وجود الشيء وعدمه لا يجتمعان ولا يرتفعان فما من شيء معين إلا ويُعلم أنه لا يكون موجوداً معدوماً، وأنه لا يخلو عن الوجود والعدم، قبل العلم بهذه القضية العامة. وأمثال ذلك كثيرة لمن تدبره. ويُعلم أن المعين المطلوب علمه بهذه القضايا الكلية الأولية يُعلم قبل أن تعلم هذه القضية الكلية، ويُعلم بدونها، ولا يحتاج العلم به إلى القضية الكلية. وإنما يعلم بالقضية الكلية ما يُقدَّر في الذهن من أمثال ذلك مما لم يوجد في الخارج. وأما الموجودات الخارجية فتعلم بدون هذا القياس.
+And similarly their saying: 'The two contraries do not combine.' For any two things whose contrariety is known, it is known that they do not combine before the retrieval of a universal proposition that every two contraries do not combine. And there is no particular body except that it is known that it cannot be in two places before the knowledge that every body cannot be in two places. And similarly their saying: 'The two contradictories do not combine and are not removed.' For their intent by that is that the existence of a thing and its non-existence do not combine and are not removed. So there is no particular thing except that it is known that it cannot be existent and non-existent, and that it is not devoid of existence and non-existence, before the knowledge of this universal proposition. And examples of that are many for one who reflects. And it is known that the particular sought to be known by these primary universal propositions is known before one knows this universal proposition, and is known without it, and its knowledge does not need the universal proposition. Rather, by the universal proposition one only knows what is estimated in the mind of similar things that do not exist externally. As for external existents, they are known without this syllogism.
+Source pages p. 362
+
+Commentary
+This passage is a critical epistemological argument by Ibn Taymiyya against the logicians' claim that knowledge of particulars depends on universal premises. He begins with the example of contraries (al-diddan): when one knows two specific things are contrary, one immediately knows they cannot coexist without first recalling the universal statement 'Every pair of contraries do not combine.' Similarly, for any particular body, one knows it cannot be in two places at once before knowing the universal 'Every body cannot be in two places.' He then addresses contradictories (naqidan): existence and non-existence of a thing cannot combine nor be absent; this particular knowledge is prior to the universal rule. Ibn Taymiyya concludes that the particular is known prior to and independent of the universal. The universal only applies to mental estimations of things not found externally, while external existents are known without such syllogistic reasoning. This refutes the foundational claim that syllogism is necessary for knowledge of particulars.
+
+Key Terms
+الضدان
+النقيضان
+قضية كلية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, is knowledge that a particular body cannot be in two places dependent on the universal premise 'Every body cannot be in two places'?
+A) Yes, the universal premise is necessary.
+B) No, it is known before and without the universal premise.
+C) Only if the body is not physically actual.
+D) It depends on the type of body.
+
+Key Takeaway
+Ibn Taymiyya demonstrates that knowledge of particular existents is epistemically prior to universal propositions, reversing the logicians' order of knowledge.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Reconstruct Ibn Taymiyya's argument using the example of the body in two places. Write a short paragraph showing that knowledge that 'this body cannot be in two places' does not depend on the universal premise 'Every body cannot be in two places.' Explain the epistemic order as Ibn Taymiyya presents it.
+?
+Task 2: Consider the Islamic legal maxim 'al-yaqīn lā yazūlu bi al-shakk' (certainty is not removed by doubt). Find a particular example (e.g., a person who is certain they performed wudu but doubts afterward) and explain how the particular certainty is known without a universal premise about certainty.
+
+Pages p. 362 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 408
+Module 8 · Lesson 7
+Next →
+Propositions
+intermediate
+10 min
+The Regress Argument: Universals Without Syllogism
+Ibn Taymiyya's regress argument against syllogistic necessity
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's regress argument against the necessity of qiyas for all universal propositions.
+
+Core Idea
+If every universal requires a syllogism, an infinite regress follows – so some must be known directly.
+
+Ibn Taymiyya begins by describing the standard categorical syllogism and then argues that universal propositions cannot always depend on syllogisms. In this lesson, you will walk through his regress argument, which shows that some universals must be self-evident, a point even the logicians concede.
+
+Guided Path
+1
+Identify the structure of a syllogism
+Ibn Taymiyya states that the major premise is more general than or equal to the minor, and the conclusion is more specific than the major and more general than the minor. Note the three terms: major, minor, middle.
+This is the standard categorical syllogism (qiyas iqtirani hamli).
+2
+Trace the origin of universals from particulars
+He argues that the senses first perceive individuals, then form general judgments. For example, seeing many humans leads to the universal 'every human is rational'.
+This shows universals can arise without syllogistic reasoning.
+3
+Analyze the regress argument
+If every universal requires a syllogism, then each syllogism needs a universal premise, leading to circularity or infinite regress. Therefore, there must be self-evident universals, which the logicians concede.
+4
+Connect to the conclusion
+Thus, some universal propositions are known without qiyas, weakening the claim that qiyas is essential for all knowledge.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه السادس من القضايا الكلية ما يمكن العلم به بغیر توسط «القياس» وهو يتضح بالوجه السادس، وهو أن يقال : لا ريب أن المقدمة الكبرى أعم من الصغرى أو مثلها لا تكون أخص منها والنتيجة أخص من الكبرى أو مساوية لها، وأعم من الصغرى أو مساوية لها، كالحدود الثلاثة فإن الأكبر أعم من الأصغر أو مثله ، القضايا العامة والأوسط مثل الأصغر أو أعم، ومثل الأكبر أو أخص ولا ريب أن الحس يدرك تتكون من المعينات المعيَّنات أولاً، ثم ينتقل منها إلى القضايا العامة. فإن الإنسان يرى هذا الإنسان، وهذا الإنسان، وهذا الإنسان، ویری أن هذا حساس متحرك بالإرادة ناطق، وهذا كذا، وهذا كذا، فيقضي قضاء عاماً أن كل [٣٥٢] إنسان حساس متحرك بالإرادة ناطق . فنقول : العلم بالقضية العامة إما أن يكون بتوسط قياس، أو بغير توسط قياس . فإن كان لا بد من توسط قياس والقياس لا بد فيه من قضية عامة، لزم أن لا يُعلم العام إلا بعام وذلك يستلزم الدور أو التسلسل . فلا بد أن ينتهي الأمر إلى قضية كلية عامة معلومة بالبديهة، وهم يسلّمون ذلك. كون القضية وإن أمكن علم القضية العامة بغير توسط قياس أمكن علم الأخرى. فإن كون أو نظرية القضية بديهية أو نظرية ليس وصفاً لازماً لها يجب استواء جميع الناس فيه، بل هو أمر أمر إضافي نِسبي إضافي بحسب حال علم الناس بها. فمن علمها بلا دليل كانت بديهية له، ومن احتاج إلى نظر واستدلال بدليل كانت نظرية له . طرق العلم وكذلك كونها معلومة بالعقل أو الخبر المتواتر، أو خبر النبي الصادق، أو الحس، ليس هو أمراً لازماً لها . بل كَذِب مُسَيْلِمَة الكذاب مثلاً قد يُعلم بقول النبي الصادق إنه كذاب ؛ وقد يعلم ذلك مَنْ باشره ورآه يكذب ؛ ويعلم ذلك من غاب عنه بالتواتر ؛ ويُعلم ذلك بالاستدلال، فإنه ادعى النبوة وأتى بما يناقض النبوة، فيعلم بالاستدلال . وكذلك الهلال، قد يُعلم طلوعه بالرؤية فتكون القضية حسّية ؛ ويعلم ذلك مَنْ لم يره بالأخبار المتواترة فتكون القضية عنده من المتواترات ؛ ويعلم ذلك من علم أن تلك الليلة إحدى وثلاثون بالحساب والاستدلال ومثل هذا كثير . فالمعلوم الواحد يعلمه هذا بالحس، وهذا [٣٥٣] بالخبر، وهذا بالنظر. وهذه طرق العلم لبني آدم . وهكذا القضايا الكلية إذا كان منها ما يُعلم بلا قياس ولا دليل، وليس لذلك حدّ نفس القضايا بل ذلك بحسب أحوال بني آدم لم يمكن أن يقال فيما علمه زيد بالقياس إنه لا يمكن غيره أن يعلمه بلا قياس . بل هذا نفي كاذب .
+The sixth aspect: from universal propositions, that which can be known without the intermediary of the syllogism. And it becomes clear by the sixth aspect, that it is said: There is no doubt that the major premise is more general than the minor premise or equal to it, not more specific than it; and the conclusion is more specific than the major or equal to it, and more general than the minor or equal to it, like the three terms: the major is more general than the minor or equal, and the middle is like the minor or more general, and like the major or more specific. And there is no doubt that the senses perceive the particular particulars first, then move from them to general propositions. For man sees this man, and this man, and this man, and sees that he is sensitive, moving by will, rational, and this is such, and this is such, so he makes a general judgment that every man is sensitive, moving by will, rational. So we say: Knowledge of the universal proposition is either mediated by a syllogism or not mediated by a syllogism. If it must be mediated by a syllogism, and the syllogism must have a universal proposition, then the universal cannot be known except through a universal, and that necessitates circularity or infinite regress. Hence it is necessary to end at a general universal proposition known by intuition, and they concede that. The fact that the proposition, if knowledge of the universal proposition without the mediation of a syllogism is possible, then knowledge of the other is possible. For whether a proposition is intuitive or theoretical is not an inherent description of it that requires equality of all people in it; rather it is an additive, relative, additive matter according to the state of people's knowledge of it. Whoever knows it without proof, it is intuitive for him; whoever needs consideration and inference with proof, it is theoretical for him. The ways of knowledge, and likewise whether it is known by intellect, or recurrent report, or the report of a truthful prophet, or sensation, is not an inherent matter for it. Rather, the lie of Musaylimah the Liar, for example, may be known by the statement of the truthful prophet that he is a liar; and it may be known by the one who encountered him and saw him lying; and it is known by the one absent from him through recurrent report; and it is known by inference, for he claimed prophethood and brought things that contradict prophethood, so it is known by inference. Likewise the crescent moon: its rising may be known by sight, so the proposition is sensory; and it is known by the one who did not see it through recurrent reports, so the proposition is for him among the recurrent reports; and it is known by the one who knows that night is thirty-first by calculation and inference, and much like this. So the one known thing is known by this one through sensation, by this one through report, and by this one through consideration. And these are the ways of knowledge for the children of Adam. And thus with universal propositions: if there are among them those known without syllogism or proof, and that is not due to a limit of the propositions themselves but rather according to the states of the children of Adam, it cannot be said regarding what Zaid knows by syllogism that someone else cannot know it without syllogism. Rather, this is a false negation.
+Source pages p. 408
+
+Commentary
+This passage is the sixth aspect of Ibn Taymiyya's critique of the logicians' claim that all knowledge requires a syllogism. He begins by describing the structure of a categorical syllogism: the major premise is more general than the minor or equal, the conclusion is more specific than the major and more general than the minor. He uses the three terms (major, minor, middle) to illustrate. Then he argues that universal propositions originate from sensory experience of particulars; for example, seeing many humans leads to the universal 'every human is rational'. He then poses the key question: is knowledge of a universal proposition mediated by a syllogism or not? If it always requires a syllogism, and each syllogism requires a universal premise, then we face circularity or infinite regress. Thus, some universals must be known immediately (badihiyya), a point conceded by the logicians. Next, he introduces the relativity of the intuitive (badihi) and theoretical (nazari) status of propositions: it is not inherent but depends on the knower. He provides examples: the falsity of Musaylimah can be known through prophetic report, direct experience, recurrent report, or inference. Similarly, the crescent moon is known by sight, recurrent report, or calculation. Thus, the same proposition can be known by different means by different people. He concludes that universal propositions can be known without syllogism by some, so it is false to claim that what Zaid knows by syllogism cannot be known without it by another. This passage refutes the logicians' insistence on syllogistic necessity.
+
+Key Terms
+قياس
+بديهي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya in the passage, knowledge of a universal proposition cannot always come from a syllogism because:
+A) The syllogism is too complex
+B) It leads to circularity or infinite regress
+C) The senses are unreliable
+D) Prophetic reports are more certain
+
+Key Takeaway
+Ibn Taymiyya argues that some universal propositions must be self-evident to avoid circularity, and they can originate from sense experience.
+
+How This Lesson Applies — to MY Life?
+?
+Construct Ibn Taymiyya's regress argument in your own words, using the Islamic example 'All intoxicants are forbidden' as the universal proposition.
+?
+Identify a universal proposition from the Qur'an that is known without syllogism, and explain how it fits Ibn Taymiyya's argument that some universals are self-evident.
+
+Pages p. 408 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 408
+Module 8 · Lesson 8
+Next →
+Propositions
+intermediate
+10 min
+The Relativity of Knowledge Sources
+Ibn Taymiyya's argument on the relativity of intuitive and theoretical knowledge
+
+Learning Objective
+By the end of this lesson, you will be able to explain Ibn Taymiyya's doctrine that the badihi/nazari distinction is relative to the knower, using examples from the Islamic sciences.
+
+Core Idea
+Whether a proposition is intuitive or theoretical depends on the knower, not the proposition itself.
+
+Ibn Taymiyya goes further: not only can some universals be known without syllogism, but the very classification of propositions as intuitive or theoretical is relative. In this lesson, you will explore his argument that the same proposition can be known by different means by different people, using vivid examples from Islamic history and astronomy.
+
+Guided Path
+1
+Identify the claim: badihi/nazari is relative
+Ibn Taymiyya states that whether a proposition is intuitive or theoretical is not an inherent property, but depends on the individual's state of knowledge.
+This directly challenges the logicians' absolute categorization.
+2
+Examine the examples of multiple ways of knowing
+He gives two examples: the lie of Musaylimah can be known by prophetic report, direct experience, recurrent report, or inference; the crescent moon can be known by sight, recurrent report, or calculation.
+3
+Apply the relativity to universal propositions
+He concludes that if some universals are known without qiyas by some, it does not mean they cannot be known without qiyas by others. The knowledge source varies by person.
+4
+Reflect on the implication for the logicians' claim
+This refutes the idea that qiyas is universally necessary. Knowledge sources are diverse and relative.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه السادس من القضايا الكلية ما يمكن العلم به بغیر توسط «القياس» وهو يتضح بالوجه السادس، وهو أن يقال : لا ريب أن المقدمة الكبرى أعم من الصغرى أو مثلها لا تكون أخص منها والنتيجة أخص من الكبرى أو مساوية لها، وأعم من الصغرى أو مساوية لها، كالحدود الثلاثة فإن الأكبر أعم من الأصغر أو مثله ، القضايا العامة والأوسط مثل الأصغر أو أعم، ومثل الأكبر أو أخص ولا ريب أن الحس يدرك تتكون من المعينات المعيَّنات أولاً، ثم ينتقل منها إلى القضايا العامة. فإن الإنسان يرى هذا الإنسان، وهذا الإنسان، وهذا الإنسان، ویری أن هذا حساس متحرك بالإرادة ناطق، وهذا كذا، وهذا كذا، فيقضي قضاء عاماً أن كل [٣٥٢] إنسان حساس متحرك بالإرادة ناطق . فنقول : العلم بالقضية العامة إما أن يكون بتوسط قياس، أو بغير توسط قياس . فإن كان لا بد من توسط قياس والقياس لا بد فيه من قضية عامة، لزم أن لا يُعلم العام إلا بعام وذلك يستلزم الدور أو التسلسل . فلا بد أن ينتهي الأمر إلى قضية كلية عامة معلومة بالبديهة، وهم يسلّمون ذلك. كون القضية وإن أمكن علم القضية العامة بغير توسط قياس أمكن علم الأخرى. فإن كون أو نظرية القضية بديهية أو نظرية ليس وصفاً لازماً لها يجب استواء جميع الناس فيه، بل هو أمر أمر إضافي نِسبي إضافي بحسب حال علم الناس بها. فمن علمها بلا دليل كانت بديهية له، ومن احتاج إلى نظر واستدلال بدليل كانت نظرية له . طرق العلم وكذلك كونها معلومة بالعقل أو الخبر المتواتر، أو خبر النبي الصادق، أو الحس، ليس هو أمراً لازماً لها . بل كَذِب مُسَيْلِمَة الكذاب مثلاً قد يُعلم بقول النبي الصادق إنه كذاب ؛ وقد يعلم ذلك مَنْ باشره ورآه يكذب ؛ ويعلم ذلك من غاب عنه بالتواتر ؛ ويُعلم ذلك بالاستدلال، فإنه ادعى النبوة وأتى بما يناقض النبوة، فيعلم بالاستدلال . وكذلك الهلال، قد يُعلم طلوعه بالرؤية فتكون القضية حسّية ؛ ويعلم ذلك مَنْ لم يره بالأخبار المتواترة فتكون القضية عنده من المتواترات ؛ ويعلم ذلك من علم أن تلك الليلة إحدى وثلاثون بالحساب والاستدلال ومثل هذا كثير . فالمعلوم الواحد يعلمه هذا بالحس، وهذا [٣٥٣] بالخبر، وهذا بالنظر. وهذه طرق العلم لبني آدم . وهكذا القضايا الكلية إذا كان منها ما يُعلم بلا قياس ولا دليل، وليس لذلك حدّ نفس القضايا بل ذلك بحسب أحوال بني آدم لم يمكن أن يقال فيما علمه زيد بالقياس إنه لا يمكن غيره أن يعلمه بلا قياس . بل هذا نفي كاذب .
+The sixth aspect: from universal propositions, that which can be known without the intermediary of the syllogism. And it becomes clear by the sixth aspect, that it is said: There is no doubt that the major premise is more general than the minor premise or equal to it, not more specific than it; and the conclusion is more specific than the major or equal to it, and more general than the minor or equal to it, like the three terms: the major is more general than the minor or equal, and the middle is like the minor or more general, and like the major or more specific. And there is no doubt that the senses perceive the particular particulars first, then move from them to general propositions. For man sees this man, and this man, and this man, and sees that he is sensitive, moving by will, rational, and this is such, and this is such, so he makes a general judgment that every man is sensitive, moving by will, rational. So we say: Knowledge of the universal proposition is either mediated by a syllogism or not mediated by a syllogism. If it must be mediated by a syllogism, and the syllogism must have a universal proposition, then the universal cannot be known except through a universal, and that necessitates circularity or infinite regress. Hence it is necessary to end at a general universal proposition known by intuition, and they concede that. The fact that the proposition, if knowledge of the universal proposition without the mediation of a syllogism is possible, then knowledge of the other is possible. For whether a proposition is intuitive or theoretical is not an inherent description of it that requires equality of all people in it; rather it is an additive, relative, additive matter according to the state of people's knowledge of it. Whoever knows it without proof, it is intuitive for him; whoever needs consideration and inference with proof, it is theoretical for him. The ways of knowledge, and likewise whether it is known by intellect, or recurrent report, or the report of a truthful prophet, or sensation, is not an inherent matter for it. Rather, the lie of Musaylimah the Liar, for example, may be known by the statement of the truthful prophet that he is a liar; and it may be known by the one who encountered him and saw him lying; and it is known by the one absent from him through recurrent report; and it is known by inference, for he claimed prophethood and brought things that contradict prophethood, so it is known by inference. Likewise the crescent moon: its rising may be known by sight, so the proposition is sensory; and it is known by the one who did not see it through recurrent reports, so the proposition is for him among the recurrent reports; and it is known by the one who knows that night is thirty-first by calculation and inference, and much like this. So the one known thing is known by this one through sensation, by this one through report, and by this one through consideration. And these are the ways of knowledge for the children of Adam. And thus with universal propositions: if there are among them those known without syllogism or proof, and that is not due to a limit of the propositions themselves but rather according to the states of the children of Adam, it cannot be said regarding what Zaid knows by syllogism that someone else cannot know it without syllogism. Rather, this is a false negation.
+Source pages p. 408
+
+Commentary
+This passage is the sixth aspect of Ibn Taymiyya's critique of the logicians' claim that all knowledge requires a syllogism. He begins by describing the structure of a categorical syllogism: the major premise is more general than the minor or equal, the conclusion is more specific than the major and more general than the minor. He uses the three terms (major, minor, middle) to illustrate. Then he argues that universal propositions originate from sensory experience of particulars; for example, seeing many humans leads to the universal 'every human is rational'. He then poses the key question: is knowledge of a universal proposition mediated by a syllogism or not? If it always requires a syllogism, and each syllogism requires a universal premise, then we face circularity or infinite regress. Thus, some universals must be known immediately (badihiyya), a point conceded by the logicians. Next, he introduces the relativity of the intuitive (badihi) and theoretical (nazari) status of propositions: it is not inherent but depends on the knower. He provides examples: the falsity of Musaylimah can be known through prophetic report, direct experience, recurrent report, or inference. Similarly, the crescent moon is known by sight, recurrent report, or calculation. Thus, the same proposition can be known by different means by different people. He concludes that universal propositions can be known without syllogism by some, so it is false to claim that what Zaid knows by syllogism cannot be known without it by another. This passage refutes the logicians' insistence on syllogistic necessity.
+
+Key Terms
+بديهي
+نظري
+إضافي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, the proposition that Musaylimah is a liar can be known by:
+A) Only through prophetic report
+B) Only through direct experience
+C) Through multiple ways depending on the person
+D) Only through syllogism
+
+Key Takeaway
+Ibn Taymiyya emphasizes that the same proposition can be known through different means by different people, breaking the monopoly of syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Give an Islamic science example (not from the passage) of a proposition that is badihi for one person and nazari for another, and explain why.
+?
+Identify a proposition that can be known by at least three different methods (sensory, report, inference) as Ibn Taymiyya does, and write a short paragraph defending his claim.
+
+Pages p. 408 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 431
+Module 8 · Lesson 9
+Next →
+Propositions
+intermediate
+7 min
+The Composite Nature of Empirical and Intuitive Propositions
+Ibn Taymiyya dissects empirical and intuitive propositions, showing their composite nature of sense and intellect.
+
+Learning Objective
+By the end of this lesson, you will be able to explain Ibn Taymiyya's critique of the logicians' view that empirical propositions are purely sensory, and identify the role of intellect in forming universal judgments from repeated observations.
+
+Core Idea
+Empirical propositions are not pure sense; they require intellect to grasp the universal common factor.
+
+Ibn Taymiyya challenges the logicians' claim that empirical and intuitive propositions can serve as secure foundations for demonstration. He argues that these propositions are not purely sensory but are composites of sense and intellect. In this lesson, we will dissect his argument that the universal judgment (al-qada' al-kulli) arises only when the intellect grasps a common factor from repeated observations. This has profound implications for the certainty of knowledge derived from experience.
+
+Guided Path
+1
+Identify the target of critique
+Ibn Taymiyya is critiquing the logicians' view that sensory propositions (al-hissiyyat) can provide certain demonstration (burhan) against an opponent. He denies this by showing their composite nature.
+2
+Understand the composite structure
+He analyses that empirical propositions involve both sense (particular experiences) and intellect (the universal judgment). The sensory part provides particular instances, but the universal judgment is added by the intellect.
+3
+Examine the role of repetition
+Through repeated observations, the intellect perceives a common factor (al-qadr al-mushtarak) and forms a universal judgment. This is the core of the critique: the universal is not given by sense alone.
+4
+Apply the analysis to intuitive propositions
+Ibn Taymiyya shows that hadsiyyat (intuitive) are similar, with repetition not by human action, e.g., celestial observations like the moon's light variation, leading to the intuition of a common cause.
+5
+Connect to habitual knowledge
+Even knowledge of language and customs follows this pattern. For example, hearing a speaker repeatedly use a word with a certain meaning allows the intellect to infer a habitual intention, showing the widespread applicability of the composite structure.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الرابع - الوجه الثامن : كون الحسيات لا يقوم بها برهان على المنازع
+
+والقضايا الظنية أصلها التجربيات، وهو من هذا الباب. فإن المراد أنه إذا استعمل الدواء الفلاني وجد زوال المرض أو حصل به ألم المرض. فوجود المرض بهذا و وجود زواله بهذا هو من التجربيات وكذلك الآلام واللذات التي تحصل بالمشمومات والمسموعات والمرئيات والملموسات فإن الحس ينال كذا ويسمع هذا، ويذوق هذا، ويلمس هذا ثم وجود اللذة في النفس هو من الوجديات المعلومة بالحس الباطن، وهو من جنس الحسيات الظاهرة .
+
+هذا،
+ويرى
+وأما الاعتقاد الكلي القائم في النفس من أن هذا الجنس يحصل به اللذة، وهذا التجربيات مركبة من الجنس يحصل به الألم فهذا من التجربيات، إذ الحسيات الظاهرة والباطنة ليس فيها الحس والعقل
+شيء كلي. فالقضاء الكلي الذي يقوم بالقلب هو مركب من الحس والعقل، وهو التجربيات، كما في اعتقاد حصول الشبع والري بما يعرف من المأكولات والمشروبات والموتِ والمرض بما يعرف من السموم القتالة والأسباب الممرضة، وزوال ذلك بالأسباب المعروفة وكل هذا من القضايا التجربية. فالحس به تعرف الأمور المعينة، ثم إذا تكررت مرة بعد مرة أدرك العقل أن هذا بسبب القدر المشترك الكلي، فقضى قضاء كلياً أن هذا يورث اللذة الفُلانية، وهذا يورث الألم الفلاني .
+
+كون
+/[٣٨١] والحَدْسِيّات هي كذلك. فبالحس يعرف أعيانها، ثم يتكرر فيعلم بالعقل ۳۸۷ القدرُ المشترك . لكن ذلك التكرر لا يكون بفعل الإنسان، بل هو كما يعرف من الأمور الحدسيات السماوية، مثل أن يرى اختلاف أنوار القمر عند اختلاف مقابلته للشمس، فَيَحْدِسُ أن كالتجربيات
+ضوءه مستفاد منها. ومثل ما يرى الثوابت لا تختلف حركتها بالطول والعرض، بل حركتها حركة واحدة فيُحْدِس أن فلكها ،واحد ، وإلا فيجوز أن يكون لكل واحد فلكاً حركته مثل حركة الآخر. ومثل ما يرى اختلاف حركات السبعة، فيحدس عن اختلاف أفلاكها. وهذا يسمى في اللغة تجربيات». وكثير منهم أيضاً يسميه «تجربيات»، ولا يجعل قسماً غير «المجربات».
+
+وبالجملة الأمورُ العادية، سواء كان سبب العادة إرادةً نفسانية أو قوة طبيعية، كون العاديات
+من باب فالعلم بكونها كلية هو من التجربيات، أو الحدسيات - إن جعلت نوعاً آخر. حتى العلم
+تعرف هذه
+المجربات
+كتاب الرد على المنطقيين
+بمعاني اللغات هو من الحدسيات. فإن الإنسان يسمع لفظ المتكلم، ثم قد يعلم مراده المعيَّن بإشارة إليه أو بقرينة أخرى، ثم إذا تكرر تكلُّمه بذلك اللفظ مرة بعد مرة وهو يريد به ذلك المعنى عَلم أن هذه عادته الإرادية، وهو إرادة هذا المعنى بهذا اللفظ إذا قصد إفهام المخاطب، وهذا مما يسمونه «الحدسيات»، إذ ليس كلام [۳۸۲] المتكلم موقوفاً على اختيار المستمع وهو من التجربيات العامة فإن السمع إنما عُرف به الصوت، والمعنى قد يُفهم أولاً بأسباب متعددة : إما كون هذا المتكلم من عادته ولغته أنه إذا تكلم بهذا اللفظ أراد ذلك المعنى فهذا من هذا الباب وكذلك سائر ما يعلم من عادات الناس وعادات البهائم، وعادات النبات وعادات سائر الأعيان، هو من
+الباب .
+
+هذا
+وقد يُعلم أحد الشخصين بعادة نظيره. فإذا كان من عادة شخص إذا قال أو فعل أمراً أراد به شيئاً، ورأى نظيره يقول ذلك أو يفعله، فقد اعتقد أنه أراد ما أراد، لأن العادة عُرف أنها للنوع لا للشخص كعادة الناس في اللغات والأفعال، / من العبادات وغير العبادات. فإذا رأى الرجل يدخل المسجد قرب صلاة الجمعة وعليه أُهْبَة أهل الصلاة اعتقد أنه يدخله للصلاة، لأن هذا عادة هذا النوع. وكذلك إذا رأى قاعداً في محل التطهير شارعاً فيما يشرع فيه المتطهّر عَرَف أنه يتطهر . ثم العاديات قد تنتقض ، وقد يعلم ما يفعله الفاعل من العلم بصفاته، ويعلم صفاته من أفعاله. لكن ذاك من باب الاستدلال النظري العقلي وهو الاستدلال بالملزوم على اللازم فليس ذاك هذا .
+
+كون علم الهيئة من المجربات
+(1)
+من
+فعامة ما عند الفلاسفة بل وسائر العقلاء من العلوم الكلية بأحوال الموجودات هو
+بالنقل من من العلم بعادة ذلك الموجود، وهو مما يسمونه «الحدسيات». وعامة ما عندهم من غير تواتر العلوم العقلية [۳۸۳] الطبيعية والعلوم الفلكية كعلم الهيئة، فهو من هذا القسم من
+(۱) العاديات في الأصل «العبادات» .
+The fourth station - the eighth aspect: That sensory propositions do not provide a demonstration against the opponent. And the probable propositions, their origin is empirical [propositions], and it is of this category. For the meaning is that if a certain medicine is used, the removal of the disease is found or the pain of the disease occurs. So the existence of the disease by this and the existence of its removal by this is from the empirical [propositions]. And likewise the pains and pleasures that are obtained by what is smelled, heard, seen, and touched; for the sense attains such, and hears this, and tastes this, and touches this. Then the existence of pleasure in the soul is from the subjective [propositions] known by the inner sense, and it is of the kind of the outer sensory [propositions]. This is so, and he sees. As for the universal belief standing in the soul that this genus obtains pleasure by it, and this genus obtains pain by it, this is from the empirical [propositions]. For the outer and inner sensory [propositions] contain nothing universal. So the universal judgment that stands in the heart is composed of sense and intellect, and it is the empirical [proposition], like the belief in obtaining satiety and quenching thirst by what is known of foods and drinks, and death and disease by what is known of lethal poisons and causes of illness, and the removal of that by known causes. All this is from the empirical propositions. By sense, particular things are known; then when they are repeated time after time, the intellect perceives that this is due to the universal common factor, so it delivers a universal judgment that this causes such pleasure, and this causes such pain. [Continues] And the intuitive [propositions] are like that. By sense their particulars are known, then they are repeated and the intellect knows the common factor. But that repetition is not by human action; rather it is like what is known from celestial intuitive matters, such as seeing the variations of the moonlight when its facing the sun varies, so he intuits that its light is derived from it. And like seeing that the fixed stars do not differ in their motion in longitude and latitude, but their motion is a single motion, so he intuits that their sphere is one; otherwise it would be possible for each to have a sphere with motion like the other's motion. And like seeing the differences in the motions of the seven [planets], he intuits the differences of their spheres. This is called in language 'empirical', and many of them also call it 'experiential', and do not make a division other than 'experiential'. In summary, habitual matters, whether the cause of the habit is a psychic will or a natural power, the knowledge of their being universal is from the empirical or intuitive [propositions] – if it is made another type. Even the knowledge of meanings of languages is from the intuitive [propositions]. For a person hears the speaker's utterance, then he may know his specific intended meaning by an indication or another context; then if his speaking with that utterance is repeated time after time while he intends that meaning, he knows that this is his voluntary habit, namely intending this meaning by this utterance when he aims to inform the addressee. And this is what they call 'intuitive', since the speaker's speech is not dependent on the listener's choice, and it is from general empirical [propositions] for hearing is only known by sound, and meaning may be understood first by multiple causes: either because this speaker is of the habit and language that when he speaks this utterance he intends that meaning, so this is of this category. And likewise all that is known of the habits of people, animals, plants, and all other entities, is of this category. This is so. And one person may be known by the habit of his counterpart. For if it is the habit of a person that when he says or does something he intends something, and one sees his counterpart saying or doing that, he believes that he intended what he intended, because the habit is known to be for the type, not for the person, like the habit of people in languages and actions, / from acts of worship and other than worship. For if one sees a man entering the mosque near the Friday prayer, wearing the preparation of the prayer people, he believes that he enters it for prayer, because this is the habit of this type. And likewise if he sees someone sitting in a place of purification starting what the one purifying begins, he knows that he is purifying. Then habitual matters may be broken, and what the agent does may be known from knowledge of his attributes, and his attributes known from his actions. But that is from the theoretical intellectual reasoning, and it is reasoning from the necessary to the necessary, so that is not this. The knowledge of astronomy being from the experiential [propositions]? Most of what the philosophers, and indeed all rational people, possess of universal sciences about the states of existents is from the knowledge of the habit of that existent, and it is what they call 'intuitive'. And most of what they have, besides transmitted intellectual sciences, natural sciences, and astronomical sciences like astronomy, is from this category. (1) 'al-aadiyat' in the original is 'al-ibadaat'.
+Source pages p. 431
+
+Commentary
+This passage is from Ibn Taymiyya's critique of the logicians' claim that sensory propositions can provide demonstration against an opponent. He argues that both empirical (tajribiyyat) and intuitive (hadsiyyat) propositions are composed of sense and intellect, and thus are not purely sensory. The author begins by stating the topic: sensory propositions cannot provide a demonstration. He then explains that probable propositions originate from empirical ones. For example, when a medicine is used and the disease is removed or pain occurs, this observation is empirical. The particular sensory experiences are obtained by the external senses, and the resulting pleasure or pain in the soul is known by the inner sense, which is similar to outer senses. The universal belief that a certain genus causes pleasure or pain is empirical, because the sensory data contain nothing universal. The universal judgment in the heart is a composite of sense and intellect. For instance, the belief that certain foods cause satiety, or that poisons cause death, are empirical judgments. Through repeated observation of particular instances, the intellect grasps the common factor (al-qadr al-mushtarak) and forms a universal judgment. Ibn Taymiyya then shows that intuitive propositions (al-hadsiyyat) are similar. They differ only in that the repetition is not by human action; examples include astronomical observations: seeing the moon's light vary with its position relative to the sun leads to the intuition that its light is derived from the sun. Similarly, the fixed stars' uniform motion leads to the intuition of a single sphere. Some logicians call these 'empirical' as well. The author concludes that most habitual knowledge—whether due to psychic will or natural power—is of this composite type, including knowledge of language meanings. For instance, hearing a speaker's utterance repeatedly with the same meaning allows one to infer his habitual intention. This knowledge is called 'intuitive'. Moreover, one can infer the habit of a type from an individual's action, like seeing a man entering the mosque before Friday prayer and deducing he intends to pray. However, such habitual knowledge can fail, and theoretical reasoning from necessary to necessary is different. Ultimately, most philosophical sciences, including astronomy, are based on this kind of habitual knowledge, not on pure demonstration.
+
+Key Terms
+التجربيات
+الحدسيات
+القدر المشترك
+القضاء الكلي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, why cannot empirical propositions (tajribiyyat) provide a certain demonstration (burhan)?
+A) Because they are based on unreliable senses.
+B) Because they are composed of sense and intellect, and are not purely sensory.
+C) Because they are rejected by philosophers.
+D) Because they are only about particular things.
+
+Key Takeaway
+Empirical and intuitive propositions are not purely sensory; they are composites of sense and intellect, and therefore cannot provide certain demonstration as claimed by the logicians.
+
+How This Lesson Applies — to MY Life?
+?
+Explain why the belief that 'smoking causes lung cancer' is, according to Ibn Taymiyya, a composite of sense and intellect, and therefore not a certain demonstration.
+?
+Identify a habitual knowledge from Islamic fiqh (e.g., the habit of praying in a mosque on Friday) and analyse it as Ibn Taymiyya would: what is the sensory part and what is the intellectual universal judgment?
+
+Pages p. 431 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 440
+Module 8 · Lesson 10
+Next →
+Propositions
+intermediate
+12 min
+Ibn Taymiyya's Critique of Excluding Common Opinions from Certainty
+Ibn Taymiyya rejects exclusion of wahmiyyat and mahmudat from certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's argument that mashhūrāt and wahmiyyāt are certain, and identify the internal inconsistency in Ibn Sina's classification.
+
+Core Idea
+Common opinions are grounded in fiṭra and deserve certainty, not mere dialectical acceptance.
+
+In this passage, Ibn Taymiyya challenges the philosophers' claim that common opinions (mashhūrāt) and imaginary propositions (wahmiyyāt) lack certainty. He asserts that all sound propositions are rooted in innate disposition (fiṭra) and cannot be epistemically downgraded. Then he quotes Ibn Sina's 'Ishārāt' to reveal a contradiction: Ibn Sina himself lists mashhūrāt and wahmiyyāt under 'beliefs', which are part of accepted propositions used in reasoning. If they are accepted, why are they denied certainty? This sets the stage for a deeper critique of the philosophers' epistemological hierarchy.
+
+Guided Path
+1
+Identify the target of the critique
+Read the opening: 'أنهم أخرجوا القضايا التي يسمونها الوهميات والتي يسمونها الآراء المحمودة عن أن تكون يقينيات'. The philosophers are excluding wahmiyyāt and mahmūdāt from certainty. Note that 'mahmūdāt' refers to praiseworthy opinions, a type of common opinion.
+2
+Extract Ibn Taymiyya's positive claim
+He states: 'وقد بينا في غير هذا الموضع أنها وغيرها من العقليات سواء، ولا يجوز التفريق بينهما، وأن اقتضاء الفطرة لهما واحد'. This is his core argument: all rational matters are equal because fiṭra demands them equally. Understand that fiṭra is the innate human capacity to recognize truth.
+3
+Analyze Ibn Sina's classification
+Ibn Taymiyya quotes Ibn Sina to show his classification: four types of propositions (مسلمات, مظنونات, مشبهات, متخيلات). The 'accepted' (مسلمات) divide into beliefs (معتقدات) and taken (مأخوذات). Beliefs are three: obligatory to accept (واجب قبولها), common opinions (مشهورات), and imaginary (وهميات). Notice that mashhūrāt and wahmiyyāt appear under beliefs.
+The 'obligatory to accept' includes first principles, observations, and experiments.
+4
+Spot the inconsistency
+If mashhūrāt and wahmiyyāt are included under beliefs in the accepted propositions, they are used as premises in reasoning. Yet philosophers deny them certainty. This is internally inconsistent: how can something be an accepted belief but not certain? Ibn Taymiyya uses this to undermine their epistemological hierarchy.
+5
+Summarize the epistemological implication
+Ibn Taymiyya's deeper point is that all sound propositions, regardless of cultural or psychological origin, are rooted in fiṭra and can yield certainty. The philosophers' classification is not wrong, but their epistemic ranking is arbitrary.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كلام ابن سينا في المشهورات
+الوجه التاسع: أنهم أخرجوا القضايا التي يسمونها الوهميات والتي يسمونها الآراء المحمودة عن أن تكون يقينيات. وقد بينا في غير هذا الموضع أنها وغيرها من العقليات سواء، ولا يجوز التفريق بينهما، وأن اقتضاء الفطرة لهما واحد. أما المشهورات، فإن ابن سينا قال في إشاراته: أصناف القضايا المستعملة فيما بين القائسين ومن يجري مجراهم أربعة: مسلمات، ومظنونات وما معها، ومشبهات بغيرها، ومتخيلات. والمسلمات إما معتقدات، وإما مأخوذات. والمعتقدات أصنافها ثلاثة: الواجب قبولها، والمشهورات، والوهميات. والواجب قبولها أوليات ومشاهدات ومجربات.
+The speech of Ibn Sina on the common opinions.
+The ninth aspect: That they excluded the propositions they call 'imaginary' (wahmiyyat) and those they call 'praiseworthy opinions' (al-ārā' al-mahmūda) from being certain. And we have shown elsewhere that they and other rational matters are equal, and it is not permissible to differentiate between them, and that the demand of innate disposition (fiṭra) for them is one. As for the common opinions (mashhūrāt), Ibn Sina said in his 'Ishārāt': The types of propositions used among the syllogizers and those who follow their way are four: accepted (musallamāt), conjectural (maznūnāt) and what is with them, resembling (mushabbahāt) to others, and imaginary (mutakhayyilāt). And the accepted are either beliefs (mu'taqadāt) or taken (ma'khūdhāt). And the beliefs are of three types: obligatory to accept (wājib al-qubūl), common opinions (mashhūrāt), and imaginary (wahmiyyāt). And the obligatory to accept are first principles (awwaliyyāt), observations (mushāhadāt), and experiments (mujarrabāt).
+Source pages p. 440
+
+Commentary
+This passage is a critical argument by Ibn Taymiyya against the philosophers' classification of propositions. He begins by stating his objection: the philosophers exclude 'imaginary propositions' (wahmiyyat) and 'praiseworthy opinions' (al-ārā' al-mahmūda) from certainty. Ibn Taymiyya asserts that these are equal to other rational matters—all are based on innate human disposition (fiṭra) and cannot be separated. Then he quotes Ibn Sina's 'Ishārāt' to expose an internal contradiction. Ibn Sina lists four types of propositions used in reasoning: 'accepted' (musallamat), 'conjectural' (maznunat and its like), 'resembling' (mushabbahat), and 'imaginary' (mutakhayyilat). The 'accepted' are further divided into 'beliefs' (mu'taqadat) and 'taken' (ma'khudhat). The beliefs are three: 'obligatory to accept' (which includes first principles, observations, and experiments), 'common opinions' (mashhurat), and 'imaginary' (wahmiyyat). Ibn Taymiyya's point is that Ibn Sina himself includes 'common opinions' and 'imaginary' under 'beliefs', which are part of the accepted propositions. Yet the philosophers deny them certainty. This shows inconsistency in their epistemology.
+
+Key Terms
+المشهورات
+الوهميات
+المسلمات
+الفطرة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Sina's classification as quoted by Ibn Taymiyya, which of the following is NOT one of the three types of beliefs (mu'taqadāt)?
+A) Wājib al-qubūl (obligatory to accept)
+B) Al-mashhūrāt (common opinions)
+C) Al-maznūnāt (conjectural)
+D) Al-wahmiyyāt (imaginary)
+
+Key Takeaway
+Ibn Taymiyya's critique reveals that common opinions and imaginary propositions, when rooted in fiṭra, are as certain as first principles and empirical data.
+
+How This Lesson Applies — to MY Life?
+?
+1. In a debate, an opponent claims that the doctrine of the 'intermediate position' (al-manzila bayn al-manzilatayn) of the Mu'tazila is only a common opinion and not certain. Construct an argument using Ibn Taymiyya's fiṭra principle to defend its certainty.
+?
+2. Using Ibn Sina's classification, identify at least one proposition from the Qur'an that could be classified under each of the four types. Explain why Ibn Taymiyya would argue it is certain.
+
+Pages p. 440 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 440
+Module 8 · Lesson 11
+Next →
+Propositions
+advanced
+8 min
+Ibn Taymiyya's critique of Ibn Sina on well-known propositions
+Ibn Taymiyya critiques Ibn Sina's claim that well-known propositions are not certain.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Sina's classification of well-known propositions and explain Ibn Taymiyya's fitra-based objection to their exclusion from certainty.
+
+Core Idea
+Ibn Taymiyya argues that well-known propositions are grounded in fitra, not mere custom.
+
+In this passage, Ibn Taymiyya launches a critical assault on Ibn Sina's relegation of well-known propositions (mashhurat) and praiseworthy opinions (ara' mahmuda) to non-certainty. By presenting Ibn Sina's own classification from al-Isharat, he sets the stage for his alternative epistemology rooted in fitra. Your task is to follow the logical architecture of both positions and see where the break occurs.
+
+Guided Path
+1
+Identify Ibn Sina's classification
+Locate the four categories of propositions Ibn Sina lists (musallamat, maznunat, mushabbahat, mutakhayyilat) and the subdivision of beliefs into obligatory, well-known, and imaginary.
+Ibn Sina considers only obligatory propositions (awwaliyat, mushahadat, etc.) as certain.
+2
+Extract the thought experiment
+Find where Ibn Sina describes a person left alone with bare intellect, imagination, and senses, without training or emotional influences. Note that such a person would not judge about praiseworthy opinions like 'theft is ugly'.
+This thought experiment supports Ibn Sina's claim that these propositions are not certain by themselves.
+3
+Locate Ibn Taymiyya's objection
+The first sentence of the passage contains the core critique: logicians exclude wahmiyyat and ara' mahmuda from certainty, but Ibn Taymiyya insists that fitra requires both equally.
+Ibn Taymiyya refers to his earlier works for a full proof.
+4
+Analyze the grounds of the critique
+Ibn Taymiyya's objection is epistemological: he argues that fitra (innate disposition) is the source of certainty for all types of propositions, not just the 'obligatory' ones. Custom and emotion are not the sole bases; fitra inclines naturally to many well-known judgments.
+This challenges the rationalist hierarchy of certainty.
+5
+Evaluate the epistemological shift
+Consider how replacing Ibn Sina's emphasis on bare intellect with Ibn Taymiyya's fitra changes the epistemic status of mashhurat. If fitra is universal and reliable, then well-known propositions can be certain even if not self-evident.
+This shift has implications for Islamic law and theology, where many foundational propositions are mashhurat.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه التاسع : أنهم أخرجوا القضايا التي يسمونها «الوهميات» والتي يسمونها الآراء المحمودة عن أن تكون يقينيات. وقد بينا في غير هذا الموضع أنها وغيرها من العقليات سواء، ولا يجوز التفريق بينهما، وأن اقتضاء الفطرة لهما واحد . أما المشهورات، فإن ابن سينا قال في «إشاراته»: أصناف القضايا المستعملة فيما بين القائسين ومن يجري مجراهم أربعة: مسلمات، ومظنونات وما معها، ومشبَّهات بغيرها، ومتخيلات. والمسلمات إما معتقدات، وإما مأخوذات والمعتقدات أصنافها ثلاثة : الواجب قبولها، والمشهورات والوهميات والواجب قبولها أوليات ومشاهدات، ومجربات وما معها من الحدسيات والمتواترات وقضايا قياساتها معها إلى أن قال : فأما المشهورات من هذه الجملة، فمنها أيضاً هذه الأوليات ونحوها مما قبوله ، لا من حيث هي واجب قبولها، بل من حيث عموم الاعتراف بها . / قال : ومنها الآراء المسماة بـ «المحمودة»، وربما خصصناها باسم «المشهورة» إذ لا عمدة لها إلا الشهرة. وهي آراء لو خُلّي إنسان وعقله المجرد، ووهمه، وحسّه، ولم يؤدَّب بقبول قضاياها، ولم يمل الاستقراء بظنه القوي إلى حُكم لكثرة الجزئيات، ولم يستدع إليها ما في طبيعة الإنسان من الرحمة والخجل والأنفة والحَمِيَّة وغير ذلك، لم يقض بها الإنسانُ طاعةً لعقله، أو وهمه، أو حسه، مثل حكمنا أن سلب مال الإنسان قبيح ، وأن الكذب قبيح لا ينبغي أن يقدم عليه . هذا الجنس ما يسبق إلى وهم كثير من الناس - وإن صرف كثيراً منهم عنه الشرع - من قبح ذبح الحيوان اتباعاً لما في الغريزة من الرقة لمن تكون غريزته ، وهم أكثر الناس، وليس شيء من هذا يوجبه العقل الساذج. ولو توهم الإنسان بنفسه أنه خُلِق دُفْعةً تام العقل، ولم يسمع أدباً، ولم يطع أدباً، ولم يطع انفعالاً نفسانياً أو خُلقياً، لم يقض في أمثال هذه القضايا بشيء، بل أمكنه أن يجهله كذلك، ويتوقف فيه . وليس كذلك حال قضائه أن «الكل أعظم من الجزء». وهذه المشهورات قد تكون صادقة وقد تكون كاذبة وإذا كانت صادقة ليست تُنسب إلى الأوَّليات ونحوها إذا لم تكن بينة الصدق عند العقل الأول إلا بنظر ، كانت محمودة عنده . والصادق غير المحمود، وكذلك الكاذب غير الشنيع، ورُبَّ شنيع حق، ورب محمود كاذب .
+The ninth aspect: That they excluded the propositions they call 'imaginary' (wahmiyyat) and those they call 'praiseworthy opinions' (al-ara' al-mahmuda) from being certain. And we have shown elsewhere that they and other intellectual matters are the same, and it is not permissible to differentiate between them, and that the natural disposition (fitra) requires both equally. As for the well-known propositions (mashhurat), Ibn Sina said in his 'Isharat': The categories of propositions used among syllogists and those who follow their path are four: accepted (musallamat), conjectural (maznunat) and what goes with them, sophistical (mushabbahat), and imaginative (mutakhayyilat). The accepted are either beliefs (mu'taqadat) or postulates (ma'khudhat). The beliefs are three kinds: those whose acceptance is obligatory, the well-known (mashhurat), and the imaginary (wahmiyyat). Those whose acceptance is obligatory are primary (awwaliyat), observed (mushahadat), experiential (mujarrabat) and what goes with them of intuitive (hadsivat), recurrent (mutawatirat), and propositions whose syllogisms accompany them, until he said: As for the well-known propositions from this group, among them are also these primary ones and similar to them, [but their acceptance] not from the perspective that their acceptance is obligatory, but from the perspective of general recognition. He said: Among them are the opinions called 'praiseworthy', and perhaps we specify them with the name 'well-known' since they have no support except fame. They are opinions which, if a person were left alone with his abstract intellect, imagination, and senses, and were not trained to accept their propositions, and if induction did not incline his strong estimation to a judgment due to the multiplicity of particulars, and if the traits in human nature such as mercy, shame, pride, zeal, and others did not call him to them, then the person would not judge by them in obedience to his intellect, imagination, or senses, such as our judgment that depriving a person of his property is ugly, and that lying is ugly and should not be done. This kind is what comes to the estimation of many people – though many are turned away from it by law – such as the ugliness of slaughtering an animal, following the tenderness in the instinct of those who have such instinct, and they are most people, and none of this is necessitated by the bare intellect. And if a person imagined himself to be created suddenly with complete intellect, and had not heard any discipline, nor obeyed any emotional or moral influence, he would not judge anything concerning such propositions, rather he could be ignorant of them and remain hesitant. But it is not the same with his judgment that 'the whole is greater than the part'. These well-known propositions may be true and may be false. If they are true, they are not attributed to primary propositions and the like if their truth is not evident to the first intellect except through reflection; they are praiseworthy in his view. The true non-praiseworthy, likewise the false non-ugly, and perhaps something ugly is true, and perhaps something praiseworthy is false.
+Source pages p. 440
+
+Commentary
+This passage is a critical refutation by Ibn Taymiyya of Ibn Sina's classification of well-known propositions (al-mashhurat). Ibn Taymiyya opens by stating that logicians have excluded 'imaginary' propositions and 'praiseworthy opinions' from certainty. He asserts that he has already shown elsewhere that these are on par with other intellectual propositions and that fitra (natural disposition) demands both equally. He then presents Ibn Sina's classification from al-Isharat: four categories of propositions used by syllogists: musallamat (accepted), maznunat (conjectural), mushabbahat (sophistical), and mutakhayyilat (imaginative). Ibn Sina further divides musallamat into beliefs (mu'taqadat) and postulates (ma'khudhat). Beliefs are three: those whose acceptance is obligatory (which include primary propositions, observed, experiential, etc.), well-known (mashhurat), and imaginary (wahmiyyat). Ibn Sina explains that well-known propositions include some primary ones, but their acceptance is due to general recognition rather than inherent necessity. He then describes the 'praiseworthy opinions' (al-ara' al-mahmuda) which are supported only by fame. According to Ibn Sina, if a person were stripped of all training, custom, and emotional inclinations, he would not judge based on these opinions. Examples include the ugliness of theft or lying, or the apparent ugliness of slaughtering animals (which many feel instinctively but law may override). Such judgments, he claims, are not necessitated by the bare intellect (al-'aql al-sadhi). In contrast, a judgment like 'the whole is greater than the part' is immediate. Ibn Sina concludes that mashhurat can be true or false; if true but requiring reflection, they are still not on the level of axioms. Ibn Taymiyya's critique is implicit in his opening statement that fitra treats them equally, but the passage mainly presents Ibn Sina's view for refutation in subsequent sections. The commentary should note that Ibn Taymiyya is using this as a setup for his own position that fitra is the basis for all certain knowledge.
+
+Key Terms
+المشهورات
+الوهميات
+الآراء المحمودة
+الوهم
+الفطرة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Sina, why would a person not judge that theft is ugly if left alone with bare intellect?
+A) Because theft is actually permissible in some cases.
+B) Because such judgments depend on emotional and social conditioning, not pure reason.
+C) Because the intellect alone cannot know moral propositions.
+D) Because theft is not universally ugly.
+
+Key Takeaway
+Ibn Taymiyya challenges the Greek-inspired hierarchy of certainty by elevating fitra as the ground for all knowledge, including well-known propositions.
+
+How This Lesson Applies — to MY Life?
+?
+Identify a well-known proposition in Islamic ethics (e.g., 'helping the needy is praiseworthy') and analyze the difference between Ibn Sina's classification (based on custom) and Ibn Taymiyya's fitra-based view. Which one do you find more convincing? Explain using the passage's concepts.
+?
+Reconstruct the thought experiment of a person created with bare intellect: according to Ibn Sina, what would they not accept? Then, how would Ibn Taymiyya modify the thought experiment to show fitra's role?
+
+Pages p. 440 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 441
+Module 8 · Lesson 12
+Next →
+Propositions
+intermediate
+8 min
+Ibn Taymiyya's Classification of al-Mashhurat
+Ibn Taymiyya defines mashhurat and classifies them into seven types.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish mashhurat from awwaliyat and list the seven types of mashhurat according to Ibn Taymiyya.
+
+Core Idea
+Mashhurat are culturally conditioned, not rationally necessary.
+
+In this passage, Ibn Taymiyya provides a rigorous definition of well-known propositions (al-mashhurat) and distinguishes them from primary truths (al-awwaliyat). He then classifies mashhurat into seven types, showing that they depend on human nature, culture, and religion rather than pure reason. This classification is crucial for evaluating the epistemic weight of commonly accepted claims in Islamic theology and law.
+
+Guided Path
+1
+Identify the definiendum and its genus
+Find the term being defined (al-mashhurat) and note that it is a type of proposition (qadiyya). The passage begins by discussing 'these well-known [propositions] from this group'.
+2
+Contrast with awwaliyat
+Ibn Taymiyya distinguishes mashhurat from primary propositions (al-awwaliyat) by their basis of acceptance: awwaliyat are accepted by rational necessity, while mashhurat are accepted due to general acknowledgment and external factors like training and natural inclinations.
+Example: 'The whole is greater than the part' is awwaliyya; 'Taking someone's property is ugly' is mashhura.
+3
+Extract the conditions for a proposition to be mashhura
+Note the conditions: a purely rational person isolated from society would not accept mashhurat; they require social training (adab), induction from particulars, or natural dispositions (mercy, shame, pride, zeal).
+Ibn Taymiyya uses a thought experiment of a person created with complete intellect but no exposure to discipline.
+4
+Recognize the examples
+Identify the examples given: 'taking property is ugly', 'lying is ugly', and the ugliness of slaughtering an animal. These are not necessitated by pure intellect.
+5
+Enumerate the seven types
+In the final sentence, Ibn Taymiyya lists seven categories: obligations (wajibat), disciplinary rectifications agreed upon by divine laws (ta'dibat sulahiyya), moral traits (khuluqiyyat), affections (infi'aliyyat), inductives (istiqra'iyyat), absolute (mutlaqa), and according to craft or religion (bi-hasab ashab sina'a wa milla).
+These are not mutually exclusive; a mashhura may belong to multiple types.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فأما المشهورات من هذه الجملة، فمنها أيضاً هذه الأوليات ونحوها مما قبوله، لا من حيث هي واجب قبولها، بل من حيث عموم الاعتراف بها. قال: ومنها الآراء المسماة بـ «المحمودة»، وربما خصصناها باسم «المشهورة» إذ لا عمدة لها إلا الشهرة. وهي آراء لو خُلّي إنسان وعقله المجرد، ووهمه، وحسّه، ولم يؤدَّب بقبول قضاياها، ولم يمل الاستقراء بظنه القوي إلى حكم لكثرة الجزئيات، ولم يستدع إليها ما في طبيعة الإنسان من الرحمة والخجل والأنفة والحَمِيَّة وغير ذلك، لم يقض بها الإنسان طاعةً لعقله، أو وهمه، أو حسه، مثل حكمنا أن سلب مال الإنسان قبيح، وأن الكذب قبيح لا ينبغي أن يقدم عليه. هذا الجنس ما يسبق إلى وهم كثير من الناس - وإن صرف كثيراً منهم عنه الشرع - من قبح ذبح الحيوان اتباعاً لما في الغريزة من الرقة لمن تكون غريزته، وهم أكثر الناس، وليس شيء من هذا يوجبه العقل الساذج. ولو توهم الإنسان بنفسه أنه خلق دفعةً تام العقل، ولم يسمع أدباً، ولم يطع أدباً، ولم يطع انفعالاً نفسانياً أو خُلقياً، لم يقض في أمثال هذه القضايا بشيء، بل أمكنه أن يجهله كذلك، ويتوقف فيه. وليس كذلك حال قضائه أن «الكل أعظم من الجزء». وهذه المشهورات قد تكون صادقة وقد تكون كاذبة، وإذا كانت صادقة ليست تُنسب إلى الأوَّليات ونحوها إذا لم تكن بينة الصدق عند العقل الأول إلا بنظر، كانت محمودة عنده. والصادق غير المحمود، وكذلك الكاذب غير الشنيع، ورُبَّ شنيع حق، ورب محمود كاذب. فالمشهورات إما من الواجبات، وإما من التأديبات الصلاحية وما تتطابق عليها الشرائع الإلهية، وإما خُلُقيات وانفعاليات، وإما استقرائيات. وهي إما بالإطلاق، وإما بحسب أصحاب صناعة ومِلَّة.
+As for the well-known [propositions] from this group, they include also these primary [propositions] and the like, from [what is] accepted, not because they are necessarily acceptable, but because of the generality of acknowledgment. He said: Among them are the opinions called 'praiseworthy,' and perhaps we specifically name them 'well-known' since they have no foundation except renown. They are opinions that if a person were left alone with his pure intellect, imagination, and sense, and was not trained to accept their propositions, and induction did not incline him by its strong conjecture to a judgment due to the multiplicity of particulars, and what is in human nature of mercy, shame, pride, zeal, and other things did not summon him to them, then he would not judge by them in obedience to his intellect, imagination, or sense. For example, our judgment that taking a person's property is ugly, and that lying is ugly and ought not to be done. This kind [of judgment] occurs to the imagination of many people - even if the Law turns many away from it - such as the ugliness of slaughtering an animal, following what is in instinct of tenderness for those who have such instinct, and they are most people. None of this is necessitated by the pure intellect. If a person imagined himself created suddenly with complete intellect, and had not heard any discipline, nor obeyed discipline, nor obeyed any psychological or moral affection, he would not judge about such propositions at all, but could be ignorant of them similarly and hesitate about them. But his judgment that 'the whole is greater than the part' is not like that. These well-known [propositions] may be true or false. When they are true, they are not attributed to the primary [propositions] and the like if they are not evidently true to the primary intellect except by consideration; they are praiseworthy for him. The true [but] not praiseworthy, and likewise the false [but] not disgraceful; perhaps a disgraceful is true, and perhaps a praiseworthy is false. So the well-known [propositions] are either of [the type of] obligations, or of disciplinary rectifications and what the divine laws agree upon, or moral [traits] and affections, or inductives. They are either absolute or according to the adherents of a craft or religion.
+Source pages p. 441
+
+Commentary
+This passage defines the category of well-known propositions (al-mashhurat) and distinguishes them from primary propositions (al-awwaliyat). The author, Ibn Taymiyya, explains that mashhurat are accepted not because of rational necessity but because of widespread acknowledgment. He gives examples: 'taking someone's property is ugly' and 'lying is ugly' are not judgments that a purely rational person would make if isolated from social training and natural inclinations. In contrast, the judgment 'the whole is greater than the part' is a primary truth. Mashhurat can be true or false. When true but not self-evident, they are praiseworthy. He then classifies mashhurat into seven categories: (1) obligations, (2) disciplinary rectifications agreed upon by divine laws, (3) moral traits, (4) affections, (5) inductives, (6) absolute, and (7) according to the adherents of a craft or religion. This classification shows that mashhurat are not a homogeneous category; they depend on external factors like culture, religion, or human nature.
+
+Key Terms
+المشهورات
+الأوليات
+المحمودة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, why would a purely rational person not accept the judgment 'taking property is ugly'?
+A) Because it is not a primary truth.
+B) Because it requires social training or natural inclination.
+C) Because it is false.
+D) Because it is only accepted by the ignorant.
+
+Key Takeaway
+Ibn Taymiyya's analysis shows that well-known propositions are not self-evident but are shaped by human nature, culture, and divine laws, requiring careful scrutiny in argumentation.
+
+How This Lesson Applies — to MY Life?
+?
+Based on Ibn Taymiyya's classification, identify which type of mashhura the proposition 'lying is always wrong' belongs to, and explain why it might be considered a disciplinary rectification agreed upon by divine laws.
+?
+Compare the proposition 'the whole is greater than the part' with 'killing an animal for food is not cruel.' Which is a mashhura and which is a awwaliyya? Justify your answer using the criteria from the passage.
+
+Pages p. 441 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 441
+Module 8 · Lesson 13
+Next →
+Propositions
+intermediate
+8 min
+Al-Razi's Test to Distinguish Awwali from Mashhur Propositions
+Al-Razi explains the test to differentiate awwaliyat from mashhurat using an imagined state.
+
+Learning Objective
+By the end of this lesson, you will be able to apply al-Razi's imagined-state test to determine whether a given proposition is primary or well-known.
+
+Core Idea
+A proposition is primary only if pure reason affirms it without any external influence.
+
+How can you tell if a judgment comes from pure reason or from social convention? Al-Razi, commenting on Ibn Sina, provides a powerful mental experiment: strip yourself of all habits and emotions, and see if the intellect still affirms the proposition. This test separates primary axioms from well-known opinions that rely on external factors like custom, emotion, or public benefit.
+
+Guided Path
+1
+Identify the proposition's subject and predicate
+Take the proposition you want to test and clearly identify its subject (موضوع) and predicate (محمول). For example, in 'lying is ugly,' the subject is 'lying' and the predicate is 'ugly'.
+2
+Imagine yourself in a state of pure reason
+Al-Razi instructs you to imagine yourself as if you were created in that very moment, without any prior training, habits, emotions, or awareness of social utility. Strip away all influences from tenderness, pride, habit, or public welfare.
+This mental step is crucial to isolate the intellect from external causes.
+3
+Present the terms to your intellect
+With your mind in that purified state, present the subject and predicate together. Ask yourself: does the intellect immediately and necessarily affirm that the predicate belongs to the subject?
+Do not rely on memory or prior beliefs.
+4
+Observe the intellect's response
+If the intellect judges the relation without hesitation and without needing any further reason, the proposition is primary (awwali). If it hesitates or requires additional justification, the proposition is well-known (mashhur).
+Al-Razi gives the example: the law of non-contradiction is affirmed immediately, while 'lying is ugly' causes hesitation.
+5
+Classify the proposition
+Based on the test, classify the proposition as either awwali (primary) or mashhur (well-known). Remember that a primary proposition is always well-known, but a well-known proposition may be false or require proof.
+Well-known propositions are not necessarily false; they just need verification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كلام الرازي وقد ذكر الرازي في شرحه للإشارات تقرير الفرق بين الأوليات العقلية والمشهورات والوهميات: وقالوا: المشهورات تشبّه بالأوليات، ووجه الفرق ظاهر فإن الأولي هو الذي يكون حمله على موضوعه في الوجودين حملاً أولاً، لا ثانياً، أي لا يكون حمله بتوسط. فإن المحمول على غيره بتوسط شيء آخر كان بعد حمل ذلك الشيء، فلا يكون حمله عليه أولاً، بل ثانياً. وهذا إنما يظهر إذا لم يكن للعقل في ذلك الحكم مُوجِب آخر إلا مجرد حضور طرفي الموضوع والمحمول. أما إذا كان هناك أسباب أخر من الرقة، أو الأنفة، أو الحمية، أو العادة، أو الحمد على النظام الكلي والمصلحة العامة، فحينئذ لا يُعرف أن الموجب لحكم العقل بذلك هو نفسُ حضور طرفي الموضوع والمحمول أو ذلك لأسباب أخر. فإذا أردت أن تمتحن ذلك فعليك أن تقدر نفسك كأنك خُلقت في هذا الحال، ولا تلتفت إلى مقتضيات العادات وأحكام سائر القُوَى من الرأفة والرقة، وتجرد عما تعوّدته وألفته من القضايا المصلحية، ثم تَعْرِض على نفسك طرفي الموضوع والمحمول. فإن كان نفس حضورهما يوجب حكم العقل بتلك النسبة: كانت القضية أولية، وإلا كانت مشهورة. وهو مثل قولنا: الكذب قبيح، فإن السبب في شهرته تعلُّق المصلحة العامة به، وقولنا الإيلام قبيح، والسبب فيه الرقة والدليل على أن ذلك ليس من الأوليات أنا عند الفرض المذكور إذا عَرَضنا على العقل أن الشيء لا يخلو عن النفي والإثبات، وعَرَضنا عليه أن الكذب قبيح، وجدنا العقل جازماً بالأول متوقفاً في الثاني، فعرفنا أن ذلك ليس من المحمولات الأولية. ثم إن «المشهور» قد يكون صادقاً وقد يكون كاذباً فالصادق قد يكون أولياً وقد لا يكون، بل يحتاج في إثباته إلى البرهان. فإن كل أوَّلي لا بد أن يكون مشهوراً لكن لا
+The speech of al-Razi. Al-Razi mentioned in his commentary on the Isharat the explanation of the difference between the primary intellectual [propositions], the well-known [propositions], and the imaginative [propositions]. They said: The well-known [propositions] resemble the primary ones, but the aspect of difference is clear: the primary is that whose predication on its subject in the two modes of existence is a primary predication, not a secondary one, i.e., it is not predicated by mediation. For what is predicated on something else by means of something else occurs after the predication of that thing, so its predication on it is not primary but secondary. This only becomes apparent if there is for the intellect no other cause for that judgment except the mere presence of the two terms of subject and predicate. But if there are other causes like tenderness, pride, zeal, habit, or commendation for the overall order and general welfare, then it is not known whether the cause for the intellect's judgment is the mere presence of the two terms or those other causes. So if you want to test that, you must imagine yourself as if you were created in that state, and pay no attention to the demands of habits and the judgments of the other faculties like compassion and tenderness, and strip yourself of what you have become accustomed to and familiar with from welfare-based propositions, then present to yourself the two terms of subject and predicate. If their mere presence necessitates the intellect's judgment of that relation, then the proposition is primary; otherwise it is well-known. This is like our saying: 'Lying is ugly,' for the reason for its renown is the attachment of general welfare to it. And our saying: 'Causing pain is ugly,' the reason for it is tenderness. The evidence that this is not from the primary [propositions] is that we, in the mentioned hypothesis, when we present to the intellect that a thing cannot be devoid of negation and affirmation, and present to it that lying is ugly, we find the intellect decisive about the first and hesitant about the second, so we know that the second is not from the primary predicates. Then the 'well-known' may be true or false. The true may be primary or not, rather it needs proof. For every primary [proposition] must be well-known, but not [every well-known is primary].
+Source pages p. 441
+
+Commentary
+This passage presents al-Razi's method for distinguishing primary (awwali) propositions from well-known (mashhur) and imaginative (wahmi) propositions. The key criterion is whether the judgment arises solely from the mere presence of the subject and predicate terms, without any external influence. If external factors like tenderness, habit, or social utility influence the judgment, it is not primary but well-known. Al-Razi provides a test: imagine yourself created in the present moment with pure reason, stripped of all prior habits, emotions, and social training. Then examine the proposition. If the intellect immediately and necessarily affirms it, it is primary; if it hesitates, it is well-known. He illustrates with the example of 'lying is ugly' — a well-known proposition because its acceptance comes from general welfare, not pure reason. In contrast, the law of non-contradiction ('a thing cannot be devoid of negation and affirmation') is primary. Finally, al-Razi notes that while every primary proposition is well-known, not every well-known proposition is primary; a true well-known proposition may require proof to be established as certain.
+
+Key Terms
+الأوليات العقلية (al-awwaliyat al-‘aqliyya)
+المشهورات (al-mashhurat)
+الوهميات (al-wahmiyyat)
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Razi, which of the following propositions is primary (awwali)?
+A) Lying is ugly.
+B) Causing pain is ugly.
+C) A thing cannot be devoid of negation and affirmation.
+D) The whole is greater than the part.
+
+Key Takeaway
+Al-Razi's test of the imagined state is the key to distinguishing propositions that are self-evident from those accepted due to external influences.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'justice is good.' Apply al-Razi's test by imagining yourself stripped of all social training. Would the intellect affirm it immediately? Classify it as awwali or mashhur and explain your reasoning.
+?
+Al-Razi says 'every primary is well-known but not every well-known is primary.' Give a real example from Islamic theology of a proposition that is well-known but not primary, and explain why it requires proof.
+
+Pages p. 441 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 447
+Module 8 · Lesson 14
+Next →
+Propositions
+advanced
+10 min
+The Logicians' Argument: Knowledge of Essence Does Not Necessitate Knowledge of Its Concomitants
+Ibn Taymiyya presents the logicians' argument and their response to a doubt.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the logicians' conditional argument against the transitivity of essential knowledge, and explain the role of the additional condition (conceptualization of the effect) in their response.
+
+Core Idea
+Knowing an essence does not automatically reveal its remote implications; only with additional conceptualization does the relationship become known.
+
+In this passage, Ibn Taymiyya presents the logicians' own argument that knowledge of an essence does not entail knowledge of all its necessary concomitants. They anticipate an objection: if it entailed the near concomitant, and that near concomitant entailed the next, an infinite chain would be required—which is impossible. The logicians respond by distinguishing between conceptualizing the cause alone and conceptualizing it together with the effect. This lesson will help you analyze the logical structure of their argument and response.
+
+Guided Path
+1
+Identify the initial claim
+The logicians assert that knowledge of the essence (mahiyya) does not necessitate knowledge of its necessary concomitant (lazim). This is the thesis they are defending.
+Note the careful phrasing: 'lā yaqtadī' means 'does not necessitate', not 'does not imply' in the usual sense.
+2
+Find the supporting argument (reductio)
+The logicians argue: if knowledge of essence did necessitate the near necessary concomitant, then by transitivity it would require knowledge of an infinite chain of concomitants, which is impossible. Therefore the initial assumption is false, so knowledge does not necessitate.
+This is a valid conditional argument: If P then Q, not Q, therefore not P.
+3
+Locate the doubt (shakk) and the response
+A doubter might object that the reductio proves too much: if knowledge does not necessitate, how can any concomitant be known? The logicians respond by introducing a condition: knowledge of the cause necessitates knowledge of the effect only when the conceptualization (tasawwur) of the effect is also present.
+Causality ('illiyya) is a relational attribute, not inherent in the essence alone.
+4
+Assess the overall logical structure
+The passage contains a conditional argument (modus tollens) followed by a clarification that knowledge of essence does necessitate knowledge of the near concomitant under a specific condition. This shows the nuance in the logicians' position.
+This illustrates how Islamic logicians handle potential counterexamples through the introduction of conditions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الرابع - الوجه التاسع : العلم بالماهية لا يقتضي العلم بلازمها
+قال : فهذا ما قيل في هذا الباب، وفيه بحث لا بد من ذكره. فإن لقائل أن يقول : إن ما العلم بالماهية لا يقتضي العلم بلازمها القريب، وذلك القريب علة قريبة للازم الثاني. فحينئذ يجب أن يعلم اللازم الثاني، وأن يعلم من ذلك الثاني اللازم الثالث. فكان يجب أن يكون العلم بالماهية مقتضياً للعلم بجميع لوازمها القريبة والبعيدة. وذلك محال . فثبت أن العلم بالماهية لا يقتضي العلم بلازمها .
+قال أيضاً فإن ماهية العلة غير مقولة بالقياس إلى المعلول وعلته، والعلة مقولة بالقياس إلى المعلول. فإذن ماهية العلم مغايرة لعلتها. فإذن لا يلزم من العلم بماهية العلة العلم بدليل المعلول.
+ثم قال : لكنا نقول في جواب هذا الشك : العلم بماهية العلة لا يقتضي العلم بالمعلول إلا بشرط آخر، وهو حصول تصور المعلول. فإن العلية أمر إضافي لا يحصل بمجرد ذات العلة، فلا يكون العلم بذات العلة كافياً في العلم بالعلية، لكن ذات العلة وذات المعلول هما لذاتيهما يقتضيان الوصف الإضافي، وهو العلية والمعلولية لا جرم عند حصول تصورهما يجب حصول التصديق بانتساب أحدهما إلى الآخر. وهذا هو المعنى بقولنا : اللازم الذي يكون بغير وسط يكون بين الثبوت . قال : وإذا ثبت أن تصور العلة إنما يوجب التصديق بثبوت المعلول القريب له عند تصور المعلول ، ثم من الجائز أن لا يحصل تصور المعلول عند تصور العلة، لا جرم لا يلزم من العلم بحقيقة العلة العلم بثبوت كل اللوازم القريبة والبعيدة .
+قال : وأما الشك الثاني، فهو أيضاً خارج، لأنا لا نسلّم أن العلية مغايرة لحقيقة ذات العلة لكنا ندعي أن تصور حقيقة العلة مع تصور حقيقة المعلول القريب يوجب العلم بكون العلة علة لذلك المعلول .
+The Fourth Station - The Ninth Aspect: Knowledge of the essence does not necessitate knowledge of its necessary concomitant. He said: This is what was said in this chapter, and there is a discussion that must be mentioned. For a speaker may say: Indeed, knowledge of the essence does not necessitate knowledge of its near necessary concomitant, and that near concomitant is a near cause of the second necessary concomitant. Then it would be necessary to know the second necessary concomitant, and from that second to know the third necessary concomitant. So it would be necessary that knowledge of the essence necessitates knowledge of all its near and far necessary concomitants. That is impossible. So it is established that knowledge of the essence does not necessitate knowledge of its necessary concomitant. He also said: Indeed, the essence of the cause is not said relationally to the effect and its cause, but the cause is said relationally to the effect. Therefore, the essence of knowledge is different from its cause. So knowledge of the essence of the cause does not entail knowledge of the evidence of the effect. Then he said: But we say in answer to this doubt: Knowledge of the essence of the cause does not necessitate knowledge of the effect except with another condition, which is the attainment of the conceptualization of the effect. For causality is a relational matter that does not occur solely by the essence of the cause, so knowledge of the essence of the cause is not sufficient for knowledge of causality. Rather, the essence of the cause and the essence of the effect, by their essences, necessitate the relational attribute, which is causality and effectness; inevitably, when their conceptualizations are attained, the assent to the connection of one to the other must occur. This is the meaning of our saying: The necessary concomitant that is without an intermediary is between existence. He said: And when it is established that the conceptualization of the cause only necessitates the assent to the existence of the near effect when the conceptualization of the effect is attained, then it is possible that the conceptualization of the effect is not attained at the time of conceptualization of the cause; inevitably, knowledge of the reality of the cause does not entail knowledge of the existence of all near and far necessary concomitants. He said: As for the second doubt, it is also invalid, because we do not concede that causality is distinct from the reality of the essence of the cause. Rather, we claim that the conceptualization of the reality of the cause together with the conceptualization of the reality of the near effect necessitates knowledge that the cause is a cause for that effect.
+Source pages p. 447
+
+Commentary
+This passage is a critical presentation by Ibn Taymiyya of the logicians' argument and their response to a doubt concerning the claim that knowledge of an essence does not necessitate knowledge of its necessary concomitants. The logicians begin by stating the claim: knowledge of the essence does not necessitate knowledge of its necessary concomitant. Then they anticipate a potential objection: if the essence necessitates its near necessary concomitant, and that near necessary concomitant is itself a cause of a second necessary concomitant, then by transitivity, knowledge of the essence would require knowledge of an infinite chain of necessary concomitants, which is absurd. Therefore, they conclude that the claim stands: knowledge of essence does not entail knowledge of its necessary concomitant. They then present a second argument: the essence of a cause is not predicated relationally, whereas the cause is predicated relationally to its effect. Therefore, the essence of knowledge (i.e., the cause) is different from its cause, so knowledge of the essence of the cause does not entail knowledge of the evidence (effect) of the cause. After this, they provide an answer to the first doubt: knowledge of the essence of the cause only necessitates knowledge of the effect under the additional condition that the conceptualization of the effect is present. Causality is a relational attribute, not inherent solely in the essence of the cause. When both the cause and effect are conceptualized, the relational attribute becomes manifest, and one assents to their connection. Thus, the chain stops because the effect's conceptualization may not be attained simultaneously with the cause's conceptualization. For the second doubt, they respond by not conceding that causality is distinct from the essence of the cause; rather, conceptualizing both cause and effect together suffices to know the causality relation. Thus, the logicians defend their claim that knowledge of essence does not necessitate knowledge of necessary concomitants unless an additional condition is met.
+
+Key Terms
+الماهية
+اللازم
+العلية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the logicians' response, why does knowledge of an essence not necessitate knowledge of all far necessary concomitants?
+A) Because the far necessary concomitants do not exist.
+B) Because the conceptualization of the far effect may not be attained when only the cause is conceptualized.
+C) Because the near necessary concomitant is not a cause of the far one.
+D) Because causality is inherent in the essence alone.
+
+Key Takeaway
+Knowledge of an essence does not automatically reveal its remote implications; a conditional argument (modus tollens) shows that the opposite leads to impossible infinite regress, and the solution lies in the relational nature of causality requiring conceptualization of both relata.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conditional argument to show that if God's essence (dhat) necessitated His attribute of knowledge, then by transitivity it would necessitate all attributes, leading to an infinite regress. Then state the condition under which the logicians would accept the entailment, using the concept of conceptualization of the attribute.
+?
+Analyze the following statement from a kalam text: 'Knowledge of the cause does not entail knowledge of the effect unless the effect is conceptualized.' Identify the logical form (conditional, modus ponens/tollens) and assess its validity using the concepts from this lesson.
+
+Pages p. 447 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 466
+Module 8 · Lesson 15
+Next →
+Propositions
+intermediate
+7 min
+Moral Judgments as Certainties: Ibn Taymiyya's Refutation
+Ibn Taymiyya asserts that judgments of good/evil are among the greatest certainties.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's argument for the certainty of moral judgments and apply his method of clarifying conception before assent.
+
+Core Idea
+Moral judgments are certainties known by reason, not mere opinion.
+
+Ibn Taymiyya challenges the philosophers who deny that propositions of good and evil are certain. He insists these are among the greatest certainties (al-yaqiniyyat) and provides a method to verify them: first grasp the meaning (tasawwur), then affirm the predicate (tasdiq). This lesson walks through his refutation and the logical steps involved.
+
+Guided Path
+1
+Identify the opposed claim
+Find the position Ibn Taymiyya is refuting: that propositions of tahsin and taqbih are not certainties. He states that this implies philosophers reject rational moral judgments altogether.
+This sets up the central disagreement.
+2
+Extract the universal examples
+Ibn Taymiyya gives examples: 'Justice is good and its possessor deserves praise; injustice is evil and deserves blame.' These are universally acknowledged among humans.
+These examples ground the argument in common intuition.
+3
+Analyze the method
+He says assent (tasdiq) is preceded by conception (tasawwur). So to verify, clarify the meaning of 'justice is good' and 'injustice is evil', then check if the predicate truly applies to the subject.
+This is a logical procedure, not mere assertion.
+4
+Evaluate the refutation
+Ibn Taymiyya concludes the denial is false because these propositions are self-evident to reason. The philosophers are in confusion.
+The refutation is epistemological: without these certainties, no rational knowledge is possible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بيان أن قضايا التحسين والتقبيح من أعظم اليقينيات والمقصود هنا ذكر هذه القضايا المشهورة من بني آدم كلهم، كقولهم «العدل حسن وجميل وصاحبه يستحق المدح والكرامة والظلم قبيح مذموم وصاحبه يستحق الذم والإهانة، فإن هؤلاء نفوا كونها من اليقينيات. وهذا يستلزم أن لا يقول الفلاسفة بالحسن والقبح العقليين، إذ لم يكن في العقل قضية برهانية علمية. ومن الناس من حكى عنهم القول بذلك. والتحقيق أنهم في ذلك متنازعون مضطربون، كما في أمثال ذلك. فنقول : دعوى المدَّعي أن هذه القضايا ليست من اليقينيات دعوى باطلة، بل هذه من أعظم اليقينيات المعلومة بالعقل وذلك أن التصديق مسبوق بالتصور، فينبغي أن ننظر معنى قولنا العدل حسن والظلم قبيح، ثم ننظر في ثبوت هذا المحمول لهذا الموضوع، ولنتكلم في عدل الناس وظلمهم .
+A statement that the propositions of deeming things good and evil are among the greatest certainties. And the intent here is to mention these well-known propositions among all of humanity, such as their saying 'Justice is good and beautiful, and its possessor deserves praise and honor, and injustice is evil and blameworthy, and its possessor deserves blame and humiliation.' For these [negators] denied that they are certainties. This necessitates that the philosophers do not affirm rational good and evil, since there would be no demonstrative scientific proposition in the intellect. And among people are those who relate that they said that. The truth is that they are in disagreement and confusion about that, as in similar matters. So we say: The claimant's claim that these propositions are not certainties is a false claim. Rather, they are among the greatest certainties known by reason. And that is because assent is preceded by conception, so we should consider the meaning of our saying 'Justice is good' and 'Injustice is evil', then consider the establishment of this predicate for this subject, and we will speak about the justice and injustice of people.
+Source pages p. 466
+
+Commentary
+This passage begins a new section where Ibn Taymiyya argues that the propositions of tahsin and taqbih (deeming things good or evil) are among the greatest certainties (al-yaqiniyyat). He defines the subject matter: these are universally known judgments such as 'justice is good and praiseworthy' and 'injustice is evil and blameworthy'. He notes that the negators (the philosophers) deny that these are certainties, which implies that they reject the existence of any rational demonstrative propositions altogether—a self-defeating position. Ibn Taymiyya then states that the truth is that these philosophers are in disagreement and confusion about this issue. He then asserts that the claim that these propositions are not certainties is false; they are in fact among the greatest certainties known by reason. He outlines a method for verifying this: since assent (tasdiq) is preceded by conception (tasawwur), we must first clarify the meaning of 'justice is good' and 'injustice is evil', and then examine whether this predicate truly applies to the subject. He specifically limits the discussion to human justice and injustice, setting aside divine actions for now. This sets the stage for a detailed logical analysis of moral judgments.
+
+Key Terms
+اليقينيات (al-yaqiniyyat): Certain knowledge; propositions that are indubitable.
+التصديق (al-tasdiq): Assent; affirming a proposition.
+التصور (al-tasawwur): Conception; grasping a concept.
+التحسين والتقبيح (al-tahsin wa al-taqbih): Deeming things good or evil.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, why is the claim that moral judgments are not certainties false?
+A) Because they are revealed in scripture.
+B) Because they are known by reason and are among the greatest certainties.
+C) Because they are based on social consensus.
+D) Because they are purely emotional responses.
+
+Key Takeaway
+Ibn Taymiyya establishes that moral judgments are certainties known by reason, and he uses the tasawwur-tasdiq sequence to methodically verify them.
+
+How This Lesson Applies — to MY Life?
+?
+Take the moral judgment 'Justice is obligatory' and apply Ibn Taymiyya's method: first clarify the conception of justice (tasawwur), then verify that the predicate 'obligatory' truly applies to justice (tasdiq). What conceptual steps are needed?
+?
+Compare Ibn Taymiyya's position with the Ash'ari view that good and evil are known only through revelation. How would Ibn Taymiyya respond using the argument in this passage?
+
+Pages p. 466 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 467
+Module 8 · Lesson 16
+Next →
+Propositions
+intermediate
+7 min
+Ibn Taymiyya's Critique of the Certainty Hierarchy
+Ibn Taymiyya argues that commonly accepted moral truths are more certain than experiential propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's argument that commonly accepted moral propositions (mashhurat) are more certain than experiential propositions (tajribiyyat) and identify the empirical and innate basis he uses.
+
+Core Idea
+Ibn Taymiyya flips the hierarchy: moral truths, not empirical ones, are the most certain.
+
+In this passage, Ibn Taymiyya challenges the standard logical classification that ranks empirical propositions as certain and commonly accepted moral opinions as less certain. He uses the example of 'justice is good' to show that such propositions are known by innate nature (fitra) and universal experience, making them epistemically superior to even the most reliable medical generalizations. Let's walk through his argument step by step.
+
+Guided Path
+1
+Identify the logicians' classification
+Find the two types of propositions: experiential (tajribiyyat) and commonly accepted (mashhurat). Note which one logicians consider certain.
+The logicians treat tajribiyyat as yaqini, but mashhurat as less certain.
+2
+Examine Ibn Taymiyya's interpretation of moral statements
+When people say 'justice is good,' they mean it brings pleasure and benefit; 'injustice is evil' brings pain and harm. This is a claim about human experience.
+3
+Compare to experiential propositions
+Ibn Taymiyya contrasts 'justice is good' with 'scammony purges yellow bile.' He asks: if the latter is certain, why not the former, since more people have experienced justice and injustice?
+The comparison highlights the wider experiential basis of moral truths.
+4
+Assess the strength of experience
+He notes that those who have experienced moral truths are more numerous, more knowledgeable, and more truthful, and their reports are more widespread.
+5
+Draw the conclusion
+Ibn Taymiyya concludes that these commonly accepted propositions are among the greatest certainties, known by sense, reason, and experience.
+This directly challenges the logicians' hierarchy.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الرابع - الوجه التاسع : التفاضل بين التجربيات والمشهورات
+فنقول : الناس إذا قالوا «العدل حسن والظلم قبيح» فهم يَعْنُون بهذا أن العدل محبوب للفطرة تحصل لها بوجوده لذةٌ وفَرَح، نافع لصاحبه ولغير صاحبه، يحصل به اللذة والفرح وما تتنعم به النفوس . وإذا قالوا : الظلم قبيح فهم يعنون به أنه ضار لصاحبه ولغير صاحبه، وأنه بغيض يحصل به الألم والغم وما تتعذَّب به النفوس . ومعلوم أن هذه القضايا هي في علم الناس لها بالفطرة وبالتجربة أعظم من أكثر قضايا الطب، مثل كون السَّقَمُونيا تسهّل الصفراء. فلِمَ كانت التجربيات يقينية، وهذه التي هي أشهر منها وقد جربها الناسُ أكثر من تلك لا تكون يقينية؟ مع أن المجرّبين لها أكثر وأعلم وأصدق، وجزئياتها في العالم أكثر من جزئيات تلك، والمخبرين بذلك عنها أيضاً أكثر وأعلم وأصدق.
+فالإنسان من نفسه يجد من لذة العدل والصدق والعلم والإحسان، والسرور بذلك، ما لا يجده من الظلم والكذب والجهل والناس الذين وصل إليهم ذلك والذين لم يصل إليهم ذلك يجدون في أنفسهم من اللذة والفرح والسرور بعدل العادل وبصدق الصادق وعلم العالم وإحسان المحسن ما لا يجدونه في الظلم والكذب والجهل والإساءة. ولهذا يجدون في أنفسهم محبة لمن فعل ذلك وثناء عليه ودعاء له، وهم مفطورون على محبة ذلك واللذة به لا يمكنهم دفع ذلك عن أنفسهم، كما فُطروا على وجود اللذة بالأكل والشرب والألم بالجوع والعطش. فلم كانت تلك القضايا من اليقينيات المعلومة بالحس والعقل كالتجربة، ولم تكن هذه من القضايا العقلية المعلومة أيضاً بالحس والعقل والأمرُ فيها أعظم؟ واللذة التي توجد بهذه لذة روحانية عقلية شريفة، والإنسان كلما كمل عقله كانت هذه اللذة أحب إليه من تلك اللذة.
+ثم الفلاسفة أثبتوا معادَ الأرواح واللذة العقلية وهي مبنية على هذه القضايا التي سموها «المشهورات». فإن لم تكن معلومة كان ما أثبتوه من ذلك ليس فيه شيء من العلم بل يقولون ما يقوله غيرهم من أن اللذات الباطنة أقوى وأشرف من اللذات الظاهرة، ويدَّعون الضرورة في إثبات لذة وراء اللذات الحسية الظاهرة. وإذا كانت اللذة إما إدراك الملائم كما قد يزعمونه، أو هي تابعة ولازمة لإدراك الملائم كما يقوله غيرهم وهو الصحيح فمعلوم أن العلم والعدل والصدق والإحسان ملائم لبني آدم فيكونوا ملتذين بذلك، بل يكون التذاذهم بذلك أعظم من غيره. وهذا معنى كون الفعل حسناً، ومعنى كونه قبيحاً ضد ذلك.
+وإذا تصور معنى الحسن والقبح عُلم أن هذه المشهورات من أعظم اليقينيات، فإنها مما اتفقت عليها الأمم لما علموه بالحس والعقل والتجربة. بل اتفاق الناس على هذه أعظم من اتفاقهم على العقليات، بل أعظم من اتفاقهم على عامة ما يذكرونه . وقد يعيش طوائف من الناس زماناً ولا تخطر لهم القضايا الكلية العقلية التي جعلوها مبادىء العلم، كقول القائل «النفي والإثبات لا يجتمعان»، وإن كان يُعلم أن هذا الشيء المعيّن إذا كان موجوداً لم يكن معدوماً لكن قد لا تخطر لهم القضية الكلية. بل وقد لا يخطر لهم تقدير اجتماع وجوده وعدمه، فإن هذا التقدير ممتنع فلا يخطر لأكثر الناس ولا توجد طائفة إلا وهي تحسّن العدل والصدق والعلم والإحسان وتقبّح ضد ذلك.
+وأيضاً فـ «الحكمة» عندهم وعند سائر الأمم نوعان: علم وعمل. والحكمة العملية مبنية على هذه المشهورات. قال مالك رحمه الله (الحكمة : معرفة الدين والعمل به . ولذلك قال ابن قتيبة : الحكمة عند العرب العلم والعمل . والحكمة العملية عندهم وعند غيرهم تتضمن علم الأخلاق، وسياسة المنزل وسياسة المدنية. ومبنى ذلك كله على هذه القضايا المشهورة. بل وكل عمل يؤمر به فلا بد فيه من العدل. فالعدل مأمور به في جميع الأعمال، والظلم منهي عنه نهياً مطلقاً.
+ولهذا جاءت أفضل الشرائع والمناهج بتحقيق هذا كله وتكميله. فأوجب الله العدل لكل أحد على كل أحد في كل حال، كما قال تعالى : يَتَأَيُّهَا الَّذِينَ ءَامَنُوا
+The Fourth Station - The Ninth Aspect: The distinction between experiential propositions and commonly accepted ones. We say: When people say 'Justice is good and injustice is evil,' they mean by this that justice is loved by innate nature, that through its presence there is pleasure and joy, beneficial to its possessor and others, and that through it pleasure, joy, and that which makes souls happy are obtained. And when they say 'Injustice is evil,' they mean that it is harmful to its possessor and others, and that it is hateful, and through it pain, grief, and that which tortures souls are obtained. It is known that these propositions are, in people's knowledge of them by innate nature and experience, greater than most medical propositions, such as the fact that scammony purges yellow bile. So why are experiential propositions certain, while these, which are more famous than them and which people have experienced more than those, are not certain? Even though those who have experienced them are more numerous, more knowledgeable, and more truthful, and their particulars in the world are more than the particulars of those, and those who report about them are also more numerous, more knowledgeable, and more truthful. Man himself finds from the pleasure of justice, truthfulness, knowledge, and goodness, and the joy therein, what he does not find from injustice, lying, and ignorance. People who have received these and those who have not received them find in themselves of pleasure, joy, and happiness from the justice of the just, the truthfulness of the truthful, the knowledge of the knowledgeable, and the goodness of the good what they do not find in injustice, lying, ignorance, and evil. Therefore they find in themselves love for the one who does that, praise for him, and supplication for him, and they are innately disposed to love that and take pleasure in it; they cannot repel that from themselves, just as they are innately disposed to experience pleasure in eating and drinking and pain in hunger and thirst. So why were those propositions among the certainties known by sense and reason like experience, and why were these not among the intellectual propositions also known by sense and reason, even though the matter is greater? The pleasure found in these is a noble spiritual intellectual pleasure, and the more a person's intellect is perfected, the more beloved this pleasure is to him than that pleasure. Then the philosophers affirmed the resurrection of spirits and intellectual pleasure, and it is built upon these propositions which they called 'commonly accepted ones.' If they were not known, then what they affirmed in that would contain nothing of knowledge; rather they would say what others say, that inner pleasures are stronger and nobler than outer pleasures, and they claim necessity in affirming a pleasure beyond the sensory outward pleasures. And if pleasure is either the perception of the agreeable, as they may claim, or it is a consequent and necessary concomitant of the perception of the agreeable, as others say and which is correct, then it is known that knowledge, justice, truthfulness, and goodness are agreeable to human beings, so they take pleasure in that; indeed their pleasure in that is greater than in other things. This is the meaning of an act being good, and the meaning of it being evil is the opposite. If the meaning of good and evil is conceptualized, it is known that these commonly accepted propositions are among the greatest certainties, for they are agreed upon by nations because they know them by sense, reason, and experience. Indeed the agreement of people on these is greater than their agreement on intellectual matters, and even greater than their agreement on most things they mention. There may be groups of people who live for a time and do not conceive of the universal intellectual propositions which they made as principles of knowledge, such as 'Negation and affirmation cannot be combined,' although it is known that this specific thing, if it exists, is not non-existent; but the universal proposition may not occur to them. Indeed they may not conceive of the supposition of the conjunction of its existence and non-existence, for this supposition is impossible and does not occur to most people. But there is no group except that it deems justice, truthfulness, knowledge, and goodness as good, and their opposite as evil. Also, 'wisdom' according to them and all nations is of two types: knowledge and action. Practical wisdom is built upon these commonly accepted propositions. Malik (may Allah have mercy on him) said: 'Wisdom is knowledge of the religion and acting upon it.' And Ibn Qutayba said: 'Wisdom according to the Arabs is knowledge and action.' Practical wisdom according to them and others includes the science of ethics, household management, and civic management. The foundation of all that is these commonly accepted propositions. Indeed every commanded action must involve justice. Justice is commanded in all actions, and injustice is absolutely prohibited. Therefore the best laws and methods came to realize and perfect all of this. So Allah obligated justice for everyone over everyone in every situation, as He said: 'O you who believe...'
+Source pages p. 467
+
+Commentary
+This passage is a critical argument by Ibn Taymiyya against the logicians' classification of propositions into experiential (tajribiyyat) and commonly accepted (mashhurat), where the former are deemed certain and the latter not. He refutes this by showing that the commonly accepted moral propositions, such as 'justice is good' and 'injustice is evil,' are more certain than medical experiential propositions because they are rooted in innate human nature (fitra) and universal experience. Ibn Taymiyya proceeds in the author's order: First, he interprets what people mean when they utter these moral judgments: they refer to the inherent pleasure or pain these actions produce in the soul. He points out that these judgments are known by fitra and experience to a greater degree than typical experimental propositions like 'scammony purges yellow bile.' If experiential propositions are deemed certain, why are these, which are more famous and more widely experienced, not also certain? The experiencers are more numerous and reliable. Next, he elaborates on the universal human experience of pleasure from justice, truth, knowledge, and goodness, and pain from their opposites. This pleasure is spiritual and intellectual, and it increases with the perfection of the intellect. He then points out a contradiction: the philosophers themselves base their doctrine of spiritual resurrection and intellectual pleasure on these very 'commonly accepted' propositions. If those were uncertain, their own doctrines would lack a foundation. Moreover, they claim that inner pleasures are stronger, which itself relies on these moral propositions. Ibn Taymiyya defines pleasure as perception of the agreeable or a concomitant of it; knowledge, justice, etc., are agreeable to humans, so they yield pleasure—greater than bodily pleasures. This is the meaning of good and evil. He argues that these propositions are among the greatest certainties because all nations agree on them, based on sense, reason, and experience. Universal agreement on these is greater than on abstract intellectual axioms like the law of non-contradiction, which many people never consciously formulate. Yet every society approves of justice and truthfulness. Finally, he connects this to wisdom (hikma), which consists of knowledge and action. Practical wisdom—ethics, household management, politics—is built entirely on these commonly accepted propositions. Even Islamic law (Sharia) emphasizes justice for all, as per the Quranic verse. Thus, Ibn Taymiyya demonstrates that the philosophers' own framework undermines their classification, and that these moral truths are foundational and certain.
+
+Key Terms
+التجربيات
+المشهورات
+اليقينيات
+الحكمة العملية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, why are commonly accepted propositions (mashhurat) like 'justice is good' more certain than experiential propositions (tajribiyyat) like 'scammony purges yellow bile'?
+A) Because they are more famous and widely agreed upon, and based on innate nature and universal experience.
+B) Because they are derived from abstract rational axioms.
+C) Because they are less subject to error than medical experiments.
+D) Because they are taught by divine revelation exclusively.
+
+Key Takeaway
+Ibn Taymiyya grounds the certainty of moral truths in universal innate experience, surpassing empirical knowledge.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a short argument similar to Ibn Taymiyya's, using the proposition 'truthfulness is good' to show it is more certain than a medical proposition like 'honey heals wounds.' Explain why truthfulness is more widely experienced and agreed upon.
+
+Pages p. 467 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 467
+Module 8 · Lesson 17
+Next →
+Propositions
+intermediate
+5 min
+The Role of Mashhurat in Practical Wisdom and Sharia
+Ibn Taymiyya links commonly accepted propositions to practical wisdom and Sharia.
+
+Learning Objective
+By the end of this lesson, you will be able to explain how Ibn Taymiyya connects commonly accepted moral propositions to the foundation of practical wisdom (hikma 'amaliyya) and Islamic law, and identify the logical implication for their certainty.
+
+Core Idea
+Mashhurat are not just opinions; they are the bedrock of practical wisdom and Sharia.
+
+Ibn Taymiyya extends his argument by showing that all of practical wisdom—ethics, household management, and politics—rests on these commonly accepted moral truths. He even cites Imam Malik and Ibn Qutayba to emphasize that wisdom consists of knowledge and action. This demonstrates that the philosophers themselves cannot do without these propositions, and that Sharia perfects them.
+
+Guided Path
+1
+Identify the categories of wisdom
+Find where Ibn Taymiyya divides wisdom into two types: knowledge (ilm) and action (amal). He quotes Malik and Ibn Qutayba to support this.
+2
+Trace the dependency of practical wisdom
+He states that practical wisdom (ethics, household management, politics) is built upon commonly accepted propositions. Note the three branches.
+3
+Note the Sharia connection
+He brings in the Quranic command of justice (from Surah al-Hadid or similar) to show that Sharia reinforces and perfects these common moral truths.
+4
+Evaluate the overall argument
+Consider what this implies for the epistemic status of mashhurat: they are not only certain but also foundational for human practical life and divine law.
+Ibn Taymiyya uses this to further undermine the logicians' devaluation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الرابع - الوجه التاسع : التفاضل بين التجربيات والمشهورات
+فنقول : الناس إذا قالوا «العدل حسن والظلم قبيح» فهم يَعْنُون بهذا أن العدل محبوب للفطرة تحصل لها بوجوده لذةٌ وفَرَح، نافع لصاحبه ولغير صاحبه، يحصل به اللذة والفرح وما تتنعم به النفوس . وإذا قالوا : الظلم قبيح فهم يعنون به أنه ضار لصاحبه ولغير صاحبه، وأنه بغيض يحصل به الألم والغم وما تتعذَّب به النفوس . ومعلوم أن هذه القضايا هي في علم الناس لها بالفطرة وبالتجربة أعظم من أكثر قضايا الطب، مثل كون السَّقَمُونيا تسهّل الصفراء. فلِمَ كانت التجربيات يقينية، وهذه التي هي أشهر منها وقد جربها الناسُ أكثر من تلك لا تكون يقينية؟ مع أن المجرّبين لها أكثر وأعلم وأصدق، وجزئياتها في العالم أكثر من جزئيات تلك، والمخبرين بذلك عنها أيضاً أكثر وأعلم وأصدق.
+فالإنسان من نفسه يجد من لذة العدل والصدق والعلم والإحسان، والسرور بذلك، ما لا يجده من الظلم والكذب والجهل والناس الذين وصل إليهم ذلك والذين لم يصل إليهم ذلك يجدون في أنفسهم من اللذة والفرح والسرور بعدل العادل وبصدق الصادق وعلم العالم وإحسان المحسن ما لا يجدونه في الظلم والكذب والجهل والإساءة. ولهذا يجدون في أنفسهم محبة لمن فعل ذلك وثناء عليه ودعاء له، وهم مفطورون على محبة ذلك واللذة به لا يمكنهم دفع ذلك عن أنفسهم، كما فُطروا على وجود اللذة بالأكل والشرب والألم بالجوع والعطش. فلم كانت تلك القضايا من اليقينيات المعلومة بالحس والعقل كالتجربة، ولم تكن هذه من القضايا العقلية المعلومة أيضاً بالحس والعقل والأمرُ فيها أعظم؟ واللذة التي توجد بهذه لذة روحانية عقلية شريفة، والإنسان كلما كمل عقله كانت هذه اللذة أحب إليه من تلك اللذة.
+ثم الفلاسفة أثبتوا معادَ الأرواح واللذة العقلية وهي مبنية على هذه القضايا التي سموها «المشهورات». فإن لم تكن معلومة كان ما أثبتوه من ذلك ليس فيه شيء من العلم بل يقولون ما يقوله غيرهم من أن اللذات الباطنة أقوى وأشرف من اللذات الظاهرة، ويدَّعون الضرورة في إثبات لذة وراء اللذات الحسية الظاهرة. وإذا كانت اللذة إما إدراك الملائم كما قد يزعمونه، أو هي تابعة ولازمة لإدراك الملائم كما يقوله غيرهم وهو الصحيح فمعلوم أن العلم والعدل والصدق والإحسان ملائم لبني آدم فيكونوا ملتذين بذلك، بل يكون التذاذهم بذلك أعظم من غيره. وهذا معنى كون الفعل حسناً، ومعنى كونه قبيحاً ضد ذلك.
+وإذا تصور معنى الحسن والقبح عُلم أن هذه المشهورات من أعظم اليقينيات، فإنها مما اتفقت عليها الأمم لما علموه بالحس والعقل والتجربة. بل اتفاق الناس على هذه أعظم من اتفاقهم على العقليات، بل أعظم من اتفاقهم على عامة ما يذكرونه . وقد يعيش طوائف من الناس زماناً ولا تخطر لهم القضايا الكلية العقلية التي جعلوها مبادىء العلم، كقول القائل «النفي والإثبات لا يجتمعان»، وإن كان يُعلم أن هذا الشيء المعيّن إذا كان موجوداً لم يكن معدوماً لكن قد لا تخطر لهم القضية الكلية. بل وقد لا يخطر لهم تقدير اجتماع وجوده وعدمه، فإن هذا التقدير ممتنع فلا يخطر لأكثر الناس ولا توجد طائفة إلا وهي تحسّن العدل والصدق والعلم والإحسان وتقبّح ضد ذلك.
+وأيضاً فـ «الحكمة» عندهم وعند سائر الأمم نوعان: علم وعمل. والحكمة العملية مبنية على هذه المشهورات. قال مالك رحمه الله (الحكمة : معرفة الدين والعمل به . ولذلك قال ابن قتيبة : الحكمة عند العرب العلم والعمل . والحكمة العملية عندهم وعند غيرهم تتضمن علم الأخلاق، وسياسة المنزل وسياسة المدنية. ومبنى ذلك كله على هذه القضايا المشهورة. بل وكل عمل يؤمر به فلا بد فيه من العدل. فالعدل مأمور به في جميع الأعمال، والظلم منهي عنه نهياً مطلقاً.
+ولهذا جاءت أفضل الشرائع والمناهج بتحقيق هذا كله وتكميله. فأوجب الله العدل لكل أحد على كل أحد في كل حال، كما قال تعالى : يَتَأَيُّهَا الَّذِينَ ءَامَنُوا
+The Fourth Station - The Ninth Aspect: The distinction between experiential propositions and commonly accepted ones. We say: When people say 'Justice is good and injustice is evil,' they mean by this that justice is loved by innate nature, that through its presence there is pleasure and joy, beneficial to its possessor and others, and that through it pleasure, joy, and that which makes souls happy are obtained. And when they say 'Injustice is evil,' they mean that it is harmful to its possessor and others, and that it is hateful, and through it pain, grief, and that which tortures souls are obtained. It is known that these propositions are, in people's knowledge of them by innate nature and experience, greater than most medical propositions, such as the fact that scammony purges yellow bile. So why are experiential propositions certain, while these, which are more famous than them and which people have experienced more than those, are not certain? Even though those who have experienced them are more numerous, more knowledgeable, and more truthful, and their particulars in the world are more than the particulars of those, and those who report about them are also more numerous, more knowledgeable, and more truthful. Man himself finds from the pleasure of justice, truthfulness, knowledge, and goodness, and the joy therein, what he does not find from injustice, lying, and ignorance. People who have received these and those who have not received them find in themselves of pleasure, joy, and happiness from the justice of the just, the truthfulness of the truthful, the knowledge of the knowledgeable, and the goodness of the good what they do not find in injustice, lying, ignorance, and evil. Therefore they find in themselves love for the one who does that, praise for him, and supplication for him, and they are innately disposed to love that and take pleasure in it; they cannot repel that from themselves, just as they are innately disposed to experience pleasure in eating and drinking and pain in hunger and thirst. So why were those propositions among the certainties known by sense and reason like experience, and why were these not among the intellectual propositions also known by sense and reason, even though the matter is greater? The pleasure found in these is a noble spiritual intellectual pleasure, and the more a person's intellect is perfected, the more beloved this pleasure is to him than that pleasure. Then the philosophers affirmed the resurrection of spirits and intellectual pleasure, and it is built upon these propositions which they called 'commonly accepted ones.' If they were not known, then what they affirmed in that would contain nothing of knowledge; rather they would say what others say, that inner pleasures are stronger and nobler than outer pleasures, and they claim necessity in affirming a pleasure beyond the sensory outward pleasures. And if pleasure is either the perception of the agreeable, as they may claim, or it is a consequent and necessary concomitant of the perception of the agreeable, as others say and which is correct, then it is known that knowledge, justice, truthfulness, and goodness are agreeable to human beings, so they take pleasure in that; indeed their pleasure in that is greater than in other things. This is the meaning of an act being good, and the meaning of it being evil is the opposite. If the meaning of good and evil is conceptualized, it is known that these commonly accepted propositions are among the greatest certainties, for they are agreed upon by nations because they know them by sense, reason, and experience. Indeed the agreement of people on these is greater than their agreement on intellectual matters, and even greater than their agreement on most things they mention. There may be groups of people who live for a time and do not conceive of the universal intellectual propositions which they made as principles of knowledge, such as 'Negation and affirmation cannot be combined,' although it is known that this specific thing, if it exists, is not non-existent; but the universal proposition may not occur to them. Indeed they may not conceive of the supposition of the conjunction of its existence and non-existence, for this supposition is impossible and does not occur to most people. But there is no group except that it deems justice, truthfulness, knowledge, and goodness as good, and their opposite as evil. Also, 'wisdom' according to them and all nations is of two types: knowledge and action. Practical wisdom is built upon these commonly accepted propositions. Malik (may Allah have mercy on him) said: 'Wisdom is knowledge of the religion and acting upon it.' And Ibn Qutayba said: 'Wisdom according to the Arabs is knowledge and action.' Practical wisdom according to them and others includes the science of ethics, household management, and civic management. The foundation of all that is these commonly accepted propositions. Indeed every commanded action must involve justice. Justice is commanded in all actions, and injustice is absolutely prohibited. Therefore the best laws and methods came to realize and perfect all of this. So Allah obligated justice for everyone over everyone in every situation, as He said: 'O you who believe...'
+Source pages p. 467
+
+Commentary
+This passage is a critical argument by Ibn Taymiyya against the logicians' classification of propositions into experiential (tajribiyyat) and commonly accepted (mashhurat), where the former are deemed certain and the latter not. He refutes this by showing that the commonly accepted moral propositions, such as 'justice is good' and 'injustice is evil,' are more certain than medical experiential propositions because they are rooted in innate human nature (fitra) and universal experience. Ibn Taymiyya proceeds in the author's order: First, he interprets what people mean when they utter these moral judgments: they refer to the inherent pleasure or pain these actions produce in the soul. He points out that these judgments are known by fitra and experience to a greater degree than typical experimental propositions like 'scammony purges yellow bile.' If experiential propositions are deemed certain, why are these, which are more famous and more widely experienced, not also certain? The experiencers are more numerous and reliable. Next, he elaborates on the universal human experience of pleasure from justice, truth, knowledge, and goodness, and pain from their opposites. This pleasure is spiritual and intellectual, and it increases with the perfection of the intellect. He then points out a contradiction: the philosophers themselves base their doctrine of spiritual resurrection and intellectual pleasure on these very 'commonly accepted' propositions. If those were uncertain, their own doctrines would lack a foundation. Moreover, they claim that inner pleasures are stronger, which itself relies on these moral propositions. Ibn Taymiyya defines pleasure as perception of the agreeable or a concomitant of it; knowledge, justice, etc., are agreeable to humans, so they yield pleasure—greater than bodily pleasures. This is the meaning of good and evil. He argues that these propositions are among the greatest certainties because all nations agree on them, based on sense, reason, and experience. Universal agreement on these is greater than on abstract intellectual axioms like the law of non-contradiction, which many people never consciously formulate. Yet every society approves of justice and truthfulness. Finally, he connects this to wisdom (hikma), which consists of knowledge and action. Practical wisdom—ethics, household management, politics—is built entirely on these commonly accepted propositions. Even Islamic law (Sharia) emphasizes justice for all, as per the Quranic verse. Thus, Ibn Taymiyya demonstrates that the philosophers' own framework undermines their classification, and that these moral truths are foundational and certain.
+
+Key Terms
+التجربيات
+المشهورات
+اليقينيات
+الحكمة العملية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, what is the foundation of practical wisdom (hikma 'amaliyya)?
+A) Experiential propositions (tajribiyyat)
+B) Commonly accepted propositions (mashhurat)
+C) Abstract rational axioms
+D) Revelation alone
+
+Key Takeaway
+Ibn Taymiyya demonstrates that the certainty of mashhurat is reinforced by their indispensable role in practical wisdom and revealed law.
+
+How This Lesson Applies — to MY Life?
+?
+Select one of the three components of practical wisdom (ethics, household management, politics) and show how a specific commonly accepted moral proposition (e.g., 'honesty is good') functions as a foundation for rulings in that area within Islamic tradition.
+
+Pages p. 467 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 470
+Module 8 · Lesson 18
+Next →
+Propositions
+intermediate
+5 min
+Practical Wisdom Rests on Self-Evident Propositions
+Author argues that practical wisdom depends on known propositions and challenges logicians' denial of their certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's argument that practical wisdom depends on known propositions and evaluate his challenge to the logicians.
+
+Core Idea
+Without certain foundational propositions, all practical wisdom collapses.
+
+Ibn Taymiyya argues that practical wisdom (ethics, politics) is built on self-evident truths. He challenges logicians who deny the certainty of these well-known propositions. This lesson walks through his argument and his dialectical strategy.
+
+Guided Path
+1
+Identify the two faculties of the soul
+Find where Ibn Taymiyya mentions the scientific and practical faculties. Note the relationship: action requires knowledge.
+This is a crucial premise for his argument.
+2
+Locate the conditional claim
+Find the conditional: 'If these propositions were not known, then nothing of practical wisdom would be known.' This is the core of the argument.
+He uses this to show the consequence of denying certainty.
+3
+Recognise the dialectical move
+Ibn Taymiyya says he is not proving their error but depicting it so you see its reality. He then demands proof from the logicians. Identify this rhetorical shift.
+He shifts from exposition to challenge.
+4
+Identify the specific charge
+What does he accuse the logicians of? (obstinacy) And what does he require from them? (proof that mashhūrāt are not certain)
+He notes they have provided no proof.
+5
+Preview the next stage
+He mentions he will discuss their alleged proof (of the third type) later. This sets up further analysis.
+This shows his systematic refutation strategy.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والمقصود أن الحكمة العملية كلها مبنية على هذه القضايا والنفس لها قوتان: العلمية والعملية، والعمل لا بد أن يكون بعلم. فإن لم تكن هذه القضايا معلومة لم يكن شيء من الحكمة العملية معلوماً، ولا شيء من الأعمال والأخلاق المحمودة والمذمومة معلوماً. وهذا مع ما فيه من ظاهرة هو من المكابرة في نوع الكلام لم نقصد إقامة الدليل على فساد قولهم، بل صوّرناه لتعلم حقيقته، وطالبناهم بالدليل على أن هذه المشهورات ليست يقينية، فإنهم لم يذكروا على ذلك دليلاً أصلاً. وسنتكلم على ما توهموه دليلاً من النوع الثالث في بيان كون المشهورات من جملة القضايا الواجب قبولها أولية أو غير قولهم هذه القضايا ليست بأوّلية لما ذكروه من الفرق بين الأولي وغيره.
+And the point is that all practical wisdom is built upon these propositions. The soul has two faculties: the scientific and the practical. Action must be accompanied by knowledge. So if these propositions were not known, nothing of practical wisdom would be known, nor any of the praiseworthy or blameworthy actions and character traits. And this, despite its obviousness, is a kind of obstinacy in speech. We did not intend to establish proof for the corruption of their statement, but rather we depicted it so that you know its reality, and we called upon them to provide proof that these well-known propositions are not certain, for they have not mentioned any proof for that at all. And we will discuss what they imagined to be a proof, of the third type, in explaining that the well-known propositions are among the propositions that must be accepted as primary or otherwise, and their statement that these propositions are not primary due to the distinction they mentioned between the primary and other.
+Source pages p. 470
+
+Commentary
+This passage is a critical argument by Ibn Taymiyya against the logicians. He begins by stating that all practical wisdom (al-ḥikmah al-ʿamaliyyah) — which includes ethics, politics, and the knowledge of good and bad actions — is built upon foundational propositions (like the goodness of justice and the evil of injustice). He then notes that the human soul has two powers: the theoretical (al-ʿilmiyyah) and the practical (al-ʿamaliyyah). Action requires knowledge; therefore, if these foundational propositions were not known with certainty, then nothing in practical wisdom could be known. This includes all praiseworthy and blameworthy actions and character traits. Because this is so obvious, Ibn Taymiyya considers the logicians' denial of the certainty of these well-known propositions (al-mashhūrāt) to be a form of obstinacy (mukābarah). He clarifies that he has not aimed to formally prove the falsity of their position; rather, he has presented it (ṣawwarahu) so that its true nature becomes clear. He then challenges them: they must provide proof that these commonly accepted propositions are not certain. He notes that they have presented no proof at all. Finally, he announces that he will later discuss the alleged proof they imagine, which belongs to the third type (likely a fallacy), in the context of showing that the well-known propositions are among those that must be accepted either as primary (awwaliyyah) or otherwise. He will also address their claim that these propositions are not primary due to the distinction they draw between the primary and other types of propositions.
+
+Key Terms
+الحكمة العملية
+المشهورات
+أولية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what are the two faculties of the soul mentioned?
+A) The intellectual and the emotional
+B) The scientific (theoretical) and the practical
+C) The rational and the irrational
+D) The cognitive and the moral
+
+Key Takeaway
+Ibn Taymiyya argues that practical wisdom depends on certain foundational propositions, and he challenges the logicians to prove that these are not certain, shifting the burden of proof.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a brief argument similar to Ibn Taymiyya's for the proposition 'lying is blameworthy'. Show that if this proposition were not known, then all judgments about truthfulness would be uncertain, leading to an absurdity.
+?
+Identify the logical structure of Ibn Taymiyya's challenge: is it a reductio ad absurdum? Explain how he shifts the burden of proof.
+
+Pages p. 470 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 530
+Module 8 · Lesson 19
+Next →
+Propositions
+intermediate
+7 min
+The Prophetic Progression: Dreams, Angelic Encounter, and Divine Choice
+Ibn Taymiyya presents the traditional stages of revelation.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the stages of prophetic revelation as described by Ibn Taymiyya and cite the key hadith evidence.
+
+Core Idea
+Prophethood is a divinely guided progression through stages, beginning with true dreams.
+
+In this passage, Ibn Taymiyya begins by establishing the orthodox understanding of how revelation came to the Prophet Muhammad. He cites authentic hadith to show that prophethood started with true dreams, then progressed to angelic communication, both inward and in human form, culminating in the Night Journey. This sets the stage for his subsequent critique of the philosophers who deny these realities.
+
+Guided Path
+1
+Locate the hadith evidence for dreams as part of prophethood
+Find the hadith about 'mubashshirat' (good tidings) and the fraction 1/46. Why does Ibn Taymiyya cite them? To establish that dreams are a genuine part of prophethood, even after the Prophet's death.
+The hadith is from Sahih al-Bukhari and Muslim.
+2
+Reconstruct the chronological stages of revelation
+From Aisha's narration, note the order: true dreams, then solitude in Hira, then the angel coming in various forms (inwardly and as a man), then the Night Journey to God. This shows a clear progression.
+The phrase 'ثم حبب إليه الخلاء' indicates the progression.
+3
+Identify the theological principle underlying the stages
+The verse 'Allahu a'lamu haythu yaj'alu risalatahu' indicates that God chooses prophets; prophethood is not a natural acquisition but a divine gift after preparation.
+Ibn Taymiyya emphasizes that God places revelation in souls after making them suitable.
+4
+Contrast this with the philosophical view
+The philosophers deny the progression and the reality of the angel and divine speech. This positive account serves as the foundation for Ibn Taymiyya's refutation.
+The contrast highlights the fundamental difference between orthodox and philosophical conceptions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+عن النبي لله و أنه قال : «لم يبق بعدي من النبوّة إلا المبشرات، وهي الرؤيا الصالحة يراها الرجلُ الصالح أو تُرَى له». وقال : الرؤيا الصالحة جزء من ستة وأربعين جزءاً من النبوة. وفي الصحيحين عن عائشة قالت : أول ما بدىء به رسول الله صلى الله عليه وسلم من الوحي الرؤيا الصادقة في النوم، فكان لا يرى رؤيا إلا جاءت مثل فَلَقِ الصُّبح . ثم حُبّب إليه الخلاء، فكان يخلو بغار حِرَاءٍ فيتحنّتُ فيه، وهو التعبدُ، الليالي ذواتِ العَدَد. وقد قال تعالى : ( اللهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ ). فلا ريب أن ما يجعله الله في النفوس وغيرها يجعله بعد إعدادها لذلك وتسويتها لما يُلقى فيها. فهذا ونحوه حق يقول به السلف وجمهور المسلمين. وإنما يُنكر ذلك مَنْ ينكر الحِكم والأسباب من أهل الكلام. والنبي صلى الله عليه وسلم بدىء أولاً بالرؤيا الصادقة. فإن رؤيا الأنبياء وحي معصوم، كما قال ابن عباس وعُبيد بن عُمير وغيرهما: رؤيا الأنبياء وحي وقرأ قول إبراهيم عليه السلام : إِنِّي أَرَى فِي الْمَنَامِ أَنِّي أَذْبَحُكَ. ثم إن النبي صلى الله عليه وسلم نقل من درجة إلى درجة، ثم بعد هذا جاءه الملك فخاطبه بالكلام. فأحياناً يأتيه في الباطن فيكلمه، وأحياناً يتمثل له في صورة رجل فيكلمه. ثم عُرج به إلى ربه ليلة الإسراء. فما ادعوه من أن الرؤيا قد يحصل بها معرفةُ المغيبات حق. وهذا يُحتج به على من ينكر هذا الجنس مطلقاً، ولكن لا تجعل النبوة كلها من هذا الجنس . فمن الباطل ما ادعوه في النبوة وفي كيفيتها، حيث زعموا أنه ليس هناك مَلَك حي يأتي بالوحي من الله ، ولا الله كلام يتكلم به يَسْمعه المَلَكُ فينزل به، ولا يعرف الله جزئيات الأمور حتى يكتبها عنده، أو حتى يُخبر بها الملك والملك يخبر بها النبي ، أو يخبر بها النبي ابتداء . وزعموا أنه ليس الله ما يدبر به أمر السموات والأرض إلا مجرد حركة الفلك . وأثبتوا النبوة كما أثبتها الفلاسفة نبوة حال كثير من أحوال أوساط المسلمين خير منها . فإن كثيراً من أوساط المسلمين له من العلم والعمل أعظم مما أثبته هؤلاء للأنبياء. فإنهم جعلوا خواص النبوة نوعين : القوة العلمية التي ينال بها العلم، إما بواسطة القياس المنطق، وإما بواسطة التجرد الذي هو كتجرد النائم حتى تتصل بالنفس الفلكية ; والثاني القوة العَمَلية، وهو أن تكون نفسه قوية على التصرف في هَيُولى العالم بحيث تحدث عنها عجائب. والنوع الأول يتضمن أمرين: أحدهما معرفة العلوم الكلية بالقياس المنطقي، والثاني معرفة الجزئيات بهذا الاتصال. ثم الخيال يصور المعقولات في الصور المناسبة لها ويَنْقُشُها في الحس المشترك، فيرى الإنسانُ في باطنه صوراً ويسمع أصواتاً. وتلك الصور عندهم ملائكة الله ، وتلك الأصوات كلام الله . ولهذا كان الملاحدة من المتصوفة على طريقهم كابن عربي وابن سبعين وغيرهما قد سلكوا مسلك ملاحدة الشيعة كأصحاب رسائل إخوان الصفا، واتبعوا ما وجدوه
+From the Prophet, may God's peace and blessings be upon him, he said: 'Nothing remains after me of prophethood except the good tidings, and they are the righteous dream that a righteous man sees or is shown to him.' And he said: 'The righteous dream is a part of forty-six parts of prophethood.' In the two Sahihs from Aisha, she said: The first thing the Messenger of God, may God's peace and blessings be upon him, began with of revelation was the true dream in sleep; he would not see a dream except that it came like the break of dawn. Then solitude was made beloved to him, so he would seclude himself in the cave of Hira and worship there, which is devotion, for many nights. And God Almighty said: 'God knows best where to place His message.' There is no doubt that what God places in souls and other things, He places after preparing them for that and making them suitable for what is cast into them. This and the like is the truth held by the Salaf and the majority of Muslims. Only those who deny wisdom and causes among the people of kalam deny that. The Prophet, may God's peace and blessings be upon him, began first with the true dream. Indeed, the dreams of prophets are infallible revelation, as Ibn Abbas, Ubayd ibn Umayr, and others said: The dreams of prophets are revelation, and he recited the saying of Abraham, peace be upon him: 'I see in a dream that I am sacrificing you.' Then the Prophet, may God's peace and blessings be upon him, was transferred from one degree to another, then after this the angel came to him and addressed him with speech. Sometimes he would come to him inwardly and speak to him, and sometimes he would appear to him in the form of a man and speak to him. Then he was taken on the Night Journey to his Lord. So what they claim, that through dreams one can obtain knowledge of the unseen, is true. This is used as evidence against those who deny this kind absolutely, but one should not make all of prophethood of this kind. It is false what they claim about prophethood and its nature, where they claim that there is no living angel who brings revelation from God, nor God's speech that He speaks that the angel hears and then descends with it, nor does God know particular matters so that He writes them down with Him, or that the angel informs the prophet, or the prophet informs about them directly. And they claimed that there is nothing with which God administers the affairs of the heavens and the earth except mere motion of the celestial sphere. And they affirmed prophethood as the philosophers affirmed it, a prophethood such that the condition of many average Muslims is better than it. For many average Muslims have knowledge and action greater than what these people attribute to the prophets. They made the specific characteristics of prophethood two types: the scientific power by which one attains knowledge, either through logical syllogism or through aloneness (tajarrud) like the aloneness of the sleeper until it connects with the celestial soul; and the second is the practical power, namely that his soul is strong enough to act upon the matter (hayula) of the world such that wonders arise from it. The first type includes two things: one is knowledge of universal sciences by logical syllogism, and the second is knowledge of particulars through this connection. Then the imagination depicts the intelligibles in forms suitable for them and engraves them in the common sense, so a person sees images within himself and hears sounds. Those images, according to them, are the angels of God, and those sounds are the speech of God. Consequently, the heretics among the Sufis followed their path, like Ibn Arabi, Ibn Sab'in, and others, and they followed the path of the heretical Shi'a, like the authors of the Epistles of the Ikhwan al-Safa, and they followed what they found.
+Source pages p. 530
+
+Commentary
+This passage is a critical refutation by Ibn Taymiyya of the philosophers' conception of prophethood and revelation. He begins by establishing the orthodox view that the beginning of revelation to the Prophet Muhammad was through true dreams, which for prophets are infallible revelation. He cites hadith and the example of Abraham's dream. He then explains that the Prophet progressed through stages: from dreams to angelic communication, both inward and in human form, culminating in the Night Journey. While acknowledging that dreams can provide knowledge of the unseen, he warns that prophethood should not be reduced to that alone. Ibn Taymiyya then attacks the philosophers (referring to the falasifa like Al-Farabi and Ibn Sina) who deny the existence of a physical angel bringing revelation and divine speech. They instead claim that God administers the universe only through celestial motion. They reduce prophethood to two powers: a scientific power attained either through logical syllogism (qiyas mantiqi) or through a state of purification (tajarrud) that connects the soul to the celestial soul (nafs falakiyya); and a practical power of acting upon the world's matter (hayula). This scientific power produces universal knowledge via syllogism and particular knowledge via the connection. The imagination then dresses intelligibles in sensory images perceived as angels and sounds perceived as divine speech. Ibn Taymiyya vehemently criticizes this as false, noting that even average Muslims surpass what philosophers attribute to prophets in knowledge and action. He warns that this flawed conception leads to the heretical Sufi doctrines of Ibn Arabi and Ibn Sab'in, as well as the Shi'i philosophical claims in the Epistles of Ikhwan al-Safa. The passage thus defends the traditional Islamic understanding of prophethood as a divine choice and direct revelation, not a natural acquisition through logical reasoning or celestial connection.
+
+Key Terms
+النبوة
+الرؤيا الصالحة
+الملك
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what was the first form of revelation the Prophet Muhammad received?
+A) Angel Jibril speaking to him in the cave of Hira
+B) True dreams in sleep
+C) The Night Journey
+D) Direct speech from God without intermediary
+
+Key Takeaway
+Ibn Taymiyya affirms that prophethood begins with true dreams and progresses through angelic communication, all by divine choice, not natural acquisition.
+
+How This Lesson Applies — to MY Life?
+?
+Using the hadith cited by Ibn Taymiyya, write a short paragraph explaining why dreams are considered a part of prophethood for prophets, but not for ordinary people.
+?
+Identify the verse Ibn Taymiyya quotes and explain how it supports the idea that prophethood is a divine choice, not a natural attainment.
+
+Pages p. 530 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 530
+Module 8 · Lesson 20
+Next →
+Propositions
+advanced
+10 min
+Ibn Taymiyya's Critique of the Philosophers' Two-Power Theory of Prophethood
+Ibn Taymiyya refutes the philosophers' two-power theory of prophethood.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two powers (scientific and practical) that philosophers attribute to prophets, and explain Ibn Taymiyya's objection that even average Muslims surpass this caricature.
+
+Core Idea
+Philosophers reduce prophethood to natural powers, making average Muslims superior to their prophets.
+
+Having established the traditional view, Ibn Taymiyya now attacks the philosophers' conception of prophethood. He argues that they reduce it to a scientific power attained via logical syllogism or purification until connection to the celestial soul, and a practical power to produce wonders. He then points out that many average Muslims have greater knowledge and action than this, exposing the inadequacy of the philosophical model. He further warns that this flawed view leads to heretical Sufism and Shi'ism.
+
+Guided Path
+1
+Extract the philosophers' definition of prophethood
+The passage states they divide prophethood into two powers: scientific (quwwa 'ilmiyya) and practical (quwwa 'amaliyya). Identify the exact phrases that describe these powers.
+The division is explicit in the text: 'جعلوا خواص النبوة نوعين'
+2
+Analyze the scientific power's two alleged sources
+They claim knowledge comes either from logical syllogism (qiyas mantiqi) or from a state of purification (tajarrud) like sleep, which connects to the celestial soul (nafs falakiyya). Understand that both are natural processes, not divine revelation.
+The celestial soul is a key concept in Islamic philosophy, part of emanationist cosmology.
+3
+Examine the practical power
+It is the ability to act upon the world's matter (hayula) to produce wonders. This too is natural, akin to the powers of a magician or saint.
+Philosophers often associated this with the ability to perform miracles, but Ibn Taymiyya rejects this naturalistic explanation.
+4
+Assess Ibn Taymiyya's counter-argument
+He compares these powers to those of average Muslims, stating that many ordinary Muslims have greater knowledge and action than what philosophers attribute to prophets. This is a reductio ad absurdum: if prophethood is merely this, then average Muslims are better prophets.
+The argument is valid because it uses the philosophers' own criteria (degree of knowledge and action) to show their conception is self-defeating.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+عن النبي لله و أنه قال : «لم يبق بعدي من النبوّة إلا المبشرات، وهي الرؤيا الصالحة يراها الرجلُ الصالح أو تُرَى له». وقال : الرؤيا الصالحة جزء من ستة وأربعين جزءاً من النبوة. وفي الصحيحين عن عائشة قالت : أول ما بدىء به رسول الله صلى الله عليه وسلم من الوحي الرؤيا الصادقة في النوم، فكان لا يرى رؤيا إلا جاءت مثل فَلَقِ الصُّبح . ثم حُبّب إليه الخلاء، فكان يخلو بغار حِرَاءٍ فيتحنّتُ فيه، وهو التعبدُ، الليالي ذواتِ العَدَد. وقد قال تعالى : ( اللهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُ ). فلا ريب أن ما يجعله الله في النفوس وغيرها يجعله بعد إعدادها لذلك وتسويتها لما يُلقى فيها. فهذا ونحوه حق يقول به السلف وجمهور المسلمين. وإنما يُنكر ذلك مَنْ ينكر الحِكم والأسباب من أهل الكلام. والنبي صلى الله عليه وسلم بدىء أولاً بالرؤيا الصادقة. فإن رؤيا الأنبياء وحي معصوم، كما قال ابن عباس وعُبيد بن عُمير وغيرهما: رؤيا الأنبياء وحي وقرأ قول إبراهيم عليه السلام : إِنِّي أَرَى فِي الْمَنَامِ أَنِّي أَذْبَحُكَ. ثم إن النبي صلى الله عليه وسلم نقل من درجة إلى درجة، ثم بعد هذا جاءه الملك فخاطبه بالكلام. فأحياناً يأتيه في الباطن فيكلمه، وأحياناً يتمثل له في صورة رجل فيكلمه. ثم عُرج به إلى ربه ليلة الإسراء. فما ادعوه من أن الرؤيا قد يحصل بها معرفةُ المغيبات حق. وهذا يُحتج به على من ينكر هذا الجنس مطلقاً، ولكن لا تجعل النبوة كلها من هذا الجنس . فمن الباطل ما ادعوه في النبوة وفي كيفيتها، حيث زعموا أنه ليس هناك مَلَك حي يأتي بالوحي من الله ، ولا الله كلام يتكلم به يَسْمعه المَلَكُ فينزل به، ولا يعرف الله جزئيات الأمور حتى يكتبها عنده، أو حتى يُخبر بها الملك والملك يخبر بها النبي ، أو يخبر بها النبي ابتداء . وزعموا أنه ليس الله ما يدبر به أمر السموات والأرض إلا مجرد حركة الفلك . وأثبتوا النبوة كما أثبتها الفلاسفة نبوة حال كثير من أحوال أوساط المسلمين خير منها . فإن كثيراً من أوساط المسلمين له من العلم والعمل أعظم مما أثبته هؤلاء للأنبياء. فإنهم جعلوا خواص النبوة نوعين : القوة العلمية التي ينال بها العلم، إما بواسطة القياس المنطق، وإما بواسطة التجرد الذي هو كتجرد النائم حتى تتصل بالنفس الفلكية ; والثاني القوة العَمَلية، وهو أن تكون نفسه قوية على التصرف في هَيُولى العالم بحيث تحدث عنها عجائب. والنوع الأول يتضمن أمرين: أحدهما معرفة العلوم الكلية بالقياس المنطقي، والثاني معرفة الجزئيات بهذا الاتصال. ثم الخيال يصور المعقولات في الصور المناسبة لها ويَنْقُشُها في الحس المشترك، فيرى الإنسانُ في باطنه صوراً ويسمع أصواتاً. وتلك الصور عندهم ملائكة الله ، وتلك الأصوات كلام الله . ولهذا كان الملاحدة من المتصوفة على طريقهم كابن عربي وابن سبعين وغيرهما قد سلكوا مسلك ملاحدة الشيعة كأصحاب رسائل إخوان الصفا، واتبعوا ما وجدوه
+From the Prophet, may God's peace and blessings be upon him, he said: 'Nothing remains after me of prophethood except the good tidings, and they are the righteous dream that a righteous man sees or is shown to him.' And he said: 'The righteous dream is a part of forty-six parts of prophethood.' In the two Sahihs from Aisha, she said: The first thing the Messenger of God, may God's peace and blessings be upon him, began with of revelation was the true dream in sleep; he would not see a dream except that it came like the break of dawn. Then solitude was made beloved to him, so he would seclude himself in the cave of Hira and worship there, which is devotion, for many nights. And God Almighty said: 'God knows best where to place His message.' There is no doubt that what God places in souls and other things, He places after preparing them for that and making them suitable for what is cast into them. This and the like is the truth held by the Salaf and the majority of Muslims. Only those who deny wisdom and causes among the people of kalam deny that. The Prophet, may God's peace and blessings be upon him, began first with the true dream. Indeed, the dreams of prophets are infallible revelation, as Ibn Abbas, Ubayd ibn Umayr, and others said: The dreams of prophets are revelation, and he recited the saying of Abraham, peace be upon him: 'I see in a dream that I am sacrificing you.' Then the Prophet, may God's peace and blessings be upon him, was transferred from one degree to another, then after this the angel came to him and addressed him with speech. Sometimes he would come to him inwardly and speak to him, and sometimes he would appear to him in the form of a man and speak to him. Then he was taken on the Night Journey to his Lord. So what they claim, that through dreams one can obtain knowledge of the unseen, is true. This is used as evidence against those who deny this kind absolutely, but one should not make all of prophethood of this kind. It is false what they claim about prophethood and its nature, where they claim that there is no living angel who brings revelation from God, nor God's speech that He speaks that the angel hears and then descends with it, nor does God know particular matters so that He writes them down with Him, or that the angel informs the prophet, or the prophet informs about them directly. And they claimed that there is nothing with which God administers the affairs of the heavens and the earth except mere motion of the celestial sphere. And they affirmed prophethood as the philosophers affirmed it, a prophethood such that the condition of many average Muslims is better than it. For many average Muslims have knowledge and action greater than what these people attribute to the prophets. They made the specific characteristics of prophethood two types: the scientific power by which one attains knowledge, either through logical syllogism or through aloneness (tajarrud) like the aloneness of the sleeper until it connects with the celestial soul; and the second is the practical power, namely that his soul is strong enough to act upon the matter (hayula) of the world such that wonders arise from it. The first type includes two things: one is knowledge of universal sciences by logical syllogism, and the second is knowledge of particulars through this connection. Then the imagination depicts the intelligibles in forms suitable for them and engraves them in the common sense, so a person sees images within himself and hears sounds. Those images, according to them, are the angels of God, and those sounds are the speech of God. Consequently, the heretics among the Sufis followed their path, like Ibn Arabi, Ibn Sab'in, and others, and they followed the path of the heretical Shi'a, like the authors of the Epistles of the Ikhwan al-Safa, and they followed what they found.
+Source pages p. 530
+
+Commentary
+This passage is a critical refutation by Ibn Taymiyya of the philosophers' conception of prophethood and revelation. He begins by establishing the orthodox view that the beginning of revelation to the Prophet Muhammad was through true dreams, which for prophets are infallible revelation. He cites hadith and the example of Abraham's dream. He then explains that the Prophet progressed through stages: from dreams to angelic communication, both inward and in human form, culminating in the Night Journey. While acknowledging that dreams can provide knowledge of the unseen, he warns that prophethood should not be reduced to that alone. Ibn Taymiyya then attacks the philosophers (referring to the falasifa like Al-Farabi and Ibn Sina) who deny the existence of a physical angel bringing revelation and divine speech. They instead claim that God administers the universe only through celestial motion. They reduce prophethood to two powers: a scientific power attained either through logical syllogism (qiyas mantiqi) or through a state of purification (tajarrud) that connects the soul to the celestial soul (nafs falakiyya); and a practical power of acting upon the world's matter (hayula). This scientific power produces universal knowledge via syllogism and particular knowledge via the connection. The imagination then dresses intelligibles in sensory images perceived as angels and sounds perceived as divine speech. Ibn Taymiyya vehemently criticizes this as false, noting that even average Muslims surpass what philosophers attribute to prophets in knowledge and action. He warns that this flawed conception leads to the heretical Sufi doctrines of Ibn Arabi and Ibn Sab'in, as well as the Shi'i philosophical claims in the Epistles of Ikhwan al-Safa. The passage thus defends the traditional Islamic understanding of prophethood as a divine choice and direct revelation, not a natural acquisition through logical reasoning or celestial connection.
+
+Key Terms
+القوة العلمية
+القوة العملية
+القياس المنطقي
+التجرد
+النفس الفلكية
+الهيولى
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the philosophers as described in the passage, what are the two modes by which a prophet can attain scientific knowledge?
+A) Through direct revelation and reading ancient texts
+B) Through logical syllogism and through tajarrud connecting to the celestial soul
+C) Through meditation and physical exercise
+D) Through studying with a teacher and performing miracles
+
+Key Takeaway
+Ibn Taymiyya refutes the philosophers by showing their prophethood is inferior to ordinary Muslims, thus defending the supernatural and divinely chosen nature of true prophethood.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the two powers philosophers attribute to prophets as described in the passage. Then, using Ibn Taymiyya's argument, explain why this view is insufficient by comparing it to the knowledge and action of a pious Muslim scholar.
+?
+Trace the influence of this philosophical view on later heretical movements as mentioned by Ibn Taymiyya: how do Ibn Arabi and the Ikhwan al-Safa incorporate these ideas?
+
+Pages p. 530 · Propositions
+← Prev
+Mark Done
+Next →

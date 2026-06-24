@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:33Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Nihayat%20al-Aqdam/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/38 - Nihayat al-Aqdam",
+  "output_bytes": 13217817,
+  "output_sha256": "a3eaf0d8deb95e484fef8a8a1abddc3031315f18bc4297ac108b1bf19b16775a",
+  "checks": {
+    "catalog_expected_lessons": 1672,
+    "course_reported_lessons": 1672,
+    "index_lessons": 1672,
+    "full_lessons": 1672,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 15,
+    "course_reported_modules": 15,
+    "modules": 15,
+    "course_reported_sources": 1340,
+    "sources": 1340
+  }
+}

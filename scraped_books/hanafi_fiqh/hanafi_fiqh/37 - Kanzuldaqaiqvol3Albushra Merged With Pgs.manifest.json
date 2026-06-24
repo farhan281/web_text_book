@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:53:23Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/KanzUlDaqaiqVol3AlBushra_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/37 - Kanzuldaqaiqvol3Albushra Merged With Pgs",
+  "output_bytes": 17178200,
+  "output_sha256": "669068deb99176a65e484a96526934b52e1dc980ebaf2a32d14ca2874537427a",
+  "checks": {
+    "catalog_expected_lessons": 1784,
+    "course_reported_lessons": 1784,
+    "index_lessons": 1784,
+    "full_lessons": 1784,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 28,
+    "course_reported_modules": 28,
+    "modules": 28,
+    "course_reported_sources": 1602,
+    "sources": 1602
+  }
+}

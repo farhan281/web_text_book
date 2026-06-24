@@ -1,0 +1,300 @@
+← Prev
+p. 168
+Module 18 · Lesson 1
+Next →
+Induction and Analogy
+intermediate
+5 min
+Using Division and Examination (Sabr wa Taqsīm) as a Proof
+Author explains division and sabr as a proof method.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the method of exhaustive division and elimination (sabr) to identify the correct proposition or cause in a given theological or usul al-fiqh problem.
+
+Core Idea
+Divide exhaustively, eliminate the false, and the remainder is the truth.
+
+This passage introduces a powerful logical tool: combining exhaustive division (taqsīm) with critical examination (sabr) to arrive at certainty. You'll see how this method works in two domains: proving the existence of a Creator and determining the effective cause (ʿilla) in juristic reasoning. By the end, you'll be able to replicate this reasoning in your own analyses.
+
+Guided Path
+1
+Identify the exhaustive division
+Find where the author lists all possible alternatives. In the theological example, the division is threefold: creation without a creator, self-creation, or creation by a creator. In the fiqh example, the possible causes of riba in wheat are measurement, taste, or staple/stored.
+Ensure the division is mutually exclusive and covers all possibilities.
+2
+Apply sabr: examine and eliminate false options
+For each option, check its validity using known facts or rational arguments. In the theological case, the first two are deemed absurd. In the fiqh case, measurement is eliminated because a handful of wheat (not measured) still involves riba; being staple/stored is also eliminated because a handful is not a staple. Only taste remains.
+The elimination must be decisive; otherwise the proof is probabilistic.
+3
+Determine the conclusion from the remainder
+After eliminating all false options, the remaining one is necessarily true. Thus, the creator hypothesis is affirmed, and taste is identified as the cause of riba in wheat.
+This is a form of disjunctive syllogism (modus tollendo ponens) applied to an exhaustive list.
+4
+Assess certainty level
+The author notes that if the enumeration and division are categorical (ḥaṣr qaṭʿī) and the refutations are certain, the proof yields categorical certainty. In usul al-fiqh, this method is used to establish the ʿilla with confidence.
+Check whether the division is truly exhaustive and each elimination is sound.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصارت الأقسام في التقسيمين ثلاثة : الأول كونهم خلقوا بلا خالق أصلاً ، الثاني أنهم خَلقوا أنفسهم الثالث أنهم خلقهم خالق غيرُ أنفسهم. فهذا التقسيم العقلي الصحيح جزء الدليل التصديقي، وجزءه الآخر هو سبر هذه الأقسام الثلاثة واختبارها، وتمييز الصحيح منها من الباطل. وبالسبر الصحيح يتبين أن القسمين الأولين ـ وهو أنهم خُلقوا بدون خالق أو أنهم خلقوا أنفسهم - باطلان غاية البطلان كما لا يخفى ، وأن القسم الثالث - وهو أنهم خلقهم خالق - صحيح لاشك فيه، وهذا الخالق الذي خلقهم هو خالق السموات والأرض ومن فيهما ـ سبحانه وتعالى علوا كبيرًا .. فالقسم الصحيح من الأقسام حذف في الآية؛ لدلالة المقام عليه، فدل التقسيم والسبر المذكوران على أن لهم خالقا هو الذي خلقهم، وهو الذي يستحق عليهم أن يعبدوه وحده، فكونهم خلقهم خالق تصديق، وكان التقسيم جزء الدليل عليه، ومن المعلوم أن الحصر والتقسيم إن كانا قطعيين كان السبر والتقسيم دليلاً قطعيًا، كالآية التي مثلنا بها، فدلالتها على أنه - تعالى - هو الخالق المستحق للعبادة وحده قطعية ؛ لأن الحصر والإبطال فيها قطعيان . واعلم أن الأصوليين إنما يستعملون هذا الدليل في إثبات العلة أوصاف المحل، وإبطال غير الصالح للتعليل، فيتعين الباقي بحصر الصالح للتعليل .
+
+كقول الشافعي : علة تحريم الربا في البر إما الكيل وإما الطعم وإما الاقتيات والادخار مثلاً، ثم يستدل على بطلان وصف الكيل ووصف الاقتيات والادخار بأن ملء الكف من البر لا يجوز فيه الربا، مع أنه غير مكيل وغير مقتات ولا مدخر، لكنه مطعوم، فيتعين الطعم للعلية.
+Thus the divisions in the two divisions become three: first, that they were created without any creator at all; second, that they created themselves; third, that a creator other than themselves created them. This correct intellectual division is part of the tasdiqī proof, and its other part is the examination (sabr) of these three divisions, testing them, and distinguishing the correct from the false. By correct examination it becomes clear that the first two divisions—that they were created without a creator or that they created themselves—are utterly false, as is not hidden, and that the third division—that a creator created them—is true without doubt. And this creator who created them is the Creator of the heavens and the earth and what is in them—glory be to Him, exalted greatly. So the correct division among the divisions was omitted in the verse, because the context indicates it. Thus the aforementioned division and examination indicated that they have a creator who created them, and He alone deserves that they worship Him. So their being created by a creator is a tasdiq [assent], and division is part of its proof. It is known that if the enumeration and division are categorical, then examination and division become a categorical proof, like the verse we exemplified. So its indication that He—exalted—is the Creator deserving worship alone is categorical, because the enumeration and refutation in it are categorical. Know that the usuliyyun use this proof only in establishing the cause as attributes of the locus, and refuting what is not suitable for causation, so the remainder is determined by enumerating what is suitable for causation.
+
+As al-Shafi'i said: The cause of prohibition of ribā in wheat is either measurement (kayl), or taste (ṭuʻm), or being a staple and stored (iqtiyāt wa-iddikhār) for example. Then he argues for the falsity of the attribute of measurement and the attribute of being staple and stored by [the fact that] a handful of wheat does not permit ribā in it, while it is not measured, nor a staple, nor stored, but it is edible (maṭʻūm). So the taste is determined as the cause.
+Source pages p. 168
+
+Commentary
+This passage defines and exemplifies a proof method common in logic and uṣūl al-fiqh: the combination of division (taqsīm) and examination (sabr). The author begins by describing a tripartite division concerning the origin of people: either they were created without a creator, they created themselves, or they were created by a creator. The correct rational division is part of the proof, and the other part is the sifting (sabr) of these options. Through correct sabr, the first two are shown to be false and the third true. The author notes that in the Quranic verse (implied), the correct division was omitted because context indicates it. The method yields certainty when the enumeration (ḥaṣr) and division are categorical. He then states that the uṣūlī scholars use this method to establish the effective cause (ʿilla) in juristic reasoning. As an illustration, he cites al-Shafiʿi's analysis of the cause of ribā in wheat: the possible causes are measurement, taste, or being a staple and stored staple. The attribute of measurement is eliminated because a handful of wheat, which is not measured, still involves ribā; similarly, being a staple is eliminated because a handful is not a staple; but it is edible, so taste remains as the cause. This exemplifies how exhaustive division and elimination of false options yields the correct cause. The method is deductive in nature when the enumeration is exhaustive and the refutation is decisive.
+
+Key Terms
+تقسيم
+سبر
+دليل تصديقي
+علة
+حصر
+
+Key Terms from Source Passage
+
+Checkpoint
+In al-Shafi'i's example, why is 'being a staple and stored' (iqtiyāt wa-iddikhār) eliminated as a possible cause of ribā in wheat?
+A) Because a handful of wheat is not measured
+B) Because a handful of wheat is not a staple or stored
+C) Because a handful of wheat is not edible
+D) Because measurement is also eliminated
+
+Key Takeaway
+The method of exhaustive division and elimination (sabr wa taqsīm) is a rigorous logical proof that yields certainty when the division and eliminations are categorical.
+
+How This Lesson Applies — to MY Life?
+?
+Apply the method of sabr wa taqsīm to determine the effective cause of ribā in dates. List possible attributes (e.g., weight, sweetness, being a staple) and use a counterexample to eliminate all but one.
+?
+Construct an argument using exhaustive division to prove that the Qur'an is the word of Allah. Divide possible origins of the Qur'an into three: human authorship, jinn authorship, or divine revelation. Eliminate the first two using rational arguments (e.g., eloquence and inimitability) to affirm the third.
+
+Pages p. 168 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 169
+Module 18 · Lesson 2
+Next →
+Induction and Analogy
+intermediate
+8 min
+How to Find the Cause: Taqsīm and Sabr in the Bedouin Example
+Author provides the Bedouin hadith example to illustrate sabr and taqsīm in determining the cause of expiation.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the method of taqsīm (division) and sabr (examination) to identify the valid 'illa in a legal ruling from Islamic jurisprudence.
+
+Core Idea
+The cause is found by systematically eliminating irrelevant possibilities, not by guessing.
+
+The story of the Bedouin who came to the Prophet (ﷺ) is a classic illustration of how Islamic jurists determine the effective cause (ʻilla) of a ruling. The Prophet ruled that the man must free a slave for having intercourse during Ramadan. But what exactly made that ruling apply? Was it because he was a Bedouin? Because his wife was a free woman? Or because of the act of intercourse itself? Using the method of division and examination (taqsīm wa sabr), the jurist tests each possibility and eliminates those that fail. In this lesson, you will walk through that process and learn how to apply it to other cases.
+
+Guided Path
+1
+Identify the Possible Causes
+List all attributes of the case that could plausibly be the cause (ʻilla) of the ruling. In this example, the Bedouin had three salient attributes: he was a Bedouin, his wife was a free woman, and he had intercourse during Ramadan. The method begins by enumerating these as candidate causes.
+The enumeration must be exhaustive of plausible alternatives. In practice, the jurist considers all attributes that might be relevant.
+2
+Test Each Candidate with Sabr (Examination)
+For each candidate, check if the ruling would still apply if that attribute were removed or changed. If the ruling remains the same, the attribute cannot be the distinguishing cause. This is the core of sabr: you 'test' each division by considering a case lacking that attribute.
+Sabr means 'probing' — you examine whether the attribute is necessary for the ruling.
+3
+Eliminate Unsuitable Attributes
+Apply the test: For 'being a Bedouin', consider a city dweller who commits the same act. The ruling (freeing a slave) is identical, so 'being Bedouin' is eliminated. For 'wife being a free woman', consider intercourse with a slave concubine — again the same ruling, so eliminated. Both fail the test because the ruling appears even when the attribute is absent.
+Elimination is based on finding a counterexample where the ruling holds but the supposed cause does not.
+4
+Determine the Valid Cause
+After elimination, only one candidate remains: the act of intercourse during Ramadan. Since it survives the test, it is determined to be the 'illa. The author says it 'becomes determined' (yataʻayyan) as the cause.
+The conclusion is certain because the enumeration was exhaustive and the eliminations are sound.
+5
+Recognize the Inductive Structure
+This reasoning is a form of inductive — specifically eliminative — induction. It moves from a set of particular cases (the three candidates) to a general causal claim. In Islamic logic, this is considered a valid method for discovering the 'illa when the enumeration is complete and the sabr is correctly performed.
+This method is a cornerstone of qiyas (analogical deduction) in usul al-fiqh.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقصدنا مطلق المثال لا مناقشة أدلة الأقوال . أمثلته ومن عندهم قصة الأعرابي الذي جاء النبي صلى الله عليه وسلم وقال : هلكت، واقعت أهلي في نهار رمضان . فقال له أعتق رقبة (1) . فنقول : علة عتق الرقبة إما أن تكون كونه أعرابيا، أو كون الموطوءة أهلاً لا سُرِّية، أو هي الجماع في نهار رمضان . ثم نرجع للأقسام بالسبر الصحيح فنجد كونه أعرابيا ليس بصالح للتعليل؛ لأن حكم جماع الحضري في نهار رمضان كحكم جماع الأعرابي. وكون الموطوءة أهلاً ليس بصالح؛ لأن وطء أمته بالتسري في نهار رمضان كحكم وطء زوجته فيبقى الجماع في نهار رمضان، فيتعيّن كونه هو العلة . فقولنا علة الكفارة الجماع تصديق، والتقسيم جزء من دليله المذكور . ومن أمثلة الجدلية التاريخية العقائدية قول عبدالله بن محمد (2) لأحمد بن أبي دؤاد (3) أمام الواثق بالله (4) ما حاصله
+We intend an absolute example, not a critique of the evidence of the statements. Among its examples and from them is the story of the Bedouin who came to the Prophet ﷺ and said: 'I am ruined, I had intercourse with my wife during the daytime of Ramadan.' So he said to him: 'Free a slave.' We say: The cause of freeing a slave is either his being a Bedouin, or the woman being a free wife (ahl) not a concubine (surriyya), or the intercourse during the daytime of Ramadan. Then we return to the divisions with correct examination and find that his being a Bedouin is not suitable for causation, because the ruling of intercourse of a city dweller in Ramadan daytime is like the ruling of a Bedouin. And the woman being a free wife is not suitable, because intercourse with one's slave concubine in Ramadan daytime is like the ruling of intercourse with his wife. So the intercourse in Ramadan daytime remains, and it is determined that it is the cause. So our saying 'the cause of expiation is intercourse' is assent, and the division is part of its mentioned proof. And among the dialectical historical creedal examples is the statement of Abdullah ibn Muhammad (2) to Ahmad ibn Abi Du'ad (3) before al-Wathiq bi-Llah (4), the summary of which is...
+Source pages p. 169
+
+Commentary
+This passage presents a second example of the division and examination method from the renowned hadith about the Bedouin who broke his fast by intercourse. The author enumerates three possible causes for the obligation to free a slave: the person being a Bedouin, the wife being a free woman, or the act of intercourse itself. Through correct examination (sabr), the first two are eliminated: being a Bedouin is irrelevant because city dwellers have the same ruling; the wife's status is irrelevant because a slave concubine also incurs the same expiation. Thus, the cause is determined to be the act of intercourse during Ramadan. The author emphasizes that this conclusion (the cause) is an assent (tasdiq), and the division is part of its proof. The passage then introduces an incomplete dialectical-historical example from the theological debates before Caliph al-Wathiq, but the argument is cut off. Nonetheless, the method is clearly demonstrated.
+
+Key Terms
+علة
+سبر صحيح
+أعرابي
+
+Key Terms from Source Passage
+
+Checkpoint
+In the Bedouin example, why is 'being a Bedouin' eliminated as a possible cause for the expiation?
+A) Because the Prophet did not ask if the man was a Bedouin
+B) Because the ruling for a city dweller who has intercourse is the same as for a Bedouin
+C) Because Bedouins are exempt from expiation
+D) Because the cause is not related to the person's origin
+
+Key Takeaway
+The method of taqsīm (division) and sabr (examination) is a rigorous inductive procedure for identifying the effective cause in Islamic jurisprudence.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: In the Bedouin example, the sabr eliminated two attributes. Explain in your own words why 'being a Bedouin' and 'the wife being free' were eliminated, citing the principle used (the ruling is the same when the attribute is absent).
+?
+Task 2: Consider the following ruling: The expiation for breaking an oath is to feed ten poor people (or clothe them, or free a slave). Suppose you are a jurist trying to find the cause. List three possible attributes of the act of breaking an oath (e.g., the oath was about the future, the oath was intentional, the oath was made by God's name). Use taqsīm and sabr to eliminate two of them, showing that the remaining attribute is the likely 'illa. (Note: This is a practice exercise; you may need to consult actual usul texts to verify.)
+
+Pages p. 169 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 291
+Module 18 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+10 min
+Mapping Juristic Analogy to Categorical Syllogism
+Author explains equivalence of juristic analogy to first-figure categorical syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to map the components of a juristic analogy (far', asl, 'illa) to the terms of a categorical syllogism (minor, major, middle) and identify it as a first-figure syllogism.
+
+Core Idea
+Juristic analogy is structurally identical to a first-figure categorical syllogism.
+
+This passage clarifies a crucial bridge between usul al-fiqh and mantiq: the analogical reasoning (qiyas al-tamthil) used by jurists is not a loose comparison but a rigorous logical deduction. The author shows how the far' (branch), asl (root), and 'illa (cause) map directly to the minor, major, and middle terms of a categorical syllogism, placing it in the first figure. Understanding this equivalence lets you see fiqh rulings as logically valid conclusions.
+
+Guided Path
+1
+Identify the three components of juristic analogy
+Locate the far' (branch/new case), asl (root/original case), and 'illa (effective cause) in the analogy. In the example: far' = rice (dhurra), asl = wheat (barr), 'illa = measurement (kayl) for Hanafis/Hanbalis.
+The 'illa can vary by madhab; the structure remains.
+2
+Map each component to a logical term
+The far' becomes the minor term (subject of conclusion), the asl becomes the major term (predicate of conclusion), and the 'illa becomes the middle term (linking the premises).
+Middle term appears in both premises but not in conclusion.
+3
+Construct the categorical syllogism
+Write two premises: 1) Major premise: 'Everything that has the 'illa (measurement) has the ruling (riba prohibition).' 2) Minor premise: 'Rice (far') has the 'illa (measurement).' Conclusion: 'Therefore, rice has the ruling (riba prohibition).'
+This matches the first figure: middle term is subject of major premise and predicate of minor premise.
+4
+Verify it is first figure
+In the first figure, the middle term is subject of major premise and predicate of minor premise. Check that the syllogism satisfies this and that the conclusion follows necessarily.
+The author asserts that the analogy 'becomes a categorical syllogism of the first figure' when mapped this way.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التنبيه الأول : اعلم أن قياس التمثيل الذي هو القياس الأصولي المعروف بقياس الفقهاء وهو أحد أدلة الفقه الأربعة التي هي: الكتاب والسنة والإجماع، والقياس عند غير الحنابلة (١) لا فرق بينه وبين القياس المنطقي في الحقيقة؛ لأنك كلما جعلت الفرع فيه حدًا أصغر والأصل حدًا أكبر والعلة حدًا أوسط كان قياسًا اقترانيا من الشكل الأول ، فلو قلت مثلاً : الذرة يحرم فيها الربا قياسًا على البر بجامع الكيل، كما يقوله الحنفي والحنبلي، أو بجامع الطعم كما يقوله الشافعي، أو بجامع الاقتيات والادخار - قيل : وغلبة العيش - كما يقوله المالكي ، فهذا قياس تمثيل، وهو القياس الأصولي. (١) لأن الحنابلة يجعلون الرابع استصحاب الحال انظر روضة الناظر لابن قدامة ص ٦٠ .
+The first notification: Know that analogical syllogism (qiyas al-tamthil), which is the fundamental legal syllogism known as the syllogism of the jurists, and it is one of the four proofs of fiqh: the Book, the Sunnah, consensus, and analogy according to other than the Hanbalis, there is no difference between it and the logical syllogism in reality; because whenever you make the branch in it a minor term, the root a major term, and the cause a middle term, it becomes a categorical syllogism of the first figure. For example, if you say: 'Rice is prohibited regarding riba by analogy to wheat due to the common factor of measurement (kayl),' as the Hanafi and Hanbali say, or due to the common factor of taste (ta'm) as the Shafi'i says, or due to the common factor of being a staple food (iqtitat) and storage (idikhar) – and it was said: and dominance in livelihood – as the Maliki says, then this is an analogical syllogism, and it is the fundamental legal syllogism. (1) Because the Hanbalis consider the fourth proof to be istishab al-hal; see Rawdat al-Nazir by Ibn Qudamah, p. 60.
+Source pages p. 291
+
+Commentary
+This passage contains the first of three notifications announced by the author. It explains that qiyas al-tamthil (analogical reasoning) used in usul al-fiqh, also known as qiyas al-fuqaha' (jurists' syllogism), is one of the four sources of fiqh (Quran, Sunnah, Ijma', and Qiyas) according to most madhabs except the Hanbalis. The author asserts that there is no real difference between this juristic analogy and logical syllogism. The reason is that if you map the far' (branch) to the minor term (hadd asghar), the asl (root) to the major term (hadd akbar), and the 'illa (cause) to the middle term (hadd awsat), the analogy becomes a categorical syllogism (qiyas iqtirani) of the first figure. Three examples are given: rice (dhurra) is prohibited in riba by analogy to wheat (barr) due to measurement (kayl) according to Hanafis and Hanbalis, due to taste (ta'm) according to Shafi'is, and due to being a staple food (iqtitat) and storage (idikhar) according to Malikis. This demonstrates the structural identity. A footnote clarifies that the Hanbalis differ by considering istishab as the fourth source.
+
+Key Terms
+قياس التمثيل
+قياس اقتراني
+الفرع
+الأصل
+العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, when does a juristic analogy become a categorical syllogism of the first figure?
+A) When the branch is the middle term.
+B) When the root is the minor term.
+C) When the cause is the middle term.
+D) When the conclusion is the same.
+
+Key Takeaway
+Juristic analogy is not merely a loose comparison; it is a valid categorical syllogism of the first figure when the far', asl, and 'illa are correctly mapped to minor, major, and middle terms.
+
+How This Lesson Applies — to MY Life?
+?
+Take the Shafi'i analogy for rice: rice is prohibited in riba by analogy to wheat due to taste (ta'm). Map it to a categorical syllogism: write the major premise, minor premise, and conclusion.
+?
+Consider a juristic analogy from your own madhab (e.g., marijuana is prohibited by analogy to khamr due to intoxication). Identify the far', asl, and 'illa, then restate it as a first-figure categorical syllogism.
+
+Pages p. 291 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 293
+Module 18 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+5 min
+Why Analogy and Induction Can Yield Certainty
+Author refutes al-Akhdari's statement that analogy and induction do not produce certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to refute the claim that analogy and induction are inherently uncertain by grounding their validity in the certainty of their premises.
+
+Core Idea
+Analogy and induction yield certainty when their premises are certain.
+
+Al-Akhdari's famous didactic poem al-Sullam al-Munawraq states that analogy (tamthil) and induction (istiqra') do not produce certainty. The author of our text declares this a mistake shared by most logicians. This lesson dissects why that categorical denial is unfounded and how the certainty of these arguments depends entirely on their premises.
+
+Guided Path
+1
+Identify al-Akhdari's target claim
+Locate the exact statement in the Arabic: 'ولَا يُفِيدُ القَطْعَ بِالدَّلِيلِ قِيَاسُ الِاسْتِقْرَاءِ وَالتَّمْثِيلِ'. Understand that al-Akhdari denies that either analogy or induction can produce certain knowledge.
+2
+Recall the reduction to categorical syllogism
+From the previous lesson, both tamthil and shumul (induction as universalisation) reduce to the same categorical syllogistic form. If the premises of a syllogism are certain, its conclusion is certain regardless of the method's name.
+This reduction shows that the form itself is not defective.
+3
+Recognise the error as a categorical mistake
+Al-Akhdari's error is to attribute uncertainty to the method itself, whereas certainty flows from the premises. The same syllogistic structure can yield certainty or probability depending on the quality of the premises.
+Most logicians made the same mistake by focusing on the method rather than the epistemic status of the premises.
+4
+Apply the critique to a concrete Islamic example
+Consider the induction that all intoxicants are forbidden based on multiple narrations and analogies. If the premise 'every intoxicant is forbidden' is certain from revelation, then the induced generalisation is certain. Al-Akhdari would have to deny this certainty, which contradicts Islamic legal methodology.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وبه تعلم أن قول الأخضري في سلّمه (۲) : ولا يفيد القطع بالدليل قياس الاستقراء والتمثيل غلط منه، كما غلط فيه عامة المنطقيين .
+And by this you know that the statement of al-Akhdari in his Sullam: 'The qiyas of induction (istiqra') and analogy (tamthil) do not yield certainty by their proof' is a mistake from him, just as the generality of logicians have mistaken in it.
+Source pages p. 293
+
+Commentary
+This short passage directly attacks a line from al-Akhdari's didactic poem al-Sullam al-Munawraq, which states that induction (istiqra') and analogy (tamthil) do not produce certainty. The author declares this to be erroneous, and notes that most logicians have also made this mistake. The previous argument established that both tamthil and shumul reduce to the same syllogistic form; thus, if the premises are certain, the conclusion is certain regardless of the label. Therefore, al-Akhdari's categorical denial of certainty for tamthil and istiqra' is unfounded.
+
+Key Terms
+استقراء
+تمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the author think of al-Akhdari's statement that qiyas al-tamthil and istiqra' do not yield certainty?
+A) He agrees with it.
+B) He considers it a mistake.
+C) He says it is only true for induction, not analogy.
+D) He says it is correct but only for the second figure.
+
+Key Takeaway
+Al-Akhdari's denial of certainty for analogy and induction is a mistake; certainty depends on the premises, not the argument's label.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an argument using induction (istiqra') that the Prophet ﷺ performed 'Umrah four times based on multiple reports, and explain why the conclusion is certain if the premises are certain, contrary to al-Akhdari's claim.
+?
+Identify a case of qiyas in usul al-fiqh where the 'illah is certain (e.g., the prohibition of all intoxicants via qiyas on khamr), and show that the analogous ruling is certain, thus refuting al-Akhdari's categorical denial.
+
+Pages p. 293 · Induction and Analogy
+← Prev
+Mark Done
+Next →

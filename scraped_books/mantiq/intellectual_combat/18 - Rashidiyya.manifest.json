@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:12Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/rashidiyya/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/18 - Rashidiyya",
+  "output_bytes": 1846517,
+  "output_sha256": "82a1df397698fc1473c453b8f563034974a49b040f84ab86c695949dd504b3bd",
+  "checks": {
+    "catalog_expected_lessons": 196,
+    "course_reported_lessons": 196,
+    "index_lessons": 196,
+    "full_lessons": 196,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 8,
+    "course_reported_modules": 8,
+    "modules": 8,
+    "course_reported_sources": 150,
+    "sources": 150
+  }
+}

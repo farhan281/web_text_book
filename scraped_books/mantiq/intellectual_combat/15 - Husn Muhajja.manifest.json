@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:04Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/husn_muhajja/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/15 - Husn Muhajja",
+  "output_bytes": 367952,
+  "output_sha256": "a8da00b0f651f457f1450db7963ea3f18f3ad736d6e596eb063a3ae57ff63022",
+  "checks": {
+    "catalog_expected_lessons": 42,
+    "course_reported_lessons": 42,
+    "index_lessons": 42,
+    "full_lessons": 42,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 9,
+    "course_reported_modules": 9,
+    "modules": 9,
+    "course_reported_sources": 32,
+    "sources": 32
+  }
+}

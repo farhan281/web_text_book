@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:21Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Mawaqif%20Vol.%204/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/33 - Sharh Al-Mawaqif Vol. 4",
+  "output_bytes": 6976359,
+  "output_sha256": "ec7285e44d3e0288fefb083298d5b865d49cde712a2a158853d6b516923b5d80",
+  "checks": {
+    "catalog_expected_lessons": 751,
+    "course_reported_lessons": 751,
+    "index_lessons": 751,
+    "full_lessons": 751,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 11,
+    "course_reported_modules": 11,
+    "modules": 11,
+    "course_reported_sources": 574,
+    "sources": 574
+  }
+}

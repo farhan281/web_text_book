@@ -1,0 +1,860 @@
+← Prev
+p. 354
+Module 2 · Lesson 101
+Next →
+Commentary Notes
+intermediate
+5 min
+Critique of Imprecise Phrasing on Conclusions
+Commentator points out imprecision in the author's statement about the eight moods' conclusions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify imprecision in a logician's statement about the conclusions of syllogistic moods and correct it by specifying the exact quantity and quality for each mood.
+
+Core Idea
+A logician's vague phrasing can undermine precision; every mood's conclusion must be exactly stated.
+
+In this passage, the commentator al-Yazdi points out that the author's wording about the eight moods' conclusions is imprecise. The author stated that the moods produce a 'particular affirmative' if no premise is negative, otherwise a 'particular negative' – but this masks the fact that the third mood gives a universal negative. Yazdi's correction illustrates the importance of exact terminology in logic.
+
+Guided Path
+1
+Identify the author's claim
+Find the author's original statement: the eight moods produce a particular conclusion – affirmative if no premise is negative, otherwise negative.
+2
+Notice the apparent meaning
+The phrasing suggests that particularity is constant across all moods; only the quality (affirmative/negative) changes.
+3
+Identify the logical issue
+The claim implies all conclusions are particular, but the third mood actually yields a universal negative. This is a factual error.
+4
+Contrast with actual conclusions
+First two moods: particular affirmative. Third mood: universal negative. Last five: particular negative. So quantity varies.
+Refer to standard first-figure moods: Barbara (AAA), Celarent (EAE), Darii (AII), Ferio (EIO).
+5
+Evaluate the commentator's suggestion
+Yazdi suggests placing 'affirmative' before 'particular' for clarity, but acknowledges the author's intention to treat all as particular in a broad sense.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: «و فى عبارة المصنف تسامح» وذلك ، لانه قال ان الضروب الثمانية تنتج جزئية موجبة ان لم يكن في احدى مقدمتيه سلب والافسائية، والمتبادر من هذه العبارة ان الجزئية أمر متحقق في جميع الظروف لكن ان لم يكن في احدى مقدمتيه سلب فهي موجبة والا فهى سالبة و هذا خلاف المقصود فان الغرض ان النتيجة تكون موجبة جزئية ان لم يكن سلب كما فى الاولين و الا فسالبة كلية كما في الضرب الثالث أو جزئية كما في الخمسة الأخيرة. قدم لفظ «موجبة» على «جزئية لكان اولى كما لا يخفى، لكنه راعى المناسبة في جميع الجزئيتين فى موضع واحد والأمر سهل.
+His saying: 'And in the author's phrasing there is imprecision' — that is because he said that the eight moods produce a particular affirmative if there is no negation in either of their premises, and otherwise a negative. The apparent meaning of this expression is that particularity is realized in all circumstances, but if there is no negation in either premise then it is affirmative, otherwise it is negative. This is contrary to the intended meaning. For the purpose is that the conclusion is a particular affirmative if there is no negation, as in the first two; otherwise it is a universal negative as in the third mood, or particular as in the last five. It would have been better to place the word 'affirmative' before 'particular', as is obvious, but he observed suitability in both particulars in one place, and the matter is easy.
+Source pages p. 354
+
+Commentary
+This passage is a critical refinement by the commentator on the author's phrasing. The author stated that the eight moods produce a particular conclusion: if no premise is negative, the conclusion is affirmative; if a premise is negative, it is negative. The commentator argues that this phrasing is imprecise because it suggests that particularity is constant across all moods. In reality, the first two moods yield a particular affirmative; the third mood yields a universal negative; and the remaining five yield a particular negative (or particular? The text says 'particular as in the last five'). So the conclusion is not always particular; it varies. The commentator suggests that it would have been better to say 'affirmative particular' for the first two, and then specify the others. However, he notes that the author may have been consistent in treating all eight as particular in a broad sense, so the matter is not serious. This is a typical hashiya critique where the super-commentator clarifies a nuance.
+
+Key Terms
+تسامح (tasāmuh) – imprecision
+جزئية (juz’iyya) – particular (quantity)
+موجبة (muujiba) – affirmative (quality)
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the commentator criticize in the author's phrase?
+A) It says the conclusion is always particular
+B) It says the conclusion is always affirmative
+C) It says the conclusion is always universal
+D) It says the conclusion is always negative
+
+Key Takeaway
+Precision in stating the quantity and quality of syllogistic conclusions is essential; a vague generalization can mislead.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the following description: 'The eight moods produce a universal negative if one premise is negative, and a particular affirmative otherwise.' Identify the imprecision and correct it by stating the exact conclusion for each of the four standard first-figure moods (Barbara, Celarent, Darii, Ferio).
+?
+Translate the commentator's correction into English and explain why the author's phrasing was misleading in the context of teaching logic.
+
+Pages p. 354 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 358
+Module 2 · Lesson 102
+Next →
+Commentary Notes
+beginner
+5 min
+Understanding Istiṭrād: Deliberate Digression in Logical Commentary
+Definition and application of istiṭrād in logical commentary
+
+Learning Objective
+By the end of this lesson, you will be able to define 'istiṭrād' terminologically and identify its use in a logical commentary passage.
+
+Core Idea
+Istiṭrād is a deliberate rhetorical digression, not a logical error—a tool for drawing unintended implications.
+
+In classical Islamic logic commentaries, authors often use a technique called 'istiṭrād' to draw additional implications from a statement without intending them as the main point. This lesson unpacks the lexical origin, the terminological definition, and a concrete example from a hashya on logic. Understanding istiṭrād helps you read commentaries more carefully and appreciate how commentators expand the text.
+
+Guided Path
+1
+Trace the lexical root
+The term comes from horsemanship: a warrior pretends to flee to lure an opponent into a trap. This gives the sense of a strategic move that appears incidental but has a purpose.
+The Arabic phrase 'استطرد الفارس لقرنه' illustrates this.
+2
+Identify the terminological definition
+In logic, 'istiṭrād' is defined as 'arriving by mentioning the intended to mentioning what is not intended'—a shift from the main topic to a side topic.
+The source says: 'في الاصطلاح هو ان يتوصل بذكر المقصود الى ذكر غير المقصود'.
+3
+Analyze the example from the commentary
+The commentator's phrase 'with its meeting the minor actually' was meant to state a condition for the first and third figures, but it incidentally also implied that condition for four other moods. This is a case of istiṭrād.
+The hashya author calls this 'indicative digression' (الإشارة الاستطرادية).
+4
+Distinguish from logical fallacy
+Istiṭrād is not a mistake; it is a conscious rhetorical device. The commentator deliberately uses it to enrich the text, not to mislead.
+The alternative definition of a hunter catching unintended game reinforces this deliberate yet incidental nature.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الاستطراد في الاصل مصدر قولك استطرد الفارس لقرنه فى القتال اى اظهر له الانهزام ليحمل عليه وذلك ، بان يفرمن بين يديه يوهمه الانهزام حتى يكر عليه و هو على غرة من ذلك وهو ضرب من المكيدة و في الاصطلاح هو ان يتوصل بذكر المقصود الى ذكر غير المقصود، و في هذا الكلام لما كان المقصود الاصلى من قوله مع ملاقاته للاصغر بالفعل بيان اشتراط فعلية الصغرى في الشكل الاول و : الثالث لاغير لكن فهم بطريق الاشارة اشتراط فعلية الصغرى فى هذه الضروب الاربعة ايضاً مع كونه غير مقصود له لما ذكر سابقاً، سماه المحشى بالاشارة الاستطرادية هذا. وقيل: الاستطراد هو ان يطرد الصياد صيداً ثم يعرض له آخر يطرده و يصيده لا على سبيل القصد فتأمل. (محمد على)
+Then al-istiṭrād originally is a masdar from your saying 'the horseman istiṭrād for his opponent in battle', i.e., he shows him defeat so that he can attack him, and that is by fleeing before him, making him imagine defeat until he charges at him while he is unaware, and it is a type of stratagem. In terminology, it is to arrive by mentioning the intended to mentioning what is not intended. And in this speech, since the original intended from his saying 'with its meeting the minor actually' was to explain the condition of actuality of the minor in the first and third figures only, but by way of indication [the condition] for these four moods was understood, even though it was not intended by him for what was mentioned earlier, the commentator called this 'the indicative digression'. And it is said: istiṭrād is that a hunter chases game, then another appears to him and he chases and catches it, not by intention. So ponder. (Muhammad Ali)
+Source pages p. 358
+
+Commentary
+This passage defines the term 'istiṭrād' (digression) both lexically and terminologically, then applies it to the commentator's method. Lexically, it comes from the strategy of a horseman pretending to flee to lure his opponent into a trap. Technically, it is a rhetorical device where mentioning the intended point leads to mentioning something unintended. The author applies this to the earlier discussion: the commentator's statement 'with its meeting the minor actually' was meant only to state the condition of actuality for the minor in the first and third figures, but by implication it also indicated the same condition for four moods (possibly from the fourth figure), even though that was not the main intention. The commentator calls this 'indicative digression'. An alternative definition is given: like a hunter who chases one game but then another appears and he catches it unintentionally. The note ends with 'so ponder', inviting reflection.
+
+Key Terms
+الاستطراد
+الإشارة الاستطرادية
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the terminological meaning of istiṭrād according to the passage?
+A) A logical fallacy in syllogisms.
+B) A rhetorical technique where one arrives at an unintended topic through the mention of an intended one.
+C) A type of conditional syllogism.
+D) A method of proof by contradiction.
+
+Key Takeaway
+Istiṭrād is a deliberate digression in commentary, used to draw unintended implications without them being the main point.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following statement: 'In the first figure, the minor premise must be affirmative.' Using istiṭrād, write a brief commentary that also implies something about the fourth figure.
+?
+Identify the istiṭrād in this passage: 'The middle term must be in the subject position of the major premise. This is similar to how in fiqh, the 'illa must be evident.' (Assume the fiqh analogy is unintended.)
+
+Pages p. 358 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 363
+Module 2 · Lesson 103
+Next →
+Commentary Notes
+advanced
+10 min
+Parsing the Phrase 'نعم الوكيل'
+Author discusses grammatical analysis of 'نعم الوكيل'
+
+Learning Objective
+By the end of this lesson, you will be able to identify the different grammatical analyses of the phrase 'نعم الوكيل' and determine the role of the omitted elements (مخصوص).
+
+Core Idea
+نعم الوكيل is not a fixed expression; its grammatical parsing depends on context.
+
+In this lesson, we examine the grammatical analyses of the phrase 'نعم الوكيل' as discussed in a commentary on a logical text. Understanding these parsing options is crucial for correctly interpreting such exclamatory constructions in Arabic, especially when they appear in theological or legal contexts.
+
+Guided Path
+1
+Identify the phrase and its context
+The phrase 'نعم الوكيل' is an exclamatory praise construction. Determine whether it is part of a larger sentence or standalone. In the gloss, it is part of a longer statement (قوله و نعم الوكيل).
+Context matters: it may follow a nominal sentence or be inserted parenthetically.
+2
+Recognize the two main parsing options
+The gloss presents two broad possibilities: (1) conjoined (عطف) to a preceding nominal sentence, (2) parenthetical (اعتراض). Each has sub-options regarding the role of the omitted specified (مخصوص).
+Conjunction may be based on permissible joining of performative to declarative.
+3
+Trace the implications for the omitted specified
+In one analysis, the مخصوص is omitted and estimated as a subject; in another, it is a predicate. The pronoun (هو) may serve as the مخصوص according to some scholars.
+Compare with Quranic example 'نعم العبد' where 'العبد' is the مخصوص.
+4
+Compare the views of different scholars
+A group (including the author of the main text) allows the omitted antecedent to be the مخصوص. Al-Radi explicitly states this in 'زيد نعم الرجل'. The majority hold that the مخصوص is omitted and estimated as a predicate.
+This shows grammatical flexibility and scholarly disagreement.
+5
+Apply to real examples
+Examine the Quranic verse 'نعم العبد' (38:30) and the Prophetic saying 'أنا سيد ولد آدم ولا فخر' to see how parenthetical insertion works.
+The hadith is cited as a parallel for parenthetical usage.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله و نعم الوكيل ان قدر عطفها على الجملة الاسمية بناء على جواز عطف الانشاء على الاخبار او على ان معنى و هو حسبى »: «اللهم احسبى لوقوعه في مقام التضرع والدعاء فالمخصوص محذوف كما في قوله تعالى: «نعم» «العبد» و كذلك ايضاً ان كان ذلك بتقدير المبتداء مع ما يوجبه اى وهو مقول فى حقه ذلك ، لكن جماعة منهم المصنف يجوزون ح كون المقدم المحذوف هو المخصوص، أو على الخبر وحده بتقدير القول أيضاً أى ومقول في حقه نعم الوكيل، فالمخصوص هو الضمير المتقدم المذكور على ما جوزه الجماعة وصرح به الرضى (ره) في قولنا : زيد نعم الرجل وعلى قول الجمهور فهو محذوف ايضاً مقدراً خبراً، هذا. و يجوز ان يقال انها معترضة جيء بها بعد تمام الكلام كما قال به نجم الائمة في قوله (ص): انا سيد ولد آدم و لافخر. (میرزا محمدعلی)
+His statement: 'And what an excellent trustee (wa ni'm al-wakil)': If it is considered as conjoined to the nominal sentence, based on the permissibility of conjoining a performative sentence to a declarative one, or based on the meaning: 'And He is sufficient for me (wa huwa hasbi)' meaning 'O Allah, suffice me' because it occurs in a context of supplication and prayer. Then the specified (makhsus) is omitted, as in His saying (Exalted): 'Excellent is the servant (ni'm al-'abd)'. And likewise also if that is with the estimation of the subject (mubtada') along with what requires it, i.e., it is said concerning him that. But a group, including the author, allow that the omitted antecedent is the specified, or upon the predicate alone with an estimation of 'saying' also, i.e., it is said concerning him 'What an excellent trustee'. Then the specified (makhsus) is the previously mentioned pronoun, according to what the group allowed and al-Radi (may Allah have mercy on him) stated explicitly in our saying: 'Zayd: what an excellent man'. According to the majority, it is also omitted, estimated as a predicate. This. And it is permissible to say that it is parenthetical, coming after the completion of the speech, as stated by Najm al-A'immah in his statement (peace be upon him): 'I am the master of the children of Adam, and I do not boast.' (Mirza Muhammad 'Ali)
+Source pages p. 363
+
+Commentary
+This passage is a gloss analyzing the grammatical construction of the phrase 'نعم الوكيل' (what an excellent trustee). The author presents multiple possible analyses. First, it could be conjoined to a preceding nominal sentence, based on the permissibility of conjoining a performative (insha') to a declarative (khabar). Alternatively, the phrase might mean 'He is sufficient for me', treated as a supplication. In these analyses, the specified (al-makhsus) is omitted, similar to the Quranic phrase 'نعم العبد' where 'العبد' is the specified but is itself the subject of praise. Another possibility: the phrase is estimated with a subject (mubtada') along with what it entails, or it can be parsed as a predicate alone with an implied 'saying'. A group, including the author of the main text, allows that the omitted antecedent is the specified. Then the specified is the pronoun mentioned earlier, as al-Radi stated in 'Zayd: what an excellent man'. The majority view is that the specified is also omitted and estimated as a predicate. Finally, the gloss notes the phrase could be parenthetical, inserted after the completion of speech, citing a hadith where the Prophet (s) said 'I am the master of the children of Adam, and I do not boast'—similar grammatical insertion.
+
+Key Terms
+نعم الوكيل
+المخصوص
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which grammatical role can the omitted word in 'نعم الوكيل' take based on one interpretation?
+A) مبتدأ (subject)
+B) خبر (predicate)
+C) مفعول به (object)
+D) حال (circumstantial adverb)
+
+Key Takeaway
+The phrase 'نعم الوكيل' allows multiple grammatical analyses, with the specified (مخصوص) being omitted and estimated either as subject or predicate depending on the parsing.
+
+How This Lesson Applies — to MY Life?
+?
+Parse the Quranic phrase 'نعم العبد' (38:30) using the options discussed. Determine which grammatical analysis is most plausible based on the context of the verse.
+?
+Identify the omitted specified (مخصوص) in the Prophetic saying 'أنا سيد ولد آدم ولا فخر' if it were to be analyzed similarly to the parenthetical case.
+
+Pages p. 363 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 363
+Module 2 · Lesson 104
+Next →
+Commentary Notes
+intermediate
+5 min
+Parsing 'ni'ma al-wakil': The Omitted Entity
+Commentary on the grammatical parsing of 'ni'ma al-wakil' in context.
+
+Learning Objective
+By the end of this lesson, you will be able to parse the 'ni'ma' construction and identify the omitted al-makhsūs in classical Arabic sentences.
+
+Core Idea
+In praise sentences, the praised entity is often omitted.
+
+This lesson explores the grammatical analysis of the phrase 'ni'ma al-wakil' as discussed by commentators. You will learn how to identify the omitted specific entity in such constructions, a key skill for understanding classical Arabic texts.
+
+Guided Path
+1
+Identify the 'ni'ma' construction
+Locate the phrase 'ni'ma' in the sentence. 'Ni'ma' is a verb of praise, and it typically introduces a construction where the praised entity may be omitted.
+2
+Determine the intended praise
+What is being praised? In 'ni'ma al-wakil', the praised attribute is trusteeship (wakil). The specific entity being praised (e.g., Allah) is implied.
+3
+Recognize the omitted element
+The specific thing praised (al-makhsūs) is often omitted. Here, it could be 'Allah' or 'Him', understood from context. The commentator discusses whether this omission is standard.
+In the Qur'an, 'ni'ma al-'abd' also omits the specific person.
+4
+Analyze parsing options
+Consider whether the phrase is conjoined to a nominal sentence or stands alone as a performative. The passage mentions different viewpoints on how to parse the construction.
+The commentator references al-Radi and Najm al-A'imma for alternative analyses.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(١٤٠) قوله و نعم الوكيل ان قدر عطفها على الجملة الاسمية بناء على جواز عطف الانشاء على الاخبار او على ان معنى و هو حسبى »: «اللهم احسبى لوقوعه في مقام التضرع والدعاء فالمخصوص محذوف كما في قوله تعالى: «نعم» «العبد» و كذلك ايضاً ان كان ذلك بتقدير المبتداء مع ما يوجبه اى وهو مقول فى حقه ذلك ، لكن جماعة منهم المصنف يجوزون كون المقدم المحذوف هو المخصوص، أو على الخبر وحده بتقدير القول أيضاً أى ومقول في حقه نعم الوكيل، فالمخصوص هو الضمير المتقدم المذكور على ما جوزه الجماعة وصرح به الرضى (ره) في قولنا : زيد نعم الرجل وعلى قول الجمهور فهو محذوف ايضاً مقدراً خبراً، هذا. و يجوز ان يقال انها معترضة جيء بها بعد تمام الكلام كما قال به نجم الائمة في قوله (ص): انا سيد ولد آدم و لافخر. (میرزا محمدعلی)
+(140) His statement: 'and ni'ma al-wakil' if it is considered as being conjoined to the nominal sentence based on the permissibility of conjoining a performative to an informative statement, or on the interpretation that its meaning is 'and He suffices me'...
+Source pages p. 363
+
+Commentary
+This passage is a grammatical commentary on the phrase 'ni'ma al-wakil' in a specific context. The author discusses various parsing possibilities: whether it is conjoined to a nominal sentence, whether it is a performative, and whether the specific word 'al-wakil' is omitted. It references the Qur'anic example 'ni'ma al-'abd' and the opinions of al-Radi and Najm al-A'imma. The commentary follows the order of possible interpretations.
+
+Key Terms
+نعم الوكيل
+المخصوص
+
+Key Terms from Source Passage
+
+Checkpoint
+In the 'ni'ma' construction, the specific thing praised is called:
+A) al-makhsūs
+B) al-mubtada'
+C) al-khabar
+D) al-sifa
+
+Key Takeaway
+The 'ni'ma' construction often omits the praised entity, requiring careful parsing to identify the intended referent.
+
+How This Lesson Applies — to MY Life?
+?
+Parse the sentence 'Zaidun ni'ma ar-rajulu' and identify the makhsūs. Explain its status (omitted or present).
+?
+Find a similar 'ni'ma' construction in the Qur'an (e.g., 'ni'ma al-'abd') and write a brief grammatical analysis noting the omitted element.
+
+Pages p. 363 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 363
+Module 2 · Lesson 105
+Next →
+Commentary Notes
+intermediate
+5 min
+Rules of Wad' and Raf' in Conditional Syllogisms
+A series of brief notes explaining key points in conditional syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of wad' (positing) and raf' (denying) to both connected and disjoined conditional syllogisms, producing the correct conclusion.
+
+Core Idea
+Wad' and raf' yield opposite results in connected vs. disjoined conditionals.
+
+These concise notes from the hashiya clarify how the operations of positing and denying function in conditional syllogisms. Understanding these rules is essential for correctly applying the istithna'i (exceptive) syllogism, which is foundational in Islamic logic for theological and juristic reasoning. The text distinguishes between connected and disjoined conditionals and specifies the outcomes of wad' and raf' in each case.
+
+Guided Path
+1
+Identify the two conditional types
+Note (144) states that 'shartiyya' includes both muttasila (connected) and munfasila (disjoined). Recognize which type you are dealing with.
+2
+Distinguish the operations of wad' and raf'
+Wad' (positing) means affirming a part; raf' (denying) means negating a part. These are the two operations in an istithna'i syllogism.
+Notes (147) and (148) clarify these terms.
+3
+Apply rules for connected conditional
+In a connected conditional (if A then B), wad' of A gives 'ayn of B; raf' of B gives naqiḍ of A. This is from note (145).
+The rule is: wad' al-muqaddam yields 'ayn al-tali; raf' al-tali yields naqiḍ al-muqaddam.
+4
+Apply rules for disjoined conditional
+In a disjoined conditional (either A or B, exclusive), wad' of A gives naqiḍ of B; raf' of A gives 'ayn of B. This is the reverse of the connected case.
+Note (145) says: 'if it is disjoined, the same of the other is the contradictory and the contradictory of the other is the same.'
+5
+Check the condition on specification
+Note (146) adds that these rules hold when the exception is not limited to a specific part (e.g., only the antecedent or only the consequent). If it is specified, the rules may differ.
+This prevents misinterpretation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(١٤٣) قيد لقوله : «يتركب» قدم عليه لا لقوله مذكورة» كما لا يخفى. (محمد على) (١٤٤) :یعنى سواء كانت متصلة او منفصلة: (محمد على) (١٤٥) قوله: «لينتج عين الآخر او نقيضه» : اما اذا كانت الشرطية متصلة فينتج العين العين و النقيض، النقيض و اما اذا كانت منفصلة فالعين النقيض و النقيض العين. (محمد على) (١٤٦) يعني بعد ما لم تشترط التعيين فى الجزء المستثنى بان يكون هو المقدم فقط او التالي فقط (محمد علی) (١٤٧) يعنى: وضع كل من المقدم و التالي وكذلك قوله: «رفع كل». (محمد علي). (١٤٨) اى من قسمى الوضع والرفع (محمد علی)
+(143) A restriction on his statement 'yarkabu', placed before it, not on his statement 'madhkura', as is obvious. (144) Meaning whether it is connected or disjoined. (145) His statement: 'To produce the same of the other or its contradictory.' If the conditional is connected, it produces the same of the other and the contradictory of the contradictory; if it is disjoined, the same of the other is the contradictory and the contradictory of the other is the same. (146) Meaning after the specification is not stipulated in the exceptional part, that it be only the antecedent or only the consequent. (147) Meaning: positing both the antecedent and the consequent, and likewise his statement: 'denying both.' (148) i.e., from the two types of positing and denying.
+Source pages p. 363
+
+Commentary
+This series of short notes clarifies key points about conditional syllogisms. Note (143) restricts the word 'yarkabu' (composes) to a specific phrase. (144) explains that 'shartiyya' includes both connected and disjoined conditionals. (145) specifies the results: in a connected conditional, affirming the antecedent yields the consequent, and denying the consequent yields the antecedent; in a disjoined conditional, affirming one disjunct yields the denial of the other, and denying one yields the affirmation of the other. (146) adds that this holds when the exception is not limited to a specific part. (147) and (148) define 'wad' (positing) and 'raf' (denying) as the two operations.
+
+Key Terms
+وضع (waḍ'): Positing (affirming) the antecedent or consequent in a conditional syllogism. [Note: Standard term.]
+رفع (raf'): Denying (negating) the antecedent or consequent.
+
+Key Terms from Source Passage
+
+Checkpoint
+In a connected conditional (muttaṣil), what does denying the consequent produce?
+A) Affirmation of the antecedent
+B) Denial of the antecedent
+C) Affirmation of the consequent
+D) Denial of the consequent
+
+Key Takeaway
+In conditional syllogisms, wad' and raf' yield opposite conclusions depending on whether the conditional is connected or disjoined.
+
+How This Lesson Applies — to MY Life?
+?
+Given the connected conditional: 'If a thing is intoxicating, then it is forbidden. It is not forbidden. What conclusion follows?' Apply the rule of raf' to determine the correct inference.
+?
+Given the disjoined conditional: 'Either the land is barren or it is cultivated. It is not barren. What conclusion follows?' Identify which operation (wad' or raf') was used and the resulting inference.
+
+Pages p. 363 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 374
+Module 2 · Lesson 106
+Next →
+Commentary Notes
+beginner
+5 min
+Lexical and Scientific Annotations in Commentary
+Commentator provides a lexical definition of a plant and a scientific note on light patterns.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between lexical annotations (pronunciation, etymology) and scientific annotations (observational notes) in a classical commentary passage.
+
+Core Idea
+A single commentary note can serve both linguistic precision and scientific observation.
+
+In classical Islamic commentaries, authors often include short annotations that clarify the meaning of a term or add a scientific detail. This passage from a hashia does exactly that: first it clarifies the pronunciation and origin of a plant name, then it adds a note about why the moon (or a celestial body) exhibits different light shapes. This lesson teaches you how to identify and appreciate both types of annotation.
+
+Guided Path
+1
+Locate the lexical annotation
+Find the part of the passage that discusses the word's pronunciation (بفتح السين و القصر) and etymology (قبل يونانية وقيل سريانية). This is the lexical annotation that clarifies how to read the term and its origin.
+Lexical annotations often specify vowel marks, length, and language source.
+2
+Identify the scientific annotation
+Find the part that explains a natural phenomenon: 'لاختلاف تشكلاته النورية بحسب القرب والبعد عن الشمس'. This is a scientific note about light formations depending on distance from the sun, likely referring to lunar phases or planetary brightness.
+Scientific annotations are empirical observations aimed at explaining natural phenomena referenced in the text.
+3
+Recognize the purpose of each annotation
+The lexical annotation ensures correct recitation and understanding of the term; the scientific annotation explains why a celestial object appears differently, addressing a potential confusion in the main text.
+Commentators include such notes to prevent misunderstanding and to enrich the reader's knowledge.
+4
+Connect to the broader commentary tradition
+Such annotations are typical in hashias (supercommentaries). They show the commentator's engagement with both language and natural science, reflecting the integrated nature of Islamic scholarship.
+Recognizing the type of annotation helps you assess its relevance to the main argument.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هو بفتح السين و القصر ، نبت معروف قبل يونانية وقيل سريانية وبعضهم يضبطه بالمد. و ذلك لاختلاف تشكلاته النورية بحسب القرب والبعد عن الشمس.
+It is with the opening of the sin and shortening, a known plant, Greek before, and it is said Syriac, and some of them write it with lengthening. And that is due to the difference of its light formations according to proximity to and distance from the sun.
+Source pages p. 374
+
+Commentary
+This passage contains two separate annotations. The first clarifies the pronunciation and etymology of a plant name, possibly 'saws' or 'sīs', noting that it is known in Greek and Syriac, and some write it with a long alif. The second annotation explains that the varying light shapes of something (likely the moon or a planet) are due to its changing distance from the sun. These notes illustrate the commentator's attention to both linguistic and natural scientific details.
+
+Key Terms
+بفتح السين و القصر
+نبت معروف
+تشكلاته النورية
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the reason given for the differing light formations of the celestial body?
+A) Its rotation
+B) Proximity to and distance from the sun
+C) Atmospheric conditions
+D) The angle of observation
+
+Key Takeaway
+Commentators often combine linguistic and scientific notes to clarify a text's meaning and its relationship to the natural world.
+
+How This Lesson Applies — to MY Life?
+?
+In the passage above, underline the lexical annotation and circle the scientific annotation. Then explain in one sentence the purpose of each.
+?
+Find a similar pair of annotations (one lexical, one scientific) in a commentary on al-Sanusiyya's Umm al-Barahin and note how they relate to the main text.
+
+Pages p. 374 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 379
+Module 2 · Lesson 107
+Next →
+Commentary Notes
+beginner
+5 min
+Lexical Analysis of al-Mudawwana and al-Diwan
+Lexical gloss and etymological analysis of two terms.
+
+Learning Objective
+By the end of this lesson, you will be able to trace the root etymology of a technical term and identify plural evidence for its original form.
+
+Core Idea
+Plural forms reveal the original root of Arabic loanwords.
+
+This lesson unpacks a lexical gloss from a commentary on the phrase 'from the codified sciences'. The author defines 'mudawwana' and then dives into the etymology of 'diwan', using plural patterns to argue whether the ya is original or substituted. This kind of analysis is key to understanding technical terms in Islamic sciences.
+
+Guided Path
+1
+Identify the phrase being glossed
+The commentary begins with 'قوله: «من العلوم المدونة»' — the base text phrase is 'from the codified sciences'. The author explains 'mudawwana' immediately.
+2
+Extract the root meaning of 'mudawwana'
+The author says 'المدونة' means 'المجموعة المكتوبة' (the written compilation) from 'التدوين' meaning 'الجمع' (collecting). This shows the root d-w-n (دون).
+3
+Analyze the etymology of 'diwan'
+The author states that 'الديوان' originally was 'دوان' (dawan) with two waws, and one waw was replaced by a ya. Evidence: plural 'دواوين' (dawawin) — if the ya were original, the plural would not revert to a waw.
+Also mentions alternative plural 'دياوين' (dayawin), leading some to claim the ya is original.
+4
+Evaluate the strength of the evidence
+The author leaves it open by saying 'فتأمل' (reflect). The key logical test is: if the ya were original, the plural would not be 'dawawin' but something else. The existence of both 'dawawin' and 'dayawin' shows the ambiguity.
+This demonstrates how plural patterns serve as evidence in Arabic lexicography.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: «من العلوم المدونة»: اى المجموعة المكتوبة من التدوين بمعنى: الجمع تقول: دونت الصحف اذا جمعتها والديوان بكسر الدال وفتحها الكتاب الذى يكتب فيها اهل الجيش واهل العطية و الوظائف، يقال: ان عمر أول من دون الدواوين فى العرب والاصل فى «الديوان» ، «دوان» فعوض عن احدى الواو ين ياء لانه يجمع على دواوين ولو كانت الياء اصلية لما صح هذا وقد يجمع أيضاً على ديا و ين من غير رد الى الأصل ولذلك قال بعضهم باصالة الياء، فتأمل.
+His statement: 'From the codified sciences' meaning the written compilation, from 'tadwin' meaning collecting. You say: 'dawwantu al-suhuf' when you collect them. 'al-diwan' (with kasr of the dal and fatha) is the book in which the army, stipend, and functionaries are recorded. It is said that 'Umar was the first to compile the diwans among the Arabs. The origin of 'al-diwan' is 'dawan', where one of the two waws is replaced with a ya because it is pluralized as 'dawawin'; if the ya were original, this would not be correct. It is also pluralized as 'dayawin' without returning to the original, so some say the ya is original. Reflect.
+Source pages p. 379
+
+Commentary
+This passage is a lexical gloss on the phrase 'from the codified sciences' (من العلوم المدونة). The author explains that 'mudawwana' means 'written compilation' from the root 'd-w-n' meaning to collect. He then provides a detailed etymological discussion of the word 'diwan', noting its origin as 'dawan' with a substitution of ya for waw, as evidenced by its plural 'dawawin'. He also mentions an alternative plural 'dayawin' which leads some to argue the ya is original. This type of lexical analysis is common in Islamic commentaries to clarify technical terms.
+
+Key Terms
+المدونة
+الديوان
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the evidence the author gives that the original form of 'diwan' is 'dawan' with two waws?
+A) The phrase 'Umar first compiled the diwans'
+B) The plural 'dawawin' shows a return to the waw
+C) The word is written with a ya
+D) The root 'd-w-n' appears in other words
+
+Key Takeaway
+Lexical definitions in Islamic commentary often rely on root derivation and plural forms to determine the origin of a term.
+
+How This Lesson Applies — to MY Life?
+?
+Take the term 'ijtihad' (اجتهاد). Trace its root and identify its plural form. Based on the plural, argue whether the alif is original or a substitution of waw or ya.
+?
+In a fiqh text, the term 'maslahah' (مصلحة) is used. Using the method from this lesson, determine its root and plural, and explain how the plural form supports the root.
+
+Pages p. 379 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 385
+Module 2 · Lesson 108
+Next →
+Commentary Notes
+intermediate
+8 min
+Distinguishing Gharaḍ, Manfa‘a, Fā’ida, and Ghāya in Logic and Theology
+Commentary defines gharaḍ, manfa‘a, fā’ida, ghāya and discusses theological views.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between gharaḍ, manfa‘a, fā’ida, and ghāya as defined in the Islamic logical tradition, and explain how these distinctions underpin the Ash‘ari-Mu‘tazili debate on whether God acts for a purpose.
+
+Core Idea
+Purpose and benefit are not the same; they can even conflict. Whether God acts for a purpose divides Ash‘aris and Mu‘tazilis.
+
+This passage from a super-commentary on a logic text carefully defines four closely related terms: gharaḍ (purpose), manfa‘a (benefit), fā’ida (utility), and ghāya (end). The commentator not only clarifies their linguistic and customary meanings but also shows how misinterpreting them leads to theological errors. Understanding these distinctions is essential for engaging with classical kalam arguments about divine actions.
+
+Guided Path
+1
+Identify the four key terms and their definitions
+From the Arabic, extract the definitions of fā’ida (linguistic and customary), ghāya, gharaḍ, and manfa‘a. Note how fā’ida linguistically means acquired knowledge or wealth, but customarily means the interest (maṣlaḥa) resulting from an action. When that interest is considered the end of the action, it is called ghāya.
+The passage emphasizes that gharaḍ may or may not involve sequence (tarattub) – it can be unrealized if the agent is mistaken.
+2
+Analyze the relationship between gharaḍ and manfa‘a
+The commentator states that gharaḍ is that for the sake of which the agent acts, while manfa‘a is the benefit accruing from the action. They can diverge: a person may act with a purpose that actually brings harm, as in the case of erroneous belief. This shows that gharaḍ is more general than manfa‘a and fā’ida in one respect.
+The passage also notes a second interpretation where gharaḍ is defined as a desired benefit, which makes it more specific.
+3
+Understand the theological application: Ash‘ari position
+The Ash‘aris deny that God acts for a gharaḍ, arguing that doing so would imply God is deficient and seeks completion. The commentator critiques this by distinguishing whether the purpose returns to God or to creation. If the purpose is for the benefit of servants or the order of the world, it does not imply deficiency.
+The Ash‘ari position negates purposes but affirms benefits, which the commentator finds inconsistent.
+4
+Understand the theological application: Mu‘tazili and Imami position
+The Mu‘tazila and Imāmiyya affirm that God's actions are purposeful (mu‘allala bi-l-aghraḍ). Without purposes, God would be acting frivolously ('abathan) and doing evil – which is impossible for God. They support this with Quranic verses (e.g., 23:115, 51:56, 38:27).
+This position aligns with the second interpretation of gharaḍ as a desired benefit (consequent upon the action and intended by the agent).
+5
+Evaluate the commentator's critical refinement
+The commentator points out that the earlier commentator (al-muḥashshī) mistakenly took sequence (tarattub) as a necessary feature of both gharaḍ and manfa‘a. The super-commentator argues that sequence is not necessary in the first interpretation, and that the Ash‘ari argument fails if purpose is not defined as returning to God.
+This is a classic example of critical refinement (taḥqīq) in the commentary tradition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: «والايسمى فايدة...» الفايدة في اللغة ما حصلته او حصل لك من علم او مال و جمعها فوائد وفى العرف ما يترتب من المصلحة على فعل من حيث ترتبه عليه و هو من حيث انه على طرف الفعل و نهايته يسمى غاية، فيختلفان اعتبار أبو يعمان الافعال الاختيارية وغيرها واما الغرض فقد يضر بما لاجله اقدام الفاعل على فعله و يسمى «علة غائية باعتبارين فان العلة بالقياس الى الفعل، و الغرض بالقياس الى الفاعل، وعلى هذا لايلزم فيه الترتب، فيكون اعم من الفايدة والغاية من وجه ولهذا قيل: قد يخالف الغرض فايدة الفعل كما اذا اخطأ في اعتقاده، و كلام المحشى غير مطابق لهذا التفسير حيث انه أخذ الترتب مقسماً لكل منهما، وقد يفسر: بقايدة مترتبة على الشيء من حيث هي مطلوبة بالاقدام عليه وعلى هذا يجب فيه الترتب ويكون اخص من الفايدة والغاية صدقاً و كلام المحشى مطابق لهذا التفسير (شيخ عبد الرحيم (ره) (۴۴) هذا فى موضع التعليل لما ذكر من الفرق بين الغرض و المنفعة حيث انهم نفوا الغرض و اثبتوا المنفعة. ثم ان هذا مذهب الاشاعرة حيث قالوا: لا يفعل الله تعالى لغرض والا لكان ناقصاً مستكملا بذلك الغرض. وفيه: إن هذا انما يلزم لو كان الغرض عايداً اليه تعالى و هو ممنوع ، بل هو اما المصلحة العباد او لاقتضاء نظام العالم ذلك ، نعم لو خصص الغرض بما يكون عايداً الى الفاعل ، لاتجه قولهم، لكنه غير معلوم بل مناف لاطلاقهم. و لذا ذهب الامامية والمعتزلة من العامة الى ان افعال الله تعالى معللة بالاغراض و الا لكان عابثاً فاعلاً للقبيح، تعالى الله عما يقول الظالمون علواً كبيراً وقد قال تعالى: « افحسبتم انما خلقناكم عبثاً وانكم الينا لا ترجعون ،؟ وما خلقت الجن والانس الا ليعبدون. وما خلقنا السماء والارض و ما بينهما باطلاً ذلك ظن الذين كفروا». (میرزا محمد علی (مرحوم) (۴۵) قوله: «فكان مقصود المصنف ...» یعنى ان مقصود المصنف من قوله: «و كان القدماء يذكرون ما يسمونه الرؤس الثمانية: الاول الغرض و الثانى المنفعة انهم يذكرون الغرض الحامل والمنفعة معاً ان كانت هناك منفعة غير الغرض الحامل و الا فيكتفون بذكر الغرض خاصة فافهم. (محمد على)
+His saying: 'And it is not called benefit...' Benefit in language is what you obtained or what is obtained for you of knowledge or wealth, and its plural is fawā'id. And in custom, it is the interest that arises from an action in terms of its being consequent upon it. And it, in terms of being at the edge of the action and its end, is called ghāya (end). So they differ in consideration of intentional actions and others. As for gharaḍ (purpose), it is that for the sake of which the agent proceeds to his action. It is called 'final cause' in two respects: the cause in relation to the action, and the purpose in relation to the agent. On this, sequence is not necessary in it, so it is more general than benefit and end in one respect. Hence it was said: purpose may contradict the benefit of the action, as when one errs in his belief. The commentator's statement does not conform to this interpretation because he took sequence as a divisor for each of them. It may be interpreted as: a benefit consequent upon the thing in terms of being desired by proceeding upon it. On this, sequence is necessary in it, and it is more specific than benefit and end in terms of truth. The commentator's statement conforms to this interpretation. (Shaykh ‘Abd al-Raḥīm) (44) This is in the place of explaining the reason for what was mentioned of the difference between purpose and benefit, because they negated purpose and affirmed benefit. Then this is the doctrine of the Ash‘aris: they said that God does not act for a purpose, otherwise He would be deficient, perfecting Himself by that purpose. And in it: This is only necessary if the purpose were returning to Him, which is denied. Rather it is either for the benefit of servants or due to the requirement of the world's order. Yes, if purpose were specified as that which returns to the agent, their statement would be apt, but that is not known, indeed contrary to their absoluteness. Hence the Imāmiyya and the Mu‘tazila from the general public held that God's actions are caused by purposes, otherwise He would be acting frivolously, doing evil. Exalted is God above what the wrongdoers say, greatly. And He said: 'Did you think that We created you in vain and that to Us you would not return?' (23:115) and 'I did not create jinn and mankind except to worship Me' (51:56) and 'We did not create the heaven and the earth and what is between them in vain; that is the opinion of those who disbelieve.' (38:27) (Mīrzā Muḥammad ‘Alī) (45) His saying: 'So the author's intention was...' Means that the author's intention from his saying: 'And the ancients used to mention what they call the eight headings: first the purpose and second the benefit' is that they mention the motivating purpose and the benefit together if there is a benefit other than the motivating purpose, otherwise they suffice with mentioning the purpose alone. So understand. (Muḥammad ‘Alī)
+Source pages p. 385
+
+Commentary
+This passage is a super-commentary (hāshiya) that critically examines the definitions of key terms—gharaḍ (purpose), manfa‘a (benefit), fā’ida (utility), and ghāya (end)—as used in the introduction to works of logic, and then applies these distinctions to the theological debate about God's actions. The commentator first explains the linguistic and customary meanings of 'benefit' (fā’ida): linguistically it is what one acquires of knowledge or wealth; customarily it is the interest (maṣlaḥa) resulting from an action as a consequence. When that interest is considered as the terminus of the action, it is called 'end' (ghāya). Thus fā’ida and ghāya differ in connotation. He then defines 'purpose' (gharaḍ) as that for the sake of which the agent acts, also called the 'final cause' (ʿilla ghā’iyya). He clarifies that the cause is considered relative to the action, while the purpose is relative to the agent. On this view, purpose does not necessarily entail sequence (tarattub)—it may be that the purpose is not actually realized, as when the agent is mistaken. Thus purpose is more general than benefit and end in one respect. He notes that the original commentator (al-muḥashshī) had a different interpretation, taking sequence as a dividing factor, and then offers another interpretation where 'purpose' is defined as a benefit consequent upon the thing and desired by proceeding, in which case sequence is necessary and purpose is more specific. The passage then turns to the theological context: the Ash‘arīs deny that God acts for a purpose, lest He be considered deficient. The commentator refutes this by distinguishing whether the purpose returns to God or to creation; if to creation, it is not demeaning. The Imāmiyya and Mu‘tazila hold that God's actions are purposeful, otherwise they would be frivolous. Finally, the author's own intention is explained: the ancients listed both the motivating purpose and the benefit, but if no extra benefit exists, they mention only the purpose.
+
+Key Terms
+الغرض
+المنفعة
+الفائدة
+الغاية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the relationship between gharaḍ (purpose) and fā’ida (benefit) when the agent errs in belief?
+A) They are always identical.
+B) The purpose may contradict the benefit of the action.
+C) The benefit is always greater than the purpose.
+D) They are mutually exclusive.
+
+Key Takeaway
+Gharaḍ and manfa‘a are distinct concepts; the denial of purpose in God by Ash‘aris rests on an assumption that purpose must return to God, which the commentator refutes by showing purposes can be for creation.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Using your own words, explain how gharaḍ and manfa‘a can conflict, as in the case of someone who acts on a mistaken belief. Provide an example from Islamic jurisprudence where an action's purpose might not align with its actual benefit.
+?
+Task 2: Reconstruct the Ash‘ari argument against divine purpose as presented in the passage. Then, using the commentator's critique, write a one-paragraph refutation that distinguishes between purpose returning to God and purpose for creation.
+
+Pages p. 385 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 386
+Module 2 · Lesson 109
+Next →
+Commentary Notes
+beginner
+5 min
+Al-Sima: The Distinguishing Mark of a Science
+Lexical and technical explanation of 'al-sima' as a distinguishing mark for a science.
+
+Learning Objective
+By the end of this lesson, you will be able to trace the lexical development of 'al-sima' and distinguish the two scholarly interpretations of its meaning in defining a science.
+
+Core Idea
+Al-sima is the brand that identifies a science; it can be a name or a mark.
+
+Before defining a science, scholars often clarify what distinguishes it from others. The term 'al-sima' plays this role: it is the marker that identifies a field of study. This lesson explores its origin as a physical brand and its application as a technical term, including two key interpretations from the commentators on the author's words.
+
+Guided Path
+1
+Trace the lexical origin
+Recognize that 'al-sima' originally meant a brand placed on animals by burning, used for identification. The term then broadened to any mark, even without branding and for non-animals.
+2
+Identify the first interpretation
+One commentator interprets 'al-sima' as the name of the science, like 'logic' for analytical discussions or 'kalam' for theology. This view treats the mark as a label.
+Supported by the author's phrase 'title of the science'.
+3
+Identify the second interpretation
+Another view holds that 'al-sima' is an overview that summarizes what the science details, like a brand that gives immediate recognition. The author's phrase 'so that he has an overview of what he will detail' supports this.
+This aligns with the original sense of a distinguishing mark.
+4
+Examine the reconciliation
+The commentator notes that both interpretations have textual support. He suggests the second view is more apparent but leaves the matter for reflection.
+Thus, 'al-sima' can be understood both as a name and as a conceptual mark, each serving to identify the science.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اقول السمة و الوسم فى الاصل هو العلامة الموضوعة فى الدواب بالكي تعرف بذلك ثم استعمل فى مطلق العلامة وان كان بغير الكى و فى غير الدواب (محمد على) (۴۸) و قال بعض المحققين من المشراح: اراد بالسمة الاسم كما يقال: ان المباحث الميزانية مسماة بالمنطق وكما يقال: ان المباحث المتعلقة بالذات والصفات مسماة بالكلام. و :اقول و لكل منهما اشارة في كلام المصنف فقوله : وهى عنوان العلم يؤيد ذلك . وقوله : ليكون عنده اجمال ما يفصله يؤيده ما ذكره المحشى و كانه هو الاظهر فتأمل . (محمد على)
+I say: 'al-sima' and 'al-wasm' originally is the mark placed on animals by branding, by which they are known. Then it was used for any mark, even if not by branding and not on animals. (Muḥammad ‘Alī) (48) And one of the verifying scholars among the commentators said: He meant by 'al-sima' the name, just as it is said: the analytical discussions are named 'logic', and just as it is said: the discussions concerning essence and attributes are named 'kalām'. And I say: Each of these two has an indication in the author's words. His saying: 'and it is the title of the science' supports that. And his saying: 'so that he has an overview of what he will detail' supports what the commentator mentioned, and it seems more apparent. So reflect. (Muḥammad ‘Alī)
+Source pages p. 386
+
+Commentary
+This passage defines the term 'al-sima' (mark) as used in the context of sciences. The commentator begins with the literal meaning: originally a brand on animals for identification, then generalized to any distinguishing mark. He then reports a second interpretation from another commentator: that 'al-sima' here means the name of the science, such as 'logic' for the analytical discussions or 'kalām' for theology. The author then reconciles these two views by noting that the author's phrase 'title of the science' supports the name interpretation, while the phrase 'so that he has an overview' supports the first (brand-like marker) interpretation. He leaves the matter for reflection, indicating that both may be valid.
+
+Key Terms
+السمة (al-sima): A distinguishing mark or name for a science; originally a brand on animals. [Note: In other logical texts, 'sima' is rarely used; here it is a key term for the introductory discussion of science identification.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the original meaning of 'al-sima'?
+A) A name
+B) A brand on animals
+C) A book title
+D) A logical term
+
+Key Takeaway
+The term 'al-sima' evolves from a physical brand to a technical marker, and its interpretation as a name or a mark carries implications for how a science is identified.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which interpretation of 'al-sima' is supported by the phrase 'title of the science' and which by 'so that he has an overview'. Explain your reasoning.
+?
+Write a short paragraph showing how the original meaning of 'sima' as a brand helps to understand its use in distinguishing the science of logic from other sciences.
+
+Pages p. 386 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 386
+Module 2 · Lesson 110
+Next →
+Commentary Notes
+beginner
+5 min
+Meaning of 'Yasluku bi al-Mantiq': Logic as a Guide for Internal Speech
+Lexical explanation of the verb 'salaka' with the science of logic.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the lexical meaning of the verb 'salaka' in the phrase 'yasluku bi al-mantiq' and state what it implies about logic's role.
+
+Core Idea
+Logic leads internal speech on the straight path and protects it from error.
+
+The phrase 'yasluku bi al-mantiq' is central to the definition of logic in the Islamic tradition. Understanding the verb 'salaka' and its transitive usage helps us grasp that logic is not a passive description but an active guide for our rational thought. This lesson unpacks the lexical layers of this key expression.
+
+Guided Path
+1
+Identify the verb 'salaka'
+The verb 'salaka' has two main senses: intransitive 'salaka al-tariq' (he entered the path) and transitive 'salakahu ghayruhu' (he made him enter). In the phrase, it is transitive with the preposition 'bi', meaning 'to lead or cause to go'.
+The form 'yasluku' is imperfect, indicating ongoing action.
+2
+Parse the phrase structure
+The phrase 'yasluku bi al-mantiq' can be read as 'he goes by means of logic' or 'logic leads'. The commentator clarifies that the verb can be transitive by itself or with the preposition 'bi', here emphasizing instrumentality.
+3
+Connect to the definition of logic
+Logic is that which leads internal speech (al-nutq al-batini) along the path of rectitude and correctness. This shows that logic is not about external utterances but about the inner rational process.
+Internal speech is the locus of reasoning; logic safeguards it from error.
+4
+Appreciate the dual role
+Logic both guides (takes internal speech along the straight path) and protects (guards against error). This dual function justifies its necessity in all Islamic sciences.
+Without logic, internal reasoning may deviate from sound conclusions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اى يذهب هذا العلم بالنطق الباطنى فى مسلك الاستقامة و الصواب و يعصمه عن الخطاء، يقال: سلك الطريق اى ذهب فيه ويقال سلکه غیره:ای اذهبه فيتحدى بنفسه و بالباء (میرزا محمد علی)
+That is, this science leads internal speech along the path of rectitude and correctness and protects it from error. It is said: 'salaka al-ṭarīq' i.e. he went into it, and it is said 'salakahu ghayruhu' i.e. he made him go into it. So the verb is transitive by itself and with the preposition bi-. (Mīrzā Muḥammad ‘Alī)
+Source pages p. 386
+
+Commentary
+This short gloss explains the phrase 'yasluku bi al-mantiq' (he walks by means of logic). The commentator says it means that logic (this science) takes internal speech (the rational thought process) along the path of rectitude and soundness, and protects it from error. He provides a lexical note on the verb 'salaka': when used intransitively it means 'to enter a path', and when transitive it means 'to make someone enter'. The form used here (yasluku bi) indicates leading or causing to go.
+
+Key Terms
+النطق الباطني (al-nuṭq al-bāṭinī): Internal rational speech or thought, as opposed to external spoken words. [Note: This term is standard in Islamic logic to differentiate between internal and external speech.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what does logic do to internal speech?
+A) It creates it
+B) It leads it along the path of rectitude and correctness
+C) It destroys it
+D) It translates it into Greek
+
+Key Takeaway
+The phrase 'yasluku bi al-mantiq' means that logic actively leads internal rational thought on the correct path and protects it from error.
+
+How This Lesson Applies — to MY Life?
+?
+Translate the Arabic phrase 'يسلك بالمنطق' into English and explain how the preposition 'bi' affects the meaning. Then, in your own words, describe what this phrase tells us about the purpose of logic.
+?
+Consider the following scenario: A student studying kalam is constructing a proof for the existence of Allah. Explain how the concept of logic leading internal speech applies to this process, using the lexical insight from this lesson.
+
+Pages p. 386 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 386
+Module 2 · Lesson 111
+Next →
+Commentary Notes
+beginner
+5 min
+Identifying Ambiguous Names in Logic Commentaries
+Identifies the 'Iskandar' mentioned as Alexander the Roman, a righteous servant.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the correct historical referent for 'Iskandar' in this commentary, distinguishing the Roman righteous servant from Alexander the Great, and explain why the distinction matters for interpreting the text.
+
+Core Idea
+Even small glosses about names can prevent major misinterpretations of historical context.
+
+In this brief gloss, the commentator clarifies which 'Iskandar' is meant in the main text. Without this note, a reader might wrongly assume it refers to Alexander the Great, the famous Macedonian conqueror. Instead, the commentator specifies 'al-Iskandar al-Rūmī' (the Roman Alexander), a righteous servant of God. This lesson shows how a simple name correction safeguards accurate understanding of who compiled the logical works in question.
+
+Guided Path
+1
+Locate the ambiguous name in the base text
+Find the word 'Iskandar' in the source passage. Note that it stands alone without any qualifier, so the reader must rely on the commentator's gloss for its referent.
+The phrase 'dūnahā bi-amr Iskandar' appears in the matn.
+2
+Examine the commentator's expansion
+The commentator adds 'huwa al-Iskandar al-Rūmī' and describes him as a righteous servant ('abd ṣāliḥ) to whom God gave something. This expansion provides the needed specificity.
+The text cuts off, but the meaning is clear.
+3
+Contrast with the more famous Alexander
+Alexander the Great (al-Iskandar al-Maqdūnī) is often associated with Greek philosophy. The commentator deliberately distinguishes this figure to avoid confusion, because the Roman Alexander has a different historical and religious profile—a righteous servant, not a pagan conqueror.
+4
+Assess the impact on interpretation
+Knowing the correct identity affects how we understand the chain of transmission and the authority behind the logical compilation. A righteous servant commissioning the work implies the preservation of knowledge within a pious context, rather than a secular one.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: «دونها بأمر اسكندر» هو «الاسكندر الرومي و قد كان عبداً صالحاً اعطاه الله
+His saying: 'He compiled them by the order of Iskandar' is 'the Roman Alexander, and he was a righteous servant whom God gave...'
+Source pages p. 386
+
+Commentary
+This gloss identifies the 'Iskandar' referred to in the text as 'al-Iskandar al-Rūmī' (the Roman Alexander). The commentator adds that he was a righteous servant (ʿabd ṣāliḥ) to whom God had given something (possibly wisdom or authority). This distinguishes him from Alexander the Great, commonly associated with Greek philosophy. The note is biographical, providing context for the historical figure who commissioned the compilation of logical works.
+
+Key Terms
+اسكندر الرومي
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the main purpose of the commentator's note about 'Iskandar'?
+A) To provide a full biography of Alexander the Great
+B) To specify that 'Iskandar' here refers to a Roman righteous servant, not the famous conqueror
+C) To question the reliability of the text
+D) To explain the meaning of the word 'dūnahā'
+
+Key Takeaway
+A single clarifying note about a name can prevent major historical and interpretive errors in reading Islamic logical texts.
+
+How This Lesson Applies — to MY Life?
+?
+Find a gloss in a logical or usul commentary that clarifies an ambiguous personal name (e.g., 'Ibn Sina', 'al-Farabi', or a kalām figure). Write a short note explaining why the clarification is necessary.
+
+Pages p. 386 · Commentary Notes
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 390
+Module 2 · Lesson 112
+Next →
+Commentary Notes
+beginner
+5 min
+Distinguishing Necessary Knowledge from Common Beliefs
+Commentator explains how to avoid confusing common beliefs with necessary knowledge.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the epistemological condition necessary to distinguish self-evident truths (awwaliyat) from common beliefs (shuhurat).
+
+Core Idea
+Common beliefs can masquerade as necessary truths.
+
+In this passage, Shaykh 'Abd al-Rahim warns that widely accepted opinions (shuhurat) can become so prevalent that they are mistaken for necessary knowledge (daruriyyat). He provides a crucial epistemological remedy: clearing the mind of extraneous matters. This lesson examines that remedy and its role in attaining certainty.
+
+Guided Path
+1
+Identify the epistemological danger
+Note that the passage states: 'common renown (shuhra) sometimes reaches such an extent that it becomes confused with necessary truths (daruriyyat).' Recognize the risk of mistaking popular opinion for certain knowledge.
+2
+Extract the remedy
+The passage prescribes: 'it is necessary for whoever desires to attain certainty to empty his mind of matters that are foreign to it.' Understand that mental purification is key.
+3
+Explain why this works
+Foreign matters (al-umur al-mughayira) cloud the intellect. By removing them, the self-evident truths (awwaliyat) become clear and distinguishable from mere common beliefs.
+4
+Recognize the role of divine guidance
+The passage ends with a supplication asking for guidance to the truth. This shows that purification is not merely a rational exercise but also relies on God's help.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فان الشهرة ربما تبلغ بحيث تلتبس بالضروريات فلابد لمن اراد الوصول الى اليقين ان يخلى الأمور المغايرة لعقله حتى يتميز عنده الاوليات عن غيرها ولا يلتبس عليه، جعلنا واياكم الواصلين الى حق اليقين و وفقنا لسلوك مسالك الحق بكتابه المبين والصلوة على محمد خاتم النبيين و على اوصياته المرضيين. (شيخ عبد الرحيم)
+For indeed, common renown (shuhra) sometimes reaches such an extent that it becomes confused with necessary truths (daruriyyat). Therefore, it is necessary for whoever desires to attain certainty to empty his mind of matters that are foreign to it, so that self-evident truths become distinguished for him from other things and he is not confused. May God make us and you among those who attain the truth of certainty, and grant us to traverse the paths of truth through His clear book, and blessings upon Muhammad, the Seal of the Prophets, and upon his righteous successors. (Shaykh 'Abd al-Rahim)
+Source pages p. 390
+
+Commentary
+This passage addresses a key epistemological concern: the danger of mistaking widely accepted opinions (shuhurat) for self-evident truths (daruriyyat). The commentator, Shaykh 'Abd al-Rahim, warns that common beliefs can become so prevalent that they appear as necessary knowledge. To reach true certainty (yaqin), a person must clear his mind of all extraneous matters (al-umur al-mughayira) that are not rooted in pure reason. This purification allows the self-evident truths (awwaliyat) to be distinguished from others. The passage ends with a supplication asking God to guide the author and the reader to true certainty and to follow the path of truth through His clear book, and sends blessings on the Prophet and his family. This reflects the integration of faith and rational inquiry in Islamic logic.
+
+Key Terms
+الشهرة
+الضروريات
+الأوليات
+
+Key Terms from Source Passage
+
+Checkpoint
+What must a person do to avoid confusing common beliefs with necessary truths?
+A) Increase his reading of common books
+B) Empty his mind of extraneous matters
+C) Accept all widespread opinions
+D) Rely solely on authority
+
+Key Takeaway
+To reach certainty, one must distinguish self-evident truths from common beliefs through mental purification and divine guidance.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a common belief in your society that is widely accepted but not certain. How would the method of 'emptying the mind of extraneous matters' help evaluate it? Write a brief analysis.
+
+Pages p. 390 · Commentary Notes
+← Prev
+Mark Done
+Next →

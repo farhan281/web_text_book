@@ -28,6 +28,20 @@ from urllib.request import Request, urlopen
 
 
 DEFAULT_BASE = "https://aqeedah-courses.pages.dev/"
+SITES = {
+    "aqeedah": {
+        "base_url": "https://aqeedah-courses.pages.dev/",
+        "output_dir": "aqeedah"
+    },
+    "hanafi_fiqh": {
+        "base_url": "https://hanafi-fiqh-courses.pages.dev/",
+        "output_dir": "hanafi_fiqh"
+    },
+    "mantiq": {
+        "base_url": "https://mantiq-courses.pages.dev/",
+        "output_dir": "mantiq"
+    }
+}
 CORE_DATASETS = (
     "course.json",
     "modules.json",
@@ -156,10 +170,12 @@ def parse_catalog(homepage: str) -> list[CatalogEntry]:
     entries: list[CatalogEntry] = []
     # Catalog volume/standalone records are flat objects even though their parent
     # arrays are nested, so this intentionally ignores objects with nested braces.
-    for match in re.finditer(r"\{[^{}]*\bpath:'[^']+/static_app/'[^{}]*\}", block):
+    for match in re.finditer(r"\{[^{}]*\bpath:'[^']*static_app/[^']*'[^{}]*\}", block):
         props = js_properties(match.group(0))
-        if "path" not in props or "folder" not in props:
+        if "path" not in props:
             continue
+        if "folder" not in props:
+            props["folder"] = props.get("kitab") or props["path"].split("/")[0]
         category = categories[0]
         for candidate in categories:
             if candidate[0] <= match.start():
@@ -241,6 +257,39 @@ def page_label(item: dict[str, Any]) -> str:
     if end is None or start == end:
         return f"p. {start}"
     return f"pp. {start}-{end}"
+
+
+def format_key_term(term: Any) -> str:
+    if not isinstance(term, dict):
+        return clean_txt(term)
+    
+    term_val = (term.get("term_ar") or term.get("term") or term.get("name") or "").strip()
+    translit = (term.get("transliteration") or term.get("translit") or "").strip()
+    defn = (term.get("definition_here") or term.get("definition") or term.get("simple_definition") or "").strip()
+    shift = (term.get("shift_alert") or term.get("shift") or "").strip()
+    
+    parts = []
+    if term_val:
+        parts.append(clean_txt(term_val))
+    if translit:
+        parts.append(f"({clean_txt(translit)})")
+    
+    term_header = " ".join(parts)
+    
+    result = term_header
+    if defn:
+        if result:
+            result = f"{result}: {clean_txt(defn)}"
+        else:
+            result = clean_txt(defn)
+            
+    if shift:
+        if result:
+            result = f"{result} [Note: {clean_txt(shift)}]"
+        else:
+            result = f"[Note: {clean_txt(shift)}]"
+            
+    return result or clean_txt(str(term))
 
 
 def format_lesson_txt(
@@ -343,7 +392,7 @@ def format_lesson_txt(
     if isinstance(key_terms, list) and key_terms:
         lines.append("Key Terms")
         for term in key_terms:
-            lines.append(clean_txt(term))
+            lines.append(format_key_term(term))
         lines.append("") # empty line after key terms
         
     lines.extend([
@@ -389,7 +438,7 @@ def format_lesson_txt(
             ""
         ])
         
-    reflections = lesson.get("reflect_questions")
+    reflections = lesson.get("reflect_questions") or lesson.get("apply_the_tool")
     if isinstance(reflections, list) and reflections:
         lines.append("How This Lesson Applies — to MY Life?")
         for ref in reflections:
@@ -534,8 +583,8 @@ def scrape_entry(
         module_id = str(module.get("module_id", "unassigned")) if isinstance(module, dict) else "unassigned"
         module_lessons = module_payloads.get(module_id, [])
         
-        # Split module_lessons into chunks of at most 100 lessons
-        chunk_size = 100
+        # Split module_lessons into chunks of at most 50 lessons
+        chunk_size = 50
         lesson_chunks = [module_lessons[i:i + chunk_size] for i in range(0, len(module_lessons), chunk_size)]
         
         for chunk_idx, chunk in enumerate(lesson_chunks, 1):
@@ -611,8 +660,9 @@ def select_entries(entries: list[CatalogEntry], filters: Iterable[str]) -> list[
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("--base-url", default=DEFAULT_BASE, help="Portal base URL")
-    parser.add_argument("--output", type=Path, default=Path("scraped_books"), help="Output directory")
+    parser.add_argument("--site", choices=["aqeedah", "hanafi_fiqh", "mantiq", "all"], default="all", help="The site to scrape")
+    parser.add_argument("--base-url", default=None, help="Override portal base URL (defaults to SITES configuration)")
+    parser.add_argument("--output", type=Path, default=Path("scraped_books"), help="Output root directory")
     parser.add_argument("--workers", type=int, default=3, help="Volumes downloaded concurrently")
     parser.add_argument("--timeout", type=float, default=90, help="Per-request timeout in seconds")
     parser.add_argument("--retries", type=int, default=4, help="Retries after the first attempt")
@@ -630,55 +680,85 @@ def main() -> int:
     args = build_parser().parse_args()
     if args.workers < 1:
         raise ScrapeError("--workers must be at least 1")
-    args.base_url = args.base_url.rstrip("/") + "/"
-    downloader = Downloader(args.timeout, args.retries, args.retry_delay, "aqeedah-json-exporter/1.0 (+personal archival use)")
-    homepage = downloader.text(args.base_url)
-    entries = parse_catalog(homepage)
-    selected = select_entries(entries, args.book)
-
-    catalog = {
-        "source": args.base_url,
-        "discovered_utc": utc_now(),
-        "entry_count": len(entries),
-        "entries": [asdict(entry) for entry in entries],
-    }
-    if args.list:
-        for entry in selected:
-            print(f"{entry.number:02d}\t{entry.category_id}\t{entry.folder}\t{entry.expected_lessons or '?'} lessons")
-        return 0
-
-    output_root = args.output.resolve()
-    cache_root = output_root / ".cache"
-    output_root.mkdir(parents=True, exist_ok=True)
-    (output_root / "catalog.json").write_text(json_dump(catalog) + "\n", encoding="utf-8")
-    log(f"Discovered {len(entries)} volumes/books; selected {len(selected)}. Output: {output_root}")
-
-    successes: list[dict[str, Any]] = []
-    failures: list[dict[str, str]] = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=min(args.workers, len(selected))) as pool:
-        future_map = {
-            pool.submit(scrape_entry, entry, args, downloader, output_root, cache_root): entry
-            for entry in selected
-        }
-        for future in concurrent.futures.as_completed(future_map):
-            entry = future_map[future]
-            try:
-                successes.append(future.result())
-            except Exception as exc:  # keep other independent volumes running
-                failures.append({"folder": entry.folder, "error": str(exc)})
-                log(f"[{entry.number:02d}] {entry.folder}: FAILED: {exc}")
-
-    run_manifest = {
-        "status": "complete" if not failures else "partial_failure",
-        "finished_utc": utc_now(),
-        "selected_count": len(selected),
-        "success_count": len(successes),
-        "failure_count": len(failures),
-        "failures": failures,
-    }
-    (output_root / "run_manifest.json").write_text(json_dump(run_manifest) + "\n", encoding="utf-8")
-    log(f"Finished: {len(successes)} complete, {len(failures)} failed")
-    return 1 if failures else 0
+        
+    if args.site == "all":
+        selected_sites = list(SITES.keys())
+    else:
+        selected_sites = [args.site]
+        
+    global_failures = 0
+    
+    for site_key in selected_sites:
+        site_config = SITES[site_key]
+        base_url = args.base_url or site_config["base_url"]
+        base_url = base_url.rstrip("/") + "/"
+        
+        output_root = args.output.resolve() / site_config["output_dir"]
+        cache_root = output_root / ".cache"
+        
+        log(f"\n========================================================================================")
+        log(f"Starting scrape for site '{site_key}' ({base_url})")
+        log(f"========================================================================================\n")
+        log(f"Output folder: {output_root}")
+        
+        try:
+            downloader = Downloader(args.timeout, args.retries, args.retry_delay, "aqeedah-json-exporter/1.0 (+personal archival use)")
+            homepage = downloader.text(base_url)
+            
+            site_args = argparse.Namespace(**vars(args))
+            site_args.base_url = base_url
+            
+            entries = parse_catalog(homepage)
+            selected = select_entries(entries, args.book)
+            
+            catalog = {
+                "source": base_url,
+                "discovered_utc": utc_now(),
+                "entry_count": len(entries),
+                "entries": [asdict(entry) for entry in entries],
+            }
+            
+            if args.list:
+                for entry in selected:
+                    print(f"{site_key}\t{entry.number:02d}\t{entry.category_id}\t{entry.folder}\t{entry.expected_lessons or '?'} lessons")
+                continue
+                
+            output_root.mkdir(parents=True, exist_ok=True)
+            (output_root / "catalog.json").write_text(json_dump(catalog) + "\n", encoding="utf-8")
+            log(f"Discovered {len(entries)} volumes/books; selected {len(selected)}.")
+            
+            successes: list[dict[str, Any]] = []
+            failures: list[dict[str, str]] = []
+            with concurrent.futures.ThreadPoolExecutor(max_workers=min(args.workers, len(selected))) as pool:
+                future_map = {
+                    pool.submit(scrape_entry, entry, site_args, downloader, output_root, cache_root): entry
+                    for entry in selected
+                }
+                for future in concurrent.futures.as_completed(future_map):
+                    entry = future_map[future]
+                    try:
+                        successes.append(future.result())
+                    except Exception as exc:
+                        failures.append({"folder": entry.folder, "error": str(exc)})
+                        log(f"[{entry.number:02d}] {entry.folder}: FAILED: {exc}")
+                        
+            run_manifest = {
+                "status": "complete" if not failures else "partial_failure",
+                "finished_utc": utc_now(),
+                "selected_count": len(selected),
+                "success_count": len(successes),
+                "failure_count": len(failures),
+                "failures": failures,
+            }
+            (output_root / "run_manifest.json").write_text(json_dump(run_manifest) + "\n", encoding="utf-8")
+            log(f"Finished site '{site_key}': {len(successes)} complete, {len(failures)} failed")
+            if failures:
+                global_failures += len(failures)
+        except Exception as exc:
+            log(f"CRITICAL failure scraping site '{site_key}': {exc}")
+            global_failures += 1
+            
+    return 1 if global_failures > 0 else 0
 
 
 if __name__ == "__main__":

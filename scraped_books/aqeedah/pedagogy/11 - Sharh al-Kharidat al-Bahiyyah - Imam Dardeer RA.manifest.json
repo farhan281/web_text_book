@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:57:45Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20al-Kharidat%20al-Bahiyyah%20-%20Imam%20Dardeer%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/pedagogy/11 - Sharh al-Kharidat al-Bahiyyah - Imam Dardeer RA",
+  "output_bytes": 5598969,
+  "output_sha256": "4ff1d6f56ad5d00e1e4a3a6df6a789b6c53baddf06d84c862bdfb7a8131efefa",
+  "checks": {
+    "catalog_expected_lessons": 768,
+    "course_reported_lessons": 768,
+    "index_lessons": 768,
+    "full_lessons": 768,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 607,
+    "sources": 607
+  }
+}

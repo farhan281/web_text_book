@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:55Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/mirqaat/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/08 - Mirqaat",
+  "output_bytes": 3805327,
+  "output_sha256": "8f9c86c5acca2e1631588a9218945af30c47bf0ff59ce2170f917a84b59b03ed",
+  "checks": {
+    "catalog_expected_lessons": 421,
+    "course_reported_lessons": 421,
+    "index_lessons": 421,
+    "full_lessons": 421,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 21,
+    "course_reported_modules": 21,
+    "modules": 21,
+    "course_reported_sources": 304,
+    "sources": 304
+  }
+}

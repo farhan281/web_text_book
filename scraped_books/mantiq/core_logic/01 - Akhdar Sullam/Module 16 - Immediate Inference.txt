@@ -1,0 +1,361 @@
+← Prev
+p. 85
+Module 16 · Lesson 1
+Next →
+Immediate Inference
+beginner
+5 min
+Immediate Inference (al-'Aks al-Mustawi): Definition and the Universal Affirmative Exception
+Author defines immediate inference and states which propositions convert.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rule of conversion to any categorical proposition and correctly identify the converted form, especially handling the universal affirmative as an exception.
+
+Core Idea
+Conversion preserves truth, quality, and quantity—except the universal affirmative becomes particular.
+
+In this lesson, we examine the logical operation known as al-'aks al-mustawi, or immediate inference via conversion. This operation allows us to swap the subject and predicate of a categorical proposition while keeping the proposition true. However, not all propositions convert in the same way: the universal affirmative has a special rule. We will learn the precise definition and the conditions for valid conversion, drawing from the matn and its commentary.
+
+Guided Path
+1
+Identify the three preserved properties
+The definition states that conversion preserves truth (sidq), quality (kayf), and quantity (kam). Find what these mean in the context of categorical propositions.
+Truth means the proposition remains true after conversion. Quality means the affirmation or negation remains the same. Quantity means the proposition remains universal or particular, except as noted.
+2
+Spot the exceptional case
+The universal affirmative does not preserve quantity; it converts to a particular affirmative. Why? Because converting a universal affirmative to a universal affirmative would not guarantee truth. For example, 'Every A is B' does not imply 'Every B is A'.
+This is the only exception; all other types preserve quantity.
+3
+Handle the indefinite negative
+The commentary adds that the indefinite negative (muhmala salbiyya) behaves like a particular negative because it has the force of a particular. So it converts as a particular negative would.
+Indefinite propositions are those without quantifiers; their logical force is determined by context.
+4
+Distinguish natural vs. conventional arrangement
+Conversion applies to propositions with natural arrangement of terms (subject-predicate in the order intended by nature), not to conventional or arbitrary arrangements.
+Natural arrangement is based on the inherent predication; conventional arrangement is based on stipulation.
+5
+Test a conversion on an Islamic example
+Take a true universal affirmative proposition from fiqh, e.g., 'Every intoxicant is forbidden' (kullu muskarin haram). Convert it to 'Some forbidden things are intoxicants' (ba'd al-muharramat muskar). Verify that truth is preserved.
+This demonstrates the exception: universal affirmative becomes particular affirmative.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في العكس المستوي
+نتكلم في هذا الفصل على حكم من أحكام القضايا وهو العكس المستوي، فالعكس المستوي: عبارة عن تحويل جزئي القضية مع بقاء الصدق والكيف والكم إلا الإيجاب الكلي فيعوض عنه الإيجاب الجزئي، وإلى هذا المعنى أشرنا بقولنا:
+العكس (۱) قلب جزءي القضية مع بقاء الصدق والكيفية والكم إلا الموجب الكلية فعوضها الموجبة الجزئية والعكس لازم لغير ما وجد به اجتماع الخستين[؟] فاقتصد[؟] ومثلها المهملة السلبية لأنها في قوة الجزئية والعكس في مرتب بالطبع وليس في مرتب بالوضع
+اعلم أن المقصود من العكس ما كان لازماً من جهة الترتيب لا ما الذي هو
+
+(1) العكس المستوي : معنى العكس لغة : مطلق التبديل انظر المصباح المنير للفيومي ص ٤٢٤ مادة عكس وانظر أساس البلاغة للزمخشري ص ٤٣١ مادة عكس. وتعريفه في اصطلاح المناطقة : هو تبديل طرفي القضية ذات الترتيب الطبيعي مع بقاء الصدق والكيف والكم إلا في الموجبة الكلية. انظر شرح السلم في المنطق للجندي ص ٧٢ والتعريفات للجرجاني ص ۱۰۹ والتوقيف على مهمات التعاريف للمناوي ص وانظر مغني الطلاب شرح متن إيساغوجي ص ٥٨ تحقيق محمود رمضان البوطي دار الفكر دمشق سوريا .
+Chapter on Immediate Inference (Conversion)
+In this chapter we speak about one of the rulings of propositions, and it is immediate inference. So immediate inference is: an expression for converting the two terms of the proposition while preserving the truth, the quality, and the quantity, except the universal affirmative, so the particular affirmative replaces it. And to this meaning we alluded in our saying:
+Conversion (1) is the conversion of the two terms of the proposition while preserving the truth, the quality, and the quantity, except the universal affirmative, so the particular affirmative replaces it. And conversion is necessary for other than what involves the combination of the two [?], so it is restricted, and similar to it is the indefinite negative because it is in the strength of the particular. And conversion is in the natural arrangement and not in the conventional arrangement.
+Know that what is meant by conversion is what is necessary by virtue of the arrangement, not what which is
+
+(1) Immediate Inference: The meaning of 'aks' in language is unrestricted transposition. See al-Misbah al-Munir by al-Fayyumi p. 424 root 'aks, and see Asas al-Balagha by al-Zamakhshari p. 431 root 'aks. And its definition in the terminology of the logicians is: it is the transposition of the two terms of the proposition having natural arrangement while preserving the truth, the quality, and the quantity, except in the universal affirmative. See Sharh al-Sullam fi'l-Mantiq by al-Jundi p. 72, and al-Ta'rifat by al-Jurjani p. 109, and al-Tawqif 'ala Muhimmat al-Ta'arif by al-Manawi p. —, and see Mughni al-Tullab Sharh Matn Isaghuji p. 58, edited by Mahmud Ramadan al-Buti, Dar al-Fikr, Damascus, Syria.
+Source pages p. 85
+
+Commentary
+This passage defines immediate inference, or conversion (al-'aks al-mustawi), and lays down the conditions governing its validity. The author opens the chapter by announcing that he will treat one of the essential rulings of categorical propositions, namely conversion. He defines it as the transposition of the two terms of a proposition while preserving three things: its truth-value, its quality (affirmation or negation), and its quantity (universality or particularity). The sole exception is the universal affirmative proposition, which does not retain its quantity under conversion; instead, it converts into a particular affirmative proposition. To illustrate with an example drawn from the Islamic sciences: if it is true that 'Every intoxicant is forbidden,' conversion yields 'Some forbidden things are intoxicants,' which remains true but has dropped from universal to particular quantity. The author then cites the versified matn line that summarizes this definition. In his explanatory commentary, he adds that conversion is necessary and valid for all propositions except those characterized by the combination of two features—here the text is unclear but the intended referent is the particular negative proposition, which simultaneously carries negation and particularity—and similar to it is the indefinite negative proposition, because it possesses the logical force (quwwa) of a particular proposition and thus behaves likewise in conversion. He further distinguishes between a natural arrangement of terms (al-tartib al-tabi'i) and a conventional or imposed arrangement (al-tartib al-wad'i), emphasizing that conversion operates according to the natural order of predication, not an artificial order established by stipulation. He begins to clarify that what is meant by conversion is what is necessitated by virtue of that natural arrangement, not what... The appended footnote supplies lexical attestations from classical Arabic dictionaries and technical definitions from major works of logic, confirming that in the terminology of the logicians conversion denotes the exchange of the two terms of a proposition of natural order while preserving truth, quality, and quantity, again excepting the universal affirmative.
+
+Key Terms
+العكس المستوي
+الصدق
+الكيف
+الكم
+الإيجاب الكلي
+المهملة السلبية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the rule given in this passage, if the proposition 'Every intoxicant is forbidden' (كل مسكر حرام) undergoes immediate inference (al-'aks al-mustawi), what is the correct result?
+A) Every forbidden thing is an intoxicant
+B) No intoxicant is forbidden
+C) Some forbidden things are intoxicants
+D) It does not convert at all
+
+Key Takeaway
+Conversion is a valid immediate inference that transposes terms while preserving truth, quality, and quantity, with the sole exception that the universal affirmative becomes particular affirmative.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative proposition from fiqh: 'Every act of worship requires intention (niyyah)' (kullu 'ibadatin tatawaqqafu 'ala al-niyyah). Write the converted proposition and verify that truth is preserved.
+?
+Convert the particular negative proposition: 'Some obligatory acts are not required to be performed in a specific order' (ba'd al-wajibat la tushrat fi tartib khas). Check if the conversion holds.
+
+Pages p. 85 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 86
+Module 16 · Lesson 2
+Next →
+Immediate Inference
+beginner
+8 min
+Definition and Conditions of Simple Conversion
+Author defines simple conversion and its necessary conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the conditions for a valid simple conversion and determine whether a given proposition satisfies them.
+
+Core Idea
+Simple conversion swaps subject and predicate while preserving truth, quality, and quantity — except universal affirmatives, which become particular.
+
+In this passage, the author defines simple conversion as a specific immediate inference. To apply it correctly, you must understand what is preserved and what exceptions exist. This lesson establishes the conceptual boundaries of the operation.
+
+Guided Path
+1
+Identify the operation
+Find the definition of 'aks mustawi. What does it mean to 'reverse the two parts' (تحويل جزئي القضية)?
+2
+The preservations
+Note the three things preserved: truth (صدق), quality (كيف), quantity (كم). Why is each important for a valid inference?
+3
+The exception
+Universal affirmative (موجبة كلية) converts to particular affirmative (موجبة جزئية). Understand why converting as universal would lose truth.
+Example: 'Every human is an animal' → 'Some animal is a human'.
+4
+The restrictions
+Conversion requires natural order (الترتيب الطبيعي) and does not apply to propositions that combine both deficiencies (الخستين): negative + particular.
+Indefinite negatives are included because they are equivalent to particular negatives.
+5
+The purpose
+Conversion is about necessary order-based inference, not accidental agreement. It must hold universally in the logical law.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في العكس المستوي
+نتكلم في هذا الفصل على حكم من أحكام القضايا وهو العكس المستوي، فالعكس المستوي: عبارة عن تحويل جزأي القضية مع بقاء الصدق والكيف والكم إلا الإيجاب الكلي فيعوض عنه الإيجاب الجزئي، وإلى هذا المعنى أشرنا بقولنا :
+العكس قلب جزئي القضية مع بقاء الصدق والكيفية والكم إلا الموجب الكلية
+فعوضها الموجبة الجزئية والعكس لازم لغير ما وجد به اجتماع الخستين فاقتصد ومثلها المهملة السلبية لأنها في قوة الجزئية والعكس في مرتب بالطبع وليس في مرتب بالوضع
+اعلم أن المقصود من العكس ما كان لازماً من جهة الترتيب لا ما الذي هو يتفق في بعض الأمور وإن لم يلزم في القانون الكلي، وكل قضية يلزمها العكس فعكسها تحويل طرفيها خاصة من غير تغيير كيف ولا كم إلا الموجبة الكلية فتعكس موجبة جزئية لأن لو عكسناها مثل نفسها لم تصدق. والمقصود من هذا الفصل إنما هو ما كان لازماً على جهة الصدق
+فنقول في عكس كل إنسان حيوان بعض الحيوان إنسان، فلو عكسنا مثل نفسها فقلت : كل حيوان إنسان لم تصدق ثم إن العكس لازم لكل قضية طبيعية الترتيب إلا التي تجتمع فيها الخستان وهما السالبة والجزئية، كليس بعض الحيوان إنسان فلا يصدق عكسها وتلحق بها المهملة السالبة لأنها في قوتها تحقيقاً فيها كما مضى.
+السالبة الكلية تنعكس صادقة مثل نفسها كلا شيء من الإنسان
+بحجر، ولا شيء من الحجر بإنسان.
+والموجبة الكلية تنعكس صادقة موجبة جزئية كما تقدم.
+والموجبة الجزئية تنعكس صادقة مثل نفسها أيضاً، كبعض الحيوان
+إنسان، وبعض الإنسان حيوان.
+والموجبة المهملة : كالجزئية الموجبة تنعكس مثل نفسها، كالإنسان
+كاتب والكاتب إنسان.
+واعلم أن العكس لا يكون إلا في القضايا ذات الترتيب الطبيعي وإليه ذات الإشارة بقولنا : (والعكس في مرتب بالطبع احترازاً من المنفصلات فإن تحويل طرفيها ليس عكساً لأن كلا من طرفيها صالح لأن يكون مقدماً وثانياً فلا يتعين ترتيبها إلا بالوضع خلاف الحملية والمتصلة فإن ترتيبها طبيعي وإن انعکس طرفاها فهي مرتبة بالقوة واحترز بالمستوي من عكس النقيض.
+Chapter on simple conversion. We discuss in this chapter a rule of propositions, namely simple conversion. Simple conversion is: the transformation of the two parts of the proposition while preserving truth, quality, and quantity, except the universal affirmative, which is compensated by the particular affirmative. And to this meaning we alluded in our saying: 'Conversion is the reversal of the two parts of the proposition with preservation of truth, quality, and quantity, except the universal affirmative, so its compensation is the particular affirmative.' And conversion is necessary for other than that in which the two deficiencies are found, so it is restricted. And the indefinite negative is like it because it is in the strength of the particular. And conversion is natural order, not positional order. Know that the purpose of conversion is what is necessary in terms of order, not what is agreeable in some matters even if not necessary in the universal law. And every proposition that has a conversion, its conversion is the transformation of its two terms specifically without changing quality nor quantity, except the universal affirmative, so it converts as a particular affirmative, because if we convert it as its like it would not be true. And the purpose of this chapter is only what is necessary in terms of truth. So we say: In converting 'Every human is an animal' it becomes 'Some animal is a human'. If we converted it as its like and said 'Every animal is a human' it would not be true. Then conversion is necessary for every naturally ordered proposition except that in which the two deficiencies meet, which are the negative and the particular, like 'Some animal is not human', so its conversion is not true. And the indefinite negative is attached to it because it is in its power, as previously. The universal negative converts truly as its like, e.g., 'No human is a stone' becomes 'No stone is a human'. The universal affirmative converts truly as a particular affirmative as above. The particular affirmative converts truly as its like, e.g., 'Some animal is a human' becomes 'Some human is an animal'. The affirmative indefinite converts as the particular affirmative: 'A human is a writer' becomes 'A writer is a human'. And know that conversion only occurs in propositions with natural order, and to that we alluded by our saying: 'Conversion is natural order' as a safeguard from disjunctives, for the transformation of their two parts is not conversion because each of their parts is suitable to be antecedent and consequent, so their order is not determined except by position, unlike categoricals and conditionals whose order is natural, even if their two parts are inverted, they are ordered potentially. And he distinguished 'simple' from contrapositive.
+Source pages p. 86
+
+Commentary
+This passage defines and explains the concept of simple conversion (al-‘aks al-mustawi) in logic. It is a definitional passage that also provides rules for each type of categorical proposition. The author begins by stating that simple conversion is the operation of swapping the subject and predicate of a proposition while maintaining its truth-value, quality (affirmative or negative), and quantity (universal or particular), with one exception: a universal affirmative proposition converts to a particular affirmative, not a universal affirmative. This is because swapping the terms of a universal affirmative like 'Every human is an animal' would yield 'Every animal is a human', which is false; the correct conversion is 'Some animal is a human', which preserves truth. The author then explains that conversion applies only to propositions with 'natural order', where the subject naturally precedes the predicate, as opposed to 'positional order' found in disjunctive conditionals where either term can be first. The passage also identifies the exception to conversion: propositions that combine the two deficiencies (al-khaslatayn) of being negative and particular, like 'Some animal is not human', and indefinite negatives, do not have a valid conversion. Examples are given for each type: universal negative (e.g., 'No human is a stone' converts to 'No stone is a human'), universal affirmative (to particular affirmative), particular affirmative (remains particular affirmative), and indefinite affirmative (treated like particular affirmative). The passage concludes by distinguishing simple conversion from contrapositive (aks al-naqid). This lesson is essential for understanding immediate inferences in categorical logic.
+
+Key Terms
+العكس المستوي
+جزئي القضية
+الصدق
+الكيف
+الكم
+الخستين
+المهملة
+الترتيب الطبيعي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which proposition does NOT have a simple conversion?
+A) Universal negative
+B) Particular affirmative
+C) Universal affirmative
+D) Particular negative
+
+Key Takeaway
+Simple conversion is a valid immediate inference for all categorical propositions except those that are both negative and particular.
+
+How This Lesson Applies — to MY Life?
+?
+Check whether the proposition 'Every sale (bay‘) is permissible (halal)' can be converted simply. If so, what is the correct conversion? (Answer: becomes 'Some permissible thing is a sale'.)
+?
+Identify which of the following propositions do not have a valid simple conversion and explain why: (a) No prayer (salat) is invalid (batil). (b) Some animal is not a human. (c) Every human is a rational animal. (Answer: (b) is particular negative, which has both deficiencies, so no conversion. (a) and (c) are valid.)
+
+Pages p. 86 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 86
+Module 16 · Lesson 3
+Next →
+Immediate Inference
+beginner
+10 min
+Conversion Rules for Each Categorical Proposition Type
+Author enumerates conversion rules for each proposition type with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the simple conversion rule to each of the four categorical proposition types and produce the correct converted form.
+
+Core Idea
+Universal negatives and particular affirmatives convert to themselves; universal affirmatives become particular affirmatives; particular negatives have no conversion.
+
+The author provides explicit examples for each proposition type. This lesson practises applying the conversion rules, using the examples given in the passage to reinforce the pattern.
+
+Guided Path
+1
+Universal negative (E)
+The passage says it converts to itself. Verify with example: 'No human is a stone' → 'No stone is a human'. Why does it preserve truth?
+Both terms are mutually exclusive.
+2
+Universal affirmative (A)
+Converts to particular affirmative (I). Example: 'Every human is an animal' → 'Some animal is a human'. Understand the necessity of this change.
+If converted as A, the conclusion would be false.
+3
+Particular affirmative (I)
+Converts to itself. Example: 'Some animal is a human' → 'Some human is an animal'.
+No change needed.
+4
+Indefinite affirmative
+Treated like particular affirmative. Example: 'A human is a writer' → 'A writer is a human'.
+Indefinites are equivalent to particulars in conversion rules.
+5
+Particular negative (O) and indefinite negative
+No conversion. The passage says these have the two deficiencies (negative and particular).
+Example: 'Some animal is not human' cannot be converted.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في العكس المستوي
+نتكلم في هذا الفصل على حكم من أحكام القضايا وهو العكس المستوي، فالعكس المستوي: عبارة عن تحويل جزأي القضية مع بقاء الصدق والكيف والكم إلا الإيجاب الكلي فيعوض عنه الإيجاب الجزئي، وإلى هذا المعنى أشرنا بقولنا :
+العكس قلب جزئي القضية مع بقاء الصدق والكيفية والكم إلا الموجب الكلية
+فعوضها الموجبة الجزئية والعكس لازم لغير ما وجد به اجتماع الخستين فاقتصد ومثلها المهملة السلبية لأنها في قوة الجزئية والعكس في مرتب بالطبع وليس في مرتب بالوضع
+اعلم أن المقصود من العكس ما كان لازماً من جهة الترتيب لا ما الذي هو يتفق في بعض الأمور وإن لم يلزم في القانون الكلي، وكل قضية يلزمها العكس فعكسها تحويل طرفيها خاصة من غير تغيير كيف ولا كم إلا الموجبة الكلية فتعكس موجبة جزئية لأن لو عكسناها مثل نفسها لم تصدق. والمقصود من هذا الفصل إنما هو ما كان لازماً على جهة الصدق
+فنقول في عكس كل إنسان حيوان بعض الحيوان إنسان، فلو عكسنا مثل نفسها فقلت : كل حيوان إنسان لم تصدق ثم إن العكس لازم لكل قضية طبيعية الترتيب إلا التي تجتمع فيها الخستان وهما السالبة والجزئية، كليس بعض الحيوان إنسان فلا يصدق عكسها وتلحق بها المهملة السالبة لأنها في قوتها تحقيقاً فيها كما مضى.
+السالبة الكلية تنعكس صادقة مثل نفسها كلا شيء من الإنسان
+بحجر، ولا شيء من الحجر بإنسان.
+والموجبة الكلية تنعكس صادقة موجبة جزئية كما تقدم.
+والموجبة الجزئية تنعكس صادقة مثل نفسها أيضاً، كبعض الحيوان
+إنسان، وبعض الإنسان حيوان.
+والموجبة المهملة : كالجزئية الموجبة تنعكس مثل نفسها، كالإنسان
+كاتب والكاتب إنسان.
+واعلم أن العكس لا يكون إلا في القضايا ذات الترتيب الطبيعي وإليه ذات الإشارة بقولنا : (والعكس في مرتب بالطبع احترازاً من المنفصلات فإن تحويل طرفيها ليس عكساً لأن كلا من طرفيها صالح لأن يكون مقدماً وثانياً فلا يتعين ترتيبها إلا بالوضع خلاف الحملية والمتصلة فإن ترتيبها طبيعي وإن انعکس طرفاها فهي مرتبة بالقوة واحترز بالمستوي من عكس النقيض.
+Chapter on simple conversion. We discuss in this chapter a rule of propositions, namely simple conversion. Simple conversion is: the transformation of the two parts of the proposition while preserving truth, quality, and quantity, except the universal affirmative, which is compensated by the particular affirmative. And to this meaning we alluded in our saying: 'Conversion is the reversal of the two parts of the proposition with preservation of truth, quality, and quantity, except the universal affirmative, so its compensation is the particular affirmative.' And conversion is necessary for other than that in which the two deficiencies are found, so it is restricted. And the indefinite negative is like it because it is in the strength of the particular. And conversion is natural order, not positional order. Know that the purpose of conversion is what is necessary in terms of order, not what is agreeable in some matters even if not necessary in the universal law. And every proposition that has a conversion, its conversion is the transformation of its two terms specifically without changing quality nor quantity, except the universal affirmative, so it converts as a particular affirmative, because if we convert it as its like it would not be true. And the purpose of this chapter is only what is necessary in terms of truth. So we say: In converting 'Every human is an animal' it becomes 'Some animal is a human'. If we converted it as its like and said 'Every animal is a human' it would not be true. Then conversion is necessary for every naturally ordered proposition except that in which the two deficiencies meet, which are the negative and the particular, like 'Some animal is not human', so its conversion is not true. And the indefinite negative is attached to it because it is in its power, as previously. The universal negative converts truly as its like, e.g., 'No human is a stone' becomes 'No stone is a human'. The universal affirmative converts truly as a particular affirmative as above. The particular affirmative converts truly as its like, e.g., 'Some animal is a human' becomes 'Some human is an animal'. The affirmative indefinite converts as the particular affirmative: 'A human is a writer' becomes 'A writer is a human'. And know that conversion only occurs in propositions with natural order, and to that we alluded by our saying: 'Conversion is natural order' as a safeguard from disjunctives, for the transformation of their two parts is not conversion because each of their parts is suitable to be antecedent and consequent, so their order is not determined except by position, unlike categoricals and conditionals whose order is natural, even if their two parts are inverted, they are ordered potentially. And he distinguished 'simple' from contrapositive.
+Source pages p. 86
+
+Commentary
+This passage defines and explains the concept of simple conversion (al-‘aks al-mustawi) in logic. It is a definitional passage that also provides rules for each type of categorical proposition. The author begins by stating that simple conversion is the operation of swapping the subject and predicate of a proposition while maintaining its truth-value, quality (affirmative or negative), and quantity (universal or particular), with one exception: a universal affirmative proposition converts to a particular affirmative, not a universal affirmative. This is because swapping the terms of a universal affirmative like 'Every human is an animal' would yield 'Every animal is a human', which is false; the correct conversion is 'Some animal is a human', which preserves truth. The author then explains that conversion applies only to propositions with 'natural order', where the subject naturally precedes the predicate, as opposed to 'positional order' found in disjunctive conditionals where either term can be first. The passage also identifies the exception to conversion: propositions that combine the two deficiencies (al-khaslatayn) of being negative and particular, like 'Some animal is not human', and indefinite negatives, do not have a valid conversion. Examples are given for each type: universal negative (e.g., 'No human is a stone' converts to 'No stone is a human'), universal affirmative (to particular affirmative), particular affirmative (remains particular affirmative), and indefinite affirmative (treated like particular affirmative). The passage concludes by distinguishing simple conversion from contrapositive (aks al-naqid). This lesson is essential for understanding immediate inferences in categorical logic.
+
+Key Terms
+العكس المستوي
+السالبة الكلية
+الموجبة الكلية
+الموجبة الجزئية
+المهملة
+الخستين
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the simple conversion of 'Every intoxicant (khamr) is forbidden (haram)'?
+A) Every forbidden is an intoxicant.
+B) Some forbidden is an intoxicant.
+C) No intoxicant is forbidden.
+D) Some intoxicant is not forbidden.
+
+Key Takeaway
+The conversion rule depends on the quantity and quality: universal negatives and particular affirmatives convert to themselves, universal affirmatives become particular affirmatives, and particular negatives have no conversion.
+
+How This Lesson Applies — to MY Life?
+?
+For each of the following propositions, write the correct simple conversion: (a) No prayer (salat) is valid without purification. (b) Every sin (ithm) is forbidden (haram). (c) Some knowledge ('ilm) is obligatory (fard).
+?
+Explain why the proposition 'Some animal is not rational' cannot be simply converted, using the concept of the two deficiencies (al-khaslatayn).
+
+Pages p. 86 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 87
+Module 16 · Lesson 4
+Next →
+Immediate Inference
+intermediate
+10 min
+Rules of Conversion ('Aks) for Categorical Propositions
+Author defines conversion and enumerates which propositions convert validly.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of conversion to determine whether a given categorical proposition yields a true converse and identify the correct form of the converse.
+
+Core Idea
+Conversion flips subject and predicate; only the universal negative keeps its form; the universal affirmative weakens to particular.
+
+In Islamic logic, conversion ('aks) is an immediate inference where the terms of a categorical proposition are swapped. It is a fundamental tool used in juristic reasoning to test the scope of rulings. This lesson unpacks the rules laid out by the author: which propositions convert validly, and in what form. Understanding these rules ensures you do not incorrectly extend a ruling beyond its proper scope.
+
+Guided Path
+1
+Recall the definition of conversion
+Conversion is the transposition of the subject and predicate of a proposition without changing its quality (affirmative/negative) or quantity (universal/particular), except for the universal affirmative which becomes particular affirmative.
+The author stresses that conversion must preserve truth (lāzimun ʿalā jihat al-ṣidq).
+2
+Identify the proposition type
+Given a categorical proposition, determine its quantity (universal, particular, indefinite) and quality (affirmative, negative). This is essential because the conversion rule varies accordingly.
+Indefinite (muhmala) propositions are treated as particular in strength.
+3
+Apply the conversion rule for each type
+Universal negative → converts as itself (e.g., 'No human is stone' → 'No stone is human'). Universal affirmative → converts to particular affirmative (e.g., 'Every human is animal' → 'Some animal is human'). Particular affirmative → converts as itself (e.g., 'Some animal is human' → 'Some human is animal'). Particular negative → does not convert at all (the two deficiencies—negativity and particularity—block it). Indefinite affirmative → converts like particular affirmative. Indefinite negative → does not convert (follows particular negative).
+The author uses the Arabic terms: mūjiba kulliyya, mūjiba juziyya, sāliba kulliyya, etc.
+4
+Check the 'natural arrangement' condition
+Conversion is only valid for propositions with natural arrangement (tartīb ṭabīʿī)—namely, predicative (ḥamliyya) and conditional (muttasila) propositions. Disjunctive propositions (munfaṣilāt) are excluded because their terms have no fixed order. Also exclude contradictory conversion (ʿaks al-naqīḍ).
+This ensures the operation is genuine conversion, not a different inference.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يتفق في بعض الأمور وإن لم يلزم في القانون الكلي، وكل قضية يلزمها العكس فعكسها تحويل طرفيها خاصة من غير تغيير كيف ولا كم إلا الموجبة الكلية فتعكس موجبة جزئية لأن لو عكسناها مثل نفسها لم تصدق. والمقصود من هذا الفصل إنما هو ما كان لازماً على جهة الصدق.
+فنقول في عكس كل إنسان حيوان بعض الحيوان إنسان، فلو عكسنا مثل نفسها فقلت: كل حيوان إنسان لم تصدق. ثم إن العكس لازم لكل قضية طبيعية الترتيب إلا التي تجتمع فيها الخستان وهما السالبة والجزئية، ليس بعض الحيوان إنسان فلا يصدق عكسها وتلحق بها المهملة السالبة لأنها في قوتها تحقيقاً فيها كما مضى.
+السالبة الكلية تنعكس صادقة مثل نفسها لا شيء من الإنسان بحجر، ولا شيء من الحجر بإنسان.
+والموجبة الكلية تنعكس صادقة موجبة جزئية كما تقدم.
+والموجبة الجزئية تنعكس صادقة مثل نفسها أيضاً، كبعض الحيوان إنسان، وبعض الإنسان حيوان.
+والموجبة المهملة: كالجزئية الموجبة تنعكس مثل نفسها، كالإنسان كاتب والكاتب إنسان.
+واعلم أن العكس لا يكون إلا في القضايا ذات الترتيب الطبيعي وإليه ذات الإشارة بقولنا: (والعكس في مرتب بالطبع احترازاً من المنفصلات فإن تحويل طرفيها ليس عكساً لأن كلا من طرفيها صالح لأن يكون مقدماً وثانياً فلا يتعين ترتيبها إلا بالوضع خلاف الحملية والمتصلة فإن ترتيبها طبيعي وإن انعكس طرفاها فهي مرتبة بالقوة واحترز بالمستوي من عكس النقيض.
+It agrees in some matters even if it does not follow in the universal law, and every proposition whose converse follows, then its converse is the transposition of its two terms specifically without changing quality or quantity except the universal affirmative, for it converts to a particular affirmative because if we converted it as itself, it would not be true. And the intended meaning of this section is only what is necessary with respect to truth.
+So we say: in the conversion of 'Every human is an animal' [is] 'Some animal is a human,' so if we converted it as itself and said: 'Every animal is a human,' it would not be true. Then indeed conversion is necessary for every proposition of natural arrangement except that in which the two deficiencies meet, and they are the negative and the particular: 'Some animal is not a human,' so its converse is not true, and the indefinite negative follows it because in its potency it is a verification in it as passed.
+The universal negative converts true as itself: 'Nothing of human is stone,' and 'Nothing of stone is human.'
+And the universal affirmative converts true particular affirmative as preceded.
+And the particular affirmative converts true as itself also, such as 'Some animal is human,' and 'Some human is animal.'
+And the indefinite affirmative: like the particular affirmative it converts as itself, such as 'Human is writer' and 'Writer is human.'
+And know that conversion only occurs in propositions possessing natural arrangement, and to it is the indication in our saying: 'And conversion is in what is naturally arranged,' excluding disjunctives, for the transposition of their two terms is not conversion because each of their two terms is fit to be first and second, so their arrangement is not fixed except by convention, unlike the predicative and conditional, for their arrangement is natural, and even if their two terms are transposed, they are arranged potentially; and excluded by al-musawi from contradictory conversion.
+Source pages p. 87
+
+Commentary
+This passage defines the logical operation of conversion ('aks) and enumerates which categorical propositions admit a valid converse. The author begins by defining conversion as the transposition of a proposition's subject and predicate without altering its quality or quantity, with a single exception: the universal affirmative cannot convert as itself, but only to a particular affirmative. He shows this with the example 'Every human is an animal,' which cannot become 'Every animal is a human' without falsity, just as 'Every intoxicant is forbidden' cannot become 'Every forbidden thing is an intoxicant' without falsity since many forbidden things are not intoxicants. He clarifies that his concern is with conversion that preserves truth. He then lays down the general rule that every naturally arranged proposition necessarily admits conversion except the particular negative, where the two deficiencies—negativity and particularity—combine. Thus 'Some animal is not a human' has no true converse, just as 'Some wine is not an intoxicant' would yield no valid converse, and the indefinite negative follows the particular negative in this failure because it is potentially particular negative. Next he enumerates the successful cases: the universal negative converts to itself, as 'Nothing of human is stone' becomes 'Nothing of stone is human,' comparable to 'No dead meat is lawful' becoming 'Nothing lawful is dead meat.' The universal affirmative converts by limitation to a particular affirmative. The particular affirmative converts to itself, as 'Some animal is human' becomes 'Some human is animal,' just as 'Some intoxicant is forbidden' becomes 'Some forbidden thing is an intoxicant.' The indefinite affirmative behaves like the particular affirmative, so 'Human is writer' becomes 'Writer is human.' Finally, the author restricts true conversion to propositions with natural arrangement, namely predicative and conditional propositions, excluding disjunctive propositions because their terms have no fixed natural order but only conventional order, and he excludes contradictory conversion by the expression al-musawi.
+
+Key Terms
+العكس
+الخستان
+القضايا طبيعية الترتيب
+المنفصلات
+عكس النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which of the following conversions yields a true converse in the same quantity and quality as the original proposition?
+A) 'Every intoxicant is forbidden' → 'Every forbidden thing is an intoxicant'
+B) 'No dead meat is lawful' → 'Nothing lawful is dead meat'
+C) 'Some water is not pure' → 'Some pure thing is not water'
+D) 'Every prayer is obligatory' → 'Some obligatory act is a prayer'
+
+Key Takeaway
+The universal negative converts identically, the universal affirmative converts by limitation to a particular affirmative, the particular affirmative converts identically, and the particular negative does not convert at all.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition 'Every prayer (ṣalāh) is an act of worship (ʿibādah).' Apply the conversion rule from the passage and state the correct converse. Then explain why the converse 'Every act of worship is a prayer' would be false according to the author's reasoning.
+?
+Identify which of the following propositions would have a valid converse and write the correct converse: (1) 'Some water is pure.' (2) 'No wine is permissible.' (3) 'Some animal is not a horse.' Use the rules from the lesson.
+
+Pages p. 87 · Immediate Inference
+← Prev
+Mark Done
+Next →

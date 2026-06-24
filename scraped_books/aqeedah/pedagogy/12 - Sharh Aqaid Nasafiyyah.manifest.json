@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:57:44Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Aqaid%20Nasafiyyah/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/pedagogy/12 - Sharh Aqaid Nasafiyyah",
+  "output_bytes": 4495417,
+  "output_sha256": "be65ab75c2673ee9c9f3b59f77a3ae9d0028112133be59d266d6bbcca6a88104",
+  "checks": {
+    "catalog_expected_lessons": 632,
+    "course_reported_lessons": 632,
+    "index_lessons": 632,
+    "full_lessons": 632,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 508,
+    "sources": 508
+  }
+}

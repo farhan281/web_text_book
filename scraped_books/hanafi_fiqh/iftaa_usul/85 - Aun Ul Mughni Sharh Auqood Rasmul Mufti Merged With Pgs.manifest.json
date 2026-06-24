@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:07Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/AUN_UL_MUGHNI_SHARH_AUQOOD_RASMUL_MUFTI_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/85 - Aun Ul Mughni Sharh Auqood Rasmul Mufti Merged With Pgs",
+  "output_bytes": 1299357,
+  "output_sha256": "2bd46efe86cd6472d6b74fcd475903c401b02085420a9f437d6b7334539ed7fa",
+  "checks": {
+    "catalog_expected_lessons": 152,
+    "course_reported_lessons": 152,
+    "index_lessons": 152,
+    "full_lessons": 152,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 9,
+    "course_reported_modules": 9,
+    "modules": 9,
+    "course_reported_sources": 155,
+    "sources": 155
+  }
+}

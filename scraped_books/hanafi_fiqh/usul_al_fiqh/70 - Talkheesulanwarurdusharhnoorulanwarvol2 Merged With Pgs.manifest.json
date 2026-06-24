@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:30Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/TalkheesUlAnwarUrduSharhNoorUlAnwarVol2_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/70 - Talkheesulanwarurdusharhnoorulanwarvol2 Merged With Pgs",
+  "output_bytes": 1007166,
+  "output_sha256": "4a9b4984ea5fece70cbde2f065d795af73520c2c608b3444ce6af4b506f95589",
+  "checks": {
+    "catalog_expected_lessons": 159,
+    "course_reported_lessons": 159,
+    "index_lessons": 159,
+    "full_lessons": 159,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 16,
+    "course_reported_modules": 16,
+    "modules": 16,
+    "course_reported_sources": 156,
+    "sources": 156
+  }
+}

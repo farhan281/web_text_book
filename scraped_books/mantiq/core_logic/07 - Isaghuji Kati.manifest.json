@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:49Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/isaghuji_kati/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/07 - Isaghuji Kati",
+  "output_bytes": 1401109,
+  "output_sha256": "48ecc2ef9a30a2674b8410621176c74f43cdd703e99cdf2307976c0a365f152c",
+  "checks": {
+    "catalog_expected_lessons": 169,
+    "course_reported_lessons": 169,
+    "index_lessons": 169,
+    "full_lessons": 169,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 13,
+    "course_reported_modules": 13,
+    "modules": 13,
+    "course_reported_sources": 121,
+    "sources": 121
+  }
+}

@@ -1,0 +1,1564 @@
+← Prev
+p. 62
+Module 14 · Lesson 1
+Next →
+Division and Classification
+intermediate
+6 min
+The Requirement of Primary Differentiae in Genus Division
+Author explains the requirement of primary differentiae in genus division and its difficulty.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a given division of a genus uses primary differentiae and construct the correct hierarchical division for any genus.
+
+Core Idea
+A valid definition requires stepwise division by primary differentiae, not a jump to far-removed species.
+
+In this passage, Ibn Taymiyya highlights a subtle but crucial condition in logical definition: the differentia dividing a genus must be primary—it must directly divide the immediate genus without skipping intermediate levels. He uses concrete examples to show that violating this condition leads to definitions that are logically unsatisfactory, exposing the stringency of the logicians' own rules.
+
+Guided Path
+1
+Identify the logicians' requirement
+Find the claim: the differentia must be primary (awwaliyya) relative to the genus. What does 'primary' mean here?
+Primary differentia directly divides the immediate genus, not a higher genus.
+2
+Understand the problem with skipping levels
+Consider the example: dividing 'body' directly into 'rational' and 'non-rational'. Why does Ibn Taymiyya object? Trace the skipped intermediate genera.
+Body → growing/non-growing → animal/non-animal → rational/non-rational is the correct order.
+3
+Trace the correct hierarchical division
+Follow Ibn Taymiyya's prescription: first divide 'body' by primary differentia into 'growing' and 'non-growing', then subdivide 'growing' into 'animal' and 'non-animal', then 'animal' into 'rational' and 'non-rational'.
+Each step uses a differentia that is primary relative to the current genus.
+4
+Apply the same logic to the animal example
+Explain why dividing 'animal' directly into 'biped' and 'quadruped' is not primary. What intermediate genus is missing?
+'Animal' should first be divided into 'walking' and 'non-walking' because bipedality follows from walking, not from animality itself.
+5
+Assess the difficulty
+Reflect on why this condition is very difficult to fulfill in practice. What knowledge of the entire hierarchy is required?
+One must know all intermediate genera, which is often not available or requires deep ontological analysis.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الرابع: إن «الفصل» مقوّم لـ«النوع» مقسم لـ «الجنس». فإذا لم يُراع شرط في القسمة فصولاً ليست «أوّلية» لـ «الجنس»، وهو غير مرضي في الحدود. فإن الجسم كما أنه ينقسم إلى «النامي» و «غير النامي» انقساماً بـ «فصل دون الأولية ذاتي، فكذلك ينقسم إلى «الحساس» و«غير الحساس» وإلى «الناطق» و«غير الناطق». فمهما قيل : «الجسم» ينقسم إلى «الناطق» و «غير الناطق» فقد قسم بما ليس هو الفصل القاسم أوّليّاً، بل ينبغي أن يقسم أولاً إلى «النامي» و«غير النامي»، ثم «النامي» ينقسم إلى «الحيوان» و غير «الحيوان»، ثم «الحيوان» إلى «الناطق» و «غير الناطق». وكذلك الحيوان ينقسم إلى «ذى رِجلين» وإلى «ذى أرجل»، ولكن هذا التقسيم ليس بـ «فصول أولية»، بل ينبغي أن يقسم الحيوان إلى «ماش» و«غير ماش»، ثم الماشي ينقسم إلى «ذى رجلين» و «ذى أرجُل»، إذ «الحيوان» لم يستعد لـ «الرجلين» و «الأرجل» باعتبار كونه حيواناً بل باعتبار كونه «ماشياً»، واستعد لكونه ماشياً باعتبار كونه حيواناً.
+The fourth: The differentia constitutes the species and divides the genus. If the condition in division is not observed, there are differentiae that are not primary to the genus, and that is not satisfactory in definitions. For verily, just as 'body' divides into 'growing' and 'non-growing' by a differentia that is below the primary—essential—so too it divides into 'sentient' and 'non-sentient' and into 'rational' and 'non-rational'. So whenever it is said: 'body' divides into 'rational' and 'non-rational', it has divided by what is not the primary dividing differentia. Rather, it should first divide into 'growing' and 'non-growing', then 'growing' divides into 'animal' and 'non-animal', then 'animal' into 'rational' and 'non-rational'. Likewise, 'animal' divides into 'biped' and 'quadruped', but this division is not by primary differentiae. Rather, 'animal' should be divided into 'walking' and 'non-walking', then the 'walking' divides into 'biped' and 'quadruped', because 'animal' is not apt for 'biped' and 'quadruped' by virtue of being animal, but by virtue of being walking, and it is apt for being walking by virtue of being animal.
+Source pages p. 62
+
+Commentary
+This passage presents the fourth difficulty: the requirement that division of a genus must be by primary differentiae (fusul awwaliyya). Ibn Taymiyya explains that the differentia (fasl) both constitutes the species and divides the genus. If one does not observe the proper order of division, one may use a differentia that is not primary. For example, 'body' can be divided into 'growing' (nami) and 'non-growing', which is primary, but also into 'sentient' and 'non-sentient', or 'rational' and 'non-rational'. But the latter divisions are not primary because they skip intermediate genera. The correct order is to first divide 'body' into 'growing' and 'non-growing', then 'growing' into 'animal' and 'non-animal', then 'animal' into 'rational' and 'non-rational'. Similarly, 'animal' should not be directly divided into 'biped' and 'quadruped'; rather, first divide into 'walking' (mashi) and 'non-walking', then 'walking' into biped and quadruped. The reason is that the disposition for having two legs follows from being walking, not directly from being animal. This hierarchical division is necessary for a valid definition, but it is extremely complex and often ignored.
+
+Key Terms
+الفصل (al-faṣl): Differentia; the characteristic that distinguishes a species from its co-species within a genus.
+الجنس (al-jins): Genus; a universal predicated of many differing in species.
+النوع (al-naw'): Species; the specific kind constituted by genus and differentia.
+فصل أولي (faṣl awwalī): Primary differentia; a differentia that directly divides the immediate genus without skipping intermediate logical levels.
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does Ibn Taymiyya object to directly dividing 'body' into 'rational' and 'non-rational'?
+A: Because 'rational' is not a property of body.
+B: Because the division bypasses intermediate genera like 'growing' and 'animal'.
+C: Because 'rational' is not a differentia.
+D: Because body cannot be divided into two categories.
+
+Key Takeaway
+The requirement of primary differentiae for genus division is a stringent condition that, if neglected, leads to definitions that skip necessary intermediate logical levels.
+
+How This Lesson Applies — to MY Life?
+?
+Given the genus 'body', construct the correct hierarchical division leading to 'human being' (al-nas) using primary differentiae. Compare your division with the one Ibn Taymiyya would reject.
+?
+Find a definition in a traditional Islamic text (e.g., definition of 'ijma' or 'qiyas') and analyze whether the division of its genus into species uses primary differentiae. Explain any violations.
+
+Pages p. 62 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 137
+Module 14 · Lesson 2
+Next →
+Division and Classification
+intermediate
+8 min
+Ibn Taymiyya’s Classification of Senses and the Superiority of Sight vs Hearing
+Ibn Taymiyya classifies the senses and argues that sight is stronger but hearing is more comprehensive.
+
+Learning Objective
+By the end of this lesson, you will be able to compare Ibn Taymiyya's classification of the senses and explain his reconciliation of the debate between the superiority of sight and hearing.
+
+Core Idea
+Sight is more perfect in perception; hearing is more comprehensive in knowledge.
+
+In this passage, Ibn Taymiyya examines the five senses and their modes of perception, distinguishing those that require direct contact from those that do not. He then addresses a longstanding debate among scholars about whether sight or hearing is superior, citing a prophetic hadith and offering his own reconciliation. By understanding his analysis, you will grasp an important epistemological distinction that has implications for how knowledge is acquired in Islamic sciences.
+
+Guided Path
+1
+Identify the senses discussed
+List the five senses Ibn Taymiyya mentions: sight (basar), taste (dhawq), smell (shamm), touch (lams), and hearing (sam'). Note that he groups taste, smell, and touch together as requiring direct contact.
+2
+Distinguish direct contact vs. non-contact
+Sight perceives without direct contact with the object. Taste, smell, and touch require direct contact (mubashara). Hearing is different: it senses sounds but its primary purpose is to receive speech and reports.
+3
+Analyze the epistemic functions
+Hearing's greatest purpose is knowledge of speech and reports from informants. This gives hearing a special role in transmitting knowledge, which is why some scholars, like Ibn Qutayba, prefer it.
+4
+Examine the disagreement and hadith
+The majority prefer sight, citing the hadith 'The one who is informed is not like the one who witnesses.' Ibn Taymiyya does not reject this but reconciles by saying sight is stronger and more perfect (aqwa wa akmal), while hearing is more general and comprehensive (a'amm wa ashmal).
+5
+Apply the distinction
+Consider how this applies to Islamic sciences: in jurisprudence, eyewitness testimony is considered stronger than hearsay; in learning, both hearing from a teacher and reading (sight) are valuable. Reflect on which sense you prioritize in your own learning and why.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الثالث - الفرق بين أنواع «الحسيات» في الحسيات وأنواعها مع أن الفرق الذي بين أنواع الحسيات تختلف فيه العلوم أعظم مما (۱) تختلف هذا. فإن «البصر» يَرَى من غير مباشرة المرئي . و «الذوق» و «الشم» و «اللمس» لا يحصل لـه الإحساس إلا بمباشرة المحسوس . و «السمع» - وإن كان يحس الأصوات - فالمقصود الأعظم به معرفة الكلام وما يخبر به المخبرون من العلم . وهذا سبب تفضيل طائفة من الناس لـ «السمع » على «البصر) ، كما ذهب إليه ابن قتيبة. وغيره. وقال الأكثرون : «البصر» أفضل من «السمع». والتحقيق أن إدراك البصر أكمل كما قاله الأكثرون كما قال النبي صلى الله عليه وسلم: «ليس المُخْبَر كالمُعَايِنِ» (۲). لكن السمع يحصل به من العلم لنا أكثر مما يحصل بـ «البصر». فَـ «البصر» أقوى وأكمل ، و السمع أعم وأشمل (۳) . وهاتان الحاستان هما الأصل في العلم بالمعلومات التي يمتاز بها الإنسان عن البهائم .
+The third station: The distinction between the types of 'sensory things' regarding sensory things and their types, although the difference between the types of sensory things differs in sciences more than this differs. For 'sight' sees without direct contact with the visible. 'Taste,' 'smell,' and 'touch' do not achieve sensation except by direct contact with the sensed. 'Hearing' — although it senses sounds — the greatest purpose of it is knowledge of speech and what the informants report of knowledge. This is the reason for a group of people preferring 'hearing' over 'sight,' as was held by Ibn Qutayba and others. And the majority said: 'Sight is better than hearing.' The verification is that the perception of sight is more perfect, as the majority said, just as the Prophet, peace and blessings be upon him, said: 'The one who is informed is not like the one who witnesses.' But hearing brings us more knowledge than sight does. So 'sight' is stronger and more perfect, and 'hearing' is more general and more comprehensive. These two senses are the origin in knowledge of the information by which man is distinguished from animals.
+Source pages p. 137
+
+Commentary
+This passage, titled 'The third station: The distinction between the types of sensory things,' is a comparative epistemological analysis of the senses. Ibn Taymiyya first notes that the differences among sensory types affect various sciences more than the previous distinction (likely between tajriba by action vs. non-action). He then characterizes each sense: basar (sight) perceives without direct contact, while dhawq (taste), shamm (smell), and lams (touch) require direct contact. Hearing (sam') senses sounds, but its primary purpose is to receive speech and reports, which convey knowledge. This leads to a debate: some, like Ibn Qutayba, prefer hearing over sight due to its role in transmitting knowledge. The majority, however, prefer sight, citing the hadith 'The one who is informed is not like the one who witnesses.' Ibn Taymiyya reconciles by saying sight is more perfect in perception (akmal), but hearing provides more knowledge (a'amm wa ashmal). Thus, sight is stronger (aqwa) and more perfect (akmal), while hearing is more general (a'amm) and more comprehensive (ashmal). He concludes that these two senses are the origin of the knowledge that distinguishes humans from animals.
+
+Key Terms
+الحسيات
+البصر
+السمع
+الذوق
+الشم
+اللمس
+
+Key Terms from Source Passage
+
+Checkpoint
+Based on Ibn Taymiyya's analysis, which of the following statements is correct?
+A) Sight is more general and comprehensive than hearing.
+B) Hearing is stronger and more perfect than sight.
+C) Sight is stronger and more perfect, while hearing is more general and comprehensive.
+D) Both senses are equal in all respects.
+
+Key Takeaway
+Ibn Taymiyya reconciles the debate between sight and hearing by affirming the perceptual superiority of sight while acknowledging the broader epistemic scope of hearing.
+
+How This Lesson Applies — to MY Life?
+?
+Using Ibn Taymiyya's classification, categorize the following: which senses require direct contact? Then, explain why hearing is considered more comprehensive but sight more perfect, citing evidence from the passage.
+?
+In a hypothetical case, you are a qadi evaluating two testimonies: one person claims to have seen the event, another claims to have heard a reliable report. Which testimony would you consider stronger based on Ibn Taymiyya's analysis? Justify your answer.
+
+Pages p. 137 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 137
+Module 14 · Lesson 3
+Next →
+Division and Classification
+intermediate
+7 min
+Ibn Taymiyya on Experiential Knowledge (Tajriba) as Sensory Knowledge
+Ibn Taymiyya distinguishes experiential knowledge (tajriba) as a category of sensory knowledge and explains its cause.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the cause of experiential knowledge and explain why Ibn Taymiyya considers it a subset of sensory knowledge rather than a separate type.
+
+Core Idea
+Experiential knowledge is sensory knowledge based on repeated conjunction, not personal action.
+
+Ibn Taymiyya expands the category of sensory knowledge (hissiyyat) to include experiential knowledge (tajriba). He argues that the cause of such knowledge is repeated observation of conjunction between events, whether one performs the action or not. This has direct implications for how we classify knowledge in Islamic epistemology and usul al-fiqh.
+
+Guided Path
+1
+Identify the key terms
+Locate 'al-mujarrabāt' and 'al-ḥissiyyāt' in the Arabic passage. Note their definitions: mujarrabāt are experiential matters based on repeated conjunction; hissiyyāt are sensory perceptions of the five senses.
+2
+Extract the cause of experiential knowledge
+The text states the cause is 'takarur iqtiran ahad al-amrayn bil-akhar' (repeated conjunction of one thing with another), either absolutely or with awareness of a suitable connection. This is the epistemological basis.
+3
+Analyze the scope of the cause
+Ibn Taymiyya emphasizes that this cause applies whether the repeated conjunction results from one's own action or the action of another. Personal agency is irrelevant to the knowledge produced.
+This refutes the idea that tajriba requires personal experimentation.
+4
+Understand the classification implication
+Because the cause is identical, there is no need to treat tajriba as a fundamentally different type of knowledge. It is a subset of sensory knowledge, unified by the same causal mechanism.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الثالث - الفرق بين أنواع «الحسيات» وكذلك ما عُلم من سُنَّة الله تعالى من نصر أنبيائه وعباده المؤمنين، وعقوباته لأعدائه الكافرين، هو مما قد عُلم ويحصل به الاعتبار، وإن لم يكن ذلك مما يقدر عليه فعل غيره المجرّب نفسه. وقد يعلم الإنسان من فعل غيره ما يحصل له به العلم التجربي»، وإن لم يكن له قدرة على فعل الغير . وأيضاً فالسبب المقتضي للعلم بـ «المجرّبات» هو تكرر اقتران أحد الأمرين بالآخر، إما مطلقاً وإما مع الشعور بـ «المناسب». وهذا القدر يشترك فيه ما تكرر بفعله وما تكرّر بغير فعله . فكونه بفعله وصفٌ عديم التأثير في اقتضاء العلم، فلا يحتاج أن يجعل هذا نوعاً غير النوع الآخر مع تساويهما في السبب المقتضي للعلم، إلا لبيان شمول «المجرَّبات لهذين الصنفين كما يقال في «الحسيات» إنها تتناول ما أحَسَّه وسمعه، وشَمِّه ، وذوقه، ولمسه، ونحو ذلك .
+The Third Station – The Distinction Between the Types of 'Sensory Perceptions'. Likewise, what is known from the Sunnah of Allah Almighty – from the victory of His prophets and believing servants, and His punishments of His disbelieving enemies – is something that is known [by experience], and reflection upon it occurs, even if that is not something that the person himself has the power to do [by his own action]. And a person may know from the action of another what brings him experiential knowledge, even if he does not have the power to perform that action himself. Also, the cause necessitating knowledge of 'experiential matters' is the repeated conjunction of one of two things with the other, either absolutely or with awareness of 'the suitable [connection]'. This [cause] is shared by what is repeated by one's own action and what is repeated by the action of another. So its being by one's own action is a description that has no effect in necessitating knowledge; thus there is no need to make this a separate type from the other type, given their equality in the cause necessitating knowledge, except to clarify that 'experiential matters' encompass these two varieties, just as it is said regarding 'sensory perceptions' that they include what one sees, hears, smells, tastes, touches, and the like.
+Source pages p. 137
+
+Commentary
+This passage is an expansion on the concept of sensory knowledge (hissiyyat) and how experiential knowledge (tajriba) fits within it. Ibn Taymiyya begins by pointing out that what is known from Allah's sunnah—such as His aiding His prophets and punishing His enemies—is known through reflection and experience, even if one has not personally performed those acts. He then explains that the cause of knowledge in experiential matters is the repeated conjunction of two things, either absolutely or with awareness of an appropriate connection. This cause applies regardless of whether the person himself performed the repeated act or witnessed it in someone else. Hence, the fact that it is one's own action is irrelevant to the epistemological value. Therefore, there is no need to make experiential knowledge a separate type from other sensory knowledge, except to highlight that 'experiential matters' include both varieties. This is analogous to how sensory perceptions are said to include sight, hearing, smell, taste, and touch. The key point is that the underlying cause of knowledge is the same, so the classification should reflect that unity.
+
+Key Terms
+المجربات
+الحسيات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, what is the cause of knowledge in experiential matters?
+A) Personal action
+B) Repeated conjunction
+C) Direct sensation
+D) Divine inspiration
+
+Key Takeaway
+Experiential knowledge is a subset of sensory knowledge, grounded in repeated conjunction, and personal action is irrelevant to its epistemological status.
+
+How This Lesson Applies — to MY Life?
+?
+Identify a ruling in Islamic fiqh that depends on experiential knowledge (e.g., the effectiveness of a medical treatment as a basis for permissibility). Explain the repeated conjunction that grounds it.
+?
+Using Ibn Taymiyya's argument, evaluate whether knowledge of the Prophet's miracles (e.g., the splitting of the moon) obtained through tawatur qualifies as tajriba. Does the repeated conjunction condition hold?
+
+Pages p. 137 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 137
+Module 14 · Lesson 4
+Next →
+Division and Classification
+intermediate
+6 min
+Classification of the Senses and the Superiority of Sight Over Hearing
+Ibn Taymiyya classifies the senses and argues that sight is superior to hearing in quality.
+
+Learning Objective
+By the end of this lesson, you will be able to classify the five senses according to Ibn Taymiyya's criteria and explain why sight is considered more perfect while hearing is more comprehensive.
+
+Core Idea
+Sight is more perfect, hearing more comprehensive—both are essential for knowledge.
+
+Ibn Taymiyya delves into the nature of sensory perception, moving beyond mere biology to classify senses by their mode of contact and purpose. He engages with the classical debate on whether sight or hearing is superior, ultimately affirming the majority view while acknowledging the unique strength of hearing in acquiring transmitted knowledge. This lesson unpacks his classification and his nuanced verdict.
+
+Guided Path
+1
+Identify the classification criteria
+Note how Ibn Taymiyya distinguishes senses based on direct contact with the object and the primary purpose of the sense. Sight perceives without direct contact; taste, smell, and touch require direct contact; hearing, though perceiving sounds indirectly, has its greatest purpose in apprehending speech and reports.
+2
+Extract the debate on superiority
+Find the two positions: some (like Ibn Qutayba) prefer hearing because it conveys speech and knowledge; the majority prefer sight. Ibn Taymiyya cites the hadith 'The one who is informed is not like the one who witnesses' to support the majority view.
+The hadith is key evidence for sight's superiority in quality of perception.
+3
+Analyze Ibn Taymiyya's verdict
+He says sight is stronger and more perfect (akmal), while hearing is more general and comprehensive (a'amm wa ashmal). He also notes that hearing provides more knowledge overall due to transmitted reports. So the final view is a balance: sight for perfection, hearing for extent.
+4
+Connect to Quranic evidence
+Observe how he cites Quranic verses pairing 'hearing', 'sight', and 'heart' to show that these senses, when guided by the heart, lead to true knowledge. The verses about disbelievers and hypocrites illustrate that senses without heart understanding are useless.
+This reinforces the epistemological and spiritual dimension of the senses.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحسيات وأنواعها مع أن الفرق الذي بين أنواع الحسيات تختلف فيه العلوم أعظم مما تختلف هذا. فإن «البصر» يَرَى من غير مباشرة المرئي . و «الذوق» و «الشم» و «اللمس» لا يحصل له الإحساس إلا بمباشرة المحسوس . و «السمع» - وإن كان يحس الأصوات - فالمقصود الأعظم به معرفة الكلام وما يخبر به المخبرون من العلم . وهذا سبب تفضيل طائفة من الناس لـ «السمع » على «البصر) ، كما ذهب إليه ابن قتيبة. وغيره. وقال الأكثرون : «البصر» أفضل من «السمع». والتحقيق أن إدراك البصر أكمل كما قاله الأكثرون كما قال النبي صلى الله عليه وسلم: «ليس المُخْبَر كالمُعَايِنِ». لكن السمع يحصل به من العلم لنا أكثر مما يحصل بـ «البصر». فَـ «البصر» أقوى وأكمل ، و السمع أعم وأشمل . وهاتان الحاستان هما الأصل في العلم بالمعلومات التي يمتاز بها الإنسان عن البهائم . ولهذا يقرن الله بينهما وبين الفؤاد» في مواضع كقوله تعالى: ﴿إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُوْلَيْكَ كَانَ عَنْهُ مَسْئُولًا ﴾ [سورة الإسراء : ٣٦] وقوله تعالى: ﴿ وَاللَّهُ أَخْرَجَكُم مِّنْ بُطُونِ أُمَّهَتِكُمْ لَا تَعْلَمُونَ شَيْئًا وَجَعَلَ لَكُمُ السَّمْعَ وَالْأَبْصَرَ وَالْأَفْئِدَةُ لَعَلَّكُمْ تَشْكُرُونَ ﴾ [سورة النحل : ٧٨] . وقال: ﴿ وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِنَ الْجِنِّ وَالْإِنسِ هُمْ قُلُوبٌ لَا يَفْقَهُونَ بِهَا وَهُمْ أَعْيُنٌ لا يُبْصِرُونَ بِهَا وَهُمْ مَاذَانٌ لَا يَسْمَعُونَ بِهَا أَوَلَيْكَ كَالْأَنْعَامِ بَلْ هُمْ أَضَلُّ أُولَيكَ هُمُ الْغَفِلُونَ ) [سورة الأعراف : ١٧٩] . وقال: (وَجَعَلْنَا لَهُمْ سَمَعًا وَأَبْصَرًا وَأَفْئِدَةً فَمَا أَغْنَى عَنْهُمْ سَمْعُهُمْ وَلَا أَبْصَرُهُمْ وَلَا أَفْئِدَتُهُم مِّن شَيْءٍ إِذْ كَانُوا يَجْحَدُونَ ثَايَتِ اللَّهِ وَحَاقَ بهم / مَّا كَانُوا بِهِ يَسْتَهْزِهُونَ ) [سورة الأحقاف : ٢٦] . وقال تعالى : وخَتَمَ اللَّهُ عَلَى قُلُوبِهِمْ وَعَلَى سَمْعِهِمْ وَعَلَى أَبْصَرِهِمْ غِشَوَةٌ ) [سورة البقرة: ٧] . وقال تعالى : هُم بُكْمٌ عُمّى فَهُمْ لَا يَرْجِعُونَ )) [سورة البقرة: ١٨]، في حق المنافقين. وقال في حق الكافرين : ﴿ فَهُمْ لَا يَعْقِلُونَ (١) [البقرة : ١٧١ ] . وقال تعالى : ( وَقَالُوا قُلُوبُنَا فِي أَكِنَةٍ مِّمَّا تَدْعُونَا إِلَيْهِ وَفِي عَاذَانِنَا وَقَرٌ وَمِنْ بَيْنِنَا وينيك حجاب [سورة فصلت : ٥]، وقال تعالى: ﴿ وَإِذَا قَرَأْتَ الْقُرْءَانَ جَعَلْنَا بَيْنَكَ وَبَيْنَ الَّذِينَ لَا يُؤْمِنُونَ بِالْآخِرَةِ حِجَابًا مَّسْتُورًا (١) وَجَعَلْنَا عَلَى قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِي مَانَا بِهِمْ وَقُرًا وَإِذَا ذَكَرْتَ رَبَّكَ فِي الْقُرْمَانِ وَحْدَهُ وَلَّوْا عَلَى أَدْبَرِهِمْ نُفُورًا ﴾ [سورة الإسراء : ٤٥ - ٤٦]. ونظائر هذا متعددة . عود إلى أصل الموضوع : وأما «الشم» و «الذوق» و «اللمس فحس محض لا يحصل إلا بمباشرة الحيوان
+Sensory perceptions and their types, even though the difference between the types of sensory perceptions varies in terms of knowledge more than this [difference]. For 'sight' sees without direct contact with the visible object. And 'taste', 'smell', and 'touch' do not obtain sensation except through direct contact with the sensed object. And 'hearing' – although it perceives sounds – its greatest purpose is the knowledge of speech and what the informants report of knowledge. This is the reason why a group of people prefer 'hearing' over 'sight', as Ibn Qutayba and others held. But the majority say: 'Sight' is better than 'hearing'. The verification is that the perception of sight is more perfect, as the majority say, just as the Prophet, peace be upon him, said: 'The one who is informed is not like the one who witnesses.' However, hearing provides us with more knowledge than sight does. So 'sight' is stronger and more perfect, and 'hearing' is more general and more comprehensive. These two senses are the foundation for the knowledge of information by which humans are distinguished from animals. For this reason, Allah pairs them with the 'heart' in various places, such as His statement: 'Indeed, hearing, sight, and the heart – all of those will be asked about' [17:36], and His statement: 'And Allah brought you out from the wombs of your mothers knowing nothing, and He made for you hearing and sight and hearts that you might be grateful' [16:78]. And He said: 'And We have created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless' [7:179]. And He said: 'And We made for them hearing and sight and hearts. But their hearing and sight and hearts availed them not at all when they used to deny the signs of Allah and they were encircled by that which they used to ridicule' [46:26]. And He said: 'Allah has set a seal upon their hearts and upon their hearing, and over their sight is a covering' [2:7]. And He said: 'They are deaf, dumb, blind, so they will not return' [2:18] regarding the hypocrites. And He said regarding the disbelievers: 'So they do not understand' [2:171]. And He said: 'And they say: Our hearts are in coverings from what you invite us to, and in our ears is deafness, and between us and you is a barrier' [41:5]. And He said: 'And when you recite the Quran, We place between you and those who do not believe in the Hereafter a concealed barrier. And We place over their hearts coverings that they do not understand it, and in their ears is deafness. And when you mention your Lord alone in the Quran, they turn back in aversion' [17:45-46]. And there are many similar instances. Returning to the original topic: As for 'smell', 'taste', and 'touch', they are pure sense that do not occur except through direct contact of the animal [with the sensed object].
+Source pages p. 137
+
+Commentary
+This passage classifies the senses and discusses the relative merits of sight and hearing. Ibn Taymiyya begins by noting that the differences among sensory types are greater than one might think. He distinguishes between sight, which does not require direct contact with the object, and taste, smell, and touch, which require direct contact. Hearing, although it perceives sounds, has its greatest purpose in understanding speech and reports of knowledge. This leads to the classical debate about which sense is superior: some, like Ibn Qutayba, prefer hearing because it conveys speech and knowledge; the majority prefer sight because it is more perfect in perception. Ibn Taymiyya sides with the majority, citing the prophetic hadith that the one who witnesses is not like the one who is informed, indicating the superiority of sight. However, he adds that hearing provides more knowledge overall because of its role in transmitting speech and reports. Thus, sight is stronger and more perfect, while hearing is more general and comprehensive. He then emphasizes that these two senses are the foundation of human knowledge that distinguishes humans from animals. To support this, he quotes numerous Quranic verses that pair hearing and sight with the heart, showing that their true function is to lead to understanding and faith. The verses about the disbelievers and hypocrites who have ears but do not hear, eyes but do not see, illustrate that the mere possession of senses does not guarantee knowledge; it is the heart's comprehension that matters. Finally, he returns to the topic to mention the other three senses—smell, taste, and touch—which are pure physical senses requiring direct contact, and which are not as instrumental in acquiring higher knowledge as sight and hearing.
+
+Key Terms
+البصر (al-baṣar): Sight: the sense that perceives without direct contact and is considered stronger and more perfect by the majority. [Note: Stable.]
+السمع (al-sam‘): Hearing: the sense that perceives sounds, and its greatest purpose is knowledge of speech and reports from others; it is more general and comprehensive than sight. [Note: Stable.]
+اللمس (al-lams): Touch: one of the three senses requiring direct contact with the object, classified as pure sense. [Note: Stable.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, which sense is considered stronger and more perfect, and why?
+A) Hearing, because it conveys speech
+B) Sight, because it does not require direct contact
+C) Taste, because it is immediate
+D) Touch, because it is fundamental
+
+Key Takeaway
+Ibn Taymiyya classifies the senses by directness and purpose, concluding that sight is more perfect in quality while hearing is more comprehensive in scope, and both are essential when guided by the heart.
+
+How This Lesson Applies — to MY Life?
+?
+Using Ibn Taymiyya's classification, analyze the following: In a court of law (qada'), a witness testifies about a contract he heard being made, while another witness testifies about a contract he saw. Which testimony would Ibn Taymiyya consider more perfect in quality and why?
+?
+Identify two Quranic verses that pair hearing and sight with the heart, and explain how Ibn Taymiyya uses them to argue that sensory perception must be combined with understanding to be beneficial.
+
+Pages p. 137 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 168
+Module 14 · Lesson 5
+Next →
+Division and Classification
+advanced
+10 min
+Critique of the Logicians' Divine Science
+Critique of logicians' divine science and introduction of division types.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct Ibn Taymiyya's objection to the logicians' definition of divine science and explain why he considers it knowledge of neither the Creator nor creation.
+
+Core Idea
+The logicians' divine science is an empty abstraction, not knowledge of Allah or His creation.
+
+Ibn Taymiyya attacks the core of the logicians' metaphysical project: their claim that divine science (al-‘ilm al-ilāhī) is the highest form of knowledge. He argues that its subject—absolute universal existence—is a mental construct that fails to deliver any real knowledge of the Creator or the created world. This lesson unpacks his critique and the logical confusion he exposes.
+
+Guided Path
+1
+Identify the logicians' claim about divine science
+Find in the Arabic where Ibn Taymiyya describes what the logicians call divine science: the science of absolute universal existence, divided into necessary/possible, eternal/originated, substance/accident.
+This is the target of the critique.
+2
+Extract Ibn Taymiyya's rejection
+Read his opening statement: 'Their divine science is not knowledge of the Creator nor of creation.' This is the central claim.
+3
+Analyze the Shiite objection
+A later Shiite author questions the subject matter: if it is every existent, the science cannot study all accidents; if it is a part (like the necessary), then it is only a subdivision. This objection is used by Ibn Taymiyya to highlight the incoherence.
+Ibn Taymiyya responds by distinguishing two types of division, covered in the next lesson.
+4
+Assess the epistemological force
+Ibn Taymiyya's point is that the logicians' divine science studies an abstraction (absolute existence), whereas true knowledge of Allah comes from revelation and reflection on specific created things, not from universal categories.
+This connects to his broader critique of Greek logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه الثالث: ليس «العلم الإلهي» عندهم علماً بالخالق ولا بالمخلوق. الثالث أن يقال: العلم الأعلى عندهم، الذي هو الفلسفة الأولى والحكمة العليا، علم ما بعد الطبيعة باعتبار الاستدلال ـ وما هو «قبلها باعتبار «الوجود» ـ وهو الذي تسميه طائفة منهم «العلم الإلهي» ـ وموضوع هذا العلم هو الوجود المطلق الكلي المنقسم إلى «واجب» و «ممكن»؛ و «قديم» و «محدث»؛ و «جوهر» و «عرض». وقد أورد بعض المتأخرين من الشيعة المصنفين في علمهم ما ذكر أنه «الأسرار الخفية في العلوم العقلية» عليهم سؤالاً. قال: إن كان موضوعه «كل موجود» فلا يبحث فيه عن عوارض كل موجود، وإن كان أخص من ذلك كـ «الواجب» و «الممكن» فذلك جزء منه. فيقال له: القسمة نوعان: تقسيم الكلي إلى جزئياته، وتقسيم الكل إلى أجزائه. والقسمة الثانية هي المعروفة في الأمر العام كما يقول العلماء «باب القسمة» ويذكرون قسمة المواريث والمغانم والأرض، وغير ذلك. قال تعالى: {ونبئهم أن الماء قسمة بينهم كل شرب يحضر} [سورة القمر: 28]. ومنه قوله تعالى: {لما سبعة أبواب لكل باب منهم جزء مقسوم} [سورة الحجر: 44]. وأما تقسيم الكلي إلى جزئياته فمثل قولنا: الحيوان ينقسم إلى ناطق وأعجم، وهو قسمة الجنس إلى أنواعه، والنوع إلى أشخاصه. ولهذا كان النحاة إذا أرادوا أن يقسموا ما يقسمونه إلى اسم وفعل وحرف يختلف كلامهم. فكثير منهم يقول: الكلام ينقسم إلى اسم وفعل وحرف، وهذا قسمة الكلام إلى أجزائه، وهو الذي يذكره قدماء النحاة. فاعترض عليهم بعض من صنف في قوانين النحو كالجزولي وقالوا: كل جنس قسم إلى أنواعه أو أنواع أشخاصه فاسم المقسوم الأعلى صادق على الأنواع والأشخاص وإلا فليست بأقسام له، فصاروا يقولون: الكلمة تنقسم إلى اسم وفعل وحرف؛ ويقولون: الكلمة جنس تحته أنواع: الاسم والفعل والحرف. وهذا الاعتراض خطأ ممن أورده لأن أولئك لم يقصدوا تقسيم الكلي إلى جزئياته؛ وإنما قصدوا تقسيم الكل إلى أجزائه، وهو التقسيم المعروف أولاً في العقول واللغات. كما إذا قلت هذه الأرض مقسومة، فلفلان هذا الجانب، ولفلان هذا الجانب، كما قال تعالى: {ونبئهم أن الماء قسمة بينهم} [سورة القمر: 28]. و الكلام مركب من الأسماء والأفعال والحروف كما يتركب البيت من السقف والحيطان والأرض؛ وكما أن بدن الإنسان مركب من أعضائه المتميزة وأخلاطه الممتزجة؛ فتقسيمه إلى الأعضاء والأخلاط تقسيم كل إلى أجزائه. ومثل هذا يمتنع أن يصدق فيه اسم المقسوم على الأجزاء. فليس كل واحد من أعضائه بدناً، ولا كل من أخلاطه بدناً، ولا كل من أجزاء السقف بيتاً. وكذلك الوجه إذا قيل: ينقسم إلى جبين وأنف وعين وخد وغير ذلك، لم يكن كل من
+The third aspect: Their 'divine science' is not knowledge of the Creator nor of creation. The third [point] is to say: The highest science according to them, which is first philosophy and the ultimate wisdom, is the science of metaphysics by way of inference — and it is 'prior to it' by way of 'existence' — and it is what a group of them call 'divine science'. The subject of this science is absolute universal existence, divided into 'necessary' and 'possible'; 'eternal' and 'originated'; 'substance' and 'accident'. And one of the later Shiite authors, in their science that he mentioned as 'the hidden secrets in the intellectual sciences', raised a question against them. He said: If its subject is 'every existent', then it does not investigate the accidents of every existent; and if it is more specific than that, like 'the necessary' and 'the possible', then that is a part of it. So it is said to him: Division is of two types: division of the universal into its particulars, and division of the whole into its parts. The second division is the one known in common affairs, as the scholars say 'the chapter of division', and they mention division of inheritances, spoils, land, and other things. Allah Almighty said: {And inform them that the water is divided between them; each drink is attended} [Surah al-Qamar: 28]. And from it is His statement: {It has seven gates; for each gate is a portion assigned} [Surah al-Hijr: 44]. As for division of the universal into its particulars, it is like our saying: 'Animal is divided into rational and non-rational,' and it is the division of genus into its species, and species into its individuals. That is why the grammarians, when they wanted to divide what they divide into noun, verb, and particle, their statements differed. Many of them say: 'Speech is divided into noun, verb, and particle,' and this is division of speech into its parts, and this is what the early grammarians mention. Then some of those who composed works on the rules of grammar, like al-Juzuli, objected to them and said: Every genus divided into its species or into the individuals of its species, the name of the higher divided term is true of the species and individuals; otherwise they are not divisions of it. So they began to say: 'The word is divided into noun, verb, and particle,' and they say: 'The word is a genus under which are the species: noun, verb, and particle.' This objection is an error from whoever made it, because those [early grammarians] did not intend division of the universal into its particulars; rather they intended division of the whole into its parts, which is the division known first in minds and languages. As when you say: 'This land is divided, for so-and-so is this side, and for so-and-so is that side,' as Allah Almighty said: {And inform them that the water is divided between them} [Surah al-Qamar: 28]. And speech is composed of nouns, verbs, and particles, just as a house is composed of roof, walls, and ground; and just as the human body is composed of its distinct limbs and mixed humors; so its division into limbs and humors is a division of a whole into its parts. And like this, it is impossible for the name of the divided [whole] to be true of the parts. So not every one of its limbs is a 'body', nor every one of its humors is a 'body', nor every one of the parts of the roof is a 'house'. Similarly, the face, if it is said: 'It is divided into forehead, nose, eye, cheek, and other things,' not every one of them is...
+Source pages p. 168
+
+Commentary
+This passage is a critique by Ibn Taymiyya of the logicians' conception of 'divine science' (al-'ilm al-ilahi). He states that their so-called highest science, which they identify with first philosophy or metaphysics, is neither knowledge of the Creator nor of creation. He describes their definition: the subject matter is absolute universal existence, which they divide into necessary/possible, eternal/originated, substance/accident. Then he raises an objection from a later Shiite author who questions that if the subject is every existent, the science cannot study all accidents, and if it is only a part like the necessary, then that part is merely a subdivision. Ibn Taymiyya responds by clarifying that division is of two types: division of the universal into its particulars (taqsim al-kulli ila juz'iyyatihi) and division of the whole into its parts (taqsim al-kull ila ajza'ihi). The objection confuses these two types. He then elaborates on the second type, which is the division of a whole into its parts, giving examples from Islamic law (inheritance, spoils, land) and Quranic verses. The first type, division of the universal (like genus into species), is exemplified by 'animal divided into rational and non-rational'. Then he applies this to a grammatical dispute: early grammarians divided speech (kalam) into noun, verb, particle as a whole into parts, not as a universal into particulars. Later grammarians like al-Juzuli objected that the divided term must apply to each part, but that is only required for division of a universal. The early grammarians were correct because they were dividing a composite whole. The analogy of a house or human body illustrates that the name of the whole does not apply to each part. Thus, the objection against the logicians is refuted by this clarification of division.
+
+Key Terms
+العلم الإلهي
+الوجود المطلق الكلي
+واجب
+ممكن
+
+Key Terms from Source Passage
+
+Checkpoint
+What is Ibn Taymiyya's main objection to the logicians' divine science?
+A) It is too focused on the Creator
+B) It is neither knowledge of the Creator nor of creation
+C) It only studies possible existence
+D) It is identical to the science of kalam
+
+Key Takeaway
+The logicians' claim that metaphysics is knowledge of the divine is false because its subject—absolute existence—is an abstraction that cannot capture the concrete realities of Allah and His creation.
+
+How This Lesson Applies — to MY Life?
+?
+Compare the subject of divine science as defined by Ibn Sina in his Shifa' (metaphysics as ontology) with Ibn Taymiyya's critique. Identify one key difference.
+?
+In a Kalam text (e.g., al-Ghazali's Tahafut or al-Razi's al-Arba'in), find the subject of theology. Does it align with absolute existence or with specific knowledge of Allah? Write a brief comparison.
+
+Pages p. 168 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 168
+Module 14 · Lesson 6
+Next →
+Division and Classification
+intermediate
+12 min
+Two Types of Division: Universal vs. Whole
+Clarification of two types of division to refute an objection and a grammatical dispute.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between division of a universal into its particulars (taqsim al-kulli) and division of a whole into its parts (taqsim al-kull), and apply this distinction to resolve disputes in grammar and jurisprudence.
+
+Core Idea
+Not all divisions require the divided term to apply to the parts; only universal division does, not whole-part division.
+
+Ibn Taymiyya clarifies a fundamental logical distinction that resolves an objection against the logicians and a grammatical dispute. He explains that division can be of two kinds: dividing a universal (like genus into species) where the universal name applies to each part, and dividing a whole (like a body into limbs) where the whole name does not apply to each part. This lesson will help you master this distinction and see its power in Islamic sciences.
+
+Guided Path
+1
+Define taqsim al-kulli
+Division of a universal into its particulars: the universal term applies to each particular. Example: 'Animal is divided into rational and non-rational' — each is an animal.
+This is also called division of genus into species.
+2
+Define taqsim al-kull
+Division of a whole into its parts: the name of the whole does not apply to the parts. Example: 'The house is divided into roof, walls, and ground' — no single part is a house.
+This type is common in everyday language and Islamic law (e.g., division of inheritance).
+3
+Apply to the grammatical dispute
+Early grammarians divided 'speech' (kalam) into noun, verb, particle as a whole into parts. Later grammarians like al-Juzuli objected that the divided term must apply to each part, confusing this with universal division. Ibn Taymiyya shows their error.
+The early grammarians were correct because 'speech' is a composite whole, not a universal.
+4
+Test with Quranic examples
+Ibn Taymiyya cites Quran 54:28 about water division (whole into parts) and 15:44 about gates (whole into parts). These illustrate taqsim al-kull.
+These examples confirm the naturalness of whole-part division in Arabic.
+5
+Reflect on implications for the initial objection
+The Shiite objection assumed the logicians' subject must be a universal divided into particulars. Ibn Taymiyya uses the two-type distinction to show that the subject could be a whole (e.g., 'every existent' as a whole) and still allow investigation of parts.
+This does not fully vindicate the logicians but shows the objection is based on a misunderstanding of division types.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه الثالث: ليس «العلم الإلهي» عندهم علماً بالخالق ولا بالمخلوق. الثالث أن يقال: العلم الأعلى عندهم، الذي هو الفلسفة الأولى والحكمة العليا، علم ما بعد الطبيعة باعتبار الاستدلال ـ وما هو «قبلها باعتبار «الوجود» ـ وهو الذي تسميه طائفة منهم «العلم الإلهي» ـ وموضوع هذا العلم هو الوجود المطلق الكلي المنقسم إلى «واجب» و «ممكن»؛ و «قديم» و «محدث»؛ و «جوهر» و «عرض». وقد أورد بعض المتأخرين من الشيعة المصنفين في علمهم ما ذكر أنه «الأسرار الخفية في العلوم العقلية» عليهم سؤالاً. قال: إن كان موضوعه «كل موجود» فلا يبحث فيه عن عوارض كل موجود، وإن كان أخص من ذلك كـ «الواجب» و «الممكن» فذلك جزء منه. فيقال له: القسمة نوعان: تقسيم الكلي إلى جزئياته، وتقسيم الكل إلى أجزائه. والقسمة الثانية هي المعروفة في الأمر العام كما يقول العلماء «باب القسمة» ويذكرون قسمة المواريث والمغانم والأرض، وغير ذلك. قال تعالى: {ونبئهم أن الماء قسمة بينهم كل شرب يحضر} [سورة القمر: 28]. ومنه قوله تعالى: {لما سبعة أبواب لكل باب منهم جزء مقسوم} [سورة الحجر: 44]. وأما تقسيم الكلي إلى جزئياته فمثل قولنا: الحيوان ينقسم إلى ناطق وأعجم، وهو قسمة الجنس إلى أنواعه، والنوع إلى أشخاصه. ولهذا كان النحاة إذا أرادوا أن يقسموا ما يقسمونه إلى اسم وفعل وحرف يختلف كلامهم. فكثير منهم يقول: الكلام ينقسم إلى اسم وفعل وحرف، وهذا قسمة الكلام إلى أجزائه، وهو الذي يذكره قدماء النحاة. فاعترض عليهم بعض من صنف في قوانين النحو كالجزولي وقالوا: كل جنس قسم إلى أنواعه أو أنواع أشخاصه فاسم المقسوم الأعلى صادق على الأنواع والأشخاص وإلا فليست بأقسام له، فصاروا يقولون: الكلمة تنقسم إلى اسم وفعل وحرف؛ ويقولون: الكلمة جنس تحته أنواع: الاسم والفعل والحرف. وهذا الاعتراض خطأ ممن أورده لأن أولئك لم يقصدوا تقسيم الكلي إلى جزئياته؛ وإنما قصدوا تقسيم الكل إلى أجزائه، وهو التقسيم المعروف أولاً في العقول واللغات. كما إذا قلت هذه الأرض مقسومة، فلفلان هذا الجانب، ولفلان هذا الجانب، كما قال تعالى: {ونبئهم أن الماء قسمة بينهم} [سورة القمر: 28]. و الكلام مركب من الأسماء والأفعال والحروف كما يتركب البيت من السقف والحيطان والأرض؛ وكما أن بدن الإنسان مركب من أعضائه المتميزة وأخلاطه الممتزجة؛ فتقسيمه إلى الأعضاء والأخلاط تقسيم كل إلى أجزائه. ومثل هذا يمتنع أن يصدق فيه اسم المقسوم على الأجزاء. فليس كل واحد من أعضائه بدناً، ولا كل من أخلاطه بدناً، ولا كل من أجزاء السقف بيتاً. وكذلك الوجه إذا قيل: ينقسم إلى جبين وأنف وعين وخد وغير ذلك، لم يكن كل من
+The third aspect: Their 'divine science' is not knowledge of the Creator nor of creation. The third [point] is to say: The highest science according to them, which is first philosophy and the ultimate wisdom, is the science of metaphysics by way of inference — and it is 'prior to it' by way of 'existence' — and it is what a group of them call 'divine science'. The subject of this science is absolute universal existence, divided into 'necessary' and 'possible'; 'eternal' and 'originated'; 'substance' and 'accident'. And one of the later Shiite authors, in their science that he mentioned as 'the hidden secrets in the intellectual sciences', raised a question against them. He said: If its subject is 'every existent', then it does not investigate the accidents of every existent; and if it is more specific than that, like 'the necessary' and 'the possible', then that is a part of it. So it is said to him: Division is of two types: division of the universal into its particulars, and division of the whole into its parts. The second division is the one known in common affairs, as the scholars say 'the chapter of division', and they mention division of inheritances, spoils, land, and other things. Allah Almighty said: {And inform them that the water is divided between them; each drink is attended} [Surah al-Qamar: 28]. And from it is His statement: {It has seven gates; for each gate is a portion assigned} [Surah al-Hijr: 44]. As for division of the universal into its particulars, it is like our saying: 'Animal is divided into rational and non-rational,' and it is the division of genus into its species, and species into its individuals. That is why the grammarians, when they wanted to divide what they divide into noun, verb, and particle, their statements differed. Many of them say: 'Speech is divided into noun, verb, and particle,' and this is division of speech into its parts, and this is what the early grammarians mention. Then some of those who composed works on the rules of grammar, like al-Juzuli, objected to them and said: Every genus divided into its species or into the individuals of its species, the name of the higher divided term is true of the species and individuals; otherwise they are not divisions of it. So they began to say: 'The word is divided into noun, verb, and particle,' and they say: 'The word is a genus under which are the species: noun, verb, and particle.' This objection is an error from whoever made it, because those [early grammarians] did not intend division of the universal into its particulars; rather they intended division of the whole into its parts, which is the division known first in minds and languages. As when you say: 'This land is divided, for so-and-so is this side, and for so-and-so is that side,' as Allah Almighty said: {And inform them that the water is divided between them} [Surah al-Qamar: 28]. And speech is composed of nouns, verbs, and particles, just as a house is composed of roof, walls, and ground; and just as the human body is composed of its distinct limbs and mixed humors; so its division into limbs and humors is a division of a whole into its parts. And like this, it is impossible for the name of the divided [whole] to be true of the parts. So not every one of its limbs is a 'body', nor every one of its humors is a 'body', nor every one of the parts of the roof is a 'house'. Similarly, the face, if it is said: 'It is divided into forehead, nose, eye, cheek, and other things,' not every one of them is...
+Source pages p. 168
+
+Commentary
+This passage is a critique by Ibn Taymiyya of the logicians' conception of 'divine science' (al-'ilm al-ilahi). He states that their so-called highest science, which they identify with first philosophy or metaphysics, is neither knowledge of the Creator nor of creation. He describes their definition: the subject matter is absolute universal existence, which they divide into necessary/possible, eternal/originated, substance/accident. Then he raises an objection from a later Shiite author who questions that if the subject is every existent, the science cannot study all accidents, and if it is only a part like the necessary, then that part is merely a subdivision. Ibn Taymiyya responds by clarifying that division is of two types: division of the universal into its particulars (taqsim al-kulli ila juz'iyyatihi) and division of the whole into its parts (taqsim al-kull ila ajza'ihi). The objection confuses these two types. He then elaborates on the second type, which is the division of a whole into its parts, giving examples from Islamic law (inheritance, spoils, land) and Quranic verses. The first type, division of the universal (like genus into species), is exemplified by 'animal divided into rational and non-rational'. Then he applies this to a grammatical dispute: early grammarians divided speech (kalam) into noun, verb, particle as a whole into parts, not as a universal into particulars. Later grammarians like al-Juzuli objected that the divided term must apply to each part, but that is only required for division of a universal. The early grammarians were correct because they were dividing a composite whole. The analogy of a house or human body illustrates that the name of the whole does not apply to each part. Thus, the objection against the logicians is refuted by this clarification of division.
+
+Key Terms
+تقسيم الكلي
+تقسيم الكل
+جنس
+نوع
+جزء
+كل
+كلي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, the early grammarians' division of 'speech' (kalam) into 'noun, verb, particle' is an example of:
+A) Division of a universal into its particulars
+B) Division of a whole into its parts
+C) Division of a genus into its species
+D) Division of an accident into its categories
+
+Key Takeaway
+Mastering the two types of division prevents confusion in Islamic sciences: universal division requires the universal term to apply to parts, while whole-part division does not.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the division of 'zakat' into zakat al-fitr and zakat al-mal. Is this taqsim al-kulli or taqsim al-kull? Explain your answer using Ibn Taymiyya's criteria.
+?
+In grammar, 'kalimah' (word) is often divided into ism, fi‘l, harf. According to Ibn Taymiyya, are the early grammarians' or al-Juzuli's terminology correct? Justify with the two types.
+
+Pages p. 168 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 169
+Module 14 · Lesson 7
+Next →
+Division and Classification
+intermediate
+8 min
+Two Types of Division: Whole vs. Universal
+Ibn Taymiyya distinguishes two types of division and critiques grammarians' confusion.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between division of a whole into parts and division of a universal into particulars, and identify which type is being used in any given Islamic scholarly claim.
+
+Core Idea
+Confusing whole-part division with genus-species division leads to logical errors even among grammarians.
+
+In this passage, Ibn Taymiyya draws a crucial distinction between two types of division: the division of a whole into its constituent parts (like a house into roof and walls) and the division of a universal into its particulars (like animal into man and horse). He then applies this distinction to critique later grammarians who mistakenly objected to early grammarians' division of 'kalam' (speech) into noun, verb, and particle. By understanding this distinction, you will be able to avoid a common confusion that has crept into Islamic disciplines like grammar and logic.
+
+Guided Path
+1
+Identify the two types of division in the passage
+Locate where Ibn Taymiyya explicitly states the two types: taqseem al-kull ila ajza'ihi and taqseem al-kulli ila juz'iyyatihi. Write them down.
+2
+Examine the examples for each type
+Note the Quranic examples (house, body, gates of Hell) for whole-part division, and the logical example (animal into speaking and non-speaking) for universal-particular division. Observe the key difference: in whole-part, the name of the whole does not apply to the parts; in universal-particular, the universal does apply to each particular.
+3
+Analyze the grammarians' confusion
+Read the digression about early vs. later grammarians. Early grammarians treated 'kalam' as a whole; later grammarians (al-Kazuli) treated it as a universal and objected. Ibn Taymiyya says the objection is mistaken because they used the wrong type of division. Identify his reasoning.
+4
+Apply the distinction to a new example
+Try a Quranic example: The face divided into forehead, nose, etc. Is this whole-part or universal-particular? Check if 'face' applies to 'forehead' (it doesn't). So it's whole-part.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الثالث ـ «التقسيم» نوعان: تقسيم «الكل» إلى «أجزائه»، وتقسيم «الكلي» إلى «جزئياته». فأما تقسيم «الكل» إلى «أجزائه» فمثل قولنا: «البيت ينقسم إلى سقف، وحائط، وأرض»، وهو قسمة «الكل» إلى «أجزائه». وكذلك تقسيم «البدن» إلى «الأعضاء» و«الأخلاط» كتقسيم آباء جهنم السبعة: ﴿لَهَا سَبْعَةُ أَبْوَابٍ لِكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ﴾. وأما تقسيم «الكلي» إلى جزئياته فمثل قولنا: «الحيوان ينقسم إلى ناطق وأعجم»، وهو قسمة «الجنس» إلى «أنواعه»، و«النوع» إلى «أشخاصه». استطراد: اختلاف النحاة في تقسيم الكلام إلى اسم وفعل وحرف. ولهذا كان النحاة إذا أرادوا أن يقسموا ما يقسمونه إلى اسم، وفعل، وحرف يختلف كلامهم. فكثير منهم يقول: «الكلام ينقسم إلى اسم وفعل وحرف»، وهذا قسمة الكلام هو الذي يذكره قدماء النحاة. فاعترض عليهم بعض من صنف في قوانين النحو، كالكزولي، وقالوا: كل (جنس) قسم إلى أنواعه أو أنواع أشخاصه، فاسم المقسوم الأعلى صادق على الأنواع والأشخاص وإلا فليست بأقسام له فصاروا يقولون: «الكلمة تنقسم إلى اسم، وفعل، وحرف»؛ ويقولون: «الكلمة جنس تحته أنواع: الاسم، والفعل، والحرف». وهذا الاعتراض خطأ ممن أورده لأن أولئك لم يقصدوا تقسيم «الكلي» إلى «جزئياته»؛ وإنما قصدوا تقسيم «الكل» إلى «أجزائه»، وهو التقسيم المعروف أوّلاً في العقول واللغات. كما إذا قلت: «هذه الأرض مقسومة، فلفلان هذا الجانب، ولفلان هذا الجانب»، كما قال تعالى: ﴿وَنَتْهُمْ أَنَّ الْمَاءَ قِسْمَةٌ بَيْنَهُمْ كُلُّ شِربٍ مُّحْتَضَرٌ﴾. و«الكلام» مركب من الأسماء والأفعال، والحروف، كما يتركب «البيت» من السقف والحيطان والأرض؛ وكما أن بدن الإنسان مركب من أعضائه المتميزة، وأخلاطه الممتزجة؛ فتقسيمة إلى الأعضاء والأخلاط تقسيم «كل» إلى «أجزائه». ومثل هذا يمتنع أن يَصْدُق فيه اسم المقسوم على الأجزاء. فليس كل واحد أعضائه «بدنا»، ولا كل من أخلاطه «بدنا»، ولا كل من أجزاء السقف «بيتا». وكذلك «الوجه» إذا قيل: ينقسم إلى جبين، وأنف، وعين، وخدّ، وغير ذلك، لم يكن كل واحد من هذه الأعضاء «وجهاً». ونظائر هذا كثيرة. وأما «الكلي» فإنما يوجد في الذهن لا في الخارج. فتبين أن تقسيم الأولين أظهر من تقسيم الآخرين.
+Third station — 'division' is of two types: division of the 'whole' into its 'parts', and division of the 'universal' into its 'particulars'. As for division of the 'whole' into its 'parts', it is like our saying: 'The house is divided into roof, wall, and floor', and this is the division of the 'whole' into its 'parts'. And likewise the division of the 'body' into 'limbs' and 'humors', like the division of the seven gates of Hell: 'It has seven gates; for each gate is a portion of them assigned' (Quran 15:44). As for division of the 'universal' into its particulars, it is like our saying: 'Animal is divided into speaking and non-speaking', and this is the division of 'genus' into its 'species', and 'species' into its 'individuals'. Digression: The disagreement of grammarians regarding the division of speech into noun, verb, and particle. For this reason, when the grammarians wanted to divide what they divide into noun, verb, and particle, their statements differed. Many of them say: 'Speech is divided into noun, verb, and particle', and this is the division of speech according to the early grammarians. Some of those who authored works on the rules of grammar, like al-Kazuli, objected to them, and they said: 'Every (genus) is divided into its species or the species of its individuals, so the name of the highest divided entity applies to the species and individuals, otherwise they would not be divisions of it.' So they began to say: 'The word (kalima) is divided into noun, verb, and particle'; and they say: 'The word is a genus under which are the species: noun, verb, and particle.' This objection is a mistake from whoever raised it because those [early grammarians] did not intend division of the 'universal' into 'particulars'; rather, they intended division of the 'whole' into its 'parts', which is the division well known first in minds and languages. As if you say: 'This land is divided, so for so-and-so is this side, and for so-and-so is this side', as God said: 'And inform them that the water is divided between them; each drinking place is attended' (Quran 54:28). And 'speech' is composed of nouns, verbs, and particles, just as the 'house' is composed of the roof, walls, and floor; and just as the human body is composed of its distinct limbs and its mixed humors; so its division into limbs and humors is a division of a 'whole' into its 'parts'. In such a case, it is impossible that the name of the divided entity applies to the parts. For not every one of its limbs is a 'body', nor is every one of its humors a 'body', nor is every one of the parts of the roof a 'house'. Likewise, the 'face', if it is said: it is divided into forehead, nose, eye, cheek, and others, not every one of these organs is a 'face'. And examples of this are many. As for the 'universal', it exists only in the mind, not in the external world. So it becomes clear that the division of the former [the whole] is more evident than the division of the latter [the universal].
+Source pages p. 169
+
+Commentary
+This passage is a critical analysis by Ibn Taymiyya of the logical concept of division. He distinguishes two types: division of a whole into its parts (which is a physical or conceptual whole made of components) and division of a universal into its particulars (which is a logical division of a genus into species). He then applies this to the grammarians' debate about whether 'kalam' (speech) is divided into noun, verb, and particle. Early grammarians considered 'kalam' as a whole (like a sentence) composed of parts, so they said 'kalam is divided into noun, verb, and particle'. Later grammarians, misunderstanding this as a division of a universal, objected that 'kalam' must apply to each part, but it doesn't (a single noun is not called 'kalam'). So they changed the term to 'kalima' (word) to make it a universal that applies to each part. Ibn Taymiyya argues that the early grammarians were correct in their intention; the later grammarians' objection is mistaken because they confused the two types of division. He supports his argument with Quranic verses and analogies (land, house, body, face). He concludes that the division of the whole is more evident and primary in common understanding. This passage guards against confusing logical division (genus-species) with mereological division (whole-part).
+
+Key Terms
+التقسيم
+الكل
+الكلي
+الجزئيات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, which of the following is an example of division of the whole into its parts?
+A) Animal is divided into rational and irrational.
+B) Body is divided into limbs and humors.
+C) Word is divided into noun, verb, and particle.
+D) Genus is divided into species.
+
+Key Takeaway
+Ibn Taymiyya teaches us that not all divisions are logical (genus-species); sometimes we divide a composite whole, and confusing the two leads to error.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'The human being is divided into mind, body, and soul.' Is this division of a whole or of a universal? Explain your reasoning.
+?
+In usul al-fiqh, 'The act is divided into wajib, mandub, mubah, makruh, and haram.' Is this division of a whole or of a universal? Justify.
+
+Pages p. 169 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 172
+Module 14 · Lesson 8
+Next →
+Division and Classification
+beginner
+5 min
+Two Types of Division: Whole vs. Universal
+Defines two types of division and their basis.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between division of a physical whole into parts and division of a universal into particulars, and correctly classify examples from Islamic sciences.
+
+Core Idea
+Dividing a whole is physical; dividing a universal is mental — don't confuse them.
+
+In this passage, Ibn Taymiyya clarifies that logicians often conflate two fundamentally different operations: chopping a concrete whole into its pieces versus subdividing a universal concept into its species. Understanding this distinction is crucial for avoiding category errors when analysing definitions and classifications in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Locate the definiendum
+Identify what is being defined. The passage defines 'division' (taqsīm) and immediately splits it into two types.
+The definiendum is the same word but with two distinct meanings.
+2
+Extract the two types
+Type 1: تقسيم الكل إلى أجزائه — division of a whole into its parts (e.g., a body into limbs). Type 2: تقسيم الكلي إلى جزئياته — division of a universal into its particulars (e.g., 'animal' into 'human', 'horse').
+3
+Identify the basis of distinction
+The first division deals with a real composite whole (كُلّ). The second deals with a universal concept (كُلّي) which is a 'second intelligible' — a mental construct, not a physical aggregate.
+Second intelligibles are logical categories that exist only in the mind.
+4
+Apply to a concrete Islamic example
+Take the division of 'rulings' (al-ahkām) into 'wājib', 'mandūb', 'mubāḥ', etc. This is dividing a universal into particulars, not splitting a whole into parts.
+Contrast with dividing the Ka'ba into its stones — that is a physical whole into parts.
+5
+Memorise the key phrase
+Note the phrase 'لأن الكليات هي المعقولات الثانية' (because universals are second intelligibles). This is the anchor: universals are mental, not physical.
+This phrase is the author's justification for why the second division is distinct.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والمقصود هنا أن التقسيم نوعان : تقسيم «الكل» إلى «أجزائه»، وهو أشهرهما وأعرفهما في العقول واللغات، والثاني: تقسيم «الكلي» إلى «جزئياته»، وهو التقسيم الثاني، لأن «الكليات» هي المعقولات الثانية .
+What is intended here is that division is of two types: division of the whole into its parts, which is the more famous and more recognized in minds and languages, and the second: division of the universal into its particulars, which is the second division, because universals are second intelligibles.
+Source pages p. 172
+
+Commentary
+This passage defines two fundamental types of division. The first type is dividing a whole (kull) into its parts (ajza'), such as dividing a physical object into its components. This is intuitive and commonly understood. The second type is dividing a universal concept (kulli) into its particular instances (juz'iyyat), such as dividing 'animal' into human, horse, etc. The author notes that universals are 'second intelligibles' (ma'qulat thaniyya), meaning they are mental constructs that apply to multiple individuals, not concrete wholes. This distinction is crucial for understanding the logicians' error: they treat existence as a whole divided into parts, whereas it is a universal divided into species.
+
+Key Terms
+تقسيم
+كل
+كلي
+جزئيات
+معقولات ثانية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, dividing 'animal' into 'human' and 'horse' is an example of which type of division?
+A) Division of the whole into parts
+B) Division of the universal into particulars
+C) Division of substance into accidents
+D) Division of necessity into possibility
+
+Key Takeaway
+Division is of two distinct types: splitting a concrete whole and subdividing a universal mental concept — never confuse a physical piece with a logical species.
+
+How This Lesson Applies — to MY Life?
+?
+Give one example from fiqh that illustrates division of a whole into parts, and one example from fiqh that illustrates division of a universal into particulars. Explain why each fits its type.
+?
+The logicians claim that 'existence' is divided into 'necessary' and 'contingent'. According to Ibn Taymiyya, is this division of a whole or a universal? Justify your answer using the concepts from this lesson.
+
+Pages p. 172 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 202
+Module 14 · Lesson 9
+Next →
+Division and Classification
+beginner
+6 min
+The Logicians' Threefold Division of Proof
+Ibn Taymiyya reports the logicians' division of proof.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given inference as syllogism, induction, or analogy based on the direction of reasoning.
+
+Core Idea
+Proof is divided by direction: universal→particular, particular→universal, or particular→particular.
+
+The logicians define the genus of proof (daliil) and divide it into three species based on the logical direction of inference. Understanding this classification is the first step to evaluating the strength and validity of arguments in Islamic sciences.
+
+Guided Path
+1
+Identify the three directions of inference
+The passage states that inference is either from universal to particular, particular to universal, or one particular to another. These map to syllogism, induction, and analogy respectively.
+Note that the universal/particular terminology can also be expressed as general/specific.
+2
+Match each direction to its technical term
+The logicians call the first (universal→particular) 'qiyas' (syllogism), the second (particular→universal) 'istiqra'' (induction), and the third (particular→particular) 'tamthil' (analogy).
+Terms may shift across disciplines; here we use the logicians' convention.
+3
+Recognize the example of incomplete induction
+The passage gives the example of 'all animals move their lower jaw when eating' based on observing most animals. This is incomplete induction and is falsified by the crocodile.
+This illustrates that incomplete induction does not yield certainty.
+4
+Recall that complete induction yields certainty
+If all particulars are examined, the induction is complete and the conclusion is certain. But such cases are rare.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل
+أقوال المنطقيين في «الدليل» «والقياس»
+وأيضاً فإنهم قسموا جنس «الدليل» إلى «القياس» و «الاستقراء» و «التمثيل».
+والاستقراء قالوا: لأن الاستدلال إما أن يكون بـ «الكلي» على «الجزئي»، أو بـ «الجزئي» على «الكلي»، أو بأحد «الجزئيين» على الآخر. وربما عبروا عن ذلك بـ «الخاص» و «العام»، فقالوا: إما أن يستدل بـ «العام» على «الخاص»، أو بـ «الخاص» على «العام»، أو بأحد «الخاصّين» على الآخر.
+قياس الشمول قالوا: والأول هو «القياس»، يعنون به قياس الشمول، فإنهم يخصونه باسم «القياس». وكثير من أهل الأصول والكلام يخصون باسم «القياس» «التمثيل».
+وأما جمهور العقلاء فاسم «القياس» عندهم يتناول هذا وهذا.
+قالوا والاستدلال بـ «الجزئيات» على «الكلي» هو «الاستقراء». فإن كان تاماً فهو «الاستقراء التام»، وهو يفيد اليقين وإن كان ناقصاً لم يفد اليقين. فالأول هو استقراء جميع «الجزئيات»، والحكم عليه بما وُجد في جزئياته؛ والثاني استقراء أكثرها وقد يكذب، كقول القائل: «الحيوان إذا أكل حرّك فكه الأسفل لأنا استقريناها فوجدناها هكذا»، فيقال له: «التمساح يحرك الأعلى».
+Chapter: Statements of the logicians regarding 'the proof' and 'the syllogism'. And also, they divided the genus 'proof' into 'syllogism', 'induction', and 'analogy'. As for induction, they said: because inference is either from the universal to the particular, or from the particular to the universal, or from one particular to another. And sometimes they express that with 'specific' and 'general', saying: either one infers from the general to the specific, or from the specific to the general, or from one specific to another. They said: the first is 'syllogism'—meaning the syllogism of inclusion—for they exclusively call it 'syllogism'. Many experts in usul and kalam exclusively call 'analogy' by the name 'syllogism'. As for the majority of rational people, the name 'syllogism' includes both this and that. They said: inference from particulars to the universal is 'induction'. If it is complete, it is 'complete induction' and it yields certainty; if it is incomplete, it does not yield certainty. The first is the induction of all particulars and judging them based on what is found in their particulars; the second is the induction of most of them and it may be false, like someone saying: 'An animal, when it eats, moves its lower jaw, because we have induced it and found it to be so,' then he is told: 'The crocodile moves its upper jaw.'
+Source pages p. 202
+
+Commentary
+This passage reports the logicians' classification of proof (daliil) into three types: syllogism (qiyas), induction (istiqra'), and analogy (tamthil). The classification is based on the direction of inference: from universal to particular (syllogism), from particular to universal (induction), or from particular to particular (analogy). The author notes that some scholars restrict the term 'qiyas' to the syllogism of inclusion, while others (especially in usul al-fiqh and kalam) use it for analogy. Induction is further divided into complete (istiqra' tamm) and incomplete (istiqra' naqis). Complete induction examines all particulars and yields certainty; incomplete induction examines only most particulars and can be falsified, as illustrated by the example of animal jaw movement: the false generalization that all animals move their lower jaw when eating is refuted by the exception of the crocodile. Ibn Taymiyya presents this classification to later critique the logicians' claim that only their syllogism yields certain knowledge.
+
+Key Terms
+الدليل
+القياس
+الاستقراء
+التمثيل
+الاستقراء التام
+الاستقراء الناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the logicians' classification, what type of inference is 'syllogism' (qiyas)?
+A) Inference from particular to universal
+B) Inference from universal to particular
+C) Inference from one particular to another
+D) Inference from general to specific
+
+Key Takeaway
+Proof is divided into three types based on the direction of inference: universal to particular (syllogism), particular to universal (induction), and particular to particular (analogy).
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following inference: 'We observed most scholars do not eat after Fajr, therefore all scholars do not eat after Fajr.' Answer: incomplete induction.
+?
+Given the inference 'Every intoxicant is forbidden; beer is an intoxicant; therefore beer is forbidden,' identify which type of inference it is and why.
+
+Pages p. 202 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 202
+Module 14 · Lesson 10
+Next →
+Division and Classification
+intermediate
+7 min
+Complete vs. Incomplete Induction
+Ibn Taymiyya reports the logicians' division of induction into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete from incomplete induction and identify when an inductive generalization is falsifiable.
+
+Core Idea
+Complete induction surveys all cases and gives certainty; incomplete induction only surveys most and can be refuted by a single counterexample.
+
+The logicians divide induction into two types: complete (istiqra' tamm) and incomplete (istiqra' naqis). The former yields certain knowledge, while the latter only yields probability and can be false. The crocodile jaw example is a classic illustration of how an incomplete induction can be overturned by a single counterexample.
+
+Guided Path
+1
+Understand the definition of complete induction
+Complete induction examines every single particular under a universal. If all particulars share a property, the universal conclusion is certain.
+Complete induction is rare in practice because it requires exhaustive enumeration.
+2
+Understand the definition of incomplete induction
+Incomplete induction examines only most particulars. The conclusion is not certain and may be false if counterexamples exist.
+The text warns that incomplete induction 'may be false'.
+3
+Analyze the crocodile example
+Someone claims all animals move their lower jaw when eating, based on observing many animals. But the crocodile moves its upper jaw, thus falsifying the generalization. This shows the weakness of incomplete induction.
+The counterexample disproves the universal statement.
+4
+Apply the distinction to Islamic sciences
+If a jurist says 'all scholars hold that zakat is due on dates' based on surveying most scholars, that is incomplete induction. A single dissenter weakens the claim.
+In usul al-fiqh, certainty is required for definitive rulings; incomplete induction gives only probability.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل
+أقوال المنطقيين في «الدليل» «والقياس»
+وأيضاً فإنهم قسموا جنس «الدليل» إلى «القياس» و «الاستقراء» و «التمثيل».
+والاستقراء قالوا: لأن الاستدلال إما أن يكون بـ «الكلي» على «الجزئي»، أو بـ «الجزئي» على «الكلي»، أو بأحد «الجزئيين» على الآخر. وربما عبروا عن ذلك بـ «الخاص» و «العام»، فقالوا: إما أن يستدل بـ «العام» على «الخاص»، أو بـ «الخاص» على «العام»، أو بأحد «الخاصّين» على الآخر.
+قياس الشمول قالوا: والأول هو «القياس»، يعنون به قياس الشمول، فإنهم يخصونه باسم «القياس». وكثير من أهل الأصول والكلام يخصون باسم «القياس» «التمثيل».
+وأما جمهور العقلاء فاسم «القياس» عندهم يتناول هذا وهذا.
+قالوا والاستدلال بـ «الجزئيات» على «الكلي» هو «الاستقراء». فإن كان تاماً فهو «الاستقراء التام»، وهو يفيد اليقين وإن كان ناقصاً لم يفد اليقين. فالأول هو استقراء جميع «الجزئيات»، والحكم عليه بما وُجد في جزئياته؛ والثاني استقراء أكثرها وقد يكذب، كقول القائل: «الحيوان إذا أكل حرّك فكه الأسفل لأنا استقريناها فوجدناها هكذا»، فيقال له: «التمساح يحرك الأعلى».
+Chapter: Statements of the logicians regarding 'the proof' and 'the syllogism'. And also, they divided the genus 'proof' into 'syllogism', 'induction', and 'analogy'. As for induction, they said: because inference is either from the universal to the particular, or from the particular to the universal, or from one particular to another. And sometimes they express that with 'specific' and 'general', saying: either one infers from the general to the specific, or from the specific to the general, or from one specific to another. They said: the first is 'syllogism'—meaning the syllogism of inclusion—for they exclusively call it 'syllogism'. Many experts in usul and kalam exclusively call 'analogy' by the name 'syllogism'. As for the majority of rational people, the name 'syllogism' includes both this and that. They said: inference from particulars to the universal is 'induction'. If it is complete, it is 'complete induction' and it yields certainty; if it is incomplete, it does not yield certainty. The first is the induction of all particulars and judging them based on what is found in their particulars; the second is the induction of most of them and it may be false, like someone saying: 'An animal, when it eats, moves its lower jaw, because we have induced it and found it to be so,' then he is told: 'The crocodile moves its upper jaw.'
+Source pages p. 202
+
+Commentary
+This passage reports the logicians' classification of proof (daliil) into three types: syllogism (qiyas), induction (istiqra'), and analogy (tamthil). The classification is based on the direction of inference: from universal to particular (syllogism), from particular to universal (induction), or from particular to particular (analogy). The author notes that some scholars restrict the term 'qiyas' to the syllogism of inclusion, while others (especially in usul al-fiqh and kalam) use it for analogy. Induction is further divided into complete (istiqra' tamm) and incomplete (istiqra' naqis). Complete induction examines all particulars and yields certainty; incomplete induction examines only most particulars and can be falsified, as illustrated by the example of animal jaw movement: the false generalization that all animals move their lower jaw when eating is refuted by the exception of the crocodile. Ibn Taymiyya presents this classification to later critique the logicians' claim that only their syllogism yields certain knowledge.
+
+Key Terms
+الاستقراء
+الاستقراء التام
+الاستقراء الناقص
+اليقين
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the statement 'All animals move their lower jaw when eating' an example of incomplete induction?
+A) Because it was based on observing all animals
+B) Because it was based on observing most animals, and a counterexample exists
+C) Because it moves from particular to particular
+D) Because it is a syllogism
+
+Key Takeaway
+Complete induction yields certainty; incomplete induction yields only probability and can be refuted by a counterexample.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of induction in the following: 'We examined all verses of the Qur'an dealing with orphans and found that justice is commanded; therefore every verse about orphans commands justice.' Answer: complete induction (if all verses were examined).
+?
+Critique the statement: 'Most of the Companions agreed on this, therefore it is the correct view.' Is this complete or incomplete induction? What would be needed to make it certain?
+
+Pages p. 202 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 202
+Module 14 · Lesson 11
+Next →
+Division and Classification
+beginner
+5 min
+The Ambiguity of the Term Qiyas
+Ibn Taymiyya notes the terminological shift of qiyas between logicians and usul scholars.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which meaning of qiyas (syllogism or analogy) is intended based on the context of the text.
+
+Core Idea
+Logicians use qiyas for universal-to-particular syllogism; usul scholars use it for particular-to-particular analogy.
+
+The passage highlights a crucial terminological confusion: logicians reserve the term 'qiyas' for the syllogism of inclusion (universal to particular), while many scholars of usul al-fiqh and kalam use it for analogy (particular to particular). This lesson helps you navigate this ambiguity so you correctly understand arguments in different Islamic disciplines.
+
+Guided Path
+1
+Identify the two distinct meanings of qiyas
+First meaning: logicians' qiyas (syllogism) = inference from universal to particular. Second meaning: usul scholars' qiyas (analogy) = inference from one particular to another based on shared attribute.
+The passage explicitly states that many usul and kalam scholars 'exclusively call analogy by the name qiyas'.
+2
+Recognize the source of confusion
+The same Arabic word 'qiyas' is used for two different logical operations. This can cause misunderstandings when reading texts from different disciplines.
+Ibn Taymiyya notes that the 'majority of rational people' use qiyas to include both meanings.
+3
+Determine the intended meaning from context
+Look for clues: if the text discusses 'universal' and 'particular', it likely means syllogism. If it compares two specific cases to extend a ruling, it likely means analogy.
+Discipline matters: logic texts usually mean syllogism; fiqh texts usually mean analogy.
+4
+Apply this to a sample text
+Given a sentence from al-Sanusiyya: 'The proof for the existence of the Creator is a qiyas', which meaning is intended? Since it is a kalam text about a universal principle, it likely means syllogism.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل
+أقوال المنطقيين في «الدليل» «والقياس»
+وأيضاً فإنهم قسموا جنس «الدليل» إلى «القياس» و «الاستقراء» و «التمثيل».
+والاستقراء قالوا: لأن الاستدلال إما أن يكون بـ «الكلي» على «الجزئي»، أو بـ «الجزئي» على «الكلي»، أو بأحد «الجزئيين» على الآخر. وربما عبروا عن ذلك بـ «الخاص» و «العام»، فقالوا: إما أن يستدل بـ «العام» على «الخاص»، أو بـ «الخاص» على «العام»، أو بأحد «الخاصّين» على الآخر.
+قياس الشمول قالوا: والأول هو «القياس»، يعنون به قياس الشمول، فإنهم يخصونه باسم «القياس». وكثير من أهل الأصول والكلام يخصون باسم «القياس» «التمثيل».
+وأما جمهور العقلاء فاسم «القياس» عندهم يتناول هذا وهذا.
+قالوا والاستدلال بـ «الجزئيات» على «الكلي» هو «الاستقراء». فإن كان تاماً فهو «الاستقراء التام»، وهو يفيد اليقين وإن كان ناقصاً لم يفد اليقين. فالأول هو استقراء جميع «الجزئيات»، والحكم عليه بما وُجد في جزئياته؛ والثاني استقراء أكثرها وقد يكذب، كقول القائل: «الحيوان إذا أكل حرّك فكه الأسفل لأنا استقريناها فوجدناها هكذا»، فيقال له: «التمساح يحرك الأعلى».
+Chapter: Statements of the logicians regarding 'the proof' and 'the syllogism'. And also, they divided the genus 'proof' into 'syllogism', 'induction', and 'analogy'. As for induction, they said: because inference is either from the universal to the particular, or from the particular to the universal, or from one particular to another. And sometimes they express that with 'specific' and 'general', saying: either one infers from the general to the specific, or from the specific to the general, or from one specific to another. They said: the first is 'syllogism'—meaning the syllogism of inclusion—for they exclusively call it 'syllogism'. Many experts in usul and kalam exclusively call 'analogy' by the name 'syllogism'. As for the majority of rational people, the name 'syllogism' includes both this and that. They said: inference from particulars to the universal is 'induction'. If it is complete, it is 'complete induction' and it yields certainty; if it is incomplete, it does not yield certainty. The first is the induction of all particulars and judging them based on what is found in their particulars; the second is the induction of most of them and it may be false, like someone saying: 'An animal, when it eats, moves its lower jaw, because we have induced it and found it to be so,' then he is told: 'The crocodile moves its upper jaw.'
+Source pages p. 202
+
+Commentary
+This passage reports the logicians' classification of proof (daliil) into three types: syllogism (qiyas), induction (istiqra'), and analogy (tamthil). The classification is based on the direction of inference: from universal to particular (syllogism), from particular to universal (induction), or from particular to particular (analogy). The author notes that some scholars restrict the term 'qiyas' to the syllogism of inclusion, while others (especially in usul al-fiqh and kalam) use it for analogy. Induction is further divided into complete (istiqra' tamm) and incomplete (istiqra' naqis). Complete induction examines all particulars and yields certainty; incomplete induction examines only most particulars and can be falsified, as illustrated by the example of animal jaw movement: the false generalization that all animals move their lower jaw when eating is refuted by the exception of the crocodile. Ibn Taymiyya presents this classification to later critique the logicians' claim that only their syllogism yields certain knowledge.
+
+Key Terms
+القياس
+قياس الشمول
+التمثيل
+الأصوليون
+المتكلمون
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, who are the scholars that exclusively call 'analogy' by the name 'qiyas'?
+A) Logicians
+B) Majority of rational people
+C) Many experts in usul and kalam
+D) The Jahmiyya
+
+Key Takeaway
+The term qiyas is ambiguous: logicians use it for syllogism (universal→particular), while usul scholars often use it for analogy (particular→particular); context determines which is meant.
+
+How This Lesson Applies — to MY Life?
+?
+Look up the term 'qiyas' in two different texts (a logic manual and a fiqh manual). Determine which meaning is used in each, citing contextual clues.
+?
+Explain why the majority of rational people, as Ibn Taymiyya notes, use qiyas to cover both syllogism and analogy. What does this tell us about the natural human tendency in reasoning?
+
+Pages p. 202 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 281
+Module 14 · Lesson 12
+Next →
+Division and Classification
+intermediate
+5 min
+Exhaustive Division in the Vision of God Debate
+Example of exhaustive division in the ru'ya debate
+
+Learning Objective
+By the end of this lesson, you will be able to identify an exhaustive division and construct one for a theological question.
+
+Core Idea
+Exhaustive division ensures no possibility is left out—essential for sound kalām arguments.
+
+This passage from Ibn Taymiyya's critique of logic provides a concrete example of exhaustive division (al-taqsīm al-ḥāṣir) in the classical debate about seeing God. Two opposing views are presented, each claiming a different corrector for vision. By examining this division, you will learn how exhaustive division works and why it is critical in Islamic theological reasoning.
+
+Guided Path
+1
+Identify the principle of division
+The division is based on the question: 'What qualifies something to be seen?' The corrector for vision (al-muṣaḥḥiḥ lil-ruʾya) is the attribute that makes an object visible.
+In an exhaustive division, the principle must be clear and single.
+2
+List the two divisions
+Group A says the corrector is pure existence (wujūd maḥḍ), so the more perfect the existence, the more worthy of being seen. Group B says it is deficient existence (wujūd nāqiṣ), which is closer to non-existence.
+These are the only two possibilities stated; they are presented as mutually exclusive and collectively exhaustive.
+3
+Check exhaustiveness
+Are there any other logical possibilities for a corrector? The division claims that existence is either perfect or deficient; there is no third state. This is a binary exhaustive division.
+If a third possibility were overlooked, the division would not be ḥāṣir.
+4
+Apply the division to the theological claim
+If perfect existence is the corrector, then God, having the most perfect existence, must be visible. If deficient existence is the corrector, then God, being purely perfect, cannot be seen. The division directly frames the theological conclusion.
+The exhaustive division forces a choice and clarifies the stakes in the debate.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم إذا اختلف الناسُ في ما يجوز رؤيته ، فقال بعضهم : المصحح للرؤية أمر لا يكون إلا وجودياً محضاً، فما كان وجوده أكمل كان أحقّ أن يُرى، وقال آخر : بل المصحح لها ما يختص بالوجود الناقص الذي هو أولى بالعدم، مثل كون الشيء
+Then when people differ regarding what is permissible to see, some say: The corrector for vision is a matter that is only purely existent, so whatever has more perfect existence is more worthy of being seen. And another says: Rather, the corrector for it is what is specific to deficient existence, which is more deserving of non-existence, like the thing being ...
+Source pages p. 281
+
+Commentary
+This passage provides an example of exhaustive division (taqsīm ḥāṣir) in the theological debate about the permissibility of seeing God (ruʾya). The author sets up a dispute: one group says the corrector (muṣaḥḥiḥ) for vision is pure existence (wujūd maḥḍ), so the more perfect in existence (like God) is more deserving of being seen. Another group says the corrector is specific to deficient existence (wujūd nāqiṣ), which is better described as non-existence. The passage is incomplete, but it illustrates how exhaustive division is applied in a rational theological argument.
+
+Key Terms
+المصحح للرؤية
+التقسيم الحاصر
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example given, what is the point of disagreement regarding the corrector for vision?
+A) Whether it is based on sense perception or intellect
+B) Whether it is perfect existence or deficient existence
+C) Whether it is a material or immaterial thing
+D) Whether it is necessary or contingent
+
+Key Takeaway
+Exhaustive division structures theological arguments by categorizing all logical possibilities, leaving no room for unconsidered alternatives.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the question: Is God's knowledge eternal or temporal? Construct an exhaustive division of all logical possibilities for the origin of God's knowledge (e.g., eternal, originated, neither). Then check if the division covers all possibilities.
+
+Pages p. 281 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 301
+Module 14 · Lesson 13
+Next →
+Division and Classification
+intermediate
+8 min
+Circular Reasoning (Dawr): Types and Validity
+Author introduces circular reasoning classification and refutes false attribution.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the three types of circular reasoning (dawr) as classified by Ibn Taymiyya, and identify which subtypes are possible versus impossible.
+
+Core Idea
+Not all circularity is invalid: co-circularity is possible, only pre-circularity is impossible.
+
+In Islamic logic and jurisprudence, the concept of circular reasoning (دور) is often misunderstood as always fallacious. Ibn Taymiyya clarifies that circularity has three types, and the first type (cosmic) includes two subtypes with different logical statuses. This classification is essential for evaluating arguments in theology and fiqh where interdependence of concepts occurs.
+
+Guided Path
+1
+Identify the three types of dawr
+From the passage, Ibn Taymiyya says the word 'dawr' is applied to three types: cosmic (كوني), juristic (فقهي), and mathematical (حسابي). Locate these in the Arabic text.
+Only the cosmic type is elaborated here; the other two are mentioned but not explained.
+2
+Focus on cosmic circularity and its subdivision
+The author states that cosmic circularity is divided into two subtypes: pre-circularity (قبلي) and co-circularity (معي). Pre-circularity is impossible, co-circularity is possible.
+This division is attributed to al-Amidi, while al-Razi considered cosmic circularity entirely impossible.
+3
+Determine the correct position according to Ibn Taymiyya
+Ibn Taymiyya endorses al-Amidi's view: only pre-circularity is impossible; co-circularity is logically possible. This nuance is critical for arguments involving mutual dependence, like conditions and their objects.
+The passage does not explain why co-circularity is possible, but it is affirmed.
+4
+Apply the distinction to a real Islamic example
+Consider the relationship between 'creation' and 'the Creator' in kalam: the world cannot exist without the Creator, and the Creator's attribute as 'Creator' depends on creation? This is a case of co-circularity. Ibn Taymiyya would argue it is not logically invalid.
+This example is extrapolated; the passage does not give it explicitly.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قديم . المقام الرابع - الدور وأنواعه الثلاثة لكن إدخاله في الوصايا، والدور، ونحو ذلك، أول من عُرف أنه أدخله في ذلك محمد بن موسى الخوارزمي (۱) . (۱) الخوارزمي: يكنى أبا عبد الله أصله من خوارزم وكان منقطعاً إلى خزانة كتب الحكمة للمأمون، وهو من أصحاب علم الهيئة. وله من الكتب «كتاب الجبر والمقابلة»، وهو أول من صنف فيه. وصنف بعده أبو كامل شجاع بن أسلم كتاب الوصايا بالجبر والمقابلة» ـ «أخبار الحكماء وكشف الظنون كان في سنة ٣٠٥ «بروكلمان». وبعض الناس يذكر عن علي بن أبي طالب ـ رضي الله عنه ـ أنه تكلم في ذلك، وأنه تعلم ذلك من يهودي. وهذا كذب على علي ـ رضي الله عنه / ونحن قد بينا في الكتاب المصنف في الدور لما ذكرنا فيه أن لفظ «الدور» يقال على ثلاثة أنواع . «الدور» ثلاثة أنواع الدور الكوني» الذي يُذكر في الأدلة العقلية أنه لا يكون هذا حتى يكون هذا، الأول: ولا يكون هذا حتى يكون هذا. وطائفة من النظار كالرازي يقولون هو ممتنع . والصواب أنه نوعان كما يقوله الآمدي وغيره دور قَبْلي، ودور مَعِي. فـ «الدور القبلي ممتنع ، و الدور المعي» ممكن
+Ancient. The fourth station - circularity and its three types. But its inclusion in the issues of wills, circularity, and the like, the first known to have introduced it is Muhammad ibn Musa al-Khwarizmi. (1) (1) al-Khwarizmi: his kunya is Abu Abdullah, originally from Khwarazm, attached to the library of wisdom for al-Ma'mun, and he is one of the astronomy scholars. He authored the book 'al-Jabr wa al-Muqabalah', and he is the first to write on it. After him, Abu Kamil Shuja' ibn Aslam wrote the book of wills using algebra and opposition... Some people mention that 'Ali ibn Abi Talib spoke about it, and that he learned it from a Jew. This is a lie against 'Ali. And we have explained in the book compiled on circularity that the word 'circularity' is applied to three types. 'Circularity' three types: cosmic circularity, which is mentioned in rational proofs, that this cannot be without that, and that cannot be without this. And a group of theoreticians like al-Razi say it is impossible. The correct view is that it is two types, as al-Amidi and others say: pre-circularity and co-circularity. So pre-circularity is impossible, and co-circularity is possible.
+Source pages p. 301
+
+Commentary
+This passage introduces the concept of circular reasoning (الدور) and its classification into three types. The author begins by noting that the term was introduced into Islamic disciplines by al-Khwarizmi, refuting a false attribution to 'Ali ibn Abi Talib. He then states that the word 'circularity' is applied to three types: cosmic, juristic, and mathematical. However, upon closer examination, the first type (cosmic) is itself divided into two subtypes: pre-circularity (قبلي) and co-circularity (معي). The author mentions that some thinkers like al-Razi consider cosmic circularity absolutely impossible, but the correct position is that only pre-circularity is impossible, while co-circularity is possible. This distinction is crucial for understanding later arguments in physics and theology. The passage ends by affirming the possibility of co-circularity, which has implications for relations like conditions and correlatives.
+
+Key Terms
+دور
+دور كوني
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, who is the first known person to have introduced the concept of circularity into Islamic jurisprudence?
+A) Al-Razi
+B) Al-Amidi
+C) Al-Khwarizmi
+D) 'Ali ibn Abi Talib
+
+Key Takeaway
+Circular reasoning (dawr) has three types; within cosmic circularity, only pre-circularity (dawr qabli) is impossible, while co-circularity (dawr ma'i) is logically possible and must be evaluated carefully in Islamic arguments.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a short argument in Islamic theology that exhibits co-circularity (dawr ma'i) and explain why it is not logically invalid according to Ibn Taymiyya's classification.
+?
+Identify which type of circularity (cosmic pre-circularity, cosmic co-circularity, juristic, or mathematical) is present in the following scenario: In Islamic inheritance law, the calculation of shares depends on the presence of heirs, and the identity of heirs depends on the shares. Is this a valid form of circularity? Justify using the passage.
+
+Pages p. 301 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 301
+Module 14 · Lesson 14
+Next →
+Division and Classification
+intermediate
+8 min
+Distinguishing Pre-Circularity and Co-Circularity
+Author explains pre-circularity and co-circularity with examples
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between pre-circularity and co-circularity, and identify which type of circularity is logically permissible in Islamic theological arguments.
+
+Core Idea
+Not all circularity is vicious: co-circularity is common and valid in cosmic relations.
+
+In this passage, Ibn Taymiyya clarifies a critical distinction in logical reasoning about circularity. While pre-circularity (dawr qablī) is considered impossible because it leads to a regress, co-circularity (dawr ma‘ī) is actually permissible and frequently occurs in real-world relationships. Understanding this difference will help you avoid false accusations of circular reasoning when analyzing arguments in Kalam and other Islamic sciences.
+
+Guided Path
+1
+Identify the two types
+Find where the author names 'pre-circularity' and 'co-circularity'. Note that pre-circularity is introduced first with the example of causal agents, while co-circularity is introduced later with condition-conditioned relations.
+The Arabic terms: دور قبلي and دور معي.
+2
+Analyze the pre-circularity example
+The author says two things cannot each be the agent of the other because that would make a thing prior to its own prior. Work through the logical impossibility: if A is agent of B, and B is agent of A, then A is prior to B and B is prior to A—contradiction.
+This is a standard argument against infinite regress in causal chains.
+3
+Analyze the co-circularity examples
+The author gives two examples: divine attributes with essence, and paternity with sonship. In each case, neither can exist without the other simultaneously. Verify that this mutual dependency does not involve priority in time or causation—only simultaneous existence.
+Co-circularity is possible because it does not violate causal priority.
+4
+Note al-Razi's objection and the author's response
+The author mentions that al-Razi and others raised objections to pre-circularity arguments, but he says he has resolved them elsewhere. This indicates that the distinction is contested and requires careful defense.
+The resolution is in Ibn Taymiyya's works on proving the Creator.
+5
+Apply the distinction to a new Islamic example
+Take the Kalam argument that 'the world is temporally originated, therefore it has a Creator'. Check if it contains pre-circularity or co-circularity. If someone objects that 'the Creator's knowledge requires the world' (a co-circular relation), does that invalidate the argument?
+Co-circularity does not necessarily invalidate a proof; only pre-circularity does.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فـ «الدور القبلي الذي يُذكر في العلل، وفي الفاعل والمؤثر، ونحو ذلك . مثل الدور القبلي أن يقال : «لا يجوز أن يكون كل من الشيئين فاعلاً للآخر، لأنه يفضي إلى الدور». وهو أن يكون هذا قبل ذاك، وذاك قبل هذا وذاك فاعل لهذا، وهذا فاعل لذاك . فيكون الشيء فاعلاً لفاعله، ويكون قبل قبله. وقد أورد الرازي وغيره عليه إشكالات ذكرناها وبينا وجه حلها في طرق إثبات الصانع . مع وأما الدور المَعِيّ فهو كدور الشرط مع المشروط، وأحد المتضائفين مع الآخر. إذا قيل : صفات الرب لا تكون إلا مع ذاته، ولا تكون ذاته إلا صفاته»، فهذا صحيح. وكذلك إذا قيل : «لا تكون الأبوة إلا مع البنوّة، ولا تكون البنوة إلا مع الأبوة»
+So pre-circularity is mentioned in the context of causes, agent and effect, and the like. For example of pre-circularity: it is said that it is not permissible for each of two things to be agent of the other, because it leads to circularity. That is when this is prior to that, and that is prior to this, and that is agent of this, and this is agent of that. So the thing becomes agent of its own agent, and it becomes prior to what is prior to it. Al-Razi and others have raised objections against it, which we have mentioned and explained their resolution in the methods of proving the Creator. As for co-circularity, it is like the circularity of condition with conditioned, and one of the two correlatives with the other. If it is said: 'The attributes of the Lord exist only with His essence, and His essence exists only with His attributes', this is correct. Similarly, if it is said: 'Paternity exists only with sonship, and sonship exists only with paternity'.
+Source pages p. 301
+
+Commentary
+This passage elaborates on the two subtypes of cosmic circularity: pre-circularity (قبلي) and co-circularity (معي). The author first defines pre-circularity using the example of two things each being the agent of the other, which leads to a regress where a thing is prior to what is prior to it—an impossibility. He notes that al-Razi and others raised objections against this reasoning, but Ibn Taymiyya says he has resolved them elsewhere in his works on proving the Creator. Then he explains co-circularity as mutual dependency like condition and conditioned, or correlative pairs such as paternity and sonship. These are examples where each requires the other simultaneously, and this is possible. The examples from Islamic theology (divine attributes) and everyday relations illustrate the point. This distinction is crucial for understanding valid and invalid forms of circularity in arguments.
+
+Key Terms
+دور قبلي
+دور معي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, which type of circularity is impossible?
+A) Pre-circularity (دور قبلي)
+B) Co-circularity (دور معي)
+C) Both are impossible
+D) Neither is impossible
+
+Key Takeaway
+Pre-circularity involves impossible causal priority, while co-circularity involves permissible simultaneous mutual dependence.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an example of pre-circularity in a Kalam argument about creation: 'The Creator's will depends on creation, and creation depends on the Creator's will.' Explain why this is invalid pre-circularity.
+?
+Identify a co-circular relationship in Islamic jurisprudence: 'A valid sale requires offer and acceptance; offer and acceptance are mutually dependent.' Explain why this co-circularity is permissible and does not invalidate the legal reasoning.
+
+Pages p. 301 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 340
+Module 14 · Lesson 15
+Next →
+Division and Classification
+beginner
+8 min
+Three Types of Logical Division
+Author categorizes division into three types based on prevention.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given division statement into one of the three types: preventing both conjunction and void, preventing conjunction only, or preventing void only.
+
+Core Idea
+Division is defined by what it prevents: coexistence, absence, or both.
+
+In Islamic logic, division (taqseem) is used to categorize things mutually exclusively. Understanding the three types helps in analyzing juristic categories and theological opposites. Ibn Taymiyya presents these types with clear examples from everyday and legal reasoning.
+
+Guided Path
+1
+Identify the two parts of the division
+Locate the two disjuncts in the statement. For example, in 'number is either even or odd', the parts are 'even' and 'odd'.
+2
+Check if the parts can coexist
+Determine whether the two parts can occur simultaneously. If they cannot, the division prevents conjunction (mani'at al-jam').
+3
+Check if both parts can be absent together
+Determine whether it is possible for neither part to hold. If not, the division prevents void (mani'at al-khuluw).
+4
+Combine the checks to determine the type
+If both conjunction and void are prevented, it is the first type. If only conjunction is prevented, it is the second. If only void is prevented, it is the third.
+Third type applies to condition-conditioned relationships.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و التقسيم» قد يكون مانعاً من الجمع والخلق كما يقال : العدد إما شفع وإما وتر . وهما في معنى النقيضين الذين لا يجتمعان ولا يرتفعان. وقد يكون مانعاً من الجمع دون الخلق، كالضدين الذين لا يجتمعان وقد يرتفعان كما يقال : هذا إما أسود وإما أحمر، وقد يخلو منهما . وقد يكون مانعاً من الخلق دون الجمع كعدم المشروط ووجود الشرط. مانعة الخلو والمراد بالشرط هنا ما يلزم من عدمه عدم الحكم، سواء عُرف ذلك بالشرع، أو بالعقل . مثل كون الطهارة شرطاً في الصلاة والحياة شرطاً في العلم. ليس المراد ما يسميه النحاة شرطاً كالجملة الشرطية المعلقة بـ «إن وأخواتها فإن هذا في المعنى سبب لوجود الجزاء. ولفظ الشرط» يقال على هذا وهذا بالاشتراك . ومن جعل لفظ «الشرط» ينقسم إلى الثلاثة فقد غلط فإنه قد يجتمع عدم المشروط ووجود الشرط، إذ وجود الشرط لا يستلزم وجود المشروط. ولكن لا يرتفعان جميعاً، فلا يرتفع وجود الشرط وعدم المشروط، لأنه حينئذ يعدم الشرط ويوجد المشروط، وهذا لا يكون كما إذا قيل : هذا غَرِق بغير ماء، أو صحت صلاته بغير وضوء، أو وجب رَجُمه بغير زناء فيقال : هذا إما أن يكون في ماء وإما أن لا يغرق، وإما أن يكون متطهراً وإما أن لا تصح صلاته، وإما أن يكون زانياً وإما أن لا يجوز رجمه .
+And 'division' may prevent both conjunction and void, as is said: number is either even or odd. And they are like two opposites that neither coexist nor are both absent. And it may prevent conjunction without void, like two contraries that do not coexist but may both be absent, as is said: this is either black or red, and it may be devoid of both. And it may prevent void without conjunction, like the absence of the conditioned and the existence of the condition. [This is] the preventing of void, and what is meant by 'condition' here is that from whose absence the absence of the ruling follows, whether known by law or by reason. Such as purification being a condition for prayer, and life being a condition for knowledge. What grammarians call a condition is not intended, like the conditional sentence attached to 'if' and its sisters, for this in meaning is a cause for the existence of the apodosis. And the word 'condition' is used for this and that by homonymy. And whoever makes the word 'condition' divided into three has erred, for it is possible for the absence of the conditioned and the existence of the condition to coexist, since the existence of the condition does not necessitate the existence of the conditioned. But they are not both absent together, so the existence of the condition and the absence of the conditioned do not both disappear, because then the condition would be absent and the conditioned present, and this cannot be, as when it is said: This drowned without water, or his prayer was valid without ablution, or his stoning was obligatory without adultery. Then it is said: This is either in water or he does not drown, or he is purified or his prayer is not valid, or he is an adulterer or his stoning is not permissible.
+Source pages p. 340
+
+Commentary
+This passage defines the logical concept of division (taqseem) and its three types based on the 'man'ah' (prevention) they express. The author, Ibn Taymiyya, explains that division can prevent both conjunction and void (like numbers being either even or odd; they cannot be both nor neither), or prevent conjunction only (like colors black and red; they cannot coexist but can be absent, e.g., green), or prevent void only (like the relation between a condition and its conditioned; the absence of the conditioned does not force absence of the condition, but they cannot both be absent together). The author clarifies that 'condition' (shart) here is the logical condition whose absence entails absence of the ruling, using Fiqh examples: purification is a condition for prayer, life for knowledge. This differs from the grammatical conditional (inna and its sisters) which are causal. He criticizes those who divide 'shart' into three types, because condition and conditioned cannot both be absent (the condition must be present if the conditioned is present, but the condition can be present without the conditioned). He provides absurd examples to illustrate impossibility: drowning without water, valid prayer without ablution, stoning without adultery.
+
+Key Terms
+التقسيم
+مانعة الجمع
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of division does the statement 'The prayer is either valid or invalid' belong to?
+A) Preventing both conjunction and void
+B) Preventing conjunction only
+C) Preventing void only
+D) None
+
+Key Takeaway
+Logical division is defined by what it prevents: conjunction, void, or both.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following division statement: 'A person is either alive or dead.' Which type is it?
+?
+In Fiqh, the division of water into pure and impure: can water be both pure and impure? Can it be neither? Determine the type.
+
+Pages p. 340 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 340
+Module 14 · Lesson 16
+Next →
+Division and Classification
+beginner
+10 min
+Clarifying the Logical Condition (al-Shart)
+Author clarifies the concept of condition and distinguishes it from grammatical condition.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the logical condition (shart) from the grammatical conditional and explain why condition and conditioned cannot both be absent.
+
+Core Idea
+The logical condition is a necessary condition; its absence entails absence of the result, but its presence does not guarantee the result.
+
+The term 'shart' is used differently in grammar and logic. Ibn Taymiyya clarifies that the logical condition is that from whose absence the absence of the ruling follows, using examples from Islamic law, and warns against confusing it with grammatical 'if' clauses.
+
+Guided Path
+1
+Note the definition of shart
+Shart is defined as 'that from whose absence the absence of the ruling follows'. This means it is a necessary condition.
+Examples: purification is a condition for prayer; life is a condition for knowledge.
+2
+Contrast with grammatical condition
+Grammar's 'if' (e.g., 'if you study, you succeed') is a cause that brings about the result. The logical condition does not guarantee the result; it only makes it possible.
+Grammatical condition is often sufficient, not just necessary.
+3
+Understand the impossibility of both being absent
+Condition and conditioned cannot both be absent simultaneously. If the conditioned exists, the condition must exist; but the condition can exist without the conditioned.
+Absurd examples: drowning without water, valid prayer without ablution.
+4
+Apply to Fiqh examples
+Identify conditions for acts of worship: wudu for prayer, sanity for accountability. These are logical conditions, not grammatical ones.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و التقسيم» قد يكون مانعاً من الجمع والخلق كما يقال : العدد إما شفع وإما وتر . وهما في معنى النقيضين الذين لا يجتمعان ولا يرتفعان. وقد يكون مانعاً من الجمع دون الخلق، كالضدين الذين لا يجتمعان وقد يرتفعان كما يقال : هذا إما أسود وإما أحمر، وقد يخلو منهما . وقد يكون مانعاً من الخلق دون الجمع كعدم المشروط ووجود الشرط. مانعة الخلو والمراد بالشرط هنا ما يلزم من عدمه عدم الحكم، سواء عُرف ذلك بالشرع، أو بالعقل . مثل كون الطهارة شرطاً في الصلاة والحياة شرطاً في العلم. ليس المراد ما يسميه النحاة شرطاً كالجملة الشرطية المعلقة بـ «إن وأخواتها فإن هذا في المعنى سبب لوجود الجزاء. ولفظ الشرط» يقال على هذا وهذا بالاشتراك . ومن جعل لفظ «الشرط» ينقسم إلى الثلاثة فقد غلط فإنه قد يجتمع عدم المشروط ووجود الشرط، إذ وجود الشرط لا يستلزم وجود المشروط. ولكن لا يرتفعان جميعاً، فلا يرتفع وجود الشرط وعدم المشروط، لأنه حينئذ يعدم الشرط ويوجد المشروط، وهذا لا يكون كما إذا قيل : هذا غَرِق بغير ماء، أو صحت صلاته بغير وضوء، أو وجب رَجُمه بغير زناء فيقال : هذا إما أن يكون في ماء وإما أن لا يغرق، وإما أن يكون متطهراً وإما أن لا تصح صلاته، وإما أن يكون زانياً وإما أن لا يجوز رجمه .
+And 'division' may prevent both conjunction and void, as is said: number is either even or odd. And they are like two opposites that neither coexist nor are both absent. And it may prevent conjunction without void, like two contraries that do not coexist but may both be absent, as is said: this is either black or red, and it may be devoid of both. And it may prevent void without conjunction, like the absence of the conditioned and the existence of the condition. [This is] the preventing of void, and what is meant by 'condition' here is that from whose absence the absence of the ruling follows, whether known by law or by reason. Such as purification being a condition for prayer, and life being a condition for knowledge. What grammarians call a condition is not intended, like the conditional sentence attached to 'if' and its sisters, for this in meaning is a cause for the existence of the apodosis. And the word 'condition' is used for this and that by homonymy. And whoever makes the word 'condition' divided into three has erred, for it is possible for the absence of the conditioned and the existence of the condition to coexist, since the existence of the condition does not necessitate the existence of the conditioned. But they are not both absent together, so the existence of the condition and the absence of the conditioned do not both disappear, because then the condition would be absent and the conditioned present, and this cannot be, as when it is said: This drowned without water, or his prayer was valid without ablution, or his stoning was obligatory without adultery. Then it is said: This is either in water or he does not drown, or he is purified or his prayer is not valid, or he is an adulterer or his stoning is not permissible.
+Source pages p. 340
+
+Commentary
+This passage defines the logical concept of division (taqseem) and its three types based on the 'man'ah' (prevention) they express. The author, Ibn Taymiyya, explains that division can prevent both conjunction and void (like numbers being either even or odd; they cannot be both nor neither), or prevent conjunction only (like colors black and red; they cannot coexist but can be absent, e.g., green), or prevent void only (like the relation between a condition and its conditioned; the absence of the conditioned does not force absence of the condition, but they cannot both be absent together). The author clarifies that 'condition' (shart) here is the logical condition whose absence entails absence of the ruling, using Fiqh examples: purification is a condition for prayer, life for knowledge. This differs from the grammatical conditional (inna and its sisters) which are causal. He criticizes those who divide 'shart' into three types, because condition and conditioned cannot both be absent (the condition must be present if the conditioned is present, but the condition can be present without the conditioned). He provides absurd examples to illustrate impossibility: drowning without water, valid prayer without ablution, stoning without adultery.
+
+Key Terms
+الشرط
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya, which of the following is an example of a logical condition (shart)?
+A) 'If the sun rises, it is day'
+B) 'Purification for prayer'
+C) 'If you work, you get paid'
+D) 'If he is alive, he knows'
+
+Key Takeaway
+The logical condition is a necessary condition: its absence guarantees absence of the result, but its presence alone does not guarantee the result.
+
+How This Lesson Applies — to MY Life?
+?
+Give a Fiqh example of a logical condition (shart) that is not a grammatical 'if' condition. Explain why it fits the definition.
+?
+Explain why the statement 'If it rains, the ground gets wet' is not a logical condition in the sense of shart, but a cause.
+
+Pages p. 340 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 349
+Module 14 · Lesson 17
+Next →
+Division and Classification
+intermediate
+5 min
+No Proof for the Exclusive Five Substances
+Critique of the five-substance classification
+
+Learning Objective
+By the end of this lesson, you will be able to identify the logical flaw in claiming an exhaustive classification without proof, and apply this critique to other classifications in Islamic sciences.
+
+Core Idea
+A classification not proven exhaustive leaves the door open for other existents.
+
+The logicians divided substance into five types, but the author shows this division lacks proof of completeness. By examining his critique, you will learn to recognize when a classification is presented as exhaustive without sufficient evidence.
+
+Guided Path
+1
+Identify the classification under attack
+Find the five types of substance listed: intellect, soul, matter, form, and body. Note that body is further subdivided into celestial and elemental.
+This is the standard Peripatetic classification.
+2
+Note the logicians' claim of completeness
+The logicians present this as an exhaustive division, implying every substance falls into one of these five categories.
+The author challenges this exhaustiveness.
+3
+Identify the author's objection: lack of proof
+The author states there is no proof (la dahl) that limits substances to these five. The logicians themselves admit the possibility of bodies beyond the celestial spheres.
+An exhaustive claim requires proof of impossibility of alternatives.
+4
+Recognize the author's positive argument
+The author asserts that proofs have been established for self-subsisting entities above the heavens, which do not fit the five-fold scheme.
+These entities (angels, etc.) are known through revelation and other arguments.
+5
+Evaluate the strength of the critique
+The critique is logically sound: an unproven exhaustive classification is not certain. The author's alternative is supported by independent proofs.
+The critique does not reject all classification, only unjustified completeness.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وكذلك لما قسّموا «الجوهر» إلى خمسة أقسام العقل، والنفس، والمادة، والصورة، والجسم، وجعلوا الجسم قسمين: فلكياً، وعُنْصُرياً، و «العُنْصُري»: الاستقصاآت والمولدات الحيوان والنبات، والمعدن، كان هذا التقسيم مع فساده في الإثبات ليس حصر الموجودات فيه معلوماً. فإنه لا دليل لهم على الأجسام في الفلكيات والعُنصريات وهم معترفون بإمكان وجود أجسام وراء الأفلاك، فلا يمكن الحصر فيما ذكر حتى يُعلم انتفاء ذلك، وهم لا يعلمون انتفاءه . فكيف وقد قامت الأدلة على ثبوت أعيان قائمة بأنفُسها فوق الأفلاك، كما قد بسط في موضعه .
+And likewise, when they divided 'substance' into five divisions: intellect, soul, matter, form, and body, and they made body into two kinds: celestial and elemental, and 'elemental' includes the accumulations and generated things: animal, plant, and mineral—this division, despite its corruption in proof, does not make the enumeration of existents known through it. For they have no proof for bodies in the celestial and elemental realms, and they acknowledge the possibility of bodies beyond the celestial spheres. So it is impossible to restrict [existence] to what was mentioned unless it is known that those [other bodies] are non-existent, and they do not know that they are non-existent. How then, when proofs have been established for the existence of self-subsisting entities above the celestial spheres, as has been elaborated in its place.
+Source pages p. 349
+
+Commentary
+Here the author attacks another core classification of the peripatetic tradition: the five-fold division of substance into intellect, soul, matter, form, and body (with body further divided into celestial and elemental, and elemental into collections and generated beings like animals, plants, and minerals). He argues that this division is corrupt in its proof (fasid fi al-ithbat) and does not actually give us certain knowledge that all existents fall under these categories. The logicians themselves admit the possibility of other bodies beyond the celestial spheres (the 'falak' or heaven). Since they cannot demonstrate that such bodies do not exist, their enumeration cannot be exhaustive. Moreover, the author asserts that there are positive proofs (from revelation and other arguments) for the existence of self-subsisting entities above the heavens—entities that do not fit into the five-fold scheme. Thus the classification is both unproven and likely incomplete.
+
+Key Terms
+الجوهر (خمسة أقسام)
+الجسم الفلكي
+الجسم العنصري
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the author's main objection to the five-fold division of substance?
+A) The divisions are contradictory.
+B) There is no proof that no other substances exist beyond these.
+C) The logicians do not agree on the names.
+D) The division is not based on any principle.
+
+Key Takeaway
+An exhaustive classification requires proof that no other items fall outside it; lacking such proof, the classification is merely hypothetical.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the claim that all valid knowledge is either necessary (daruri) or acquired (kasbi). Using the same logic as Ibn Taymiyya, explain why this classification might be unproven as exhaustive. Provide an example of a type of knowledge that might not fit neatly into either category.
+?
+Examine the division of substances into five in the context of Islamic cosmology: can the existence of angels be accounted for under 'intellect' or 'soul'? How does Ibn Taymiyya's critique open the door for recognizing beings that do not fit the Aristotelian scheme?
+
+Pages p. 349 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 370
+Module 14 · Lesson 18
+Next →
+Division and Classification
+intermediate
+5 min
+The Philosophers' Classification of Sciences: Natural, Mathematical, Divine
+Ibn Taymiyya reports the philosophers' threefold division of sciences by abstraction.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the three categories of sciences in the philosophers' classification based on abstraction from matter and identify which category a given science belongs to.
+
+Core Idea
+Science is ranked by its abstraction from matter: from matter-bound natural science to wholly abstract divine science.
+
+This passage reports how the philosophers (falāsifa) divided the sciences into three types based on how abstracted their subject matter is from material existence. Ibn Taymiyya presents their scheme as a prelude to his critique. For now, we must grasp this classification precisely, as it underlies much of the Islamic philosophical tradition.
+
+Guided Path
+1
+Identify the criterion
+Find the basis on which the philosophers divided the sciences. Look for the phrase 'يتجرَّد عن المادة' (abstracted from matter) and note the two domains: mind (ذهن) and external existence (خارج).
+The criterion is abstraction, not subject matter directly.
+2
+Locate each science's abstraction condition
+For each of the three sciences listed, determine whether it is abstracted from matter in the mind, in external existence, both, or neither. Read the descriptions of natural, mathematical, and divine science.
+Natural science is not abstracted in either; mathematical is abstracted only in mind; divine is abstracted in both.
+3
+Order them by rank
+The philosophers rank them lowest to highest. Note which is called أدناها (lowest), أوسطها (middle), and أعلاها (highest).
+The ranking corresponds to degree of abstraction.
+4
+Test the classification
+Think of an example from each science (e.g., biology, geometry, metaphysics) and verify whether it fits the abstraction condition given. Consider: Why do they consider natural science not abstracted?
+Natural science deals with bodies, which always have matter.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولهذا لما كانوا يتصورون في أذهانهم ما يظنُّون وجوده في الخارج جعلوا علومهم ثلاثة أنواع : أدناها عندهم الطبيعي»، وهو ما لا يتجرَّد عن المادة، لا في الذهن ولا في الخارج، وهو الكلام في الجسم) وأحكامه وأقسامه. وأوسطها «الرياضي»، وهو ما يتجرَّد عن المادة في الذهن لا في الخارج، مثل علم الحساب والهندسة. فإنه لا في الخارج ذو مقدار إلا جسماً»، ولكن يجرَّد المقدار في النفس. وأعلاها عندهم ما يسمونه «علم» ما بعد الطبيعة باعتبار الاستدلال العِلْمي، وما قبل الطبيعة باعتبار الوجود العيني، وقد يسمونه العلم الإلهي»، ويسمونه «الفلسفة الأولى» و «الحكمة العليا»، وهو ما تجرَّد عن المادة في الذهن والخارج.
+And for this reason, when they conceived in their minds what they suppose exists externally, they made their sciences three types: the lowest according to them is 'natural science', which is not abstracted from matter, neither in the mind nor externally, and it is speech about the body and its properties and divisions. The middle is 'mathematical science', which is abstracted from matter in the mind but not externally, like arithmetic and geometry. For there is no external thing possessing quantity except a body, but quantity is abstracted in the soul. The highest according to them is what they call 'science of what is after nature' from the perspective of intellectual inference, and 'what is before nature' from the perspective of existence, and they may call it 'divine science', 'first philosophy', and 'highest wisdom', and it is what is abstracted from matter in the mind and externally.
+Source pages p. 370
+
+Commentary
+This passage presents the philosophers' classification of sciences based on abstraction from matter. Ibn Taymiyya explains that the philosophers divided sciences into three: natural science (dealing with matter in mind and externally), mathematical science (abstracted only in mind), and divine science (abstracted in both). He reports their definitions without yet critiquing them, but in the context of his overall argument, this classification is presented as a flawed conception. The passage sets up the subsequent critique that only natural science corresponds to external reality.
+
+Key Terms
+الطبيعي
+الرياضي
+علم ما بعد الطبيعة
+
+Key Terms from Source Passage
+
+Checkpoint
+How many types of sciences do the philosophers recognize based on abstraction from matter?
+A) Two
+B) Three
+C) Four
+D) One
+
+Key Takeaway
+The philosophers divide sciences into three based on how abstracted from matter the subject is: natural (not abstracted), mathematical (abstracted only in mind), divine (abstracted in both mind and external existence).
+
+How This Lesson Applies — to MY Life?
+?
+Given a list of sciences (e.g., astronomy, ethics, chemistry, logic), classify each as natural, mathematical, or divine according to the philosophers' criterion of abstraction from matter. Justify your answer by stating the abstraction condition.
+
+Pages p. 370 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 573
+Module 14 · Lesson 19
+Next →
+Division and Classification
+intermediate
+8 min
+The Four Categories of Entities Called Upon Besides Allah
+Ibn Taymiyya enumerates and negates four categories of entities called upon besides Allah.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and explain the four categories of entities that people call upon besides Allah as derived from Surah Saba, and understand why each is negated, thereby reinforcing Tawhid.
+
+Core Idea
+Four categories — owner, partner, supporter, intercessor — cover every possible relationship, and the Quran negates them all.
+
+Ibn Taymiyya, may Allah have mercy on him, extracts from the Quran a precise logical framework that categorizes any entity people call upon besides Allah. He shows that such an entity must be either an independent owner (malik), a partner (sharik), a helper (zahir), or an intercessor (shafi‘). The verse from Surah Saba (34:22-23) explicitly denies all these roles to anything other than Allah, leaving no room for shirk. By mastering this classification, you will be able to recognize and refute any form of improper invocation.
+
+Guided Path
+1
+Read the Quranic evidence
+Examine the two verses: al-Isra 17:57 (those who seek a means to their Lord) and Saba 34:22-23 (the core verse with the four negations). Understand the context.
+The first verse establishes that even the entities called upon are themselves seeking nearness to Allah.
+2
+Extract the four categories
+From Saba 34:22-23, identify the four negations: no ownership (lā yamlikūn), no partnership (mā lahum fīhimā min shirk), no supporter (mā lahu minhum min ẓahīr), and no intercession except by His permission (lā tanfa‘u al-shafā‘atu illā li-man adhina).
+These correspond to the categories Ibn Taymiyya lists: mālik, sharīk, ẓahīr, shafī‘.
+3
+Understand each category's definition
+Define each category precisely: mālik: an independent owner; sharīk: a partner sharing ownership; ẓahīr: a helper or supporter; shafī‘: an intercessor. Note that the intercessor is only effective if Allah permits.
+The definition of each term is crucial to see why the negation is absolute.
+4
+Apply the logical implication
+Since all four categories are negated for any entity besides Allah, there is no valid basis to call upon or rely on them. Any request to a created being must fall into one of these roles, all of which are negated.
+This logical deduction reinforces the core principle of Tawhid: worship and supplication are due to Allah alone.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الرابع - الوجه الرابع عشر : حصر أقسام المدعوّين من دون الله ونفي كل واحد منهم
+يَبْتَغُونَ إِلَى رَبِّهِمُ الْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ وَيَرْجُونَ رَحْمَتَهُ - إلى آخر الآية. وكذلك روى ابن أبي حاتم وغيره، عن ابن شَوْذَب عن مَطَر الوراق، قال: أنزلها الله في حي من العرب كانوا يعبدون حيّاً من الجن. وفي تفسير مقاتل : إن المشركين كانوا يعبدون الملائكة ويقولون : هي تشفع لنا عند الله . فلما ابتلوا بالقحط سبع سنين قيل لهم : ادعوا الذين زعمتم .
+والآية تتناول كلَّ من دُعي غيرُ الله وذلك المدعو يبتغي إلى الله الوسيلة ـ أي القُربى والزلفى - ويرجو رحمة الله ويخافُ عذابه. وهذا يدخل فيه الملائكة والأنبياء والصالحون - الإنس والجن. وقد قرأ طائفة أولئك الذين تدعون»، فبين أن الذين يدعونهم المشركون هم يتقربون إلى الله ويرجونه ويخافونه فكيف يجوز دعاؤهم؟ وهذا كقوله: (أَفَحَسِبَ الَّذِينَ كَفَرُواْ أَن يَتَّخِذُوا عِبَادِى مِن دُونِي أَوْلِيَاء) [سورة الكهف : ١٠٢].
+حصر أقسام المدعوّين من دون الله ونفي كلّ واحد منهم
+وقال تعالى: ﴿ قُلِ ادْعُوا الَّذِينَ زَعَمْتُم مِّن دُونِ اللَّهِ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِي السَّمَوَاتِ وَلَا فِي الْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرك وَمَا لَهُ مِنْهُم مِّن ظهير ) وَلَا تَنفَعُ الشَّفَعَةُ عِندَهُ إِلَّا لِمَنْ أَذِنَ لَمْر [سورة سبأ : ۲۲ - ۲۳] . فذكر سبحانه الأقسام الممكنة. فإن المشرك الذي يدعو غير الله ويرجوه ويخافه إما أن يجعله مالكاً أو شريكاً، أو ظهيراً، أو شفيعاً. وهكذا كل من طلب منه أمر من الأمور إما أن يكون مالكاً مستقلاً به، وإما أن يكون شريكاً فيه، وإما أن يكون عوناً وظهيراً لرب الأمر، وإما أن يكون سائلاً محضاً وشافعاً إلى رب الأمر. فإذا انتفت هذه الوجوه امتنعت الاستغاثة به.
+ولهذا كان الناس بعضهم مع بعض من الملوك وغيرهم فيما يتساءلونه لا يَخْرُجون بعض في هذه عن هذه الأقسام إما أن يكون لكلّ منهما مُلك متميز عن الآخر فيطلب من هذا ما في ومن هذا ما في ملكه . وإما أن يكون أحدهما شريكاً للآخر فيطلب منه ما يطلب من الشريك . وإما أن يكون أحدهما من أعوان الآخر وأنصاره وظُهْرَانه كأعوان الملوك فهو محتاج إليهم، فيطلب منهم ما يحتاج إليه. وإذا انتفت هذه الوجوه لم يبق إلا مجرد طلب محض وسؤال من غير حاجة بالمسؤول إلى السائل الشافع.
+The fourth station - the fourteenth aspect: Limiting the categories of those called upon besides Allah and negating each one of them. 'They seek a means to their Lord, whichever of them is nearest, and hope for His mercy' - to the end of the verse. Likewise, Ibn Abi Hatim and others narrated from Ibn Shawdhab from Matar al-Warraq, who said: Allah revealed it concerning a tribe of Arabs who used to worship a jinn. And in the interpretation of Muqatil: The polytheists used to worship the angels and say: they intercede for us with Allah. When they were afflicted with drought for seven years, it was said to them: 'Call upon those you claimed.' And the verse includes everyone who is called upon besides Allah, and that called one seeks a means to Allah - that is, closeness and favour - and hopes for His mercy and fears His punishment. This includes angels, prophets, and righteous - human and jinn. And a group recited 'those you call upon', so it made clear that those whom the polytheists call upon are themselves seeking nearness to Allah and hoping in Him and fearing Him, so how can they be called upon? And this is similar to His saying: 'Do those who disbelieve think that they can take My servants as protectors besides Me?' [Surah al-Kahf: 102]. Limiting the categories of those called upon besides Allah and negating each one of them. And He said, Exalted: 'Say: Call upon those you claim besides Allah; they do not possess an atom's weight in the heavens or the earth, nor have they any share in them, nor is there for Him any supporter from among them, and intercession does not benefit with Him except for whom He permits.' [Surah Saba: 22-23]. So He, Glorified, mentioned the possible categories. For the polytheist who calls upon other than Allah and hopes in him and fears him either makes him an owner, or a partner, or a supporter, or an intercessor. And likewise, everyone from whom a matter is sought is either an independent owner of it, or a partner in it, or a helper and supporter of the lord of the matter, or a mere petitioner and intercessor to the lord of the matter. So if these aspects are negated, seeking help from him is prevented. Therefore, people among themselves, from kings and others, in what they ask of each other, do not go beyond these categories: either each of them has a distinct ownership from the other, so he asks from this what is in his ownership and from that what is in his ownership; or one of them is a partner of the other, so he asks from him what is asked from a partner; or one of them is among the assistants, supporters, and backers of the other, like the assistants of kings, and he is in need of them, so he asks from them what he needs. And if these aspects are negated, nothing remains except mere request and supplication without any need on the part of the one asked to the one asking and interceding.
+Source pages p. 573
+
+Commentary
+This passage is a definitional and critical exposition by Ibn Taymiyya aiming to enumerate the possible categories of entities that people call upon besides Allah, and to negate the legitimacy of doing so from the Quran. The author begins by citing the verse from Surah al-Isra (17:57) about those who seek a means to their Lord, and explains that it includes angels, prophets, and righteous beings, both human and jinn. He then moves to the focal verse from Surah Saba (34:22-23), which explicitly denies that any entity besides Allah has ownership, partnership, support, or intercession except by His permission. From this, Ibn Taymiyya extracts four categories: owner (malik), partner (sharik), supporter (zahir), and intercessor (shafi'). He argues that any request made to something other than Allah must fall into one of these four roles. He then illustrates this with a human analogy: kings and their subjects interact along these same lines—either through distinct ownership, partnership, or assistance. If all these categories are negated regarding the entity called upon, then the only remaining form of request is a pure supplication without any connotation of need on the part of the one asked, which does not justify worship or invoking such entities. The passage thus establishes the Quranic basis for Tawhid and refutes shirk in all its forms.
+
+Key Terms
+مالك
+شريك
+ظهير
+شفيع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Taymiyya's analysis of Surah Saba (34:22-23), what are the four possible categories of entities that people call upon besides Allah?
+A) Creator, Sustainer, Judge, Forgiver
+B) Owner, Partner, Supporter, Intercessor
+C) King, Prophet, Angel, Jinn
+D) Good, Evil, Light, Darkness
+
+Key Takeaway
+The Quranic negation of ownership, partnership, support, and intercession establishes that no entity besides Allah can be legitimately called upon, reinforcing the exclusive right of Allah to worship and supplication.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider a person who visits the grave of a righteous person and asks for forgiveness of sins. Using the four categories, explain which category(s) this action implies (e.g., treating the dead as an intercessor or owner) and then argue with the Quranic negation.
+?
+Task 2: Analyse the following claim: 'We call upon the Prophet ﷺ because he is our intercessor.' Based on the verse, is this permissible? Explain why or why not, referencing the condition 'except for whom He permits'.
+
+Pages p. 573 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 574
+Module 14 · Lesson 20
+Next →
+Division and Classification
+beginner
+5 min
+The Three Categories of Mutual Asking in Human Affairs
+Classification of mutual asking into three types.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the three types of mutual asking based on the relationship between the parties and explain why the classification is exhaustive.
+
+Core Idea
+All human requests fall into three exhaustive categories: separate property, partnership, or need-based assistance.
+
+Ibn Taymiyya provides a logical classification (taqsim) of human interactions when one person asks another for something. This classification is not merely descriptive but serves as a precise analytical tool for understanding the nature of relationships. In this lesson, we will parse the three categories he presents and see how they cover all possibilities.
+
+Guided Path
+1
+Identify the basis of the classification
+The division is based on the relationship between the asker and the asked. What determines which category applies? It is the nature of the rights and dependencies between them.
+The relationship defines the type of request.
+2
+List the three categories
+Write down: (1) Each has distinct property (mulk mumarriz) – request for what is in the other's exclusive possession. (2) Partnership (sharika) – request as from a partner who shares ownership. (3) Helper/assistant (‘awn) – request from a needy person to a supporter.
+The third includes all forms of assistance out of need.
+3
+Understand the residual category
+If none of these apply, it is pure begging (mujarrad talab) without any reciprocal relationship or need on the part of the asked. This shows the classification is exhaustive.
+The absence of these conditions leaves only pure supplication.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+انقسام الناس ولهذا كان الناس بعضهم مع بعض من الملوك وغيرهم فيما يتساءلونه لا يخرجون في هذه عن هذه الأقسام: إما أن يكون لكل منهما ملك متميز عن الآخر فيطلب من هذا ما في ملكه ومن هذا ما في ملكه. وإما أن يكون أحدهما شريكاً للآخر فيطلب منه ما يطلب من الشريك. وإما أن يكون أحدهما من أعوان الآخر وأنصاره وظُهْرَانه كأعوان الملوك فهو محتاج إليهم، فيطلب منهم ما يحتاج إليه. وإذا انتفت هذه الوجوه لم يبق إلا مجرد طلب محض وسؤال من غير حاجة بالمسؤول إلى السائل الشافع.
+
+فالمشركون بالله كل منهم في نوع من هذه الأنواع: منهم من أثبت فاعلاً مستقلاً غير الله، لكن لم يثبتوه مماثلاً له - لا في ذاته، ولا في صفاته، ولا في أفعاله. وهذا كالمجوس الذين أثبتوا قديماً شريراً يستقل بفعل الشر. وكذلك القائلون منهم أنه خلق الشر، والقدرية من جميع الأمم أثبتوا غير الله يحدث أشياء ينفرد بإحداثها دون الله، وإن كان الله خالقاً له. ولهذا قال السلف: «القدرية مجوس هذه الأمة».
+Division of people: and for this reason, people, some with others, among kings and others, regarding what they ask of each other, do not go beyond these categories: either each of them has distinct property from the other, so he asks from this one what is in his property and from this one what is in his property. Or one of them is a partner of the other, so he asks from him what one asks from a partner. Or one of them is among the helpers and supporters and backers of the other, like the helpers of kings, and he is in need of them, so he asks from them what he needs. And if these conditions are absent, nothing remains except pure request and asking without any need of the asked to the asker or intercessor. The polytheists with God, each of them is in one of these types: among them is one who affirmed an independent agent other than God, but they did not affirm Him as similar to Him - neither in His essence, nor in His attributes, nor in His actions. This is like the Magians who affirmed an ancient evil one who independently does evil. And likewise those among them who said that He created evil, and the Qadariyya from all nations affirmed other than God who brings about things independently without God, even though God is their creator. Hence the Salaf said: 'The Qadariyya are the Magians of this Ummah.'
+Source pages p. 574
+
+Commentary
+This passage is a logical classification (taqsim) followed by its theological application. The author first divides all human interactions of mutual request into three exhaustive categories: (1) each party has separate property, so request is for what belongs to the other; (2) they are partners, so request is as from a partner; (3) one is a helper or supporter of the other, requesting aid. If none apply, it is pure begging. Then, Ibn Taymiyya applies this division to polytheists, showing they fall into these categories: some affirm an independent agent (fa'il mustaqill) distinct from God but not similar—like Magians believing in a separate evil creator—and also those who attribute creation of evil to another, like the Qadariyya. The Salaf's saying equating Qadariyya to Magians reinforces this. The logical structure highlights how theological errors mirror social relationships.
+
+Key Terms
+انقسام
+ملك متميز
+شريك
+عون
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the third category of mutual asking?
+A) Each has separate property
+B) One is a partner of the other
+C) One is a helper and supporter of the other
+D) Pure begging
+
+Key Takeaway
+Ibn Taymiyya's three-category classification of mutual asking is exhaustive and forms the basis for analyzing theological relationships.
+
+How This Lesson Applies — to MY Life?
+?
+Think of a real-world interaction in Islamic finance: when a bank asks a customer for collateral, which category does it fall into? Provide reasoning based on the relationship between the parties.
+
+Pages p. 574 · Division and Classification
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 574
+Module 14 · Lesson 21
+Next →
+Division and Classification
+intermediate
+7 min
+Applying the Classification to Polytheistic Beliefs
+Application of the classification to shirk.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which category of mutual asking corresponds to the beliefs of the Magians and the Qadariyya as described by Ibn Taymiyya.
+
+Core Idea
+Polytheists' beliefs about God mirror the three categories of human relationship errors.
+
+Ibn Taymiyya now applies the three-part classification to the beliefs of polytheists. He shows that each type of shirk corresponds to one of the categories: affirming an independent agent (fa'il mustaqill), partners, or helpers. This lesson will trace how the classification illuminates the nature of shirk, using the examples of the Magians and the Qadariyya.
+
+Guided Path
+1
+Recall the three categories
+From the previous lesson, list the three categories of mutual asking: separate property, partnership, helper/assistant.
+This is the framework for analysis.
+2
+Identify the polytheists mentioned
+The passage names the Magians (al-majus) and the Qadariyya (al-Qadariyya). Note that the Magians believed in an ancient evil independent agent. The Qadariyya believed that humans create their own actions independently of God.
+Both groups are examples affirming an independent agent (fa'il mustaqill).
+3
+Map each group to a category
+The Magians and Qadariyya both affirm an independent agent other than God who acts without dependence. This corresponds to the first category: each has distinct property/domain. The polytheists treat the false deity as having a separate realm of action, analogous to separate property.
+Other polytheists may correspond to the other two categories, though the passage only develops the first.
+4
+Understand the Salaf's saying
+The Salaf said: 'The Qadariyya are the Magians of this Ummah.' This equates the two groups because both attribute independent creative acts to other than God, making them fall into the same category of shirk.
+The classification provides the logical basis for this equation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+انقسام الناس ولهذا كان الناس بعضهم مع بعض من الملوك وغيرهم فيما يتساءلونه لا يخرجون في هذه عن هذه الأقسام: إما أن يكون لكل منهما ملك متميز عن الآخر فيطلب من هذا ما في ملكه ومن هذا ما في ملكه. وإما أن يكون أحدهما شريكاً للآخر فيطلب منه ما يطلب من الشريك. وإما أن يكون أحدهما من أعوان الآخر وأنصاره وظُهْرَانه كأعوان الملوك فهو محتاج إليهم، فيطلب منهم ما يحتاج إليه. وإذا انتفت هذه الوجوه لم يبق إلا مجرد طلب محض وسؤال من غير حاجة بالمسؤول إلى السائل الشافع.
+
+فالمشركون بالله كل منهم في نوع من هذه الأنواع: منهم من أثبت فاعلاً مستقلاً غير الله، لكن لم يثبتوه مماثلاً له - لا في ذاته، ولا في صفاته، ولا في أفعاله. وهذا كالمجوس الذين أثبتوا قديماً شريراً يستقل بفعل الشر. وكذلك القائلون منهم أنه خلق الشر، والقدرية من جميع الأمم أثبتوا غير الله يحدث أشياء ينفرد بإحداثها دون الله، وإن كان الله خالقاً له. ولهذا قال السلف: «القدرية مجوس هذه الأمة».
+Division of people: and for this reason, people, some with others, among kings and others, regarding what they ask of each other, do not go beyond these categories: either each of them has distinct property from the other, so he asks from this one what is in his property and from this one what is in his property. Or one of them is a partner of the other, so he asks from him what one asks from a partner. Or one of them is among the helpers and supporters and backers of the other, like the helpers of kings, and he is in need of them, so he asks from them what he needs. And if these conditions are absent, nothing remains except pure request and asking without any need of the asked to the asker or intercessor. The polytheists with God, each of them is in one of these types: among them is one who affirmed an independent agent other than God, but they did not affirm Him as similar to Him - neither in His essence, nor in His attributes, nor in His actions. This is like the Magians who affirmed an ancient evil one who independently does evil. And likewise those among them who said that He created evil, and the Qadariyya from all nations affirmed other than God who brings about things independently without God, even though God is their creator. Hence the Salaf said: 'The Qadariyya are the Magians of this Ummah.'
+Source pages p. 574
+
+Commentary
+This passage is a logical classification (taqsim) followed by its theological application. The author first divides all human interactions of mutual request into three exhaustive categories: (1) each party has separate property, so request is for what belongs to the other; (2) they are partners, so request is as from a partner; (3) one is a helper or supporter of the other, requesting aid. If none apply, it is pure begging. Then, Ibn Taymiyya applies this division to polytheists, showing they fall into these categories: some affirm an independent agent (fa'il mustaqill) distinct from God but not similar—like Magians believing in a separate evil creator—and also those who attribute creation of evil to another, like the Qadariyya. The Salaf's saying equating Qadariyya to Magians reinforces this. The logical structure highlights how theological errors mirror social relationships.
+
+Key Terms
+فاعل مستقل
+مجوس
+قدرية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which group did the Salaf equate to the Magians, according to the passage?
+A) Jabriyya
+B) Qadariyya
+C) Mushabbiha
+D) Jahmiyya
+
+Key Takeaway
+Ibn Taymiyya's application shows that shirk is not just idol worship but includes any belief that attributes independent agency to other than God, as seen in the Magians and Qadariyya.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the belief of the Mu'tazila that humans have full power (qudra) over their actions independently of God. Does this belief fit any of the three categories of mutual asking? If so, which one, and why?
+
+Pages p. 574 · Division and Classification
+← Prev
+Mark Done
+Next →

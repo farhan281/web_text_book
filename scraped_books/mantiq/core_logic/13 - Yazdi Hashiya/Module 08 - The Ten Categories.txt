@@ -1,0 +1,1624 @@
+← Prev
+p. 27
+Module 8 · Lesson 1
+Next →
+The Ten Categories
+intermediate
+10 min
+The Four Relations between Two Universals
+Defines the four logical relations between universals and their propositional forms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which of the four logical relations holds between any two universals and correctly reduce that relation to its standard propositional forms.
+
+Core Idea
+Every pair of universals falls into one of four relations, each with a distinct pattern of truth across individuals.
+
+In this passage, the author lays out the foundational classification of relations between universals. These four relations are the building blocks for all categorical propositions and syllogisms. Mastering them will allow you to quickly analyse any pair of terms in Islamic logic, whether in Kalam, Fiqh, or Usul al-Fiqh.
+
+Guided Path
+1
+Map the classification tree
+Trace the author's decision tree: first, do any individuals of one universal belong to the other? If none, they are متباينان (divergent). If some, then check for total truth from either side. If no total truth from any side, they are أعم وأخص من وجه (generality from one aspect). If total truth from both sides, they are متساويان (equal). If from one side only, they are أعم وأخص مطلقا (absolute generality).
+Draw the tree to visualize the four outcomes.
+2
+Identify the propositional reduction for each relation
+For each relation, the author gives a set of categorical propositions that express it. Write them down in Arabic and English: equality → two universal affirmatives; divergence → two universal negatives; absolute generality → universal affirmative + particular negative; generality from one aspect → particular affirmative + two particular negatives.
+Memorize these reductions; they are used in immediate inference.
+3
+Understand the commentary on contradictories
+The commentary clarifies that the relation between the contradictories of two equal universals is also equality. The author notes that this is not a new logical point but a pedagogical aid for students. It helps them determine relations by looking at the contradictories instead of the originals.
+Consider why the commentator felt the need to explain this.
+4
+Test with your own examples from Islamic sciences
+Pick two universals from Kalam or Fiqh, e.g., 'mumkin' (possible) and 'mawjud' (existent), or 'wajib' (obligatory) and 'mubah' (permissible). Determine their relation and write the corresponding propositional forms.
+Verify your answer by checking the individuals.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فمتساويان ونقيضا هما كذلك (ه) او من جانب واحد فاعم واخص مطلقا
+لا بد من ان يتحقق بينهما احدى النسب الاربع : (۱۳) التباين الكلى والتساوى والعموم المطلق و العموم من وجه وذلك لانهما اما ان لا يصدق شيء منهما على شيء من افراد الاخر او يصدق فعلى الاول فهما متباينان (۱۴) كالانسان والحجر وعلى الثانى فاما ان لا يكون بينهما صدق كلى من جانب اصلاً أو يكون فعلى الاول فهما اعم واخص من وجه (۱۵) كالحيوان والابيض (۱۶) و على الثانى فاما ان يكون الصدق الكلي من الجانبين او من جانب واحد فعلى الاول فهما متساويان (۱۷) كالانسان والناطق وعلى الثانى فهما اعم واخص مطلقا كالحيوان و الانسان. فرجع (۱۸) التساوى الى موجبتين كليتين نحو كل انسان ناطق و كل ناطق انسان و مرجع التباين الى سالبتين (١٩) كليتين تحولا شيء من الانسان بحجر ولا شيء من الحجر بانسان. الحجر بانسان و مرجع العموم والخـ العموم والخصوص مطلقاً الى موجبة كلية موضوعها الاخص و محمولها الأعم وسالبة جزئية موضوعها الاعم و محمولها الاخص نحو كل انسان حیوان و بعض الحيوان ليس بانسان و مرجع العموم من وجه (۲۰) الى موجبة جزئية وسالبتين جزئيتين نحو بعض الحيوان ابيض وبعضه ليس بابيض و بعض الأبيض ليس بحيوان.
+
+قوله « ونقيضا» هما كذلك» يعنى ان نقيضى المتساويين أيضاً متساويان (۲۱)
+في الخارج وذلك انهم لمارأ وا قول بعضهم ان الكلى مشترك بين كثيرين ظنوا الاشتراك بحسب الخارج على ما هو المتبادر منه فنبه على بطلان زعمهم بتقسيمه الكلى على الممتنع والممكن (محمد على) (٥) لا يخفى ان المتساويين كما ذكر، عبارة عن الكليين اللذين يكون الصدق الكلي بينهما من الجانبين وهذا المعنى متساوى النسبة بالقياس الى عينى المتساويين ونقيضيها فلا وجه للتعرض الى بيان النسبة بين النقيضين ثانياً وهكذا الكلام فى البواق الآتية اللهم الا ان يدعى ان الكلام اولاً انما هو مخصوص بالعينين كما يظهر من بعضهم .
+و فيه مع انه قول لا يعاضده دليل انه لا معنى لتخصيص الكلام بالعينين لان النقيضين عينان بالنسبة الى العينين والعينان نقيضان بالنسبة الى النقيضين فكما يصح ان يقال: ان الانسان عين واللاانسان نقيض، فكذلك يصح العكس من غير تفاوت كما يشهد به بعض كلمات المحشى ايضاً بعيد هذا. نعم يمكن ان يقال: ان غرضهم من ذلك تسهيل الامر للطلاب بأن يحكموا بعد ملاحظة النسبة بين الشيئين و معرفة انه من اى انواع النسب الاربع بان بين نقيضيهما تساو يا او تباينا من غير ان يحتاجوا الى
+So they are equal and their contradictories are likewise, or from one side, so more general and more specific absolutely. It is necessary that one of the four relations be realized between them: total divergence, equality, absolute generality, and generality from one aspect. That is because either nothing of them is true of any individuals of the other, or it is true. On the first, they are divergent (like man and stone). On the second, either there is no total truth from any side at all, or there is. On the first, they are general and specific from one aspect (like animal and white). On the second, either the total truth is from both sides or from one side. On the first, they are equal (like man and rational). On the second, they are more general and more specific absolutely (like animal and man). So equality reduces to two universal affirmatives: 'Every man is rational' and 'Every rational is man'. Divergence reduces to two universal negatives: 'Nothing of man is stone' and 'Nothing of stone is man'. Absolute generality and specificity reduces to a universal affirmative whose subject is the more specific and predicate the more general, and a particular negative whose subject is the more general and predicate the more specific: 'Every man is animal' and 'Some animal is not man'. Generality from one aspect reduces to a particular affirmative and two particular negatives: 'Some animal is white', 'Some animal is not white', and 'Some white is not animal'. His saying 'and their contradictories are likewise' means that the contradictories of two equal universals are also equal in the external world. That is because when they saw the statement of some that the universal is common to many, they thought that the commonality is in the external world as is apparent from it, so he warned against the falsity of their claim by dividing the universal into the impossible and possible. (Muhammad Ali) It is not hidden that the two equal universals, as mentioned, are the two universals between which there is total truth from both sides, and this meaning is equal in relation to the two equal universals themselves and their contradictories. So there is no point in discussing the relation between the two contradictories a second time. And likewise the discussion for the remaining relations. Unless it is claimed that the discussion first is specifically about the two themselves, as appears from some. And it is an opinion not supported by evidence, for there is no meaning to specifying the discussion to the two themselves, because the two contradictories are themselves in relation to the two themselves, and the two themselves are contradictories in relation to the two contradictories. So just as it is correct to say: 'man is itself and non-man is its contradictory', so also the opposite is correct without difference, as some words of the commentator also bear witness. But it can be said that their purpose is to facilitate the matter for students so that they judge after observing the relation between the two things and knowing which type of the four relations it is, that between their two contradictories there is equality or divergence, without needing to...
+Source pages p. 27
+
+Commentary
+This passage defines the four relations between two universals: total divergence (تباين), equality (تساوي), absolute generality and specificity (عموم مطلق), and generality from one aspect (عموم من وجه). It begins by stating that every pair of universals must fall into one of these four. The classification is based on whether any individuals of one apply to individuals of the other. If none apply, they are divergent (e.g., man and stone). Otherwise, we check for total truth from either side. If there is no total truth from any side, they are general and specific from one aspect (e.g., animal and white: some animals are white, some not; some white things are not animals). If there is total truth from both sides, they are equal (e.g., man and rational). If from one side only, they are absolutely general and specific (e.g., animal and man: every man is animal, but not every animal is man). The author then reduces each relation to its standard propositional forms: equality → two universal affirmatives; divergence → two universal negatives; absolute generality → universal affirmative (subject = specific) and particular negative (subject = general); generality from one aspect → one particular affirmative and two particular negatives. The commentary then discusses a subtle point: the statement 'and their contradictories are likewise' means that the contradictories of two equal universals are also equal. This is because the relation of equality is symmetric between the universals themselves and their contradictories. The passage argues that it is unnecessary to separately state the relation of the contradictories, since it is the same as the relation of the originals. However, some commentators suggest it is mentioned for pedagogical ease, so students can determine relations by looking at the contradictories.
+
+Key Terms
+متباينان
+متساويان
+أعم وأخص مطلقا
+أعم وأخص من وجه
+النسب الأربع
+نقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the relation between 'حيوان' (animal) and 'أبيض' (white) according to the passage?
+A) متباينان (divergent)
+B) متساويان (equal)
+C) أعم وأخص مطلقا (absolute generality)
+D) أعم وأخص من وجه (generality from one aspect)
+
+Key Takeaway
+Understanding the four relations is essential for constructing valid categorical propositions and syllogisms in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+Determine the relation between the universals 'mukallaf' (legally responsible person) and 'insan' (human) in Usul al-Fiqh, and write the corresponding propositional forms.
+?
+Given the pair 'khamr' (wine) and 'muskir' (intoxicant), identify which of the four relations holds and reduce it to its standard propositions. (Hint: All khamr is muskir, but not all muskir is khamr.)
+
+Pages p. 27 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 42
+Module 8 · Lesson 2
+Next →
+The Ten Categories
+beginner
+10 min
+Necessary vs Separable Accidents (Lazim vs Mufariq)
+Author classifies accidents into necessary and separable.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between a necessary accident (lazim) and a separable accident (mufariq) and identify examples from kalam and physics.
+
+Core Idea
+An accident is either inseparable from its subject or can be separated.
+
+In Islamic logic, every accident (arad) whether essential or accidental, is classified based on its relationship to the subject. This classification is foundational for understanding definitions and arguments. In this lesson, we examine the primary division into lazim and mufariq.
+
+Guided Path
+1
+Identify the criterion for necessary accident
+The author states that if it is impossible for the subject to exist without the accident, it is lazim. Recognize that this is a definition of necessity.
+2
+Apply the criterion to examples
+For a given accident-subject pair, ask: can the subject exist without this accident? If not, it's lazim; if yes, it's mufariq.
+3
+Distinguish subtypes of mufariq
+The author notes that mufariq can persist, decay quickly, or slowly. Note the examples: motion of sphere (persists), redness of shyness (quick), youth (slow).
+The author also mentions that some restrict mufariq to only quickly/slowly changing.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بخلافه والا فعرض مفارق يدوم او يزول بسرعة او بطؤ . ( ) . انفكاكه عن الذي هو عرضى لافراده اما لازم و اما مفارق اذ لا يخلو اما ان يستحيل معروضه (۱۲۷) اولا فالاول هو الأول (۱۲۸) والثانى هو الثاني. ثم اللازم ينقسم بقسمين، (۱۲۹) احدهما انه ای لازم الشيء اما لازم له بالنظر الى نفس الماهية مع قطع النظر عن خصوص وجوده فى الخارج او في الذهن و ذلك بان يكون هذا الشيء بحيث كلما تحقق في الذهن اوفى الخارج كان هذا اللازم ثابتاً له (۱۳۰) واما لازم له بالنظر الى وجوده ای الی خصوص وجوده الخارجي او الذهني هذا القسم (۱۳۱) بالحقيقة قسمان فاقسام اللازم بهذا التقسيم ثلاثة : لازم الماهية كزوجية الاربعة ولازم الوجود الخارجى كاحراق النار ولازم الوجود الذهني ككون حقيقة الانسان كلية (۱۳۲) و هذا القسم يسمى معقولاً ثانيا . (۱۳۳) ايضاً . والثانى (۱۳۴) ان اللازم اما بين او غير بين والبين له معنيان احدهما اللازم الذي يلزم تصوره من تصور الملزوم (۱۳۵) كما يلزم تصور العمى و هذا يقال له البين بالمعنى الاخص و حينئذٍ (۱۳۶) فغير البين هو اللازم الذي لا يلزم تصوره من تصور الملزوم كالكاتب بالقوة للانسان. والثانى من معنى البين هو اللازم الذى يلزم من تصوره مع تصور الملزوم و تصور النسبة بينهما الجزم باللزوم كزوجية الاربعة فان العقل بعد تصور الاربعة والزوجية و نسبة الزوجية اليها يحكم جزماً بان الزوجية لازم لها وذلك يقال له البين بالمعنى الاعم (۱۳۷) وح (۱۳۸) فغير البين هو اللازم الذى (۱۳۹) لا يلزم من تصوره مع تصور الملزوم والنسبة بينهما الجزم باللزوم (١٤٠) كالحدوث للعالم. فهذا التقسيم الثانى (۱۴۱) بالحقيقة تقسيمان الا ان القسمين الحاصلين على كل تقدير انما يسميان بالبين و غير البين قوله «یدوم» كحركة الفلك فانها دائمة للفلك و ان لم يمتنع انفكاكها نظراً الى ذاته. قوله بسرعة : كحمرة الخجل وصفرة الوجل قوله «اوبطو»: كالشباب. ذلك كما ادخلت على المؤنث (ه) ومنهم من حصر العرض المفارق في سريع الزوال وبطيئه .
+Otherwise (i.e., if it is not impossible to separate) it is a separable accident that persists or ceases quickly or slowly. Its separation from that which is accidental to its individuals: either necessary (lazim) or separable (mufariq), since it is either impossible for its subject to be without it—the first is the first, and the second is the second. Then the necessary divides into two divisions: one of them is that the necessary accident of a thing is either necessary for it with respect to the essence itself, disregarding the particularity of its existence in the external or in the mind, such that whenever this thing is realized in the mind or in the external, this necessary accident is established for it; or necessary for it with respect to its existence, i.e., with respect to the particularity of its external or mental existence. This section is in reality two sections, so the divisions of the necessary by this division are three: necessary of essence like the evenness of four; necessary of external existence like the burning of fire; and necessary of mental existence like the fact that the essence of man is universal. This section is also called 'secondary intelligible'. The second [division] is that the necessary is either bayyin (clear) or ghayr bayyin. Bayyin has two meanings: one is the necessary accident whose conception follows from the conception of the subject, like the conception of blindness from blindness (i.e., the property of being blind follows from the concept of blindness). This is called bayyin in the specific sense. Then ghayr bayyin is the necessary whose conception does not follow from the conception of the subject, like the potential writer for man. The second meaning of bayyin is the necessary whose conception, together with the conception of the subject and the relation between them, yields certainty of implication, like the evenness of four, for the mind, after conceiving four, evenness, and the relation of evenness to it, judges with certainty that evenness is necessary for it. This is called bayyin in the general sense. Then ghayr bayyin is the necessary whose conception, together with the conception of the subject and the relation between them, does not yield certainty of implication, like contingency (al-huduth) for the world. So this second division is in reality two divisions, but the two resulting divisions in each case are only called bayyin and ghayr bayyin. His saying: 'persists' like the motion of the sphere, for it is perpetual for the sphere even if its separation is not impossible with respect to its essence. His saying: 'quickly' like the redness of shyness and the yellowness of fear. His saying: 'or slowly' like youth. That is as introduced in the feminine. (h) And some restrict the separable accident to the quickly perishing and the slow.
+Source pages p. 42
+
+Commentary
+This passage is a classificatory and definitional commentary on the kinds of accidents. It first distinguishes between necessary (lazim) and separable (mufariq) accidents. If it is impossible for the subject to exist without the accident, it is necessary; otherwise, it is separable (and may persist or decay fast/slow). The hashiya then subdivides necessary accidents into three types based on the perspective: (1) by essence (lazim al-mahiyya) — inseparable from the quiddity regardless of existence, e.g., evenness for four; (2) by external existence (lazim al-wujud al-khariji) — required only in actual external existence, e.g., burning for fire; (3) by mental existence (lazim al-wujud al-dhihni) — required only in the mind, e.g., the universality of 'man'. The third type is called 'secondary intelligible'. Next, the passage discusses the division of necessary into bayyin (clear) and ghayr bayyin (non-clear). Bayyin has two senses: specific (al-akhass) — where the accident's concept directly implies the subject's concept (like blindness from blind); and general (al-a'amm) — where certainty of implication arises only after also considering the relation (like evenness as necessary for four). The examples are drawn from logic and physics (motion of the sphere, redness of shyness, youth). Finally, a note notes a differing opinion limiting separable accidents to fast and slow changes.
+
+Key Terms
+عرض لازم
+عرض مفارق
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which of the following is an example of a separable accident (mufariq) that persists?
+A) The evenness of four
+B) The burning of fire
+C) The motion of the sphere
+D) The redness of shyness
+
+Key Takeaway
+An accident is necessary if its removal is impossible for the subject; otherwise it is separable, and separable accidents may persist, decay quickly, or slowly.
+
+How This Lesson Applies — to MY Life?
+?
+For each pair, determine whether the accident is lazim or mufariq relative to the subject: (a) 'burning' and 'fire', (b) 'eternality' and 'God', (c) 'motion' and 'sphere'. Justify your answer using the criterion from the text.
+
+Pages p. 42 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 42
+Module 8 · Lesson 3
+Next →
+The Ten Categories
+intermediate
+15 min
+The Three Types of Necessary Accidents
+Author subdivides necessary accidents into three types.
+
+Learning Objective
+By the end of this lesson, you will be able to differentiate between necessary by essence, by external existence, and by mental existence, and classify examples accordingly.
+
+Core Idea
+A necessary accident can be required by the essence itself, by external existence, or by mental existence.
+
+In the previous lesson we distinguished necessary from separable accidents. Now we delve deeper into the necessary itself, discovering that it has three distinct types based on the ontological perspective: essence alone, external existence, or mental existence.
+
+Guided Path
+1
+Understand the basis of division
+The division is based on the perspective: by essence (lazim al-mahiyya), by external existence (lazim al-wujud al-khariji), or by mental existence (lazim al-wujud al-dhihni).
+2
+For each type, identify the scope
+Lazim al-mahiyya applies regardless of existence (even in mind). Lazim al-wujud al-khariji applies only in external existence. Lazim al-wujud al-dhihni applies only in mental existence.
+3
+Classify examples
+Use the given examples: evenness of four (essence), burning of fire (external), universality of man (mental). Note that the third type is called 'secondary intelligible'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بخلافه والا فعرض مفارق يدوم او يزول بسرعة او بطؤ . ( ) . انفكاكه عن الذي هو عرضى لافراده اما لازم و اما مفارق اذ لا يخلو اما ان يستحيل معروضه (۱۲۷) اولا فالاول هو الأول (۱۲۸) والثانى هو الثاني. ثم اللازم ينقسم بقسمين، (۱۲۹) احدهما انه ای لازم الشيء اما لازم له بالنظر الى نفس الماهية مع قطع النظر عن خصوص وجوده فى الخارج او في الذهن و ذلك بان يكون هذا الشيء بحيث كلما تحقق في الذهن اوفى الخارج كان هذا اللازم ثابتاً له (۱۳۰) واما لازم له بالنظر الى وجوده ای الی خصوص وجوده الخارجي او الذهني هذا القسم (۱۳۱) بالحقيقة قسمان فاقسام اللازم بهذا التقسيم ثلاثة : لازم الماهية كزوجية الاربعة ولازم الوجود الخارجى كاحراق النار ولازم الوجود الذهني ككون حقيقة الانسان كلية (۱۳۲) و هذا القسم يسمى معقولاً ثانيا . (۱۳۳) ايضاً . والثانى (۱۳۴) ان اللازم اما بين او غير بين والبين له معنيان احدهما اللازم الذي يلزم تصوره من تصور الملزوم (۱۳۵) كما يلزم تصور العمى و هذا يقال له البين بالمعنى الاخص و حينئذٍ (۱۳۶) فغير البين هو اللازم الذي لا يلزم تصوره من تصور الملزوم كالكاتب بالقوة للانسان. والثانى من معنى البين هو اللازم الذى يلزم من تصوره مع تصور الملزوم و تصور النسبة بينهما الجزم باللزوم كزوجية الاربعة فان العقل بعد تصور الاربعة والزوجية و نسبة الزوجية اليها يحكم جزماً بان الزوجية لازم لها وذلك يقال له البين بالمعنى الاعم (۱۳۷) وح (۱۳۸) فغير البين هو اللازم الذى (۱۳۹) لا يلزم من تصوره مع تصور الملزوم والنسبة بينهما الجزم باللزوم (١٤٠) كالحدوث للعالم. فهذا التقسيم الثانى (۱۴۱) بالحقيقة تقسيمان الا ان القسمين الحاصلين على كل تقدير انما يسميان بالبين و غير البين قوله «یدوم» كحركة الفلك فانها دائمة للفلك و ان لم يمتنع انفكاكها نظراً الى ذاته. قوله بسرعة : كحمرة الخجل وصفرة الوجل قوله «اوبطو»: كالشباب. ذلك كما ادخلت على المؤنث (ه) ومنهم من حصر العرض المفارق في سريع الزوال وبطيئه .
+Otherwise (i.e., if it is not impossible to separate) it is a separable accident that persists or ceases quickly or slowly. Its separation from that which is accidental to its individuals: either necessary (lazim) or separable (mufariq), since it is either impossible for its subject to be without it—the first is the first, and the second is the second. Then the necessary divides into two divisions: one of them is that the necessary accident of a thing is either necessary for it with respect to the essence itself, disregarding the particularity of its existence in the external or in the mind, such that whenever this thing is realized in the mind or in the external, this necessary accident is established for it; or necessary for it with respect to its existence, i.e., with respect to the particularity of its external or mental existence. This section is in reality two sections, so the divisions of the necessary by this division are three: necessary of essence like the evenness of four; necessary of external existence like the burning of fire; and necessary of mental existence like the fact that the essence of man is universal. This section is also called 'secondary intelligible'. The second [division] is that the necessary is either bayyin (clear) or ghayr bayyin. Bayyin has two meanings: one is the necessary accident whose conception follows from the conception of the subject, like the conception of blindness from blindness (i.e., the property of being blind follows from the concept of blindness). This is called bayyin in the specific sense. Then ghayr bayyin is the necessary whose conception does not follow from the conception of the subject, like the potential writer for man. The second meaning of bayyin is the necessary whose conception, together with the conception of the subject and the relation between them, yields certainty of implication, like the evenness of four, for the mind, after conceiving four, evenness, and the relation of evenness to it, judges with certainty that evenness is necessary for it. This is called bayyin in the general sense. Then ghayr bayyin is the necessary whose conception, together with the conception of the subject and the relation between them, does not yield certainty of implication, like contingency (al-huduth) for the world. So this second division is in reality two divisions, but the two resulting divisions in each case are only called bayyin and ghayr bayyin. His saying: 'persists' like the motion of the sphere, for it is perpetual for the sphere even if its separation is not impossible with respect to its essence. His saying: 'quickly' like the redness of shyness and the yellowness of fear. His saying: 'or slowly' like youth. That is as introduced in the feminine. (h) And some restrict the separable accident to the quickly perishing and the slow.
+Source pages p. 42
+
+Commentary
+This passage is a classificatory and definitional commentary on the kinds of accidents. It first distinguishes between necessary (lazim) and separable (mufariq) accidents. If it is impossible for the subject to exist without the accident, it is necessary; otherwise, it is separable (and may persist or decay fast/slow). The hashiya then subdivides necessary accidents into three types based on the perspective: (1) by essence (lazim al-mahiyya) — inseparable from the quiddity regardless of existence, e.g., evenness for four; (2) by external existence (lazim al-wujud al-khariji) — required only in actual external existence, e.g., burning for fire; (3) by mental existence (lazim al-wujud al-dhihni) — required only in the mind, e.g., the universality of 'man'. The third type is called 'secondary intelligible'. Next, the passage discusses the division of necessary into bayyin (clear) and ghayr bayyin (non-clear). Bayyin has two senses: specific (al-akhass) — where the accident's concept directly implies the subject's concept (like blindness from blind); and general (al-a'amm) — where certainty of implication arises only after also considering the relation (like evenness as necessary for four). The examples are drawn from logic and physics (motion of the sphere, redness of shyness, youth). Finally, a note notes a differing opinion limiting separable accidents to fast and slow changes.
+
+Key Terms
+لازم الماهية
+لازم الوجود الخارجي
+لازم الوجود الذهني
+معقول ثاني
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a necessary accident by mental existence (lazim al-wujud al-dhihni) according to the text?
+A) The evenness of four
+B) The burning of fire
+C) The universality of man
+D) The motion of the sphere
+
+Key Takeaway
+A necessary accident can be so by virtue of the quiddity alone, by external existence, or by mental existence; the third type is also called secondary intelligible.
+
+How This Lesson Applies — to MY Life?
+?
+For each of the following, determine which type of necessary accident it is and explain your reasoning: (a) 'four is even', (b) 'fire burns when in contact with a flammable substance', (c) 'human is a universal concept'.
+
+Pages p. 42 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 42
+Module 8 · Lesson 4
+Next →
+The Ten Categories
+intermediate
+15 min
+Clear vs Non-Clear Necessary Accidents (Bayyin and Ghayr Bayyin)
+Author divides necessary into clear and non-clear with two meanings.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between bayyin in the specific sense, bayyin in the general sense, and ghayr bayyin, and apply the criterion of certainty of implication.
+
+Core Idea
+Some necessary accidents are immediately self-evident, others require relational consideration, and some never yield certainty.
+
+Once we have determined that an accident is necessary, we can further classify it based on how clearly its necessity is known. This lesson unpacks the two meanings of 'clear' (bayyin) and identifies when an accident is non-clear.
+
+Guided Path
+1
+Understand the two meanings of bayyin
+Bayyin bi al-akhass: the accident's concept alone implies the subject. Bayyin bi al-a'amm: after considering the relation, certainty of implication arises.
+2
+Apply to examples
+For 'blindness from blind', it's bayyin bi al-akhass. For 'evenness of four', it's bayyin bi al-a'amm.
+3
+Identify ghayr bayyin
+When even after considering the relation, certainty does not arise, e.g., contingency for the world.
+The author notes that this division is actually two divisions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بخلافه والا فعرض مفارق يدوم او يزول بسرعة او بطؤ . ( ) . انفكاكه عن الذي هو عرضى لافراده اما لازم و اما مفارق اذ لا يخلو اما ان يستحيل معروضه (۱۲۷) اولا فالاول هو الأول (۱۲۸) والثانى هو الثاني. ثم اللازم ينقسم بقسمين، (۱۲۹) احدهما انه ای لازم الشيء اما لازم له بالنظر الى نفس الماهية مع قطع النظر عن خصوص وجوده فى الخارج او في الذهن و ذلك بان يكون هذا الشيء بحيث كلما تحقق في الذهن اوفى الخارج كان هذا اللازم ثابتاً له (۱۳۰) واما لازم له بالنظر الى وجوده ای الی خصوص وجوده الخارجي او الذهني هذا القسم (۱۳۱) بالحقيقة قسمان فاقسام اللازم بهذا التقسيم ثلاثة : لازم الماهية كزوجية الاربعة ولازم الوجود الخارجى كاحراق النار ولازم الوجود الذهني ككون حقيقة الانسان كلية (۱۳۲) و هذا القسم يسمى معقولاً ثانيا . (۱۳۳) ايضاً . والثانى (۱۳۴) ان اللازم اما بين او غير بين والبين له معنيان احدهما اللازم الذي يلزم تصوره من تصور الملزوم (۱۳۵) كما يلزم تصور العمى و هذا يقال له البين بالمعنى الاخص و حينئذٍ (۱۳۶) فغير البين هو اللازم الذي لا يلزم تصوره من تصور الملزوم كالكاتب بالقوة للانسان. والثانى من معنى البين هو اللازم الذى يلزم من تصوره مع تصور الملزوم و تصور النسبة بينهما الجزم باللزوم كزوجية الاربعة فان العقل بعد تصور الاربعة والزوجية و نسبة الزوجية اليها يحكم جزماً بان الزوجية لازم لها وذلك يقال له البين بالمعنى الاعم (۱۳۷) وح (۱۳۸) فغير البين هو اللازم الذى (۱۳۹) لا يلزم من تصوره مع تصور الملزوم والنسبة بينهما الجزم باللزوم (١٤٠) كالحدوث للعالم. فهذا التقسيم الثانى (۱۴۱) بالحقيقة تقسيمان الا ان القسمين الحاصلين على كل تقدير انما يسميان بالبين و غير البين قوله «یدوم» كحركة الفلك فانها دائمة للفلك و ان لم يمتنع انفكاكها نظراً الى ذاته. قوله بسرعة : كحمرة الخجل وصفرة الوجل قوله «اوبطو»: كالشباب. ذلك كما ادخلت على المؤنث (ه) ومنهم من حصر العرض المفارق في سريع الزوال وبطيئه .
+Otherwise (i.e., if it is not impossible to separate) it is a separable accident that persists or ceases quickly or slowly. Its separation from that which is accidental to its individuals: either necessary (lazim) or separable (mufariq), since it is either impossible for its subject to be without it—the first is the first, and the second is the second. Then the necessary divides into two divisions: one of them is that the necessary accident of a thing is either necessary for it with respect to the essence itself, disregarding the particularity of its existence in the external or in the mind, such that whenever this thing is realized in the mind or in the external, this necessary accident is established for it; or necessary for it with respect to its existence, i.e., with respect to the particularity of its external or mental existence. This section is in reality two sections, so the divisions of the necessary by this division are three: necessary of essence like the evenness of four; necessary of external existence like the burning of fire; and necessary of mental existence like the fact that the essence of man is universal. This section is also called 'secondary intelligible'. The second [division] is that the necessary is either bayyin (clear) or ghayr bayyin. Bayyin has two meanings: one is the necessary accident whose conception follows from the conception of the subject, like the conception of blindness from blindness (i.e., the property of being blind follows from the concept of blindness). This is called bayyin in the specific sense. Then ghayr bayyin is the necessary whose conception does not follow from the conception of the subject, like the potential writer for man. The second meaning of bayyin is the necessary whose conception, together with the conception of the subject and the relation between them, yields certainty of implication, like the evenness of four, for the mind, after conceiving four, evenness, and the relation of evenness to it, judges with certainty that evenness is necessary for it. This is called bayyin in the general sense. Then ghayr bayyin is the necessary whose conception, together with the conception of the subject and the relation between them, does not yield certainty of implication, like contingency (al-huduth) for the world. So this second division is in reality two divisions, but the two resulting divisions in each case are only called bayyin and ghayr bayyin. His saying: 'persists' like the motion of the sphere, for it is perpetual for the sphere even if its separation is not impossible with respect to its essence. His saying: 'quickly' like the redness of shyness and the yellowness of fear. His saying: 'or slowly' like youth. That is as introduced in the feminine. (h) And some restrict the separable accident to the quickly perishing and the slow.
+Source pages p. 42
+
+Commentary
+This passage is a classificatory and definitional commentary on the kinds of accidents. It first distinguishes between necessary (lazim) and separable (mufariq) accidents. If it is impossible for the subject to exist without the accident, it is necessary; otherwise, it is separable (and may persist or decay fast/slow). The hashiya then subdivides necessary accidents into three types based on the perspective: (1) by essence (lazim al-mahiyya) — inseparable from the quiddity regardless of existence, e.g., evenness for four; (2) by external existence (lazim al-wujud al-khariji) — required only in actual external existence, e.g., burning for fire; (3) by mental existence (lazim al-wujud al-dhihni) — required only in the mind, e.g., the universality of 'man'. The third type is called 'secondary intelligible'. Next, the passage discusses the division of necessary into bayyin (clear) and ghayr bayyin (non-clear). Bayyin has two senses: specific (al-akhass) — where the accident's concept directly implies the subject's concept (like blindness from blind); and general (al-a'amm) — where certainty of implication arises only after also considering the relation (like evenness as necessary for four). The examples are drawn from logic and physics (motion of the sphere, redness of shyness, youth). Finally, a note notes a differing opinion limiting separable accidents to fast and slow changes.
+
+Key Terms
+بين بالمعنى الأخص
+بين بالمعنى الأعم
+غير بين
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which of the following is an example of 'bayyin bi al-ma'na al-akhass' (clear in the specific sense)?
+A) The evenness of four
+B) The potential writer for man
+C) Blindness from the blind
+D) Contingency for the world
+
+Key Takeaway
+A necessary accident is bayyin if the mind grasps its necessity easily; either directly from the subject alone (specific sense) or after considering the relation (general sense); otherwise it is ghayr bayyin.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each of the following necessary accidents as bayyin bi al-akhass, bayyin bi al-a'amm, or ghayr bayyin: (a) 'blindness is a property of the blind', (b) 'four is even', (c) 'the world is contingent'. Justify using the text's criteria.
+
+Pages p. 42 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 112
+Module 8 · Lesson 5
+Next →
+The Ten Categories
+intermediate
+10 min
+Rational Division of Compound Predicates
+Marginal note providing rational division of compound predicates.
+
+Learning Objective
+By the end of this lesson, you will be able to construct the six types of compound predicates by systematically combining subject and essential accident at generic and specific levels.
+
+Core Idea
+Rational division reveals six compound predicates where the eye sees only two.
+
+The commentator on this passage mentions only two examples of compound predicates: subject with essential accident, and type of subject with essential accident. However, the marginalist argues that a complete rational division (tashqīq 'aqlī) yields six distinct types. This is not mere pedantry; it reflects the precision required to analyze propositions in any science. In this lesson, we will walk through the method of rational division to derive all six types.
+
+Guided Path
+1
+Identify the two fundamental components
+The components are the subject (al-mawḍū‘) and the essential accident (al-‘araḍ al-dhātī). Each can be taken in its generic sense or as a specific type (naw‘). So we have four basic forms: subject, type of subject, essential accident, type of essential accident.
+These correspond to the first two columns in a 2x2 matrix.
+2
+Combine the generic subject with each form of accident
+Take the subject (generic) and combine it with: (a) the generic accident → type (1), (b) the type of accident → type (2). Also combine the subject with its own type → type (3). That gives three types from the subject side.
+The marginalist says 'three from the combination of the subject with the last three' – referring to the three forms other than the subject itself.
+3
+Combine the type of subject with each form of accident
+Now take the type of subject and combine it with: (a) the generic accident → type (4), (b) the type of accident → type (5). That gives two types from the type-of-subject side.
+The marginalist says 'two from the combination of the type of the subject with the last two' – the remaining two forms after removing the subject and its type.
+4
+Combine the generic accident with its own type
+Finally, combine the generic essential accident with its own type → type (6). This is the one combination of the accidental side with itself.
+The marginalist says 'one from their combination' – i.e., from the two accident forms combined.
+5
+Verify the six types against examples
+The marginalist provides examples for each type: (1) subject+accident: 'magnitude that is a mean in proportion'; (2) subject+type of accident: 'every word raised by a verb is the subject'; (3) subject+its own type: 'every speech devoid of waw...'; (4) type of subject+accident: 'every line standing on another line...'; (5) type of subject+type of accident: 'every noun in the genitive...'; (6) accident+its type: 'i‘rab, if it is raf‘...'.
+These examples come from geometry, logic, and grammar.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله او مركب من الموضوع مع العرض الذاتى كقول المهندس: «كل مقدار وسط فى النسبة فهو ضلع ما يحيط به الطرفان او من نوعه مع العرض الذاتي كقوله : كل خط قام على خط فان زاويتي جنبيه قائمتان او متساويتان لهما. و يوجد فى بعض النسخ: قوله «لذواتها»: و هو بحسب الظاهر لا ينطبق الاعلى العرض الأولى. اعلم ان التشقيق العقلى فى المقام يستدعى تسديس :الاقسام ثلاثة حاصلة من تركيب الموضوع مع الثلاثة الاخيرة و اثنان من تركيب نوع الموضوع مع الأخيرين و واحد من تركيبها والمحشى لم يتعرض الا لاثنين منهما و هما المركب من الموضوع والمرض الذاتى و المركب من نوعه مع العرض الذاتى. و أما البواقى فالمركب من الموضوع و نوعه كقول النحاة كل كلام يكون مجرداً عن الواو و الضمير، فهو لا يصلح للحالية و كل كلام مشتمل على واحد منها، فهو صالح لها، وكقول المنطق : كل معرف يحصل به التميز بالكنه، فهو الحد التام او التميز في الجملة، فهو الحد الناقص او الرسم التام والمركب من الموضوع و نوع العرض الذاتى كقول النحوى كل كلمة مرفوع بالفعل فهو المسند اليه والمركب من نوع الموضوع و نوع العرض الذاتى كقوله كل اسم مجرور بالحرف فهو يحتاج الى متعلق غالباً و المركب من العرض الذاتى و نوعه كقوله: الاعراب اذا كان رفعاً فهو علم الفاعلية أو نصباً فهو علم المفعولية أو جراً فهو علم الاضافة.
+His saying: 'or compound from the subject with the essential accident', like the geometer's saying: 'Every magnitude that is a mean in proportion is a side of what the two ends enclose', or 'from its type with the essential accident', like his saying: 'Every line that stands on another line, then the two angles on its sides are either right or equal to each other.' And in some copies: his saying 'for themselves' is apparently applicable only to the primary accident. Know that rational division in this context requires six divisions: three from the combination of the subject with the last three, two from the combination of the type of the subject with the last two, and one from their combination. The commentator only addressed two of them: the compound of the subject with the essential accident and the compound of its type with the essential accident. As for the remaining: the compound of the subject with its type, like the grammarian's saying: 'Every speech that is devoid of waw and pronoun is not suitable for the conditional state, and every speech including one of them is suitable for it', and like the logician's saying: 'Every concept by which distinction is obtained in essence is the complete definition, or distinction in the whole is the incomplete definition or the complete description'; and the compound of the subject with the type of essential accident, like the grammarian's saying: 'Every word raised by a verb is the subject'; and the compound of the type of subject with the type of essential accident, like his saying: 'Every noun in the genitive by a particle usually needs a relation'; and the compound of the essential accident with its type, like his saying: 'I'rab, if it is raf', it signifies agentivity; if nasb, it signifies objectness; if jarr, it signifies addition.'
+Source pages p. 112
+
+Commentary
+This marginal note expands on the commentator's classification of compound predicates in scientific propositions. The original text mentioned that the subject of a science can be a genus, an essential accident, or a compound. Here, the note examines the compound case in detail. The author states that rational division (tashqiq 'aqli) in this context necessitates six types of compound predicates, based on combining the subject (or its type) with the essential accident (or its type). The commentator only gave two examples: (1) subject + essential accident (e.g., magnitude that is a mean in proportion), and (2) type of subject + essential accident (e.g., line standing on another line). The marginalist then provides the remaining four: (3) subject + type of subject (e.g., 'every speech devoid of waw and pronoun' — speech is type of subject? Actually the example: 'Every speech...' — speech is the subject, and 'devoid of waw and pronoun' is a type of predicate? The note says 'compound of the subject with its type', meaning the predicate is a type of the subject. The example: 'Every speech that is devoid of waw and pronoun is not suitable for the conditional state' — here the predicate 'not suitable' is a type of property of speech. (4) subject + type of essential accident (e.g., 'every word raised by a verb is the subject' — 'raised by a verb' is a type of essential accident of the word). (5) type of subject + type of essential accident (e.g., 'every noun in the genitive by a particle usually needs a relation' — 'noun in genitive' is a subtype of noun, and 'needs a relation' is a type of attribute). (6) essential accident + its type (e.g., 'i'rab, if it is raf', it signifies agentivity' — i'rab is an essential accident of words, and raf' is a type of i'rab). This detailed classification shows the precision with which logicians and grammarians analyze propositions in sciences.
+
+Key Terms
+مركب من الموضوع مع العرض الذاتي (murakkab min al-mawḍū‘ ma‘a al-‘araḍ al-dhātī): A compound predicate formed by combining the subject with its essential accident; the predicate is a combination of the subject and one of its essential accidents. [Note: No significant shift; this is a standard logical classification.]
+نوع الموضوع (naw‘ al-mawḍū‘): A type or species of the subject; the subject considered as a genus and its species. [Note: No significant shift.]
+نوع العرض الذاتي (naw‘ al-‘araḍ al-dhātī): A type of essential accident; a subclass of the essential predicate. [Note: No significant shift.]
+تشقيق عقلي (tashqīq ‘aqlī): Rational division; a systematic enumeration of possibilities by reason. [Note: This term is used in logic for exhaustive classification; stable.]
+
+Key Terms from Source Passage
+
+Checkpoint
+How many types of compound predicates does the marginalist enumerate based on rational division?
+A) Two
+B) Four
+C) Six
+D) Eight
+
+Key Takeaway
+Rational division (tashqīq 'aqlī) of compound predicates yields six systematic types, not just the two initially given by the commentator.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'Every rising body is changing' from physics. Identify which of the six types it belongs to (subject: body, accident: changing; answer: subject + essential accident).
+?
+Construct an original example for the type 'compound of the subject with its type' using a grammar rule (e.g., 'Every verb that is past tense indicates time past').
+
+Pages p. 112 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 142
+Module 8 · Lesson 6
+Next →
+The Ten Categories
+beginner
+5 min
+The Semantic Specialization of 'آل' vs 'أهل'
+Author explains that 'آل' is specifically used for noble beings, unlike 'أهل' which is general.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the Arabic terms 'آل' and 'أهل' by identifying their semantic scope, and explain the phonetic rationale for the specialization of 'آل'.
+
+Core Idea
+‘آل’ is reserved for noble rational beings, while ‘أهل’ covers all family and possessions.
+
+In Arabic, the words ‘آل’ (al) and ‘أهل’ (ahl) both can refer to family or followers, but they are not interchangeable. This passage from a logic commentary clarifies that ‘آl’ is restricted to rational beings of high status, whereas ‘أهل’ is more general. Understanding this distinction is crucial for precise interpretation of texts, especially when discussing the family of the Prophet (ﷺ) or other noble figures.
+
+Guided Path
+1
+Locate the definition of ‘آل’
+Find the statement in the Arabic that says ‘آل’ is restricted to nobles (ashraf). The passage begins with 'قوله خص استعماله في الاشراف' – 'His saying: Its usage is restricted to nobles.'
+2
+Extract the conditions: rational and high status
+The passage specifies that 'اشراف' means rational beings who have great significance (عقلاء الذين لهم خطر عظيم). So ‘آل’ requires both rationality and nobility.
+3
+Contrast with ‘أهل’
+Identify what ‘أهل’ includes that ‘آل’ does not: ‘أهل’ covers non-rational beings (like property) and rational beings without high status. Examples: ‘أهل الرجل’ for his property and family.
+The passage explicitly says ‘الاهل يعم العقلاء وغيرهم’ and ‘الآل يخص العقلاء فقط’.
+4
+Analyze the phonetic compensation theory
+Understand the rationale: the original word ‘أهل’ had a heavy letter ha, which was changed to the light alif in ‘آل’. To compensate for the perceived phonetic weakening, the meaning was narrowed (specialized) to noble beings only.
+This is an example of balancing sound and meaning in Arabic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله خص استعماله في الاشراف اى في العقلاء الذين لهم خطر عظيم، جمع شريف وهو فعيل من الشرف محركة بمعنى العلو والمكان العالى تشبيهاً للعلو المعنوى بالعلو المكاني وفي الحديث: اذا اتيكم شريف قوم فاكرموه سئل و ما الشريف ؟ فقال : الشريف من كان له مال، قلت فالحسيب ؟ قال : الذي يفعل الافعال الحسنة بماله وغير ماله. هذا. والحاصل ان الآل اخص من الاهل مطلقا من جهة ان الاهل يعم العقلاء وغيرهم ، يقال : اهل الرجل لما له وعياله ، والال يخص العقلاء فقط و ايضاً هو يعم من العقلاء من له خطر وغيره والآل لا يستعمل الا فيمن له خطر دنيوياً او مطلقاً كآل فرعون و آل محمد (ص) ، قيل لما ارتكبوا في الآل التغيير اللفظى بتغيير الهاء ارتكبوا التخصيص الاول توقياً للملائمة بين اللفظ والمعنى ولما كان الهاء حرفاً ثقيلاً لكونه من اقصى الحلق تطرق الى الكلمة بسبب قلبها الى الالف الذى هو حرف خفيف - نقص قوى فارتكبوا التخصيص الثاني جبراً لهذا النقص. (محمد على)
+His saying: 'Its usage is restricted to nobles' i.e., to rational beings who have great significance. It is the plural of sharif, which is fa'il from al-sharaf (moving the ra) meaning height and high place, by likening spiritual highness to physical highness. In the hadith: 'When the sharif of a people comes to you, honor him.' It was asked: And what is sharif? He said: The sharif is one who has wealth. I said: Then what is hasib? He said: One who does good deeds with his wealth and without it. This. The conclusion is that 'al' is more specific than 'ahl' absolutely, in that 'ahl' includes rational and non-rational beings. One says: 'ahl al-rajul' for his property and family. And 'al' is specific to rational beings only. Also, 'ahl' includes both those with high status and others, while 'al' is not used except for those with worldly or absolute high status, like 'al Fir'awn' and 'al Muhammad (s)'. It is said: When they undertook the phonetic change in 'al' by changing the ha, they undertook the first specification as a precaution for harmony between the word and meaning. And since the ha was a heavy letter as it is from the farthest part of the throat, a weakness entered the word due to its change to alif, which is a light letter, so they undertook the second specification to compensate for this weakness. (Muhammad Ali)
+Source pages p. 142
+
+Commentary
+This passage explains the semantic specialization of the word 'آل'. The commentator notes that 'آل' is restricted (mukhassas) to noble beings (ashraf), i.e., rational beings of high status. He then defines 'sharif' using a hadith, and then contrasts 'آل' with 'أهل': 'أهل' is broader, including non-rational and even property, while 'آل' only applies to rational beings with significance (like 'آل فرعون' or 'آل محمد'). He also provides a phonetic- semantic justification: to harmonize the meaning with the lightened form (ha changed to alif), they further specialized the meaning. The ha was heavy, so after lightening it to alif, they narrowed the meaning to compensate for the phonetic weakening. This is a typical example of balancing sound and sense in Arabic morphology.
+
+Key Terms
+آل (al): A noun meaning the noble family or followers of a person, restricted to rational beings of high status. [Note: In classical Arabic, 'آل' is often used for the family of the Prophet (ص) and for other noble figures; later usage extends to 'al al-bayt' specifically.]
+أهل (ahl): Family, people, or possessions; general term for rational and non-rational associates. [Note: Broad and stable; no shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what distinguishes 'آل' from 'أهل'?
+A) 'آل' includes non-rational beings, 'أهل' does not.
+B) 'آل' is specific to rational beings of high status; 'أهل' is general.
+C) 'أهل' is only used for property, 'آل' for family.
+D) There is no semantic difference, only phonetic.
+
+Key Takeaway
+The term 'آل' is semantically specialized for noble rational beings, a specificity motivated by the phonetic lightening of the word from 'أهل'.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the term ‘آل’ or ‘أهل’ is more appropriate in the following contexts, and justify using the criteria from the passage: (a) The family of Prophet Muhammad (ﷺ) in terms of honorific status; (b) The household goods of a person; (c) The followers of Pharaoh in the Quran.
+?
+Explain in your own words the phonetic-semantic principle mentioned: why did the Arabic language specialize ‘آل’ after the phonetic change from ‘أهل’?
+
+Pages p. 142 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 167
+Module 8 · Lesson 7
+Next →
+The Ten Categories
+intermediate
+10 min
+Composition of the Proposition: Ancient vs. Later Views
+Contrast of ancient and later views on proposition composition.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the ancient and later views on the parts of the proposition and explain the compromise that reconciles them.
+
+Core Idea
+The proposition's parts depend on whether judgment is a separate component or a mode of perceiving the relation.
+
+This passage presents a fundamental debate in Islamic logic: how many parts constitute a proposition (qadiyya)? The ancients said three: subject, predicate, and the perfect predicative relation. The later scholars added a fourth: the occurrence or non-occurrence of the relation. The debate turns on whether judgment (the perception of occurrence) is a distinct cognitive act or just a mode of the same perception. A reconciliation is offered by distinguishing the relation as perceived without assent (conceptual) versus with assent (judgment). This lesson unpacks the arguments and shows how the commentator resolves them.
+
+Guided Path
+1
+Identify the ancient view
+The ancient philosophers held the proposition has three parts: the subject (mahkum 'alayh), the predicate (mahkum bih), and the perfect predicative relation (al-nisba al-tamma al-khabariyya). Judgment is the perception of occurrence or non-occurrence of that relation.
+The relation is considered 'perfect' because it completes the proposition.
+2
+Identify the later view
+The later scholars added a fourth part: the restrictive relation and the occurrence or non-occurrence of that relation. They argued that in doubt, one can conceive the relation without any judgment, so the perception of occurrence is a separate fourth component.
+This view is based on examples like doubting whether Zayd is standing.
+3
+Understand the objection to the later view
+An objector argues that the perception in doubt is the same as in judgment—it only differs in mode (non-assentive vs. assentive). Thus the later view does not necessitate a fourth part; the difference is in the intensity, not in the number of perceived items.
+The objection relies on the idea that the same relation can be perceived with or without assent.
+4
+Follow the reconciliation
+Some later scholars reconcile by noting that the judgmental relation can be considered in two respects: as perceived without assent (conceptual, called the 'judgmental relation') or with assent (assented, called 'judgment'). The philosopher's school (madhhab al-hakim) holds that both are valid perspectives.
+Thus the number of parts depends on the perspective (iʿtibār). The commentator (muhaqqiq) bases his position on this dual consideration.
+5
+Apply to the commentator's position
+The commentator (al-muhaqqiq al-Yazdi) argues that the author (musannif) followed the ancients in both stations: making assent identical to judgment, and making the object of assent the perfect predicative relation, not occurrence. This entails a three-part proposition.
+The passage ends by explaining why three parts follow if the relation is the final part.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المقام الثانى فى تركيب القضية، واختلف فيه ايضاً ، فالقدماء من الحكماء على أنها مركبة من اجزاء المحكوم عليه و به والنسبة التامة الخبرية وادراكها هو الحكم التي يعبر عنها بالوقوع واللا وقوع والمتأخرون على أنها مركبة من امور اربعة هي المحكوم عليه و به والنسبة التقييدية الثبوتية و وقوع تلك النسبة اولا وقوعها لما رأوا أنه يوجد في صورة الشك تصور النسبة ولا يوجد الحكم فاذا ادرك وقوع تلك النسبة او لا وقوعها فقد حصل الحكم وزان الشك قالوا: فهذا ادراك آخر مغاير للادراك ضرورة، وقد نوقش فيه بان الدرك في صورة الشك هو بعينه الدرك فى صورة الحكم غير انه ادرك فى الاولى بادراك غير اذعانى و في الثانية بإدراك اذعانى هذا لا يوجب زيادة الاجزاء فان التفاوت بين الادراكين باعتبار المتعلق. ويمكن التوفيق بما ذكره بعض المتأخرين بان النسبة الحكمية تارة يتعلق بها الادراك بدون الاذعان و هي بهذا الاعتبار من المعلومات التصورية ويسمى النسبة الحكمية وتارة مع الاذعان وهي بهذا الاعتبار من المعلومات التصديقية على مذهب الحكيم الحكيم ويسمى الحكم. واكتفاء المحشى (ره) في بيان تركيب التصديق بالطرفين والحكم، مبنى على هذا والاعتباران متغایران فمن قال بتركيبها من الأربعة لاحظ التعدد الاعتبارى ومن لم يقل بذلك لاحظ الاتحاد الذاتي و الى هذا اشار شارح المطالع حيث قال ان اجزاء القضية عند التفصيل اربعة كما ان حاصل كلام المحشى ان المصنف اختار في المقامين مذهب القدماء اما فى الاول فلجعله التصديق نفس الاذعان و الحكم و اما فى الثانى فلجعله متعلق الاذعان هو النسبة التامة الخبرية دون الوقوع واللا وقوع وانما وصف متعلق الحكم بكونه جزء اخيراً للقضية بينهما على استلزام مذهب القدماء تثليث اجزاء القضية، بيان ذلك : انه لما كانت هذه النسبة جزء اخيراً للقضية ولا شك في انه ليس المعتبر في حصول التصديق الا تصوران على تلك النسبة فتنحصر اجزائها في الثلاثة واما اذا لم يكن جزء اخيراً لها فلا يلزم تثليث اجزائها لجواز ان يكون لها جزء اخيراً مؤخراً عن تلك النسبة.
+The second station is regarding the composition of the proposition (qadiyya). They differed here as well. The ancient philosophers held that it is composed of the parts: the subject, the predicate, and the perfect predicative relation; and its perception is the judgment, which is expressed as occurrence or non-occurrence. The later ones held that it is composed of four things: the subject, the predicate, the affirmative restrictive relation, and the occurrence or non-occurrence of that relation. Because they saw that in the case of doubt, there is conceptualization of the relation but no judgment. So when one perceives the occurrence or non-occurrence of that relation, judgment occurs, as in the case of doubt. They said: This is another perception, necessarily different from the perception. It was objected that the perception in the case of doubt is the same as the perception in the case of judgment, except that it is perceived in the first with non-assentive perception and in the second with assentive perception; this does not necessitate an increase in parts, for the difference between the two perceptions is in terms of the object. A reconciliation is possible by what some later ones mentioned: that the judgmental relation is sometimes perceived without assent – and in this respect it is from conceptual information and is called the judgmental relation – and sometimes with assent, and in this respect it is from assented information according to the philosopher's school, and is called judgment. The commentator's (may God have mercy on him) sufficing in explaining the composition of assent by the two extremes and the judgment is based on this. The two considerations are different: whoever says it has four parts observed the multiplicity in consideration; whoever does not say that observed the essential unity. The commentator of al-Mutali' pointed to this when he said: 'The parts of the proposition in detail are four.' The upshot of the commentator's words is that the author chose the ancient school in both stations: in the first, by making assent the same as inner conviction and judgment; in the second, by making the object of inner conviction the perfect predicative relation, not occurrence or non-occurrence. He only described the object of judgment as being the final part of the proposition to indicate the entailment of the ancient school of three parts. Explanation: since this relation is the final part of the proposition, and there is no doubt that in obtaining assent only two conceptualizations of that relation are considered, so its parts are restricted to three. But if it is not the final part, then its being three parts does not follow, for it is possible that it has a final part subsequent to that relation.
+Source pages p. 167
+
+Commentary
+This passage is the second station (maqam) discussing the composition of the proposition (qadiyya). It contrasts the ancient philosophers' view, who say the proposition has three parts: subject, predicate, and the perfect predicative relation, with the perception of this relation being the judgment (occurrence/non-occurrence). The later scholars add a fourth part: the affirmative restrictive relation plus its occurrence or non-occurrence, because in doubt one can conceive the relation without judgment. They argue that perceiving occurrence is a different perception. An objection is raised: the perception in doubt and in judgment is the same, just differing in mode (non-assentive vs. assentive). A reconciliation is offered: the judgmental relation, when perceived without assent, is called the judgmental relation and is conceptual; when perceived with assent, it is called judgment and is assentive. The commentator's approach is based on this. The author (musannif) is said to follow the ancient school in both stations: in the first, making assent identical to judgment; in the second, making the object of assent the perfect predicative relation, not occurrence/non-occurrence. This entails three parts for the proposition. If the relation is the final part, then the proposition has only those three parts. The passage ends abruptly but seems to defend the three-part view.
+
+Key Terms
+القضية
+الوقوع واللاوقوع
+النسبة التامة الخبرية
+النسبة التقييدية الثبوتية
+الحكم
+الاذعان
+التصديق
+التصور
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the objector's main point against the later view?
+A) The later view contradicts the ancient philosophers.
+B) The perception in doubt is different in kind from perception in judgment.
+C) The perception in doubt is the same as in judgment, differing only in mode (non-assentive vs. assentive).
+D) The later view adds unnecessary parts.
+
+Key Takeaway
+The debate over the composition of the proposition is resolved by recognizing that the judgmental relation can be perceived either conceptually or with assent, so the number of parts depends on the perspective taken.
+
+How This Lesson Applies — to MY Life?
+?
+Apply the ancient and later views to analyze the proposition 'Zakat on wealth is fard'. Identify the three parts according to the ancients, and the four parts according to the later scholars.
+?
+Consider the doubt scenario: 'Is it wajib to pray Jumu'ah?' According to the later view, what are the four parts of this proposition? How does the reconciliation via dual consideration explain that the perception of the relation is the same in doubt and in judgment?
+
+Pages p. 167 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 176
+Module 8 · Lesson 8
+Next →
+The Ten Categories
+beginner
+5 min
+Lexical and Terminological Definitions of 'Ālam
+Author provides lexical and terminological definitions of 'qidam' and 'ālam' with their controversies.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the lexical, common, and technical meanings of the term 'ālam and explain the controversies around its definition.
+
+Core Idea
+The term 'ālam carries multiple layers of meaning; context determines which one is intended.
+
+This passage from al-Yazdi's Hashiya provides a concise account of the definitions of two key terms: qidam (eternity) and 'ālam (world). While qidam receives a straightforward definition, 'ālam is shown to have a rich set of meanings—linguistic, common, and technical—each with implications for how we understand God's relationship to creation.
+
+Guided Path
+1
+Identify the terms under discussion
+The passage defines two terms: 'qidam' and 'ālam'. Locate where each is introduced.
+2
+Extract the definition of qidam
+Qidam is defined simply as the opposite of huduth (origination). Note its brevity.
+3
+List the definitions of 'ālam
+The passage gives multiple definitions: linguistic (a group of rational beings), common (all created things), and technical (beings with knowledge, that by which the Maker is known). Write them down.
+4
+Classify each definition by its domain
+Determine whether each definition belongs to linguistic convention ('urf al-lugha), common usage ('urf al-nās), or technical/interpretive usage (qīla).
+5
+Analyze the derivations of 'ālam
+The passage mentions derivations from 'alāma (sign) and 'ilm (knowledge). Consider how these derivations affect the meaning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۶۱) «القدم» كعنب ضد الحدوث و «العالم» جمع لا واحد له من لفظه كالرهط والجيش و غير ذلك وهو فى عرف اللغة عبارة عن جماعة من العقلاء لأنهم يقولون: جائني عالم من الناس ولا يقولون: «عالم من البقر» و فى عرف الناس عبارة عن جميع المخلوقات وقيل انه اسم لاولى العلم من الملائكة و الثقلين وقيل: هو اسم لما يعلم به الصانع من الجواهر والاعراض، واشتقاقه من العلامة للصانع تعالى :وقيل انه مشتق من العلم على ماروى عن ابن عباس في قوله تعالى: «الحمد لله رب العالمين حيث قال هم صنف من الملائكة و الانس والجن لانه لا يصلح ان يكون كل صنف منهم عالماً. (عبد الرحيم)
+(61) 'Al-qidam' (eternity) is like 'inab' (a type of grape) opposite of 'al-huduth' (origination). And 'al-ʿālam' (the world) is a plural that has no singular from its own word, like 'al-rahṭ' (group) and 'al-jaysh' (army) and others. In linguistic convention, it means a group of rational beings, because they say: 'came to me a ʿālam of people' and they do not say 'a ʿālam of cows'. And in common convention, it means all created things. And it is said that it is a name for the possessors of knowledge from the angels and the two weighty ones (humans and jinn). And it is said: it is a name for that by which the Maker is known, from substances and accidents. Its derivation is from 'al-ʿalāma' (sign) for the Maker, Exalted is He. And it is said that it is derived from 'al-ʿilm' (knowledge), as narrated from Ibn ʿAbbās regarding His saying: 'Praise be to Allah, Lord of the ʿālamīn' where he said: 'They are a group from the angels, humans, and jinn', because it is not correct that every group of them should be knowledgeable.
+Source pages p. 176
+
+Commentary
+This passage is a lexical and terminological note on two key terms: 'qidam' (eternity) and 'ālam' (world). For 'qidam', it is simply defined as the opposite of origination (huduth). For 'ālam', it is a plural with no singular from its own root. The author then lists multiple definitions: in linguistic usage, it refers to a group of rational beings (because we say 'a world of people' but not 'a world of cows'); in common usage, it means all created things. There are also more technical definitions: it is a name for beings that possess knowledge (angels, humans, jinn); it is that by which the Maker is known (substances and accidents); it is derived from 'sign' (alama) indicating the Creator; or from 'knowledge' (ilm), as per Ibn Abbas's interpretation of 'Lord of the worlds' referring to groups of angels, humans, and jinn, emphasizing that not every member of those groups is knowledgeable.
+
+Key Terms
+القدم
+العالم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is one meaning of 'ālam in linguistic convention?
+A) All created things.
+B) A group of rational beings.
+C) Substances and accidents.
+D) The Maker.
+
+Key Takeaway
+The term 'ālam has multiple valid definitions depending on context—linguistic, common, and technical—and its derivations from 'sign' or 'knowledge' reflect deeper theological intentions.
+
+How This Lesson Applies — to MY Life?
+?
+Find a passage in a Kalam text (e.g., al-Sanusiyya) where 'ālam is defined. Compare that definition to the ones given in this passage. Which definition is being used and why?
+?
+In a legal ruling (fatwa), the term 'ālam might be used in a specific sense. Explain how the definition of 'ālam could affect the scope of a ruling that mentions 'all worlds' (e.g., 'Lord of the worlds').
+
+Pages p. 176 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 179
+Module 8 · Lesson 9
+Next →
+The Ten Categories
+intermediate
+7 min
+Essential and Accidental Accidents: The Seven Types
+Classification of accidents into essential and accidental
+
+Learning Objective
+By the end of this lesson, you will be able to classify any accident as essential or accidental according to the seven-type scheme and justify your classification using the criteria of direct or mediated occurrence.
+
+Core Idea
+An accident is essential if it occurs directly to the essence; if mediated by an external intermediary, it is accidental.
+
+In this passage, the commentator elaborates on the classification of accidents (a'rad) into essential (dhati) and accidental (gharib). Understanding this classification is crucial for determining which accidents are proper subjects of a particular science. The passage presents seven types of accidents, with three essential by consensus, three accidental by consensus, and one disputed between later and earlier scholars.
+
+Guided Path
+1
+Define essential and accidental
+Extract the definitions from the passage: essential accident occurs directly without an intermediary in reality; accidental occurs via an intermediary. Write these down.
+The term 'intermediary' is key.
+2
+List the seven types
+From the passage, list the seven types according to the final scheme: (1) self, (2) via part more general, (3) via part equal, (4) via external equal, (5) via external more general, (6) via external more specific, (7) via disparate.
+Types (2) and (3) are actually subsets of 'via part' but distinguished.
+3
+Classify each type
+Determine for each type whether it is essential or accidental by consensus. Types 1-3 are essential (self, via part equal, via external equal). Types 4-6 are accidental (via external more general, more specific, disparate). Type 7 (via part more general) is disputed.
+The criterion for essential: the intermediary is not external to the essence (part or coextensive).
+4
+Test with an example
+Take the example of 'occupying space' for man. It occurs via 'body' which is a more general part. According to later scholars, it is essential because body is not external to man. Explain why earlier scholars considered it accidental.
+This highlights the importance of the definition of 'part'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۷۳) قوله موضوع العلم ما يبحث فيه اى فى ذلك العلم عن العوارض الذاتية الموضوعه المذكور، و العرض قسمان ذاتي و هو ما عرض على الذات مباشرة من دون توسط امر بين العارض والمعروض في نفس الامر و ان كان العلم بهذا العروض يحتاج الى برهان و معرف وغريب وهو ما عرض على الذات بايصال غيره لها فى نفس الأمر. وانما سمى غريباً لانه أجنبي عن الذات و الذي ربطه بالذات امر وقع وسطاً بينه و بينها. وقيل ان مجموع الذاتي والغريب من العوارض خمسة: ما يعرض اولا و بالذات كالتعجب العارض للانسان. -٢ ما يعرض بواسطة جزء المعروض سواء كان هذا الجزء للمعروض اعم منه كعروض التحيز للانسان لكونه جسماً، أو مساوياً له كعروض التكلم للانسان لكونه ناطقاً. ما يعرض بواسطة امر مساوى كعروض الاطراف للجسم بواسطة كون الجسم متناهياً و كعروض الضحك للانسان بواسطة كونه متعجباً . وهذه ذاتيات. فان قلت قد عرفت الذاتى من العارض بانه ما عرض على الذات مباشرة من دون توسط واسطة في نفس الامر فى حال ان ما يعرض بواسطة الجزء او الامر المساوى قد عرض بواسطة لامباشرة. :قلت جزء الشيء و مساويه الذي يوجد بوجوده و ينهدم بانهدامه ليسا خارجين عن الذات بالضرورة. فان الانسان بدون مؤنة و تكلف جسم والجسم ذاته و النطق جزءه الدخيل في ذاته وليس أمراً وراء ذاته و التعجب من خصائصه الذاتية يوجد معه و ينهدم بانهدامه. -۴ و ما يعرض بواسطة امر اخص كعروض الضحك للحيوان لكونه انساناً. -۵- و ما يعرض بواسطة امر اعم ليس جزء للمعروض كعروض الحركة للانسان باعتبار كونه ماشيا . و هذه غريبة فان الأمر الاخص ليس جزء ولا مساوياً بالمعروض لا يدور مدار هذا الاخص لا في وجوده ولا في عدمه واما غرابة الامر الاعم الذي ليس بجزء فواضحة و زاد آخرون: ما يعرض للشيء بواسطة مباين كعروض الحرارة الماء بواسطة النار او الشمس والنار و الشمس مباينان للماء وهذا من الاعراض الغريبة ايضاً. وصحح المشكيني: عروض الجنس على الفصل الحيوان على الناطق مثلا. - وعروض الفصل على الجنس الناطق على الحيوان مثلا. و هذان ذاتیان و ما صححه هذا الاستاذ المرحوم في غاية الوجاهة . التقريب ص ١٩) وقال الشيخ محمد على (ره) في بحث العرض واقسامه وتحقيق المقام ما هذا لفظه): اعلم ان العوارض قسمان: اعراض ذاتية واعراض عرضية وتفصيل ذلك : ان ما يعرض للشيء أما ان يكون عروضه له لذاته أو الجزئه الاعم او المساوى اوالامر الخارج عنه مساوله او اعم منه او اخص منه او مباين له فذلك سبعة اقسام ثلاثة منها اعراض ذاتية بالاتفاق وهي : ما كان عروضه له لذاته كالتعجب اللاحق للانسان من حيث هو هو أو الجزئه المساوى كالتكلم له لكونه ناطقاً اولامر خارج يساو به كالضحك له لكونه متعجباً . وثلاثة منها اعراض غريبة بالاتفاق على ما قيل وهى ما يعرض للشيء بواسطة امر خارج اعم منه كالتحيز اللاحق للابيض لكونه جسماً، او اخص منه كالضحك العارض للحيوان لكونه انساناً أو مباين له كالحرارة العارضة للماء بالنار او شعاع الشمس. وواحد منها مختلف فيه و هو العارض له الجزئه الاعم كالتحيز اللاحق للانسان لكونه جسماً و الحركة الإرادية العارضة له لكونه حيواناً . فذهب المتأخرون الى كونه من الاعراض الذاتية و القدماء الى انه من الأعراض الغريبة وتبعهم جماعة من محقق المتأخرين، وتفسير المحشى للعرض الذاتي مبنى على قولهم. وهيهنا كلام لا يسعها مقام. ثم انما لم يبحث في العلم الاعن العوارض الذاتية، لان المقصود فيه بيان احوال موضوعه والعوارض الذاتية للشيء احوال فى الحقيقة و أما العوارض الغريبة فهي بالحقيقة احوال للاشياء الاخرالتى هى اعراض ذاتية لها فينبغي أن يبحث عنها في العلوم التى موضوعها تلك الاشياء. (میرزا محمد علی)
+(73) His statement: The subject of a science is that in which (i.e., in that science) is investigated the essential accidents of the mentioned subject. And the accident is of two types: essential (dhati), which is what occurs to the essence directly without an intermediary between the accidens and the subject in reality, even if knowledge of this occurrence requires proof and recognition; and accidental (gharib), which is what occurs to the essence by the mediation of something else in reality. It is called gharib because it is alien to the essence, and what connects it to the essence is an intermediary between it and the essence. It is said that the total of essential and accidental accidents is five: 1) what occurs primarily and essentially, like wonder occurring to man; 2) what occurs by mediation of a part of the subject, whether that part is more general than the subject, like occupation of space occurring to man because he is a body, or equal to it, like speech occurring to man because he is rational; 3) what occurs by mediation of a coextensive notion, like having extremities occurring to body because it is finite, and like laughter occurring to man because he is wondering. These are essential. If you say: You have defined the essential accident as what occurs directly without any intermediary in reality, whereas what occurs by mediation of a part or a coextensive notion occurs by mediation—indirectly. I say: The part of a thing and its coextensive, which exist with its existence and cease with its cessation, are not outside the essence necessarily. For man, without trouble and effort, is a body, and body is his essence; and rationality is his integral part in his essence, not something beyond his essence; and wonder is among his essential properties, existing with him and ceasing with his cessation. 4) What occurs by mediation of a more specific notion, like laughter occurring to animal because it is man. 5) What occurs by mediation of a more general notion that is not a part of the subject, like motion occurring to man by virtue of his being a walker. These are accidental, because the more specific notion is neither a part nor coextensive with the subject—it does not revolve around this specific in existence or non-existence. As for the strangeness of the more general notion that is not a part, it is clear. Others added: 6) What occurs to a thing by mediation of something disparate, like heat occurring to water by fire or the sun—fire and sun are disparate from water. This is also among the accidental accidents. Al-Mushkini corrected: 7) The occurrence of genus to species, like animal to rational; and the occurrence of species to genus, like rational to animal. These are essential. What this deceased professor corrected is highly plausible. (Al-Taqrib p. 19) And Shaykh Muhammad 'Ali (may God have mercy on him) said in his discussion of the accident and its divisions and the verification of the topic, verbatim: Know that accidents are of two types: essential accidents and accidental accidents. The detail is: What occurs to a thing—either its occurrence is due to itself, or to its more general part, or to its equal, or to an external thing equal to it, or more general than it, or more specific than it, or disparate. So there are seven types. Three of them are essential by consensus: what occurs due to itself, like wonder attaching to man as such; or its equal part, like speech for him because he is rational; or an external thing equal to it, like laughter for him because he is wondering. Three of them are accidental by consensus, as it is said: what occurs to a thing by mediation of an external thing more general than it, like occupation of space attaching to white because it is a body; or more specific than it, like laughter occurring to animal because it is man; or disparate, like heat occurring to water by fire or sunlight. And one type is disputed: what occurs to it by its more general part, like occupation of space attaching to man because he is a body, and voluntary motion attaching to him because he is an animal. The later scholars (muta'akhkhirun) hold that it is essential, while the ancients (qudama') hold that it is accidental, followed by a group of later investigators. The commentator's (al-muhashshi) interpretation of the essential accident is based on their view. There is a discussion here that does not fit in this place. Then, surely, only essential accidents are investigated in a science, because the purpose in it is to explain the states of its subject, and essential accidents of a thing are its states in reality. As for accidental accidents, they are in reality states of other things for which they are essential, so they should be investigated in sciences whose subjects are those things. (Mirza Muhammad 'Ali)
+Source pages p. 179
+
+Commentary
+This passage is a detailed classification of accidents (a'rad) into essential (dhati) and accidental (gharib). It begins by defining these terms: an essential accident occurs directly to the essence without an intermediary in reality, while an accidental accident occurs through an intermediary. The commentator then presents a list of five types (later expanded to seven). The first three are essential: (1) occurring primarily and essentially (e.g., wonder for man), (2) occurring via a part of the subject (whether that part is more general or equal to the subject—e.g., occupying space for man via body, or speech via rationality), (3) occurring via a coextensive notion (e.g., having extremities for body via finiteness, or laughter for man via wonder). The author defends why (2) and (3) are still considered essential, arguing that a part or coextensive notion is not external to the essence because it exists with it and ceases with it. The next two are accidental: (4) via a more specific notion (e.g., laughter for animal because it is man), and (5) via a more general notion not part of the subject (e.g., motion for man as a walker). Then others add a sixth: (6) via a disparate thing (e.g., heat for water from fire). Finally, al-Mushkini corrects by adding two more: (7a) genus occurring to species (e.g., animal to rational) and (7b) species occurring to genus (e.g., rational to animal), both essential. Shaykh Muhammad 'Ali then summarizes that there are seven types: three essential by consensus (self, equal part, external equal), three accidental by consensus (external more general, external more specific, disparate), and one disputed (via a more general part). The later scholars consider it essential, the ancients accidental. The passage concludes by explaining why only essential accidents are studied in a science: they are the true states of the subject, while accidental accidents belong to the sciences of those things for which they are essential. For example, motion as an accident of man (via walking) is accidental to man but essential to walking; thus it is studied in the science of walking, not in the science of man.
+
+Key Terms
+عرض ذاتي
+عرض غريب
+جزء المعروض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the seven-type scheme, which of the following is NOT considered an essential accident by consensus?
+A) Occurring via a coextensive notion
+B) Occurring via a more general part
+C) Occurring via a more specific external notion
+D) Occurring via a part equal to the subject
+
+Key Takeaway
+Essential accidents occur directly to the essence, while accidental accidents require an external intermediary; the classification hinges on whether the intermediary is part of the essence or external.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following accidents as essential or accidental according to the seven-type scheme: (a) 'Being alive' for man (via animal), (b) 'Being a writer' for man (via being a human who learns), (c) 'Being hot' for fire (directly). For each, state which type it belongs to and whether it is essential or accidental per consensus. If disputed, note that.
+
+Pages p. 179 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 179
+Module 8 · Lesson 10
+Next →
+The Ten Categories
+intermediate
+6 min
+The Disputed Accident: Through a More General Part
+Dispute on accidents via a more general part
+
+Learning Objective
+By the end of this lesson, you will be able to explain the disagreement between the earlier and later scholars over accidents occurring through a more general part, and evaluate the arguments for each position.
+
+Core Idea
+Whether an accident via a more general part is essential depends on whether that part is considered inherent to the essence.
+
+The passage highlights a key disagreement among logicians: when an accident occurs to a subject through a more general part (e.g., occupying space for man via body), is it essential or accidental? The later scholars (muta'akhkhirun) consider it essential because the part is not external to the essence, while the earlier scholars (qudama') consider it accidental because the accident is mediated by that part. This lesson explores the reasoning behind each view and its implications.
+
+Guided Path
+1
+Identify the disputed accident
+Locate in the passage the accident 'occupying space' for man, which occurs via 'body'. This is the example of an accident via a more general part.
+Body is more general than man because man is a body, but not all bodies are men.
+2
+Understand the earlier scholars' position
+The earlier scholars (qudama') held that this accident is accidental because it occurs through an intermediary (body) in reality. Since the intermediary is not the essence itself, the accident is external.
+Their criterion: direct occurrence without any intermediary, even if the intermediary is a part of the subject.
+3
+Understand the later scholars' position
+The later scholars (muta'akhkhirun) argued that the accident is essential because the part (body) is not external to the essence. They consider that if the intermediary is a constitutive part of the subject, it is still direct in the sense that the accident inheres in the essence through that part.
+They define 'direct' as not requiring an external intermediary; internal parts are acceptable.
+4
+Evaluate the implications
+Consider the implication for the scope of a science: if the accident is essential, it should be studied in the science of that subject; if accidental, it belongs elsewhere. This disagreement affects how sciences define their subject matters.
+The passage follows the later scholars' view, as al-Mushkini's correction is endorsed.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۷۳) قوله موضوع العلم ما يبحث فيه اى فى ذلك العلم عن العوارض الذاتية الموضوعه المذكور، و العرض قسمان ذاتي و هو ما عرض على الذات مباشرة من دون توسط امر بين العارض والمعروض في نفس الامر و ان كان العلم بهذا العروض يحتاج الى برهان و معرف وغريب وهو ما عرض على الذات بايصال غيره لها فى نفس الأمر. وانما سمى غريباً لانه أجنبي عن الذات و الذي ربطه بالذات امر وقع وسطاً بينه و بينها. وقيل ان مجموع الذاتي والغريب من العوارض خمسة: ما يعرض اولا و بالذات كالتعجب العارض للانسان. -٢ ما يعرض بواسطة جزء المعروض سواء كان هذا الجزء للمعروض اعم منه كعروض التحيز للانسان لكونه جسماً، أو مساوياً له كعروض التكلم للانسان لكونه ناطقاً. ما يعرض بواسطة امر مساوى كعروض الاطراف للجسم بواسطة كون الجسم متناهياً و كعروض الضحك للانسان بواسطة كونه متعجباً . وهذه ذاتيات. فان قلت قد عرفت الذاتى من العارض بانه ما عرض على الذات مباشرة من دون توسط واسطة في نفس الامر فى حال ان ما يعرض بواسطة الجزء او الامر المساوى قد عرض بواسطة لامباشرة. :قلت جزء الشيء و مساويه الذي يوجد بوجوده و ينهدم بانهدامه ليسا خارجين عن الذات بالضرورة. فان الانسان بدون مؤنة و تكلف جسم والجسم ذاته و النطق جزءه الدخيل في ذاته وليس أمراً وراء ذاته و التعجب من خصائصه الذاتية يوجد معه و ينهدم بانهدامه. -۴ و ما يعرض بواسطة امر اخص كعروض الضحك للحيوان لكونه انساناً. -۵- و ما يعرض بواسطة امر اعم ليس جزء للمعروض كعروض الحركة للانسان باعتبار كونه ماشيا . و هذه غريبة فان الأمر الاخص ليس جزء ولا مساوياً بالمعروض لا يدور مدار هذا الاخص لا في وجوده ولا في عدمه واما غرابة الامر الاعم الذي ليس بجزء فواضحة و زاد آخرون: ما يعرض للشيء بواسطة مباين كعروض الحرارة الماء بواسطة النار او الشمس والنار و الشمس مباينان للماء وهذا من الاعراض الغريبة ايضاً. وصحح المشكيني: عروض الجنس على الفصل الحيوان على الناطق مثلا. - وعروض الفصل على الجنس الناطق على الحيوان مثلا. و هذان ذاتیان و ما صححه هذا الاستاذ المرحوم في غاية الوجاهة . التقريب ص ١٩) وقال الشيخ محمد على (ره) في بحث العرض واقسامه وتحقيق المقام ما هذا لفظه): اعلم ان العوارض قسمان: اعراض ذاتية واعراض عرضية وتفصيل ذلك : ان ما يعرض للشيء أما ان يكون عروضه له لذاته أو الجزئه الاعم او المساوى اوالامر الخارج عنه مساوله او اعم منه او اخص منه او مباين له فذلك سبعة اقسام ثلاثة منها اعراض ذاتية بالاتفاق وهي : ما كان عروضه له لذاته كالتعجب اللاحق للانسان من حيث هو هو أو الجزئه المساوى كالتكلم له لكونه ناطقاً اولامر خارج يساو به كالضحك له لكونه متعجباً . وثلاثة منها اعراض غريبة بالاتفاق على ما قيل وهى ما يعرض للشيء بواسطة امر خارج اعم منه كالتحيز اللاحق للابيض لكونه جسماً، او اخص منه كالضحك العارض للحيوان لكونه انساناً أو مباين له كالحرارة العارضة للماء بالنار او شعاع الشمس. وواحد منها مختلف فيه و هو العارض له الجزئه الاعم كالتحيز اللاحق للانسان لكونه جسماً و الحركة الإرادية العارضة له لكونه حيواناً . فذهب المتأخرون الى كونه من الاعراض الذاتية و القدماء الى انه من الأعراض الغريبة وتبعهم جماعة من محقق المتأخرين، وتفسير المحشى للعرض الذاتي مبنى على قولهم. وهيهنا كلام لا يسعها مقام. ثم انما لم يبحث في العلم الاعن العوارض الذاتية، لان المقصود فيه بيان احوال موضوعه والعوارض الذاتية للشيء احوال فى الحقيقة و أما العوارض الغريبة فهي بالحقيقة احوال للاشياء الاخرالتى هى اعراض ذاتية لها فينبغي أن يبحث عنها في العلوم التى موضوعها تلك الاشياء. (میرزا محمد علی)
+(73) His statement: The subject of a science is that in which (i.e., in that science) is investigated the essential accidents of the mentioned subject. And the accident is of two types: essential (dhati), which is what occurs to the essence directly without an intermediary between the accidens and the subject in reality, even if knowledge of this occurrence requires proof and recognition; and accidental (gharib), which is what occurs to the essence by the mediation of something else in reality. It is called gharib because it is alien to the essence, and what connects it to the essence is an intermediary between it and the essence. It is said that the total of essential and accidental accidents is five: 1) what occurs primarily and essentially, like wonder occurring to man; 2) what occurs by mediation of a part of the subject, whether that part is more general than the subject, like occupation of space occurring to man because he is a body, or equal to it, like speech occurring to man because he is rational; 3) what occurs by mediation of a coextensive notion, like having extremities occurring to body because it is finite, and like laughter occurring to man because he is wondering. These are essential. If you say: You have defined the essential accident as what occurs directly without any intermediary in reality, whereas what occurs by mediation of a part or a coextensive notion occurs by mediation—indirectly. I say: The part of a thing and its coextensive, which exist with its existence and cease with its cessation, are not outside the essence necessarily. For man, without trouble and effort, is a body, and body is his essence; and rationality is his integral part in his essence, not something beyond his essence; and wonder is among his essential properties, existing with him and ceasing with his cessation. 4) What occurs by mediation of a more specific notion, like laughter occurring to animal because it is man. 5) What occurs by mediation of a more general notion that is not a part of the subject, like motion occurring to man by virtue of his being a walker. These are accidental, because the more specific notion is neither a part nor coextensive with the subject—it does not revolve around this specific in existence or non-existence. As for the strangeness of the more general notion that is not a part, it is clear. Others added: 6) What occurs to a thing by mediation of something disparate, like heat occurring to water by fire or the sun—fire and sun are disparate from water. This is also among the accidental accidents. Al-Mushkini corrected: 7) The occurrence of genus to species, like animal to rational; and the occurrence of species to genus, like rational to animal. These are essential. What this deceased professor corrected is highly plausible. (Al-Taqrib p. 19) And Shaykh Muhammad 'Ali (may God have mercy on him) said in his discussion of the accident and its divisions and the verification of the topic, verbatim: Know that accidents are of two types: essential accidents and accidental accidents. The detail is: What occurs to a thing—either its occurrence is due to itself, or to its more general part, or to its equal, or to an external thing equal to it, or more general than it, or more specific than it, or disparate. So there are seven types. Three of them are essential by consensus: what occurs due to itself, like wonder attaching to man as such; or its equal part, like speech for him because he is rational; or an external thing equal to it, like laughter for him because he is wondering. Three of them are accidental by consensus, as it is said: what occurs to a thing by mediation of an external thing more general than it, like occupation of space attaching to white because it is a body; or more specific than it, like laughter occurring to animal because it is man; or disparate, like heat occurring to water by fire or sunlight. And one type is disputed: what occurs to it by its more general part, like occupation of space attaching to man because he is a body, and voluntary motion attaching to him because he is an animal. The later scholars (muta'akhkhirun) hold that it is essential, while the ancients (qudama') hold that it is accidental, followed by a group of later investigators. The commentator's (al-muhashshi) interpretation of the essential accident is based on their view. There is a discussion here that does not fit in this place. Then, surely, only essential accidents are investigated in a science, because the purpose in it is to explain the states of its subject, and essential accidents of a thing are its states in reality. As for accidental accidents, they are in reality states of other things for which they are essential, so they should be investigated in sciences whose subjects are those things. (Mirza Muhammad 'Ali)
+Source pages p. 179
+
+Commentary
+This passage is a detailed classification of accidents (a'rad) into essential (dhati) and accidental (gharib). It begins by defining these terms: an essential accident occurs directly to the essence without an intermediary in reality, while an accidental accident occurs through an intermediary. The commentator then presents a list of five types (later expanded to seven). The first three are essential: (1) occurring primarily and essentially (e.g., wonder for man), (2) occurring via a part of the subject (whether that part is more general or equal to the subject—e.g., occupying space for man via body, or speech via rationality), (3) occurring via a coextensive notion (e.g., having extremities for body via finiteness, or laughter for man via wonder). The author defends why (2) and (3) are still considered essential, arguing that a part or coextensive notion is not external to the essence because it exists with it and ceases with it. The next two are accidental: (4) via a more specific notion (e.g., laughter for animal because it is man), and (5) via a more general notion not part of the subject (e.g., motion for man as a walker). Then others add a sixth: (6) via a disparate thing (e.g., heat for water from fire). Finally, al-Mushkini corrects by adding two more: (7a) genus occurring to species (e.g., animal to rational) and (7b) species occurring to genus (e.g., rational to animal), both essential. Shaykh Muhammad 'Ali then summarizes that there are seven types: three essential by consensus (self, equal part, external equal), three accidental by consensus (external more general, external more specific, disparate), and one disputed (via a more general part). The later scholars consider it essential, the ancients accidental. The passage concludes by explaining why only essential accidents are studied in a science: they are the true states of the subject, while accidental accidents belong to the sciences of those things for which they are essential. For example, motion as an accident of man (via walking) is accidental to man but essential to walking; thus it is studied in the science of walking, not in the science of man.
+
+Key Terms
+عرض ذاتي
+عرض غريب
+جزء المعروض
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the position of the later scholars (muta'akhkhirun) regarding the accident 'occupying space' for man?
+A) It is accidental because it occurs via an intermediary.
+B) It is disputed and requires further investigation.
+C) It is essential because body is a part of man's essence.
+D) It is essential only if it is self-evident.
+
+Key Takeaway
+The dispute over accidents via a more general part centers on whether the part is considered external to the essence; later scholars hold it is internal, making the accident essential.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the accident 'being able to laugh' for man. This occurs via 'being rational' (a species-specific differentia). 'Rationality' is a part of man (equal part). According to the passage, is this essential or accidental? Which scholars would agree? Then take 'being able to walk' for man via 'animal' (more general part). Is this essential or accidental according to the later scholars? Justify using the criteria.
+
+Pages p. 179 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 186
+Module 8 · Lesson 11
+Next →
+The Ten Categories
+intermediate
+5 min
+The Six Types of Indication: Induction vs. Apriori Classification
+Derivation of six indication types by cross-classification
+
+Learning Objective
+By the end of this lesson, you will be able to derive the six types of indication by crossing verbal/non-verbal with conventional/natural/rational, and explain why the enumeration is based on induction rather than apriori reasoning, except for the subdivision of verbal conventional indication.
+
+Core Idea
+The six-fold division of indication is empirically grounded, not purely rational.
+
+In your study of Islamic logic, you already learned that verbal conventional indication splits into three subtypes: mutabaqah, tadammun, and iltizam. But this is only one part of a broader classification. The author of this super-commentary shows us how the six basic types of indication are derived by crossing two binomial and trinomial categories. Importantly, he clarifies that this six-fold enumeration is based on induction (istiqra'), not apriori reasoning, except for the verbal conventional subtype. This lesson will walk you through that derivation and the epistemological distinction behind it.
+
+Guided Path
+1
+Identify the two classification axes
+The author multiplies 'two' (verbal and non-verbal indication) by 'three' (conventional, natural, rational indication). Verbal indication uses words; non-verbal uses any other sign. Conventional depends on human agreement; natural arises from a inherent property of the sign; rational requires inference.
+These axes are comprehensive: every indication must be either verbal or non-verbal, and must be one of the three causes.
+2
+Perform the cross-product
+Multiply 2 × 3 to get 6 combinations: (1) verbal-conventional, (2) verbal-natural, (3) verbal-rational, (4) non-verbal-conventional, (5) non-verbal-natural, (6) non-verbal-rational. These are the six types.
+This is a purely combinatory exercise; the types themselves require empirical verification.
+3
+Recognize the method: induction, not apriori
+The author states that the enumeration is 'by induction, not by apriori reasoning limited to negation and affirmation'. He means we cannot deduce that just because an indication is not conventional and not natural, it must be rational. Rather, we observe actual cases and find only these six.
+Induction here is complete enumeration of observed instances, not a logical proof.
+4
+Identify the exception: verbal conventional indication
+The author adds a gloss: 'However, the enumeration of verbal conventional indication into three is apriori, limited to negation and affirmation.' This subdivision (mutabaqah, tadammun, iltizam) is logically exhaustive – every verbal conventional indication must be one of these three.
+This is because the three are defined by whether the sign indicates the whole meaning, a part, or an associated concept, which covers all possibilities.
+5
+Understand the variability of natural and rational indications
+A second gloss notes that natural and rational indications are 'not fixed' because they vary with nature, understanding, time, and circumstances. Unlike conventional signs, which are fixed by agreement, natural and rational signs depend on context.
+This explains why their subtypes are not enumerated apriori – they are too fluid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(١٦) هذه الاقسام حاصلة من ضرب الاثنين اعنى الدلالة اللفظية وغير اللفظية في الثلاثة اعنى الوضعية والطبعية والعقلية. ثم هذا الانحصار بالاستقراء لا بالحصر العقلى الدائر بين النفي والاثبات، لان الدلالة اذا لم تكن بحسب الوضع والطبع لا يلزم ان يكون بحسب العقل قطعاً، لكنا اذا استقرينا فلم نجد الا هذه الاقسام الستة واما انحصار الدلالة اللفظية الوضعية في الثلاثة فعقلى دائر بين النفي والاثبات. (عبدالرحيم) (١٧) بخلاف الدلالة الطبعية والعقلية فانها غير منضبطة لاختلافها باختلاف الطبع والافهام والاوقات و الحالات. (محمد علی)
+These divisions result from the multiplication of two, namely verbal indication and non-verbal indication, by three, namely conventional, natural, and rational. Then this enumeration is by induction, not by apriori reasoning that is limited to negation and affirmation, because if an indication is not conventional or natural, it does not necessarily have to be rational. But when we inducted, we did not find except these six divisions. However, the enumeration of verbal conventional indication into three is apriori, limited to negation and affirmation. (Abd al-Rahim) (17) Contrary to natural and rational indication, for they are not fixed because of their variation according to differences in nature, understandings, times, and situations. (Muhammad Ali)
+Source pages p. 186
+
+Commentary
+This passage classifies the types of indication. First, the commentator states that the six types of indication are derived by cross-tabulating the two categories of verbal and non-verbal with the three categories of conventional, natural, and rational. Then he notes that this six-fold classification is based on induction (istiqra'), not an apriori proof that would require a dichotomy between affirmation and negation. For example, one cannot claim that every indication is either conventional or natural, because it might be rational; however, by induction we only find these six. In contrast, the subdivision of verbal conventional indication into three subtypes (mutabaqah, tadammun, iltizam) is based on apriori reasoning (aql) that is exhaustive. Then a second note adds that natural and rational indications are not fixed because they vary with nature, understanding, time, and situations, unlike conventional indication which is fixed by convention. The passage teaches that the foundations of the logical study of indication are empirically grounded for the broader types but apriori for the specific subtypes of conventional verbal indication.
+
+Key Terms
+دلالة
+استقراء
+حصر عقلي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator, the six-fold division of indications (from crossing verbal/non-verbal with wad'i/tabi'i/aqli) is established by which method?
+A) Apriori rational proof
+B) Induction (istiqra')
+C) Consensus
+D) Revelation
+
+Key Takeaway
+The six basic types of indication are derived by cross-classification and confirmed by empirical observation (induction), except for the three subtypes of verbal conventional indication which are rationally exhaustive.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following indications as verbal/non-verbal and conventional/natural/rational: (a) The word 'zakat' in a hadith indicates the obligatory charity. (b) The crescent moon indicates the start of Ramadan. (c) The footprints in the sand indicate that someone walked there. (d) The black banner indicates rebellion. Then check which of these six types are variable and which are fixed, using the lesson's distinction.
+?
+Explain why the subdivision of verbal conventional indication into three is considered apriori, while the six-fold classification of all indication is inductive. Provide a similar example from fiqh: the indication of the word 'salah' (prayer) and its three subtypes.
+
+Pages p. 186 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 197
+Module 8 · Lesson 12
+Next →
+The Ten Categories
+beginner
+5 min
+Types of Restrictive Compounds
+Author explains how the second part of a compound can be a restriction (qayd) of the first.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify restrictive compounds into idafa, wasfiyya, and ta'allaq.
+
+Core Idea
+A restrictive compound's second part limits the first, taking three forms: construct, adjective, or attachment.
+
+In logic and Arabic grammar, definitions often use compounds where one part restricts another. Understanding the three types of restrictive compounds helps you analyze definitions precisely. This passage from Yazdi's Hashiya lays out the classification.
+
+Guided Path
+1
+Identify the compound structure
+Find the two parts of the compound. The first is the head (mawṣūf), the second is the restrictor (qayd).
+2
+Check the grammatical relation
+Determine how the second part relates to the first: genitive construct (idāfa), adjective (waṣfiyya), or prepositional/adverbial attachment (taʿalluq).
+This determines the type.
+3
+Apply to example
+Test your classification with a sample: 'ghulāmu Zaydin' is idāfa; 'rajulun fāḍilun' is waṣfiyya; 'qāʾimun fī d-dāri' is taʿalluq.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله ان كان الجزء الثانى قيداً للاول اى أخذ قيداً و ان كان هو بنفسه ليس بقيد له. والمركبات التقييدية تارة تكون بنحو الاضافة و أخرى ينحو الوصفية وثالثة بنحو التعلق . (التقريب ص ۲۱)
+His statement: 'If the second part is a restriction (qayd) of the first,' i.e., taken as a restriction, even if in itself it is not a restriction to it. Restrictive compounds are sometimes in the manner of idafa (construct), other times in the manner of wasfiyya (adjective), and thirdly in the manner of ta'allaq (attachment).
+Source pages p. 197
+
+Commentary
+This passage defines the notion of a restrictive compound (tarkib taqyidi) in Arabic grammar/logic. The author notes that for the second part to be a 'qayd' (restriction) of the first, it is taken as such by the speaker, even if it is not inherently a restriction. Then he enumerates three types of restrictive compounds: (1) idafa (construct phrase like 'ghulam Zayd' — Zayd's servant), (2) wasfiyya (adjectival phrase like 'rajulun fadilun' — a virtuous man), and (3) ta'allaq (attachment/prepositional phrase like 'qaimun fi al-dar' — standing in the house). This classification is standard in Arabic syntax and is used by logicians to analyze definitions.
+
+Key Terms
+تركيب تقييدي
+إضافة
+وصفية
+تعلق
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a restrictive compound of the wasfiyya (adjective) type?
+A) غلام زيد (Zayd's servant)
+B) قائم في الدار (standing in the house)
+C) رجل فاضل (a virtuous man)
+D) خمسة عشر (fifteen)
+
+Key Takeaway
+Restrictive compounds in Arabic grammar fall into three categories: idāfa (construct), waṣfiyya (adjective), and taʿalluq (attachment).
+
+How This Lesson Applies — to MY Life?
+?
+Give one example each of idāfa, waṣfiyya, and taʿalluq from a fiqh or kalām text you are familiar with.
+?
+Classify the following compounds: (a) 'baytu llāhi' (House of Allah), (b) 'ʿālimun ʿāmilun' (a learned and practicing scholar), (c) 'rākibun ʿalā l-farasi' (riding on the horse).
+
+Pages p. 197 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 197
+Module 8 · Lesson 13
+Next →
+The Ten Categories
+beginner
+5 min
+Non-Restrictive Compounds: Two Key Examples
+Author provides two examples and explains why they are non-restrictive.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a compound is restrictive or non-restrictive by checking if the first part is absolute and if restriction occurs.
+
+Core Idea
+Non-restrictive compounds arise when the first part is not absolute or when composition does not restrict.
+
+In this passage, the author illustrates non-restrictive compounds (ghayr taqyidi) with 'fi al-dar' and 'khamsata 'ashara'. Understanding why each is non-restrictive requires analyzing the nature of the first part and the effect of composition. This skill is crucial for correctly interpreting compound expressions in Islamic legal and theological texts.
+
+Guided Path
+1
+Identify the compound and its parts.
+Locate the two constituents of the compound. For 'fi al-dar', the parts are the particle 'fi' and the noun 'al-dar'. For 'khamsata 'ashara', they are the number 'khamsa' and the word 'ashar'.
+2
+Determine if the first part is mutlaq (absolute).
+Check if the first word has a general meaning that can be restricted. 'Fi' is not mutlaq because it is assigned to particular containment instances. 'Khamsa' is mutlaq (general number).
+Mutlaq means general and subject to restriction.
+3
+Check if the second part restricts the first.
+See if the addition of the second part limits the first. In 'fi al-dar', 'al-dar' does not restrict 'fi' because 'fi' is already specific. In 'khamsata 'ashara', 'ashar' does not restrict 'khamsa'; together they form a new number.
+4
+Classify the compound as non-restrictive.
+A compound is non-restrictive if either the first part is not mutlaq (so no restriction possible) or restriction does not occur. Both examples satisfy one condition.
+If the first part were mutlaq and restriction occurred, the compound would be restrictive (taqyidi).
+5
+Verify with the author's refutation.
+The author refutes the claim that only noun-particle compounds are non-restrictive by showing a noun-noun compound (fifteen) is also non-restrictive.
+This step reinforces the classification rules.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله فى الدار و خمسة عشر وانما اتى بمثائين، ليعرفك ان عدم كون الجزء الثاني قيداً للاول اما بان لايكون الجزء الاول مطلقا حتى يقيده الجزء الثانى كالمثال الاول فان لفظة «في» كما قرر في محله موضوعة لكل واحد واحد من جزئيات الظرفية لاكلية فليس فيها اطلاق حتى يحصل فيه التقييد بسبب «الدار» و اما بان لا يحصل فيه التقييد بعد وان كان مطلقا كالمثال الاخير فان كلمة «خمسة» و ان كانت مطلقة لكنها لم تتقيد بسبب تركيبها مع «عشر) كما لا يخفى و ان الجزء الثاني قد يكون قرينة معينة للجزء الأول كما فى الاول وقد لا يكون كما فى الثانى و ان الجزء الاول قديكون حرفاً وقد يكون اسماً وانه قد يكون عاملاً فى الثانى وقد لا يكون و فيه ايضاً رد على من زعم ان غير التقييدى مختص بالمركب من اسم واداة او كلمة و اداة كما يظهر من بعض المحققين في شرح الرسالة و هو ظاهر لكن ان يأتى بمثال آخر مركب من كلمة واداة كـ ان قام مثلاً لكنه تركه اعتماداً على الأولى ح ظهوره (محمد علی)
+His statement: 'In the house' and 'fifteen' — He only presented two examples to make you know that the non-being of the second part as a restriction of the first is either because the first part is not absolute (mutlaq) such that the second part could restrict it, like the first example: the word 'fi' is, as established in its place, assigned to each particular instance of containment (zarfiyya), not to a universal, so there is no absoluteness in it so that restriction could occur due to 'al-dar'; or because restriction does not occur afterwards even though it is absolute, like the last example: the word 'khamsa' is absolute, but it did not become restricted due to its composition with 'ashar', as is not hidden. And that the second part may be a contextual indicator (qarina) specifying the first, as in the first example, and may not be, as in the second. And that the first part may be a particle (harf) or a noun (ism), and it may be an operator ('amil) on the second or not. And also in it is a refutation of those who claim that the non-restrictive is specific to compounds of a noun and a particle, or a word and a particle, as appears from some investigators in their commentary on the Risala. It is apparent, but he could have brought another example composed of a word and a particle like 'in qama' for instance, but he omitted it relying on the clarity of the first.
+Source pages p. 197
+
+Commentary
+This passage expands on the concept of non-restrictive compounds by providing and analyzing two examples: 'fi al-dar' (in the house) and 'khamsata 'ashara' (fifteen). The author explains that 'fi al-dar' is non-restrictive because the preposition 'fi' is not general (mutlaq) — it inherently indicates a specific type of containment, so the addition 'al-dar' does not further restrict it; it simply specifies which containment. On the other hand, 'khamsata 'ashara' is non-restrictive because although 'khamsa' (five) is general, when combined with 'ashara' (ten) to form 'fifteen', the compound does not create a restricted sense of 'five' but rather a new number. The author further refutes a claim that only noun-particle compounds can be non-restrictive, showing that 'fi al-dar' (particle+noun) and 'khamsata 'ashara' (noun+noun) are both non-restrictive. The passage illustrates the distinctions logicians make about how meaning is composed.
+
+Key Terms
+غير تقييدي
+مطلق
+قرينة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the compound 'fi al-dar' considered non-restrictive?
+A) Because 'fi' is a particle and particles cannot be restricted.
+B) Because 'fi' is not absolute, so 'al-dar' does not restrict it.
+C) Because 'al-dar' is a noun and nouns cannot restrict particles.
+D) Because the compound is not a complete sentence.
+
+Key Takeaway
+A compound is non-restrictive either because the first part is not absolute or because the combination does not result in restriction.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the compound 'fi al-masjid' (in the mosque). Determine if it is restrictive or non-restrictive following the method from the lesson. Provide your reasoning.
+?
+Find a compound in a legal text (e.g., 'khamsata 'ashara' from the hadith) and explain why it is non-restrictive based on the condition of absolutness or restriction.
+
+Pages p. 197 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 270
+Module 8 · Lesson 14
+Next →
+The Ten Categories
+beginner
+5 min
+The Logical Scope of Quantifiers: Individuals vs Parts
+Author distinguishes two uses of quantifiers and states the logical use is for individuals.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the logical use of quantifiers (for individuals under a universal) from their non-logical use (for parts of a physical object) and justify why logic restricts them to individuals.
+
+Core Idea
+Quantifiers in logic count individuals under a universal, not parts of a physical object.
+
+The four quantifiers (all, some, none, not all) can be used in two distinct ways: to indicate the number of individual things that fall under a universal concept, or to indicate the number of parts that make up a single physical object. This passage from the commentary clarifies that in the art of logic, only the first meaning is intended. Understanding this distinction prevents confusion between logical propositions about kinds and non-logical statements about physical wholes.
+
+Guided Path
+1
+Identify the two uses of quantifiers
+The passage states that the four quantifiers are used to clarify the quantity of individuals (juz'iyyat) and also to clarify the quantity of parts (ajza'). Recognize these two distinct domains: one dealing with multiple individual entities, the other with parts of a single entity.
+The examples given: 'Every human is an animal' (individuals) vs 'Every part of this chest is teak' (parts).
+2
+Extract the Arabic examples for each use
+Look at the Arabic sentences: 'كل إنسان حيوان' and 'كل هذا الصندوق ساج'. The first has a universal subject ('insan'), the second has a singular whole ('hadha al-sunduq') with a partitive sense.
+Notice the difference in the subject: a universal term vs a singular term with parts.
+3
+Note the criterion for the logical use
+The passage explicitly says that the intended meaning in logic is to clarify the quantity of individuals (juz'iyyat), not the quantity of parts. The reason is that logic deals with propositions where the subject is universal (kulli), as indicated by the division of quantified propositions (al-mahsurat).
+This is supported by the authority of al-Shaykh and the standard logical classification.
+4
+Understand the reason for the restriction
+Logical propositions are about kinds (e.g., every human, some human), not about the material parts of a specific object. If quantifiers were applied to parts, the proposition would not be about a universal subject, but about a particular whole, which falls outside the scope of logical analysis.
+This keeps logic focused on universal quantification, which is essential for syllogistic reasoning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم اعلم ان هذه الاسوار الاربعة كما تذكر لبيان كمية الجزئيات كقولنا كل انسان حیوان و بعض الانسان كاتب ولاشيء من الانسان بحجر، كذلك تذكر لبيان كمية الاجزاء كقولنا كل هذا الصندوق ساج و بعض هذا الصندوق رطب ولاشيء من هذا الصندوق بحديد والمراد بها في هذا الفن ما يبين كمية الجزئيات لا كمية الاجزاء على ما صرح به الشيخ و يشهد به جعلهم المحصورات قسماً مما يكون الموضوع فيه كلياً كما سبق.
+Then know that these four quantifiers, just as they are mentioned to clarify the quantity of individuals (particulars) – like our saying 'Every human is an animal', 'Some human is a writer', and 'No human is a stone' – likewise they are mentioned to clarify the quantity of parts – like our saying 'Every part of this chest is teak', 'Some part of this chest is moist', and 'No part of this chest is iron'. But what is intended by them in this art (logic) is that they clarify the quantity of individuals, not the quantity of parts, as the Master (al-Shaykh) explicitly stated, and as is witnessed by their making the quantified propositions (al-mahsurat) a division of what the subject in it is universal, as has preceded.
+Source pages p. 270
+
+Commentary
+This passage defines the purpose of the four quantifiers (sur) in logic. The commentator clarifies that the quantifiers 'all', 'some', 'none' can be used in two ways: to indicate the number of individual things under a concept (e.g., every human) or to indicate the number of parts of a single object (e.g., every part of this chest). In the logical art, only the first meaning is intended, because logic deals with universal propositions where the subject is a universal term, not a physical whole. This is supported by the authority of al-Shaykh (likely al-Razi or Ibn Sina) and by the standard division of quantified propositions.
+
+Key Terms
+الأسوار
+
+Key Terms from Source Passage
+
+Checkpoint
+In logic, the quantifiers (sur) are primarily used to indicate:
+A) The number of physical parts of an object.
+B) The number of individual things that fall under a universal.
+C) Both equally.
+D) The intensity of a quality.
+
+Key Takeaway
+Quantifiers in logic are restricted to quantifying individuals under a universal subject, not parts of a physical object, a distinction crucial for correct propositional analysis.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement from a fiqh text: 'كل خمر مسكر' (Every khamr is an intoxicant). Identify whether the quantifier 'كل' is used for individuals or parts. Explain your reasoning using the criteria from this lesson.
+?
+Find a quantified proposition in a logical or juristic text (e.g., from al-Sanusiyya or al-Mukhtasar) and test whether it fits the logical use of quantifiers as described in this passage.
+
+Pages p. 270 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 295
+Module 8 · Lesson 15
+Next →
+The Ten Categories
+advanced
+10 min
+Classifying 32 Modal Proposition Images
+Author enumerates 32 modal proposition images with constraints
+
+Learning Objective
+By the end of this lesson, you will be able to classify the 32 modal proposition images into invalid, valid considered, and valid unconsidered categories based on the four constraints.
+
+Core Idea
+Only 7 of 32 modal images are both valid and considered; the rest are invalid or ignored.
+
+In this lesson, we explore a crucial refinement in modal logic: the classification of propositions into valid, invalid, considered, and unconsidered. The author systematically enumerates 32 images derived from eight simple propositions and four constraints, then divides them using logical relationships. By understanding this classification, you will see how logicians separate essential tools from incidental forms.
+
+Guided Path
+1
+Identify the eight simple propositions
+The passage refers to 'the eight simple propositions considered in this book.' Recognize that these are the basic modal types (e.g., absolute necessary, absolute perpetual, general conditional, etc.).
+These eight propositions form the foundation for generating images.
+2
+Understand the four constraints
+The four constraints are non-necessity, essential non-permanence, descriptive non-permanence, and possibly a fourth. Each constraint adds a condition that alters the proposition's meaning.
+Knowing these constraints is key to evaluating combinations.
+3
+Track the invalid images
+The author lists nine invalid images: restricting absolute necessary with all four constraints, restricting absolute perpetual with two non-permanence constraints, plus three more. Understand why they are invalid: necessity contradicts non-necessity and non-permanence.
+Invalidity arises from inherent contradictions between the proposition's mode and the constraint.
+4
+Distinguish valid considered vs. valid unconsidered images
+Seven images are valid and considered (the standard ones in the matn). The remaining valid images are logically correct but not treated in later discussions. Recognize this distinction.
+The 'considered' set is the operational core used in syllogistic reasoning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التفصيل فى هذا المقام ان القضاياء البسائط المعتبرة المذكورة في هذا الكتاب هي الثمانية والقيودات المذكورة هى الاربعة وبملاحظة كل من القضاياء الثمانية مع كل من تلك القيود الاربعة يرتقى الى اثنين وثلاثين صورة: تسعة منها غير صحيحة وهى تقييد الضرورية المطلقة بالقيود الاربعة لان الضرورة مادام الذات تنافي اللاضرورة واللادوام بكلا قسميها وتقييد الدائمة المطلقة باللادوام الذاتي والوصفى لان الدوام بحسب الذات تنافى اللادوام بكلا شقيه، هذه سنة و الثلاثة الباقية تقييد المشروطة العامة باللادوام و اللاضرورة الوصفيين وتقييد العرفية العامة باللادوام الوصفى و سبعة منها صحيحة معتبرة وهى المذكورة في المتن والصور الباقية صحيحة غير معتبرة.
+اللا ضرور اللا ضرورة اللا دوام الله دوام
+ونحن نرسم جدولاً يشتمل على خمسة واربعين بيتاً ونضع القيود الاربعة في البيوت الفوقانية صور المرة الذاتية الوصفية الذاتى الوصفى
+التالية للبيت الأول بتقديم اللاضرورة على اللادوام والذاتي الضرورة المطلقة غ م غ ص غم غص
+منهما على الوصفى والبسايط الثمانية
+في البيوت التالية له من اليمين على المشروطة العامة م غ م غ م ص م غ م
+ترتيب ذكرها في المتن وتعلم كل
+واحد من تلك الاقسام الثلاثة التوقية المطلقة م غ م م غ م ص م م غ م ص غام ص غم
+س غرام صغم صم
+بعلامة ونضعها في البيوت الباقية في ملتقى الجدولين اللذين رسم في المنتشرة المطلقة صغ م م غ م ص م م غ م احدهما واحدة من القضايا وفي الآخر واحد من القيود الاربعة الدائمة المطلقة م غ م م غ م غ م غ م فیعلم حكم كل تركيب من العلامة التي وضعت في ملتقى العرفية العامة م غ م م غ م ص م غ م
+جدوله. فعلامة الصحيح المعتبر
+حس
+صم» وعلامة الصحيح الغير المطلقة العامة ص م م ع م م م م غام س ام اس المنته العامة م م م غ م م غ م م غ م رغم
+المعتبر صغ م» وعلامة غير الصحيح (غ) ص» والجدول
+هذا
+The detail in this place is that the simple propositions considered in this book are eight, and the mentioned constraints are four. Considering each of the eight propositions with each of those four constraints results in thirty-two images: nine of them are invalid—namely, restricting the absolute necessary to the four constraints, because necessity as long as the essence contradicts non-necessity and non-permanence in both its divisions, and restricting the absolute perpetual to the essential and descriptive non-permanence, because permanence with respect to essence contradicts non-permanence in both its branches—these are six; and the remaining three are restricting the general conditional to descriptive non-permanence and non-necessity, and restricting the general conventional to descriptive non-permanence; and seven of them are valid and considered, and they are mentioned in the text; and the remaining images are valid but unconsidered. Non-necessity, non-necessity, non-permanence, God, permanence. And we draw a table containing forty-five cells and we place the four constraints in the upper cells... (translation continues with table description).
+Source pages p. 295
+
+Commentary
+This passage presents a detailed classification of modal propositions and their combinations with four constraints. The author begins by stating that there are eight simple propositions (the basic modal types) and four constraints (such as 'non-necessity' and 'non-permanence' of various kinds). Combining each proposition with each constraint yields 32 images. Nine of these are invalid: six come from restricting the absolute necessary (الضرورية المطلقة) with all four constraints because necessity as-long-as-essence contradicts non-necessity and non-permanence; and three from restricting the absolute perpetual (الدائمة المطلقة) with essential and descriptive non-permanence. Three more are invalid as listed. Seven are valid and considered, and these are the ones mentioned in the main text (المتن). The remaining are valid but unconsidered. The author then describes a table with 45 cells (possibly 5x9 or similar) to map all combinations, using symbols like 'غ', 'م', 'ص' to denote validity and consideration status. The table provides a visual reference for the logical relationships. All examples in this classification are from the Islamic logical tradition on modal propositions, not from secular sources.
+
+Key Terms
+القضايا البسائط (al-qadaya al-basa'it): The eight simple modal propositions: absolute necessary, absolute perpetual, general conditional, general conventional, etc. [Note: Stable across the tradition.]
+القيودات الأربعة (al-quyudat al-arba'a): The four constraints: non-necessity (اللاضرورة), essential non-permanence (اللادوام الذاتي), descriptive non-permanence (اللادوام الوصفي), and possibly others. [Note: No significant shift.]
+الصور الصحيحة المعتبرة (al-suwar al-sahiha al-mu'tabara): Valid propositional forms that are considered by logicians and discussed in later topics. [Note: No significant shift.]
+الصور الصحيحة غير المعتبرة (al-suwar al-sahiha ghayr al-mu'tabara): Logically valid propositional forms that logicians do not treat as standard or discuss in later chapters. [Note: This distinction appears in later commentaries; earlier texts may not explicitly separate considered/unconsidered.]
+
+Key Terms from Source Passage
+
+Checkpoint
+How many of the 32 proposition images are both valid and considered according to the author?
+A) 9
+B) 7
+C) 23
+D) 16
+
+Key Takeaway
+From 32 possible modal images, only 7 are both logically valid and practically considered in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+From the list below, identify which of the 32 images are invalid: a) absolute necessary restricted to non-permanence; b) general conditional unrestricted; c) absolute perpetual restricted to non-necessity. Explain your reasoning based on the text.
+?
+Given the four constraints and eight propositions, enumerate the seven valid considered images as mentioned in the matn. (If the matn list is not available, describe which ones they likely are.)
+
+Pages p. 295 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 296
+Module 8 · Lesson 16
+Next →
+The Ten Categories
+advanced
+10 min
+Parsing Restrictions on Modal Propositions: General Conditional and General Conventional
+Gloss defines restrictions of general conditional and general conventional.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the restrictions applied to a general conditional and a general conventional proposition in Islamic modal logic, and distinguish between descriptive non-perpetuity and descriptive non-necessity.
+
+Core Idea
+Modal restrictions define the precise conditions under which a predicate holds in Islamic logic.
+
+In Islamic modal logic, propositions are not simply true or false; they are qualified by necessity, perpetuity, and conditionality. This gloss from al-Yazdi’s Hashiya clarifies how the 'general conditional' (al-mashruta al-'amma) and 'general conventional' (al-'urfiyya al-'amma) are further restricted by descriptive non-perpetuity (al-ladawam al-wasfi) and descriptive non-necessity (al-ladurura al-wasfi). Understanding these restrictions is essential for accurately interpreting modal arguments in kalam and usul al-fiqh.
+
+Guided Path
+1
+Identify the base propositions
+The gloss mentions two base proposition types: the general conditional (al-mashruta al-'amma) and the general conventional (al-'urfiyya al-'amma). The general conditional typically means 'Every A is B at some time' (conditional on time), while the general conventional means 'Every A is B in the customary duration' (according to customary time). Know these definitions.
+These are standard modal proposition categories in the tradition of al-Qazwini al-Katibi.
+2
+Define the restrictions
+The restrictions are 'descriptive non-perpetuity' (al-ladawam al-wasfi) and 'descriptive non-necessity' (al-ladurura al-wasfi). Descriptive non-perpetuity means the predicate is not permanently true while the subject exists. Descriptive non-necessity means the predicate is not necessarily true while the subject exists. The term 'descriptive' (wasfi) indicates these are descriptive of the subject's state, not essential.
+Do not confuse 'descriptive' with 'essential' (dhati).
+3
+Apply the restrictions to each base
+For the general conditional, both descriptive non-perpetuity and descriptive non-necessity are applied. For the general conventional, only descriptive non-perpetuity is applied (not non-necessity). This means the conventional restricted proposition is not permanent but could still be necessary in some sense.
+The gloss explicitly says 'by descriptive non-perpetuity and descriptive non-necessity' for the conditional, and 'by descriptive non-perpetuity' alone for the conventional.
+4
+Recognize the resulting proposition type
+These restricted propositions are part of the eight modal forms commonly analyzed in later Islamic logic. They are used in arguments where precise modal force matters, such as in proving existential dependence or temporal creation.
+The context of the gloss (page 296 of Yazdi's Hashiya) suggests these restrictions generate specific modal subtypes.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هي تقييد المشروطة العامة باللادوام واللاضرورة الوصفيين و تقييد العرفية العامة باللادوام الوصفي. (عبدالرحيم)
+They are: restricting the general conditional by descriptive non-perpetuity and descriptive non-necessity, and restricting the general conventional by descriptive non-perpetuity.
+Source pages p. 296
+
+Commentary
+This brief marginal note (by Abd al-Rahim) provides a definition of a certain set of modal propositions. It states that 'they'—referring to the eight omitted forms or a subset—are the result of restricting the 'general conditional' (al-mashruta al-'amma) by two descriptive conditions: non-perpetuity (al-ladawam) and non-necessity (al-ladurura) both in the descriptive sense, and restricting the 'general conventional' (al-'urfiyya al-'amma) by descriptive non-perpetuity alone. This is a technical classification within modal logic involving different types of temporal and necessity modifiers.
+
+Key Terms
+اللادوام الوصفي
+اللاضرورة الوصفي
+المشروطة العامة
+العرفية العامة
+
+Key Terms from Source Passage
+
+Checkpoint
+What restrictions apply to the general conditional in this gloss?
+A) Descriptive non-perpetuity only
+B) Descriptive non-necessity only
+C) Both descriptive non-perpetuity and descriptive non-necessity
+D) Essential non-perpetuity
+
+Key Takeaway
+The general conditional is restricted by both descriptive non-perpetuity and descriptive non-necessity, while the general conventional is restricted only by descriptive non-perpetuity.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Given the proposition: 'Every human is breathing at some time' as a general conditional, construct the restricted version by applying descriptive non-perpetuity and descriptive non-necessity. Write out the resulting proposition in modal language (e.g., 'Every human is breathing at some time, but not permanently so and not necessarily so').
+?
+Task 2: In a kalam argument about the creation of the world, you encounter the proposition 'The world is created in a customary duration' (a general conventional). If the argument requires that this creation is not permanent (i.e., it could have been otherwise), which restriction should be applied? Explain why non-necessity is not applied here based on the gloss.
+
+Pages p. 296 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 296
+Module 8 · Lesson 17
+Next →
+The Ten Categories
+intermediate
+5 min
+The Four Propositions with Essential Non-Perpetuity
+Gloss defines four propositions with essential non-perpetuity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify the four modal propositions defined by essential non-perpetuity, distinguishing general absolutes from temporal absolutes.
+
+Core Idea
+Four modal propositions are bound by essential non-perpetuity: two general, two temporal.
+
+This gloss by 'Abd al-Rahim gives a concise definition of a crucial classification in modal logic. The four propositions—two general absolutes and two temporal absolutes—are all restricted by essential non-perpetuity (al-ladawam al-dhati). Understanding this distinction is key to analyzing arguments in Kalam and Usul al-Fiqh where the permanence of a predicate matters.
+
+Guided Path
+1
+Identify the definiendum
+The pronoun 'هي' refers to a set of four propositions mentioned earlier in the text. These are the propositions being defined.
+2
+Separate the two categories
+The gloss mentions 'العامتين المطلقتين' (the two general absolutes) and 'الوقتيتين المطلقتين' (the two temporal absolutes). Note the dual feminine forms indicate two of each.
+General absolutes are universal propositions without temporal qualification; temporal absolutes involve a specific time.
+3
+Understand the restriction
+Both categories are qualified by 'باللادوام الذاتي' (with essential non-perpetuity). This means the predicate is not permanently true due to the essence of the subject; it could be false at some time essentially.
+Essential non-perpetuity contrasts with descriptive (accidental) non-perpetuity, which depends on external factors.
+4
+Contrast with descriptive non-perpetuity
+In other passages, propositions may have descriptive non-perpetuity (اللادوام غير الذاتي). Here only essential is mentioned, highlighting a refined classification.
+This distinction is important in Kalam for arguments about the temporality of the world.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هي : القضاياء الاربع اعنى: العامتين والوقتيتين المطلقتين باللادوام الذاتي. (عبد الرحيم )
+They are: the four propositions, namely: the two general absolutes and the two temporal absolutes, with essential non-perpetuity.
+Source pages p. 296
+
+Commentary
+This gloss by Abd al-Rahim gives another definition of a set of four propositions: the two general absolutes (al-'ammatan al-mutlaqatan) and the two temporal absolutes (al-waqtiyyatan al-mutlaqatan), all restricted by essential non-perpetuity (al-ladawam al-dhati). This is part of the classification of modal propositions based on the type of non-perpetuity: essential vs. descriptive.
+
+Key Terms
+اللادوام الذاتي
+العامتين المطلقتين
+الوقتيتين المطلقتين
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the gloss, how many propositions are defined with essential non-perpetuity?
+A) Two
+B) Four
+C) Six
+D) Eight
+
+Key Takeaway
+The four propositions with essential non-perpetuity are two general absolutes and two temporal absolutes, forming a precise modal classification.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the following is a general absolute with essential non-perpetuity: 'Every human is necessarily animal' (general absolute) or 'Every human is white at some time' (temporal absolute).
+?
+Explain why 'Some animals are black' would not be considered under essential non-perpetuity.
+
+Pages p. 296 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 297
+Module 8 · Lesson 18
+Next →
+The Ten Categories
+beginner
+5 min
+The Enumeration of Seven Composites and Eight Simples: Conventional Not Absolute
+Gloss clarifies enumeration is relative to considered propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the nature of the enumeration of composites and simples in Islamic logic as conventional rather than exhaustive.
+
+Core Idea
+The seven composites and eight simples are not absolute categories; they are the considered ones.
+
+This gloss by Mirza Muhammad Ali addresses a common misconception about the standard lists of modal propositions. You may wonder why there are exactly seven composite and eight simple modal propositions. The author clarifies that this enumeration is not a real restriction but a reflection of which propositions the early logicians chose to discuss.
+
+Guided Path
+1
+Identify the claim being clarified
+What does the base text assert about the seven composites and eight simples? Find the statement that the gloss is commenting on. It likely says 'these seven propositions' or something similar, implying a fixed enumeration.
+2
+Distinguish 'real' vs 'conventional' enumeration
+The gloss explicitly says the restriction is 'not real' (laysa bihaqqi). Real would mean that only seven composites exist logically. Conventional means the ancients only discussed these seven, not that others are impossible. Contrast these two concepts.
+3
+Apply the insight to other enumerations
+The same applies to the eight simples. Understand that the lists are pedagogical choices, not metaphysical necessities. This prepares you to encounter other proposition types in later works that go beyond these standard sets.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله : «اى هذه القضاياء السبع ...». قد عرفت فيما مر ان انحصار المركبات في السبع قد عرفت فيما مر ليس بحقيق لكن القدماء لم يبحثوا الا من السبع المذكورة ولم يعتبروا غيرها كما انهم لم يعتبر وامن البسايط غير الثمانية المذكورة فانحصارها في السبع بالنسبة الى القضاياء المعتبرة و كذا انحصار البسايط في الثمانية. (ميرزا محمد على)
+His statement: 'i.e. these seven propositions...' You have already known in what passed that the restriction of composites to seven is not real, but the ancients only discussed the mentioned seven and did not consider others, just as they did not consider from the simples other than the mentioned eight. So their restriction to seven is relative to the considered propositions, and likewise the restriction of simples to eight.
+Source pages p. 297
+
+Commentary
+This gloss by Mirza Muhammad Ali comments on a statement about the seven composite modal propositions. He notes that it was previously known that the enumeration of composites as exactly seven is not absolute or real; rather, the ancient logicians only discussed these seven and did not consider others. Similarly, from the simple propositions, they only considered eight. Thus the 'restriction' to seven composites and eight simples is conventional, based on which propositions they deemed worth treating, not an exhaustive logical classification.
+
+Key Terms
+المركبات
+البسايط
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the gloss, how should the enumeration of seven composites be understood?
+A) It is a real, exhaustive classification.
+B) It is relative to what the ancient logicians considered.
+C) It is based on the number of temporal modes.
+D) It is a mistake.
+
+Key Takeaway
+The restriction to seven composites and eight simples is relative to the propositions considered by the early logicians, not an exhaustive classification.
+
+How This Lesson Applies — to MY Life?
+?
+In a discussion of modal propositions, a student claims that there are exactly seven composite modal propositions. How would you respond based on this gloss?
+?
+Give an example of a composite modal proposition that is not among the seven, and explain why the ancients might not have considered it.
+
+Pages p. 297 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 297
+Module 8 · Lesson 19
+Next →
+The Ten Categories
+advanced
+10 min
+Reduction of Modal Restrictions to Simple Propositions
+Gloss explains how non-perpetuity in the first four propositions relates to absolute and possible general propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify how essential non-perpetuity and essential non-necessity in propositions reduce to absolute general and possible general propositions, respectively.
+
+Core Idea
+Non-perpetuity and non-necessity collapse into simpler proposition types: absolute general and possible general.
+
+This gloss expands on a commentator's statement about the first four composite propositions. It reveals an important reduction: when a proposition is restricted by essential non-perpetuity, it becomes an absolute general proposition; when restricted by essential non-necessity, it becomes a possible general proposition. Understanding this reduction clarifies the hierarchy of modal propositions in Islamic logic and prepares you for working with modal syllogisms.
+
+Guided Path
+1
+Identify the two modal restrictions
+In the gloss, two restrictions are mentioned: essential non-perpetuity (اللادوام الذاتي) and essential non-necessity (اللاضرورة الذاتية). Locate these terms in the Arabic text.
+Non-perpetuity negates perpetuity; non-necessity negates necessity.
+2
+Match each restriction to its resulting proposition type
+The gloss states that non-perpetuity 'reverts to an absolute general' (ترجع الى مطلقة عامة), and non-necessity 'reverts to a possible general' (ترجع الى ممكنة عامة). Understand that these are the simplest proposition types without modal qualification.
+Absolute general: no modal; possible general: expresses possibility in a general sense.
+3
+Contrast the two outcome types
+An absolute general proposition asserts the predicate without any temporal or modal condition, e.g., 'Man is an animal.' A possible general proposition asserts that the predicate possibly holds in a general way, e.g., 'Man is possibly a writer.' Recognize the difference in logical force.
+This distinction is crucial for categorical syllogisms where modal premises require special handling.
+4
+Apply the reduction to a concrete proposition
+Consider the proposition 'Everything that exhibits change is temporally originated (hadith).' If restricted by essential non-perpetuity, it becomes 'Not everything that exhibits change is always temporally originated' – an absolute general proposition. If restricted by essential non-necessity, it becomes 'It is not necessary that everything that exhibits change is temporally originated' – a possible general proposition.
+This example shows how the reduction works in a typical kalam argument about the temporality of the world.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله لان اللادوام في الاربع الأولى... كل قضية من السبع المذكورة في المتن قيدت باللادوام الذاتى فلا دوامها يرجع الى مطلقة عامة و كل قضية منها قيدت باللاضرورة الذاتية فلاضرورتها ترجع الى ممكنة عامة (التقريب ص۵۰)
+His statement: 'Because non-perpetuity in the first four...' Every proposition from the seven mentioned in the text, if restricted by essential non-perpetuity, its non-perpetuity reverts to an absolute general. And every proposition from them, if restricted by essential non-necessity, its non-necessity reverts to a possible general.
+Source pages p. 297
+
+Commentary
+This gloss expands on the commentator's statement about non-perpetuity in the first four of the seven composites. It states that if any of the seven propositions is restricted by essential non-perpetuity (al-ladawam al-dhati), then that non-perpetuity amounts to an absolute general proposition (mutlaqa 'amma). If it is restricted by essential non-necessity (al-ladurura al-dhatiyya), then that non-necessity amounts to a possible general proposition (mumkina 'amma). This shows how the modal restrictions transform the original propositions into simpler ones.
+
+Key Terms
+المطلقة العامة
+الممكنة العامة
+
+Key Terms from Source Passage
+
+Checkpoint
+If a proposition is restricted by essential non-necessity, what type of proposition does it revert to?
+A) Absolute general
+B) Possible general
+C) Necessary general
+D) Temporal absolute
+
+Key Takeaway
+Essential non-perpetuity reduces a proposition to an absolute general, while essential non-necessity reduces it to a possible general; these are two distinct modal reductions.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'The world is created.' Restrict it by essential non-perpetuity and then by essential non-necessity. State what type of proposition each restriction yields, and explain the difference in meaning.
+?
+In a categorical syllogism, if a premise is a non-perpetual proposition, what must you convert it to before checking validity? Show your reasoning using the reduction rule from this lesson.
+
+Pages p. 297 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 297
+Module 8 · Lesson 20
+Next →
+The Ten Categories
+intermediate
+5 min
+Condition Application and Multiplicity of Subject
+Gloss on condition causing multiple subjects
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a condition applied to a set of propositions leads to multiplicity of subject and explain why this is a logical concern.
+
+Core Idea
+Multiplicity of subject arises whenever a condition touches even one proposition in a composite.
+
+This short gloss from Mirza Muhammad Ali highlights a subtle but critical point in categorical logic: when a condition is attached to a composite of propositions, whether it applies to some or to all of them, it inevitably leads to a multiplicity of subject (ta'addud al-mawdu'). This means the original unified subject becomes fragmented, complicating logical analysis. Understanding this helps you avoid a common pitfall in classifying propositions.
+
+Guided Path
+1
+Identify the logical context
+The gloss presumes a set of propositions (e.g., the seven composites mentioned elsewhere). The condition is something like 'non-perpetuity' or a modifier that attaches to the subject. Recognize that we are dealing with a categorical framework where each proposition has a single subject.
+2
+Apply the condition to some propositions
+If the condition applies only to a subset of the propositions, those few now have a modified subject (e.g., 'temporarily existing'). The remaining propositions keep their original subject. This creates multiple distinct subjects (one modified, one original), breaking the uniformity.
+The gloss says 'if it were on some of them, it would necessitate multiplicity of subject'.
+3
+Apply the condition to all propositions
+If the condition applies to every proposition, each proposition's subject is now modified. But the modification might differ across propositions (e.g., some 'temporarily existing' in one sense, others in another). Even if uniform, the class of subjects is no longer identical to the original whole, again producing multiplicity.
+The gloss adds 'if it were on all of them, it would necessitate multiplicity of subject as well'.
+4
+Reflect on the consequence
+In either case (partial or full application), the original single-subject classification becomes ambiguous. The logician can no longer treat the composite as a unified subject. This is why the author urges 'so reflect' (fa-ta'ammal) — it demands careful handling.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اذلو كان على بعضها اللزم تعدد الموضوع فتأمل (میرزا محمد علی) (۱۳۳) اذلو كان على كلها للزم تعدد الموضوع ايضاً. (میرزا محمد علی)
+Because if it were on some of them, it would necessitate multiplicity of subject, so reflect. (133) Because if it were on all of them, it would necessitate multiplicity of subject as well.
+Source pages p. 297
+
+Commentary
+These two consecutive short glosses by Mirza Muhammad Ali make a concise point about the condition of non-perpetuity or similar modifier applying to the seven composites. They argue that whether the condition applies to 'some of them' (i.e., some of the propositions) or to 'all of them', it leads to a multiplicity of subject (ta'addud al-mawdu'), implying that the classification becomes problematic. The repeated 'so reflect' urges careful consideration.
+
+Key Terms
+تعدد الموضوع
+الشرط
+الكل
+البعض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the gloss, what happens if a condition applies to all of the seven composites?
+A) It simplifies the classification because the condition is uniform.
+B) It necessitates multiplicity of subject as well.
+C) It removes ambiguity about the condition's scope.
+D) It has no effect because all are equally conditioned.
+
+Key Takeaway
+Applying a condition to any subset of a composite—whether some or all—inevitably fragments the subject, requiring careful logical handling.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a set of three propositions: 'Wine is forbidden', 'Nabidh is forbidden', 'Grape juice is forbidden'. If you add the condition 'when intoxicating', does it apply to some or all? Explain whether multiplicity of subject arises.
+?
+Construct your own example from Fiqh where a condition applied to a universal proposition (e.g., 'All sales are valid') leads to multiple subjects, and state what those subjects are.
+
+Pages p. 297 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 301
+Module 8 · Lesson 21
+Next →
+The Ten Categories
+intermediate
+8 min
+Types of Disjunction: True vs Accidental
+Clarifies the distinction between true and accidental disjunctions.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between true disjunction (haqiqiyya) and accidental disjunction (ittifaqiyya), and identify the two senses of exclusive and exhaustive disjunction.
+
+Core Idea
+Disjunction types depend on the relationship between parts, not just truth values.
+
+In this passage, the commentator clarifies the classification of disjunctive conditionals. He distinguishes between disjunctions that are logically necessary (like contradiction) and those that happen to be true in a particular case. This distinction is crucial for understanding how disjunctive syllogisms work in Islamic logic, especially when applied to fiqh and kalam arguments.
+
+Guided Path
+1
+Identify the two senses of 'man'at al-jam'
+Read the opening statement: whenever man'at al-jam' is true in the first sense (logical incompatibility), it is true in the second sense (accidental), but not vice versa. Understand that the first sense is stronger because it is based on an essential relationship between the parts.
+The same applies to man'at al-khuluw by analogy.
+2
+Define accidental disjunction (ittifaqiyya)
+Find the definition: accidental disjunction occurs when the disjunction is not due to a logical relationship between the parts, but because they happen to have specific truth values in a given subject. For example, in a person who is black and non-writing, 'either non-black or writer' is an accidental exclusive disjunction.
+Accidental disjunction can mimic true disjunction in a specific instance.
+3
+Examine the examples for each type
+The passage provides three examples based on a person who is black and non-writing: (1) true disjunction between blackness and writing, (2) exclusive disjunction (man'at al-jam') between non-blackness and writing, (3) exhaustive disjunction (man'at al-khuluw) between blackness and non-writing. Note the truth conditions for each.
+The true disjunction is stable even if the person's attributes change (e.g., if the person becomes a writer and non-black, the same true disjunction holds).
+4
+Distinguish essential vs accidental incompatibility
+The commentator stresses that in true disjunction (haqiqiyya) the incompatibility is essential (e.g., one part being the contradictory of the other). In accidental disjunction, the incompatibility is only material, arising from the specific subject's properties. This difference determines whether the disjunction is universal or context-dependent.
+For example, 'either this is non-black or a writer' is not universally true; it relies on the person being black and non-writing.
+5
+Apply the distinction to a theological example
+Consider the statement: 'Either the world is temporally originated or it is eternal.' This is a true disjunction if the two exhaust all possibilities and are mutually exclusive by essence. If a third option were possible, it would be accidental. Verify by checking if there is a logical contradiction between the two parts.
+This type of analysis is common in kalam arguments for the world's creation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۲۱) وذلك ، لانه كلما صدقت مانعة الجمع بالمعنى الاول صدقت بالمعنى الثاني دون العكس لجواز ان يتحقق في ضمن الانفصال الحقيقي وعلى هذا القياس مانعة الخلو فلانعيد الكلام فيه . (میرزا محمد علی) (۲۲) اى يكون مفهوم أحدهما منافياً للاخر لعلاقة بينهما مثل ان يكون احدهما نقيضاً للاخر او مساوياً لنقيضه او اخص من نقيضه اواعم منه. و أما الاتفاقية فهى التى لا يكون الانفصال بين طرفيها لعلاقة تقتضى ذلك بل لانهما لا يجتمعان على الصدق معاً ولا على الكذب معاً بطريق الاتفاق كالانفصال الحقيقي بين السواد و الكتابة في الشخص الموصوف بالسواد واللاكتابة كما ذكره المحشى او لا يجتمعان على الصدق و يجتمعان على الكذب بطريق الاتفاق كالانفصال المانع بين اللاسواد و الكاتب فى الشخص المذكور او لا يجتمعان على الكذب و يجتمعان على الصدق بطريق الاتفاق كالانفصال المانع من الخلو بين اللاسواد واللاكاتب في الشخص المذكور ايضاً. (عبد الرحيم) (۲۳) هذا مثال الانفصال الحقيق ومثال اخو به ما تقدم . (محمد علی) (۲۴) عطف على قوله : «عن ذاتيهما». (محمد علی) (۲۵) مثال للمنفى . (محمد علی) (۲۶) اى هذه المنفصلة المذكورة وقال بعض المحققين من المحشين: أى هذه المنافاة التي بين تكون فى مادة مخصوصة. ولا يخفى ان هذه المنافاة ليست بمنفصلة حقيقية بل المنفصلة الحقيقية ما كانت هذه المنافاة طرفيها، اللهم الا ان يكون من قبيل اطلاق الحال وارادة المحل فافهم. ثم ما ذكره المحشى مثال المنفصلة الحقيقية كما صرح به فان السواد و الكتابة في الانسان المذكور لا يجتمعان ولا يكذبان و الا لم يصدق الفرض و اما مثال مانعة الجمع فكقولنا في انسان يكون اسود وغير كاتب : أما ان يكون هذا لا أسود أو كاتباً فانهما لا يصدقان كما هو ظاهر و يكذبان لانتفاء اللاسواد والكتابة جميعاً فيه ومثال المانعة الخلو، كقولنا في الانسان المذكورة اما ان يكون هذا اسود او لا كاتباً لانهما لا يكذبان كما هو ظاهر و يصدقان لتحقق السواد واللاكتابة جميعاً فيه هذا، و اذا فرض انسان يكون كاتباً وغير اسود فينعكس المثالان بخلاف المثال المذكور للمنفصلة الحقيقية فانه يصدق في كلا الفرضين فتأمل. (محمد على)
+(21) That is, because whenever a mutually exclusive disjunction (man'at al-jam') is true in the first sense, it is true in the second sense, but not vice versa, since it can be realized within a true disjunction. Similarly, the exhaustive disjunction (man'at al-khuluw) follows the same analogy, so we will not repeat the discussion. (Mirza Muhammad Ali) (22) That is, the concept of one is incompatible with the other due to a relationship between them, such as one being the contradictory of the other, or equivalent to its contradictory, or more specific than its contradictory, or more general. As for the accidental (ittifaqiyya) disjunction, it is that in which the disjunction between the two parts is not due to a relationship requiring that, but rather because they are not both true together and not both false together by coincidence, like the true disjunction between blackness and writing in a person described as black and non-writing, as the commentator mentioned; or they are not both true together and are both false together by coincidence, like the exclusive disjunction between non-blackness and writing in that person; or they are not both false together and are both true together by coincidence, like the exhaustive disjunction between non-blackness and non-writing in that person also. (Abd al-Rahim) (23) This is an example of the true disjunction, and its counterpart was presented earlier. (Muhammad Ali) (24) An appositive to his statement: 'from their essences'. (Muhammad Ali) (25) An example of the negated. (Muhammad Ali) (26) That is, this mentioned disjunction. And some of the verifying commentators said: that is, this incompatibility that exists in a specific matter. It is not hidden that this incompatibility is not a true disjunction; rather, the true disjunction is that which has this incompatibility in its two sides, unless it is from the category of applying the state and intending the locus, so understand. Then what the commentator mentioned is an example of the true disjunction, as he clarified: for blackness and writing in the mentioned human are not both true and not both false, otherwise the assumption would not be true. As for the example of the exclusive disjunction (man'at al-jam'), it is like our saying of a human who is black and non-writer: 'either this is non-black or a writer' — for they are not both true as is apparent, and they are both false because non-blackness and writing are both absent in him. And the example of the exhaustive disjunction (man'at al-khuluw) is like our saying of the mentioned human: 'either this is black or non-writer' — for they are not both false as is apparent, and they are both true because blackness and non-writing are both realized in him. And if we suppose a human who is a writer and non-black, the two examples reverse, unlike the aforementioned example of the true disjunction, for it is true in both assumptions. So ponder. (Muhammad Ali)
+Source pages p. 301
+
+Commentary
+This passage defines and classifies types of disjunctive conditionals (munfasila). It begins by distinguishing two senses of 'man'at al-jam' (mutually exclusive disjunction): the first sense is where the disjuncts are logically incompatible by essence; the second sense is where they are incompatible by accident. The key point is that the first sense entails the second but not vice versa, because the second can occur within a true disjunction (haqiqiyya). Similarly for man'at al-khuluw (exhaustive disjunction).
+
+The passage then defines the accidental disjunction (ittifaqiyya). This is a disjunction where the disjuncts are not related by a logical relationship (such as contradiction, equivalence, or generality) but rather happen to be either both not true together and both not false together (like the true disjunction between blackness and writing in a person described as both black and non-writing), or both not true together but both false together (like the exclusive disjunction between non-blackness and writing in that person), or both not false together but both true together (like the exhaustive disjunction between non-blackness and non-writing in that person). The commentator uses the example of a specific person with blackness and non-writing to illustrate all three cases.
+
+A later gloss explains that the true disjunction (munfasila haqiqiyya) is defined by an essential incompatibility between the two sides, not merely a material one. The example given—'sawad' (blackness) and 'kitaba' (writing) in a specified human—demonstrates a true disjunction because the two cannot be true together nor false together (they are mutually exclusive and exhaustive). The gloss then provides examples of man'at al-jam' and man'at al-khuluw conditioned on the specific assumption of that human's attributes. It notes that if we flip the assumption (a writer who is non-black), the exclusive and exhaustive examples are reversed, but the true disjunction example remains valid in both cases. The pedagogical intent is to clarify that the logical classification depends on the meaning of the disjunction, not merely on the material coincidence of truth values.
+
+Key Terms
+مانعة الجمع
+مانعة الخلو
+الانفصال الحقيقي
+الاتفاقية
+المنفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the relationship between the first and second sense of 'man'at al-jam'?
+A) They are equivalent.
+B) The first sense entails the second sense, but not vice versa.
+C) The second sense entails the first sense, but not vice versa.
+D) They are unrelated.
+
+Key Takeaway
+The logical nature of a disjunction depends on whether the incompatibility between the parts is essential or merely accidental; only true disjunction guarantees stable logical relations across different material contexts.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a true disjunction in the context of fiqh: 'Either this act is halal or haram. It is not halal. Therefore it is haram.' Explain why this is a true disjunction only if there is no third option and the two are mutually exclusive by essence.
+?
+Given a specific person who is both black and non-writing, identify which type of disjunction is expressed by 'Either this is non-black or a writer.' Then, if the person were a writer and non-black, would the same expression still be a valid disjunction? Use the passage's analysis to answer.
+
+Pages p. 301 · The Ten Categories
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 304
+Module 8 · Lesson 22
+Next →
+The Ten Categories
+beginner
+5 min
+Classifying Conditional Propositions
+Lists six types of conditional propositions with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the six subtypes of conditional propositions based on whether their components are categorical or conditional.
+
+Core Idea
+Conditional propositions are not monolithic; they subdivide by the nature of their parts.
+
+In this passage, we encounter a table that systematically classifies conditional propositions (شرطية) into six types. The table organizes them under the two main categories: متصلة (connected) and منفصلة (disconnected), and further subdivides each based on whether the component propositions are themselves categorical or conditional. This parsing exercise is foundational for understanding later discussions about the structure of conditional syllogisms.
+
+Guided Path
+1
+Identify the two primary categories
+Look for متصلة and منفصلة. These are the two main divisions of conditional propositions.
+In the table, each category has its own column or section.
+2
+List the three subtypes for each
+For متصلة: (1) حملیتان, (2) حملیة ومتصلة, (3) متصلتان. For منفصلة: (1) حملیتان, (2) حملیة ومنفصلة, (3) منفصلتان.
+The text also mentions a subtype 'حملیة ومنفصلة' under منفصلة, and 'منفصلتان'.
+3
+Match examples to subtypes
+For حملیتان under منفصلة, the example is 'العدد إما زوج وإما فرد' (number is either even or odd). Try to find or reconstruct other examples.
+OCR corruption makes some examples illegible, but the logical structure is clear.
+4
+Recognize the purpose of the table
+The table sets up a classification that will be used to explain why certain subdivisions apply only to muttasila, not munfasila.
+This anticipates a later critique or refinement.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+في جدول أقسام الشرطية
+حملیتان ذكر بما أُشير [؟] (ره)
+309
+متصلة نحو إذا كان الإنسان [؟] الإنسان [؟] [؟] الحلق.
+[؟]
+حملیة ومتصلة نحو إذا كان [؟] موجودا [؟] [؟] كل
+طلوع
+متصلة [؟] نور كل [؟] [؟] [؟] النهار موجود فوجود النهار لازم [؟] [؟] منفصلة [؟] نحو كلما كان هذا [؟] [؟] [؟] كان عدداً متصلتان ذكر بالمحشي (ره)
+مقصد منفصلة نحو كل كانت [؟] [؟] [؟] موجود فإما أن [؟] [؟] طالعة وإما أن لا يكون النهار موجود [؟] [؟] [؟] منفصل
+منفصلان
+ذكرهما العشي
+حملیتان نحو : العدد إما زوج وإما فرد.
+حملیة ومتصلة نحو : [؟] لا تكون [؟] علة لوجود النهار [؟] لما كانت [؟] [؟] موجود. حملیة منفصلة نحو: [؟] [؟] [؟] [؟] إما هذا كان [؟] [؟] وإما [؟] [؟] [؟] إما أن كان [؟] [؟] وإما أن كانت [؟] [؟] موجود.
+متصلة و [؟] لا [؟] كان [؟] وإما [؟] [؟] و [؟] [؟] لا [؟] موجود
+منفصلة و
+[؟]
+[؟] منفصلتان نحو إما [؟] من العدة زوجا أو فردا وإما أن يكون [؟] [؟] [؟]
+In the table of divisions of conditional propositions: Two categoricals mentioned as indicated. (309) Connected: for example, if man [is] man [?] ... Categorical and connected: for example, if [?] exists [?] ... Connected [?] light every [?] ... the day exists, so the existence of day is necessary. Disconnected [?] for example, whenever this [?] ... was a number, two connecteds mentioned by al-Muhashshi. Purpose disconnected: for example, every [?] exists, then either [?] rising or day does not exist ... Two disjunctives mentioned by al-Ashi. Two categoricals: for example, number is either even or odd. Categorical and connected: for example, [?] is not a cause of the existence of day [?] when [?] existed. Categorical and disconnected: for example, [?] either this was [?] or [?] ... Connected and [?] not [?] ... Disconnected and [?] ... Two disjunctives: for example, either [?] from the number is even or odd, or that [?] be [?]
+Source pages p. 304
+
+Commentary
+This passage is a table (جدول) listing the divisions of conditional propositions (شرطية). The table appears to enumerate six main types, organized under the two primary categories: متصلة (connected conditional) and منفصلة (disconnected conditional). For each, there are subtypes based on the nature of the component propositions (حملیة, categorical; متصلة connected; or منفصلة disconnected). For example, under munfasila, we see 'حملیتان' (two categoricals) with the example 'العدد إما زوج وإما فرد' (number is either even or odd). Other entries are too garbled to reconstruct fully. This table sets the stage for the subsequent discussion about why certain subdivisions apply to muttasila but not to munfasila. The OCR is highly corrupted, so the exact wording and examples are not reliable; the student should consult a standard edition of the Hashiya.
+
+Key Terms
+شرطية
+متصلة
+منفصلة
+حملیة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a munfasila composed of two categoricals (حملیتان)?
+A) If the sun rises, then day exists.
+B) Number is either even or odd.
+C) If Zaid is a donkey, he brays.
+D) Either the sun is rising or day is not existing.
+
+Key Takeaway
+The table of conditional proposition types shows that both connected and disconnected conditionals can have parts that are categorical, mixed, or conditional, laying the foundation for more advanced logical analysis.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following proposition according to the table: 'إما أن تكون الصلاة صحيحة وإما أن تكون باطلة' (Either the prayer is valid or it is invalid). Determine its primary category and subtype.
+?
+Given a muttasila proposition 'إذا طلعت الشمس فالنهار موجود' (If the sun rises, then day exists), identify the subtypes of its components. Are they both categorical? If so, what is the subtype name?
+
+Pages p. 304 · The Ten Categories
+← Prev
+Mark Done
+Next →

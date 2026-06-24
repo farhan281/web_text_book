@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:43Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/AlTarweehUrduSharhAlTaozeehWatTalweeh_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/72 - Altarweehurdusharhaltaozeehwattalweeh Merged With Pgs",
+  "output_bytes": 12129925,
+  "output_sha256": "ee61a986504a1df1b37b6d362f48b59bfe3484a8b191d2a1fb6cc36eabba382d",
+  "checks": {
+    "catalog_expected_lessons": 999,
+    "course_reported_lessons": 999,
+    "index_lessons": 999,
+    "full_lessons": 999,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 961,
+    "sources": 961
+  }
+}

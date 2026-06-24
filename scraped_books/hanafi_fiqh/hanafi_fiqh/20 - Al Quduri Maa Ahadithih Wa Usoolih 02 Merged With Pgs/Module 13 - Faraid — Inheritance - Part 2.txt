@@ -1,0 +1,212 @@
+← Prev
+p. 456
+Module 13 · Lesson 51
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Munasakhat: Correcting Shares When an Heir Dies Before Distribution
+Procedure for correcting shares when an heir dies before the estate is divided.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the Hanafi method of tashih in cases of munasakhat (successive deaths) by adjusting the inheritance of the first deceased and combining the two cases.
+
+Core Idea
+When an heir dies before distribution, calculate their share from the first estate, then apply tashih to the second deceased's inheritance and combine.
+
+In some cases, an heir dies after the entitlement but before the estate is actually divided. This creates a new inheritance scenario (munasakhat) where the share of the deceased heir becomes part of the second estate. The Hanafi method involves first calculating the shares for the original heirs, then treating the deceased heir's share as an estate for their own heirs, and finally combining the two inheritance cases appropriately.
+
+Guided Path
+1
+Calculate the first deceased's estate and the deceased heir's share
+Determine the original inheritance (first case) and compute the share that the deceased heir would have received from the first deceased's estate.
+This share becomes the 'estate' for the second deceased.
+2
+Check if the share of the second deceased divides evenly among their heirs
+If it does, the case is correct, and no further correction is needed for the second deceased. If not, apply tashih to the second case to get a corrected base.
+Use the same tashih rules as before.
+3
+Combine the two cases
+Multiply the corrected base of the second case (or its original base if no correction needed) by the base of the first case to get a combined corrected base. If the shares of the second case agree with the first case's base, use wafq to avoid overmultiplying.
+Alternatively, if the second case's shares are consonant with the first case's corrected base, multiply by wafq.
+4
+Determine final shares for all heirs
+Each heir from the first case takes their original share multiplied by the appropriate factor (either full second base or wafq). Each heir from the second case takes their share from the second case multiplied by the appropriate factor (from the first case or its wafq).
+The final combined base is the product of the two corrected bases (or adjusted by wafq).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَإِذَا انْقَسَمَتْ الْمَسْأَلَةُ عَلَى الْوَرَثَةِ فَقَدْ صَحَتْ وَإِنْ لَمْ تَنْقَسِمْ سِهَامُ كُلِّ فَرِيقٍ مِنْهُمْ عَلَيْهِمْ فَاضْرِبْ عَدَدَهُمْ فِي أَصْل الْفَرِيضَةِ وَعَوَلْها إِنْ كَانَتْ عَائِلَةً فَمَا خَرَّجَتْ صَحَتْ مِنْهُ الْمَسْأَلَهُ فَإِنْ وَافَقَ سِهَامَهُمْ عَدَدُهُمْ ضَرَبْت وَفْقَ عَدَدِهِمْ فِي أَصْلِ الْمَسْأَلَةِ فَإِنْ لَمْ يَنْقَسِمْ سِهَامُ فَرِيقَيْنِ مِنْهُمْ أَوْ أَكْثَرَ فَاضْرِبْ أَحَدَ الْفَرِيقَيْنِ فِي الْآخَرِ ثُمَّ مَا اجْتَمَعَ فِي الْفَرِيقِ الثَّالِثِ ثُمَّ مَا اجْتَمَعَ فِي أَصْل الْمَسْأَلَةِ فَإِنْ تَسَاوَتْ الْأَعْدَادُ أَجْزَاً أَحَدُهُمَا عَنْ الْآخَرِ كَامْرَأَتَيْنِ وَأَخَوَيْنِ فَاضْرِبْ اثْنَيْنِ فِي أَصْلِ الْمَسْأَلَةِ وَإِنْ كَانَ أَحَدُ الْعَدَدَيْنِ جُزْءًا مِنْ الْآخَرِ أَجْزَأَ الْأَكْثَرُ عَنِ الْأَقَلَ كَأَرْبَعِ نِسْوَةٍ وَأَخَوَيْنِ إِذَا ضَرَيْتِ الْأَرْبَعَةَ أَجْزَأَكَ عَنْ عَدَدِ الْأَخَوَيْنِ فَإِنْ كَانَ أَحَدُ الْعَدَدَيْنِ مُوَافِقًا لِلْآخَرِ ضَرَبْت وَفْقَ أَحَدِهِمَا فِي جَمِيعِ الْآخَرِ ك فَإِذَا صَحَتْ الْمَسْأَلَةُ فَاضْرِبْ سِهَامَ كُلِ وَارِثٍ فِي التَرِكَةِ ثُمَّ اقْسِمْ مَا اجْتَمَعَ عَلَى مَا صَحَّتْ مِنْهُ الْفَرِيضَةُ يُخْرِجُ حَقَّ ذَلِكَ الْوَارِثِ فَإِنْ لَمْ تُقْسَمُ التَّرَكَةُ حَتَّى مَاتَ أَحَدُ الْوَرَثَةِ فَإِنْ كَانَ نَصِيبُهُ مِنْ الْمَيِّتِ الْأَوَّلِ يَنْقَسِمُ عَلَى عَدَدِ رُءُوسِ وَرَثَتِهِ فَاقْسِمْهُ وَقَدْ صَحَتْ مِنْهُ الْمَسْأَلَة وَإِنْ لَمْ يَنْقَسِمْ صَحَّحْت فَرِيضَةَ الْمَيِّتِ الثَّانِي بِالطَّرِيقَةِ الَّتِي ذَكَرْنَاهَا وَثُمَّ ضَرَبْت إِحْدَى الْمَسْأَلَتَيْنِ فِي الْأُخْرَى إِذَا لَمْ يَكُنْ سِهَامُ الْمَيِّتِ الثَّانِي تُوَافِقُ مَا صَحَتْ مِنْهُ فَرِيضَتُهُ فَإِنْ كَانَتْ سِهَامُهُمْ مُوَافِقَةً فَاضْرِبْ وَفْقَ الْمَسْأَلَةِ الثَّانِيَةِ فِي الْأُولَى فَمَا اجْتَمَعَ صَحَتْ مِنْهُ الْمَسْأَلَتَانِ فَكُلُّ مَنْ لَهُ شَيْءٌ مِنْ الْمَسْأَلَةِ الْأُولَى يَأْخُذُهُ مَضْرُوبًا فِي وَفْقِ الْمَسْأَلَةِ الثَّانِيَةِ وَكُلُّ مَنْ لَهُ شَيْءٌ مِنْ الْمَسْأَلَةِ يَأْخُذُهُ مَضْرُوبًا فِي وَفْقِ تَرِكَةِ الْمَيِّتِ الثَّانِي
+And if the case divides among the heirs, then it is correct. If the shares of each group among them do not divide upon them, then multiply their number in the base of the inheritance and its 'awl if it is 'a'ilah. Whatever comes out, the case is correct from it. If their number agrees with their shares, multiply the concordance (wafq) of their number in the base of the case. If the shares of two groups or more do not divide, then multiply one of the two groups by the other, then what is gathered by the third group, then what is gathered in the base of the case. If the numbers are equal, one suffices for the other, like two wives and two brothers: multiply two in the base. If one of the two numbers is a part of the other, the greater suffices for the lesser, like four women and two brothers: if you multiply four, it suffices for the number of the two brothers. If one of the two numbers is consonant with the other, multiply the wafq of one of them in all of the other. And when the case is correct, multiply the shares of each heir by the estate, then divide what is gathered by what the inheritance is correct from; it gives the right of that heir. If the estate is not divided until one of the heirs dies, if his share from the first deceased divides upon the number of heads of his heirs, then divide it and the case is correct from it. If it does not divide, correct the inheritance of the second deceased by the method we mentioned. Then multiply one of the two cases by the other if the shares of the second deceased do not agree with what his inheritance is correct from. If their shares agree, multiply the wafq of the second case by the first, and what is gathered, both cases are correct from it. Everyone who has something from the first case takes it multiplied by the wafq of the second case, and everyone who has something from the case takes it multiplied by the wafq of the estate of the second deceased.
+Source pages p. 456
+
+Commentary
+This lengthy passage explains the process of tashih (correction) when the shares of a category of heirs (e.g., multiple wives) do not divide evenly among them. The method involves multiplying the base by the number of heirs or using the greatest common divisor (wafq) when there is a common factor. The text also covers cases of munasakhat (successive deaths) where an heir dies before distribution. The author gives practical examples: with two wives and two brothers, multiply base by 2; with four women and two brothers, multiply by 4 (since 2 is a part of 4). When numbers are in tawaafuq (consonance), multiply the wafq. Finally, for munasakhat, adjust the second deceased's inheritance by the same principles.
+
+Key Terms
+مناسخات (munasakhat): Successive deaths in inheritance: an heir dies before receiving their share, requiring a second inheritance calculation.
+
+Key Terms from Source Passage
+
+Checkpoint
+In a munasakhat case, after correcting the second case, when do we multiply the wafq of the second case by the first base (rather than the full second base)?
+A) When the shares of the second deceased's heirs agree with the second case's corrected base
+B) When the second case does not need tashih
+C) When the shares of the second deceased's heirs divide evenly among themselves
+D) When the first base is larger than the second base
+
+Key Takeaway
+In munasakhat, treat the deceased heir's share as an estate for their own heirs, apply tashih if needed, then combine the two cases using multiplication (or wafq-multiplication if the second case's shares are consonant with its base).
+
+Pages p. 456 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 457
+Module 13 · Lesson 52
+Next →
+Faraid — Inheritance
+beginner
+8 min
+The Four Principles of Numerical Relations in Faraid Tashih
+Introduction to four numerical relationships used in faraid tashih.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the numerical relationship between two numbers in a faraid case (tamathul, tadaakhul, tawaafuq, tabaayun) and apply the correct tashih multiplier.
+
+Core Idea
+The right multiplier saves the inheritance: know whether your numbers mate, nest, share, or stand apart.
+
+In faraid, after dividing the estate, we often encounter groups of heirs whose shares do not split evenly into the base denominator. The correction process (tashih) requires multiplying the base by a specific number. Which number? That depends on the numerical relationship between the numbers of heirs in each group. This lesson introduces the four Hanafi principles—tamathul, tadaakhul, tawaafuq, tabaayun—that determine the multiplier efficiently.
+
+Guided Path
+1
+Identify the two numbers
+Take the numbers of the two groups of heirs (e.g., number of wives and number of sisters).
+2
+Check for tamathul (equality)
+If the two numbers are equal, then multiply the base by that number.
+E.g., 4 and 4: multiply by 4.
+3
+Check for tadaakhul (interlocking)
+If the smaller number divides the larger exactly, multiply the base by the larger number.
+E.g., 4 and 12: 4 divides 12, multiply by 12.
+4
+Check for tawaafuq (consonance)
+If the numbers share a common factor greater than 1 (but neither divides the other), divide the larger number by the common factor and multiply the base by this result.
+E.g., 8 and 10: common factor 2, multiplier = 10 ÷ 2 = 5, multiply by 5.
+5
+If none of the above, it is tabaayun (disparity)
+Multiply the base by the product of the two numbers.
+E.g., 9 and 10: multiply by 90.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اصول تماثل : دوعدد ایک جیسے ہوں تو اسے تماثل کہتے ہیں جیسے ، چار ، چار، اور دس ، دس بائیں صورت کے ایک عدد سے اصل مسئلہ میں ضرب دینا کافی ہو گا۔
+اصول: تداخل: چھوٹا عدد بڑے عدد میں داخل ہو جائے، جیسے چار اور بارہ، چار اور ہیں، تو بایں صورت بڑے عدد کو اصل مسئلہ میں ضرب دینے سے تصحیح ہو جائے گی۔
+اصول : توافق : دو عدد کسی اور تیسرے عدد سے موافق ہو جیسے آٹھ اور دس کہ اس میں آٹھ ، دس میں داخل نہیں ہے، البتہ دو کا عدد ان دونوں کو فنا کر دیگا، لہذا ان میں توافق کی نسبت ہوگی۔
+اصول : تباین: دو عدد کے درمیان نہ توافق کی نسبت ہو اور نہ تداخل کی نسبت ہو جیسے نو اور دس کہ ان دو عددوں کو کوئی تیسر اعدد نہیں کاٹ سکتا ہے۔
+Principles of Tamathul: two numbers are the same, like four and four, or ten and ten. In such a case, multiplying by one number in the base of the case suffices.
+Principle of Tadaakhul: the smaller number is included in the larger, like four and twelve. In such a case, multiplying by the larger number in the base suffices for tashih.
+Principle of Tawaafuq: two numbers have a common factor with a third number, like eight and ten. Eight is not included in ten, but the number two divides both, so there is a relationship of tawaafuq.
+Principle of Tabaayun: between two numbers there is neither tawaafuq nor tadaakhul, like nine and ten; no third number can divide them.
+Source pages p. 457
+
+Commentary
+This Urdu section explains the four key numerical relationships used in tashih when shares of different heir categories do not divide evenly. Tamathul (equality): when the numbers of two groups are identical, multiply the base by that number. Tadaakhul (interlocking): when one number is a multiple of the other, multiply by the larger. Tawaafuq (consonance): when the numbers share a common factor (but neither divides the other), multiply the base by the number of one group after dividing by the common factor (wafq). Tabaayun (disparity): when the numbers have no common factor, multiply the base by the product of the numbers. These principles streamline the tashih process.
+
+Key Terms
+تماثل (tamathul): When the numbers of two groups of heirs are equal, e.g., 4 and 4.
+تداخل (tadaakhul): When one number is a multiple of the other, e.g., 4 and 12.
+توافق (tawaafuq): When two numbers share a common divisor greater than 1, e.g., 8 and 10 (common divisor 2).
+تباين (tabaayun): When two numbers have no common divisor other than 1, e.g., 9 and 10.
+
+Key Terms from Source Passage
+
+Checkpoint
+If there are 6 sisters and 8 brothers, what type of numerical relationship exists between 6 and 8?
+A) Tamathul
+B) Tadaakhul
+C) Tawaafuq
+D) Tabaayun
+
+Key Takeaway
+The tashih multiplier is determined by the type of numerical relationship between the numbers of heirs in each group.
+
+Pages p. 457 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 457
+Module 13 · Lesson 53
+Next →
+Faraid — Inheritance
+intermediate
+12 min
+Correcting Munasakhah: Multiplying Estates and Using Wafq
+Ruling on procedure for combining two inheritance estates
+
+Learning Objective
+By the end of this lesson, you will be able to apply the Hanafi method for combining two inheritance problems in munasakhah, distinguishing when to multiply the full estate and when to multiply only the proportional part (wafq).
+
+Core Idea
+In munasakhah, multiply full estates if shares are incompatible; multiply only the wafq if compatible.
+
+When an heir dies before receiving their share, the inheritance problem mutates into a combined calculation across two estates. Al-Quduri lays out the precise arithmetic: if the second deceased's shares do not align with his corrected estate, multiply the entire second problem into the first. If they do align (tawafuq), multiply only the proportional part (wafq). This ensures each heir receives the correct portion. Finally, to express shares in practical units, divide the corrected base by 48 to get danaqs.
+
+Guided Path
+1
+Identify the two inheritance problems
+You have two estates: the first deceased (mutawaffa al-awwal) and the second deceased (mutawaffa al-thani) who was an heir from the first but died before distribution. Each has its own base number (asl al-mas'alah) and share distribution.
+The second problem arises because the second deceased's own heirs now inherit what he would have received from the first.
+2
+Check compatibility of shares
+Examine the shares (siham) of the second deceased relative to the base number of his own corrected estate. If there is a common factor (tawafuq), you use the wafq; if not (tabayun), you use the full number.
+Compatibility here means the shares and the base share a common divisor greater than 1.
+3
+Calculate the wafq if compatible
+If compatible, divide the base number of the second estate by the common factor to get the wafq (proportional part). If not compatible, the wafq is the whole base.
+The wafq is the share of the second estate that will be multiplied into the first.
+4
+Multiply to get the common base
+If incompatible, multiply the entire corrected base of the second estate into the first. If compatible, multiply only the wafq of the second into the first. The result is the new base number (sahhah) from which both estates are distributed.
+Each heir from the first estate gets his original share multiplied by the wafq (or full base) of the second; each heir from the second gets his share multiplied by the wafq of the second's estate.
+5
+Convert to danaqs (optional)
+If you want to express shares in subunits of a dirham (danaqs), divide the final base number by 48. The quotient is the number of danaqs per share; multiply by each heir's share count to get their danaq amount.
+48 danaqs = 1 dirham in this context.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+حِسَابُ الْفَرَائِضِ ثُمَّ ضَرَبْت إِحْدَى الْمَسْأَلَتَيْنِ فِي الْأُخْرَى إِذَا لَمْ يَكُنْ سِهَامُ الْمَيِّتِ الثَّانِي تُوَافِقُ مَا صَحَتْ مِنْهُ فَرِيضَتُهُ فَإِنْ كَانَتْ سِهَامُهُمْ مُوَافِقَةً فَاضْرِبْ وَفْقَ الْمَسْأَلَةِ الثَّانِيَةِ فِي الْأُولَى فَمَا اجْتَمَعَ صَحَتْ مِنْهُ الْمَسْأَلَتَانِ فَكُلُّ مَنْ لَهُ شَيْءٌ مِنْ الْمَسْأَلَةِ الْأُولَى يَأْخُذُهُ مَضْرُوبًا فِي وَفْقِ الْمَسْأَلَةِ الثَّانِيَةِ وَكُلُّ مَنْ لَهُ شَيْءٌ مِنْ الْمَسْأَلَةِ يَأْخُذُهُ مَضْرُوبًا فِي وَفْقِ تَرِكَةِ الْمَيِّتِ الثَّانِي وَإِذَا صَحَّحَتْ مَسْأَلَةَ الْمُنَاسَخَة وَأَرَدْت مَعْرِفَةَ نَصِيبٍ كُلِّ وَاحِدٍ مِنْ حَبَّاتِ الدِّرْهَم قَسَمْت مَا صَحَتْ مِنْهُ الْمَسْأَلَةُ عَلَى ثَمَانِيَةٍ وَأَرْبَعِينَ فَمَا خَرَجَ أَخَذْت لَهُ مِنْ سِهَامِ كُلِ وَارِثٍ حَبَّةَ
+Calculation of inheritances: Then you multiply one of the two problems (estates) into the other if the shares of the second deceased do not correspond to what his estate was corrected from. But if their shares are corresponding, then multiply the (proportional) part of the second problem into the first. Whatever is produced, both problems are correct from it. So everyone who has something from the first problem takes it multiplied by the (proportional) part of the second problem, and everyone who has something from the second problem takes it multiplied by the (proportional) part of the estate of the second deceased. And when you have corrected the problem of mutual inheritance (munasakhah) and you wish to know the share of each (heir) in terms of danaqs (fractions of a dirham), you divide what the problem was corrected from by forty-eight, and what comes out you take for each heir from his shares (of the base number) a danaq.
+Source pages p. 457
+
+Commentary
+This passage from Al-Quduri explains the method for correcting the inheritance problem when there is a sequence of deaths (munasakhah) — i.e., when an heir dies before receiving their share from the first deceased, so their own estate must be combined with the first. The author gives two cases: if the shares of the second deceased do not harmonize with the base number of his own estate, you multiply the entire second (corrected) estate by the first. If they do harmonize (i.e., have a common factor), you multiply only the proportional part (wafq) of the second into the first. The result is the common base for both estates. Then each heir from the first estate gets his share multiplied by the wafq of the second, and each heir from the second gets his share multiplied by the wafq of the second's estate. Finally, to express shares in danaqs (forty-eighths of a dirham), divide the corrected base by 48 and assign the quotient to each heir's share count.
+
+Key Terms
+المناسخة (al-munasakhah): The case where an heir dies before distribution, requiring the combination of two inheritance problems.
+وفق (wafq): The proportional part of a number after dividing by a common factor; used when shares are compatible.
+حبة (habbah): A danaq (1/6 of a dirham) or in this context 1/48 of a dirham; a unit for fractional shares.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Al-Quduri, when should you multiply only the proportional part (wafq) of the second estate into the first?
+A) When the shares of the second deceased do not correspond to his corrected estate
+B) When the shares of the second deceased correspond (are compatible) with his corrected estate
+C) When the second deceased has no heirs
+D) When the first deceased has no heirs
+
+Key Takeaway
+In munasakhah, the method of combining estates depends on whether the shares of the second deceased are compatible with his corrected estate: if compatible, use wafq; if not, use the full estate.
+
+Pages p. 457 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →

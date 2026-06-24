@@ -1,0 +1,1574 @@
+← Prev
+p. 327
+Module 9 · Lesson 101
+Next →
+Immediate Inference
+intermediate
+7 min
+Converting Temporal Propositions: Preserving the Time Restriction
+Author exemplifies conversion of a temporal proposition and refutes an objection.
+
+Learning Objective
+By the end of this lesson, you will be able to correctly convert a temporal proposition while preserving its time restriction, using the example of moon eclipse.
+
+Core Idea
+A temporal proposition's converse must retain its time restriction, otherwise the conversion fails.
+
+In this passage, the author demonstrates the correct conversion of a temporal proposition about the moon's eclipse. The key is to preserve the time restriction ('at quadrature') because it defines the proposition's truth conditions. Let's follow the steps of this conversion and understand why the restriction cannot be ignored.
+
+Guided Path
+1
+Identify the original temporal proposition
+The original is: 'Nothing from the moon is eclipsed necessarily at quadrature not perpetually.' This is a universal negative (E) with a time restriction 'at quadrature'.
+The time restriction is part of the predicate's condition.
+2
+Perform the conversion by swapping subject and predicate
+Convert by swapping 'moon' and 'eclipsed', keeping the time restriction: 'Nothing from the eclipsed is a moon at quadrature necessarily not perpetually.'
+The quantity and quality remain the same (universal negative).
+3
+Verify the meaning of the converse
+The converse means: the moon under the description of eclipse is not necessarily the moon at quadrature (they may co-occur at other times). This is self-evidently true.
+4
+Check the necessity of the time restriction
+If we drop 'at quadrature', the converse would be false and even contradictory, as the author shows. The restriction is essential for truth.
+This step highlights the critical refinement: the restriction must be preserved.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: فانه يصدق: لاشيء من القمر بمنخسف بالضرورة وقت التربيع لادائماً: اى ان سلب الانتساف الضرورى عن القمر ليس دائماً له مادامت ذاته بل قد يعرض لها الانتساف في غير وقت التربيع. عكس هذه الوقتية مع الاعراض عن قيد اللادوام، لانه ليس محلا للبحث في هذا المقام كما تراه في في عكس المستوى كلام المحشى بوضوح: لاشيء من المنخسف بقمر وقت التربيع بالضرورة لادائماً، بمعنى ان القمر و المنخف قديتصادقان في غير وقت التربيع. وهو عكس صحيح لاعيب فيه لان معناه ان القمر بوصف الانحساف ليس القمر بوصف وقت التربيع بالضرورة، وصحة هذا الكلام بديهية: وقوله: «مع كذب بعض المنخسف ليس بقمر بالامكان العام كذبه جاء من ناحية الاخلال بالوقت المعين الذي تقيدت به القضية الوقتية فكان من اللازم ان يقول بعض المنخسف ليس بقمر وقت التربيع واذاجاء هذا القيد كان معنى هذه الجزئية السالبة: بعض القمر بوصف الانتساف ليس القمر بوصف وقت التربيع وهذا المعنى انما يلائم الضرورة لا الامكان وقوله لصدق نقيضه»: نقيضه اللازم كل منخسف قمر وقت التربيع بالامكان وبطلاته أوضح من الشمس. وعلى كل فقوله: «مع كذب بعض المنخسف ليس بقمر بالامكان العام لصدق نقيضه و هو كل منخسف قمر بالضرورة كلام مهمل وجهة اهماله انه اهمل القضية المقيدة التى هى محل البحث، عن قيدها، مع انه ضروري لها، ودليل ضرويته للقضية المذكورة اولاً انه مفروض فيها، و هذا الفرض يجب ان يكون فى عكسها لان عكس القضية عين القضية ويمتاز عنها بالتبديل الذي قرأته وبالكم فى الموجبة الكلية وثانياً انه مثار اسمها، و بقيد الوقت المعين سميت وقتية مطلقة فى البسائط و وقتية فى المركبات وثالثاً ان نفس مشى ذكر في الوقتية المطلقة عند التمثيل لسالبتها قوله : ولاشيء من القمر بمنخسف بالضرورة وقت التربيع، فاذا اعمل قيد وقت التربيع هناك كما اهمل هنا اصبح الشارح يكذب نفسه حينما يقول لصدق نقيضه كل . ن محسف قر بالضرورة لتنافى قوله ولاشيء من القمر بمنخسف بالضرورة وقوله كل منخسف قمر بالضرورة تنافياً بينا . واذا انهدم كلامه هذا انهدم كلما رتب عليه، وليعلم ان القيود والحواشي التي تؤخذ في القضايا لها تمام الدخل فيما يعود للقضية من حكم يرتب عليها واهمالها متلف للقضايا مفكك لا جزائها طارد لتركيبها ولما رتب عليها من حكم ومن اثر ونحن قد اعلمناك ان كل القضايا البسيطة تنعكس إلى انفسها في السلب وفى الايجاب ماسوى القضايا الممكنة واعلمناك ايضاً ان المركبات بعد انحلال قيودها الى قضايا بسيطة يكون حكمها حكم البسائط لاننا لانعكسها حق نحل قيودها وتصير المركبة قضيتين بسيطتين (التقريب (۳۶) لا يقال : انا لا نسلم انه يلزم من صدق الموجبة كذب السالبة بل يجوز ان يصدقا معاً أيضاً لانها كما تصدق بانتفاء المحمول، فقد تصدق بانتفاء الموضوع فلا يصح الاستدلال لكذب السالبة بصدق الموجية كما هو ظاهر. جمع من لانا نقول: هذا اذا اختلف الايجاب والسلب في الموضوع بان يكون الحكم في الايجاب على الافراد الموجودة و في السلب على الافراد المعدومة وليس كذلك هيهنا فان الحكم في السالبة ايضاً على الافراد الموجودة فان الكلام فى مباحث العكوس مختص بالموجودات كما صرح بذلك المحققين (میرزا محمد علی) (۳۷) یعنی ان القياس كان يقتضي التعبير بالكلية، لان السالبة انما تنعكس كنفسها حيث تنعكس كما سبق و لكنا اخترنا السالبة الجزئية لكونها اعم من السالبة الكلية من حيث الصدق فاذا لم يصدق الاعم لم يصدق الاخص بالطريق الاولى و ايضاً ان نقيض السالبة الكلية، الموجبة الجزئية
+He said: For it is true: 'Nothing from the moon is eclipsed necessarily at the quadrature not perpetually.' That is, the negation of necessary eclipse from the moon is not perpetual for it as long as its essence, rather eclipse may occur to it at other than quadrature time. The converse of this temporal [proposition] while disregarding the restriction of non-permanence, because it is not a subject of investigation in this context, as you see in the converse of the level – the commentator's words clearly: 'Nothing from the eclipsed is a moon at quadrature necessarily not perpetually,' meaning that the moon and the eclipsed may co-occur at other than quadrature time. And it is a correct converse with no defect because its meaning is that the moon under the description of eclipse is not the moon under the description of quadrature time necessarily, and the truth of this statement is self-evident. And his statement: 'While some eclipsed not being a moon is false in the general possible' – its falsity came from violating the specific time by which the temporal proposition was restricted. So it was necessary for him to say: 'Some eclipsed is not a moon at quadrature.' And when this restriction comes, the meaning of this particular negative is: 'Some moon under the description of eclipse is not the moon under the description of quadrature time.' And this meaning only suits necessity, not possibility. And his statement 'for the truth of its contradictory' – its necessary contradictory: 'Every eclipsed is a moon at quadrature in the possible,' and its falsity is clearer than the sun. In any case, his statement: 'While some eclipsed not being a moon is false in the general possible, for the truth of its contradictory, which is every eclipsed is a moon necessarily' – is negligent speech. The aspect of his negligence is that he neglected the restricted proposition that is the subject of investigation, regarding its restriction, while it is necessary for it. The proof of its necessity for the mentioned proposition: first, it is assumed in it, and this assumption must be in its converse because the converse of a proposition is the very proposition distinguished by the substitution you read and by quantity in the universal affirmative. Second, it is the source of its name: by the restriction of the specific time it is called 'absolute temporal' in simples and 'temporal' in composites. Third, the author himself mentioned in the absolute temporal when exemplifying its negative his statement: 'And nothing from the moon is eclipsed necessarily at quadrature.' So if he used the restriction of quadrature there as he neglected it here, the commentator would contradict himself when he says 'for the truth of its contradictory, every eclipsed is a moon necessarily' because his statement 'Nothing from the moon is eclipsed necessarily' and his statement 'Every eclipsed is a moon necessarily' are clearly contradictory. And if his speech is demolished, everything he built upon it collapses. And let it be known that the restrictions and conditions taken in propositions have complete influence on the judgment that is attached to the proposition, and neglecting them destroys propositions, disassembles their parts, repels their composition, and the judgment and effect attached to them. And we have informed you that all simple propositions convert to themselves in negation and affirmation except possible propositions. And we also informed you that composites after the resolution of their restrictions into simple propositions have the same judgment as simples, because we do not convert them until we resolve their restrictions, and the composite becomes two simple propositions. (al-Taqrib) (36) It cannot be said: 'We do not concede that from the truth of the affirmative follows the falsity of the negative; rather it is permissible that both are true, because just as it is true by the negation of the predicate, it may be true by the negation of the subject, so the inference of the falsity of the negative from the truth of the affirmative is not valid, as is obvious.' A group of us say: This is if the affirmative and negative differ in the subject, such that the judgment in the affirmative is on existing individuals and in the negative on non-existing individuals. But it is not like that here, for the judgment in the negative is also on existing individuals, since the discussion in the topics of conversions is specific to existents, as the verifying scholars have stated. (Mirza Muhammad Ali) (37) That is, the syllogism would require expression with the universal, because the negative only converts as itself when it converts as previously, but we chose the particular negative because it is more general than the universal negative in terms of truth: if the more general is not true, the more specific is not true by primary inference. Also, the contradictory of the universal negative is the particular affirmative.
+Source pages p. 327
+
+Commentary
+This passage is a detailed syllogistic/definitional analysis of converting a temporal proposition, followed by a refutation of an erroneous objection. It begins with an example: 'Nothing from the moon is eclipsed necessarily at quadrature not perpetually.' The author explains that this means the negation of necessary eclipse is not perpetual; eclipse may occur at other times. The converse, disregarding the non-permanence restriction, is then given: 'Nothing from the eclipsed is a moon at quadrature necessarily not perpetually,' meaning moon and eclipse co-occur at other times. This converse is correct, as it states that the moon under the eclipse description is not necessarily the moon at quadrature. The critic's mistake is in ignoring the temporal restriction. The critic claimed that 'some eclipsed not being a moon' is false in the general possible, but the proper formulation must include the time restriction: 'some eclipsed is not a moon at quadrature,' which then gives a necessary meaning. The critic's contradictory – 'every eclipsed is a moon necessarily' – is self-contradictory given the original premise. The author then emphasizes three proofs that the time restriction is essential: (1) it is assumed in the original proposition and must be preserved in the converse, (2) it gives the proposition its name 'temporal', (3) the author himself used it in the example of the negative temporal. Neglecting the restriction leads to contradiction. The passage concludes with a general principle: all simple propositions convert to themselves except possible ones, and composites resolve into simples. An objection is then raised: why must truth of affirmative imply falsity of negative? The response is that in conversion discussions, judgments are about existing individuals, so the negative applies to the same subject. Finally, a note justifies using the particular negative converse rather than the universal: the particular is more general in truth, so if the more general fails, the more specific does too.
+
+Key Terms
+وقتية
+انعكاس
+منخسف
+قضية بسيطة
+قضية مركبة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why must the time restriction 'at quadrature' be preserved in the converse of the temporal proposition?
+A) Because the moon is always eclipsed at quadrature.
+B) Because the restriction defines the proposition type and its truth conditions.
+C) Because ignoring it makes the converse universal and thus false.
+D) Because the commentator wants to introduce a new modal operator.
+
+Key Takeaway
+When converting a temporal proposition, the time restriction must be preserved to maintain truth conditions; ignoring it leads to false or contradictory results.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the temporal proposition: 'Nothing from the fasting person may eat at sunset' into its correct converse, preserving the time restriction.
+?
+Identify the time restriction in the proposition 'All children must be in bed by 10 pm' and determine if its converse (swapping subject and predicate) requires the restriction.
+
+Pages p. 327 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 327
+Module 9 · Lesson 102
+Next →
+Immediate Inference
+advanced
+10 min
+The Temporal Restriction Fallacy: Why Neglecting the Time Leads to Contradiction
+Author refutes an objection that ignores the temporal restriction in conversion.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of ignoring a temporal restriction in proposition conversion and explain why it leads to self-contradiction.
+
+Core Idea
+Ignoring the time restriction in a temporal proposition's converse destroys the proposition and leads to a direct contradiction.
+
+In this passage, the author criticizes a commentator who made the mistake of dropping the time restriction when evaluating the converse of a temporal proposition. The author shows how this neglect creates a blatant contradiction and provides three proofs that the restriction is essential. Let's analyze the error and learn why restrictions in propositions must always be respected.
+
+Guided Path
+1
+Identify the critic's mistake
+The critic said: 'Some eclipsed not being a moon is false in the general possible' without including 'at quadrature'. He evaluates a simple proposition instead of the temporal one.
+The original proposition has the restriction 'at quadrature'; the critic omitted it.
+2
+Recognize the corrected formulation
+The correct formulation is: 'Some eclipsed is not a moon at quadrature.' With this restriction, the proposition becomes necessary, not possible.
+3
+Understand the resulting contradiction
+The critic's oversight leads to the claim that 'Every eclipsed is a moon necessarily', which directly contradicts the original 'Nothing from the moon is eclipsed necessarily at quadrature'.
+The two statements cannot both be true; they are opposites.
+4
+Review the author's three proofs
+(1) The restriction is assumed in the original proposition, so it must be in the converse. (2) The proposition's name 'temporal' derives from the restriction. (3) The author himself used the restriction in his example of the negative temporal.
+These proofs establish that the restriction is not optional but constitutive.
+5
+Generalize the principle
+The author concludes: restrictions and conditions in propositions have complete influence on the attached judgment; neglecting them destroys the proposition and any conclusions built on it.
+This is the key takeaway for all logical operations.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: فانه يصدق: لاشيء من القمر بمنخسف بالضرورة وقت التربيع لادائماً: اى ان سلب الانتساف الضرورى عن القمر ليس دائماً له مادامت ذاته بل قد يعرض لها الانتساف في غير وقت التربيع. عكس هذه الوقتية مع الاعراض عن قيد اللادوام، لانه ليس محلا للبحث في هذا المقام كما تراه في في عكس المستوى كلام المحشى بوضوح: لاشيء من المنخسف بقمر وقت التربيع بالضرورة لادائماً، بمعنى ان القمر و المنخف قديتصادقان في غير وقت التربيع. وهو عكس صحيح لاعيب فيه لان معناه ان القمر بوصف الانحساف ليس القمر بوصف وقت التربيع بالضرورة، وصحة هذا الكلام بديهية: وقوله: «مع كذب بعض المنخسف ليس بقمر بالامكان العام كذبه جاء من ناحية الاخلال بالوقت المعين الذي تقيدت به القضية الوقتية فكان من اللازم ان يقول بعض المنخسف ليس بقمر وقت التربيع واذاجاء هذا القيد كان معنى هذه الجزئية السالبة: بعض القمر بوصف الانتساف ليس القمر بوصف وقت التربيع وهذا المعنى انما يلائم الضرورة لا الامكان وقوله لصدق نقيضه»: نقيضه اللازم كل منخسف قمر وقت التربيع بالامكان وبطلاته أوضح من الشمس. وعلى كل فقوله: «مع كذب بعض المنخسف ليس بقمر بالامكان العام لصدق نقيضه و هو كل منخسف قمر بالضرورة كلام مهمل وجهة اهماله انه اهمل القضية المقيدة التى هى محل البحث، عن قيدها، مع انه ضروري لها، ودليل ضرويته للقضية المذكورة اولاً انه مفروض فيها، و هذا الفرض يجب ان يكون فى عكسها لان عكس القضية عين القضية ويمتاز عنها بالتبديل الذي قرأته وبالكم فى الموجبة الكلية وثانياً انه مثار اسمها، و بقيد الوقت المعين سميت وقتية مطلقة فى البسائط و وقتية فى المركبات وثالثاً ان نفس مشى ذكر في الوقتية المطلقة عند التمثيل لسالبتها قوله : ولاشيء من القمر بمنخسف بالضرورة وقت التربيع، فاذا اعمل قيد وقت التربيع هناك كما اهمل هنا اصبح الشارح يكذب نفسه حينما يقول لصدق نقيضه كل . ن محسف قر بالضرورة لتنافى قوله ولاشيء من القمر بمنخسف بالضرورة وقوله كل منخسف قمر بالضرورة تنافياً بينا . واذا انهدم كلامه هذا انهدم كلما رتب عليه، وليعلم ان القيود والحواشي التي تؤخذ في القضايا لها تمام الدخل فيما يعود للقضية من حكم يرتب عليها واهمالها متلف للقضايا مفكك لا جزائها طارد لتركيبها ولما رتب عليها من حكم ومن اثر ونحن قد اعلمناك ان كل القضايا البسيطة تنعكس إلى انفسها في السلب وفى الايجاب ماسوى القضايا الممكنة واعلمناك ايضاً ان المركبات بعد انحلال قيودها الى قضايا بسيطة يكون حكمها حكم البسائط لاننا لانعكسها حق نحل قيودها وتصير المركبة قضيتين بسيطتين (التقريب (۳۶) لا يقال : انا لا نسلم انه يلزم من صدق الموجبة كذب السالبة بل يجوز ان يصدقا معاً أيضاً لانها كما تصدق بانتفاء المحمول، فقد تصدق بانتفاء الموضوع فلا يصح الاستدلال لكذب السالبة بصدق الموجية كما هو ظاهر. جمع من لانا نقول: هذا اذا اختلف الايجاب والسلب في الموضوع بان يكون الحكم في الايجاب على الافراد الموجودة و في السلب على الافراد المعدومة وليس كذلك هيهنا فان الحكم في السالبة ايضاً على الافراد الموجودة فان الكلام فى مباحث العكوس مختص بالموجودات كما صرح بذلك المحققين (میرزا محمد علی) (۳۷) یعنی ان القياس كان يقتضي التعبير بالكلية، لان السالبة انما تنعكس كنفسها حيث تنعكس كما سبق و لكنا اخترنا السالبة الجزئية لكونها اعم من السالبة الكلية من حيث الصدق فاذا لم يصدق الاعم لم يصدق الاخص بالطريق الاولى و ايضاً ان نقيض السالبة الكلية، الموجبة الجزئية
+He said: For it is true: 'Nothing from the moon is eclipsed necessarily at the quadrature not perpetually.' That is, the negation of necessary eclipse from the moon is not perpetual for it as long as its essence, rather eclipse may occur to it at other than quadrature time. The converse of this temporal [proposition] while disregarding the restriction of non-permanence, because it is not a subject of investigation in this context, as you see in the converse of the level – the commentator's words clearly: 'Nothing from the eclipsed is a moon at quadrature necessarily not perpetually,' meaning that the moon and the eclipsed may co-occur at other than quadrature time. And it is a correct converse with no defect because its meaning is that the moon under the description of eclipse is not the moon under the description of quadrature time necessarily, and the truth of this statement is self-evident. And his statement: 'While some eclipsed not being a moon is false in the general possible' – its falsity came from violating the specific time by which the temporal proposition was restricted. So it was necessary for him to say: 'Some eclipsed is not a moon at quadrature.' And when this restriction comes, the meaning of this particular negative is: 'Some moon under the description of eclipse is not the moon under the description of quadrature time.' And this meaning only suits necessity, not possibility. And his statement 'for the truth of its contradictory' – its necessary contradictory: 'Every eclipsed is a moon at quadrature in the possible,' and its falsity is clearer than the sun. In any case, his statement: 'While some eclipsed not being a moon is false in the general possible, for the truth of its contradictory, which is every eclipsed is a moon necessarily' – is negligent speech. The aspect of his negligence is that he neglected the restricted proposition that is the subject of investigation, regarding its restriction, while it is necessary for it. The proof of its necessity for the mentioned proposition: first, it is assumed in it, and this assumption must be in its converse because the converse of a proposition is the very proposition distinguished by the substitution you read and by quantity in the universal affirmative. Second, it is the source of its name: by the restriction of the specific time it is called 'absolute temporal' in simples and 'temporal' in composites. Third, the author himself mentioned in the absolute temporal when exemplifying its negative his statement: 'And nothing from the moon is eclipsed necessarily at quadrature.' So if he used the restriction of quadrature there as he neglected it here, the commentator would contradict himself when he says 'for the truth of its contradictory, every eclipsed is a moon necessarily' because his statement 'Nothing from the moon is eclipsed necessarily' and his statement 'Every eclipsed is a moon necessarily' are clearly contradictory. And if his speech is demolished, everything he built upon it collapses. And let it be known that the restrictions and conditions taken in propositions have complete influence on the judgment that is attached to the proposition, and neglecting them destroys propositions, disassembles their parts, repels their composition, and the judgment and effect attached to them. And we have informed you that all simple propositions convert to themselves in negation and affirmation except possible propositions. And we also informed you that composites after the resolution of their restrictions into simple propositions have the same judgment as simples, because we do not convert them until we resolve their restrictions, and the composite becomes two simple propositions. (al-Taqrib) (36) It cannot be said: 'We do not concede that from the truth of the affirmative follows the falsity of the negative; rather it is permissible that both are true, because just as it is true by the negation of the predicate, it may be true by the negation of the subject, so the inference of the falsity of the negative from the truth of the affirmative is not valid, as is obvious.' A group of us say: This is if the affirmative and negative differ in the subject, such that the judgment in the affirmative is on existing individuals and in the negative on non-existing individuals. But it is not like that here, for the judgment in the negative is also on existing individuals, since the discussion in the topics of conversions is specific to existents, as the verifying scholars have stated. (Mirza Muhammad Ali) (37) That is, the syllogism would require expression with the universal, because the negative only converts as itself when it converts as previously, but we chose the particular negative because it is more general than the universal negative in terms of truth: if the more general is not true, the more specific is not true by primary inference. Also, the contradictory of the universal negative is the particular affirmative.
+Source pages p. 327
+
+Commentary
+This passage is a detailed syllogistic/definitional analysis of converting a temporal proposition, followed by a refutation of an erroneous objection. It begins with an example: 'Nothing from the moon is eclipsed necessarily at quadrature not perpetually.' The author explains that this means the negation of necessary eclipse is not perpetual; eclipse may occur at other times. The converse, disregarding the non-permanence restriction, is then given: 'Nothing from the eclipsed is a moon at quadrature necessarily not perpetually,' meaning moon and eclipse co-occur at other times. This converse is correct, as it states that the moon under the eclipse description is not necessarily the moon at quadrature. The critic's mistake is in ignoring the temporal restriction. The critic claimed that 'some eclipsed not being a moon' is false in the general possible, but the proper formulation must include the time restriction: 'some eclipsed is not a moon at quadrature,' which then gives a necessary meaning. The critic's contradictory – 'every eclipsed is a moon necessarily' – is self-contradictory given the original premise. The author then emphasizes three proofs that the time restriction is essential: (1) it is assumed in the original proposition and must be preserved in the converse, (2) it gives the proposition its name 'temporal', (3) the author himself used it in the example of the negative temporal. Neglecting the restriction leads to contradiction. The passage concludes with a general principle: all simple propositions convert to themselves except possible ones, and composites resolve into simples. An objection is then raised: why must truth of affirmative imply falsity of negative? The response is that in conversion discussions, judgments are about existing individuals, so the negative applies to the same subject. Finally, a note justifies using the particular negative converse rather than the universal: the particular is more general in truth, so if the more general fails, the more specific does too.
+
+Key Terms
+وقتية
+انعكاس
+منخسف
+قضية بسيطة
+قضية مركبة
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the consequence of neglecting the time restriction in the converse of a temporal proposition, as shown in the passage?
+A) The converse becomes true but trivial.
+B) The converse contradicts the original proposition.
+C) The converse becomes a modal proposition.
+D) The converse remains true but requires additional justification.
+
+Key Takeaway
+Temporal restrictions in propositions are not optional; neglecting them in logical operations produces contradictions and destroys the validity of any argument built on them.
+
+How This Lesson Applies — to MY Life?
+?
+The critic said 'some eclipsed not being a moon is false in the general possible' ignoring the time restriction. Reformulate his statement correctly by adding the missing restriction and explain why his original version fails.
+?
+Suppose someone says: 'No fasting person eats before sunset is false in the general possible.' Identify the fallacy and correct the proposition by preserving the time restriction.
+
+Pages p. 327 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 328
+Module 9 · Lesson 103
+Next →
+Immediate Inference
+intermediate
+8 min
+Correct Conversion of Temporal Particular Negative Propositions
+Author explains the correct conversion of a temporal particular negative proposition.
+
+Learning Objective
+By the end of this lesson, you will be able to correctly convert a temporal particular negative proposition and verify truth preservation using the descriptive sense.
+
+Core Idea
+Conversion of temporal negatives requires care: the descriptive sense, not mere wording, ensures truth preservation.
+
+In this passage, the commentator refines the conversion rule for temporal particular negative propositions. He shows that a simple subject-predicate swap can be misleading; the correct conversion rephrases the proposition in terms of descriptions to capture the intended necessity. This refinement is essential for anyone working with temporal modalities in Islamic logic.
+
+Guided Path
+1
+Identify the original proposition
+Find the full proposition: 'Nothing of the eclipsed is a moon at the time of quadrature necessarily, not always.' Note its temporal restriction (time of quadrature) and modality (necessarily, not always).
+The proposition is a temporal particular negative.
+2
+Recognize the proposition type
+It is a 'waqtiyya juz'iyya saliba' (temporal particular negative). The negation applies at a specific time, and it is not a universal negative.
+3
+Perform the conversion
+Swap the subject (al-munkhasif, the eclipsed) and predicate (qamar, moon at quadrature) to get: 'Nothing of the moon at quadrature is an eclipsed thing necessarily, not always.' But the author shows this is incorrect literally.
+The conversion must preserve the meaning, not just word order.
+4
+Apply the descriptive rephrasing
+The correct conversion is: 'The moon under the description of being eclipsed is not the moon under the description of the time of quadrature necessarily.' This captures that the descriptions do not necessarily coincide at that time.
+This avoids implying that the moon is never eclipsed at quadrature.
+5
+Verify truth preservation
+Check that the converted proposition is true if and only if the original is true. Since the original only denies necessary coexistence at that time, the converted form correctly denies necessary identity of descriptions.
+The author says the truth of this is self-evident (badihi).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+في عكس المستوى كلام المحشى بوضوح: لاشيء من المنخسف بقمر وقت التربيع بالضرورة لادائماً، بمعنى ان القمر و المنخسف قد يتصادقان في غير وقت التربيع. وهو عكس صحيح لاعيب فيه لان معناه ان القمر بوصف الانحساف ليس القمر بوصف وقت التربيع بالضرورة، وصحة هذا الكلام بديهية:
+Regarding the conversion of the simple [proposition], the commentator's words are clear: 'Nothing of the eclipsed is a moon at the time of quadrature necessarily, not always', meaning that 'moon' and 'eclipsed' may coincide at other than the time of quadrature. It is a correct conversion with no defect because its meaning is that the moon under the description of being eclipsed is not the moon under the description of the time of quadrature necessarily, and the truth of this statement is self-evident.
+Source pages p. 328
+
+Commentary
+This passage defines the correct conversion of a temporal particular negative proposition. The author clarifies that the statement 'Nothing of the eclipsed is a moon at the time of quadrature necessarily, not always' is convertible to 'The moon under the description of being eclipsed is not the moon under the description of the time of quadrature necessarily.' The truth of this conversion is self-evident because it captures the intended meaning that the descriptions do not coincide necessarily at that specific time.
+
+Key Terms
+عكس
+وقت التربيع
+بالضرورة
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the conversion 'Nothing of the eclipsed is a moon at the time of quadrature necessarily' mean?
+A) The moon is never eclipsed at quadrature.
+B) Under the description of being eclipsed, the moon is not necessarily the moon at quadrature.
+C) All eclipsed things are moons at quadrature.
+D) The moon is necessarily eclipsed at quadrature.
+
+Key Takeaway
+Temporal particular negative conversions must be understood as denying necessary coincidence of descriptions, not as universal negatives.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the proposition 'Nothing of the moving is at rest at the moment of motion necessarily' into its correct converted form using the descriptive sense. Explain why the conversion preserves truth.
+?
+In a kalam argument, if someone says 'No temporally originated thing is eternal', what is the correct conversion? Use the descriptive sense to avoid misinterpretation.
+
+Pages p. 328 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 328
+Module 9 · Lesson 104
+Next →
+Immediate Inference
+intermediate
+10 min
+Why an Affirmative and Its Negative Cannot Both Be True in Conversion
+Dialectical exchange: objection and response on simultaneous truth of affirmative and negative.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the condition under which the truth of an affirmative proposition implies the falsity of its negative in the context of conversion (عكس).
+
+Core Idea
+In conversion, subjects are assumed to exist, so affirmative and negative cannot both be true.
+
+An objection is raised: can't the negative be true due to the non-existence of the subject, not just the predicate? The response clarifies a key condition in conversion topics: both affirmative and negative judgments are made on existing individuals. Understanding this condition is essential for correctly applying immediate inferences like conversion.
+
+Guided Path
+1
+Identify the objection
+Locate the objection: 'We do not accept that truth of affirmative entails falsity of negative. Both can be true if the negative is true because the subject doesn't exist.' Understand that the objector points to the possibility of subject non-existence as a loophole.
+2
+Analyze the basis of the objection
+The objector claims that the negative can be true even if the affirmative is true, if the negative is interpreted as 'the subject does not exist' rather than 'the predicate is absent from the subject'. This is a confusion about the domain of discourse.
+3
+Examine the response
+The response concedes the objection would stand if the affirmative and negative had different subjects (existing vs. non-existing). But in conversion topics, both propositions are about existing individuals. The conversion rules are specific to existents.
+4
+Apply the condition
+Recognize that the truth of 'Every A is B' implies the falsity of 'Some A is not B' only if the subject A exists. In conversion, the existence of individuals is a necessary condition for the inference to be valid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لا يقال : انا لا نسلم انه يلزم من صدق الموجبة كذب السالبة بل يجوز ان يصدقا معاً أيضاً لانها كما تصدق بانتفاء المحمول، فقد تصدق بانتفاء الموضوع فلا يصح الاستدلال لكذب السالبة بصدق الموجية كما هو ظاهر. جمع من لانا نقول: هذا اذا اختلف الايجاب والسلب في الموضوع بان يكون الحكم في الايجاب على الافراد الموجودة و في السلب على الافراد المعدومة وليس كذلك هيهنا فان الحكم في السالبة ايضاً على الافراد الموجودة فان الكلام فى مباحث العكوس مختص بالموجودات كما صرح بذلك المحققين (میرزا محمد علی)
+It cannot be said: We do not accept that truth of the affirmative necessitates falsity of the negative; rather, both may be simultaneously true because the negative may be true by the non-existence of the subject, not only by the non-existence of the predicate. So the inference of the falsity of the negative from the truth of the affirmative is invalid, as is apparent. A group [said?]. But we say: This holds when the affirmation and negation differ in subject, such that the judgment in the affirmative is upon existing individuals and in the negative upon non-existing individuals. But that is not the case here, for the judgment in the negative is also upon existing individuals, because discourse in the topics of conversions is specific to existents, as the verifiers have stated. (Mirza Muhammad Ali)
+Source pages p. 328
+
+Commentary
+This passage presents an objection and its answer. The objection argues that an affirmative and its negative could both be true if the negative is true due to the non-existence of the subject, not just the predicate. The answer clarifies that in conversion discussions, both judgments are on existing individuals. Since the negative's subject is assumed to exist, the truth of the affirmative indeed implies the falsity of the negative. This is a standard condition in the logic of conversions.
+
+Key Terms
+موجبة
+سالبة
+افراد موجودة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the truth of an affirmative imply the falsity of its negative in conversion topics?
+A) Because the negative must be about non-existent subjects.
+B) Because both propositions have the same existing subject.
+C) Because the affirmative is always stronger.
+D) Because of the modal restriction.
+
+Key Takeaway
+In conversion topics, the condition of subject existence ensures that an affirmative and its corresponding negative cannot both be true.
+
+How This Lesson Applies — to MY Life?
+?
+Identify an affirmative proposition from a fiqh context (e.g., 'Every intoxicant is haram'). State its corresponding negative (e.g., 'Some intoxicant is not haram'). Explain why the truth of the affirmative implies the falsity of the negative only if the subject exists, and then check whether that condition holds for this proposition in usual discourse.
+?
+Given the proposition 'Every Muslim is bound to pray', apply the conversion rule to derive 'Some bound to pray is Muslim'. Explain what the existence condition requires and how it is satisfied in this case.
+
+Pages p. 328 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 330
+Module 9 · Lesson 105
+Next →
+Immediate Inference
+advanced
+8 min
+Resolving the Dispute on Quality Preservation in Contraposition
+Author refutes a commentator on the condition of quality preservation.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between essential and absolute truth preservation in contraposition and evaluate the commentator's objection based on this distinction.
+
+Core Idea
+Quality preservation is not redundant when truth preservation is understood essentially, not absolutely.
+
+In the previous lesson, we introduced the conditions for contraposition, including the preservation of quality and truth. Some scholars argue that requiring quality preservation is redundant if truth preservation is already required. This lesson addresses a specific objection from a commentator who claims that truth preservation does not always imply quality preservation. The author resolves this by clarifying that the intended meaning of truth preservation is from the perspective of essence (من حيث الذات), not absolute preservation. Understanding this distinction is crucial for correctly applying contraposition in Islamic logical arguments.
+
+Guided Path
+1
+Identify the condition under debate
+The condition 'preservation of quality' (بقاء الكيف) is said to be implied by 'preservation of truth' (بقاء الصدق). Locate this claim in the Arabic text and note the commentator's counterexample: 'Not every man is not an animal' from 'Some animal is a man'.
+The counterexample is meant to show truth preservation without quality preservation.
+2
+Understand the commentator's objection
+The commentator argues that the implication is not conceded because there are cases where truth is preserved but quality changes. For example, the contrapositive of 'Some animal is a man' (particular affirmative) is 'Not every man is not an animal' (negative, not affirmative). This seems to break the quality preservation.
+The commentator assumes truth preservation must be absolute.
+3
+Learn the author's distinction between absolute and essential truth
+The author clarifies that 'preservation of truth' is not meant absolutely (including particular materials) but only from the perspective of essence (من حيث الذات). Under this interpretation, truth preservation does imply quality preservation because the essential truth of the original proposition ensures that its contrapositive has the same quality.
+Essential truth means the truth considered in itself, independent of the specific terms used.
+4
+Apply the distinction to evaluate the objection
+Using the essential truth interpretation, the counterexample fails because 'Some animal is a man' is essentially a true affirmative, and its contrapositive 'Not every man is not an animal' is also essentially true but negative? Actually, the author argues that the contrapositive of a particular affirmative is not a standard contrapositive; the ancient method takes contrapositives of both extremes, leading to a different result. The objection is thus invalid under the correct understanding.
+The ancient method of contraposition uses contradictories of both subject and predicate.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+عکس النقيض
+(۱) قد تقدم فى مبحث العكس المستوى منا و من العله ينفعك في هذا المقام. (میرزا محمد علی)
+هذا القيد بعد اشتراط بقاء (۲) قوله: «مع بقاء الكيف»: قد عرفت فيما تقدم انه لا حاجة الى هذا القيد بعد اشتراط بقاء الصدق لاستلزامه ذلك ، اللهم الا لزيادة التوضيح و الايضاح و اما ما افاده بعض المحققين من المحشين (ره) حيث قال بعد نقل هذا الكلام ناسباً له الى القيل : وفيه ان هذا الاستلزام غير مسلم اذ ليس كلما تحقق بقاء الصدق تحقق بقاء الكيف كما يصدقه قولنا ليس بعض الانسان بلاحيوان عکس نقيض قولنا بعض الحيوان انسان» فهو بمعزل عن التحقيق اذ ليس المراد من بقاء الصدق البقاء المطلق الشامل لبقائه من حيث الذات ومن جهة خصوص المواد حتى لا يتحقق بقاء الكيف عند تحقق بقاء الصدق كلا، بل المراد هو البقاء من حيث الذات وحده كما مرت اليه الاشارة سابقاً والا فا يقول ذلك المحقق فى نحو قولنا : بعض ما ليس بابيض ليس بانسان بالنسبة الى قولنا بعض الانسان انه ليس من افراد المحدود لما سيجيء من ان الموجبة الجزئية ابيض فان التعريف يصدق عليه لا تنعكس بعكس النقيض اصلاً كالسالبة الجزئية فيما تقدم فع فمع الاستلزام مكابرة محضة وتحكم بحت و بالجملة : ان كان المراد ببقاء الصدق بقائه مطلقا، لزم دخول ما ليس من أفراد المحدود في الحد وان كان بقائه من حيث الذات وحده لزم اشتمال الحمد على شيء مستدرك ولا يخفى انه اذا دارالامر بينهما فالثانى اولى الجواز التمحل فيه دونه واما ما تمسك به ذلك المحقق من انه «لواستلزم بقاء الصدق بقاء الكيف لانتفى بانتفائه ضرورة انتفاء الملزوم عند انتفاء اللازم فلا يصح اشتراط المتأخرين بقاء الصدق مع مخالفة الكيف كما هو ظاهر فجوابه انا لا ندعى الملازمة الذاتية بينهما حتى برد النقض بذلك بل المدعى هو الملازمة الاتفاقية بالنسبة الى عكس النقيض على طريقة القدماء فانهم لما أخذوا فيه نقيضى كلا الطرفين و كان يلزم من صدق حمل
+Contraposition (1) It has preceded in the chapter of simple conversion from us and from the cause, it will benefit you in this place. (Mirza Muhammad Ali) This condition after the condition of preservation of truth (2) His saying: 'with preservation of quality': You have known in what preceded that there is no need for this condition after the condition of preservation of truth because it implies that, unless for added clarification and elucidation. And as for what some investigators among the glossators (may God have mercy on him) stated, when he said after quoting this statement attributing it to 'the saying': There is in it that this implication is not conceded, because not whenever preservation of truth is realized is preservation of quality realized, as exemplified by our saying 'Not every man is not an animal' as the contrapositive of our saying 'Some animal is a man'— it is remote from verification, because the intended meaning of preservation of truth is not absolute preservation, including preservation in respect of essence and in respect of particular matters, so that preservation of quality would not be realized when preservation of truth is realized. No. Rather, the intended meaning is preservation in respect of essence alone, as has been indicated previously. Otherwise, that investigator would say regarding our saying 'Some of what is not white is not a man' in relation to our saying 'Some man is white' that the definition applies to it and it does not convert by contraposition at all, like the particular negative in what preceded. So with the implication it is pure stubbornness and mere arbitrariness. In summary: If the intended meaning of preservation of truth is its preservation absolutely, then something that is not an individual of the defined would enter into the definition; and if it is preservation in respect of essence alone, then the definition would include something superfluous. It is not hidden that when the matter revolves between the two, the second is more appropriate because the possibility of manipulation in it is not. And as for what that investigator clung to, that 'if preservation of truth implied preservation of quality, then it would cease by its cessation, necessarily the concomitant ceases when the concomitant ceases, so the condition of the later scholars of preservation of truth while the quality differs is not valid, as is apparent,' the answer is that we do not claim essential implication between them so that the objection would be refuted by that; rather, the claimed implication is accidental with respect to contraposition according to the method of the ancients, for when they took the contrapositives of both extremes, it would follow from the truth of the predication...
+Source pages p. 330
+
+Commentary
+This passage is a critical refinement discussing the rule of contraposition (عكس النقيض) and the condition that the quality (affirmative/negative) must be preserved. The commentator begins by reminding that this topic was introduced earlier in the section on simple conversion. The main issue is whether the condition 'with preservation of quality' is redundant if we already require preservation of truth. Some argue that truth preservation does not necessarily entail quality preservation, giving the example: the contrapositive of 'some animal is a man' is 'not every man is not an animal', which changes the quality? Actually the example shows truth preservation without quality preservation? The text is complex. The author defends that the intended preservation of truth is not absolute but 'from the perspective of essence' (من حيث الذات), meaning the truth considered in itself without regard to particular materials. Under this interpretation, truth preservation does entail quality preservation. He refutes the objection by arguing that if truth preservation were absolute, invalid cases would enter; but since it is essential, the condition stands. He also addresses a further objection about the necessity of implication: the author claims the implication is not essential (ذاتية) but accidental (اتفاقية) according to the method of the ancients, who defined contraposition using contradictories of both extremes. The argument is dense, but the core point is to clarify the correct understanding of the condition on contraposition.
+
+Key Terms
+عكس النقيض
+بقاء الكيف
+بقاء الصدق
+بقاء من حيث الذات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what does the author mean by 'preservation of truth' (بقاء الصدق) in the context of contraposition?
+A) Absolute preservation of truth in all respects.
+B) Preservation of truth from the perspective of essence (من حيث الذات).
+C) Preservation of truth in particular material cases.
+D) Preservation of truth only when the quality is also preserved.
+
+Key Takeaway
+The condition of quality preservation in contraposition is not redundant when truth preservation is understood essentially; this distinction resolves a common objection and is crucial for correct application in Islamic logic.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'Every temporal thing is contingent' (from kalam). Derive its contrapositive and check whether quality preservation holds under the essential truth interpretation. Explain your reasoning.
+?
+Identify a real example from usul al-fiqh where a scholar might incorrectly apply contraposition if they misunderstand the condition of quality preservation. Suggest how the essential truth interpretation would prevent the error.
+
+Pages p. 330 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 9 · Lesson 106
+Next →
+Immediate Inference
+advanced
+10 min
+Proving Contrapositive by Reductio
+Proof of contrapositive for universal affirmative
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the reductio proof for the contrapositive of a universal affirmative proposition and identify the logical steps involved.
+
+Core Idea
+Contrapositive proofs use contradiction: assume false, derive impossibility.
+
+This passage from Abd al-Rahim demonstrates a classical proof of contrapositive ('aks al-naqid) using the method of reductio ad absurdum (khalaf). While the exact proposition is debated, the logical structure—assuming the contrapositive false, then deriving contradictions via conversion and syllogism—is a powerful tool used in Islamic logic. We will unpack this proof step by step, clarifying how it works.
+
+Guided Path
+1
+Identify the original proposition
+The original proposition is 'Every J is B' (universal affirmative). The contrapositive to be proved is 'Every non-B is non-J' or its particular form. Based on the text, the proof targets the proposition 'Some non-B is not J' as the contrapositive.
+The exact form is ambiguous; we follow standard understanding.
+2
+Assume the contrapositive is false
+Assume the opposite of the desired contrapositive, i.e., 'Some non-B is J' is true. This is the contradictory of the intended contrapositive 'Some non-B is not J'.
+3
+Derive a contradiction via conversion
+Convert 'Some non-B is J' by simple conversion to 'Some J is non-B'. This contradicts the original 'Every J is B', because 'Some J is non-B' directly negates 'Every J is B'.
+This is the first reductio path.
+4
+Derive a contradiction via syllogism
+Combine the assumed 'Some non-B is J' with the original 'Every J is B' in a first-figure syllogism: 'Some non-B is J' (minor) and 'Every J is B' (major) yields 'Some non-B is B' (conclusion). This is impossible because it predicates B and non-B of the same subject.
+This second path reinforces the contradiction.
+5
+Conclude the contrapositive is true
+Since assuming the falsehood leads to contradiction, the contrapositive must be true. Thus, the proof is complete.
+The proof uses both conversion and syllogism to show impossibility.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۳) والدليل عليه أنه لو لم يصدق هذا الصدق بعض ما ليس ب ج وينعكس العكس المستوى الى قولنا بعض ج ليس ب وقد كان كل ج ب هذا خلف أو ينضم الى الاصل هكذا بعض ما ليس ج ب و كل ج، ب ينتج: بعض ما ليس ب ب و انه محال اذلوانعكس لزم سلب الشيء عن نفسه. (عبد الرحيم)
+(3) And the proof for it is that if this truth 'Some of what is not b is j' is not true, then it would convert by simple conversion to our saying 'Some j is not b', and it was the case that 'Every j is b'—this is a contradiction, or it is combined with the original thus: 'Some of what is not j is b' and 'Every j is b' produces 'Some of what is not b is b', and that is impossible, for if it were converted, it would necessitate the negation of a thing from itself. (Abd al-Rahim)
+Source pages p. 331
+
+Commentary
+This passage is a demonstration (burhan) proving the validity of contrapositive for a universal affirmative proposition. The author, Abd al-Rahim, provides a proof by reductio. The claim is that the contrapositive of 'Every j is b' is 'Some of what is not b is not j'? Actually the text says 'Some of what is not b is j' but that seems incorrect. Let's parse carefully. The reasoning: Assume the contrapositive is false; then its contradictory is true. The contrapositive of 'Every j is b' is usually 'Every non-b is non-j' or in particular form? This is confusing. The text mentions 'some of what is not b is j' as the contrapositive of 'Every j is b'? That would be a particular affirmative, which is not the standard. Perhaps the original proposition is not universal but particular? The proof: If 'Some of what is not b is j' is not true, then its simple conversion yields 'Some j is not b', but we assumed 'Every j is b'—contradiction. Alternatively, combine with the original: 'Some of what is not j is b' and 'Every j is b' gives 'Some of what is not b is b'—impossible because it negates a thing from itself. So the contrapositive must be true. This seems to be a proof that from 'Every j is b' we can deduce 'Some non-b is non-j'? But the text is ambiguous. Given the context of the larger discussion, the commentator likely intends to prove the contrapositive of a universal affirmative. The proof uses figure 1 and reductio. The commentary should note the ambiguity but explain the logical steps as presented.
+
+Key Terms
+عكس النقيض
+خلف
+عكس المستوى
+
+Key Terms from Source Passage
+
+Checkpoint
+In Abd al-Rahim's proof, what contradiction arises from combining the assumed false proposition with the original using a syllogism?
+A) 'Some non-B is J' contradicts 'Every J is B'.
+B) 'Some non-B is B' is impossible.
+C) 'Some J is non-B' contradicts 'Every J is B'.
+D) 'Every J is B' is false.
+
+Key Takeaway
+The proof of contrapositive via reductio shows that assuming the opposite leads to logical impossibilities, confirming the validity of the immediate inference.
+
+How This Lesson Applies — to MY Life?
+?
+1. Reproduce the proof for the contrapositive of 'Every intoxicant is forbidden' using the same reductio method. Write down the steps: original, assumed false, conversions, syllogism, contradiction, conclusion.
+?
+2. In a Kalam debate, your opponent claims 'Some created thing is not contingent'. Show that this contradicts the premise 'Every created thing is contingent'. Use simple conversion and contradiction to demonstrate the error.
+
+Pages p. 331 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 9 · Lesson 107
+Next →
+Immediate Inference
+advanced
+10 min
+Contrapositive Definition: Ancients vs Moderns
+Author explains why the moderns changed the definition of contrapositive.
+
+Learning Objective
+By the end of this lesson, you will be able to compare the ancients' and moderns' definitions of contrapositive and explain the logical reasons behind the moderns' revision.
+
+Core Idea
+The moderns redefined contrapositive to avoid problems with existential import and first-figure validity.
+
+In this passage, the commentator Yazdi unpacks a critical refinement in the definition of contrapositive ('aks al-naqid). The ancients defined it by taking the contradictories of both terms, but the moderns found a flaw in the proof that this preserves truth. They revised the definition to avoid an impasse with particular negatives in the first figure. Let's walk through the logical issue and the moderns' solution.
+
+Guided Path
+1
+Identify the two methods
+The ancients' method: take the contradictory of both the subject and predicate of the original proposition. The moderns' method: take the contradictory of the predicate first and the subject second (i.e., swap and negate). Locate these definitions in the Arabic: 'طريقة القدماء' vs 'طريقة المتأخرين'.
+The ancients' contrapositive of 'كل ج ب' is 'ليس شيء مما ليس ب بج' (nothing that is not b is not j). The moderns' contrapositive is 'كل ما ليس ب ليس ج' (everything that is not b is not j).
+2
+Understand the moderns' objection
+The moderns argued that the contradictory of the ancients' contrapositive is a particular negative ('ليس بعض ما ليس ب ليس ج'), which cannot serve as a premise in the first figure (since the first figure requires a universal affirmative or a universal negative for the major). This invalidates the proof that the contrapositive holds universally.
+The first figure requires the minor to be affirmative and the major to be universal. The particular negative fails both conditions.
+3
+Examine the existential import issue
+The moderns also denied the entailment from the negated form to the affirmative form because a negative with a modified predicate (معدولة المحمول) does not imply the existence of the subject. Without existential import, the ancients' claim that the contrapositive necessarily holds collapses.
+In modern logical parlance, the ancients' definition assumed that all terms are non-empty, which the moderns rejected.
+4
+Analyze the commentator's defense
+The commentator offers a twofold defense: (1) logic only deals with existents, so the existential import issue does not arise; (2) even if we include non-existents, the moderns' own definition works because their contrapositive's contradictory forces the required conclusion through a reasoning that avoids the problematic negative.
+This defense shows that the moderns' definition is technically sound even under a broader interpretation.
+5
+Evaluate the refinement
+Assess why the moderns' definition became standard. It preserves the logical inference without reliance on existential assumptions and fits neatly into the first figure. This refinement reflects the maturing of Islamic logic.
+The moderns' definition is now the standard one taught in logic texts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۴) قوله: و هذه طريقة القدماء»: اعلم أن المعتبر في العلوم والمستعمل فيها هو هذه الطريقة و لذا قدمها وبين احكام عكس التقيض عليها . ثم انما عدل المتأخرون عن هذه الطريقة، لانهم لما رأوا ان القدماء يستدلون على انعكاس الموجه الكلية كنفسها بما اسلفناه فاعترضوا عليهم بان نقيض العكس هو قولنا : ليس بعض ما ليس ب ليس ج. هذا، والقول سالبة جزئية فلا تنعكس بالعكس المستوى ولا يصلح ان يكون صغرى في الشكل الاول لانتفاء الايجاب ولا كبرى لانتفاء الكلية فلاصورة لما ذكروه من القياس المنتظمة في هيئة الشكل الاول و القول بان قولنا بعض ما ليس ب ج لازم لقولنا : ليس بعض ما ليس ب، ليس ج، ممنوع، لان السالبة المعدولة المحمول لا تستلزم الموجبة المحصلة المحمول الجواز ان يكون الموضوع معدوماً فلا الايجاب لا بطريق التحصيل ولا بطريق العدول لان كلا منهما يقتضي وجود الموضوع و لما اعتقدوا بحقيقة اعتراضهم فغيروا التعريف الى ما اشار اليه المصنف. و يمكن ان يجاب بانا تخصص الكلام فى مباحث العكوس بالموجودات بقرينة ان المنطق مقدمة للحكمة الباحثة عن احوال الموجودات وح فلا صورة لمنع الاستلزام المذكور على أنا لمن اغمضنا عن سلمنا ان مباحث العكوس شاملة للموجودات وغيرها كما يقتضيه النظر الى عموم مباحث الفن فنقول : ان هذا انما يتجه اذا كان قولنا كل ما ليس ب ليس ج معدولة الطرفين وليس كذلك فانا نأخذ نقيض : الطرفين بطريق السلب فيكون قولنا كلما ليس ب ليس ج موجبة سالبة الطرفين و هي في حكم السالبة في عدم اقتضاء وجود الموضوع عند المتأخرين فاذا لم يصدق فى عكس قولنا : كل جب لصدق نقيضه وهو قولنا ليس بعض ما ليس ب ليس ج و كان معناه على هذا التقدير صلب سلب ج عن بعض ما يصدق عليه سلب ب فلابد ان يصدق على ذلك البعض ج فان سلب سلب ج عن بعض ما يصدق عليه اذا كان متحققاً كما يقتضيه النقيض كان سلب ج كاذباً و اذا كذب سلب ج فاما ان يكون لانتفاء الموضوع وهو باطل لمامر من ان الموجبة سالبة المحمول لا يقتضى وجود الموضوع عند المتأخرين و أما ان يكون لصدق ج عليه و هو يستدعى القول بان بعض ما ليس ب فهوج فيتم المقال ويضمحل
+(4) His saying: 'And this is the method of the ancients': Know that what is considered in the sciences and used in them is this method, and therefore he presented it and explained the rulings of contrapositive upon it. Then the moderns only deviated from this method because when they saw that the ancients prove the conversion of the universal affirmative as itself by what we have mentioned before, they objected against them that the contradictory of the conversion is our saying: 'Not some of what is not b is not j'. This is a particular negative, so it does not convert by simple conversion, nor is it suitable as a minor premise in the first figure due to lack of affirmation, nor as a major due to lack of universality. So there is no form for the syllogism they mentioned in the form of the first figure. And the statement that our saying 'Some of what is not b is j' is a necessary consequence of our saying 'Not some of what is not b is not j' is denied, because the negative with a modified predicate does not entail the affirmative with a direct predicate, since the subject may be non-existent. So there is no affirmation, neither by way of directness nor by way of modification, because both require existence of the subject. And because they believed in the reality of their objection, they changed the definition to what the author indicated. And it is possible to answer that we specify the discussion in the topics of conversions to existents by the evidence that logic is a prelude to wisdom which investigates the states of existents, so there is no form for the denial of the mentioned entailment. Moreover, even if we ignore and concede that the topics of conversions include existents and non-existents as required by considering the generality of the topics of the art, we say: This only applies if our saying 'Everything that is not b is not j' has both terms modified, and it is not so. For we take the contradictory of the two terms by way of negation, so our saying 'Everything that is not b is not j' becomes an affirmative with both terms negative, and it is in the ruling of a negative in not implying existence of the subject according to the moderns. So if it is not true in the conversion of our saying 'Every j is b' because its contradictory is true, which is our saying 'Not some of what is not b is not j', and its meaning on this assumption is 'the negation of j from some of what the negation of b applies to', then j must be true for that part. For if the negation of j from some of what the negation of b applies to is realized as the contradictory requires, then the negation of j is false. And if the negation of j is false, either due to non-existence of the subject—which is invalid because, as passed, an affirmative with a negative predicate does not imply existence of the subject according to the moderns—or due to the truth of j for it, which requires the statement that some of what is not b is j. Thus the discourse is completed and the difficulty disappears.
+Source pages p. 331
+
+Commentary
+This passage is a critical refinement explaining why the moderns (muta'akhirun) changed the definition of contrapositive from the ancients' (qudama) method. The ancients used both contradictories in the contrapositive definition, which allowed a direct proof that truth preservation entails quality preservation. However, the moderns objected: the contradictory of the ancients' contrapositive of a universal affirmative is a particular negative, which cannot serve as a premise in the first figure to derive the required result. Furthermore, the entailment from the negated form to the affirmative is denied because the negative with a modified predicate does not imply an affirmative with a direct predicate if the subject might be non-existent. Therefore, the moderns changed the definition: they made the contradictory of the second part first and the first part second, avoiding the problematic negative. The commentator then offers a possible defense of the ancients: logic is limited to existents, so the objection fails. But even if we include non-existents, the moderns' definition works because their contrapositive of a universal affirmative is an affirmative with negative terms, which does not imply existence. The contradictory of that is 'not some of what is not b is not j', which itself forces the truth of 'some of what is not b is j' by a reasoning involving the falsity of the negation due to truth of j. Thus the moderns' definition is valid.
+
+Key Terms
+طريقة القدماء
+طريقة المتأخرين
+معدولة الطرفين
+
+Key Terms from Source Passage
+
+Checkpoint
+Why did the moderns change the definition of contrapositive from the ancients' method?
+A) They found a simpler definition.
+B) They objected that the ancients' proof relied on a particular negative which cannot be used as a premise in the first figure.
+C) They wanted to align with Aristotelian logic.
+D) They rejected the concept of contrapositive entirely.
+
+Key Takeaway
+The moderns' refinement of contrapositive resolves a logical puzzle about existential import and ensures that the proof of contrapositive works within the first figure.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'Every forbidden act is harmful' (كل محرم مفسدة). Apply the moderns' method of contrapositive to derive the contrapositive. Then check whether the ancients' method would give a different result and explain why the moderns' method is preferred.
+?
+Identify a passage from a classical usul al-fiqh text where contrapositive is used. Determine which definition (ancients or moderns) is employed and assess the logical validity of the inference.
+
+Pages p. 331 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 9 · Lesson 108
+Next →
+Immediate Inference
+intermediate
+8 min
+The Early Method of 'Aks al-Naqid (Conversion of the Contradictory)
+Explains the early proof of 'aks al-naqid via contradiction and first-figure syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the early logicians' proof for 'aks al-naqid using simple conversion and a first-figure syllogism.
+
+Core Idea
+The early method proves 'aks al-naqid by showing that denying the converse leads to a contradiction.
+
+In this lesson, we examine the early logicians' (qudama') method for converting contradictory propositions. The text presents a proof by contradiction that relies on simple conversion and a categorical syllogism in the first figure. This method was standard in the sciences, as the author notes.
+
+Guided Path
+1
+Identify the original proposition and its intended converse
+Start with a universal affirmative: 'Every J is B'. The early method claims it implies 'Every not-B is not-J'. This is the conversion to be proved.
+These are abstract variables; in Islamic sciences, an example would be 'Every intoxicant is forbidden' implying 'Everything not forbidden is not an intoxicant'.
+2
+Assume the converse is false
+If 'Every not-B is not-J' is false, its contradictory is true: 'Not all not-B is not-J', i.e., 'Some not-B is J'.
+The contradictory of a universal affirmative is a particular negative? Actually the contradictory of 'Every X is Y' is 'Some X is not Y'. But here the converse is 'Every not-B is not-J', so its contradictory is 'Some not-B is J' (since 'not-J' negated is J). This matches the text.
+3
+Apply simple conversion to the resulting proposition
+'Some not-B is J' converts by simple conversion to 'Some J is not-B'. Simple conversion of a particular affirmative yields a particular affirmative? Wait: 'Some A is B' converts to 'Some B is A'. So 'Some not-B is J' converts to 'Some J is not-B'. That contradicts the original 'Every J is B' (since 'Every J is B' entails 'No J is not-B'), leading to a contradiction.
+Alternatively, the text mentions joining with the original to form a syllogism that produces an impossibility.
+4
+Derive a contradiction via the first-figure syllogism
+The text also gives another route: take 'Some not-J is B' (derived from the false assumption? Actually from 'Some not-B is J' and something else?) and 'Every J is B' to produce 'Some not-B is B', which is impossible because a thing cannot both be B and not be B.
+This second route is a first-figure syllogism: 'Some not-J is B, Every J is B, therefore Some not-B is B'? But careful with the terms. The text says: 'Some of what is not J is B' and 'Every J is B' produce 'Some of what is not B is B'. This is valid in the first figure with the middle term 'B'.
+5
+Conclude the converse holds
+Since assuming the falsehood of the converse leads to a contradiction, the converse must be true. Thus 'Every J is B' implies 'Every not-B is not-J'.
+This establishes the validity of 'aks al-naqid for universal affirmatives by the early method.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والدليل عليه أنه لو لم يصدق هذا الصدق بعض ما ليس ب ج وينعكس العكس المستوى الى قولنا بعض ج ليس ب وقد كان كل ج ب هذا خلف أو ينضم الى الاصل هكذا بعض ما ليس ج ب و کل ج، ب ينتج: بعض ما ليس ب ب و انه محال اذلوانعكس لزم سلب الشيء عن نفسه. (عبد الرحيم)
+
+قوله: و هذه طريقة القدماء: اعلم أن المعتبر في العلوم والمستعمل فيها هو هذه الطريقة و لذا قدمها وبين احكام عكس التقيض عليها .
+ثم انما عدل المتأخرون عن هذه الطريقة، لانهم لما رأوا ان القدماء يستدلون على انعكاس الموجه الكلية كنفسها بما اسلفناه فاعترضوا عليهم بان نقيض العكس هو قولنا : ليس بعض ما ليس ب ليس ج. هذا، والقول سالبة جزئية فلا تنعكس بالعكس المستوى ولا يصلح ان يكون صغرى في الشكل الاول لانتفاء الايجاب ولا كبرى لانتفاء الكلية فلاصورة لما ذكروه من القياس المنتظمة في هيئة الشكل الاول و القول بان قولنا بعض ما ليس ب ج لازم لقولنا : ليس بعض ما ليس ب، ليس ج، ممنوع، لان السالبة المعدولة المحمول لا تستلزم الموجبة المحصلة المحمول الجواز ان يكون الموضوع معدوماً فلا الايجاب لا بطريق التحصيل ولا بطريق العدول لان كلا منهما يقتضي وجود الموضوع و لما اعتقدوا بحقيقة اعتراضهم فغيروا التعريف الى ما اشار اليه المصنف. و يمكن ان يجاب بانا تخصص الكلام فى مباحث العكوس بالموجودات بقرينة ان المنطق مقدمة يصح هذا و للحكمة الباحثة عن احوال الموجودات وح فلا صورة لمنع الاستلزام المذكور على أنا لمن اغمضنا عن سلمنا ان مباحث العكوس شاملة للموجودات وغيرها كما يقتضيه النظر الى عموم مباحث الفن فنقول : ان هذا انما يتجه اذا كان قولنا كل ما ليس ب ليس ج معدولة الطرفين وليس كذلك فانا نأخذ نقيض : الطرفين بطريق السلب فيكون قولنا كلما ليس ب ليس ج موجبة سالبة الطرفين و هي في حكم السالبة في عدم اقتضاء وجود الموضوع عند المتأخرين فاذا لم يصدق فى عكس قولنا : كل جب لصدق نقيضه وهو قولنا ليس بعض ما ليس ب ليس ج و كان معناه على هذا التقدير صلب سلب ج عن بعض ما يصدق عليه سلب ب فلابد ان يصدق على ذلك البعض ج فان سلب سلب ج عن بعض ما يصدق عليه اذا كان متحققاً كما يقتضيه النقيض كان سلب ج كاذباً و اذا كذب سلب ج فاما ان يكون لانتفاء الموضوع وهو باطل لمامر من ان الموجبة سالبة المحمول لا يقتضى وجود الموضوع عند المتأخرين و أما ان يكون لصدق ج عليه و هو يستدعى القول بان بعض ما ليس ب فهوج فيتم المقال ويضمحل صلب ب
+
+يعنى على طريقة مامر آنفاً من تفسير المخالفة في الكيف او على طريقة مامر في العكس المستوى من تفسير بقاء الصدق . ميرزا محمد علی)
+
+وذلك ، لانه اذا جعل نقيض الثانى اولاً فاما ان يجعل عين الأول ثانياً او نقيضه ايضاً ثانياً فاذا انتفت الصورة الثانية للقطع بكونها غير مرادة والا لم يصح التقابل بين القولين ولا اشتراط المخالفة في الكيف كما هو ظاهر، تحققت الأولى ضرورة الانحصار في الصورتين. (محمد على)
+
+و ايضا فانه المستعمل في العلوم ومحاورات القوم. قال المحقق الشريف: عكس النقيض المستعمل فى العلوم، هو عكس النقيض بهذا المعنى و اما المعنى الذي ذكره المتأخرون فهو غير مستعمل فيها، هذا.
+انما عدل المتأخرون عن هذه الطريقة مع كثرة اشتهارها فيما بين القوم، لما توهموا من انه لايتم الاستدلال على المطلوب على طريقة القدماء وذلك ، لان نقيض العكس فى المثال المذكور قولنا : ليس بعض ما ليس ب ليس ج، لا قولنا: بعض ما ليس ب ج كما ذكروا فح لا يثبت المطلوب لا بالعكس ولا بالخلف.
+اما بالاول فلان النقيض هنا سالبة جزئية و السالبة الجزئية لاعكس لها كما سبق، فلا معنى لقولهم: و ينعكس بالعكس المستوى. و اما بالثاني فلانه اذا كان النقيض سالبة جزئية لا يصلح لكبروية الشكل الاول ولا لصغرو يته لانتفاء الكلية والايجاب فلا يمكن ان يتركب قياس على طريقة الشكل الاول منه ومن الاصل حتى ينتج المحال فلا صورة لما ذكروه من قولهم فنضمه مع الأصل ينتج بعض ما ليس ب ب و هو محال منشأه الصغرى لان... :لا يقال انا سلمنا ان قولنا بعض ما ليس ب ج ليس نقيض العكس اولاً وبالذات لكن لا يلزم ان لا يكون نقيض العكس ثانياً وبالعرض ايضاً وذلك لظهور انه لازم لنقيض العكس فانه اذا حكم منه بسلب ليس ج عن بعض ماصدق عليه ليس ب فلابد ان يصدق عليه ،ج، ضرورة استحالة ارتفاع النقيضين فيتم ما ذكره القدماء في المقامين.
+لانا نقول لانسلم لما تقرر من ان السالبة المعدولة المحمول لا تقتضى الموجبة المحصلة المحمول لما سبق : ، انه لابد فى الموجبة من وجود الموضوع دون السالبة، فيجوز ان يكون الموضوع معدوماً فلا يصدق من الايجاب لا بطريق التحصيل ولا بطريق العدول فلا يصح القول يكون قولنا : بعض ما ليس ب، ج نقيض العكس لا اولاً وبالذات ولا ثانياً وبالعرض. و اجيب اولاً بانا تخصص الكلام فى مباحث العكوس بالامور الموجودة بقرينة ان المنطق آلة للحكمة الباحثة عن احوال الموجودات فح يندفع ما ذكر من ان السالبة المعدولة المحمول لا تقتضى الموجبة المحصلة المحمول لما تقرر من انها مقتضية لها على تقدير وجود الموضوع.
+و ثانياً : بعد تسليم عموم المباحث و شمولها للموجودات و غيرها بما اشار اليه شارح المطالع حيث قال بعد ذكر شبهة المتأخرين ومناط الشبهة هيهنا انهم حلوا النقيض على المعدولة و ليس كذلك ، فان نقيض
+And the proof for it: that if this truth were not true, 'Some of what is not B is J', and it converts by simple conversion to 'Some J is not B' while it was 'Every J is B' — this is a contradiction. Or it is joined with the original thus: 'Some of what is not J is B' and 'Every J is B' produces 'Some of what is not B is B', which is impossible, for if it were converted, a thing's negation would be necessary for itself.
+
+His statement: 'And this is the method of the early logicians.' Know that what is considered in the sciences and used in them is this method, and thus he presented it and explained the rules of the conversion of the contradictory upon it.
+
+Then the later logicians only departed from this method because when they saw that the early logicians infer the conversion of the quantified universal like itself by what we have mentioned, they objected to them that the contradictory of the converse is our statement: 'Not some of what is not B is not J.' This is a particular negative, so it does not convert by simple conversion, nor is it suitable as a minor term in the first figure due to lack of affirmation, nor as a major term due to lack of universality. Thus there is no form for the syllogism they mentioned in the shape of the first figure. And the claim that our statement 'Some of what is not B is J' is necessarily implied by our statement 'Not some of what is not B is not J' is denied, because the negative with a modified predicate does not necessarily imply the affirmative with an original predicate. It is possible that the subject is non-existent, so there is no affirmation either by original or by modification, since each requires the existence of the subject. And because they believed in the validity of their objection, they changed the definition to what the author indicated. And it is possible to answer by saying: we specialize the discussion in the topics of conversions to existent things, by the indicator that logic is a preamble to philosophy which investigates the states of existent things. So there is no basis for denying the aforementioned implication. As for if we ignore and concede that the topics of conversions include existent things and others, as required by looking at the generality of the art, then we say: this only applies if our statement 'Every not-B is not J' is modified in both terms, but it is not so; rather we take the contradictory of both terms by the way of negation, so our statement 'Every not-B is not J' is an affirmative with both terms negative, and it is in the ruling of a negative regarding not requiring the existence of the subject according to the later logicians. So if it is not true in the converse of our statement 'Every J is B' due to the truth of its contradictory, which is our statement 'Not some not-B is not J', and its meaning on this estimation is the negation of J from some of what the negation of B is true of, then J must be true of that part. For if the negation of the negation of J from that of which it is true is realized as the contradictory requires, then the negation of J is false. And if the negation of J is false, then either it is due to the non-existence of the subject, which is invalid because the affirmative with a negative predicate does not require the existence of the subject according to the later logicians, or it is due to the truth of J upon it, and that requires the statement that some of what is not B is J. So the article is completed and the doubt loses its substance.
+
+Meaning: upon the method that passed earlier of interpreting the opposition in quality, or upon the method that passed in simple conversion of interpreting the persistence of truth. (Mirza Muhammad Ali)
+
+And that is because if the contradictory of the second is made first, then either the identical of the first is made second, or its contradictory is also made second. If the second form is negated because it is certainly not intended (otherwise there would be no correct opposition between the two statements and no condition of opposition in quality, as is apparent), then the first form is realized necessarily due to the restriction to two forms. (Muhammad Ali)
+
+And also it is what is used in the sciences and the discourses of the people. said al-Muhaqqiq al-Sharif: 'The conversion of the contradictory used in the sciences is the conversion of the contradictory in this sense. As for the sense mentioned by the later logicians, it is not used in them.'
+
+The later logicians only departed from this method despite its widespread fame among the people because they imagined that the inference of the desired conclusion according to the early method is not valid. That is because the contradictory of the converse in the mentioned example is our statement 'Not some of what is not B is not J', not our statement 'Some of what is not B is J' as they claimed. Then the desired conclusion is not established either by conversion or by reduction to absurdity.
+
+As for the first, because the contradictory here is a particular negative, and a particular negative has no conversion as previously mentioned. So there is no meaning to their statement: 'And it converts by simple conversion.'
+
+As for the second, because if the contradictory is a particular negative, it is not suitable as a major in the first figure nor as a minor due to lack of universality and affirmation. So a syllogism in the first figure cannot be composed from it and the original to produce an impossibility. Thus there is no form for what they mentioned from their statement: 'We join it with the original; it produces 'Some of what is not B is B' which is impossible.' Its origin is the minor because...
+
+It is not said: we concede that our statement 'Some of what is not B is J' is not the contradictory of the converse primarily and essentially, but it does not follow that it is not the contradictory of the converse secondarily and accidentally as well, because it is clearly a necessary implication of the contradictory of the converse. For when from it one judges the negation of 'not J' from some of what 'not B' is true of, then J must be true of it, due to the impossibility of the elimination of the two contradictories. So what the early logicians mentioned in both positions is complete.
+
+But we say: we do not concede, because it has been established that the negative with a modified predicate does not imply the affirmative with an original predicate. For it is necessary in the affirmative that the subject exists, unlike the negative. So it is possible that the subject is non-existent, so affirmation is not true either by original or by modification. Thus the statement that our statement 'Some of what is not B is J' is the contradictory of the converse, neither primarily and essentially nor secondarily and accidentally, is not correct. And it is answered first by saying: we specialize the discussion in the topics of conversions to existent things, by the indicator that logic is a tool for philosophy which investigates the states of existent things. So what was mentioned about the negative with a modified predicate not implying the affirmative with an original predicate is repelled because it is established that it does imply it on the assumption of the existence of the subject.
+
+And secondly: after conceding the generality of the topics and their inclusion of existent things and others, as indicated by Sharh al-Matali' where he said after mentioning the doubt of the later logicians: 'And the point of the doubt here is that they interpreted the contradictory as the modified one, but it is not so, for the contradictory...'
+Source pages p. 331
+
+Commentary
+This passage is a dialectical discussion on the conversion of the contradictory ('aks al-naqid) in logic, focusing on the difference between the method of the early logicians (qudama') and the later logicians (muta'akhkhirun). The author (likely from the hashiya tradition) defends the early method against objections raised by the later logicians.
+
+The passage begins by presenting the early logicians' proof for 'aks al-naqid. In a categorical syllogism of the first figure, they show that the converse must hold; if not, a contradiction arises. The early method is described as the one relied upon in the sciences.
+
+Then the objection of the later logicians is introduced. They argue that the contradictory of the converse (naqid al-'aks) is a particular negative proposition. Particular negatives do not have a simple conversion ('aks mustawi), nor can they serve as a minor premise (because it is not affirmative) or a major premise (because it is not universal) in the first figure. Hence the early logicians' syllogism fails. Moreover, they deny the implication that 'Some of what is not B is J' follows from 'Not some of what is not B is not J' because the latter is a negative with a modified predicate, which does not entail an affirmative with an original predicate due to possible non-existence of the subject.
+
+In response, the author offers an answer: the discussion of conversions should be restricted to existent things, since logic is a tool for philosophy which studies existents. Then, if the generality is conceded, he argues that the contradictory is not modified; rather, it is taken as an affirmative with both terms negated, which in the later logicians' view does not require the existence of the subject. The argument is then unfolded step by step to show that the desired conclusion follows.
+
+The passage also includes notes by commentators (Mirza Muhammad Ali, Muhammad Ali) clarifying interpretations. Finally, it cites al-Muhaqqiq al-Sharif stating that the early meaning of 'aks al-naqid is what is used in the sciences, not the later one.
+
+The later logicians' full objection is detailed: they argue that the early proof is invalid because the contradictory of the converse is particular negative, no conversion, no first-figure syllogism possible. An attempted defense by saying that the implication is secondary is refuted because the negative does not entail an affirmative. Two answers are given: specialization to existents, and if not, clarifying that the contradictory is not modified.
+
+Throughout, the author uses logical technical terms like 'aks mustawi, shakl awwal, qadiyya saliba juz'iyya, etc. All examples are from logic itself (using variables j, b). In the commentary for students, we could use Islamic jurisprudence examples: e.g., 'Every intoxicant is forbidden. Every nabidh is an intoxicant. Therefore nabidh is forbidden.' is a simple syllogism that does not involve conversion, but the conversion of the contradictory is more abstract. For teaching, it's better to stick to the logical variables to avoid confusion.
+
+Key Terms
+عكس النقيض
+طريقة القدماء
+العكس المستوى
+
+Key Terms from Source Passage
+
+Checkpoint
+In the early proof of 'aks al-naqid for 'Every J is B', what does one assume to derive a contradiction?
+A) That 'Every J is B' is false
+B) That 'Every not-B is not-J' is false
+C) That 'Some J is not B' is true
+D) That 'Some not-J is B' is false
+
+Key Takeaway
+The early method proves 'aks al-naqid by reducing its denial to an absurdity through simple conversion and first-figure syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'Every obligatory (wajib) act is rewarded (thawab).' Apply the early method of 'aks al-naqid to derive the converse proposition. Then reconstruct the proof by contradiction step by step, showing how assuming the false leads to an impossibility.
+
+Pages p. 331 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 9 · Lesson 109
+Next →
+Immediate Inference
+advanced
+10 min
+The Later Logicians' Objection and the Defense of the Early Method
+Presents and refutes the later logicians' objection to the early method of 'aks al-naqid.
+
+Learning Objective
+By the end of this lesson, you will be able to articulate the later logicians' objection to the early method of 'aks al-naqid and explain the two defenses given in the text.
+
+Core Idea
+The later logicians' objection is that the contradictory of the converse is a particular negative, which cannot be used in the first figure, but the early method can be defended by restricting to existents or reinterpreting the contradictory.
+
+The later logicians (muta'akhkhirun) raised a serious objection against the early method: they claimed the contradictory of the converse is a particular negative proposition, which has no simple conversion and cannot serve as a premise in a first-figure syllogism. This lesson presents that objection and the two sophisticated responses from the defenders of the early method, including a citation from al-Muhaqqiq al-Sharif.
+
+Guided Path
+1
+State the later logicians' core claim
+The later logicians argue that the contradictory of the converse 'Some not-B is J' is actually 'Not some not-B is not-J', which is a particular negative (Some not-B is not not-J? Wait: 'Not some not-B is not-J' is equivalent to 'Every not-B is J'? No, careful: They say the contradictory of the converse (the early method's converse 'Every not-B is not-J') is 'Not some not-B is not-J', which is a particular negative. But the early method used 'Some not-B is J' as the contradictory. The later logicians say the correct contradictory is a particular negative, not a particular affirmative.
+The text: 'نقيض العكس هو قولنا : ليس بعض ما ليس ب ليس ج' which is 'Not some of what is not B is not J'. This is a particular negative (Some not-B is not not-J) equivalent to 'Some not-B is J'? Actually 'Not some not-B is not-J' is equivalent to 'Every not-B is J' (by the square of opposition). Wait: Contradictory of 'Some not-B is not-J' is 'Every not-B is J'. But here they say the contradictory of 'Every not-B is not-J' is 'Not some not-B is not-J' which is equivalent to 'Every not-B is J'? That can't be right. The logic is messy. Let's trust the text: they say the contradictory is a particular negative. They probably mean that the contradictory of 'Every not-B is not-J' is 'Some not-B is J' (particular affirmative) according to the early method, but the later logicians reinterpret it as 'Some not-B is not (not-J)' i.e., 'Some not-B is J' still? Actually 'ليس بعض ما ليس ب ليس ج' means 'Not: some of what is not B is not J', which is the negation of a particular negative, equivalent to a universal affirmative (Every not-B is J). But they call it a particular negative? The text seems to conflate. I'll follow the text as given: they say it is a particular negative (سالبة جزئية). Perhaps they consider 'ليس بعض ما ليس ب ليس ج' as a particular negative because the negation is on the quantifier? This is a nuanced point. For the lesson, we present the objection as stated.
+2
+Explain the consequences for the conversion and syllogism
+A particular negative has no simple conversion, so the step 'and it converts by simple conversion' fails. Moreover, a particular negative cannot be a minor premise (must be affirmative) nor a major premise (must be universal) in the first figure, so the syllogism cannot be formed.
+The text mentions both these points.
+3
+Present the first defense: specialization to existents
+The defenders argue that logic is a tool for philosophy, which studies existent things. Therefore, in the topics of conversions, we restrict ourselves to existent subjects. On that assumption, the implication from the particular negative to the particular affirmative holds.
+This defense is given at the end of the passage: 'we specialize the discussion in the topics of conversions to existent things'.
+4
+Present the second defense: reinterpretation of the contradictory
+Even if we consider general topics including non-existents, the contradictory is not a modified negative but a double-negative affirmative. The proposition 'Every not-B is not-J' is an affirmative with both terms negated, which does not require subject existence according to later logicians. The contradictory then becomes 'Some not-B is J', which can be used in the proof.
+The text says: 'نحن نأخذ نقيض الطرفين بطريق السلب فيكون قولنا كل ما ليس ب ليس ج موجبة سالبة الطرفين'.
+5
+Note the authority of al-Muhaqqiq al-Sharif
+Al-Muhaqqiq al-Sharif states that the early meaning of 'aks al-naqid is the one used in the sciences, not the later one. This supports the early method as the practical standard.
+This is mentioned in the passage: 'قال المحقق الشريف: عكس النقيض المستعمل فى العلوم، هو عكس النقيض بهذا المعنى'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والدليل عليه أنه لو لم يصدق هذا الصدق بعض ما ليس ب ج وينعكس العكس المستوى الى قولنا بعض ج ليس ب وقد كان كل ج ب هذا خلف أو ينضم الى الاصل هكذا بعض ما ليس ج ب و کل ج، ب ينتج: بعض ما ليس ب ب و انه محال اذلوانعكس لزم سلب الشيء عن نفسه. (عبد الرحيم)
+
+قوله: و هذه طريقة القدماء: اعلم أن المعتبر في العلوم والمستعمل فيها هو هذه الطريقة و لذا قدمها وبين احكام عكس التقيض عليها .
+ثم انما عدل المتأخرون عن هذه الطريقة، لانهم لما رأوا ان القدماء يستدلون على انعكاس الموجه الكلية كنفسها بما اسلفناه فاعترضوا عليهم بان نقيض العكس هو قولنا : ليس بعض ما ليس ب ليس ج. هذا، والقول سالبة جزئية فلا تنعكس بالعكس المستوى ولا يصلح ان يكون صغرى في الشكل الاول لانتفاء الايجاب ولا كبرى لانتفاء الكلية فلاصورة لما ذكروه من القياس المنتظمة في هيئة الشكل الاول و القول بان قولنا بعض ما ليس ب ج لازم لقولنا : ليس بعض ما ليس ب، ليس ج، ممنوع، لان السالبة المعدولة المحمول لا تستلزم الموجبة المحصلة المحمول الجواز ان يكون الموضوع معدوماً فلا الايجاب لا بطريق التحصيل ولا بطريق العدول لان كلا منهما يقتضي وجود الموضوع و لما اعتقدوا بحقيقة اعتراضهم فغيروا التعريف الى ما اشار اليه المصنف. و يمكن ان يجاب بانا تخصص الكلام فى مباحث العكوس بالموجودات بقرينة ان المنطق مقدمة يصح هذا و للحكمة الباحثة عن احوال الموجودات وح فلا صورة لمنع الاستلزام المذكور على أنا لمن اغمضنا عن سلمنا ان مباحث العكوس شاملة للموجودات وغيرها كما يقتضيه النظر الى عموم مباحث الفن فنقول : ان هذا انما يتجه اذا كان قولنا كل ما ليس ب ليس ج معدولة الطرفين وليس كذلك فانا نأخذ نقيض : الطرفين بطريق السلب فيكون قولنا كلما ليس ب ليس ج موجبة سالبة الطرفين و هي في حكم السالبة في عدم اقتضاء وجود الموضوع عند المتأخرين فاذا لم يصدق فى عكس قولنا : كل جب لصدق نقيضه وهو قولنا ليس بعض ما ليس ب ليس ج و كان معناه على هذا التقدير صلب سلب ج عن بعض ما يصدق عليه سلب ب فلابد ان يصدق على ذلك البعض ج فان سلب سلب ج عن بعض ما يصدق عليه اذا كان متحققاً كما يقتضيه النقيض كان سلب ج كاذباً و اذا كذب سلب ج فاما ان يكون لانتفاء الموضوع وهو باطل لمامر من ان الموجبة سالبة المحمول لا يقتضى وجود الموضوع عند المتأخرين و أما ان يكون لصدق ج عليه و هو يستدعى القول بان بعض ما ليس ب فهوج فيتم المقال ويضمحل صلب ب
+
+يعنى على طريقة مامر آنفاً من تفسير المخالفة في الكيف او على طريقة مامر في العكس المستوى من تفسير بقاء الصدق . ميرزا محمد علی)
+
+وذلك ، لانه اذا جعل نقيض الثانى اولاً فاما ان يجعل عين الأول ثانياً او نقيضه ايضاً ثانياً فاذا انتفت الصورة الثانية للقطع بكونها غير مرادة والا لم يصح التقابل بين القولين ولا اشتراط المخالفة في الكيف كما هو ظاهر، تحققت الأولى ضرورة الانحصار في الصورتين. (محمد على)
+
+و ايضا فانه المستعمل في العلوم ومحاورات القوم. قال المحقق الشريف: عكس النقيض المستعمل فى العلوم، هو عكس النقيض بهذا المعنى و اما المعنى الذي ذكره المتأخرون فهو غير مستعمل فيها، هذا.
+انما عدل المتأخرون عن هذه الطريقة مع كثرة اشتهارها فيما بين القوم، لما توهموا من انه لايتم الاستدلال على المطلوب على طريقة القدماء وذلك ، لان نقيض العكس فى المثال المذكور قولنا : ليس بعض ما ليس ب ليس ج، لا قولنا: بعض ما ليس ب ج كما ذكروا فح لا يثبت المطلوب لا بالعكس ولا بالخلف.
+اما بالاول فلان النقيض هنا سالبة جزئية و السالبة الجزئية لاعكس لها كما سبق، فلا معنى لقولهم: و ينعكس بالعكس المستوى. و اما بالثاني فلانه اذا كان النقيض سالبة جزئية لا يصلح لكبروية الشكل الاول ولا لصغرو يته لانتفاء الكلية والايجاب فلا يمكن ان يتركب قياس على طريقة الشكل الاول منه ومن الاصل حتى ينتج المحال فلا صورة لما ذكروه من قولهم فنضمه مع الأصل ينتج بعض ما ليس ب ب و هو محال منشأه الصغرى لان... :لا يقال انا سلمنا ان قولنا بعض ما ليس ب ج ليس نقيض العكس اولاً وبالذات لكن لا يلزم ان لا يكون نقيض العكس ثانياً وبالعرض ايضاً وذلك لظهور انه لازم لنقيض العكس فانه اذا حكم منه بسلب ليس ج عن بعض ماصدق عليه ليس ب فلابد ان يصدق عليه ،ج، ضرورة استحالة ارتفاع النقيضين فيتم ما ذكره القدماء في المقامين.
+لانا نقول لانسلم لما تقرر من ان السالبة المعدولة المحمول لا تقتضى الموجبة المحصلة المحمول لما سبق : ، انه لابد فى الموجبة من وجود الموضوع دون السالبة، فيجوز ان يكون الموضوع معدوماً فلا يصدق من الايجاب لا بطريق التحصيل ولا بطريق العدول فلا يصح القول يكون قولنا : بعض ما ليس ب، ج نقيض العكس لا اولاً وبالذات ولا ثانياً وبالعرض. و اجيب اولاً بانا تخصص الكلام فى مباحث العكوس بالامور الموجودة بقرينة ان المنطق آلة للحكمة الباحثة عن احوال الموجودات فح يندفع ما ذكر من ان السالبة المعدولة المحمول لا تقتضى الموجبة المحصلة المحمول لما تقرر من انها مقتضية لها على تقدير وجود الموضوع.
+و ثانياً : بعد تسليم عموم المباحث و شمولها للموجودات و غيرها بما اشار اليه شارح المطالع حيث قال بعد ذكر شبهة المتأخرين ومناط الشبهة هيهنا انهم حلوا النقيض على المعدولة و ليس كذلك ، فان نقيض
+And the proof for it: that if this truth were not true, 'Some of what is not B is J', and it converts by simple conversion to 'Some J is not B' while it was 'Every J is B' — this is a contradiction. Or it is joined with the original thus: 'Some of what is not J is B' and 'Every J is B' produces 'Some of what is not B is B', which is impossible, for if it were converted, a thing's negation would be necessary for itself.
+
+His statement: 'And this is the method of the early logicians.' Know that what is considered in the sciences and used in them is this method, and thus he presented it and explained the rules of the conversion of the contradictory upon it.
+
+Then the later logicians only departed from this method because when they saw that the early logicians infer the conversion of the quantified universal like itself by what we have mentioned, they objected to them that the contradictory of the converse is our statement: 'Not some of what is not B is not J.' This is a particular negative, so it does not convert by simple conversion, nor is it suitable as a minor term in the first figure due to lack of affirmation, nor as a major term due to lack of universality. Thus there is no form for the syllogism they mentioned in the shape of the first figure. And the claim that our statement 'Some of what is not B is J' is necessarily implied by our statement 'Not some of what is not B is not J' is denied, because the negative with a modified predicate does not necessarily imply the affirmative with an original predicate. It is possible that the subject is non-existent, so there is no affirmation either by original or by modification, since each requires the existence of the subject. And because they believed in the validity of their objection, they changed the definition to what the author indicated. And it is possible to answer by saying: we specialize the discussion in the topics of conversions to existent things, by the indicator that logic is a preamble to philosophy which investigates the states of existent things. So there is no basis for denying the aforementioned implication. As for if we ignore and concede that the topics of conversions include existent things and others, as required by looking at the generality of the art, then we say: this only applies if our statement 'Every not-B is not J' is modified in both terms, but it is not so; rather we take the contradictory of both terms by the way of negation, so our statement 'Every not-B is not J' is an affirmative with both terms negative, and it is in the ruling of a negative regarding not requiring the existence of the subject according to the later logicians. So if it is not true in the converse of our statement 'Every J is B' due to the truth of its contradictory, which is our statement 'Not some not-B is not J', and its meaning on this estimation is the negation of J from some of what the negation of B is true of, then J must be true of that part. For if the negation of the negation of J from that of which it is true is realized as the contradictory requires, then the negation of J is false. And if the negation of J is false, then either it is due to the non-existence of the subject, which is invalid because the affirmative with a negative predicate does not require the existence of the subject according to the later logicians, or it is due to the truth of J upon it, and that requires the statement that some of what is not B is J. So the article is completed and the doubt loses its substance.
+
+Meaning: upon the method that passed earlier of interpreting the opposition in quality, or upon the method that passed in simple conversion of interpreting the persistence of truth. (Mirza Muhammad Ali)
+
+And that is because if the contradictory of the second is made first, then either the identical of the first is made second, or its contradictory is also made second. If the second form is negated because it is certainly not intended (otherwise there would be no correct opposition between the two statements and no condition of opposition in quality, as is apparent), then the first form is realized necessarily due to the restriction to two forms. (Muhammad Ali)
+
+And also it is what is used in the sciences and the discourses of the people. said al-Muhaqqiq al-Sharif: 'The conversion of the contradictory used in the sciences is the conversion of the contradictory in this sense. As for the sense mentioned by the later logicians, it is not used in them.'
+
+The later logicians only departed from this method despite its widespread fame among the people because they imagined that the inference of the desired conclusion according to the early method is not valid. That is because the contradictory of the converse in the mentioned example is our statement 'Not some of what is not B is not J', not our statement 'Some of what is not B is J' as they claimed. Then the desired conclusion is not established either by conversion or by reduction to absurdity.
+
+As for the first, because the contradictory here is a particular negative, and a particular negative has no conversion as previously mentioned. So there is no meaning to their statement: 'And it converts by simple conversion.'
+
+As for the second, because if the contradictory is a particular negative, it is not suitable as a major in the first figure nor as a minor due to lack of universality and affirmation. So a syllogism in the first figure cannot be composed from it and the original to produce an impossibility. Thus there is no form for what they mentioned from their statement: 'We join it with the original; it produces 'Some of what is not B is B' which is impossible.' Its origin is the minor because...
+
+It is not said: we concede that our statement 'Some of what is not B is J' is not the contradictory of the converse primarily and essentially, but it does not follow that it is not the contradictory of the converse secondarily and accidentally as well, because it is clearly a necessary implication of the contradictory of the converse. For when from it one judges the negation of 'not J' from some of what 'not B' is true of, then J must be true of it, due to the impossibility of the elimination of the two contradictories. So what the early logicians mentioned in both positions is complete.
+
+But we say: we do not concede, because it has been established that the negative with a modified predicate does not imply the affirmative with an original predicate. For it is necessary in the affirmative that the subject exists, unlike the negative. So it is possible that the subject is non-existent, so affirmation is not true either by original or by modification. Thus the statement that our statement 'Some of what is not B is J' is the contradictory of the converse, neither primarily and essentially nor secondarily and accidentally, is not correct. And it is answered first by saying: we specialize the discussion in the topics of conversions to existent things, by the indicator that logic is a tool for philosophy which investigates the states of existent things. So what was mentioned about the negative with a modified predicate not implying the affirmative with an original predicate is repelled because it is established that it does imply it on the assumption of the existence of the subject.
+
+And secondly: after conceding the generality of the topics and their inclusion of existent things and others, as indicated by Sharh al-Matali' where he said after mentioning the doubt of the later logicians: 'And the point of the doubt here is that they interpreted the contradictory as the modified one, but it is not so, for the contradictory...'
+Source pages p. 331
+
+Commentary
+This passage is a dialectical discussion on the conversion of the contradictory ('aks al-naqid) in logic, focusing on the difference between the method of the early logicians (qudama') and the later logicians (muta'akhkhirun). The author (likely from the hashiya tradition) defends the early method against objections raised by the later logicians.
+
+The passage begins by presenting the early logicians' proof for 'aks al-naqid. In a categorical syllogism of the first figure, they show that the converse must hold; if not, a contradiction arises. The early method is described as the one relied upon in the sciences.
+
+Then the objection of the later logicians is introduced. They argue that the contradictory of the converse (naqid al-'aks) is a particular negative proposition. Particular negatives do not have a simple conversion ('aks mustawi), nor can they serve as a minor premise (because it is not affirmative) or a major premise (because it is not universal) in the first figure. Hence the early logicians' syllogism fails. Moreover, they deny the implication that 'Some of what is not B is J' follows from 'Not some of what is not B is not J' because the latter is a negative with a modified predicate, which does not entail an affirmative with an original predicate due to possible non-existence of the subject.
+
+In response, the author offers an answer: the discussion of conversions should be restricted to existent things, since logic is a tool for philosophy which studies existents. Then, if the generality is conceded, he argues that the contradictory is not modified; rather, it is taken as an affirmative with both terms negated, which in the later logicians' view does not require the existence of the subject. The argument is then unfolded step by step to show that the desired conclusion follows.
+
+The passage also includes notes by commentators (Mirza Muhammad Ali, Muhammad Ali) clarifying interpretations. Finally, it cites al-Muhaqqiq al-Sharif stating that the early meaning of 'aks al-naqid is what is used in the sciences, not the later one.
+
+The later logicians' full objection is detailed: they argue that the early proof is invalid because the contradictory of the converse is particular negative, no conversion, no first-figure syllogism possible. An attempted defense by saying that the implication is secondary is refuted because the negative does not entail an affirmative. Two answers are given: specialization to existents, and if not, clarifying that the contradictory is not modified.
+
+Throughout, the author uses logical technical terms like 'aks mustawi, shakl awwal, qadiyya saliba juz'iyya, etc. All examples are from logic itself (using variables j, b). In the commentary for students, we could use Islamic jurisprudence examples: e.g., 'Every intoxicant is forbidden. Every nabidh is an intoxicant. Therefore nabidh is forbidden.' is a simple syllogism that does not involve conversion, but the conversion of the contradictory is more abstract. For teaching, it's better to stick to the logical variables to avoid confusion.
+
+Key Terms
+عكس النقيض
+طريقة المتأخرين
+السلبية الجزئية
+السالبة المعدولة المحمول
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, why did the later logicians object to the early method of 'aks al-naqid?
+A) Because the early method uses universal premises only.
+B) Because the contradictory of the converse is a particular negative, which cannot be used in the first figure.
+C) Because the early method requires the subject to exist, which is not always the case.
+D) Because the later logicians preferred a different figure of syllogism.
+
+Key Takeaway
+The later logicians' objection to the early method forces a refinement in the understanding of the contradictory, but the early method can be defended through existential specialization or reinterpretation of the contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'Every obligatory act is commanded by Allah' (E: Every A is B). (a) Identify the converse by 'aks al-naqid according to the early method. (b) Explain the later logicians' objection: what is the exact contradictory of the converse? (c) Show how the first defense (specialization to existents) applies: assume all subjects exist, then the implication holds.
+
+Pages p. 331 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 333
+Module 9 · Lesson 110
+Next →
+Immediate Inference
+intermediate
+5 min
+Why Contraposition Fails for Particular Affirmatives
+Author explains why particular affirmative propositions cannot be contraposed.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which categorical propositions can be validly contraposed and which cannot, using the condition that the contradictory of the predicate must not be more specific than the subject.
+
+Core Idea
+Contraposition fails for particular affirmatives because it would produce a false claim.
+
+You have learned that contraposition involves negating and swapping subject and predicate. But does this operation work for every type of proposition? In this lesson, we examine why particular affirmative propositions cannot be contraposed at all. The author provides a clear counterexample and explains the logical reason behind this limitation.
+
+Guided Path
+1
+Identify the original proposition
+Look at the example 'Some animal is not a human'. Note that the proposition is a particular affirmative (موجبة جزئية) in this context, meaning it has an affirmative copula but a negative predicate content.
+The author treats 'ليس' as part of the predicate, making 'لا انسان' a single term.
+2
+Perform the contraposition operation
+To contrapose, negate both terms and swap them: the subject becomes the negation of the predicate, and the predicate becomes the negation of the subject. For our example, the result would be 'Some human is not an animal'.
+This is the standard procedure for aks al-naqid.
+3
+Check the truth of the contrapositive
+Determine whether 'Some human is not an animal' is true. Since every human is an animal, the statement is false. Therefore, the contraposition is invalid.
+The truth of the original does not guarantee the truth of the contrapositive.
+4
+Generalize the condition
+The reason is that when the contradictory of the predicate (in this case 'non-human' or 'لا انسان') is more specific than the subject ('animal'), the contrapositive becomes false. More generally, contraposition fails whenever the negation of the predicate is a subset of the subject.
+This condition is met in many cases, so particular affirmatives are never validly contraposed.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يعنى ان الموجبة الجزئية لا تنعكس بعكس النقيض أصلاً لا إلى الموجبة الجزئية ولا إلى الموجبة الكلية لان قولنا بعض الحيوان لا انسان مثلا وهو قضية موجبة جزئية صادقة ولو انعكست بعكس النقيض لصدق قولنا بعض الانسان لا حيوان مع ان هذا كاذب قطعاً والا لاجتمع الشيء و نقيضه في شيء واحد لان الاعم لازم الصدق للاخص وهكذا فى كل مثال يكون نقيض المحمول اخص من الموضوع ومن هذا قولنا بعض القمر لا متخسف وقت التربيع فانه صادق مع كذب قولنا بعض المنخسف ليس بقمر بالامكان لما سبق. ثم انما اخترنا فى العكس الجزئية لانه المتعارف المعهود حيث ان الموجبة الجزئية انما تنعكس اليها حيث تنعكس ولانه اذا لم تصدق الجزئية لم تصدق الكلية بالطريق الاولى بخلاف العكس وقد تقدم آنقاً. (میرزا محمد علی)
+He means that the particular affirmative does not convert by contraposition at all, neither to a particular affirmative nor to a universal affirmative. Because our statement 'Some animal is not a human' for example is a true particular affirmative, and if it were converted by contraposition, our statement 'Some human is not an animal' would be true, but this is absolutely false, otherwise the thing and its opposite would coexist in one thing, because the more general is necessarily true of the more specific. And so in every example where the contradictory of the predicate is more specific than the subject. And from this is our statement 'Some moon is not eclipsed at the time of quadrature' for it is true while our statement 'Some eclipsed is not a moon' is false by possibility as before. Then we chose the particular in conversion because it is the customary practice, since the particular affirmative only converts to itself when it converts, and because if the particular is not true, the universal is not true a fortiori, unlike the direct conversion. And it has preceded shortly.
+Source pages p. 333
+
+Commentary
+This passage is an expansion of a rule about contraposition. It begins by stating that a particular affirmative proposition cannot be contraposed to either a particular or universal affirmative. The reason is shown by a counterexample: 'Some animal is not human' is true, but its contrapositive 'Some human is not animal' is false, since every human is an animal. If it were true, the more general (animal) would not always apply to the more specific (human), leading to a contradiction. Another example from astronomy: 'Some moon is not eclipsed at quadrature' is true, but its contrapositive 'Some eclipsed is not a moon' is false because all eclipsed bodies are moons necessarily. The author then notes that they chose the particular form in conversion because it is the standard, and because if the particular contrapositive is false, the universal contrapositive is also false a fortiori.
+
+Key Terms
+عكس النقيض
+موجبة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the particular affirmative 'Some animal is not human' fail to convert by contraposition?
+A) Because the universal affirmative is the only convertible form.
+B) Because the contrapositive would be false, as every human is an animal.
+C) Because the predicate is more specific than the subject.
+D) Because the conversion requires a modal condition.
+
+Key Takeaway
+Particular affirmatives cannot be contraposed because the resulting proposition would often be false, especially when the negation of the predicate is more specific than the subject.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider the proposition 'Some fasting is not obligatory' (in Ramadan for certain travelers). Attempt to contrapose it and check whether the result holds. Explain why or why not.
+?
+Task 2: Identify a particular affirmative proposition from a fiqh text (e.g., 'Some sales are not valid'). Test whether its contrapositive would be true. Use the condition from this lesson to determine validity.
+
+Pages p. 333 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 333
+Module 9 · Lesson 111
+Next →
+Immediate Inference
+intermediate
+8 min
+Temporal Propositions and Contraposition Failure
+Author demonstrates that the nine temporal propositions do not convert by contraposition.
+
+Learning Objective
+By the end of this lesson, you will be able to test whether a temporal proposition can be converted by contraposition using the specificity rule.
+
+Core Idea
+Even the most specific temporal fails contraposition; so all nine fail.
+
+Temporal propositions (time-specific modal statements) are a special class in Mantiq. The author demonstrates that none of the nine temporal proposition types convert by contraposition. The proof uses the most specific temporal as a litmus test: if that one fails, the rest necessarily fail too, because the general includes the specific.
+
+Guided Path
+1
+Identify the specific temporal proposition
+In the example, the temporal proposition is 'Necessarily, every moon is not eclipsed at the time of quadrature' – a universal negative temporal. Note it is true at that specific time but not perpetually.
+The temporal quantifier 'at time T' is crucial.
+2
+Construct its contrapositive
+The contrapositive of 'Every S is not P at T' is 'Some non-P is not non-S' or equivalently 'Some P is S'? Actually, standard contraposition of 'All S are not P' (E) is 'Some not-P are not S' (O). Write it: 'Some eclipsed is not a moon, by general possibility'.
+The contrapositive is an O proposition with possibility modality.
+3
+Check the truth of the contrapositive
+The contrapositive claims that some eclipsed object is possibly not a moon. But its contradictory 'Every eclipsed is a moon necessarily' is true. So the contrapositive is false.
+The contradictory being true shows the contrapositive false.
+4
+Apply the specificity rule
+If the most specific temporal (al-waqtiyya) fails contraposition, then all more general temporal propositions also fail, because they include the specific case.
+The commentator references a similar point about negatives in direct conversion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: وكذلك التسع الى قوله: لا تنعكس و ذلك بدليل التخلف في مادة كمامر في العكس المستوى آنها و بيانه ان الوقتية التى هى اخصها قد تصدق بدون العكس فانه يصدق قولنا : بالضرورة كل قمر ليس بمنخسف وقت التربيع لا دائماً مع كذب قولنا بعض المنخسف ليس بقمر بالامكان العام لصدق نقيضه وهو: كل منخف قمر بالضرورة و اذا لم ينعكس الاخص لم ينعكس الاعم لاستلزامه اياه كمامر من المحشى فى السوالب فى العكس المستوى فتذكر. (میرزا محمد علی)
+His statement: 'And likewise the nine' up to his statement: 'do not convert' — and that is by the evidence of non-concomitance in matter, as occurred in the direct conversion there. Its explanation is that the temporal proposition, which is the most specific of them, may be true without its converse, for our statement 'Necessarily, every moon is not eclipsed at the time of quadrature, not perpetually' is true while our statement 'Some eclipsed is not a moon, by general possibility' is false, because its contradictory 'Every eclipsed is a moon necessarily' is true. And when the specific does not convert, the more general does not convert, because it entails it, as occurred from the commentator in the section on negatives in direct conversion, so remember.
+Source pages p. 333
+
+Commentary
+This passage elaborates on a claim that the nine types of temporal propositions (al-tis'u) do not convert by contraposition. The evidence is that the most specific temporal proposition, the 'temporal' (al-waqtiyya), can be true without its contrapositive. The example: 'Necessarily, every moon is not eclipsed at the time of quadrature' is true as a temporal proposition (it is true at that time but not perpetually). Its contrapositive 'Some eclipsed is not a moon, by general possibility' is false, because its contradictory 'Every eclipsed is a moon necessarily' is true. Thus, the failure of the specific temporal to convert implies the failure of the more general temporal propositions, because the general includes the specific.
+
+Key Terms
+وقتية (waqtiyya): temporal proposition
+عكس النقيض: contraposition
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the evidence that temporal propositions do not convert by contraposition?
+A) The specific temporal can be false when its contrapositive is true.
+B) The specific temporal can be true while its contrapositive is false.
+C) They are all universal, and universals do not convert.
+D) They are all negative, and negatives convert differently.
+
+Key Takeaway
+Temporal propositions do not convert by contraposition because the most specific temporal can be true while its contrapositive is false.
+
+How This Lesson Applies — to MY Life?
+?
+Given the temporal proposition 'Necessarily, every fire is not cold at the moment of ignition', construct its contrapositive and test whether it holds by checking the truth of the original and the contrapositive.
+?
+In a debate about the eternity of the world, propose a temporal proposition and show that its contrapositive fails, illustrating why temporal propositions cannot be used in certain inference patterns.
+
+Pages p. 333 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 333
+Module 9 · Lesson 112
+Next →
+Immediate Inference
+intermediate
+5 min
+Four Convertible Types by Contraposition
+Author lists the four types of propositions that do convert by contraposition.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which types of propositions are convertible by contraposition and explain the special case of specific propositions.
+
+Core Idea
+Only perpetual, general, and specific propositions can be validly converted by contraposition.
+
+In this passage, the author lists the types of propositions that yield valid conversions by contraposition. Knowing which propositions convert is essential for correctly applying immediate inferences in logical arguments, especially in Islamic sciences where temporal nuances matter. The commentator adds a crucial refinement about specific propositions.
+
+Guided Path
+1
+Identify the three pairs of convertible propositions
+The text lists three pairs: two perpetual, two general, two specific. Note that each pair consists of a universal and particular proposition of that type.
+Perpetual means 'at all times', general means 'in most cases', specific means 'at a particular time'.
+2
+Recall the standard types of propositions
+Propositions are classified by duration: perpetual (دائم), general (عام), specific (خاص). Each has a universal and particular form.
+This classification is common in Islamic logic when temporal conditions affect truth value.
+3
+Understand the special case of the two specific propositions
+The commentator notes that specific propositions convert to conventional ('urfiyya) propositions, not to perpetual ones. This means their contrapositive holds in a customary sense, not for all time.
+Conventional propositions are those that are true under normal circumstances, allowing exceptions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهى : الدائمتان والعامتان والخاصتان ولا يخفى ان الخاصتين ههنا تنعكسان الى عرفية لا دائمة فى البعض ايضاً لما ذكر ثمة. (ميرزا محمد على)
+They are: the two perpetual, the two general, and the two specific. And it is not hidden that the two specific here convert to conventional (propositions), not perpetual, in some parts as well, due to what was mentioned there.
+Source pages p. 333
+
+Commentary
+This passage is a brief enumeration of the types of propositions that do convert by contraposition. It states that the convertible ones are the two perpetual (al-da'imatani), the two general (al-'ammatani), and the two specific (al-khassatani). The commentator notes that the two specific propositions, in this context, convert to conventional ('urfiyya) propositions, not perpetual (da'ima), also in some cases, as mentioned elsewhere.
+
+Key Terms
+دائمتان
+عامتان
+خاصتان
+عرفية
+
+Key Terms from Source Passage
+
+Checkpoint
+How many types of propositions are listed as convertible by contraposition in the passage?
+A) Two
+B) Four
+C) Six
+D) Nine
+
+Key Takeaway
+The convertible types are perpetual, general, and specific propositions; specific ones yield conventional (not perpetual) contrapositives.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following proposition is perpetual, general, or specific: 'Every transaction that involves riba is forbidden perpetually.' Then determine if it converts validly and state the type of the contrapositive.
+?
+Take the specific proposition 'During the Battle of Badr, fighting was allowed on that day.' Write its contrapositive by conversion and explain whether the result is perpetual or conventional.
+
+Pages p. 333 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 333
+Module 9 · Lesson 113
+Next →
+Immediate Inference
+intermediate
+5 min
+Negative Propositions Convert Only to Particular Negative by Contraposition
+Author proves that negative propositions convert only to particular negative by contraposition.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the contrapositive of any negative categorical proposition and determine whether it is universal or particular.
+
+Core Idea
+Negative propositions contraposit only to particular negatives, never universal.
+
+In immediate inference, contraposition (ʿaks al-naqīḍ) is a powerful tool. But it has a key constraint: negative propositions, whether universal or particular, convert only to particular negative contrapositives. This lesson unpacks why—and what the logical consequence is for the more specific and more general terms.
+
+Guided Path
+1
+Identify the original proposition
+Determine whether it is a universal negative (e.g., 'No S is P') or particular negative (e.g., 'Some S is not P'). In the passage, examples are 'Nothing of man is a stone' (universal) and 'Some animal is not a human' (particular).
+2
+Form the contrapositive
+Replace the subject and predicate with their contradictories and swap them. For 'No S is P', the contrapositive is 'Some non-P is not non-S'. For 'Some S is not P', it is 'Some non-P is not non-S' as well.
+The resulting proposition is always particular negative.
+3
+Test with a universal example
+Take 'Nothing of man is a non-animal' (i.e., 'Every man is an animal'). Its contrapositive would be 'Some non-animal is not a non-man'. But the author shows this is false because 'animal' is more general than 'man'. So the universal contrapositive fails.
+This is the key insight: the subject may be more specific than the contradictory of the predicate.
+4
+Recognize the logical condition
+The contrapositive is true only when the contradictory of the predicate is not more general than the subject. In negative propositions, this condition is not always met, so only the particular form is guaranteed.
+The truth of the particular contrapositive is obvious by necessity, as explained.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يعنى ان السالبة سواء كانت كلية نحو: لاشيء من الانسان بحجر او جزئية نحو بعض الحيوان ليس بانسان انما تنعكس في عكس النقيض الى السالبة الجزئية لا الى السائبة الكلية. اما صدق السالبة الجزئية، فظاهر ضرورة انه لما نفى المحمول عما صدق عليه الموضوع كلاً او بعضاً فلم يصدق المحمول على افراد الموضوع فى الجملة فيصح سلب نقيض الموضوع عن بعض ما صدق عليه نقيض المحمول، مثل أن يقال بعض اللاحجر ليس بلاانسان : و اما عدم صدق الكلية، فلانه قد يكون الموضوع فى الاصل اخص ونقيض المحمول اعم كما في قولنا : لاشيء من الانسان بلا حيوان فان نقيض المحمول وهو الحيوان اعم من الموضوع و هو الانسان فلو عكست القضية كلية يلزم سلب نقيض الاخص عن عين الاعم كلياً و هو باطل اذيلزم منه أن لا يكون الاعم اعم فان الاعم لو لم يوجد مع نقيض الاخص فيكون مع الاخص دائماً ولا يوجد بدونه والحال الاعم هو ما يوجد بدون الاخص في الجملة، فقوله: «الجواز ان يكون ... بيان للجزء السلبي من الحصر المذكور و اما الجزء الايجابی بدیهی کمامر عبدالرح. و ذلك لانه لو جاز، لزم ان يكون الاخص صادقاً على جميع ما صدق عليه الاعم والالزم ان في عكس النقيض ارتفاع النقيضين هف. (محمد على)
+He means that the negative, whether universal like 'Nothing of man is a stone' or particular like 'Some animal is not a human', only converts by contraposition to a particular negative, not to a universal negative. As for the truth of the particular negative, it is obvious of necessity: because when the predicate is negated of what the subject applies to, either wholly or partly, the predicate is not true of the individuals of the subject at all, so it is valid to negate the contradictory of the subject of some of what the contradictory of the predicate applies to, like saying 'Some non-stone is not a non-human'. As for the universal negative not being true, it is because the subject in the original may be more specific and the contradictory of the predicate more general, as in our statement 'Nothing of man is a non-animal', for the contradictory of the predicate, which is animal, is more general than the subject, man. So if the proposition were converted universally, it would necessitate negating the contradictory of the more specific from exactly the more general universally, which is false, because it would necessitate that the more general is not more general. For if the more general did not exist with the contradictory of the more specific, then it would always exist with the more specific and not exist without it, but the more general is that which exists without the more specific at times. His statement 'The possibility that...' is an explanation of the negative part of the mentioned restriction, and the affirmative part is obvious as mentioned by Abd al-Rahman. And that is because if it were permissible, it would necessitate that the more specific is true of all that the more general is true of, and the consequent is that in contraposition the two contradictories rise.
+Source pages p. 333
+
+Commentary
+This passage explains the rule of contraposition for negative propositions. It first states that both universal and particular negatives convert only to a particular negative, not a universal negative. The truth of the particular negative contrapositive is explained: since the original proposition negates the predicate from all or some of the subject, the predicate does not apply, so we can negate the contradictory of the subject from some of what the contradictory of the predicate applies to. For example, 'Nothing of man is a stone' yields 'Some non-stone is not a non-human'. However, the universal negative contrapositive is not always true because the subject may be more specific than the contradictory of the predicate. Example: 'Nothing of man is a non-animal' (i.e., 'Every man is an animal'). The original subject 'man' is more specific than 'animal' (the contradictory of 'non-animal'). If we converted to a universal negative, we would get 'Nothing of animal is a non-man', which is false because some animals are not men. The logic: if the universal contrapositive were true, the more general (animal) would never exist without the more specific (man), but it does. The commentator adds that the possibility mentioned earlier explains the negative part of the restriction, and the affirmative part is obvious.
+
+Key Terms
+سالبة
+نقيض
+عكس النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the universal negative 'Nothing of man is a non-animal' not convert to a universal negative by contraposition?
+A) Because the subject is more general than the predicate's contradictory.
+B) Because the predicate's contradictory is more general than the subject.
+C) Because the predicate is more specific than the subject.
+D) Because the proposition is actually affirmative.
+
+Key Takeaway
+Negative propositions contraposit only to particular negatives, because the more specific subject can be contained in the more general contradictory of the predicate.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'No substance is an accident' (universal negative). Write its contrapositive and determine whether it is universal or particular.
+?
+Explain why the proposition 'No accident is a substance' does not produce a universal negative contrapositive, using the reasoning from the passage about more specific and more general terms.
+
+Pages p. 333 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 334
+Module 9 · Lesson 114
+Next →
+Immediate Inference
+intermediate
+10 min
+The Role of the Original Judgment in Conversion Proof
+Author clarifies how the original judgment yields the required conclusion in the conversion proof.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the original judgment in a conversion proof by instantiation to derive the converse proposition.
+
+Core Idea
+Conversion preserves truth by assuming the original judgment and instantiating a specific individual.
+
+In the proof of conversion (al-'aks), logicians rely on the original judgment (hukm al-asl). This passage from the hashia clarifies how a specific individual is assumed to derive the converse. Understanding this proof structure is essential for validating immediate inferences in Islamic logic.
+
+Guided Path
+1
+Recognize the original judgment
+Identify the proposition being converted. In the passage, the original is 'some J is not B as long as J' (a particular negative with a temporal condition). This is the premise assumed true.
+The original judgment is taken as given; its truth is not questioned in the proof.
+2
+Assume a specific individual satisfying the subject condition
+Assume an individual D that is J (e.g., a specific instance of the subject). This instantiation allows us to apply the original judgment to a concrete case.
+D is a particular, not a universal; it must be a member of the subject class (J).
+3
+Apply the original judgment to the individual
+Since D is J, the original judgment 'some J is not B as long as J' implies that D, being one of those J, is not B as long as J. So we derive 'D is not B as long as J'.
+This step uses the principle of subsumption: what holds for the class holds for its members.
+4
+Derive the converse conclusion
+From 'D is not B as long as J', we need to reach the converse 'some B is not J as long as B'. The passage indicates that after further steps, from 'D is not J as long as B' we get the required result. This shows how the original judgment and instantiation yield the converted proposition.
+The converse is derived by symmetrically applying the proof to the new subject-predicate arrangement.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله : و قد كان حكم الأصل انه ليس ب مادام ج» اى وقد كان حكم الاصل ان د ليس ب مادام ج وذلك لما عرفت ان بعضج الذى هو وصف الموضوع فى الاصل وكان قد حكم عليه بانه ليس ب مادام ج قد فرض د فيكون دليس ب مادام ج و هو المطلوب و على هذا القياس قوله بعيد هذا وقد كان حكم الأصل انه ب مادام ج. (محمد علی). یعنی : لما ثبت ان د ليس ج مادام ب ثبت ان بعض ب ليس ج مادام ب لما ذكر آنفاً ان (عبدالرحيم)
+His statement: 'And the original judgment was that it is not B as long as J' — meaning that the original judgment was that D is not B as long as J. That is because you know that some J, which is the description of the subject in the original, and it was judged that it is not B as long as J, and D was assumed, so D is not B as long as J, which is the required. And by analogy, his statement after this: 'And the original judgment was that it is B as long as J.' (Muhammad Ali). Meaning: when it is established that D is not J as long as B, it is established that some B is not J as long as B, due to what was mentioned earlier that... (Abd al-Rahim).
+Source pages p. 334
+
+Commentary
+This passage explains how the original judgment is used in the conversion proof. The original judgment (حكم الأصل) is the proposition we start with: some J is not B as long as J. Then we assume a specific individual D that is J. Since the original judgment applies to all J, it applies to D, so D is not B as long as J. This gives the required result that some J (i.e., D) is not B as long as J. The second part, after establishing the converse, states that from 'D is not J as long as B' (which is derived), we can conclude 'some B is not J as long as B'. This is the converse proposition.
+
+Key Terms
+حكم الأصل
+عكس
+مادام
+
+Key Terms from Source Passage
+
+Checkpoint
+In the conversion proof from the passage, what is the role of the individual D?
+A) D is the predicate of the converse.
+B) D is an arbitrary individual assumed to be a member of the subject class.
+C) D is the original proposition.
+D) D is a counterexample to the conversion.
+
+Key Takeaway
+The original judgment serves as the premise in the conversion proof; by instantiating a specific subject, the converse is derived.
+
+How This Lesson Applies — to MY Life?
+?
+Given the original judgment 'Every knower is alive as long as he is a knower', use the instantiation method to derive the converse. Assume a specific individual Zayd who is a knower, then conclude Zayd is alive as long as he is a knower, hence some knower is alive. What is the converse conclusion?
+?
+Check the conversion of 'No human is immortal'. Is the converse valid? Use the proof technique from the passage.
+
+Pages p. 334 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 334
+Module 9 · Lesson 115
+Next →
+Immediate Inference
+intermediate
+7 min
+The Conditions and Role of Hypothesis (Iftiraḍ) in Logical Proof
+Author defines hypothesis, its conditions, and its relation to reductio proof.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the conditions for a valid hypothesis (iftiraḍ) and explain why it is not an independent proof but a preparation for reductio.
+
+Core Idea
+Hypothesis alone does not prove; it only prepares the material for the real proof by reductio.
+
+This passage from the logic tradition explains the method of hypothesis (iftiraḍ), a technique used to establish immediate inferences like conversion by contradiction. You will learn what makes a hypothesis valid, how it functions in proofs, and why it is merely a preliminary step for reductio ad absurdum.
+
+Guided Path
+1
+Identify the condition for a valid hypothesis
+The hypothesized individual must be appropriate (munāsib) to the subject. For example, you cannot hypothesize 'some human' as a stone. Look for examples and non-examples in the text.
+The rule is that the hypothesized entity must be characterized by both the subject and predicate descriptions.
+2
+Understand the function of hypothesis in conversion proofs
+The author shows how hypothesis blocks an opponent's objection: 'from where did you know that some J is D?' The point is that the opponent already admits a referent for the quantified statement.
+3
+Distinguish hypothesis from reductio
+The author asks whether hypothesis is an independent proof. The answer: it is only a preparation (tamhīd) for reductio. The real proof is the reductio, which may be explicit or implicit.
+This is a key critical refinement in the logical tradition.
+4
+Analyze the marginal notes
+Muhammad Ali and Mirza Muhammad Ali add that hypothesis is not the cause of the truth of the description but the cause of its restriction to a specific mode. Note the debate about possibility vs. actuality.
+This shows how later commentators refine the role of hypothesis.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم ان ما يفرض ذات الموضوع لابد ان يكون مما يناسبها مثل ان يكون فرداً او صنفاً من نوعها او نوعاً من جنسها أو غير ذلك مما يناسبها الا ترى انه لا يصح ان يفرض بعض الانسان حجراً ولا بعض الحيوان جسماً غير نامى والا كثيراً ما يتخلف عنه احد الوصفين اعنى: وصف الموضوع او المحمول وضوابط الفن ينبغي ان تكون كلية وبالجملة لابد من ملاحظة اتصافه بكلا الوصفين. ثم لا يخفى انه يكفى فى دليل الافتراض ان يقال: ان عكس قولنا بعض ج ليس ب مادام ج لا دائماً هو قولنا : بعض ب ليس ج مادام ب لادائماً ، لان بعض ج، د الى آخر المقدمات ولا حاجة الى تفخيم قولهم انا نفرض ذات الموضوع كذا، الا انهم ذكر وا هذا لدفع قول الخصم انك من اين عرفت أن بعض ج، د؟ فالمقصود منه انك ايها الخصم تدرى ان لهذا البعض مصداقاً فى نفس الامر فتفرضه هذا الفرد الخاص و لولم ترض به فما يقوم مقامه. وايضاً لما جرى عادة القوم بانهم يمثلون بنحوج، د، من احرف الهجاء للاختصار فلوقالوا بعض ج د و د ب كان للخصم ان يقول : من اين هذا؟ فرما كان مثلاً. ج ، د فقولهم انا نفرض ذات الموضوع كذا، قائم مقام مثلاً في قولهم: ج، كذا، قائم مقام مثلاً فى قولهم: ج د مثلاً ولو جرى عادتهم بان يمثلوا بنحو: بعض الكاتب متحرك الاصابع مادام كاتباً لا دائماً فربما لم يحتاجوا إلى قولهم: ولهم لانا نفرض ذات الموضوع كذا.
+ثم هل الافتراض دليل مستقل في اثبات المطلوب اولابد من انضمام دليل الخلف اليه؟ الظاهر انه تمهيد لمادة الخلف فالمتشبث به في الحقيقة هو دليل الخلف الا انه قد يكون مصرحاً وقد يكون مطوياً فاحفظ هذا. (عبد الرحيم)
+فانه قد حكم فيه بان بعض ج ب و قد فرض هنا بعض ج، د فيكون د، ب ايضاً وهو المطلوب (محمد علی)
+هذا ليس علة لصدق ج على د مقيداً بهذه الجهة على ما يسبق الى الوهم فان صدق وصف الموضوع على ذاته ضروري لا يحتاج الى برهان بل هو علة لتقييده بهذه الجهة خاصة فانه قد اختلف في ان اتصاف ذات الموضوع بالوصف العنوانى هل هو بالامكان او بالفعل؟ وقد سبق مفصلا في شرح قوله: «و لا عكس للممكنتين» ولما كان المختار هو الثانى استدل به فى اثبات المطلوب فتأمل. (میرزا محمد علی)
+Know that what is hypothesized as the essence of the subject must be something suitable to it, such as being an individual or a species of its type, or a genus of its genus, or other than that which is suitable to it. Do you not see that it is not valid to hypothesize some 'human' as a stone, nor some 'animal' as a non-growing body? Otherwise, often one of the two descriptions, namely the description of the subject or the predicate, would be absent from it. And the rules of the art should be universal. In summary, it is necessary to observe its being characterized by both descriptions. Then it is not hidden that in the proof by hypothesis it suffices to say: the converse of our statement 'some J is not B as long as J (not always)' is our statement 'some B is not J as long as B (not always)', because some J is D, etc. to the end of the premises. And there is no need to exaggerate their saying 'we hypothesize the essence of the subject as such', except that they mentioned this to repel the opponent's statement 'from where did you know that some J is D?' So the intent is that you, O opponent, know that this 'some' has a referent in reality, so you hypothesize it as this particular individual, and if you are not satisfied with it, then what takes its place. Also, because the custom of the people is that they exemplify with something like J, D from the letters of the alphabet for brevity. If they said 'some J is D' and 'D is B', the opponent could say 'from where is this?' So their saying 'we hypothesize the essence of the subject as such' stands in place of an example in their saying 'J, such-and-such', standing in place of an example in their saying 'J D', for example. And if their custom was to exemplify with something like 'some writer moves his fingers as long as he is writing (not always)', perhaps they would not need their saying 'and we hypothesize the essence of the subject as such'. Then, is hypothesis an independent proof in establishing the required, or must it be combined with the proof by reductio? Apparently, it is a preparation for the matter of reductio, so the one holding on to it in reality is the proof by reductio, except that it may be explicit or implicit. So memorize this. (Abd al-Rahim) For it has been ruled in it that some J is B, and here some J is D has been hypothesized, so D is B as well, and that is the required. (Muhammad Ali) This is not a cause for the truth of J about D restricted by this mode, as might occur to the mind. For the truth of the description of the subject about its essence is necessary, not needing proof. Rather, it is a cause for restricting it by this mode specifically. For it has been disputed whether the characterization of the essence of the subject by the attributive description is by possibility or actuality? And it has been detailed previously in the explanation of his statement: 'And there is no converse of the two possible propositions'. And since the chosen view is the second, he used it to establish the required, so contemplate. (Mirza Muhammad Ali)
+Source pages p. 334
+
+Commentary
+This passage defines and discusses the method of hypothesis (ifrāḍ) in logical proofs, particularly for establishing immediate inferences like the conversion of particular negatives. The author begins by stating a crucial condition: whatever is hypothesized as the essence of the subject must be appropriate to that subject. For example, one cannot hypothesize 'some human' as a stone, because a stone is not a suitable individual or species of 'human'. If the hypothesis were inappropriate, the description (subject or predicate) would often be absent. The rule must be universal. In summary, the hypothesized entity must be characterized by both descriptions (subject and predicate) that are in question. Then the author explains that in the proof by hypothesis (dālīl al-ifrāḍ), it suffices to state the converse in a specific form, using letters as placeholders. For instance, to prove the converse of 'some J is not B as long as J', one says 'some B is not J as long as B', relying on the fact that some J is D (the hypothesized individual). The longer phrase 'we hypothesize the essence of the subject as such' is used only to counter an opponent's objection that the existence of such an individual is unknown. The point is that the opponent himself admits that the proposition has a referent in reality, and that referent can be hypothesized. The author then raises a key question: is the hypothesis an independent proof, or must it be combined with reductio ad absurdum (dalīl al-khalf)? He answers that hypothesis is merely a preparation for reductio; the real proof is the reductio, though it may be explicit or implicit. The marginal comments elaborate: Muhammad Ali notes that in the proof, it is already ruled that some J is B, and hypothesizing some J as D leads to the conclusion that D is B, which is the required result. Mirza Muhammad Ali adds a subtle point: the hypothesis is not the cause of the truth of the description (J) applying to the hypothesized individual (D); that truth is necessary and self-evident. Rather, the hypothesis is the cause for restricting the description to this specific mode (i.e., as long as it is D). This relates to a previous discussion on whether the subject's characterization is by possibility or actuality; the chosen view (actuality) is used to establish the required.
+
+Key Terms
+الافتراض
+ذات الموضوع
+دليل الخلف
+عكس النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the primary purpose of hypothesis (ifrāḍ) in proving the conversion of a particular negative?
+A) To provide an independent proof that does not require reductio.
+B) To prepare the matter for the reductio proof (dalīl al-khalf).
+C) To show that the subject's description is necessarily true.
+D) To replace the need for universal rules in the art.
+
+Key Takeaway
+Hypothesis (ifrāḍ) is a preparatory step for reductio proof, not an independent logical proof.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'some contract is not valid' (بعض العقود ليس بصحيح), hypothesize an appropriate individual or species that satisfies the conditions. Then explain how the conversion ('some invalid thing is a contract') would be proved according to this passage, noting the role of hypothesis and the need for reductio.
+?
+Identify in the passage the exact phrase where the author states that hypothesis is not an independent proof. Then, in your own words, construct a brief argument showing why hypothesis alone is insufficient for establishing a logical conclusion, using the example of 'some J is not B'.
+
+Pages p. 334 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 335
+Module 9 · Lesson 116
+Next →
+Immediate Inference
+advanced
+8 min
+Critique of Proof for Conversion in Particular Negatives
+Critique of a proof for conversion in particular negatives
+
+Learning Objective
+By the end of this lesson, you will be able to explain why the proof for conversion in particular negatives requires both non-occurrence and supposition.
+
+Core Idea
+Conversion in particular negatives is not proven by supposition alone—it needs the combination of non-occurrence and supposition.
+
+In this marginal note, the commentator Muhammad Ali refines an earlier understanding of how to prove the conversion of two properties (khassatayn) in a particular negative proposition. Some thought that mere supposition (iftiraḍ) was sufficient, but the commentator insists that one must combine supposition with the consideration of non-occurrence (takhalluf). Understanding the interplay of these two elements is crucial for a precise application of conversion rules in Islamic logic.
+
+Guided Path
+1
+Identify the claim being critiqued
+The claim is that the conversion of two properties in a particular negative proposition is proven by the proof of supposition alone. This is indicated by the phrase 'fa-fham' (so understand).
+2
+Recognize the author's correction
+The commentator says 'but it is not like that, rather by the combination of non-occurrence and supposition.' Note the shift from a single method to a compound method.
+3
+Understand the two elements: non-occurrence (takhalluf) and supposition (iftiraḍ)
+Supposition is assuming a hypothetical instance; non-occurrence is the failure of one property to hold. The combination means both must be considered to prove the conversion.
+4
+Apply to an Islamic logic example
+Consider a particular negative proposition from fiqh, e.g., 'Some contracts are not valid.' To test its conversion, one must both suppose a case where the subject does not have the property and check if the property fails for the predicate.
+This step requires you to think about how the two methods work together.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يمكن أن يكون قوله: «فافهم» اشارة الى ان المدعى انعكاس الخاصتين في السالبة الجزئية الى العرفية الخاصة بدليل الافتراض والحال انه ليس كذلك، بل باجتماع التخلف والافتراض.
+It is possible that his statement 'so understand' is an indication that the claim is the conversion of the two properties in the particular negative to the special conditional by the proof of supposition, but it is not like that, rather by the combination of non-occurrence and supposition.
+Source pages p. 335
+
+Commentary
+This is a marginal note from a commentator (Muhammad Ali) critiquing a claim about conversion. The passage explains that the author's use of 'fafham' signals that the intended proof for the conversion of two properties (khāṣṣatayn) in a particular negative proposition (sāliba juz'iyya) to a special conditional (ʿurfiyya khāṣṣa) is not through the proof of supposition (dalīl al-iftirāḍ) alone, as might be understood, but rather through combining non-occurrence (takhalluf) and supposition. This is a technical point in the theory of conversion (ʿaks). The commentator is refining an earlier misinterpretation.
+
+Key Terms
+انعكاس
+السالبة الجزئية
+العرفية الخاصة
+التخلف
+الافتراض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator, what is the correct method for proving the conversion of two properties in a particular negative proposition?
+A) Supposition alone
+B) Non-occurrence alone
+C) Combining non-occurrence and supposition
+D) Using a universal affirmative premise
+
+Key Takeaway
+The proof for conversion in particular negatives requires both non-occurrence (takhalluf) and supposition (iftiraḍ), not just one.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a simple example of a particular negative proposition from Islamic law (e.g., 'Some sales are not valid') and explain what would be needed to prove its conversion if the claim were about two properties. Show how you would combine supposition and non-occurrence.
+?
+Critique the following statement: 'The conversion of a particular negative is proven by supposing an instance where the subject is not the predicate.' Use the lesson's insight to explain why this is insufficient.
+
+Pages p. 335 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 335
+Module 9 · Lesson 117
+Next →
+Immediate Inference
+intermediate
+5 min
+Proof that some not-B is J from premises that J is not B and D is J
+Proof and explanation of an inference from two premises to a conclusion
+
+Learning Objective
+By the end of this lesson, you will be able to construct an immediate inference from a particular negative proposition and an auxiliary instance to derive its existential converse.
+
+Core Idea
+An instance bridges the gap between a particular negative and its converse with existential support.
+
+In this passage, the commentator shows how from the statement 'some J is not B' and the supposition 'some J is D', we can derive 'some not-B is J'. The key logical principle is that when two descriptions separate in an individual, they can still be predicated of each other in some respect. We will walk through this proof step by step, formalize the inference, and see how it applies in Islamic sciences.
+
+Guided Path
+1
+Identify the given premises
+The first premise is 'some J is not B in actuality' (حكم فيه ان بعض ج ليس ب بالفعل). The second premise is a supposition: 'some J is D' (بعض ج، د). Note that 'D' is an arbitrary term that applies to that same J.
+The same individual is J, not B, and D.
+2
+Recognize the reasoning
+The commentator says: 'so if we suppose some J is D, then that (some J) is also not B, and that is the desired conclusion.' Actually, the conclusion is 'some not-B is J', which follows because the individual that is J and D is also not B, providing an example of a not-B that is J.
+3
+Apply the separation principle
+The justification is: 'when two descriptions separate in an individual, it is correct for each to be truthfully predicated of the other in some respect.' Here the descriptions 'being J' and 'being not B' separate in D (since D is J but not B). Therefore, it is correct to say 'some J is not B' (given) and 'some not-B is J' (new).
+The separation principle allows the inference without assuming anything else.
+4
+Formalize the inference
+We can write: (1) ∃x (Jx ∧ ¬Bx) [some J is not B]. (2) Suppose ∃x (Jx ∧ Dx) [some J is D]. Then there exists x such that Jx, ¬Bx, and Dx. Therefore, ∃x (¬Bx ∧ Jx) [some not-B is J]. This is valid because we are using the same individual.
+This is not a standard conversion but an existential inference.
+5
+Note the qualification 'in some respect'
+The principle says the predication holds 'في الجملة' (in some respect), meaning the inference is not universal but particular. The conclusion is a particular proposition, not a universal one.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اذ قد حكم فيه ان بعض ج ليس ب بالفعل فاذا فرض بعض ج، د فيكون هو ايضاً كذلك وهو المطلوب. یعنی: انه بعد ما ثبت ان د، ج بالفعل وليس ب ثبت ان بعض ما ليس ب، ج بالفعل لما سبق آنفاً من ان الوصفين اذا تفارنا في ذات يصح صدق كل منهما على الآخر في الجملة.
+Since it has been ruled in it that some J is not B in actuality, so if we suppose some J is D, then that (some J) is also not B, and that is the desired conclusion. That is: after it is established that D is J in actuality and is not B, it is established that some of what is not B is J in actuality, due to what was mentioned earlier: that when two descriptions separate in an individual, it is correct for each to be truthfully predicated of the other in some respect.
+Source pages p. 335
+
+Commentary
+This passage contains two marginal comments (by Mirza Muhammad Ali and Muhammad Ali) that together present a logical proof. The first comment states the argument: it is ruled that some J is not B in actuality. Then if we suppose that some J is D, then that same some J is also not B, leading to the conclusion that some not-B is D? Actually the conclusion here is that the same J is not B, but the comment says 'that is the desired conclusion' which likely is that some not-B is J, as the next comment explains. The second comment expands: after it is established that D is J in actuality and not B, it follows that some not-B is J in actuality. The justification is a principle: when two descriptions (here 'being J' and 'being not B') separate in an individual (i.e., one applies and the other does not), it is still possible for each to be predicated of the other in some respect (i.e., some J is not B, and some not-B is J). This is an example of conversion by subalternation or existential import. The proof uses a hypothetical instance: suppose a particular J is also D (an arbitrary predicate that is true of that J), then that individual remains not B, so we have an example of a not-B that is J (since it is J and not B). Thus the conclusion is valid.
+
+Key Terms
+بالفعل
+الوصفين
+تفارنا
+في الجملة
+
+Key Terms from Source Passage
+
+Checkpoint
+If it is established that D is J and not B, what conclusion follows according to this passage?
+A) All J is not B
+B) Some not-B is J
+C) All D is not B
+D) Some D is not J
+
+Key Takeaway
+The inference that some not-B is J can be made from the existence of an individual that is J and not B, provided an auxiliary term applies to that individual, using the principle that separated descriptions can still be predicated of each other in some respect.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Given the premises 'Some actions are not wajib' and 'Some actions are haram', derive a conclusion about haram and not-wajib following the pattern of this lesson. Identify the logical terms (J, B, D) and check if the separation principle applies.
+?
+Task 2: In a kalam debate, a mutakallim argues: 'Some existents are not temporally originated; some existents are atoms.' What conclusion follows? Write it out and verify the logical form.
+
+Pages p. 335 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 335
+Module 9 · Lesson 118
+Next →
+Immediate Inference
+beginner
+5 min
+Forward vs. Backward Inference: When Is It Valid?
+Comparison of two inference directions
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between forward and backward logical inference and determine the validity condition for each
+
+Core Idea
+Forward inference is always valid; backward inference requires mutual entailment.
+
+In logical reasoning, we often move from a cause to its effect or from a condition to its consequence. But can we go in the opposite direction? This passage from a classical commentary clarifies that forward inference (from antecedent to consequent) holds regardless of whether the consequent is broader or equal, while backward inference (from consequent to antecedent) is only valid if the two are equivalent. This distinction is essential for evaluating arguments in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the two inference directions
+The passage contrasts 'inference from antecedent (malzūm) to consequent (lāzim)' and 'inference from consequent to antecedent'. The first is forward, the second backward.
+2
+Analyze forward inference validity
+Forward inference is valid unconditionally: if the antecedent is true, the consequent must be true, whether the consequent is more general or equal in extension.
+Example: 'If it is raining, the ground is wet.' This holds even if rain is not the only cause of wet ground.
+3
+Analyze backward inference validity
+Backward inference is valid only if equality (tasāwī) holds between antecedent and consequent—i.e., they mutually entail each other.
+Without equality, you cannot conclude the antecedent from the consequent.
+4
+Apply to the historical debate
+The passage notes that the ancients (qudamā') used backward inference without establishing equality, drawing objections from later scholars. However, the current inference is forward, so the objection does not apply.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+یعنی فاذا صدق الملزوم صدق اللازم و هو المطلوب فهو استدلال من الملزوم إلى اللازم ولا يتفاوت فيه الحال بين أن يكون اللازم اعم او مساوياً بخلاف ما استدل به القدماء في اثبات مدعاهم على ما ذكر سابقاً فانه استدلال من اللازم الى الملزوم ولا يصح هذا الا اذا ثبت التساوى بينهما فما اورده المتأخرون عليهم لا يأتى هنا حتى يحتاج الى الجواب.
+That is: if the antecedent is true, then the consequent is true, and that is the desired conclusion. It is an inference from the antecedent to the consequent, and it does not vary whether the consequent is more general or equal, unlike what the ancients used to argue for their claim as mentioned earlier, for it is an inference from the consequent to the antecedent, and that is not valid unless equality is established between them. So what the later scholars objected to them does not apply here, so there is no need for a response.
+Source pages p. 335
+
+Commentary
+This marginal note by Muhammad Ali explains a key distinction in logical inference. The passage discusses two types of inference: from antecedent (malzūm) to consequent (lāzim), and from consequent to antecedent. The first type (forward inference) is always valid because if the antecedent is true, the consequent must be true, regardless of whether the consequent is more general or equal in extension. The second type (backward inference) is only valid if there is mutual entailment (equality) between antecedent and consequent. The commentator notes that the later scholars' objection against the ancients was based on the ancients using backward inference without establishing equality, but here the inference is forward, so the objection does not apply, and no answer is needed. This is a methodological refinement in argumentation.
+
+Key Terms
+الملزوم
+اللازم
+الاستدلال
+التساوى
+القدماء
+المتأخرون
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this note, when is inference from consequent to antecedent valid?
+A) Always
+B) Only when the consequent is more general
+C) Only when equality between antecedent and consequent is established
+D) Only when the antecedent is conditional
+
+Key Takeaway
+Forward inference from antecedent to consequent is always valid; backward inference requires equality (mutual entailment).
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following inference is forward or backward and state if it is valid according to the passage: 'If the prayer is valid, then wudu was performed. The prayer is valid, therefore wudu was performed.'
+?
+Give an example from Islamic law where backward inference would require equality, and explain why it might be problematic (e.g., inferring the cause from a ruling).
+
+Pages p. 335 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 335
+Module 9 · Lesson 119
+Next →
+Immediate Inference
+advanced
+10 min
+Instantiation of Conditionals via Permanence of the Original
+Proof that a conditional universal yields a particular conditional via instantiation
+
+Learning Objective
+By the end of this lesson, you will be able to derive a particular conditional conclusion from a universal conditional premise using the principle of permanence of the original.
+
+Core Idea
+Even conditional statements yield new knowledge through instantiation when anchored by a principle like permanence of the original.
+
+This marginal note by Muhammad Ali demonstrates a subtle logical move: from a universal conditional statement, we can extract a particular conditional conclusion, provided we have a specific instance that satisfies the condition. The key enabler here is the principle of 'permanence of the original' (la dawam al-asl), which assures us that something remains in its original state unless proven otherwise. This is a powerful tool in Islamic logic and legal theory, allowing us to move from general rules to specific applications.
+
+Guided Path
+1
+Identify the premise type
+The premise is a conditional proposition: 'D is not J as long as not B' (مادام ليس ب). In logical terms, this can be read as: For all x, if x is not B, then D is not J (or more exactly: whenever the condition 'not B' holds, the relation 'D is not J' obtains). Note that 'as long as' indicates a temporal condition, but here it functions as a general conditional.
+This is a universal conditional in the sense that it applies to any time/instance satisfying the condition.
+2
+Recognize the enabling principle
+The commentator invokes 'the judgment of the permanence of the original' (لا دوام الاصل). This principle states that the original state of something (here, that D is not B) continues unless there is evidence to the contrary. Since D is originally not B (as established earlier), we are certain that D currently satisfies the condition 'not B'.
+This principle is closely related to istishab in usul al-fiqh: presumption of continuity.
+3
+Apply instantiation
+Because D is a specific thing that is not B (by the permanence of the original), we can instantiate the universal conditional with D. From 'as long as not B, D is not J' and the fact that D is not B, we directly infer that D is not J. But the conclusion is not just about D; it is generalized to 'some not-B is not J' (i.e., there exists at least one thing that is not B and that is not J when not B). Since D is such a thing, the existential claim follows.
+The conclusion retains the temporal condition 'as long as not B' because the conditional relation holds for any instance where the condition obtains.
+4
+State the conclusion
+Thus we conclude: 'Some not-B is not J as long as not B' (بعض ما ليس ب ليس ج مادام ليس ب). This is a legitimate particular conditional derived from a universal conditional plus a factual instance based on the permanence principle.
+The move from universal to particular is valid here because the existential instantiation is justified by an actual instance (D) whose existence and condition are affirmed by a separate principle.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+یعنی فاذا صدق د ليس ،ج، مادام ليس بصدق بعض ما ليس ب ليس ج مادام ليس ب لما ذكر سابقاً ان د ليس ب بالفعل بحكم لا دوام الاصل .
+That is: if 'D is not J as long as not B' is true, then 'some not-B is not J as long as not B' is true, due to what was mentioned earlier: that D is actually not B by the judgment of the permanence of the original.
+Source pages p. 335
+
+Commentary
+This marginal note by Muhammad Ali presents another inference. The premise is a conditional proposition: 'D is not J as long as not B' (i.e., whenever something is not B, D is not J). The conclusion is: 'some not-B is not J as long as not B'. This is an existential generalization from the specific instance of D. The justification is that D itself is an example of something that is not B (established earlier by the principle of 'permanence of the original' (adam al-aṣl) which likely states that what is originally not B remains not B unless changed). Since D is not B, and the conditional premise says that everything that is not B is not J (or at least D is not J when not B), then the conditional conclusion for some not-B (namely D) follows. This shows how a universal conditional (if we take 'as long as not B' as the condition) can be instantiated to a particular.
+
+Key Terms
+مادام
+لا دوام الاصل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what justifies that D is actually not B?
+A) Direct observation
+B) The permanence of the original
+C) The conditional premise itself
+D) The conclusion
+
+Key Takeaway
+The permanence of the original (istishab) allows us to instantiate a universal conditional to a particular one by confirming that the condition holds for a specific instance.
+
+How This Lesson Applies — to MY Life?
+?
+Given the general rule in fiqh: 'Every sale is valid as long as its essential conditions are met' (a universal conditional). If we know that a specific sale transaction, Zayd's sale of his house, meets all conditions (by istishab of the original state of compliance), derive the particular conditional conclusion about Zayd's sale.
+?
+In kalam, the statement 'The world is temporally originated as long as it is subject to change' is a conditional. Using the permanence of the original (that the world is subject to change), infer that there exists something (the world) that is temporally originated as long as it is subject to change.
+
+Pages p. 335 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 349
+Module 9 · Lesson 120
+Next →
+Immediate Inference
+intermediate
+8 min
+Reducing the Second Figure to the First by Conversion
+Commentators explain conversion of second figure moods to first figure.
+
+Learning Objective
+By the end of this lesson, you will be able to convert any valid second figure mood to a first figure mood by applying conversion to the major or minor premise.
+
+Core Idea
+The second figure is just a converted first figure in disguise.
+
+The second figure syllogism differs from the first only in the position of the middle term. By converting the major premise, we can transform it into a first figure syllogism while preserving the conclusion. This reduction is a key technique for simplifying syllogistic arguments and ensuring their validity is recognized more directly, as demonstrated by the commentators on this passage from al-Yazdi's Hashiya.
+
+Guided Path
+1
+Identify the second figure syllogism
+Locate the major and minor premises. In the second figure, the middle term is predicate in both premises. For example: 'Every human is rational' (minor, middle: rational) and 'Nothing of the horse is rational' (major, middle: rational).
+2
+Determine which premise to convert
+To convert directly to the first figure, convert the major premise. Converting the major swaps the subject and predicate, making the middle term subject in the new major, which matches the first figure requirement.
+The minor remains unchanged if it is affirmative.
+3
+Perform simple conversion on the chosen premise
+For a universal negative premise like 'Nothing of the horse is rational', simple conversion yields 'Nothing of the rational is a horse'. For a universal affirmative like 'Every human is rational', conversion yields 'Some rational is human' (particular affirmative).
+Simple conversion preserves truth but changes quantity for universal affirmatives.
+4
+Rearrange the premises to first figure order
+After conversion, the converted premise becomes the new major, and the original minor (if affirmative) becomes the new minor. The middle term now appears as subject in the major and predicate in the minor, which is the first figure pattern.
+The conclusion may remain the same or require a final conversion to match.
+5
+Verify the conclusion follows
+Check that the new first figure syllogism produces the desired conclusion directly or after converting the conclusion. For example, from 'Every human is rational' and 'Nothing of the rational is a horse', we deduce 'Nothing of the human is a horse', which is the original conclusion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۴۸) قوله: «ليرتد إلى الشكل الاول ... :يعنى ليرتد الشكل الثاني الى الشكل الاول اذ لافرق بينهما الامن جهة ان الأوسط موضوع في كبرى الاول و محمول فى كبرى الثاني فاذا عكس الكبرى فيه بان جعل الموضوع محمولا و بالعكس يكون هو الشكل الأول بعينه مثلا اذا عكسنا الكبرى في قولنا : کل انسان ناطق ولاشيء من الفرس بناطق بقولنا : لاشيء من الناطق بفرس، يكون هو الشكل الاول و ينتج النتيجة المطلوبة وهو قولنا : لاشيء من الانسان بفرس (میرزا محمد علی) (۴۹) يعني: فتصلح لكبروية الشكل الاول . (محمد على) (۵۰) یعنی بخلاف الصغرى فى الضرب الأول والثالث فانها موجبة كمامر. (محمد على) (۵۱) قوله : والثالث ان ينعكس الصغرى صغرى فيصير شكلا رابعا . شکلا رابعاً» اى الشكل الثاني، اذ لا مخالفة بينهما الا فى ان الاوسط محمول في صغرى الثانى، موضوع في صغرى الرابع فاذا عكس الصغرى في الثاني بالعكس المستوى يصير شكلا رابعاً قطعاً. (میرزا محمد علی) (۵۲) اى وعكس الكبرى موجبة لتصلح لصغروية الشكل الأول (محمد على) (۵۳) قوله : و هذا انما هو فى الضرب (الثاني مثلاً يقال: لاشيء من الحمار بناطق و كل انسان ناطق ينتج: لاشيء من الحمار ،بانسان لانا اذا عكسنا الصغرى إلى قولنا: لاشيء من الناطق بحمار وجعلناه كبرى و كبرى القياس لا يجابه صغرى هكذا كل انسان ناطق ولاشيء من الناطق بحمار ينتج: لاشيء من الانسان بحمار وينعكس الى قولنا: لاشيء من الحمار بانسان، فيحصل ماهو المطلوب. (عبد الرحيم) (۵۴) ای و کبراه موجبة كلية تنعكس إلى الموجبة الجزئية الصالحة لصغروية الشكل الاول . (محمد علی) (۵۵)ای ان كبريهما سالبة كلية تنعكس كنفسها فلا تصلح لصغروية الشكل الاول . (محمد علی) (۵۶) اشارة الى ما تقدم في أخر مبحث عكس النقيض من انه قدبين انعكاس الخاصتين من السالبة الجزئية إلى العرفية الخاصة بدليل الافتراض. بقى هنا شيء وهو: أن كلام المصنف فى هذا المقام ليس بصريح فى المرام فان المفهوم من قوله : لينتج الكليتان سالبة كلية والمختلفتان فى الكم ايضاً سالبة جزئية بالخلف او عكس الكبرى او عکس الصغرى» حيث عطفهما بـ «او» ان انتاج كل واحد من هذه الضروب الاربعة بهذه النتايج ثابت بكل
+(48) His saying: 'to return to the first figure' means the second figure returns to the first figure, for there is no difference between them except that the middle term is subject in the major of the first and predicate in the major of the second. So if we convert the major in it by making the subject predicate and vice versa, it becomes exactly the first figure. For example, if we convert the major in our statement: 'Every human is rational and nothing of the horse is rational' to our statement: 'Nothing of the rational is a horse', it becomes the first figure and produces the desired conclusion, which is our statement: 'Nothing of the human is a horse'. (Mirza Muhammad Ali) (49) Meaning: it becomes suitable for being the major of the first figure. (Muhammad Ali) (50) Meaning: contrary to the minor in the first and third moods, for it is affirmative as passed. (Muhammad Ali) (51) His saying: 'And the third is that the minor is converted as a minor and becomes a fourth figure'—'a fourth figure' means the second figure, for there is no difference between them except that the middle term is predicate in the minor of the second, subject in the minor of the fourth. So if the minor in the second is converted by simple conversion, it becomes a fourth figure definitively. (Mirza Muhammad Ali) (52) i.e., and the major is converted affirmative to be suitable for the minor of the first figure. (Muhammad Ali) (53) His saying: 'And this is only in the second mood'. For example, 'Nothing of the donkey is rational and every human is rational' produces 'Nothing of the donkey is a human'. For if we convert the minor to our statement: 'Nothing of the rational is a donkey' and make it major, and the major of the syllogism is affirmative as minor, thus: 'Every human is rational and nothing of the rational is a donkey' produces 'Nothing of the human is a donkey', which converts to our statement: 'Nothing of the donkey is a human', so what is desired is obtained. (Abd al-Rahim) (54) i.e., and its major is a universal affirmative that converts to the particular affirmative suitable for the minor of the first figure. (Muhammad Ali) (55) i.e., both of their majors are universal negative that convert as themselves, so they are not suitable for the minor of the first figure. (Muhammad Ali) (56) A reference to what preceded at the end of the topic of conversion by contradiction, that the conversion of the two specifics from the particular negative to the particular conditional by the assumption argument has been shown. There remains something here: the author's statement in this context is not explicit regarding the intent. For what is understood from his saying: 'so that the two universals produce a universal negative, and the two differing in quantity also produce a particular negative by contradiction or by conversion of the major or conversion of the minor'—since he connected them with 'or'—is that the productivity of each of these four moods with these conclusions is established by all [methods].
+Source pages p. 349
+
+Commentary
+This passage is a series of marginal comments (hashiya) explaining how to convert moods of the second figure to the first figure by conversion of premises. (48) Mirza Muhammad Ali explains that converting the major (making subject predicate) reduces the second to the first figure, with an example involving human, horse, and rational. (49) Muhammad Ali clarifies the major becomes suitable as the first figure's major. (50) Notes that the minor in first and third moods is affirmative. (51) Mirza Muhammad Ali explains that converting the minor of the second figure yields the fourth figure (which is actually the second figure's inversion). (52) Muhammad Ali notes converting the major to affirmative makes it suitable as minor of the first figure. (53) Abd al-Rahim gives a detailed example of the second mood conversion. (54) and (55) discuss types of majors and their conversions. (56) refers to earlier sections on conversion by contradiction and comments on the author's wording.
+
+Key Terms
+عكس الكبرى
+الشكل الأول
+العكس المستوى
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example from comment (48), what is the result of converting the major of the second figure syllogism?
+A) The major becomes the minor of the first figure.
+B) The syllogism becomes a first figure syllogism producing the same conclusion.
+C) The minor becomes the major of the first figure.
+D) The syllogism becomes invalid.
+
+Key Takeaway
+Converting the major of a second figure syllogism directly yields a first figure syllogism; converting the minor requires an extra conversion step but also achieves the reduction.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following second figure syllogism to the first figure by converting the appropriate premise: 'Every Muslim believes in Tawhid. No polytheist believes in Tawhid. Therefore, no Muslim is a polytheist.' (Hint: convert the major, which is the second premise.)
+?
+In comment (53), the example converts the minor of 'Nothing of the donkey is rational. Every human is rational' to get a first figure. Show the steps and verify the conclusion remains 'Nothing of the donkey is a human'.
+
+Pages p. 349 · Immediate Inference
+← Prev
+Mark Done
+Next →

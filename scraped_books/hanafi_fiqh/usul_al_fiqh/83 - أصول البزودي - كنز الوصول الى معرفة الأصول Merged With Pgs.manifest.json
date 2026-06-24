@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:09Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/%D8%A3%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D8%A8%D8%B2%D9%88%D8%AF%D9%8A%20-%20%D9%83%D9%86%D8%B2%20%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84%20%D8%A7%D9%84%D9%89%20%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D9%84_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/83 - أصول البزودي - كنز الوصول الى معرفة الأصول Merged With Pgs",
+  "output_bytes": 11315176,
+  "output_sha256": "24a3571926114c5cdc59354c059c7e50b3c9262d9da19f54ac5caef3bd77e31b",
+  "checks": {
+    "catalog_expected_lessons": 1211,
+    "course_reported_lessons": 1211,
+    "index_lessons": 1211,
+    "full_lessons": 1211,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 24,
+    "course_reported_modules": 24,
+    "modules": 24,
+    "course_reported_sources": 1134,
+    "sources": 1134
+  }
+}

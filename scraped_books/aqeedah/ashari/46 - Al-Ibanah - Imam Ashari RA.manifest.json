@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:50Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Ibanah%20-%20Imam%20Ashari%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/ashari/46 - Al-Ibanah - Imam Ashari RA",
+  "output_bytes": 4190305,
+  "output_sha256": "20b0332d4dd0985515b0a4c8e4ebd1ac154a67af498a444710283ed1c7c88ab5",
+  "checks": {
+    "catalog_expected_lessons": 635,
+    "course_reported_lessons": 635,
+    "index_lessons": 635,
+    "full_lessons": 635,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 574,
+    "sources": 574
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:31Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Sharah-al-Nazair-Urdu-Sharah-al-Ashbah-wa-al-Nazair_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/94 - Sharah-Al-Nazair-Urdu-Sharah-Al-Ashbah-Wa-Al-Nazair Merged With Pgs",
+  "output_bytes": 7042689,
+  "output_sha256": "86d4094401367785ae6ef919d0ed4f882c9e1718a034a44ca417ed1d46041dc3",
+  "checks": {
+    "catalog_expected_lessons": 707,
+    "course_reported_lessons": 707,
+    "index_lessons": 707,
+    "full_lessons": 707,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 693,
+    "sources": 693
+  }
+}

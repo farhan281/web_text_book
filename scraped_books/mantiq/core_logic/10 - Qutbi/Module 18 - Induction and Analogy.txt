@@ -1,0 +1,568 @@
+← Prev
+p. 454
+Module 18 · Lesson 1
+Next →
+Induction and Analogy
+beginner
+5 min
+Definition of Induction and Its Distinction from Complete Induction
+Author defines induction and contrasts it with complete enumeration.
+
+Learning Objective
+By the end of this lesson, you will be able to define induction (istiqra') and distinguish it from a divisive syllogism (qiyas muqassam).
+
+Core Idea
+Induction is a judgment on a universal based on most particulars, not all.
+
+Induction is a common form of reasoning in Islamic sciences, but logicians carefully distinguish it from complete enumeration. This lesson clarifies the precise definition given by the author and why incomplete enumeration is not demonstrative.
+
+Guided Path
+1
+Identify the definiendum
+The term being defined is 'istiqra'' (induction). Locate it in the Arabic text.
+2
+Extract the genus and differentia
+The genus is 'judgment on a universal'. The differentia is 'due to its existence in most of its particulars'. This distinguishes induction from other universal judgments.
+3
+Contrast with complete induction
+The author notes: if the judgment held for all particulars, it would be a 'divisive syllogism' (qiyas muqassam), not induction. Understand why this distinction matters.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: الثالث الاستقراء، وهو الحكم على كلّي لوجوده في أكثر جزئياته، كقولنا: كلّ حيوان يحرّك فكله الأسفل عند المضغ، لأن الإنسان والبهائم والسباع كذلك».
+وهو لا يفيد اليقين، لاحتمال أن لا يكون الكل بهذه المثابة – كالتمساح.
+أقول: الاستقراء هو الحكم على كلّي لوجوده في أكثر جزئياته، وإنما قال «في أكثر جزئياته لأن الحكم لو كان موجوداً في جميع جزئياته لم یکن استقراء، بل قياساً مقسماً.
+وسمي «استقراء» لأنّ مقدماته لا تحصل إلا بتتبع الجزئيات، كقولنا : كل حيوان يحرّك فكه الأسفل عند المضغ، لأن الإنسان والبهائم والسباع كذلك».
+وهو لا يفيد اليقين، الجواز وجود جزئي آخر لم يستقرء، ويكون حكمه مخالفاً لما استقرء، كالتمساح في مثالنا ذلك.
+He said: The third is induction (istiqra'), which is a judgment on a universal due to its existence in most of its particulars, as we say: every animal moves its lower jaw when chewing, because humans, beasts, and predators do so. And it does not yield certainty, because of the possibility that not all are like that – like the crocodile. I say: Induction is a judgment on a universal due to its existence in most of its particulars. He only said 'in most of its particulars' because if the judgment existed in all its particulars, it would not be induction but rather a divisive syllogism (qiyas muqassam). It is called 'induction' because its premises are not obtained except by tracing the particulars, as we say: every animal moves its lower jaw when chewing, because humans, beasts, and predators do so. And it does not yield certainty, because it is possible that another particular exists that was not examined, and its judgment is contrary to what was examined, like the crocodile in that example.
+Source pages p. 454
+
+Commentary
+This passage defines induction (istiqra') as a judgment about a universal based on its occurrence in most individual instances. The author clarifies that if the judgment held for all instances, it would be a 'divisive syllogism' (qiyas muqassam), not induction. The term 'induction' reflects the need to examine particulars. The example given is the statement that every animal moves its lower jaw when chewing, observed in humans, beasts, and predators. However, the author warns that induction does not yield certainty (yaqin) because there may exist a particular not examined—like the crocodile—that contradicts the generalization. This highlights the inherent fallibility of inductive reasoning.
+
+Key Terms
+الاستقراء
+قياس مقسم
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say 'in most of its particulars' rather than 'in all its particulars'?
+A) Because induction is only about most particulars.
+B) Because if it were all, it would be a divisive syllogism (qiyas muqassam), not induction.
+C) Because the example of the crocodile shows it cannot be all.
+D) Because the author made a mistake.
+
+Key Takeaway
+Induction is a generalization from most instances, but it cannot produce certainty because an unexamined counterexample may exist.
+
+How This Lesson Applies — to MY Life?
+?
+Find a real inductive argument in a fiqh text (e.g., a ruling based on customs) and identify the universal claim and the particulars examined. Determine whether it is induction or complete enumeration.
+?
+Explain why the example of 'all animals move the lower jaw when chewing' fails to be certain, and provide an Islamic parallel (e.g., all birds fly? But penguins don't).
+
+Pages p. 454 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 454
+Module 18 · Lesson 2
+Next →
+Induction and Analogy
+beginner
+5 min
+Why Induction Does Not Yield Certainty
+Author explains the epistemological limitation of induction.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why induction yields only probability and identify the logical possibility of a counterexample.
+
+Core Idea
+Induction fails to yield certainty because one unexamined particular can overturn the universal claim.
+
+Even though induction is widely used, logicians have pointed out its fundamental weakness: it never reaches certainty. This lesson examines the critique using the crocodile example.
+
+Guided Path
+1
+Recall the inductive generalization
+The example given: 'Every animal moves its lower jaw when chewing.' This is based on observing humans, beasts, and predators.
+2
+Identify the basis
+The particulars examined are a subset of all animals. The generalization is made because the property was found in most examined instances.
+3
+Recognize the logical gap
+Not all animals were examined. There is a logical possibility that an unexamined animal does not have the property.
+4
+Apply the counterexample
+The crocodile moves its upper jaw, not the lower, contradicting the generalization. This shows induction cannot produce certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: الثالث الاستقراء، وهو الحكم على كلّي لوجوده في أكثر جزئياته، كقولنا: كلّ حيوان يحرّك فكله الأسفل عند المضغ، لأن الإنسان والبهائم والسباع كذلك».
+وهو لا يفيد اليقين، لاحتمال أن لا يكون الكل بهذه المثابة – كالتمساح.
+أقول: الاستقراء هو الحكم على كلّي لوجوده في أكثر جزئياته، وإنما قال «في أكثر جزئياته لأن الحكم لو كان موجوداً في جميع جزئياته لم یکن استقراء، بل قياساً مقسماً.
+وسمي «استقراء» لأنّ مقدماته لا تحصل إلا بتتبع الجزئيات، كقولنا : كل حيوان يحرّك فكه الأسفل عند المضغ، لأن الإنسان والبهائم والسباع كذلك».
+وهو لا يفيد اليقين، الجواز وجود جزئي آخر لم يستقرء، ويكون حكمه مخالفاً لما استقرء، كالتمساح في مثالنا ذلك.
+He said: The third is induction (istiqra'), which is a judgment on a universal due to its existence in most of its particulars, as we say: every animal moves its lower jaw when chewing, because humans, beasts, and predators do so. And it does not yield certainty, because of the possibility that not all are like that – like the crocodile. I say: Induction is a judgment on a universal due to its existence in most of its particulars. He only said 'in most of its particulars' because if the judgment existed in all its particulars, it would not be induction but rather a divisive syllogism (qiyas muqassam). It is called 'induction' because its premises are not obtained except by tracing the particulars, as we say: every animal moves its lower jaw when chewing, because humans, beasts, and predators do so. And it does not yield certainty, because it is possible that another particular exists that was not examined, and its judgment is contrary to what was examined, like the crocodile in that example.
+Source pages p. 454
+
+Commentary
+This passage defines induction (istiqra') as a judgment about a universal based on its occurrence in most individual instances. The author clarifies that if the judgment held for all instances, it would be a 'divisive syllogism' (qiyas muqassam), not induction. The term 'induction' reflects the need to examine particulars. The example given is the statement that every animal moves its lower jaw when chewing, observed in humans, beasts, and predators. However, the author warns that induction does not yield certainty (yaqin) because there may exist a particular not examined—like the crocodile—that contradicts the generalization. This highlights the inherent fallibility of inductive reasoning.
+
+Key Terms
+الاستقراء
+اليقين
+احتمال
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, why does the example of animal movement fail to give certainty?
+A) Because the premises are false.
+B) Because the crocodile moves its upper jaw, not the lower jaw.
+C) Because the argument is circular.
+D) Because the conclusion is based on divine revelation.
+
+Key Takeaway
+Induction is inherently probabilistic; the existence of a single unexamined counterexample is enough to defeat it.
+
+How This Lesson Applies — to MY Life?
+?
+Provide an inductive argument from a hadith study (e.g., 'The Prophet always did X in Y situation'), and identify where a counterexample might exist.
+?
+Construct a scenario in fiqh where an inductive generalization from 'most cases' is used, and show how a new case might challenge it.
+
+Pages p. 454 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 454
+Module 18 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+5 min
+Defining Analogy (Tamthil) in Islamic Logic
+Author defines analogy (tamthil) with example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of an analogical argument (tamthil) in an Islamic text and assess its strength.
+
+Core Idea
+Analogy transfers a ruling from one known case to a similar case via a shared attribute.
+
+The fourth art of logic, tamthil, is a common reasoning tool but is considered weaker than categorical syllogism. In the passage below, the author defines tamthil and gives a classic theological example: the world's composition implies its temporal origination, like a house. Understanding tamthil is crucial for evaluating arguments in kalam and fiqh.
+
+Guided Path
+1
+Identify the definition
+Find the Arabic phrase defining tamthil: 'إثبات حكم في جزئي وجد في جزئي آخر لمعنى مشترك بينهما'. What does this tell you about the structure?
+The definition includes a particular case, another particular, and a common meaning.
+2
+Extract the components of the example
+The example: 'العالم مؤلّف فهو حادث كالبيت'. Identify the original case (أصل), the new case (فرع), the common meaning (علة), and the ruling (حكم).
+The world is the new case, the house is the original.
+3
+Assess the strength of the analogy
+Does the common attribute (composition) truly extend from the house to the world? In kalam, this analogy is used to prove the world's contingency. Consider whether the shared attribute is sufficient for the ruling.
+The strength depends on the validity of the shared attribute as the cause.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: الرابع التمثيل، وهو إثبات حكم في جزئي وجد في جزئي آخـ لمعنى مشترك بينهما ، كقولهم: «العالم مؤلّف فهو حادث كالبيت».
+وأثبتوا عليّة المعنى المشترك بالدوران، وبالتقسيم غير المردّد بين النفي
+He said: The fourth is analogy (tamthil), which is establishing a judgment in one particular that was found in another particular due to a meaning common between them, as they say: 'The world is composed, so it is temporally originated like the house.' And they proved the causality of the common meaning by [circumstantial evidence?] and by division (taqsīm) without hesitation between negation...
+Source pages p. 454
+
+Commentary
+This passage defines tamthil (analogy) as a reasoning method where a judgment is applied to a particular case because it was found in another particular case due to a shared attribute. The example given is the well-known argument: 'The world is composed (mu'allaf), so it is temporally originated (hadith), like the house.' The analogy is based on the common property of composition. The author then mentions that they prove the causality (illiyya) of the common meaning by دورات (circumstantial evidence?) and by division (taqsīm) without hesitation between negation... but the text breaks off. This is a typical definition in logic texts presenting tamthil as the fourth of the five arts. However, due to the truncation, the full discussion of the method of proving causality is missing.
+
+Key Terms
+التمثيل
+دوران
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the example given in the text for tamthil (analogy)?
+A) Every animal moves its lower jaw.
+B) The world is composed so it is temporal like the house.
+C) If not every B is C, then...
+D) The crocodile does not move its lower jaw.
+
+Key Takeaway
+Tamthil (analogy) transfers a ruling from one particular to another based on a common attribute, but its certainty depends on proving the attribute as the cause.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the original case (aṣl), new case (farʿ), common meaning (ʿilla), and ruling (ḥukm) in the following analogy from fiqh: 'Wine is forbidden because it intoxicates; beer also intoxicates, so beer is forbidden.'
+?
+Assess the strength of the above analogy: is intoxication a valid common meaning for prohibition? What conditions must hold for this analogy to be valid?
+
+Pages p. 454 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 454
+Module 18 · Lesson 4
+Next →
+Induction and Analogy
+beginner
+10 min
+The Structure of Analogy (Tamthil) and Its Example
+Author defines analogy and gives the standard kalam example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the root, branch, and common cause in any example of analogy (tamthil/qiyas) used in Islamic logic and jurisprudence.
+
+Core Idea
+Analogy links two particulars through a shared cause, but its certainty depends on that cause.
+
+The author defines analogy as the fourth type of argument. It is the tool jurists use daily to extend rulings. Let's dissect its components and see how the classic example of the world and the house illustrates it.
+
+Guided Path
+1
+Identify the claim made by the analogy
+Locate the conclusion: 'The world is originated because it is composed, like the house.' This is the claim being proven by analogy.
+The analogy transfers the judgment of 'originated' from the house to the world.
+2
+Break down the components
+Identify the root (asl) = the house, the branch (far') = the world, the common meaning (illa) = composition, and the judgment (hukm) = originated. The root is the known case, the branch is the unknown case being argued.
+3
+Check the analogical structure
+The argument follows: the root has the judgment due to the cause; the branch shares the cause, therefore the branch has the judgment. Verify that the cause (composition) is truly present in both.
+This structure is identical to qiyas in usul al-fiqh, though the terminology differs (tamthil vs. qiyas).
+4
+Distinguish from categorical syllogism
+Notice that analogy moves from particular to particular, not universal to particular. The categorical syllogism uses universal premises, while analogy relies on a single shared attribute between two particulars.
+This makes analogy weaker in certainty, as the author will later critique.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: الرابع التمثيل، وهو إثبات حكم في جزئي وجد في جزئي آخر لمعنى مشترك بينهما، كقولهم: «العالم مؤلّف فهو حادث كالبيت». وأثبتوا عليّة المعنى المشترك بالدوران، وبالتقسيم غير المردّد بين النفي والإثبات؛ كقولهم: «علة الحدوث، إما التأليف أو كذا أو كذا» والأخيران باطلان بالتخلّف، فتعين الأول. وهو ضعيف أمّا الدوران: فلأن الجزء الأخير من العلة وسائر الشرائط المساوية مدار مع أنها ليست العلة. وأما التقسيم: فالحصر ممنوع لجواز علّيّة غير المذكور، وبتقدير تسليم علية المشترك في المقيس عليه لايلزم عليّته في المقيس، لجواز أن تكون خصوصية المقيس عليه شرطاً للعلية، أو خصوصية المقيس مانعة منها. أقول: التمثيل إثبات حكم واحد في جزئي لثبوته في جزئي آخر لمعنى مشترك بينهما، والفقهاء يسمونه قياساً ، والجزئي الأول فرعاً، والثاني اصلاً، والمشترك علة وجامعاً كما يقال : «العالم مؤلف فهو حادث البيت حادث لأنه مؤلّف، وهذه العلة موجودة في العالم، كالبيت» يعني فيكون العالم حادثاً كالبيت». وأثبتوا عليّة المشترك بوجهين : أحدهما الدوران، وهو اقتران الشيء بغيره وجوداً وعدماً، كما يقال : الحدوث دائر مع التأليف وجوداً وعدماً» - أما وجوداً ففي البيت، وأما عدماً ففي الواجب تعالى - والدوران آية كون المدار علة للدائر، فيكون التأليف علة للحدوث وثانيهما السبر و التقسيم، وهو إيراد أوصاف الأصل وإيطال بعضها ليتعين الباقي للعلّيّة، كما يقال : «علّة الحدوث في البيت إما التأليف أو
+He said: The fourth is analogy, which is establishing a judgment in one particular because it exists in another particular due to a meaning common between them, like their saying: 'The world is composed, so it is originated like the house.' And they established the causality of the common meaning by co-occurrence and by division that is not wavering between negation and affirmation, like their saying: 'The cause of origination is either composition or such and such.' The last two are invalid due to their absence, so the first is determined. And it is weak: As for co-occurrence, because the last part of the cause and all the equivalent conditions [also] co-occur, yet they are not the cause. As for division, the exhaustive enumeration is denied because it is possible that an unmentioned thing is the cause, and even if we concede the causality of the common [meaning] in the analogized-upon, its causality in the analogized does not follow, because it is possible that a particularity of the analogized-upon is a condition for causality, or a particularity of the analogized prevents it. I say: Analogy is the establishment of one judgment in a particular because it is established in another particular due to a meaning common between them. The jurists call it qiyas; the first particular is the branch, the second is the root, and the common meaning is the cause and the gatherer, as is said: 'The world is composed, so it is originated; the house is originated because it is composed, and this cause exists in the world, like the house,' meaning the world is originated like the house. And they established the causality of the common meaning in two ways: One of them is co-occurrence, which is the association of a thing with another in existence and non-existence, as is said: 'Origination co-occurs with composition in existence and non-existence' – in existence, in the house, and in non-existence, in the Necessary Exalted – and co-occurrence indicates that the co-occurring thing is the cause of the other, so composition is the cause of origination. The second is screening and division, which is presenting the attributes of the root and nullifying some of them to determine the rest as the cause, as is said: 'The cause of origination in the house is either composition or...'
+Source pages p. 454
+
+Commentary
+This passage defines analogy (التمثيل) and critiques its two methods for establishing causation. The original text (قال) defines analogy as transferring a judgment from one particular to another due to a shared meaning, using the classic kalam example: 'The world is composed, therefore it is originated, like the house.' The logicians attempt to prove the causality of the common meaning via two methods: co-occurrence (دوران) and division (سبر وتقسيم). The author then points out weaknesses: For co-occurrence, the last part of the cause and other equal conditions also co-occur, so co-occurrence alone does not prove causality. For division, exhaustive enumeration is not guaranteed because an unmentioned cause may exist, and even if the common meaning is the cause in the root, it may not be in the branch due to specific conditions. The commentator (أقول) elaborates, explaining the terminology used by jurists (root, branch, cause, gatherer) and providing the full example. He then detailed the two methods: co-occurrence (observing presence/absence) and division (eliminating alternatives). The passage cuts off mid-explanation of division.
+
+Key Terms
+تمثيل
+جزئي
+معنى مشترك
+أصل
+فرع
+علة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the analogy 'the world is composed, so it is originated like the house,' what is the common meaning (معنى مشترك)?
+A) existence
+B) composition
+C) origination
+D) house
+
+Key Takeaway
+Analogy transfers a ruling from a root to a branch via a shared cause; its validity hinges on the cause being identical and unconditional.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following analogy: 'Sale is a contract of exchange, so it is permissible, like rental.' Identify the root, branch, cause, and judgment.
+?
+Using the example of wine and nabidh, construct an analogical argument for the prohibition of nabidh, clearly stating root, branch, cause, and judgment.
+
+Pages p. 454 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 454
+Module 18 · Lesson 5
+Next →
+Induction and Analogy
+intermediate
+10 min
+Critique of Co-occurrence and Division for Establishing Causality
+Critique of the two methods for establishing causality in analogy.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why co-occurrence (dawran) and division (sabr wa taqsim) are insufficient to prove causality according to the logicians' critique.
+
+Core Idea
+Co-occurrence does not isolate the true cause, and division cannot guarantee exhaustive enumeration.
+
+The author argues that the two methods used to justify the cause in analogy are weak. Co-occurrence fails because many things co-occur with the effect, and division fails because the list of possibilities may be incomplete. Let's examine each critique closely.
+
+Guided Path
+1
+Understand the claim being critiqued
+The logicians claim that the causality of the common meaning (e.g., composition for origination) can be proven by two methods: co-occurrence (dawran) and division (sabr wa taqsim). The author aims to show both are insufficient.
+2
+Analyze the critique of co-occurrence
+The author says: 'the last part of the cause and all the equivalent conditions also co-occur, yet they are not the cause.' This means that many attributes accompany the effect (e.g., composition, extension, shape) but only one may be the cause. Co-occurrence alone does not pinpoint which one.
+Co-occurrence is a necessary condition for causation but not sufficient.
+3
+Analyze the critique of division
+The author gives two objections: (1) The exhaustive enumeration might be incomplete—an unmentioned cause could exist. (2) Even if the cause is valid in the root, it may not be valid in the branch due to particularities (e.g., a condition in the root or a preventer in the branch).
+Division tries to prove causality by eliminating alternatives, but the elimination process itself may be flawed.
+4
+Summarize the overall weakness
+Both methods fail to provide certainty. Therefore, analogy based on these methods yields only probable (zanni) knowledge, not certain (yaqini) knowledge.
+This critique is foundational for understanding the epistemological status of qiyas in usul al-fiqh.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: الرابع التمثيل، وهو إثبات حكم في جزئي وجد في جزئي آخر لمعنى مشترك بينهما، كقولهم: «العالم مؤلّف فهو حادث كالبيت». وأثبتوا عليّة المعنى المشترك بالدوران، وبالتقسيم غير المردّد بين النفي والإثبات؛ كقولهم: «علة الحدوث، إما التأليف أو كذا أو كذا» والأخيران باطلان بالتخلّف، فتعين الأول. وهو ضعيف أمّا الدوران: فلأن الجزء الأخير من العلة وسائر الشرائط المساوية مدار مع أنها ليست العلة. وأما التقسيم: فالحصر ممنوع لجواز علّيّة غير المذكور، وبتقدير تسليم علية المشترك في المقيس عليه لايلزم عليّته في المقيس، لجواز أن تكون خصوصية المقيس عليه شرطاً للعلية، أو خصوصية المقيس مانعة منها. أقول: التمثيل إثبات حكم واحد في جزئي لثبوته في جزئي آخر لمعنى مشترك بينهما، والفقهاء يسمونه قياساً ، والجزئي الأول فرعاً، والثاني اصلاً، والمشترك علة وجامعاً كما يقال : «العالم مؤلف فهو حادث البيت حادث لأنه مؤلّف، وهذه العلة موجودة في العالم، كالبيت» يعني فيكون العالم حادثاً كالبيت». وأثبتوا عليّة المشترك بوجهين : أحدهما الدوران، وهو اقتران الشيء بغيره وجوداً وعدماً، كما يقال : الحدوث دائر مع التأليف وجوداً وعدماً» - أما وجوداً ففي البيت، وأما عدماً ففي الواجب تعالى - والدوران آية كون المدار علة للدائر، فيكون التأليف علة للحدوث وثانيهما السبر و التقسيم، وهو إيراد أوصاف الأصل وإيطال بعضها ليتعين الباقي للعلّيّة، كما يقال : «علّة الحدوث في البيت إما التأليف أو
+He said: The fourth is analogy, which is establishing a judgment in one particular because it exists in another particular due to a meaning common between them, like their saying: 'The world is composed, so it is originated like the house.' And they established the causality of the common meaning by co-occurrence and by division that is not wavering between negation and affirmation, like their saying: 'The cause of origination is either composition or such and such.' The last two are invalid due to their absence, so the first is determined. And it is weak: As for co-occurrence, because the last part of the cause and all the equivalent conditions [also] co-occur, yet they are not the cause. As for division, the exhaustive enumeration is denied because it is possible that an unmentioned thing is the cause, and even if we concede the causality of the common [meaning] in the analogized-upon, its causality in the analogized does not follow, because it is possible that a particularity of the analogized-upon is a condition for causality, or a particularity of the analogized prevents it. I say: Analogy is the establishment of one judgment in a particular because it is established in another particular due to a meaning common between them. The jurists call it qiyas; the first particular is the branch, the second is the root, and the common meaning is the cause and the gatherer, as is said: 'The world is composed, so it is originated; the house is originated because it is composed, and this cause exists in the world, like the house,' meaning the world is originated like the house. And they established the causality of the common meaning in two ways: One of them is co-occurrence, which is the association of a thing with another in existence and non-existence, as is said: 'Origination co-occurs with composition in existence and non-existence' – in existence, in the house, and in non-existence, in the Necessary Exalted – and co-occurrence indicates that the co-occurring thing is the cause of the other, so composition is the cause of origination. The second is screening and division, which is presenting the attributes of the root and nullifying some of them to determine the rest as the cause, as is said: 'The cause of origination in the house is either composition or...'
+Source pages p. 454
+
+Commentary
+This passage defines analogy (التمثيل) and critiques its two methods for establishing causation. The original text (قال) defines analogy as transferring a judgment from one particular to another due to a shared meaning, using the classic kalam example: 'The world is composed, therefore it is originated, like the house.' The logicians attempt to prove the causality of the common meaning via two methods: co-occurrence (دوران) and division (سبر وتقسيم). The author then points out weaknesses: For co-occurrence, the last part of the cause and other equal conditions also co-occur, so co-occurrence alone does not prove causality. For division, exhaustive enumeration is not guaranteed because an unmentioned cause may exist, and even if the common meaning is the cause in the root, it may not be in the branch due to specific conditions. The commentator (أقول) elaborates, explaining the terminology used by jurists (root, branch, cause, gatherer) and providing the full example. He then detailed the two methods: co-occurrence (observing presence/absence) and division (eliminating alternatives). The passage cuts off mid-explanation of division.
+
+Key Terms
+دوران
+سبر وتقسيم
+علة
+تخلّف
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author reject the co-occurrence method as proof of causality?
+A) Because it requires too many examples
+B) Because many conditions co-occur with the effect
+C) Because it is not used by jurists
+D) Because it is based on analogy
+
+Key Takeaway
+Co-occurrence and division are insufficient to prove causality in analogy because they cannot guarantee that the identified cause is the exclusive and unconditional one.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the claim: 'Prayer causes goodness because wherever prayer is performed, goodness follows.' Identify why this co-occurrence argument is weak using the author's critique.
+?
+In the debate about the cause of riba, some list attributes of gold as possible causes. Use the sabr wa taqsim critique to argue that the list might be incomplete or that the cause may not transfer to other currencies.
+
+Pages p. 454 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 455
+Module 18 · Lesson 6
+Next →
+Induction and Analogy
+beginner
+5 min
+Definition and Structure of Tamthil (Analogical Reasoning)
+Definition of tamthil (analogical reasoning) as juristic qiyas.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of tamthil (asl, far', 'illa) and explain how it differs from the categorical syllogism.
+
+Core Idea
+Tamthil is jurists' qiyas: a ruling extended from one case to another via a shared 'illa, not a deductive proof.
+
+In this passage, the author defines tamthil (analogical reasoning) as used by the jurists, which they call qiyas. He lays out its basic structure: an original case (asl), a branch case (far'), and a shared meaning ('illa) that is taken as the cause of the ruling. Understanding this structure is essential before evaluating the methods used to establish the 'illa.
+
+Guided Path
+1
+Identify the definition of tamthil
+Find the Arabic sentence that defines tamthil and break it down into its components. The definition is: 'إثبات حكم واحد في جزئي لثبوته في جزئي آخر لمعنى مشترك بينهما'.
+2
+Extract the three components
+From the definition, identify the asl (the original particular where the ruling is established), the far' (the new particular), and the 'illa (the shared meaning). Also note that the 'illa is called 'jami'.
+The example given uses 'al-‘alam' (the world) as far', 'al-bayt' (the house) as asl, and 'al-ta'lif' (composition) as 'illa.
+3
+Apply to the example
+The author provides an example: 'العالم مؤلف فهو حادث؛ البيت حادث لأنه مؤلّف'. Identify which part is asl, far', and 'illa in this example.
+Asl: al-bayt; far': al-‘alam; 'illa: al-ta'lif.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقول: التمثيل إثبات حكم واحد في جزئي لثبوته في جزئي آخر لمعنى مشترك بينهما، والفقهاء يسمونه قياساً ، والجزئي الأول فرعاً، والثاني اصلاً، والمشترك علة وجامعاً كما يقال : «العالم مؤلف فهو حادث البيت حادث لأنه مؤلّف، وهذه العلة موجودة في العالم، كالبيت» يعني فيكون العالم حادثاً كالبيت». وأثبتوا عليّة المشترك بوجهين : أحدهما الدوران، وهو اقتران الشيء بغيره وجوداً وعدماً، كما يقال : الحدوث دائر مع التأليف وجوداً وعدماً» - أما وجوداً ففي البيت، وأما عدماً ففي الواجب تعالى - والدوران آية كون المدار علة للدائر، فيكون التأليف علة للحدوث وثانيهما السبر و التقسيم، وهو إيراد أوصاف الأصل وإيطال بعضها ليتعين الباقي للعلّيّة، كما يقال : «علّة الحدوث في البيت إما التأليف أو الإمكان والتالي باطل بالتخلّف، لأن صفات الواجب ممكنة وليست بحادثة، فتعين الأول». والوجهان ضعيفان : أما الدوران : فلأن الجزء الأخير من العلة التامة والشرط المساوي مدار للمعلول مع أنه ليس بعلة. وأما السبر والتقسيم : فلأن حصر العلة في الأوصاف المذكورة ممنوع، لأن التقسيم ليس مردّداً بين النفي و الإثبات، فجاز أن تكون غير ماذكرت، ثم بعد تسليم صحة الحصر لانسلّم أن المشترك إذا كان علة في أصل يلزم أن يكون علة في الفرع، لجواز أن يكون خصوصيّة الأصل شرطاً للعليّة أو خصوصية الفرع مانعة عنها.
+I say: Tamthil is establishing one ruling in a particular thing because that ruling is established in another particular thing due to a shared meaning between them. The jurists call it qiyas. The first particular is called far', the second is called asl, and the shared meaning is called 'illa and jami'. As it is said: "The world is composed (mu'allaf), therefore it is originated (hadith); the house (al-bayt) is originated because it is composed; and this 'illa is present in the world, like the house" meaning the world is originated like the house. And they establish the causality of the shared meaning by two ways: One of them is al-dawaran (correlation), which is the conjunction of a thing with another in existence and non-existence. As it is said: "Origination (al-huduth) is correlated with composition (al-ta'lif) in existence and non-existence." As for existence, in the house; as for non-existence, in the Necessary (al-wajib ta'ala). Correlation is an indication that the correlated thing is the cause of the correlator. Thus composition is a cause of origination. The second is al-sabr wa al-taqsim (elimination and division), which is listing the attributes of the asl and invalidating some of them so that the remaining one is established as the cause. As it is said: "The cause of origination in the house is either composition or possibility (al-imkan). The second is invalid due to counterexample (bi al-takhalluf), because the attributes of the Necessary are possible yet not originated. Thus the first is established." And both ways are weak: As for correlation: because the last part of the complete cause and the equal condition (al-shart al-musawi) are correlated with the effect (madar li al-ma'lul) yet they are not the cause. As for elimination and division: because confining the cause to the mentioned attributes is not conceded (mamnu') because the division is not restricted to negation and affirmation, so it is possible that it is other than what was mentioned. Then, even if the confinement is conceded, we do not concede that if the shared attribute is a cause in the original, it necessarily follows that it is a cause in the branch, because it is possible that the particularity of the original is a condition for causality or the particularity of the branch is an impediment to it.
+Source pages p. 455
+
+Commentary
+This passage discusses analogical reasoning (tamthil) as used by jurists, which they call qiyas. The author defines tamthil as establishing a ruling (hukm) in one particular case (far') because it is established in another particular case (asl) due to a shared meaning (ma'na mushtarak) which is the 'illa (cause) or jami' (unifying attribute). He gives an example: the world (al-'alam) is composed (mu'allaf), so it is originated (hadith); a house (al-bayt) is also composed and therefore originated. The shared attribute is composition (al-ta'lif), which is posited as the cause of origination. The author then explains two methods used by jurists to prove that the shared attribute is indeed the cause. The first is al-dawaran (correlation), which is the observation that the effect (al-hadath) accompanies the supposed cause (al-ta'lif) in both existence and non-existence. In existence: when composition exists, origination exists (e.g., in the house). In non-existence: when composition is absent (as in the Necessary Being, Allah), origination is absent. This correlation is taken as evidence that composition is the cause of origination. The second method is al-sabr wa al-taqsim (elimination and division), whereby the logician enumerates all possible attributes of the asl that could be the cause, then disproves all but one. The example given: the cause of origination in the house is either composition (al-ta'lif) or possibility (al-imkan). Possibility is eliminated because it is present in the attributes of the Necessary (which are possible) yet those attributes are not originated. So composition remains as the only viable cause. After explaining these methods, the author states that both are weak (da'if). He critiques correlation: the last part of the complete cause (al-juz' al-akhir min al-'illa al-tammah) and the equal condition (al-shart al-musawi) are also correlated with the effect, yet they are not the cause. This means that correlation alone does not distinguish the true cause from other necessary concomitants. He critiques elimination and division on two grounds. First, the confinement (hasr) of possible causes to the mentioned attributes is not accepted because the division is not exhaustive; there may be other attributes not considered. Second, even if we accept the confinement, it does not follow that the shared attribute is a cause in the branch (far'), because there could be a particularity in the original (asl) that is a condition for causality, or a particularity in the branch that prevents causality. Therefore, the method does not yield certainty.
+
+Key Terms
+التمثيل
+القياس
+الأصل
+الفرع
+العلة
+الجامع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the definition of tamthil?
+A) A deductive argument from general to particular.
+B) Establishing a ruling in a particular because of a shared meaning with another particular.
+C) A method for finding the cause of a ruling through correlation.
+D) The same as the categorical syllogism used in logic.
+
+Key Takeaway
+Tamthil is analogical reasoning used by jurists, consisting of asl, far', and 'illa, and is not a guaranteed proof but a tool for extending rulings.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the asl, far', and 'illa in the following qiyas: 'The ruling that selling rice for rice in unequal amounts is riba, like wheat, because both are staple foods.'
+?
+Explain how tamthil differs from the categorical syllogism (qiyas hamli).
+
+Pages p. 455 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 455
+Module 18 · Lesson 7
+Next →
+Induction and Analogy
+intermediate
+5 min
+Critique of the Method of Dawaran (Correlation)
+Explanation and critique of the dawaran (correlation) method.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the critique of the dawaran method and explain why correlation is insufficient for establishing causation.
+
+Core Idea
+Dawaran (correlation) fails because it cannot distinguish a cause from a condition or a part of the complete cause.
+
+The author explains dawaran, the method of establishing causality through the conjunction of the supposed cause and effect in existence and non-existence. He then critiques it, pointing out that the last part of the complete cause and the equal condition also correlate with the effect, yet they are not the cause. This lesson analyzes that critique and its implications for usul al-fiqh.
+
+Guided Path
+1
+Understand the definition of dawaran
+Find how the author defines dawaran: 'اقتران الشيء بغيره وجوداً وعدماً' (conjunction of a thing with another in existence and non-existence).
+2
+Identify the example given
+The author uses the correlation between origination (al-huduth) and composition (al-ta'lif). In existence: the house (composite) is originated. In non-existence: the Necessary Being (non-composite) is not originated.
+3
+Extract the critique
+The author says that the last part of the complete cause (al-juz' al-akhir min al-'illa al-tammah) and the equal condition (al-shart al-musawi) are also correlated with the effect, yet they are not the cause. So correlation alone does not prove causality.
+4
+Apply the critique to a new fiqh example
+Consider the correlation between the presence of a sariqa (theft) and the cutting of hand: they are correlated, but the presence of theft does not cause cutting; the cause is the legal text (nass). Similarly, dawaran alone is weak.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقول: التمثيل إثبات حكم واحد في جزئي لثبوته في جزئي آخر لمعنى مشترك بينهما، والفقهاء يسمونه قياساً ، والجزئي الأول فرعاً، والثاني اصلاً، والمشترك علة وجامعاً كما يقال : «العالم مؤلف فهو حادث البيت حادث لأنه مؤلّف، وهذه العلة موجودة في العالم، كالبيت» يعني فيكون العالم حادثاً كالبيت». وأثبتوا عليّة المشترك بوجهين : أحدهما الدوران، وهو اقتران الشيء بغيره وجوداً وعدماً، كما يقال : الحدوث دائر مع التأليف وجوداً وعدماً» - أما وجوداً ففي البيت، وأما عدماً ففي الواجب تعالى - والدوران آية كون المدار علة للدائر، فيكون التأليف علة للحدوث وثانيهما السبر و التقسيم، وهو إيراد أوصاف الأصل وإيطال بعضها ليتعين الباقي للعلّيّة، كما يقال : «علّة الحدوث في البيت إما التأليف أو الإمكان والتالي باطل بالتخلّف، لأن صفات الواجب ممكنة وليست بحادثة، فتعين الأول». والوجهان ضعيفان : أما الدوران : فلأن الجزء الأخير من العلة التامة والشرط المساوي مدار للمعلول مع أنه ليس بعلة. وأما السبر والتقسيم : فلأن حصر العلة في الأوصاف المذكورة ممنوع، لأن التقسيم ليس مردّداً بين النفي و الإثبات، فجاز أن تكون غير ماذكرت، ثم بعد تسليم صحة الحصر لانسلّم أن المشترك إذا كان علة في أصل يلزم أن يكون علة في الفرع، لجواز أن يكون خصوصيّة الأصل شرطاً للعليّة أو خصوصية الفرع مانعة عنها.
+I say: Tamthil is establishing one ruling in a particular thing because that ruling is established in another particular thing due to a shared meaning between them. The jurists call it qiyas. The first particular is called far', the second is called asl, and the shared meaning is called 'illa and jami'. As it is said: "The world is composed (mu'allaf), therefore it is originated (hadith); the house (al-bayt) is originated because it is composed; and this 'illa is present in the world, like the house" meaning the world is originated like the house. And they establish the causality of the shared meaning by two ways: One of them is al-dawaran (correlation), which is the conjunction of a thing with another in existence and non-existence. As it is said: "Origination (al-huduth) is correlated with composition (al-ta'lif) in existence and non-existence." As for existence, in the house; as for non-existence, in the Necessary (al-wajib ta'ala). Correlation is an indication that the correlated thing is the cause of the correlator. Thus composition is a cause of origination. The second is al-sabr wa al-taqsim (elimination and division), which is listing the attributes of the asl and invalidating some of them so that the remaining one is established as the cause. As it is said: "The cause of origination in the house is either composition or possibility (al-imkan). The second is invalid due to counterexample (bi al-takhalluf), because the attributes of the Necessary are possible yet not originated. Thus the first is established." And both ways are weak: As for correlation: because the last part of the complete cause and the equal condition (al-shart al-musawi) are correlated with the effect (madar li al-ma'lul) yet they are not the cause. As for elimination and division: because confining the cause to the mentioned attributes is not conceded (mamnu') because the division is not restricted to negation and affirmation, so it is possible that it is other than what was mentioned. Then, even if the confinement is conceded, we do not concede that if the shared attribute is a cause in the original, it necessarily follows that it is a cause in the branch, because it is possible that the particularity of the original is a condition for causality or the particularity of the branch is an impediment to it.
+Source pages p. 455
+
+Commentary
+This passage discusses analogical reasoning (tamthil) as used by jurists, which they call qiyas. The author defines tamthil as establishing a ruling (hukm) in one particular case (far') because it is established in another particular case (asl) due to a shared meaning (ma'na mushtarak) which is the 'illa (cause) or jami' (unifying attribute). He gives an example: the world (al-'alam) is composed (mu'allaf), so it is originated (hadith); a house (al-bayt) is also composed and therefore originated. The shared attribute is composition (al-ta'lif), which is posited as the cause of origination. The author then explains two methods used by jurists to prove that the shared attribute is indeed the cause. The first is al-dawaran (correlation), which is the observation that the effect (al-hadath) accompanies the supposed cause (al-ta'lif) in both existence and non-existence. In existence: when composition exists, origination exists (e.g., in the house). In non-existence: when composition is absent (as in the Necessary Being, Allah), origination is absent. This correlation is taken as evidence that composition is the cause of origination. The second method is al-sabr wa al-taqsim (elimination and division), whereby the logician enumerates all possible attributes of the asl that could be the cause, then disproves all but one. The example given: the cause of origination in the house is either composition (al-ta'lif) or possibility (al-imkan). Possibility is eliminated because it is present in the attributes of the Necessary (which are possible) yet those attributes are not originated. So composition remains as the only viable cause. After explaining these methods, the author states that both are weak (da'if). He critiques correlation: the last part of the complete cause (al-juz' al-akhir min al-'illa al-tammah) and the equal condition (al-shart al-musawi) are also correlated with the effect, yet they are not the cause. This means that correlation alone does not distinguish the true cause from other necessary concomitants. He critiques elimination and division on two grounds. First, the confinement (hasr) of possible causes to the mentioned attributes is not accepted because the division is not exhaustive; there may be other attributes not considered. Second, even if we accept the confinement, it does not follow that the shared attribute is a cause in the branch (far'), because there could be a particularity in the original (asl) that is a condition for causality, or a particularity in the branch that prevents causality. Therefore, the method does not yield certainty.
+
+Key Terms
+الدوران
+العلة التامة
+الشرط المساوي
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the author's critique of the dawaran method?
+A) Correlation is not sufficient because the last part of the complete cause and the equal condition also correlate with the effect.
+B) Correlation does not apply in the case of the Necessary Being.
+C) Correlation is valid only for existence, not non-existence.
+D) The example of the house is flawed.
+
+Key Takeaway
+Correlation alone does not prove causality; the same pattern is seen in conditions and parts of the cause, so dawaran is insufficient for establishing the 'illa.
+
+How This Lesson Applies — to MY Life?
+?
+In a debate about whether the 'illa for prohibition of khamr is intoxication or something else, a scholar uses dawaran: 'Every time intoxication is present, prohibition is present; every time it is absent, prohibition is absent.' According to the author's critique, why is this not enough to prove intoxication is the cause?
+?
+Give a fiqh example where correlation (dawaran) is observed but the correlation is not the cause, such as the correlation between the month of Ramadan and the obligation of fasting. The month does not cause the obligation; the text does.
+
+Pages p. 455 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 455
+Module 18 · Lesson 8
+Next →
+Induction and Analogy
+intermediate
+5 min
+Critique of the Method of Sabr wa Taqsim (Elimination and Division)
+Explanation and critique of sabr wa taqsim (elimination and division) method.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two weaknesses of the sabr wa taqsim method as presented by the author.
+
+Core Idea
+Sabr wa taqsim is weak because the list of possibilities may be incomplete and even if complete, the 'illa may not transfer to the branch.
+
+The second method for establishing the 'illa is sabr wa taqsim, where the mujtahid lists all possible attributes of the original case and eliminates all but one. The author presents two objections: first, the list may not be exhaustive; second, even if it is, the 'illa may depend on a particularity of the original or be blocked by a particularity of the branch. This lesson dissects those objections.
+
+Guided Path
+1
+Understand the method
+Define sabr wa taqsim from the passage: 'إيراد أوصاف الأصل وإبطال بعضها ليتعين الباقي للعلّيّة' (listing attributes of the asl and invalidating some so that the remaining one is established as the cause).
+2
+Identify the example
+The author gives the example of origination in the house: the cause is either composition or possibility. Possibility is eliminated because it does not produce origination in the Necessary Being.
+3
+Extract the first critique
+The author says 'حصر العلة في الأوصاف المذكورة ممنوع، لأن التقسيم ليس مردداً بين النفي والإثبات'. This means the confinement of the cause to the mentioned attributes is not conceded because the division is not limited to those two options; there could be other attributes not considered.
+4
+Extract the second critique
+Even if the confinement is correct, the author argues that it does not follow that the shared attribute is a cause in the branch. The particularity of the original (خصوصية الأصل) might be a condition for causality, or the particularity of the branch (خصوصية الفرع) might be an impediment.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقول: التمثيل إثبات حكم واحد في جزئي لثبوته في جزئي آخر لمعنى مشترك بينهما، والفقهاء يسمونه قياساً ، والجزئي الأول فرعاً، والثاني اصلاً، والمشترك علة وجامعاً كما يقال : «العالم مؤلف فهو حادث البيت حادث لأنه مؤلّف، وهذه العلة موجودة في العالم، كالبيت» يعني فيكون العالم حادثاً كالبيت». وأثبتوا عليّة المشترك بوجهين : أحدهما الدوران، وهو اقتران الشيء بغيره وجوداً وعدماً، كما يقال : الحدوث دائر مع التأليف وجوداً وعدماً» - أما وجوداً ففي البيت، وأما عدماً ففي الواجب تعالى - والدوران آية كون المدار علة للدائر، فيكون التأليف علة للحدوث وثانيهما السبر و التقسيم، وهو إيراد أوصاف الأصل وإيطال بعضها ليتعين الباقي للعلّيّة، كما يقال : «علّة الحدوث في البيت إما التأليف أو الإمكان والتالي باطل بالتخلّف، لأن صفات الواجب ممكنة وليست بحادثة، فتعين الأول». والوجهان ضعيفان : أما الدوران : فلأن الجزء الأخير من العلة التامة والشرط المساوي مدار للمعلول مع أنه ليس بعلة. وأما السبر والتقسيم : فلأن حصر العلة في الأوصاف المذكورة ممنوع، لأن التقسيم ليس مردّداً بين النفي و الإثبات، فجاز أن تكون غير ماذكرت، ثم بعد تسليم صحة الحصر لانسلّم أن المشترك إذا كان علة في أصل يلزم أن يكون علة في الفرع، لجواز أن يكون خصوصيّة الأصل شرطاً للعليّة أو خصوصية الفرع مانعة عنها.
+I say: Tamthil is establishing one ruling in a particular thing because that ruling is established in another particular thing due to a shared meaning between them. The jurists call it qiyas. The first particular is called far', the second is called asl, and the shared meaning is called 'illa and jami'. As it is said: "The world is composed (mu'allaf), therefore it is originated (hadith); the house (al-bayt) is originated because it is composed; and this 'illa is present in the world, like the house" meaning the world is originated like the house. And they establish the causality of the shared meaning by two ways: One of them is al-dawaran (correlation), which is the conjunction of a thing with another in existence and non-existence. As it is said: "Origination (al-huduth) is correlated with composition (al-ta'lif) in existence and non-existence." As for existence, in the house; as for non-existence, in the Necessary (al-wajib ta'ala). Correlation is an indication that the correlated thing is the cause of the correlator. Thus composition is a cause of origination. The second is al-sabr wa al-taqsim (elimination and division), which is listing the attributes of the asl and invalidating some of them so that the remaining one is established as the cause. As it is said: "The cause of origination in the house is either composition or possibility (al-imkan). The second is invalid due to counterexample (bi al-takhalluf), because the attributes of the Necessary are possible yet not originated. Thus the first is established." And both ways are weak: As for correlation: because the last part of the complete cause and the equal condition (al-shart al-musawi) are correlated with the effect (madar li al-ma'lul) yet they are not the cause. As for elimination and division: because confining the cause to the mentioned attributes is not conceded (mamnu') because the division is not restricted to negation and affirmation, so it is possible that it is other than what was mentioned. Then, even if the confinement is conceded, we do not concede that if the shared attribute is a cause in the original, it necessarily follows that it is a cause in the branch, because it is possible that the particularity of the original is a condition for causality or the particularity of the branch is an impediment to it.
+Source pages p. 455
+
+Commentary
+This passage discusses analogical reasoning (tamthil) as used by jurists, which they call qiyas. The author defines tamthil as establishing a ruling (hukm) in one particular case (far') because it is established in another particular case (asl) due to a shared meaning (ma'na mushtarak) which is the 'illa (cause) or jami' (unifying attribute). He gives an example: the world (al-'alam) is composed (mu'allaf), so it is originated (hadith); a house (al-bayt) is also composed and therefore originated. The shared attribute is composition (al-ta'lif), which is posited as the cause of origination. The author then explains two methods used by jurists to prove that the shared attribute is indeed the cause. The first is al-dawaran (correlation), which is the observation that the effect (al-hadath) accompanies the supposed cause (al-ta'lif) in both existence and non-existence. In existence: when composition exists, origination exists (e.g., in the house). In non-existence: when composition is absent (as in the Necessary Being, Allah), origination is absent. This correlation is taken as evidence that composition is the cause of origination. The second method is al-sabr wa al-taqsim (elimination and division), whereby the logician enumerates all possible attributes of the asl that could be the cause, then disproves all but one. The example given: the cause of origination in the house is either composition (al-ta'lif) or possibility (al-imkan). Possibility is eliminated because it is present in the attributes of the Necessary (which are possible) yet those attributes are not originated. So composition remains as the only viable cause. After explaining these methods, the author states that both are weak (da'if). He critiques correlation: the last part of the complete cause (al-juz' al-akhir min al-'illa al-tammah) and the equal condition (al-shart al-musawi) are also correlated with the effect, yet they are not the cause. This means that correlation alone does not distinguish the true cause from other necessary concomitants. He critiques elimination and division on two grounds. First, the confinement (hasr) of possible causes to the mentioned attributes is not accepted because the division is not exhaustive; there may be other attributes not considered. Second, even if we accept the confinement, it does not follow that the shared attribute is a cause in the branch (far'), because there could be a particularity in the original (asl) that is a condition for causality, or a particularity in the branch that prevents causality. Therefore, the method does not yield certainty.
+
+Key Terms
+السبر والتقسيم
+الحصر
+خصوصية الأصل
+خصوصية الفرع
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is one of the author's objections to sabr wa taqsim?
+A) The method is valid only for physical objects.
+B) The list of attributes may not be exhaustive.
+C) The 'illa in the original is always valid in the branch.
+D) The method relies on correlation.
+
+Key Takeaway
+Sabr wa taqsim is weak because the list of attributes may be incomplete, and even if complete, the 'illa may not transfer due to particularities of the cases.
+
+How This Lesson Applies — to MY Life?
+?
+In a qiyas regarding the prohibition of marijuana, a scholar lists intoxicating effect, smell, and monetary value as possible attributes, then eliminates smell and value. According to the author's critique, what two problems might remain?
+?
+Explain how the second critique (particularity of asl or far') could affect the qiyas on nabidh (date wine) compared to khamr (grape wine).
+
+Pages p. 455 · Induction and Analogy
+← Prev
+Mark Done
+Next →

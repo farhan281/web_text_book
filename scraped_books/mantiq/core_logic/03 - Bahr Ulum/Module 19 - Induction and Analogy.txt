@@ -1,0 +1,1049 @@
+← Prev
+p. 154
+Module 19 · Lesson 1
+Next →
+Induction and Analogy
+intermediate
+8 min
+Induction and the Problem of Probability
+Author presents induction and a probabilistic paradox
+
+Learning Objective
+By the end of this lesson, you will be able to explain why induction yields only probable knowledge and identify the logical paradox that arises when applying probability to a population with known proportions.
+
+Core Idea
+Induction from majority yields probability, not certainty, because exceptions like the crocodile are always possible.
+
+In this passage, the author discusses induction (الاستقراء) as a form of inference that moves from the ruling of the majority to the whole class. He emphasizes that induction yields only probable belief (ظن), not certainty, because exceptions are always possible. He then presents a fascinating paradox: if you know that in a room of three people two are Muslim and one is a disbeliever, but you don't know who is who, then any individual you see is probably Muslim based on the majority. Yet, once you become certain of the Islamic identity of two of them, the third must certainly be a disbeliever. This seems to generate a contradiction. Let's unpack this.
+
+Guided Path
+1
+Understand the definition of induction
+The author defines induction as inferring from the ruling of the majority to the whole class. Example: 'Every animal moves its lower jaw when chewing' because man, horse, cow, etc., do so. Note that this is not complete enumeration but based on the majority.
+2
+Recognize why induction yields probability
+Induction yields only probability (ẓann) because exceptions are possible, like the crocodile. Complete enumeration would yield certainty, but that is not required; claiming the majority is sufficient for probability.
+The author argues against al-Sayyid's view that complete enumeration is necessary.
+3
+Trace the paradoxical scenario
+Consider a house with three persons: two Muslims and one disbeliever, identities unknown. Based on majority, any person you see is probably Muslim. However, if you later become certain that two specific individuals are Muslim, the third must certainly be a disbeliever. The author claims that probability of the premise (that two are Muslim) entails probability of the consequent (that each is Muslim), leading to each individual simultaneously being probably Muslim and probably disbeliever, which is contradictory.
+The paradox relies on the principle that if you are certain of the exact identities, you deduce the remaining one's disbelief with certainty, not probability.
+4
+Begin to see the solution (incomplete)
+The author starts the solution: if the necessary (the premise) involves two things, then for the probability to entail the probability of the consequent, something more is needed. The text is cut off, but the solution likely distinguishes between the two different bases of probability: one from majority principle and one from deduction after certain knowledge.
+The full solution is not provided; this is an advanced reflection on the nature of probability.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والاستقراءُ حُجَّةٌ، يُسْتَدَلُّ فِيهَا مِنْ حُكْم الْأَكْثَرِ عَلَى الْكُلِّ، كَمَا تَقُولُ كُلُّ حَيَوَان يَتَحَرَّكُ فَكُهُ الْأَسْفَلُ عِنْدَ الْمَضْغ؛ لِأَنَّ الْإِنْسَانَ وَالْفَرَسَ وَالْبَقَرَ إِلَى غَيْرِ ذَلِكَ مِمَّا تَتَبَّعْنَاهُ كَذَلِكَ». وَهُوَ إِنَّمَا يُفِيدُ الظَّنَّ ؛ لِجَوَازِ التَّخَلْفِ، كَمَا قِيلَ فِي التِّمْساح. وَلَا يَجِبُ ادْعَاءُ الْحَصْرِ، كَمَا ذَهَبَ إِلَيْهِ السَّيْدُ وَأَتْبَاعُهُ ، وَإِلَّا أَفَادَ الْجَزْمَ ، وَإِنْ كَانَ ادَّعَائِيَّا. نَعَمْ ، يَجِبُ ادَّعَاءُ الْأَكْثَر لِأَنَّ الظَّنَّ تَابِعُ لِلْأَعَمِّ الأَغْلَبِ، وَلِذَلِكَ بَقِيَ الْحُكْمُ فِي غَيْرِ التِّمْساح كَذَلِكَ. وَهَهُنَا شَكٍّ ، وَهُوَ: أَنَّهُ إِذَا فُرِضَ فِي بَيْتٍ ثَلَاثَةٌ، اثْنَانِ مُسْلِمَانِ وَوَاحِدٌ كَافِرُ، لَكِنْ لَمْ تَعْلَمْ بِأَعْيَانِهِمْ، فَكُلُّ مَنْ تَرَاهُ مَظْنُونُ الْإِسْلَامِ؛ بِنَاءً عَلَى قَاعِدَةِ الْأَغْلَبِيَّةِ , وَكُلَّمَا تَيَقَّنْتَ بِإِسْلَام اثْنَيْنِ مِنْهُمْ عَلَى التَّعَيُّنِ تَيَقَّنَتَ بِكُفْرِ الْبَاقِي بِنَاءً عَلَى الْفَرْضِ , وَالظَّنُّ بِالْمَلْزُومِ يَسْتَلْزِمُ الظَّنَّ بِاللَّازِمِ، فَيَلْزَمُ أَنْ يَكُونَ كُلُّ وَاحِدٍ مَظْلُونَ الْكُفْر , وَذَلِكَ مُنَافٍ لِمَا ثَبَتَ أَوَّلاً . وَحَلُّهُ: أَنَّ الْمَلْزُومَ إِذَا كَانَ أَمْرَيْنِ فَلَا بُدَّ فِي اسْتِلْزَامِ ظَنِّهِ الظَّنَّ بِاللَّازِمِ أَنْ
+And induction (istiqrāʾ) is a proof, by which one infers from the rule of the majority to the whole, as you say: 'Every animal moves its lower jaw when chewing, because man, horse, cow, etc., that we have examined are like that.' It only yields probability (ẓann), because of the possibility of exception, as is said about the crocodile. And it is not necessary to claim complete enumeration (ḥaṣr), as al-Sayyid and his followers held; otherwise it would yield certainty, even if the enumeration is claimed. Yes, it is necessary to claim the majority, because probability follows the more general and predominant. For that reason, the rule remains like that for other than the crocodile. And here there is a difficulty (šakk), which is: if it is assumed that in a house there are three persons, two Muslims and one disbeliever, but you do not know their identities, then every person you see is probably Muslim, based on the majority principle. And whenever you are certain of the Islam of two of them specifically, you are certain of the disbelief of the remaining one, based on the assumption. And probability of the necessary (malzūm) entails probability of the consequent (lāzim). So it follows that each individual is probably a disbeliever, which contradicts what was first established. And its solution: that if the necessary is two things, then for the probability of it to entail the probability of the consequent, it is necessary that ...
+Source pages p. 154
+
+Commentary
+This passage discusses induction (الاستقراء). Induction is an argument that proceeds from the ruling of the majority to the whole. Example: 'Every animal moves its lower jaw when chewing' is inferred from observing many animals. Induction yields only probable knowledge (ظن) because exceptions are possible, like the crocodile. Some logicians (al-Sayyid al-Sharif al-Jurjani and followers) required that to gain certainty, one must claim complete enumeration (حصْر) of all individuals; otherwise it remains probable. The author disagrees: it is not necessary to claim complete enumeration; rather, one must claim that the majority is sufficient, because probability follows the predominant. Then the author raises a perplexing problem (شك). In a house with three persons, two Muslims and one disbeliever, without individual knowledge, any one you see is probably Muslim (due to majority). But if you later become certain that two specific individuals are Muslim, then the third is certainly a disbeliever. Since probability of the necessary (the overall proportion) entails probability of the consequent (each individual being Muslim), it seems each individual simultaneously is probably Muslim (from the initial principle) and probably disbeliever (from the entailment after certain knowledge). The author begins a solution: if the necessary (the premise that there are two Muslims) involves two things (the two known Muslims), then for the probability of that premise to entail probability about each individual, something more is needed. The text is cut off, but the solution likely involves distinguishing between the two different bases of probability.
+
+Key Terms
+الاستقراء
+الظن
+الأكثر
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what does induction yield?
+A) Certainty (yaqīn)
+B) Probability (ẓann)
+C) Both certainty and probability
+D) Ignorance (jahl)
+
+Key Takeaway
+Induction from majority yields probability, and the paradox shows that probability must be carefully distinguished from certainty when dealing with known proportions.
+
+How This Lesson Applies — to MY Life?
+?
+Find an example from Islamic jurisprudence where a ruling is based on the majority (akthar) of cases. Explain why it yields probability, not certainty. For instance, the permissibility of most fish based on observed species.
+?
+Suppose a village has 100 people, 60 are righteous and 40 are not. You know the overall proportion but not individuals. First, any person is probably righteous. Later, you become certain that 60 specific persons are righteous. Does the remaining person become certainly unrighteous? Use the author's paradox to explain the conflict.
+
+Pages p. 154 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 154
+Module 19 · Lesson 2
+Next →
+Induction and Analogy
+beginner
+5 min
+Definition and Epistemic Value of Induction
+Author defines induction and limits its epistemic certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to define induction (istiqra') and explain why it yields probabilistic knowledge (ẓann) rather than certainty.
+
+Core Idea
+Induction yields probability, not certainty, because of possible exceptions.
+
+In this passage, the author defines induction as an inference from the judgment of the majority to the universal. He gives a biological example and clarifies that induction only produces probable knowledge (ẓann), not certainty. Understanding this limitation is crucial for evaluating inductive arguments in Islamic legal and theological reasoning.
+
+Guided Path
+1
+Identify the definiendum
+Find the term being defined: الٱستقراء (induction). Note the definition: 'a proof in which one infers from the judgment of the majority to the universal.'
+The definition emphasizes a move from majority (أكثر) to universal (كل).
+2
+Analyze the example
+The author gives an example: observing human, horse, cow etc. moving lower jaw when chewing, then concluding all animals do so. This illustrates the inductive step from a limited sample to a universal claim.
+The example is from biology; similar reasoning applies in fiqh and usul.
+3
+Assess the epistemic value
+The author states induction only yields opinion (ظن) because of the possibility of exception (جواز التخلف) – as the crocodile is said to move its upper jaw. This means the conclusion is probabilistic, not certain.
+The 'crocodile exception' is a counterexample that breaks the universal claim.
+4
+Contrast with complete enumeration view
+The author rejects the claim that complete enumeration is obligatory (as al-Sayyid held); otherwise it would give certainty. Instead, one should only claim the majority, because opinion follows the more general.
+This clarifies that induction is inherently incomplete and based on prevalence, not exhaustive observation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والاستقراءُ حُجَّةٌ، يُسْتَدَلُّ فِيهَا مِنْ حُكْم الْأَكْثَرِ عَلَى الْكُلِّ، كَمَا تَقُولُ كُلُّ حَيَوَان يَتَحَرَّكُ فَكُهُ الْأَسْفَلُ عِنْدَ الْمَضْغ؛ لِأَنَّ الْإِنْسَانَ وَالْفَرَسَ وَالْبَقَرَ إِلَى غَيْرِ ذَلِكَ مِمَّا تَتَبَّعْنَاهُ كَذَلِكَ. وَهُوَ إِنَّمَا يُفِيدُ الظَّنَّ ؛ لِجَوَازِ التَّخَلْفِ، كَمَا قِيلَ فِي التِّمْساح. وَلَا يَجِبُ ادَّعَاءُ الْحَصْرِ، كَمَا ذَهَبَ إِلَيْهِ السَّيْدُ وَأَتْبَاعُهُ ، وَإِلَّا أَفَادَ الْجَزْمَ ، وَإِنْ كَانَ ادَّعَائِيَّا. نَعَمْ ، يَجِبُ ادَّعَاءُ الْأَكْثَر ؛ لِأَنَّ الظَّنَّ تَابِعُ لِلْأَعَمِّ الأَغْلَبِ، وَلِذَلِكَ بَقِيَ الْحُكْمُ فِي غَيْرِ التِّمْساح كَذَلِكَ.
+And induction is a proof in which one infers from the judgment of the majority to the universal, as when you say: Every animal moves its lower jaw when chewing, because human, horse, cow, etc., which we have examined, are like that. But it only yields opinion (ẓann), because of the possibility of exception, as was said about the crocodile. And it is not obligatory to claim complete enumeration, as al-Sayyid and his followers held; otherwise it would yield certainty, even if the claim is artificial. Yes, it is obligatory to claim the majority, because opinion follows the more general and dominant, and therefore the judgment remains for other than the crocodile as well.
+Source pages p. 154
+
+Commentary
+This passage defines induction (istiqra') as an argument that moves from the ruling of the majority to a universal ruling. The example given is the observation that all animals examined (human, horse, cow) move the lower jaw when chewing, leading to the conclusion that all animals do so. The author then notes that induction only yields probability (ẓann), not certainty, because of possible exceptions — as the crocodile is said to move its upper jaw. The author rejects the view of al-Sayyid (likely al-Sharif al-Jurjani) and his followers that complete enumeration must be claimed; if it were, it would give certainty, even if the claim is artificial. Instead, one should only claim the majority, since opinion follows the more general and prevalent. This is important in legal reasoning where inductive generalizations are used to establish customary rulings.
+
+Key Terms
+الاستقراء
+الظن
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does induction not produce certainty according to this passage?
+A) Because complete enumeration is impossible.
+B) Because of the possibility of exception.
+C) Because it is based on analogy.
+D) Because it is only a proof for majority rulings.
+
+Key Takeaway
+Induction is a probabilistic argument from majority to universal, which yields ẓann due to possible exceptions.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an inductive argument on the prohibition of riba: 'Most forms of riba are prohibited in the Quran and Sunnah; therefore all forms of riba are prohibited.' Explain why this conclusion is probabilistic and identify a potential exception (e.g., murabaha to the order purchaser).
+?
+Identify in the crocodile example how a single counterexample weakens the inductive claim. Then give another Islamic example where a single exception undermines an inductive generalization (e.g., 'Most Khulafa' are from Quraysh' – except for some? Or 'Most prayers require wudu' – but not for janaza?).
+
+Pages p. 154 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 155
+Module 19 · Lesson 3
+Next →
+Induction and Analogy
+beginner
+7 min
+Definition of Analogy (Tamthīl) and Its Components
+Author defines analogy as inference from a particular to another particular via a common attribute.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of tamthīl (aṣl, far', ʿilla) and distinguish the two primary methods for establishing the ʿilla: al-dawarān and al-sabr wa al-taqsīm.
+
+Core Idea
+Analogy moves from one particular to another via a shared cause; jurists call it qiyās.
+
+The passage defines tamthīl (analogy) as an inference from one particular instance to another based on a common attribute. This form of reasoning is central to Islamic jurisprudence, where it is known as qiyās. In this lesson, we will break down the definition, identify its three essential components (aṣl, far', ʿilla), and explore the two main methods jurists use to establish the cause: al-dawarān and al-sabr wa al-taqsīm. Understanding these tools is essential for evaluating legal analogies.
+
+Guided Path
+1
+Identify the definition of tamthīl
+The text defines tamthīl as 'an inference from a particular to another particular due to a common matter' (استدلال بجزئي على جزئي لأمر مشترك). This sets it apart from syllogism, which is inference from a universal.
+The common matter (أمر مشترك) is the basis of the analogy.
+2
+Extract the three components: aṣl, far', and ʿilla
+The first particular is called the 'aṣl' (original case), the second the 'far'' (branch), and the common matter the 'ʿilla' (cause). In juristic qiyās, the ruling from the aṣl is extended to the far' due to the shared ʿilla.
+Logicians call the common matter 'jāmiʿ', but jurists use 'ʿilla'.
+3
+Understand the primary method: al-dawarān (coextensiveness)
+Al-dawarān, also called ṭard wa 'aks, is the observation that the ruling exists when the attribute exists and is absent when the attribute is absent. This indicates causality.
+It is considered a strong indicator but yields probability (ẓann).
+4
+Understand the second method: al-sabr wa al-taqsīm (trial and division)
+This method, also called tardīd, involves listing all possible attributes for the ruling, then eliminating those that are invalid until one remains, which is then taken as the ʿilla.
+It is a process of elimination and also yields probability.
+5
+Note the scope and authority
+The passage states that both methods yield only probable knowledge (ẓann), and the full details belong to uṣūl al-fiqh. This reminds us that analogy is a tool of juristic reasoning, not a demonstrative proof.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَالتَّمْثِيلُ اسْتِدْلَالٌ بِجُزْئِيٍّ عَلَى جُزْئِيٍّ لِأَمْرٍ مُشْتَرَكٍ ، وَالْفُقَهَاءُ يُسَمُّونَهُ قِيَاسًا ، وَالْأَوَّلَ أَصْلًا وَالثَّانِي فَرْعًا ، وَالْمُشْتَرَكَ عِلَّةً جَامِعَةً، وَلِإِثْبَاتِ الْعِلَّةِ طُرُقٌ، وَالْعُمْدَةُ الدَّوَرَانُ، وَيُعَبِّرُ عَنْهُ بِالطَّرْدِ وَالْعَكْسِ، وَهُوَ الِاقْتِرَانُ وُجُودًا وَعَدَمًا ، قَالُوا الدَّوَرَانُ آيَةُ كَوْنِ الْمَدَارِ عِلَّةً لِلدَّائِرِ ، وَالتَّرْدِيدُ ، وَيُسَمَّى بِالسَّبْرِ وَالتَّقْسِيمِ، وَهُوَ تَتَبُّعُ الْأَوْصَافِ، وَإِبْطَالُ بَعْضِهَا؛ لِتَعَيُّنِ الْبَاقِي، وَهُوَ يُفِيدُ الظَّنَّ ، وَالتَّفْصِيلُ فِي أُصُولِ الْفِقْهِ.
+And tamthīl is an inference from a particular to another particular due to a common matter. The jurists call it qiyās: the first is called the original (aṣl), the second the branch (far'), and the common matter the comprehensive cause (ʿilla). For proving the cause there are methods; the main one is al-dawarān (coextensiveness), and it is expressed by 'ṭard wa 'aks' (indicative and counterindicative), and it is the concomitance in existence and non-existence. They said: al-dawarān is a sign that the mamdār (criterion?) is a cause for the dā'ir (coextensive thing). And al-tardīd (alternation), which is called al-sabr wa al-taqsīm (trial and division), and it is the tracing of attributes and annulling some of them, so that the remaining becomes specific; and it yields opinion. The details are in uṣūl al-fiqh.
+Source pages p. 155
+
+Commentary
+This passage defines tamthīl (analogy) as an argument that moves from one particular instance to another based on a shared attribute. The jurists call this qiyās (analogical reasoning in fiqh). The first particular is the 'aṣl' (original case), the second is the 'far' (branch), and the shared attribute is the 'ʿilla' (cause). The text then lists methods for establishing the cause, the principal being 'dawarān' (coextensiveness), which is also called 'ṭard wa 'aks' (the presence and absence of the cause correspond to the presence and absence of the ruling). Another method is 'tardīd' or 'sabr wa taqsīm' (trial and division), which involves examining possible attributes and eliminating them until one remains. Both methods yield only probability (ẓann). The author refers to uṣūl al-fiqh for a detailed treatment. This is foundational for Islamic legal reasoning, where analogy is used to extend rulings from known cases (e.g., the prohibition of wine) to new cases (e.g., other intoxicants).
+
+Key Terms
+التمثيل (al-tamthīl): Logical analogy: inference from a particular to a particular via a common attribute; the basis of juristic qiyās. [Note: In logic, tamthīl is distinguished from qiyās (syllogism); in fiqh, qiyās is used for this analogical argument.]
+القياس (عند الفقهاء) (al-qiyās (ʿinda al-fuqahā')): Analogical reasoning in Islamic jurisprudence involving aṣl, far', and ʿilla. [Note: Logicians restrict qiyās to syllogism; jurists use it for analogy.]
+الدوران (al-dawarān): The method of establishing causality by observing that the ruling co-occurs with the attribute in existence and non-existence. [Note: No significant shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+Which method for establishing the cause is described as 'the concomitance in existence and non-existence'?
+A) al-dawarān
+B) al-sabr wa al-taqsīm
+C) al-tardīd
+D) al-qiyās
+
+Key Takeaway
+Tamthīl is analogy from particular to particular via a common cause; jurists use dawarān and sabr wa taqsīm to establish the cause, both yielding probability.
+
+How This Lesson Applies — to MY Life?
+?
+Given the ruling that 'selling dates before they ripen is prohibited' (aṣl) due to uncertainty (gharar), and a new case of 'selling unripe fruit on trees' (farʿ), identify the ʿilla and state whether the analogy is valid. Which method (dawarān or sabr wa taqsīm) would you use to establish the ʿilla?
+?
+Construct an analogical argument in fiqh using the components (aṣl, far', ʿilla). For example, take a known ruling from the Quran or Sunnah and extend it to a contemporary issue, explaining each component.
+
+Pages p. 155 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 543
+Module 19 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+5 min
+Complete and Incomplete Induction (Istiqra')
+Author defines complete and incomplete induction and explains their epistemic value.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete from incomplete induction and determine the epistemic certainty of each.
+
+Core Idea
+Complete induction yields certainty; incomplete induction only yields probability.
+
+In this passage, the author defines induction (istiqra') and its two types. Induction moves from particular instances to a universal rule. But not all induction gives certainty. The key difference lies in whether all instances have been examined exhaustively or only most.
+
+Guided Path
+1
+Identify the two types of induction
+Find the terms 'tam' and 'naqis' in the Arabic. What do they refer to?
+Complete and incomplete induction
+2
+Understand the epistemic claim
+What does the author say about the certainty of each type?
+Complete yields yaqin (certainty), incomplete yields zann (probability)
+3
+Examine the example
+The example: 'Every animal moves its lower jaw when chewing.' Which particulars are given? Why is this incomplete?
+Only humans, horses, cows, etc. are mentioned; not all animals examined
+4
+Recognize the alternative name
+Complete induction is also called qiyas muqassam. What does that imply?
+It is a type of syllogism by division and exhaustive enumeration
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الاستقراء ولما فرغ عن القياس بأقسامه أراد أن يشرع في الاستقراء، قال: الاستقراء حجة، منه ناقص ومنه تام، يستدل فيها من حكم الأكثر على الكل. اعلم: أن الاستقراء تام، وهو حجة، يستدل فيها بحصر شيء في الجزئيات حصرا قطعيا، وإثبات حكم لها ليلزم الحكم على ذلك الشيء كليا، وهو يفيد اليقين ويسمى قياسا مقسما، وناقص، وهو ما ذكره المصنف، وقسيم للقياس المتقدم. كما تقول: كل حيوان يتحرك فكه الأسفل عند المضغ؛ لأن الإنسان والفرس والبقر إلى غير ذلك مما تتبعناه كذلك. وهو إنما يفيد الظن.
+Section on induction. And when he finished discussing the syllogism and its divisions, he intended to begin on induction, and he said: Induction is a proof, part of it is incomplete and part of it is complete; one deduces from the judgment of the majority to the whole. Know: that complete induction is a proof, wherein one deduces by enumerating a thing's particulars in a definitive enumeration, and establishing a judgment for them so that the judgment upon that thing in its entirety necessarily follows, and it yields certainty and is called a divisive syllogism (qiyas muqassam). Incomplete induction is what the author mentioned, and it is a counterpart to the preceding syllogism. For example, you say: Every animal moves its lower jaw when chewing, because man, horse, and cow, etc., which we have investigated, are like that. And it only yields probability.
+Source pages p. 543
+
+Commentary
+This passage defines induction (istiqra') as a type of argument. It begins by noting that after completing the discussion of syllogism, the author now moves to induction. Induction is a proof (hujja) that comes in two types: complete (tam) and incomplete (naqis). Complete induction involves enumerating all particulars of a universal in a definitive way, establishing a judgment for each particular, and then concluding that judgment applies to the universal. This yields certainty and is also called a divisive syllogism (qiyas muqassam). Incomplete induction, on the other hand, is based on observing most particulars and inferring the judgment for the whole. This only yields probability (zann), not certainty. The example given is: 'Every animal moves its lower jaw when chewing' because humans, horses, cows, and others we have observed do that. This is an incomplete induction because not all animals have been examined. The passage clarifies the epistemological difference: complete induction is certain, incomplete is probabilistic.
+
+Key Terms
+الاستقراء (al-istiqra'): Induction: an inference from particulars to a universal judgment. It is divided into complete (yielding certainty) and incomplete (yielding probability). [Note: In later logic, especially in Western logic, induction is often associated with probabilistic reasoning; here complete induction is considered certain.]
+القياس المقسم (al-qiyas al-muqassam): A divisive syllogism, used as a synonym for complete induction, where the judgment is established by division and exhaustive enumeration. [Note: This term is rare in later manuals; it appears in earlier texts like al-Sullam.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this passage, what is the epistemic status of incomplete induction?
+A) Certainty (yaqin)
+B) Probability (zann)
+C) Equivocal (shakk)
+D) Necessity (darurah)
+
+Key Takeaway
+Induction is a proof that can be complete (certain) or incomplete (probable), and its epistemic value depends on whether all particulars have been examined.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Every revealed scripture that exists today has been preserved in its original language, because the Qur'an, the Torah, the Gospel (as we have them) are in their original languages.' Is this complete or incomplete induction? Justify your answer with reference to the epistemic value.
+?
+Construct a complete induction (qiyas muqassam) to prove that all five daily prayers of Islam are obligatory. List the particulars and the universal conclusion.
+
+Pages p. 543 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 544
+Module 19 · Lesson 5
+Next →
+Induction and Analogy
+beginner
+10 min
+Complete and Incomplete Induction: Certainty vs Probability
+Author defines complete and incomplete induction, emphasizing the majority principle.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction, and explain why incomplete induction yields only probability and requires claiming majority, not complete enumeration.
+
+Core Idea
+Incomplete induction yields probability, not certainty, because exceptions are possible.
+
+This passage defines induction (istiqra') and its two types. Complete induction examines all particulars and gives certainty. Incomplete induction does not cover all cases, so it only gives probability. The author also clarifies a debate: some scholars argue that incomplete induction must claim complete enumeration, but the correct view is that it only claims majority. Understanding this distinction is crucial for evaluating arguments in Islamic sciences that rely on empirical generalizations.
+
+Guided Path
+1
+Identify the two types of induction
+Find in the Arabic where the author distinguishes between complete (tām) and incomplete (nāqiṣ) induction. Notice that complete induction is defined as examining all particulars, while incomplete does not.
+2
+Analyze the basis of certainty vs probability
+Understand that complete induction yields certainty (qaṭ') because there is no possibility of a counterexample. Incomplete induction yields only probability (ẓann) because it is possible that some particulars do not follow the general ruling.
+The example of the crocodile (timsāḥ) illustrates this: the ruling is probable for crocodiles not examined.
+3
+Recognize the debate about claiming complete enumeration
+The author refutes the position of al-Sayyid al-Sharif who claimed that incomplete induction must include a claim of complete enumeration (iddi'ā' al-ḥaṣr). The author argues that if that were required, it would turn induction into a syllogism yielding certainty, but incomplete induction is not meant for that.
+4
+Grasp the majority principle
+The author states that what is obligatory is claiming majority (iddi'ā' al-akthar), because probability follows what is predominant. If the claim of majority is true, it yields probability; otherwise not. This keeps the reasoning probabilistic.
+This principle is used in Islamic law when generalizing from common cases.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الاستقراء. لِجَوَازِ التَّخَلُّفِ، أي لجواز تخلف الحكم عن بعض الجزئيات، كَمَا قِيلَ فِي التِّمْساحِ في المثال المضروب، هذا بخلاف الاستقراء التام؛ فإنه يفيد القطع. وَلَا يَجِبُ ادَّعَاءُ الْحَصْرِ في هذا الاستقراء، كَمَا ذَهَبَ إِلَيْهِ السَّيِّدُ المحقق وَأَتْبَاعُهُ، وَإِلَّا، أي وإن وجب ادعاء الحصر أَفَادَ الاستقراء الْجَزْمَ، وَإِنْ كَانَ ادِّعَائِيَّا، فيستلزم أن يكون الاستقراء بحيث لو سلم مقدماته لزم القطع بالمطلوب، وهذا شأن القياس. نَعَمْ، يَجِبُ ادَّعَاءُ الْأَكْثَرِ؛ لِأَنَّ الظَّنَّ تَابِعُ لِلْأَعَمِّ الْأَغْلَبِ، فإن كان هذا الادعاء صادقا أفاد الظن، وإلا لا، لكنه بحيث لو سلم لزم الظن بالمطلوب، وَلِذَلِكَ، أي لكون الظن تابعا للأغلب بَقِيَ الْحُكْمُ فِي غَيْرِ التِّمْسَاحِ كَذَلِكَ.
+Section on induction. Because of the possibility of exception, i.e., the possibility of the judgment not applying to some particulars, as was said regarding the crocodile in the given example. This is unlike complete induction, for it yields certainty. And it is not obligatory to claim complete enumeration in this [incomplete] induction, as the master scholar and his followers held. Otherwise, i.e., if claiming complete enumeration were obligatory, then induction would yield certainty, even if that claim is only asserted. Thus it would entail that induction [when] its premises are granted, certainty of the desired conclusion follows, and this is the nature of syllogism. Yes, it is obligatory to claim majority, because probability follows what is more general and predominant. If this claim is true, it yields probability; otherwise not, but it is such that if granted, probability of the desired conclusion follows. And therefore, i.e., because probability follows the predominant, the judgment remains likewise for other than the crocodile.
+Source pages p. 544
+
+Commentary
+This passage defines induction (istiqra'), distinguishing between complete (tam) and incomplete (nāqiṣ) induction. Complete induction examines all particulars and yields certainty (qaṭ'), because there is no possibility of exception. Incomplete induction, due to potential exceptions (though not actual), yields only probability (ẓann). The commentator then addresses a dispute: some, like al-Sayyid al-Sharif, claim that incomplete induction still requires claiming complete enumeration of all particulars, but that would turn it into a syllogism (qiyās), giving certainty. The correct view is that one need only claim majority (akthar), not complete enumeration, because probability follows what is predominant. If the claim is true, probability results; if not, it doesn't. The example of the crocodile (timsāḥ) illustrates reasoning from observed cases to a general ruling, but since not all crocodiles were examined, the conclusion is probable, not certain.
+
+Key Terms
+استقراء
+استقراء تام
+ادعاء الحصر
+ادعاء الأكثر
+ظن
+قطع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what does incomplete induction require?
+A) Complete enumeration of all particulars
+B) Claiming majority
+C) A syllogistic proof
+D) Certainty from previous knowledge
+
+Key Takeaway
+Incomplete induction yields probability through claiming majority, while complete induction yields certainty through full enumeration.
+
+How This Lesson Applies — to MY Life?
+?
+1. Consider the following: A scholar observes that in his community, all observed cases of riba (interest) involve increase in spot exchanges. He concludes that all riba involves increase. Is this complete or incomplete induction? What level of certainty does it yield?
+?
+2. A mufti says, 'I have examined a thousand fatwa rulings on this issue, and most agree that x is permissible. Therefore, x is permissible.' Is this relying on complete induction? What must be claimed for this to be valid probabilistic reasoning?
+
+Pages p. 544 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 544
+Module 19 · Lesson 6
+Next →
+Induction and Analogy
+intermediate
+5 min
+A Doubt About Majority and Its Solution
+Author presents a logical doubt about applying the majority principle to individuals, then resolves it.
+
+Learning Objective
+By the end of this lesson, you will be able to resolve the apparent contradiction in applying the majority principle to individuals by distinguishing the probability of a combination from the probability of its parts.
+
+Core Idea
+Probability of each part does not entail probability of the whole—a logical distinction that dissolves the doubt.
+
+This lesson examines a logical doubt about applying the majority principle to individuals in a room with two Muslims and one disbeliever. You will see how an apparent contradiction arises and how careful analysis of what constitutes the 'entailer' dissolves it. This sharpens your understanding of probabilistic reasoning in Islamic legal and theological contexts.
+
+Guided Path
+1
+Set up the scenario
+Imagine three persons in a house: two Muslims and one kafir, but you do not know who is who. Based on the majority principle, each person you see is probably Muslim because most of the group are Muslims.
+The 'majority principle' (qā'idat al-aghlabiyya) assigns probability based on the predominant case.
+2
+Identify the entailment
+Notice that Islam of any two specific individuals (the entailer) necessarily entails the kufr of the third (the entailment), given the fixed composition. Therefore, if you are certain that two are Muslim, you become certain that the third is kafir. Similarly, if you have probability (ẓann) that two are Muslim, you should have probability that the third is kafir.
+The relation is a conditional: if two are Muslim then the third is kafir.
+3
+Spot the contradiction
+Apply this reasoning to every individual: pick any two persons, and the third becomes probably kafir. Hence, each person is simultaneously probably Muslim (from the majority principle) and probably kafir (from the entailment argument). This appears to be a contradiction.
+The contradiction arises because we treat each individual as part of multiple pairs.
+4
+Apply the solution
+The key is that the true entailer is the combination of two individuals being Muslim, not each individually. To deduce the probability of the third being kafir, you need probability that both together are Muslim. But in the majority principle, we only have probability of each separately; that does not give probability of the combination. Hence, the entailment does not hold, and the contradiction disappears.
+This is a classic example of why probability of parts does not entail probability of the whole.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَهَهُنَا شَكٍّ، وَهُوَ: أَنَّهُ إِذَا فُرِضَ فِي بَيْتِ ثَلَاثَةٌ، اثْنَانِ مُسْلِمَانِ وَوَاحِدٌ كَافِرٌ، لَكِنْ لَمْ تَعْلَمُ بِأَعْيَانِهِمْ فَكُلُّ مَنْ تَرَاهُ مَظْنُّونُ الْإِسْلَامِ؛ بِنَاءً عَلَى قَاعِدَةِ الْأَغْلَبِيَّةِ؛ فإن الأكثر منهم - وهم اثنان - مسلمان، وَكُلَّمَا تَيَقَّنْتَ، أي صدَّقْتَ بِإِسْلَامِ اثْنَيْنِ مِنْهُمْ عَلَى التَّعَيُّنِ تَيَقَّنْتَ بِكُفْرِ الْبَاقِي، يعني أنه كلما حصل الظن بإسلام اثنين حصل الظن بكفر الباقي؛ لأن إسلام اثنين ملزوم لكفر الباقي بِنَاءً عَلَى الْفَرْضِ، وَالظَّنُّ بِالْمَلْزُومِ يَسْتَلْزِمُ الظَّنَّ بِاللَّازِم، إذا كان اللزوم معلوما، وههنا كذلك، فَيَلْزَمُ أَنْ يَكُونَ كُلُّ وَاحِدٍ مَظْنُونَ الْكُفْرِ، وَذَلِكَ مُنَافٍ لِمَا ثَبَتَ أَوَّلًا. وَحَلُّهُ: أَنَّ الْمَلْزُومَ إِذَا كَانَ أَمْرَيْنِ فَلَا بُدَّ فِي اسْتِلْزَامِ ظَنِّهِ الظَّنَّ بِاللَّازِم أَنْ يَظُنَّ بِأَنَّ كِلَيْهِمَا مَعا مُتَحَقِّقُ، لَا أَنْ يَظُنَّ بِكُلِّ وَاحِدٍ وَاحِدٍ بِالْفِرَادَةِ؛ لأن الملزوم بالحقيقة مجموع ذينك الأمرين، وكل واحد واحد على الانفراد جزء الملزوم، وَالثَّانِي لَا يَسْتَلْزِمُ الْأَوَّلَ، أي تحقق كل واحد واحد على الانفراد لا يستلزم تحقق المجموع، فلا يستلزم ظنه ظنه، وَالْمُتَحَقِّقُ فِيمَا نَحْنُ فِيهِ هُوَ الثَّانِي، بل ظنه، فَلَا مَحْذُورَ، فَتَفَكَّرْ.
+And here is a doubt: That if there are three persons in a house, two Muslims and one disbeliever, but you do not know who they are individually, so everyone you see is probable to be Muslim, based on the majority principle; for the majority of them – which are two – are Muslims. And whenever you become certain, i.e., you believe with certainty that two of them are Muslims specifically, you become certain of the disbelief of the remaining one, meaning that whenever probability of Islam of two occurs, probability of disbelief of the remaining one occurs, because Islam of two entails disbelief of the remaining one based on the assumption; and probability of the entailer entails probability of the entailment, when the entailment is known, and here it is so. So it would follow that every individual is probable to be a disbeliever, and that contradicts what was established initially. And its solution: That when the entailer consists of two things, then for the probability of it to entail probability of the entailment, one must have probability that both together are realized, not that each individually is probable separately; because the real entailer is the combination of those two things, and each one individually is part of the entailer. And the second does not entail the first, i.e., the realization of each individually does not entail realization of the combination, so its probability does not entail its probability. And what is realized in our case is the second, rather its probability, so there is no problem. So reflect.
+Source pages p. 544
+
+Commentary
+This passage presents a doubt (shakk) arising from applying the majority principle to a specific scenario. Suppose three people in a room: two Muslims, one kafir. You don't know who is who. Based on majority (aghlabiyya), each person seen is probably Muslim (since most are Muslim). But if you become certain that two specific individuals are Muslim, then the third must be kafir (by the assumption). This leads to a contradiction: each individual was probably Muslim, but now each can be shown to be probably kafir (because if you pick any two, the third is kafir). The solution (hall) distinguishes the entailer (ملزوم) as the combined fact that two are Muslim, not each individually. To deduce that any particular third is kafir, you need probability of the combination (that both are Muslim), not just probability of each separately. In our scenario, we only have probability of each being Muslim, not of the pair together. Therefore, the contradiction dissolves. The commentator emphasizes the need to be precise about what constitutes the entailer.
+
+Key Terms
+ملزوم (malzūm)
+لازم (lāzim)
+قاعدة الأغلبية (qā'idat al-aghlabiyya)
+ظن (ẓann)
+شك (shakk)
+
+Key Terms from Source Passage
+
+Checkpoint
+In the doubt about three persons, what leads to the apparent contradiction?
+A) Assuming that probability of each individual being Muslim entails probability of the combination.
+B) Assuming that the majority principle guarantees certainty.
+C) Forgetting that there are two Muslims and one kafir.
+D) Using complete induction instead of incomplete induction.
+
+Key Takeaway
+The probability of each part separately does not imply the probability of the whole combination; careful analysis of what constitutes the entailer resolves the apparent contradiction in applying the majority principle.
+
+How This Lesson Applies — to MY Life?
+?
+In a hadith collection, suppose 70% of narrations of a certain narrator are authentic. Using the majority principle, you might say each individual narration is probably authentic. Then if you consider two specific narrations, you might conclude they are probably both authentic. Explain why this conclusion is not logically valid based on the lesson's distinction.
+?
+Consider a fard ruling: if most scholars say an act is wajib, and most say it is mubah, can you conclude by majority that it is probable that it is both? Apply the entailer distinction from this lesson to assess the reasoning.
+
+Pages p. 544 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 546
+Module 19 · Lesson 7
+Next →
+Induction and Analogy
+intermediate
+7 min
+The Rule of Majority: Individual vs. Collective Judgment in Induction
+Author clarifies the rule of majority and distinguishes individual from collective judgments.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between individual and collective probabilistic judgments based on the rule of majority in induction, and identify when the rule is overridden by stronger evidence.
+
+Core Idea
+The rule of majority applies to individuals singly, not to the group as a whole.
+
+This lesson examines a subtle but crucial distinction in probabilistic reasoning: the difference between concluding about each individual versus concluding about a collection. The author of this commentary clarifies that the rule of majority (qa'idat al-aghlabiyya) gives probability for each single individual, but does not extend to combinations. This insight prevents common errors in inductive reasoning, especially when applying majority-based conjectures in Islamic jurisprudence and theology.
+
+Guided Path
+1
+Identify the Two Types of Judgment
+Read the passage and distinguish between 'individual whole' (al-kull al-fardi) and 'collective whole' (al-kull al-mujma'i). The former refers to each individual considered separately; the latter refers to them as a combined group.
+This distinction is central to the author's argument.
+2
+Extract the Rule of Majority
+The rule states: the judgment of the majority applies to each single individual of that majority. Note that it does not say the judgment applies to any combination of individuals.
+3
+Apply the Example
+Consider a community where the majority are Muslims. According to the rule, you can conjecture that each individual is Muslim (one by one). But you cannot conjecture that any two specific individuals (e.g., Zayd and 'Amr) are both Muslim together, because that is a collective judgment not covered by the rule.
+The author stresses that this is a matter of probability, not certainty.
+4
+Recognize the Role of Certainty vs. Probability
+In certainty, the two forms (distributed and combined) are equivalent. But in probability, they diverge. The rule of majority only yields probability for individuals singly, not for the combination.
+This is why the author calls the distinction 'in consideration only' for certainty but real for probability.
+5
+Understand When the Rule is Overridden
+If stronger evidence appears, such as knowing that one of three individuals is a disbeliever, the weak conjecture from the majority is invalidated. This is analogous to a definitive text (nass) overriding analogical reasoning (qiyas).
+The author uses this to show that the rule of majority is not absolute.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الاستقراء يوجب صُورَتَيْ مَلْزُومِ الْيَقِينِ) يعني لا تفاوت في صورتي يقين المجموع المنتشر والمجتمع؛ فإن كليهما ملزوم كفر الباقي؛ لِعَدَمِ الْمُوجِبِ لِلانْتِشَارِ) أي لفقدان الذي يوجب الذي يوجب الاختلاف بينهما، (بَلْ إِنَّمَا التَّفَاوُتْ) بين المجموعين (بالاِعْتِبَار) لا غير. وَأَمَّا مَا نَحْنُ فِيهِ) من حديث الظن (فبخلاف ذَلِكَ) أي بخلاف اليقين؛ فإن الظن بالملزوم الذي هو إسلام اثنين لا الظن باللازم الذي هو كفر الباقي، بل الظن مضادة لقاعدة الأغلبية. (فَتَأَمَّلْ) فيه؛ فإن الفرق بين اليقين والظن في هذا الحكم تحكم محض، كيف وانفكاك الظن بالملزوم عن الظن باللازم تجويز لظن الانفكاك بينهما، وهو كما ترى. واعلم أن قاعدة الأغلبية إنما حكمت بأن حكم كل واحد واحد حكم الأغلب؛ الأفراد الأغلب، ولا يلزم أن يكون حكم مجموع واحد واحد حكم فإن الكل الأفرادي والمجموعي مفترقان في الحكم، والحكم الأفرادي قد يصدق ثبوته لكل واحد واحد بدلا وانفرادا ففي الصورة المضروبة يظن بإسلام كل واحد واحد لا بإسلام مجموع اثنين، لا معا ولا منتشرا، والملزوم لظن كفر الباقي هو الثاني دون الأول، فانحسم الشك، ولعل ذلك هو مراد المجيب فحينئذ لا يرد عليه شيء. ولو تنزلنا قلنا في الجواب: إن الضعيف يَضْمَحِلُّ عند وجود القوي، فتعين كفر واحد من الثلاثة أَبْطَلَ الظن بإسلام الكل، كما أن النص القاطع يبطل القياس، ولا ضير فيه، فيخلف قاعدة الأغلبية في بعض المواد، ووجود المانع غير مضر. هذا، والله أعلم بالصواب.
+Chapter on Induction. [It] necessitates two forms of the necessary of certainty, meaning there is no difference in the two forms of certainty of the collective distributed and the collective combined; for both are necessary of the disbelief of the remainder, due to the absence of the cause of distribution, i.e., the absence of that which necessitates difference between them. Rather, the difference between the two collectives is only in consideration, nothing else. And as for our subject here regarding probability, it is contrary to that, i.e., contrary to certainty; for probability of the necessary which is the Islam of two is not probability of the necessary which is the disbelief of the remainder; rather, probability contradicts the rule of majority. So reflect on it; for the distinction between certainty and probability in this ruling is pure arbitrariness. How so? And the dissociation of probability from the necessary from probability of the necessary is allowing the probability of dissociation between them, and it is as you see. Know that the rule of majority only rules that the ruling of each single individual is the ruling of the majority individuals; and it does not necessitate that the ruling of the sum of individuals one by one is the ruling of the majority. For the individual whole and the collective whole differ in ruling, and the individual ruling may be true for each single individual alternately and singly, so in the given example, one conjectures the Islam of each single individual, not the Islam of a pair of two, neither together nor distributed. The necessary for the conjecture of the disbelief of the remainder is the second, not the first, so the doubt is removed. Perhaps this is the intention of the respondent; therefore nothing objection applies to him. And if we descend, we say in the answer: The weak disappears in the presence of the strong, so the determination of the disbelief of one of the three invalidates the conjecture of the Islam of all, just as the definitive text invalidates analogical reasoning, and there is no harm in it. So the rule of majority is superseded in some matters, and the existence of an impediment is not harmful. This, and God knows best what is correct.
+Source pages p. 546
+
+Commentary
+This passage is an epistemological discussion on induction (al-istiqra') and the rule of majority (qa'idat al-aghlabiyya). The author, commenting on a matn, distinguishes between certainty and probability. He explains that the rule of majority applies to individuals considered separately, not to the collection. For example, if a majority of a group is Muslim, one can conjecture each individual is Muslim, but one cannot conjecture that any two specific individuals together are both Muslim. The author argues that confusing the individual and collective judgments leads to error. He further notes that if a strong evidence (such as knowledge that one of three is a disbeliever) appears, the weak conjecture based on majority is invalidated, similar to how a definitive text (nass qati') overrides analogical reasoning (qiyas). This shows that the rule of majority is not absolute.
+
+Key Terms
+الاستقراء
+قاعدة الأغلبية
+ظن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if a majority of a community are Muslims, what can you conclude about two specific individuals (Zayd and 'Amr)?
+A) Both are Muslim with probability.
+B) Each is individually Muslim with probability, but not their both being Muslim together.
+C) They are both disbelievers.
+D) The rule of majority guarantees both are Muslim.
+
+Key Takeaway
+The rule of majority yields probability for each individual separately, not for any combination; if stronger evidence appears, the weak conjecture is invalidated.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a community where 80% of narrators are trustworthy (thiqat) and 20% are weak. Using the rule of majority as taught, assess: Can you conclude with probability that a specific narrator Zayd is trustworthy? Can you conclude that Zayd and 'Amr (both from the community) are both trustworthy? Justify your answer with reference to the distinction between individual and collective judgments.
+?
+Explain why the rule of majority is superseded when strong contrary evidence appears, using the author's analogy of a definitive text (nass) overriding analogical reasoning (qiyas). Provide an example from usul al-fiqh where a clear text overrides a majority-based opinion.
+
+Pages p. 546 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 547
+Module 19 · Lesson 8
+Next →
+Induction and Analogy
+intermediate
+5 min
+Analogical Reasoning Yields Certainty: Refuting Ibn Sina and al-Tusi
+Author defends analogical reasoning as certain and refutes Ibn Sina and al-Tusi.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the author's argument that analogical reasoning yields certainty and identify the error in Ibn Sina and al-Tusi's position.
+
+Core Idea
+Analogical reasoning is certain because it reduces to categorical syllogism.
+
+The author defends analogical reasoning (tamthil) as yielding certainty (qat'), contrary to the claims of Ibn Sina and Nasir al-Din al-Tusi who consider it merely probable or weak. He argues that tamthil, as used by jurists, is reducible to categorical syllogism and thus produces certain knowledge. This lesson examines the author's critique and the logical basis of his claim.
+
+Guided Path
+1
+Identify the author's thesis
+Read the passage and find where the author states his main claim about analogical reasoning. What does he say about its certainty?
+The author says 'التمثيل يفيد القطع'.
+2
+Define tamthil as inference from particular to particular
+The author defines tamthil as 'الاستدلال بجزئي على جزئي آخر لأمر مشترك'. Write this in your own words: an inference from one particular to another based on a shared attribute.
+3
+Understand the reduction claim
+The author claims that the 'طريق الإيصال' (way of connection) in tamthil is certain because it goes back to qiyas (categorical syllogism). Think about how this reduction works: the shared attribute becomes the middle term.
+Example: 'All intoxicants are prohibited; this drink is an intoxicant; therefore it is prohibited'.
+4
+Contrast with Ibn Sina and al-Tusi's view
+According to the author, Ibn Sina considered tamthil a weak proof, and al-Tusi thought nothing follows from it. The author calls this poor understanding and even stupidity. Why would they hold that view?
+They likely thought tamthil lacks universality.
+5
+Evaluate the argument's strength
+Consider whether the reduction to categorical syllogism always works. What conditions must be met for tamthil to be certain? The passage is cut off, but reflect on the role of the 'illa (cause).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولما فرغ عن الاستقراء أراد أن يشرع في التمثيل، وقال: التمثيل يفيد القطع، ورد استدلال بجزئي على جزئي آخر لأمر مشترك، والفقهاء يسمونه قياسا، والأول أصلا والثاني فرعا، والمشترك علة جامعة. قالوا هو حجة ظنية، والشيخ أفرط في ذلك وقال هو أيضا حجة ضعيفة. وهذا كله من سوء فهم الشيخ وأتباعه، والنصير الطوسي قد انتهى في هذا الأمر حد البلادة، وظن أنه لا يلزم منه شيء. فإنا بينا سابقا أن طريق الإيصال فيه قطعي؛ فإنه راجع إلى القياس، فإن كانت
+And when he finished with induction, he intended to commence analogy, and he said: Analogy yields certainty; it is an inference from a particular to another particular due to a common matter. The jurists call it qiyas; the first is the original, the second the branch, and the common matter is the comprehensive cause. They said it is a probable proof. Sheikh (Ibn Sina) went to excess in this and said it is also a weak proof. All this is from the poor understanding of the Sheikh and his followers. Al-Nasir al-Tusi reached in this matter the limit of stupidity, and thought that nothing follows from it. For we have previously shown that the way of connection in it is certain; for it goes back to qiyas. If it were...
+Source pages p. 547
+
+Commentary
+This passage is a critical refutation of Ibn Sina and Nasir al-Din al-Tusi's position on analogical reasoning (tamthil). The author, commenting on the Sullam al-'Ulum, declares that analogical reasoning yields certainty (qat'), not mere probability. He defines tamthil as an inference from one particular to another particular based on a shared attribute, which jurists call qiyas (analogical reasoning in Islamic law). The first particular is the original (asl), the second the branch (far'), and the shared attribute is the comprehensive cause ('illa jami'a). The logicians (Ibn Sina and al-Tusi) claim it is only probable (zanniyya), but the author calls this a misunderstanding and even accuses al-Tusi of stupidity. He asserts that the way of connection (tariq al-isal) in tamthil is certain because it is reducible to categorical syllogism (qiyas iqtirani). The passage ends mid-sentence, likely continuing with a conditional explaining when the reduction yields certainty.
+
+Key Terms
+التمثيل
+قياس
+قطعي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why does analogical reasoning (tamthil) yield certainty?
+A) Because it is based on the rule of majority.
+B) Because it goes back to categorical syllogism (qiyas).
+C) Because it is used by jurists.
+D) Because it is an inference from particular to particular.
+
+Key Takeaway
+Analogical reasoning (tamthil) can yield certainty when it is reducible to a valid categorical syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Take a legal analogy from usul al-fiqh (e.g., the example of wine and nabidh). Write it first as tamthil (particular to particular), then convert it to a categorical syllogism. Identify the major premise, minor premise, and conclusion.
+?
+Task 2: The author accuses Ibn Sina and al-Tusi of misunderstanding tamthil. List two possible reasons why they considered tamthil weak. Then explain how the author's reduction to qiyas addresses those reasons.
+
+Pages p. 547 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 548
+Module 19 · Lesson 9
+Next →
+Induction and Analogy
+intermediate
+5 min
+Analogical Reasoning Yields Certainty with Certain Premises
+Author defends tamthil as yielding certainty, refuting those who dismiss it as merely probable.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the author's argument that analogical reasoning yields certainty when premises are certain, and identify the conditions under which analogy is valid.
+
+Core Idea
+Analogy is not inherently weaker—it is as certain as its premises.
+
+Many scholars dismiss analogical reasoning as merely probable, but the author argues that when the premises about the 'illa are certain, the conclusion is certain. In this lesson, we will analyze the logical structure of his defense and see how it mirrors deductive syllogism.
+
+Guided Path
+1
+Identify the thesis
+Find the opening claim: 'Analogy yields certainty; its premises, if certain, produce certainty.' This is the main thesis the author defends.
+The thesis equates analogy with categorical syllogism in epistemic strength.
+2
+Extract the conditions for certainty
+The author lists conditions: (1) the ruling of a particular is determined by a cause with certainty, (2) that cause exists in another particular with certainty, and (3) the cause is established to extend the ruling. These conditions ensure the conclusion is certain.
+These conditions correspond to the requirements of valid qiyas in usul.
+3
+Analyze the rhetorical argument
+The author poses a rhetorical question: would a sane person doubt that the ruling follows? This is a logical argument: if p (certain determination and existence), then q (certain conclusion). The form is modus ponens.
+The certainty of the conclusion depends on the certainty of the premises.
+4
+Distinguish between logical form and material content
+The author concedes that in practice many analogies are probable because their premises are probable. This shows that the weakness is not in the logical form but in the material premises.
+The same applies to categorical syllogisms: if premises are probable, conclusion is probable.
+5
+Evaluate the dismissal of critics
+The author dismisses those who weaken the argument as dull. This is a rhetorical move; it does not affect the logical argument. A proper critique should address premises, not attack the arguer.
+Ad hominem is not a valid logical refutation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التمثيل يفيد القطع مقدماته قطعية تورث القطع، كالقياس المنطقي. وهل يشك عاقل إذا ثبت أن حكم الجزئي معلول لعلة قطعا، موجودة في جزئي آخر قطعا في أن يثبت ذلك الحكم في ذلك الجزئي قطعا، لا سيما إذا علم قطعا أن العلة إنما وضعت علة ليتعدى الحكم بها. وإن كانت ظنية تورث الظن، فمن أين ضعف هذه الحجة ؟ ولعل الفقهاء أعلى الله أعلامهم - إنما حكموا بالظنية لأن الأغلب في مقدماته الظن، ومن ههنا ترى بعضهم يقدمون بعض التمثيلات على بعض النصوص. وبالجملة تضعيف هذه الحجة لا يصدر إلا عمن انتهى حد البلادة، ولا يليق أن يخاطب في المباحث العلمية.
+Analogy yields certainty; its premises, if certain, produce certainty, like logical syllogism. Would a sane person doubt that if it is established that the ruling of a particular is determined by a cause with certainty, and that cause exists in another particular with certainty, then that ruling is established in that other particular with certainty, especially if it is known with certainty that the cause was only established as a cause for the ruling to be extended by it? And if the premises are probable, they yield probability. So whence the weakness of this argument? Perhaps the jurists—may Allah elevate their banners—only judged it to be probable because the majority of its premises are probable. From here you see some of them prefer some analogies over some texts. In short, weakening this argument comes only from one who has reached the limit of dullness, and it is not appropriate to address him in scholarly discussions.
+Source pages p. 548
+
+Commentary
+This passage defends the epistemic value of analogical reasoning (tamthil) in Islamic legal and logical discourse. The author begins by asserting that analogy yields certainty (qat') when its premises are certain, and this is similar to how a categorical syllogism (qiyas mantiqi) works. He then poses a rhetorical question: if it is established with certainty that the ruling of a particular case (juz'i) is caused by a specific 'illa, and the same 'illa is found in another particular case, then the ruling must certainly apply to that other case—especially if it is known that the 'illa was placed precisely for the purpose of extending the ruling (ta'diya). The author acknowledges that when the premises are probable (zanni), the conclusion is probable as well. He then critiques those who dismiss analogy as inherently weak; their view, he says, stems from the fact that in practice the majority of premises in analogical arguments are probable—hence jurists often treat them as probable, sometimes even preferring analogies over textual proofs (nusus). But to fundamentally weaken the argument itself is unbecoming of a scholar, as it reaches the level of stupidity (balada). The author upholds that when properly formed with certain premises, analogical reasoning is just as certain as deductive logic.
+
+Key Terms
+التمثيل (al-tamthīl)
+القطع (al-qaṭʿ)
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, when does analogical reasoning (tamthil) yield certainty?
+A) When the premises are probable
+B) When the premises are certain
+C) When it is based on juristic preference
+D) When the analogy is overruled by text
+
+Key Takeaway
+Analogical reasoning yields the same degree of certainty as its premises; it is not inherently weaker than deductive syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+Using the author's criteria, assess whether the following analogy yields certainty: 'The prohibition of gambling (maysir) is due to the 'illa of consuming wealth unjustly (akl al-mal bil-batil); stock market speculation involves consuming wealth unjustly; therefore stock market speculation is prohibited as gambling.' Are the premises certain? Explain.
+?
+Construct your own analogy from tafsir: extend a ruling from one Quranic verse to another using a shared 'illa. State whether the premises are certain or probable and justify.
+
+Pages p. 548 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 550
+Module 19 · Lesson 10
+Next →
+Induction and Analogy
+intermediate
+7 min
+Conditions for Certainty in Analogical Reasoning
+Author sets conditions for tamthīl and responds to objectors
+
+Learning Objective
+By the end of this lesson, you will be able to evaluate whether an analogical argument (tamthīl) yields certainty or probability by checking the three conditions for the cause ('illa).
+
+Core Idea
+Analogy yields certainty only when the cause is certain; otherwise it yields probability.
+
+The author addresses a common charge that analogical reasoning can never produce certainty. He lays out three conditions that must be met for tamthīl to be valid, and shows that if these conditions are established with certainty, the conclusion follows with certainty. This lesson unpacks those conditions and their epistemic status.
+
+Guided Path
+1
+Identify the three conditions for valid tamthīl
+The author states that the imams who accept tamthīl stipulate: (1) the original ruling is not specific to its case, (2) the ruling is known to be caused by a specific cause, (3) that cause exists in the branch. Locate these in the passage.
+2
+Assess the certainty of each condition
+If all three are established with certainty (qaṭ'), the conclusion is certain. If established with probability (ẓann), the conclusion is probable. If not established, the analogy is invalid. This mirrors the material vs. formal distinction in syllogisms.
+3
+Understand the objector's challenge and the author's reply
+The objector claims even if all conditions are granted, tamthīl never yields certainty. The author replies: if the objector means after granting certainty of the conditions, his claim is foolish; otherwise there is no dispute. This highlights that the certainty of the cause is key.
+4
+Apply the conditions to a fiqh example
+Consider the analogy: wine (khamr) is forbidden because of intoxication; nabīdh (date wine) shares this cause. If intoxication is a certain cause, the ruling on nabīdh is certain. If the cause is only probable, the ruling is probable.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التمثيل يفيد القطع الثاني، وقد اختص الأصل بالأول. ثم إن صح كون الجامع علة في الفرع كان الاستدلال به برهانا، والتمثيل بالأصل حشوا.
+
+اعلم: أن الأئمة القائلين بالقياس التمثيلي شرطوا أن لا يكون الأصل مخصوصا بالحكم، وأن يعلم أن الحكم معلل بالعلة المعينة، وهي موجودة في الفرع، فإن ثبت هذه الأمور بالقطعيات ثبت الحكم قطعا، وإن ثبت ظنا ثبت الحكم ظنا، وإن لم يثبت أصلا لم يصح التمثيل.
+
+فقوله وهم يطالبون إلخ
+
+قلنا: نحن نثبت إن تم صح التمثيل، وإلا لا كما أنكم تطالبون بمقدمات أقيستكم، إن صحت صح، وإلا لا.
+
+وقوله ولو سلم الجميع لما أفاد اليقين قلنا إن أراد بعد تسليم قطعية الجميع وقطعية ما شرطوا فذلك سفاهة، وإلا فلا نزاع.
+
+وقوله لأن الجامع إلخ قلنا: نحن نثبت ذلك فيما يستعمل فيه التمثيل، فإن تم تم، وإلا لا في مقدمات أقيستكم.
+
+وقوله ثم إن صح إلخ قلنا: ربما لا يثبت علية العلة إلا بعد ملاحظة الأصل، كما لا يخفى على من تتبع كتب الفقه.
+
+والمصنف رحمة الله تبع الشيخ، أو نظر إلى الأقيسة المستعملة كثيرا، وقال: وهو يفيد الظن، والتفصيل في أصول الفقه، فاطلب من الكتب المصنفة فيه، وتوكل على الله تعالى؛ فإنه ملهم الصواب.
+
+هو رأيه في كتابه الأصولي فواتح الرحموت. وهذا هو نص عبارتهما من المسلم وشرحه الفواتح: وحكمه ثبوت حكم الأصل في الفرع، والظن به بعد النظر، لا القطع، وإن قطع بمقدماته ومواده، وذلك لأن طريق الإيصال فيه ظني؛ فإنه لا يرفع احتمال كون الأصل شرطا في حكمه وتأثير علته، أو الفرع مانعا عن الحكم، فلا يصل إليه الحكم. ولما كان يرد عليه أن القياس إنما ينتج بملاحظة أن كلما توجد يوجد المعلول، وهذه مقدمة قطعية توجب القطع إن كانت العلة قطعية، وإذا جوز كون الأصل شرطا والفرع مانعا فقد منع علية العلة، وكان الكلام عند قطعية المقدمات قال ولو قطع بكون العلة علة تامة وبني الإنتاج على تلك المقدمة رجع إلى القياس المنطقي، ولم يبق قياسا فقهيا فتفكر. وهذا الذي قاله المصنف من أن ما قطع بالعلية يرجع إلى القياس المنطقي، وليس تمثيلا هو ما قاله غيره أيضا، كالإصفهاني في تسديد القواعد. ولكن الشارح رد على ما تمسك به المصنف في الفواتح قائلا: هذا ليس بشيء؛ فإن رجوعه إلى القياس المنطقي لا شناعة فيه، بل هو الأحق بالقبول؛ فإن حاصله أن النبيذ توجد فيه الشدة المطربة التي هي علة الحرمة، وكل ما توجد فيه علة الحرمة فهو حرام، فطريق الإيصال فيه شكل أول قطعي الإنتاج، وإنما يجيئ الظن من المادة من مظنونية العلة، فإذا قطع بالعلية وجب القطع البتة.
+Analogical reasoning (tamthīl) yields certainty? The second [point], and the original case is specific to the first. Then if the commonality is correct as a cause in the branch, the inference with it would be a demonstration (burhān), and the analogical reasoning with the original is redundant.
+
+Know that the imams who adhere to analogical reasoning (qiyās tamthīlī) have stipulated that the original case not be specific to the ruling, and that it is known that the ruling is caused by the specific cause, and that it exists in the branch. If these matters are established with certainty, the ruling is established with certainty; if established with probability, the ruling is established with probability; and if not established at all, the analogical reasoning is invalid.
+
+So his statement: 'And they demand etc.'
+
+We said: We affirm that if it is realized, the analogical reasoning is sound, otherwise not—just as you demand the premises of your syllogisms: if they are sound, they are sound, otherwise not.
+
+And his statement: 'And even if all were granted, it would not produce certainty.' We said: If he means after granting the certainty of all and the certainty of what they stipulated, that is foolishness; otherwise there is no dispute.
+
+And his statement: 'Because the commonality etc.' We said: We affirm that in what analogical reasoning is used for; if it is realized, it is realized; otherwise not—in the premises of your syllogisms.
+
+And his statement: 'Then if it is sound etc.' We said: Perhaps the causality of the cause is not established except after observation of the original, as is not hidden from one who studies the books of jurisprudence (fiqh).
+
+And the author (may God have mercy on him) followed the Shaykh, or looked at the syllogisms used frequently, and said: 'And it yields probability, and the detail is in Uṣūl al-Fiqh, so seek from the books composed on it, and rely on God Almighty; for He is the inspirer of correctness.'
+
+It is his view in his principles book Fawātiḥ al-Raḥamūt. And this is the text of their statement from al-Muslim and its commentary al-Fawātiḥ: 'And its ruling is the affirmation of the ruling of the original in the branch, and probability regarding it after consideration, not certainty, even if its premises and matters are certain, because the method of connection in it is probable; for it does not remove the possibility that the original is a condition in its ruling and the effect of its cause, or that the branch is a preventative of the ruling, so the ruling does not reach it. And since there is an objection against it that the syllogism only produces by observing that whenever the cause exists, the effect exists, and this is a certain premise that necessitates certainty if the cause is certain, and if one allows the possibility of the original being a condition and the branch being a preventative, then one has denied the causality of the cause, and the discussion is regarding the certainty of the premises. He said: "And if one is certain that the cause is a complete cause and builds the production on that premise, it reverts to the logical syllogism, and it is no longer a fiqh syllogism—so reflect." ' And what the author said—that what is certain by causality reverts to the logical syllogism and is not tamthīl—is also what others said, like al-Iṣfahānī in Tasdīd al-Qawā'id. But the commentator objected to what the author adhered to in al-Fawātiḥ saying: 'This is nothing; for its reversion to the logical syllogism is not disgraceful, rather it is most deserving of acceptance. For its essence is that nabīdh contains the inebriating intensity which is the cause of prohibition, and everything that contains the cause of prohibition is forbidden. So the method of connection in it is a first figure that is certain in production, and probability only comes from the matter due to the probability of the cause. So if one is certain of the causality, certainty is necessarily required.'
+Source pages p. 550
+
+Commentary
+This passage is an epistemological discussion about analogical reasoning (tamthīl) and whether it can yield certainty (qat') or only probability (ẓann). The author first states a conditional: if the common characteristic (jāmi') is established as a genuine cause ('illa) in the branch, then the inference becomes a demonstration (burhān) and the analogical reference to the original becomes redundant. This frames the entire debate.
+
+Then he explains the conditions set by the imams who accept tamthīl: (1) the original ruling is not specific to that original alone, (2) it is known that the ruling is caused by a specific cause, and (3) that cause exists in the branch. If all three are established with certainty, the concluding ruling is certain; if only with probability, the conclusion is probable; if not established at all, the analogy is invalid.
+
+The text then presents a dialectical exchange with an objector. The objector demands that the proponents of tamthīl prove these conditions. The response is symmetric: just as the logician demands premises for syllogisms, the analogist demands that the conditions be realized; if they are, the analogy is sound, otherwise not. The objector's claim that even granting all would not yield certainty is dismissed as foolish if he means after granting certainty of the conditions; otherwise there is no disagreement.
+
+Further, the objector questions establishing the causality of the cause. The response: often causality is only known after observing the original, as is common in fiqh works. The author then references the original compiler (muṣannif) who followed the Shaykh (likely al-Tusi) and considered the frequently used analogies, concluding tamthīl yields only probability, with details in uṣūl al-fiqh.
+
+A quotation from the work al-Muslim and its commentary al-Fawātiḥ is provided, stating that even if premises are certain, the method of connection (ṭarīq al-īṣāl) in tamthīl is probable because it does not eliminate the possibility that the original is a condition or the branch is a preventative. However, if one is certain of the cause as a complete cause, then the inference reverts to a logical syllogism (qiyās manṭiqī), which is a first-figure syllogism certain in form—only the material (mādda) of the cause may be probable. The commentator (shāriḥ) objects to the view that such a reversion is problematic, arguing it is actually the correct approach, using the example: nabīdh contains inebriating intensity (shidda muṭriba), which is the cause of prohibition; everything with that cause is forbidden; this is a first-figure syllogism with a certain form. Probability enters only from the material side (ẓannīyat al-'illa). If the causality is certain, the conclusion is necessarily certain.
+
+Thus the passage clarifies that tamthīl is not inherently uncertain; it can be demonstrative if the cause is certain. The debate centers on whether the method itself is probabilistic or whether the probability comes only from the material premises.
+
+Key Terms
+التمثيل
+القياس المنطقي
+العلة
+الظن
+القطع
+الأصل
+الفرع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, under what condition does analogical reasoning (tamthīl) yield certainty?
+A) When the original ruling is specific to its case.
+B) When the cause ('illa) is established as a complete cause with certainty.
+C) When the premises are probable but the form is valid.
+D) When the original is a condition in the ruling.
+
+Key Takeaway
+The epistemological status of analogical reasoning depends entirely on the certainty of its cause; a certain cause yields a certain conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following fiqh analogy: 'The sale of gharar (uncertainty) is prohibited in the original case of selling birds in the air. This prohibition is due to the ʿilla of uncertainty. In the branch case of futures contracts, there is also uncertainty. Does this analogy yield certainty or probability? Check the three conditions from the passage and determine the epistemic status of the conclusion.'
+?
+Identify a real analogy from a madhhab (e.g., Shafiʿi qiyās) and assess whether the ʿilla is certain or probable. Then state whether the ruling derived is certain or probable.
+
+Pages p. 550 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 550
+Module 19 · Lesson 11
+Next →
+Induction and Analogy
+advanced
+8 min
+Analogy Transformed into Logical Syllogism
+Commentator defends transformation of analogy into syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to explain why a certain cause in tamthīl transforms the argument into a logical syllogism (qiyās manṭiqī) and evaluate the commentator's objection to this view.
+
+Core Idea
+When the cause is certain, tamthīl becomes a first-figure categorical syllogism—only the material remains probable.
+
+The passage introduces a key insight: if the common cause is established with certainty, the analogical argument no longer needs the original case as a reference; it becomes a logical syllogism (qiyās manṭiqī) that produces certainty. The commentator (shāriḥ) defends this transformation against those who see it as problematic. This lesson examines that transformation and the debate around it.
+
+Guided Path
+1
+Identify the process of transformation
+The passage states: 'If one is certain that the cause is a complete cause and builds the production on that premise, it reverts to the logical syllogism, and it is no longer a fiqh syllogism.' Find this line in the Arabic and trace the reasoning.
+2
+Reconstruct the logical syllogism form
+The commentator gives the example: 'Nabīdh contains inebriating intensity which is the cause of prohibition, and everything that contains the cause of prohibition is forbidden.' This is a first-figure categorical syllogism: major premise (All things with cause are forbidden), minor premise (Nabīdh has the cause), conclusion (Nabīdh is forbidden).
+The original case (wine) is no longer needed because the universal premise covers all instances.
+3
+Understand why the original becomes redundant
+Once the cause is certain, the analogy's reliance on the original case (aṣl) is replaced by the universal conditional: 'Every A that has ʿilla is ruled R.' The aṣl only serves to discover the ʿilla, but once the ʿilla is known, the argument becomes deductive.
+4
+Evaluate the commentator's objection to the author's view
+The author (in Fawātiḥ) seemed to imply that reverting to logical syllogism is somehow undesirable. The commentator argues this is 'nothing'; the reversion is actually the correct path because it yields certainty. The commentator's point: probability comes only from the material (ẓannīyat al-ʿilla), not from the form.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التمثيل يفيد القطع الثاني، وقد اختص الأصل بالأول. ثم إن صح كون الجامع علة في الفرع كان الاستدلال به برهانا، والتمثيل بالأصل حشوا.
+
+اعلم: أن الأئمة القائلين بالقياس التمثيلي شرطوا أن لا يكون الأصل مخصوصا بالحكم، وأن يعلم أن الحكم معلل بالعلة المعينة، وهي موجودة في الفرع، فإن ثبت هذه الأمور بالقطعيات ثبت الحكم قطعا، وإن ثبت ظنا ثبت الحكم ظنا، وإن لم يثبت أصلا لم يصح التمثيل.
+
+فقوله وهم يطالبون إلخ
+
+قلنا: نحن نثبت إن تم صح التمثيل، وإلا لا كما أنكم تطالبون بمقدمات أقيستكم، إن صحت صح، وإلا لا.
+
+وقوله ولو سلم الجميع لما أفاد اليقين قلنا إن أراد بعد تسليم قطعية الجميع وقطعية ما شرطوا فذلك سفاهة، وإلا فلا نزاع.
+
+وقوله لأن الجامع إلخ قلنا: نحن نثبت ذلك فيما يستعمل فيه التمثيل، فإن تم تم، وإلا لا في مقدمات أقيستكم.
+
+وقوله ثم إن صح إلخ قلنا: ربما لا يثبت علية العلة إلا بعد ملاحظة الأصل، كما لا يخفى على من تتبع كتب الفقه.
+
+والمصنف رحمة الله تبع الشيخ، أو نظر إلى الأقيسة المستعملة كثيرا، وقال: وهو يفيد الظن، والتفصيل في أصول الفقه، فاطلب من الكتب المصنفة فيه، وتوكل على الله تعالى؛ فإنه ملهم الصواب.
+
+هو رأيه في كتابه الأصولي فواتح الرحموت. وهذا هو نص عبارتهما من المسلم وشرحه الفواتح: وحكمه ثبوت حكم الأصل في الفرع، والظن به بعد النظر، لا القطع، وإن قطع بمقدماته ومواده، وذلك لأن طريق الإيصال فيه ظني؛ فإنه لا يرفع احتمال كون الأصل شرطا في حكمه وتأثير علته، أو الفرع مانعا عن الحكم، فلا يصل إليه الحكم. ولما كان يرد عليه أن القياس إنما ينتج بملاحظة أن كلما توجد يوجد المعلول، وهذه مقدمة قطعية توجب القطع إن كانت العلة قطعية، وإذا جوز كون الأصل شرطا والفرع مانعا فقد منع علية العلة، وكان الكلام عند قطعية المقدمات قال ولو قطع بكون العلة علة تامة وبني الإنتاج على تلك المقدمة رجع إلى القياس المنطقي، ولم يبق قياسا فقهيا فتفكر. وهذا الذي قاله المصنف من أن ما قطع بالعلية يرجع إلى القياس المنطقي، وليس تمثيلا هو ما قاله غيره أيضا، كالإصفهاني في تسديد القواعد. ولكن الشارح رد على ما تمسك به المصنف في الفواتح قائلا: هذا ليس بشيء؛ فإن رجوعه إلى القياس المنطقي لا شناعة فيه، بل هو الأحق بالقبول؛ فإن حاصله أن النبيذ توجد فيه الشدة المطربة التي هي علة الحرمة، وكل ما توجد فيه علة الحرمة فهو حرام، فطريق الإيصال فيه شكل أول قطعي الإنتاج، وإنما يجيئ الظن من المادة من مظنونية العلة، فإذا قطع بالعلية وجب القطع البتة.
+Analogical reasoning (tamthīl) yields certainty? The second [point], and the original case is specific to the first. Then if the commonality is correct as a cause in the branch, the inference with it would be a demonstration (burhān), and the analogical reasoning with the original is redundant.
+
+Know that the imams who adhere to analogical reasoning (qiyās tamthīlī) have stipulated that the original case not be specific to the ruling, and that it is known that the ruling is caused by the specific cause, and that it exists in the branch. If these matters are established with certainty, the ruling is established with certainty; if established with probability, the ruling is established with probability; and if not established at all, the analogical reasoning is invalid.
+
+So his statement: 'And they demand etc.'
+
+We said: We affirm that if it is realized, the analogical reasoning is sound, otherwise not—just as you demand the premises of your syllogisms: if they are sound, they are sound, otherwise not.
+
+And his statement: 'And even if all were granted, it would not produce certainty.' We said: If he means after granting the certainty of all and the certainty of what they stipulated, that is foolishness; otherwise there is no dispute.
+
+And his statement: 'Because the commonality etc.' We said: We affirm that in what analogical reasoning is used for; if it is realized, it is realized; otherwise not—in the premises of your syllogisms.
+
+And his statement: 'Then if it is sound etc.' We said: Perhaps the causality of the cause is not established except after observation of the original, as is not hidden from one who studies the books of jurisprudence (fiqh).
+
+And the author (may God have mercy on him) followed the Shaykh, or looked at the syllogisms used frequently, and said: 'And it yields probability, and the detail is in Uṣūl al-Fiqh, so seek from the books composed on it, and rely on God Almighty; for He is the inspirer of correctness.'
+
+It is his view in his principles book Fawātiḥ al-Raḥamūt. And this is the text of their statement from al-Muslim and its commentary al-Fawātiḥ: 'And its ruling is the affirmation of the ruling of the original in the branch, and probability regarding it after consideration, not certainty, even if its premises and matters are certain, because the method of connection in it is probable; for it does not remove the possibility that the original is a condition in its ruling and the effect of its cause, or that the branch is a preventative of the ruling, so the ruling does not reach it. And since there is an objection against it that the syllogism only produces by observing that whenever the cause exists, the effect exists, and this is a certain premise that necessitates certainty if the cause is certain, and if one allows the possibility of the original being a condition and the branch being a preventative, then one has denied the causality of the cause, and the discussion is regarding the certainty of the premises. He said: "And if one is certain that the cause is a complete cause and builds the production on that premise, it reverts to the logical syllogism, and it is no longer a fiqh syllogism—so reflect." ' And what the author said—that what is certain by causality reverts to the logical syllogism and is not tamthīl—is also what others said, like al-Iṣfahānī in Tasdīd al-Qawā'id. But the commentator objected to what the author adhered to in al-Fawātiḥ saying: 'This is nothing; for its reversion to the logical syllogism is not disgraceful, rather it is most deserving of acceptance. For its essence is that nabīdh contains the inebriating intensity which is the cause of prohibition, and everything that contains the cause of prohibition is forbidden. So the method of connection in it is a first figure that is certain in production, and probability only comes from the matter due to the probability of the cause. So if one is certain of the causality, certainty is necessarily required.'
+Source pages p. 550
+
+Commentary
+This passage is an epistemological discussion about analogical reasoning (tamthīl) and whether it can yield certainty (qat') or only probability (ẓann). The author first states a conditional: if the common characteristic (jāmi') is established as a genuine cause ('illa) in the branch, then the inference becomes a demonstration (burhān) and the analogical reference to the original becomes redundant. This frames the entire debate.
+
+Then he explains the conditions set by the imams who accept tamthīl: (1) the original ruling is not specific to that original alone, (2) it is known that the ruling is caused by a specific cause, and (3) that cause exists in the branch. If all three are established with certainty, the concluding ruling is certain; if only with probability, the conclusion is probable; if not established at all, the analogy is invalid.
+
+The text then presents a dialectical exchange with an objector. The objector demands that the proponents of tamthīl prove these conditions. The response is symmetric: just as the logician demands premises for syllogisms, the analogist demands that the conditions be realized; if they are, the analogy is sound, otherwise not. The objector's claim that even granting all would not yield certainty is dismissed as foolish if he means after granting certainty of the conditions; otherwise there is no disagreement.
+
+Further, the objector questions establishing the causality of the cause. The response: often causality is only known after observing the original, as is common in fiqh works. The author then references the original compiler (muṣannif) who followed the Shaykh (likely al-Tusi) and considered the frequently used analogies, concluding tamthīl yields only probability, with details in uṣūl al-fiqh.
+
+A quotation from the work al-Muslim and its commentary al-Fawātiḥ is provided, stating that even if premises are certain, the method of connection (ṭarīq al-īṣāl) in tamthīl is probable because it does not eliminate the possibility that the original is a condition or the branch is a preventative. However, if one is certain of the cause as a complete cause, then the inference reverts to a logical syllogism (qiyās manṭiqī), which is a first-figure syllogism certain in form—only the material (mādda) of the cause may be probable. The commentator (shāriḥ) objects to the view that such a reversion is problematic, arguing it is actually the correct approach, using the example: nabīdh contains inebriating intensity (shidda muṭriba), which is the cause of prohibition; everything with that cause is forbidden; this is a first-figure syllogism with a certain form. Probability enters only from the material side (ẓannīyat al-'illa). If the causality is certain, the conclusion is necessarily certain.
+
+Thus the passage clarifies that tamthīl is not inherently uncertain; it can be demonstrative if the cause is certain. The debate centers on whether the method itself is probabilistic or whether the probability comes only from the material premises.
+
+Key Terms
+التمثيل
+القياس المنطقي
+القياس الفقهي
+العلة التامة
+شكل أول
+القطع
+الظن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator in the passage, what is the source of probability in tamthīl when the cause is certain?
+A) The form of the argument
+B) The material (the cause itself may be probable)
+C) The logical syllogism's structure
+D) The original case (aṣl)
+
+Key Takeaway
+When the cause in analogical reasoning is certain, the argument becomes a logical syllogism with a certain form; probability only comes from uncertain premises, not from the reasoning process itself.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a categorical syllogism (first figure) based on a certain cause from a known fiqh analogy (e.g., the prohibition of gambling (maysir) based on the cause of unjust enrichment (akl al-māl bil-bāṭil), applied to modern speculative transactions). Identify the major premise, minor premise, middle term, and conclusion.
+?
+Evaluate the commentator's response: do you think the author of Fawātiḥ would accept the commentator's reframing? Why or why not? Use evidence from the passage.
+
+Pages p. 550 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 564
+Module 19 · Lesson 12
+Next →
+Induction and Analogy
+intermediate
+8 min
+Experiment vs. Induction: The Role of Causal Inference
+Distinguishing experiment from induction by causal inference.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish empirical experiment (tajriba) from induction (istiqra') based on the presence or absence of causal inference, and explain how this distinction relates to certainty in Islamic epistemology.
+
+Core Idea
+Experiment yields certainty through causal inference; induction yields probability without it.
+
+In this passage, the author clarifies a fundamental epistemological distinction that shapes how Islamic scholars reason about empirical knowledge. You will learn why repeated observation alone is not enough for certainty—it requires insight into causes. We will trace the discussion from Ibn Sina through al-Tusi, al-Ghazali, and Suhrawardi, each refining the same core distinction.
+
+Guided Path
+1
+Identify the two methods
+Find the definitions of tajriba and istiqra' in the Arabic. Note the key phrase: 'من غير انتقال إلى العلة' (without transition to cause) for istiqra'.
+Look for the contrast in the first sentence.
+2
+Spot the causal leap
+In tajriba, the mind moves from repeated observation to the cause. In istiqra', it does not. What difference does this make for certainty?
+Certainty requires knowing the cause.
+3
+Analyze the example of severed neck
+Why does the author say this is not induction? How does Suhrawardi reclassify it?
+Suhrawardi: it is a judgment on a universal based on many particulars.
+4
+Examine the Ash'ari objection
+If God creates death at the moment of cutting, is the causal inference invalid? How does Ghazali's response preserve the certainty of the conjunction?
+Focus on the distinction between conjunction and mode of conjunction.
+5
+Apply the distinction to a new case
+Given the crocodile example, why does induction fail? What would be required for certainty?
+Uniformity of species is needed for certainty in induction.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهذا بخلاف الاستقراء؛ فإن فيه مشاهدة أكثر أفراد كلي موصوف بحكم من غير انتقال إلى العلة، فيظن أن الحكم ثابت لكل فرد منه، كما إذا وجد أكثر الفواعل مرفوعة حكم أن كل فاعل مرفوع ظنا. هذا هو الفرق بين التجربة والاستقراء، كذا في «الشفاء». وقال النصير الطوسي: الحدس والتجربة سواء، إلا أنه في التجربة يعلم العلة إجمالا، ولذا يكون في جميع المجربات. وقد أجاب في المعيار عن الإشكال المترتب على قول الأشاعرة: إن جز الرقبة مثلا ليس للموت، وإنما هو الموت بخلق الله تعالى عند حصول الجز، أجاب عنه باختصار قائلا: ليس في العقلاء من يشك فيه أي في حصول الموت عند حز الرقبة... وأما النظر في هل هو لزوم ضروري ليس في الإمكان تغييره، أو هو بحكم جريان سنة الله تعالى لنفوذ مشيئته الأزلية التي لا تحتمل التبديل والتغيير فهو نظر في وجه الاقتران، لا في نفس الاقتران فليفهم هذا. وقد قال السهروردي في حكمة الإشراق: وليس هو من الاستقراء، والاستقراء هو حكم على كلي بما وجد في جزئياته الكثيرة، فإذا كان الاستقراء عبارة عن هذا الحكم فنعلم أن حكمنا على كل إنسان بأنه إذا قطع رأسه لا يعيش ليس إلا حكما على كلي بما صودف في جزئياته الكثيرة؛ إذ لا مشاهدة للكل، والاستقراء قد يفيد اليقين إذا اتحد النوع، كما في المثال المذكور، وإذا اختلف قد لا يفيد اليقين، كحكمك بأن كل حيوان يحرك لدن مضغه فكه الأسفل استقراء بما شاهدت، ويجوز أن يكون حكم ما لم تشاهده كالتمساح بخلاف ما شاهدته.
+And this is contrary to induction; for in it there is observation of most individuals of a universal described by a judgment without transition to the cause, so it is thought that the judgment is constant for every individual of it, as when most agents are found to be raised, one judges that every agent is raised, probabilitatively. This is the difference between experiment and induction, as in 'al-Shifa'. And Nasir al-Din al-Tusi said: Intuition and experiment are the same, except that in experiment the cause is known in summary, therefore it is in all experimental [propositions]. And he responded in al-Mi'yar to the objection arising from the Ash'ari statement: That severing the neck, for example, is not the cause of death, rather death is by God's creation upon the occurrence of severing. He answered briefly saying: There is no rational person who doubts it, i.e., the occurrence of death upon severing the neck... As for considering whether it is a necessary entailment not possible to change, or it is by the running of God's sunna due to the penetration of His eternal will which does not admit alteration, that is a consideration of the mode of conjunction, not the conjunction itself. So understand this. And Suhrawardi said in Hikmat al-Ishraq: It is not from induction; induction is a judgment upon a universal based on what is found in its many particulars. If induction is this judgment, then we know that our judgment that every human, if his head is cut off, does not live, is nothing but a judgment on a universal based on what is encountered in its many particulars; for there is no observation of the universal. Induction may yield certainty if the species is uniform, as in the mentioned example, but if different, it may not yield certainty, like your judgment that every animal moves its lower jaw when chewing, based on induction from what you observed; it is possible that what you have not observed, like the crocodile, is contrary to what you observed.
+Source pages p. 564
+
+Commentary
+This passage contrasts empirical experiment (tajriba) with induction (istiqra'). The author states that in induction, one observes most individuals of a universal and makes a judgment without inferring a cause. For example, observing that most agents (fawa'il) are raised (marbu'a) leads to the probabilistic judgment that every agent is raised. This is not certain. In experiment, the mind transitions to a cause, giving certainty. The author quotes Ibn Sina's al-Shifa' as the source. Then he cites Nasir al-Din al-Tusi, who says intuition (hads) and experiment are the same except that in experiment the cause is known in summary, so it applies to all experimental cases. Next, the author addresses an objection from Ash'ari theology: that cutting the neck is not the cause of death; rather, God creates death at that moment. The answer, from al-Ghazali's al-Mi'yar, is that no rational person doubts that death occurs upon cutting the neck; the debate is about the modality (necessary entailment vs. divine custom), not the conjunction itself. Finally, Suhrawardi clarifies that this is not induction, because induction is a judgment on a universal based on many particulars without observation of all. He gives the example of cutting the head: we judge that every human dies when beheaded based on repeated observation, but this is not induction in the probabilistic sense; it yields certainty if the species is uniform, but if not, it is uncertain, like judging that every animal moves its lower jaw when chewing, which fails for crocodiles.
+
+Key Terms
+التجربة
+الاستقراء
+الحدس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what distinguishes experiment (tajriba) from induction (istiqra')?
+A) Experiment requires more observations than induction.
+B) Induction involves observing all individuals, while experiment does not.
+C) Experiment includes transition to a cause, while induction does not.
+D) Induction yields certainty, while experiment yields probability.
+
+Key Takeaway
+Empirical certainty in Islamic epistemology requires not just repeated observation but a reasoned inference to a cause, distinguishing experiment from mere induction.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following reasoning is tajriba or istiqra': 'I have seen many dates spoil in summer, so I judge that all dates spoil in summer.' Explain your answer based on the presence or absence of causal inference.
+?
+The Ash'ari position denies necessary causal connections. How does the passage's response (using al-Mi'yar) preserve the validity of tajriba even if causation is only by God's custom? Write a brief defense of tajriba against the objection.
+
+Pages p. 564 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 573
+Module 19 · Lesson 13
+Next →
+Induction and Analogy
+intermediate
+8 min
+Why Induction Cannot Deliver Certainty
+Author examines induction as a method for certainty and finds it insufficient.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the argument against induction as a source of certainty and identify the two possible grounds for induction that fail.
+
+Core Idea
+Induction fails because it either leans on sense (non-permanent) or presupposes a cause — the very thing assumed absent.
+
+In the search for certain knowledge (yaqin), logicians consider induction (istiqra') as a possible method. Here, the author examines induction and finds it insufficient. Under the assumption that no cause exists, any attempt to justify induction either relies on sense perception (which does not guarantee permanence) or implies a cause, which directly contradicts the assumption. This lesson unpacks the logical structure of that argument.
+
+Guided Path
+1
+Identify the core assumption
+The argument begins with the assumption that there is no cause linking the predicate to the subject. Keep this assumption in mind throughout.
+2
+Understand the two possibilities for induction
+The author presents two possibilities: either the relation of predicate to particulars is self-evident without a cause, or it has a cause. These branches cover all cases.
+3
+Analyze the self-evident branch
+If the relation is self-evident, the evidence comes either from sense or from reason. Sense does not yield permanence (a particular might change), so no certainty. Reason is rejected because the predicate cannot be essential (dhati) in the constitutive sense; if accidental, it implies a cause.
+4
+Analyze the non-self-evident branch
+If the relation is not self-evident, it requires an explanation. But that explanation either fails to give certainty or again implies a cause, contradicting the assumption.
+The passage is cut off, but the reasoning suggests this branch also fails.
+5
+Conclude the failure of induction
+Since both branches lead to contradictions or lack of certainty, induction cannot provide certain knowledge under the assumption of no cause.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+شرح بحر العلوم على سلم العلوم
+لأنا إذا جعلنا المتوسط ما ليس بسبب لم يكن أن يطلب به هذا العلم اليقيني، وإن جعلناه ما هو سبب فقد وسطنا سببا، وهذا محال؛ إذ فرضنا أنه لا سبب. وقال: ويشبه أن يكون أمثال هذه بينة بنفسها كلها، أو يكون بيانها بالاستقراء، إلا أنه لا يخلو إذا تبين بالاستقراء من أحد أمرين، وذلك لأنه إما أن يكون وجود نسبة المحمول إلى جزئيات الموضوع بينا بنفسه بلا سبب؛ إذ إنما يتبين الاستقراء بهذا النوع، وإما أن يكون وجود نسبة المحمول إلى جزئيات الموضوع في نفسه بسبب، فإن كان بينا بنفسه في كل واحد منها، فإما أن يكون البيان بالحس، وذلك لا يوجب الدوام، ولا يرفع إمكان الزوال، فلا يكون من تلك المقدمات يقين. وإما أن يكون بالعقل، وهذا القسم غير جائز؛ لأن هذا المحمول لا يجوز أن يكون ذاتيا، بمعنى المقوم؛ فإنا سنبين بعد ذلك أن الذاتي بمعنى المقوم غير مطلوب في الحقيقة وجوده لما هو ذاتي له بين. وإما أن يكون عرضيا، ولا شك أن الأعراض اللازمة لكلي يقال على الجزئيات؛ إذ حمله على الكل فيكون هذا العرض لازما لشيء من المعاني الذاتية صح، لجزئيات النوع؛ فإن العرض الذي هذه صفته هذا شأنه، وإذا كان كذلك كان حمله على كل جزئي لأجل معنى موجود له ولغيره من الجزئيات، فيكون ذلك - أي الذاتي - سببا عاما لوجود هذا العرض في الجزئيات، وفرضناه بلا سبب. وإذا علم من غير جهة ذلك السبب لم يكن ذلك بعلم ضروري ولا يقين، فضلا عن علم بين بنفسه. وأما إذا كان حال الموضوع عند جزئيات الموضوع غير بين بنفسه، بل يتبين ببيان، فذلك البيان إما أن يكون بيانا لا يوجب في كل منها يمكن أن
+Explanation of Bahr al-Ulum on Sullam al-Ulum. Because if we take the middle term as not a cause, then certain knowledge cannot be sought by it. And if we take it as a cause, then we have interposed a cause, and that is impossible, since we assumed that there is no cause. And he said: It is likely that examples of these are all self-evident, or their explanation is by induction. However, when explained by induction, it is free from one of two matters: either the existence of the relation of the predicate to the particulars of the subject is self-evident without a cause – for induction is only made evident by this type – or the existence of the relation of the predicate to the particulars of the subject in itself is due to a cause. If it is self-evident in each one of them, then the explanation is either by sense, and that does not necessitate permanence nor remove the possibility of disappearance, so it is not certain from those premises. Or it is by reason, and this division is not permissible, because this predicate cannot be essential in the sense of constitutive, for we will show later that the essential in the sense of constitutive is not sought in reality its existence for that which is self-evident to it. Or it is accidental, and there is no doubt that accidental properties that are necessary for a universal are said of particulars, since its predication of the whole, so this accident becomes necessary for something of the essential meanings, correct, for the particulars of the species. For the accident that has this description, its situation is such, and if it is so, then its predication of each particular is on account of a meaning existing in it and in other particulars, so that – i.e., the essential – is a general cause for the existence of this accident in the particulars, and we assumed it without a cause. And if it is known from other than that cause, then that is not necessary knowledge nor certainty, let alone self-evident knowledge. And if the state of the subject with respect to the particulars of the subject is not self-evident, but is made evident by an explanation, then that explanation is either an explanation that does not necessitate in each of them it can be
+Source pages p. 573
+
+Commentary
+This passage is a commentary on the Sullam al-Ulum, continuing the discussion about the impossibility of certain knowledge when there is no cause in existence. The author first explains that if we try to use a middle term (al-mutawassit) that is not a cause, we cannot achieve certainty; and if we make it a cause, we contradict the assumption that there is no cause. He then considers induction (istiqra') as a possible method. Induction could be explained in two ways: either the relation of predicate to particulars is self-evident without a cause, or it has a cause. If self-evident, the evidence comes either from sense or reason. Sense does not yield permanence, so no certainty. Reason is not permissible because the predicate cannot be essential (dhati) in the constitutive sense; if it were accidental, then the accident must be necessary for something essential, implying a general cause, which contradicts the assumption of no cause. Thus induction fails. The passage ends incomplete but the argument is clear: without a cause, neither immediate knowledge nor induction can give certainty.
+
+Key Terms
+الاستقراء (al-istiqra') - Induction
+ذاتي (dhati) - Essential
+عرضي ('aradi) - Accidental
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why does induction fail to provide certain knowledge?
+A) Induction is not a valid logical method in Islam.
+B) Induction either relies on sense perception (non-permanent) or implies a cause (contradicting the assumption).
+C) Induction only works for essential predicates.
+D) Induction requires a middle term.
+
+Key Takeaway
+Without a cause, induction cannot provide certain knowledge because it either depends on non-permanent sense perception or implies a cause, contradicting its own assumption.
+
+How This Lesson Applies — to MY Life?
+?
+Reconstruct the argument against induction from the passage in your own words, identifying the two branches and why each fails.
+?
+Give an example from kalam (e.g., arguing for the world's contingency) and explain why induction alone does not yield certainty per the passage.
+
+Pages p. 573 · Induction and Analogy
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:52Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/idah_mubham/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/06 - Idah Mubham",
+  "output_bytes": 2523866,
+  "output_sha256": "81a9c7c2ac33af8046d0aaa91734322af6e75bf6b7bd322e829d199fbefb7732",
+  "checks": {
+    "catalog_expected_lessons": 344,
+    "course_reported_lessons": 344,
+    "index_lessons": 344,
+    "full_lessons": 344,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 22,
+    "course_reported_modules": 22,
+    "modules": 22,
+    "course_reported_sources": 270,
+    "sources": 270
+  }
+}

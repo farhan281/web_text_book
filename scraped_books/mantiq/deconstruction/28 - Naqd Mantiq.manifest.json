@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:38Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/naqd_mantiq/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/deconstruction/28 - Naqd Mantiq",
+  "output_bytes": 4724210,
+  "output_sha256": "d2967af4be3f753fe6bfa33bcd3bff87f11b8f5a8c55d1aeb742b53a70fa7f14",
+  "checks": {
+    "catalog_expected_lessons": 517,
+    "course_reported_lessons": 517,
+    "index_lessons": 517,
+    "full_lessons": 517,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 460,
+    "sources": 460
+  }
+}

@@ -1,0 +1,1052 @@
+← Prev
+p. 113
+Module 15 · Lesson 51
+Next →
+The Syllogism
+intermediate
+7 min
+Valid and Invalid Moods in the Connected Conditional Syllogism
+Author explains the two productive and two unproductive moods of the connected conditional syllogism with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which of the four moods of the connected conditional syllogism are valid (productive) and which are invalid (unproductive), and explain why using the relationship between ground (malzum) and necessary (lazim).
+
+Core Idea
+Only affirming the antecedent and denying the consequent yield valid conclusions in a connected conditional syllogism.
+
+In Islamic logic, the connected conditional syllogism (al-qiyas al-istithna'i al-muttasil) is a powerful tool for deriving conclusions from conditional premises. However, not every combination of premise and exception is valid. This passage from the Sharh on al-Sullam explains exactly which two moods are productive and which two are unproductive, grounding the distinction in the logical relationship between the ground (malzum) and the necessary (lazim). By studying this passage, you will understand why affirming the consequent and denying the antecedent are fallacious moves that must be avoided in theological and legal reasoning.
+
+Guided Path
+1
+Identify the components of the syllogism
+Find the conditional premise (e.g., 'If this is a human, it is an animal') and the exceptional premise that affirms or negates part of it. Note the antecedent (muqaddam) and consequent (tali).
+The example in the passage uses 'human' and 'animal'.
+2
+List the four possible moods
+The four combinations are: affirm antecedent, deny consequent, affirm consequent, deny antecedent. Write them down.
+3
+Apply the ground/necessary principle
+For each mood, check if it follows the logical rule: affirming the ground (malzum) necessitates the necessary (lazim); denying the necessary necessitates denying the ground. The valid moods align with these rules.
+The passage explicitly states: 'the existence of the necessary does not imply the existence of the ground, and negating the ground does not imply negating the necessary.'
+4
+Distinguish productive from unproductive
+Moods that follow the rule are productive (affirming antecedent and denying consequent). The others are unproductive (affirming consequent and denying antecedent).
+5
+Connect to the matn's terminology
+Understand that the matn's phrase 'wad' dha' (positing that) refers to affirming the antecedent, and 'raf'' (removing) refers to denying the consequent. The 'aks (converse) refers to the unproductive moods.
+This clarifies the author's earlier statement in al-Sullam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياس الاستثنائي ثم إن كان مركبا من القضايا الشرطية المتصلة، أنتج منه ضربان، وهما استثناء عين المقدم، ونقيض التالي. وأما استثناء عين التالي، أو نقيض المقدم، فلا ينتجان شيئًا. مثال ذلك: لو كان هذا إنسانًا لكان حيوانًا ، فاستثناء عين المقدم، وهو إنسان، ينتج عين التالي، وهو حيوان، واستثناء نقيض التالي، وهو حيوان، ينتج: نقيض المقدم، وهو إنسان. وأما استثناء عين التالي ()، وهو حيوان، فلا ينتج شيئا، لأنه لازم، ولا يلزم من ثبوت اللازم ثبوت الملزوم، وكذلك نقيض المقدم لا ينتج شيئًا، لأنه ملزوم، ونفي الملزوم لا يقتضي نفي اللازم بخلافه في الضربين الأولين فإن نفى اللازم الذي هو التالي، يقتضي نفي الملزوم الذي هو المقدم، وثبوت الملزوم الذي هو المقدم، يقتضي ثبوت اللازم، الذي هو التالي. هذا معنى قول المصنف لما انجلى أي لما أتضح عندهم من أن نفي اللازم يقتضي نفي الملزوم، وثبوت الملزوم يقتضي ثبوت اللازم، فقول المصنف: «أنتج وضع ذاك أي: المقدم، بدليل ذكر التالي بعده، والمراد بالوضع الثبوت، وبالرفع النفي، وبالعكس: استثناء عين التالي أو نقيض المقدم، فالضروب أربعة، اثنان منتجان واثنان عقيمان ثم قال:
+The exceptional syllogism: if it is composed of connected conditional propositions, two moods are productive from it: affirming the exact antecedent and negating the consequent. As for affirming the exact consequent or negating the antecedent, they do not produce anything. Example: If this were a human, it would be an animal. Affirming the exact antecedent, which is human, produces the exact consequent, which is animal; and negating the consequent, which is animal, produces the negation of the antecedent, which is non-human. As for affirming the exact consequent, which is animal, it does not produce anything, because it is the necessary, and the existence of the necessary does not imply the existence of the ground. Similarly, negating the antecedent does not produce anything, because it is the ground, and negating the ground does not necessitate negating the necessary, unlike the first two moods: negating the necessary, which is the consequent, necessitates negating the ground, which is the antecedent; and affirming the ground, which is the antecedent, necessitates affirming the necessary, which is the consequent. This is the meaning of the author's statement: 'When it became clear to them that negating the necessary necessitates negating the ground, and affirming the ground necessitates affirming the necessary, the author said: 'produced' — he posited that (i.e., the antecedent), as indicated by mentioning the consequent after it; and by 'positing' he meant affirmation, and by 'removing' he meant negation; and the converse: affirming the exact consequent or negating the antecedent. Thus the moods are four: two productive and two unproductive. Then he said:
+Source pages p. 113
+
+Commentary
+This passage defines and explains the productive and unproductive moods of the connected conditional syllogism (al-qiyas al-istithna'i al-muttasil). The author begins by stating that from such a syllogism, only two moods yield a valid conclusion: affirming the antecedent (istithna' 'ayn al-muqaddam) and denying the consequent (naqid al-tali). The other two moods—affirming the consequent and denying the antecedent—are invalid. The example given is the conditional: 'If this were a human, it would be an animal.' Affirming the antecedent ('it is human') validly yields the consequent ('it is animal'). Denying the consequent ('it is not animal') validly yields the negation of the antecedent ('it is not human'). However, affirming the consequent ('it is animal') proves nothing because the consequent is a necessary consequence; the existence of the necessary does not entail the existence of the ground (al-lazim la yalzam min thubutihi thubut al-malzum). Similarly, denying the antecedent ('it is not human') does not prove anything because it is the ground; negating the ground does not necessitate negating the necessary (nafy al-malzum la yaqtadi nafy al-lazim). The author then connects this explanation to the text of the matn (al-Sullam), clarifying that the matn's expression 'putting that' (wad' dha) refers to affirming the antecedent, and 'removing' (raf') refers to negation, and the converse (al-'aks) refers to the two unproductive moods. Thus, the four moods are summarized: two productive (affirming antecedent, denying consequent) and two unproductive (affirming consequent, denying antecedent). In the Islamic sciences, such reasoning is common: e.g., 'If this is khamr, it is haram. It is khamr, therefore it is haram' (affirming antecedent). Or, 'If it is wine, it is off limits. It is not off limits, therefore it is not wine' (denying consequent). Invalid would be: 'It is off limits, so it is wine' (affirming consequent), since many things are forbidden without being wine.
+
+Key Terms
+القياس الاستثنائي
+المتصل
+المقدم
+التالي
+اللازم
+الملزوم
+الوضع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which two moods of the connected conditional syllogism are productive (yield a valid conclusion)?
+A) Affirming the antecedent and denying the consequent
+B) Affirming the antecedent and affirming the consequent
+C) Denying the antecedent and denying the consequent
+D) Affirming the consequent and denying the antecedent
+
+Key Takeaway
+In a connected conditional syllogism, only affirming the antecedent (modus ponens) and denying the consequent (modus tollens) yield valid conclusions; the other two moods are fallacious.
+
+How This Lesson Applies — to MY Life?
+?
+Given the conditional proposition 'If an act leads to harm (darar), then it is prohibited (haram)', determine whether the following arguments are valid or invalid: (a) This act is prohibited, therefore it leads to harm. (b) This act does not lead to harm, therefore it is not prohibited. (c) This act leads to harm, therefore it is prohibited. (d) This act is not prohibited, therefore it does not lead to harm.
+?
+Construct a valid connected conditional syllogism on a fiqh topic, then construct an invalid version by affirming the consequent. Explain why the invalid version fails using the ground/necessary principle.
+
+Pages p. 113 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 114
+Module 15 · Lesson 52
+Next →
+The Syllogism
+intermediate
+8 min
+Disjunctive Syllogisms: Types and Productive Moods
+Author classifies disjunctive syllogisms into three types and specifies the productive moods for each.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three types of disjunctive conditionals and determine which moods are productive for each type.
+
+Core Idea
+The validity of a disjunctive syllogism depends on whether the disjunction is exclusive, inclusive, or weak.
+
+In this passage, the commentator expands on the matn of al-Sullam to explain the three types of disjunctive syllogisms and the specific moods that yield valid conclusions. Understanding these distinctions is essential for correctly applying disjunctive reasoning in Islamic legal and theological arguments, where choices between mutually exclusive or non-exclusive alternatives often arise.
+
+Guided Path
+1
+Identify the three types of disjunction
+Note that the author mentions three types: man'at al-jam' wal-khuluw (exclusive), man'at al-jam' fqat (inclusive), and man'at al-khuluw fqat (weak). Each has different truth conditions.
+Exclusive: exactly one true. Inclusive: at most one true. Weak: at least one true.
+2
+Understand the truth conditions of exclusive disjunction
+In exclusive disjunction (man'at al-jam' wal-khuluw), both disjuncts cannot be true together and both cannot be false; exactly one is true. Example from the text: 'The number is either even or odd.'
+This yields four productive moods.
+3
+Understand the truth conditions of inclusive disjunction
+Inclusive disjunction (man'at al-jam' fqat) prevents both being true but allows both to be false. So if one is true, the other must be false, but if one is false, the other may be true or false.
+This yields only two productive moods.
+4
+Understand the truth conditions of weak disjunction
+Weak disjunction (man'at al-khuluw fqat) prevents both being false but allows both to be true. So if one is false, the other must be true, but if one is true, the other may be true or false.
+The text says its rule is the converse of inclusive: only denying one yields affirming the other.
+5
+Relate truth conditions to productive moods
+For exclusive: affirming one disjunct entails negating the other, and negating one entails affirming the other (four moods). For inclusive: only affirming one entails negating the other (two moods). For weak: only negating one entails affirming the other (two moods).
+Memorize which moods work for each type.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَإِنْ يَكُنْ مُنْفَصِلاً فَوَضْعُ ذَا يُنْتِجُ رَفْعَ ذَاكَ وَالعَكْسُ كَذا ١٠٥ . وَذَاكَ فِي الأَخَص ثُمَّ إِنْ يَكُنْ مَانِعَ جَمْعٍ فَبِوَضْعِ ذَا زُكِنْ ١٠٦ . رَفْعُ لِذَاكَ دُونَ عَكْسٍ وَإِذَا مَانِعَ رَفْعٍ كَانَ فَهُوَ عَكْسُ ذَا أقول : القياس المركب من الشرطيات المنفصلة، إما أن يكون مركبا من مانعة الجمع والخلو، أو من مانعة الجمع فقط، أو من مانعة الخلو فقط. فإن كان مركبًا من الأولى فأضربه المنتجة أربعة اثنان من جانب الوضع، واثنان من جانب الرفع. مثال ذلك: العدد إما زوج وإما فرد فاستثناء زوج منتج لنقيض فرد، واستثناء فرد منتج لنقيض زوج ، واستثناء نقيض كل منهما منتج لعين الآخر. وإن كان مركبًا من مانعة الجمع، فالمنتج منه ضربان، وهما استثناء عين كل من الطرفين، ليحصل نقيض الآخر، وأما استثناء النقيض فلا ينتج شيئًا.
+And if it is disjunctive, then positing this produces removing that, and the converse is like that. And that is for the more specific. Then if it is a preventer of conjunction, then by positing this it is known as removing that without the converse. And if it is a preventer of disjunction, then it is the converse of that. I say: The syllogism composed of disjunctive conditionals is either composed of the preventer of conjunction and disjunction (man'at al-jam' wal-khuluw), or of the preventer of conjunction only, or of the preventer of disjunction only. If it is composed of the first, its productive moods are four: two from the side of positing and two from the side of removing. Example: The number is either even or odd. So affirming 'even' produces the negation of 'odd', and affirming 'odd' produces the negation of 'even', and the negation of each produces the affirmation of the other. And if it is composed of the preventer of conjunction, then the productive moods from it are two: affirming the exact of each of the two disjuncts, so as to obtain the negation of the other; as for affirming the negation, it does not produce anything.
+Source pages p. 114
+
+Commentary
+This passage explains the disjunctive conditional syllogism (al-qiyas al-istithna'i al-munfasil). It begins by quoting three lines from al-Sullam's matn (verses 104-106), then provides a commentary. The matn states that in a disjunctive syllogism, positing one disjunct produces the negation of the other, and similarly the converse (i.e., negating one produces positing the other) — but only for the 'more specific' type, which is the exclusive disjunction (man'at al-jam' wal-khuluw). Then the matn distinguishes two other types: a preventer of conjunction only (man'at al-jam' fqat) and a preventer of disjunction only (man'at al-khuluw fqat). For the preventer of conjunction, positing one disjunct produces the negation of the other, but the converse does not hold (i.e., negating one does not produce the other). For the preventer of disjunction, the rule is the opposite: negating one produces the other, but positing one does not produce negation of the other. The commentator then elaborates: The disjunctive syllogism composed of exclusive disjunction (man'at al-jam' wal-khuluw) yields four productive moods: (1) affirming one disjunct entails negating the other; (2) affirming the other entails negating the first; (3) negating one entails affirming the other; (4) negating the other entails affirming the first. Example: 'The number is either even or odd.' Affirming 'even' yields 'not odd'; affirming 'odd' yields 'not even'; negating 'even' yields 'odd'; negating 'odd' yields 'even'. For the inclusive disjunction (man'at al-jam' fqat), where both cannot be true but both can be false, only two moods are productive: affirming one disjunct yields the negation of the other. But negating one does not yield the affirmation of the other, because both could be false. (The third type, man'at al-khuluw fqat, where both cannot be false but both can be true, is alluded to in the matn but the commentary only mentions the first two explicitly.) In Islamic law, an example of exclusive disjunction: 'This animal is either a cow or a horse. It is a cow, so it is not a horse.' An example of inclusive disjunction: 'Either he is sick or he is absent. He is sick, so he is not absent.' But if he is not sick, he might still be absent or not — no conclusion.
+
+Key Terms
+المنفصل
+مانعة الجمع والخلو
+مانعة الجمع
+مانعة الخلو
+وضع
+رفع
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a valid conclusion for an inclusive disjunction (man'at al-jam' fqat) where the disjuncts are 'Zayd is traveling' and 'Zayd is sick'?
+A) He is traveling, so he is not sick.
+B) He is not traveling, so he is sick.
+C) He is not sick, so he is traveling.
+D) Both A and B
+
+Key Takeaway
+The productivity of moods in a disjunctive syllogism is determined entirely by the truth conditions of the disjunction type: exclusive yields four valid moods, inclusive yields two (by positing), and weak yields two (by removing).
+
+How This Lesson Applies — to MY Life?
+?
+Construct an exclusive disjunctive syllogism from fiqh: Choose two mutually exclusive actions (e.g., fasting on Friday is either wajib or not wajib) and derive the valid conclusions for all four moods.
+?
+Given a disjunctive premise 'Either the sale is valid or it is invalid' (exclusive), identify which moods are productive and explain why invalid moods fail.
+
+Pages p. 114 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 114
+Module 15 · Lesson 53
+Next →
+The Syllogism
+intermediate
+10 min
+Productive Forms of Disjunctive Conditional Syllogisms
+Explains the three types of disjunctive conditionals and their valid inference patterns.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three types of disjunctive conditionals (exclusive, inclusive, exhaustive) and determine which istithna' (exception) forms yield valid conclusions for each.
+
+Core Idea
+The validity of a disjunctive syllogism depends entirely on which type of 'or' is used.
+
+In this passage, the author breaks down the disjunctive conditional syllogism into three types based on the nature of the disjunction. Understanding these distinctions is crucial for correctly applying such syllogisms in Islamic legal and theological reasoning, where arguments often take the form 'either A or B'. This lesson will guide you through the rules for each type using clear examples.
+
+Guided Path
+1
+Identify the type of disjunction
+Determine whether the disjunction is exclusive (mani'at al-jam' wa al-khuluw), inclusive (mani'at al-jam' only), or exhaustive (mani'at al-khuluw only). The difference lies in whether both disjuncts can be true/false together.
+Ex: exclusive: 'the number is even or odd'; inclusive: 'the thing is white or black'; exhaustive: 'Zayd is in the sea or does not drown'.
+2
+Determine the istithna' (exception)
+Check whether you are affirming (wad') or negating (raf') one of the disjuncts. This is the 'istithna'' in the syllogism.
+3
+Apply the rule for exclusive disjunction
+For exclusive (man'at al-jam' wa al-khuluw), both affirming one disjunct and negating one disjunct produce valid conclusions. Affirming A yields negation of B; negating A yields affirmation of B.
+Four productive modes: two from affirmation, two from negation.
+4
+Apply the rule for inclusive disjunction
+For inclusive (man'at al-jam' only), only affirming a disjunct is productive. Affirming A yields negation of B. Negating A yields no conclusion because both could be false.
+Example: 'the thing is white or black' – if it is white, it is not black; but if it is not white, it might be green, not necessarily black.
+5
+Apply the rule for exhaustive disjunction
+For exhaustive (man'at al-khuluw only), only negating a disjunct is productive. Negating A yields affirmation of B. Affirming A yields no conclusion because both could be true.
+Example: 'Zayd is in the sea or does not drown' – if he is not in the sea, he does not drown; but if he is in the sea, he might still not drown.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ملزوم، ونفي الملزوم لا يقتضي نفي اللازم بخلافه في الضربين الأولين فإن نفى اللازم الذي هو التالي، يقتضي نفي الملزوم الذي هو المقدم، وثبوت الملزوم الذي هو المقدم، يقتضي ثبوت اللازم، الذي هو التالي. هذا معنى قول المصنف لما انجلى أي لما أتضح عندهم من أن نفي اللازم يقتضي نفي الملزوم، وثبوت الملزوم يقتضي ثبوت اللازم، فقول المصنف: «أنتج وضع ذاك أي: المقدم، بدليل ذكر التالي بعده، والمراد بالوضع الثبوت، وبالرفع النفي، وبالعكس: استثناء عين التالي أو نقيض المقدم، فالضروب أربعة، اثنان منتجان واثنان عقيمان ثم قال: وَإِنْ يَكُنْ مُنْفَصِلاً فَوَضْعُ ذَا يُنْتِجُ رَفْعَ ذَاكَ وَالعَكْسُ كَذا وَذَاكَ فِي الأَخَص ثُمَّ إِنْ يَكُنْ مَانِعَ جَمْعٍ فَبِوَضْعِ ذَا زُكِنْ رَفْعُ لِذَاكَ دُونَ عَكْسٍ وَإِذَا مَانِعَ رَفْعٍ كَانَ فَهُوَ عَكْسُ ذَا أقول : القياس المركب من الشرطيات المنفصلة، إما أن يكون مركبا من مانعة الجمع والخلو، أو من مانعة الجمع فقط، أو من مانعة الخلو فقط. فإن كان مركبًا من الأولى فأضربه المنتجة أربعة اثنان من جانب الوضع، واثنان من جانب الرفع. مثال ذلك: العدد إما زوج وإما فرد فاستثناء زوج منتج لنقيض فرد، واستثناء فرد منتج لنقيض زوج، واستثناء نقيض كل منهما منتج لعين الآخر. وإن كان مركبًا من مانعة الجمع، فالمنتج منه ضربان، وهما استثناء عين كل من الطرفين، ليحصل نقيض الآخر، وأما استثناء النقيض فلا ينتج شيئًا. مثال ذلك: إما أن يكون هذا الشيء أبيض، وإما أن يكون أسود، فاستثناء أبيض منتج لنقيض أسود، واستثناء أسود منتج لنقيض أبيض، وأما استثناء نقيض كل منهما فلا ينتج شيئًا. وإن كان مركبًا من مانعة الخلو أنتج منه ضربان، وهما: استثناء نقيض كل من الطرفين، ليحصل عين الآخر، وأما استثناء العين فلا ينتج شيئًا، عكس المركب من مانعة الجمع. مثال ذلك: زيد إما في البحر، وإما أن لا يغرق، فاستثناء نقيض في البحر منتج لا يغرق، واستثناء نقيض لا يغرق منتج لفي البحر، فنقول: لكنه ليس في البحر فلا يغرق أو لكنه يغرق فهو في البحر.
+The entailed, and the negation of the entailing does not necessitate the negation of the entailed, unlike the first two types, for the negation of the entailed—which is the consequent—necessitates the negation of the entailing—which is the antecedent; and the affirmation of the entailing—which is the antecedent—necessitates the affirmation of the entailed—which is the consequent. This is the meaning of the author's saying: 'when it became clear,' i.e., when it became evident to them that the negation of the consequent necessitates the negation of the antecedent, and the affirmation of the antecedent necessitates the affirmation of the consequent. So the author's saying: 'it produced the positing of that' means the antecedent, indicated by the mention of the consequent after it; and by 'positing' is meant affirmation, and by 'removal' is meant negation; and 'the reverse' means the exception of the very consequent or the contradictory of the antecedent. So the productive combinations are four: two from the side of positing and two from the side of removal. Then he said: 'If it is disjunctive, then the positing of this produces the removal of that, and the reverse is similar. And that is in the exclusive. Then if it is of the type that prevents combination, then by the positing of this it is known that the removal of that without the reverse; and if it is of the type that prevents emptiness, then it is the reverse of that.' I say: The syllogism composed of disjunctive conditionals is either composed of the type that prevents combination and emptiness, or only the type that prevents combination, or only the type that prevents emptiness. If it is composed of the first, its productive modes are four: two from the side of positing and two from the side of removal. Example: The number is either even or odd. So the exception of 'even' produces the contradictory of 'odd', and the exception of 'odd' produces the contradictory of 'even', and the exception of the contradictory of each produces the other itself. If it is composed of the type that prevents combination alone, the productive from it are two modes: the exception of the very each of the two terms, so that the contradictory of the other results; as for the exception of the contradictory, it does not produce anything. Example: Either this thing is white or it is black. So the exception of 'white' produces the contradictory of 'black', and the exception of 'black' produces the contradictory of 'white'; as for the exception of the contradictory of each, it does not produce anything. If it is composed of the type that prevents emptiness alone, it produces two modes: the exception of the contradictory of each of the two terms, so that the other itself results; as for the exception of the very thing, it does not produce anything—the opposite of the composite from the type that prevents combination. Example: Zayd is either in the sea or he does not drown. So the exception of the contradictory of 'in the sea' produces 'does not drown', and the exception of the contradictory of 'does not drown' produces 'in the sea'. So we say: 'But he is not in the sea, so he does not drown' or 'but he drowns, so he is in the sea.'
+Source pages p. 114
+
+Commentary
+This passage discusses the productive forms of disjunctive conditional syllogisms (qiyas istithna'i munfasil). The author first recapitulates the rule for the conjunctive conditional (muttaṣil) to contrast with the disjunctive: in the conjunctive, negating the consequent entails negating the antecedent, and affirming the antecedent entails affirming the consequent. Then he explains that for the disjunctive, the productive forms depend on the type of disjunction. There are three types: exclusive (man'at al-jam' wa al-khuluw), where the two disjuncts cannot both be true nor both false; inclusive (man'at al-jam' only), where they cannot both be true but can both be false; and exhaustive (man'at al-khuluw only), where they cannot both be false but can both be true. For the exclusive, affirming one disjunct entails negating the other (two forms from positing), and negating one disjunct entails affirming the other (two forms from removal). Thus four productive modes. For the inclusive, only affirming a disjunct yields a conclusion (negating the other); negating does not because both could be false. For the exhaustive, only negating a disjunct yields a conclusion (affirming the other); affirming does not because both could be true. The author gives examples: for exclusive, the number is either even or odd (cannot be both or neither); for inclusive, white/black (a thing cannot be both but can be neither, e.g., green); for exhaustive, Zayd is either in the sea or does not drown (cannot be neither but can be both, i.e., he is in the sea and does not drown—but drowning is not implied by being in sea). In Islamic jurisprudence, similar reasoning applies: e.g., an act is either obligatory (wajib) or forbidden (haram) — if it is exclusive, then affirming wajib negates haram, and negating wajib would affirm haram only if the disjunction is exhaustive (which it isn't); typically such rulings have different logical forms.
+
+Key Terms
+مانعة الجمع والخلو
+مانعة الجمع
+مانعة الخلو
+وضع
+رفع
+
+Key Terms from Source Passage
+
+Checkpoint
+In a disjunctive syllogism of the 'mani'at al-jam' only' type, which of the following istithna' forms is productive?
+A) Exception of the contradictory of one disjunct
+B) Exception of the very one disjunct
+C) Exception of the contradictory of the consequent
+D) Exception of the very antecedent
+
+Key Takeaway
+The productive forms of a disjunctive syllogism depend on the type of disjunction: exclusive allows both affirmation and negation; inclusive only affirmation; exhaustive only negation.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: In usul al-fiqh, consider the disjunction: 'The act is either wajib or mubah.' Assuming this is an exclusive disjunction (mani'at al-jam' wa al-khuluw), what conclusions follow if you affirm that it is wajib? What if you negate that it is wajib? Explain using the rules from this lesson.
+?
+Task 2: In kalam, the statement 'The world is either contingent or eternal' is often used. Identify the type of disjunction (exclusive, inclusive, or exhaustive) and determine which istithna' forms are productive. Provide an example of a valid inference.
+
+Pages p. 114 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 115
+Module 15 · Lesson 54
+Next →
+The Syllogism
+intermediate
+10 min
+Compound Disjunctive Syllogisms: Man'at al-Jam' vs Man'at al-Khuluww
+Illustrates valid inference rules for two types of compound disjunction.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish man'at al-jam' from man'at al-khuluww and determine which istithna' operations yield valid conclusions.
+
+Core Idea
+In compound disjunctive syllogisms, what you can infer depends on the disjunction type: inclusive or exclusive.
+
+This passage from Idah al-Mubham provides concrete examples of two types of compound disjunction: man'at al-jam' (inclusive) and man'at al-khuluww (exclusive). By working through the examples, you will learn the precise conditions under which a conclusion follows, which is essential for constructing valid arguments in Islamic legal reasoning (fiqh) and theology (kalam).
+
+Guided Path
+1
+Identify the disjunction type
+Locate where the author discusses man'at al-jam' and man'at al-khuluww. Note the examples: white/black for man'at al-jam' and sea/drowning for man'at al-khuluww.
+The type determines which istithna' operations are valid.
+2
+Analyse man'at al-jam'
+In the example 'إما أن يكون أبيض وإما أسود', verify that positing one alternative yields the negation of the other, but positing the negation of either produces nothing.
+Both alternatives can be false (e.g., the thing could be red).
+3
+Analyse man'at al-khuluww
+In 'زيد إما في البحر وإما لا يغرق', test the rules: positing the negation of one yields the other, but positing the alternative itself yields nothing.
+Both alternatives cannot be false, but both can be true.
+4
+Compare rules
+Create a mental table: For man'at al-jam', affirming one denies the other; for man'at al-khuluww, denying one affirms the other. Note the inversion.
+This inversion is crucial for checking validity.
+5
+Apply to a new case
+Given a compound disjunction from fiqh, such as 'This act is either wajib or mubah', determine its type and which istithna' operations are valid.
+Assume no possibility of both or neither unless specified.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مثال ذلك: إما أن يكون هذا الشيء أبيض، وإما أن يكون أسود، فاستثناء أبيض منتج لنقيض أسود، واستثناء أسود منتج لنقيض أبيض، وأما استثناء نقيض كل منهما فلا ينتج شيئًا. وإن كان مركبًا من مانعة الخلو أنتج منه ضربان، وهما: استثناء نقيض كل من الطرفين، ليحصل عين الآخر، وإما استثناء العين فلا ينتج شيئًا، عكس المركب من مانعة الجمع. مثال ذلك: زيد إما في البحر، وإما أن لا يغرق، فاستثناء نقيض في البحر منتج لا يغرق، واستثناء نقيض لا يغرق منتج لفي البحر، فنقول: لكنه ليس في البحر فلا يغرق أو لكنه يغرق فهو في البحر.
+Example of that: Either this thing is white, or it is black. So positing white produces the negation of black, and positing black produces the negation of white. But positing the negation of each of them produces nothing. If it is composed from man'at al-khuluww (exclusive disjunction), then two types produce from it: positing the negation of each of the two extremes, to obtain the other extreme itself; but positing the extreme itself produces nothing—opposite of the compound from man'at al-jam' (inclusive disjunction). Example of that: Zayd is either in the sea, or he does not drown. So positing the negation of 'in the sea' produces 'does not drown', and positing the negation of 'does not drown' produces 'in the sea'. So we say: But he is not in the sea, therefore he does not drown; or: But he drowns, therefore he is in the sea.
+Source pages p. 115
+
+Commentary
+This passage illustrates how to derive conclusions from compound disjunctive premises, distinguishing between two types: man'at al-jam' (inclusive disjunction, where both cannot be true but both can be false) and man'at al-khuluww (exclusive disjunction, where both cannot be false but both can be true). The author first gives an example of man'at al-jam': 'Either this thing is white, or it is black.' In this type, positing one alternative (e.g., 'it is white') yields the negation of the other (i.e., 'it is not black'), and vice versa. But positing the negation of either alternative yields nothing because both can be false (e.g., it could be red). Then the author discusses man'at al-khuluww: here the two types that produce a conclusion are: positing the negation of one extreme yields the other extreme (since they cannot both be false), while positing the extreme itself yields nothing (since both can be true). The example: 'Zayd is either in the sea, or he does not drown.' These cannot both be false (he must be either in the sea or not drowning). So if we deny 'in the sea' (i.e., he is not in the sea), we conclude 'he does not drown'; if we deny 'does not drown' (i.e., he drowns), we conclude 'he is in the sea'. But affirming either extreme (e.g., 'he is in the sea') yields nothing further, because it could be true while the other is also true (e.g., he could be in the sea and not drown).
+
+Key Terms
+مانعة الجمع
+مانعة الخلو
+استثناء
+منتج
+
+Key Terms from Source Passage
+
+Checkpoint
+In the passage, for man'at al-jam', what is the result of positing the negation of one alternative?
+A) It produces the other alternative.
+B) It produces nothing.
+C) It produces the negation of the other.
+D) It is invalid.
+
+Key Takeaway
+The validity of inferences in compound disjunctive syllogisms hinges on whether the disjunction is man'at al-jam' (inclusive) or man'at al-khuluww (exclusive).
+
+How This Lesson Applies — to MY Life?
+?
+A compound disjunctive premise: 'The action is either obligatory or forbidden.' (Assume man'at al-khuluww). Determine whether the following arguments are valid: (a) 'It is not obligatory, therefore it is forbidden.' (b) 'It is obligatory, therefore it is not forbidden.' (c) 'It is not forbidden, therefore it is obligatory.' (d) 'It is forbidden, therefore it is not obligatory.' Explain which are valid and why, referencing the rules from the passage.
+?
+Construct your own valid syllogism using a compound disjunction of man'at al-jam' type with an example from Islamic theology (e.g., 'The world is either eternal or created'). Then show which istithna' operations are valid and which are not.
+
+Pages p. 115 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 15 · Lesson 55
+Next →
+The Syllogism
+beginner
+7 min
+Simple vs Compound Syllogism
+Defines compound syllogism and contrasts with simple syllogism using a fiqh example.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish a simple syllogism from a compound syllogism and identify the intermediate conclusions in a compound chain.
+
+Core Idea
+A compound syllogism chains multiple inferences, using each conclusion as a premise in the next.
+
+Sometimes a single syllogism of two premises is not enough to reach a desired conclusion. Islamic jurists often need to combine several syllogisms, as in the example of the grave-robber (al-nabbāsh) where a ruling on hand-cutting is derived through a chain of reasoning. This lesson will help you recognise when a syllogism is simple or compound, and how to decompose a compound argument into its logical steps.
+
+Guided Path
+1
+Identify the number of premises
+Count the propositions that serve as premises before the final conclusion. If there are exactly two, it is a simple syllogism. If more than two, it is compound. For example, in the grave-robber example, there are three premises: (1) the grave-robber takes wealth secretly, (2) every secret taker is a thief, (3) every thief has his hand cut off.
+The conclusion is not counted as a premise.
+2
+Locate intermediate conclusions
+In a compound syllogism, the conclusion of one syllogism becomes a premise in another. Find the first two premises and derive their conclusion. In the grave-robber example, from premises (1) and (2) we get 'the grave-robber is a thief'. This intermediate conclusion is then used as a premise with (3) to reach the final conclusion.
+Intermediate conclusions may be implicit or explicit. Here the text makes it explicit.
+3
+Verify the chain structure
+Check that each step is a valid syllogism on its own. The first two premises form a first-figure syllogism; the intermediate conclusion and the third premise also form a valid first-figure syllogism. The overall argument is a chain of valid inferences.
+The validity of each sub-syllogism is necessary for the compound to be sound.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم قال : فصل في لواحق القياس. ١٠٧. وَمِنْهُ مَا يَدْعُونَهُ مُرَكَّبَا لِكَوْنِهِ مِنْ حُجَجٍ قَدْرُكْبَا ۱۰۸. فَرَكَّبَنْهُ إِنْ تُرِدْ أَنْ تَعْلَمَهُ وَاقْلِبْ نَتِيْجَةٌ بِهِ مُقَدِّمَهُ ١٠٩. يَلْزَمُ مِنْ تَرْكِيْبِهَا بِأُخْرَى نَتِيْجَةٌ إِلَى هَلُمَّ جَرًا ) ۱۱۰. مُتَّصِلَ النَّتَائِجِ الذِي حَوَى يَكُونُ أَوْ مَفْصُولَها كُلِّ سَوَا. أقول: القياس: إن تركب من قضيتين، سمي: قياسًا بسيطا، نحو العالم متغير، وكل متغير حادث. وإن تركب من أكثر من قضيتين، سمي قياسًا مركبا، نحو النباش آخذ المال خفية، وكل آخذ للمال خفية سارق، وكل سارق تقطع يده، والنتيجة: النباش تقطع يده. وهذا القياس ينقسم إلى: (۱) متصل النتائج: إن ذُكِرَت فيه النتيجة، وجعلت مقدمة صغرى، ورُكبت مقدمة كبرى، وأخذت النتيجة منه، وجُعِلت مقدمة كذلك، وهلم جرا، كما قال المصنف؛ كقولنا: النباش آخذ للمال خفية وكل آخذ للمال خفية سارق، ينتج: النباش سارق.
+Then he said: Section on the appendices of syllogism. 107. Among it is what they call compound, because it is composed of several proofs. 108. So compose it if you wish to know it, and convert the conclusion with it into a premise. 109. From composing it with another a conclusion follows, and so on consecutively. 110. Continuous of conclusions that it contains, or separated, all equal. I say: The syllogism: if it is composed of two propositions, it is called a simple syllogism, such as 'The world is changing, and everything changing is originated.' If it is composed of more than two propositions, it is called a compound syllogism, such as 'The grave-robber takes wealth secretly, and every taker of wealth secretly is a thief, and every thief has his hand cut off'—the conclusion: 'The grave-robber has his hand cut off.' This syllogism divides into: (1) Continuous of conclusions: if the conclusion is mentioned in it, made into a minor premise, a major premise is composed, and the conclusion is taken from it, then made into a premise likewise, and so on, as the author said; like our saying: 'The grave-robber is a taker of wealth secretly, and every taker of wealth secretly is a thief'—this yields: 'The grave-robber is a thief.'
+Source pages p. 116
+
+Commentary
+This passage defines the compound syllogism and its types. The author first presents the matn verses (107-110) which introduce the concept: a compound syllogism is made of multiple proofs, and by taking the conclusion of one and using it as a premise in another, one can extend the reasoning indefinitely. The verses also mention two types: muttasil al-nata'ij (continuous of conclusions) and mafṣūl al-nata'ij (separated of conclusions). Then the commentary explains: a simple syllogism consists of two premises; a compound syllogism consists of more than two premises. The example given for compound is from fiqh: 'The grave-robber (al-nabbāsh) takes wealth secretly; every taker of wealth secretly is a thief; every thief has his hand cut off.' The conclusion is that the grave-robber's hand is cut off. The compound syllogism is divided into two types: (1) Muttasil al-nata'ij: where the conclusion of one step is used as a minor premise in the next, and so on. The author gives a partial example: from 'grave-robber takes secretly' and 'every secret taker is a thief' we get 'grave-robber is a thief'. This intermediate conclusion would then be used with the major premise 'every thief has his hand cut off' to reach the final conclusion.
+
+Key Terms
+قياس مركب
+قياس بسيط
+النباش
+
+Key Terms from Source Passage
+
+Checkpoint
+In the text, which of the following is the intermediate conclusion after the first two premises of the compound syllogism?
+A) The grave-robber has his hand cut off.
+B) The grave-robber is a thief.
+C) Every thief has his hand cut off.
+D) The grave-robber takes wealth secretly.
+
+Key Takeaway
+A compound syllogism is a chain of two or more simple syllogisms where the conclusion of one becomes a premise in the next, enabling complex legal and theological reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Given the premises: 'Wine is an intoxicant' and 'Every intoxicant is forbidden (haram)', this is a simple syllogism. Now add a third premise: 'Every forbidden thing is unlawful to trade'. Construct the compound syllogism and state the intermediate and final conclusions.
+?
+Identify a real fiqh example where mehr (dower) is considered valid only if specified. Use compound syllogism: 'The marriage contract is valid, every valid contract requires specification of consideration, therefore mehr must be specified.' Then add: 'Every contract requiring specification is void if unspecified.' Chain these into a compound argument about a marriage without specified mehr.
+
+Pages p. 116 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 15 · Lesson 56
+Next →
+The Syllogism
+intermediate
+8 min
+Continuous Compound Syllogism (Muttasil al-Nata'ij)
+Explains the continuous type of compound syllogism with the grave-robber example.
+
+Learning Objective
+By the end of this lesson, you will be able to construct a continuous compound syllogism by using each intermediate conclusion as the minor premise of the next syllogism in the chain.
+
+Core Idea
+In a continuous compound syllogism, each intermediate conclusion becomes the minor premise of the next step, forming an unbroken chain.
+
+The author mentions two types of compound syllogism: continuous (muttasil) and separated (mafṣūl). The continuous type is fully explained and exemplified. Understanding how to chain conclusions is essential for multi-step arguments in Islamic sciences, such as establishing a chain of rulings or theological proofs.
+
+Guided Path
+1
+Identify the first simple syllogism
+Take the first two premises and derive their conclusion. In the grave-robber example: premise 1 (minor) = 'the grave-robber takes wealth secretly', premise 2 (major) = 'every secret taker is a thief'. The conclusion is 'the grave-robber is a thief'.
+This conclusion is then used as the minor premise in the next syllogism.
+2
+Use the conclusion as the minor premise
+The conclusion from step 1 becomes the minor premise for the next syllogism. The major premise is the third original premise: 'every thief has his hand cut off'. So the second syllogism has minor = 'the grave-robber is a thief', major = 'every thief has his hand cut off'.
+This is the essence of 'continuous': the conclusion is inserted as a premise.
+3
+Derive the final conclusion
+From the second syllogism, we derive the final conclusion: 'the grave-robber has his hand cut off'. No further steps are needed here, but the process could continue indefinitely.
+The verse says 'and so on consecutively' (إلى هلم جرًا), indicating possible extension.
+4
+Recognize the pattern
+In a continuous compound syllogism, each step follows the same pattern: take the conclusion of the previous step, combine it with a new major premise, produce a new conclusion. This is like a logical chain.
+This is analogous to a sorites in Western logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم قال : فصل في لواحق القياس. ١٠٧. وَمِنْهُ مَا يَدْعُونَهُ مُرَكَّبَا لِكَوْنِهِ مِنْ حُجَجٍ قَدْرُكْبَا ۱۰۸. فَرَكَّبَنْهُ إِنْ تُرِدْ أَنْ تَعْلَمَهُ وَاقْلِبْ نَتِيْجَةٌ بِهِ مُقَدِّمَهُ ١٠٩. يَلْزَمُ مِنْ تَرْكِيْبِهَا بِأُخْرَى نَتِيْجَةٌ إِلَى هَلُمَّ جَرًا ) ۱۱۰. مُتَّصِلَ النَّتَائِجِ الذِي حَوَى يَكُونُ أَوْ مَفْصُولَها كُلِّ سَوَا. أقول: القياس: إن تركب من قضيتين، سمي: قياسًا بسيطا، نحو العالم متغير، وكل متغير حادث. وإن تركب من أكثر من قضيتين، سمي قياسًا مركبا، نحو النباش آخذ المال خفية، وكل آخذ للمال خفية سارق، وكل سارق تقطع يده، والنتيجة: النباش تقطع يده. وهذا القياس ينقسم إلى: (۱) متصل النتائج: إن ذُكِرَت فيه النتيجة، وجعلت مقدمة صغرى، ورُكبت مقدمة كبرى، وأخذت النتيجة منه، وجُعِلت مقدمة كذلك، وهلم جرا، كما قال المصنف؛ كقولنا: النباش آخذ للمال خفية وكل آخذ للمال خفية سارق، ينتج: النباش سارق.
+Then he said: Section on the appendices of syllogism. 107. Among it is what they call compound, because it is composed of several proofs. 108. So compose it if you wish to know it, and convert the conclusion with it into a premise. 109. From composing it with another a conclusion follows, and so on consecutively. 110. Continuous of conclusions that it contains, or separated, all equal. I say: The syllogism: if it is composed of two propositions, it is called a simple syllogism, such as 'The world is changing, and everything changing is originated.' If it is composed of more than two propositions, it is called a compound syllogism, such as 'The grave-robber takes wealth secretly, and every taker of wealth secretly is a thief, and every thief has his hand cut off'—the conclusion: 'The grave-robber has his hand cut off.' This syllogism divides into: (1) Continuous of conclusions: if the conclusion is mentioned in it, made into a minor premise, a major premise is composed, and the conclusion is taken from it, then made into a premise likewise, and so on, as the author said; like our saying: 'The grave-robber is a taker of wealth secretly, and every taker of wealth secretly is a thief'—this yields: 'The grave-robber is a thief.'
+Source pages p. 116
+
+Commentary
+This passage defines the compound syllogism and its types. The author first presents the matn verses (107-110) which introduce the concept: a compound syllogism is made of multiple proofs, and by taking the conclusion of one and using it as a premise in another, one can extend the reasoning indefinitely. The verses also mention two types: muttasil al-nata'ij (continuous of conclusions) and mafṣūl al-nata'ij (separated of conclusions). Then the commentary explains: a simple syllogism consists of two premises; a compound syllogism consists of more than two premises. The example given for compound is from fiqh: 'The grave-robber (al-nabbāsh) takes wealth secretly; every taker of wealth secretly is a thief; every thief has his hand cut off.' The conclusion is that the grave-robber's hand is cut off. The compound syllogism is divided into two types: (1) Muttasil al-nata'ij: where the conclusion of one step is used as a minor premise in the next, and so on. The author gives a partial example: from 'grave-robber takes secretly' and 'every secret taker is a thief' we get 'grave-robber is a thief'. This intermediate conclusion would then be used with the major premise 'every thief has his hand cut off' to reach the final conclusion.
+
+Key Terms
+متصل النتائج
+مفصول النتائج
+النباش
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the role of the intermediate conclusion in a continuous compound syllogism?
+A) It is the final answer and the argument stops.
+B) It is used as the minor premise in the next syllogism.
+C) It is discarded once obtained.
+D) It is used as the major premise in the next syllogism.
+
+Key Takeaway
+The continuous compound syllogism chains inferences by making each intermediate conclusion serve as the minor premise of the next step, enabling extended logical demonstrations.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a continuous compound syllogism to prove that a person who drinks nabidh (date wine) is liable for the ḥadd penalty of intoxication. Use the premises: (1) Nabidh is an intoxicant, (2) Every intoxicant is khamr, (3) Every drinker of khamr is liable for the ḥadd penalty. Show the intermediate conclusions.
+?
+In uṣūl al-fiqh, a command (amr) indicates obligation unless there is a contrary indicator. Use a continuous compound syllogism to derive: 'The command in the Qur'an is an amr; every amr indicates obligation unless there is a qarīnah (indicator); there is no qarīnah; therefore it indicates obligation.' Chain the steps.
+
+Pages p. 116 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 116
+Module 15 · Lesson 57
+Next →
+The Syllogism
+beginner
+8 min
+Compound Syllogism and Its Two Types
+Author defines compound syllogism and divides it into connected and separated conclusions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a compound syllogism and distinguish between the connected-conclusions and separated-conclusions types.
+
+Core Idea
+Compound syllogisms chain multiple premises; the intermediate conclusions may be explicit or implicit.
+
+So far we have studied simple syllogisms with two premises. However, real arguments often require more than two steps. The classical logicians recognized this and developed the concept of the compound syllogism (qiyās murakkab). This lesson explains its structure and two varieties: one where each intermediate conclusion is spelled out, and another where they are omitted for brevity. The fiqh example of the grave robber (al-nabbāsh) will make the chain clear.
+
+Guided Path
+1
+Identify the compound structure
+Look for an argument with more than two premises. In the example: 'The grave robber takes property secretly; everyone who takes property secretly is a thief; every thief has his hand cut off.' That's three premises leading to one final conclusion.
+Count the premises: at least three.
+2
+Trace the intermediate conclusions
+In the connected type, each intermediate conclusion is stated. From premises 1 and 2 we get 'the grave robber is a thief', which then becomes a premise with statement 3 to yield the final conclusion.
+These intermediate conclusions serve as both conclusion and premise.
+3
+Recognize the separated type
+In the separated type, the intermediate conclusions are omitted. The argument appears as a single step, but logically it consists of multiple simple syllogisms whose conclusions are left implicit.
+This is a shorthand form; the logical chain is the same.
+4
+Compare the two types
+The connected type explicitly shows the reasoning chain; the separated type is more concise. Both are valid compound syllogisms, differing only in presentation.
+Which type is more persuasive? The connected type is clearer for teaching; the separated type is more common in ordinary debate.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم قال : فصل في لواحق القياس. ١٠٧. وَمِنْهُ مَا يَدْعُونَهُ مُرَكَّبَا لِكَوْنِهِ مِنْ حُجَجٍ قَدْرُكْبَا ۱۰۸. فَرَكَّبَنْهُ إِنْ تُرِدْ أَنْ تَعْلَمَهُ وَاقْلِبْ نَتِيْجَةٌ بِهِ مُقَدِّمَهُ ١٠٩. يَلْزَمُ مِنْ تَرْكِيْبِهَا بِأُخْرَى نَتِيْجَةٌ إِلَى هَلُمَّ جَرًا ) ۱۱۰. مُتَّصِلَ النَّتَائِجِ الذِي حَوَى يَكُونُ أَوْ مَفْصُولَها كُلِّ سَوَا أقول: القياس: إن تركب من قضيتين، سمي: قياسًا بسيطا، نحو العالم متغير، وكل متغير حادث. وإن تركب من أكثر من قضيتين، سمي قياسًا مركبا، نحو النباش آخذ المال خفية، وكل آخذ للمال خفية سارق، وكل سارق تقطع يده، والنتيجة: النباش تقطع يده. وهذا القياس ينقسم إلى: (۱) متصل النتائج: إن ذُكِرَت فيه النتيجة، وجعلت مقدمة صغرى، ورُكبت مقدمة كبرى، وأخذت النتيجة منه، وجُعِلت مقدمة كذلك، وهلم جرا، كما قال المصنف ؛ كقولنا : النَّباش آخذ للمال خفية وكل آخذ للمال خفية سارق، ينتج : النباش سارق. وتقول: النباش سارق، وكل سارق تقطع يده، ينتج: النباش تقطع يده إلى آخر ما تريد. (۲) وإلى مفصولها وهو ما لم تذكر فيه النتائج كالمثال قبل هذا، والتحقيق أنه يرجع إلى القياس البسيط، لأنه أقيسة طويت نتائجها في الذِّكْرِ، وهي مراده في المعنى. وسمي الأول متصل النتائج : لاتصال نتائجه بمقدماته، بخلاف الثاني.
+Then he said: Section on the Appendices of the Syllogism. 107. And among it is what they call compound, because it is composed of several proofs. 108. So compound it if you wish to know it, and make the conclusion a premise by it. 109. From composing it with another, a conclusion follows, and so on. 110. It may have connected conclusions or separated ones, all the same. I say: The syllogism: if composed of two propositions, it is called a simple syllogism, like 'The world is changing, and everything changing is temporally originated.' If composed of more than two propositions, it is called a compound syllogism, like 'The grave robber takes property secretly, everyone who takes property secretly is a thief, and every thief has his hand cut off; the conclusion: the grave robber has his hand cut off.' This syllogism divides into: (1) Connected conclusions: when the conclusion is mentioned, made into a minor premise, and a major premise is composed, and the conclusion taken from it, and so on, as the author said, like our saying: 'The grave robber takes property secretly, and everyone who takes property secretly is a thief,' produces: 'The grave robber is a thief.' And you say: 'The grave robber is a thief, and every thief has his hand cut off,' produces: 'The grave robber has his hand cut off,' and so on. (2) Its separated type: where the conclusions are not mentioned, like the example before this. The verification is that it reduces to simple syllogisms, because it is composed of syllogisms whose conclusions are omitted in discussion, and that is intended in meaning. The first is called 'connected conclusions' due to the connection of its conclusions with its premises, unlike the second.
+Source pages p. 116
+
+Commentary
+This passage defines and classifies the compound syllogism. The author begins by citing a verse from the matn that introduces the compound syllogism as one composed of multiple proofs (hujaj). The commentator then explains that a syllogism with two premises is simple, while one with more than two is compound. He gives two examples: the simple example from theology ('the world is changing, everything changing is temporally originated') to justify the world's temporal origination, and a compound legal example about the grave robber (al-nabbāsh) to illustrate a chain of reasoning. The compound syllogism is then divided into two types: (1) muttasil al-natā'ij (connected conclusions), where each intermediate conclusion is explicitly stated and used as a premise for the next step; (2) mafṣūl al-natā'ij (separated conclusions), where intermediate conclusions are omitted for brevity, reducing the appearance to a series of simple syllogisms. The commentator clarifies that the separated type is essentially a series of simple syllogisms with implicit conclusions, emphasizing that the classification is based on the explicit mention of intermediate results.
+
+Key Terms
+قياس مركب
+متصلة النتائج
+مفصولة النتائج
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a compound syllogism with connected conclusions?
+A) 'The world is changing, and everything changing is temporally originated.'
+B) 'The grave robber takes property secretly, everyone who takes property secretly is a thief, and every thief has his hand cut off; therefore the grave robber has his hand cut off.'
+C) 'All intoxicants are forbidden, and wine is an intoxicant; therefore wine is forbidden.'
+D) 'The sun rises, and if it rises it is day; therefore it is day.'
+
+Key Takeaway
+A compound syllogism chains multiple premises, and the intermediate conclusions may be either explicitly stated (connected) or omitted (separated).
+
+How This Lesson Applies — to MY Life?
+?
+Construct a compound syllogism on a fiqh issue using the connected-conclusions format. For example: 'Nabidh is an intoxicant; every intoxicant is forbidden; therefore nabidh is forbidden.' Then add another step: 'Nabidh is forbidden; anything forbidden may not be traded; therefore nabidh may not be traded.' Write out both steps explicitly as in the connected type.
+?
+Take the following argument and identify whether it is a connected or separated compound syllogism: 'Whoever steals must have his hand cut off. The grave robber steals. Therefore the grave robber must have his hand cut off.' Explain why it is separated.
+
+Pages p. 116 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 118
+Module 15 · Lesson 58
+Next →
+The Syllogism
+beginner
+5 min
+Three Types of Inference and Their Certainty
+Author defines three types of inference and states that only qiyas yields certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish qiyas, istiqra', and tamthil based on direction of inference and epistemic value, and identify which type yields certainty.
+
+Core Idea
+Only deductive qiyas yields certainty; induction and analogy are probabilistic.
+
+In Islamic logic, reasoning (istidlal) is classified into three types based on the direction of inference: from universal to particular (qiyas), from particular to universal (istiqra'), and from particular to particular (tamthil). This lesson unpacks each type and their epistemological rank, showing why only qiyas provides certain knowledge.
+
+Guided Path
+1
+Identify the direction of inference
+Read each definition and note whether the inference moves from universal to particular, particular to universal, or particular to particular. This is the key to distinguishing the three types.
+The direction determines the logical form and epistemic power.
+2
+Analyze the examples given
+The author provides concrete examples: for istiqra', the animal jaw movement; for qiyas, the world's origination; for tamthil, prohibition of nabidh from wine. Study how each example matches its definition.
+These examples are drawn from natural science and fiqh, showing the practical application.
+3
+Understand why only qiyas is certain
+The text states that istiqra' and tamthil do not yield certainty due to the possibility of missing individuals (like the crocodile) or differing causes. Qiyas, however, deduces a particular from a universal, which entails necessary truth if premises are true.
+This epistemological ranking is foundational in Islamic logic.
+4
+Apply the classification to new arguments
+Practice by taking an argument from fiqh or kalam and determining its type. For example, 'Every intoxicant is haram; nabidh is an intoxicant; therefore nabidh is haram' is qiyas. Then assess whether it yields certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فالأول هو الاستدلال على الكلي بالجزئي؛ كقولنا: كل حيوان يُحرّك فَكَهُ الأسفل، بدليل أن الفرس والإنسان والحمار مثلاً كذلك. والثاني: هو الاستدلال على الجزئي بالكلي، عكس الاستقراء؛ كقولنا: العالم حادث، والدليل على ذلك أنه من أفرد المتغير وكل متغير حادث، وقد تقدم ذلك بأشكاله. والثالث الاستدلال على جزئي بجزئي؛ كالاستدلال على حرمة النبيذ بحرمة الخمر للجامع بينهما وهو الإسكار، وهما جزئيان من مطلق المسكر والمفيد للقطع من هذه الثلاثة: القياس، وأما الاستقراء والتمثيل فلا يفيدانه، لاحتمال أن يكون هناك فرد لم يستقرأ؛ كالتمساح، وأن العلة في الجزئي المحمول عليه غير العلة في الجزئي المحمول.
+The first is inference from the universal to the particular, as in our statement: Every animal moves its lower jaw, evidenced by the fact that the horse, man, and donkey, for example, are like that. The second is inference from the particular to the universal, the opposite of induction, as in our statement: The world is originated, and the proof is that it is composed of changing individuals, and everything changing is originated, and this has been presented earlier with its figures. The third is inference from particular to particular, as in inferring the prohibition of nabidh from the prohibition of wine due to the common factor between them, which is intoxication, and both are particulars under the absolute intoxicant. That which yields certainty from these three is analogy (qiyas). As for induction and analogy (tamthil), they do not yield certainty, due to the possibility that there exists an individual not included in the survey, like the crocodile, and that the cause in the particular to which [the judgment] is attributed is not the same as the cause in the particular being attributed.
+Source pages p. 118
+
+Commentary
+This passage defines three types of inference (istidlal) in logic. The first type is induction (istiqra'): examining particular instances (horses, humans, donkeys) to arrive at a universal claim about animals moving their lower jaw. The second type is the syllogism (qiyas): deducing a particular conclusion (the world is originated) from universal premises. The third is analogy (tamthil): transferring a ruling from one particular (wine) to another (nabidh) based on a shared attribute (intoxication). The author concludes that only the syllogism (qiyas) yields certainty. Induction is uncertain because the sample may miss some individuals (like the crocodile), and analogy is uncertain because the underlying cause may differ between the two particulars. This classification and epistemological ranking are foundational in Islamic logic, emphasizing that only deductive reasoning (from universal to particular) guarantees truth.
+
+Key Terms
+استدلال
+قياس
+استقراء
+تمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of inference yields certainty?
+A) Induction (istiqra')
+B) Analogy (tamthil)
+C) Syllogism (qiyas)
+D) All three
+
+Key Takeaway
+In Islamic logic, only deductive qiyas (syllogism) provides certain knowledge; induction and analogy are probabilistic because they depend on incomplete enumeration or uncertain shared causes.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of inference in the following argument: 'All intoxicants are haram; nabidh is an intoxicant; therefore nabidh is haram.' Is it qiyas, istiqra', or tamthil? Does it yield certainty according to the passage?
+?
+Take the istiqra' example from the passage (animals moving lower jaw). Explain why it is not certain and give a hypothetical missing case that could undermine the universal conclusion.
+
+Pages p. 118 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 123
+Module 15 · Lesson 59
+Next →
+The Syllogism
+intermediate
+8 min
+Three Theological Views on Implication of Premises
+Author presents three theological views on how premises indicate the conclusion.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the three theological views on how premises imply the conclusion and identify the view attributed to a given scholar.
+
+Core Idea
+The relationship between premises and conclusion is not merely logical but deeply theological, reflecting views on causality and divine action.
+
+In classical Islamic logic and theology, the question of how correct reasoning (al-nazar) leads to a conclusion is not just a matter of logical form; it touches on fundamental doctrines about causation and divine power. This passage presents three major views: rational necessity (luzum 'aqli), divine custom ('adi), and generated causation (tawallud). Understanding these views is essential for grasping the epistemological debates between Ash'aris and Mu'tazila.
+
+Guided Path
+1
+Identify the three views
+Read the passage and list the three views named: rational (luzum 'aqli), customary ('adi), and generated (mutawallid). Note that the author mentions a fourth view (wajib) but does not elaborate here.
+The fourth view is likely 'obligatory' but is omitted in this excerpt.
+2
+Understand the rational view (Imam al-Haramayn)
+According to Imam al-Haramayn, the conclusion necessarily follows from the premises rationally. If you know the premises, you must know the conclusion—it is inseparable, like sight and the visible object.
+This view implies a necessary causal connection between premises and conclusion.
+3
+Understand the customary view (al-Ash'ari)
+Al-Ash'ari holds that the conclusion is customary, not necessary. Allah creates knowledge of the conclusion at the time of reasoning, but it could be otherwise. The connection is based on God's habit, not logical necessity.
+This view preserves divine omnipotence by denying natural causation.
+4
+Understand the generated view (Mu'tazila)
+The Mu'tazila argue that the conclusion is generated (mutawallid) from the reasoning. The reasoner directly causes the conclusion through his power, similar to how moving a finger generates movement in a ring.
+The author criticizes this view as based on the false premise that humans create their own actions.
+5
+Recognize the author's stance
+The author (the commentator) states that the first view (rational) is 'supported' (al-mu'ayyad). He also criticizes the Mu'tazila view as built on a 'demolished foundation'.
+This indicates the author likely favors the Ash'ari or rationalist position, depending on context.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم قال:
+۱۲۰ . وَفِي دَلالَةِ الْمُقَدِّمَاتِ عَلَى النَّتِيْجَةِ خِلافُ آتِ ۱۲۱ ، عَقْلِي أَوْ عَادِي أَوْ تَوَلَّدُ أَوْ وَاجِبٌ وَالأَوَّلُ المُؤَيَّدُ
+أقول: في إفادة النظر الصحيح للنتيجة أربعة مذاهب:
+الربط بين الدليل الأول: أن النتيجة لازمة للنظر لزوما عقليّاً، لا تنفك عنه، بمعنى أن من علم المقدمتين امتنع أن لا يعلم النتيجة، فالعلم بالنتيجة لازم للمقدمتين؛ كلزوم الرؤيا للمرئي، وهو مذهب إمام الحرمين (۱).
+الثاني: أن العلم بالنتيجة عادي، يمكن تخلفه عن النظر، لأن النظر مخلوق الله تعالى، والعلم بالنتيجة يوجد عنده لا به، وهذا مذهب الشيخ الأشعري"). الثالث: أن العلم بالنتيجة متولد عن النظر، بجعل النظر مقدورًا للناظر مباشرة، فالنتيجة متولدة عنه؛ كتولد حركة الخاتم عن حركة الإصبع، وهذا مذهب المعتزلة البانين له على أصل مهدوم ، وهو أن العبد يخلق أفعال نفسه.
+Then he said: 120. And concerning the implication of the premises for the conclusion, there is a difference coming: rational, customary, generated, or necessary, and the first is supported. I say: Regarding the correct reasoning affording the conclusion, there are four schools: The connection between the two premises: first: that the conclusion is necessary for the reasoning rationally, inseparable from it, meaning that whoever knows the two premises is prevented from not knowing the conclusion, so knowledge of the conclusion is necessary for the two premises, like the necessity of sight for the visible. This is the school of Imam al-Haramayn. Second: that knowledge of the conclusion is customary, it is possible for it to be absent from the reasoning, because reasoning is created by Allah, and knowledge of the conclusion exists at it not by it, and this is the school of al-Shaykh al-Ash'ari. Third: that knowledge of the conclusion is generated from the reasoning, by making the reasoning within the power of the reasoner directly, so the conclusion is generated from it, like the generation of the movement of the ring from the movement of the finger. This is the school of the Mu'tazila, built on a demolished foundation, which is that the servant creates his own actions.
+Source pages p. 123
+
+Commentary
+This passage discusses three of the four theological views on how correct reasoning (al-nazar) leads to the conclusion. The first view, attributed to Imam al-Haramayn (al-Juwayni), holds that the conclusion follows necessarily from the premises in a rational sense: if one knows the premises, one must know the conclusion—the relation is like the necessary connection between seeing and the seen object. The second view, attributed to Abu al-Hasan al-Ash'ari, holds that the conclusion follows by 'ada (custom): Allah creates knowledge of the conclusion at the time of reasoning, but there is no necessary link; it could be otherwise. The third view, attributed to the Mu'tazila, holds that the conclusion is generated (mutawallid) from the reasoning, similar to how the movement of a ring is generated from the movement of the finger. The author criticizes the Mu'tazila position as based on a false premise (that humans create their own actions). The passage highlights the theological differences regarding causality and the role of divine action in knowledge acquisition.
+
+Key Terms
+لزوم عقلي
+عادي
+متولد
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the Ash'ari view, how does the conclusion relate to the premises?
+A) Necessarily (luzum 'aqli)
+B) Customarily ('adi)
+C) Generated (mutawallid)
+D) By a self-evident connection
+
+Key Takeaway
+The implication of premises for the conclusion is understood differently by theologians: rational necessity, divine custom, or generated causation, reflecting deeper views on causality and divine action.
+
+How This Lesson Applies — to MY Life?
+?
+Read the following excerpt from al-Sanusiyya's Umm al-Barahin: 'The conclusion from valid reasoning is necessary.' Which of the three views does this statement align with? Explain using the terms from this lesson.
+?
+In a debate, a Mu'tazili argues that the movement of a pen is generated by the hand's movement. How would an Ash'ari respond based on the 'customary' view? Write a brief exchange.
+
+Pages p. 123 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 126
+Module 15 · Lesson 60
+Next →
+The Syllogism
+intermediate
+10 min
+Material Errors in Syllogisms: Verbal and Conceptual Pitfalls
+Author classifies material errors into verbal and conceptual.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify the six types of material errors in syllogisms as described by the author, distinguishing verbal from conceptual errors.
+
+Core Idea
+Material errors destroy a syllogism from within — even perfect form cannot save it.
+
+In this passage, the author warns that even a formally valid syllogism can fail if its content (matter) is corrupted. He divides material errors into two categories: those arising from wording and those arising from meaning. Understanding these pitfalls is essential for constructing sound arguments in Islamic debates and legal reasoning.
+
+Guided Path
+1
+Distinguish material vs formal error
+Recognize that error can be in the matter (content) or form. The passage focuses on material error.
+Formal errors are covered elsewhere.
+2
+Identify verbal errors
+Find the two examples: homonymy (mushtarak) and false synonymy (mubayan). Note how the middle term fails to be truly common.
+Check if the same word is used with different meanings across premises.
+3
+Identify conceptual errors
+Locate the four examples: confusing false/true propositions, begging the question, judging genus by species, treating conjectural as certain.
+These are errors in the truth or logical relationship of premises.
+4
+Test each example for invalidity
+For each, articulate why the conclusion does not follow despite possible formal validity.
+Use the author's explanations as a guide.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقول: الواجب في صحة النتيجة: الاحتراز عن الخطأ في القياس، والخطأ: تارة يكون من جهة مادة القياس، وتارة من جهة صورته. والأول : إما من جهة اللفظ، أو من جهة المعنى. أما من جهة اللفظ : (۱) فكاستعمال اللفظ المشترك في القياس، فيُشبه المراد بغيره؛ كقولك: هذه عين، ـ أي: شمس - ، وكل عين - أي: تنبع الماء - سيالة، ينتج: هذه سيالة، وهو باطل، لعدم تكرر الحد الوسط، إذ محمول الصغرى غير موضوع الكبرى. (۲) أو استعمال اللفظ المباين كالمرادف كقولك هذا سيف، وكل سيف صارم، ينتج: : هذا صارم، وهو باطل من جهة جعل صارم الذي هو السيف، بقيد كونه قاطعًا، مرادفًا للسيف الذي هو الآلة المعلومة، لا بهذا القيد، وهو مباين له. وأما من جهة المعنى: (۱) فبأن تلتبس قضية كاذبة بقضية صادقة كقولنا: الجالس في السفينة يتحرك (۳)، وكل متحرك لا يثبت في موضع واحد ، ينتج: الجالس في السفينة لا يثبت في موضع واحد، والنتيجة باطلة من جهة جعل الحركة العرضية، التي هي محمول القضية الأولى، كالحركة الذاتية التي هي موضوع الثانية. (۲) أو من جهة جعل النتيجة إحدى المقدمتين بتغييرها؛ كقولنا: هذه نُقلَةٌ وكل نقلة حركة، ينتج هذه حركة، وهذه النتيجة إحدى المقدمتين، ويسمى ذلك: مصادرة عن المطلوب وهو مردود من جهة أن النتيجة ليست مغايرة للمقدمتين، فلم يحصل علم زائد عليها . (۳) أو من جهة الحكم على الجنس بحكم النوع؛ كقولنا: الفرس حيوان، وكل حيوان ناطق، ينتج : الفرس ناطق، وهو باطل من جهة الحكم على الحيوان، الذي هو جنس، بحكم الإنسان الذي هو نوع. (٤) أو من جهة جعل الأمر الوهمي غير القطعي كالقطعي؛ كقولك في رجل يخبط في البحث، وهو بعيد عن الفهم هذا يتكلم بألفاظ العلم، وكل من يتكلم بألفاظ العلم عالم، ينتج هذا ،عالم وبطلان النتيجة من جهة جعل توهم عالميته : كالمقطوع بها.
+I say: It is necessary for the correctness of the conclusion to guard against error in the syllogism. Error sometimes occurs from the side of the matter of the syllogism and sometimes from the side of its form. The first is either from the side of wording or from the side of meaning. As for the side of wording: (1) Such as using a homonymous word in the syllogism, causing the intended to be confused with something else; like your statement: 'This is an eye'—meaning a sun—and 'Every eye'—meaning a flowing water spring—'is flowing,' resulting in 'This is flowing,' which is false due to the middle term not being repeated, since the predicate of the minor is not the subject of the major. (2) Or using a distinct word as a synonym, like your statement: 'This is a sword,' and 'Every sword is sharp,' resulting in 'This is sharp,' which is false from the aspect of making 'sharp' which is the sword, qualified as cutting, a synonym for 'sword' which is the known instrument, not with this qualification, and it is distinct from it. As for the side of meaning: (1) Such as confusing a false proposition with a true one, like our statement: 'The person sitting in the ship moves,' and 'Everything that moves does not remain in one place,' resulting in 'The person sitting in the ship does not remain in one place,' and the conclusion is false from the aspect of making the accidental motion, which is the predicate of the first proposition, like the essential motion which is the subject of the second. (2) Or from the aspect of making the conclusion one of the two premises by changing it, like our statement: 'This is a movement (naqlah),' and 'Every movement is motion,' resulting in 'This is motion,' and this conclusion is one of the two premises, and it is called 'petitio principii,' and it is rejected from the aspect that the conclusion is not different from the premises, so no additional knowledge is obtained. (3) Or from the aspect of judging the genus by the judgment of the species, like our statement: 'The horse is an animal,' and 'Every animal is rational,' resulting in 'The horse is rational,' which is false from the aspect of judging the animal, which is a genus, by the judgment of man, which is a species. (4) Or from the aspect of making a conjectural, non-definite matter like a definite one, like your statement about a man who is floundering in research and is far from understanding: 'This one speaks the words of knowledge,' and 'Everyone who speaks the words of knowledge is a scholar,' resulting in 'This one is a scholar,' and the falsity of the conclusion is from the aspect of making the conjecture of his being a scholar like something certain.
+Source pages p. 126
+
+Commentary
+This passage is a classification of material errors in syllogisms. The author states that safeguarding the conclusion requires avoiding error in the syllogism. Error is of two kinds: material and formal. Material error concerns the content, and it is further divided into verbal and conceptual. Under verbal error, he gives two examples: first, using a homonymous word (lafz mushtarak) where the middle term is not actually common because the word has two different meanings, so the syllogism suffers from ambiguity. For instance, if one says 'This is an eye' meaning the sun, and 'Every eye (water spring) is flowing,' the middle term 'eye' is not the same in both premises, so no valid conclusion follows. Second, using a word as a synonym when it is not truly synonymous, like 'sword' and 'sharp,' where 'sharp' is not a perfect synonym because it adds a qualification. Under conceptual error, he lists four types. The first is confusing a false proposition with a true one, as in the example of the ship passenger: the motion of the ship is accidental motion, not essential motion, so the syllogism mistakenly treats accidental as essential. The second is begging the question (musadara 'ala al-matlab), where the conclusion merely restates one of the premises. The third is applying a judgment of a species to the genus, e.g., concluding that a horse is rational because all animals are rational—but rationality is a property of the species human, not the genus animal. The fourth is treating a conjectural matter as if it were certain, e.g., assuming that speaking knowledgeably implies being a scholar, when it could be mere imitation. Each error invalidates the syllogism materially.
+
+Key Terms
+الخطأ
+مادة القياس
+اللفظ المشترك
+مصادرة عن المطلوب
+
+Key Terms from Source Passage
+
+Checkpoint
+In the passage, which type of material error involves treating a conjectural claim as certain?
+A) Using a homonymous word
+B) Begging the question
+C) Judging the genus by the species
+D) Treating a non-definite matter as definite
+
+Key Takeaway
+Material errors in syllogisms can be verbal (homonymy, false synonymy) or conceptual (false premise, petitio principii, genus/species confusion, treating conjecture as certainty), and each invalidates the conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+For each of the six errors listed in the passage, find a real example from Islamic jurisprudence (fiqh) or theology where that error might occur. For instance, give an example of a homonym (mushtarak) that could cause confusion in a qiyas argument in fiqh.
+?
+Take the following argument from kalam: 'The world is changing; everything changing is temporally originated; therefore the world is temporally originated.' Identify whether any material error is present, and if so, which one, using the categories from the passage.
+
+Pages p. 126 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 127
+Module 15 · Lesson 61
+Next →
+The Syllogism
+beginner
+5 min
+Formal Errors: Syllogisms Not in a Valid Figure
+Author describes formal errors due to not being in a valid figure
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a pair of premises forms a valid syllogistic figure by checking for a common middle term and its arrangement.
+
+Core Idea
+A valid syllogism must have a middle term linking both premises in one of the four figures.
+
+In this passage, the author first points out that some premise pairs do not constitute any valid figure at all. He gives the example 'Every human is an animal' and 'Every stone is inanimate' which lack a common middle term. This lesson teaches you to spot such invalid combinations and reject them as syllogisms.
+
+Guided Path
+1
+Identify the terms in each premise
+For each premise, list the subject and predicate. In 'Every human is an animal', subject=human, predicate=animal. In 'Every stone is inanimate', subject=stone, predicate=inanimate.
+Terms are the building blocks of the syllogism.
+2
+Look for a common middle term
+Is there a term that appears in both premises? If none, the premises have no logical connection and cannot form a syllogism. In the example, 'human' and 'animal' appear only in the first; 'stone' and 'inanimate' only in the second. No common term.
+If there is a common term, it might be the middle term.
+3
+Determine the figure if a middle term exists
+If a common term is found, check its position: subject of major and predicate of minor (figure 1), predicate of both (figure 2), subject of both (figure 3), predicate of major and subject of minor (figure 4). If no arrangement matches, no valid figure.
+The four figures are the only valid forms.
+4
+Conclude validity or invalidity
+If no valid figure is present, the argument is not a valid categorical syllogism. The author marks this as a formal error.
+This conclusion holds regardless of the truth of premises.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الخطأ الواقع في القياس من جهة صورته: (۱) فبأن لا يكون على هيئة (۱) شكل من الأشكال الأربعة؛ كقولنا : كل إنسان حيوان، وكل حجر جماد، وقد تقدم التنبيه على أن هذا تكرار لزيارة الإيضاح للمبتدئ. (۲) أو يكون فاقد شرط من شروط الإنتاج المتقدمة للأشكال الأربعة؛ كأن تكون صغرى الشكل الأول المشترط إيجابها سالبة، أو تكون كبراه المشترط كليتها جزئية؛ كقولنا في الأولى: لا شيء من الإنسان بحجر، وكل حجر جسم، ينتج لا شيء من الإنسان بجسم وهو باطل لفقد الشرط: وهو إيجاب الصغرى.
+As for the error occurring in the syllogism from the side of its form: (1) that it is not in the figure of one of the four figures; like our statement: 'Every human is an animal' and 'Every stone is an inanimate object' – and it has already been pointed out that this is repetition for the sake of clarifying to the beginner. (2) Or that it lacks one of the conditions of productivity previously mentioned for the four figures; such as the minor premise of the first figure, which is required to be affirmative, being negative, or its major premise, which is required to be universal, being particular; like our statement in the first: 'No human is a stone' and 'Every stone is a body' results in 'No human is a body,' and it is false due to the loss of the condition, which is the affirmation of the minor.
+Source pages p. 127
+
+Commentary
+This passage discusses formal errors in syllogisms, i.e., errors related to the structure rather than the content. The author identifies two types. First, the syllogism may not conform to any of the four figures. He gives an example: 'Every human is an animal' and 'Every stone is inanimate' – this does not form a valid syllogism because there is no common middle term connecting the premises. (He notes that this example was previously mentioned for clarity.) Second, the syllogism may be in a valid figure but violate one of the conditions for productivity. For the first figure, the minor premise must be affirmative and the major premise universal. If the minor is negative, as in 'No human is a stone' and 'Every stone is a body,' the conclusion 'No human is a body' is false because the negative minor violates the condition. The author emphasizes that the condition of affirmative minor is necessary for the first figure to produce a valid conclusion.
+
+Key Terms
+شكل
+شرط الإنتاج
+صغرى
+كبرى
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the first type of formal error in a syllogism?
+A) The minor premise is negative while it should be affirmative
+B) The syllogism is not in any of the four figures
+C) The major premise is particular while it should be universal
+D) The conclusion is negative while the premises are both affirmative
+
+Key Takeaway
+A valid categorical syllogism must have a middle term that appears in both premises, arranged in one of the four figures; otherwise, the argument is formally invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Given the statements: 'All acts of worship require intention' and 'All acts of worship are subject to rulings.' Do these two premises form a valid syllogistic figure? Identify the terms and determine if there is a common middle term. If not, explain why no syllogism can be constructed.
+?
+Find an example from tafsir or fiqh where two premises that seem related actually lack a common middle term, and explain the formal error.
+
+Pages p. 127 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 127
+Module 15 · Lesson 62
+Next →
+The Syllogism
+beginner
+6 min
+Violating First Figure Conditions: Negative Minor or Particular Major
+Author describes formal errors due to violating a validity condition in the first figure
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether a first-figure categorical syllogism is valid by checking that the minor premise is affirmative and the major premise is universal.
+
+Core Idea
+The first figure requires a universal major and an affirmative minor; violating these invalidates the syllogism.
+
+The author then addresses errors within a valid figure, focusing on the first figure. He gives the example 'No human is a stone; every stone is a body' which incorrectly concludes 'No human is a body' because the minor premise is negative. This lesson dissects that example and teaches the specific conditions for productivity in the first figure.
+
+Guided Path
+1
+Confirm the syllogism is in the first figure
+In the example, the middle term is 'stone' (appears in both premises). In 'No human is a stone', stone is predicate of the minor; in 'Every stone is a body', stone is subject of the major. This arrangement matches first figure: major premise has middle as subject, minor has middle as predicate.
+First figure is the most intuitively valid.
+2
+Check the minor premise is affirmative
+The first figure requires the minor premise to be affirmative. In the example, 'No human is a stone' is negative. This violates the condition.
+If the minor is negative, the syllogism is invalid regardless of other conditions.
+3
+Check the major premise is universal
+The first figure requires the major premise to be universal. In the example, 'Every stone is a body' is universal, so this condition is met. But because the first condition fails, the syllogism is still invalid.
+If the major were particular, it would also be invalid.
+4
+Assess the conclusion
+The author says the conclusion 'No human is a body' is false (bāṭil) because the condition of affirmative minor is lost. Even if the conclusion were true, the argument is formally invalid.
+A valid first-figure syllogism must have both conditions satisfied.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الخطأ الواقع في القياس من جهة صورته: (۱) فبأن لا يكون على هيئة (۱) شكل من الأشكال الأربعة؛ كقولنا : كل إنسان حيوان، وكل حجر جماد، وقد تقدم التنبيه على أن هذا تكرار لزيارة الإيضاح للمبتدئ. (۲) أو يكون فاقد شرط من شروط الإنتاج المتقدمة للأشكال الأربعة؛ كأن تكون صغرى الشكل الأول المشترط إيجابها سالبة، أو تكون كبراه المشترط كليتها جزئية؛ كقولنا في الأولى: لا شيء من الإنسان بحجر، وكل حجر جسم، ينتج لا شيء من الإنسان بجسم وهو باطل لفقد الشرط: وهو إيجاب الصغرى.
+As for the error occurring in the syllogism from the side of its form: (1) that it is not in the figure of one of the four figures; like our statement: 'Every human is an animal' and 'Every stone is an inanimate object' – and it has already been pointed out that this is repetition for the sake of clarifying to the beginner. (2) Or that it lacks one of the conditions of productivity previously mentioned for the four figures; such as the minor premise of the first figure, which is required to be affirmative, being negative, or its major premise, which is required to be universal, being particular; like our statement in the first: 'No human is a stone' and 'Every stone is a body' results in 'No human is a body,' and it is false due to the loss of the condition, which is the affirmation of the minor.
+Source pages p. 127
+
+Commentary
+This passage discusses formal errors in syllogisms, i.e., errors related to the structure rather than the content. The author identifies two types. First, the syllogism may not conform to any of the four figures. He gives an example: 'Every human is an animal' and 'Every stone is inanimate' – this does not form a valid syllogism because there is no common middle term connecting the premises. (He notes that this example was previously mentioned for clarity.) Second, the syllogism may be in a valid figure but violate one of the conditions for productivity. For the first figure, the minor premise must be affirmative and the major premise universal. If the minor is negative, as in 'No human is a stone' and 'Every stone is a body,' the conclusion 'No human is a body' is false because the negative minor violates the condition. The author emphasizes that the condition of affirmative minor is necessary for the first figure to produce a valid conclusion.
+
+Key Terms
+صغرى
+كبرى
+شرط الإنتاج
+شكل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what condition is violated if the minor premise of the first figure is negative?
+A) The middle term must be distributed at least once
+B) The minor must be affirmative
+C) The major must be universal
+D) The conclusion must be negative
+
+Key Takeaway
+A first-figure syllogism is valid only if the minor premise is affirmative and the major premise is universal; violation of either condition renders the syllogism formally invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Test this first-figure syllogism: 'No soul is material; every soul is created.' Is it valid? Identify the minor and major premises, check the conditions, and explain why or why not.
+?
+Construct a valid first-figure categorical syllogism using a usul al-fiqh example (e.g., about the prohibition of intoxicants) that satisfies both the affirmative minor and universal major conditions.
+
+Pages p. 127 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 127
+Module 15 · Lesson 63
+Next →
+The Syllogism
+intermediate
+5 min
+Formal Fallacies in Syllogisms: Two Types of Error
+Author explains two types of formal fallacies in syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify formal fallacies in categorical syllogisms based on figure compliance and productivity conditions.
+
+Core Idea
+A syllogism can fail formally either by being in no valid figure or by violating specific conditions of that figure.
+
+The author distinguishes two ways a syllogism can be invalid due to its form: either it does not fit any of the four valid figures, or it fits a figure but violates one of its conditions for productivity. We will examine examples and learn to recognize each type.
+
+Guided Path
+1
+Identify the two types of formal fallacy
+Read the opening: formal error occurs either when the premises are not arranged in any valid figure (four figures) or when, even if in a figure, a condition for productivity is missing.
+2
+Test the first type: no valid figure
+Examine the example 'Every human is an animal; every stone is an inanimate object.' Notice the premises share no common term in the positions required for any figure, so no valid conclusion follows.
+The author calls this a repetition for beginners, but it's a clear case of figure failure.
+3
+Test the second type: missing conditions
+For the first figure, conditions are: minor premise must be affirmative, major premise must be universal. Check the given counterexamples: a negative minor ('No human is a stone') yields a false conclusion, and a particular major ('Some animal is a horse') yields a false conclusion.
+The falsity of the conclusion demonstrates the condition's necessity.
+4
+Generalize to other figures
+The author says 'apply analogy to the lack of any condition from the conditions of the remaining figures.' This means you must memorize the conditions for each figure and check them analogously.
+For example, second figure conditions include one negative premise and a universal conclusion, etc.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الخطأ الواقع في القياس من جهة صورته: (1) فبأن لا يكون على هيئة شكل من الأشكال الأربعة؛ كقولنا : كل إنسان حيوان، وكل حجر جماد، وقد تقدم التنبيه على أن هذا تكرار لزيارة الإيضاح للمبتدئ. (۲) أو يكون فاقد شرط من شروط الإنتاج المتقدمة للأشكال الأربعة؛ كأن تكون صغرى الشكل الأول المشترط إيجابها سالبة، أو تكون كبراه المشترط كليتها جزئية؛ كقولنا في الأولى: لا شيء من الإنسان بحجر، وكل حجر جسم، ينتج لا شيء من الإنسان بجسم وهو باطل لفقد الشرط: وهو إيجاب الصغرى. وفي الثانية كل إنسان حيوان وبعض الحيوان فرس، ينتج: بعض الإنسان فرس، وهو باطل، لفقد الشرط وهو كلية الكبرى، وقس على ذلك فَقْدُ أَيّ شرط من شروط الأشكال الباقية.
+As for the error occurring in the syllogism from the aspect of its form: (1) That it is not in the form of any of the four figures; as when we say: 'Every human is an animal' and 'Every stone is an inanimate object' — and it has been previously noted that this is a repetition for the sake of clarification for the beginner. (2) Or that it lacks a condition of the conditions for productivity previously mentioned for the four figures; such as the minor premise of the first figure, which is required to be affirmative, being negative; or its major premise, which is required to be universal, being particular; as we say in the first: 'No human is a stone' and 'Every stone is a body' yields 'No human is a body' — which is false because of lacking the condition, which is the affirmation of the minor. And in the second: 'Every human is an animal' and 'Some animal is a horse' yields 'Some human is a horse' — which is false because of lacking the condition, which is the universality of the major. And apply analogy to the lack of any condition from the conditions of the remaining figures.
+Source pages p. 127
+
+Commentary
+This passage outlines two formal fallacies in syllogisms. First, the syllogism may not conform to any of the four valid figures, as shown by an example with two universal affirmatives that share no common term in the required positions—the author notes this is a repetition for beginners. Second, even if it is in a valid figure, it may violate specific conditions for productivity, such as the first figure requiring an affirmative minor premise and a universal major premise. Two counterexamples are provided: a negative minor (e.g., 'No human is a stone') leading to a false universal negative, and a particular major (e.g., 'Some animal is a horse') leading to a false particular affirmative. The author then instructs the reader to apply the same reasoning to missing conditions in other figures.
+
+Key Terms
+شكل
+شرط الإنتاج
+صغرى
+كبرى
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following violates the condition of the first figure's major premise being universal?
+A) 'Every human is mortal' and 'Every animal is mortal' — the middle term is not arranged correctly.
+B) 'Every human is an animal' and 'Some animal is a horse' — leading to 'Some human is a horse'.
+C) 'No human is a stone' and 'Every stone is a body' — leading to 'No human is a body'.
+D) 'Every Muslim believes in one God' and 'Every believer in one God is righteous' — a valid first figure syllogism.
+
+Key Takeaway
+A syllogism's formal validity depends not on the truth of its premises but on its figure compliance and satisfaction of the specific conditions for productivity.
+
+How This Lesson Applies — to MY Life?
+?
+Check the following syllogism for formal fallacy: 'No human is immortal; every prophet is human; therefore no prophet is immortal.' Identify its figure (if any) and whether it violates any conditions.
+?
+Construct a valid first-figure syllogism on a fiqh topic (e.g., concerning zakat or prayer) ensuring both the minor is affirmative and the major is universal.
+
+Pages p. 127 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 128
+Module 15 · Lesson 64
+Next →
+The Syllogism
+intermediate
+8 min
+Second Figure Condition: Universal Major Premise
+Author demonstrates by counterexample the condition that the major premise must be universal in the second figure.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when the condition of universal major premise in the second figure is violated and construct a valid second-figure syllogism.
+
+Core Idea
+The major premise must be universal in the second figure; a particular major leads to invalid conclusions.
+
+In this lesson, we examine a crucial condition for valid syllogisms in the second figure. The author demonstrates with a counterexample how a particular major premise yields a false conclusion. By understanding this condition, you will be able to assess the validity of second-figure arguments in Islamic sciences.
+
+Guided Path
+1
+Identify the figure and premises
+Look at the given syllogism: the minor premise is 'Every human is an animal' and the major premise is 'Some animals are horses'. The figure is determined by the position of the middle term (animal). In the second figure, the middle term is the predicate of both premises.
+Confirm that this is indeed the second figure.
+2
+Check the quantifier of the major premise
+The major premise is 'Some animals are horses', which is particular affirmative (I). The condition for validity in the second figure is that the major premise must be universal. Here it is particular, so the condition is violated.
+The condition is called kulliyyat al-kubra (universality of the major).
+3
+Verify if the conclusion follows
+The conclusion drawn is 'Some humans are horses', which is false. Logically, because the major premise is not universal, the argument is invalid. Even if the premises were true, the conclusion does not necessarily follow.
+Contrast with a valid second-figure syllogism where the major premise is universal.
+4
+Apply to other figures
+The author states that each figure has its own conditions. Generalize: for any syllogism, all conditions must be satisfied for validity. Practice identifying conditions for the first, third, and fourth figures.
+For example, in the first figure, the minor must be affirmative and the major universal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وفي الثانية كل إنسان حيوان وبعض الحيوان فرس، ينتج: بعض الإنسان فرس، وهو باطل، لفقد الشرط وهو كلية الكبرى، وقس على ذلك فَقْدُ أَيّ شرط من شروط الأشكال الباقية.
+And in the second [figure]: 'Every human is an animal' and 'Some animals are horses' produces 'Some humans are horses', which is false, due to the loss of the condition, which is the universality of the major premise. And analogously for the loss of any condition from the conditions of the remaining figures.
+Source pages p. 128
+
+Commentary
+This passage illustrates a critical condition for valid syllogisms in the second figure. The author presents a counterexample: if the major premise is particular (some animals are horses) while the minor premise is universal affirmative (every human is an animal), then the invalid conclusion 'some humans are horses' follows, which is false. The error is the violation of the condition that the major premise must be universal in the second figure. The author then generalizes: similarly, any missing condition in the other figures leads to invalid conclusions.
+
+For example, in fiqh, if we say 'Every intoxicant is haram' (universal affirmative) and 'Some drinks are intoxicants' (particular affirmative), we cannot conclude anything certain because the major premise must be universal in the second figure to yield a valid conclusion. This example shows the importance of adhering to the conditions of each syllogistic figure.
+
+Key Terms
+الشرط
+كلية الكبرى
+
+Key Terms from Source Passage
+
+Checkpoint
+In the second figure of categorical syllogism, what condition is violated in the example: 'Every human is an animal' and 'Some animals are horses'?
+A) The minor premise must be affirmative.
+B) The major premise must be universal.
+C) The conclusion must be negative.
+D) The middle term must be distributed at least once.
+
+Key Takeaway
+The major premise must be universal in the second figure; otherwise the syllogism is invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the violation in this second-figure syllogism: 'Every salat is an act of worship. Some acts of worship are obligatory. Therefore some salat is obligatory.' Explain why it is invalid and which condition is missing.
+?
+Construct a valid second-figure syllogism using an Islamic example (e.g., about the conditions for prayer) that satisfies the universal major premise condition.
+
+Pages p. 128 · The Syllogism
+← Prev
+Mark Done
+Next →

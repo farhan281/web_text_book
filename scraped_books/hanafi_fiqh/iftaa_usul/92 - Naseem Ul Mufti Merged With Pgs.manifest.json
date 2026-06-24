@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:16Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/NASEEM_UL_MUFTI_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/92 - Naseem Ul Mufti Merged With Pgs",
+  "output_bytes": 2055980,
+  "output_sha256": "784d4ed956e44213fed5685a801e7096379b20a37033b94568ecb3921570541b",
+  "checks": {
+    "catalog_expected_lessons": 264,
+    "course_reported_lessons": 264,
+    "index_lessons": 264,
+    "full_lessons": 264,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 11,
+    "course_reported_modules": 11,
+    "modules": 11,
+    "course_reported_sources": 257,
+    "sources": 257
+  }
+}

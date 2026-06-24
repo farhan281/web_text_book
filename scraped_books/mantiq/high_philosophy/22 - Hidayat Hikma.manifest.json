@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:23Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/hidayat_hikma/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/high_philosophy/22 - Hidayat Hikma",
+  "output_bytes": 3107408,
+  "output_sha256": "241f77aed580b8b846e57458c409e75bedb52face31f33cdb223a9e7ceaee60f",
+  "checks": {
+    "catalog_expected_lessons": 352,
+    "course_reported_lessons": 352,
+    "index_lessons": 352,
+    "full_lessons": 352,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 15,
+    "course_reported_modules": 15,
+    "modules": 15,
+    "course_reported_sources": 266,
+    "sources": 266
+  }
+}

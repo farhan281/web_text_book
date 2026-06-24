@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:48Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/nazariyya_falsafa/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/modern_epistemology/32 - Nazariyya Falsafa",
+  "output_bytes": 4514151,
+  "output_sha256": "5e739c0ac5383a1e27eb44d964e7d5dcb6d662930d675d21942f13080e3dceb7",
+  "checks": {
+    "catalog_expected_lessons": 541,
+    "course_reported_lessons": 541,
+    "index_lessons": 541,
+    "full_lessons": 541,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 14,
+    "course_reported_modules": 14,
+    "modules": 14,
+    "course_reported_sources": 424,
+    "sources": 424
+  }
+}

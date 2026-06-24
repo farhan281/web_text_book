@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:10Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/adab_bahth/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/14 - Adab Bahth",
+  "output_bytes": 6952895,
+  "output_sha256": "8b5ccf00b6d2bd7205ffeff5aa96fe8e23c081996b76850e3e71d68b2d5038b9",
+  "checks": {
+    "catalog_expected_lessons": 843,
+    "course_reported_lessons": 843,
+    "index_lessons": 843,
+    "full_lessons": 843,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 702,
+    "sources": 702
+  }
+}

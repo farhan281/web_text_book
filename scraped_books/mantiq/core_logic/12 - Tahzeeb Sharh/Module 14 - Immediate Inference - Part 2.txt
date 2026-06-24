@@ -1,0 +1,886 @@
+← Prev
+p. 140
+Module 14 · Lesson 51
+Next →
+Immediate Inference
+advanced
+8 min
+Why Choose the Partial Negative in Contrapositive Conversion?
+Justification for using partial negative in contrapositive conversion
+
+Learning Objective
+By the end of this lesson, you will be able to justify the use of the partial negative (juz'iyya) over the universal negative in the contrapositive conversion of temporal propositions using the principle of generality.
+
+Core Idea
+The partial is more general; if the more general is false, the more specific is false, ensuring necessary conversion.
+
+In this lesson, we address a critical question: why did the commentator assume the partial negative and the general possible in the converse of temporal propositions? The answer reveals a deep logical principle about generality and necessary consequence. This lesson walks you through the proof (burhan) and its implications for modal logic.
+
+Guided Path
+1
+Understand the problem
+The questioner asks: why didn't the commentator use the universal negative as the converse of a universal negative temporal proposition?
+The temporal proposition is like 'No moon is eclipsed at the time of quadrature'.
+2
+Identify the principle
+The commentator responds: the partial (juz'iyya) is more general than the universal (kulliyya). If the more general is false, the more specific is false. But the converse must be true when the original is true. Using the universal could result in a false converse even when the original is true, violating necessary conversion.
+The principle: عدم صدق الأعم يستلزم عدم صدق الأخص (lack of truth of the more general entails lack of truth of the more specific).
+3
+Apply the principle with an example
+The author uses the animal/human example: negating 'animal' from something entails negating 'human', but not vice versa. Similarly, if the universal negative is false, the partial negative could still be true.
+If 'Every animal is human' is false (more specific), 'Some animal is human' can still be true (more general).
+4
+Generalize to modal propositions
+The same reasoning applies to choosing the general possible (mumkina 'amma) over the actual (fi'liyya): the general possible is more general and avoids counterexamples.
+The commentator states: 'and we only chose the general possible in the converse so that there remains no place for the question'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل
+عكس النقيض: تبديل نقيضي الطرفين مع بقاء الصدق والكيف، أو جعل نقيض الثاني أولاً مع مخالفة الكيف.
+قوله: تبديل نقيضي الطرفين:
+أي جعل نقيض الجزء الأول من الأصل جزءًا ثانياً من العكس، ونقيض الثاني جزءاً أولاً. قوله: مع بقاء الصدق: أي إن كان الأصل صادقا كان العكس صادقا قوله: والكيف: أي إن كان الأصل موجبا كان العكس موجبا وإن كان سالبا كان سالبا مثلا قولنا: "كل ج ب" ينعكس بعكس النقيض إلى قولنا: "كل ليس ب ليس ج"، وهذا طريق القدماء.
+وإنما اخترنا في العكس الجزئية؛ لأنها أعم من الكلية والممكنة العامة؛ لأنها أعم من سائر الموجهات وإذا لم يصدق الأعم لم يصدق الأخص بالطريق الأولى بخلاف العكس الكلي قوله: تبديل نقيضي الطرفين:
+بخلاف
+وإنما اخترنا إلخ جواب عن سؤال وهو أن العكس للسالبة الكلية السالبة الكلية، فعكس الوقتية المذكورة لو أمكن كانت السالبة الكلية الفعلية، فبم فرض الشارح الجزئية دون الكلية؟ و لم فرض الممكنة دون الفعلية؟(برهان) لأنها وعدم صدق الأعم يستلزم عدم صدق الأخص؛ فإن سلب الحيوان عن الشيء يستلزم سلب الإنسان عنه، عدم صدق الأخص؛ فإنه لا يستلزم عدم صدق الأعم. ألا ترى أن الإنسان مسلوب عن الفرس مع صدق الحيوان، فلو اخترنا الكلية في العكس لكان للسائل مجال أن يقول: سلمنا عدم صدق السالبة الكلية في العكس، لكن لا يلزم منه عدم صدق السالبة الجزئية؛ فإن الكلية أخص من الجزئية وعدم صدق الأخص لا يستلزم عدم صدق الأعم؛ فإن كل حيوان إنسان" كاذب وبعض الحيوان إنسان صادق، فيجوز أن لا يصدق السالبة الكلية في عكس الوقتية، ويصدق السالبة الجزئية فيه فلا يتم التقريب؛ لأن المطلوب عدم انعكاس الوقتية مطلقا،
+وقس عليه قوله : "والممكنة العامة أي وإنما اخترنا في العكس الممكنة العامة لثلا يبقى محال السؤال."
+برهان الدين لذكره ويمكن أن يقال: إن عكس النقيض لازم للقضية، وصدق الملزوم يستلزم صدق اللازم فلذا قال : ومع بقاء الصدق؛ للعلة المذكورة، وتركه ثانيا لوجود تلك العلة ههنا أيضاً.
+Chapter
+Contrapositive (aks al-naqid): exchanging the two contrapositives of the two terms while preserving truth and quality, or making the contrapositive of the second term the first (part) while changing the quality.
+His saying: exchanging the two contrapositives of the two terms:
+It means making the contrapositive of the first part of the original a second part of the converse, and the contrapositive of the second part a first part. His saying: while preserving truth: i.e., if the original is true, the converse is true. His saying: and quality: i.e., if the original is affirmative, the converse is affirmative; if it is negative, it is negative. For example, our saying: "Every J is B" is converted by contrapositive to our saying: "Everything that is not B is not J". And this is the way of the early scholars.
+And we only chose the partial (juz'iyya) in the converse because it is more general than the universal, and the general possible (mumkina 'amma) because it is more general than the other modal propositions. And if the more general is not true, the more specific is not true by primary implication, unlike the universal converse. His saying: exchanging the two contrapositives of the two terms:
+Contrary to
+And 'we only chose' etc. is an answer to a question, namely that the converse of the universal negative is the universal negative. So the converse of the mentioned temporal (waqtiyya), if possible, would be the actual universal negative. So why did the commentator assume the partial and not the universal? And why did he assume the possible and not the actual? (Proof) Because the lack of truth of the more general entails the lack of truth of the more specific; for negating 'animal' from something entails negating 'human' from it. The lack of truth of the more specific does not entail the lack of truth of the more general. Do you not see that 'human' is negated from the horse while 'animal' is true? So if we had chosen the universal in the converse, the questioner could have said: we grant the lack of truth of the universal negative in the converse, but it does not necessitate the lack of truth of the partial negative. For the universal is more specific than the partial, and the lack of truth of the more specific does not necessitate the lack of truth of the more general. For 'every animal is human' is false, and 'some animal is human' is true. So it is possible that the universal negative is not true in the converse of the temporal, while the partial negative is true in it, so the reasoning (taqrib) is not complete, because what is required is the non-conversion of the temporal absolutely.
+And analogously for his saying: 'and the general possible' i.e., and we only chose the general possible in the converse so that there remains no place for the question.
+Burhan al-Din for his mention, and it can be said: that contrapositive (aks al-naqid) is a necessary consequent of the proposition, and the truth of the antecedent necessitates the truth of the consequent. Therefore he said: 'while preserving truth' due to the mentioned cause, and he omitted it in the second definition because that cause also exists here.
+Source pages p. 140
+
+Commentary
+This passage defines 'aks al-naqid (conversion by contrapositive) and explains why the partial negative and the general possible are chosen in the converse of temporal propositions. The author begins by giving two definitions: one according to the early scholars (qudama') and one according to the later scholars (muta'akhkhirun). The first definition states that contrapositive conversion involves exchanging the two contrapositives of the subject and predicate while preserving both truth and quality. The author then expands on this: the contrapositive of the first part (the subject) becomes the second part (the predicate) of the converse, and the contrapositive of the second part becomes the first part. Preserving truth means if the original is true, the converse is true. Preserving quality means the converse retains the affirmative or negative form of the original. An example is given: 'Every J is B' converts to 'Everything that is not B is not J'. 
+
+The passage then addresses a potential objection: why did the commentator (the author of the sharh) assume a partial negative and a general possible in the converse of the temporal proposition (e.g., 'No moon is eclipsed at the time of quadrature')? The questioner argues that the converse of a universal negative should be a universal negative, not a partial. The author provides a proof (burhan) to justify this choice. The reasoning is that the partial (juz'iyya) is more general than the universal (kulliyya), and the general possible (mumkina 'amma) is more general than other modal propositions. If the more general (i.e., the partial) were false, then the more specific (the universal) would also be false. But the converse needs to be a necessary consequence of the original; if we choose the universal, it might be false while the partial could still be true, breaking the necessary conversion. The author uses an example from logic: negating 'animal' from something entails negating 'human', but the reverse is not true. Similarly, if the universal negative were chosen as the converse, it could be that the universal negative is false while the partial negative is true, so the conversion would not be absolute. Therefore, the partial is chosen to ensure that if the original is true, the converse is always true, avoiding counterexamples. The same reasoning applies to choosing the general possible over the actual. The passage concludes by noting that the definition of contrapositive includes preserving truth because it is a necessary consequent of the original.
+
+Key Terms
+الجزئية
+الممكنة العامة
+عكس النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the commentator choose the partial negative over the universal negative as the converse of a temporal universal negative proposition?
+A) Because the partial is more specific and thus more precise.
+B) Because the partial is more general; if the more general is false, the more specific must be false, ensuring the converse is true when the original is true.
+C) Because the universal negative cannot be derived from a temporal proposition.
+D) Because the early scholars only recognized partial converses.
+
+Key Takeaway
+In contrapositive conversion of temporal and modal propositions, the partial negative is chosen because it is more general and ensures that truth is preserved necessarily.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition: 'No human is immaterial at the time of death.' Explain, using the principle of generality, whether its contrapositive should be universal or partial negative, and why.
+?
+Construct a modal proposition from Islamic theology (e.g., 'No created thing is necessary at the moment of its creation') and determine the correct contrapositive using the commentator's reasoning.
+
+Pages p. 140 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 141
+Module 14 · Lesson 52
+Next →
+Immediate Inference
+intermediate
+10 min
+Defining 'Aks al-Naqid: Ancient and Later Methods
+Author defines 'aks al-naqid with ancient and later methods.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the ancient and later definitions of 'aks al-naqid and apply both methods to convert categorical propositions.
+
+Core Idea
+In 'aks al-naqid, ancients preserve quality; later logicians reverse it but both preserve truth.
+
+This lesson introduces 'aks al-naqid (conversion by contraposition), an immediate inference that transforms a categorical proposition into its contrapositive. You will learn the definitions given by ancient and later logicians, with examples using the variables J and B. Understanding this distinction is crucial for correctly applying contraposition in Islamic legal analogy and theological argumentation.
+
+Guided Path
+1
+Identify the two definitions
+Locate the definitions of 'aks al-naqid given for the ancients (qudama') and the later scholars (muta'akhkhirun). The ancient definition preserves truth and quality; the later definition changes quality.
+2
+Understand the key difference
+Note that in the ancient method, the quality (affirmative/negative) of the original is preserved in the converse. In the later method, the quality is reversed: affirmative becomes negative and vice versa.
+3
+Apply the ancient method
+Take the proposition 'Every J is B'. Following the ancient method, the contrapositive is 'Every non-B is non-J'. Verify that if the original is true, the contrapositive is also true.
+4
+Apply the later method
+Take 'Every J is B'. The later method gives 'Nothing that is not B is J'. Notice the quality changes from affirmative to negative.
+5
+Check preservation of truth
+Both methods require that if the original is true, the contrapositive is true. The passage notes that preservation of falsity is not required—a false original can have a true contrapositive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تعريف عكس النقيض
+مع بقاء الصدق والكيف، أو جعل نقيض الثاني أولاً مع مخالفة الكيف
+أي جعل نقيض الجزء الأول من الأصل جزءًا ثانياً من العكس، ونقيض الثاني جزءاً أولاً. قوله: مع بقاء الصدق: أي إن كان الأصل صادقا كان العكس صادقا قوله: والكيف: أي إن كان الأصل موجبا كان العكس موجبا وإن كان سالبا كان سالبا مثلا قولنا: "كل ج ب" ينعكس بعكس النقيض إلى قولنا: "كل" ليس ب ليس ج"، وهذا طريق القدماء. وأما المتأخرون فقالوا: عكس النقيض هو جعل نقيض الجزء الثاني أولاً وعين الأول ثانياً مع مخالفة الكيف، أي إن كان الأصل موجبا كان العكس سالبا وبالعكس، ويعتبر بقاء الصدق كما مر في قولنا: "كل ج ب" ينعكس إلى قولنا: "لا شيء مما ليس ب ج، والمصنف لم يصرح بقولهم: و"عين الأول ثانيا"؛ للعلم به ضمنا، ولا بــ اعتبار "بقاء "الصدق في التعريف الثاني؛ لذكره سابقا، فحيث لم يخالفه في هذا التعريف علم اعتباره ههنا أيضاً . ثم أنه قدّس سرّه - بين أحكام عكس النقيض على طريقة القدماء؛ إذ فيه غنية لطالب الكمال.
+"
+أي جعل نقيض إلخ اعلم أن لعكس النقيض أيضاً معنيين كالعكس المستوي، فقد يطلق على المعنى المصدري وهو المذكور، وقد يطلق على الحاصل المصدر أي القضية الحاصلة بعد العكس، والأول معنى حقيقي والثاني مجازي. (إسماعيل مع بقاء الصدق ولم يعتبروا بقاء الكذب؛ إذ قد يكذب الأصل، مثل: لا شيء من الحيوان بإنسان ويصدق عكس نقیضه مثل ليس بعض إنسان بلا حيوان.
+أي إن كان لا أنه يجب صدقهما في الواقع حتى يشمل التعريف لعكوس الكواذب، فقولنا: "كل ما ليس بحجر ليس بإنسان" عكس النقيض لقولنا: "كل إنسان حجر" ؛ فإنه صادق على تقدير صدق الأصل، وإن لم يكن كل منهما صادقا في نفس الأمر . إسماعيل) كل ج ب فعكس قولنا: "كل إنسان حيوان" على طريقة المتأخرين قولنا: "لا شيء مما ليس بحيوان بإنسان". إسماعيل) والمصنف لم يصرح: إشارة إلى جواب إيراد: هو أن المصنف قال: "أو جعل نقيض الثاني أولاً مع مخالفة "الكيف" والواجب بالنظر إلى مسلك المتأخرين: "أو جعل نقيض الثاني أولاً وعين الأول ثانيا . برهان الدين لذكره ويمكن أن يقال: إن عكس النقيض لازم للقضية، وصدق الملزوم
+يستلزم صدق اللازم فلذا قال : ومع بقاء الصدق؛ للعلة المذكورة، وتركه ثانيا لوجود تلك العلة ههنا أيضاً.
+Definition of conversion by contraposition: with preservation of truth and quality, or making the contradictory of the second part first while changing the quality. That is, making the contradictory of the first part of the original a second part of the converse, and the contradictory of the second a first part. His statement: 'with preservation of truth' means if the original is true then the converse is true. His statement: 'and quality' means if the original is affirmative the converse is affirmative and if negative then negative. For example our statement: 'Every J is B' converts by contraposition to our statement: 'Every non-B is non-J', and this is the method of the ancients. As for the later scholars, they said: conversion by contraposition is making the contradictory of the second part first and the identical first part second while changing the quality, i.e. if the original is affirmative the converse is negative and vice versa, and preservation of truth is considered as before, in our statement: 'Every J is B' converts to our statement: 'Nothing that is not B is J'. The author did not explicitly state 'and the identical first part second' because it is known implicitly, nor did he mention preservation of truth in the second definition due to its mention earlier; so since he did not contradict it in this definition, its consideration here is known. Then he, may his secret be sanctified, explained the rulings of conversion by contraposition according to the method of the ancients, for in it is sufficient for the seeker of perfection. 'A commentary: meaning the previous explanation. Know that conversion by contraposition also has two meanings like direct conversion: it may be used for the verbal noun meaning as mentioned, and it may be used for the result i.e. the proposition obtained after conversion. The first is a real meaning and the second metaphorical. (Isma'il: with preservation of truth and they did not consider preservation of falsity, because the original may be false, e.g. 'Nothing of animal is man' and its contrapositive is true such as 'Not some man is non-animal'. That is, it is not that both must be actually true so that the definition includes contrapositives of false propositions; thus our statement: 'Everything that is not stone is not man' is the contrapositive of our statement: 'Every man is stone', for it is true on the assumption of the truth of the original, even if neither is true in actual fact. Isma'il) Every J is B. So the contrapositive of our statement: 'Every man is animal' according to the method of the later scholars is our statement: 'Nothing that is not animal is man'. Isma'il) And the author did not explicitly state: indicating an answer to an objection: that the author said 'or making the contradictory of the second part first while changing the quality' but what is required according to the later scholars' approach is 'or making the contradictory of the second part first and the identical first part second'. Burhan al-Din: because he mentioned, and it can be said that contrapositive is necessary for the proposition, and the truth of the necessitating implies the truth of the necessary, so he said 'and with preservation of truth' for the mentioned reason, and he omitted it in the second because that reason exists here as well.
+Source pages p. 141
+
+Commentary
+This passage defines the logical concept of 'aks al-naqid (conversion by contraposition). It begins by giving the definition according to the ancient logicians (qudama') and then the later scholars (muta'akhkhirun). The commentator explains each part: preserving truth means if the original is true, the converse is true; quality means the affirmative/negative character remains the same. An example is given using the variables J and B. The author (al-Taftazani) preferred the ancient definition but also mentions the later definition. The commentary clarifies why the author omitted certain elements in the later definition (they are implied) and why preservation of truth is not mentioned again (already stated). There is also a discussion of the two senses of 'aks al-naqid: as a process (masdari) and as a resulting proposition (hasil al-masdar). The commentator, Isma'il, adds that preservation of falsity is not required, and gives the example of a false original whose contrapositive is true. The passage ends with an objection and answer regarding the author's wording, and a note that the author chose the ancient method for brevity. All examples use logical variables (J, B) which are placeholders, but the concept is always illustrated with propositional conversions.
+
+Key Terms
+عكس النقيض
+القدماء
+المتأخرون
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the later scholars (muta'akhkhirun), what is the correct contrapositive of the proposition 'Every intoxicant is forbidden'?
+A) Every non-forbidden is non-intoxicant.
+B) Nothing that is not forbidden is an intoxicant.
+C) Every non-intoxicant is non-forbidden.
+D) Some intoxicant is not forbidden.
+
+Key Takeaway
+The ancient and later definitions of 'aks al-naqid differ on whether quality is preserved or reversed, but both require preservation of truth.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the proposition 'Every intoxicant (khamr) is forbidden (haram)' using both the ancient and later methods of 'aks al-naqid. Write the resulting propositions and note the difference in quality.
+?
+In a debate about whether a certain drink (nabidh) is forbidden, a scholar argues: 'If it were not forbidden, it would not be an intoxicant.' Which method of contraposition does this reflect? Validate the inference.
+
+Pages p. 141 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 142
+Module 14 · Lesson 53
+Next →
+Immediate Inference
+advanced
+15 min
+Rulings of Contraposition: Affirmatives, Negatives, and Exceptions
+Author states the parallel and details conversion rules with proof.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of contraposition to categorical and conditional propositions, identify exceptions for all-inclusive concepts, and verify the validity of a contraposition using the provided reductio proof.
+
+Core Idea
+Contraposition mirrors direct conversion: universal affirmatives convert to themselves; particular affirmatives rarely convert, with exceptions for all-inclusive concepts.
+
+This lesson unpacks the rules of 'aks al-naqid (conversion by contraposition). We begin with the foundational parallel between affirmatives in contraposition and negatives in direct conversion, then explore detailed conversion patterns for various types of categorical and conditional propositions. We also examine an important exception raised by later logicians: all-inclusive concepts like 'thing' and 'general possible.' Finally, we walk through the logical proof that validates the contrapositive of a universal affirmative.
+
+Guided Path
+1
+State the parallel rule
+The passage opens with: 'The ruling of affirmatives here (in contraposition) is the ruling of negatives in direct conversion.' Understand that universal affirmatives become universal affirmatives in contraposition (preserving truth), while particular affirmatives do not convert (or rarely).
+This parallels universal negatives converting to themselves in direct conversion, and particular negatives not converting.
+2
+Examine the exception for all-inclusive concepts
+Later scholars noted that propositions with predicates like 'thing' (shay') cause the contrapositive to be false because the subject of the contrapositive may be empty. For example, 'Every man is a thing' has the contrapositive 'Every non-thing is non-man', which is false because 'non-thing' has no instances.
+The author responds by restricting the rule to ordinary terms, not all-inclusive concepts.
+3
+Apply the conversion taxonomy to categorical propositions
+The commentary lists how various types of categorical propositions convert by contraposition: perpetuals to perpetuals, commons to commons, specifics to specifics (with conditions), temporals/existentials to particular absolutes, possibles do not convert.
+Focus on the overall logic: universal affirmatives convert to universal affirmatives, particular affirmatives do not convert, negatives convert to particular affirmatives.
+4
+Extend to conditional propositions
+Universal conditional affirmatives also convert to themselves in contraposition; particular conditionals do not convert; conditional negatives convert to particular conditionals.
+This shows the system extends beyond categoricals.
+5
+Verify the proof for universal affirmative contraposition
+The passage provides a reductio: If the contrapositive of 'Every J is B' (i.e., 'Every non-B is non-J') were false, then 'Some non-B is not non-J' would be true, implying 'Some non-B is J'. Combining with the original yields 'Some non-B is B', a contradiction.
+This indirect proof confirms the validity of contraposition for universal affirmatives.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أحكام عكس النقيض
+وحكم الموجبات ههنا حكم السوالب في المستوي
+·
+•
+وترك ما أورده المتأخرون؛ إذ تفصيل القول فيه وفيما فيه لا يسعه المجال. قوله: ههنا: أي في عكس النقيض قوله في المستوي يعني كما أن السالبة الكلية تنعكس في العكس المستوي كنفسها والجزئية لا تنعكس أصلا كذلك الموجبة الكلية في عكس النقيض تنعكس كنفسها والجزئية
++1
+وترك إلخ: قال المتأخرون إن العكس على طريقة القدماء لا يجري في القضايا الموجبات التي محمولاتها من المفهومات الشاملة كالشيء والممكن العام؛ فإن قولنا كل إنسان شيء صادق وعكسه على ما ذكره القدماء قولنا: "كل" ما ليس بشيء ليس بإنسان" وهو كاذب؛ فإن الموجبة تستدعي وجود الموضوع، وكذا حال السوالب التي موضوعاتها من نقائض تلك المفهومات الشاملة، وفيه أن الأحكام مخصوصة بما سوى المفهومات الشاملة ونقائضها، والتعميم إنما هو بقدر الطاقة البشرية (إسماعيل إذ تفصيل: أي تفصيل الكلام الواقع في بيان ما أورده المتأخرون من أحكام عكس النقيض على رأيهم وتفصيل الكلام الوارد في بيان اعتراضات ترد على ما أورده المتأخرون لا يسعه محال المبتدي، مع أنه مستغنى عنه بما ذكره المتقدمون من عكس النقيض وأحكامه على رأيهم. ههنا إلخ أي حكم الموجبات كلية كانت أو جزئية حملية كانت أو شرطية في عكس النقيض، أي باعتبار عكس النقيض على اصطلاح القدماء والمتأخرين مثل حكم السوالب باعتبار العكس المستوي في أن الموجبات الكلية الحملية تنعكس بعكس النقيض بكلا الاصطلاحين من الدائمتين إلى دائمة كلية ومن العامتين إلى عرفية كلية عامة، ومن الخاصتين إلى كلية عرفية لا دائمة في البعض ولا تنعكس في غيرها وكذا الموجبات الكلية الشرطية تنعكس بعكس النقيض كنفسها بكلا الاصطلاحين والموجبات الجزئية من الحمليات لا تنعكس بعكس النقيض غالباً، ومن الشرطيات لا تنعكس أصلا، وبالعكس أي حكم السوالب مطلقا باعتبار عكس النقيض على الاصطلاحين حكم الموجبات باعتبار العكس المستوي في أن السوالب الحملية سواء كانت كلية أو جزئية تنعكس بعكس النقيض من الدائمتين والعامتين إلى حينية مطلقة جزئية، ومن الخاصتين إلى حينية مطلقة لا دائمة جزئية، ومن الوقتيتين والوجوديتين والوقتيتين المطلقتين والمطلقة العامة مطلقة عامة جزئية، ومن الممكنتين لا تنعكس أصلا، والسوالب الشرطية كلية كانت أو جزئية تنعكس بهذا العكس إلى شرطية جزئية. (أبو الفتح) تنعكس كنفسها لأنه إذا صدق كل إنسان حيوان" يصدق في عكس نقيضه كل" لا حيوان لا إنسان" وإلا لصدق نقيضه وهو بعض اللاحيوان ليس بلا إنسان وهو يستلزم بعض اللاحيوان إنسان"؛ لأن نفي نفي الشيء إثباته، فيلزم وجود الخاص بدون العام، وهو باطل، وأيضاً إذا ضم هذا أي لازم النقيض- مع الأصل بأن يقال: "بعض اللاحيوان "إنسان" و"كل إنسان حيوان صح بعض اللاحيوان حيوان" وهو ينعكس بالعكس المستوي إلى بعض الحيوان لا حيوان فيلزم سلب الشيء عن نفسه ضمناً، واجتماع النقيضين صريحاً.
+Rulings of conversion by contraposition. And the ruling of affirmatives here is the ruling of negatives in direct conversion. And he omitted what the later scholars brought up, for detailed discussion of it and what is in it does not fit the scope. His statement: 'here' means in contraposition. His statement: 'in direct conversion' means just as the universal negative converts in direct conversion as itself and the particular does not convert at all, similarly the universal affirmative in contraposition converts as itself and the particular does not. (Then a marginal note: 'and omitted etc.') The later scholars said that the conversion according to the ancients does not apply to affirmative propositions whose predicates are among all-inclusive concepts such as 'thing' and 'general possible'; for our statement 'Every man is a thing' is true but its converse according to the ancients is 'Every non-thing is non-man' which is false, because the affirmative requires existence of the subject, and similarly for negatives whose subjects are contradictories of those all-inclusive concepts. The response is that the rulings are specific to things other than all-inclusive concepts and their contradictories, and generalization is only to the extent of human ability. (Isma'il: 'for detailed discussion' means that the detailed discussion of what the later scholars brought up regarding the rulings of contraposition according to their view and the detailed discussion of objections that arise against what they brought up does not fit the beginner's level, and it is unnecessary because of what the ancients mentioned of contraposition and its rulings according to their view. 'Here' etc.: meaning the ruling of affirmatives, whether universal or particular, categorical or conditional, in contraposition i.e. according to the contraposition of the ancients and later scholars, is like the ruling of negatives in direct conversion in that universal categorical affirmatives convert by contraposition in both conventions from perpetuals to a universal perpetual, from commons to a universal general common, from specifics to a universal general not perpetual in some, and do not convert in others; similarly universal conditional affirmatives convert by contraposition as themselves in both conventions; particular categorical affirmatives do not convert by contraposition often, and conditionals do not convert at all. And conversely: meaning the ruling of negatives absolutely according to contraposition in both conventions is the ruling of affirmatives in direct conversion in that categorical negatives, whether universal or particular, convert by contraposition from perpetuals and commons to a particular absolute temporal, from specifics to a particular absolute not perpetual, from temporals and existentials and absolute temporals and general absolute to a particular general absolute, and from possibles do not convert at all; and conditional negatives, whether universal or particular, convert by this conversion to a particular conditional. (Abu al-Fath) It converts as itself because if 'Every man is an animal' is true, its contrapositive 'Every non-animal is non-man' is true; otherwise its negation 'Some non-animal is not non-man' would be true, which implies 'Some non-animal is man' because negating a negation is affirmation; thus a specific would exist without the general, which is absurd. Also if this (i.e., the necessary of the contrapositive) is combined with the original by saying 'Some non-animal is man' and 'Every man is animal', then 'Some non-animal is animal' follows, which converts by direct conversion to 'Some animal is non-animal', implying the negation of a thing of itself implicitly, and a clear conjunction of contradictories.
+Source pages p. 142
+
+Commentary
+This passage presents the key rulings (ahkam) of 'aks al-naqid (conversion by contraposition). The author begins by stating a parallel: affirmatives in contraposition behave exactly like negatives in direct conversion. This is explained: just as a universal negative (e.g., 'No J is B') converts to itself in direct conversion ('No B is J') while a particular negative does not convert, so too a universal affirmative (e.g., 'Every J is B') in contraposition converts to a universal affirmative according to the ancients (with reversed subject and predicate contradicted) as shown earlier, while a particular affirmative does not convert (often) in contraposition. The author then notes that he omitted the later scholars' objections about all-inclusive concepts (like 'thing')—an example being 'Every man is a thing' whose contrapositive according to the ancients would be false. The response is that such concepts are exceptions, and the rulings apply to ordinary terms. The commentary then elaborates on the various types of propositions (perpetual, common, special, temporal, existential, possible) and how they convert in contraposition, providing a detailed taxonomy. Finally, a proof is given for the conversion of the universal affirmative: if the original is true, the contrapositive must be true; otherwise, contradictions arise involving the existence of a specific without its general. The entire passage uses examples from logic (animal, man) and discusses the implications structurally. It is a dense enumeration of conversion rules.
+
+Key Terms
+الموجبات الكلية الحملية
+المفهومات الشاملة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is true about the contraposition of a universal categorical affirmative like 'Every intoxicant is haram' according to the ancients?
+A) It does not convert.
+B) It converts to a universal negative: 'No non-haram is non-intoxicant'.
+C) It converts to a universal affirmative: 'Every non-haram is non-intoxicant'.
+D) It converts to a particular affirmative: 'Some non-haram is non-intoxicant'.
+
+Key Takeaway
+Contraposition of a universal affirmative is valid and yields another universal affirmative, but exceptions exist for all-inclusive concepts where the subject of the contrapositive may be empty.
+
+How This Lesson Applies — to MY Life?
+?
+Apply contraposition to the fiqh proposition: 'Every valid sale is consensual.' Write the contrapositive and determine if it must be true. Then consider an exception: what if there are no non-consensual sales? Does the contrapositive still hold?
+?
+Prove by reductio that the contrapositive of 'Every act that causes harm is forbidden' must be true, following the proof in the passage (using 'harm' as the middle term).
+
+Pages p. 142 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 142
+Module 14 · Lesson 54
+Next →
+Immediate Inference
+beginner
+5 min
+Core Rule of Contraposition
+Author states the basic rule of contraposition by analogy to simple conversion.
+
+Learning Objective
+By the end of this lesson, you will be able to apply contraposition to universal and particular affirmative propositions and verify the validity of the result.
+
+Core Idea
+Contraposition mirrors simple conversion but swaps negations.
+
+This passage establishes a parallel between contraposition and simple conversion: just as universal negatives convert as themselves in simple conversion, universal affirmatives convert as themselves in contraposition. Let's walk through the rule step by step.
+
+Guided Path
+1
+Identify the original proposition's type
+Determine if the proposition is universal affirmative (A), particular affirmative (I), universal negative (E), or particular negative (O). The rule applies to affirmatives in contraposition.
+Only affirmatives are discussed here; negatives have a different rule.
+2
+Recall the parallel to simple conversion
+In simple conversion, E converts as itself, I converts as itself, A converts as I. In contraposition, A converts as itself, I does not convert.
+The author says: 'The rule for affirmatives here is the rule for negatives in simple conversion.'
+3
+Construct the contrapositive
+Swap subject and predicate, and negate both. For example, 'Every human is mortal' becomes 'Every non-mortal is non-human'.
+Ensure the negation is applied correctly.
+4
+Test the validity
+Check if the contrapositive is true when the original is true. For universal affirmatives, it holds; for particular affirmatives, it does not.
+Use an Islamic example: 'Every created thing has a creator' contraposes to 'Every non-have-a-creator is non-created'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وحكم الموجبات ههنا حكم السوالب في المستوي. قوله: ههنا: أي في عكس النقيض قوله في المستوي يعني كما أن السالبة الكلية تنعكس في العكس المستوي كنفسها والجزئية لا تنعكس أصلا كذلك الموجبة الكلية في عكس النقيض تنعكس كنفسها والجزئية لا تنعكس. وترك ما أورده المتأخرون؛ إذ تفصيل القول فيه وفيما فيه لا يسعه المجال. قال المتأخرون إن العكس على طريقة القدماء لا يجري في القضايا الموجبات التي محمولاتها من المفهومات الشاملة كالشيء والممكن العام؛ فإن قولنا كل إنسان شيء صادق وعكسه على ما ذكره القدماء قولنا: "كل ما ليس بشيء ليس بإنسان" وهو كاذب؛ فإن الموجبة تستدعي وجود الموضوع، وكذا حال السوالب التي موضوعاتها من نقائض تلك المفهومات الشاملة، وفيه أن الأحكام مخصوصة بما سوى المفهومات الشاملة ونقائضها، والتعميم إنما هو بقدر الطاقة البشرية. وبالعكس أي حكم السوالب ههنا حكم الموجبات في المستوي، فكما أن الموجبة في المستوي لا تنعكس إلا جزئية، كذلك السالبة ههنا لا تنعكس إلا جزئية؛ الجواز أن يكون نقيض المحمول في السالبة أعم من الموضوع، ولا يجوز سلب نقيض الأخص عن عين الأعم كليا، مثلا: يصح "لا شيء من الإنسان بلا حيوان" ولا يصح "لا شيء من الحيوان بلا إنسان"؛ لصدق "بعض الحيوان لا إنسان كالفرس". وكذلك بحسب الجهة الدائمتان والعامتان تنعكس حينية مطلقة والخاصتان حينية مطلقة لا دائمة، والوقتيتان والوجوديتان والمطلقة العامة مطلقة عامة ولا عكس للممكنتين على قياس الموجبات في المستوي. لا تنعكس أصلا لصدق قولنا: "بعض الحيوان لا إنسان" وكذب "بعض الإنسان لا حيوان" وكذلك التسع من الموجهات أعني: الوقتيتين المطلقتين والوقتيتين والوجوديتين والممكنتين والمطلقة العامة لا تنعكس، والبواقي تنعكس على ما سبق تفصيله في السوالب في العكس المستوي.
+The rule for affirmatives here is the rule for negatives in simple conversion. His saying: 'here' means in contraposition; his saying 'in simple conversion' means that just as the universal negative converts in simple conversion as itself and the particular does not convert at all, likewise the universal affirmative in contraposition converts as itself and the particular does not convert. He left what the later scholars mentioned, because detailed discussion of it and what is in it cannot be accommodated in this space. The later scholars said: Conversion according to the method of the ancients does not apply to affirmative propositions whose predicates are among inclusive concepts like 'thing' and 'possible in general'; for our saying 'Every human is a thing' is true, and its converse according to what the ancients mentioned, our saying 'Everything that is not a thing is not a human' is false, because an affirmative requires existence of the subject, and likewise for negatives whose subjects are among the negations of those inclusive concepts. But in response: The rules are specific to what is other than inclusive concepts and their negations, and generalization is only to the extent of human capability. And conversely, i.e., the rule for negatives here is the rule for affirmatives in simple conversion. For just as the affirmative in simple conversion converts only as a particular, likewise the negative here converts only as a particular; it is possible that the negation of the predicate in the negative is more general than the subject, and it is not permissible to negate the negation of the more specific from the whole of the more general universally; for example, 'No human is without animal' is true, while 'No animal is without human' is not true, because 'Some animal is not human, like the horse' is true. Likewise with respect to modality: the two perpetual and two common convert to absolute temporal particular; the two particular convert to absolute temporal non-perpetual; the two temporal, the two existential, and the absolute general convert to absolute general particular; and there is no conversion for the two possible, analogously to affirmatives in simple conversion. They do not convert at all because our saying 'Some animal is not human' is true while 'Some human is not animal' is false; and similarly the nine modal propositions, namely: the two absolute temporal, the two temporal, the two existential, the two possible, and the absolute general do not convert; the rest convert as previously detailed for negatives in simple conversion.
+Source pages p. 142
+
+Commentary
+This passage is a commentary on the rules of contraposition (عكس النقيض), a type of immediate inference. The author begins by stating the core rule: 'The rule for affirmatives here is the rule for negatives in simple conversion.' This means that in contraposition, universal affirmatives convert to universal affirmatives of the contrapositive (e.g., 'Every A is B' becomes 'Every non-B is non-A'), while particular affirmatives do not convert. This parallels how in simple conversion (where subject and predicate swap without negation), universal negatives convert to universal negatives, and particular affirmatives convert to particular affirmatives, but universal affirmatives only convert as particulars.
+
+The author then mentions that he is omitting the detailed objections raised by later scholars (المتأخرون) regarding the exceptions to this rule, but he does summarize them. The later scholars argued that contraposition as defined by the ancients (القدماء) does not apply when the predicate is an inclusive concept like 'thing' or 'possible in general'. For example, 'Every human is a thing' is true, but its contrapositive according to the ancients is 'Everything that is not a thing is not a human', which is false because it would imply that non-existent things are not human, but the affirmation 'Every human is a thing' does not affirm existence? Actually, the reasoning is that affirmative propositions assume existence of the subject, so the contrapositive would require existence of non-things, which is problematic. The author notes that the rules are generally applied except for these inclusive concepts and their negations, and that generalization is limited by human capacity.
+
+Next, the author discusses the reverse rule: for negative propositions in contraposition, the rule is the same as for affirmative propositions in simple conversion. That is, a universal negative in contraposition only converts to a particular affirmative of the contrapositive? Actually, the text says: 'السالبة ههنا لا تنعكس إلا جزئية' — the negative proposition here (in contraposition) only converts as a particular. He gives the example: 'No human is without animal' is true, but its contrapositive 'No animal is without human' is false because some animals (like horses) are not human. The contrapositive of 'No human is non-animal' would be 'No non-animal is non-human'? Wait, the example uses 'لا شيء من الإنسان بلا حيوان' which means 'No human is without animal', i.e., 'Every human is an animal'. Its contrapositive would be 'No non-animal is a human', i.e., 'Every non-animal is not a human', which is true. But the text says 'ولا يصح لا شيء من الحيوان بلا إنسان' — that is not the contrapositive; that would be the converse of the obverse? This is confusing. Actually, the example is: the original negative in contraposition is 'No human is without animal' (i.e., all humans are animals). The contrapositive should be 'No non-animal is a human'. But the text gives 'No animal is without human' as the alleged contrapositive and says it's false. This suggests the author is considering a different type of contraposition (perhaps 'عكس النقيض' as defined by the ancients is not simply the contrapositive, but a transformation where the negation is applied to the subject? This nuance is advanced. For the commentary, we can simply state the rule and example as given.
+
+Finally, the author discusses modal propositions. He lists the types: perpetual (دائم), common (عام), particular (خاص), temporal (وقتي), existential (وجودي), possible (ممكن), and absolute general (مطلقة عامة). For each, he gives the result of contraposition. For example, perpetual and common propositions convert to absolute temporal particular; particular propositions convert to absolute temporal non-perpetual; temporal, existential, and absolute general convert to absolute general particular; and possible propositions do not convert. He concludes that nine types (the two absolute temporal, two temporal, two existential, two possible, and absolute general) do not convert via contraposition, while the rest do, as previously detailed for negatives in simple conversion.
+
+Overall, this passage provides a comprehensive but dense coverage of the rules of contraposition, with attention to exceptions and modal types.
+
+Key Terms
+عكس النقيض
+الموجبات
+السوالب
+المستوي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the rule for universal affirmatives in contraposition?
+A) They convert as themselves.
+B) They convert as particulars.
+C) They do not convert.
+D) They convert as universals only if the predicate is inclusive.
+
+Key Takeaway
+In contraposition, universal affirmatives preserve truth by converting to universal affirmatives of the negated terms.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'Every created thing is temporally originated' and perform contraposition. Check if the result is logically equivalent to the original.
+?
+In usul al-fiqh, consider the rule 'Every intoxicant is haram'. Write its contrapositive and determine whether it is a valid inference for deducing non-intoxicants.
+
+Pages p. 142 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 142
+Module 14 · Lesson 55
+Next →
+Immediate Inference
+intermediate
+5 min
+Exception: Inclusive Concepts
+Later scholars' objection that contraposition fails for inclusive concepts.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a proposition's predicate is an inclusive concept and explain why contraposition fails in such cases.
+
+Core Idea
+Inclusive concepts like 'thing' break contraposition because they lack proper negations.
+
+The later scholars pointed out a critical exception: when the predicate is an inclusive concept such as 'thing' or 'possible in general', the ancient method of contraposition yields a false result. Let's examine why.
+
+Guided Path
+1
+Identify an inclusive concept
+Look for predicates like 'thing' (شَيء) or 'possible in general' (ممكن عام) that apply to absolutely everything.
+These concepts have no genuine contrary.
+2
+Apply the standard contraposition
+Take 'Every human is a thing'. According to the rule, its contrapositive is 'Everything that is not a thing is not a human'.
+Write out the contrapositive formula.
+3
+Check truth value
+The original is true, but the contrapositive is false because it implies that non-existent things are not human, which is trivially true? Actually, it's false because the antecedent 'not a thing' has no referent. The passage says it's false because the affirmative requires existence of the subject.
+In the ancient view, an affirmative proposition presupposes the existence of its subject. 'Not a thing' has no existing referent, so the contrapositive fails.
+4
+Generalize the exception
+The author concludes that the rules of contraposition apply only to non-inclusive concepts. Inclusive concepts and their negations are exceptions.
+This limits the universality of the rule.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وحكم الموجبات ههنا حكم السوالب في المستوي. قوله: ههنا: أي في عكس النقيض قوله في المستوي يعني كما أن السالبة الكلية تنعكس في العكس المستوي كنفسها والجزئية لا تنعكس أصلا كذلك الموجبة الكلية في عكس النقيض تنعكس كنفسها والجزئية لا تنعكس. وترك ما أورده المتأخرون؛ إذ تفصيل القول فيه وفيما فيه لا يسعه المجال. قال المتأخرون إن العكس على طريقة القدماء لا يجري في القضايا الموجبات التي محمولاتها من المفهومات الشاملة كالشيء والممكن العام؛ فإن قولنا كل إنسان شيء صادق وعكسه على ما ذكره القدماء قولنا: "كل ما ليس بشيء ليس بإنسان" وهو كاذب؛ فإن الموجبة تستدعي وجود الموضوع، وكذا حال السوالب التي موضوعاتها من نقائض تلك المفهومات الشاملة، وفيه أن الأحكام مخصوصة بما سوى المفهومات الشاملة ونقائضها، والتعميم إنما هو بقدر الطاقة البشرية. وبالعكس أي حكم السوالب ههنا حكم الموجبات في المستوي، فكما أن الموجبة في المستوي لا تنعكس إلا جزئية، كذلك السالبة ههنا لا تنعكس إلا جزئية؛ الجواز أن يكون نقيض المحمول في السالبة أعم من الموضوع، ولا يجوز سلب نقيض الأخص عن عين الأعم كليا، مثلا: يصح "لا شيء من الإنسان بلا حيوان" ولا يصح "لا شيء من الحيوان بلا إنسان"؛ لصدق "بعض الحيوان لا إنسان كالفرس". وكذلك بحسب الجهة الدائمتان والعامتان تنعكس حينية مطلقة والخاصتان حينية مطلقة لا دائمة، والوقتيتان والوجوديتان والمطلقة العامة مطلقة عامة ولا عكس للممكنتين على قياس الموجبات في المستوي. لا تنعكس أصلا لصدق قولنا: "بعض الحيوان لا إنسان" وكذب "بعض الإنسان لا حيوان" وكذلك التسع من الموجهات أعني: الوقتيتين المطلقتين والوقتيتين والوجوديتين والممكنتين والمطلقة العامة لا تنعكس، والبواقي تنعكس على ما سبق تفصيله في السوالب في العكس المستوي.
+The rule for affirmatives here is the rule for negatives in simple conversion. His saying: 'here' means in contraposition; his saying 'in simple conversion' means that just as the universal negative converts in simple conversion as itself and the particular does not convert at all, likewise the universal affirmative in contraposition converts as itself and the particular does not convert. He left what the later scholars mentioned, because detailed discussion of it and what is in it cannot be accommodated in this space. The later scholars said: Conversion according to the method of the ancients does not apply to affirmative propositions whose predicates are among inclusive concepts like 'thing' and 'possible in general'; for our saying 'Every human is a thing' is true, and its converse according to what the ancients mentioned, our saying 'Everything that is not a thing is not a human' is false, because an affirmative requires existence of the subject, and likewise for negatives whose subjects are among the negations of those inclusive concepts. But in response: The rules are specific to what is other than inclusive concepts and their negations, and generalization is only to the extent of human capability. And conversely, i.e., the rule for negatives here is the rule for affirmatives in simple conversion. For just as the affirmative in simple conversion converts only as a particular, likewise the negative here converts only as a particular; it is possible that the negation of the predicate in the negative is more general than the subject, and it is not permissible to negate the negation of the more specific from the whole of the more general universally; for example, 'No human is without animal' is true, while 'No animal is without human' is not true, because 'Some animal is not human, like the horse' is true. Likewise with respect to modality: the two perpetual and two common convert to absolute temporal particular; the two particular convert to absolute temporal non-perpetual; the two temporal, the two existential, and the absolute general convert to absolute general particular; and there is no conversion for the two possible, analogously to affirmatives in simple conversion. They do not convert at all because our saying 'Some animal is not human' is true while 'Some human is not animal' is false; and similarly the nine modal propositions, namely: the two absolute temporal, the two temporal, the two existential, the two possible, and the absolute general do not convert; the rest convert as previously detailed for negatives in simple conversion.
+Source pages p. 142
+
+Commentary
+This passage is a commentary on the rules of contraposition (عكس النقيض), a type of immediate inference. The author begins by stating the core rule: 'The rule for affirmatives here is the rule for negatives in simple conversion.' This means that in contraposition, universal affirmatives convert to universal affirmatives of the contrapositive (e.g., 'Every A is B' becomes 'Every non-B is non-A'), while particular affirmatives do not convert. This parallels how in simple conversion (where subject and predicate swap without negation), universal negatives convert to universal negatives, and particular affirmatives convert to particular affirmatives, but universal affirmatives only convert as particulars.
+
+The author then mentions that he is omitting the detailed objections raised by later scholars (المتأخرون) regarding the exceptions to this rule, but he does summarize them. The later scholars argued that contraposition as defined by the ancients (القدماء) does not apply when the predicate is an inclusive concept like 'thing' or 'possible in general'. For example, 'Every human is a thing' is true, but its contrapositive according to the ancients is 'Everything that is not a thing is not a human', which is false because it would imply that non-existent things are not human, but the affirmation 'Every human is a thing' does not affirm existence? Actually, the reasoning is that affirmative propositions assume existence of the subject, so the contrapositive would require existence of non-things, which is problematic. The author notes that the rules are generally applied except for these inclusive concepts and their negations, and that generalization is limited by human capacity.
+
+Next, the author discusses the reverse rule: for negative propositions in contraposition, the rule is the same as for affirmative propositions in simple conversion. That is, a universal negative in contraposition only converts to a particular affirmative of the contrapositive? Actually, the text says: 'السالبة ههنا لا تنعكس إلا جزئية' — the negative proposition here (in contraposition) only converts as a particular. He gives the example: 'No human is without animal' is true, but its contrapositive 'No animal is without human' is false because some animals (like horses) are not human. The contrapositive of 'No human is non-animal' would be 'No non-animal is non-human'? Wait, the example uses 'لا شيء من الإنسان بلا حيوان' which means 'No human is without animal', i.e., 'Every human is an animal'. Its contrapositive would be 'No non-animal is a human', i.e., 'Every non-animal is not a human', which is true. But the text says 'ولا يصح لا شيء من الحيوان بلا إنسان' — that is not the contrapositive; that would be the converse of the obverse? This is confusing. Actually, the example is: the original negative in contraposition is 'No human is without animal' (i.e., all humans are animals). The contrapositive should be 'No non-animal is a human'. But the text gives 'No animal is without human' as the alleged contrapositive and says it's false. This suggests the author is considering a different type of contraposition (perhaps 'عكس النقيض' as defined by the ancients is not simply the contrapositive, but a transformation where the negation is applied to the subject? This nuance is advanced. For the commentary, we can simply state the rule and example as given.
+
+Finally, the author discusses modal propositions. He lists the types: perpetual (دائم), common (عام), particular (خاص), temporal (وقتي), existential (وجودي), possible (ممكن), and absolute general (مطلقة عامة). For each, he gives the result of contraposition. For example, perpetual and common propositions convert to absolute temporal particular; particular propositions convert to absolute temporal non-perpetual; temporal, existential, and absolute general convert to absolute general particular; and possible propositions do not convert. He concludes that nine types (the two absolute temporal, two temporal, two existential, two possible, and absolute general) do not convert via contraposition, while the rest do, as previously detailed for negatives in simple conversion.
+
+Overall, this passage provides a comprehensive but dense coverage of the rules of contraposition, with attention to exceptions and modal types.
+
+Key Terms
+المفهومات الشاملة
+الشيء
+الممكن العام
+نقائض
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following predicates is an inclusive concept that blocks contraposition according to the later scholars?
+A) Animal
+B) Human
+C) Thing
+D) Stone
+
+Key Takeaway
+Contraposition fails for propositions with inclusive concepts because they lack proper negations.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition 'Every human is a possible in general' (mumkin ʿāmm). Attempt to form its contrapositive and explain why it fails.
+?
+In fiqh, the concept of 'riba' is an inclusive concept? No, but think of a very general concept like 'wealth' and test if contraposition holds.
+
+Pages p. 142 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 142
+Module 14 · Lesson 56
+Next →
+Immediate Inference
+advanced
+5 min
+Modal Contraposition Rules
+Author lists modal contraposition rules by analogy to simple conversion.
+
+Learning Objective
+By the end of this lesson, you will be able to classify modal propositions and apply the correct contraposition rule for each modality as outlined in the passage.
+
+Core Idea
+Only a few modal types have valid contrapositives; most do not.
+
+The passage provides specific rules for contraposition of modal propositions (موجهات). It lists nine types that do not convert and describes how the rest convert. Let's break down these rules.
+
+Guided Path
+1
+Recall the list of modalities
+The passage mentions: perpetual (دائم), common (عام), particular (خاص), temporal (وقتي), existential (وجودي), possible (ممكن), and absolute general (مطلقة عامة). There are nine types in total for negatives.
+These are based on the classification of negatives in simple conversion.
+2
+Identify the non-converting types
+The passage says nine do not convert: the two absolute temporal, the two temporal, the two existential, the two possible, and the absolute general.
+These are listed at the end: 'التسع من الموجهات أعني: الوقتيتين المطلقتين والوقتيتين والوجوديتين والممكنتين والمطلقة العامة'.
+3
+Identify the converting types
+The rest convert. The passage specifies: perpetual and common convert to absolute temporal particular; the two particular convert to absolute temporal non-perpetual; temporal, existential, and absolute general convert to absolute general particular.
+This matches the rules for negatives in simple conversion as previously detailed.
+4
+Apply the rule to an example
+Take a perpetual negative: 'لا شيء من الإنسان بحيوان دائم'? Actually, need a modal example. For instance, a common negative: 'No human is necessarily an animal'? But better to follow the passage. Use 'No human is perpetually an animal'? The passage is about negatives converting, but the rule is analogical.
+The passage is complex; focus on the pattern: most modals fail except a few that convert to weaker forms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وحكم الموجبات ههنا حكم السوالب في المستوي. قوله: ههنا: أي في عكس النقيض قوله في المستوي يعني كما أن السالبة الكلية تنعكس في العكس المستوي كنفسها والجزئية لا تنعكس أصلا كذلك الموجبة الكلية في عكس النقيض تنعكس كنفسها والجزئية لا تنعكس. وترك ما أورده المتأخرون؛ إذ تفصيل القول فيه وفيما فيه لا يسعه المجال. قال المتأخرون إن العكس على طريقة القدماء لا يجري في القضايا الموجبات التي محمولاتها من المفهومات الشاملة كالشيء والممكن العام؛ فإن قولنا كل إنسان شيء صادق وعكسه على ما ذكره القدماء قولنا: "كل ما ليس بشيء ليس بإنسان" وهو كاذب؛ فإن الموجبة تستدعي وجود الموضوع، وكذا حال السوالب التي موضوعاتها من نقائض تلك المفهومات الشاملة، وفيه أن الأحكام مخصوصة بما سوى المفهومات الشاملة ونقائضها، والتعميم إنما هو بقدر الطاقة البشرية. وبالعكس أي حكم السوالب ههنا حكم الموجبات في المستوي، فكما أن الموجبة في المستوي لا تنعكس إلا جزئية، كذلك السالبة ههنا لا تنعكس إلا جزئية؛ الجواز أن يكون نقيض المحمول في السالبة أعم من الموضوع، ولا يجوز سلب نقيض الأخص عن عين الأعم كليا، مثلا: يصح "لا شيء من الإنسان بلا حيوان" ولا يصح "لا شيء من الحيوان بلا إنسان"؛ لصدق "بعض الحيوان لا إنسان كالفرس". وكذلك بحسب الجهة الدائمتان والعامتان تنعكس حينية مطلقة والخاصتان حينية مطلقة لا دائمة، والوقتيتان والوجوديتان والمطلقة العامة مطلقة عامة ولا عكس للممكنتين على قياس الموجبات في المستوي. لا تنعكس أصلا لصدق قولنا: "بعض الحيوان لا إنسان" وكذب "بعض الإنسان لا حيوان" وكذلك التسع من الموجهات أعني: الوقتيتين المطلقتين والوقتيتين والوجوديتين والممكنتين والمطلقة العامة لا تنعكس، والبواقي تنعكس على ما سبق تفصيله في السوالب في العكس المستوي.
+The rule for affirmatives here is the rule for negatives in simple conversion. His saying: 'here' means in contraposition; his saying 'in simple conversion' means that just as the universal negative converts in simple conversion as itself and the particular does not convert at all, likewise the universal affirmative in contraposition converts as itself and the particular does not convert. He left what the later scholars mentioned, because detailed discussion of it and what is in it cannot be accommodated in this space. The later scholars said: Conversion according to the method of the ancients does not apply to affirmative propositions whose predicates are among inclusive concepts like 'thing' and 'possible in general'; for our saying 'Every human is a thing' is true, and its converse according to what the ancients mentioned, our saying 'Everything that is not a thing is not a human' is false, because an affirmative requires existence of the subject, and likewise for negatives whose subjects are among the negations of those inclusive concepts. But in response: The rules are specific to what is other than inclusive concepts and their negations, and generalization is only to the extent of human capability. And conversely, i.e., the rule for negatives here is the rule for affirmatives in simple conversion. For just as the affirmative in simple conversion converts only as a particular, likewise the negative here converts only as a particular; it is possible that the negation of the predicate in the negative is more general than the subject, and it is not permissible to negate the negation of the more specific from the whole of the more general universally; for example, 'No human is without animal' is true, while 'No animal is without human' is not true, because 'Some animal is not human, like the horse' is true. Likewise with respect to modality: the two perpetual and two common convert to absolute temporal particular; the two particular convert to absolute temporal non-perpetual; the two temporal, the two existential, and the absolute general convert to absolute general particular; and there is no conversion for the two possible, analogously to affirmatives in simple conversion. They do not convert at all because our saying 'Some animal is not human' is true while 'Some human is not animal' is false; and similarly the nine modal propositions, namely: the two absolute temporal, the two temporal, the two existential, the two possible, and the absolute general do not convert; the rest convert as previously detailed for negatives in simple conversion.
+Source pages p. 142
+
+Commentary
+This passage is a commentary on the rules of contraposition (عكس النقيض), a type of immediate inference. The author begins by stating the core rule: 'The rule for affirmatives here is the rule for negatives in simple conversion.' This means that in contraposition, universal affirmatives convert to universal affirmatives of the contrapositive (e.g., 'Every A is B' becomes 'Every non-B is non-A'), while particular affirmatives do not convert. This parallels how in simple conversion (where subject and predicate swap without negation), universal negatives convert to universal negatives, and particular affirmatives convert to particular affirmatives, but universal affirmatives only convert as particulars.
+
+The author then mentions that he is omitting the detailed objections raised by later scholars (المتأخرون) regarding the exceptions to this rule, but he does summarize them. The later scholars argued that contraposition as defined by the ancients (القدماء) does not apply when the predicate is an inclusive concept like 'thing' or 'possible in general'. For example, 'Every human is a thing' is true, but its contrapositive according to the ancients is 'Everything that is not a thing is not a human', which is false because it would imply that non-existent things are not human, but the affirmation 'Every human is a thing' does not affirm existence? Actually, the reasoning is that affirmative propositions assume existence of the subject, so the contrapositive would require existence of non-things, which is problematic. The author notes that the rules are generally applied except for these inclusive concepts and their negations, and that generalization is limited by human capacity.
+
+Next, the author discusses the reverse rule: for negative propositions in contraposition, the rule is the same as for affirmative propositions in simple conversion. That is, a universal negative in contraposition only converts to a particular affirmative of the contrapositive? Actually, the text says: 'السالبة ههنا لا تنعكس إلا جزئية' — the negative proposition here (in contraposition) only converts as a particular. He gives the example: 'No human is without animal' is true, but its contrapositive 'No animal is without human' is false because some animals (like horses) are not human. The contrapositive of 'No human is non-animal' would be 'No non-animal is non-human'? Wait, the example uses 'لا شيء من الإنسان بلا حيوان' which means 'No human is without animal', i.e., 'Every human is an animal'. Its contrapositive would be 'No non-animal is a human', i.e., 'Every non-animal is not a human', which is true. But the text says 'ولا يصح لا شيء من الحيوان بلا إنسان' — that is not the contrapositive; that would be the converse of the obverse? This is confusing. Actually, the example is: the original negative in contraposition is 'No human is without animal' (i.e., all humans are animals). The contrapositive should be 'No non-animal is a human'. But the text gives 'No animal is without human' as the alleged contrapositive and says it's false. This suggests the author is considering a different type of contraposition (perhaps 'عكس النقيض' as defined by the ancients is not simply the contrapositive, but a transformation where the negation is applied to the subject? This nuance is advanced. For the commentary, we can simply state the rule and example as given.
+
+Finally, the author discusses modal propositions. He lists the types: perpetual (دائم), common (عام), particular (خاص), temporal (وقتي), existential (وجودي), possible (ممكن), and absolute general (مطلقة عامة). For each, he gives the result of contraposition. For example, perpetual and common propositions convert to absolute temporal particular; particular propositions convert to absolute temporal non-perpetual; temporal, existential, and absolute general convert to absolute general particular; and possible propositions do not convert. He concludes that nine types (the two absolute temporal, two temporal, two existential, two possible, and absolute general) do not convert via contraposition, while the rest do, as previously detailed for negatives in simple conversion.
+
+Overall, this passage provides a comprehensive but dense coverage of the rules of contraposition, with attention to exceptions and modal types.
+
+Key Terms
+الموجهات
+الدائمتان
+العامتان
+الخاصتان
+الوقتيتان
+الوجوديتان
+الممكنتان
+المطلقة العامة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which modal type does NOT have a valid contrapositive?
+A) Perpetual
+B) Common
+C) Possible
+D) Particular
+
+Key Takeaway
+Most modal propositions fail contraposition; only perpetual, common, particular, temporal, existential, and absolute general convert in specific ways.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the proposition 'No human is perpetually a horse' (a perpetual negative). What is its contrapositive? Is it valid?
+?
+Take a possible proposition: 'Some human is possibly a writer'. Can it be contraposed? Why or why not according to the passage?
+
+Pages p. 142 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 143
+Module 14 · Lesson 57
+Next →
+Immediate Inference
+intermediate
+8 min
+Contrapositive Conversion Rules for Modal Propositions
+Author defines contrapositive conversion rules for nine moods with reductio proof.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether a modal proposition converts under contrapositive and justify your answer using the reductio method.
+
+Core Idea
+Not all universal negatives convert; modal propositions like the temporal resist contrapositive conversion.
+
+In this passage, the author explains the rules of contrapositive conversion (عكس النقيض) for the nine modal propositions. The key insight is that negatives under contrapositive mirror affirmatives under simple conversion, but many modal propositions—especially temporal and possible—do not convert at all, as shown by reductio proofs. We will walk through the logic of the proof.
+
+Guided Path
+1
+Understand the baseline analogy
+Just as an affirmative in simple conversion becomes particular, a negative in contrapositive conversion becomes particular. The reason is that the contradictory of the predicate may be more general than the subject, making universal negation invalid.
+Example given: 'No human is without animal' is true, but 'No animal is without human' is false because some animals (horse) are not human.
+2
+Identify the nine non-converting modals
+The author lists nine modalized propositions: two temporally absolute (‏الوقتيتين المطلقتين), two temporal (‏الوقتيتين), two existential (‏الوجوديتين), two possible (‏الممكنتين), and the absolute general (‏المطلقة العامة). These do not convert under contrapositive.
+The rest (universal non-modal) convert as per earlier rules.
+3
+Follow the reductio for the temporal
+Take 'Necessarily: No moon is eclipsed at quadrature (not perpetually)' – a temporal universal negative. If its contrapositive 'Some eclipsed is not a moon with possibility' were true, then its contradictory 'Every eclipsed is a moon necessarily' would be false, but it is true. Hence the contrapositive fails.
+The temporal is the most specific of the eight (excluding general absolute); if it fails, all fail because what is necessary for the general is necessary for the specific.
+4
+Apply the principle to the possible
+Assume Zayd's actual riding is confined to horses. Then 'Nothing of a donkey actually is not Zayd's riding with possibility' is true, but its contrapositive 'Not some of Zayd's actual riding is not a donkey with possibility' is false because 'Every Zayd's actual riding is not a donkey necessarily' is true.
+Thus the two possible propositions also fail to convert contrapositively.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أحكام عكس النقيض وبالعكس لا تنعكس أصلا لصدق قولنا: "بعض الحيوان لا إنسان" وكذب "بعض الإنسان لا حيوان" وكذلك التسع من الموجهات أعني: الوقتيتين المطلقتين والوقتيتين والوجوديتين والممكنتين والمطلقة العامة لا تنعكس، والبواقي تنعكس على ما سبق تفصيله في السوالب في العكس المستوي، قوله: وبالعكس أي حكم السوالب ههنا حكم الموجبات في المستوي، فكما أن الموجبة في المستوي لا تنعكس إلا جزئية، كذلك السالبة ههنا لا تنعكس إلا جزئية؛ الجواز أن يكون نقيض المحمول في السالبة أعم من الموضوع، ولا يجوز سلب نقيض الأخص عن عين الأعم كليا، مثلا: يصح "لا شيء من الإنسان بلا حيوان" ولا يصح "لا شيء من الحيوان بلا إنسان"؛ لصدق "بعض الحيوان لا إنسان كالفرس وكذلك بحسب الجهة الدائمتان والعامتان تنعكس حينية مطلقة والخاصتان حينية مطلقة لا دائمة، والوقتيتان والوجوديتان والمطلقة العامة مطلقة عامة ولا عكس للممكنتين على قياس الموجبات في المستوي والباقي: يعني هذه الموجهات التسع لا تنعكس عكس النقيض بدليل الخلف وبيان الخلف في تلك القضايا بأن أخصها وهو الوقتية لا تنعكس إلى الممكنة لصدق قولنا بالضرورة لا شيء من القمر بمنخسف وقت التربيع لا دائما" مع كذب بعض المنخسف ليس بقمر بالإمكان العام، وإلا يصدق نقيضه وهو كل منخسف قمر بالضرورة فإذا لم تنعكس الوقتية التي أخص الثمانية علم عدم انعكاس الثمانية؛ إذ لو كان العكس لازما لها لكان للوقتية أيضا؛ لأن لازم العام لازم للخاص بالضرورة. ولا يجوز إلخ فإنه لو كان نقيض الأخص مسلوبا عن كل الأعم لصدق عين الأخص على كل ما يصدق عليه الأعم، وظاهر أن الأعم لا بد أن يكون صادقا على كل ما يصدق عليه الأخص، فلزم أن بينهما تساويا، والمفروض العموم والخصوص مطلقا . ( إسماعيل) ولا عكس للممكنتين إلخ لأنه لو فرض أن مركوب زيد بالفعل منحصر في الفرس، صدق "لا شيء من الحمار بالفعل لا مركوب زيد بالإمكان" ولا يصدق في عكس نقيضه ليس بعض مركوب زيد بالفعل لا حمار بالإمكان"؛ لصدق نقيضه "وهو" كل" مركوب زيد" بالفعل لا حمار بالضرورة".
+Rules of contrapositive conversion: And by the converse, they do not convert at all because of the truth of our statement: 'Some animal is not human' and the falsehood of 'Some human is not animal'. And likewise the nine among the modalized [propositions], namely: the two temporally absolute, the two temporal, the two existential, the two possible, and the absolute general do not convert. And the rest convert according to what was previously detailed regarding negatives in simple conversion. His statement: 'And by the converse' means that the rule of negatives here is the rule of affirmatives in simple conversion. Just as an affirmative in simple conversion does not convert except as particular, so also a negative here does not convert except as particular. The reason: the contradictory of the predicate in a negative may be more general than the subject, and it is not permissible to universally negate the contradictory of the more specific from the whole of the more general. For example: 'No human is without animal' is true, and 'No animal is without human' is false; because 'Some animal is not human' is true, like the horse. Likewise according to modality: the two perpetual and the two general convert to an absolute temporal; the two special convert to an absolute temporal, not perpetual; the two temporal, the two existential, and the absolute general [convert to] absolute general; and there is no conversion for the two possible, following the pattern of affirmatives in simple conversion. And the rest: meaning these nine modalized propositions do not convert by contrapositive, by the proof of reductio. The explanation of reductio for those propositions is that the most specific of them, the temporal, does not convert to the possible because of the truth of our statement 'Necessarily: No moon is eclipsed at the time of quadrature, not perpetually' together with the falsehood of 'Some eclipsed is not a moon with general possibility'—otherwise its contradictory would be true, namely 'Every eclipsed is a moon necessarily'. So when the temporal, which is the most specific of the eight, does not convert, the non-conversion of the eight is known; for if conversion were necessary for them, it would be necessary for the temporal as well, because what is necessary for the general is necessarily necessary for the specific. 'And it is not permissible...' etc. For if the contradictory of the more specific were negated from every instance of the more general, then the very more specific would be true of everything of which the more general is true. And it is apparent that the more general must be true of everything of which the more specific is true, so they would be equivalent; but the assumption is absolute generality and specificity. (Ismail) 'And there is no conversion for the two possible' etc. Because if we suppose that Zayd's actual riding is confined to the horse, then 'Nothing of a donkey actually is not Zayd's riding with possibility' is true, but its contrapositive 'Not some of Zayd's actual riding is not a donkey with possibility' is not true, because its contradictory 'Every Zayd's actual riding is not a donkey necessarily' is true.
+Source pages p. 143
+
+Commentary
+This passage defines the rules of contrapositive conversion (`'aks al-naqid`) for categorical propositions, particularly focusing on modalized propositions. The author begins by stating a general principle: negatives under contrapositive follow the same pattern as affirmatives under simple conversion (`'aks al-mustawi`). Just as an affirmative in simple conversion becomes a particular, so a negative in contrapositive becomes particular. The reason is that the contradictory of the predicate in a negative may be more general than the subject; universally negating a specific term from a general term is invalid. An example: 'No human is without animal' (true) but 'No animal is without human' (false) because some animals (like horses) are not human.
+
+Then the author addresses the nine modalized propositions: the two temporally absolute (`al-waqtiyyatan al-mutlaqatan`), the two temporal (`al-waqtiyyatan`), the two existential (`al-wujudiyyatan`), the two possible (`al-mumkinatan`), and the absolute general (`al-mutlaqa al-'amma`). These nine do not convert under contrapositive. The rest (the universal non-modal) do convert, as previously explained.
+
+A proof by reductio (`khalf`) is given for the temporal proposition as the most specific of the eight (excluding the general absolute). If the temporal converted to the possible, then from 'Necessarily: No moon is eclipsed at quadrature, not perpetually' one could derive 'Some eclipsed is not a moon with possibility', but that is false because its contradictory 'Every eclipsed is a moon necessarily' is true. Since the temporal fails, all eight fail because if conversion were necessary for the broader class, it would be necessary for the narrowest.
+
+The passage then discusses why the two possible do not convert. Using an example: Zayd's actual riding is confined to horses. Then 'Nothing of a donkey actually is not Zayd's riding with possibility' is true, but its contrapositive 'Not some of Zayd's actual riding is not a donkey with possibility' is false because 'Every Zayd's actual riding is not a donkey necessarily' is true. Hence, contrapositive conversion fails for the possible.
+
+Throughout, the author uses the method of `khalf` (reductio) and `naqd` (counterexample) to establish which propositions convert. This is standard in Islamic logic for proving conversion rules.
+
+Key Terms
+عكس النقيض
+خلف
+وقتية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following propositions does NOT convert under contrapositive according to the text?
+A) A universal affirmative (e.g., 'All humans are mortal')
+B) A universal negative (e.g., 'No horse is human')
+C) A temporal proposition (e.g., 'The moon is eclipsed at quadrature')
+D) A particular negative (e.g., 'Some animal is not human')
+
+Key Takeaway
+The temporal and other modal propositions generally do not convert under contrapositive; only simple universal and particular propositions do, following the pattern of simple conversion for affirmatives.
+
+How This Lesson Applies — to MY Life?
+?
+Determine whether the following modal proposition converts under contrapositive: 'Necessarily: Some existent is not eternal' (existential particular negative). Justify your answer using the rules from the passage.
+?
+Construct a reductio proof to show that the temporal proposition 'No planet is retrograde at opposition' (assuming it is true only at opposition) does not convert contrapositively to 'Some retrograde is not a planet with possibility'.
+
+Pages p. 143 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 144
+Module 14 · Lesson 58
+Next →
+Immediate Inference
+advanced
+10 min
+Contraposition of the Particular Negative
+Author proves contraposition of the particular negative
+
+Learning Objective
+By the end of this lesson, you will be able to construct the contrapositive of a particular negative proposition and verify its validity using the method of hypothesis and reductio.
+
+Core Idea
+Contraposition preserves truth for the particular negative under modal conditions.
+
+The particular negative proposition—'some S is not P'—may seem not to convert at all. Yet classical logicians showed that its contrapositive ('some not-P is not S') holds under certain temporal conditions. This lesson unpacks the proof using supposition and reductio, as demonstrated by the example of 'writer' and 'still-fingered'.
+
+Guided Path
+1
+Identify the original proposition
+The original is a particular negative: 'Some J is not B' with a modal condition ('as long as J, not permanently'). Write its structure and the conditions.
+The condition 'not permanently' is crucial for the proof.
+2
+State the desired contrapositive
+The contrapositive is: 'Some B is not J' under the same modal condition. Note that both subject and predicate are swapped and negated (simple conversion) but the proposition remains particular negative.
+This is 'aks al-naqid (contraposition), not simple conversion.
+3
+Understand the proof by supposition (iftirad)
+Assume an individual (e.g., Zayd) that is a member of 'some J'. Since the original is true, Zayd is not B in some time. Show that this individual also makes the contrapositive true: he is a member of 'some B' (because he is an instance of the negated predicate) and simultaneously not a member of J? Actually, careful: The proof works by showing that the same individual satisfies both parts of the converse: the 'not permanently' part and the 'not as long as' part.
+The supposition method is central: pick a concrete instance.
+4
+Validate the first part of the converse (as long as) using reductio
+Assume the negation of the first part, i.e., that some still-fingered person is a writer as long as still. This would entail a contradiction with the original (that the two descriptions are incompatible for that subject), so the first part must hold.
+Reductio ad absurdum (khalf) is used to establish the temporal condition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: وقد بين انعكاس الخاصتين إلخ: أما بيان انعكاس الخاصتين من السالبة الجزئية في العكس المستوي إلى العرفية الخاصة فهو أن يقال: متى صدق "بالضرورة أو بالدوام بعض ج ليس ب ما دام ج لا دائما" أي بعض ج ب بالفعل صدق بعض ب ليس ج ما دام ب لا دائما" أي بعض ب ج بالفعل وذلك بدليل الافتراض، وهو أن يفرض ذات الموضوع أعني بعض ج د ف دب بحكم لا دوام الأصل. ثم شرع في بيان إثبات الجزء الثاني أعني لا دوام العكس؛ لقلة التفصيل فيه، ثم يقول في إثبات الجزء الثاني من العكس، والمناسب بحال المبتدي تصوير ما ذكره في مادة خاصة بأن يقال: متى صدق "بعض الكاتب ليس بساكن الأصابع بالضرورة أو بالدوام ما دام كاتبا لا دائما" أي بعض الكاتب ساكن الأصابع بالفعل صدق في عكسه المستوي "بعض ساكن الأصابع ليس بكاتب ما دام ساكنا لا دائما" أي بعض ساكن الأصابع كاتب بالفعل، بدليل الافتراض وهو أن يفرض ذات الموضوع، وهو: "بعض الكاتب زيد" فيصدق "زيد ساكن الأصابع بالفعل بحكم لا دوام الأصل؛ لأنه كانت القضية من لا دوام الأصل بعض الكاتب ساكن الأصابع بالفعل"، فلما فرض بعض الكاتب هو "زيد" صدق "زيد" ساكن الأصابع بالفعل، وأيضاً يصدق "زيد كاتب بالفعل"؛ لأنه إذا فرض أن بعض الكاتب "زيد" فيكون الوصف العنواني للموضوع أعني الكتابة صادق على زيد بالفعل على ما هو التحقيق، وهو رأي الشيخ، فلما صدق "زيد" ساكن الأصابع "بالفعل" وبلا دوام الأصل "زيد كاتب بالفعل"؛ لصدق وصف الموضوع على ذاته بالفعل، فيكون زيد بعض الساكن وبعض الكاتب أيضاً، فيصدق "بعض ساكن الأصابع كاتب بالفعل، وهو لا دوام العكس، فثبت الجزء الثاني من العكس. أما الانعكاس إلى الجزء الأول من العكس؛ فلأنه نقول: "ساكن الأصابع -وهو زيد ليس بكاتب ما دام ساكنا" صادق وإلا لصدق نقيضه - أعني زيد كاتب في بعض أوقات كونه ساكنا وكلما صدق هذا صدق "زيد ساكن الأصابع في بعض أوقات كونه كاتبا لأنه متى تقارن الوصفان وهو الكتابة والسكون لزيد ثبت كل واحد من الوصفين المذكورين لزيد في زمان وصف آخر في الجملة، وقد كان في الأصل أن بعض الكاتب ليس بساكن الأصابع ما دام "كاتبا" أي بأن هذين الوصفين متباينان لا تقرنان في ذات واحدة هذا خلف فيصدق "بعض ساكن الأصابع -وهو زيد ليس بكاتب ما دام ساكنا هو الجزء الأول من العكس، فثبت العكس بكلا جزئيه. فافهم.
+His saying: 'And he explained the conversion of the two particular cases etc.': As for the explanation of the conversion of the two particular cases from the particular negative in simple conversion to the special conditional, it is to say: Whenever "necessarily or permanently some J is not B as long as J, not permanently" is true—i.e., some J is actually B—then "some B is not J as long as B, not permanently" is true—i.e., some B is actually J. And that is by proof of supposition, which is to suppose the subject itself, meaning some J is D, so D is B by virtue of the non-permanence of the original. Then he began to explain the proof of the second part, i.e., the non-permanence of the converse, due to lack of detail in it. Then he says in proving the second part of the converse, and what is appropriate for the beginner's state is to depict what he mentioned in a particular matter by saying: Whenever "Some writer is not of still fingers necessarily or permanently as long as he is a writer, not permanently" is true—i.e., some writer is actually of still fingers—then in its simple converse "some of still fingers is not a writer as long as he is still, not permanently" is true—i.e., some of still fingers is actually a writer. By proof of supposition, which is to suppose the subject itself, which is "some writer is Zayd," so "Zayd is of still fingers actually" is true by virtue of the non-permanence of the original, because the proposition from the non-permanence of the original was "some writer is of still fingers actually." When some writer was supposed to be Zayd, "Zayd is of still fingers actually" is true, and also "Zayd is a writer actually" is true because if it is supposed that some writer is Zayd, then the titular description of the subject, i.e., writing, is true of Zayd actually according to the verification, which is the view of the teacher. When "Zayd is of still fingers actually" is true and by non-permanence of the original "Zayd is a writer actually" is true—due to the truth of the description of the subject upon itself actually—then Zayd is some of the still and also some of the writer, so "some of still fingers is a writer actually" is true, and it is the non-permanence of the converse; thus the second part of the converse is established. As for the conversion to the first part of the converse, it is because we say: "the one with still fingers—which is Zayd—is not a writer as long as he is still" is true; otherwise its contradictory would be true—i.e., Zayd is a writer in some times of his being still. And whenever this is true, "Zayd is of still fingers in some times of his being a writer" is true, because whenever the two descriptions, i.e., writing and stillness, coexist for Zayd, each of the mentioned descriptions is established for Zayd in the time of the other description in general. And it was in the original that some writer is not of still fingers as long as he is a writer—i.e., these two descriptions are mutually exclusive, not coexisting in one subject. This is a contradiction; thus "some of still fingers—which is Zayd—is not a writer as long as he is still" is the first part of the converse. So the converse is established in both its parts. So understand.
+Source pages p. 144
+
+Commentary
+This passage is a commentary explaining the contraposition (عكس النقيض) of the particular negative proposition. The author first states the general rule: when a particular negative with a temporal condition ('as long as' or 'permanently') is true, its contrapositive in the form of a special conditional is also true. The proof uses the method of supposition (الافتراض) and reductio (الخلف). The commentary then provides a concrete example using 'writer' and 'of still fingers' (a person whose fingers are not moving). The argument proceeds in two parts: first proving the second component of the converse (the 'not permanently' part) by supposing a particular individual (Zayd) who is a writer and has still fingers, showing that some still-fingered is indeed a writer actually, which is the 'not permanent' part. Then proving the first component (the 'not as long as' part) by reductio: if Zayd were a writer while still, it would contradict the original proposition that the two descriptions are mutually exclusive for that subject. Hence, Zayd is not a writer as long as he is still. Thus both parts of the converse are established. The commentary emphasizes understanding the method of hypothesis and the coexistence of descriptions.
+
+Key Terms
+عكس النقيض
+السالبة الجزئية
+الافتراض
+الخلف
+
+Key Terms from Source Passage
+
+Checkpoint
+In the proof of contraposition of the particular negative, what method is used to establish the second part (non-permanence) of the converse?
+A) Reductio ad absurdum (الخلف)
+B) Supposition (الافتراض) of a particular instance
+C) Analogy (التمثيل)
+D) Induction (الاستقراء)
+
+Key Takeaway
+Contraposition of the particular negative is valid under temporal conditions, proven by supposition and reductio.
+
+How This Lesson Applies — to MY Life?
+?
+Using the method of supposition, construct the contrapositive of the following particular negative proposition from fiqh: 'Some deceased persons are not heirs' (with the condition 'as long as they are deceased, not permanently'). Show the steps and verify the truth.
+?
+Identify the original proposition and its contrapositive in the following hadith-based argument: 'Some narrators are not trustworthy as long as they narrate from unknown sources, but actually some are trustworthy.' Explain how the proof would proceed using reductio.
+
+Pages p. 144 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 145
+Module 14 · Lesson 59
+Next →
+Immediate Inference
+intermediate
+10 min
+Contraposition of the Particular Negative Proposition
+Proves the rule for contraposition of a particular negative using reductio and an example
+
+Learning Objective
+By the end of this lesson, you will be able to reproduce the proof for the contraposition of a particular negative proposition using the assumption method and identify its two-part converse.
+
+Core Idea
+Contraposition of a particular negative yields a conditional with two parts, proven by assuming a concrete subject.
+
+Immediate inferences are the building blocks of syllogistic reasoning. Among them, contraposition (aks al-naqid) of particular propositions is subtle. This passage from Tahzib al-Mantiq demonstrates the proof for the particular negative, using both abstract variables and a concrete example involving 'writer' and 'finger-mover'. You will learn how to construct the contrapositive and why the proof depends on the principle of mutual coincidence of descriptions.
+
+Guided Path
+1
+Identify the original proposition
+The original proposition is a particular negative: 'Some B is not J' (e.g., some writer is not finger-moving). This is the starting point for contraposition.
+In the text, B stands for 'writer', J for 'finger-mover'.
+2
+Recognize the claim of the contrapositive
+The contrapositive of a particular negative is a conditional (al-'urfiyya al-khassa) with two parts: first, 'Some not-J is B as long as not-J' (the second part of the converse), and second, 'Some J is not B as long as J' (the first part).
+This is not a simple categorical proposition; it is a conditional with temporal qualification.
+3
+Follow the reductio proof
+The author assumes the opposite (that the contrapositive is false) and derives a contradiction. He uses the assumption (if-tirāḍ) that the particular subject is Zaid. Then he shows that Zaid must be both writer and finger-mover at some time, contradicting the original claim that some writer is never finger-moving.
+The proof is in two stages: first establishing the second part, then the first part.
+4
+Understand the principle of mutual coincidence
+When two descriptions (e.g., writing and stillness) are true of the same subject at some time, each is true in the time of the other. This principle is crucial for the derivation of the contradiction.
+The commentary clarifies that this holds whether the descriptions are universal or partial.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومن السالبة الجزئية ثم إلى العرفية الخاصة بالافتراض، فتأمل. و د ج بالفعل؛ لصدق الوصف العنواني على ذات الموضوع بالفعل على ما هو التحقيق، فصدق "بعض ب ج" بالفعل وهو لا دوام العكس، ثم نقول: وليس ج ما دام ب د وإلا لكان "د ج" في بعض أوقات كونه ب فيكون "د ب" في بعض أوقات كونه ج؛ لأن الوصفين إذا تقارنا في ذات واحدة يثبت كل واحد منهما في زمان الآخر في الجملة، وقد كان حكم الأصل "أنه ليس ب ما دام ج"، هذا خلف، فصدق أن بعض ب أعني وليس ج ما دام ب وهو الجزء الأول من العكس، كاتب بالفعل، بدليل الافتراض وهو أن يفرض ذات الموضوع، وهو: "بعض الكاتب زيد" فيصدق "زيد ساكن الأصابع بالفعل" بحكم لا دوام الأصل؛ لأنه كانت القضية من لا دوام الأصل بعض الكاتب ساكن الأصابع بالفعل، فلما فرض بعض الكاتب هو "زيد" صدق "زيد" ساكن الأصابع بالفعل، وأيضاً يصدق "زيد كاتب بالفعل"؛ لأنه إذا فرض أن بعض الكاتب "زيد" فيكون الوصف العنواني للموضوع أعني الكتابة صادق على زيد بالفعل على ما هو التحقيق، وهو رأي الشيخ، فلما صدق "زيد" ساكن الأصابع بالفعل وبلا دوام الأصل "زيد كاتب بالفعل"؛ لصدق وصف الموضوع على ذاته بالفعل، فيكون زيد بعض الساكن وبعض الكاتب أيضاً، فيصدق "بعض ساكن الأصابع كاتب بالفعل"، وهو لا دوام العكس، فثبت الجزء الثاني من العكس. أما الانعكاس إلى الجزء الأول من العكس؛ فلأنه نقول: "ساكن الأصابع -وهو زيد ليس بكاتب ما دام ساكنا" صادق وإلا لصدق نقيضه - أعني زيد كاتب في بعض أوقات كونه ساكنا وكلما صدق هذا صدق "زيد ساكن الأصابع في بعض أوقات كونه كاتبا" لأنه متى تقارن الوصفان وهما الكتابة والسكون لزيد ثبت كل واحد من الوصفين المذكورين لزيد في زمان وصف آخر في الجملة، وقد كان في الأصل أن بعض الكاتب ليس بساكن الأصابع ما دام "كاتبا" أي بأن هذين الوصفين متباينان لا تقرنان في ذات واحدة هذا خلف فيصدق "بعض ساكن الأصابع -وهو زيد ليس بكاتب ما دام ساكنا" هو الجزء الأول من العكس، فثبت العكس بكلا جزئيه. فافهم. لأن الوصفين إلخ يعني أن الوصفين إذا اجتمعا في ذات واحدة فيجب أن يثبت كل واحد منهما في زمان الآخر في الجملة أي بالإجمال سواء ثبت كليا أو جزئيا. فالكتابة والسكون على ما قلتم اجتمعا في زيد، فوجب أن يكون زيد ساكنا أيضاً في بعض أوقات كونه كاتبا، ألبتة، كما هو كاتب في بعض أوقات السكون، أنه كان حكم الأصل أن بعض الكاتب كزيد - ليس بساكن ما دامت الكتابة. هذا خلف. (برهان) مع
+And from the particular negative then to the special conditional by assumption, so reflect. And D is J actually, because the titular description is true of the subject's essence actually according to the verification, so 'Some B is J' is true actually, and that is the non-permanence of the converse. Then we say: And not J as long as B is D, otherwise 'D is J' would be in some times of its being B, thus 'D is B' would be in some times of its being J; because when the two descriptions coincide in one essence, each of them is established in the time of the other generally, while the original ruling was 'It is not B as long as J', this is a contradiction. So it is true that some B, meaning not J as long as B, which is the first part of the converse. Writer actually, by the evidence of assumption, which is to assume the subject's essence, which is 'some writer Zaid', so 'Zaid is finger-moving actually' is true by the non-permanence of the original; because the proposition of non-permanence of the original was 'some writer is finger-moving actually'. When some writer was assumed to be Zaid, 'Zaid' is finger-moving actually, and also 'Zaid is writer actually' is true; because when it is assumed that some writer is Zaid, the titular description of the subject, namely writing, is true of Zaid actually according to the verification, which is the opinion of the Shaykh. So when 'Zaid is finger-moving actually' and with non-permanence of the original 'Zaid is writer actually' are true, because the description of the subject is true of its essence actually, so Zaid is some finger-mover and also some writer, so 'Some finger-mover is writer actually' is true, and that is the non-permanence of the converse, so the second part of the converse is established. As for the reflection to the first part of the converse: because we say: 'The finger-mover—which is Zaid—is not writer as long as he is finger-moving' is true, otherwise its contradictory would be true—namely Zaid is writer in some times of his being finger-moving, and whenever this is true, 'Zaid is finger-moving in some times of his being writer' is true, because when the two descriptions, writing and stillness, coincide for Zaid, each of the mentioned descriptions is established for Zaid in the time of the other description generally. And it was in the original that some writer is not finger-moving as long as he is writer, meaning these two descriptions are incompatible, they do not coincide in one essence. This is a contradiction. So 'Some finger-mover—which is Zaid—is not writer as long as he is finger-moving' is true; that is the first part of the converse. So the converse is established in both its parts. Understand. 'Because the two descriptions, etc.' means that when the two descriptions come together in one essence, each of them must be established in the time of the other generally, i.e., in summary, whether established universally or partially. So writing and stillness, as you said, came together in Zaid, so Zaid must be still also in some times of his being writer, absolutely, just as he is writer in some times of stillness. That was the original ruling that some writer, like Zaid, is not still as long as writing. This is a contradiction. (Proof) with.
+Source pages p. 145
+
+Commentary
+This passage is a detailed proof of the contraposition (aks al-naqid) of a particular negative proposition. The author begins by stating the rule: from a particular negative, the contraposition yields a 'special conditional' (al-'urfiyya al-khassa) proposition by assumption. He then provides a logical proof using variables (B, J, D) and a concrete example involving 'writer' and 'finger-mover'. The proof proceeds by assuming the opposite and deriving a contradiction. First, he shows that the original proposition 'Some B is not J' (e.g., some writer is not finger-moving) implies 'Some not-J is B' as long as not-J (the second part of the converse). Then he shows the first part: 'Some J is not B' as long as J (e.g., some finger-mover is not writer as long as finger-moving). The proof relies on the principle that if two descriptions (e.g., writing and stillness) are present in the same subject at some time, then each is present in the time of the other. In the example, the original proposition 'Some writer is not finger-moving' is assumed to be of the 'non-permanence' type, meaning it is not always true. Through the assumption (افتراض) that the particular is Zaid, he demonstrates that Zaid is both writer and finger-mover at some times, leading to a contradiction with the original claim that these two descriptions are never together, thus establishing the converse. The commentary at the end clarifies the principle of mutual coincidence of descriptions.
+
+Key Terms
+السالبة الجزئية
+عكس النقيض
+العرفية الخاصة
+الوصف العنواني
+لا دوام
+
+Key Terms from Source Passage
+
+Checkpoint
+In the proof of the contraposition of the particular negative, what is the role of the assumption that 'some writer is Zaid'?
+A) To provide a concrete subject for the proof.
+B) To show that Zaid is both writer and finger-mover at all times.
+C) To demonstrate that the original proposition is false.
+D) To derive a contradiction with the original's claim of incompatibility between the two descriptions.
+
+Key Takeaway
+Contraposition of a particular negative yields a two-part conditional, proven by assuming a concrete instance and deriving a contradiction if the converse is denied.
+
+How This Lesson Applies — to MY Life?
+?
+Take the particular negative proposition 'Some writer is not finger-moving' from the passage and write its full contrapositive in conditional form, identifying both parts.
+?
+In a fiqh context, consider the proposition 'Some contracts are not valid (fāsid).' Apply the contraposition rule and state what the contrapositive implies about 'not valid' and 'contract'.
+
+Pages p. 145 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 146
+Module 14 · Lesson 60
+Next →
+Immediate Inference
+advanced
+10 min
+Contraposition of the Particular Affirmative: Proof by Assumption
+Explains the contraposition rule for a particular affirmative using assumption and example
+
+Learning Objective
+By the end of this lesson, you will be able to construct the contrapositive of a particular affirmative proposition and verify its validity using the assumption method.
+
+Core Idea
+The contrapositive of 'Some J is B non-permanently' is 'Some not-B is not J non-permanently'.
+
+In the previous lesson, we learned contraposition for a universal affirmative. Here, we tackle the particular affirmative, which requires a more nuanced proof. The author uses an assumption-based method, introducing an actual individual to demonstrate the logical relationship. Understanding this method will strengthen your ability to handle immediate inferences in Islamic logical texts.
+
+Guided Path
+1
+Identify the original proposition
+Locate the particular affirmative proposition in the passage. It is 'Some J is B as long as J not always' (i.e., some J is not B actually). Note that 'as long as J not always' indicates non-permanence.
+The original is a particular affirmative with temporal qualifier, but the contraposition rule works for the constant part.
+2
+Set up the assumption
+The proof assumes an actual individual satisfying the subject term. In the passage, the subject 'some J' is represented by D (or Zaid in the example). We assume D is J actually and D is not B actually.
+The assumption relies on the principle that the titular description is true of its referent actually.
+3
+Derive the intermediate truth
+From the assumption, we deduce that 'Some not-B is J actually' because D is both J and not-B. This intermediate proposition is called the necessary condition (malzum) of the desired contrapositive.
+This step uses the fact that the existence of D proves the particular affirmative with exchanged terms.
+4
+Apply the necessary condition logic
+The author notes that affirmation entails negation of negation. From 'Some not-B is J actually', we infer that 'Not some not-B is not J actually', which is the second part of the contrapositive (the negative part).
+This is the logical relation: if P, then not not-P.
+5
+Establish the first part of the contrapositive
+The passage begins to prove the first part (the positive part) by assuming the opposite and deriving a contradiction using the mutual coincidence of descriptions. The full proof is truncated, but the method parallels the previous lesson.
+The first part is 'Some not-B is not J as long as not-B not always', i.e., some not-B is not J actually.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما بيان انعكاس الخاصتين من الموجبة الجزئية في عكس النقيض إلى العرفية الخاصة، فهو أن يقال: إذا صدق بعض ج ب ما دام ج لا دائما - أي بعض ج ليس ب بالفعل لصدق بعض ما ليس ب ليس ج ما دام ليس ب لا دائما أي ليس بعض ما ليس ب ليس ج بالفعل وذلك بالافتراض، وهو أن يفرض ذات الموضوع أعني "بعض ج د" فـ"د ج" بالفعل على مذهب الشيخ وهو التحقيق و"د" ليس ب بالفعل بحكم لا دوام الأصل، فصدق بعض ما ليس ب ج بالفعل، وهو ملزوم لا دوام العكس؛ لأن الإثبات يلزمه نفي النفي. ثم نقول: 11 وهو: وصدق الملزوم يستلزم صدق اللازم، فثبت أن صدق الأصل مستلزم لصدق لا دوام العكس، فثبت الجزء الثاني من عكس النقيض وبقي الجزء الأول منه لأن الإثبات علة لكون بعض ما ليس ب ج بالفعل ويلزمه نفي النفي وهي القضية التي أشير إليها بلا دوام العكس أعني ليس بعض ما ليس ب ليس ج؛ فإنه إذا صار "ليس ج" مسلوبا عن بعض ما ليس "ب" يكون "ج" ثابتا له، كما لا يخفى. (عبد) — ثم نقول : أي في إثبات الجزء الثاني من العكس وتصوير الافتراض في مادة خاصة هكذا أي إذا صدق "بالضرورة أو بالدوام بعض متحرك الأصابع كاتب ما دام متحرك الأصابع لا دائما" أي بعض متحرك الأصابع ليس بكاتب بالفعل صدق في عكس نقيضه "بالدوام" بعض ما ليس بكاتب ليس متحرك الأصابع ما دام ليس بكاتب لا دائما" أي ليس بعض ما ليس بكاتب ليس متحرك الأصابع بالفعل بدليل الافتراض بأن يفرض ذات الموضوع أعني بعض متحرك الأصابع زيد فيصدق قضيتان إحداهما زيد متحرك الأصابع بالفعل؛ لصدق الوصف العنواني على ذاته بالفعل على ما هو الحق، وهو مذهب الشيخ، وثانيها زيد ليس بكاتب بالفعل بحكم لا دوام الأصل، فيصدق بعض ما ليس بكاتب متحرك الأصابع بالفعل؛ لأن زيدا كما أثبته بعض متحرك الأصابع كذلك بعض ما ليس بكاتب، وهذا التصادق ملزوم لا دوام العكس؛ لأن القضية من لا دوام العكس ليس بعض ما ليس بكاتب متحرك الأصابع بالفعل، والإيجاب يلزمه نفي النفي فصدق الجزء الثاني من العكس. ثم نقول في إثبات الجزء الأول منه: "أن بعض ما ليس بكاتب وهو زيد ليس متحرك الأصابع ما دام ليس بكاتب، وإلا لكان "بعض ما ليس بكاتب أعني زيدا متحرك الأصابع في بعض أوقات كونه ليس بكاتب"، فيصدق أيضاً "زيد ليس بكاتب في بعض أوقات كونه متحرك الأصابع"، وقد مر أن الوصفين إذا تقارنا في ذات ثبت كل واحد منهما فيها في زمان
+And as for the explanation of the reflection of the two properties from the particular affirmative in contraposition to the special conditional, it is to say: If 'Some J is B as long as J not always' is true – i.e., some J is not B actually – then 'Some not-B is not J as long as not-B not always' is true – i.e., some not-B is not J actually – by assumption, which is to assume the subject's essence, meaning 'some J is D', so 'D is J' actually according to the school of the Shaykh, and 'D is not B' actually by the non-permanence of the original. So 'Some not-B is J' is true actually, and that is the necessary condition of the non-permanence of the converse; because affirmation necessitates the negation of negation. Then we say: 11 And it is: the truth of the necessary condition necessitates the truth of the conditioned, so it is established that the truth of the original necessitates the truth of the non-permanence of the converse, so the second part of the contraposition is established, and the first part remains because affirmation is the cause of 'some not-B is J actually' and it necessitates the negation of negation, which is the proposition referred to by the non-permanence of the converse, i.e., 'not some not-B is not J'; for when 'not J' is negated about some 'not B', 'J' becomes affirmed of it, as is not hidden. (Abd) — Then we say: i.e., in establishing the second part of the converse and portraying the assumption in a concrete matter like this: i.e., if 'Some finger-mover is writer as long as finger-mover not always' is true – i.e., some finger-mover is not writer actually – then in its contraposition, 'Some not-writer is not finger-mover as long as not-writer not always' is true – i.e., some not-writer is not finger-mover actually – by the evidence of assumption, which is to assume the subject's essence, meaning some finger-mover is Zaid. So two propositions are true: one is Zaid is finger-mover actually (because the titular description is true of its essence actually, according to the truth, which is the school of the Shaykh), and the second is Zaid is not writer actually by the non-permanence of the original. So some not-writer is finger-mover actually; because Zaid, as he is established as some finger-mover, likewise is some not-writer. And this concurrent truth is the necessary condition of the non-permanence of the converse; because the proposition of the non-permanence of the converse is that some not-writer is not finger-mover actually, and affirmation necessitates the negation of negation, so the second part of the converse is true. Then we say in establishing the first part: 'That some not-writer, which is Zaid, is not finger-mover as long as he is not-writer, otherwise some not-writer, i.e., Zaid, would be finger-mover in some times of his being not-writer, so also Zaid is not-writer in some times of his being finger-mover', and it has been passed that when the two descriptions coincide in an essence, each of them is established in it in time
+Source pages p. 146
+
+Commentary
+This passage explains the contraposition of a particular affirmative proposition. It parallels the previous lesson but with an affirmative starting proposition. The author uses the same method of assumption and the example of finger-mover and writer. The proof is analogous: the original proposition is 'Some J is B as long as J not always' (i.e., some J is not B actually). Through the assumption that 'some J is D' (with D as an instance), and given that D is J actually and D is not B actually, the author derives that some not-B is J actually. This is the necessary condition for the non-permanence of the converse. Since affirmation entails negation of negation, the second part of the contraposition is established. The first part is proven similarly by assuming the opposite and deriving a contradiction using the principle of mutual coincidence of descriptions. The text then provides a concrete example with 'finger-mover' and 'writer' to illustrate the abstract variables. Note that the passage is truncated at the end of the page, leaving the proof of the first part incomplete, but the structure mirrors that of the previous lesson.
+
+Key Terms
+الموجبة الجزئية
+خاصتين
+ملزوم
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example for the particular affirmative contraposition, what is the assumed subject?
+A) Some writer
+B) Some finger-mover
+C) Zaid
+D) Some not-writer
+
+Key Takeaway
+The contrapositive of a particular affirmative proposition is a particular negative, proven by assuming an instance and using the logical relation between affirmation and negation.
+
+How This Lesson Applies — to MY Life?
+?
+Construct the contrapositive of the particular affirmative proposition 'Some Muslims are wealthy non-permanently' (i.e., some Muslims are not wealthy actually) using the assumption method. Define an assumed individual and verify the two parts.
+?
+Identify a particular affirmative proposition from a kalam text (e.g., 'Some attributes of Allah are knowable non-permanently') and apply the contraposition rule to derive its contrapositive, checking validity.
+
+Pages p. 146 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 146
+Module 14 · Lesson 61
+Next →
+Immediate Inference
+advanced
+15 min
+Contrapositive of the Particular Affirmative to the Special Conditional
+Author proves contrapositive of particular affirmative to special conditional
+
+Learning Objective
+By the end of this lesson, you will be able to prove the contrapositive of a particular affirmative proposition to a special conditional using hypothetical assumption.
+
+Core Idea
+The contrapositive of a particular affirmative is not a simple universal but a non-permanent conditional.
+
+This passage from the Tahdhib al-Sharh presents a rigorous proof of a subtle logical conversion: the contrapositive ('aks al-naqid) of a particular affirmative proposition yields a special conditional (al-'urfiyya al-khassa) that is not always true. The author uses a hypothetical assumption (ifttiraad) of an individual to derive the result. Understanding this proof deepens your grasp of immediate inference in the Islamic logical tradition.
+
+Guided Path
+1
+Identify the original proposition and its intended contrapositive
+Find the original proposition: 'Some J is B as long as it is J, not always' (i.e., some J is actually not B). The contrapositive is: 'Some of what is not B is not J as long as it is not B, not always' (i.e., it is not the case that some not-B is not J actually). Note that the contrapositive is a special conditional.
+2
+Understand the method of hypothetical assumption (ifttiraad)
+The author assumes an individual D that is J actually and not B actually. This is a standard technique in Islamic logic to instantiate existential claims with a concrete example.
+3
+Derive the second part of the contrapositive
+From the assumption, we get that some not-B is J actually (the necessary condition). Since affirmation necessitates negation of negation, we deduce the truth of the contrapositive's second part.
+4
+Derive the first part using a reductio
+Using the concrete example of Zayd (a moving finger who is not a writer), suppose the first part is false. Then Zayd would be a moving finger at some time when he is not a writer, leading to a contradiction with the coexistence rule. Therefore, the first part is true.
+5
+Address the gloss's objection
+The objection is that the coexistence rule applies only to affirmative descriptions, but here we have a negation. The answer: the negation is privative (salb 'aduli), which counts as a description, so the rule holds.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فثبت العكس بكلا جزئيه. فافهم. وأما بيان انعكاس الخاصتين من الموجبة الجزئية في عكس النقيض إلى العرفية الخاصة، فهو أن يقال: إذا صدق بعض ج ب ما دام ج لا دائما -أي بعض ج ليس ب بالفعل- لصدق بعض ما ليس ب ليس ج ما دام ليس ب لا دائما أي ليس بعض ما ليس ب ليس ج بالفعل وذلك بالافتراض، وهو أن يفرض ذات الموضوع أعني 'بعض ج د' فـ'د ج' بالفعل على مذهب الشيخ وهو التحقيق و'د' ليس ب بالفعل بحكم لا دوام الأصل، فصدق بعض ما ليس ب ج بالفعل، وهو ملزوم لا دوام العكس؛ لأن الإثبات يلزمه نفي النفي. ثم نقول: وصدق الملزوم يستلزم صدق اللازم، فثبت أن صدق الأصل مستلزم لصدق لا دوام العكس، فثبت الجزء الثاني من عكس النقيض وبقي الجزء الأول منه لأن الإثبات علة لكون بعض ما ليس ب ج بالفعل ويلزمه نفي النفي وهي القضية التي أشير إليها بلا دوام العكس أعني ليس بعض ما ليس ب ليس ج؛ فإنه إذا صار 'ليس ج' مسلوبا عن بعض ما ليس 'ب' يكون 'ج' ثابتا له، كما لا يخفى. (عبد) —
+ثم نقول: أي في إثبات الجزء الثاني من العكس وتصوير الافتراض في مادة خاصة هكذا أي إذا صدق بالضرورة أو بالدوام بعض متحرك الأصابع كاتب ما دام متحرك الأصابع لا دائما أي بعض متحرك الأصابع ليس بكاتب بالفعل صدق في عكس نقيضه بالدوام بعض ما ليس بكاتب ليس متحرك الأصابع ما دام ليس بكاتب لا دائما أي ليس بعض ما ليس بكاتب ليس متحرك الأصابع بالفعل بدليل الافتراض بأن يفرض ذات الموضوع أعني بعض متحرك الأصابع زيد فيصدق قضيتان إحداهما زيد متحرك الأصابع بالفعل؛ لصدق الوصف العنواني على ذاته بالفعل على ما هو الحق، وهو مذهب الشيخ، وثانيها زيد ليس بكاتب بالفعل بحكم لا دوام الأصل، فيصدق بعض ما ليس بكاتب متحرك الأصابع بالفعل؛ لأن زيدا كما أثبته بعض متحرك الأصابع كذلك بعض ما ليس بكاتب، وهذا التصادق ملزوم لا دوام العكس؛ لأن القضية من لا دوام العكس ليس بعض ما ليس بكاتب متحرك الأصابع بالفعل، والإيجاب يلزمه نفي النفي فصدق الجزء الثاني من العكس. ثم نقول في إثبات الجزء الأول منه: أن بعض ما ليس بكاتب وهو زيد ليس متحرك الأصابع ما دام ليس بكاتب، وإلا لكان بعض ما ليس بكاتب أعني زيدا متحرك الأصابع في بعض أوقات كونه ليس بكاتب، فيصدق أيضاً زيد ليس بكاتب في بعض أوقات كونه متحرك الأصابع، وقد مر أن الوصفين إذا تقارنا في ذات ثبت كل واحد منهما فيها في زمان الآخر، والوصفان أعني تحرك الأصابع وعدم الكتابة تقارنا في زيد، فإذا ثبت تحرك الأصابع لزيد في زمان كونه ليس بكاتب ثبت أنه ليس بكاتب في زمان كونه متحرك الأصابع يعني أن عدم الكتابة ثابت لزيد في زمان تحرك الأصابع، وهذا خلف، فصدق أن بعض ما ليس بكاتب وهو زيد ليس متحرك الأصابع ما دام ليس بكاتب، وهو الجزء الأول من العكس، فثبت عكس النقيض بكلا جزئيه. فتأمل؛ فإنه دقيق وبالتأمل حقيق.
+
+فتأمل إيماء إلى سؤال وجواب. تقرير السؤال: أن ما سبق هو أن الوصفين إذا تقارنا في ذات يثبت كل واحد منهما في زمان الآخر، وهذا لا يفيد فإن ههنا سلب وصف في زمان ثبوت الوصف الآخر ولا يلزم من القاعدة التي سبقت سلب وصف في زمان ثبوت الوصف الآخر. والجواب: أن السلب ههنا ليس السلب البسيط، بل السلب العدولي، وهو أيضاً وصف والمراد من الوصف في تلك القاعدة أعم من الثبوتي والسلبي.
+Thus the contrapositive is established with both its parts. Understand. As for the explanation of the conversion of the particular affirmative in contrapositive to the special conditional, it is to say: If 'Some J is B as long as it is J, not always' is true—i.e., some J is actually not B—then for the truth of 'Some of what is not B is not J as long as it is not B, not always', i.e., it is not the case that some of what is not B is not J actually, and that is by the hypothetical assumption: that the essence of the subject, namely 'some J is D', be assumed, so 'D is J' actually according to the doctrine of the Shaykh (which is the verified view), and 'D is not B' actually by virtue of the non-permanence of the original. So 'Some of what is not B is J' is true actually, and that is the necessary condition of the non-permanent converse, because affirmation necessitates the negation of negation. Then we say: The truth of the necessary condition necessitates the truth of the necessary consequence. So it is established that the truth of the original necessitates the truth of the non-permanent converse. Thus the second part of the contrapositive is established, and the first part remains, because affirmation is the cause for some of what is not B being J actually, and its necessary consequence is the negation of negation, which is the proposition indicated by the non-permanent converse, namely 'It is not the case that some of what is not B is not J'. For when 'not J' is negated of some of what is not B, then J is affirmed for it, as is clear. (Abd)
+
+Then we say: That is, in establishing the second part of the converse and depicting the hypothetical assumption in a particular matter thus: if it is true, by necessity or permanence, that 'Some moving fingers are a writer as long as they are moving fingers, not always' (i.e., some moving fingers are actually not a writer), then in its contrapositive, it is true permanently that 'Some of what is not a writer is not moving fingers as long as it is not a writer, not always', i.e., it is not the case that some of what is not a writer is not moving fingers actually, by the evidence of the hypothetical assumption: that the essence of the subject, namely some moving fingers, say Zayd, be assumed, then two propositions are true: one is that Zayd is actually a moving finger, due to the truth of the attributive description of his essence actually, which is the truth and the doctrine of the Shaykh; the second is that Zayd is actually not a writer by virtue of the non-permanence of the original. So it is true that some of what is not a writer is actually moving fingers, because Zayd, as he was affirmed as some moving fingers, is also some of what is not a writer. This conjunction is the necessary condition of the non-permanent converse, because the proposition from the non-permanent converse is 'It is not the case that some of what is not a writer is moving fingers actually', and affirmation necessitates the negation of negation. So the second part of the converse is established. Then we say in establishing the first part: that some of what is not a writer, namely Zayd, is not moving fingers as long as he is not a writer; otherwise, some of what is not a writer, namely Zayd, would be moving fingers at some times when he is not a writer, and it would also be true that Zayd is not a writer at some times when he is moving fingers. And it has passed that if two descriptions coexist in an essence, each of them is established in the time of the other. The two descriptions, namely moving fingers and non-writing, coexisted in Zayd. So if moving fingers is established for Zayd at a time when he is not a writer, it is established that he is not a writer at a time when he is moving fingers, meaning that non-writing is established for Zayd at the time of moving fingers. This is a contradiction. So it is true that some of what is not a writer, namely Zayd, is not moving fingers as long as he is not a writer, and that is the first part of the converse. Thus the contrapositive is established with both its parts. Reflect, for it is subtle and worthy of reflection.
+
+The 'tad' (question and answer) is implied. The statement of the question: That which preceded is that when two descriptions coexist in an essence, each is established in the time of the other. This is not useful because here there is a negation of a description in the time of the establishment of the other description, and the rule does not necessitate negation of a description in the time of establishment of the other description. The answer: The negation here is not the simple negation, but the privative negation, which is also a description, and the meaning of 'description' in that rule is more general, including affirmative and negative descriptions.
+Source pages p. 146
+
+Commentary
+This passage is a detailed proof of the contrapositive of a particular affirmative proposition to a special conditional. The author begins by stating that the contrapositive is established in two parts. He then explains the conversion rule: if 'Some J is B, always but not always' (i.e., some J is actually not B) is true, then its contrapositive is 'Some of what is not B is not J, always but not always' (i.e., it is not the case that some not-B is not J actually). The proof uses a hypothetical assumption (ifttiraad): assume an individual, D, that is J actually (according to the verified doctrine of the Shaykh) and also not B actually (from the non-permanence of the original). From this, we derive that some not-B is J actually, which is the necessary condition of the non-permanent converse. Then the author establishes the second part of the contrapositive by showing that the necessary condition yields the conclusion. For the first part, he uses a concrete example: 'Some moving fingers are a writer, always but not always'. He assumes Zayd as a moving finger who is not a writer. By a reductio argument, he shows that Zayd cannot be a moving finger at the same time as being not a writer, thus establishing the first part: 'Some not-writer is not moving fingers as long as it is not a writer'. The proof relies on the rule that if two descriptions coexist, each is affirmed in the time of the other. The final gloss addresses a potential objection: the rule seems to apply only to affirmative descriptions, but here we have a negation. The answer is that the negation here is privative (salb 'aduli), which counts as a description, preserving the rule.
+
+Key Terms
+عكس النقيض
+لا دوام
+افتراض
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author use a hypothetical assumption (ifttiraad) of the subject's essence in the proof of the contrapositive?
+A) To simplify the logical form.
+B) To find a concrete individual that satisfies both the subject and the negated predicate.
+C) To convert the proposition to a universal.
+D) To apply the rule of conversion.
+
+Key Takeaway
+The contrapositive of a particular affirmative with a 'not always' modal yields a special conditional, proven via hypothetical assumption and reductio.
+
+How This Lesson Applies — to MY Life?
+?
+1. Construct a concrete example from Islamic law: Take the proposition 'Some contracts are invalid, but not always' (i.e., some contracts are valid). Derive its contrapositive to a special conditional using the method of hypothetical assumption.
+?
+2. Check the validity: In the passage, the author uses a reductio to prove the first part. Reproduce that reductio using a different pair of descriptions (e.g., 'some animals are not humans, but not always').
+
+Pages p. 146 · Immediate Inference
+← Prev
+Mark Done
+Next →

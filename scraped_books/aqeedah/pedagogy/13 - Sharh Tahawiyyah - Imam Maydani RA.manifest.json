@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:57:50Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Tahawiyyah%20-%20Imam%20Maydani%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/pedagogy/13 - Sharh Tahawiyyah - Imam Maydani RA",
+  "output_bytes": 4631601,
+  "output_sha256": "12053f0f37d043282eb5b1c8cec44a8cde232ab561e3c3ad98137966422a15a2",
+  "checks": {
+    "catalog_expected_lessons": 603,
+    "course_reported_lessons": 603,
+    "index_lessons": 603,
+    "full_lessons": 603,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 457,
+    "sources": 457
+  }
+}

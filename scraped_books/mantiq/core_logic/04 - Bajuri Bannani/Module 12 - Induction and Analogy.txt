@@ -1,0 +1,1328 @@
+← Prev
+p. 33
+Module 12 · Lesson 1
+Next →
+Induction and Analogy
+beginner
+6 min
+Induction and Analogy: Non-Demonstrative Arguments
+Author defines induction and analogy, noting they do not yield certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish induction from analogy and explain why neither produces certainty.
+
+Core Idea
+Induction and analogy are useful but fall short of demonstrative certainty.
+
+In this lesson, we examine two types of inference that are common in Islamic legal and theological reasoning but do not produce certain knowledge. The author defines induction (istiqra') as reasoning from particulars to a universal conclusion, and analogy (tamthil) as drawing a conclusion about one particular based on another due to a shared property. Understanding their limitations helps you know when a proof is decisive.
+
+Guided Path
+1
+Identify the inference direction in induction
+Induction moves from particular cases (e.g., Zayd is mortal, Amr is mortal) to a universal claim (all humans are mortal). Note that the conclusion is not guaranteed by the premises.
+Complete induction (surveying all individuals) yields certainty, but incomplete induction is common.
+2
+Contrast induction with the logical syllogism
+The author calls the syllogism 'the converse' of induction: it goes from universal to particular. The syllogism can yield certainty if its premises are certain.
+This is the qiyas mantiqi already covered.
+3
+Analyze analogy (tamthil)
+Analogy applies a ruling from one particular to another because of a shared attribute (jami'). For example, wine is forbidden due to intoxication; nabidh shares intoxication, so it is also forbidden.
+In fiqh, this is called qiyas, but here it is contrasted with logical syllogism.
+4
+Recognize why these do not yield certainty
+The text states explicitly that neither induction nor analogy gives certainty. For analogy, the shared property may not be the real cause ('illah) of the ruling. For induction, the sample may not be exhaustive.
+Certainty belongs only to demonstrations (burhan) with necessary premises.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَإِنْ بِجُزْنِي عَلَى كُلِّ اسْتُدِلْ فَذَا بِـ : «الاسْتِقْرَاءِ عِنْدَهُمْ عُقِلْ (۱۱۲) وَعَكْسُهُ يُدْعَى : القِيَاسَ المَنْطِقِي» وَهُوَ الَّذِي قَدَّمْتُهُ فَحَقِّقِ (۱۱۳) وَحَيْثُ جُزْئِيٌّ عَلَى جُزْئِي حُمِلْ لِجَامِعٍ فَذَاكَ : تَمْثِيلٌ جُعِلْ (١١٤) وَلَا يُفيدُ القَطعَ بِالدَّلِيلِ قِيَاسُ الاسْتِقْرَاءِ، وَالتَّمْثِيلِ
+And if by a particular (premise) one infers a universal (conclusion), that is understood among them as 'induction'. (112) And its converse is called 'logical syllogism'; and it is what I have presented, so verify it. (113) And whenever a particular (proposition) is applied to another particular because of a common (property), that is made 'analogy'. (114) And induction and analogy do not yield certainty as a proof.
+Source pages p. 33
+
+Commentary
+This passage defines two types of non-demonstrative argument: induction (istiqra') and analogy (tamthil). Induction is reasoning from particular instances to a universal conclusion, e.g., from 'Zayd is mortal' and 'Amr is mortal' to 'All humans are mortal'. Its converse (i.e., deduction from a universal to a particular) is the logical syllogism (qiyas mantiqi) which the author has already covered. Analogy (tamthil) is reasoning from one particular to another particular based on a common property (jami'), e.g., arguing that wine is forbidden because it is intoxicating, and then applying that to nabidh (date-wine) since it shares the same property. The author emphasizes that neither induction nor analogy provides certainty; only demonstration (burhan) using certain premises does.
+
+Key Terms
+استقراء
+تمثيل
+قياس منطقي
+جامع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which of the following does NOT yield certainty?
+A) Induction (istiqra')
+B) Analogy (tamthil)
+C) Both induction and analogy
+D) The logical syllogism (qiyas mantiqi)
+
+Key Takeaway
+Induction and analogy are valuable reasoning tools but do not produce certain knowledge; only a valid deductive syllogism with certain premises does.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an example of analogy (tamthil) from Islamic law by identifying an original case, a common property (jami'), and a new case. Explain why this analogy does not give certainty.
+?
+Given the argument: 'Zayd and Amr are mortal; therefore all humans are mortal.' Identify it as induction or deduction, and state whether it yields certainty according to the text.
+
+Pages p. 33 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 330
+Module 12 · Lesson 2
+Next →
+Induction and Analogy
+intermediate
+7 min
+The Weakness of Induction (Istiqra') in Classical Logic
+Author defines and critiques istiqra' as probabilistic
+
+Learning Objective
+By the end of this lesson, you will be able to identify an inductive argument and explain why it yields only probability, not certainty, using the example of animal jaw movement.
+
+Core Idea
+Induction is inherently weak: one counterexample suffices to refute a universal claim.
+
+In classical Islamic logic, induction (istiqra') is defined as inferring a universal judgment from particular instances. While it may seem plausible, the logicians regard it as unreliable because it does not guarantee exhaustiveness. In this lesson, we will examine the definition given by the author, the famous example of animal jaw movement, and the critical verdict that both interpretations of induction are weak.
+
+Guided Path
+1
+Identify the definition of istiqra'
+The author states that arguing from a particular judgment to a universal is called induction. Locate the line 'And if one argues from a particular to a universal, then this is known among them as induction.'
+This is the simplest definition; note that it is inference, not exhaustive enumeration.
+2
+Understand the grammatical parsing
+The commentator explains that 'bi-juz'i' and 'ala kulli' are attached to 'ustudilla'. The implicit meaning is inferring a particular judgment to a universal judgment. Recognize that the particular and universal are attributes of an omitted noun (judgment).
+The phrase 'bi-juz'i 'ala kulli' is highly condensed; the expansion reveals the logical structure.
+3
+Examine the example
+The text gives an example: observing that humans, donkeys, and mules move their lower jaws when chewing leads to the universal claim that all animals do so. However, the crocodile is a counterexample—it moves its upper jaw. This shows the inductive leap is fallible.
+The example uses real animals; the crocodile (al-nimsah) is specifically mentioned as an exception.
+4
+Grasp the critique
+The author concludes that both definitions of induction (from particular to universal, and universal based on most particulars) are weak (ḍa'īf). The reason is that a single counterexample disproves the universal, so induction yields only probability, not certainty.
+The critique is epistemological: induction lacks certainty (yaqīn).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّ اسْتُدِلْ فَذَا بِالِاسْتِقْرَاءِ عِنْدَهُمْ عُقِلْ. قَوْلُهُ : (وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّ اسْتُدِلْ) لَا يَخْفَى أَنَّ كُلًّا مِنْ قَوْلِهِ : بِجُزْئِيٍّ وَقَوْلِهِ : «عَلَى كُلٍّ» مُتَعَلِّقٌ بِقَوْلِهِ : «اسْتُدِلْ»، وَالجُزْئِيُّ كَالكُلِّي صِفَةٌ لِمَوْصُوفٍ مَحْذُوفٍ، وَالتَّقْدِيرُ : وَإِنِ اسْتُدِلَّ بِحُكْمِ جُزْئِيٍّ عَلَى حُكْمِ كُلِّيٍّ. وَقَوْلُهُ : (فَذَا) بِالِاسْتِقْرَاءِ عِنْدَهُمْ عُقِلْ اسْمُ الإشَارَةِ عَائِدٌ لِلاسْتِدْلَالِ المَفْهُومِ مِنْ قَوْلِهِ : اسْتُدِلْ، وَالجَارُ وَالمَجْرُورُ مُتَعَلِّقٌ بِقَوْلِهِ : «عُقِلْ» عَلَى تَضْمِينِهِ مَعْنَى سُمِّيَ، وَالضَّمِيرُ لِلْمَنَاطِقَةِ. وَصَرِيحُ هَذَا : أَنَّ المُصَنِّفَ يُفَسِّرُ الِاسْتِقْرَاءَ بِالِاسْتِدْلَالِ بِالحُكْمِ الجُزْئِيِّ عَلَى الحُكْمِ الكُلِّيِّ؛ كَمَا فِي قَوْلِكَ : كُلُّ حَيَوَانٍ يُحَرِّكُ فَكَّهُ الأَسْفَلَ عِنْدَ المَضْغِ؛ لِأَنَّ الإِنْسَانَ يُحَرِّكُ فَكَّهُ الأَسْفَلَ عِنْدَ المَضْغِ، وَالحِمَارَ يُحَرِّكُ فَكَّهُ الأَسْفَلَ عِنْدَ المَضْغِ، وَالبَغْلَ يُحَرِّكُ فَكَّهُ الأَسْفَلَ عِنْدَ المَضْغِ، وَهَكَذَا بَعْدَ أَنْ تَتَبَّعْتَ مُعْظَمَ الجُزْئِيَّاتِ، فَوَجَدْتَهُ كَذَلِكَ، فَظَنَنْتَ أَنَّ سَائِرَ الجُزْئِيَّاتِ مِثْلُ ذَلِكَ المُعْظَمِ، مَعَ أَنَّ بَعْضَ الأَفْرَادِ لَيْسَ كَذَلِكَ كَـ «النِّمْسَاحِ»، فَإِنَّهُ يُحَرِّكُ فَكَّهُ الأَعْلَى عِنْدَ المَضْغِ. هَذَا، وَفَسَّرَ بَعْضُهُمُ الِاسْتِقْرَاءَ بِـ : الحُكْمُ الكُلِّيُّ عَلَى الكُلِّيِّ بِمَا وُجِدَ فِي أَكْثَرِ جُزْئِيَّاتِهِ، وَكِلَا هَذَيْنِ التَّفْسِيرَيْنِ ضَعِيفٌ.
+And if one argues from a particular to a universal, then this is known among them as induction. His saying: (And if one argues from a particular to a universal) It is not hidden that each of his saying 'by a particular' and his saying 'upon a universal' is attached to his saying 'one argues', and 'particular' like 'universal' is an attribute of an omitted described noun, and the estimate is: And if one argues by a judgment of a particular upon a judgment of a universal. And his saying: (then this) by induction is known among them—the demonstrative pronoun refers to the inference understood from his saying 'one argues', and the preposition and its object are attached to his saying 'is known' on the basis of including the meaning 'is named', and the pronoun is for the logicians. And the explicit meaning of this: that the author interprets induction as inference by the particular judgment upon the universal judgment; as in your saying: Every animal moves its lower jaw when chewing; because the human moves its lower jaw when chewing, and the donkey moves its lower jaw when chewing, and the mule moves its lower jaw when chewing, and so on after you have examined most of the particulars, and you found it to be so, then you thought that all the particulars are like that majority, even though some individuals are not like that, such as the crocodile, for it moves its upper jaw when chewing. This, and some of them interpreted induction as: the universal judgment upon the universal by what is found in most of its particulars, and both of these interpretations are weak.
+Source pages p. 330
+
+Commentary
+This passage defines and critiques the logical concept of istiqra' (induction). It begins by citing the matn line: 'And if one argues from a particular to a universal, then this is called induction among them.' The commentary then explains the grammatical parsing: 'bi-juz'i' and 'ala kulli' are both attached to 'ustudilla' (one argues). The implicit meaning is inferring a particular judgment to a universal judgment. The demonstrative 'fa-dha' refers to this type of inference, and 'bi-l-istiqra'' is attached to 'uqila' (is known) implying 'is named'. The author explicitly interprets induction as reasoning from a particular judgment to a universal one. An example is given: observing that humans, donkeys, and mules move their lower jaws when chewing, and generalizing that all animals do so. However, the crocodile is a counterexample—it moves its upper jaw. Thus, induction is not certain. The passage then notes a second interpretation: induction as a universal judgment on a universal based on what is found in most of its particulars. It concludes that both interpretations are weak (ḍa'īf), because induction yields only probability, not certainty.
+
+Key Terms
+الِاسْتِقْرَاء
+جُزْئِي
+كُلِّي
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the text consider the interpretation of istiqra' as inference from particular to universal to be weak?
+A) Because the logicians disagree on its definition.
+B) Because a single counterexample can refute the universal conclusion.
+C) Because it requires examining all particulars, which is impossible.
+D) Because it is only used in poetry.
+
+Key Takeaway
+Induction (istiqra') from particulars to a universal is probabilistic and weak because a single counterexample disproves the universal.
+
+How This Lesson Applies — to MY Life?
+?
+Find an example of an inductive argument from the field of hadith criticism (e.g., the conclusion that all narrators with a certain characteristic are reliable based on many examples). Identify the particular instances and the universal claim, then propose a potential counterexample that would weaken the induction.
+?
+Consider the following argument: 'Most Companions memorized the Quran; therefore, all Companions memorized the Quran.' Explain why this is a weak induction using the same reasoning as the passage.
+
+Pages p. 330 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 330
+Module 12 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+8 min
+Understanding the Definition of Induction (Istiqra')
+Author defines induction and critiques weak definitions.
+
+Learning Objective
+By the end of this lesson, you will be able to define induction (al-istiqra') as per al-Sullam and identify its logical structure in a given example.
+
+Core Idea
+Induction infers a universal from observed particulars, but one counterexample destroys certainty.
+
+The Sullam defines induction as inferring a universal judgment from a particular one. This lesson unpacks that definition, walks through the animal example, and highlights the crucial role of counterexamples. You will see how induction differs from deduction and why it yields only probability.
+
+Guided Path
+1
+Parse the verse on induction
+The verse says: 'And if one infers by a particular upon a universal, this is called induction among them.' Identify the key elements: 'particular' (juz'i) and 'universal' (kulli).
+The commentary explains that 'particular' and 'universal' are attributes of an omitted noun 'judgment'.
+2
+Extract the definition
+Induction is an inference from a particular judgment to a universal judgment. That is, you observe some instances and then claim that all instances share that property.
+This is not deduction; the conclusion goes beyond the premises.
+3
+Examine the example: animals moving lower jaw
+The author gives: 'Every animal moves its lower jaw when chewing, because humans, donkeys, mules do.' List the observed particulars and the universal claim.
+Premises: particular observations. Conclusion: universal statement about all animals.
+4
+Identify the counterexample
+The crocodile moves its upper jaw, not its lower jaw. This one counterexample shows that the universal is false, so the induction fails.
+The author uses this to critique the definition's weakness.
+5
+Assess the strength of induction
+Induction based on most particulars (incomplete induction) does not guarantee truth; it requires complete enumeration for certainty, which is rare.
+The author concludes that both definitions given are weak.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مُتَّصِلَ النَّتَائِج الَّذِي حَوَى يَكُونُ، أَوْ مَفْصُولَهَا كُلِّ سَوَاءٍ. وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّ اسْتُدِلْ فَذَا بِالِاسْتِقْرَاءِ عِنْدَهُمْ عُقِلْ. وَمُقْتَضَاهُ : أَنَّ النَّتيجَةَ تُذْكَرُ فِي القِسْمِ الأَوَّلِ مَرَّتَيْنِ : مَرَّةً نَتِيجَةً ، وَمَرَّةً مُقَدِّمَةٌ، وَالَّذِي يُفِيدُهُ كَلَامُ ابْنِ يَعْقُوبَ أَنَّهَا تُذْكَرُ فِيهِ مَرَّةً وَاحِدَةٌ نَتِيجَةٌ ; نَحْوُ : كُلُّ إِنْسَانٍ حَيَوَانٌ، وَكُلُّ حَيَوَانٍ حَسَّاسٌ ، فَكُلُ إِنْسَانٍ حَسَّاسٌ، وَكُلُّ حَسَّاسِ نَامٍ، فَكُلُّ إِنْسَانٍ نَام ... وَهَكَذَا). قَالَ بَعْضُ المُحَقِّقِينَ : وَالإِنْصَافُ أَنَّ هَذَا أَوْجَهُ وَأَنْسَبُ بِجَعْلٍ مُتَصَلِ النَّتَائِجِ قِيَاساً وَاحِداً بِحَسَبِ الظَّاهِرِ . اهـ . لَكِنَّ الأَوَّلَ هُوَ الَّذِي يَقْتَضِيهِ قَوْلُ المُصَنِّفِ فِيمَا تَقَدَّمَ: وَاقْلُبْ نَتِيجَةٌ ... إلخ، فَلْيُتَنَبَّهْ. قَوْلُهُ : (كُلُّ سَوَا) أَيْ : كُلٌّ مِنْ مُتَّصِلِ النَّتَائِحِ وَمَفْصُولِهَا سَوَاءٌ فِي إِفَادَةِ المَظْلُوبِ. قَوْلُهُ : (وَإِنْ بِجُزْئِيٌّ عَلَى كُلِّ اسْتُدِلْ لَا يَخْفَى أَنَّ كُلًّا مِنْ قَوْلِهِ : بِجُزْئِيِّ» وَقَوْلِهِ : «عَلَى كُلِّ» مُتَعَلِّقٌ بِقَوْلِهِ : «اسْتُدِلْ»، وَالجُزْنِيُّ كَالكُلِّي صِفَةٌ لِمَوْصُوفٍ مَحْذُوفٍ، وَالتَّقْدِيرُ : وَإِنِ اسْتُدِلَّ بِحُكْمِ جُزْنِي عَلَى حُكْم كُلِّيِّ. وَقَوْلُهُ : (فَذَا) بـ: (الِاسْتِقْرَاءِ» عِنْدَهُمْ عُقِلْ اسْمُ الإِشَارَةِ عَائِدٌ لِلاسْتِدْلَالِ المَفْهُومِ مِنْ قَوْلِهِ : اسْتُدِلُ، وَالجَارُ وَالمَجْرُورُ مُتَعَلِّقٌ بِقَوْلِهِ : «عُقِلْ عَلَى تَضْمِينِهِ مَعْنَى : سُمِّيَ»، وَالضَّمِيرُ لِلمَنَاطِقَةِ. وَصَرِيحُ هَذَا : أَنَّ المُصَنِّفَ يُفَسِّرُ الاِسْتِقْرَاء بِالاسْتِدْلَالِ بِالحُكْمِ الجُزْنِيِّ عَلَى الحُكْمِ الكُلِّيِّ; كَمَا فِي قَوْلِكَ : كُلُّ حَيَوَانِ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْغِ ; لِأَنَّ الإِنْسَانَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْعِ، وَالحِمَارَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْغِ وَالبَغْلَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْ . وَهَكَذَا بَعْدَ أَنْ تَتَبَّعْتَ مُعْظَمَ الجُزْئِيَّاتِ، فَوَجَدْتُهُ كَذَلِكَ، فَظَنَنْتُ أَنَّ سَائِرَ الجُزْئِيَّاتِ مِثْلُ ذَلِكَ المُعْظَمِ، مَعَ أَنَّ بَعْضَ الأَفْرَادِ لَيْسَ كَذَلِكَ كَـ: «النِّمْسَاحِ، فَإِنَّهُ يُحَرِّكُ فَكَهُ الْأَعْلَى عِنْدَ المَضْغِ. هَذَا ; وَفَسَّرَ بَعْضُهُمُ الاسْتِفْرَاءَ بِـ : الحُكْمُ الكُلّيُّ عَلَى الكُلِّي بِمَا وُجِدَ فِي أَكْثَرِ جُزْنِيَّاتِهِ (٤) ، وَ كِلَا هَذَيْنِ التَّفْسِيرَيْنِ ضَعِيفٌ.
+Connected conclusions that include (the result) or separate them are all equal. And if one infers by a particular (judgment) upon a universal, this is called 'induction' among them. Its implication: that the result is mentioned twice in the first division: once as a result and once as a premise. What Ibn Ya'qub's statement conveys is that it is mentioned once as a result, e.g., 'Every human is an animal, every animal is sensitive, so every human is sensitive, and every sensitive is growing, so every human is growing' and so on. Some investigators said: 'Fairness is that this is more proper and more appropriate for making a connected set of conclusions a single syllogism in appearance.' But the former is what is required by the author's preceding statement: 'And turn the result...' so let one be attentive. His statement: 'all equal' means each of the connected and separate conclusions are equal in yielding the desired. His statement: 'And if by a particular upon a universal one infers, then this is called induction among them.' It is not hidden that each of 'by a particular' and 'upon a universal' are attached to 'is inferred'. The particular like the universal is an attribute of a omitted noun, so the estimation: 'If one infers by a particular judgment upon a universal judgment.' And his statement: 'then this' by 'induction among them is understood' – the demonstrative pronoun refers to the inference understood from 'is inferred', and the prepositional phrase is attached to 'is understood' implying the meaning of 'is named', and the pronoun refers to the logicians. The explicit meaning of this is that the author interprets induction as inference by a particular judgment upon a universal judgment; as in your saying: 'Every animal moves its lower jaw when chewing, because the human moves his lower jaw when chewing, and the donkey moves its lower jaw when chewing, and the mule moves its lower jaw when chewing.' And so on after you have examined most of the particulars and found it so, you think that the rest of the particulars are like that majority, even though some individuals are not like that, e.g., the crocodile, for it moves its upper jaw when chewing. This; and some interpreted induction as: the universal judgment upon the universal by what was found in most of its particulars. Both of these interpretations are weak.
+Source pages p. 330
+
+Commentary
+This passage is a commentary on a verse from al-Sullam al-murunniq defining induction (istiqra'). The author begins by explaining the implications of the verse: in connected conclusions (where the conclusion is used as a premise in a chain) the conclusion is repeated, but the preferred view is that it appears only once. Then he analyzes the phrase 'all equal' and the structure of the verse. He clarifies that induction is inference from a particular judgment to a universal judgment, giving an example: observing that humans, donkeys, mules etc. move their lower jaw when chewing leads to the universal claim that all animals do so. However, this inference is weak because a counterexample (the crocodile) exists. He then mentions an alternative definition of induction as 'a universal judgment upon a universal based on what is found in most particulars' and states that both definitions are weak. The commentary guards against conflating induction with certain deduction.
+
+Key Terms
+الاستقراء
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why is the induction that 'all animals move their lower jaw when chewing' weak?
+A) Because humans and donkeys move their lower jaw.
+B) Because the crocodile moves its upper jaw, contradicting the universal.
+C) Because it is based on only two examples.
+D) Because it is a deduction from a universal.
+
+Key Takeaway
+Induction is an inference from particulars to a universal, but it is only probable because a single counterexample can falsify it.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the inductive argument: 'All cats are mammals because my cat is a mammal, my neighbor's cat is a mammal, and the cat I saw on the street is a mammal.' Identify the counterexample that could break this induction. (Islamic example: a similar argument about animals in fiqh rulings.)
+?
+Construct a real inductive argument from fiqh: 'All intoxicants are haram because wine is haram, nabidh is haram, and date liquor is haram.' List the particulars observed and state whether this is complete or incomplete induction. What would a counterexample look like?
+
+Pages p. 330 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 330
+Module 12 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+7 min
+Why the Definitions of Induction Are Weak
+Author critiques two weak definitions of induction.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the weakness of the two definitions of induction given in the Sullam and distinguish complete from incomplete induction.
+
+Core Idea
+Both definitions of induction are weak because they ignore the possibility of exceptions and claim certainty where only probability exists.
+
+The author of the Sullam does not merely define induction—he also critiques two common definitions. This lesson dives into that critique, showing why definitions that treat induction as a certain inference fail. You will learn to recognize the logical pitfall of hasty generalization and understand the importance of complete enumeration.
+
+Guided Path
+1
+Identify the two definitions of induction
+First definition: inference from a particular judgment to a universal judgment. Second definition: inference from a universal to a universal based on most particulars. Both are presented in the passage.
+The second definition is actually mentioned in some commentaries; the author rejects both.
+2
+Understand the counterexample argument
+The author gives the example of animal jaw movement: observed instances (human, donkey, mule) support the universal, but the crocodile disproves it. This shows the first definition does not guarantee truth.
+The second definition is also weak because it relies on 'most particulars', which leaves room for exceptions.
+3
+Learn the distinction: complete vs. incomplete induction
+Complete induction (istiqra' tamm) examines every individual and yields certainty; incomplete induction (istiqra' naqis) examines only some and yields probability. The author's examples are incomplete.
+Later logicians make this distinction explicit; the Sullam's critique anticipates it.
+4
+Evaluate why both definitions are weak
+Both definitions allow for conclusions that are not guaranteed. The first because it jumps from some to all; the second because it bases a universal on an unexamined majority.
+The author's verdict: كِلَا هَذَيْنِ التَّفْسِيرَيْنِ ضَعِيفٌ (both interpretations are weak).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مُتَّصِلَ النَّتَائِج الَّذِي حَوَى يَكُونُ، أَوْ مَفْصُولَهَا كُلِّ سَوَاءٍ. وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّ اسْتُدِلْ فَذَا بِالِاسْتِقْرَاءِ عِنْدَهُمْ عُقِلْ. وَمُقْتَضَاهُ : أَنَّ النَّتيجَةَ تُذْكَرُ فِي القِسْمِ الأَوَّلِ مَرَّتَيْنِ : مَرَّةً نَتِيجَةً ، وَمَرَّةً مُقَدِّمَةٌ، وَالَّذِي يُفِيدُهُ كَلَامُ ابْنِ يَعْقُوبَ أَنَّهَا تُذْكَرُ فِيهِ مَرَّةً وَاحِدَةٌ نَتِيجَةٌ ; نَحْوُ : كُلُّ إِنْسَانٍ حَيَوَانٌ، وَكُلُّ حَيَوَانٍ حَسَّاسٌ ، فَكُلُ إِنْسَانٍ حَسَّاسٌ، وَكُلُّ حَسَّاسِ نَامٍ، فَكُلُّ إِنْسَانٍ نَام ... وَهَكَذَا). قَالَ بَعْضُ المُحَقِّقِينَ : وَالإِنْصَافُ أَنَّ هَذَا أَوْجَهُ وَأَنْسَبُ بِجَعْلٍ مُتَصَلِ النَّتَائِجِ قِيَاساً وَاحِداً بِحَسَبِ الظَّاهِرِ . اهـ . لَكِنَّ الأَوَّلَ هُوَ الَّذِي يَقْتَضِيهِ قَوْلُ المُصَنِّفِ فِيمَا تَقَدَّمَ: وَاقْلُبْ نَتِيجَةٌ ... إلخ، فَلْيُتَنَبَّهْ. قَوْلُهُ : (كُلُّ سَوَا) أَيْ : كُلٌّ مِنْ مُتَّصِلِ النَّتَائِحِ وَمَفْصُولِهَا سَوَاءٌ فِي إِفَادَةِ المَظْلُوبِ. قَوْلُهُ : (وَإِنْ بِجُزْئِيٌّ عَلَى كُلِّ اسْتُدِلْ لَا يَخْفَى أَنَّ كُلًّا مِنْ قَوْلِهِ : بِجُزْئِيِّ» وَقَوْلِهِ : «عَلَى كُلِّ» مُتَعَلِّقٌ بِقَوْلِهِ : «اسْتُدِلْ»، وَالجُزْنِيُّ كَالكُلِّي صِفَةٌ لِمَوْصُوفٍ مَحْذُوفٍ، وَالتَّقْدِيرُ : وَإِنِ اسْتُدِلَّ بِحُكْمِ جُزْنِي عَلَى حُكْم كُلِّيِّ. وَقَوْلُهُ : (فَذَا) بـ: (الِاسْتِقْرَاءِ» عِنْدَهُمْ عُقِلْ اسْمُ الإِشَارَةِ عَائِدٌ لِلاسْتِدْلَالِ المَفْهُومِ مِنْ قَوْلِهِ : اسْتُدِلُ، وَالجَارُ وَالمَجْرُورُ مُتَعَلِّقٌ بِقَوْلِهِ : «عُقِلْ عَلَى تَضْمِينِهِ مَعْنَى : سُمِّيَ»، وَالضَّمِيرُ لِلمَنَاطِقَةِ. وَصَرِيحُ هَذَا : أَنَّ المُصَنِّفَ يُفَسِّرُ الاِسْتِقْرَاء بِالاسْتِدْلَالِ بِالحُكْمِ الجُزْنِيِّ عَلَى الحُكْمِ الكُلِّيِّ; كَمَا فِي قَوْلِكَ : كُلُّ حَيَوَانِ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْغِ ; لِأَنَّ الإِنْسَانَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْعِ، وَالحِمَارَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْغِ وَالبَغْلَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِنْدَ المَضْ . وَهَكَذَا بَعْدَ أَنْ تَتَبَّعْتَ مُعْظَمَ الجُزْئِيَّاتِ، فَوَجَدْتُهُ كَذَلِكَ، فَظَنَنْتُ أَنَّ سَائِرَ الجُزْئِيَّاتِ مِثْلُ ذَلِكَ المُعْظَمِ، مَعَ أَنَّ بَعْضَ الأَفْرَادِ لَيْسَ كَذَلِكَ كَـ: «النِّمْسَاحِ، فَإِنَّهُ يُحَرِّكُ فَكَهُ الْأَعْلَى عِنْدَ المَضْغِ. هَذَا ; وَفَسَّرَ بَعْضُهُمُ الاسْتِفْرَاءَ بِـ : الحُكْمُ الكُلّيُّ عَلَى الكُلِّي بِمَا وُجِدَ فِي أَكْثَرِ جُزْنِيَّاتِهِ (٤) ، وَ كِلَا هَذَيْنِ التَّفْسِيرَيْنِ ضَعِيفٌ.
+Connected conclusions that include (the result) or separate them are all equal. And if one infers by a particular (judgment) upon a universal, this is called 'induction' among them. Its implication: that the result is mentioned twice in the first division: once as a result and once as a premise. What Ibn Ya'qub's statement conveys is that it is mentioned once as a result, e.g., 'Every human is an animal, every animal is sensitive, so every human is sensitive, and every sensitive is growing, so every human is growing' and so on. Some investigators said: 'Fairness is that this is more proper and more appropriate for making a connected set of conclusions a single syllogism in appearance.' But the former is what is required by the author's preceding statement: 'And turn the result...' so let one be attentive. His statement: 'all equal' means each of the connected and separate conclusions are equal in yielding the desired. His statement: 'And if by a particular upon a universal one infers, then this is called induction among them.' It is not hidden that each of 'by a particular' and 'upon a universal' are attached to 'is inferred'. The particular like the universal is an attribute of a omitted noun, so the estimation: 'If one infers by a particular judgment upon a universal judgment.' And his statement: 'then this' by 'induction among them is understood' – the demonstrative pronoun refers to the inference understood from 'is inferred', and the prepositional phrase is attached to 'is understood' implying the meaning of 'is named', and the pronoun refers to the logicians. The explicit meaning of this is that the author interprets induction as inference by a particular judgment upon a universal judgment; as in your saying: 'Every animal moves its lower jaw when chewing, because the human moves his lower jaw when chewing, and the donkey moves its lower jaw when chewing, and the mule moves its lower jaw when chewing.' And so on after you have examined most of the particulars and found it so, you think that the rest of the particulars are like that majority, even though some individuals are not like that, e.g., the crocodile, for it moves its upper jaw when chewing. This; and some interpreted induction as: the universal judgment upon the universal by what was found in most of its particulars. Both of these interpretations are weak.
+Source pages p. 330
+
+Commentary
+This passage is a commentary on a verse from al-Sullam al-murunniq defining induction (istiqra'). The author begins by explaining the implications of the verse: in connected conclusions (where the conclusion is used as a premise in a chain) the conclusion is repeated, but the preferred view is that it appears only once. Then he analyzes the phrase 'all equal' and the structure of the verse. He clarifies that induction is inference from a particular judgment to a universal judgment, giving an example: observing that humans, donkeys, mules etc. move their lower jaw when chewing leads to the universal claim that all animals do so. However, this inference is weak because a counterexample (the crocodile) exists. He then mentions an alternative definition of induction as 'a universal judgment upon a universal based on what is found in most particulars' and states that both definitions are weak. The commentary guards against conflating induction with certain deduction.
+
+Key Terms
+الاستقراء
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the main reason the author calls both definitions of induction 'weak'?
+A) They use Arabic terms incorrectly.
+B) They allow for certain knowledge from incomplete evidence.
+C) They are based on only one example.
+D) They contradict the Quran.
+
+Key Takeaway
+Induction is weak because it generalizes from limited observations; only complete induction yields certainty, but it is often impossible.
+
+How This Lesson Applies — to MY Life?
+?
+Find an inductive argument in a contemporary Islamic discussion (e.g., 'All Muslim scholars agree that music is haram because the majority of scholars say so'). Identify the counterexample (e.g., some scholars permit it) and explain why this induction is weak.
+?
+Distinguish between complete and incomplete induction: List examples from fiqh where complete induction is possible (e.g., 'All prophets mentioned in the Quran are male' can be verified by checking all names) and where it is not (e.g., 'All hadith narrators are trustworthy').
+
+Pages p. 330 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 12 · Lesson 5
+Next →
+Induction and Analogy
+intermediate
+6 min
+Defining Induction: Complete and Incomplete
+Author gives the correct definition of induction and its division into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any inductive argument as complete or incomplete induction according to the criteria in al-Ghazali and al-Taftazani.
+
+Core Idea
+Induction is not a single method – its strength depends on whether it covers all particulars or only some.
+
+This lesson unpacks the authoritative definition of induction given by Hujjat al-Islam al-Ghazali and refined by al-Sa'd al-Taftazani. You will learn the two types of induction and how they relate to certainty. The definition focuses on examining particular instances to derive a judgment that applies to all of them.
+
+Guided Path
+1
+Identify the definition of istiqra'
+Find the core definition: 'examination of particular things to judge by their judgment upon something that includes those particulars.' Note the key components: particulars, universal judgment, and inclusion.
+2
+Distinguish complete from incomplete
+Complete induction (tamm) examines all particulars; incomplete (naqis) examines only most. Understand that complete yields certainty, incomplete yields presumption (zann).
+3
+Examine the 'most' condition
+Many logicians require examination of 'most' (akthar) particulars for incomplete induction. This excludes half or less. Recognize that this is a debated point.
+4
+Connect to certainty levels
+Complete induction gives yaqin (certainty); incomplete gives zann (presumption). The strength of presumption depends on how representative the sample is.
+This distinction is crucial in usul al-fiqh when establishing general rulings.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَالصَّحِيحُ - كَمَا قَالَهُ السَّعْدُ - مَا ذَكَرَهُ حُجَّةُ الإِسْلَامِ مِنْ : أَنَّهُ تَصَفُحُ أُمُورٍ جُزْيَّةٍ لِيُحْكَمَ بِحُكْمِهَا عَلَى أَمْرٍ يَسْمَلُ تِلْكَ الجُزْئِيَّاتِ» (١) ، ثُمَّ : - إِنْ كَانَتْ تِلْكَ الأُمُورُ جَمِيعَ الجُزْئِيَّاتِ، كَانَ ذَلِكَ التَّصَفُحُ : اسْتِقْرَاء تَامَّا » . - وَإِنْ كَانَتْ أَكْثَرُهَا كَانَ : اسْتِقْرَاءٌ نَاقِصاً، كَذَا قَالَ بَعْضُ أَهْلِ التَّحْقِيقِ، وَمِثْلُهُ فِي جَمْعِ الجوامع». وَمُقْتَضَاهُ : أَنَّهُ يُشْتَرَطُ فِي الِاسْتِقْرَاءِ النَّاقِصِ أنْ تَكُونَ الأُمُورُ المُتَصَفَّحَةُ أَكْثَرَ الجُزْيَّاتِ، وَهُوَ مَا جَرَى عَلَيْهِ كَثِيرٌ مِنَ المَنَاطِقَةِ، وَيَلْزَمُ عَلَيْهِ خُرُوجُ مَا يَكُونُ بِنِصْفِ الجُزْيَّاتِ فَأَقَلَّ، فَلَا يَكُونُ اسْتِقْرَاء . وَاسْتَشْكَلَهُ ابْنُ قَاسِمِ فِي الآيَاتِ بِأَنَّهُ قَدِ اسْتَنَدَ الفُقَهَاءُ فِي مَسَائِلَ إِلَى الاسْتِقْرَاءِ، مَعَ أَنَّ الأُمُورَ المُتَصَفَّحَةُ فِيهَا لَيْسَتْ أَكْثَرَ الجُزْئِيَّاتِ، كَمَا فِي حُكْمِهِمْ :بـ: «أَنَّ أَقَلَّ الحَيْضِ يَوْمٌ وَلَيْلَةٌ ، وَأَكْثَرَهُ خَمْسَةَ عَشَرَ يَوْماً، وَغَالِبَهُ سِتٌ أَوْ سَبْعٌ، فَإِنَّهُمْ قَدْ صَرَّحُوا بِأَنَّ مُسْتَنَدَ الإِمَامِ الشَّافِعِيِّ فِي ذَلِكَ الاسْتِقْرَاءِ، وَمَعْلُومٌ أَنَّهُ لَمْ يَتَصَفَّحْ جَمِيعَ نِسَاءِ العَالَمِ وَلَا أَكْثَرَهُنَّ، قَالَ (۲): فَالوَجْهُ تَرْكُ التَّقْيِيدِ بِالأَكْثَرِ، وَإِنْ قَيَّدَ بِهِ كَثِيرٌ مِنَ المَنَاطِقَةِ . نَعَمْ؛ يَنْبَغِي التَّقييدُ بِالبَعْضِ الَّذِي يَحْصُلُ بِتَصَفْحِهِ ظَنُّ عُمُومِ الحُكْمِ . اهـ بِتَصَرُّف (۳) . قَوْلُهُ : (وَعَكْسُهُ يُدْعَى ... إلخ) أَيْ: وَمُفِيدُ عَكْسِهِ (٤) يُدْعَى ... إلخ، كَمَا أَشَارَ لَهُ الشَّيْخُ المَلوِيُّ فِي كَبِيرِهِ» (٥) ، وَذَلِكَ لِأَنَّ عَكْسَ مَا ذُكِرَ هُوَ الِاسْتِدْلَالُ بِالكُلِّيِّ عَلَى الجُزْنِيِّ، وَلَيْسَ ذَلِكَ هُوَ المُسَمَّى بـ : «القِيَاسِ المَنْطِقِيّ»، وَإِنَّمَا المُسَمَّى نَفْسُ المُقَدِّمَتَيْنِ المُسْتَدَلَّ بِهِمَا، فَلَا بُدَّ مِنْ تَقْدِيرِ المُضَافِ المَذْكُورِ فِي كَلَامِ المُصَنِّفِ.
+And the correct (definition) – as al-Sa'd said – is what Hujjat al-Islam mentioned: that it is an examination of particular things to judge by their judgment upon something that includes those particulars. Then: if those things are all the particulars, that examination is complete induction; if they are most of them, it is incomplete induction. This is as some investigators said, and similar in Jam' al-Jawami'. Its implication: that in incomplete induction it is required that the examined things be most of the particulars, and this is what many logicians follow; but it entails that what is half of the particulars or less is excluded, so it would not be induction. Ibn Qasim in al-Ayat challenged this, saying: The jurists have relied on induction in many issues, even though the examined things therein are not most of the particulars, as in their ruling: 'The minimum menstruation is a day and a night, the maximum is fifteen days, and the usual is six or seven.' For they explicitly stated that the Imam al-Shafi'i's basis for that is induction, and it is known that he did not examine all the women of the world nor most of them. He said: Therefore the way is to drop the restriction to 'most', even if many logicians restricted it. Indeed, one should restrict to the portion whose examination yields a presumption of the generality of the ruling. End with paraphrase. His statement: 'And its opposite is called...' etc. means: the means of its opposite is called... etc., as al-Malawi indicated in his major commentary. That is because the opposite of what was mentioned is inference from the universal to the particular, and that is not what is called 'logical syllogism'; rather, that name is for the two premises themselves used as evidence, so one must assume the additional noun mentioned in the author's speech.
+Source pages p. 331
+
+Commentary
+This passage corrects and refines the definition of induction. The author first presents the correct definition from al-Sa'd (Sa'd al-Din al-Taftazani) and Hujjat al-Islam (al-Ghazali): induction is the examination of particular instances to derive a judgment covering them all. He then classifies induction into complete (tamm) – when all particulars are examined – and incomplete (naqis) – when only most are examined. Many logicians require that incomplete induction examine 'most' (akthar) of the particulars. However, the author critiques this condition using an example from fiqh: the ruling on menstruation durations (minimum, maximum, and usual) was derived by Imam al-Shafi'i through induction, yet he did not examine most women of the world. Therefore, the condition of 'most' is too strict; instead, the condition should be that the examined portion suffices to produce a presumption (zann) of generality. The passage ends by clarifying that the opposite of induction – inference from universal to particular – is not called 'logical syllogism' (al-qiyas al-mantiqi); rather, that term refers to the two premises themselves. This guards against confusing the name of the argument form with the reasoning process.
+
+Key Terms
+الاستقراء التام
+الاستقراء الناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the essential condition for an induction to be called 'complete' (tamm)?
+A) It must examine most of the particulars.
+B) It must examine all of the particulars.
+C) It must examine at least half the particulars.
+D) It must examine a sufficient portion to yield presumption.
+
+Key Takeaway
+Induction is defined as examining particulars to judge a universal; it is complete when all particulars are examined, incomplete when most are examined.
+
+How This Lesson Applies — to MY Life?
+?
+Identify an example from fiqh where a ruling is based on incomplete induction. Describe the particular instances examined and state whether they constitute 'most' or a sufficient portion. Based on this lesson, classify it as complete or incomplete induction.
+
+Pages p. 331 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 12 · Lesson 6
+Next →
+Induction and Analogy
+advanced
+7 min
+Refining Induction: The Condition of 'Most' and the Opposite Qiyas
+Author discusses the condition of 'most' in incomplete induction and critiques it, then clarifies the naming of qiyas mantiqi.
+
+Learning Objective
+By the end of this lesson, you will be able to critique the requirement that incomplete induction must examine 'most' particulars, and distinguish induction from qiyas mantiqi.
+
+Core Idea
+The 'most' condition for incomplete induction is too strict – a sufficient sample that yields presumption is enough.
+
+This lesson examines a critical refinement of incomplete induction. Ibn Qasim challenges the common condition that incomplete induction must examine most (akthar) particulars, using the example of Imam al-Shafi'i's menstrual rulings. You will also learn why the opposite of induction – reasoning from universal to particular – is not called qiyas mantiqi.
+
+Guided Path
+1
+Understand the 'most' condition
+Many logicians require that incomplete induction examine 'most' of the particulars. This excludes cases where half or fewer are examined, which would not count as induction.
+2
+Analyze Ibn Qasim's objection
+Ibn Qasim points out that jurists, including Imam al-Shafi'i, derived rulings on menstruation durations from induction without examining most women. This shows the condition is too strict.
+The example: minimum menstruation one day, maximum fifteen, usual six or seven. Al-Shafi'i based this on induction from some women, not most or all.
+3
+Consider the proposed alternative
+The objection suggests replacing 'most' with 'a portion that yields a presumption (zann) of generality.' This is more flexible and reflects actual juristic practice.
+4
+Clarify the opposite of induction
+The opposite of induction is inference from universal to particular. This is not called 'qiyas mantiqi'; that term refers to the two premises themselves. Understand the terminological distinction.
+This prevents confusion between the process of reasoning and the formal structure of the syllogism.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَالصَّحِيحُ - كَمَا قَالَهُ السَّعْدُ - مَا ذَكَرَهُ حُجَّةُ الإِسْلَامِ مِنْ : أَنَّهُ تَصَفُحُ أُمُورٍ جُزْيَّةٍ لِيُحْكَمَ بِحُكْمِهَا عَلَى أَمْرٍ يَسْمَلُ تِلْكَ الجُزْئِيَّاتِ» (١) ، ثُمَّ : - إِنْ كَانَتْ تِلْكَ الأُمُورُ جَمِيعَ الجُزْئِيَّاتِ، كَانَ ذَلِكَ التَّصَفُحُ : اسْتِقْرَاء تَامَّا » . - وَإِنْ كَانَتْ أَكْثَرُهَا كَانَ : اسْتِقْرَاءٌ نَاقِصاً، كَذَا قَالَ بَعْضُ أَهْلِ التَّحْقِيقِ، وَمِثْلُهُ فِي جَمْعِ الجوامع». وَمُقْتَضَاهُ : أَنَّهُ يُشْتَرَطُ فِي الِاسْتِقْرَاءِ النَّاقِصِ أنْ تَكُونَ الأُمُورُ المُتَصَفَّحَةُ أَكْثَرَ الجُزْيَّاتِ، وَهُوَ مَا جَرَى عَلَيْهِ كَثِيرٌ مِنَ المَنَاطِقَةِ، وَيَلْزَمُ عَلَيْهِ خُرُوجُ مَا يَكُونُ بِنِصْفِ الجُزْيَّاتِ فَأَقَلَّ، فَلَا يَكُونُ اسْتِقْرَاء . وَاسْتَشْكَلَهُ ابْنُ قَاسِمِ فِي الآيَاتِ بِأَنَّهُ قَدِ اسْتَنَدَ الفُقَهَاءُ فِي مَسَائِلَ إِلَى الاسْتِقْرَاءِ، مَعَ أَنَّ الأُمُورَ المُتَصَفَّحَةُ فِيهَا لَيْسَتْ أَكْثَرَ الجُزْئِيَّاتِ، كَمَا فِي حُكْمِهِمْ :بـ: «أَنَّ أَقَلَّ الحَيْضِ يَوْمٌ وَلَيْلَةٌ ، وَأَكْثَرَهُ خَمْسَةَ عَشَرَ يَوْماً، وَغَالِبَهُ سِتٌ أَوْ سَبْعٌ، فَإِنَّهُمْ قَدْ صَرَّحُوا بِأَنَّ مُسْتَنَدَ الإِمَامِ الشَّافِعِيِّ فِي ذَلِكَ الاسْتِقْرَاءِ، وَمَعْلُومٌ أَنَّهُ لَمْ يَتَصَفَّحْ جَمِيعَ نِسَاءِ العَالَمِ وَلَا أَكْثَرَهُنَّ، قَالَ (۲): فَالوَجْهُ تَرْكُ التَّقْيِيدِ بِالأَكْثَرِ، وَإِنْ قَيَّدَ بِهِ كَثِيرٌ مِنَ المَنَاطِقَةِ . نَعَمْ؛ يَنْبَغِي التَّقييدُ بِالبَعْضِ الَّذِي يَحْصُلُ بِتَصَفْحِهِ ظَنُّ عُمُومِ الحُكْمِ . اهـ بِتَصَرُّف (۳) . قَوْلُهُ : (وَعَكْسُهُ يُدْعَى ... إلخ) أَيْ: وَمُفِيدُ عَكْسِهِ (٤) يُدْعَى ... إلخ، كَمَا أَشَارَ لَهُ الشَّيْخُ المَلوِيُّ فِي كَبِيرِهِ» (٥) ، وَذَلِكَ لِأَنَّ عَكْسَ مَا ذُكِرَ هُوَ الِاسْتِدْلَالُ بِالكُلِّيِّ عَلَى الجُزْنِيِّ، وَلَيْسَ ذَلِكَ هُوَ المُسَمَّى بـ : «القِيَاسِ المَنْطِقِيّ»، وَإِنَّمَا المُسَمَّى نَفْسُ المُقَدِّمَتَيْنِ المُسْتَدَلَّ بِهِمَا، فَلَا بُدَّ مِنْ تَقْدِيرِ المُضَافِ المَذْكُورِ فِي كَلَامِ المُصَنِّفِ.
+And the correct (definition) – as al-Sa'd said – is what Hujjat al-Islam mentioned: that it is an examination of particular things to judge by their judgment upon something that includes those particulars. Then: if those things are all the particulars, that examination is complete induction; if they are most of them, it is incomplete induction. This is as some investigators said, and similar in Jam' al-Jawami'. Its implication: that in incomplete induction it is required that the examined things be most of the particulars, and this is what many logicians follow; but it entails that what is half of the particulars or less is excluded, so it would not be induction. Ibn Qasim in al-Ayat challenged this, saying: The jurists have relied on induction in many issues, even though the examined things therein are not most of the particulars, as in their ruling: 'The minimum menstruation is a day and a night, the maximum is fifteen days, and the usual is six or seven.' For they explicitly stated that the Imam al-Shafi'i's basis for that is induction, and it is known that he did not examine all the women of the world nor most of them. He said: Therefore the way is to drop the restriction to 'most', even if many logicians restricted it. Indeed, one should restrict to the portion whose examination yields a presumption of the generality of the ruling. End with paraphrase. His statement: 'And its opposite is called...' etc. means: the means of its opposite is called... etc., as al-Malawi indicated in his major commentary. That is because the opposite of what was mentioned is inference from the universal to the particular, and that is not what is called 'logical syllogism'; rather, that name is for the two premises themselves used as evidence, so one must assume the additional noun mentioned in the author's speech.
+Source pages p. 331
+
+Commentary
+This passage corrects and refines the definition of induction. The author first presents the correct definition from al-Sa'd (Sa'd al-Din al-Taftazani) and Hujjat al-Islam (al-Ghazali): induction is the examination of particular instances to derive a judgment covering them all. He then classifies induction into complete (tamm) – when all particulars are examined – and incomplete (naqis) – when only most are examined. Many logicians require that incomplete induction examine 'most' (akthar) of the particulars. However, the author critiques this condition using an example from fiqh: the ruling on menstruation durations (minimum, maximum, and usual) was derived by Imam al-Shafi'i through induction, yet he did not examine most women of the world. Therefore, the condition of 'most' is too strict; instead, the condition should be that the examined portion suffices to produce a presumption (zann) of generality. The passage ends by clarifying that the opposite of induction – inference from universal to particular – is not called 'logical syllogism' (al-qiyas al-mantiqi); rather, that term refers to the two premises themselves. This guards against confusing the name of the argument form with the reasoning process.
+
+Key Terms
+الاستقراء الناقص
+القياس المنطقي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Ibn Qasim, why should the condition of 'most' be dropped from the definition of incomplete induction?
+A) Because complete induction is always possible.
+B) Because Imam al-Shafi'i derived menstrual rulings from induction without examining most women.
+C) Because induction is not a valid method.
+D) Because the condition ensures certainty.
+
+Key Takeaway
+The condition of 'most' for incomplete induction is not absolute; a sample that yields a strong presumption (zann) suffices. Moreover, inference from universal to particular is not itself called qiyas mantiqi – that term refers to the two premises.
+
+How This Lesson Applies — to MY Life?
+?
+Consider another fiqh ruling: the prohibition of alcoholic beverages derived from the 'illah of intoxication. Was this derived by complete or incomplete induction? Does it require examination of most intoxicants? Apply the critique from this lesson: does the sample of intoxicants examined give a presumption of generality?
+
+Pages p. 331 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 12 · Lesson 7
+Next →
+Induction and Analogy
+beginner
+5 min
+Definition of Induction and Its Types
+Definition of induction and its division into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to define istiqra' (induction) and distinguish between complete and incomplete induction based on the extent of particulars surveyed.
+
+Core Idea
+Induction surveys particulars to judge a universal; complete induction examines all, incomplete examines most.
+
+The author defines induction (istiqra') as a survey of particular matters to derive a ruling for a universal encompassing them. This definition, attributed to al-Ghazali and endorsed by al-Taftazani, is fundamental for understanding how general principles are established in Islamic sciences. We will break down the definition and explore the two types of induction.
+
+Guided Path
+1
+Identify the definiendum
+Find the Arabic term being defined in the passage. It is 'istiqra'' (استقراء). The definition is given after 'al-Sahih kama qalahu al-Sa'd'.
+The term 'istiqra'' is the focus of this lesson.
+2
+Extract the genus
+The genus (jins) is 'tasaffuh umur juz'iyya' (تصفح أمور جزئية), i.e., a survey of particular matters. This places induction in the category of investigative activities.
+The genus tells us what kind of activity induction is.
+3
+Extract the differentia
+The differentia (fasl) is 'li-yahkuma bi-hukmiha 'ala amr yashmalu tilka al-juz'iyyat' (ليحكم بحكمها على أمر يشمل تلك الجزئيات), i.e., to judge by their ruling on a matter that encompasses those particulars. This specifies the purpose that distinguishes induction from other surveys.
+The differentia captures the essence of induction as a reasoning tool.
+4
+Distinguish complete vs incomplete
+The passage divides induction based on the extent of the survey: if all particulars are surveyed, it is complete induction (istiqra' tamm); if most are surveyed, it is incomplete induction (istiqra' naqis). Understand the logical implications of this division.
+The condition for incomplete induction (most) is later critiqued in the next lesson.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(112) وَعَكْسُهُ يُدْعَى : القِيَاسَ المَنْطِقِي وَهُوَ الَّذِي قَدَّمْتُهُ فَ الباجوري. وَالصَّحِيحُ كَمَا قَالَهُ السَّعْدُ مَا ذَكَرَهُ حُجَّةُ الإِسْلَامِ مِنْ أَنَّهُ تَصَفُحُ أُمُورٍ جُزْيَّةٍ لِيُحْكَمَ بِحُكْمِهَا عَلَى أَمْرٍ يَسْمَلُ تِلْكَ الجُزْئِيَّاتِ، ثُمَّ: إِنْ كَانَتْ تِلْكَ الأُمُورُ جَمِيعَ الجُزْئِيَّاتِ، كَانَ ذَلِكَ التَّصَفُحُ اسْتِقْرَاء تَامَّا. وَإِنْ كَانَتْ أَكْثَرُهَا كَانَ اسْتِقْرَاءٌ نَاقِصاً، كَذَا قَالَ بَعْضُ أَهْلِ التَّحْقِيقِ، وَمِثْلُهُ فِي جَمْعِ الجوامع. وَمُقْتَضَاهُ أَنَّهُ يُشْتَرَطُ فِي الِاسْتِقْرَاءِ النَّاقِصِ أنْ تَكُونَ الأُمُورُ المُتَصَفَّحَةُ أَكْثَرَ الجُزْيَّاتِ، وَهُوَ مَا جَرَى عَلَيْهِ كَثِيرٌ مِنَ المَنَاطِقَةِ، وَيَلْزَمُ عَلَيْهِ خُرُوجُ مَا يَكُونُ بِنِصْفِ الجُزْيَّاتِ فَأَقَلَّ، فَلَا يَكُونُ اسْتِقْرَاء. وَاسْتَشْكَلَهُ ابْنُ قَاسِمِ فِي الآيَاتِ بِأَنَّهُ قَدِ اسْتَنَدَ الفُقَهَاءُ فِي مَسَائِلَ إِلَى الاسْتِقْرَاءِ، مَعَ أَنَّ الأُمُورَ المُتَصَفَّحَةُ فِيهَا لَيْسَتْ أَكْثَرَ الجُزْئِيَّاتِ، كَمَا فِي حُكْمِهِمْ بِأَنَّ أَقَلَّ الحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَأَكْثَرَهُ خَمْسَةَ عَشَرَ يَوْماً، وَغَالِبَهُ سِتٌ أَوْ سَبْعٌ، فَإِنَّهُمْ قَدْ صَرَّحُوا بِأَنَّ مُسْتَنَدَ الإِمَامِ الشَّافِعِيِّ فِي ذَلِكَ الاسْتِقْرَاءِ، وَمَعْلُومٌ أَنَّهُ لَمْ يَتَصَفَّحْ جَمِيعَ نِسَاءِ العَالَمِ وَلَا أَكْثَرَهُنَّ، قَالَ فَالوَجْهُ تَرْكُ التَّقْيِيدِ بِالأَكْثَرِ، وَإِنْ قَيَّدَ بِهِ كَثِيرٌ مِنَ المَنَاطِقَةِ. نَعَمْ يَنْبَغِي التَّقييدُ بِالبَعْضِ الَّذِي يَحْصُلُ بِتَصَفْحِهِ ظَنُّ عُمُومِ الحُكْمِ. اهـ بِتَصَرُّف. وَجَمَلٌ، وَكُلُّ مَا كَانَ كَذَلِكَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِندَ المَضْعَ ينتج كُلُّ حَيَوَانِ يُحَرِّكُ فَكَهُ الْأَسْفَلَ عِنْدَ المَضْعَ، وفساد هذا جاء من فساد الصُّغرى؛ لأنَّ فيها الحكم لبعض الجزئيات على الكلي. اهـ صبان بالمعنى. قَوْلُهُ : (وَهْوَ الَّذِي قَدَّمْتُهُ) أَيْ فِي قَوْلِهِ : إِنَّ القِيَاسَ مِنْ قَضَايَا صُوِّرًا ... إلخ. قَوْلُهُ : (وَعَكْسُهُ يُدْعَى ... إلخ) أَيْ: وَمُفِيدُ عَكْسِهِ يُدْعَى ... إلخ، كَمَا أَشَارَ لَهُ الشَّيْخُ المَلوِيُّ فِي كَبِيرِهِ، وَذَلِكَ لِأَنَّ عَكْسَ مَا ذُكِرَ هُوَ الِاسْتِدْلَالُ بِالكُلِّيِّ عَلَى الجُزْنِيِّ، وَلَيْسَ ذَلِكَ هُوَ المُسَمَّى بِالقِيَاسِ المَنْطِقِيّ، وَإِنَّمَا المُسَمَّى نَفْسُ المُقَدِّمَتَيْنِ المُسْتَدَلَّ بِهِمَا، فَلَا بُدَّ مِنْ تَقْدِيرِ المُضَافِ المَذْكُورِ فِي كَلَامِ المُصَنِّفِ.
+And its opposite is called logical syllogism, which is what I presented in al-Bajuri. The correct view, as stated by Sa'd, is what Hujjat al-Islam mentioned: that it is a survey of particular matters to judge by their ruling on a matter that encompasses those particulars. Then: if those matters are all the particulars, that survey is complete induction. And if they are most of them, it is incomplete induction. Thus said some of the verifiers, and similar is in Jam' al-Jawami'. Its implication is that it is required in incomplete induction that the surveyed matters be most of the particulars, which is what many logicians follow. And it follows from this that what is half or less of the particulars is excluded, so it is not induction. Ibn Qasim in al-Ayat objected that the jurists relied on induction in issues while the surveyed matters therein were not most of the particulars, as in their ruling: 'The minimum of menstruation is a day and a night, and its maximum is fifteen days, and its usual is six or seven'. For they stated that the basis of Imam al-Shafi'i in that is induction, and it is known that he did not survey all the women of the world nor most of them. He said: so the proper course is to drop the restriction to 'most', even if many logicians restricted it. Yes, it should be restricted to the part from whose survey a presumption of generality of the ruling results. End with modification. And 'jaml', and everything that is like that moves its lower jaw while chewing, yields: 'Every animal moves its lower jaw while chewing', and the corruption of this came from the corruption of the minor premise, because in it there is a ruling of some particulars on the universal. End from Subban with meaning. His statement: (and it is the one I presented) means in his statement: 'Indeed the syllogism is from premises... etc.' His statement: (and its opposite is called... etc.) means: the producer of its opposite is called... etc., as indicated by al-Mallawi in his commentary, and that is because the opposite of what was mentioned is deduction from the universal to the particular, and that is not what is called logical syllogism; rather, what is called is the two premises themselves that are used for deduction, so it is necessary to assume the omitted genitive construct in the author's statement.
+Source pages p. 331
+
+Commentary
+This passage is a commentary on verse (112) of al-Sullam al-Munawraq, defining induction (istiqra') and clarifying a terminological confusion regarding the term 'aks (opposite). The author begins by stating that the opposite of the previously defined syllogism is called 'logical syllogism', but the commentator corrects this: the correct understanding is that induction is a survey of particulars to judge a universal encompassing them. This definition is attributed to al-Ghazali and adopted by Sa'd al-Din al-Taftazani. Induction is then divided into two types: complete (tamm) when all particulars are surveyed, and incomplete (naqis) when most are surveyed. The condition for incomplete induction is that the surveyed must be the majority of the particulars, a view held by many logicians. However, this condition would exclude cases where half or fewer are surveyed. Ibn Qasim objects using a fiqh example: the jurists' ruling on the minimum, maximum, and usual duration of menstruation is based on induction, yet Imam al-Shafi'i did not survey all women or even most of them. Therefore, the condition of 'most' should be dropped; instead, the surveyed portion must be such that it produces a presumption (zann) of the generality of the ruling. The commentator then adds a separate note on the term 'aks: the opposite of induction is deduction from universal to particular, but that is not called logical syllogism; rather, the proper term applies to the two premises that produce that deduction. Finally, an example of a flawed syllogism is given: 'Everything that is like that moves its lower jaw while chewing' as a universal statement derived from observing some animals, demonstrating the error of judging a universal from only some particulars.
+
+Key Terms
+استقراء
+تام
+ناقص
+تصفح
+جزئي
+كلي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the definition in the passage, what is the purpose of induction?
+A) To survey all particulars without exception
+B) To judge a universal by the ruling of the particulars surveyed
+C) To deduce particulars from a universal
+D) To categorize particulars into genera
+
+Key Takeaway
+Induction is surveying particular matters to derive a ruling for a universal; it can be complete (all) or incomplete (most).
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following is complete or incomplete induction: A scholar examines all known verses on inheritance to extract the general rule of shares. Answer: complete induction.
+?
+Given the definition, explain why surveying only half the particulars would not be considered induction according to the condition stated. Answer: Because the condition requires most (akthar), so half or less is excluded.
+
+Pages p. 331 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 12 · Lesson 8
+Next →
+Induction and Analogy
+intermediate
+7 min
+Ibn Qasim's Critique of the 'Most' Condition
+Critique of the 'most' condition for incomplete induction.
+
+Learning Objective
+By the end of this lesson, you will be able to evaluate the condition that incomplete induction requires surveying most particulars and apply Ibn Qasim's refinement using a fiqh example.
+
+Core Idea
+Ibn Qasim showed that incomplete induction does not require most particulars; a portion yielding a strong presumption suffices.
+
+Ibn Qasim objects to the condition that incomplete induction must survey most particulars. Using Imam al-Shafi'i's ruling on menstruation, he demonstrates that the jurists relied on induction without surveying all or most women. This leads to a refinement: the surveyed portion need only produce a presumption (zann) of generality, not necessarily a majority. This critique is crucial for understanding how induction works in practical juristic reasoning.
+
+Guided Path
+1
+Identify the claim being critiqued
+Find the condition that is under attack: incomplete induction requires surveying most (akthar) of the particulars, as stated earlier in the passage.
+This condition is attributed to many logicians.
+2
+Find the counterexample
+Ibn Qasim presents the fiqh example of menstruation rulings: the minimum, maximum, and usual duration. The jurists claimed it was based on induction, yet Imam al-Shafi'i did not survey all women or even most.
+The example is explicit: 'al-istisna' fi madhhab al-Shafi'i'.
+3
+Analyze why the counterexample challenges the condition
+If the condition required most, then this induction would be invalid, but the jurists accepted it. Therefore, the condition must be revised.
+This is a classic reductio ad absurdum of the condition.
+4
+Extract the refined condition
+Ibn Qasim concludes that the restriction to 'most' should be dropped; instead, the survey should be of a portion that produces a presumption (zann) of the ruling's generality.
+This refinement makes induction more practical for jurists.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(112) وَعَكْسُهُ يُدْعَى : القِيَاسَ المَنْطِقِي وَهُوَ الَّذِي قَدَّمْتُهُ فَ الباجوري. وَالصَّحِيحُ كَمَا قَالَهُ السَّعْدُ مَا ذَكَرَهُ حُجَّةُ الإِسْلَامِ مِنْ أَنَّهُ تَصَفُحُ أُمُورٍ جُزْيَّةٍ لِيُحْكَمَ بِحُكْمِهَا عَلَى أَمْرٍ يَسْمَلُ تِلْكَ الجُزْئِيَّاتِ، ثُمَّ: إِنْ كَانَتْ تِلْكَ الأُمُورُ جَمِيعَ الجُزْئِيَّاتِ، كَانَ ذَلِكَ التَّصَفُحُ اسْتِقْرَاء تَامَّا. وَإِنْ كَانَتْ أَكْثَرُهَا كَانَ اسْتِقْرَاءٌ نَاقِصاً، كَذَا قَالَ بَعْضُ أَهْلِ التَّحْقِيقِ، وَمِثْلُهُ فِي جَمْعِ الجوامع. وَمُقْتَضَاهُ أَنَّهُ يُشْتَرَطُ فِي الِاسْتِقْرَاءِ النَّاقِصِ أنْ تَكُونَ الأُمُورُ المُتَصَفَّحَةُ أَكْثَرَ الجُزْيَّاتِ، وَهُوَ مَا جَرَى عَلَيْهِ كَثِيرٌ مِنَ المَنَاطِقَةِ، وَيَلْزَمُ عَلَيْهِ خُرُوجُ مَا يَكُونُ بِنِصْفِ الجُزْيَّاتِ فَأَقَلَّ، فَلَا يَكُونُ اسْتِقْرَاء. وَاسْتَشْكَلَهُ ابْنُ قَاسِمِ فِي الآيَاتِ بِأَنَّهُ قَدِ اسْتَنَدَ الفُقَهَاءُ فِي مَسَائِلَ إِلَى الاسْتِقْرَاءِ، مَعَ أَنَّ الأُمُورَ المُتَصَفَّحَةُ فِيهَا لَيْسَتْ أَكْثَرَ الجُزْئِيَّاتِ، كَمَا فِي حُكْمِهِمْ بِأَنَّ أَقَلَّ الحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَأَكْثَرَهُ خَمْسَةَ عَشَرَ يَوْماً، وَغَالِبَهُ سِتٌ أَوْ سَبْعٌ، فَإِنَّهُمْ قَدْ صَرَّحُوا بِأَنَّ مُسْتَنَدَ الإِمَامِ الشَّافِعِيِّ فِي ذَلِكَ الاسْتِقْرَاءِ، وَمَعْلُومٌ أَنَّهُ لَمْ يَتَصَفَّحْ جَمِيعَ نِسَاءِ العَالَمِ وَلَا أَكْثَرَهُنَّ، قَالَ فَالوَجْهُ تَرْكُ التَّقْيِيدِ بِالأَكْثَرِ، وَإِنْ قَيَّدَ بِهِ كَثِيرٌ مِنَ المَنَاطِقَةِ. نَعَمْ يَنْبَغِي التَّقييدُ بِالبَعْضِ الَّذِي يَحْصُلُ بِتَصَفْحِهِ ظَنُّ عُمُومِ الحُكْمِ. اهـ بِتَصَرُّف. وَجَمَلٌ، وَكُلُّ مَا كَانَ كَذَلِكَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِندَ المَضْعَ ينتج كُلُّ حَيَوَانِ يُحَرِّكُ فَكَهُ الْأَسْفَلَ عِنْدَ المَضْعَ، وفساد هذا جاء من فساد الصُّغرى؛ لأنَّ فيها الحكم لبعض الجزئيات على الكلي. اهـ صبان بالمعنى. قَوْلُهُ : (وَهْوَ الَّذِي قَدَّمْتُهُ) أَيْ فِي قَوْلِهِ : إِنَّ القِيَاسَ مِنْ قَضَايَا صُوِّرًا ... إلخ. قَوْلُهُ : (وَعَكْسُهُ يُدْعَى ... إلخ) أَيْ: وَمُفِيدُ عَكْسِهِ يُدْعَى ... إلخ، كَمَا أَشَارَ لَهُ الشَّيْخُ المَلوِيُّ فِي كَبِيرِهِ، وَذَلِكَ لِأَنَّ عَكْسَ مَا ذُكِرَ هُوَ الِاسْتِدْلَالُ بِالكُلِّيِّ عَلَى الجُزْنِيِّ، وَلَيْسَ ذَلِكَ هُوَ المُسَمَّى بِالقِيَاسِ المَنْطِقِيّ، وَإِنَّمَا المُسَمَّى نَفْسُ المُقَدِّمَتَيْنِ المُسْتَدَلَّ بِهِمَا، فَلَا بُدَّ مِنْ تَقْدِيرِ المُضَافِ المَذْكُورِ فِي كَلَامِ المُصَنِّفِ.
+And its opposite is called logical syllogism, which is what I presented in al-Bajuri. The correct view, as stated by Sa'd, is what Hujjat al-Islam mentioned: that it is a survey of particular matters to judge by their ruling on a matter that encompasses those particulars. Then: if those matters are all the particulars, that survey is complete induction. And if they are most of them, it is incomplete induction. Thus said some of the verifiers, and similar is in Jam' al-Jawami'. Its implication is that it is required in incomplete induction that the surveyed matters be most of the particulars, which is what many logicians follow. And it follows from this that what is half or less of the particulars is excluded, so it is not induction. Ibn Qasim in al-Ayat objected that the jurists relied on induction in issues while the surveyed matters therein were not most of the particulars, as in their ruling: 'The minimum of menstruation is a day and a night, and its maximum is fifteen days, and its usual is six or seven'. For they stated that the basis of Imam al-Shafi'i in that is induction, and it is known that he did not survey all the women of the world nor most of them. He said: so the proper course is to drop the restriction to 'most', even if many logicians restricted it. Yes, it should be restricted to the part from whose survey a presumption of generality of the ruling results. End with modification. And 'jaml', and everything that is like that moves its lower jaw while chewing, yields: 'Every animal moves its lower jaw while chewing', and the corruption of this came from the corruption of the minor premise, because in it there is a ruling of some particulars on the universal. End from Subban with meaning. His statement: (and it is the one I presented) means in his statement: 'Indeed the syllogism is from premises... etc.' His statement: (and its opposite is called... etc.) means: the producer of its opposite is called... etc., as indicated by al-Mallawi in his commentary, and that is because the opposite of what was mentioned is deduction from the universal to the particular, and that is not what is called logical syllogism; rather, what is called is the two premises themselves that are used for deduction, so it is necessary to assume the omitted genitive construct in the author's statement.
+Source pages p. 331
+
+Commentary
+This passage is a commentary on verse (112) of al-Sullam al-Munawraq, defining induction (istiqra') and clarifying a terminological confusion regarding the term 'aks (opposite). The author begins by stating that the opposite of the previously defined syllogism is called 'logical syllogism', but the commentator corrects this: the correct understanding is that induction is a survey of particulars to judge a universal encompassing them. This definition is attributed to al-Ghazali and adopted by Sa'd al-Din al-Taftazani. Induction is then divided into two types: complete (tamm) when all particulars are surveyed, and incomplete (naqis) when most are surveyed. The condition for incomplete induction is that the surveyed must be the majority of the particulars, a view held by many logicians. However, this condition would exclude cases where half or fewer are surveyed. Ibn Qasim objects using a fiqh example: the jurists' ruling on the minimum, maximum, and usual duration of menstruation is based on induction, yet Imam al-Shafi'i did not survey all women or even most of them. Therefore, the condition of 'most' should be dropped; instead, the surveyed portion must be such that it produces a presumption (zann) of the generality of the ruling. The commentator then adds a separate note on the term 'aks: the opposite of induction is deduction from universal to particular, but that is not called logical syllogism; rather, the proper term applies to the two premises that produce that deduction. Finally, an example of a flawed syllogism is given: 'Everything that is like that moves its lower jaw while chewing' as a universal statement derived from observing some animals, demonstrating the error of judging a universal from only some particulars.
+
+Key Terms
+استقراء ناقص
+الأكثر
+الظن
+الاستشكال
+ابن قاسم
+
+Key Terms from Source Passage
+
+Checkpoint
+What condition does Ibn Qasim propose to replace the requirement of 'most' in incomplete induction?
+A) Surveying all particulars
+B) Surveying at least half the particulars
+C) Surveying a portion that yields a presumption of generality
+D) No condition is needed
+
+Key Takeaway
+Incomplete induction does not require surveying most particulars; a sample that produces a strong presumption suffices.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the ruling that 'every intoxicant is forbidden'. This is based on induction from several known intoxicants. Does it meet the 'most' condition? How would Ibn Qasim's refinement apply? Answer: It likely does not meet 'most', but the surveyed intoxicants produce a strong presumption, so it is valid according to the refined condition.
+?
+Try to find another fiqh example where a general ruling is derived from limited cases and discuss whether it meets the original or refined condition.
+
+Pages p. 331 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 331
+Module 12 · Lesson 9
+Next →
+Induction and Analogy
+intermediate
+5 min
+Correction of 'Aks: Logical Syllogism is the Premises, Not the Deduction
+Terminological correction of 'aks and identification of logical syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why the opposite of induction (deduction from universal to particular) is not called logical syllogism, and identify the correct referent as the two premises.
+
+Core Idea
+The opposite of induction is deduction, but logical syllogism refers to the premises that produce it, not the act itself.
+
+The author states that the opposite of induction is called logical syllogism, but the commentator corrects this: the proper term refers to the 'producer' (mufid) of that opposite, i.e., the two premises that lead to the deductive conclusion. This fine distinction prevents confusion between the logical structure (premises) and the reasoning process (deduction). It is essential for precise usage in logic texts.
+
+Guided Path
+1
+Identify the initial claim
+The author says: 'And its opposite is called logical syllogism'. This is the claim that needs correction.
+The phrase is in the matn being commented on.
+2
+Understand the commentator's correction
+The commentator explains that the intended meaning is 'the producer of its opposite' (mufid 'aksihi) is called logical syllogism. The 'aksi' (opposite) itself is the deductive inference from universal to particular, but that is not what 'logical syllogism' names; rather, the two premises that produce that inference are named.
+This requires assuming a genitive construct (mufid 'aks).
+3
+Grasp the distinction
+The opposite of induction is deduction from the universal to the particular. This act of deducing is not the syllogism; the syllogism is the pair of premises that, when combined, necessitate that deduction. The term 'qiyas mantiqi' applies to those premises.
+This aligns with the earlier definition of syllogism as a speech composed of premises.
+4
+Apply the corrected understanding
+When reading similar statements in logic texts, recognize that 'qiyas' refers to the premises, not the conclusion or the inferential step.
+This prevents misinterpretation of later passages.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(112) وَعَكْسُهُ يُدْعَى : القِيَاسَ المَنْطِقِي وَهُوَ الَّذِي قَدَّمْتُهُ فَ الباجوري. وَالصَّحِيحُ كَمَا قَالَهُ السَّعْدُ مَا ذَكَرَهُ حُجَّةُ الإِسْلَامِ مِنْ أَنَّهُ تَصَفُحُ أُمُورٍ جُزْيَّةٍ لِيُحْكَمَ بِحُكْمِهَا عَلَى أَمْرٍ يَسْمَلُ تِلْكَ الجُزْئِيَّاتِ، ثُمَّ: إِنْ كَانَتْ تِلْكَ الأُمُورُ جَمِيعَ الجُزْئِيَّاتِ، كَانَ ذَلِكَ التَّصَفُحُ اسْتِقْرَاء تَامَّا. وَإِنْ كَانَتْ أَكْثَرُهَا كَانَ اسْتِقْرَاءٌ نَاقِصاً، كَذَا قَالَ بَعْضُ أَهْلِ التَّحْقِيقِ، وَمِثْلُهُ فِي جَمْعِ الجوامع. وَمُقْتَضَاهُ أَنَّهُ يُشْتَرَطُ فِي الِاسْتِقْرَاءِ النَّاقِصِ أنْ تَكُونَ الأُمُورُ المُتَصَفَّحَةُ أَكْثَرَ الجُزْيَّاتِ، وَهُوَ مَا جَرَى عَلَيْهِ كَثِيرٌ مِنَ المَنَاطِقَةِ، وَيَلْزَمُ عَلَيْهِ خُرُوجُ مَا يَكُونُ بِنِصْفِ الجُزْيَّاتِ فَأَقَلَّ، فَلَا يَكُونُ اسْتِقْرَاء. وَاسْتَشْكَلَهُ ابْنُ قَاسِمِ فِي الآيَاتِ بِأَنَّهُ قَدِ اسْتَنَدَ الفُقَهَاءُ فِي مَسَائِلَ إِلَى الاسْتِقْرَاءِ، مَعَ أَنَّ الأُمُورَ المُتَصَفَّحَةُ فِيهَا لَيْسَتْ أَكْثَرَ الجُزْئِيَّاتِ، كَمَا فِي حُكْمِهِمْ بِأَنَّ أَقَلَّ الحَيْضِ يَوْمٌ وَلَيْلَةٌ، وَأَكْثَرَهُ خَمْسَةَ عَشَرَ يَوْماً، وَغَالِبَهُ سِتٌ أَوْ سَبْعٌ، فَإِنَّهُمْ قَدْ صَرَّحُوا بِأَنَّ مُسْتَنَدَ الإِمَامِ الشَّافِعِيِّ فِي ذَلِكَ الاسْتِقْرَاءِ، وَمَعْلُومٌ أَنَّهُ لَمْ يَتَصَفَّحْ جَمِيعَ نِسَاءِ العَالَمِ وَلَا أَكْثَرَهُنَّ، قَالَ فَالوَجْهُ تَرْكُ التَّقْيِيدِ بِالأَكْثَرِ، وَإِنْ قَيَّدَ بِهِ كَثِيرٌ مِنَ المَنَاطِقَةِ. نَعَمْ يَنْبَغِي التَّقييدُ بِالبَعْضِ الَّذِي يَحْصُلُ بِتَصَفْحِهِ ظَنُّ عُمُومِ الحُكْمِ. اهـ بِتَصَرُّف. وَجَمَلٌ، وَكُلُّ مَا كَانَ كَذَلِكَ يُحَرِّكُ فَكَهُ الأَسْفَلَ عِندَ المَضْعَ ينتج كُلُّ حَيَوَانِ يُحَرِّكُ فَكَهُ الْأَسْفَلَ عِنْدَ المَضْعَ، وفساد هذا جاء من فساد الصُّغرى؛ لأنَّ فيها الحكم لبعض الجزئيات على الكلي. اهـ صبان بالمعنى. قَوْلُهُ : (وَهْوَ الَّذِي قَدَّمْتُهُ) أَيْ فِي قَوْلِهِ : إِنَّ القِيَاسَ مِنْ قَضَايَا صُوِّرًا ... إلخ. قَوْلُهُ : (وَعَكْسُهُ يُدْعَى ... إلخ) أَيْ: وَمُفِيدُ عَكْسِهِ يُدْعَى ... إلخ، كَمَا أَشَارَ لَهُ الشَّيْخُ المَلوِيُّ فِي كَبِيرِهِ، وَذَلِكَ لِأَنَّ عَكْسَ مَا ذُكِرَ هُوَ الِاسْتِدْلَالُ بِالكُلِّيِّ عَلَى الجُزْنِيِّ، وَلَيْسَ ذَلِكَ هُوَ المُسَمَّى بِالقِيَاسِ المَنْطِقِيّ، وَإِنَّمَا المُسَمَّى نَفْسُ المُقَدِّمَتَيْنِ المُسْتَدَلَّ بِهِمَا، فَلَا بُدَّ مِنْ تَقْدِيرِ المُضَافِ المَذْكُورِ فِي كَلَامِ المُصَنِّفِ.
+And its opposite is called logical syllogism, which is what I presented in al-Bajuri. The correct view, as stated by Sa'd, is what Hujjat al-Islam mentioned: that it is a survey of particular matters to judge by their ruling on a matter that encompasses those particulars. Then: if those matters are all the particulars, that survey is complete induction. And if they are most of them, it is incomplete induction. Thus said some of the verifiers, and similar is in Jam' al-Jawami'. Its implication is that it is required in incomplete induction that the surveyed matters be most of the particulars, which is what many logicians follow. And it follows from this that what is half or less of the particulars is excluded, so it is not induction. Ibn Qasim in al-Ayat objected that the jurists relied on induction in issues while the surveyed matters therein were not most of the particulars, as in their ruling: 'The minimum of menstruation is a day and a night, and its maximum is fifteen days, and its usual is six or seven'. For they stated that the basis of Imam al-Shafi'i in that is induction, and it is known that he did not survey all the women of the world nor most of them. He said: so the proper course is to drop the restriction to 'most', even if many logicians restricted it. Yes, it should be restricted to the part from whose survey a presumption of generality of the ruling results. End with modification. And 'jaml', and everything that is like that moves its lower jaw while chewing, yields: 'Every animal moves its lower jaw while chewing', and the corruption of this came from the corruption of the minor premise, because in it there is a ruling of some particulars on the universal. End from Subban with meaning. His statement: (and it is the one I presented) means in his statement: 'Indeed the syllogism is from premises... etc.' His statement: (and its opposite is called... etc.) means: the producer of its opposite is called... etc., as indicated by al-Mallawi in his commentary, and that is because the opposite of what was mentioned is deduction from the universal to the particular, and that is not what is called logical syllogism; rather, what is called is the two premises themselves that are used for deduction, so it is necessary to assume the omitted genitive construct in the author's statement.
+Source pages p. 331
+
+Commentary
+This passage is a commentary on verse (112) of al-Sullam al-Munawraq, defining induction (istiqra') and clarifying a terminological confusion regarding the term 'aks (opposite). The author begins by stating that the opposite of the previously defined syllogism is called 'logical syllogism', but the commentator corrects this: the correct understanding is that induction is a survey of particulars to judge a universal encompassing them. This definition is attributed to al-Ghazali and adopted by Sa'd al-Din al-Taftazani. Induction is then divided into two types: complete (tamm) when all particulars are surveyed, and incomplete (naqis) when most are surveyed. The condition for incomplete induction is that the surveyed must be the majority of the particulars, a view held by many logicians. However, this condition would exclude cases where half or fewer are surveyed. Ibn Qasim objects using a fiqh example: the jurists' ruling on the minimum, maximum, and usual duration of menstruation is based on induction, yet Imam al-Shafi'i did not survey all women or even most of them. Therefore, the condition of 'most' should be dropped; instead, the surveyed portion must be such that it produces a presumption (zann) of the generality of the ruling. The commentator then adds a separate note on the term 'aks: the opposite of induction is deduction from universal to particular, but that is not called logical syllogism; rather, the proper term applies to the two premises that produce that deduction. Finally, an example of a flawed syllogism is given: 'Everything that is like that moves its lower jaw while chewing' as a universal statement derived from observing some animals, demonstrating the error of judging a universal from only some particulars.
+
+Key Terms
+عكس
+مفيد العكس
+قياس منطقي
+مقدمتان
+استدلال
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator, what is correctly called 'logical syllogism'?
+A) The opposite of induction
+B) The two premises used for deduction
+C) The deductive inference from universal to particular
+D) The act of induction
+
+Key Takeaway
+The term 'logical syllogism' refers to the premises that produce a deductive inference, not the inference itself.
+
+How This Lesson Applies — to MY Life?
+?
+Given the phrase 'The opposite of induction is logical syllogism', reformulate it correctly according to the commentator's correction. Answer: 'The producer of the opposite of induction (i.e., the premises) is called logical syllogism.'
+?
+Identify whether the following statement aligns with the corrected view: 'Logical syllogism is the two premises that necessitate a conclusion.' Answer: Yes, it matches.
+
+Pages p. 331 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 332
+Module 12 · Lesson 10
+Next →
+Induction and Analogy
+beginner
+5 min
+Induction and Analogy: Why They Do Not Yield Certainty
+Author states that induction and analogy do not yield certainty
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish inductive and analogical reasoning from demonstrative syllogisms and explain why they yield only presumption (zann) rather than certainty (qat').
+
+Core Idea
+Induction and analogy give probability, not certainty—only categorical syllogisms with certain premises reach qat'.
+
+In Islamic logic, not every argument yields certainty. The author of al-Sullam states bluntly that both induction (istiqra') and analogy (tamthil) fail to produce certain conclusions. The commentator clarifies that 'evidence' in the verse actually refers to the conclusion itself. This distinction is foundational for evaluating which arguments count as proof in kalam and fiqh.
+
+Guided Path
+1
+Locate the two reasoning forms
+Find 'qiyas al-istiqra'' (inductive syllogism) and 'qiyas al-tamthil' (analogical syllogism) in the Arabic text. These are the two types of reasoning being discussed.
+They appear in the verse and commentary.
+2
+Analyze the epistemic claim
+The text says 'لا يفيد القطع'—they do not benefit certainty. What does that mean? It means they do not produce yaqin (certainty) but only zann (presumption).
+Certainty is only possible with valid categorical syllogisms whose premises are certain.
+3
+Understand the terminological clarification
+The commentator reinterprets 'dalil' (evidence) as 'madlul' (the object of indication, i.e., the conclusion). This clarifies that the claim is about the conclusion's certainty, not the evidence itself.
+This avoids confusion: induction and analogy may still be used as evidence, but their conclusions are probabilistic.
+4
+Contrast with certain arguments
+Consider the difference: a first-figure categorical syllogism with certain premises (e.g., 'Every temporally originated thing has a cause; the world is temporally originated; therefore it has a cause') yields certainty. Induction and analogy cannot achieve this because they rely on incomplete enumeration or similarity.
+This contrast highlights why only certain argument forms are used for foundational proofs in kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(114) وَلَا يُفِيْدُ القَطعَ بِالدَّلِيلِ قِيَاسُ الِاسْتِقْرَاءِ، وَالتَّمْثِيْلِ. قَوْلُهُ : (وَلَا يُفِيدُ القَطعَ بِالدَّلِيلِ... إلخ) المُرَادُ بِـ الدَّلِيلِ : المَدْلُولُ، فَالمَعْنَى : أَنَّ كُلًّا مِنْ قِيَاسِ الِاسْتِقْرَاءِ وَقِيَاسِ التَّمْثِيلِ لَا يُفيدُ القَطعَ بِالمَدْلُولِ الَّذِي اسْتُدِلَ عَلَيْهِ بِهِمَا.
+And the syllogism of induction and analogy do not benefit certainty through the evidence. His statement: (they do not benefit certainty through the evidence... etc.) The intended meaning of 'evidence' is the object of indication. So the meaning is that both the inductive syllogism and the analogical syllogism do not benefit certainty regarding the object of indication that is inferred by them.
+Source pages p. 332
+
+Commentary
+This passage explains verse (114) of al-Sullam, which states that both inductive reasoning (qiyas al-istiqra') and analogical reasoning (qiyas al-tamthil) do not produce certainty (qat') in the conclusion. The commentator clarifies that 'dalil' in the verse means 'madlul' (the object of indication), i.e., the conclusion itself. Thus, the verse affirms that these two types of reasoning are probabilistic, not demonstrative. This is an important epistemological principle in Islamic logic: only categorical syllogisms (qiyas iqtirani) with certain premises can yield certain knowledge. Induction and analogy, being based on limited or comparable instances, only provide presumption (zann). This distinction is crucial for evaluating arguments in fiqh, kalam, and other disciplines.
+
+Key Terms
+قياس الاستقراء
+قياس التمثيل
+دليل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this passage, what is the epistemic status of conclusions from induction and analogy?
+A) They are certain (qat'i)
+B) They are presumptive (zanni)
+C) They are impossible
+D) They are both certain and presumptive
+
+Key Takeaway
+Inductive and analogical reasoning provide only probabilistic conclusions (zann), not certainty (qat').
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument: 'We have observed that every piece of khamr (wine) we tested is an intoxicant, so all intoxicants are khamr.' Identify why this induction does not yield certainty according to this lesson.
+?
+Explain why analogical reasoning (tamthil) cannot produce certainty in matters of 'aqida, using the reasoning from the passage.
+
+Pages p. 332 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 333
+Module 12 · Lesson 11
+Next →
+Induction and Analogy
+intermediate
+8 min
+Why Incomplete Induction and Analogy Lack Certainty
+Author explains that incomplete induction and analogy cannot produce certain knowledge.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish incomplete induction from complete induction and explain why analogy does not produce certainty, using examples from Islamic jurisprudence.
+
+Core Idea
+Incomplete induction and analogy yield probability, not certainty, because unexamined cases may contradict the pattern.
+
+Not every method of reasoning delivers certainty. In Islamic logic, both induction (istiqra') and analogy (tamthil) are widely used, yet as this passage explains, they often fall short of producing certain knowledge (qat'). Understanding why is crucial for evaluating arguments in fiqh, kalam, and usul al-fiqh.
+
+Guided Path
+1
+Interpret 'dalil' as 'madlul'
+Bajuri clarifies that the term 'dalil' in the matn actually refers to the thing evidenced (madlul), not the evidence itself. This sets the stage: the focus is on whether these methods yield certainty about the conclusion.
+This terminological shift is specific to this commentary.
+2
+Grasp the limitation of incomplete induction
+Incomplete induction (istiqra' naqis) examines only some particulars. The conclusion is not certain because unexamined instances may contradict the pattern. For example, observing many types of wine and finding them intoxicating does not guarantee that all intoxicants are wine—there might be exceptions.
+Complete induction (istiqra' tamm) where all particulars are examined does yield certainty, as in the example of all animals dying.
+3
+Recognize the weakness of analogy
+Analogy (tamthil) infers a ruling for one thing based on its similarity to another in some attribute. But similarity in one respect does not guarantee similarity in another. For instance, wine and nabidh may share intoxication but may differ in other rulings like impurity.
+This is the core epistemological objection to analogical reasoning.
+4
+Understand the grammatical clarification
+The phrase 'qiyas al-istiqra’ wa al-tamthil' could be misinterpreted as one combined syllogism. Bajuri explains that it means 'the syllogism of induction and the syllogism of analogy'—two independent types, not one compound.
+This avoids confusion about the independence of each method.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَلَا يُفِيْدُ القَطعَ بِالدَّلِيلِ قِيَاسُ الِاسْتِقْرَاءِ، وَالتَّمْثِيْلِ
+
+الباجوري
+قَوْلُهُ : (وَلَا يُفِيْدُ القَطعَ بِالدَّلِيلِ... إلخ) المُرَادُ بِـ «الدَّلِيلِ : المَدْلُولُ، فَالمَعْنَى : أَنَّ كُلًّا مِنْ قِيَاسِ الِاسْتِقْرَاءِ وَقِيَاسِ التَّمْثِيلِ لَا يُفيدُ القَطعَ بِالمَدْلُولِ الَّذِي اسْتُدِلَ عَلَيْهِ بِهِمَا :
+
+- أَمَّا الأَوَّلُ ، فَلِأَنَّهُ رُبَّمَا يَكُونُ بَعْضُ الأَفْرَادِ الَّتِي لَمْ تَتَصَفَّحْهَا عَلَى خِلَافِ مَا تَصَفَّحَتَهُ كَمَا تَقَدَّمَ تَوْضِيحَهُ، وَمِنْ هَذَا يُعْلَمُ : أَنَّ الكَلَامَ هُنَا فِي خُصُوصِ الاسْتِقْرَاءِ النَّاقِصِ، لَا فِي مَا يَشْمَلُ الِاسْتِقَرَاءَ التَّامَّ؛ لِأَنَّهُ يُفِيدُ القَطعَ بِالَّذِي اسْتُدِلَ عَلَيْهِ بِهِ، كَمَا إِذَا تَصَفَّحْتَ جَمِيعَ جُزْنِيَّاتِ الحَيَوَانِ، فَوَجَدْتَ المَوْتَ لازماً لَهَا فَاسْتَدَلَّيْتَ بِذَلِكَ عَلَى: «أَنَّ كُلَّ حَيَوَانٍ يَمُوتُ .
+
+- وَأَمَّا الثَّانِي، فَلِأَنَّهُ لَا يَلْزَمُ مِنْ تَشَابُهِ الأَمْرَيْنِ فِي شَيْءٍ أَنَّهُمَا كَذَلِكَ فِي شَيْءٍ آخَرَ .
+
+قَوْلُهُ: قِيَاسُ الِاسْتِقْرَاءِ، وَالتَّمْثِيْلِ الإِضَافَةُ لِلجِنْسِ، أَوْ أَنَّ قَوْلَهُ: وَالتَّمْشِيلِ مَعْطُوفٌ عَلَى الاسْتِقْرَاءِ» بِمُلَاحَظَةِ المُضَافِ المَحْذُوفِ ؛ لِدَلَالَةِ المُصَافِ الأَوَّلِ عَلَيْهِ. فَانْدَفَعَ الِاعْتِرَاضُ : بِأَنَّ كُلَّا مِنَ الِاسْتِقْرَاءِ وَالتَّمْثِيلِ قِيَاسٌ مُسْتَقِلٌ، وَمُقْتَضَى عِبَارَتِهِ أَنَّ مَجْمُوعَهُمَا قِيَاسُ وَاحِدٌ .
+And the syllogism of induction and analogy do not produce certainty by the evidence. Al-Bajuri: His statement: 'do not produce certainty by the evidence... etc.' What is meant by 'evidence' is the thing evidenced (madlul). So the meaning is that each of the syllogism of induction and the syllogism of analogy does not produce certainty about the thing evidenced that is inferred by them. As for the first, because it is possible that some of the individuals that you have not examined are contrary to what you have examined, as its clarification has preceded. And from this it is known that the discussion here is specifically about incomplete induction, not about including complete induction; because it produces certainty about what is inferred by it, as when you examine all the particulars of animal, and you find death necessary for them, and you infer by that that every animal dies. As for the second, because it does not necessarily follow from the similarity of two things in something that they are likewise in another thing. His statement: 'the syllogism of induction and analogy' the genitive construction is for the genus, or his statement 'and analogy' is conjoined to 'induction' by noting the omitted genitive; because the first genitive indicates it. So the objection is repelled: that each of induction and analogy is an independent syllogism, and the implication of his expression is that both together are one syllogism.
+Source pages p. 333
+
+Commentary
+This passage is an epistemological critique from Bajuri's hashya on the matn line stating that qiyas al-istiqra' (inductive syllogism) and tamthil (analogy) do not produce certainty (qat'). Bajuri first clarifies that the term 'dalil' (evidence) in the matn actually means 'madlul' (the thing evidenced), so the meaning is that these types of reasoning do not yield certain knowledge of the conclusion. He then gives two reasons. First, for istiqra': it is possible that the unexamined individuals contradict the examined ones. This shows that the text refers specifically to incomplete induction (istiqra' naqis). Complete induction (istiqra' tam), where all particulars are examined, does yield certainty, as in the example of examining all animals and finding that death is necessary for each, thus concluding that every animal dies. Second, for tamthil: the mere similarity of two things in one attribute does not guarantee similarity in another attribute. This is the fundamental weakness of analogical reasoning. The passage concludes with a grammatical note: the phrase 'qiyas al-istiqra’ wa al-tamthil' could be interpreted as 'qiyas al-istiqra’ wa qiyas al-tamthil' (the syllogism of induction and the syllogism of analogy) to avoid the misconception that the two together constitute one syllogism. The author clarifies that each is an independent syllogism type.
+
+Key Terms
+الاستقراء
+التمثيل
+القطع
+الدليل
+المدلول
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does tamthil (analogy) not produce certainty according to this passage?
+A) Because the commonality may not be the effective cause
+B) Because similarity in one attribute does not guarantee similarity in another
+C) Because analogy depends on incomplete enumeration
+D) Because analogy is not a valid form of reasoning
+
+Key Takeaway
+Incomplete induction and analogy provide probable knowledge, not certainty, due to the possibility of unexamined counterexamples or irrelevant similarities.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Identify whether the following inductive argument is complete or incomplete, and state whether it yields certainty: 'I observed that wine is prohibited because it is intoxicating. I also observed that nabidh is intoxicating. Therefore, all intoxicants are prohibited.' Explain why.
+?
+Task 2: Consider the analogy: 'Wine is prohibited because it is intoxicating. Nabidh is intoxicating. Therefore, nabidh is prohibited.' Why does this analogy not produce certainty according to the passage? What additional evidence is needed?
+
+Pages p. 333 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 333
+Module 12 · Lesson 12
+Next →
+Induction and Analogy
+intermediate
+10 min
+Induction and Analogy: Why They Fall Short of Certainty
+Author explains why inductive and analogical reasoning do not produce certain knowledge.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and between induction and analogy, and explain why incomplete induction and analogy do not yield certain knowledge according to Islamic logicians.
+
+Core Idea
+Only complete induction yields certainty; partial induction and analogy are probable at best.
+
+Not all arguments in Islamic logic are treated equally. Some, like the burhan (demonstration), yield absolute certainty (qat‘). Others, such as istiqra' (induction) and tamthil (analogy), are considered non-demonstrative. This passage from the logical tradition explains exactly why they fail to produce certainty, while also clarifying the special case of complete induction. Understanding this distinction is crucial for evaluating the strength of evidence in kalam, fiqh, and usul al-fiqh.
+
+Guided Path
+1
+Identify the central claim
+Read the opening sentence: 'And the qiyas of induction and analogy do not yield certainty by proof.' The author asserts that both types of reasoning are not demonstrative. Note that 'qiyas' here means 'argument' in a broad sense, not necessarily a categorical syllogism.
+2
+Examine the reason for induction
+The author distinguishes incomplete induction from complete induction. Incomplete induction only examines some individuals, so unexamined ones might contradict the observed pattern. Complete induction examines every individual, so the conclusion is certain. The example given: 'Every animal dies' after examining all animals.
+In fiqh, incomplete induction is often used to derive general rulings from a limited set of cases, but it only yields probability (zann).
+3
+Analyze the reason for analogy (tamthil)
+The author states that similarity in one attribute does not guarantee similarity in another. The commentator gives an example: nabidh (date wine) is intoxicating, and every intoxicant (khamr) is forbidden, therefore nabidh is forbidden. This is an analogical argument. While it may be valid in fiqh as qiyas shar'i, logicians classify it as tamthil and note that it does not produce certainty because the common attribute (intoxication) may not be the effective cause ('illah) in all cases.
+In usul al-fiqh, the validity of qiyas depends on establishing the 'illah; without it, the analogy is weak.
+4
+Understand the commentator's grammatical clarification
+The phrase 'qiyas of induction and analogy' could be read as one compound qiyas or as two independent qiyases. The commentator explains that the grammar allows both interpretations, but the intended meaning is that each is a separate type. This resolves the potential objection that the wording implies they are a single argument.
+This grammatical point shows how careful logicians were about precise terminology.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَلَا يُفِيْدُ القَطعَ بِالدَّلِيلِ قِيَاسُ الاِسْتِقْرَاءِ، وَالتَّمْثِيْلِ
+- أَمَّا الأَوَّلُ ، فَلِأَنَّهُ رُبَّمَا يَكُونُ بَعْضُ الأَفْرَادِ الَّتِي لَمْ تَتَصَفَّحْهَا عَلَى خِلَافِ مَا تَصَفَّحَتَهُ كَمَا تَقَدَّمَ تَوْضِيحَهُ، وَمِنْ هَذَا يُعْلَمُ : أَنَّ الكَلَامَ هُنَا فِي خُصُوصِ الاسْتِقْرَاءِ النَّاقِصِ، لَا فِي مَا يَشْمَلُ الِاسْتِقَرَاءَ التَّامَّ؛ لِأَنَّهُ يُفِيدُ القَطعَ بِالَّذِي اسْتُدِلَ عَلَيْهِ بِهِ، كَمَا إِذَا تَصَفَّحْتَ جَمِيعَ جُزْنِيَّاتِ الحَيَوَانِ، فَوَجَدْتَ المَوْتَ لازماً لَهَا فَاسْتَدَلَّيْتَ بِذَلِكَ عَلَى: «أَنَّ كُلَّ حَيَوَانٍ يَاتُ». وَأَمَّا الثَّانِي، فَلِأَنَّهُ لَا يَلْزَمُ مِنْ تَشَابُهِ الأَمْرَيْنِ فِي شَيْءٍ أَنَّهُمَا كَذَلِكَ فِي شَيْءٍ آخَرَ . قَوْلُهُ: قِيَاسُ الِاسْتِقْرَاءِ، وَالتَّمْثِيْلِ الإِضَافَةُ لِلجِنْسِ، أَوْ أَنَّ قَوْلَهُ: وَالتَّمْشِيلِ مَعْطُوفٌ عَلَى الاسْتِقْرَاءِ بِمُلَاحَظَةِ المُضَافِ المَحْذُوفِ ؛ لِدَلَالَةِ المُصَافِ الأَوَّلِ عَلَيْهِ. فَانْدَفَعَ الِاعْتِرَاضُ : بِأَنَّ كُلَّا مِنَ الِاسْتِقْرَاءِ وَالتَّمْثِيلِ قِيَاسٌ مُسْتَقِلٌ، وَمُقْتَضَى عِبَارَتِهِ أَنَّ مَجْمُوعَهُمَا قِيَاسُ وَاحِدٌ . وَ«التمثيل»: «قياساً» : أنَّه يمكن تركيب القياس منه ؛ كأن يقال مشيراً إلى النبيذ : هَذَا مُسْكِرٌ ، وَكُلُّ مُسْكِرٍ حَرَامٌ» فـ: هَذَا حرام .
+And the qiyas of induction and analogy do not yield certainty by proof. As for the first, because it is possible that some individuals you have not examined are contrary to what you examined, as was previously clarified. From this it is known that the discussion here concerns specifically incomplete induction, not what includes complete induction, for it yields certainty of what is inferred by it, as when you examine all the individuals of animal, and you find that death is necessary for them, so you infer by that: 'Every animal dies'. As for the second, because similarity of two things in one thing does not necessitate that they are likewise in another thing. His statement: 'qiyas of induction and analogy' is a genitive construction for the genus, or that his statement 'and analogy' is coordinated with 'induction' by considering the omitted genitive, because the first genitive indicates it. So the objection is repelled: that each of induction and analogy is an independent qiyas, while his expression requires that both together are one qiyas. And 'al-tamthil' (analogy) is [like] a qiyas: it is possible to construct a qiyas from it, as when one says, pointing to nabidh: 'This is an intoxicant, and every intoxicant is forbidden,' so 'this is forbidden.'
+Source pages p. 333
+
+Commentary
+This passage is an epistemological critique of two types of reasoning: inductive and analogical. The author states that neither yields certainty (qat') when used as evidence (dalil). For induction (istiqra'), the reason is that partial examination may miss exceptions; the author explicitly limits the discussion to incomplete induction, since complete induction (examining all individuals) does yield certainty, as when one observes that all animals die. For analogy (tamthil), the problem is that two things sharing one property does not guarantee they share another. The commentator then addresses a grammatical point: whether 'qiyas al-istiqra' wa al-tamthil' treats them as a single compound or two independent qiyases. He explains that the phrase can be read as a genitive construction for the genus (i.e., 'the qiyas that is induction and analogy') or as coordinating 'analogy' with 'induction' by assuming an omitted genitive, thus each is independent. The objection that the wording implies they are one qiyas is thus resolved. Finally, the author gives an example of analogy: noting that nabidh (date wine) is intoxicating, and that every intoxicant (khamr) is haram, then concluding that nabidh is haram. This is a classic analogical argument in fiqh (qiyas shar'i), but logicians classify it as tamthil, not yielding certainty.
+
+Key Terms
+الاستقراء
+التمثيل
+الاستقراء الناقص
+الاستقراء التام
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does incomplete induction not yield certainty, according to the author?
+A) Because it is based on a single individual
+B) Because unexamined individuals may contradict the observed ones
+C) Because it is a form of qiyas iqtirani
+D) Because it relies on authoritative statements
+
+Key Takeaway
+Incomplete induction and analogy are useful but do not produce certain knowledge; only complete induction, by examining all individuals, yields certainty.
+
+How This Lesson Applies — to MY Life?
+?
+A scholar argues: 'I examined ten samples of water from different sources and all were H2O, therefore all water is H2O.' Identify whether this is complete or incomplete induction. Does it yield certainty according to the passage? Explain why or why not.
+?
+Another scholar says: 'Wine is haram because it intoxicates; beer also intoxicates, so beer is haram.' Classify this reasoning as induction or analogy. Based on the passage, is this argument certain? What would need to be added to make it more rigorous in usul al-fiqh?
+
+Pages p. 333 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 663
+Module 12 · Lesson 13
+Next →
+Induction and Analogy
+intermediate
+5 min
+The Necessity of Syllogistic Form for Induction and Analogy
+Necessity of syllogistic mold for induction and analogy
+
+Learning Objective
+By the end of this lesson, you will be able to identify when an inductive or analogical argument has been properly cast into a categorical syllogism and assess whether the entailment is certain.
+
+Core Idea
+Induction and analogy only convey certainty when framed as a logical syllogism.
+
+This passage expands on the condition that induction (istiqra') and analogy (tamthil) do not produce necessary entailment unless they are cast in the form of a logical syllogism. The author illustrates with an analogical argument from fiqh and its syllogistic reformulation, explaining why the latter guarantees entailment even if the premises are probable.
+
+Guided Path
+1
+Identify the original analogical argument
+Look at the example: 'Nabidh is forbidden because wine is forbidden, and the cause is intoxication, which is present in nabidh.' This is an analogical argument (tamthil) commonly used in usul al-fiqh.
+The conclusion is 'therefore nabidh is forbidden' but the argument does not have a universal premise linking intoxication to prohibition.
+2
+Note why analogy fails to guarantee entailment
+The author says that even if you concede the premises, the conclusion does not follow necessarily because there might be a distinguishing factor (farq) between nabidh and wine that nullifies the application of the ruling. The analogy leaves room for doubt.
+This is a common critique of analogical reasoning in Islamic legal theory.
+3
+Reformulate as a categorical syllogism
+The author reformulates: 'Nabidh is an intoxicant. Every intoxicant is forbidden. Therefore nabidh is forbidden.' This is a categorical syllogism in the first figure: the middle term is 'intoxicant'.
+The universal major premise 'every intoxicant is forbidden' makes the conclusion entailed with certainty, even if the premises are only probable (dhanni).
+4
+Recognize the role of syllogistic form
+The syllogistic form ensures that if the premises are true, the conclusion must follow. The certainty is in the entailment (luzum), not in the truth of the conclusion. The author also gives an example from induction: 'This is an eater, every eater moves its lower jaw' – again a categorical syllogism.
+Thus, both induction and analogy require syllogistic form to produce necessary entailment.
+5
+Apply to a grammar example
+The author mentions: 'This is a subject, and every subject is nominative' – a logical syllogism. This shows that even in Arabic grammar, the same principle applies: the connection between subject and nominative case is certain when expressed syllogistically.
+Induction provides the major premise; syllogistic form provides the logical necessity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله : (إِذَا لَمْ يُفْرَغَا فِي قَالَبِ القِيَاسِ المَنْطِقِي) كما إذا قلنا في التَّمثيل: «النَّبيذُ حرام؛ لأنَّ الخمر حرام، وعلة حرمتها : الإسكار، وهو موجود في النبيذ، فالمطلوب: «النبيذ حرام»، هي ما بعده، فبعد تسليمه لا يلزم عقلاً أنَّ النبيذ حرام؛ لإمكان أن يوجد فارقٌ بين النبيذ والخمر يلغي اعتبار الإسكار فيه، ويمنع من إلحاقه بالخمر في التَّحريم؛ أما إذا أفرغا فيه فيفيدان القطع باللزوم؛ كقولك: «النَّبيذُ مسكر ، وكل مسكر حرام، وإن كانت النتيجة ظنية؛ لكون مقدِّمتي القياس ظنيَّتين، وكقولك في الاستقراء : هذا آكل، وكلُّ آكل يحرك فكه الأسفل»، فهو قياس منطقي ؛ للقطع بلزوم النتيجة، وإن كانتِ الكبرى ظنّيَّة، فقولنا في النَّحو: «هذا فاعل، وكلُّ فاعل مرفوع» قياس منطقي، وإنَّما الاستقرائي دليل كبراه.
+His saying: 'When they are not cast in the mold of logical qiyas' — as when we say in analogy: 'Nabidh is forbidden because wine is forbidden, and the cause of its prohibition is intoxication, and it is present in nabidh, therefore the desired conclusion: nabidh is forbidden' — after conceding it, it does not necessarily follow rationally that nabidh is forbidden, because it is possible that there exists a difference between nabidh and wine that nullifies the consideration of intoxication in it and prevents its being annexed to wine in prohibition. But if they are cast into it (the mold), they provide certainty of entailment, like your saying: 'Nabidh is an intoxicant, and every intoxicant is forbidden,' even if the conclusion is probable because the two premises of the qiyas are probable. And like your saying in induction: 'This is an eater, and every eater moves its lower jaw' — this is a logical qiyas, due to the certainty of entailment, even if the major premise is probable. So our saying in grammar: 'This is a subject, and every subject is nominative' is a logical qiyas. Rather, the inductive (statement) is the evidence for its major premise.
+Source pages p. 663
+
+Commentary
+This passage expands on the condition that induction (istiqra') and analogy (tamthil) do not produce necessary entailment unless they are cast in the form of a logical syllogism (qiyas mantiqi). The author provides an example of analogy (qiyas usuli): 'Nabidh is forbidden because wine is forbidden, and the cause is intoxication, which is present in nabidh.' Even if the premises are granted, the conclusion does not follow necessarily because there might be a distinguishing factor (farq) that prevents the application of the ruling. In contrast, when the same reasoning is put into syllogistic form: 'Nabidh is intoxicating, and every intoxicating thing is forbidden, therefore nabidh is forbidden,' the entailment is certain (qat'i), even if the premises are only probable (dhanni). Similarly, for induction: the example 'This is an eater, and every eater moves its lower jaw' is a logical syllogism with certainty of entailment, but the major premise is probable. The grammar example 'This is a subject, and every subject is nominative' is a logical syllogism. The author concludes that the inductive evidence (al-istiqra') is used to establish the major premise, not to directly yield the conclusion without syllogistic form.
+
+Key Terms
+الاستقراء
+التمثيل
+قالب القياس المنطقي
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say that the analogy 'Nabidh is forbidden because wine is forbidden and shares intoxication' does not guarantee the conclusion?
+A) The premises are false.
+B) There might be a distinguishing factor that prevents the analogy.
+C) The conclusion is false.
+D) The syllogism is invalid.
+
+Key Takeaway
+Induction and analogy only produce certain entailment when expressed in the form of a categorical syllogism; otherwise, they remain probable.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following analogical argument from usul al-fiqh: 'Riba (usury) is forbidden in wheat because it is a staple food; barley is also a staple food, so it is forbidden.' Identify why this analogy does not guarantee entailment, then reformulate it into a categorical syllogism with a universal premise.
+?
+Consider the inductive generalization: 'Every observed cat has whiskers, therefore all cats have whiskers.' Cast this induction into a categorical syllogism and state whether the conclusion is certain or probable, explaining why.
+
+Pages p. 663 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 710
+Module 12 · Lesson 14
+Next →
+Induction and Analogy
+beginner
+5 min
+Induction and Analogy: Reasoning Without Certainty
+Author defines induction and analogy as non-demonstrative reasoning.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between induction and analogy and explain why they do not yield certainty.
+
+Core Idea
+Induction and analogy are useful but not certain: a single counterexample can refute them.
+
+This lesson introduces two important non-demonstrative arguments: induction (istiqrā') and analogy (tamthīl). While they are widely used in Islamic jurisprudence and other sciences, they cannot provide the logical certainty of a categorical syllogism. The author defines each and highlights their probabilistic nature through the example of the crocodile.
+
+Guided Path
+1
+Identify the two types of non-demonstrative reasoning
+Locate in the passage where the author mentions 'induction' (al-istiqrā') and 'analogy' (al-tamthīl) as appendices of syllogism.
+2
+Extract the definition of induction
+Find the verse: 'If a particular is used to argue for the universal, that is induction.' Then read the commentary: induction is the examination of particulars to judge a universal.
+3
+Understand why induction lacks certainty
+Note that the induction meant here is 'incomplete induction' (istiqrā' nāqiṣ). The commentator explains that there may be an unexamined particular with a contrary ruling, like the crocodile moving its upper jaw instead of lower.
+4
+Extract the definition of analogy
+Find the verse: 'Whenever a particular is predicated of a particular due to a commonality, that is made analogy.' Analogy moves from one particular to another based on a shared attribute.
+5
+Compare to demonstrative syllogism
+The passage states that the opposite of induction (universal to particular) is the logical syllogism (qiyas manṭiqī), which yields certainty. Contrast this with induction and analogy, which do not.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثُمَّ أَشَارَ إِلَى الثَّانِي وَالثَّالِثِ مِنْ لَوَاحِقِ الْقِيَاسِ، وَهُمَا: الِاسْتِقْرَاءُ، وَالتَّمْثِيلُ. فَقَالَ: (وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّ اسْتُدِلَّ فَذَاكَ الِاسْتِقْرَاءُ عِنْدَهُمْ عُقِلْ) (وَعَكْسُهُ يُدْعَى الْقِيَاسَ الْمَنْطِقِيَّ وَهُوَ الَّذِي قَدَّمْتُهُ فَحَقِّقْ) (وَحَيْثُ جُزْئِيٌّ عَلَى جُزْئِيٍّ حُمِلَ لِجَامِعٍ فَذَاكَ تَمْثِيلٌ جُعِلْ) (وَلَا يُفِيدُ الْقَطْعَ بِالدَّلِيلِ قِيَاسُ الِاسْتِقْرَاءِ وَالتَّمْثِيلِ). اعْلَمْ أَنَّ الِاسْتِقْرَاءَ هُوَ: تَصَفُّحُ أُمُورٍ جُزْئِيَّةٍ لِيُحْكَمَ بِحُكْمِهَا عَلَى أَمْرٍ يَشْمَلُ تِلْكَ الْجُزْئِيَّاتِ. قَالَ النَّاظِمُ: (وَلَا يُفِيدُ الْقَطْعَ بِالدَّلِيلِ) أَيْ: الْمَدْلُولِ لَهُمَا، وَهُوَ نَتِيجَتُهُمَا، وَالِاسْتِقْرَاءُ الْمَحْكُومُ عَلَيْهِ بِمَا ذُكِرَ هُوَ النَّاقِصُ كَمَا تَقَدَّمَ؛ لِجَوَازِ وُجُودِ جُزْئِيٍّ لَمْ يُسْتَقْرَأْ؛ أَيْ: لَمْ يُتَصَفَّحْ، وَلَمْ يُعْرَفْ، أَوْ يَكُونَ حُكْمُهُ مُخَالِفًا لِمَا اسْتُقْرِئَ كَالتِّمْسَاحِ، فَإِنَّهُ حَيَوَانٌ بَحْرِيٌّ لَا يُحَرِّكُ فَكَّهُ الْأَسْفَلَ عِنْدَ الْمَضْغِ، بَلِ الْأَعْلَى. وَفِي حَيَاةِ الْحَيَوَانِ: إِنَّ التِّمْسَاحَ حَيَوَانٌ عَلَى صُورَةِ الضَّبِّ، وَهُوَ مِنْ أَعْجَبِ حَيَوَانِ الْمَاءِ، لَهُ فَمٌ وَاسِعٌ وَسِتُّونَ نَابًا فِي فَكِّهِ الْأَعْلَى، وَأَرْبَعُونَ فِي فَكِّهِ الْأَسْفَلِ، وَبَيْنَ كُلِّ نَابَيْنِ سِنٌّ صَغِيرٌ مُرَبَّعٌ يَدْخُلُ بَعْضُهَا فِي بَعْضٍ عِنْدَ الْإِطْبَاقِ، وَلِسَانٌ طَوِيلٌ، وَظَهْرٌ كَظَهْرِ السُّلَحْفَاةِ لَا يَعْمَلُ فِيهِ الْحَدِيدُ، وَلَهُ أَرْبَعَةُ أَرْجُلٍ وَذَنَبٌ طَوِيلٌ، وَهُوَ لَا يَكُونُ إِلَّا فِي مِصْرَ خَاصَّةً، لَا يُقْتَلُ إِلَّا مِنْ إِبْطِهِ، وَيَعْظُمُ ...
+Then he alluded to the second and third of the appendices of syllogism, which are: induction (istiqrā') and analogy (tamthīl). He said: 'And if a particular is used to argue for the universal, that is induction, according to them, understood.' 'And its opposite is called the logical syllogism, which I have previously presented, so verify it.' 'And whenever a particular is predicated of a particular due to a commonality, that is made analogy.' 'And the syllogism of induction and analogy do not yield certainty with the proof.' Know that induction is: the examination of particular matters to judge by their ruling on a matter that includes those particulars. The author said: 'And it does not yield certainty with the proof' – i.e., the thing indicated by them, which is their conclusion. And the induction judged as described is the incomplete [induction], as previously mentioned; because of the possibility of a particular existing that was not included in the induction – i.e., not examined and not known – or that its ruling may be contrary to what was induced, like the crocodile, for it is a marine animal that does not move its lower jaw when chewing, but rather the upper. And in 'The Life of Animals': The crocodile is an animal in the form of a ḍabb (lizard), and it is among the most amazing animals of the water; it has a wide mouth, sixty fangs in its upper jaw, forty in its lower jaw, and between every two fangs is a small square tooth, some of which interlock when closing, a long tongue, a back like the back of a turtle that iron does not work on, and it has four legs and a long tail. It is only found in Egypt specifically, and is only killed from its armpit, and it becomes large...
+Source pages p. 710
+
+Commentary
+This passage defines two types of non-demonstrative reasoning: induction (istiqrā') and analogy (tamthīl), both classified as appendices of syllogism but lacking certainty. The author quotes verses from the matn: induction is reasoning from particular cases to a universal rule; its opposite (deduction from universal to particular) is the logical syllogism (qiyas manṭiqī). Analogy is reasoning from one particular to another based on a shared feature. The commentator explains that induction is the examination of particular things to derive a ruling covering all of them. However, he clarifies that the induction which does not yield certainty is the incomplete induction (istiqrā' nāqiṣ), as complete induction (covering all particulars) would be certain but is rarely possible. The reason for uncertainty is that there might be an unexamined particular with a contrary ruling. The example given is the crocodile: from examining many land animals, one might induce that all animals move their lower jaw when chewing, but the crocodile is an exception—it moves its upper jaw. A long description of the crocodile is then cited from 'The Life of Animals' to illustrate this exceptional case. This lesson teaches that while induction and analogy are common and useful in Islamic jurisprudence (fiqh) and theology, they are not demonstrative proofs and can be refuted by counterexamples. Analogy (tamthīl) is used extensively in uṣūl al-fiqh where it is called qiyās, but here it is distinguished from the categorical syllogism.
+
+Key Terms
+الاستقراء
+التمثيل
+القياس المنطقي
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does incomplete induction not yield certainty according to this passage?
+A) Because induction is always based on sense perception.
+B) Because there may be a particular that was not examined whose ruling contradicts the induction.
+C) Because induction requires at least ten cases.
+D) Because induction is only used in theology.
+
+Key Takeaway
+Incomplete induction and analogy are probabilistic because a counterexample can always exist; only complete induction and valid syllogism yield certainty.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the logical form of the following argument: 'From examining many land animals, one might conclude all animals move their lower jaw, but the crocodile moves its upper jaw.' Is this an induction or analogy? Why does it fail?
+?
+In fiqh, qiyās (analogy) is used to extend a ruling from a known case to a new case. State one condition that makes a qiyās sound despite being non-demonstrative.
+
+Pages p. 710 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 710
+Module 12 · Lesson 15
+Next →
+Induction and Analogy
+intermediate
+7 min
+Definition and Types of Induction (Istiqra')
+Author defines istiqra' and divides it into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to define induction (istiqra') and distinguish between complete and incomplete induction, identifying what each yields in terms of certainty.
+
+Core Idea
+Induction is inference from particulars to universal; only complete induction gives certainty.
+
+Induction is one of the appendages of qiyas. In this passage, the commentator defines it, provides an example, and divides it into two types. Understanding this is crucial because induction is widely used in Islamic sciences to derive general rulings, but only complete induction is certain.
+
+Guided Path
+1
+Identify the definition of induction
+Find the definition in the Arabic: 'الاستقراء هو تصفح أمور جزئية ليحكم بحكمها على أمر يشمل تلك الجزئيات' – it is the examination of particular things to judge by their ruling upon something that encompasses those particulars.
+Note the direction: from particular to universal.
+2
+Understand the direction of inference
+Induction goes from particular to universal, opposite to logical qiyas (deduction) which goes from universal to particular.
+This contrast is emphasized in the matn and commentary.
+3
+Examine the example
+The commentator gives an example: to judge that every animal moves its lower jaw when chewing, you examine particulars (human, beasts, predators). The examination itself is the evidence (al-istiqra'), and the judgment is the conclusion.
+This illustrates how induction works in practice.
+4
+Distinguish complete from incomplete induction
+Complete induction (تام) examines all particulars and yields certainty; it is also called 'divisive qiyas' (القياس المقسم). Incomplete induction (غير تام) examines only most particulars and yields probability only.
+The passage gives examples: complete – the world's temporal origination; incomplete – the nominative case of the agent in Arabic grammar.
+5
+Apply the distinction to the author's claim
+The matn states that induction does not yield certainty. The commentator clarifies that this refers to the incomplete type, which is what is intended when the term is used without qualification.
+This resolves the apparent contradiction between the definition and the claim.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثُمَّ أَشَارَ إِلَى الثَّانِي وَالثَّالِثِ مِنْ لَوَاحِقِ القِيَاسِ، وَهُمَا : الِاسْتِقْرَاءُ، وَالتَّمْثِيلُ؛ فَقَالَ: (111) وَإِنْ بِجُزْئِيٍّ عَلَى كُلِّ اسْتُدِلْ فَذَاكَ: «الاسْتِقْرَاءُ» عِنْدَهُمْ عُقِلْ (112) وَعَكْسُهُ يُدْعَى : القِيَاسَ المَنْطِقِي وَهُوَ الَّذِي قَدَّمْتُهُ فَحَقِّقِ (113) وَحَيْثُ جُزْئِيٌّ عَلَى جُزْئِي حُمِلَ لِجَامِعٍ فَذَاكَ: «تَمْثِيلٌ» جُعِلْ (114) وَلَا يُفِيدُ القَطْعَ بِالدَّلِيلِ قِيَاسُ الاسْتِقْرَاءِ، وَالتَّمْثِيلِ. اعْلَمْ أَنَّ الاسْتِقْرَاءَ هُوَ : تَصَفُحُ أُمُورٍ جُزْئِيَّةٍ لِيَحْكُمَ بِحُكْمِهَا عَلَى أَمْرٍ يَشْمَلُ تِلْكَ الجُزْئِيَّاتِ. فَهُوَ اسْتِدْلَالٌ بِجُزْئِيٍّ عَلَى كُلِّيٍّ، عَكْسَ القِيَاسِ المَنْطِقِيِّ السَّابِقِ، فَإِذَا أَرَدْتَ الحُكْمَ بِأَنَّ كُلَّ حَيَوَانٍ يُحَرِّكُ فَكَّهُ الأَسْفَلَ عِنْدَ المَضْغِ، فَتَتَبَّعْتَ جُزْئِيَّاتِ الحَيَوَانِ مِنَ الإِنْسَانِ وَالبَهَائِمِ وَالسِّبَاعِ وَغَيْرِهَا، حَصَلَ لَكَ الحُكْمُ المَذْكُورُ، فَالتَّتَبُّعُ المَذْكُورُ هُوَ الدَّلِيلُ، وَهُوَ الحُكْمُ المُسَمَّى بـ : الِاسْتِقْرَاءِ؛ أَخْذاً مِنْ قَوْلِكَ : اسْتَقْرَيْتُ البَلَدَ إِذَا تَتَبَّعْتَهُ قَرْيَةً قَرْيَةً، وَالحُكْمُ المَذْكُورُ هُوَ مَدْلُولُهُ وَنَتِيجَتُهُ. ثُمَّ الِاسْتِقْرَاءُ قِسْمَانِ : 1 - تَامٌ : بِأَنْ تَسْتَقْرِئَ جَمِيعَ الجُزْئِيَّاتِ، فَيُفِيدُ القَطْعَ، وَهُوَ المُسَمَّى بِالقِيَاسِ المُقَسَّمِ كَقَوْلِنَا : العَالَمُ : إِمَّا جِرْمٌ وَإِمَّا عَرَضٌ، وَكُلُّ جِرْمٍ حَادِثٌ، وَكُلُّ عَرَضٍ حَادِثٌ، فَالعَالَمُ حَادِثٌ. 2 - وَالثَّانِي: غَيْرُ تَامٍ بِأَنْ تَسْتَقْرِئَ أَكْثَرَ الجُزْئِيَّاتِ فَقَط، فَلَا يُفِيدُ القَطْعَ، بَلِ الظَّنَّ فَقَط؛ كَقَوْلِنَا : الفَاعِلُ مَرْفُوعٌ بِدَلِيلِ تَتَبُّعِ جُزْئِيَّاتِ كَلَامِ العَرَبِ. وَغَيْرُ التَّامِ هُوَ المُرَادُ عِنْدَ الإِطْلَاقِ، فَلِذَا أَطْلَقَ النَّاظِمُ أَنَّ الاسْتِقْرَاءَ لَا يُفِيدُ القَطْعَ.
+Then he pointed to the second and third of the appendages of qiyas, which are: induction (istiqra') and analogy (tamthil); so he said: (111) And if by a particular upon a universal one infers, then that is called "induction" according to them, understood (112) And its opposite is called "logical qiyas", and it is the one I presented, so verify. (113) And when a particular is predicated upon a particular due to a commonality, then that is designated "analogy". (114) And the qiyas of induction and analogy do not yield certainty by evidence. Know that induction is: the examination of particular things in order to judge by their ruling upon something that encompasses those particulars. So it is an inference from a particular to a universal, opposite to the preceding logical qiyas. For if you wish to judge that every animal moves its lower jaw when chewing, and you examine the particulars of animals—human, beasts, predators, and others—the mentioned judgment results for you. So the mentioned examination is the evidence, and it is the judgment called "induction", taken from your saying "I surveyed the land" when you follow it village by village, and the mentioned judgment is its signification and conclusion. Then induction is of two divisions: 1) Complete: that you examine all particulars, so it yields certainty, and it is called "divisive qiyas", like our saying: The world is either a substance or an accident, and every substance is temporally originated, and every accident is temporally originated, so the world is temporally originated. 2) The second: Incomplete: that you examine only most particulars, so it does not yield certainty, but only probability; like our saying: The agent is nominative, by evidence of examining the particulars of Arabic speech. And the incomplete is what is intended when unqualified, so for that the author stated that induction does not yield certainty.
+Source pages p. 710
+
+Commentary
+This passage is a definitional and classificatory commentary on induction (istiqra') as an appendage of qiyas. The commentator first quotes the matn lines that identify induction and analogy as the second and third appendages. The matn states that inference from a particular to a universal is called induction, while its opposite (universal to particular) is logical qiyas. The commentator then defines induction: it is the examination of particular instances to derive a ruling that applies to all of them. This is an inference from particular to universal, opposite to deduction. He provides an example: observing that all examined animals (human, beasts, predators) move their lower jaw when chewing leads to the universal judgment that every animal does so. The act of examining is the evidence, and the resulting judgment is the conclusion. Next, he divides induction into two types: complete and incomplete. Complete induction covers all particulars and yields certainty; it is also called 'divisive qiyas' because it uses a disjunctive syllogism, as in the example proving the world's temporal origination by considering all possibilities (substance or accident) and showing both are originated. Incomplete induction examines only most particulars and yields only probability, not certainty, as in the grammatical rule that the agent is nominative based on surveying most Arabic speech. The commentator notes that when mentioned without qualification, induction usually means the incomplete type, which does not yield certainty. This passage guards against the misunderstanding that all induction produces certain knowledge. Students must distinguish between the two types and recognize that only complete induction is certain, but it is rarely possible with natural kinds; incomplete induction is common but yields only probability.
+
+Key Terms
+استقراء
+قياس منطقي
+استقراء تام
+استقراء غير تام
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator, which type of induction is intended when the term 'induction' is used without qualification?
+A) Complete induction
+B) Incomplete induction
+C) Both
+D) Neither
+
+Key Takeaway
+Induction is inference from particulars to universal; only complete induction yields certainty, while incomplete induction yields only probability.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a complete induction argument for the claim 'every substance is temporally originated' using the example given in the passage (the world as substance or accident).
+?
+Identify whether the following grammatical rule is based on complete or incomplete induction: 'The agent is nominative' — based on surveying most Arabic speech.
+
+Pages p. 710 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 711
+Module 12 · Lesson 16
+Next →
+Induction and Analogy
+intermediate
+5 min
+Induction (Istiqra') and Its Two Types: Complete and Incomplete
+Author defines induction and distinguishes complete from incomplete induction.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and identify which type yields certainty versus probability.
+
+Core Idea
+Complete induction yields certainty; incomplete yields only probability — induction is the opposite of syllogism.
+
+Induction is the process of moving from particular instances to a universal rule. It is the reverse of the demonstrative syllogism you studied earlier. In this passage, the author defines induction, illustrates it with animal jaw movement, and then divides it into complete and incomplete types. The distinction is crucial because only complete induction provides certainty, a point often misunderstood.
+
+Guided Path
+1
+Identify the direction of inference
+Notice that induction goes from particular to universal, opposite of syllogism which goes from universal to particular.
+2
+Examine the definition and etymology
+The term istiqra' is derived from surveying a land village by village; understand the conceptual metaphor.
+3
+Distinguish the two types of induction
+Complete induction examines all particulars and yields certainty; incomplete examines only most and yields probability.
+4
+Analyze the example of complete induction
+The example of the world: it is a disjunctive syllogism with exhaustive enumeration; verify that it indeed covers all cases.
+5
+Recognize the default meaning of induction
+When unqualified, induction usually means the incomplete type, which is why it is said not to yield certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فَهُوَ اسْتِدْلَالٌ بِجُزْئِيٍّ عَلَى كُلِّيٍّ، عَكْسَ القِيَاسِ المَنْطِقِيِّ السَّابِقِ، فَإِذَا أَرَدْتَ الحُكْمَ بِأَنَّ كُلَّ حَيَوَانٍ يُحَرِّكُ فَكَّهُ الأَسْفَلَ عِنْدَ المَضْغِ، فَتَتَبَّعْتَ جُزْئِيَّاتِ الحَيَوَانِ مِنَ الإِنْسَانِ وَالبَهَائِمِ وَالسِّبَاعِ وَغَيْرِهَا، حَصَلَ لَكَ الحُكْمُ المَذْكُورُ، فَالتَّتَبُّعُ المَذْكُورُ هُوَ الدَّلِيلُ، وَهُوَ الحُكْمُ المُسَمَّى بِـ: «الِاسْتِقْرَاءِ»؛ أَخْذاً مِنْ قَوْلِكَ: «اسْتَقْرَيْتُ البَلَدَ» إِذَا تَتَبَّعْتَهُ قَرْيَةً قَرْيَةً، وَالحُكْمُ المَذْكُورُ هُوَ مَدْلُولُهُ وَنَتِيجَتُهُ. ثُمَّ الِاسْتِقْرَاءُ قِسْمَانِ: ١- تَامٌّ: بِأَنْ تَسْتَقْرِئَ جَمِيعَ الجُزْئِيَّاتِ، فَيُفِيدُ القَطْعَ، وَهُوَ المُسَمَّى بِالقِيَاسِ المُقَسَّمِ كَقَوْلِنَا: «العَالَمُ: إِمَّا جِرْمٌ وَإِمَّا عَرَضٌ، وَكُلُّ جِرْمٍ حَادِثٌ، وَكُلُّ عَرَضٍ حَادِثٌ، فَالعَالَمُ حَادِثٌ». ٢- وَالثَّانِي: غَيْرُ تَامٍّ: بِأَنْ تَسْتَقْرِئَ أَكْثَرَ الجُزْئِيَّاتِ فَقَط، فَلَا يُفِيدُ القَطْعَ، بَلِ الظَّنَّ فَقَط؛ كَقَوْلِنَا: «الفَاعِلُ مَرْفُوعٌ» بِدَلِيلِ تَتَبُّعِ جُزْئِيَّاتِ كَلَامِ العَرَبِ. وَغَيْرُ التَّامِّ هُوَ المُرَادُ عِنْدَ الإِطْلَاقِ، فَلِذَا أَطْلَقَ النَّاظِمُ أَنَّ الِاسْتِقْرَاءَ لَا يُفِيدُ القَطْعَ.
+Thus it is an inference from a particular to a universal, opposite of the previous logical syllogism. So if you want to judge that every animal moves its lower jaw when chewing, you examine the particulars of animals – humans, beasts, predators, etc. – you obtain that judgment. That examination is the evidence, and it is called 'induction' (istiqra'), derived from your saying 'I surveyed the land' if you examined it village by village. The mentioned judgment is its datum and conclusion. Then induction is of two types: 1. Complete – that you examine all particulars, so it yields certainty, and it is called the divided syllogism, like our saying: 'The world: either substance or accident; every substance is originated; every accident is originated; so the world is originated.' 2. The second is incomplete – that you examine only most particulars, so it does not yield certainty but only probability, like our saying: 'The subject is nominative' by evidence of examining particulars of Arab speech. The incomplete is what is meant when unqualified, so the versifier said that induction does not yield certainty.
+Source pages p. 711
+
+Commentary
+This passage defines induction (istiqra') as reasoning from particular instances to a universal conclusion (muttaṣil? no, it's the opposite of the earlier syllogism which goes from universal to particular). The author illustrates with the example of observing all types of animals and concluding they all move their lower jaw when chewing. The term istiqra' is derived from surveying a land village by village. The passage then divides induction into two types: complete (tam) and incomplete (ghayr tam). Complete induction involves examining every single particular, and it yields certainty. The example given is the exhaustive division of the world into substance (jirm) and accident (‘arad), each shown to be originated (hadith), so the world is originated. This is essentially a disjunctive syllogism with exhaustive enumeration. Incomplete induction only examines most particulars and yields probability (zann), not certainty. The example is the rule in Arabic grammar that the subject (fa‘il) is nominative (marfu‘); this is known by surveying many speech examples but is not certain. The author notes that when induction is mentioned without qualification, it refers to the incomplete type, which is why the versifier (al-nadhim) stated that induction does not yield certainty.
+
+Key Terms
+الاستقراء
+استقراء تام
+استقراء غير تام
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of induction is the reasoning: 'Every animal moves its lower jaw when chewing' after examining all animal kinds?
+A) Complete induction (istiqra' tamm)
+B) Incomplete induction (istiqra' ghayr tamm)
+C) Demonstrative syllogism (qiyas mantiqi)
+D) Analogy (tamthil)
+
+Key Takeaway
+Induction is inference from particular to universal; complete induction yields certainty via exhaustive enumeration, incomplete yields only probability.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following inference is complete or incomplete induction: 'Every example of Arabic speech I have studied has the subject in the nominative case, therefore the subject is always nominative.' (Answer: incomplete, because not all Arabic speech has been examined.)
+?
+Construct a complete induction from an Islamic science context using the divided syllogism method (e.g., the division of actions into wajib, mandub, mubah, makruh, haram and showing each has a ruling).
+
+Pages p. 711 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 712
+Module 12 · Lesson 17
+Next →
+Induction and Analogy
+intermediate
+8 min
+Definition of Analogy (Tamthil) and Its Components
+Author defines analogy and gives the nabidh/wine example
+
+Learning Objective
+By the end of this lesson, you will be able to identify the structure of an analogical argument (tamthil) and distinguish it from demonstrative syllogism (qiyas mantiqi).
+
+Core Idea
+Analogy transfers a ruling based on a shared cause, but never yields certainty.
+
+In this passage, the author defines tamthil as establishing a judgment in one particular because of its presence in another particular due to a shared meaning. This is the basic structure of analogical reasoning in Islamic logic. Let's break down the definition and its components.
+
+Guided Path
+1
+Identify the definition of tamthil
+Find al-Sa'd's definition: 'establishing a judgment in one particular due to its presence in another particular because of a shared meaning.' Also note al-Subki's similar formulation.
+2
+Extract the example
+The example is 'Nabidh is forbidden like wine' because both share the cause of intoxication. Identify the judgment (forbidden), the original case (wine), the new case (nabidh), and the shared cause (intoxication).
+3
+Distinguish tamthil from qiyas usuli
+Logicians call this tamthil; usul al-fiqh scholars call it qiyas. The author notes this is a loose usage because tamthil is the evidence, not the conclusion.
+4
+Understand 'juz'i idafi'
+The term 'particular' here means relative particular, not absolute. Nabidh is a universal (type) but particular relative to the broader category 'drink'.
+5
+Clarify the real evidence
+The author emphasizes that the real evidence is the equality in cause ('illah), not the act of attaching one particular to another.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَأَمَّا التَّمْثِيلُ: فَقَالَ السَّعْدُ: فَسَّرُوهُ بِإِثْبَاتِ الحُكْمِ فِي جُزْئِيٍّ لِثُبُوتِهِ فِي جُزْئِيٍّ آخَرَ لِمَعْنَىً مُشْتَرَكٍ بَيْنَهُمَا، وَنَحْوُهُ قَوْلُ السُّبْكِيِّ: حَمْلُ مَعْلُومٍ عَلَى مَعْلُومٍ لِمُسَاوَاتِهِ لَهُ فِي عِلَّةِ حُكْمِهِ عِنْدَ الحَامِلِ؛ فَإِذَا قُلْنَا مَثَلاً: «النَّبِيذُ حَرَامٌ كَالخَمْرِ»؛ لِمُسَاوَاتِهِ لَهُ فِي عِلَّةِ حُرْمَتِهِ، وَهِيَ الإِسْكَارُ، فَقَوْلُنَا: «النَّبِيذُ حَرَامٌ» هُوَ المَطْلُوبُ، وَحَمْلُهُ عَلَى الخَمْرِ؛ أَيْ: إِلْحَاقُهُ بِهِ فِي حُكْمِهِ هُوَ التَّمْثِيلُ عِنْدَ المَنَاطِقَةِ، وَيُسَمَّى «قِيَاساً» عِنْدَ الأُصُولِيِّينَ، وَفِيهِ تَسَامُحٌ؛ لِأَنَّ التَّمْثِيلَ دَلِيلٌ مِنَ الأَدِلَّةِ، وَإِلْحَاقُ الجُزْئِيِّ بِالجُزْئِيِّ فِي حُكْمِهِ مَدْلُولٌ لَهُ، فَلَا يَصِحُّ تَفْسِيرُهُ وَالدَّلِيلُ فِي الحَقِيقَةِ هُوَ المُسَاوَاةُ فِي العِلَّةِ، فَافْهَمْ. وَالمُرَادُ بِـ«الجُزْئِيِّ» هُنَا: الإِضَافِيُّ، لَا خُصُوصُ الحَقِيقِيِّ، فَيَدْخُلُ نَحْوُ «النَّبِيذِ» مِنَ الكُلِّيَّاتِ، وَهَذَا القِيَاسُ أَيْضاً – وَهُوَ التَّمْثِيلُ – لَا يُفِيدُ القَطْعَ؛ لِجَوَازِ أَنْ تَكُونَ العِلَّةُ غَيْرَ مَا يَظُنُّ أَنَّهُ عِلَّةٌ، وَلِهَذَا قَالَ النَّاظِمُ: «وَلَا يُفِيدُ القَطْعَ بِالدَّلِيلِ...» إلخ.
+As for analogy (tamthil): al-Sa'd said: They explained it as establishing a judgment in one particular due to its presence in another particular because of a shared meaning between them. Similar is al-Subki's saying: Applying known to known due to its equality with it in the cause of its judgment according to the one applying. So if we say, for example: 'Nabidh is forbidden like wine' due to its equality with it in the cause of its prohibition, which is intoxication, then our saying 'Nabidh is forbidden' is the sought conclusion, and its application to wine – i.e., attaching it to it in its judgment – is analogy (tamthil) according to the logicians. It is called 'qiyas' among the usuliyyun, but there is looseness in that because tamthil is one of the evidences, and attaching a particular to a particular in its judgment is its datum, so it is not valid to interpret it as such; the real evidence is the equality in cause, so understand. And what is meant by 'particular' here is relative, not absolute particular, so it includes things like 'nabidh' which are universals. This syllogism – i.e., tamthil – also does not yield certainty because it is possible that the cause is other than what one supposes to be the cause. For this reason the versifier said: 'And it does not yield certainty by evidence...' etc.
+Source pages p. 712
+
+Commentary
+This passage defines analogy (tamthil) as the logicians understand it. The author cites al-Sa'd's definition: establishing a judgment in one particular based on its presence in another particular due to a shared meaning. He then gives al-Subki's similar formulation: applying one known to another known because they are equal in the cause of the judgment according to the one making the analogy. The classic example is: 'Nabidh (date wine) is forbidden like khamr (grape wine)' because both share the cause ('illa) of prohibition: intoxication. Here, the conclusion is that nabidh is forbidden; the act of attaching nabidh to khamr in the judgment is tamthil. Among logicians, this is distinct from qiyas (demonstrative syllogism). Al-Subki calls it qiyas, but the author notes this is a loose usage because tamthil itself is evidence (dalil), not the conclusion. The real evidence is the equality in cause. The passage clarifies that 'particular' here means relative particular (juz'i idafi), which includes universals like nabidh (which is a type of drink). Finally, the author states that tamthil does not yield certainty because the cause might not be the true cause; the verse from the matn agrees. Thus tamthil yields only probability (zann), unlike the demonstrative syllogism of logic.
+
+Key Terms
+التمثيل
+الجُزْئِيُّ الإِضَافِيُّ
+العِلَّة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the real evidence (dalil) in an analogical argument?
+A) The act of attaching one particular to another
+B) The equality in the cause ('illah)
+C) The judgment in the original case
+D) The logician's definition of tamthil
+
+Key Takeaway
+Tamthil (analogy) transfers a ruling from one particular to another based on a shared cause, but its conclusion is only probable because the cause may not be the true cause.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an analogical argument (tamthil) using the structure from this passage: Choose an original case (asl) from Islamic law, identify its ruling and cause, then apply it to a new case (far') that shares that cause. Write out the argument in the form 'X is Y like Z' and explain each component.
+?
+Identify the 'illa (cause) in the following analogical argument from fiqh: 'The sale of garlic before its suitable time is prohibited because it involves deception, like the sale of unripe fruit.' Explain why this analogy yields only probability, not certainty, according to the passage.
+
+Pages p. 712 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 712
+Module 12 · Lesson 18
+Next →
+Induction and Analogy
+intermediate
+6 min
+Why Analogy (Tamthil) Does Not Yield Certainty
+Author asserts tamthil yields only probability due to possible misidentification of cause
+
+Learning Objective
+By the end of this lesson, you will be able to explain why analogy yields only probability and identify the logical reason for its non-certainty.
+
+Core Idea
+Analogy is probable because the cause might be misidentified.
+
+After defining tamthil, the author emphasizes that this type of reasoning does not produce certainty. The possibility that the supposed cause is not the actual cause makes the conclusion merely probable. This is a key distinction between analogical reasoning and demonstrative syllogism.
+
+Guided Path
+1
+Locate the claim of non-certainty
+Find the sentence: 'This syllogism – i.e., tamthil – also does not yield certainty.'
+2
+Identify the reason
+The reason given: 'because it is possible that the cause is other than what one supposes to be the cause.'
+3
+Understand the implication
+The 'illa might be incorrect or incomplete, so the conclusion is only probable (zanni).
+4
+Contrast with demonstrative syllogism
+In contrast, qiyas mantiqi with certain premises yields certainty. Tamthil lacks this due to potential cause error.
+5
+Connect to the versifier's line
+The author quotes the matn: 'And it does not yield certainty by evidence...' confirming the probabilistic nature.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَأَمَّا التَّمْثِيلُ: فَقَالَ السَّعْدُ: فَسَّرُوهُ بِإِثْبَاتِ الحُكْمِ فِي جُزْئِيٍّ لِثُبُوتِهِ فِي جُزْئِيٍّ آخَرَ لِمَعْنَىً مُشْتَرَكٍ بَيْنَهُمَا، وَنَحْوُهُ قَوْلُ السُّبْكِيِّ: حَمْلُ مَعْلُومٍ عَلَى مَعْلُومٍ لِمُسَاوَاتِهِ لَهُ فِي عِلَّةِ حُكْمِهِ عِنْدَ الحَامِلِ؛ فَإِذَا قُلْنَا مَثَلاً: «النَّبِيذُ حَرَامٌ كَالخَمْرِ»؛ لِمُسَاوَاتِهِ لَهُ فِي عِلَّةِ حُرْمَتِهِ، وَهِيَ الإِسْكَارُ، فَقَوْلُنَا: «النَّبِيذُ حَرَامٌ» هُوَ المَطْلُوبُ، وَحَمْلُهُ عَلَى الخَمْرِ؛ أَيْ: إِلْحَاقُهُ بِهِ فِي حُكْمِهِ هُوَ التَّمْثِيلُ عِنْدَ المَنَاطِقَةِ، وَيُسَمَّى «قِيَاساً» عِنْدَ الأُصُولِيِّينَ، وَفِيهِ تَسَامُحٌ؛ لِأَنَّ التَّمْثِيلَ دَلِيلٌ مِنَ الأَدِلَّةِ، وَإِلْحَاقُ الجُزْئِيِّ بِالجُزْئِيِّ فِي حُكْمِهِ مَدْلُولٌ لَهُ، فَلَا يَصِحُّ تَفْسِيرُهُ وَالدَّلِيلُ فِي الحَقِيقَةِ هُوَ المُسَاوَاةُ فِي العِلَّةِ، فَافْهَمْ. وَالمُرَادُ بِـ«الجُزْئِيِّ» هُنَا: الإِضَافِيُّ، لَا خُصُوصُ الحَقِيقِيِّ، فَيَدْخُلُ نَحْوُ «النَّبِيذِ» مِنَ الكُلِّيَّاتِ، وَهَذَا القِيَاسُ أَيْضاً – وَهُوَ التَّمْثِيلُ – لَا يُفِيدُ القَطْعَ؛ لِجَوَازِ أَنْ تَكُونَ العِلَّةُ غَيْرَ مَا يَظُنُّ أَنَّهُ عِلَّةٌ، وَلِهَذَا قَالَ النَّاظِمُ: «وَلَا يُفِيدُ القَطْعَ بِالدَّلِيلِ...» إلخ.
+As for analogy (tamthil): al-Sa'd said: They explained it as establishing a judgment in one particular due to its presence in another particular because of a shared meaning between them. Similar is al-Subki's saying: Applying known to known due to its equality with it in the cause of its judgment according to the one applying. So if we say, for example: 'Nabidh is forbidden like wine' due to its equality with it in the cause of its prohibition, which is intoxication, then our saying 'Nabidh is forbidden' is the sought conclusion, and its application to wine – i.e., attaching it to it in its judgment – is analogy (tamthil) according to the logicians. It is called 'qiyas' among the usuliyyun, but there is looseness in that because tamthil is one of the evidences, and attaching a particular to a particular in its judgment is its datum, so it is not valid to interpret it as such; the real evidence is the equality in cause, so understand. And what is meant by 'particular' here is relative, not absolute particular, so it includes things like 'nabidh' which are universals. This syllogism – i.e., tamthil – also does not yield certainty because it is possible that the cause is other than what one supposes to be the cause. For this reason the versifier said: 'And it does not yield certainty by evidence...' etc.
+Source pages p. 712
+
+Commentary
+This passage defines analogy (tamthil) as the logicians understand it. The author cites al-Sa'd's definition: establishing a judgment in one particular based on its presence in another particular due to a shared meaning. He then gives al-Subki's similar formulation: applying one known to another known because they are equal in the cause of the judgment according to the one making the analogy. The classic example is: 'Nabidh (date wine) is forbidden like khamr (grape wine)' because both share the cause ('illa) of prohibition: intoxication. Here, the conclusion is that nabidh is forbidden; the act of attaching nabidh to khamr in the judgment is tamthil. Among logicians, this is distinct from qiyas (demonstrative syllogism). Al-Subki calls it qiyas, but the author notes this is a loose usage because tamthil itself is evidence (dalil), not the conclusion. The real evidence is the equality in cause. The passage clarifies that 'particular' here means relative particular (juz'i idafi), which includes universals like nabidh (which is a type of drink). Finally, the author states that tamthil does not yield certainty because the cause might not be the true cause; the verse from the matn agrees. Thus tamthil yields only probability (zann), unlike the demonstrative syllogism of logic.
+
+Key Terms
+التمثيل
+القطع
+الظن
+العِلَّة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does tamthil not yield certainty according to the passage?
+A) Because it relies on incomplete induction
+B) Because the cause might not be the true cause
+C) Because it is used only in non-legal contexts
+D) Because the logicians reject analogy altogether
+
+Key Takeaway
+Analogy yields only probability because the identification of the cause ('illa) is not certain.
+
+How This Lesson Applies — to MY Life?
+?
+Explain in your own words why the conclusion of tamthil is only probable. Use the example of nabidh and wine from the passage.
+?
+Consider the following analogical argument: 'Selling a cat is prohibited because cats are predatory animals, like selling a dog for hunting.' Is this conclusion certain or probable? Why? Refer to the passage's reason.
+
+Pages p. 712 · Induction and Analogy
+← Prev
+Mark Done
+Next →

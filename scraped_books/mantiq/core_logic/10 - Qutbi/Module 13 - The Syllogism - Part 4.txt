@@ -1,0 +1,679 @@
+← Prev
+p. 449
+Module 13 · Lesson 151
+Next →
+The Syllogism
+intermediate
+8 min
+Valid and Invalid Inferences in Conjunctive Conditional Syllogisms
+Explains valid and invalid inferences in conjunctive conditional syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish valid from invalid inferences in a conjunctive conditional syllogism and justify each using the concept of luzūm.
+
+Core Idea
+Two valid moves, two invalid: know which, or your reasoning collapses.
+
+In Islamic logic, the conjunctive conditional syllogism (qiyās istithnā'ī muttasil) is a powerful tool for drawing conclusions from conditional statements. The passage before you lays out the two valid inference patterns—affirming the antecedent and denying the consequent—and the two invalid ones—affirming the consequent and denying the antecedent. By the end, you will be able to apply these rules to any conditional argument, whether in kalam or fiqh.
+
+Guided Path
+1
+Identify the antecedent and consequent
+In a conjunctive conditional, find the 'if' part (al-muqaddam/al-malzūm) and the 'then' part (al-tālī/al-lāzim). The passage uses these terms implicitly; for example, 'If A then B' where A is the antecedent and B the consequent.
+2
+Recognise the two valid inference patterns
+The passage states: (1) affirming exactly the antecedent yields exactly the consequent (modus ponens), and (2) denying exactly the consequent yields denial of the antecedent (modus tollens). It justifies each by a reductio: if the consequent were absent when the antecedent holds, the implication (luzūm) would break.
+3
+Understand the justification via luzūm
+The relation of luzūm (necessary implication) means that whenever the antecedent exists, the consequent must exist; and whenever the consequent is absent, the antecedent must be absent. This is the foundation of the two valid forms.
+4
+Spot the two invalid patterns
+The passage explicitly says the converse is not valid: affirming the consequent does not yield the antecedent, and denying the antecedent does not yield the negation of the consequent. This is because the consequent may be broader (a'amm) than the antecedent; there could be other reasons for the consequent to hold.
+5
+Apply the rule to a real Islamic example
+Consider the kalam argument: 'If the world is temporally originated, it has a creator.' Affirming temporality proves a creator (valid). Denying a creator proves the world is not temporally originated (valid). But affirming a creator does not prove temporality, nor does denying temporality disprove a creator (both invalid).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن كانت متصلة: ينتج استثناء عين مقدّمها عين التالي - والا لزم انفكاك اللازم عن الملزوم فيبطل اللزوم - واستثناء نقيض تاليها نقيض المقدم - وإلا لزم وجود الملزوم بدون اللازم فيبطل اللزوم أيضاً، دون العكس في شيء منهما، أي لا ينتج استثناء عين التالي عين المقدم، ولا استثناء نقيض المقدّم نقيض التالي، لجواز أن يكون التالي أعم من عين المقدم، فلا يلزم من وجود اللازم وجود الملزوم ، ولا من عدم الملزوم عدم اللازم.
+If it is conjunctive: Excluding exactly the antecedent produces exactly the consequent – otherwise the separation of the necessary from the necessitating would occur, invalidating the implication – and excluding the contradiction of the consequent produces the contradiction of the antecedent – otherwise the existence of the necessitator without the necessary would occur, also invalidating the implication – without the converse in either case, meaning: excluding exactly the consequent does not produce exactly the antecedent, nor does excluding the contradiction of the antecedent produce the contradiction of the consequent, because the consequent may be more general than exactly the antecedent, so the existence of the necessary does not necessitate the existence of the necessitator, nor does the non-existence of the necessitator necessitate the non-existence of the necessary.
+Source pages p. 449
+
+Commentary
+This passage defines the valid and invalid forms of inference in a conjunctive conditional syllogism (qiyās istithnā'ī muttasil). The author begins by stating the two valid patterns: (1) affirming the antecedent yields the consequent, and (2) denying the consequent yields the denial of the antecedent. Each is justified by a reductio: if the consequent were not present when the antecedent is affirmed, the implication (luzūm) would break; similarly, if the antecedent were present when the consequent is denied, the necessity would also break. Then the author explains why the converse patterns are invalid: affirming the consequent does not guarantee the antecedent, and denying the antecedent does not guarantee the denial of the consequent, because the consequent may be broader (a'amm) than the antecedent. For example, in Islamic jurisprudence, 'If it rains, the ground is wet' does not allow inferring rain from wet ground, since other causes might exist. The passage stresses that logical implication requires careful attention to the scope of terms.
+
+Key Terms
+الشرطية المتصلة
+اللزوم
+الملزوم
+اللازم
+النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+In a conjunctive conditional syllogism, which of the following is a valid inference?
+A) Affirming the consequent yields the antecedent.
+B) Denying the antecedent yields the denial of the consequent.
+C) Affirming the antecedent yields the consequent.
+D) Denying the consequent yields the denial of the antecedent.
+
+Key Takeaway
+In conjunctive conditionals, only affirming the antecedent and denying the consequent are valid; the converse patterns are fallacious because the consequent may be broader.
+
+How This Lesson Applies — to MY Life?
+?
+Take the conditional statement: 'If the prayer is valid, then wudu is required.' Identify the antecedent and consequent. Then determine which of the four inference patterns (affirm antecedent, deny consequent, affirm consequent, deny antecedent) are valid and which are not, using the rules from this lesson.
+?
+In a kalam debate, a mutakallim argues: 'If the world is eternal, then it is necessary. The world is not necessary. Therefore, it is not eternal.' Is this inference valid? Justify your answer using the concept of luzūm.
+
+Pages p. 449 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 450
+Module 13 · Lesson 152
+Next →
+The Syllogism
+intermediate
+10 min
+Rules of Disjunctive Conditional Syllogisms
+Classifies three types of disjunctive conditionals and states their valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the type of a disjunctive proposition and determine which inferences are valid for that type.
+
+Core Idea
+In disjunctive logic, the type of 'or' determines which conclusions follow.
+
+This passage from al-Qutbi classifies disjunctive conditional propositions into three types and specifies the syllogistic rules for each. You will learn to distinguish the exclusive disjunction from man'at al-jam' and man'at al-khuluw, and apply the correct inference patterns.
+
+Guided Path
+1
+Identify the disjunction type
+Examine the relationship between the two disjuncts. Determine if they can both be true, both false, or neither. This corresponds to exclusive (neither both true nor both false), man'at al-jam' (both false allowed, both true not allowed), or man'at al-khuluw (both true allowed, both false not allowed).
+The examples in the passage illustrate each type.
+2
+Apply the first inference rule
+For exclusive and man'at al-jam', affirming one disjunct allows you to deny the other. Check the passage: 'استثناء عين أي جزء كان نقيض الآخر' (excluding exactly any part produces the contradiction of the other).
+This inference is valid because the two cannot be true together.
+3
+Apply the second inference rule
+For exclusive and man'at al-khuluw, denying one disjunct allows you to affirm the other. The passage states: 'استثناء نقيض أي جزء كان عين الآخر' (excluding the contradiction of any part produces exactly the other).
+This inference is valid because the two cannot be false together.
+4
+Test with the passage examples
+Work through the even/odd example for exclusive disjunction, the wood/stone example for man'at al-jam', and the 'not wood not stone' example for man'at al-khuluw. Verify that only the prescribed inferences hold.
+Notice the number of valid conclusions: four for exclusive, two for each of the others.
+5
+Recognize the number of valid conclusions
+Exclusive disjunction yields four valid results (two from affirming each part, two from denying each part). Man'at al-jam' yields two (only from affirming). Man'at al-khuluw yields two (only from denying).
+This is a quick check: if you count the valid inferences, you identify the type.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن كانت منفصلة: فإن كانت حقيقية ينتج استثناء عين أي جزء كان نقيض الآخر - لامتناع الجمع بينهما - واستثناء نقيض أي جزء كان عين الآخر - لامتناع الخلو عنهما - فيكون لها أربع نتائج : اثنتان باعتبار استثناء العين، واثنتان باعتبار استثناء النقيض، كقولنا : «إما أن يكون هذا العدد زوجاً أو فرداً، لكنه زوج : فهو ليس بفرد» «لكنه ليس بزوج : فهو فرد» «لكنه فرد : فهو ليس بزوج»، «لكنه ليس بفرد، فهو زوج». وإن كانت مانعة الجمع أنتج القسم الأوّل فقط - أي استثناء عين أي جزء كان نقيض الآخر - لامتناع الاجتماع بينهما، ولا ينتج استثناء نقيض شيء من جزأيها عين الآخر، الجواز ارتفاعهما، فيكون لها نتيجتان بحسب استثناء العين، كقولنا : «إما أن يكون هذا الشيء شجراً أو حجراً»، لكنه شجر : فهوليس بحجر » ، «لكنه حجر : فهو ليس بشجر». وإن كانت مانعة الخلو ينتج القسم الثاني فقط – أي استثناء نقيض أي جزء كان عين الآخر لامتناع ارتفاعهما ولا ينتج استثناء عين أي شيء من جزأيها نقيض الآخر، لإمكان اجتماعهما، فيكون لها أيضاً نتيجتان بحسب استثناء النقيض، كقولنا : «إما أن يكون هذا الشيء لا شجراً ولا حجراً» «لكنه شجر فهو لاحجر»، «لكنه حجر فهو لاشجر».
+And if it is disjunctive: If it is exclusive, excluding exactly any part produces the contradiction of the other – because conjunction between them is impossible – and excluding the contradiction of any part produces exactly the other – because both cannot be absent – so it has four results: two by way of excluding the part itself, and two by way of excluding the contradiction, as we say: 'Either this number is even or odd; but it is even: so it is not odd' 'but it is not even: so it is odd' 'but it is odd: so it is not even' 'but it is not odd: so it is even'. And if it is of the type that prevents conjunction (man'at al-jam'), it produces only the first part – i.e., excluding exactly any part produces the contradiction of the other – because their conjunction is impossible, and it does not produce excluding the contradiction of either part to produce the other, because both may be absent, so it has two results according to excluding the part itself, as we say: 'Either this thing is wood or stone; but it is wood: so it is not stone', 'but it is stone: so it is not wood'. And if it is of the type that prevents both being absent (man'at al-khuluw), it produces only the second part – i.e., excluding the contradiction of any part produces exactly the other – because both cannot be absent, and it does not produce excluding exactly either part to produce the contradiction of the other, because they may both be present, so it also has two results according to excluding the contradiction, as we say: 'Either this thing is not wood and not stone; but it is wood: so it is not stone', 'but it is stone: so it is not wood'.
+Source pages p. 450
+
+Commentary
+This passage classifies disjunctive conditional syllogisms into three types and specifies the valid inferences for each. The author begins with the exclusive disjunction (al-munfaṣila al-ḥaqīqiyya), where the two parts cannot both be true nor both false. Therefore, affirming one part yields denial of the other, and denying one part yields affirmation of the other – four valid results. An example using even/odd numbers illustrates this. Next, the author discusses 'man'at al-jam'' (preventive of conjunction), where the parts cannot be true together but may both be false. Here only the first inference pattern holds: affirming one part denies the other. Denying one part does not affirm the other because both could be absent. The example of 'wood or stone' shows that if it is wood, it is not stone, but if it is not wood, it could still be neither wood nor stone (e.g., metal). Finally, 'man'at al-khuluw' (preventive of both being absent) allows only the second pattern: denying one part affirms the other, because both cannot be false. The example 'not wood and not stone' is a negated disjunction; the logic is that if it is wood, it is not (not stone) i.e., it is stone? Actually the example is confusing: The author writes 'إما أن يكون هذا الشيء لا شجراً ولا حجراً' meaning 'Either this thing is not wood and not stone' (a single disjunct?). But the intended meaning is that the two parts are 'not wood' and 'not stone' as a disjunction that cannot both be absent? This section is clarified by noting that the logical forms are applied to examples from everyday classification. The passage systematically teaches how to apply these rules in logical reasoning within the Islamic sciences, such as determining the legal category of an action (wajib, haram, etc.) using disjunctive reasoning.
+
+Key Terms
+المنفصلة الحقيقية
+مانعة الجمع
+مانعة الخلو
+استثناء عين الجزء
+استثناء نقيض الجزء
+
+Key Terms from Source Passage
+
+Checkpoint
+A scholar says: 'This action is either obligatory or forbidden.' It is not obligatory. In which type of disjunction can we validly conclude it is forbidden?
+A) Exclusive disjunction (haqiqiyya)
+B) Man'at al-jam'
+C) Man'at al-khuluw
+D) None of the above
+
+Key Takeaway
+The type of disjunction determines which inferences are valid: exclusive allows four, man'at al-jam' only affirming inferences, man'at al-khuluw only denying inferences.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'This animal is either a horse or a cow.' If it is not a horse, can you conclude it is a cow under each type of disjunction? Explain which types allow this inference and why.
+?
+In fiqh, a scholar says: 'This water is either pure or impure.' It is pure. Which type(s) of disjunction allow the conclusion that it is not impure? Provide the reasoning based on the rules in this passage.
+
+Pages p. 450 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 450
+Module 13 · Lesson 153
+Next →
+The Syllogism
+intermediate
+10 min
+The Three Types of Disjunctive Syllogisms and Their Valid Inferences
+Author distinguishes three types of disjunctive syllogisms and their valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the type of disjunctive proposition and determine which inferences (affirming or denying a part) are valid.
+
+Core Idea
+Not all disjunctions are equal—the logical behavior changes depending on whether the parts can be both true or both false.
+
+In Islamic logic, disjunctive propositions are not all the same. They are classified into three types: exclusive (haqiqiyya), preventing conjunction (mani'at al-jam'), and preventing void (mani'at al-khulu). Each type has its own rules for valid inference. This passage from Quṭb al-Dīn al-Rāzī explains exactly which conclusions follow from each type.
+
+Guided Path
+1
+Identify the three types of disjunction
+Read the passage and list the three types: haqiqiyya (exclusive), mani'at al-jam' (preventing conjunction), and mani'at al-khulu (preventing void). Note their definitions in terms of truth possibilities.
+2
+For each type, determine the valid inferences
+For haqiqiyya: both parts cannot be true nor both false → affirming one part yields negation of the other, and denying one yields affirmation of the other (four valid conclusions). For mani'at al-jam': parts cannot be true together but can be false together → only affirming one part yields negation of the other (two conclusions). For mani'at al-khulu: parts cannot be false together but can be true together → only denying one part yields affirmation of the other (two conclusions).
+3
+Apply to the examples given
+Check each example: the even/odd example shows the four inferences for haqiqiyya. The tree/stone example shows the two inferences for mani'at al-jam' (affirming yields negation). The negated tree/stone example shows the two inferences for mani'at al-khulu (denying yields affirmation).
+The last example uses negated terms; note the logical form.
+4
+Memorize the pattern
+Create a mental table: haqiqiyya → full four, mani'at al-jam' → only 'affirm to negate', mani'at al-khulu → only 'deny to affirm'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن كانت منفصلة: فإن كانت حقيقية ينتج استثناء عين أي جزء كان نقيض الآخر - لامتناع الجمع بينهما - واستثناء نقيض أي جزء كان عين الآخر - لامتناع الخلو عنهما - فيكون لها أربع نتائج : اثنتان باعتبار استثناء العين، واثنتان باعتبار استثناء النقيض، كقولنا : «إما أن يكون هذا العدد زوجاً أو فرداً، لكنه زوج : فهو ليس بفرد» «لكنه ليس بزوج : فهو فرد» «لكنه فرد : فهو ليس بزوج»، «لكنه ليس بفرد، فهو زوج». وإن كانت مانعة الجمع أنتج القسم الأوّل فقط - أي استثناء عين أي جزء كان نقيض الآخر - لامتناع الاجتماع بينهما، ولا ينتج استثناء نقيض شيء من جزأيها عين الآخر، الجواز ارتفاعهما، فيكون لها نتيجتان بحسب استثناء العين، كقولنا : «إما أن يكون هذا الشيء شجراً أو حجراً»، لكنه شجر : فهو ليس بحجر » ، «لكنه حجر : فهو ليس بشجر». وإن كانت مانعة الخلو ينتج القسم الثاني فقط – أي استثناء نقيض أي جزء كان عين الآخر لامتناع ارتفاعهما ولا ينتج استثناء عين أي شيء من جزأيها نقيض الآخر، لإمكان اجتماعهما، فيكون لها أيضاً نتيجتان بحسب استثناء النقيض، كقولنا : «إما أن يكون هذا الشيء لا شجراً ولا حجراً» «لكنه شجر فهو لا حجر»، «لكنه حجر فهو لا شجر».
+And if it is disjunctive: if it is true (exclusive), then it yields: affirming one part yields the negation of the other - because of the impossibility of both being true together - and denying one part yields the affirmation of the other - because of the impossibility of both being false together. So it has four conclusions: two by considering affirming the part, and two by considering denying the part, as in our statement: 'Either this number is even or odd. But it is even, so it is not odd. But it is not even, so it is odd. But it is odd, so it is not even. But it is not odd, so it is even.' And if it is man'i'at al-jam' (preventing conjunction), it yields only the first part - i.e., affirming any part yields the negation of the other - because of the impossibility of the two coming together, and it does not yield from denying something of its two parts the affirmation of the other, due to the possibility of both being false. So it has two conclusions according to affirming the part, as in our statement: 'Either this thing is a tree or a stone. But it is a tree, so it is not a stone. But it is a stone, so it is not a tree.' And if it is man'i'at al-khulu (preventing void), it yields only the second part - i.e., denying any part yields the affirmation of the other - because of the impossibility of both being false, and it does not yield from affirming something of its two parts the negation of the other, due to the possibility of both being true. So it also has two conclusions according to denying the part, as in our statement: 'Either this thing is not a tree or not a stone. But it is a tree, so it is not a stone. But it is a stone, so it is not a tree.'
+Source pages p. 450
+
+Commentary
+This passage explains the three types of disjunctive conditional syllogisms (manfi'a) and their valid moods. The author first takes up the true disjunction (haqiqiyya) which is exclusive and exhaustive—the two parts cannot both be true nor both false. Consequently, affirming one part yields the negation of the other, and denying one yields the affirmation of the other, giving four valid conclusions. The example uses 'even or odd'. Next, the author discusses preventing conjunction (man'i'at al-jam'), where the two parts cannot be together but may both be absent. In this type, only the first inference is valid: affirming one part negates the other. Denying a part does not affirm the other because both could be false. The example is a tree or a stone. Finally, preventing void (man'i'at al-khulu) is where the two parts cannot both be false but may both be true. Here, only the second inference is valid: denying one part affirms the other. Affirming a part does not negate the other because both could be true. The example uses negated terms: either not a tree or not a stone. The author shows that from 'it is a tree' we infer 'it is not a stone', and from 'it is a stone' we infer 'it is not a tree'. Note: the Arabic of the last example appears as a conjunction, but logically it is a disjunction of negatives. This passage is crucial for understanding how the nature of the disjunctive premiss determines the valid conclusions.
+
+Key Terms
+منفصلة
+حقيقية
+مانعة الجمع
+مانعة الخلو
+استثناء العين
+استثناء النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+In a man'i'at al-khulu (preventing void) disjunction, which inference is always valid?
+A) Affirming one part yields the negation of the other.
+B) Denying one part yields the affirmation of the other.
+C) Both A and B are valid.
+D) Neither A nor B is valid.
+
+Key Takeaway
+The three types of disjunction each have distinct valid inference patterns: exclusive gives four, preventing conjunction gives two (from affirming), preventing void gives two (from denying).
+
+How This Lesson Applies — to MY Life?
+?
+Given the statement 'Either this action is obligatory or prohibited' (assuming exclusive disjunction), list all four valid inferences.
+?
+Given the statement 'Either this liquid is water or wine' (assuming they cannot both be true but can both be false), which inferences are valid? Check your answer against the rules for mani'at al-jam'.
+
+Pages p. 450 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 451
+Module 13 · Lesson 154
+Next →
+The Syllogism
+intermediate
+10 min
+Compound Syllogisms: Definition and Two Types
+Author defines compound syllogism and distinguishes two varieties.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the two types of compound syllogisms (mawsul and mafusul al-nata'ij) and construct a compound syllogism using Islamic premises.
+
+Core Idea
+A compound syllogism chains simple syllogisms to derive a conclusion from self-evident axioms.
+
+In Islamic logic, not all arguments are single-step syllogisms; complex claims often require a chain of reasoning. This lesson introduces the compound syllogism (al-qiyas al-murakkab), which structures such chains. You will learn its definition, its two forms—connected conclusions (mawsul al-nata'ij) where intermediate steps are explicit, and disconnected conclusions (mafusul al-nata'ij) where they are compressed—and how it ultimately rests on self-evident principles (mabadi' badihiyya).
+
+Guided Path
+1
+Identify the need for a compound syllogism
+Recognize that when the premises of a syllogism are not self-evident, they themselves must be proved by further syllogisms, creating a chain that terminates in axioms.
+2
+Analyze the mawsul al-nata'ij example
+Trace the author's example: from 'Every J is B' and 'Every B is D' conclude 'Every J is D'; then use that conclusion with 'Every D is A' to conclude 'Every J is A'; and so on. Note that each intermediate conclusion is explicitly stated and reused.
+This explicit chaining makes the reasoning fully transparent.
+3
+Analyze the mafusul al-nata'ij example
+Observe that in the second type, all premises are listed together ('Every J is B, Every B is D, Every D is A, Every A is H') and the final conclusion ('Every J is H') is drawn directly, without stating intermediate conclusions.
+This form is more concise but hides the intermediate steps.
+4
+Compare the two types
+Contrast mawsul (explicit, step-by-step) with mafusul (implicit, compressed). Consider when each is useful: mawsul for teaching or verification, mafusul for brevity.
+5
+Connect to self-evident principles
+Understand that the chain must ultimately rest on axioms (mabadi' badihiyya) to guarantee certainty. Without this foundation, the compound syllogism would lead to an infinite regress.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+لواحق القياس وهي أربعة: الأول القياس المركب، وهو ما يتركب من مقدمات ينتج بعضها نتيجة يلزم منها ومن مقدمات أخرى نتيجة، وهلم جراً إلى أن يحصل المطلوب. وهو إما موصول النتائج، كقولنا: كل ج ب وكل ب د فكل ج د، ثم كل ج د وكل د ا فكل ج ا، ثم كل ج ا وكل ا هـ فكل ج هـ. وإما مفصول النتائج، كقولنا: كل ج ب وكل ب د وكل د ا وكل ا هـ فكل ج هـ. أقول: القياس المركب قياس مركب من مقدمات ينتج مقدمتان منها نتيجة، وهي مع المقدمة الأخرى تنتج أخرى - وهلم جرا - إلى أن يحصل المطلوب. وذلك إنما يكون إذا كان القياس المنتج للمطلوب يحتاج مقدمتاه أو إحداهما إلى كسب بقياس آخر كذلك إلى أن ينتهي الكسب إلى المبادئ البديهية؛ فيكون هناك قياسات مترتبة محصلة للمطلوب، ولهذا سمي قياساً مركباً.
+Appendices of the syllogism, and they are four: The first is the compound syllogism, which is composed of premises some of which produce a conclusion from which, together with other premises, another conclusion follows, and so on until the desired conclusion is obtained. And it is either connected in conclusions, as in our statement: Every J is B and every B is D, so every J is D; then every J is D and every D is A, so every J is A; then every J is A and every A is H, so every J is H. Or disconnected in conclusions, as in our statement: Every J is B and every B is D and every D is A and every A is H, so every J is H. I say: The compound syllogism is a syllogism composed of premises; two of them produce a conclusion, and that conclusion together with another premise produces another, and so on until the desired conclusion is obtained. That happens only when the syllogism producing the desired conclusion requires one or both of its premises to be established by another syllogism, and so on until the chain reaches self-evident principles. Thus there are ordered syllogisms that together produce the desired conclusion. For this reason it is called a compound syllogism.
+Source pages p. 451
+
+Commentary
+This passage introduces the compound syllogism (qiyas murakkab) as one of the appendices of the syllogism. The author first gives a general definition: it is a syllogism composed of multiple premises where some premises yield an intermediate conclusion, which then combines with further premises to produce another conclusion, continuing until the final desired conclusion is reached. Then two types are distinguished. The first is mawsul al-nata'ij (connected conclusions): the intermediate conclusions are explicitly stated and used as premises for subsequent syllogisms. The example uses the letters J, B, D, A, H: J is B, B is D implies J is D; then J is D and D is A implies J is A; then J is A and A is H implies J is H. The second type is mafusul al-nata'ij (disconnected conclusions): all premises are listed together, and the final conclusion is drawn directly without stating intermediate conclusions. The example lists all four categorical premises and directly concludes J is H. Then the author provides his own explanation ('I say'): the compound syllogism is necessary when one or both premises of the syllogism that directly produces the desired conclusion are themselves not self-evident and need to be proved by another syllogism. This chain continues until it reaches self-evident principles (mabadi' badihiyya). The term 'compound' refers to the fact that multiple syllogisms are arranged in order to obtain the final conclusion. This passage is foundational for understanding how complex arguments are built from simpler syllogistic steps, a method central to Islamic demonstration (burhan).
+
+Key Terms
+القياس المركب (al-qiyas al-murakkab): A syllogism composed of multiple syllogisms chained together to reach a conclusion from self-evident premises. [Note: Also called polysyllogism in Western logic.]
+موصول النتائج (mawsul al-nata'ij): Compound syllogism where intermediate conclusions are stated explicitly before proceeding to the next step. [Note: Equivalent to a chain syllogism with explicit intermediate steps.]
+مفصول النتائج (mafusul al-nata'ij): Compound syllogism where all premises are listed together and the final conclusion is drawn directly. [Note: Equivalent to a sorites or continuous syllogism.]
+مبادئ بديهية (mabadi' badihiyya): Self-evident principles that serve as the starting point of demonstration and do not require proof. [Note: Standard term for axioms in Aristotelian logic.]
+
+Key Terms from Source Passage
+
+Checkpoint
+In a compound syllogism of the mawsul al-nata'ij (connected conclusions) type, what is the main characteristic?
+A) All premises are listed together and the conclusion is drawn directly.
+B) Intermediate conclusions are stated and used as premises for subsequent syllogisms.
+C) The syllogism is composed entirely of self-evident premises.
+D) The syllogism produces multiple conclusions simultaneously.
+
+Key Takeaway
+Compound syllogisms allow logical proof to be built from self-evident axioms through a chain of linked syllogisms, with two forms: explicit (mawsul) and compressed (mafusul).
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Identify the type of compound syllogism in this argument: 'Every nabidh is an intoxicant; every intoxicant is forbidden; therefore every nabidh is forbidden. Furthermore, every nabidh is forbidden; everything forbidden is sinful; therefore every nabidh is sinful.' Is it mawsul or mafusul? Explain.
+?
+Task 2: Construct a mafusul al-nata'ij compound syllogism using Islamic premises related to salah (e.g., cleanliness, purity, prayer acceptance). List all premises and the final conclusion without stating intermediate conclusions.
+
+Pages p. 451 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 451
+Module 13 · Lesson 155
+Next →
+The Syllogism
+intermediate
+7 min
+Compound Syllogism: Connected and Disconnected Conclusions
+Author defines compound syllogism and distinguishes connected vs disconnected conclusions.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between mawsul al-nata'ij and mafsul al-nata'ij and construct a simple compound syllogism chain from Islamic science premises.
+
+Core Idea
+A compound syllogism chains multiple syllogisms; each intermediate conclusion becomes a premise for the next.
+
+Not every proof is a single syllogism. Sometimes, the premises of your argument are not self-evident and must themselves be proven by prior syllogisms. This is the compound syllogism: a structured chain that starts from self-evident truths and builds step by step until the desired conclusion is reached. Understanding its two forms—connected (mawsul) and disconnected (mafsul)—will allow you to analyze multi-step proofs in Islamic theology and jurisprudence with precision.
+
+Guided Path
+1
+Identify the chain structure
+Read the definition: compound syllogism is composed of premises where some pairs produce a conclusion that then combines with further premises. The chain continues until the final desired result. Note that the chain must terminate at self-evident principles (al-mabadi' al-badihiyya).
+2
+Trace the mawsul example
+Follow the example: 'Every C is B' and 'Every B is D' give 'Every C is D'. Then 'Every C is D' and 'Every D is A' give 'Every C is A'. Then 'Every C is A' and 'Every A is H' give 'Every C is H'. Observe that each intermediate conclusion is explicitly stated and reused.
+This is the connected type because the intermediate conclusions are mentioned.
+3
+Contrast with the mafsul example
+Now look at the mafsul example: all premises are listed together without stating the intermediate conclusions: 'Every C is B and every B is D and every D is A and every A is H, so every C is H.' The intermediate conclusions are omitted in wording but are intended in meaning.
+The logical chain is the same; only the presentation differs.
+4
+Recognize the role of self-evident premises
+The author explains that a compound syllogism is needed when one or both premises of the desired syllogism are not self-evident. The chain goes back until it reaches premises that are self-evident (badihiyya). This ensures the entire proof rests on indubitable foundations.
+In Islamic logic, self-evident premises include sensory data, necessary knowledge, and widely accepted axioms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الأول القياس المركب، وهو ما يتركب من مقدمات ينتج بعضها نتيجة يلزم منها ومن مقدمات أخرى نتيجة، وهلم جراً إلى أن يحصل المطلوب. وهو إما موصول النتائج، كقولنا: كل (ج ب) وكل (ب د) فكل (ج د)، ثم كل (ج د) وكل (د ا) فكل (ج ا)، ثم كل (ج ا) وكل (ا هـ) فكل (ج هـ). وإما مفصول النتائج، كقولنا: كل (ج ب) وكل (ب د) وكل (د ا) وكل (ا هـ) فكل (ج هـ). أقول: القياس المركب قياس مركب من مقدمات ينتج مقدمتان منها نتيجة، وهي مع المقدمة الأخرى تنتج أخرى - وهلم جرا - إلى أن يحصل المطلوب. وذلك إنما يكون إذا كان القياس المنتج للمطلوب يحتاج مقدمتاه أو إحداهما إلى كسب بقياس آخر كذلك إلى أن ينتهي الكسب إلى المبادئ البديهية؛ فيكون هناك قياسات مترتبة محصلة للمطلوب، ولهذا سمي قياساً مركباً. فإن صرّح بنتائج تلك القياسات سمي موصول النتائج لوصل تلك النتائج بالمقدمات، كقولنا: «كل (ج ب) وكل (ب د) فكل (ج د)، ثم كل (ج د) وكل (د ا) فكل (ج ا)، ثم كل (ج ا) وكل (ا هـ) فكل (ج هـ). وإن لم يصرح بها سمي «مفصول النتائج» لفصلها عن المقدمات في الذكر، وإن كانت مرادة من جهة المعنى، كقولنا: «كل (ج ب) وكل (ب د) وكل (د ا) وكل (ا هـ)» فكل (ج هـ).
+The first is the compound syllogism: it is that which is composed of premises, some of which produce a conclusion from which, together with other premises, another conclusion follows, and so on until the desired result is obtained. It is either connected in its conclusions, like our saying: 'Every C is B and every B is D, so every C is D; then every C is D and every D is A, so every C is A; then every C is A and every A is H, so every C is H.' Or disconnected in its conclusions, like our saying: 'Every C is B and every B is D and every D is A and every A is H, so every C is H.' I say: The compound syllogism is a syllogism composed of premises from which two premises produce a conclusion, and that conclusion together with another premise produces another, and so on until the desired result is obtained. That only happens when the syllogism producing the desired result needs its two premises or one of them to be acquired by another syllogism, and so on until the acquisition ends at self-evident principles; thus there are ordered syllogisms achieving the desired result, hence it is called compound syllogism. If the conclusions of those syllogisms are explicitly stated, it is called 'connected in conclusions' due to connecting those conclusions with the premises, like our saying: 'Every C is B and every B is D, so every C is D; then every C is D and every D is A, so every C is A; then every C is A and every A is H, so every C is H.' If they are not explicitly stated, it is called 'disconnected in conclusions' due to their separation from the premises in mention, even if they are intended in meaning, like our saying: 'Every C is B and every B is D and every D is A and every A is H, so every C is H.'
+Source pages p. 451
+
+Commentary
+This passage defines the compound syllogism (al-qiyas al-murakkab) and explains its two variants. The author first gives the definition: a compound syllogism is composed of premises where pairs of premises yield intermediate conclusions that combine with further premises to eventually produce the final desired conclusion. This requires that the chain of reasoning terminates at self-evident premises (al-mabadi' al-badihiyya). Two types are distinguished: 'connected in conclusions' (mawsul al-nata'ij) where each intermediate conclusion is explicitly stated, and 'disconnected in conclusions' (mafsul al-nata'ij) where the intermediate conclusions are omitted in wording but understood in meaning. The examples use Aristotelian variables (C, B, D, A, H) to illustrate a chain of syllogisms. The commentary clarifies that this is necessary when one or both premises of the desired syllogism are not self-evident and must themselves be proven by prior syllogisms. An example from fiqh: to prove that nabidh is forbidden, one might first prove 'Every intoxicant is forbidden' (from Qur'an) and 'Nabidh is an intoxicant' (by sensory evidence), giving the conclusion directly. But if the premise 'Every intoxicant is forbidden' is not accepted, one might have to prove it via a compound syllogism involving multiple steps.
+
+Key Terms
+القياس المركب
+موصول النتائج
+مفصول النتائج
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example of مَوْصُول النتائج, what is the intermediate conclusion after the first two premises 'Every C is B' and 'Every B is D'?
+A) Every C is D
+B) Every D is A
+C) Every C is A
+D) Every C is H
+
+Key Takeaway
+A compound syllogism chains multiple syllogisms, either explicitly stating intermediate conclusions (mawsul) or omitting them (mafsul), and must terminate at self-evident premises to ensure a rigorous proof.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a compound syllogism with connected conclusions (mawsul) to prove that 'Every action done for show (riya') is invalid (batil).' Use at least two intermediate syllogisms. Clearly state each intermediate conclusion. Ensure the chain ends at a self-evident premise (e.g., from Quran or consensus).
+?
+Take the following mafsul-style argument from usul al-fiqh: 'Every permissible act is not punished. Every act performed without intention is permissible. Every act of worship requires intention. Therefore, every act of worship without intention is punished.' Rewrite it as a mawsul compound syllogism by adding the omitted intermediate conclusions.
+
+Pages p. 451 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 452
+Module 13 · Lesson 156
+Next →
+The Syllogism
+intermediate
+8 min
+Qiyas al-Khalf: Proving by Refuting the Contradictory
+Author defines and illustrates Qiyas al-Khalf with a logical example.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct a qiyas al-khalf argument and explain its logical validity using modus tollens.
+
+Core Idea
+Qiyas al-Khalf proves a claim by showing its opposite leads to an impossible conclusion.
+
+The qiyas al-khalf (reductio ad absurdum) is a powerful method in Islamic logic, used to prove a proposition by refuting its contradictory. This lesson unpacks its structure through the author's example and explains why it is considered valid despite assuming the opposite. You will learn to recognize and construct such arguments, which appear in kalam and usul al-fiqh debates.
+
+Guided Path
+1
+Identify the desired conclusion (al-matlub)
+In the example, the desired conclusion is 'not every C is B'. This is the proposition we want to prove.
+The conclusion is often a universal negative or particular statement.
+2
+Assume its contradictory (naqid)
+Assume the contradictory: 'it is false that not every C is B', which is equivalent to 'every C is B'. This is the assumption that will be shown to lead to absurdity.
+The contradictory must be the exact opposite in truth value.
+3
+Combine with a known true premise
+Take a true premise: 'every B is A'. Under the assumption, we have 'every C is B' and 'every B is A', so by categorical syllogism we deduce 'every C is A'.
+This step uses a straightforward first-figure syllogism (Barbara).
+4
+Derive a contradiction
+We know (or can prove) that 'not every C is A' is true. This contradicts the deduced 'every C is A'. Thus the assumption leads to an impossibility.
+The contradiction is between the deduced proposition and an established truth.
+5
+Reject the assumption and affirm the desired conclusion
+Since the assumption leads to a contradiction, it must be false. Therefore, its contradictory (the desired conclusion) is true: 'not every C is B'.
+This is a classic modus tollens: If P then Q, not Q, therefore not P.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثاني قياس الخلف، وهو إثبات المطلوب بإبطال نقيضه، كقولنا: «لو كذب ليس كل (ج ب) لكان كل (ج ب)، وكل (ب ا) على أنها مقدمة صادقة، ينتج: لو كذب ليس كل (ج ب) لكان كل (ج ا) لكن ليس كل (ج ا) على أنه محال - فينتج: «ليس كل (ج ب)»؛ وهو المطلوب. أقول: قياس الخلف قياس يثبت المطلوب بإبطال نقيضه، وإنما سمي «خلفاً» - أي باطلا - لا لأنه باطل في نفسه، بل لأنه ينتج الباطل على تقدير عدم حقية المطلوب. (۱) هذا الوجه في التسمية هو الذي ارتضاه الجمهور. وقيل : إنما سمى خلفاً لأن المتمسك به يثبت مطلوبه بإبطال نقيضه، فكأنه يأتي مطلوبه لاعلى سبيل الاستقامة، بل من خلفه؛ ويؤيده تسمية القياس الذي ينساق إلى المطلوب ابتداء - أي من غير تعرض لإبطال نقيضه - بالمستقيم، كان المتمسك به يأتي مطلوبه من قدامه على الاستقامة (شريف).
+The second is the reductio syllogism (qiyas al-khalf): it is proving the desired conclusion by refuting its contradictory. For example, our saying: 'If it were false that not every C is B, then every C is B; and every B is A, as a true premise; it follows: if it were false that not every C is B, then every C is A; but not every C is A, since that is impossible; therefore it follows: not every C is B; which is the desired conclusion.' I say: The reductio syllogism is a syllogism that proves the desired conclusion by refuting its contradictory. It is called 'khalf' (i.e., false) not because it is false in itself, but because it produces a falsehood on the hypothesis that the desired conclusion is not true. (1) This view of the naming is the one approved by the majority. It is also said that it is called khalf because the one who adheres to it proves his desired conclusion by refuting its opposite, as if he attains his desired conclusion not on the path of directness, but from behind it. This is supported by the naming of the syllogism that proceeds directly to the desired conclusion (i.e., without engaging in refuting its opposite) as 'straight', as if the one who adheres to it comes to his desired conclusion from in front of him on a straight path.
+Source pages p. 452
+
+Commentary
+This passage defines Qiyas al-Khalf (syllogism by reductio ad absurdum) and explains its logic and naming. The author states that it is a method of proving a desired claim by refuting its contradictory. The example illustrates: suppose we want to prove that not every C is B. We assume the opposite, i.e., that it is false that not every C is B (which is equivalent to 'Every C is B'), and then combine it with a true premise (Every B is A) to derive 'Every C is A'. But if we know that 'Not every C is A' is true (an impossibility if we assume the opposite), then the assumption leads to a contradiction, so the original assumption is rejected, and the desired conclusion 'Not every C is B' is established. The commentary clarifies that the term 'khalf' (false) refers not to the syllogism itself being false, but to the fact that it produces a falsehood (the contradictory conclusion) when the desired conclusion is assumed false. The author also mentions two explanations for the name: the majority view that it produces a falsehood on the hypothesis of the opposite, and another view that it approaches the conclusion 'from behind' (i.e., indirectly) rather than directly, as opposed to 'straight' syllogism. An example from kalam: to prove that the world is created, one might argue: if the world were eternal, then it would have an infinite number of past events; but an infinite number cannot be traversed; therefore the world must have a beginning, i.e., it is created.
+
+Key Terms
+قياس الخلف
+نقيض
+المستقيم
+
+Key Terms from Source Passage
+
+Checkpoint
+In Qiyas al-Khalf, if you want to prove that 'Not every intoxicant is nabidh', what does the method assume?
+A) Every intoxicant is nabidh
+B) No intoxicant is nabidh
+C) Some intoxicant is nabidh
+D) Not every intoxicant is nabidh
+
+Key Takeaway
+Qiyas al-Khalf proves a conclusion indirectly by showing its contradictory leads to an impossibility, using the logical form of modus tollens.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a qiyas al-khalf to prove that 'The Qur'an is not created' (assuming it is created leads to a contradiction, e.g., with the attribute of speech being eternal).
+?
+Identify the antecedent, consequent, and exception in the following argument: 'If the Prophet (peace be upon him) were a liar, then Allah would not have preserved his message; but Allah did preserve it; therefore the Prophet is truthful.'
+
+Pages p. 452 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 453
+Module 13 · Lesson 157
+Next →
+The Syllogism
+intermediate
+7 min
+Qiyas al-Khalf: The Syllogism by Contradiction
+Author explains qiyas al-khalf as compound syllogism (conjunctive + exceptional) with example.
+
+Learning Objective
+By the end of this lesson, you will be able to construct a qiyas al-khalf by combining a conjunctive syllogism and an exceptional syllogism to prove a conclusion via contradiction.
+
+Core Idea
+Qiyas al-Khalf proves a conclusion by showing its negation leads to an absurdity using two linked syllogisms.
+
+This lesson breaks down the structure of qiyas al-khalf, a powerful logical tool used to prove statements by contradiction. The author demonstrates how to combine a conjunctive syllogism (conditional + categorical) with an exceptional syllogism (modus tollens) to derive the desired result. We will follow the step-by-step construction and then apply it to an Islamic theological example.
+
+Guided Path
+1
+Identify the conclusion to be proven
+Locate the statement the author wants to prove: 'not every B is C' (ليس كل (ج ب)). This is the desired result (al-matlab).
+The conclusion is usually a categorical proposition.
+2
+Assume the contradictory and a true premise
+Assume the negation of the conclusion: 'every B is C' (كل (ج ب)). Also, a true premise is given: 'every B is A' (كل (ب ا)). This premise is taken as known.
+The true premise must be consistent with reality.
+3
+Construct the conjunctive syllogism
+Combine the assumption (every B is C) and the true premise (every B is A) into a conditional: 'If (not(not every B is C) then every B is A)'. This is the product of the conjunctive syllogism (iqtirani).
+The conjunctive syllogism here is: a conditional (if the contradictory is true, then the contradictory is true) plus a categorical (every B is A) yields a new conditional linking the assumption to a consequence.
+4
+Apply the exceptional syllogism (modus tollens)
+Take the resulting conditional 'If (not(not every B is C)) then every B is A'. Then deny the consequent: 'not every B is A' (because 'every B is A' is impossible). By modus tollens, the antecedent is false: 'not(not every B is C)' is false, meaning 'not every B is C' is true.
+The impossibility of the consequent is crucial; it must be established independently.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهو مركب من قياسين ) : أحدهما اقتراني من متصلة وحملية والآخر استثنائي ؛ وليكن المطلوب ليس كل (ج ب» فنقول : لو لم يصدق ليس كل (ج ب » لصدق نقيضه، وهو «كل (ج ب)» ولنفرض أن هاهنا مقدّمة صادقة في نفس الأمر - وهي «كل (ب )) - فنجعلها كبرى للمتصلة، وهو القياس الاقتراني، لينتج «لو لم يصدق ليس كل (ج) ب) لكان كلّ (ج) ا » ثم نجعل هذه النتيجة مقدمة للقياس الاستثنائي ونستثني نقيض التالي فنقول : «لكن ليس كل (ج 1) على أن كل (ج 1) أمر محال – فينتج «ليس كل (ج ب)» وهو المطلوب.
+(۱) توضيحه بمثال أن يقال : «فرضنا صدق قولنا : «كل (ج ب) بالفعل» ثم نقول يجب أن يصدق في عكسه بعض (ب) ج) بالفعل، ثم يستدل على صدق هذا العكس بقياس الخلف، هكذا : «لولم يصدق هذا العكس على تقدير صدق الأصل لصدق نقيضه مع الأصل، فهذه مقدّمة متصلة حاصلها : «لولم يصدق مطلوبنا - وهو بعض (ب ج) بالفعل – لصدق لاشيء من (ج ب) دائماً» مع قولنا : «كلّ (ج) ب) بالفعل»، ثم نضم إلى هذه المتصلة متصلة أخرى هكذا : وكلما صدق : لاشيء من (ب) ج) دائماً» مع قولنا «كل(ج ب)» بالفعل صدق قولنا لاشيء من (ج ج) دائماً»، فهذا قياس اقتراني مركب من متصلتين ينتج «لولم يصدق بعض (ب ج) بالفعل لصدق لاشيء من (ج ج) دائماً»، ثم نجعل هذه النتيجة مقدّمة في القياس الاستثنائي ونقول : «لولم يصدق بعض (ب) ج) بالفعل لصدق لاشيء من (ج ج) دائماً»، لكن التالي باطل فالمقدم مثله.
+فقد انتفي عدم صدق «بعض (ب) (ج) بالفعل فتعين صدقه، فقد حصل المطلوب بطريق الخلف من قياسين اقتراني واستثنائي كما ذكره، وقس على ما أوضحناه قياس الخلف في إثبات النتائج (شريف).
+It is composed of two syllogisms: one conjunctive composed of a conditional and a categorical, and the other exceptional. Let the required be 'not every B is C'. So we say: if 'not every B is C' were not true, then its contradictory would be true, i.e., 'every B is C'. And let us assume that there is a true premise in reality—namely 'every B is A'—we make it the major of the conditional, which is the conjunctive syllogism, to yield 'if not every B is C is not true, then every B is A'. Then we make this conclusion a premise for the exceptional syllogism and exclude the contradictory of the consequent, saying: 'but not every B is A', because every B is A is impossible. So 'not every B is C' follows, which is the required. (1) Clarification with an example: suppose we assume that 'every B is C' is actually true. Then we say: its converse 'some C is B' must be actually true. Then the truth of this converse is proven by Qiyas al-Khalf, as follows: 'if this converse were not true given the truth of the original, then its contradictory would be true together with the original.' So this is a conditional premise whose content is: 'if our required—i.e., some B is C actually—were not true, then 'nothing of C is B' would be true always' together with our saying 'every B is C actually'. Then we join to this conditional another conditional as follows: 'whenever 'nothing of B is C always' is true together with our saying 'every B is C actually', then our saying 'nothing of A is C always' is true.' So this is a conjunctive syllogism composed of two conditionals, yielding 'if some B is C actually is not true, then nothing of A is C always is true.' Then we make this conclusion a premise in the exceptional syllogism and say: 'if some B is C actually is not true, then nothing of A is C always is true'; but the consequent is false, so the antecedent is likewise false. So the non-truth of 'some B is C actually' has been eliminated, and its truth is established. Thus the required is obtained by the method of Khalf from two syllogisms, one conjunctive and one exceptional, as mentioned. Extrapolate from our clarification of Qiyas al-Khalf in proving results (al-Sharif).
+Source pages p. 453
+
+Commentary
+This passage defines and illustrates qiyas al-khalf, the syllogism by contradiction. The author explains that it is a compound syllogism consisting of a conjunctive syllogism (combining a conditional and a categorical premise) and an exceptional syllogism. The goal is to prove a conclusion like 'not every B is C'. The method assumes the contradictory (every B is C) and uses a true premise (every B is A) to derive a conditional that if the contradictory were true, an impossibility follows. Then, by denying the consequent (i.e., 'not every B is A' is true, because 'every B is A' is impossible), the truth of the original conclusion is affirmed. The detailed example uses nested conditionals and shows the step-by-step reduction to absurdity. The commentary emphasizes that the method relies on the impossibility of the consequent, which invalidates the assumption.
+
+Key Terms
+قياس الخلف
+اقتراني
+استثنائي
+
+Key Terms from Source Passage
+
+Checkpoint
+In qiyas al-khalf as described, what is the role of the conjunctive syllogism?
+A) To directly deduce the required conclusion.
+B) To provide a conditional premise that links the assumption of the contradictory to an impossibility.
+C) To introduce a new categorical premise.
+D) To affirm the antecedent of the conditional.
+
+Key Takeaway
+Qiyas al-khalf is a compound syllogism that proves a conclusion by deriving an impossibility from its negation, using a conjunctive syllogism to link the assumption to an absurdity and then an exceptional syllogism to deny the assumption.
+
+How This Lesson Applies — to MY Life?
+?
+Write out the two syllogisms (conjunctive and exceptional) that form the qiyas al-khalf for proving 'not every B is C' as shown in the passage.
+?
+Apply the same structure to a fiqh example: Prove that 'nabidh is forbidden' given that 'every intoxicant is forbidden' and 'nabidh is an intoxicant'. Clearly state the assumption, the true premise, the conditional derived, and the modus tollens step.
+
+Pages p. 453 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 460
+Module 13 · Lesson 158
+Next →
+The Syllogism
+intermediate
+7 min
+Definition of Burhan and Its Two Divisions
+Author defines burhan and divides it into limmi and inni with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish burhan limmi from burhan inni by checking whether the middle term is a real cause or merely a sign.
+
+Core Idea
+Burhan limmi explains the 'why' (causa realis); burhan inni only gives the 'that' (causa cognoscendi).
+
+In this passage, the author defines burhan as a syllogism composed of certain premises and then divides it into two types based on the role of the middle term. Understanding this division is essential for evaluating arguments in Islamic sciences, where causal reasoning is central. We will walk through the examples to see the difference.
+
+Guided Path
+1
+Identify the two examples
+Find the two syllogisms given: one for limmi and one for inni. Notice their structures.
+2
+Locate the middle term
+In each example, identify the term that connects the minor and major terms. It is the subject in one premise and predicate in the other.
+3
+Determine causal direction
+For limmi, ask: does the middle term cause the conclusion in reality? For inni, it only causes in the mind.
+The limmi example: putrefied humors cause fever. The inni example: fever is a sign of putrefaction, not the cause.
+4
+Check the figure and mood
+Both examples are categorical syllogisms in the first figure (Barbara). Verify the validity.
+Both are valid, but only limmi gives true causal explanation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقياس المؤلّف من هذه الست يسمّى «برهاناً»، وهو إما «لي» وهو الذي يكون الحد الأوسط فيه علّة للنسبة في الذهن والعين، كقولنا: «هذا
+متعفن الأخلاط، وكلّ متعفّن الأخلاط فهو محموم فهذا محموم».
+وإما «إني» وهو الذي يكون الحد الأوسط فيـه علـة للنسبة في الذهن فقط، كقولنا: هذا محموم، وكلّ محموم فهو متعفن الأخلاط، فهذا متعفن الأخلاط».
+أقول: في عبارته مساهلة، بل البرهان هو القياس المؤلف من اليقينيات، سواء كانت ابتداء - وهي الضروريات الست - أوبواسطة - و هي النظريات والحد الأوسط فيه لابد أن يكون علة لنسبة الأكبر إلى الأصغر في الذهن، فإن كان مع ذلك علة لوجود تلك النسبة في الخارج أيضاً فهو «برهان لي» - لأنه يعطي اللميّة في الذهن والخارج - كقولنا : هذا متعفن الأخلاط، وكلّ متغفّن الأخلاط فهو محموم، فهذا محموم» فتعفن الأخلاط كما أنه علّة لثبوت الحمّى في الذهن كذلك علة لثبوت الحمّى في الخارج.
+And the syllogism composed of these six is called 'burhan' (demonstration). It is either 'limmi' (why), which is that the middle term is a cause for the relation in the mind and in reality, like our saying: 'This has putrefied humors, and everything that has putrefied humors is feverish, so this is feverish.' Or 'inni' (that), which is that the middle term is a cause for the relation only in the mind, like our saying: 'This is feverish, and everything feverish has putrefied humors, so this has putrefied humors.' I say: There is leniency in his expression. Rather, burhan is the syllogism composed of certain premises, whether they are primary — which are the six necessary [premises] — or secondary — which are theoretical. And the middle term must be a cause for the relation of the major to the minor in the mind. If, in addition, it is a cause for the existence of that relation in the external world, then it is 'burhan limmi' — because it gives the 'limmiyya' (why-ness) in the mind and in reality — like our saying: 'This has putrefied humors, and everything that has putrefied humors is feverish, so this is feverish.' For putrefaction of humors is a cause for the existence of fever in the mind and also a cause for the existence of fever in the external world.
+Source pages p. 460
+
+Commentary
+This passage defines burhan (demonstration) and its two types. It begins by stating that the syllogism composed of the six kinds of certain premises (previously enumerated) is called burhan. The author then divides burhan into limmi (demonstration of the reasoned fact) and inni (demonstration of the fact). In limmi, the middle term is a cause for the conclusion both in the mind and in reality. The example: 'This has putrefied humors; everything with putrefied humors is feverish; so this is feverish.' Here, putrefied humors cause fever both in our understanding and in the actual patient. In inni, the middle term is a cause only in the mind, not necessarily in reality. The example: 'This is feverish; everything feverish has putrefied humors; so this has putrefied humors.' Here, the fever is a sign or indicator of putrefied humors in our reasoning, but the actual causal relationship is the opposite: putrefaction causes fever. After presenting this definition, the author interjects: 'I say: There is leniency in his expression.' He then clarifies that burhan is any syllogism from certain premises, whether those premises are primary (the six necessary types) or secondary (theoretical). He emphasizes that the middle term must always be a cause for the relation in the mind, but the extra condition for limmi is that it is also a cause in external reality. The same example is repeated to reinforce the point. This correction ensures precision: the earlier definition might have implied that only limmi uses the six premises, but burhan in general uses them.
+
+Key Terms
+البرهان
+الحد الأوسط
+برهان لمي
+برهان إني
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'This is feverish; everything feverish has putrefied humors; therefore this has putrefied humors,' what type of burhan is this?
+A) Burhan limmi
+B) Burhan inni
+C) Neither
+D) Both
+
+Key Takeaway
+Burhan limmi gives the 'why' because its middle term is a real cause; burhan inni gives only the 'that' because its middle term is a sign.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a burhan limmi on a Fiqh topic of your choice, ensuring the middle term is the real cause of the ruling. For example, use the prohibition of wine due to intoxication.
+?
+Take the inni example from the passage ('This is feverish; everything feverish has putrefied humors; therefore this has putrefied humors') and explain why the middle term (fever) is not a real cause in reality.
+
+Pages p. 460 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 460
+Module 13 · Lesson 159
+Next →
+The Syllogism
+intermediate
+6 min
+Refining the Definition of Burhan
+Author corrects a looseness in the initial definition of burhan.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the author's correction regarding the definition of burhan and specify the condition for the middle term.
+
+Core Idea
+Burhan always requires the middle term to be a cause in the mind; limmi adds causality in reality.
+
+After giving the basic definition and division, the author notices a looseness and corrects it. He expands the types of premises that constitute burhan and emphasizes the causal role of the middle term. This refinement ensures that the definition is both precise and comprehensive.
+
+Guided Path
+1
+Identify the initial definition
+The first sentence defines burhan as a syllogism composed of 'these six' (the six types of certain premises). Note that this might imply only the primary certainties.
+2
+Catch the correction marker
+The phrase 'أقول: في عبارته مساهلة' signals a correction. The author points out a looseness in the earlier expression.
+'مساهلة' means leniency or looseness.
+3
+Extract the refined definition
+The author says that burhan is any syllogism from certain premises, whether primary (the six) or secondary (theoretical). This broadens the scope.
+4
+Understand the causal condition
+The middle term must always be a cause for the relation of major to minor in the mind. If it is also a cause in reality, it becomes limmi.
+This condition separates limmi from inni and is the key to the correction.
+5
+Re-evaluate the limmi example
+The corrected definition is applied to the limmi example: putrefied humors cause the fever both in the mind and in external reality.
+The example remains the same, but now we see it satisfies both conditions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقياس المؤلّف من هذه الست يسمّى «برهاناً»، وهو إما «لي» وهو الذي يكون الحد الأوسط فيه علّة للنسبة في الذهن والعين، كقولنا: «هذا
+متعفن الأخلاط، وكلّ متعفّن الأخلاط فهو محموم فهذا محموم».
+وإما «إني» وهو الذي يكون الحد الأوسط فيـه علـة للنسبة في الذهن فقط، كقولنا: هذا محموم، وكلّ محموم فهو متعفن الأخلاط، فهذا متعفن الأخلاط».
+أقول: في عبارته مساهلة، بل البرهان هو القياس المؤلف من اليقينيات، سواء كانت ابتداء - وهي الضروريات الست - أوبواسطة - و هي النظريات والحد الأوسط فيه لابد أن يكون علة لنسبة الأكبر إلى الأصغر في الذهن، فإن كان مع ذلك علة لوجود تلك النسبة في الخارج أيضاً فهو «برهان لي» - لأنه يعطي اللميّة في الذهن والخارج - كقولنا : هذا متعفن الأخلاط، وكلّ متغفّن الأخلاط فهو محموم، فهذا محموم» فتعفن الأخلاط كما أنه علّة لثبوت الحمّى في الذهن كذلك علة لثبوت الحمّى في الخارج.
+And the syllogism composed of these six is called 'burhan' (demonstration). It is either 'limmi' (why), which is that the middle term is a cause for the relation in the mind and in reality, like our saying: 'This has putrefied humors, and everything that has putrefied humors is feverish, so this is feverish.' Or 'inni' (that), which is that the middle term is a cause for the relation only in the mind, like our saying: 'This is feverish, and everything feverish has putrefied humors, so this has putrefied humors.' I say: There is leniency in his expression. Rather, burhan is the syllogism composed of certain premises, whether they are primary — which are the six necessary [premises] — or secondary — which are theoretical. And the middle term must be a cause for the relation of the major to the minor in the mind. If, in addition, it is a cause for the existence of that relation in the external world, then it is 'burhan limmi' — because it gives the 'limmiyya' (why-ness) in the mind and in reality — like our saying: 'This has putrefied humors, and everything that has putrefied humors is feverish, so this is feverish.' For putrefaction of humors is a cause for the existence of fever in the mind and also a cause for the existence of fever in the external world.
+Source pages p. 460
+
+Commentary
+This passage defines burhan (demonstration) and its two types. It begins by stating that the syllogism composed of the six kinds of certain premises (previously enumerated) is called burhan. The author then divides burhan into limmi (demonstration of the reasoned fact) and inni (demonstration of the fact). In limmi, the middle term is a cause for the conclusion both in the mind and in reality. The example: 'This has putrefied humors; everything with putrefied humors is feverish; so this is feverish.' Here, putrefied humors cause fever both in our understanding and in the actual patient. In inni, the middle term is a cause only in the mind, not necessarily in reality. The example: 'This is feverish; everything feverish has putrefied humors; so this has putrefied humors.' Here, the fever is a sign or indicator of putrefied humors in our reasoning, but the actual causal relationship is the opposite: putrefaction causes fever. After presenting this definition, the author interjects: 'I say: There is leniency in his expression.' He then clarifies that burhan is any syllogism from certain premises, whether those premises are primary (the six necessary types) or secondary (theoretical). He emphasizes that the middle term must always be a cause for the relation in the mind, but the extra condition for limmi is that it is also a cause in external reality. The same example is repeated to reinforce the point. This correction ensures precision: the earlier definition might have implied that only limmi uses the six premises, but burhan in general uses them.
+
+Key Terms
+البرهان
+الحد الأوسط
+برهان لمي
+برهان إني
+مساهلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author's correction, what is the essential condition for any burhan?
+A) The premises must be only the six primary types.
+B) The middle term must be a cause for the relation in the mind.
+C) The middle term must be a cause in reality.
+D) The syllogism must be in the first figure.
+
+Key Takeaway
+The refined definition of burhan requires the middle term to be a cause in the mind; only limmi requires it to also be a cause in reality.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the following argument: 'This nabidh is prohibited; everything prohibited is an intoxicant; therefore this is an intoxicant.' Is this burhan limmi or inni? Explain based on the author's refined definition.
+?
+Using the author's correction, rewrite the initial definition of burhan to include the condition about the middle term being a cause in the mind, and specify when it becomes limmi.
+
+Pages p. 460 · The Syllogism
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:53:42Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Ashraf%20ul%20Hadaya%20Vol%2005_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/49 - Ashraf Ul Hadaya Vol 05 Merged With Pgs",
+  "output_bytes": 7771336,
+  "output_sha256": "3749b0bee0e812bcac4034f8031755f0c3c7eabece36a8c7dbaee6359d4c6df9",
+  "checks": {
+    "catalog_expected_lessons": 733,
+    "course_reported_lessons": 733,
+    "index_lessons": 733,
+    "full_lessons": 733,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 14,
+    "course_reported_modules": 14,
+    "modules": 14,
+    "course_reported_sources": 706,
+    "sources": 706
+  }
+}

@@ -1,0 +1,1367 @@
+← Prev
+p. 58
+Module 13 · Lesson 1
+Next →
+Immediate Inference
+beginner
+5 min
+What is Logical Contradiction (Tanaquḍ)?
+Defines logical contradiction and its conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to define logical contradiction between two propositions and identify the conditions for contradictory propositions.
+
+Core Idea
+Contradiction is difference in quality with exclusive truth.
+
+In previous lessons, we classified propositions into types. Now we study judgments of propositions, starting with contradiction (tanaquḍ). Contradiction is essential for constructing proofs and verifying truth. The poem defines it as difference in quality such that only one proposition is true. Let's unpack this definition carefully.
+
+Guided Path
+1
+Identify the two propositions
+Find the two propositions being compared. They must be complete categorical propositions (subject, predicate, copula). Are they affirmative or negative? What is their quantity?
+2
+Check their quality
+Determine if one is affirmative (ījāb) and the other negative (salb). If both are affirmative or both negative, they cannot be contradictories.
+Quality is the key differentia in the definition.
+3
+Check their truth values
+Can both propositions be true simultaneously? If yes, not contradictory. Can both be false? If yes, not contradictory. Exactly one must be true.
+The definition requires that one and only one is true (luzūm ṣidq wāḥida).
+4
+Verify the definition against examples
+The commentary excludes pairs differing in subject, predicate, or quantity alone. Test a few: 'Every human is an animal' and 'Some human is an animal'? Both true, so not contradictory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التناقض هو حكم من أحكام القضايا، ولذلك شرع في بيانه بعد أن انتهى من شرح وتعريف أنواع القضية (1)..
+هذه
+وللقضايا أحكام منها التناقض ومنها العكس : العكس المستوي وعكس النقيض. ويستفاد من الأحكام في البراهين وللتحقق من صدق بعض القضايا . ولذلك فإن المناطقة يشرحون أحكام القضايا قبل الخوض في بيان البراهين والأقيسة لاحتياج هذه إليها.
+قال:
+63
+64
+65
+66
+67
+تَنَاقُضٌ خُلْفُ القَضِيْتَيْنِ فِي كَيْف وَصِدْقُ واحِدٍ أَمْرٌ قُفي
+فَإِنْ تَكُنْ شَخْصِيَّةً أَوْ مُهْمَلَةً فَنَقْضُها بِالْكَيْفِ أَنْ تُبَدِّ لَهُ
+وَإِنْ تَكُنْ مَحْصُورَةٌ بالسُّورِ فَانْقُضْ بِضِدٌ سُورِها المذكو فَإِنْ تَكُنْ مُوجِبَةً كُلِّيَّة
+نقِيضُها سَالِبَةٌ جُزْئِيَّة
+وَإِنْ تَكُنْ سَالِبةً كُلِّيَّة نَقِيضُها مُوجِبَةٌ جُزْئِيَةٌ ]
+أقول : التناقض لغةً: هو وضع الشيء ورفعه. أي إثباته ونفيه. واصطلاحاً هو اختلاف القضيتين في الكيف [الإيجاب والسلب]، ويلزم صدق واحدة منها فقط
+فلا يسمى
+اختلاف المفردين من حيث الكيف بالتناقض، نحو [زيد] و[لا زيد].
+(2)
+وكذلك فإن اختلاف القضيتين في الكم كما في الكلية والجزئية لا يسمى تناقضاً، نحو كل إنسان حيوان]، [بعض الإنسان حيوان].
+ولا إذا اختلفتا في الموضوع نحو [زيد قائم] [عمرو قائم]. ولا إذا اختلفتا في المحمول نحو [زيد قائم]، [زيد جالس].
+(1) وذلك لأن الحكم على الشيء فرع عن تصوره، كما عرفت مما مر فكان لا بد من تصوّر القضية بما يكفـى
+لتجرى عليها أحكام النقض والعكس.
+(2) خرج باختلاف القضيتين اختلاف المفردين، وبقوله (في الكيف الاختلاف في الكـم، وبقولـه (فقط) الاختلاف في الموضوع فقط، والاختلاف في المحمول فقط، وخرج بالتعريف كله وقوله اختلاف القضيتين كل قضيّتين يمكن أن تصدقا معاً أو تكذبا معاً.
+Contradiction is one of the judgments of propositions, and therefore he began explaining it after finishing the explanation and definition of the types of proposition (1).
+Thus
+Propositions have judgments, among them contradiction and among them conversion: simple conversion and conversion by contradiction. These judgments are used in proofs and to verify the truth of some propositions. Therefore, logicians explain the judgments of propositions before delving into the explanation of proofs and syllogisms due to the need for them therein.
+He said:
+63
+64
+65
+66
+67
+Contradiction is the difference of two propositions in quality, and the truth of only one is a matter to be followed.
+So if it is personal or unquantified, then its contradiction is by quality: you change it.
+And if it is quantified with its quantifier, then refute it with the opposite of its mentioned quantifier. For if it is universal affirmative,
+its contradictory is particular negative.
+And if it is universal negative, its contradictory is particular affirmative.
+I say: Contradiction linguistically is the placing of a thing and its removal, i.e., its affirmation and negation. Technically, it is the difference of two propositions in quality [affirmation and negation], and it is necessary that only one of them is true.
+So the difference of two singular terms in quality is not called contradiction, like 'Zayd' and 'not Zayd'.
+(2)
+Similarly, the difference of two propositions in quantity, like in universal and particular, is not called contradiction, like 'Every human is an animal', 'Some human is an animal'.
+Nor if they differ in subject, like 'Zayd is standing', 'Amr is standing'. Nor if they differ in predicate, like 'Zayd is standing', 'Zayd is sitting'.
+(1) This is because judgment on a thing is a branch of its conception, as you have learned from what preceded. So it was necessary to conceive the proposition sufficiently to apply to it the judgments of refutation and conversion.
+(2) By 'two propositions' he excludes the difference of two singular terms; by his saying 'in quality' he excludes difference in quantity; by his saying 'only' he excludes difference in subject only and difference in predicate only; by the entire definition he excludes every two propositions that can both be true or both false simultaneously.
+Source pages p. 58
+
+Commentary
+This passage introduces contradiction (tanaquḍ) as one of the logical judgments ('aḥkām) that apply to propositions. The author first places contradiction within the broader context of propositional judgments, alongside conversion (عكس). These judgments are necessary for constructing proofs (burhān) and verifying truth. The poem (from al-Sullam) is then quoted, giving the rule: contradiction is difference in quality (ījāb/salb) such that only one is true. For particular or unquantified propositions, change the quality. For quantified propositions, change both quantity and quality. For example, the contradictory of 'Every A is B' is 'Some A is not B', and of 'No A is B' is 'Some A is B'. The commentary then provides the linguistic and technical definitions. Technically, contradiction requires difference in quality (one affirmative, one negative) and that exactly one is true. The commentator excludes several cases: difference in singular terms (e.g., 'Zayd' vs 'not Zayd') because these are not propositions; difference in quantity alone (e.g., universal vs particular affirmative) because both can be true; difference in subject or predicate alone (e.g., 'Zayd is standing' vs 'Amr is standing') because both can be true. The definition also excludes pairs that can be both true or both false simultaneously.
+
+Key Terms
+التناقض
+الكيف
+الكم
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the contradictory of the proposition 'Every intoxicant is unlawful'?
+A) Some intoxicant is not unlawful.
+B) No intoxicant is unlawful.
+C) Some intoxicant is unlawful.
+D) Every intoxicant is not unlawful.
+
+Key Takeaway
+Logical contradiction is the strongest opposition between propositions: they differ in quality and exactly one is true.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the two propositions: 'Every action is created by Allah' and 'Some action is not created by Allah'. Are they contradictories? Justify your answer using the definition of tanaquḍ.
+?
+Find two propositions from fiqh that are not contradictories because they differ only in quantity (e.g., universal vs particular affirmative). Explain why they fail the test.
+
+Pages p. 58 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 58
+Module 13 · Lesson 2
+Next →
+Immediate Inference
+beginner
+5 min
+How to Find the Contradictory of Any Proposition
+Provides rules for finding contradictories for singular, indefinite, and quantified propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to construct the contradictory of any categorical proposition by applying the rules of changing quality and quantity appropriately.
+
+Core Idea
+To contradict a quantified proposition, change both quantity and quality.
+
+The poem gave us clear rules: for singular or indefinite propositions, just change the quality. For quantified propositions, change the quantifier to its opposite and also flip the quality. Let's practice these rules step by step with examples from Islamic sciences.
+
+Guided Path
+1
+Classify the proposition
+Is the proposition universal (كل/جميع), particular (بعض), singular (مفرد like 'Zayd'), or indefinite (مهملة, no quantifier)? Identify its quantity and quality.
+2
+Apply rule for singular/indefinite
+If the proposition is about an individual (e.g., 'Zayd is standing') or indefinite (e.g., 'Human is animal'), the contradictory is simply the same proposition with opposite quality: 'Zayd is not standing', 'Some human is not animal'? Wait: indefinite means no quantifier, but it is treated like particular? The text says 'change by quality'—so for indefinite, you change the quality but keep the absence of quantifier? The commentary clarifies: for personal (singular) or unquantified (indefinite), you just change the quality. Example: 'Zayd is standing' => 'Zayd is not standing'.
+In indefinite propositions, the contradictory is also indefinite with opposite quality.
+3
+Apply rule for quantified propositions
+For quantified propositions, change the quantifier to its opposite and reverse the quality. The poem gives two cases: universal affirmative => particular negative; universal negative => particular affirmative. For particulars: particular affirmative => universal negative; particular negative => universal affirmative.
+Memorize the four conversions: A->O, E->I, I->E, O->A.
+4
+Verify that exactly one is true
+After constructing the contradictory, check that the original and its contradictory cannot both be true and cannot both be false. Use a concrete example: 'Every believer is righteous' and 'Some believer is not righteous' – if one is true, the other must be false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التناقض هو حكم من أحكام القضايا، ولذلك شرع في بيانه بعد أن انتهى من شرح وتعريف أنواع القضية (1)..
+هذه
+وللقضايا أحكام منها التناقض ومنها العكس : العكس المستوي وعكس النقيض. ويستفاد من الأحكام في البراهين وللتحقق من صدق بعض القضايا . ولذلك فإن المناطقة يشرحون أحكام القضايا قبل الخوض في بيان البراهين والأقيسة لاحتياج هذه إليها.
+قال:
+63
+64
+65
+66
+67
+تَنَاقُضٌ خُلْفُ القَضِيْتَيْنِ فِي كَيْف وَصِدْقُ واحِدٍ أَمْرٌ قُفي
+فَإِنْ تَكُنْ شَخْصِيَّةً أَوْ مُهْمَلَةً فَنَقْضُها بِالْكَيْفِ أَنْ تُبَدِّ لَهُ
+وَإِنْ تَكُنْ مَحْصُورَةٌ بالسُّورِ فَانْقُضْ بِضِدٌ سُورِها المذكو فَإِنْ تَكُنْ مُوجِبَةً كُلِّيَّة
+نقِيضُها سَالِبَةٌ جُزْئِيَّة
+وَإِنْ تَكُنْ سَالِبةً كُلِّيَّة نَقِيضُها مُوجِبَةٌ جُزْئِيَةٌ ]
+أقول : التناقض لغةً: هو وضع الشيء ورفعه. أي إثباته ونفيه. واصطلاحاً هو اختلاف القضيتين في الكيف [الإيجاب والسلب]، ويلزم صدق واحدة منها فقط
+فلا يسمى
+اختلاف المفردين من حيث الكيف بالتناقض، نحو [زيد] و[لا زيد].
+(2)
+وكذلك فإن اختلاف القضيتين في الكم كما في الكلية والجزئية لا يسمى تناقضاً، نحو كل إنسان حيوان]، [بعض الإنسان حيوان].
+ولا إذا اختلفتا في الموضوع نحو [زيد قائم] [عمرو قائم]. ولا إذا اختلفتا في المحمول نحو [زيد قائم]، [زيد جالس].
+(1) وذلك لأن الحكم على الشيء فرع عن تصوره، كما عرفت مما مر فكان لا بد من تصوّر القضية بما يكفـى
+لتجرى عليها أحكام النقض والعكس.
+(2) خرج باختلاف القضيتين اختلاف المفردين، وبقوله (في الكيف الاختلاف في الكـم، وبقولـه (فقط) الاختلاف في الموضوع فقط، والاختلاف في المحمول فقط، وخرج بالتعريف كله وقوله اختلاف القضيتين كل قضيّتين يمكن أن تصدقا معاً أو تكذبا معاً.
+Contradiction is one of the judgments of propositions, and therefore he began explaining it after finishing the explanation and definition of the types of proposition (1).
+Thus
+Propositions have judgments, among them contradiction and among them conversion: simple conversion and conversion by contradiction. These judgments are used in proofs and to verify the truth of some propositions. Therefore, logicians explain the judgments of propositions before delving into the explanation of proofs and syllogisms due to the need for them therein.
+He said:
+63
+64
+65
+66
+67
+Contradiction is the difference of two propositions in quality, and the truth of only one is a matter to be followed.
+So if it is personal or unquantified, then its contradiction is by quality: you change it.
+And if it is quantified with its quantifier, then refute it with the opposite of its mentioned quantifier. For if it is universal affirmative,
+its contradictory is particular negative.
+And if it is universal negative, its contradictory is particular affirmative.
+I say: Contradiction linguistically is the placing of a thing and its removal, i.e., its affirmation and negation. Technically, it is the difference of two propositions in quality [affirmation and negation], and it is necessary that only one of them is true.
+So the difference of two singular terms in quality is not called contradiction, like 'Zayd' and 'not Zayd'.
+(2)
+Similarly, the difference of two propositions in quantity, like in universal and particular, is not called contradiction, like 'Every human is an animal', 'Some human is an animal'.
+Nor if they differ in subject, like 'Zayd is standing', 'Amr is standing'. Nor if they differ in predicate, like 'Zayd is standing', 'Zayd is sitting'.
+(1) This is because judgment on a thing is a branch of its conception, as you have learned from what preceded. So it was necessary to conceive the proposition sufficiently to apply to it the judgments of refutation and conversion.
+(2) By 'two propositions' he excludes the difference of two singular terms; by his saying 'in quality' he excludes difference in quantity; by his saying 'only' he excludes difference in subject only and difference in predicate only; by the entire definition he excludes every two propositions that can both be true or both false simultaneously.
+Source pages p. 58
+
+Commentary
+This passage introduces contradiction (tanaquḍ) as one of the logical judgments ('aḥkām) that apply to propositions. The author first places contradiction within the broader context of propositional judgments, alongside conversion (عكس). These judgments are necessary for constructing proofs (burhān) and verifying truth. The poem (from al-Sullam) is then quoted, giving the rule: contradiction is difference in quality (ījāb/salb) such that only one is true. For particular or unquantified propositions, change the quality. For quantified propositions, change both quantity and quality. For example, the contradictory of 'Every A is B' is 'Some A is not B', and of 'No A is B' is 'Some A is B'. The commentary then provides the linguistic and technical definitions. Technically, contradiction requires difference in quality (one affirmative, one negative) and that exactly one is true. The commentator excludes several cases: difference in singular terms (e.g., 'Zayd' vs 'not Zayd') because these are not propositions; difference in quantity alone (e.g., universal vs particular affirmative) because both can be true; difference in subject or predicate alone (e.g., 'Zayd is standing' vs 'Amr is standing') because both can be true. The definition also excludes pairs that can be both true or both false simultaneously.
+
+Key Terms
+التناقض
+الكيف
+الكم
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the contradictory of the proposition 'Some scholars are not just'?
+A) Every scholar is just.
+B) No scholar is just.
+C) Some scholars are just.
+D) Every scholar is not just.
+
+Key Takeaway
+To find a contradictory, change quantity AND quality for quantified propositions; change only quality for singular/indefinite propositions.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'Every sale is permissible', construct its contradictory and state the logical form (quality and quantity).
+?
+What is the contradictory of 'No believer is a disbeliever'? Verify that exactly one is true in Islamic theology.
+
+Pages p. 58 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 58
+Module 13 · Lesson 3
+Next →
+Immediate Inference
+beginner
+5 min
+Definition and Conditions of Contradiction (Tanāquḍ)
+Author defines contradiction, excludes other differences, and gives rules for deriving contradictories.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether two categorical propositions satisfy the conditions for contradiction.
+
+Core Idea
+Contradiction requires difference in quality alone — not quantity, subject, or predicate.
+
+In this passage, the author defines tanāquḍ as a judgment on propositions essential for proofs. He distinguishes it from other differences and clarifies that only one proposition can be true. We'll break down the conditions and see how they apply to real fiqh and kalam examples.
+
+Guided Path
+1
+Identify the two propositions
+Locate the two statements being compared. Ensure they are complete categorical propositions with the same subject and predicate.
+2
+Check difference in quality
+One proposition must be affirmative, the other negative. If they are both affirmative or both negative, they cannot be contradictories.
+3
+Verify unity in other aspects
+Ensure they do not differ in quantity (universal vs. particular), subject, predicate, time, or place. Any such difference means they are not contradictories.
+For example, 'Every human is an animal' and 'Some human is an animal' differ only in quantity, so they are not contradictories.
+4
+Confirm truth-value exclusivity
+It must be impossible for both propositions to be true together or both false together. One must be necessarily true and the other false.
+Subcontraries (e.g., some A is B and some A is not B) can both be true; contraries (e.g., every A is B and no A is B) can both be false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التناقض هو حكم من أحكام القضايا، ولذلك شرع في بيانه بعد أن انتهى من شرح وتعريف أنواع القضية. وللقضايا أحكام منها التناقض ومنها العكس: العكس المستوي وعكس النقيض. ويستفاد من الأحكام في البراهين وللتحقق من صدق بعض القضايا. ولذلك فإن المناطقة يشرحون أحكام القضايا قبل الخوض في بيان البراهين والأقيسة لاحتياج هذه إليها. قال: تَنَاقُضٌ خُلْفُ القَضِيْتَيْنِ فِي كَيْف وَصِدْقُ واحِدٍ أَمْرٌ قُفي فَإِنْ تَكُنْ شَخْصِيَّةً أَوْ مُهْمَلَةً فَنَقْضُها بِالْكَيْفِ أَنْ تُبَدِّ لَهُ وَإِنْ تَكُنْ مَحْصُورَةٌ بالسُّورِ فَانْقُضْ بِضِدٌ سُورِها المذكو فَإِنْ تَكُنْ مُوجِبَةً كُلِّيَّة نَقِيضُها سَالِبَةٌ جُزْئِيَّة وَإِنْ تَكُنْ سَالِبةً كُلِّيَّة نَقِيضُها مُوجِبَةٌ جُزْئِيَةٌ أقول: التناقض لغةً: هو وضع الشيء ورفعه. أي إثباته ونفيه. واصطلاحاً هو اختلاف القضيتين في الكيف [الإيجاب والسلب]، ويلزم صدق واحدة منها فقط فلا يسمى اختلاف المفردين من حيث الكيف بالتناقض، نحو [زيد] و[لا زيد]. وكذلك فإن اختلاف القضيتين في الكم كما في الكلية والجزئية لا يسمى تناقضاً، نحو كل إنسان حيوان]، [بعض الإنسان حيوان]. ولا إذا اختلفتا في الموضوع نحو [زيد قائم] [عمرو قائم]. ولا إذا اختلفتا في المحمول نحو [زيد قائم]، [زيد جالس]. وخرج بالتعريف القضيتان اللتان لا يلزم صدق واحدة منها فقط، بل يجوز صدقها معاً نحو بعض الحيوان إنسان] وقولنا بعض الحيوان ليس بإنسان]، وكذلك القضيتان اللتان يجوز كذبها معاً نحو أكل حيوان إنسان] وقولنا [لا شيء من الحيوان بإنسان]. وأما شرح نقائض القضايا بحسب التفصيل، فهو كما يأتي: القضية الشخصية: يستخرج نقيضها بتبديل الكيف فيها، نحو [زيد قائم]، [زيد ليس بقائم]. القضية المهملة: يستخرج نقيضها بتبديل الكيف فيها نحو [الإنسان حيوان] [الإنسان ليس بحيوان]. كذا قال الناظم، والصحيح أن نقيض المهملة كلية تخالفها في الكيف، فنقيض الإنسان حيوان]، [لا شيء من الإنسان بحيوان]. القضية المسؤرة: نقيضها بأن تأتى بضد سورها بعد تبديل كيفها. فنقيض الموجبة الكلية: نحو كل إنسان حيوان]، سالبة جزيئة نحو [ليس بعض الإنسان بحيوان]. ونقيض السالبة الكلية: نحو [لا شيء من الإنسان بفرس]، موجبة جزئية نحو [بعض الإنسان فرس].
+Contradiction is one of the judgments concerning propositions, therefore he began explaining it after finishing the explanation and definition of the types of propositions. Propositions have judgments, among them contradiction and among them conversion: simple conversion and conversion by contrapositive. The judgments are used in demonstrations and to verify the truth of some propositions. Therefore logicians explain the judgments of propositions before delving into the explanation of demonstrations and syllogisms due to the need of these for them. He said: "Contradiction is the opposition of two propositions in quality, and only one is true, a matter followed. If it is personal or indefinite, then its contradictory is by changing the quality for it. And if it is quantified with a quantifier, then contradict it by the opposite of its mentioned quantifier. If it is universal affirmative, its contradictory is particular negative. And if it is universal negative, its contradictory is particular affirmative." I say: Contradiction linguistically is affirming and negating a thing, i.e., its establishment and negation. Technically it is the disagreement of two propositions in quality [affirmation and negation], and it necessarily follows that only one of them is true. So the disagreement of singular terms in quality is not called contradiction, like [Zayd] and [not Zayd]. Likewise, the disagreement of two propositions in quantity, as in universality and particularity, is not called contradiction, like "Every human is an animal" and "Some human is an animal." Nor if they differ in subject, like [Zayd is standing] and [Amr is standing]. Nor if they differ in predicate, like [Zayd is standing] and [Zayd is sitting]. And excluded by the definition are the two propositions from which it is not necessary that only one is true, but rather it is possible that both are true, like "Some animal is human" and "Some animal is not human," and likewise the two propositions for which it is possible that both are false, like "Every animal is human" and "No animal is human." As for the detailed explanation of the contradictories of propositions, it is as follows: The personal proposition: its contradictory is extracted by changing its quality, like [Zayd is standing] and [Zayd is not standing]. The indefinite proposition: its contradictory is extracted by changing its quality, like [Man is an animal] and [Man is not an animal]. Such said the versifier, but the correct view is that the contradictory of the indefinite is a universal differing from it in quality, so the contradictory of "Man is an animal" is "No man is an animal." The quantified proposition: its contradictory is by bringing the opposite of its quantifier after changing its quality. So the contradictory of the universal affirmative: like "Every human is an animal" is a particular negative, like "Some human is not an animal." And the contradictory of the universal negative: like "No human is a horse" is a particular affirmative, like "Some human is a horse."
+Source pages p. 58
+
+Commentary
+This passage defines contradiction (tanāquḍ) and explains how to derive the contradictory of any categorical proposition. The author begins by stating that contradiction is one of the judgments concerning propositions, studied after defining proposition types because these judgments are needed for demonstrations and verifying truth. He then quotes the poet's verses which give the rules: contradiction is opposition in quality (affirmation vs. negation) such that exactly one proposition is true. For personal and indefinite propositions, change the quality (e.g., 'Zayd is standing' becomes 'Zayd is not standing'). For quantified propositions, change the quality and replace the quantifier with its opposite: universal affirmative becomes particular negative, universal negative becomes particular affirmative. In the commentary ('Aqulu'), the author clarifies the definition linguistically and technically, emphasizing that disagreement must be in quality alone—differences in quantity, subject, or predicate do not constitute contradiction. He also excludes pairs that can be both true (like subcontraries) or both false (like contraries). Then he details each type: personal and indefinite are straightforward according to the versifier, but he corrects the indefinite, stating its contradictory is a universal, not an indefinite, because the indefinite is treated as particular. Finally, he explains the rule for quantified propositions with examples: the contradictory of 'Every human is an animal' is 'Some human is not an animal,' and of 'No human is a horse' is 'Some human is a horse.' The key point is that contradictory propositions cannot both be true nor both false—one must be true and the other false.
+
+Key Terms
+تناقض
+كيف
+سور
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the contradictory of the proposition 'Every intoxicant (khamr) is forbidden (haram)'?
+A) No intoxicant is forbidden.
+B) Some intoxicant is forbidden.
+C) Some intoxicant is not forbidden.
+D) Every intoxicant is not forbidden.
+
+Key Takeaway
+Contradiction is difference in quality with necessary truth of one and falsity of the other, all other conditions being identical.
+
+How This Lesson Applies — to MY Life?
+?
+Given the propositions 'All intoxicating beverages are forbidden' and 'Some intoxicating beverages are not forbidden,' are they contradictories? Explain using the conditions from this lesson.
+
+Pages p. 58 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 58
+Module 13 · Lesson 4
+Next →
+Immediate Inference
+beginner
+5 min
+Deriving Contradictories for Personal, Indefinite, and Quantified Propositions
+Author gives rules for deriving contradictories of personal, indefinite, and quantified propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to construct the contradictory of any categorical proposition by applying the rules for personal, indefinite, and quantified types.
+
+Core Idea
+Change the quality for all; for quantified, also swap the quantifier with its opposite.
+
+After understanding the definition, we now learn the operational rules. The author provides specific steps for each proposition type. We'll practice deriving contradictories for examples from fiqh.
+
+Guided Path
+1
+Identify the proposition type
+Determine if the proposition is personal (referring to a specific individual), indefinite (no quantifier, treated as particular), or quantified (with 'every', 'some', 'no', etc.).
+2
+For personal or indefinite: just change the quality
+Simply switch the proposition from affirmative to negative or vice versa. For example, 'Zayd is standing' becomes 'Zayd is not standing.'
+The author corrects that for indefinite, the contradictory should be universal, but the simple quality change gives an indefinite that is logically equivalent to a particular; the proper contradictory is universal.
+3
+For quantified: note the quantifier and quality
+Identify whether it is universal affirmative (Every A is B), universal negative (No A is B), particular affirmative (Some A is B), or particular negative (Some A is not B).
+4
+Apply the rule: change quality and flip quantifier
+Universal affirmative becomes particular negative; universal negative becomes particular affirmative; particular affirmative becomes universal negative; particular negative becomes universal affirmative.
+5
+Verify the result
+Check that the derived proposition contradicts the original by the definition: they differ in quality, have the same subject and predicate, and cannot both be true or both false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التناقض هو حكم من أحكام القضايا، ولذلك شرع في بيانه بعد أن انتهى من شرح وتعريف أنواع القضية. وللقضايا أحكام منها التناقض ومنها العكس: العكس المستوي وعكس النقيض. ويستفاد من الأحكام في البراهين وللتحقق من صدق بعض القضايا. ولذلك فإن المناطقة يشرحون أحكام القضايا قبل الخوض في بيان البراهين والأقيسة لاحتياج هذه إليها. قال: تَنَاقُضٌ خُلْفُ القَضِيْتَيْنِ فِي كَيْف وَصِدْقُ واحِدٍ أَمْرٌ قُفي فَإِنْ تَكُنْ شَخْصِيَّةً أَوْ مُهْمَلَةً فَنَقْضُها بِالْكَيْفِ أَنْ تُبَدِّ لَهُ وَإِنْ تَكُنْ مَحْصُورَةٌ بالسُّورِ فَانْقُضْ بِضِدٌ سُورِها المذكو فَإِنْ تَكُنْ مُوجِبَةً كُلِّيَّة نَقِيضُها سَالِبَةٌ جُزْئِيَّة وَإِنْ تَكُنْ سَالِبةً كُلِّيَّة نَقِيضُها مُوجِبَةٌ جُزْئِيَةٌ أقول: التناقض لغةً: هو وضع الشيء ورفعه. أي إثباته ونفيه. واصطلاحاً هو اختلاف القضيتين في الكيف [الإيجاب والسلب]، ويلزم صدق واحدة منها فقط فلا يسمى اختلاف المفردين من حيث الكيف بالتناقض، نحو [زيد] و[لا زيد]. وكذلك فإن اختلاف القضيتين في الكم كما في الكلية والجزئية لا يسمى تناقضاً، نحو كل إنسان حيوان]، [بعض الإنسان حيوان]. ولا إذا اختلفتا في الموضوع نحو [زيد قائم] [عمرو قائم]. ولا إذا اختلفتا في المحمول نحو [زيد قائم]، [زيد جالس]. وخرج بالتعريف القضيتان اللتان لا يلزم صدق واحدة منها فقط، بل يجوز صدقها معاً نحو بعض الحيوان إنسان] وقولنا بعض الحيوان ليس بإنسان]، وكذلك القضيتان اللتان يجوز كذبها معاً نحو أكل حيوان إنسان] وقولنا [لا شيء من الحيوان بإنسان]. وأما شرح نقائض القضايا بحسب التفصيل، فهو كما يأتي: القضية الشخصية: يستخرج نقيضها بتبديل الكيف فيها، نحو [زيد قائم]، [زيد ليس بقائم]. القضية المهملة: يستخرج نقيضها بتبديل الكيف فيها نحو [الإنسان حيوان] [الإنسان ليس بحيوان]. كذا قال الناظم، والصحيح أن نقيض المهملة كلية تخالفها في الكيف، فنقيض الإنسان حيوان]، [لا شيء من الإنسان بحيوان]. القضية المسؤرة: نقيضها بأن تأتى بضد سورها بعد تبديل كيفها. فنقيض الموجبة الكلية: نحو كل إنسان حيوان]، سالبة جزيئة نحو [ليس بعض الإنسان بحيوان]. ونقيض السالبة الكلية: نحو [لا شيء من الإنسان بفرس]، موجبة جزئية نحو [بعض الإنسان فرس].
+Contradiction is one of the judgments concerning propositions, therefore he began explaining it after finishing the explanation and definition of the types of propositions. Propositions have judgments, among them contradiction and among them conversion: simple conversion and conversion by contrapositive. The judgments are used in demonstrations and to verify the truth of some propositions. Therefore logicians explain the judgments of propositions before delving into the explanation of demonstrations and syllogisms due to the need of these for them. He said: "Contradiction is the opposition of two propositions in quality, and only one is true, a matter followed. If it is personal or indefinite, then its contradictory is by changing the quality for it. And if it is quantified with a quantifier, then contradict it by the opposite of its mentioned quantifier. If it is universal affirmative, its contradictory is particular negative. And if it is universal negative, its contradictory is particular affirmative." I say: Contradiction linguistically is affirming and negating a thing, i.e., its establishment and negation. Technically it is the disagreement of two propositions in quality [affirmation and negation], and it necessarily follows that only one of them is true. So the disagreement of singular terms in quality is not called contradiction, like [Zayd] and [not Zayd]. Likewise, the disagreement of two propositions in quantity, as in universality and particularity, is not called contradiction, like "Every human is an animal" and "Some human is an animal." Nor if they differ in subject, like [Zayd is standing] and [Amr is standing]. Nor if they differ in predicate, like [Zayd is standing] and [Zayd is sitting]. And excluded by the definition are the two propositions from which it is not necessary that only one is true, but rather it is possible that both are true, like "Some animal is human" and "Some animal is not human," and likewise the two propositions for which it is possible that both are false, like "Every animal is human" and "No animal is human." As for the detailed explanation of the contradictories of propositions, it is as follows: The personal proposition: its contradictory is extracted by changing its quality, like [Zayd is standing] and [Zayd is not standing]. The indefinite proposition: its contradictory is extracted by changing its quality, like [Man is an animal] and [Man is not an animal]. Such said the versifier, but the correct view is that the contradictory of the indefinite is a universal differing from it in quality, so the contradictory of "Man is an animal" is "No man is an animal." The quantified proposition: its contradictory is by bringing the opposite of its quantifier after changing its quality. So the contradictory of the universal affirmative: like "Every human is an animal" is a particular negative, like "Some human is not an animal." And the contradictory of the universal negative: like "No human is a horse" is a particular affirmative, like "Some human is a horse."
+Source pages p. 58
+
+Commentary
+This passage defines contradiction (tanāquḍ) and explains how to derive the contradictory of any categorical proposition. The author begins by stating that contradiction is one of the judgments concerning propositions, studied after defining proposition types because these judgments are needed for demonstrations and verifying truth. He then quotes the poet's verses which give the rules: contradiction is opposition in quality (affirmation vs. negation) such that exactly one proposition is true. For personal and indefinite propositions, change the quality (e.g., 'Zayd is standing' becomes 'Zayd is not standing'). For quantified propositions, change the quality and replace the quantifier with its opposite: universal affirmative becomes particular negative, universal negative becomes particular affirmative. In the commentary ('Aqulu'), the author clarifies the definition linguistically and technically, emphasizing that disagreement must be in quality alone—differences in quantity, subject, or predicate do not constitute contradiction. He also excludes pairs that can be both true (like subcontraries) or both false (like contraries). Then he details each type: personal and indefinite are straightforward according to the versifier, but he corrects the indefinite, stating its contradictory is a universal, not an indefinite, because the indefinite is treated as particular. Finally, he explains the rule for quantified propositions with examples: the contradictory of 'Every human is an animal' is 'Some human is not an animal,' and of 'No human is a horse' is 'Some human is a horse.' The key point is that contradictory propositions cannot both be true nor both false—one must be true and the other false.
+
+Key Terms
+تناقض
+كيف
+سور
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the contradictory of the proposition 'Some animals are not rational'?
+A) All animals are rational.
+B) Some animals are rational.
+C) No animals are rational.
+D) All animals are not rational.
+
+Key Takeaway
+For personal and indefinite, just change quality; for quantified, change quality and swap quantifier with its opposite.
+
+How This Lesson Applies — to MY Life?
+?
+Derive the contradictory of the proposition 'No prophet is a liar' (universal negative). Then check: is the result the opposite of the original in truth value?
+
+Pages p. 58 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 60
+Module 13 · Lesson 5
+Next →
+Immediate Inference
+beginner
+10 min
+Simple Conversion: Definition, Rules, and Conditions
+Commentator defines simple conversion, states rules, and gives examples.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the rules of simple conversion (al-ʿaks al-mustawī) to categorical and conditional conjunctive propositions and identify the exception for universal affirmatives.
+
+Core Idea
+Simple conversion flips parts while preserving truth, except universal affirmatives become particular.
+
+This lesson unpacks the definition and rules of simple conversion as presented in the commentary on al-Sullam. You will learn to correctly convert propositions step-by-step and understand why universal affirmatives are an exception.
+
+Guided Path
+1
+Identify the proposition type
+Determine if it is categorical (hamliyya) or conjunctive conditional (shartiyya muttaṣila). Only these can be converted; disjunctives and accidental conditionals are excluded.
+2
+Check for universal affirmative
+If the proposition is a universal affirmative (e.g., 'Every A is B'), note that it converts to a particular affirmative ('Some B is A'), not a universal affirmative.
+This is the main exception to the rule of preserving quantity.
+3
+Flip the parts
+Swap subject and predicate in categoricals; swap antecedent and consequent in conditionals.
+4
+Preserve quality and adjust quantity
+Keep the same quality (affirmative/negative). Keep same quantity unless it is a universal affirmative—then change to particular.
+For universal negatives, the conversion remains universal negative (e.g., 'No A is B' converts to 'No B is A').
+5
+Verify truth preservation
+If the original is true, the converse must be true. If the original is false, the converse may still be true; falsehood is not preserved.
+Example: 'Every animal is human' (false) converts to 'Some animal is human' (true).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+[فضل في العكس المستوي] العكس لغة التبديل والقلب والعكس من أحكام القضايا كما سبق كالتناقض، وهو نوعان عكس مستوي وعكس نقيض، وعكس النقيض قسمان عكس نقيض موافق ومخالف. والناظم اقتصر على بيان العكس المستوي. قال: 68 69 70 71 (1) [العكس قلب جزأي القضية مع بقاء الصدق والكيفية والكم إلا الموجب الكلية فعوضوا الموجب الجزئية والعكس لازم لغير ما وجد به اجتماع الخستين فاقتصد والعكس في مرتب بالطبع وليس في مرتب بالوضع] العكس (2) اصطلاحاً: قلب جزئي القضية بأن يجعل الموضوع محمولاً والمحمول موضوعاً في الحملية، وبجعل المقدم تالياً والتالي مقدماً في الشرطية المتصلة. قواعد العكس: (3) الأولى: بقاء الصدق في العكس، أي إن كان الأصل صادقاً لزم صدق العكس (4) (1) واعلم أنه إذا أطلق العكس فإن المقصود العكس المستوى. فينبغي إذا أردت أن تتكلم عن أي عكس آخر أن تقيده ليعلم. (2) العكس لغة: رد آخر الشيء إلى أوله. (3) قيد الشرطية بالمتصلة، لأن المنفصلة لا تنعكس، أو بالأحرى لو عكستها فإنك لا تستفيد شيئاً، لأنها تبقى عين القضية، فقولك العدد إما زوج أو فرد، هو عين قولك العدد إما فرد أو زوج. ومثلها الشرطية المتصلة الاتفاقية، فلا عكس لها لعدم فائدته. (4) مثاله قولنا كل خمر مسكر، فهذه صادقة فعكسها وهو بعض المسكر خمر صادقة. ولا يؤخذ من إذا كانت القضية كاذبة فيلزم أن عكسها أيضاً كاذبة. فإنك لا تأمن أن يكون عكسها صادقاً، نحو قولنا: كل حيوان إنسان، فهذه كاذبة، ولكن عكسها بحسب القواعد هو بعض الحيوان إنسان. وهي صادقة. إذا توضح هذا فاعلم أنه اعتبر بقاء الصدق ولم يعتبر بقاء الكذب، لأن العكس من لوازم بعض القضايا، فالقضية الأصل ملزوم، كلامه أنه
+[Section on Simple Conversion] Conversion literally means substitution and reversal, and conversion is among the rulings of propositions as previously mentioned like contradiction, and it is of two types: simple conversion and conversion by contrapositive, and conversion by contrapositive is of two types: agreed contrapositive and opposed contrapositive. The author confined himself to explaining simple conversion. He said: 68 69 70 71 (1) [Conversion is flipping the two parts of the proposition while preserving truth, quality, and quantity, except the universal affirmative – they substitute the particular affirmative, and conversion is necessary for other than that in which the combination of the two defects is found, so be moderate, and conversion is in that which is ordered by nature, not in that which is ordered by convention.] Conversion (2) terminologically: flipping the two parts of the proposition by making the subject a predicate and the predicate a subject in categoricals, and making the antecedent a consequent and the consequent an antecedent in conditional conjunctives. Rules of conversion: (3) First: preservation of truth in the conversion, i.e., if the original is true, the truth of the conversion is necessary (4). (1) And know that when conversion is mentioned absolutely, the intended meaning is simple conversion. So if you want to speak about any other conversion, you should qualify it so that it is known. (2) Conversion literally: returning the end of a thing to its beginning. (3) He restricted the conditional to the conjunctive because the disjunctive does not convert, or rather if you convert it, you gain nothing because it remains the same proposition. So your statement 'The number is either even or odd' is identical to your statement 'The number is either odd or even'. Likewise the accidental conjunctive conditional has no conversion due to its lack of benefit. (4) Its example is our statement 'Every wine is intoxicating' – this is true, so its conversion, which is 'Some intoxicating substance is wine', is true. And it is not taken from this that if the proposition is false then necessarily its conversion is also false. Indeed you cannot be sure that its conversion is not true, like our statement 'Every animal is human' – this is false, but its conversion according to the rules is 'Some animal is human', and it is true. So when this is clarified, know that preservation of truth was considered and preservation of falsehood was not considered, because conversion is among the consequences of some propositions, so the original proposition is the entailing thing, his statement that...
+Source pages p. 60
+
+Commentary
+This passage introduces the topic of simple conversion (al-ʿaks al-mustawī). The commentator begins by defining conversion linguistically (reversal) and logically (flipping the subject and predicate of a categorical proposition, or the antecedent and consequent of a conditional conjunctive). Conversion is one of the immediate inferences (al-ahkām al-qaḍāyā) just like contradiction. There are two main types: simple conversion and conversion by contrapositive (ʿaks al-naqīḍ). The author (the poet) limits his discussion to simple conversion, and then quotes the relevant verses from al-Sullam (lines 68-71). The commentary then explains each part: The first rule is preservation of truth—if the original is true, its conversion must also be true. The example given is a universal affirmative: 'Every wine (khamr) is intoxicating' converts to 'Some intoxicating substance is wine', which remains true. However, conversion does not preserve falsehood; a false original can have a true conversion. For instance, 'Every animal is human' is false, but its conversion 'Some animal is human' is true. The commentator also notes that conversion applies only to categorical propositions and conjunctive conditionals, not to disjunctives or accidental conjunctives, because converting them yields no new information. Additionally, the universal affirmative is an exception: it converts to a particular affirmative, not a universal affirmative, because the conversion of 'Every A is B' to 'Every B is A' would be false. The passage ends mid-sentence, likely continuing with the second rule.
+
+Key Terms
+عكس مستوي
+عكس نقيض
+قلب جزئي القضية
+بقاء الصدق
+الموجب الكلية
+شرطية متصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is the correct simple conversion of the universal affirmative proposition 'Every khamr (wine) is haram'?
+A) Every haram is khamr.
+B) Some haram is khamr.
+C) No khamr is haram.
+D) Some khamr is not haram.
+
+Key Takeaway
+Simple conversion is a valid immediate inference that swaps the parts of a proposition while keeping truth, except that universal affirmatives become particular affirmatives; falsehood is not preserved.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative proposition using simple conversion: 'Every nabidh (date drink) is intoxicating'. State the converse and whether it is true assuming the original is true.
+?
+Explain why the proposition 'Every animal is human' does not have a true simple conversion even though it is false. (Hint: the rule is not about preserving falsehood.)
+
+Pages p. 60 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 60
+Module 13 · Lesson 6
+Next →
+Immediate Inference
+intermediate
+10 min
+The Three Rules of Simple Conversion
+Explains the three rules of simple conversion: preserving truth, quality, and quantity, with exception of universal affirmative.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the three rules of simple conversion (preserving truth, quality, and quantity) to any categorical or conditional proposition and identify the exception for universal affirmatives.
+
+Core Idea
+Conversion preserves truth, quality, and quantity—except universal affirmatives become particular.
+
+In this lesson, we explore the three rules that govern the validity of immediate inference by conversion ('aks). These rules ensure that when you reverse the terms of a proposition, the new proposition (the converse) remains true if the original was true. The commentary from Al-Muyassar explains each rule with clear Islamic examples, such as the conversion of 'Every wine is intoxicating' to 'Some intoxicating is wine.' Understanding these rules is essential for correctly applying conversion in logical reasoning within Islamic sciences like Fiqh and Kalam.
+
+Guided Path
+1
+Identify the original proposition
+Determine whether it is categorical or conditional, and note its subject, predicate, quality, and quantity.
+For example, 'Every human is an animal' is universal affirmative categorical.
+2
+Apply Rule 1: Preservation of truth
+If the original is true, the converse must be true. Check the example 'Every wine is intoxicating' converts to 'Some intoxicating is wine'.
+Truth preservation is the foundation of valid conversion.
+3
+Apply Rule 2: Preservation of quality
+The converse must have the same affirmative or negative quality as the original.
+A negative original yields a negative converse.
+4
+Apply Rule 3: Preservation of quantity
+Universal original gives universal converse, particular gives particular, except universal affirmatives become particular.
+The exception is due to the predicate being broader than the subject.
+5
+Understand the exception
+Universal affirmative converts to particular affirmative because the more general predicate applies to all individuals of the subject, but the subject applies only to some individuals of the predicate.
+Example: 'Every human is an animal' converts to 'Some animal is a human', not 'Every animal is a human'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+العكس اصطلاحاً: قلب جزئي القضية بأن يجعل الموضوع محمولاً والمحمول موضوعاً في الحملية، وبجعل المقدم تالياً والتالي مقدماً في الشرطية المتصلة. قواعد العكس: الأولى: بقاء الصدق في العكس، أي إن كان الأصل صادقاً لزم صدق العكس. مثاله قولنا كل خمر مسكر، فهذه صادقة فعكسها وهو بعض المسكر خمر صادقة. الثانية: بقاء الكيف، فإن كان الأصل موجباً فالعكس موجب وإن كان سالباً فسالب. الثالثة: بقاء الكم، فإن كان الأصل كلياً، فالعكس كلي، وإن كان جزئياً فجزئي، إلا في الموجبة الكلية فلا يبقى فيها الكم بل تنعكس جزئية، نحو [كل إنسان حيوان] فعكسها [بعض الحيوان إنسان]، ونحو [كلما كان هذا إنساناً كان حيواناً] فعكسها [قد يكون إذا كان هذا حيواناً كان إنساناً]. فلا يبقى فيها الكم، بل تعكسها جزئيتين كما رأيت ولا يصح عكسها كليتين، لأن المحمول الأعم يثبت الجميع أفراد الموضوع الأخص، ولا يثبت ذلك الموضوع إلا لبعض أفراد ذلك المحمول الأعم، وكذا المقدم الأخص يستلزم التالي الأعم كلياً، ولا يستلزم الأخص إلا جزئياً. اعلم أن القضايا شخصية وكلية وجزئية ومهملة وهي موجبات أو سوالب فالموجبات الأربع تنعكس إلى موجبة جزئية. فقولك: [زيد حيوان] عكسه [بعض الحيوان زيد].
+Conversion terminologically: reversing the two parts of the proposition by making the subject a predicate and the predicate a subject in categoricals, and by making the antecedent a consequent and the consequent an antecedent in conditional conjunctives. The rules of conversion: First: preservation of truth in conversion, i.e., if the original is true then the converse must be true. Example: our statement 'Every wine is intoxicating' is true, so its converse 'Some intoxicating is wine' is true. Second: preservation of quality: if the original is affirmative then the converse is affirmative, and if negative then negative. Third: preservation of quantity: if the original is universal then the converse is universal, and if particular then particular, except for the universal affirmative: its quantity is not preserved but it converts to a particular. Example: 'Every human is an animal', its converse is 'Some animal is a human'. And 'Whenever this is a human it is an animal', its converse is 'Sometimes if this is an animal it is a human'. So quantity is not preserved, rather they convert as particular as you see, and it is not correct to convert them as universal because the more general predicate applies to all individuals of the more specific subject, while that subject applies only to some individuals of that more general predicate. Similarly, the more specific antecedent necessitates the more general consequent universally, while the more specific is necessitated only particularly. Know that propositions are personal, universal, particular, and neglected, and they are affirmatives or negatives. The four affirmatives convert to a particular affirmative. So your statement 'Zaid is an animal' has its converse 'Some animal is Zaid'.
+Source pages p. 60
+
+Commentary
+This passage is the commentary on the matn verse, explaining the three rules of simple conversion in detail. It begins by defining conversion terminologically: in categorical propositions, the subject becomes predicate and vice versa; in conjunctive conditionals, the antecedent becomes consequent and vice versa. The first rule is preservation of truth: if the original proposition is true, the converse must also be true. An example from fiqh: 'Every wine is intoxicating' (true) converts to 'Some intoxicating is wine' (true). The second rule is preservation of quality: an affirmative original gives an affirmative converse; a negative gives a negative. The third rule is preservation of quantity, with an exception for universal affirmatives: they convert to particular affirmatives. The commentary explains why: the predicate of a universal affirmative is usually broader than the subject, so when reversed, the converse cannot be universal because the broader predicate is not affirmed of every individual of the narrower subject except in some cases; thus we use particular. For example, 'Every human is an animal' converts to 'Some animal is a human' — if we tried 'Every animal is a human' it would be false. Similarly for conditionals: 'Whenever it is human it is animal' converts to 'Sometimes if it is animal it is human'. The commentary then notes that all types of affirmative propositions (personal, universal, particular, neglected) convert to a particular affirmative. For personal propositions like 'Zaid is an animal', the converse is 'Some animal is Zaid', which is particular because 'Zaid' is a specific individual, so it falls under 'some'.
+
+Key Terms
+بقاء الصدق
+بقاء الكيف
+بقاء الكم
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does a universal affirmative proposition like 'Every human is an animal' convert to a particular affirmative rather than a universal?
+A) Because the predicate is broader, so a universal converse would be false
+B) Because all universals convert to particulars
+C) Because the quality changes
+D) Because personal propositions require it
+
+Key Takeaway
+Simple conversion preserves truth, quality, and quantity, but universal affirmatives must be converted to particular affirmatives due to the broader predicate.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following proposition using the three rules: 'Every interest-bearing loan is riba.' (Assume it is true in Islamic finance.) Check that your converse preserves truth, quality, and quantity.
+?
+Explain why the converse of 'Every human is a rational animal' cannot be 'Every rational animal is a human' according to the rule for universal affirmatives.
+
+Pages p. 60 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 61
+Module 13 · Lesson 7
+Next →
+Immediate Inference
+intermediate
+10 min
+Truth and Falsity Entailment in Conversion
+Explains the logical entailment between original and converse propositions in conversion.
+
+Learning Objective
+By the end of this lesson, you will be able to determine the truth/falsity entailment between an original categorical proposition and its converse, and apply the broader/narrower rules to validate conversion outcomes.
+
+Core Idea
+Truth of original implies truth of converse; falsity of converse implies falsity of original, but not vice versa.
+
+When you convert a proposition, you need to know what the conversion tells you about truth. Does a true original guarantee a true converse? Does a false converse prove the original false? This passage from al-Muyassar lays out exactly these entailments, using the concepts of malzum and lazim, and then connects them to the conversion of universal affirmatives by introducing the broader/narrower relationship between subject and predicate.
+
+Guided Path
+1
+Identify original and converse
+Given a conversion, locate the original proposition (malzum) and the converse (lazim). For example, 'Every human is an animal' is the original, and its converse is 'Some animal is a human'.
+The original is the proposition before conversion; the converse is the result.
+2
+Apply truth entailment rules
+From a true original, the converse must be true. From a false converse, the original must be false. These are necessary implications. Memorize: ṣidq al-malzum yastalzim ṣidq al-lazim, and kidhb al-lazim yastalzim kidhb al-malzum.
+These rules are the core of the passage.
+3
+Recognize non-entailments
+The falsity of the original does not force the converse to be false or true—it could be either. Similarly, the truth of the converse does not force the original to be true or false. This asymmetry is crucial for avoiding logical errors.
+Example: 'Every animal is human' is false, but its converse 'Some human is animal' is true.
+4
+Connect broader/narrower rules
+The passage then links conversion to the relationship between broader (a'amm) and narrower (akhass) terms. For a universal affirmative, the predicate is broader than the subject. Affirming the broader does not affirm the narrower, so the converse cannot be universal. Only when the narrower is affirmed does the broader necessarily follow, explaining why the converse is particular.
+These rules also apply to negations: negating the broader negates the narrower, but not vice versa.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وعكسها لازم لها. ولا يلزم من كذب الملزوم كذب اللازم أو صدقه، بل ربما اتفق كذبه أو صدقه. ولكن يلزم من صدق الملزوم صدق اللازم قطعاً. واعلم أيضاً أنه يلزم من كذب اللازم كذب الملزوم قطعاً، ولكن لا يلزم من صدق اللازم صدق الملزوم أو كذبه، فربما يتفق أن يكون الملزوم كاذباً كما في مثالنا، وقد يكون صادقاً أحياناً. فاحفظ هذه القواعد، واعتن بها فلسوف تفيدك في العلوم الأخرى كثيراً. (1) مراده بالأصل القضية التي يراد عكسها. فإذا كانت موجبة انعكست موجبة، وإذا كانت سالبة انعكست سالبة. (2) لأنه إذا كان المحمول أعم من الموضوع، فإذا تركت الكمّ على حاله عند عكس الموجبة الكلية لم تأمن أن يكون العكس كاذباً. وفي مثاله: [كل إنسان حيوان] فعكسها [بعض الحيوان إنسان]، فلو أبقيت الكم فقلت: [كل حيوان إنسان] فهذه كاذبة، ومحال أن يكون عكس الصادقة كاذبة، لأن لازم الصادقة صادقة كما مر. (3) اعلم أنّ إثبات الأعم لا يلزم منه ثبوت الأخص ولا انتفاؤه كقولك هذا حيوان فإنه لا يلزم منه أن يكون إنساناً أو لا يكون، وأما نفى الأعم فإنه يلزم منه انتفاء الأخص قطعاً، كقولك ليس هذا حيواناً، فإنه يلزم منه قطعاً أنه ليس بإنسان. وإثبات الأخص يلزم منه ثبوت الأعم قطعاً. كقولك هذا إنسان، فإنه يلزم منه أنه حيوان قطعاً، ولكن نفى الأخص لا يلزم منه ثبوت الأعم ولا انتفاؤه كقولك ليس هذا إنساناً، فإنه لا يلزم منه أنه حيوان أو أنه ليس بحيوان فافهم هذه القواعد واحفظها فإنها نافعة جداً. وإذا فهمت هذه القواعد فإنك ستعرف معنى قوله: ( وكذا المقدم الأخص يستلزم التالى الأعم كلياً، ولا يستلزم الأخص إلا جزئياً).
+And its converse is necessitated by it. And it is not necessary that from the falsity of the original follows the falsity of the necessary or its truth, but sometimes it happens that it is false or true. But from the truth of the original follows the truth of the necessary (converse) necessarily. And know also that from the falsity of the necessary follows the falsity of the original necessarily, but it is not necessary that from the truth of the necessary follows the truth or falsity of the original; sometimes it happens that the original is false as in our example, and sometimes it may be true. So memorize these rules and pay attention to them, for they will benefit you greatly in other sciences. (1) He means by 'original' the proposition intended to be converted. So if it is affirmative, it converts to affirmative; if negative, to negative. (2) Because if the predicate is broader than the subject, then if you leave the quantity as it is when converting the universal affirmative, you are not safe from the converse being false. In his example: 'Every human is an animal', its converse is 'Some animal is a human'. If you kept the quantity and said 'Every animal is a human', this would be false, and it is impossible for the converse of a true proposition to be false, because the necessary of a true proposition is true as mentioned. (3) Know that affirming the broader does not require affirming the narrower nor its negation, as your saying 'this is an animal' does not require that it be a human or not. As for negating the broader, it requires negating the narrower necessarily, as your saying 'this is not an animal' requires necessarily that it is not a human. And affirming the narrower requires affirming the broader necessarily, as your saying 'this is a human' requires that it is an animal necessarily. But negating the narrower does not require affirming the broader nor its negation, as your saying 'this is not a human' does not require that it is an animal or that it is not an animal. So understand these rules and memorize them, for they are very beneficial. And when you understand these rules, you will know the meaning of his statement: 'And similarly, the more specific antecedent necessitates the more general consequent universally, while it is necessitated only particularly.'
+Source pages p. 61
+
+Commentary
+This passage continues the commentary on conversion, focusing on the logical relationships between the original proposition (malzum) and its converse (lazim). It establishes that the converse is necessary (lazim) of the original: if the original is true, the converse must be true. However, the converse being false necessitates the original being false. But the falsity of the original does not necessarily imply the falsity or truth of the converse; the converse could be either. Similarly, the truth of the converse does not imply the truth or falsity of the original; the original could be false (as in the example: 'Every animal is human' is false, but its converse 'Some human is animal' is true). The commentary then provides important rules about the relationship between broader (a'amm) and narrower (akhass) terms: affirming the broader does not entail the narrower, but negating the broader entails negating the narrower. Affirming the narrower entails the broader, but negating the narrower does not entail either broader or its negation. These rules are applied to the earlier explanation of why universal affirmative converts to particular: the predicate (broader) is affirmed of the subject (narrower) universally, but the converse would be false if universal because the broader's individuals do not all belong to the narrower. The passage ends by tying this back to the earlier statement about conditionals.
+
+Key Terms
+ملزوم
+لازم
+أخص
+أعم
+
+Key Terms from Source Passage
+
+Checkpoint
+If a converse proposition is false, what can we conclude about the original proposition?
+A) The original is definitely false
+B) The original is definitely true
+C) The original could be either true or false
+D) The original must be false only if it is a universal affirmative
+
+Key Takeaway
+In conversion, truth flows one direction: from original to converse, and falsity flows backwards from converse to original, but neither flows in the opposite direction.
+
+How This Lesson Applies — to MY Life?
+?
+For the proposition 'كل إنسان حيوان' (Every human is an animal), write its converse applying the correct quantity and quality. Then check: if the converse is true, what does that tell you about the original? If the converse is false, what does that tell you?
+?
+Consider the proposition: 'كل مسكر خمر' (Every intoxicant is khamr). Is this true? What is its converse? Using the rules of broader/narrower, explain whether the converse is true or false. (Assume the premise 'Every intoxicant is khamr' is true in a limited sense, but note that in Islamic law not all intoxicants are khamr; this is for logical practice.)
+
+Pages p. 61 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 61
+Module 13 · Lesson 8
+Next →
+Immediate Inference
+beginner
+5 min
+Preservation of Quality and Quantity in Conversion
+Author states the second and third conditions for conversion and the exception for universal affirmative.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two conditions for valid conversion (preservation of quality and quantity) and apply the exception for universal affirmative propositions.
+
+Core Idea
+Universal affirmative propositions are the only type that lose quantity in conversion.
+
+This lesson explains the crucial rules for converting propositions: the quality (affirmative/negative) must stay the same, and the quantity (universal/particular) must also stay the same except for one case. When converting a universal affirmative, you must drop it to a particular affirmative. Why? Because the predicate is broader than the subject, and universal conversion would falsely claim the subject applies to all of the predicate.
+
+Guided Path
+1
+Identify the two conditions
+The author states: preservation of quality (al-kayf) and preservation of quantity (al-kamm). For quality, the converse must match the original in being affirmative or negative. For quantity, the converse must match the original in being universal or particular, with one exception.
+These conditions ensure the truth is preserved in conversion.
+2
+Test the exception: universal affirmative
+The only exception is the universal affirmative (e.g., 'Every human is an animal'). It must convert to a particular affirmative ('Some animal is human'), not to a universal affirmative. The author gives the example and states it is invalid to convert it universally.
+This is a key rule to memorize.
+3
+Understand the reason
+The predicate (animal) is more general than the subject (human). So while all humans are animals, not all animals are humans. Hence the converse can only be particular.
+The same logic applies to conditional propositions.
+4
+Apply to conditional propositions
+The author also gives a conditional example: 'Whenever this is a human it is an animal' converts to 'It may be that when this is an animal it is a human'. The antecedent (human) is more specific than the consequent (animal).
+The principle of specificity generalizes.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثانية: بقاء الكيف، فإن كان الأصل موجباً فالعكس موجب وإن كان سالباً فسالب. الثالثة: بقاء الكم، فإن كان الأصل كلياً، فالعكس كلي، وإن كان جزئياً فجزئي، إلا في الموجبة الكلية فلا يبقى فيها الكم بل تنعكس جزئية، نحو [كل إنسان حيوان] فعكسها [بعض الحيوان إنسان]، ونحو [كلما كان هذا إنساناً كان حيواناً] فعكسها [قد يكون إذا كان هذا حيواناً كان إنساناً]. فلا يبقى فيها الكم، بل تعكسها جزئيتين كما رأيت ولا يصح عكسها كليتين، لأن المحمول الأعم يثبت الجميع أفراد الموضوع الأخص، ولا يثبت ذلك الموضوع إلا لبعض أفراد ذلك المحمول الأعم، وكذا المقدم الأخص يستلزم التالي الأعم كلياً، ولا يستلزم الأخص إلا جزئياً. والأمثلة ستأتي.
+The second: preservation of quality, for if the original is affirmative then the converse is affirmative, and if it is negative then it is negative. The third: preservation of quantity, for if the original is universal then the converse is universal, and if it is particular then it is particular, except for the universal affirmative, for quantity is not preserved in it, rather it converts to a particular, e.g., 'Every human is an animal' its converse is 'Some animal is human', and e.g., 'Whenever this is a human it is an animal' its converse is 'It may be that when this is an animal it is a human'. So quantity is not preserved in it; rather it converts to a particular as you saw, and it is not valid to convert it as a universal, because the more general predicate is affirmed of all individuals of the more specific subject, but that subject is not affirmed except of some individuals of that more general predicate. Similarly, the more specific antecedent implies the more general consequent universally, but the more general does not imply the more specific except partially. And examples will come.
+Source pages p. 61
+
+Commentary
+This passage explains the second and third conditions for valid conversion of propositions. The second condition is that quality must be preserved: an affirmative original yields an affirmative converse, and a negative original yields a negative converse. The third condition is that quantity must be preserved except for universal affirmative propositions. For universal affirmatives, the converse must be particular affirmative, never universal affirmative. The author illustrates with categorical and conditional examples: 'Every human is an animal' converts to 'Some animal is human', not 'Every animal is human'. The reason is that the predicate (animal) is broader than the subject (human); what is true of all humans is not necessarily true of all animals. Similarly, in conditionals, the antecedent is more specific. Therefore, the general rule is that a universal affirmative always converts to a particular affirmative.
+
+Key Terms
+العكس
+الكيف
+الكم
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does a universal affirmative proposition convert only to a particular affirmative?
+A) Because the predicate is always less general than the subject.
+B) Because the predicate is usually more general, so it cannot be affirmed of all individuals of the subject after conversion.
+C) Because conversion changes the truth value of the proposition.
+D) Because universal affirmative propositions are not convertible.
+
+Key Takeaway
+The conversion of a universal affirmative must be particular affirmative because the predicate is broader; this preserves truth.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the proposition 'Every act of worship must be performed with the intention of seeking Allah's pleasure' (a universal affirmative from Usul al-Fiqh). What is its correct converse? Explain why it cannot be universal.
+?
+Identify the quality and quantity of the original proposition 'Some prayers are invalid due to impurity' and then convert it, stating whether the converse preserves quality and quantity.
+
+Pages p. 61 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 61
+Module 13 · Lesson 9
+Next →
+Immediate Inference
+intermediate
+8 min
+Conversion Rules for Affirmative Propositions
+Author gives conversion rules for all affirmative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to convert any affirmative categorical proposition into its correct converse and verify truth preservation.
+
+Core Idea
+Affirmative universals convert to particulars; only equal terms allow universal conversion.
+
+The passage explains that all four affirmative types convert to a particular affirmative. It reveals the reasoning: to avoid false converses when the predicate is more general, we must reduce quantity. This lesson will guide you through the conversion rules with Islamic examples.
+
+Guided Path
+1
+Identify the proposition type
+Determine if the proposition is singular (e.g., 'Zayd is a human'), universal ('Every human is an animal'), particular ('Some human is rational'), or indefinite ('A human is an animal'). Also note it is affirmative.
+Singular propositions are treated as particular in conversion.
+2
+Analyze the predicate-subject relation
+Check if the predicate is more general than, equal to, or more specific than the subject. For example, in 'Every human is an animal', 'animal' is more general; in 'Every human is rational', 'rational' is coextensive with 'human'.
+This relation determines whether quantity can be preserved.
+3
+Apply the conversion rule
+For universal affirmatives with a more general predicate, convert to particular affirmative (e.g., 'Every human is animal' → 'Some animal is human'). For universal affirmatives with coextensive terms, the converse can be universal (e.g., 'Every human is rational' → 'Every rational is human'). For particular and singular affirmatives, keep the quantity.
+The rule ensures the converse is always true when the original is true.
+4
+Verify truth preservation
+Remember that the converse (lazim) is necessary for the original (malzum). So if the original is true, the converse must be true. Check your conversion against this principle.
+Falsehood of the converse implies falsehood of the original, but not vice versa.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن القضايا شخصية وكلية وجزئية ومهملة وهي موجبات أو سوالب فالموجبات الأربع تنعكس إلى موجبة جزئية. فقولك: [زيد حيوان] عكسه [بعض الحيوان زيد]. وعكسها لازم لها. ولا يلزم من كذب الملزوم كذب اللازم أو صدقه، بل ربما اتفق كذبـه أو صـدقه. ولكـن يلزم من صدق الملزوم صدق اللازم قطعاً. واعلم أيضاً أنه يلزم من كذب اللازم كذب الملزوم قطعاً، ولكن لا يلزم من صدق اللازم صدق الملزوم أو كذبه، فربما يتفق أن يكون الملزوم كاذباً كما في مثالنا، وقد يكــون صادقاً أحياناً. فاحفظ هذه القواعد، واعتن بها فلسوف تفيدك في العلوم الأخرى كثيراً.
+مراده بالأصل القضية التي يراد عكسها. فإذا كانت موجبة انعكست موجبة، وإذا كانت سالبة انعكست سالبة. (2) لأنه إذا كان المحمول أعم من الموضوع، فإذا تركت الكمّ على حاله عند عكس الموجبة الكلية لم تأمن أن يكون العكس كاذباً. وفي مثاله: [كل إنسان حيوان] فعكسها [بعض الحيوان إنسان]، فلو أبقيت الكــم فقلت: [كل حيوان إنسان] فهذه كاذبة، ومحال أن يكون عكس الصادقة كاذبة، لأن لازم الصادقة صادقة كمـا مـر. ولو قلت [كلّ إنسان ناطق ] وعكستها مبقياً الكم صارت [ كل ناطق إنسان]. وهي صحيحة لأن المحمول ليس بأعم من الإنسان بل هو مساو له. فلما كنا لا نأمن أن يكون المحمول أعم من الموضوع في الموجبة الكليـــة، وأردنا أن نأتى بقاعدة لعكس كلّ موجبة كلية بلا استثناء اكتفينا بالقدر المقطوع به من صدق الموضوع على المحمول، وهو البعض دون الكل. لأن البعض صادق على كل حال. فصار عكس الموجبة الكلية موجبة جزئية صحيحاً دائماً. وللذكي أن يستخلص من هذا الكلام قاعدة تقول: لا يصدق حمل الأخص على الأعم كلياً، فلا يصدق نحو كل حيوان إنسان. فهذا تطبيق كلامه على الحملية ونفس الكلام يقال عند تطبيقه على الشرطية مع إبدال الموضوع بالمقدم، والمحمول بالتالي وكلّ للسور الكلى فى الحمليّة بكلّما للسور الكلى للشرطيّة، وبعض السور الجزئي فــي الحملية بقد يكون للسور الجزئي في الشرطية. (3) اعلم أنّ إثبات الأعم لا يلزم منه ثبوت الأخص ولا انتفاؤه كقولك هذا حيوان فإنه لا يلزم منه أن يكـون إنساناً أو لا يكون، وأما نفى الأعم فإنه يلزم منه انتفاء الأخص قطعاً، كقولك ليس هذا حيواناً، فإنه يلزم منه قطعاً أنه ليس بإنسان. وإثبات الأخص يلزم منه ثبوت الأعم قطعاً. كقولك هذا إنسان، فإنه يلزم منـه أنـه حيوان قطعاً، ولكن نفى الأخص لا يلزم منه ثبوت الأعم ولا انتفاؤه كقولك ليس هذا إنساناً، فإنه لا يلزم منه أنه حيوان أو أنه ليس بحيوان فافهم هذه القواعد واحفظها فإنها نافعة جداً. وإذا فهمت هذه القواعد فإنـك ستعرف معنى قوله: ( وكذا المقدم الأخص يستلزم التالى الأعم كلياً، ولا يستلزم الأخص إلا جزئياً).
+Know that propositions are singular, universal, particular, and indefinite, and they are affirmative or negative. So the four affirmatives convert to a particular affirmative. So your saying: 'Zayd is an animal' its converse is 'Some animal is Zayd'. And its converse is necessary for it. And it does not follow from the falsity of the necessary (original? unclear: الملزوم) the falsity or truth of the necessary (لازم?). Rather it may happen that it is false or true. But it necessarily follows from the truth of the necessary (original) the truth of the necessary (converse) definitely. And know also that it follows from the falsity of the necessary (converse) the falsity of the necessary (original) definitely, but it does not follow from the truth of the necessary (converse) the truth or falsity of the necessary (original); it may happen that the original is false as in our example, and it may sometimes be true. So preserve these rules and attend to them, for they will benefit you greatly in other sciences.
+He means by 'original' the proposition intended to be converted. So if it is affirmative, it converts to affirmative, and if it is negative, to negative. (2) Because if the predicate is more general than the subject, then if you leave the quantity as it is when converting the universal affirmative, you cannot be sure that the converse is not false. In his example: 'Every human is an animal' its converse is 'Some animal is human'. If you had preserved the quantity and said 'Every animal is human', that would be false, and it is impossible that the converse of a true proposition be false, because the consequent of a true proposition is true as mentioned. And if you said 'Every human is rational' and converted it preserving quantity, it would become 'Every rational is human'. That is correct because the predicate is not more general than human, but equal to it. So since we cannot be sure that the predicate is not more general than the subject in the universal affirmative, and we want to have a rule for converting every universal affirmative without exception, we rely on the certain amount of truth of the subject for the predicate, which is the particular, not the universal. Because the particular is true in every case. So the conversion of the universal affirmative to a particular affirmative is always correct. And the intelligent person can extract from this speech a rule: one cannot affirm the more specific of the more general universally, so it is not true to say 'Every animal is human'. This is the application of his speech to categoricals, and the same is said when applying it to conditionals, replacing the subject with the antecedent, the predicate with the consequent, and 'every' of the universal quantifier in categoricals with 'whenever' of the universal quantifier in conditionals, and 'some' of the particular quantifier in categoricals with 'it may be' of the particular quantifier in conditionals. (3) Know that affirming the more general does not entail affirming or denying the more specific, as in your saying 'This is an animal', for it does not entail that it is human or not. But denying the more general entails denying the more specific definitely, as in your saying 'This is not an animal', for it definitely entails that it is not human. And affirming the more specific entails affirming the more general definitely, as in your saying 'This is a human', for it definitely entails that it is an animal. But denying the more specific does not entail affirming or denying the more general, as in your saying 'This is not a human', for it does not entail that it is an animal or that it is not an animal. So understand these rules and memorize them, for they are very beneficial. And when you understand these rules, you will know the meaning of his saying: 'And likewise the more specific antecedent implies the more general consequent universally, and the more general does not imply the more specific except partially.'
+Source pages p. 61
+
+Commentary
+This passage begins by classifying propositions into singular, universal, particular, and indefinite, each either affirmative or negative. The author states a key rule: all four affirmative types (singular, universal, particular, indefinite) convert to a particular affirmative. For example, the singular 'Zayd is an animal' converts to 'Some animal is Zayd'. The converse is a logical necessary (lazim) of the original: if the original is true, the converse must be true. However, the converse can be true even if the original is false. Conversely, if the converse is false, the original must be false. The author then provides explanatory footnotes. The first footnote clarifies terminology: 'original' is the proposition to be converted. The second footnote provides the reasoning for the universal affirmative exception: since the predicate is often more general, preserving quantity could lead to a false converse. The author gives examples: 'Every human is animal' converts to particular, but 'Every human is rational' converts to 'Every rational is human' because the terms are equal. Thus, for safety, the universal affirmative always converts to particular affirmative. The third footnote explains logical relations between general and specific terms, using examples like 'This is an animal' and 'This is a human'. These rules are foundational for understanding conversion and for later sciences.
+
+Key Terms
+الملزوم
+اللازم
+الأعم
+الأخص
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the correct converse of 'Every intoxicant is forbidden' according to the rule in this lesson?
+A) Every forbidden thing is an intoxicant
+B) Some forbidden thing is an intoxicant
+C) No forbidden thing is an intoxicant
+D) Some intoxicant is forbidden
+
+Key Takeaway
+Affirmative universals convert to particular affirmatives unless the terms are coextensive; the converse is a necessary consequence of the original.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the proposition 'Every nijasah (impurity) is prohibited in prayer' to its correct converse using the rules from this lesson. Explain why the quantity changes.
+?
+Given the conversion rule, explain why 'Every human is rational' can convert to 'Every rational is human' but 'Every human is animal' cannot.
+
+Pages p. 61 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 61
+Module 13 · Lesson 10
+Next →
+Immediate Inference
+intermediate
+8 min
+Logical Implications of General and Specific Terms
+Author explains logical implications between general and specific terms.
+
+Learning Objective
+By the end of this lesson, you will be able to determine what follows logically when affirming or denying general and specific terms.
+
+Core Idea
+Denial of the general entails denial of the specific; affirmation of the specific entails affirmation of the general.
+
+This passage explains the logical relationships between general (a'amm) and specific (akhass) terms. These entailment rules are crucial for valid reasoning in Islamic sciences, preventing incorrect deductions from premises.
+
+Guided Path
+1
+Identify the general and specific terms
+Determine which term is more general (a'amm) and which is more specific (akhass). For example, 'animal' is general relative to 'human'; 'existence' is general relative to 'createdness'.
+Generality is relative: a term can be general in one context and specific in another.
+2
+Apply rule for affirming the general
+If you affirm the general term (e.g., 'This is an animal'), you cannot conclude anything about the specific term (e.g., it does not entail that it is a human or not).
+Affirming general gives no information about specifics.
+3
+Apply rule for denying the general
+If you deny the general term (e.g., 'This is not an animal'), it necessarily entails denial of all specific terms (e.g., it is not a human).
+Denial of general implies denial of every specific under it.
+4
+Apply rule for affirming the specific
+If you affirm the specific term (e.g., 'This is a human'), it necessarily entails affirmation of the general term (e.g., it is an animal).
+Affirming specific implies the general.
+5
+Apply rule for denying the specific
+If you deny the specific term (e.g., 'This is not a human'), you cannot conclude anything about the general term (e.g., it may or may not be an animal).
+Denying specific gives no information about the general.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اعلم أن القضايا شخصية وكلية وجزئية ومهملة وهي موجبات أو سوالب فالموجبات الأربع تنعكس إلى موجبة جزئية. فقولك: [زيد حيوان] عكسه [بعض الحيوان زيد]. وعكسها لازم لها. ولا يلزم من كذب الملزوم كذب اللازم أو صدقه، بل ربما اتفق كذبـه أو صـدقه. ولكـن يلزم من صدق الملزوم صدق اللازم قطعاً. واعلم أيضاً أنه يلزم من كذب اللازم كذب الملزوم قطعاً، ولكن لا يلزم من صدق اللازم صدق الملزوم أو كذبه، فربما يتفق أن يكون الملزوم كاذباً كما في مثالنا، وقد يكــون صادقاً أحياناً. فاحفظ هذه القواعد، واعتن بها فلسوف تفيدك في العلوم الأخرى كثيراً.
+مراده بالأصل القضية التي يراد عكسها. فإذا كانت موجبة انعكست موجبة، وإذا كانت سالبة انعكست سالبة. (2) لأنه إذا كان المحمول أعم من الموضوع، فإذا تركت الكمّ على حاله عند عكس الموجبة الكلية لم تأمن أن يكون العكس كاذباً. وفي مثاله: [كل إنسان حيوان] فعكسها [بعض الحيوان إنسان]، فلو أبقيت الكــم فقلت: [كل حيوان إنسان] فهذه كاذبة، ومحال أن يكون عكس الصادقة كاذبة، لأن لازم الصادقة صادقة كمـا مـر. ولو قلت [كلّ إنسان ناطق ] وعكستها مبقياً الكم صارت [ كل ناطق إنسان]. وهي صحيحة لأن المحمول ليس بأعم من الإنسان بل هو مساو له. فلما كنا لا نأمن أن يكون المحمول أعم من الموضوع في الموجبة الكليـــة، وأردنا أن نأتى بقاعدة لعكس كلّ موجبة كلية بلا استثناء اكتفينا بالقدر المقطوع به من صدق الموضوع على المحمول، وهو البعض دون الكل. لأن البعض صادق على كل حال. فصار عكس الموجبة الكلية موجبة جزئية صحيحاً دائماً. وللذكي أن يستخلص من هذا الكلام قاعدة تقول: لا يصدق حمل الأخص على الأعم كلياً، فلا يصدق نحو كل حيوان إنسان. فهذا تطبيق كلامه على الحملية ونفس الكلام يقال عند تطبيقه على الشرطية مع إبدال الموضوع بالمقدم، والمحمول بالتالي وكلّ للسور الكلى فى الحمليّة بكلّما للسور الكلى للشرطيّة، وبعض السور الجزئي فــي الحملية بقد يكون للسور الجزئي في الشرطية. (3) اعلم أنّ إثبات الأعم لا يلزم منه ثبوت الأخص ولا انتفاؤه كقولك هذا حيوان فإنه لا يلزم منه أن يكـون إنساناً أو لا يكون، وأما نفى الأعم فإنه يلزم منه انتفاء الأخص قطعاً، كقولك ليس هذا حيواناً، فإنه يلزم منه قطعاً أنه ليس بإنسان. وإثبات الأخص يلزم منه ثبوت الأعم قطعاً. كقولك هذا إنسان، فإنه يلزم منـه أنـه حيوان قطعاً، ولكن نفى الأخص لا يلزم منه ثبوت الأعم ولا انتفاؤه كقولك ليس هذا إنساناً، فإنه لا يلزم منه أنه حيوان أو أنه ليس بحيوان فافهم هذه القواعد واحفظها فإنها نافعة جداً. وإذا فهمت هذه القواعد فإنـك ستعرف معنى قوله: ( وكذا المقدم الأخص يستلزم التالى الأعم كلياً، ولا يستلزم الأخص إلا جزئياً).
+Know that propositions are singular, universal, particular, and indefinite, and they are affirmative or negative. So the four affirmatives convert to a particular affirmative. So your saying: 'Zayd is an animal' its converse is 'Some animal is Zayd'. And its converse is necessary for it. And it does not follow from the falsity of the necessary (original? unclear: الملزوم) the falsity or truth of the necessary (لازم?). Rather it may happen that it is false or true. But it necessarily follows from the truth of the necessary (original) the truth of the necessary (converse) definitely. And know also that it follows from the falsity of the necessary (converse) the falsity of the necessary (original) definitely, but it does not follow from the truth of the necessary (converse) the truth or falsity of the necessary (original); it may happen that the original is false as in our example, and it may sometimes be true. So preserve these rules and attend to them, for they will benefit you greatly in other sciences.
+He means by 'original' the proposition intended to be converted. So if it is affirmative, it converts to affirmative, and if it is negative, to negative. (2) Because if the predicate is more general than the subject, then if you leave the quantity as it is when converting the universal affirmative, you cannot be sure that the converse is not false. In his example: 'Every human is an animal' its converse is 'Some animal is human'. If you had preserved the quantity and said 'Every animal is human', that would be false, and it is impossible that the converse of a true proposition be false, because the consequent of a true proposition is true as mentioned. And if you said 'Every human is rational' and converted it preserving quantity, it would become 'Every rational is human'. That is correct because the predicate is not more general than human, but equal to it. So since we cannot be sure that the predicate is not more general than the subject in the universal affirmative, and we want to have a rule for converting every universal affirmative without exception, we rely on the certain amount of truth of the subject for the predicate, which is the particular, not the universal. Because the particular is true in every case. So the conversion of the universal affirmative to a particular affirmative is always correct. And the intelligent person can extract from this speech a rule: one cannot affirm the more specific of the more general universally, so it is not true to say 'Every animal is human'. This is the application of his speech to categoricals, and the same is said when applying it to conditionals, replacing the subject with the antecedent, the predicate with the consequent, and 'every' of the universal quantifier in categoricals with 'whenever' of the universal quantifier in conditionals, and 'some' of the particular quantifier in categoricals with 'it may be' of the particular quantifier in conditionals. (3) Know that affirming the more general does not entail affirming or denying the more specific, as in your saying 'This is an animal', for it does not entail that it is human or not. But denying the more general entails denying the more specific definitely, as in your saying 'This is not an animal', for it definitely entails that it is not human. And affirming the more specific entails affirming the more general definitely, as in your saying 'This is a human', for it definitely entails that it is an animal. But denying the more specific does not entail affirming or denying the more general, as in your saying 'This is not a human', for it does not entail that it is an animal or that it is not an animal. So understand these rules and memorize them, for they are very beneficial. And when you understand these rules, you will know the meaning of his saying: 'And likewise the more specific antecedent implies the more general consequent universally, and the more general does not imply the more specific except partially.'
+Source pages p. 61
+
+Commentary
+This passage begins by classifying propositions into singular, universal, particular, and indefinite, each either affirmative or negative. The author states a key rule: all four affirmative types (singular, universal, particular, indefinite) convert to a particular affirmative. For example, the singular 'Zayd is an animal' converts to 'Some animal is Zayd'. The converse is a logical necessary (lazim) of the original: if the original is true, the converse must be true. However, the converse can be true even if the original is false. Conversely, if the converse is false, the original must be false. The author then provides explanatory footnotes. The first footnote clarifies terminology: 'original' is the proposition to be converted. The second footnote provides the reasoning for the universal affirmative exception: since the predicate is often more general, preserving quantity could lead to a false converse. The author gives examples: 'Every human is animal' converts to particular, but 'Every human is rational' converts to 'Every rational is human' because the terms are equal. Thus, for safety, the universal affirmative always converts to particular affirmative. The third footnote explains logical relations between general and specific terms, using examples like 'This is an animal' and 'This is a human'. These rules are foundational for understanding conversion and for later sciences.
+
+Key Terms
+الأعم
+الأخص
+
+Key Terms from Source Passage
+
+Checkpoint
+What can you conclude from the proposition 'This act is not a prayer' (general)?
+A) It is not a specific type of prayer like Fajr
+B) It could be a prayer or not
+C) It is definitely not Fajr
+D) Nothing about specific prayers
+
+Key Takeaway
+Affirming the general gives no information about specifics; denying the general denies all specifics; affirming the specific affirms the general; denying the specific gives no information about the general.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the statement 'This liquid is not an intoxicant' (general). What can you conclude about whether it is khamr (specific)? Use the rules from this lesson.
+?
+If we affirm that 'The world is temporally originated' (specific), what must be true about the general property 'originated'? Explain using the entailment rules.
+
+Pages p. 61 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 62
+Module 13 · Lesson 11
+Next →
+Immediate Inference
+intermediate
+7 min
+Conversion Rules for Negative Propositions
+Author gives conversion rules for negative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the conversion rules for universal negative and singular negative propositions in categorical logic.
+
+Core Idea
+Only universal negatives convert to themselves; singular negatives require careful handling.
+
+This passage builds on general conversion by giving specific rules for negatives. You already know affirmatives convert to particular. Now learn how 'No S is P' and 'Zayd is not P' behave. These rules are essential for validly manipulating propositions in kalām arguments.
+
+Guided Path
+1
+Identify negative proposition type
+Look at the quantifier: universal ('no'), singular ('Zayd not'), or particular ('some not'). The passage covers only universal and singular negatives here.
+Particular negatives are excluded and will be treated in the next lesson.
+2
+Apply universal negative rule
+For 'No S is P', the converse is exactly the same: 'No P is S'. Example from the text: 'لا شيء من الإنسان بحجر' becomes 'لا شيء من الحجر بإنسان'.
+This works because the truth conditions are symmetric for universal negatives.
+3
+Apply singular negative rule (universal predicate)
+If the singular subject has a universal predicate (e.g., 'Zayd is not a stone'), the converse is a universal negative: 'No stone is Zayd'. The text explains that singular converts to universal when the predicate is universal.
+This is counterintuitive, but follows from the logical form.
+4
+Apply singular negative rule (particular predicate)
+If the predicate is particular (e.g., 'Zayd is not Amr'), the converse is the same proposition reversed: 'Amr is not Zayd'. The text says it converts like itself.
+This works only because 'not' is symmetric for individuals.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقولك: أكل إنسان حيوان } أو {بعض الإنسان حيوان} أو {الإنسان حيوان}، عكس هذه الثلاثة {بعض الحيوان إنسان}. والسوالب لا ينعكس منها إلا الكلية، نحو {لا شيء من الإنسان بحجر }، وعكسها كنفسها، وهو {لا شيء من الحجر بإنسان}. والشخصية نحو {ليس زيد بحجر } وعكسها كلية نحو {لا شيء من الحجر بزيد}. وهذا إذا كان محمولها كلياً. فإن كان محمولها جزئياً انعكست كنفسها نحو {ليس زيد بعمرو } فعكسها {عمرو ليس بزيد}.
+شروط العكس:
+ويصح العكس في جميع القضايا ولازم لها دائماً بالصورة السابقة إلا في القضايا التالية: :أولاً: التي وجد فيها الخستان وهما السلب والجزئية، نحو { بعض الحيوان ليس بإنسان}، فلا عكس لها، لأنه سلب الأخص عن بعض أفراد الأعم، ولا يصح سلب الأعم عن بعض أفراد الأخص، فيصدق قولنا { بعض الحيوان ليس بإنسان}، ولا يصدق { بعض الإنسان ليس بحيوان}. ثانياً: المهملة السلبية ، كقولنا {الحيوان ليس بإنسان}، فإنه صادق، ولا يصدق عكسه وهو {الإنسان ليس بحيوان} لما تقدم من صحة نفي الأخص عن بعض أفراد الأعم وعدم صحة نفي الأعم عن بعض أفراد الأخص. فالسبب في عدم العكس فيها هو أنها في قوة الجزئية، فكما لا تنعكس الجزئية السالبة لاجتماع الخنشتين فيها فكذلك لا تنعكس المهملة السالبة. لأنها في قوتها فكأنه اجتمع فيها الخستان. ثم إن العكس لا يكون إلا في الحمليات والشرطيات المتصلة، كما تقدم تمثيل ذلك، فيشترط إذن في صحة العكس أن يكون في قضية مرتبة بالطبع لا بالوضع والترتيب الطبيعي ما اقتضاه المعنى بحيث يتغير بتغيره، ألا ترى أن معنى القضية الحملية ثبوت مفهوم المحمول لأفراد الموضوع، فإذا غير ترتيبها أفادت ثبوت مفهوم الموضوع لأفراد المحمول. ومعنى الشرطية لزوم التالي للمقدم، فإذا غير الترتيب أفادت لزوم المقدم للتالي، هذا هو المرتب بالطبع. وأما المرتب بالوضع فهو الشرطية المنفصلة لأن ترتيبها ذكري، بحيث لا يتغير معناها بتغير طرفيها، فقولك: العدد إما زوج أو فرد]، لو قدمت فيه الثاني على الأول وقلتَ [العدد إما فرد أو زوج] لا يتغير معناه، فعلم أن الترتيب إنما هو في مجرد الوضع والذكر .
+And your saying: 'Every human is animal' or 'Some human is animal' or 'The human is animal' (indefinite), the converse of these three is 'Some animal is human'. And of the negatives, only the universal converts, e.g., 'No human is a stone', its converse is itself, i.e., 'No stone is a human'. And the singular (negative) like 'Zayd is not a stone', its converse is universal, i.e., 'No stone is Zayd'. This is when its predicate is universal. If its predicate is particular, it converts like itself, e.g., 'Zayd is not Amr', its converse is 'Amr is not Zayd'.
+Conditions of conversion:
+Conversion is valid for all propositions and is necessary for them always in the previous form except for the following propositions: First: those in which the two 'khustan' (ruinous conditions?) are found, namely negation and particularity, like 'Some animal is not human'. It has no converse, because it is the negation of the more specific from some individuals of the more general, and it is not valid to negate the more general from some individuals of the more specific. For our statement 'Some animal is not human' is true, but 'Some human is not animal' is not true. Second: the indefinite negative, like our saying 'The animal is not human', for it is true, and its converse 'The human is not animal' is not true due to what preceded about the validity of negating the more specific from some individuals of the more general and the invalidity of negating the more general from some individuals of the more specific. So the reason for the lack of conversion in it is that it is in the strength of the particular, so just as the particular negative does not convert due to the combination of the two khustan in it, likewise the indefinite negative does not convert because it is in its strength, so it is as if the two khustan are combined in it. Then conversion is only in categoricals and conditional conjuncts (mutassilat), as exemplified earlier. So it is a condition for the validity of conversion that it be in a proposition that is naturally ordered (bi al-tab'), not by convention (bi al-wad') and natural ordering is what is required by the meaning such that it changes with its change. Do you not see that the meaning of the categorical proposition is the affirmation of the concept of the predicate for individuals of the subject, so if its order is changed, it gives the affirmation of the concept of the subject for individuals of the predicate. And the meaning of the conditional is the implication of the consequent by the antecedent, so if the order is changed, it gives the implication of the antecedent by the consequent. This is the naturally ordered. As for the conventionally ordered, it is the disjunctive conditional because its order is verbal, such that its meaning does not change by changing its two sides. For your saying: 'The number is either even or odd', if you put the second before the first and say 'The number is either odd or even', its meaning does not change. So it is known that the order is only in mere convention and utterance.
+Source pages p. 62
+
+Commentary
+This passage continues the rules of conversion, focusing on negative propositions and special conditions. First, it reiterates that all affirmatives (universal, particular, indefinite) convert to a particular affirmative. For negatives, only the universal negative converts to itself (e.g., 'No human is a stone' becomes 'No stone is a human'). Singular negative converts to a universal negative if the predicate is universal; if the predicate is particular, the conversion is identical (e.g., 'Zayd is not Amr' becomes 'Amr is not Zayd'). Then the author lists two types of propositions that do not convert: 1) particular negative (e.g., 'Some animal is not human') because it would require negating a more general term from some of the more specific, which is not valid; 2) indefinite negative (e.g., 'The animal is not human'), which is equivalent in strength to a particular negative and thus also non-convertible. Finally, the author notes that conversion applies only to categorical and conditional conjunct propositions (i.e., universal and particular affirmative/negative categoricals and hypotheticals with implication). Disjunctive conditionals (e.g., 'Either even or odd') do not convert because their meaning is symmetric—swapping the disjuncts does not change the truth value. Thus, conversion requires a proposition that is 'naturally ordered' (bi al-tab'), where the order matters to the meaning.
+
+Key Terms
+السوالب
+الكلية
+الشخصية
+المحمول الكلي
+المحمول الجزئي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the converse of 'Zayd is not a stone' (where 'stone' is a universal term)?
+A) Zayd is not a stone
+B) No stone is Zayd
+C) Some stone is not Zayd
+D) No Zayd is a stone
+
+Key Takeaway
+Universal negatives convert to themselves; singular negatives convert to universal when the predicate is universal, and to the same singular when the predicate is particular.
+
+How This Lesson Applies — to MY Life?
+?
+Take the proposition 'No intoxicant is permissible in Islam' (universal negative). Write its converse and verify it is valid.
+?
+Given the singular negative 'Khamr is not permissible' (predicate 'permissible' is universal), write its converse and state whether it is universal or particular.
+
+Pages p. 62 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 62
+Module 13 · Lesson 12
+Next →
+Immediate Inference
+intermediate
+8 min
+When Conversion Fails: The Two Ruinous Conditions
+Author lists propositions that cannot be converted.
+
+Learning Objective
+By the end of this lesson, you will be able to identify particular negatives and indefinite negatives and explain why they cannot be converted using the concept of al-khusatan.
+
+Core Idea
+Negation plus particularity (al-khusatan) is the death blow to conversion.
+
+After laying out successful conversion rules, the author now explains the exceptions. Two types of negative propositions—particular and indefinite—cannot be converted. They share a fatal combination: negation and particularity (or equivalent). This is captured by the technical term 'al-khusatan' (the two ruinous conditions). Understanding this exception prevents invalid inferences in logical reasoning.
+
+Guided Path
+1
+Identify the problematic proposition
+Look for 'some ... not' (particular negative) or an indefinite negative (e.g., 'الحيوان ليس بإنسان') which is treated as equivalent to a particular negative.
+The passage uses the example: بعض الحيوان ليس بإنسان
+2
+Check for al-khusatan
+Al-khusatan refers to the combination of negation (salb) and particularity (juz'iyya). In a particular negative, both are explicit. In an indefinite negative, the lack of quantifier makes it function like a particular.
+The term is a technical coinage in this commentary.
+3
+Understand why conversion fails
+The passage explains: negating a specific term from some individuals of a general term is true (e.g., 'Some animal is not human'), but the converse would require negating the general term from some individuals of the specific term, which is false (e.g., 'Some human is not animal' is false because all humans are animals). This asymmetry breaks conversion.
+This reasoning relies on the subalternation relation between universal and particular.
+4
+Apply the rule
+Given a proposition, if it is a particular negative or an indefinite negative, you must conclude it has no valid converse.
+This is a strict exception in the conversion rules.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقولك: أكل إنسان حيوان } أو {بعض الإنسان حيوان} أو {الإنسان حيوان}، عكس هذه الثلاثة {بعض الحيوان إنسان}. والسوالب لا ينعكس منها إلا الكلية، نحو {لا شيء من الإنسان بحجر }، وعكسها كنفسها، وهو {لا شيء من الحجر بإنسان}. والشخصية نحو {ليس زيد بحجر } وعكسها كلية نحو {لا شيء من الحجر بزيد}. وهذا إذا كان محمولها كلياً. فإن كان محمولها جزئياً انعكست كنفسها نحو {ليس زيد بعمرو } فعكسها {عمرو ليس بزيد}.
+شروط العكس:
+ويصح العكس في جميع القضايا ولازم لها دائماً بالصورة السابقة إلا في القضايا التالية: :أولاً: التي وجد فيها الخستان وهما السلب والجزئية، نحو { بعض الحيوان ليس بإنسان}، فلا عكس لها، لأنه سلب الأخص عن بعض أفراد الأعم، ولا يصح سلب الأعم عن بعض أفراد الأخص، فيصدق قولنا { بعض الحيوان ليس بإنسان}، ولا يصدق { بعض الإنسان ليس بحيوان}. ثانياً: المهملة السلبية ، كقولنا {الحيوان ليس بإنسان}، فإنه صادق، ولا يصدق عكسه وهو {الإنسان ليس بحيوان} لما تقدم من صحة نفي الأخص عن بعض أفراد الأعم وعدم صحة نفي الأعم عن بعض أفراد الأخص. فالسبب في عدم العكس فيها هو أنها في قوة الجزئية، فكما لا تنعكس الجزئية السالبة لاجتماع الخنشتين فيها فكذلك لا تنعكس المهملة السالبة. لأنها في قوتها فكأنه اجتمع فيها الخستان. ثم إن العكس لا يكون إلا في الحمليات والشرطيات المتصلة، كما تقدم تمثيل ذلك، فيشترط إذن في صحة العكس أن يكون في قضية مرتبة بالطبع لا بالوضع والترتيب الطبيعي ما اقتضاه المعنى بحيث يتغير بتغيره، ألا ترى أن معنى القضية الحملية ثبوت مفهوم المحمول لأفراد الموضوع، فإذا غير ترتيبها أفادت ثبوت مفهوم الموضوع لأفراد المحمول. ومعنى الشرطية لزوم التالي للمقدم، فإذا غير الترتيب أفادت لزوم المقدم للتالي، هذا هو المرتب بالطبع. وأما المرتب بالوضع فهو الشرطية المنفصلة لأن ترتيبها ذكري، بحيث لا يتغير معناها بتغير طرفيها، فقولك: العدد إما زوج أو فرد]، لو قدمت فيه الثاني على الأول وقلتَ [العدد إما فرد أو زوج] لا يتغير معناه، فعلم أن الترتيب إنما هو في مجرد الوضع والذكر .
+And your saying: 'Every human is animal' or 'Some human is animal' or 'The human is animal' (indefinite), the converse of these three is 'Some animal is human'. And of the negatives, only the universal converts, e.g., 'No human is a stone', its converse is itself, i.e., 'No stone is a human'. And the singular (negative) like 'Zayd is not a stone', its converse is universal, i.e., 'No stone is Zayd'. This is when its predicate is universal. If its predicate is particular, it converts like itself, e.g., 'Zayd is not Amr', its converse is 'Amr is not Zayd'.
+Conditions of conversion:
+Conversion is valid for all propositions and is necessary for them always in the previous form except for the following propositions: First: those in which the two 'khustan' (ruinous conditions?) are found, namely negation and particularity, like 'Some animal is not human'. It has no converse, because it is the negation of the more specific from some individuals of the more general, and it is not valid to negate the more general from some individuals of the more specific. For our statement 'Some animal is not human' is true, but 'Some human is not animal' is not true. Second: the indefinite negative, like our saying 'The animal is not human', for it is true, and its converse 'The human is not animal' is not true due to what preceded about the validity of negating the more specific from some individuals of the more general and the invalidity of negating the more general from some individuals of the more specific. So the reason for the lack of conversion in it is that it is in the strength of the particular, so just as the particular negative does not convert due to the combination of the two khustan in it, likewise the indefinite negative does not convert because it is in its strength, so it is as if the two khustan are combined in it. Then conversion is only in categoricals and conditional conjuncts (mutassilat), as exemplified earlier. So it is a condition for the validity of conversion that it be in a proposition that is naturally ordered (bi al-tab'), not by convention (bi al-wad') and natural ordering is what is required by the meaning such that it changes with its change. Do you not see that the meaning of the categorical proposition is the affirmation of the concept of the predicate for individuals of the subject, so if its order is changed, it gives the affirmation of the concept of the subject for individuals of the predicate. And the meaning of the conditional is the implication of the consequent by the antecedent, so if the order is changed, it gives the implication of the antecedent by the consequent. This is the naturally ordered. As for the conventionally ordered, it is the disjunctive conditional because its order is verbal, such that its meaning does not change by changing its two sides. For your saying: 'The number is either even or odd', if you put the second before the first and say 'The number is either odd or even', its meaning does not change. So it is known that the order is only in mere convention and utterance.
+Source pages p. 62
+
+Commentary
+This passage continues the rules of conversion, focusing on negative propositions and special conditions. First, it reiterates that all affirmatives (universal, particular, indefinite) convert to a particular affirmative. For negatives, only the universal negative converts to itself (e.g., 'No human is a stone' becomes 'No stone is a human'). Singular negative converts to a universal negative if the predicate is universal; if the predicate is particular, the conversion is identical (e.g., 'Zayd is not Amr' becomes 'Amr is not Zayd'). Then the author lists two types of propositions that do not convert: 1) particular negative (e.g., 'Some animal is not human') because it would require negating a more general term from some of the more specific, which is not valid; 2) indefinite negative (e.g., 'The animal is not human'), which is equivalent in strength to a particular negative and thus also non-convertible. Finally, the author notes that conversion applies only to categorical and conditional conjunct propositions (i.e., universal and particular affirmative/negative categoricals and hypotheticals with implication). Disjunctive conditionals (e.g., 'Either even or odd') do not convert because their meaning is symmetric—swapping the disjuncts does not change the truth value. Thus, conversion requires a proposition that is 'naturally ordered' (bi al-tab'), where the order matters to the meaning.
+
+Key Terms
+الخستان
+السلب
+الجزئية
+السالبة الجزئية
+المهملة السلبية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why does the particular negative 'Some animal is not human' have no converse?
+A) Because it is false
+B) Because it contains the two ruinous conditions (negation and particularity)
+C) Because it is an indefinite proposition
+D) Because it is a universal negative
+
+Key Takeaway
+Particular negatives and indefinite negatives cannot be converted because they combine negation and particularity (al-khusatan), making converse false.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition 'Some alcoholic beverages are not mentioned by name in the Quran' (particular negative). Explain why it cannot be converted and provide a counterexample to the attempted converse.
+?
+Identify any indefinite negative propositions in a sample text (e.g., 'The soul is not a body') and determine whether conversion is valid.
+
+Pages p. 62 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 62
+Module 13 · Lesson 13
+Next →
+Immediate Inference
+advanced
+8 min
+Natural vs Conventional Ordering in Conversion
+Author clarifies that conversion requires natural ordering.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish naturally ordered propositions (which convert) from conventionally ordered propositions (which do not) and apply this condition to categoricals and conditionals.
+
+Core Idea
+Only propositions where meaning changes with order (natural) are convertible; disjunctives are symmetric and exempt.
+
+The final condition for conversion is that the proposition must be 'naturally ordered' (murattab bi al-tab'). This means the truth conditions depend on the order of terms. Categoricals and conjunct conditionals (if-then) are naturally ordered because swapping terms changes the meaning. But disjunctive conditionals (either-or) are 'conventionally ordered' (murattab bi al-wad')—their meaning is symmetric, so conversion does not apply. This nuance prevents misuse of conversion in complex arguments.
+
+Guided Path
+1
+Understand the two types of ordering
+Naturally ordered: the meaning changes when terms are swapped. Conventionally ordered: the meaning remains the same when terms are swapped.
+The text gives examples: categoricals and conjunct conditionals are natural; disjunctives are conventional.
+2
+Identify naturally ordered propositions
+Categoricals: 'كل إنسان حيوان' vs 'كل حيوان إنسان' have different truth values. Conjunct conditionals: 'إذا كانت الشمس طالعة فالنهار موجود' vs 'إذا كان النهار موجودا فالشمس طالعة' are not equivalent.
+These convert by swapping the antecedent and consequent in the converse.
+3
+Identify conventionally ordered propositions
+Disjunctives: 'العدد إما زوج أو فرد' and 'العدد إما فرد أو زوج' mean the same thing. The order is just verbal.
+Therefore, disjunctives have no valid conversion in the sense used here.
+4
+Apply the condition to conversion
+Before attempting conversion, check whether the proposition is naturally ordered. If it is conventionally ordered (like disjunctives), conversion is not applicable.
+This condition ensures conversion only applies where it preserves truth.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقولك: أكل إنسان حيوان } أو {بعض الإنسان حيوان} أو {الإنسان حيوان}، عكس هذه الثلاثة {بعض الحيوان إنسان}. والسوالب لا ينعكس منها إلا الكلية، نحو {لا شيء من الإنسان بحجر }، وعكسها كنفسها، وهو {لا شيء من الحجر بإنسان}. والشخصية نحو {ليس زيد بحجر } وعكسها كلية نحو {لا شيء من الحجر بزيد}. وهذا إذا كان محمولها كلياً. فإن كان محمولها جزئياً انعكست كنفسها نحو {ليس زيد بعمرو } فعكسها {عمرو ليس بزيد}.
+شروط العكس:
+ويصح العكس في جميع القضايا ولازم لها دائماً بالصورة السابقة إلا في القضايا التالية: :أولاً: التي وجد فيها الخستان وهما السلب والجزئية، نحو { بعض الحيوان ليس بإنسان}، فلا عكس لها، لأنه سلب الأخص عن بعض أفراد الأعم، ولا يصح سلب الأعم عن بعض أفراد الأخص، فيصدق قولنا { بعض الحيوان ليس بإنسان}، ولا يصدق { بعض الإنسان ليس بحيوان}. ثانياً: المهملة السلبية ، كقولنا {الحيوان ليس بإنسان}، فإنه صادق، ولا يصدق عكسه وهو {الإنسان ليس بحيوان} لما تقدم من صحة نفي الأخص عن بعض أفراد الأعم وعدم صحة نفي الأعم عن بعض أفراد الأخص. فالسبب في عدم العكس فيها هو أنها في قوة الجزئية، فكما لا تنعكس الجزئية السالبة لاجتماع الخنشتين فيها فكذلك لا تنعكس المهملة السالبة. لأنها في قوتها فكأنه اجتمع فيها الخستان. ثم إن العكس لا يكون إلا في الحمليات والشرطيات المتصلة، كما تقدم تمثيل ذلك، فيشترط إذن في صحة العكس أن يكون في قضية مرتبة بالطبع لا بالوضع والترتيب الطبيعي ما اقتضاه المعنى بحيث يتغير بتغيره، ألا ترى أن معنى القضية الحملية ثبوت مفهوم المحمول لأفراد الموضوع، فإذا غير ترتيبها أفادت ثبوت مفهوم الموضوع لأفراد المحمول. ومعنى الشرطية لزوم التالي للمقدم، فإذا غير الترتيب أفادت لزوم المقدم للتالي، هذا هو المرتب بالطبع. وأما المرتب بالوضع فهو الشرطية المنفصلة لأن ترتيبها ذكري، بحيث لا يتغير معناها بتغير طرفيها، فقولك: العدد إما زوج أو فرد]، لو قدمت فيه الثاني على الأول وقلتَ [العدد إما فرد أو زوج] لا يتغير معناه، فعلم أن الترتيب إنما هو في مجرد الوضع والذكر .
+And your saying: 'Every human is animal' or 'Some human is animal' or 'The human is animal' (indefinite), the converse of these three is 'Some animal is human'. And of the negatives, only the universal converts, e.g., 'No human is a stone', its converse is itself, i.e., 'No stone is a human'. And the singular (negative) like 'Zayd is not a stone', its converse is universal, i.e., 'No stone is Zayd'. This is when its predicate is universal. If its predicate is particular, it converts like itself, e.g., 'Zayd is not Amr', its converse is 'Amr is not Zayd'.
+Conditions of conversion:
+Conversion is valid for all propositions and is necessary for them always in the previous form except for the following propositions: First: those in which the two 'khustan' (ruinous conditions?) are found, namely negation and particularity, like 'Some animal is not human'. It has no converse, because it is the negation of the more specific from some individuals of the more general, and it is not valid to negate the more general from some individuals of the more specific. For our statement 'Some animal is not human' is true, but 'Some human is not animal' is not true. Second: the indefinite negative, like our saying 'The animal is not human', for it is true, and its converse 'The human is not animal' is not true due to what preceded about the validity of negating the more specific from some individuals of the more general and the invalidity of negating the more general from some individuals of the more specific. So the reason for the lack of conversion in it is that it is in the strength of the particular, so just as the particular negative does not convert due to the combination of the two khustan in it, likewise the indefinite negative does not convert because it is in its strength, so it is as if the two khustan are combined in it. Then conversion is only in categoricals and conditional conjuncts (mutassilat), as exemplified earlier. So it is a condition for the validity of conversion that it be in a proposition that is naturally ordered (bi al-tab'), not by convention (bi al-wad') and natural ordering is what is required by the meaning such that it changes with its change. Do you not see that the meaning of the categorical proposition is the affirmation of the concept of the predicate for individuals of the subject, so if its order is changed, it gives the affirmation of the concept of the subject for individuals of the predicate. And the meaning of the conditional is the implication of the consequent by the antecedent, so if the order is changed, it gives the implication of the antecedent by the consequent. This is the naturally ordered. As for the conventionally ordered, it is the disjunctive conditional because its order is verbal, such that its meaning does not change by changing its two sides. For your saying: 'The number is either even or odd', if you put the second before the first and say 'The number is either odd or even', its meaning does not change. So it is known that the order is only in mere convention and utterance.
+Source pages p. 62
+
+Commentary
+This passage continues the rules of conversion, focusing on negative propositions and special conditions. First, it reiterates that all affirmatives (universal, particular, indefinite) convert to a particular affirmative. For negatives, only the universal negative converts to itself (e.g., 'No human is a stone' becomes 'No stone is a human'). Singular negative converts to a universal negative if the predicate is universal; if the predicate is particular, the conversion is identical (e.g., 'Zayd is not Amr' becomes 'Amr is not Zayd'). Then the author lists two types of propositions that do not convert: 1) particular negative (e.g., 'Some animal is not human') because it would require negating a more general term from some of the more specific, which is not valid; 2) indefinite negative (e.g., 'The animal is not human'), which is equivalent in strength to a particular negative and thus also non-convertible. Finally, the author notes that conversion applies only to categorical and conditional conjunct propositions (i.e., universal and particular affirmative/negative categoricals and hypotheticals with implication). Disjunctive conditionals (e.g., 'Either even or odd') do not convert because their meaning is symmetric—swapping the disjuncts does not change the truth value. Thus, conversion requires a proposition that is 'naturally ordered' (bi al-tab'), where the order matters to the meaning.
+
+Key Terms
+المرتب بالطبع
+المرتب بالوضع
+الحمليات
+الشرطيات المتصلة
+الشرطيات المنفصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of proposition is 'naturally ordered' and therefore convertible?
+A) Disjunctive conditionals
+B) Categoricals and conjunct conditionals
+C) Indefinite negatives
+D) Particular negatives
+
+Key Takeaway
+Conversion is valid only for naturally ordered propositions (categoricals and conjunct conditionals); disjunctives are conventionally ordered and do not convert.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each proposition as naturally ordered or conventionally ordered: (a) 'Every mu'min is Muslim', (b) 'If it is Friday, then Jumu'ah prayer is obligatory', (c) 'The witness statement is either truthful or false'. Justify your answer based on whether swapping terms changes meaning.
+?
+For a naturally ordered proposition like 'If the marriage is valid, then dowry is given', write its converse and explain whether it holds.
+
+Pages p. 62 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 62
+Module 13 · Lesson 14
+Next →
+Immediate Inference
+beginner
+5 min
+Agreeing Contraposition (عكس النقيض الموافق)
+Author defines conversion by contraposition and the agreeing type with example.
+
+Learning Objective
+By the end of this lesson, you will be able to perform agreeing contraposition on any categorical proposition and verify whether quantity and quality are preserved.
+
+Core Idea
+Replace each term with its contradictory while keeping quantity and quality unchanged.
+
+The author now defines 'aks al-naqid (conversion by contraposition), a powerful immediate inference. He distinguishes two types: agreeing (الموافق) and opposing (المخالف). In this lesson, we focus on the agreeing type, where the quality of the converse remains identical to the original. This operation is essential for transforming propositions while preserving truth conditions.
+
+Guided Path
+1
+Identify the original proposition
+Note its subject (مبتدأ), predicate (خبر), quantity (كل/بعض) and quality (موجبة/سالبة).
+For example: 'كل إنسان حيوان' has subject 'إنسان', predicate 'حيوان', quantity universal, quality affirmative.
+2
+Replace subject with contradictory of predicate
+Take the contradictory (نقيض) of the predicate and make it the new subject.
+From 'حيوان', contradictory is 'لا حيوان' or 'غير حيوان'.
+3
+Replace predicate with contradictory of subject
+Take the contradictory of the original subject and make it the new predicate.
+From 'إنسان', contradictory is 'لا إنسان' or 'غير إنسان'.
+4
+Preserve quantity and quality
+The new proposition must have the same quantifier (universal/particular) and same quality (affirmative/negative) as the original.
+Original 'Every human is animal' (universal affirmative) becomes 'Every non-animal is non-human' (still universal affirmative).
+5
+Verify with example
+Check that the original and the contrapositive are logically equivalent. If the original is true, the contrapositive must also be true.
+In Islamic logic, contraposition is valid for universal propositions but not for particular affirmatives (since some A is B does not entail some non-B is non-A).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تعريف بعكس النقيض:
+وهو ينقسم إلى قسمين: الأول عكس النقيض الموافق:
+وهو تبديل كل من الطرفين بنقيض الآخر مع بقاء الكم والكيف، فقولنا كل إنسان حيوان] عكس نقيضه الموافق كل ما ليس بحيوان هو ليس بإنسان، ويسمى موافقاً لموافقة الأصل للعكس فى الكيف.
+الثاني: عكس النقيض المخالف:
+Definition of conversion by contraposition:
+It is divided into two sections: The first is agreeing contraposition (al-muwafiq): It is replacing each of the two terms with the contradictory of the other while preserving quantity and quality. So our saying 'Every human is animal' its agreeing contrapositive is 'Everything that is not animal is not human'. It is called agreeing because the original and the converse agree in quality.
+The second: opposing contraposition (al-mukhalif):
+Source pages p. 62
+
+Commentary
+This passage introduces the concept of 'aks al-naqid (conversion by contraposition), which is an immediate inference that swaps each term with its contradictory (naqid). The author divides it into two types. The first is 'aks al-naqid al-muwafiq (agreeing contraposition): here, the subject is replaced by the contradictory of the predicate, and the predicate by the contradictory of the subject, while preserving the quantity (universal/particular) and quality (affirmative/negative) of the original. Example: 'Every human is an animal' converts to 'Everything that is not an animal is not a human'. Note that the original universal affirmative yields a universal affirmative contrapositive (since 'not animal' becomes subject and 'not human' predicate). It is called 'agreeing' because the quality remains the same (both affirmative). The second type, 'aks al-naqid al-mukhalif (opposing contraposition), is not fully defined here due to missing text, but it typically involves a change in quality. The passage provides a clear definition and example for the first type.
+
+Key Terms
+عكس النقيض
+الموافق
+المخالف
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the agreeing contrapositive (عكس النقيض الموافق) of 'No human is a stone'?
+A) No non-stone is non-human.
+B) Every non-stone is non-human.
+C) Some non-stone is non-human.
+D) Every stone is non-human.
+
+Key Takeaway
+Agreeing contraposition transforms a proposition by swapping both terms with their contradictories while keeping quantity and quality unchanged.
+
+How This Lesson Applies — to MY Life?
+?
+Apply agreeing contraposition to the proposition 'No human is a stone' (لا إنسان بحجر). Write the contrapositive and note whether quantity and quality are preserved.
+?
+Challenge: Why does agreeing contraposition fail for a particular affirmative like 'Some human is literate'? Test it and explain the logical issue.
+
+Pages p. 62 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 62
+Module 13 · Lesson 15
+Next →
+Immediate Inference
+intermediate
+10 min
+Rules and Conditions of Conversion (al-‘Aks)
+Author explains conversion of categorical and conditional propositions with examples and exceptions.
+
+Learning Objective
+By the end of this lesson, you will be able to correctly convert categorical and singular propositions according to the rules of al-'aks, identifying which types are valid and which are not.
+
+Core Idea
+Conversion swaps subject and predicate but only works when the combination of quantity and quality allows it.
+
+Conversion (al-'aks) is a fundamental immediate inference in Islamic logic, used to restate propositions without changing their truth value under specific conditions. This passage from the Sullam al-‘Ulum explains the rules for converting affirmative and negative categorical propositions, including singular and indefinite cases, and highlights the critical exceptions you must recognize to avoid logical errors.
+
+Guided Path
+1
+Identify the proposition type
+Determine the quantity (universal, particular, indefinite, singular) and quality (affirmative, negative) of the original proposition. Also check if the predicate is universal or particular.
+For example, 'Every human is animal' is universal affirmative with universal predicate.
+2
+Apply the conversion rule for affirmatives
+Universal affirmatives and indefinite affirmatives convert to particular affirmatives. Particular affirmatives remain particular affirmatives.
+E.g., 'Every human is animal' becomes 'Some animal is human'.
+3
+Apply the conversion rule for negatives
+Universal negatives convert to themselves (e.g., 'No human is stone' becomes 'No stone is human'). Singular negatives convert to universal negatives if the predicate is universal; if the predicate is particular, the conversion is identical.
+For 'Zayd is not stone', the conversion is 'No stone is Zayd'.
+4
+Check for exceptions
+Particular negatives (e.g., 'Some animal is not human') have no valid conversion because they combine negativity and particularity. Indefinite negatives (e.g., 'Animal is not human') also fail because they function as particulars.
+These are called 'al-khastān' – the two qualities that prevent conversion.
+5
+Verify natural order condition
+Conversion only applies to propositions with natural order (categoricals and conjunctive conditionals), where swapping terms changes the meaning appropriately. Disjunctive conditionals have a verbal order that does not affect meaning, so conversion is not defined.
+E.g., 'The number is either even or odd' and 'either odd or even' are equivalent.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقولك: كل إنسان حيوان ] أو [بعض الإنسان حيوان] أو [الإنسان حيوان]، عكس هذه الثلاثة [بعض الحيوان إنسان]. والسوالب لا ينعكس منها إلا الكلية، نحو [لا شيء من الإنسان بحجر ]، وعكسها كنفسها، وهو [لا شيء من الحجر بإنسان]. والشخصية نحو [ليس زيد بحجر ] وعكسها كلية نحو [لا شيء من الحجر بزيد]. وهذا إذا كان محمولها كلياً. فإن كان محمولها جزئياً انعكست كنفسها نحو [ليس زيد بعمرو ] فعكسها [عمرو ليس بزيد].
+شروط العكس:
+يصح
+والعكس صحيح في جميع القضايا ولازم لها دائماً بالصورة السابقة إلا في القضايا التالية: :أولاً: التي وجد فيها الخستان وهما السلب والجزئية، نحو [ بعض الحيوان ليس بإنسان]، فلا عكس لها، لأنه سلب الأخص عن بعض أفراد الأعم، ولا يصح سلب الأعم عن بعض أفراد الأخص، فيصدق قولنا [ بعض الحيوان ليس بإنسان]، ولا يصدق [ بعض الإنسان ليس بحيوان]. ثانياً: المهملة السلبية ، كقولنا [الحيوان ليس بإنسان]، فإنه صادق، ولا يصدق عكسه وهو [الإنسان ليس بحيوان لما تقدم من صحة نفي الأخص عن بعض أفراد الأعم وعدم صحة نفي الأعم عن بعض أفراد الأخص. فالسبب في عدم العكس فيها هو أنها في قوة الجزئية، فكما لا تنعكس الجزئية السالبة لاجتماع الخنشتين فيها فكذلك لا تنعكس المهملة السالبة. لأنها في قوتها فكأنه اجتمع فيها الخستان. ثم إن العكس لا يكون إلا في الحمليات والشرطيات المتصلة، كما تقدم تمثيل ذلك، فيشترط إذن في صحة العكس أن يكون في قضية مرتبة بالطبع لا بالوضع والترتيب الطبيعي ما اقتضاه المعنى بحيث يتغير بتغيره، ألا ترى أن معنى القضية الحملية ثبوت مفهوم المحمول لأفراد الموضوع، فإذا غير ترتيبها أفادت ثبوت مفهوم الموضوع لأفراد المحمول. ومعنى الشرطية لزوم التالي للمقدم، فإذا غير الترتيب أفادت لزوم المقدم للتالي، هذا هو المرتب بالطبع. وأما المرتب بالوضع فهو الشرطية المنفصلة لأن ترتيبها ذكري، بحيث لا يتغير معناها بتغير طرفيها، فقولك: العدد إما زوج أو فرد]، لو قدمت فيه الثاني على الأول وقلتَ [العدد إما فرد أو زوج] لا يتغير معناه، فعلم أن الترتيب إنما هو في مجرد الوضع والذكر .
+And your saying: 'Every human is an animal' or 'Some human is an animal' or 'The human is an animal' (i.e., 'Human is an animal'), the conversion of these three is 'Some animal is human.' As for negatives, none converts except the universal, like 'No human is a stone,' and its conversion is like itself, i.e., 'No stone is a human.' The singular, like 'Zayd is not a stone,' its conversion is universal, like 'No stone is Zayd.' This applies when its predicate is universal. If its predicate is particular, it converts like itself, like 'Zayd is not Amr,' so its conversion is 'Amr is not Zayd.' Conditions of conversion: It is valid. The conversion is correct in all propositions and necessarily follows them always in the previous form, except in the following propositions: First: those in which the two qualities (al-khastān) are found, namely negativity and particularity, like 'Some animal is not human'; it has no conversion, because it is the negation of the more specific from some individuals of the more general, and it is not correct to negate the more general from some individuals of the more specific, so our statement 'Some animal is not human' is true, and 'Some human is not animal' is not true. Second: the indefinite negative (al-muhmala al-salbiyya), like our saying 'Animal is not human'; it is true, and its conversion 'Human is not animal' is not true, due to what preceded of the correctness of negating the more specific from some individuals of the more general and the incorrectness of negating the more general from some individuals of the more specific. So the reason for the lack of conversion in it is that it is in the force of the particular; just as the negative particular does not convert due to the combination of the two qualities (al-khuntayn) in it, likewise the indefinite negative does not convert, because it is in its force, as if the two qualities (al-khastān) are combined in it. Then conversion only occurs in categoricals and conditional conjunctives, as the example of that preceded. So the condition for the validity of conversion is that it be in a proposition ordered naturally, not by stipulation. The natural order is what the meaning requires such that it changes when the order changes. Do you not see that the meaning of a categorical proposition is the affirmation of the concept of the predicate for individuals of the subject; so if its order is changed, it yields the affirmation of the concept of the subject for individuals of the predicate. And the meaning of a conditional (conjunctive) is the implication of the consequent from the antecedent; so if the order is changed, it yields the implication of the antecedent from the consequent. This is the naturally ordered. As for the ordered by stipulation, it is the disjunctive conditional because its order is verbal, such that its meaning does not change by changing its two sides; so your saying 'The number is either even or odd', if you advance the second over the first and say 'The number is either odd or even', its meaning does not change. So it is known that the order is merely in the wording and mention.
+Source pages p. 62
+
+Commentary
+This passage explains the rules of conversion (al-‘aks) in logic, an immediate inference that swaps subject and predicate while preserving truth under specific conditions. The author begins with examples of affirmative conversions: universal affirmative ('Every human is animal') converts to particular affirmative ('Some animal is human'); particular affirmative ('Some human is animal') also converts to particular affirmative; and indefinite affirmative ('Human is animal') treated as universal, also converts to particular. For negatives, only universal negative converts to itself ('No human is stone' to 'No stone is human'). Singular negatives convert to universal negatives (e.g., 'Zayd is not stone' to 'No stone is Zayd') because the singular term is treated as universal. If the predicate is particular (like 'Zayd is not Amr'), the conversion is the same ('Amr is not Zayd'). Then the author lists two exceptions: (1) the particular negative (e.g., 'Some animal is not human') has no conversion because it negates a more specific term from some individuals of a more general term, but its conversion would require negating a more general term from some individuals of a more specific term, which is false. (2) The indefinite negative (e.g., 'Animal is not human') also fails because, like the particular negative, it functions as a particular. Finally, conversion applies only to categorical propositions and conditional conjunctives, not to disjunctives, because disjunctives have a verbal order that does not affect meaning (e.g., 'The number is either even or odd' is equivalent to 'either odd or even'). The key condition is that the proposition must have a 'natural order' where swapping subject and predicate changes the meaning appropriately.
+
+Key Terms
+العكس
+الخستان
+المهملة السلبية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of proposition has no valid conversion according to the text?
+A) Universal affirmative
+B) Universal negative
+C) Particular negative
+D) Singular negative
+
+Key Takeaway
+Conversion is a valid immediate inference only for categorical and conjunctive conditional propositions that are not particular negative or indefinite negative; the combination of negativity and particularity blocks conversion.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Convert the following propositions using the rules from this lesson. State whether the conversion is valid and why. (a) 'No prayer is valid without purification.' (b) 'Some scholars are not jurists.' (c) 'Every act is either obligatory or recommended.' (Note: identify the type first.)
+?
+Task 2: Identify which of the following conversions are valid according to the text: 'Every human is mortal' → 'Some mortal is human'; 'Some animal is not human' → 'Some human is not animal'; 'No stone is animal' → 'No animal is stone'.
+
+Pages p. 62 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 63
+Module 13 · Lesson 16
+Next →
+Immediate Inference
+beginner
+5 min
+Conversion by Contradiction: The Two Types
+Author defines conversion by contradiction and distinguishes its two types: موافق and مخالف.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the concordant (الموافق) and contrary (المخالف) types of conversion by contradiction and apply each to a given proposition.
+
+Core Idea
+Conversion by contradiction transforms a proposition by flipping terms and possibly quality.
+
+This passage introduces an important immediate inference known as conversion by contradiction (عكس النقيض). It is not a simple reversal like usual conversion; instead, it replaces terms with their contradictories. The author distinguishes two types based on whether the quality of the original statement is preserved or changed. Understanding these operations is essential for certain logical proofs in Islamic legal reasoning and theology.
+
+Guided Path
+1
+Identify the original proposition
+Find the subject and predicate of the given statement. For example, in 'Every human is an animal', the subject is 'human' and the predicate is 'animal'.
+2
+Determine the type
+Decide whether the operation should preserve quality (الموافق) or change it (المخالف). The concordant type keeps the quantity and quality; the contrary type changes quality from affirmative to negative or vice versa.
+3
+Apply the rule
+For the concordant type: replace the subject with the contradictory of the predicate and the predicate with the contradictory of the subject. For the contrary type: replace the subject with the contradictory of the predicate and keep the predicate as the original subject, then flip the quality accordingly.
+For 'Every A is B', concordant: 'Every non-B is non-A'; contrary: 'No non-B is A'.
+4
+Verify the result
+Check that the resulting proposition matches the definition: the quantity remains universal, and the quality matches (concordant) or differs (contrary) from the original.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تعريف بعكس النقيض:
+وهو ينقسم إلى قسمين: الأول عكس النقيض الموافق:
+وهو تبديل كل من الطرفين بنقيض الآخر مع بقاء الكم والكيف، فقولنا كل إنسان حيوان] عكس نقيضه الموافق كل ما ليس بحيوان هو ليس بإنسان، ويسمى موافقاً لموافقة الأصل للعكس فى الكيف.
+الثاني: عكس النقيض المخالف:
+وهو تبديل الأول بنقيض الثاني والثاني بعين الأول، مع الاختلاف في الكيف، فقولنا كل إنسان حيوان] عكس نقيضه المخالف الا شيء مما ليس بحيوان إنسان، وسمى مخالفاً لمخالفة العكس للأصل في الكيف.
+Definition of conversion by contradiction (al-‘aks al-naqīḍ): It is divided into two types: First, the concordant conversion by contradiction (al-muwāfiq): It is replacing each of the two terms with the contradictory of the other while preserving quantity and quality. So our saying 'Every human is an animal', its concordant conversion by contradiction is 'Every non-animal is a non-human'. It is called concordant because the original and the conversion agree in quality. Second, the contrary conversion by contradiction (al-mukhālif): It is replacing the first term with the contradictory of the second and the second term with the first itself, with difference in quality. So our saying 'Every human is an animal', its contrary conversion by contradiction is 'No non-animal is a human'. It is called contrary because the conversion differs from the original in quality.
+Source pages p. 63
+
+Commentary
+This passage defines conversion by contradiction (عكس النقيض), which is another immediate inference that involves replacing terms with their contradictories. The author distinguishes two types. The first type, al-muwāfiq (concordant), maintains both quantity and quality: for a universal affirmative 'Every A is B', the concordant conversion is 'Every non-B is non-A'. This is effectively the contrapositive, preserving the universal affirmative quality. The second type, al-mukhālif (contrary), changes the quality: 'Every A is B' becomes 'No non-B is A' (universal negative). The names reflect whether the converted proposition agrees in quality with the original (الموافق) or differs (المخالف). These operations are essential for certain syllogistic reductions and proofs.
+
+Key Terms
+عكس النقيض
+الموافق
+المخالف
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the concordant conversion by contradiction (الموافق) of the statement 'Every intoxicant is forbidden'?
+A) Every non-forbidden is a non-intoxicant
+B) No non-forbidden is an intoxicant
+C) Every non-intoxicant is permitted
+D) Some forbidden is intoxicant
+
+Key Takeaway
+Conversion by contradiction has two types: الموافق preserves quality, المخالف changes it; both are valid immediate inferences used in logical and legal reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Given the statement 'Every intoxicant is forbidden', produce both the concordant (الموافق) and contrary (المخالف) conversions by contradiction.
+?
+Identify which type of conversion by contradiction is used in the following reasoning: 'If every intoxicant is forbidden, then what is not forbidden is not an intoxicant.' Explain your answer.
+
+Pages p. 63 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 63
+Module 13 · Lesson 17
+Next →
+Immediate Inference
+beginner
+5 min
+Understanding ‘Aks al-Naqīḍ: Conversion of the Contradictory
+Author defines 'aks al-naqid with an example showing change in quality.
+
+Learning Objective
+By the end of this lesson, you will be able to apply ‘aks al-naqīḍ to a categorical proposition and state the resulting proposition correctly.
+
+Core Idea
+‘Aks al-Naqīḍ swaps subject with contradictory predicate and flips quality.
+
+This lesson introduces ‘aks al-naqīḍ, a type of immediate inference that transforms a proposition by exchanging the subject with the contradictory of the predicate and changing the quality (affirmative to negative or vice versa). The author defines it concisely and illustrates with the example 'Every human is an animal' becoming 'Nothing that is not an animal is a human'. Mastering this tool sharpens your ability to derive valid inferences in Islamic logical discourse.
+
+Guided Path
+1
+Identify the original proposition's terms and quality
+Take the given proposition. For example, 'Every human is an animal' (universal affirmative). The subject is 'human', the predicate is 'animal', and the quality is affirmative.
+2
+Form the contradictory of the predicate
+Negate the predicate to get its contradictory. For 'animal', the contradictory is 'not-animal' (or 'non-animal'). This will become the new subject.
+The contradictory of a term is its negation, e.g., 'not-animal'.
+3
+Swap the original subject with that contradictory predicate
+The new proposition's subject is the contradictory of the original predicate, and its predicate is the original subject. So new subject = 'not-animal', new predicate = 'human'.
+4
+Change the quality
+The original was affirmative; the result must be negative (universal negative). Thus the proposition becomes 'No not-animal is a human' or 'Nothing that is not an animal is a human'.
+Quality flips: affirmative to negative, negative to affirmative.
+5
+Verify with the author's example
+Check that your result matches the author's: from 'Every human is an animal' (كل إنسان حيوان) to 'Nothing that is not an animal is a human' (لا شيء مما ليس بحيوان إنسان). This confirms correct application.
+The operation is called 'mukhalif' (contrary) because the quality differs.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهو تبديل الأول بنقيض الثاني والثاني بعين الأول، مع الاختلاف في الكيف، فقولنا كل إنسان حيوان عكس نقيضه المخالف لا شيء مما ليس بحيوان إنسان، وسمى مخالفاً لمخالفة العكس للأصل في الكيف.
+And it is replacing the first with the contradictory of the second, and the second with the exact first, along with change in quality. So our statement 'Every human is an animal' has its contrary conversion of the contradictory: 'Nothing that is not an animal is a human'. And it was called 'contrary' because the conversion differs from the original in quality.
+Source pages p. 63
+
+Commentary
+This passage defines the logical operation known as 'aks al-naqid (conversion of the contradictory). It is a type of immediate inference that transforms a proposition by swapping the subject term with the contradictory of the predicate term, while also changing the quality (affirmative to negative or vice versa). The author illustrates with the proposition 'Every human is an animal'. Its 'aks al-naqid is 'Nothing that is not an animal is a human'. Notice that the original is universal affirmative, and the result is universal negative, hence the change in quality. The term 'mukhalif' (contrary) is used because this conversion yields a proposition that is opposite in quality to the original.
+
+Key Terms
+عكس النقيض (‘aks al-naqīḍ): A conversion that swaps the subject with the contradictory of the predicate, changing quality, to produce a new proposition. [Note: Stable term across classical logic texts.]
+
+Key Terms from Source Passage
+
+Checkpoint
+If the original proposition is 'Every Muslim is a believer', what is its 'aks al-naqid?
+A) Every believer is a Muslim.
+B) No non-believer is a Muslim.
+C) Some Muslims are believers.
+D) No Muslim is a non-believer.
+
+Key Takeaway
+‘Aks al-naqīḍ produces a valid immediate inference by swapping subject and contradictory predicate while changing quality.
+
+How This Lesson Applies — to MY Life?
+?
+Apply 'aks al-naqid to the proposition 'Every fard is wajib' (universal affirmative) and state the result in Arabic or English.
+?
+Apply 'aks al-naqid to 'No mubah action is haram' (universal negative) and state the result (remember quality changes).
+
+Pages p. 63 · Immediate Inference
+← Prev
+Mark Done
+Next →

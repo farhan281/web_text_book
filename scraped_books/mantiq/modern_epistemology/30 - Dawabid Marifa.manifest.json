@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:51Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/dawabid_marifa/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/modern_epistemology/30 - Dawabid Marifa",
+  "output_bytes": 8980440,
+  "output_sha256": "cb51f2e957a7efa7057feecbdb097bcb13094e8d20922a2ccbdce11382c5e410",
+  "checks": {
+    "catalog_expected_lessons": 1048,
+    "course_reported_lessons": 1048,
+    "index_lessons": 1048,
+    "full_lessons": 1048,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 19,
+    "course_reported_modules": 19,
+    "modules": 19,
+    "course_reported_sources": 814,
+    "sources": 814
+  }
+}

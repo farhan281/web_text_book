@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:03Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Ashraf%20ul%20Hadaya%20Vol%2013_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/57 - Ashraf Ul Hadaya Vol 13 Merged With Pgs",
+  "output_bytes": 9008345,
+  "output_sha256": "ad99ddf5654d5f1b5953e3489ffd62c693a7d036c5dddfbaffda19b7de134797",
+  "checks": {
+    "catalog_expected_lessons": 1035,
+    "course_reported_lessons": 1035,
+    "index_lessons": 1035,
+    "full_lessons": 1035,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 22,
+    "course_reported_modules": 22,
+    "modules": 22,
+    "course_reported_sources": 1015,
+    "sources": 1015
+  }
+}

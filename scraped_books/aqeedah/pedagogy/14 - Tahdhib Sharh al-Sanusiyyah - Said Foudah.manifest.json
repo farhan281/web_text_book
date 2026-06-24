@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:57:49Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Tahdhib%20Sharh%20al-Sanusiyyah%20-%20Said%20Foudah/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/pedagogy/14 - Tahdhib Sharh al-Sanusiyyah - Said Foudah",
+  "output_bytes": 4971740,
+  "output_sha256": "4d302b9d729b3c5c265f091efeee5f52a95e0ae38f192eab29db9126cb4bbfac",
+  "checks": {
+    "catalog_expected_lessons": 599,
+    "course_reported_lessons": 599,
+    "index_lessons": 599,
+    "full_lessons": 599,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 429,
+    "sources": 429
+  }
+}

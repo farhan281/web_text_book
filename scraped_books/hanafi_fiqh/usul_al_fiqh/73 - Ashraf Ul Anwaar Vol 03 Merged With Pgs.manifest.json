@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:51Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/ASHRAF_UL_ANWAAR_VOL_03_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/73 - Ashraf Ul Anwaar Vol 03 Merged With Pgs",
+  "output_bytes": 6502348,
+  "output_sha256": "b9e26142a0ae6aec69294fd0fd99886160b27dbd30e0495b67bc1a87b05f92fd",
+  "checks": {
+    "catalog_expected_lessons": 541,
+    "course_reported_lessons": 541,
+    "index_lessons": 541,
+    "full_lessons": 541,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 492,
+    "sources": 492
+  }
+}

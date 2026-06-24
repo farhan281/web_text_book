@@ -1,0 +1,516 @@
+← Prev
+p. 58
+Module 18 · Lesson 1
+Next →
+Immediate Inference
+beginner
+5 min
+Definition of Conversion (ʿAks) and the Rule for Universal Negative
+Definition of conversion and rule for universal negative
+
+Learning Objective
+By the end of this lesson, you will be able to identify a correct conversion of a universal negative proposition and distinguish proper conversion from mere inversion (inqlāb).
+
+Core Idea
+Conversion swaps subject and predicate, preserving quality and truth; only then is it true ʿaks.
+
+In this lesson, we learn the precise meaning of conversion (ʿaks) of categorical propositions. The author defines it as swapping the subject and predicate while keeping the quality (affirmative/negative) unchanged and only if the truth value stays the same. He warns that if truth is lost, it is not conversion but inversion (inqlāb). We will then apply this to the first type: the universal negative, which converts to itself.
+
+Guided Path
+1
+Understand the definition of conversion
+The author states: make the predicate subject and the subject predicate, while preserving quality (kayfiyya) and truth value.
+Preserving quality means the affirmative/negative character remains the same.
+2
+Distinguish proper conversion from inversion
+If after swapping, the proposition is no longer true, it is called inqlāb (inversion), not proper ʿaks.
+This condition is crucial: not all subject-predicate swaps preserve truth.
+3
+Identify the universal negative rule
+The universal negative proposition (e.g., 'No S is P') necessarily converts to another universal negative: 'No P is S'.
+This is one of the four types the author begins to enumerate.
+4
+Apply to an example
+For the proposition 'No human is a stone', its conversion is 'No stone is a human'. Both are universal negatives and true.
+The author's example is cut off but completed in commentary.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القسمة السادسة للقضية باعتبار عكسها : اعلم أنا نعني بالعكس أن يجعل المحمول من القضية موضوعاً والموضوع محمولاً مع حفظ الكيفية وبقاء الصدق بحاله، فإن لم يبق الصدق سُمّي انقلاباً لا انعكاساً والقضايا في عنصرها أربعة : الأولى : السالبة الكلية وتنعكس مثل نفسها بالضرورة فإنك تقول : لا إنسان
+The sixth division of the proposition according to its conversion: Know that we mean by conversion that the predicate of the proposition is made the subject and the subject is made the predicate, while preserving the quality and maintaining the truth as it is. For if the truth does not remain, it is called inversion (inqlāb), not conversion (ʿaks). The propositions in their element are four: The first: the universal negative, and it converts like itself necessarily, for you say: 'No human...'
+Source pages p. 58
+
+Commentary
+This passage introduces the concept of conversion (ʿaks) of propositions. The author defines it as swapping the subject and predicate while keeping the quality (affirmation/negation) the same, and only if the truth value is preserved. If the truth does not remain after swapping, it is called 'inqlāb' (reversal), not proper conversion. The author then begins to enumerate the four types of propositions (universal affirmative, universal negative, particular affirmative, particular negative) and starts with the universal negative, which converts to another universal negative necessarily. The text cuts off with the example 'No human...' which would continue as 'No human is a stone' converting to 'No stone is a human.' Note: The definition of conversion here is the standard one in Aristotelian logic: the universal negative converts to itself, the particular affirmative converts to a particular affirmative, etc. The author's point about truth preservation is crucial: not all subject-predicate swaps yield true statements (e.g., the universal affirmative does not convert simply; it converts to a particular affirmative).
+
+Key Terms
+عكس
+انقلاب
+كيفية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the correct conversion of the universal negative proposition 'No human is a stone'?
+A) Some human is not a stone.
+B) No stone is a human.
+C) Some stone is not a human.
+D) Every stone is not a human.
+
+Key Takeaway
+The universal negative proposition converts to itself, i.e., 'No S is P' becomes 'No P is S', preserving truth and quality.
+
+How This Lesson Applies — to MY Life?
+?
+Given the universal negative proposition 'No alcohol is halal', write its correct conversion according to the rule taught in this lesson.
+?
+Explain why the universal affirmative 'Every human is mortal' does not convert to 'Every mortal is human' (refer to the author's condition about truth preservation).
+
+Pages p. 58 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 59
+Module 18 · Lesson 2
+Next →
+Immediate Inference
+intermediate
+5 min
+Conversion of Categorical Propositions
+Author defines conversion and enumerates four types of categorical propositions with their conversion rules.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the correct conversion type for each of the four categorical propositions and apply the conversion rules to validly derive immediate inferences.
+
+Core Idea
+Conversion swaps subject and predicate while preserving truth and quality — but only for three of the four types.
+
+In this passage, the author defines the key logical operation of conversion (ʿaks) and distinguishes it from inversion (inqilāb). He then systematically lists the four types of categorical propositions and their conversion rules, using both ordinary language examples and ambiguous letters. Understanding conversion is essential for manipulating syllogisms and deriving immediate inferences in Islamic logic.
+
+Guided Path
+1
+Understand the definition of conversion
+The author defines conversion as making the predicate the subject and the subject the predicate while preserving both the quality (affirmative/negative) and truth. If truth is not preserved, the operation is called 'inversion' not 'conversion'.
+The definition is crucial: conversion is only valid if the truth value remains the same.
+2
+Verify the rule for universal negative (E)
+The author states that universal negative converts to universal negative. He provides a proof by contradiction: if some bird were human, then the original 'No human is a bird' would be false. Check this reasoning step by step.
+This is the only type that converts to a universal of the same quantity.
+3
+Distinguish the rules for universal affirmative (A) and particular affirmative (I)
+Universal affirmative converts to particular affirmative (not universal), because the predicate is broader. Particular affirmative converts to like itself (particular affirmative). The author warns that external knowledge might suggest a universal conversion, but logically it remains particular.
+Remember: A→I (not A→A), I→I.
+4
+Confirm the rule for particular negative (O)
+The author shows that particular negative does not convert at all, because the converse would be false or not equivalent. For example, 'Some animal is not human' (true) converts to 'Some human is not animal' (false). Also, the universal negative is not a valid conversion.
+O is the only proposition type with no valid conversion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القسمة السادسة للقضية باعتبار عكسها : اعلم أنا نعني بالعكس أن يجعل المحمول من القضية موضوعاً والموضوع محمولاً مع حفظ الكيفية وبقاء الصدق بحاله، فإن لم يبق الصدق سُمّي انقلاباً لا انعكاساً والقضايا في عنصرها أربعة : الأولى : السالبة الكلية وتنعكس مثل نفسها بالضرورة فإنك تقول : لا إنسان واحد طائر ويلزم أنه لا طائر واحد إنسان، ونقول : لا طاعة واحدة معصية فيلزم أنه لا معصية واحدة طاعة ولزوم هذا ظاهر ولكن تحريره أنه إن لم يلزم أنه لا طائر واحد إنسان فإنما لا يلزم لأنه يمكن أن يكون بعض الطائر إنساناً، فإن أمكن ذلك بطل قولنا : لا إنسان واحد طائر لأن ذلك الطائر يكون إنساناً، فيكون ذلك الإنسان طائراً، فيرتفع الصدق من قولنا : لا إنسان واحد طائر، وقد وضعتها صادقة . والثانية : الموجبة الكلّية وتنعكس موجبة جزئية، فقولنا : كلّ إنسان حيوان ينعكس إلى أن بعض الحيوان إنسان ولا ينعكس كلّياً لأن المحمول وهو الحيوان يمكن أن يكون أعم من الموضوع، فيفضل طرف منه عن الموضوع الذي هو الإنسان في مثالنا، فلا يمكن أن يقال: كلّ حيوان إنسان إذ من الحيوانات غير الإنسان كالفرس ونحوه من سائر الأنواع الأخرى. والثالثة : السالبة الجزئية وهي لا تنعكس أصلاً، فإنّا نقول : حيوان ما ليس بإنسان فهو صادق وعكسه إنسان ما ليس بحيوان غير صادق ولا قولنا : كلّ إنسان ليس بحيوان يصح أن يكون عكساً لهذه، فلا تنعكس لا إلى كلية ولا إلى جزئية . والرابعة : الموجبة الجزئية وتنعكس مثل نفسها أعني موجبة جزئية فقولنا : بعض الناس كاتب يلزم منه أن بعض الكاتب إنسان فإن قلت : إنه يلزم منه أن كلّ كاتب إنسان ؛ فاعلم أن ذلك ليس يلزم من الإيجاب الجزئي من حيث إنه إيجاب جزئي، بل من حيث عرفت من خارج أنه لا كاتب سوى الإنسان، وإلا فمن الموجبة الجزئية ما لا يصدق انعكاسه كلّياً إذ تقول بعض الإنسان أبيض ولا يمكنك أن تقول كلّ أبيض إنسان بل اللازم بعض الأبيض إنسان. ولأجل كون الأمثلة في ذلك عدل المنطقيون من الأمثلة المكشوفة إلى المُبهمات وأعلموها بالحروف المعجمة ، وجعلوا المحمول معرّفاً بالباء والموضوع بالألف، وقالوا: كلّ (اب) أي هما شيئان مبهمان مختلفان سمّيناهما بهذين الاسمين، فيلزم منه بعض (ب) فقولنا : لا شيء من (اب) يلزم منه بعض (ب ا) وإيضاح ذلك بين فلسنا نُطْنِبُ، وإنما افتقرنا إلى معرفة العكس فإن بعض المقاييس يظهر وجه إنتاجها بالعكس، وربما ينتج القياس شيئاً ومطلوبنا عكسه، فيستبين بهذا أنه مهما أنتج القياس لنا سالبة كلية فقد أنتج أيضاً عكسها، وكذا في سائر الأقسام، والله أعلم بالصواب.
+The sixth division of the proposition with respect to its conversion: Know that by 'conversion' we mean making the predicate of the proposition the subject and the subject the predicate while preserving the quality and the truth remaining as it is. If the truth does not remain, it is called 'inversion' not 'conversion'. The propositions in their elements are four: First: The universal negative, and it converts to like itself necessarily. For you say: 'No human is a bird' and it entails that no bird is a human. And we say: 'No obedience is a sin' and it entails that no sin is an obedience. The entailment is obvious, but its verification: if it is not entailed that no bird is a human, it is only not entailed because it is possible that some bird is human. If that is possible, then our statement 'No human is a bird' would be false because that bird would be human, so that human would be a bird, and the truth of our statement 'No human is a bird' would be lifted, while we had posited it as true. Second: The universal affirmative, and it converts to a particular affirmative. Our saying 'Every human is an animal' converts to 'Some animal is human', and it does not convert universally because the predicate, 'animal', can be more general than the subject, so a part of it extends beyond the subject which is human in our example. So one cannot say 'Every animal is human' since among animals there is non-human like the horse and similar other species. Third: The particular negative, and it does not convert at all. For we say: 'Some animal is not human' is true, but its converse 'Some human is not animal' is not true. And our saying 'Every human is not an animal' cannot be a valid conversion for it, so it does not convert either to universal or to particular. Fourth: The particular affirmative, and it converts to like itself, i.e., particular affirmative. Our saying 'Some people are writers' entails that some writers are people. If you say: It entails that every writer is a person, know that this is not entailed from the particular affirmative as such, but from external knowledge that no writer exists except humans. Otherwise, there are particular affirmatives whose converse is not true universally, as when you say 'Some human is white' and you cannot say 'Every white is human', but the necessary is 'Some white is human'. Because of this, logicians have turned from explicit examples to ambiguous ones and designated them with unpointed letters, and made the predicate designated by 'b' and the subject by 'a', and said: 'Every a is b' — i.e., they are two ambiguous different things we named with these two names — then it entails 'Some b is a'. So our saying 'No a is b' entails 'Some b is a'? And its clarification is clear, so we do not go into length. We only need knowledge of conversion because some syllogisms show their mode of production through conversion, and sometimes the syllogism produces something while our desired conclusion is its converse. Thus it becomes clear that whenever a syllogism produces for us a universal negative, it also produces its converse, and similarly in the other divisions. And God knows best what is correct.
+Source pages p. 59
+
+Commentary
+This passage defines conversion (ʿaks) as swapping subject and predicate while preserving truth and quality; if truth is not preserved, it is called inversion (inqilāb). The author then classifies categorical propositions into four types with their conversion rules. (1) Universal negative (E) converts to universal negative (E): e.g., 'No human is a bird' gives 'No bird is a human'. The author provides a proof by contraposition: if some bird were human, then that human would be a bird, contradicting the original truth. (2) Universal affirmative (A) converts to particular affirmative (I): 'Every human is an animal' gives 'Some animal is human', not 'Every animal is human' because animal is broader. (3) Particular negative (O) does not convert: 'Some animal is not human' is true, but 'Some human is not animal' is false; 'Every human is not an animal' is not a valid conversion. (4) Particular affirmative (I) converts to particular affirmative (I): 'Some people are writers' gives 'Some writers are people'. The author warns that sometimes one might think it converts universally due to external knowledge (e.g., only humans are writers), but the pure logical conversion is only to particular. Finally, the author mentions that logicians use ambiguous letters (a, b) to avoid confusion from extra-logical knowledge, and notes the utility of conversion for syllogistic reasoning. The sentence about universal negative converting to particular appears to be a textual corruption; the standard rule is universal to universal.
+
+Key Terms
+عكس
+انقلاب
+محمول
+موضوع
+
+Key Terms from Source Passage
+
+Checkpoint
+Which proposition type converts to a particular affirmative?
+A) Universal affirmative
+B) Universal negative
+C) Particular affirmative
+D) Particular negative
+
+Key Takeaway
+The universal negative and particular affirmative convert to like themselves; the universal affirmative converts to particular affirmative; the particular negative does not convert.
+
+How This Lesson Applies — to MY Life?
+?
+1. Write the conversion of the universal affirmative 'Every intoxicant is forbidden' (كل مسكر حرام) and specify the resulting proposition type.
+?
+2. Explain, using the author's reasoning, why 'Some animal is not human' (بعض الحيوان ليس بإنسان) does not convert.
+
+Pages p. 59 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 59
+Module 18 · Lesson 3
+Next →
+Immediate Inference
+beginner
+10 min
+Rules of Conversion ('Aks) for the Four Propositions
+Author explains conversion of universal negative, universal affirmative, particular negative, and particular affirmative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to convert each of the four categorical propositions (universal negative, universal affirmative, particular negative, particular affirmative) correctly and identify the resulting proposition type.
+
+Core Idea
+Conversion swaps subject and predicate; universal negatives preserve universality, universal affirmatives become particular, particular negatives do not convert, particular affirmatives stay particular.
+
+This passage from the Mīyār al-ʿIlm explains the rules of conversion (al-ʿaks) for the four types of categorical propositions. The author, building on the standard logical tradition, illustrates each rule with concrete examples and then moves to abstract notation. Mastering these rules is essential for working with syllogisms, as many syllogistic arguments require conversion to expose their underlying validity.
+
+Guided Path
+1
+Identify the four proposition types
+Locate in the Arabic where the author separately discusses the universal negative, universal affirmative, particular negative, and particular affirmative. Note the examples given for each.
+2
+Extract the conversion rule for the universal negative
+From the initial example: 'No flying thing is a human' converts to 'No human is a flying thing'. This suggests universal negative (E) to universal negative (E). However, later with ambiguous letters the text states 'No A is B' entails 'Some B is A' (E to I), which is inconsistent; note this discrepancy as a possible scribal error.
+Standard rule: E → E.
+3
+Extract the conversion rule for the universal affirmative
+The passage states: 'Every human is an animal' converts to 'Some animal is a human' (A → I). It explains that it does not convert universally because the predicate is broader.
+4
+Extract the rules for particular negative and particular affirmative
+Particular negative (O) does not convert at all. Particular affirmative (I) converts to itself (I → I), but not to a universal unless external knowledge is added.
+5
+Apply the rules to Islamic examples
+Test the rules with a fiqh or kalam proposition, such as 'Every intoxicant is forbidden'. Convert it and verify you get a particular affirmative.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفن الثالث : في تركيب المعاني المفردة، أو القضايا. واحد طائر ويلزم أنه لا طائر واحد إنسان، ونقول : لا طاعة واحدة معصية فيلزم أنه لا معصية واحدة طاعة ولزوم هذا ظاهر ولكن تحريره أنه إن لم يلزم أنه لا طائر واحد إنسان فإنما لا يلزم لأنه يمكن أن يكون بعض الطائر إنساناً، فإن أمكن ذلك بطل قولنا : لا إنسان واحد طائر لأن ذلك الطائر يكون إنساناً، فيكون ذلك الإنسان طائراً، فيرتفع الصدق من قولنا : لا إنسان واحد طائر، وقد وضعتها صادقة . والثانية : الموجبة الكلّية وتنعكس موجبة جزئية، فقولنا : كلّ إنسان حيوان ينعكس إلى أن بعض الحيوان إنسان ولا ينعكس كلّياً لأن المحمول وهو الحيوان يمكن أن يكون أعم من الموضوع، فيفضل طرف منه عن الموضوع الذي هو الإنسان في مثالنا، فلا يمكن أن يقال: كلّ حيوان إنسان إذ من الحيوانات غير الإنسان كالفرس ونحوه من سائر الأنواع الأخرى. والثالثة : السالبة الجزئية وهي لا تنعكس أصلاً، فإنّا نقول : حيوان ما ليس بإنسان فهو صادق وعكسه إنسان ما ليس بحيوان غير صادق ولا قولنا : كلّ إنسان ليس بحيوان يصح أن يكون عكساً لهذه، فلا تنعكس لا إلى كلية ولا إلى جزئية . والرابعة : الموجبة الجزئية وتنعكس مثل نفسها أعني موجبة جزئية فقولنا : بعض الناس كاتب يلزم منه أن بعض الكاتب إنسان فإن قلت : إنه يلزم منه أن كلّ كاتب إنسان ؛ فاعلم أن ذلك ليس يلزم من الإيجاب الجزئي من حيث إنه إيجاب جزئي، بل من حيث عرفت من خارج أنه لا كاتب سوى الإنسان، وإلا فمن الموجبة الجزئية ما لا يصدق انعكاسه كلّياً إذ تقول بعض الإنسان أبيض ولا يمكنك أن تقول كلّ أبيض إنسان بل اللازم بعض الأبيض إنسان. ولأجل كون الأمثلة في ذلك عدل المنطقيون من الأمثلة المكشوفة إلى المُبهمات وأعلموها بالحروف المعجمة، وجعلوا المحمول معرّفاً بالباء والموضوع بالألف، وقالوا: كلّ (اب) أي هما شيئان مبهمان مختلفان سمّيناهما بهذين الاسمين، فيلزم منه بعض (ب) (١) فقولنا : لا شيء من (اب) يلزم منه بعض (ب ا) وإيضاح ذلك بين فلسنا نُطْنِبُ، وإنما افتقرنا إلى معرفة العكس فإن بعض المقاييس يظهر وجه إنتاجها بالعكس، وربما ينتج القياس شيئاً ومطلوبنا عكسه، فيستبين بهذا أنه مهما أنتج القياس لنا سالبة كلية فقد أنتج أيضاً عكسها، وكذا في سائر الأقسام، والله أعلم بالصواب.
+The third art: on the composition of simple meanings, i.e., propositions. 'One flying [thing]' and it necessitates that 'No flying thing is a human'. And we say: 'No act of obedience is an act of disobedience' so it necessitates that 'No act of disobedience is an act of obedience'. The necessity of this is apparent, but its verification is that if it does not necessitate that 'No flying thing is a human', then it does not necessitate only because it is possible that some flying thing is a human. If that is possible, then our statement 'No human is a flying thing' becomes false, because that flying thing would be a human, and so that human would be a flying thing, and thus truth is removed from our statement 'No human is a flying thing', while we had posited it as true. The second: the universal affirmative, and it converts to a particular affirmative. So our statement 'Every human is an animal' converts to 'Some animal is a human', and it does not convert universally because the predicate, which is 'animal', can be more general than the subject, so a portion of it is in excess of the subject, which is 'human' in our example. Thus it cannot be said 'Every animal is a human', since among animals are other than humans, such as horse and the rest of other species. The third: the particular negative, and it does not convert at all. For we say: 'Some animal is not a human' is true, and its converse 'Some human is not an animal' is not true, nor can our statement 'Every human is not an animal' be a valid converse for it. So it does not convert either to a universal or to a particular. The fourth: the particular affirmative, and it converts to the same as itself, i.e., a particular affirmative. So our statement 'Some people are writers' entails that 'Some writers are people'. If you say: 'It entails that every writer is a person', then know that this does not follow from the particular affirmative insofar as it is a particular affirmative, but rather because you know from external knowledge that there is no writer other than humans. Otherwise, among particular affirmatives there are those whose converse is not true universally, as when you say 'Some human is white' and you cannot say 'Every white thing is a human', but rather the necessary consequence is 'Some white thing is a human'. And because of the examples being like that, the logicians turned from concrete examples to ambiguous ones and marked them with dotted letters, and they made the predicate defined by the letter B and the subject by the letter A, and said: 'Every (AB)' — i.e., they are two ambiguous, different things which we have named by these two names — so it entails 'Some (B A)'. So our statement 'No (AB)' entails 'Some (B A)'. The clarification of this is clear, so we do not go into detail. We only needed to know conversion because some syllogisms show their validity by conversion, and perhaps the syllogism produces something while what we seek is its converse. Thus it becomes evident by this that whenever the syllogism produces for us a universal negative, it also produces its converse, and likewise in the other divisions. And Allah knows best what is correct.
+Source pages p. 59
+
+Commentary
+This passage is an exposition of the rules of conversion (al-'aks) for categorical propositions. The author, likely expanding on a standard matn, begins by illustrating the conversation of the universal negative (saliba kulliya) with an example: 'No flying thing is a human' converts to 'No human is a flying thing'. He then verifies the logical necessity of this by showing that if the converse were false, the original would also be false. Next, he explains the universal affirmative (mujiba kulliya), which only converts to a particular affirmative: 'Every human is an animal' becomes 'Some animal is a human' but not 'Every animal is a human' because the predicate is broader (a'mm) than the subject. He gives the example of other animals like horses. Then he addresses the particular negative (saliba juz'iyya), which does not convert at all: 'Some animal is not a human' is true, but its converse 'Some human is not an animal' is false, and no universal converse works either. Finally, the particular affirmative (mujiba juz'iyya) converts to another particular affirmative: 'Some people are writers' gives 'Some writers are people'. However, he warns that if you know that all writers are human from external knowledge, then the converse could be 'Every writer is a person', but this is not due to the nature of the proposition itself. He gives the example of 'Some human is white' to show that 'Every white thing is a human' is false. The author then notes that to avoid such confusions, logicians use ambiguous letters (A and B) instead of concrete terms, so that the conversion rule is purely logical. They say: 'Every A is B' converts to 'Some B is A'; 'No A is B' converts to 'No B is A' (or 'Some B is not A'? Actually he writes 'No (AB)' entails 'Some (B A)' which is the standard conversion of the universal negative to a particular affirmative? The text is a bit confusing here; it says 'لا شيء من (اب) يلزم منه بعض (ب ا)' which is the conversion of universal negative to particular affirmative. But earlier he said universal negative converts to universal negative? Actually the standard rule: universal negative (E) converts to universal negative (E). But the text says 'لا شيء من (اب) يلزم منه بعض (ب ا)' which is 'No A is B' entails 'Some B is not A'? That would be converting E to O, which is not valid. There might be an OCR issue. Let me check the original: 'لا شيء من (اب) يلزم منه بعض (ب ا)'. This looks like it says 'No A is B' entails 'Some B is A'? That would be incorrect. Perhaps the intended is 'لا شيء من (اب) يلزم منه لا شيء من (ب ا)' (No A is B entails No B is A). But the OCR has 'بعض'. Given the context, the author may be stating the conversion of universal negative incorrectly? More likely it's a typo in the manuscript. I will note this in commentary. However, the main lesson is the conversion rules. The author concludes that knowing conversion helps in syllogistic reasoning, as some syllogisms produce a conclusion and we may need its converse. This passage is essential for understanding immediate inference.
+
+Key Terms
+عكس
+سالبة كلية
+موجبة كلية
+سالبة جزئية
+موجبة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the correct conversion of the universal affirmative proposition 'Every intoxicant (khamr) is forbidden (haram)'?
+A) Every forbidden thing is an intoxicant.
+B) Some forbidden thing is an intoxicant.
+C) No forbidden thing is an intoxicant.
+D) Some intoxicant is not forbidden.
+
+Key Takeaway
+The conversion rules for categorical propositions are: E → E, A → I, I → I, O has no valid converse, though the text shows a potential inconsistency for E conversion in the lettered version.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative proposition: 'Every intoxicant (khamr) is forbidden (haram)' into its valid converse. State the type of the converse.
+?
+Explain why the particular negative proposition 'Some animal is not a human' has no valid converse, using the example from the passage.
+
+Pages p. 59 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 59
+Module 18 · Lesson 4
+Next →
+Immediate Inference
+intermediate
+10 min
+The Use of Ambiguous Letters (al-Mubhamāt) in Logical Conversion
+Author explains conversion of universal negative, universal affirmative, particular negative, and particular affirmative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why logicians replace concrete terms with ambiguous letters in conversion rules and represent any conversion using abstract notation.
+
+Core Idea
+Ambiguous letters (أ, ب) strip away accidental content to reveal the pure logical form of conversion.
+
+The author explains that to avoid confusion from concrete examples, logicians use ambiguous letters (al-mubhamāt) marked with diacritical points. This abstraction allows them to state conversion rules without being misled by accidental features of specific terms. In this lesson, we explore the motivation for this abstraction and how to apply it.
+
+Guided Path
+1
+Identify the concrete examples and their pitfalls
+In the earlier examples, the particular affirmative 'Some people are writers' might be mistakenly thought to convert to 'Every writer is a person' due to external knowledge that all writers are human. Note this as the problem.
+2
+Understand the logicians' solution: ambiguous letters
+The author states that logicians turned from concrete examples to ambiguous ones (mubhamāt) and marked them with dotted letters. They used the letter A for the subject and B for the predicate, saying 'Every (AB)' etc. This strips away all content.
+3
+Decode the abstract conversion rules given in the passage
+The passage gives: 'Every A is B' entails 'Some B is A' (A → I). For 'No A is B' it says entails 'Some B is A' (E → I), which is non-standard. Recognize that the standard rule is E → E; the text may have an error. For our purposes, we adopt the standard rule that universal negative converts to universal negative.
+Standard: E → E; manuscript may have error.
+4
+Apply the abstract rule to a new Islamic example
+Take a concrete kalam proposition: 'No created thing is eternal'. Let A = created things, B = eternal things. Write 'No A is B' then its valid converse 'No B is A'.
+5
+Generalize the use of abstraction
+Understand that ambiguous letters allow logicians to state rules in a purely formal way, applicable to any content. This is a key tool in Islamic logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفن الثالث : في تركيب المعاني المفردة، أو القضايا. واحد طائر ويلزم أنه لا طائر واحد إنسان، ونقول : لا طاعة واحدة معصية فيلزم أنه لا معصية واحدة طاعة ولزوم هذا ظاهر ولكن تحريره أنه إن لم يلزم أنه لا طائر واحد إنسان فإنما لا يلزم لأنه يمكن أن يكون بعض الطائر إنساناً، فإن أمكن ذلك بطل قولنا : لا إنسان واحد طائر لأن ذلك الطائر يكون إنساناً، فيكون ذلك الإنسان طائراً، فيرتفع الصدق من قولنا : لا إنسان واحد طائر، وقد وضعتها صادقة . والثانية : الموجبة الكلّية وتنعكس موجبة جزئية، فقولنا : كلّ إنسان حيوان ينعكس إلى أن بعض الحيوان إنسان ولا ينعكس كلّياً لأن المحمول وهو الحيوان يمكن أن يكون أعم من الموضوع، فيفضل طرف منه عن الموضوع الذي هو الإنسان في مثالنا، فلا يمكن أن يقال: كلّ حيوان إنسان إذ من الحيوانات غير الإنسان كالفرس ونحوه من سائر الأنواع الأخرى. والثالثة : السالبة الجزئية وهي لا تنعكس أصلاً، فإنّا نقول : حيوان ما ليس بإنسان فهو صادق وعكسه إنسان ما ليس بحيوان غير صادق ولا قولنا : كلّ إنسان ليس بحيوان يصح أن يكون عكساً لهذه، فلا تنعكس لا إلى كلية ولا إلى جزئية . والرابعة : الموجبة الجزئية وتنعكس مثل نفسها أعني موجبة جزئية فقولنا : بعض الناس كاتب يلزم منه أن بعض الكاتب إنسان فإن قلت : إنه يلزم منه أن كلّ كاتب إنسان ؛ فاعلم أن ذلك ليس يلزم من الإيجاب الجزئي من حيث إنه إيجاب جزئي، بل من حيث عرفت من خارج أنه لا كاتب سوى الإنسان، وإلا فمن الموجبة الجزئية ما لا يصدق انعكاسه كلّياً إذ تقول بعض الإنسان أبيض ولا يمكنك أن تقول كلّ أبيض إنسان بل اللازم بعض الأبيض إنسان. ولأجل كون الأمثلة في ذلك عدل المنطقيون من الأمثلة المكشوفة إلى المُبهمات وأعلموها بالحروف المعجمة، وجعلوا المحمول معرّفاً بالباء والموضوع بالألف، وقالوا: كلّ (اب) أي هما شيئان مبهمان مختلفان سمّيناهما بهذين الاسمين، فيلزم منه بعض (ب) (١) فقولنا : لا شيء من (اب) يلزم منه بعض (ب ا) وإيضاح ذلك بين فلسنا نُطْنِبُ، وإنما افتقرنا إلى معرفة العكس فإن بعض المقاييس يظهر وجه إنتاجها بالعكس، وربما ينتج القياس شيئاً ومطلوبنا عكسه، فيستبين بهذا أنه مهما أنتج القياس لنا سالبة كلية فقد أنتج أيضاً عكسها، وكذا في سائر الأقسام، والله أعلم بالصواب.
+The third art: on the composition of simple meanings, i.e., propositions. 'One flying [thing]' and it necessitates that 'No flying thing is a human'. And we say: 'No act of obedience is an act of disobedience' so it necessitates that 'No act of disobedience is an act of obedience'. The necessity of this is apparent, but its verification is that if it does not necessitate that 'No flying thing is a human', then it does not necessitate only because it is possible that some flying thing is a human. If that is possible, then our statement 'No human is a flying thing' becomes false, because that flying thing would be a human, and so that human would be a flying thing, and thus truth is removed from our statement 'No human is a flying thing', while we had posited it as true. The second: the universal affirmative, and it converts to a particular affirmative. So our statement 'Every human is an animal' converts to 'Some animal is a human', and it does not convert universally because the predicate, which is 'animal', can be more general than the subject, so a portion of it is in excess of the subject, which is 'human' in our example. Thus it cannot be said 'Every animal is a human', since among animals are other than humans, such as horse and the rest of other species. The third: the particular negative, and it does not convert at all. For we say: 'Some animal is not a human' is true, and its converse 'Some human is not an animal' is not true, nor can our statement 'Every human is not an animal' be a valid converse for it. So it does not convert either to a universal or to a particular. The fourth: the particular affirmative, and it converts to the same as itself, i.e., a particular affirmative. So our statement 'Some people are writers' entails that 'Some writers are people'. If you say: 'It entails that every writer is a person', then know that this does not follow from the particular affirmative insofar as it is a particular affirmative, but rather because you know from external knowledge that there is no writer other than humans. Otherwise, among particular affirmatives there are those whose converse is not true universally, as when you say 'Some human is white' and you cannot say 'Every white thing is a human', but rather the necessary consequence is 'Some white thing is a human'. And because of the examples being like that, the logicians turned from concrete examples to ambiguous ones and marked them with dotted letters, and they made the predicate defined by the letter B and the subject by the letter A, and said: 'Every (AB)' — i.e., they are two ambiguous, different things which we have named by these two names — so it entails 'Some (B A)'. So our statement 'No (AB)' entails 'Some (B A)'. The clarification of this is clear, so we do not go into detail. We only needed to know conversion because some syllogisms show their validity by conversion, and perhaps the syllogism produces something while what we seek is its converse. Thus it becomes evident by this that whenever the syllogism produces for us a universal negative, it also produces its converse, and likewise in the other divisions. And Allah knows best what is correct.
+Source pages p. 59
+
+Commentary
+This passage is an exposition of the rules of conversion (al-'aks) for categorical propositions. The author, likely expanding on a standard matn, begins by illustrating the conversation of the universal negative (saliba kulliya) with an example: 'No flying thing is a human' converts to 'No human is a flying thing'. He then verifies the logical necessity of this by showing that if the converse were false, the original would also be false. Next, he explains the universal affirmative (mujiba kulliya), which only converts to a particular affirmative: 'Every human is an animal' becomes 'Some animal is a human' but not 'Every animal is a human' because the predicate is broader (a'mm) than the subject. He gives the example of other animals like horses. Then he addresses the particular negative (saliba juz'iyya), which does not convert at all: 'Some animal is not a human' is true, but its converse 'Some human is not an animal' is false, and no universal converse works either. Finally, the particular affirmative (mujiba juz'iyya) converts to another particular affirmative: 'Some people are writers' gives 'Some writers are people'. However, he warns that if you know that all writers are human from external knowledge, then the converse could be 'Every writer is a person', but this is not due to the nature of the proposition itself. He gives the example of 'Some human is white' to show that 'Every white thing is a human' is false. The author then notes that to avoid such confusions, logicians use ambiguous letters (A and B) instead of concrete terms, so that the conversion rule is purely logical. They say: 'Every A is B' converts to 'Some B is A'; 'No A is B' converts to 'No B is A' (or 'Some B is not A'? Actually he writes 'No (AB)' entails 'Some (B A)' which is the standard conversion of the universal negative to a particular affirmative? The text is a bit confusing here; it says 'لا شيء من (اب) يلزم منه بعض (ب ا)' which is the conversion of universal negative to particular affirmative. But earlier he said universal negative converts to universal negative? Actually the standard rule: universal negative (E) converts to universal negative (E). But the text says 'لا شيء من (اب) يلزم منه بعض (ب ا)' which is 'No A is B' entails 'Some B is not A'? That would be converting E to O, which is not valid. There might be an OCR issue. Let me check the original: 'لا شيء من (اب) يلزم منه بعض (ب ا)'. This looks like it says 'No A is B' entails 'Some B is A'? That would be incorrect. Perhaps the intended is 'لا شيء من (اب) يلزم منه لا شيء من (ب ا)' (No A is B entails No B is A). But the OCR has 'بعض'. Given the context, the author may be stating the conversion of universal negative incorrectly? More likely it's a typo in the manuscript. I will note this in commentary. However, the main lesson is the conversion rules. The author concludes that knowing conversion helps in syllogistic reasoning, as some syllogisms produce a conclusion and we may need its converse. This passage is essential for understanding immediate inference.
+
+Key Terms
+مبهمات
+حروف معجمة
+عكس
+سالبة كلية
+موجبة كلية
+
+Key Terms from Source Passage
+
+Checkpoint
+Why do logicians use ambiguous letters (al-mubhamāt) when stating conversion rules?
+A) To make the rules harder to understand
+B) To avoid confusion from examples where external knowledge affects the truth of the converse
+C) Because they don't know concrete terms
+D) To save writing space
+
+Key Takeaway
+Ambiguous letters allow logicians to state conversion rules in a purely formal way, independent of the content of the terms, ensuring the rule's generality, though the passage contains a non-standard rule for universal negative conversion.
+
+How This Lesson Applies — to MY Life?
+?
+Express the conversion of 'No created thing is eternal' using ambiguous letters (أ and ب), assuming 'created' is A and 'eternal' is B. First, write the original proposition in letters, then its converse as per the passage's rule, and then its correct converse per standard logic.
+
+Pages p. 59 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 110
+Module 18 · Lesson 5
+Next →
+Immediate Inference
+intermediate
+10 min
+Refuting Sophistry in Universal Negative Conversion
+Author presents and refutes a sophistical objection to the conversion of universal negative propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and refute sophistical objections to the conversion of universal negatives by distinguishing between simple essences and relational predicates.
+
+Core Idea
+Conversion of universal negatives holds for simple essences, not for relational predicates.
+
+Logical rules can appear to fail when applied carelessly. Here a sophist attacks the universal negative conversion rule using misleading examples like 'No wall is in a peg'. The author vindicates the rule by showing that the predicate is not a simple term but a relation. This lesson will equip you to spot such equivocations and defend conversion.
+
+Guided Path
+1
+Identify the rule under attack
+The rule is that a universal negative proposition (e.g., 'No A is B') converts simply to 'No B is A'. Confirm that the author affirms this rule and the sophist disputes it.
+The rule is based on mutual exclusivity (mubāyana): if A and B are mutually exclusive, conversion is necessary.
+2
+Examine the sophist's counterexample
+The sophist offers 'No wall is in a peg' (true) but claims converted 'No peg is in a wall' is false. Similarly 'No wine is in a jar' vs 'No jar is wine'. Note that these involve relational predicates like 'in a peg' and 'in a jar'.
+The sophist treats these as simple universal negatives, but the predicate is not a bare term.
+3
+Analyze the author's diagnosis
+The author explains that for conversion, the predicate must be the bare essence (dhāt). In 'No wall is in a peg', the predicate is 'in a peg', not 'peg'. Properly converted: 'Everything that is in a peg is not a wall', which is true.
+The key is that the subject and predicate in the original must be simple terms, not relational phrases.
+4
+Apply the correct conversion
+Take a proper example: 'No jar is wine' converts to 'No wine is a jar' because jar and wine are mutually exclusive by essence. Contrast with relational examples where the relation must be preserved.
+The rule applies only when both terms are essences; relational modifiers complicate conversion.
+5
+Generalize the principle
+The sophist's error is confusing words with meanings. To avoid such sophistry, always check whether terms are simple or relational. The conversion rule for universal negatives is sound when correctly applied.
+Mutual exclusivity (mubāyana) between two classes is always two-sided if the classes are taken as essences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الأول : ما يرجع إلى صورة القياس؛ فمنها قول القائل : إن من أظهر ما ذكرتموه قولكم : إن السالبة الكلّية تنعكس مثل نفسها، فإذا قلنا : لا إنسان واحد حجر لزم منه قولنا : لا حجر واحد إنسان، وتظنون أن هذا ضروري لا يتصوّر أن يختلف، وهو خطأ إذ حكم الحس به في موضع فظنّ أنه صادق في كل موضع. فإنا نقول : لا حائط واحد في وتد ولا نقول : لا وتد واحد في حائط، ونقول : لا واحد في شراب ولا نقول : لا شراب واحد دَنّ، فنقول: نحن ادّعينا أن ذات المحمول مهما عكس على ذات الموضوع بعينه اقتضى ما ذكرناه كما نقول : لا دَن واحد شراب فلا جرم يلزم بالضرورة أنه لا شراب واحد دَنّ، لأن المباينة إذا وقعت بين شيئين كلية كانت من الجانبين، إذ لو فرض الاتصال في البعض كذبت كون المباينة كلية، وهذا المثال لم يعكس على وجهه ولم يحصل المعنيان اللذان المباينة بينهما، فإذا حصل لزم العكس فإنّا إذا قلنا لا حائط واحد في الوتد . فالمحمول :قولنا في الوتد لا مُجرّد الوتد، فإذا وقعت المباينة الشيء الذي قدرناه في الوتد فعكسه لازم وهو أن كلّ ما هو في الوتد فليس بحائط، فلا جرم نقول : لا شيء واحد مما هو في الوتد حائط ولا شيء واحد مما هو في الشراب دنّ، وحلّ هذا إنما يعسر على من يتلقى هذه الأمور من اللفظ لا من المعنى. وأكثر الأذهان يعسر عليها درك مجردات المعاني من غير التفات إلى الألفاظ .
+The first: What pertains to the form of the syllogism. From these is the saying of someone: Among the most evident of what you have mentioned is your statement that the universal negative converts into its like. So if we say: No human is a stone, it entails our saying: No stone is a human. You think this is necessary and cannot differ, but it is an error, for judgment by sense in one place leads one to think it is true in every place. For we say: No wall is in a peg, and we do not say: No peg is in a wall; and we say: No wine is in a jar, but we do not say: No jar is wine. We say: We claimed that the essence of the predicate, whenever it is converted upon the essence of the subject itself, necessitates what we mentioned, as we say: No jar is wine, so necessarily it follows that no wine is a jar, because separation (mutual exclusivity) when it occurs between two things is universal from both sides, for if connection in part were supposed, it would falsify the separation being universal. This example is not converted properly, and the two meanings between which there is separation are not obtained. When they are obtained, the conversion is necessary. For if we say: No wall is in the peg, the predicate is our saying 'in the peg', not merely the peg. So when separation occurs from the thing we estimated in the peg, its converse is necessary, that everything that is in the peg is not a wall. So necessarily we say: No single thing that is in the peg is a wall, and no single thing that is in the wine is a jar. The solution to this is difficult only for one who receives these matters from wording rather than meaning. Most minds find it hard to grasp abstract meanings without attention to words.
+Source pages p. 110
+
+Commentary
+This passage is a critical refutation of a sophistical objection to the logical rule that a universal negative proposition converts simply (e.g., 'No A is B' implies 'No B is A'). The sophist gives counterexamples: 'No wall is in a peg' is true, but 'No peg is in a wall' is false (pegs can be in walls). Similarly, 'No wine is in a jar' is true, but 'No jar is wine' is false (jars are not wine). The author explains that the rule applies only when the subject and predicate are the same essence (ذات). In the examples, the predicate includes a relation ('in the peg', 'in the jar'), not the bare term. Properly, if we say 'No jar is wine', then 'No wine is a jar' follows because 'jar' and 'wine' are mutually exclusive by essence. In the wall-peg example, the subject is 'wall' and predicate is 'in the peg', which is a relational concept, so the conversion would be: 'Everything that is in the peg is not a wall', which is true. The sophist's error is to confuse the bare term with the relational phrase. The author concludes that difficulty in solving such puzzles arises from focusing on words rather than meanings. Most people struggle to grasp abstract meanings independently of linguistic form.
+
+Key Terms
+السالبة الكلية
+انعكاس
+المباينة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author claim that the sophist's example 'No wall is in a peg' does not refute the conversion of universal negative?
+A) Because the proposition is not actually universal.
+B) Because the predicate 'in a peg' is not a simple term (ذات) but a relational phrase.
+C) Because the example is false.
+D) Because the conversion rule only applies to affirmative propositions.
+
+Key Takeaway
+Universal negative conversion is valid when the terms are simple essences; relational predicates require preserving the relation in conversion.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the proposition: 'No riba (usury) is halal'. Perform the conversion and explain why it is valid. Then, examine 'No ghusl is valid without water'. Why is converting this to 'No water is valid without ghusl' invalid? Refer to the lesson's principle of simple vs. relational predicates.
+?
+Identify whether the following objection to conversion is sophistical: 'You say “No prayer is valid without purification” converts to “No purification is valid without prayer”, which is false because purification is valid even without prayer.' Analyze using the author's method.
+
+Pages p. 110 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 110
+Module 18 · Lesson 6
+Next →
+Immediate Inference
+intermediate
+7 min
+Temporal Equivocation in Conversion of Universal Affirmative
+Refutation of a sophistical objection to universal affirmative conversion
+
+Learning Objective
+By the end of this lesson, you will be able to identify the temporal equivocation fallacy in a proposed counterexample to conversion and explain why the conversion rule remains valid.
+
+Core Idea
+Conversion of universal affirmative requires synchronic terms; temporal shift invalidates the example.
+
+The conversion rule for universal affirmative propositions states: 'Every A is B' implies 'Some B is A'. A sophist objects with a temporal example: 'Every old man has been young' is true, but 'Some young men have been old' is false. This lesson dissects the sophism and shows why the rule holds when terms are taken in the same time.
+
+Guided Path
+1
+State the conversion rule
+Recall that for a universal affirmative proposition 'Every A is B', the valid immediate inference is 'Some B is A'. This is taught in Mantiq as a standard conversion (inʿikās).
+The rule assumes that the terms A and B are used in the same sense and time.
+2
+Identify the sophist's example
+The sophist presents: 'Every old man has been young' (كل شيخ قد كان شاباً). This is a universal affirmative proposition. According to the rule, it should convert to 'Some young (man) has been old' – but that seems false because young men are not yet old.
+The example uses past tense in the predicate, introducing a temporal dimension.
+3
+Recognize the temporal shift
+In the original proposition, 'has been young' refers to the past state of old men. In the converted proposition, 'young (men)' refers to present young individuals. The predicate 'has been old' would require those young men to have been old in the past, which is false for those currently young.
+The sophist's objection works only if one fails to notice that the terms are not taken in the same temporal reference.
+4
+Understand why the rule is not violated
+Standard conversion rules assume temporally univocal propositions (i.e., both subject and predicate are considered at the same time). The sophist's example mixes past and present, making it a different type of proposition (e.g., a modal or historical statement). The rule does not apply here.
+In formal logic, conversion of 'Every old man has been young' would require the predicate to be understood as 'has been young' for each old man, but the converse would be 'Some entity that has been young is an old man', not 'Some young man has been old'.
+5
+Reflect on the lesson's incompleteness
+The original text cuts off before the author gives his full refutation, but based on standard Mantiq, the flaw is temporal equivocation. The rule remains valid for simple categorical propositions without tense changes.
+This highlights the importance of precise term usage in logical analysis.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ومنها قول القائل : ادعيتم أن الموجبة الكلّية تنعكس موجبة جزئية، حتى إذا صح قولنا : كلّ إنسان حيوان صح قولنا لا محالة : بعض الحيوان إنسان. وليس كذلك فإنا نقول : كلّ شيخ قد كان شاباً ولا نقول بعض الشبان قد كان شيخاً، وكلّ
+And among them is the saying of someone: You claim that the universal affirmative converts into a particular affirmative, so that if our saying 'Every human is an animal' is true, then our saying 'Some animal is human' is necessarily true. But it is not so, for we say: 'Every old man has been young', but we do not say: 'Some young men have been old men', and every...
+Source pages p. 110
+
+Commentary
+This passage begins a second sophistical objection concerning the conversion of universal affirmative propositions. The rule states that 'Every A is B' implies 'Some B is A'. The sophist provides a counterexample: 'Every old man has been young' is true, but 'Some young men have been old men' is false (since young men have not yet become old). The objection is that the conversion rule fails because the time reference changes. The text cuts off before the author's solution, but based on standard logic, the issue is that the predicate in 'Every old man has been young' involves a past tense, and conversion preserves the tense? Or the term 'old man' and 'young' are not co-extensive in the same temporal sense. Usually, the rule requires synchronic predication. This lesson is incomplete as the author's answer is missing.
+
+Key Terms
+الموجبة الكلية
+انعكاس
+
+Key Terms from Source Passage
+
+Checkpoint
+In the sophist's objection, why does the example 'Every old man has been young' seem to break the conversion rule?
+A) Because 'old man' and 'young' are not mutually exclusive categories.
+B) Because the proposition is not actually universal affirmative.
+C) Because the conversion would require the tense to be preserved, and 'Some young (now) have been old' is false.
+D) Because the example is about temporal change, not essence.
+
+Key Takeaway
+Conversion of universal affirmative is valid only when terms are univocal in time; temporal shifting creates a fallacy of equivocation, not a genuine counterexample.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: The proposition 'Every prophet has been sent' is a universal affirmative with a past-tense predicate. Attempt to convert it. Does the conversion rule hold? Explain the temporal issue.
+?
+Task 2: Consider the proposition 'Every legal guardian is responsible' (true at any time). Convert it and verify the truth of the converse using Islamic family law examples.
+
+Pages p. 110 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 152
+Module 18 · Lesson 7
+Next →
+Immediate Inference
+beginner
+5 min
+The Rule of Cause and Effect in Logical Reasoning
+Author explains the logical relationship between cause and effect.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the correct causal implication rule and identify the fallacy of reversing the causal arrow.
+
+Core Idea
+Cause necessitates effect; effect absent implies cause absent, but not that effect caused cause's removal.
+
+The relationship between cause and effect is foundational in Islamic logic, especially in kalam and usul al-fiqh. This passage from the Mi'yar al-'Ilm gives a concise rule: the existence of a cause necessitates the existence of its effect, but the absence of the effect only tells us that the cause was absent before it. It warns against the common mistake of thinking the effect's removal causes the cause's removal.
+
+Guided Path
+1
+Identify the three statements
+Read the Arabic passage and list the three claims: (1) If cause exists, effect exists. (2) If effect does not exist, cause must have been absent prior. (3) If cause is removed, effect is removed. Mark which are direct and which are contrapositive.
+2
+Distinguish between necessitation and implication
+Notice that claim (2) is a logical consequence of (1) by contraposition, but the author clarifies that the removal of the effect does not generate a new cause; it merely indicates prior removal of the cause. This guards against the fallacy of reversing causation.
+3
+Apply to a kalam example
+Consider the argument: 'The world is temporally originated (an effect). Therefore it must have a cause (the Creator).' Using the rule, if the world were not temporally originated, we could infer that the cause was absent, but not that the absence of temporality caused the absence of the cause. This prevents the atheist from arguing that if the world were eternal, then God would not exist.
+This is often a point of confusion in arguments about God's existence.
+4
+Identify the fallacy in common objections
+When someone says, 'If God exists, then the world would have a purpose. The world has no purpose, so God does not exist,' the passage teaches that the absence of a proposed effect (purpose) can only tell us something about the cause if we already know the effect is necessary. But if the effect is not necessary, the inference fails. More precisely, the removal of an effect does not by itself prove the removal of the cause unless the effect is inseparable.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+العلة، فإذا فرض موجوداً لزم أن يتبع وجوده وجود المعلول، وإذا كان المعلول مرفوعاً لزم أن يحكم أن العلة كانت أولاً مرفوعة حتى رفع هذا، لا أن رفع المعلول أوجب رفع العلّة، وأما العلة فإذا رفعناها وجب رفع المعلول بإيجاب رفع العلّة .
+The cause: if it is assumed existent, then its existence necessitates the existence of the effect. And if the effect is removed, then it must be judged that the cause was first removed such that this was removed, not that the removal of the effect necessitated the removal of the cause. As for the cause, if we remove it, the removal of the effect is necessitated by the necessitation of the removal of the cause.
+Source pages p. 152
+
+Commentary
+This passage is a concise logical principle about the relationship between cause ('illa) and effect (ma'lul). The author states three points: First, if a cause is present, its effect must be present. Second, if an effect is absent, it implies that its cause must have been absent beforehand, but it is not that the absence of the effect caused the absence of the cause. Third, if the cause is removed, the effect is necessarily removed as well. This is a fundamental rule in causal reasoning, often used in kalam for arguments about the temporality of the world and in usul al-fiqh for determining the effective cause of rulings. The passage guards against the misunderstanding that the removal of an effect could cause the removal of its cause.
+
+Key Terms
+العلة
+المعلول
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if an effect is not present, what must be true about its cause?
+A) The cause is present but ineffective
+B) The cause was removed before the effect was removed
+C) The effect caused its own removal
+D) The cause is eternal
+
+Key Takeaway
+The passage establishes the correct logical relationship between cause and effect: the cause necessitates the effect, and the absence of the effect implies prior absence of the cause, but not that the effect is the cause of the cause's absence.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument in fiqh: 'If nabidh is an intoxicant (al-illa), then it is haram (al-ma'lul). Nabidh is not an intoxicant. What can you conclude about its hukm? Apply the rule from this passage and explain whether the conclusion is valid or if a fallacy has occurred.'
+?
+In a debate about God's knowledge, someone says: 'If God knows all particulars, then the world is determined. The world is not completely determined, so God does not know all particulars.' Identify the logical misstep based on the cause-effect rule taught in this lesson.
+
+Pages p. 152 · Immediate Inference
+← Prev
+Mark Done
+Next →

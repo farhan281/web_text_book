@@ -1,0 +1,665 @@
+← Prev
+p. 23
+Module 5 · Lesson 1
+Next →
+Dialectic -- Jadal
+intermediate
+10 min
+Resolving Circularity: The Omitted Genitive in Dialectic
+Dialectical exchange: objector claims preface is part of logic; commentator refutes via omitted genitive.
+
+Learning Objective
+By the end of this lesson, you will be able to resolve a circular definition objection by identifying an omitted genitive construction (mudaf mahdhuf) in dialectical reasoning.
+
+Core Idea
+An omitted genitive can dissolve a circularity objection by shifting from science to book.
+
+This passage presents a classic dialectical exchange: an objector argues that if the preface contains what must be known before logic, then it becomes part of logic, leading to an impossible circularity. The commentator refutes by positing an omitted genitive ('books of logic'), showing the preface is part of the book, not the science. This technique is common in Islamic logical and legal debates.
+
+Guided Path
+1
+Identify the objection
+Find the objector's claim: the preface must be part of logic because it contains what must be known in logic. Locate the Arabic phrase 'إن ما يجب أن يعلم في المنطق يكون جزء منه'.
+2
+Extract the circularity argument
+The objector shows that if the preface is part of logic, then starting the preface is starting logic, but starting logic depends on the preface, leading to self-dependence (مَحال). Trace the conditional reasoning: لو كانت المقدمة جزءا منه لزم الدور.
+3
+Find the commentator's refutation
+Look for the term 'مضاف محذوف' (omitted genitive). The commentator reinterprets 'fi al-mantiq' as 'fi kutub al-mantiq' (in the books of logic). This means the preface is part of the book, not the science, breaking the circle.
+4
+Understand the supporting evidence
+The commentator argues that the matn's purpose is to describe the book's contents (the five universal parts), not the science itself. This shows the intended genitive was 'books'.
+5
+Assess the resolution
+Check if both difficulties are removed: the preface is now part of the book, so it is not part of logic (addressing the objection), and no circularity arises because starting the preface is starting the book, not the science, which does not depend on itself.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قيل عليه : إن ما يجب أن يعلم في المنطق يكون جزء منه، لأن ما هو خارج عنه لا يعلم فيه قطعاً، وحينئذ يلزم أن تكون المقدّمة جزء من المنطق، وهو باطل، لاتفاقهم على أن مقدمة الشروع في العلم خارجة عنه.
+وإذا كانت المقدمة جزء منه كان الشروع فيها شروعاً في المنطق، إذ لامعنى للشروع فيه إلا الشروع في جزء من أجزائه، والمفروض أن الشروع في المنطق موقوف على المقدمة، فيكون الشروع في المنطق موقوفاً على الشروع في المقدمة قطعاً. فنقول : الشروع في المقدمة شروع في المنطق، والشروع في المنطق موقوف على الشروع في المقدمة فيلزم أن يكون الشروع في المقدمة موقوفاً على الشروع في المقدمة وذلك محال.
+والجواب أنّ في الكلام مضافاً محذوفاً، أي ما يجب أن يعلم في كتب المنطق» فيلزم حينئذ أن تكون المقدّمة جزء من كتب المنطق (ن : كتب الفن) - لا جزء منه – فاندفع المحذوران معاً.
+والدليل على تقدير هذا المضاف أن المقصود بيان انحصار الرسالة في الأشياء الخمس - لابيان انحصار .العلم. فحاصل الكلام أن هذه الرسالة كتاب في هذا الفن وكل كتاب في هذا الفن يليق به أن يترتب على هذه الأشياء الخمس فهذه الرسالة يليق بها أن تترتب عليها ؛ أما الصغرى فظاهرة، وأما الكبرى : فلان ما يجب أن يعلم في كتب هذا الفن - الخ (شريف).
+(١) أراد بها المركبات التامة بناء على ما ذكرناه، فلا إشكال في كلام الشارح أيضاً (شریف).
+It was objected against him: 'What must be known in logic is part of it, because what is outside it is certainly not known in it; then it follows that the preface is part of logic, which is false, because of their agreement that the preface to entering a science is outside it.' And if the preface were part of it, then starting in it would be starting in logic, since there is no meaning to starting in it except starting in a part of its parts; and it is assumed that starting in logic depends on the preface, so starting in logic is necessarily dependent on starting in the preface. So we say: starting in the preface is starting in logic, and starting in logic depends on starting in the preface, so it follows that starting in the preface depends on starting in the preface, which is impossible. The answer is that in the statement there is an omitted annex, i.e., 'what must be known in the books of logic' – so then it follows that the preface is part of the books of logic (variant: books of the art) – not part of it – so both difficulties are removed. The evidence for positing this annex is that the intended purpose is to explain that the treatise is confined to the five things – not to explain that the science is confined. So the gist is: this treatise is a book in this art, and every book in this art is fit to be arranged on these five things, so this treatise is fit to be arranged on them. As for the minor premise, it is obvious; as for the major premise, it is because what must be known in the books of this art... (Sharif). (1) He meant by them the complete compounds based on what we mentioned, so there is no problem in the commentator's statement either (Sharif).
+Source pages p. 23
+
+Commentary
+This passage is a dialectical exchange: an objection and its answer. The objector argues that if the preface contains what must be known before studying logic, then that material becomes part of logic itself, leading to a vicious circle: starting the preface would entail starting logic, but starting logic depends on the preface. The commentator refutes by pointing out an omitted genitive construction (mudaf mahdhuf): the original phrase 'what must be known in logic' actually means 'what must be known in the books of logic'. Thus the preface is part of the book, not of the science of logic. This resolves the circularity because the book can include prerequisite material without making it part of the science. The commentator provides evidence: the main goal of the matn's statement is to describe the book's contents (the five parts), not to delimit the science itself. Therefore, the preface is part of 'books of logic' (kutub al-mantiq), not 'logic' (al-mantiq) itself. The note at the end by Sharif clarifies that 'the five things' refers to complete compounds, removing any remaining issues.
+
+Key Terms
+مضاف محذوف (mudāf maḥdhūf)
+قيل (qīl) / objection
+جواب (jawāb) / answer
+
+Key Terms from Source Passage
+
+Checkpoint
+How does the commentator refute the objection that the preface is part of logic?
+A) By denying the preface contains necessary material
+B) By showing the objection is irrelevant
+C) By positing an omitted genitive: 'fi al-mantiq' means 'fi kutub al-mantiq'
+D) By changing the definition of logic
+
+Key Takeaway
+The mudaf mahdhuf is a powerful tool in dialectic to resolve apparent circularities by reinterpreting ambiguous genitive constructions.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the omitted genitive in the following phrase from a fiqh text: 'The sunna indicates the obligation.' What word might be omitted to avoid implying all sunna? Explain how your interpretation resolves a potential overgenerality.
+?
+Construct a two-step dialectical exchange about a hypothetical preface in a kalam book: an objector claims the preface is part of kalam, leading to circularity; then provide a refutation using the mudaf mahdhuf technique.
+
+Pages p. 23 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 37
+Module 5 · Lesson 2
+Next →
+Dialectic -- Jadal
+advanced
+10 min
+Refuting the Composite Definition of Tasdiq
+Objection and refutation on the definition of tasdiq
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two possible interpretations of tasdiq as a composite and evaluate the commentator's refutation of both.
+
+Core Idea
+The author's explicit statement does not rescue his division; it leads to absurdities on both interpretations.
+
+In this passage, the commentator engages in a dialectical exchange (jadal) with an objector who points out that the author has explicitly defined tasdiq as a composite of perception and judgment, aligning with al-Razi. The commentator shows that this explicit statement does not salvage the division, because whether tasdiq is interpreted as the second division (perception accompanying judgment) or as the composite of the two, it results in absurd consequences. This lesson unpacks the logical moves in this refutation.
+
+Guided Path
+1
+Identify the objector's point
+The objector says the author explicitly states tasdiq is the composite of perception and judgment, which matches al-Razi's view. Find this in the first Arabic sentence.
+2
+Analyze the first horn of the dilemma
+The commentator considers tasdiq as the second division (perception accompanying judgment). Note why this fails: it corresponds to neither madhhab and is false in itself.
+3
+Analyze the second horn of the dilemma
+If tasdiq is the composite of perception and judgment, then it is not a division of knowledge but a compound. Also, the conception of the subject together with judgment would also be such a composite, leading to absurdity.
+This shows the definition fails under both interpretations.
+4
+Evaluate the refutation's strength
+The commentator uses a dilemma (splitting the definition into two possibilities) and shows each leads to a contradiction or unacceptable consequence. This is a strong dialectical move.
+Understand why this refutes the objector's appeal to the author's explicit wording.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن قلت : قد صرّح المصنف بأن المجموع المركب من الإدراك والحكم يسمى بالتصديق، وذلك مذهب الإمام بعينه. قلت : ذلك لا يجديه نفعاً لأنّ القسم الثاني - الخارج عن التقسيم - هو الإدراك المجامع للحكم، لا المجموع المركب منهما، فإن كان التصديق عبارة عن القسم الثاني، فالحال على ما عرفت من عدم انطباقه على شيء من المذهبين وفساده في نفسه، وإن كان عبارة عن المجموع المركب منهما – كما صرح به - لم يكن التصديق قسماً من العلم، بل مركباً من أحد قسميه مع آخر مقارن له - أعني الحكم - وذلك باطل. وأيضاً يصدق على تصوّر المحكوم عليه والحكم معاً أنه مجموع مركب من إدراك وحكم، فيلزم أن يكون تصديقاً.
+If you say: The author explicitly stated that the composite of perception and judgment is called tasdiq, and that is exactly the madhhab of Imam [al-Razi]. I say: That does not benefit him, because the second division—outside the division—is the perception accompanying judgment, not the composite of the two. So if tasdiq is an expression for the second division, the situation is as you know of its not corresponding to any of the two madhhabs and its falsity in itself. And if it is an expression for the composite of the two—as he stated—then tasdiq would not be a division of knowledge, but rather a compound from one of its divisions with another concurrent to it—namely the judgment—and that is false. Also, the conception of the subject together with the judgment may be truly described as a composite of perception and judgment, so it would necessarily be tasdiq.
+Source pages p. 37
+
+Commentary
+This is a classic jadal (dialectical) exchange. The objector (mu'tarid) raises a point: the author explicitly says that tasdiq is the composite of perception and judgment, which matches Imam al-Razi's view. The commentator (mujib) responds with two points. First, if tasdiq is the second division (perception accompanying judgment), then it fails to correspond to either the philosophers or al-Razi, as shown earlier. Second, if tasdiq is the composite of perception and judgment, then it is not a division of knowledge at all; it is a compound of a division (the perception) with another thing (the judgment). Moreover, the conception of the subject together with the judgment would also be such a composite, so it too would be tasdiq, which is absurd. This refutation shows the author's explicit statement does not rescue his division.
+
+Key Terms
+المجموع المركب
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the commentator's argument if tasdiq is defined as the composite of perception and judgment?
+A) It matches the philosophers' view
+B) Then tasdiq becomes a division of knowledge
+C) Then tasdiq would not be a division of knowledge
+D) Then it would avoid the seven-tasdiq problem
+
+Key Takeaway
+The commentator's refutation uses a dilemma to show that both possible interpretations of tasdiq as a composite lead to absurdities, thereby undermining the author's explicit statement.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following claim: 'Tasdiq is the composite of perception and judgment.' According to the commentator, does this interpretation make tasdiq a division of knowledge or something else? Explain the absurd consequence that arises from the conception of the subject and judgment being also a composite.
+?
+In a debate, an opponent says: 'The author's explicit wording shows he agrees with al-Razi.' Using the commentator's method, identify the two possible interpretations of 'composite' and show why neither rescues the author's position.
+
+Pages p. 37 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 48
+Module 5 · Lesson 3
+Next →
+Dialectic -- Jadal
+intermediate
+10 min
+Objection and Response on Infinite Regress in Knowledge Acquisition
+Objection and response on infinite regress in knowledge acquisition
+
+Learning Objective
+By the end of this lesson, you will be able to analyze a dialectical exchange about infinite regress in knowledge acquisition and distinguish between preparatory means (mu'add) and efficient causes ('illa) in the context of simultaneous causation.
+
+Core Idea
+Not all infinite series are harmless: when prior knowledges coexist with the result, they cannot be merely preparatory.
+
+This passage presents a classic dialectical move: the objector tries to save infinite regress by claiming the infinite steps are merely preparatory means that need not coexist. The response, however, shows that the prior sciences involved in reasoning are not preparatory—they are simultaneous causes or conditions. Understanding this distinction is crucial for evaluating arguments about causality and knowledge in Islamic logic.
+
+Guided Path
+1
+Identify the objector's challenge
+The objector claims that infinite regress does not require all infinite steps to exist at once because they can be preparatory means (mu'addat) occurring over infinite past time. Find where the objector says 'the infinite things are preparatory means... it is not necessary that they coexist all at once.'
+The objector's argument hinges on the concept of mu'add as non-simultaneous.
+2
+Extract the key distinction in the response
+The responder distinguishes two types of 'infinite things': the actual sciences/knowledges (e.g., knowledge of premises) and the mental transitions (intiqalat) during reasoning. The sciences coexist with the final knowledge, while the transitions do not.
+Coexistence (mujam'a) is the key: preparatory means cannot coexist with the result.
+3
+Apply the causation framework
+The responder argues that prior sciences are either efficient causes (illa mujiba) or conditions (shart) for the result. Both require simultaneous existence. If they were merely preparatory, they would imply potentiality, not actuality.
+Efficient cause necessitates the effect; condition is also simultaneous.
+4
+Assess the outcome of the dialectic
+The responder refutes the objector by showing that the infinite regress cannot be dismissed as a series of non-simultaneous preparatory means. The prior sciences are causes that must coexist, so the objector's escape fails.
+The objector's position is undermined; the original argument against infinite regress stands.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن قلت : إن عنيتم بقولكم : حصول العلم المطلوب يتوقف على ذلك التقدير على استحضار ما لانهاية له » أنه يتوقف على استحضار الأمور الغير المتناهية دفعة واحدة، فلانسلّم أنه لو كان الاكتساب بطريق التسلسل يلزم توقف حصول العلم المطلوب على حصول أمور غير متناهية دفعة واحدة، فإنّ الأمور الغير المتناهية معدات الحصول المطلوب والمعدات ليس من لوازمها أن تجتمع في الوجود دفعة. قيل عليه : إن الأمور غير المتناهية - هاهنا - هي العلوم والإدراكات التي تقع فيها الحركات الفكرية - أعني الانتقالات الذهنية الواقعة فيها عند ترتيبها - فإنك إذا أردت تحصيل المطلوب بالنظر، فلابد هناك من علوم سابقة عليه ومن ترتيبها والانتقال من بعضها إلى بعض فالعلوم السابقة ليست معدات الحصول المطلوب، لأنها تجامعه، فإن العلم بأجزاء المعرف يجامع العلم بالمعرف، والعلم بالمقدمات يجامع العلم بالنتيجة، فلو كانت العلوم السابقة معدات للمطلوب لما أمكن مجامعتها إياه، لأن المعد يوجب الاستعداد للشيء، واستعداد الشيء هو كونه موجوداً بالقوة القريبة من الفعل أو البعيدة، فيمتنع أن يجامع وجوده بالفعل؛ نعم الانتقالات الواقعة في تلك العلوم عند ترتيبها معدات للمطلوب لا تجامعه، بل إنما يحصل المطلوب عند انقطاعها. فالعلوم السابقة إما علل موجبة للمطلوب أو شروط لحصوله، فلابد أن تكون حاصلة مجتمعة معاً عند حصول المطلوب - وإن كانت الأفكار و الانتقالات الواقعة فيها غير حاصلة عند حصول مطلوب - فيلزم حينئذ
+If you say: 'You mean by your statement that the obtaining of the desired knowledge depends, on that assumption, on bringing to mind something infinite — that it depends on bringing to mind infinite things all at once. Then we do not concede that if acquisition were by way of regress, the obtaining of the desired knowledge would necessarily depend on obtaining infinite things all at once. For infinite things are preparatory means (mu'iddat) for the desired obtaining, and it is not a necessary condition of preparatory means that they should coexist all at once.' It was said against this: 'Infinite things here are the sciences and perceptions in which occur the intellectual movements — that is, the mental transitions that occur in them when they are ordered. For if you wish to obtain the desired thing by reasoning, there must be prior sciences and their ordering and transition from some to others. The prior sciences are not preparatory means for the desired obtaining, because they coexist with it. For knowledge of the parts of the definiendum coexists with knowledge of the definiendum, and knowledge of the premises coexists with knowledge of the conclusion. If the prior sciences were preparatory means for the desired thing, their coexistence with it would not be possible, because the preparatory means brings about preparedness (isti'dad) for the thing, and the preparedness of a thing is its existence in potentiality, near to or far from act, so it cannot coexist with its actual existence. Yes, the transitions occurring in those sciences when they are ordered are preparatory means for the desired thing and do not coexist with it; rather, the desired thing is obtained only when they cease. Thus the prior sciences are either efficient causes (ilal) of the desired thing or conditions (shurut) for its attainment, so they must be present together at the time of obtaining the desired thing — even if the thoughts and transitions occurring in them are not present at the time of obtaining the desired thing. It therefore necessarily follows...'
+Source pages p. 48
+
+Commentary
+This dialectical passage presents an objection to the earlier argument that infinite regress is impossible, followed by a response. The objector challenges the claim that an infinite regress would require bringing to mind infinite things all at once. Instead, the objector argues that infinite things could be preparatory means (mu'iddat) that do not need to coexist simultaneously; they could occur sequentially over infinite past time. The response refutes this by analyzing the nature of the 'infinite things' in question — they are the sciences and perceptions involved in reasoning. The responder points out that prior sciences (like knowledge of parts or premises) actually coexist with the knowledge of the definiendum or conclusion; they are not merely preparatory means. If they were preparatory, they would imply potentiality, not actuality, and could not coexist with the actual knowledge. However, the mental transitions (intiqalat) during reasoning are indeed preparatory and do not coexist with the final knowledge. The prior sciences themselves are either efficient causes or conditions, and as such they must be present simultaneously with the result. The response thus refutes the objection by showing that the infinite regress cannot be dismissed as a series of non-simultaneous preparatory means.
+
+Key Terms
+معد
+استعداد
+قوة
+علة موجبة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the response, why can't the prior sciences in an infinite regress be merely preparatory means (mu'iddat)?
+A) Because they are infinite in number.
+B) Because they coexist with the final knowledge, so they cannot be preparatory.
+C) Because they are all in potentiality.
+D) Because they occur in infinite time.
+
+Key Takeaway
+The response in this dialectic shows that prior knowledges in reasoning are not preparatory means because they coexist with the final knowledge; hence infinite regress cannot be dismissed as a harmless series of non-simultaneous preparers.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze a theological argument: 'The world is temporally originated. Every temporally originated thing has a cause. If there were an infinite chain of causes, then there would be no first cause.' Identify where the distinction between mu'add and 'illa is relevant and why the infinite regress is rejected.
+?
+Construct your own dialectical exchange: One person argues that infinite regress is possible because each step only needs the previous step as a preparer. The other responds by showing that the previous step must be an efficient cause, not a preparer, and thus must coexist. Use the terms mu'add and 'illa mujiba in your exchange.
+
+Pages p. 48 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 49
+Module 5 · Lesson 4
+Next →
+Dialectic -- Jadal
+intermediate
+7 min
+The Dialectical Refinement of Prior Sciences as Preparatory
+Objection and response on the nature of prior sciences
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the objector's challenge against prior sciences as preparatory causes and evaluate the commentator's response distinguishing sciences from mental transitions.
+
+Core Idea
+Sciences are the battlefield, not the weapons; mental movements are the true preparatory causes.
+
+In the previous lesson, prior sciences were presented as preparatory causes for obtaining knowledge. Now an objector challenges this by noting that prior sciences coexist with the conclusion—if they are preparatory, they should be incompatible with actuality. The commentator responds with a crucial refinement: the sciences themselves are not preparatory; rather, the mental transitions (intiqalat) that occur within them are the true preparatory causes. This dialectical exchange sharpens our understanding of how reasoning unfolds in the mind.
+
+Guided Path
+1
+Identify the original claim under attack
+The objector challenges the assertion (likely from earlier) that the prior sciences (ulum sabiqa) are preparatory causes (mu'iddat) for the required knowledge. Locate this claim in the objector's opening: 'the prior sciences are not mere preparatory causes.'
+2
+Analyze the objector's reasoning
+The objector argues that if prior sciences were preparatory, they could not coexist with the result—knowledge of parts with the defined, premises with conclusion. Read the passage where he says 'they coexist with it' and 'the preparatory cause imposes readiness... so it is impossible to coexist with actual existence.'
+The key principle: a preparatory cause (mu'iddat) implies potentiality, not actuality.
+3
+Find the objector's alternative conclusion
+The objector concludes that the mental transitions (intiqalat) are the true preparatory causes and do not coexist. He then argues that the sciences must be either efficient causes or conditions, requiring all to be present simultaneously, leading to an impossible infinity.
+This sets up the impossibility that the objector wants to prove.
+4
+Trace the commentator's distinction
+The commentator agrees that intellectual movements are preparatory and cannot coexist. However, he distinguishes the sciences themselves as the 'loci' of these movements. The sciences can coexist with the result because they are not the preparatory causes—they are the material. He provides empirical evidence from complex syllogisms and geometry where premises are forgotten even while the conclusion is certain.
+The commentator uses 'we find in ourselves' as experiential proof.
+5
+Evaluate the dialectical outcome
+The objector's challenge is not dismissed but refined. The commentator admits the objection is pertinent and that the infinite things (sciences) can be called preparatory only insofar as they are the loci of the preparatory movements, allowing for successive rather than simultaneous presence.
+This preserves the original claim about infinite things being preparatory while avoiding the impossibility.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قيل عليه : إن الأمور غير المتناهية - هاهنا - هي العلوم والإدراكات التي تقع فيها الحركات الفكرية - أعني الانتقالات الذهنية الواقعة فيها عند ترتيبها - فإنك إذا أردت تحصيل المطلوب بالنظر، فلابد هناك من علوم سابقة عليه ومن ترتيبها والانتقال من بعضها إلى بعض فالعلوم السابقة ليست معدات الحصول المطلوب، لأنها تجامعه، فإن العلم بأجزاء المعرف يجامع العلم بالمعرف، والعلم بالمقدمات يجامع العلم بالنتيجة، فلو كانت العلوم السابقة معدات للمطلوب لما أمكن مجامعتها إياه، لأن المعد يوجب الاستعداد للشيء، واستعداد الشيء هو كونه موجوداً بالقوة القريبة من الفعل أو البعيدة، فيمتنع أن يجامع وجوده بالفعل؛ نعم الانتقالات الواقعة في تلك العلوم عند ترتيبها معدات للمطلوب لا تجامعه، بل إنما يحصل المطلوب عند انقطاعها. فالعلوم السابقة إما علل موجبة للمطلوب أو شروط لحصوله، فلابد أن تكون حاصلة مجتمعة معاً عند حصول المطلوب - وإن كانت الأفكار والانتقالات الواقعة فيها غير حاصلة عند حصول مطلوب - فيلزم حينئذ إحاطة الذهن بأمور غير متناهية دفعة واحدة، وهو محال، فيتم الدليل ويسقط الاعتراض. واجيب بأنه لاشك أن الحركات الفكرية معدات الحصول المطلوب، ممتنعة الاجتماع معه. وأما ما يقع فيه تلك المعدات - أعني العلوم والإدراكات - وإن لم يمتنع اجتماعها مع المطلوب، لكنّها ليست مما يجب اجتماعها بأسرها معه دفعة، فإنّا نجد من أنفسنا في القياسات المركبة الكثيرة المقدّمات والنتائج التي يتوصل بها إلى المطلوب، أنا نذهل عند حصول المطلوب عن كثير من تلك المقدمات السابقة مع الجزم بالمطلوب، بل ربما نغفل بعد ماحصل لنا المطلوب عن المقدمات القريبة التي بها حصل لنا المطلوب ابتداء مع ملاحظة المطلوب وحصوله بالفعل. وذلك ظاهر في المسائل الهندسية الكثيرة المقدمات جداً، فإن من زوالها علم أنه عند ماحصل له التصديق المطلوب بتلك المسائل قد ذهل عن المقدمات البعيدة ذهولاً تاماً بلا ارتياب في ذلك التصديق، وعلم أيضاً أنه يلاحظ تلك المسائل بعد حصولها ويجزم بها جزماً يقينياً مع الغفلة عن المقدمات القريبة أيضاً. نعم يعلم إجمالاً أن هناك مقدمات يقينية توجب اليقين بهذا التصديق. فظهر أن العلوم والإدراكات السابقة لا يجب اجتماعها مع المطلوب دفعة بل يكفي حصولها متعاقبة، وحينئذ كان ذلك الاعتراض متجهاً غير ساقط، ومحتاجاً إلى الجواب الذي ذكره الشارح. وإنما حكم على تلك الأمور غير المتناهية بكونها معدات لأنها محال المعدات، أو في حكمها في عدم لزوم الاجتماع في الوجود، وإن كانت ممتازة عن المعدات في جواز الاجتماع في الجملة.
+It was said against it: The infinite things here are the sciences and perceptions in which occur the intellectual movements—i.e., the mental transitions occurring in them when they are arranged. For when you want to obtain the required through theoretical reflection, there must be prior sciences and their arrangement and the transition from some to others. The prior sciences are not mere preparatory causes for obtaining the required, because they coexist with it. Indeed, knowledge of the parts of a definition coexists with knowledge of the defined, and knowledge of the premises coexists with knowledge of the conclusion. If the prior sciences were preparatory for the required, they could not coexist with it, because the preparatory cause imposes readiness for something, and readiness of something is its existence in potentiality near or far from actuality, so it is impossible for it to coexist with its actual existence. Yes, the transitions occurring in those sciences when they are arranged are preparatory for the required and do not coexist with it; rather, the required is only obtained when they cease. So the prior sciences are either efficient causes of the required or conditions for its attainment, so they must be present together at the attainment of the required—even if the thoughts and transitions occurring in them are not present at the attainment of the required. So then it would require the mind to encompass infinite things at once, which is impossible. Thus the proof stands and the objection falls. And it was answered: There is no doubt that the intellectual movements are preparatory for the attainment of the required, impossible to coexist with it. As for that in which these preparatory causes occur—namely, the sciences and perceptions—even if their coexistence with the required is not impossible, yet they do not all have to be together with it at once. For we find in ourselves, in complex syllogisms with many premises and conclusions that lead to the required, that we become oblivious at the attainment of the required of many of those prior premises while still being certain of the required. Indeed, sometimes after we have obtained the required we forget the near premises by which we initially attained it, while still noting the required and its actual existence. This is apparent in geometrical problems with very many premises. For one who ponders them knows that when he has obtained the required assent to those problems, he has completely forgotten the distant premises without any doubt in that assent, and he also knows that he observes those problems after attaining them and is certain of them with certainty while being heedless of the near premises as well. Rather, he knows in summary that there are certain premises that produce certainty of this assent. So it became clear that the prior sciences and perceptions do not all have to be together with the required at once; rather, it suffices that they be obtained successively. And then that objection was found to be pertinent and not refuted, and in need of the answer that the commentator gave. And he judged those infinite things to be preparatory because they are loci of the preparatory causes, or in their judgment in not requiring coexistence in existence, even if they are distinct from preparatory causes in allowing coexistence in some respects.
+Source pages p. 49
+
+Commentary
+This passage presents a dialectical exchange: an objection (qila 'alayhi) against the earlier defense, and a response (wa ujiba). The objector argues that the prior sciences are not simply preparatory causes (mu'iddat) because they coexist with the result—knowledge of parts coexists with knowledge of the whole, premises with conclusion. If they were preparatory, they would be incompatible with actuality. However, the mental transitions (intiqalat) are preparatory and do not coexist. Therefore, the prior sciences must all be present together at the attainment, leading to an impossible simultaneous infinity. The respondent counters by distinguishing: while the transitions are preparatory, the sciences themselves need not all be simultaneously present. We experience forgetting distant premises even while being certain of the conclusion, as in complex geometrical proofs. It suffices that the sciences are obtained successively. Thus the original objection is not fatal. The commentator's judgment that infinite things are preparatory is justified because they are the loci of the preparatory causes (i.e., the transitions) or are analogous to them in not requiring simultaneous existence.
+
+Key Terms
+معدات (mu'iddat): Preparatory causes; in this passage, the mental transitions (intiqalat) are considered mu'iddat for the required knowledge, while the sciences themselves are not. [Note: Same as lesson 1; emphasis on distinction between loci of mu'iddat and mu'iddat themselves.]
+علوم سابقة (ulum sabiqa): Prior sciences or premises that precede the conclusion in reasoning; they coexist with the conclusion and thus are not mu'iddat. [Note: Stable term.]
+انتقالات (intiqalat): Mental transitions or movements from one premise to another during reasoning; these are the true mu'iddat. [Note: Stable term.]
+حركات فكرية (harakat fikriyya): Intellectual movements; synonymous with intiqalat in this context. [Note: Stable term.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator in this passage, what is the actual preparatory cause (mu'iddat) for obtaining the required knowledge?
+A) The prior sciences themselves (ulum sabiqa)
+B) The mental transitions (intiqalat) or intellectual movements (harakat fikriyya)
+C) The existence of the soul
+D) The impossibility of infinite regress
+
+Key Takeaway
+The commentator refines the concept of preparatory cause by distinguishing the sciences (which can coexist with the result) from the mental transitions (which cannot), preserving the coherence of reasoning without requiring simultaneous memory of all premises.
+
+How This Lesson Applies — to MY Life?
+?
+Consider a complex legal analogy in usul al-fiqh where a jurist forgets the original case (asl) but still affirms the ruling on the new case (far'). Using the distinction from this lesson, explain why the analogy remains valid: the forgotten asl is like the prior science that can be forgotten, while the mental act of comparison (qiyas) is the preparatory cause that must cease.
+?
+Construct a dialectical exchange: an opponent claims that a theological proof fails because the premises are not all recited simultaneously. Respond using the commentator's argument, citing the geometrical example from the passage to show that successive presence suffices.
+
+Pages p. 49 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 64
+Module 5 · Lesson 5
+Next →
+Dialectic -- Jadal
+intermediate
+10 min
+The Three Types of Objection in Dialectical Debate
+Author classifies the three ways an opponent can object to a proof in dialectical debate.
+
+Learning Objective
+By the end of this lesson, you will be able to classify an opponent's objection in a jadal debate as man', naqd ijmail, or mu'arada by analyzing whether a specific premise is denied, whether the denial is general, and whether a witness (shahid) is required.
+
+Core Idea
+Objections in jadal are distinguished by their target: specific premise, overall soundness, or a counter-argument.
+
+In dialectical debates (jadal), the opponent's goal is to undermine the proof. Al-Qutbi's commentary on the Shamsiyya identifies three distinct methods: denying a specific premise (man'), claiming a general flaw without specifics (naqd ijmail), and presenting an alternative proof (mu'arada). Recognizing which method is being used is crucial for crafting an effective response.
+
+Guided Path
+1
+Identify the opponent's target
+Determine whether the opponent focuses on a single premise (e.g., 'I deny that every intoxicant is forbidden') or attacks the proof as a whole ('Your proof is unsound'). Also check if the opponent brings a new proof or merely points out a flaw.
+This step uses the criteria of premise specificity.
+2
+Check for requirement of a witness (shahid)
+If the opponent makes a general claim without specifying the flawed premise, they must provide a witness (shahid) that shows the proof is defective. If the opponent denies a specific premise, they may optionally strengthen it with support (sanad) but do not require a witness.
+The passage explicitly states that naqd ijmail requires a shahid.
+3
+Classify the objection
+Based on the two criteria (specific vs. general attack, need for shahid), classify the objection as man'/naqd tafsili, naqd ijmail, or mu'arada. If the opponent provides a counter-argument without denying premises, it is mu'arada.
+Mu'arada does not require denials; it presents a competing proof.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+إذا استدلّ على مطلوب بدليل ، فالخصم إن منع مقدمة معينة من مقدماتة أوكل واحدة منها على التعيين، فذلك يسمى «منعاً» و «مناقضة» و«نقضاً تفصيلياً»؛ ولا يحتاج في ذلك إلى شاهد، فإن ذكر شيئاً يتقوى به المنع يسمى سنداً للمنع. مقدمة غير معينة بأن يقول : «ليس دليلك بجميع مقدماته صحيحاً» ومعناه أن فيها خللاً، فذلك يسمّى «نقضاً إجمالياً، ولابد هناك من شاهد على الاختلال. وإن لم يمنع شيئاً من المقدمات لامعينة ولا غير معينة، بل أورد دليلاً مقابلاً لدليل المستدل الأ على نقيض مدعاه فذلك يسمى «معارضة» (شريف) وإن منع
+When one argues for a claim with a proof, the opponent: if he denies a specific premise from among its premises, or each one individually, that is called 'man'' (denial), 'munaqada' (contradiction), and 'naqd tafsili' (detailed refutation); and there is no need in that for a witness (shahid). If he mentions something by which the denial is strengthened, it is called a support (sanad) for the denial. If he denies an unspecified premise by saying: 'Your proof is not sound in all its premises' meaning that there is a flaw in it, that is called 'naqd ijmail' (total refutation), and there must be a witness to the flaw. And if he does not deny any premise, specific or unspecified, but produces a counterproof to the arguer's proof that contradicts his claim, that is called 'mu'arada' (counterargument). (al-Sharif) And if he denies...
+Source pages p. 64
+
+Commentary
+This passage is a definitional classification of the types of objections (i'tiradat) in dialectical debate (jadal). The author lists three forms an opponent (khasm) can take when faced with a proof (dalil). The first is 'man'' (denial), also called 'munaqada' or 'naqd tafsili', where the opponent singles out a specific premise (muqaddima mu'ayyana) and declares it false. This does not require a witness (shahid) because the flaw is directly identified; however, if the opponent adds evidence to strengthen the denial, it is called 'sanad li-l-man'' (support for the denial). For example, in a proof that 'every intoxicant is forbidden; every nabidh is intoxicant; therefore nabidh is forbidden', the opponent might deny 'every intoxicant is forbidden' by citing a hadith that permits certain intoxicants in small amounts. The second type is 'naqd ijmail' (total refutation), where the opponent claims that the proof is unsound overall without specifying which premise is wrong. This requires a witness (shahid) to indicate the flaw. The third type is 'mu'arada' (counterargument), where the opponent does not deny any premise but presents a whole new proof that contradicts the original claim. For instance, against the proof that nabidh is forbidden, one might bring a proof that the Prophet (peace be upon him) drank nabidh, thus arguing for its permissibility. The passage ends abruptly with 'wa in mana'a' (and if he denies), possibly introducing further subcategories, but the three main types are clearly delineated.
+
+Key Terms
+منع
+نقض تفصيلي
+نقض إجمالي
+معارضة
+شاهد
+سند للمنع
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of objection requires a witness (shahid) to indicate the flaw?
+A) Man' (specific premise denial)
+B) Naqd tafsili (detailed refutation)
+C) Naqd ijmail (total refutation)
+D) Mu'arada (counterargument)
+
+Key Takeaway
+In dialectical debate, objections are distinguished by their level of specificity: man' denies a premise, naqd ijmail claims a general flaw, and mu'arada provides a counter-proof.
+
+How This Lesson Applies — to MY Life?
+?
+In a hypothetical debate, the opponent says: 'Your proof that the Quran is uncreated is flawed in its entirety.' Identify the type of objection and state what additional element is required.
+?
+Provide a sample man' (specific premise denial) from a real Islamic legal debate, e.g., denying the premise that 'every intoxicant is forbidden' using a specific hadith.
+
+Pages p. 64 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 67
+Module 5 · Lesson 6
+Next →
+Dialectic -- Jadal
+intermediate
+10 min
+The Objection That Logic is Unnecessary: A Dialectical Analysis
+Objection and response on the need for logic
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the objection against the need for logic and evaluate the response, including identification of circular reasoning (dawr) and infinite regress (tasalsul).
+
+Core Idea
+The objection that logic is either intuitive or acquired collapses because it presupposes the very logic it attempts to deny.
+
+This passage presents a classic objection: if logic is intuitive, it is already known and thus unneeded; if acquired, its acquisition requires prior logic, leading to circularity or infinite regress. The response shows that the objection actually proves logic's necessity. In this lesson, we will dissect this dialectical exchange and understand how the commentator refines the arguments.
+
+Guided Path
+1
+Identify the objection's core argument
+The objection states that logic must be either intuitive (badīhī) or acquired (kasbī). If intuitive, no need to learn it; if acquired, its acquisition requires prior logic, leading to dawr (circularity) or tasalsul (infinite regress). Hence, logic is not needed.
+2
+Isolate the response's structure
+The response refutes by rephrasing: 'Logic is not something that is not needed – otherwise it would be either intuitive or acquired – both are false – so it must be needed.' This turns the objection into a proof of necessity.
+The response uses a conditional argument: if logic were not needed, it would be intuitive or acquired; but both are false; therefore logic is needed.
+3
+Examine the alternative formulation of the objection
+The commentator presents a refined objection: logic is acquired, so it is not needed for acquiring theoretical matters that themselves require logic. If logic were needed despite being acquired, dawr or tasalsul would follow in acquiring those theoretical matters.
+This formulation shifts focus from logic's own acquisition to its role in acquiring other sciences.
+4
+Understand the author's intended purpose
+The passage clarifies that the author aimed to show that logic is neither completely intuitive (so it needs written codification) nor completely unattainable (so it can be learned). Thus, logic is a necessary, learnable discipline that should be written in books.
+The author's purpose is to justify the codification of logic as a science.
+5
+Identify the commentator's critique
+The commentator notes that the author's formulation avoids explicitly mentioning 'theoretical matters' and that the well-known approach in this art is to present the objection to deny the need for logic. The commentator also offers an alternative direction for the author's argument.
+The commentator critiques the author's phrasing but ultimately supports the conclusion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+على سبيل الممانعة). فللزوم الدور الدور أو التسلسل في تحصيله وعلى هذا فقد دلّت المعارضة على نفي الاحتياج إلى المنطق نفسه، وحينئذ يجاب بذلك الجواب. ورد : بأن إبطال كونه بديهياً أو كسبياً يدلّ على انتفائه في نفسه، ولا تعلق له بكونه محتاجاً إليه أو غير محتاج إليه، إذ يصح أن يقال : «ليس المنطق تما لا يحتاج إليه - وإلا لكان إما بديهياً أو كسبياً - وكلاهما باطل - فوجب أن يكون محتاجاً إليه». فظهر أن هذه شبهة يتمسك بها في نفي هذا العلم سواء احتيج إليه أو لم يحتج. ولنا أيضا أن نقول في تقرير المعارضة : المنطق كسبي، فلا يحتاج إليه في اكتساب النظريات المحتاجة إلى المنطق : أما الأوّل فلأنه لولم يكن كسبياً لكان بديهياً - وهو باطل، وإلا لاستغني عن تعلّمه - وأما الثاني فلأنه لو احتيج إليه مع كونه كسبياً لزم الدور أو التسلسل». ولم يلتفت الشارح إلى هذا التقرير إذ كان المناسب حينئذ أن يقدم المصنف ذكر النظري وأن يشير إلى لزوم الدور أو التسلسل في اكتساب النظريات المحتاجة إلى المنطق، لا أن يقتصر على لزومهما في تحصيله في نفسه. ويمكن أن يقال : لما بين المصنف الاحتياج إلى المنطق نفسه أراد أن يبين أن حاله ماذا : هل هو بديهي بجميع أجزائه حتى يستغنى عن تدوينه في الكتب، أو هو كسي بيجميع أجزائه حتى يمتنع تحصيله - فضلاً عن تدوينه – وبين فساد القسمين، فظهر أن المنطق ليس مما يستغنى عن تدوينه ولا مما يمتنع تحصيله وتدوينه مع كونه محتاجاً إليه، فوجب أن يدوّن في الكتب. ولم يلتفت الشارح أيضا إلى هذا التوجيه لأن المشهور في كتب الفن إيراد المعارضة في هذا الموضع لنفي الاحتياج إليه (شريف).
+On the way of opposition (al-mumānaʿah). So circularity or infinite regress results in its acquisition, and upon this the objection indicates the negation of need for logic itself, and then it is answered with that answer. And it was refuted: because nullifying its being intuitive or acquired indicates its non-existence in itself, and has no connection to its being needed or not needed, since it is correct to say: 'Logic is not something that is not needed - otherwise it would either be intuitive or acquired - and both are false - so it must be needed.' So it becomes clear that this is a specious argument by which one can grasp at denying this science whether it is needed or not. And we also can say in formulating the objection: Logic is acquired, so it is not needed in acquiring the theoretical matters that need logic: as for the first, because if it were not acquired it would be intuitive - and that is false, otherwise learning it would be unnecessary - and as for the second, because if it were needed while being acquired, circularity or infinite regress would follow. And the commentator did not pay attention to this formulation, since the appropriate thing then would be for the author to mention the theoretical and to indicate the necessity of circularity or infinite regress in acquiring the theoretical matters that need logic, not to limit it to their necessity in its own acquisition. And it can be said: When the author clarified the need for logic itself, he intended to show what its state is: is it intuitive in all its parts so that writing it in books is unnecessary, or is it acquired in all its parts so that its acquisition is impossible - let alone writing it - and he showed the falsity of both divisions, so it became clear that logic is not something that can be dispensed with in writing nor something whose acquisition and writing are impossible while being needed, so it must be written in books. And the commentator also did not pay attention to this direction because the well-known approach in the books of this art is to present the objection in this place to deny the need for it (Sharif).
+Source pages p. 67
+
+Commentary
+This passage is a dialectical discussion about the need for logic. The author presents an objection (muʿāraḍah) that logic is either intuitive or acquired. If intuitive, it is already known and thus not needed; if acquired, it would require prior logic, leading to circularity (dawr) or infinite regress (tasalsul). The objection aims to deny the need for logic. The author then provides a response (jawāb) refuting this: the objection actually shows that logic is neither purely intuitive nor purely acquired, but rather it is needed for theoretical matters. The commentator expands on this by offering an alternative formulation: logic is acquired, but it is not needed for acquiring itself; rather it is needed for acquiring other theoretical sciences. He criticizes the original commentator (al-shāriḥ) for not noting this refinement. Finally, he explains that the author's purpose was not to deny the need for logic, but to show that logic is neither completely intuitive (so as to need no written exposition) nor completely acquired (so as to be impossible to learn), thus justifying its codification in books.
+
+Key Terms
+المعارضة
+بديهي
+كسبي
+دور
+تسلسل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the main outcome of the response to the objection?
+A) Logic is purely intuitive and needs no learning.
+B) Logic is purely acquired and impossible to learn.
+C) Logic is needed and can be codified in books.
+D) The objection proves that logic is unnecessary.
+
+Key Takeaway
+The objection against logic's necessity fails because it presupposes the very logical framework it seeks to deny; logic is a necessary, learnable discipline that should be codified.
+
+How This Lesson Applies — to MY Life?
+?
+1. Write a short dialectical exchange where an opponent objects that ijtihad is either intuitive or acquired, and then provide a response that refutes the objection (use concepts of badihi, kasbi, dawr, tasalsul).
+?
+2. Identify the circular reasoning (dawr) in the claim: 'The Qur'an is true because the Prophet said so, and the Prophet is truthful because the Qur'an says so.' Then explain how the response in the passage would address this.
+
+Pages p. 67 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 461
+Module 5 · Lesson 7
+Next →
+Dialectic -- Jadal
+beginner
+5 min
+The Four Non-Certain Premises in Jadal
+Author enumerates four types of non-certain premises and their role in jadal.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the four types of non-certain premises (mashhurat, musallamat, maqbulat, maznunat) and explain their role in jadal (dialectic).
+
+Core Idea
+Non-certain premises are the building blocks of dialectic; they vary by community and are used to persuade and compel, not to prove with certainty.
+
+This passage from Qutb al-Din al-Razi classifies premises that fall short of certainty. While demonstration (burhan) relies on yaqiniyyat, other logical arts—especially jadal—depend on premises that are widely accepted, conceded, received from authority, or merely probable. Understanding these will sharpen your ability to analyze arguments in Islamic jurisprudence and theology.
+
+Guided Path
+1
+Locate the four types
+In the Arabic, find 'مشهورات', 'مسلمات', 'مقبولات', 'مظنونات'. Read the definitions given for each in the text.
+The author says 'six' but only lists four; the other two may be elsewhere.
+2
+Analyse mashhurat
+Note that mashhurat are socially conditioned: people accept them due to common benefit, customs, emotions. Compare to awwaliyat (self-evident): if unaided by society, we wouldn't judge them true. The text gives 'injustice is ugly' as an example of awwaliyat, not mashhurat.
+Mashhurat can be true or false; they vary by people and profession.
+3
+Analyse musallamat
+These are premises that an opponent concedes. They form the basis for jadal, which aims to refute the opponent using his own concessions. The example: jurists concede usul al-fiqh principles.
+Jadal is defined as the syllogism composed of mashhurat and musallamat.
+4
+Analyse maqbulat and maznunat
+Maqbulat are taken from a trustworthy authority (religious or intellectual). Maznunat are merely probable, like inferring a night-walker is a thief.
+These are less systematic; they appear in rhetoric and practical reasoning.
+5
+Synthesize the role in jadal
+Recognize that jadal uses these premises not for certainty but to persuade the uneducated and compel opponents. The purpose is إقناع القاصر وإلزام الخصم.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال: وأما غير اليقينيات فست مشهورات وهي قضايا يحكم بها لاعتراف جميع الناس بها لمصلحة عامة أو رأفة وحميّة أو انفعالات من عادات وشرائع و آداب، والفرق بينها وبين الأوليات أن الإنسان لوخلا ونفسه - مع قطع النظر عماوراء عقله - لم يحكم بها، بخلاف الأوليات كقولنا الظلم قبيح، والعدل حسن، و كشف العورة مذموم، ومراعاة الضعفاء محمودةٌ». ومن هذه ما يكون صادقاً ومايكون كاذباً، ولكلّ قوم مشهورات، وأهل كل صناعة بحسبها. و «مسلمات» وهي قضايا تسلّم من الخصم فيبنى عليها الكلام لدفعه، كتسليم الفقهاء مسائل أصول الفقه. والقياس المؤلف من هدين يسمّى «جدلاً»، والغرض منه إقناع القاصر عن إدراك البرهان وإلزام الخصم. و «مقبولات» وهي قضايا تؤخذ ثمن يُعتقد فيه إما لأمر سماوي أو المزيد عقل ودين، كالماخوذات من أهل العلم والزهد و «مظنونات» وهي قضايا يحكم بها اتباعاً للظن، كقولك: فلان يطوف بالليل فهو سارق».
+He said: As for non-certain premises, they are six: 'Mashhurat' (widely accepted) – premises judged by the consensus of all people for a common benefit, or compassion and zeal, or emotions from customs, laws, and etiquettes. The difference between them and primary self-evident premises is that if a person were alone with himself – ignoring what is beyond his intellect – he would not judge by them, unlike primary premises like our saying: 'Injustice is ugly, justice is beautiful, exposing the private parts is blameworthy, caring for the weak is praiseworthy.' Among these, some are true and some false, and each people has its own mashhurat, and experts in each craft have their own. And 'Musallamat' (conceded premises) – premises conceded by the opponent, on which the discourse is built to refute him, like the jurists' acceptance of principles of jurisprudence. The syllogism composed of these two is called 'jadal' (dialectic), and its purpose is to persuade one unable to grasp demonstration and to compel the opponent. And 'Maqbulat' (received premises) – premises taken from someone believed in, either for a heavenly matter or for increased intellect and religion, like those taken from scholars and ascetics. And 'Maznunat' (probable premises) – premises judged by following probability, like your saying: 'So-and-so walks at night, so he is a thief.'
+Source pages p. 461
+
+Commentary
+This passage classifies non-certain premises into four main types (though it says 'six', but then only mentions four; perhaps the other two are mentioned elsewhere or are implied). The first type is mashhurat (widely accepted opinions). These are judgments that people generally accept due to social benefit, emotion, custom, or law. The author distinguishes them from primary self-evident truths (awwaliyat): if a person were isolated from society and convention, they would not necessarily judge these as true. Mashhurat can be true or false and vary by community and profession. The second type is musallamat (conceded premises) – these are propositions that an opponent accepts in a debate, so they can be used to construct an argument against them. The example: jurists concede principles of usul al-fiqh. The syllogism formed from mashhurat and musallamat is called jadal (dialectic), aimed at persuading those who cannot grasp demonstration and at refuting opponents. The third type is maqbulat (received premises) – propositions taken from a trustworthy authority, especially in religious or intellectual matters. The fourth type is maznunat (probable premises) – judgments based on mere probability, like inferring that a night-wanderer is a thief. This classification is foundational to the Islamic logical theory of the five arts (sana'i' khams), where dialectic, rhetoric, and sophistry use such non-certain premises.
+
+Key Terms
+مشهورات
+مسلمات
+مقبولات
+مظنونات
+جدل
+
+Key Terms from Source Passage
+
+Checkpoint
+What distinguishes mashhurat (widely accepted premises) from awwaliyat (self-evident premises)?
+A) Mashhurat are always true, awwaliyat are sometimes false.
+B) Mashhurat are accepted due to social factors, while awwaliyat are self-evident to reason alone.
+C) Mashhurat are used in demonstration, awwaliyat in dialectic.
+D) There is no real difference.
+
+Key Takeaway
+Non-certain premises like mashhurat, musallamat, maqbulat, and maznunat are essential tools in jadal, allowing argumentation that persuades without the certainty of demonstration.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each of the following premises as mashhurah, musallamah, maqbulah, or maznunah: 'The Prophet (peace be upon him) is truthful' (for a Muslim), 'Helping the poor is good' (in most societies), 'All scholars agree on this point' (in a debate), 'This man left his house at midnight, so he is up to no good'.
+?
+Construct a simple jadal argument on the permissibility of a new financial transaction using a musallamah from usul al-fiqh and a mashhurah from common commercial ethics.
+
+Pages p. 461 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 463
+Module 5 · Lesson 8
+Next →
+Dialectic -- Jadal
+intermediate
+5 min
+Primary Truths vs. Common Opinions in Dialectic
+Author distinguishes common opinions from primary truths.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish primary truths (awwaliyyāt) from common opinions (mashhūrāt) based on their epistemic certainty and variability.
+
+Core Idea
+Common opinions can be false; primary truths cannot.
+
+In the opening of his discussion on dialectic, the author distinguishes two types of premises: those known necessarily by the intellect alone (awwaliyyāt) and those accepted widely but possibly false (mashhūrāt). This distinction is crucial for understanding the epistemic limits of dialectical arguments, which often rely on the latter.
+
+Guided Path
+1
+Identify the two types of premises
+Locate the terms 'al-awwaliyyāt' (primary truths) and 'al-mashhūrāt' (common opinions) in the Arabic. Note that the author says a person free from external influences judges by awwaliyyāt, not mashhūrāt.
+Primary truths are self-evident; common opinions are socially accepted.
+2
+Compare their certainty
+The author states that mashhūrāt 'may be true or false' (قد تكون صادقة وقد تكون كاذبة), unlike awwaliyyāt which are always true. This is the key epistemic difference.
+Mashhūrāt lack the necessity of primary truths.
+3
+Recognize variability
+Mashhūrāt vary by community ('كل قوم مشهورات بحسب عاداتهم وآدابهم') and discipline ('كل أهل صناعة أيضاً مشهورات بحسب صناعاتهم'). Awwaliyyāt are universal.
+This variability makes mashhūrāt useful in dialectic but not demonstration.
+4
+Reflect on implication for dialectic
+Since dialectic aims to refute an opponent and convince those unable to grasp demonstration, it uses these variable and possibly false premises—mashhūrāt—as building blocks.
+Dialectic does not require certain premises, only accepted ones.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الخاتمة
+الإنسان لو فرض نفسه خالية عن جميع الأمور المغايرة لعقله، حكم بالأوليات دون المشهورات. وهي قد تكون صادقة وقد تكون كاذبة، بخلاف الأوليات. ولكل قوم مشهورات بحسب عاداتهم وآدابهم، ولكلّ أهل صناعة أيضاً مشهورات بحسب صناعاتهم. ومنها المسلّمات، وهي قضايا تُسلّم من الخصم ويُبنى عليها الكلام لدفعه، سواء كانت مسلّمة فيما بينهما خاصة أو بين أهل العلم؛ كتسليم الفقهاء مسائل أصول الفقه، كما يستدلّ الفقيه على وجوب الزكاة في حلي البالغة بقوله عليه الصلاة والسلام : «في الحلي زكاة»، فلو قال : «هذا خبر واحد فلا نسلّم أنه حجّة» فنقول له : «قد ثبت هذا في علم أصول الفقه ولابد أن نأخذه هاهنا مسلّماً». الخصم والقياس المؤلف من المشهورات والمسلمات يسمى «جدلاً»، والغرض منه إلزام الخصم وإقناع من هو قاصر عن إدراك مقدمات البرهان.
+Conclusion. If a person assumes himself free from all things other than his intellect, he judges by primary truths (awwaliyyāt) and not by common opinions (mashhūrāt). Common opinions may be true or false, unlike primary truths. Every people have common opinions according to their customs and etiquettes, and every discipline also has common opinions according to its professions. Among them are concessions (musallamāt), which are propositions conceded by the opponent and upon which speech is built to refute him, whether they are conceded specifically between them or among the people of knowledge; like the jurists' concession of the issues of uṣūl al-fiqh, as when a jurist deduces the obligation of zakāh on women's jewelry by his statement (peace be upon him): 'In jewelry there is zakāh.' If he [the opponent] says: 'This is a solitary report (khabar wāḥid), we do not concede that it is proof,' we say to him: 'This has been established in the science of uṣūl al-fiqh and we must accept it here as a concession.' The syllogism composed of common opinions and concessions is called 'dialectic' (jadal), and its purpose is to refute the opponent and convince one who is incapable of grasping the premises of demonstration.
+Source pages p. 463
+
+Commentary
+This passage defines the first of the five arts: dialectic (jadal). The author begins by distinguishing common opinions (mashhūrāt) from primary truths (awwaliyyāt). Unlike primary truths, which are necessarily certain, common opinions can be true or false and vary by community. He then introduces concessions (musallamāt), which are premises accepted from the opponent for the sake of argument. An example is given from fiqh: a jurist cites a hadith 'In jewelry there is zakāh.' If the opponent objects that it is a solitary hadith (khabar wāḥid) and thus not authoritative, the jurist responds that this principle (that solitary hadiths are evidence) is established in uṣūl al-fiqh and must be accepted here as a concession. The syllogism composed of these two types of premises is called jadal, and its purpose is to refute the opponent and convince one who cannot grasp demonstrative proofs.
+
+Key Terms
+المشهورات
+الأوليات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is true about common opinions (mashhūrāt)?
+A) They are always true.
+B) They vary according to customs and disciplines.
+C) They are the same as primary truths.
+D) They cannot be used in arguments.
+
+Key Takeaway
+Common opinions are epistemically weaker than primary truths because they can be false and vary by context, making them suitable for dialectic but not demonstration.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following two propositions as primary truth or common opinion: (1) 'The whole is greater than its part' – a logical primary truth. (2) 'Generosity is praiseworthy' – a common opinion varying by culture. Explain your reasoning.
+
+Pages p. 463 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 463
+Module 5 · Lesson 9
+Next →
+Dialectic -- Jadal
+intermediate
+5 min
+Concessions and the Purpose of Dialectic
+Author defines concessions and the purpose of dialectic.
+
+Learning Objective
+By the end of this lesson, you will be able to explain how concessions (musallamāt) function in dialectical arguments and state the purpose of dialectic (jadal).
+
+Core Idea
+Dialectic uses conceded premises to refute opponents and persuade the non-expert.
+
+After introducing common opinions, the author defines concessions (musallamāt) as premises the opponent concedes, even if not universally true. He illustrates this with a fiqh debate about zakāh on jewelry. The syllogism built from these premises is called dialectic (jadal), aimed at refuting the opponent and convincing those who cannot follow demonstration.
+
+Guided Path
+1
+Understand the definition of musallamāt
+Find the definition: 'قضايا تُسلّم من الخصم ويُبنى عليها الكلام لدفعه' – propositions conceded by the opponent to build an argument against him. They are not necessarily true, only accepted for the debate.
+Concessions can be mutual or established among scholars.
+2
+Analyze the fiqh example
+The jurist uses a hadith ('في الحلي زكاة') to argue for zakāh on jewelry. The opponent objects that solitary reports are not proof. The jurist responds that accepting solitary reports is a principle of uṣūl al-fiqh, so it must be conceded here.
+The concession is the principle that solitary reports are evidence.
+3
+Identify the dialectical syllogism
+The syllogism: (1) Solitary hadiths are evidence (conceded from uṣūl al-fiqh). (2) This hadith is a solitary report. (3) Therefore, it is evidence. This is a dialectical, not demonstrative, argument.
+Jadal uses such premises to force the opponent to accept the conclusion.
+4
+State the purpose of jadal
+The author says: 'الغرض منه إلزام الخصم وإقناع من هو قاصر عن إدراك مقدمات البرهان' – to refute the opponent and convince one incapable of grasping demonstration.
+Jadal does not produce certainty, but persuasion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الخاتمة
+الإنسان لو فرض نفسه خالية عن جميع الأمور المغايرة لعقله، حكم بالأوليات دون المشهورات. وهي قد تكون صادقة وقد تكون كاذبة، بخلاف الأوليات. ولكل قوم مشهورات بحسب عاداتهم وآدابهم، ولكلّ أهل صناعة أيضاً مشهورات بحسب صناعاتهم. ومنها المسلّمات، وهي قضايا تُسلّم من الخصم ويُبنى عليها الكلام لدفعه، سواء كانت مسلّمة فيما بينهما خاصة أو بين أهل العلم؛ كتسليم الفقهاء مسائل أصول الفقه، كما يستدلّ الفقيه على وجوب الزكاة في حلي البالغة بقوله عليه الصلاة والسلام : «في الحلي زكاة»، فلو قال : «هذا خبر واحد فلا نسلّم أنه حجّة» فنقول له : «قد ثبت هذا في علم أصول الفقه ولابد أن نأخذه هاهنا مسلّماً». الخصم والقياس المؤلف من المشهورات والمسلمات يسمى «جدلاً»، والغرض منه إلزام الخصم وإقناع من هو قاصر عن إدراك مقدمات البرهان.
+Conclusion. If a person assumes himself free from all things other than his intellect, he judges by primary truths (awwaliyyāt) and not by common opinions (mashhūrāt). Common opinions may be true or false, unlike primary truths. Every people have common opinions according to their customs and etiquettes, and every discipline also has common opinions according to its professions. Among them are concessions (musallamāt), which are propositions conceded by the opponent and upon which speech is built to refute him, whether they are conceded specifically between them or among the people of knowledge; like the jurists' concession of the issues of uṣūl al-fiqh, as when a jurist deduces the obligation of zakāh on women's jewelry by his statement (peace be upon him): 'In jewelry there is zakāh.' If he [the opponent] says: 'This is a solitary report (khabar wāḥid), we do not concede that it is proof,' we say to him: 'This has been established in the science of uṣūl al-fiqh and we must accept it here as a concession.' The syllogism composed of common opinions and concessions is called 'dialectic' (jadal), and its purpose is to refute the opponent and convince one who is incapable of grasping the premises of demonstration.
+Source pages p. 463
+
+Commentary
+This passage defines the first of the five arts: dialectic (jadal). The author begins by distinguishing common opinions (mashhūrāt) from primary truths (awwaliyyāt). Unlike primary truths, which are necessarily certain, common opinions can be true or false and vary by community. He then introduces concessions (musallamāt), which are premises accepted from the opponent for the sake of argument. An example is given from fiqh: a jurist cites a hadith 'In jewelry there is zakāh.' If the opponent objects that it is a solitary hadith (khabar wāḥid) and thus not authoritative, the jurist responds that this principle (that solitary hadiths are evidence) is established in uṣūl al-fiqh and must be accepted here as a concession. The syllogism composed of these two types of premises is called jadal, and its purpose is to refute the opponent and convince one who cannot grasp demonstrative proofs.
+
+Key Terms
+المسلمات
+الجدل
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the primary purpose of dialectic (jadal) according to the passage?
+A) To produce certain knowledge.
+B) To refute the opponent and convince the non-expert.
+C) To establish legal rulings definitively.
+D) To compose beautiful speech.
+
+Key Takeaway
+Dialectic uses concessions (premises the opponent accepts) to build a syllogism that refutes the opponent and persuades those unable to follow demonstration.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a simple dialectical exchange on the obligation of fasting during Ramadan. Use a concession from uṣūl al-fiqh (e.g., the binding nature of Quranic verses) to counter an opponent who questions the authenticity of a hadith about fasting. Follow the structure of the example in the passage.
+
+Pages p. 463 · Dialectic -- Jadal
+← Prev
+Mark Done
+Next →

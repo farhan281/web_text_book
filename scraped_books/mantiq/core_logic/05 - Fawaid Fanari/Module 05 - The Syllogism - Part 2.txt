@@ -1,0 +1,1984 @@
+← Prev
+p. 158
+Module 5 · Lesson 51
+Next →
+The Syllogism
+intermediate
+12 min
+Identifying Productive and Sterile Moods in the Fourth Figure
+Author enumerates productive and sterile moods in fourth figure.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish productive from sterile moods in the fourth figure by applying the condition of 'two defects'.
+
+Core Idea
+In the fourth figure, a mood is sterile if it contains two defects (particulars or negatives) unless the minor is affirmative particular and major is negative universal.
+
+The author provides numerous examples of premise combinations in the fourth figure, marking each as productive or sterile. By analyzing these examples, you will learn to quickly identify which mood combinations yield a valid conclusion. Understanding why a mood is sterile is just as important as knowing which are productive.
+
+Guided Path
+1
+Review the condition for productivity
+Two defects (particular premise or negative premise) are disallowed except one case. Defects: particularity (جزئية) and negativity (سلب).
+A premise can have both defects (e.g., particular negative), which counts as two defects.
+2
+Examine the first productive example (AAI-4)
+Both premises are universal affirmative—no defects. So productive. Conclusion is particular because of existential import in the fourth figure.
+The conclusion has the minor term as predicate and major term as subject.
+3
+Examine a sterile example (AOO-4)
+Premises: 'كل إنسان حيوان' (A) and 'بعض الحيوان ليس بإنسان' (Actually the example is 'كل إنسان حيوان' A and 'بعض الحيوان ليس انسان' O). This has one negative (O) and one particular (O) = two defects, so sterile.
+Not the exception because minor is universal, not particular.
+4
+Examine the exception (IEO-4)
+Premises: 'بعض الإنسان كاتب' (I) and 'لا شيء من الحجر بإنسان' (E). This has one particular (I) and one negative (E) = two defects, but it is the allowed exception. Conclusion: 'بعض الكاتب ليس بحجر' (O).
+Memorize this specific combination: minor affirmative particular (I) and major negative universal (E).
+5
+Practice by identifying defect count
+For each mood, count defects: each particular premise =1, each negative premise =1. If total >=2 and not the exception, it's sterile.
+Example: two particular affirmatives (II) = two defects (two particulars) → sterile. Two universal negatives (EE) = two defects (two negatives) → sterile. Universal affirmative and particular negative (AO) = two defects (one particular, one negative) → sterile unless it is exactly IO? No, exception requires minor I and major E.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الشكل الرابع - هو الذي يكون فيه الحد الأوسط موضوعاً في الصغرى و محمولاً في الكبرى. شرط إنتاجه - عدم اجتماع خستين فيه إلا في صورة واحدة وهي إذا كانت الصغرى موجبة جزئية والكبرى سالبة كلية . ضروبه المنتجة ستة ضروب طريقة إعادته إلى الأول بعكس كلتا المقدمتين: مثال: كل إنسان حيوان (موجبة كلية) وكل ناطق إنسان (موجبة كلية) ينتج بعض الحيوان ناطق (موجبة جزئية). وكل إنسان حيوان (موجبة كلية) وبعض المتحرك إنسان (موجبة جزئية) ينتج بعض الحيوان متحرك (موجبة جزئية). وكل إنسان حيوان (موجبة كلية) ولا شيء من الجماد بإنسان (سالبة كلية) ينتج بعض الحيوان ليس بجماد (سالبة جزئية). وكل إنسان حيوان (موجبة كلية) وبعض المتحرك ليس انسان (سالبة جزئية) ينتج عقيمة لاجتماع خستين. بعض الإنسان كاتب (موجبة جزئية) وكل ناطق انسان (موجبة كلية) ينتج بعض الكاتب ناطق (موجبة جزئية). بعض الإنسان كاتب (موجبة جزئية) وبعض الحيوان انسان (موجبة جزئية) ينتج عقيمة لخسة القدمين. بعض الإنسان كاتب (موجبة جزئية) ولا شيء من الحجر بأنسان (سالبة كلية) ينتج بعض الكاتب ليس بحجر (سالبة جزئية). بعض الإنسان كاتب (موجبة جزئية) وبعض الحيوان ليس انسانا (سالبة جزئية) ينتج عقيمة لوجود السلب والجزئية. لا شيء من الإنسان بحجر (سالبة كلية) وكل ناطق إنسان (موجبة كلية) ينتج عقيمة لعدم إيجاب. لا شيء من الإنسان بحجر (سالبة كلية) وبعض الحيوان انسان (موجبة جزئية) ينتج عقيمة لوجود السلب والجزئية. لا شيء من الإنسان بحجر (سالبة كلية) ولا شيء من الإنسان بحجر (سالبة كلية) ينتج عقيمة لوجود السلب فيهما. لا شيء من الإنسان بحجر (سالبة كلية) وبعض الحيوان ليس بناطق (سالبة جزئية) ينتج عقيمة لوجود السلب والجزئية. ثم ذكر عكس بعضها: 1 - 2 عكسها موجبة جزئية بعض الحيوان إنسان وبعض الإنسان ناطق. ۲ - ۳ - عكسها سالبة كلية لاشيء من الإنسان بجامد.
+The fourth figure is that in which the middle term is subject in the minor premise and predicate in the major premise. Its condition for productivity is that two defects do not occur together in it except in one form: when the minor is affirmative particular and the major is negative universal. Its productive moods are six moods. Its method of reduction to the first figure is by converting both premises. Example: 'Every human is an animal' (universal affirmative) and 'Every rational is human' (universal affirmative) yields 'Some animal is rational' (particular affirmative). And 'Every human is an animal' (universal affirmative) and 'Some moving thing is human' (particular affirmative) yields 'Some animal is moving' (particular affirmative). And 'Every human is an animal' (universal affirmative) and 'Nothing of inanimate is human' (universal negative) yields 'Some animal is not inanimate' (particular negative). And 'Every human is an animal' (universal affirmative) and 'Some moving thing is not human' (particular negative) yields sterile because of the combination of two defects. 'Some human is a writer' (particular affirmative) and 'Every rational is human' (universal affirmative) yields 'Some writer is rational' (particular affirmative). 'Some human is a writer' (particular affirmative) and 'Some animal is human' (particular affirmative) yields sterile because of the defect of two particular affirmatives. 'Some human is a writer' (particular affirmative) and 'Nothing of stone is human' (universal negative) yields 'Some writer is not stone' (particular negative). 'Some human is a writer' (particular affirmative) and 'Some animal is not human' (particular negative) yields sterile because of the presence of negation and particularity. 'Nothing of human is stone' (universal negative) and 'Every rational is human' (universal affirmative) yields sterile because of lack of affirmation. 'Nothing of human is stone' (universal negative) and 'Some animal is human' (particular affirmative) yields sterile because of the presence of negation and particularity. 'Nothing of human is stone' (universal negative) and 'Nothing of human is stone' (universal negative) yields sterile because of the presence of negation in both. 'Nothing of human is stone' (universal negative) and 'Some animal is not rational' (particular negative) yields sterile because of the presence of negation and particularity. Then he mentioned the conversion of some: 1-2 its conversion is particular affirmative: 'Some animal is human' and 'Some human is rational'. 2-3 its conversion is universal negative: 'Nothing of human is inanimate'.
+Source pages p. 158
+
+Commentary
+This passage is an exposition of the fourth figure of the categorical syllogism. The author begins by defining the fourth figure: it is the figure in which the middle term is the subject of the minor premise and the predicate of the major premise. The condition for productivity in this figure is that two defects—that is, two particular premises or two negative premises—do not occur together, except in one specific case: when the minor is an affirmative particular and the major is a negative universal. This exception yields a valid conclusion. The author then states that there are six productive moods in this figure, and they can be reduced to the first figure by converting both premises (i.e., swapping the subject and predicate of each premise). The passage then enumerates examples of various premise combinations, marking which ones are productive and which are sterile (عقيمة). For instance, the combination of two universal affirmatives (AAA-4) produces a particular affirmative conclusion. The combination of a universal affirmative minor and a particular affirmative major (AII-4) produces a particular affirmative. The combination of universal affirmative minor and universal negative major (AEE-4) produces a particular negative. However, when the minor is universal affirmative and the major is particular negative (AOO-4), it is sterile because it contains a particular and a negative—these two defects together violate the condition. Similarly, combinations with two particulars or two negatives are sterile. The author provides examples using terms like 'human' (إنسان), 'animal' (حيوان), 'rational' (ناطق), 'moving' (متحرك), 'inanimate' (جماد), 'writer' (كاتب), and 'stone' (حجر), all rooted in Islamic sciences contexts. Finally, the passage shows how some of the conclusions can be converted: for example, the conclusion 'Some animal is human' (from a productive mood) converted yields 'Some human is animal', and another conversion yields a universal negative. This systematic treatment helps the student understand the valid moods of the fourth figure and the conditions for their productivity.
+
+Key Terms
+الشكل الرابع
+الحد الأوسط
+خستين
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a sterile mood in the fourth figure according to the passage?
+A) Affirmative universal minor and negative universal major
+B) Affirmative particular minor and negative universal major
+C) Affirmative universal minor and negative particular major
+D) Two universal affirmatives
+
+Key Takeaway
+In the fourth figure, a mood is sterile if it contains two defects (two particulars, two negatives, or a particular with a negative) unless the minor is affirmative particular and the major is negative universal.
+
+How This Lesson Applies — to MY Life?
+?
+Given the premise combination: 'Some human is a writer' (I) and 'Some animal is human' (I). Is this mood productive or sterile? Why? (Answer: Sterile because two particular premises = two defects, and not the exception.)
+?
+Write the sixth productive mood (the one with particular minor and negative major) using Islamic terms about halal and haram. For example: 'Some action is mubah (permissible)' and 'No haram action is mubah'? Check: minor: بعض الفعل مباح (I), major: لا شيء من المحرم بمباح (E) → conclusion: بعض المباح ليس بحرام (O). This is valid IEO-4.
+
+Pages p. 158 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 159
+Module 5 · Lesson 52
+Next →
+The Syllogism
+beginner
+5 min
+Three Material Types of Categorical Syllogisms
+Classification of categorical syllogisms by material composition
+
+Learning Objective
+By the end of this lesson, you will be able to classify a given syllogism as categorical-categorical, conditional-conditional, or disjunctive-disjunctive based on the types of propositions composing it.
+
+Core Idea
+Categorical syllogisms can be built from categorical, conditional, or disjunctive propositions.
+
+In this passage, the author expands the notion of categorical syllogisms beyond simple subject-predicate forms. He shows that the propositions composing a syllogism can be of three types: two categoricals, two conditionals, or two disjunctives. Understanding these types helps you recognize the logical structure and the appropriate inference principles.
+
+Guided Path
+1
+Identify the type of each premise
+Look at the first premise and second premise. Determine if they are simple subject-predicate statements (categorical), if-then statements (conditional), or either-or statements (disjunctive).
+2
+Match with the three categories
+If both are categorical, it is the first type. If both are conditional, it is the second type. If both are disjunctive, it is the third type. The passage also mentions a fifth type but does not elaborate.
+3
+Observe the inference principle
+Each type has its own logical principle: for conditionals, transitivity of implication; for disjunctives, exhaustive division. We'll study these in subsequent lessons.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقِياسُ الاقتراني خَمسة أقسامٍ مِنْ وَجْهِ آخرٍ؛ لأَنَّهُ: إِمَّا مركَّب من حمليتيْنِ كَمَا مَرَّ. وإمَّا مِنْ مُتَصلتين، كقولنا: إن كانتِ الشمس طالعة فالنهارُ موجود، وكلَّما كانَ النهارُ موجوداً فالأرضُ مضيئَةٌ. يُنتج إن كانتِ الشمسُ طالعة فالأرضُ مضيْئَةٌ؛ لأنَّ ملزوم الملزومِ ملزوم. وإمَّا مِنْ منفصلتين، كقولنا: كلُّ عددٍ فهوَ إِمَّا زوج أو فَرْدٌ، وكل زوج إمَّا زَوْجُ الزوج أو زَوْجُ الفَردِ؛ لأنَّه إِمّا أَنْ ينقسم بمتساوِيَيْنِ أو لا. يُنتجُ كُلَّ عَددٍ فهوَ إِمَا زَوْجٌ أو فَرْدٌ أو زوج الزوج أو زَوْجُ الفَردِ؛ لأنَّ الصادِقَ من المنفَصِلِةِ الأُولى إِنْ كانَ الفردية فهي.
+And the categorical syllogism has five divisions from another aspect: because it is either composed of two categoricals as has passed, or of two conditionals (mutasilat), like our saying: 'If the sun is rising then daytime exists, and whenever daytime exists then the earth is illuminated'—it yields 'If the sun is rising then the earth is illuminated', because the necessary condition of the necessary condition is a necessary condition. Or it is composed of two disjunctives (munfasilat), like our saying: 'Every number is either even or odd, and every even is either evenly-even or oddly-even'—because it is either divisible into equal halves or not. It yields 'Every number is either even or odd or evenly-even or oddly-even', because if the true disjunct from the first disjunction is oddness, then...
+Source pages p. 159
+
+Commentary
+This passage introduces another classification of categorical syllogisms (al-qiyas al-iqtirani) based on their material (maddah)—that is, the type of propositions from which they are composed. The author states that from this angle, there are five types, but only three are detailed: (1) composed of two categorical propositions (hamliyyat), which have been discussed earlier; (2) composed of two conditional propositions (mutasilat)—i.e., hypothetical syllogisms—like the example: 'If the sun is rising, then daytime exists; and whenever daytime exists, the earth is illuminated.' This yields the conclusion 'If the sun is rising, then the earth is illuminated' because the necessary condition of a necessary condition is itself a necessary condition. This is an instance of a pure hypothetical syllogism (qiyas sharti muttasil). (3) composed of two disjunctive propositions (munfasilat), as in: 'Every number is either even or odd; and every even is either evenly-even (i.e., divisible by 4) or oddly-even (divisible by 2 but not 4).' This yields the conclusion 'Every number is either even or odd or evenly-even or oddly-even.' The author notes that the disjunction in the first premise is exhaustive (every number is either even or odd), and the second further divides even numbers. The logical principle is that the true component of the original disjunction (if it is oddness in the first, then the second premise does not apply; if it is evenness, then the second premise applies and further divides). The author provides the rule about the 'necessary condition of the necessary condition' (ملزوم الملزوم ملزوم) for the conditional type. This classification helps the student understand that categorical syllogisms (in the broad sense) can have different internal structures beyond simple subject-predicate forms.
+
+Key Terms
+حمليتين
+متصلتين
+منفصلتين
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of syllogism is composed of two 'if...then...' propositions?
+A) Categorical-categorical
+B) Conditional-conditional
+C) Disjunctive-disjunctive
+D) None of the above
+
+Key Takeaway
+Categorical syllogisms can be classified by the types of propositions forming them: categorical, conditional, or disjunctive.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each of the following syllogisms as categorical-categorical, conditional-conditional, or disjunctive-disjunctive: (a) Every human is mortal; every mortal is subject to change; therefore every human is subject to change. (b) If the prayer is valid, then wudu is required; if wudu is required, then water is needed; therefore if the prayer is valid, water is needed. (c) Every animal is either rational or irrational; every rational is either male or female; therefore every animal is either rational, irrational, male, or female.
+
+Pages p. 159 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 159
+Module 5 · Lesson 53
+Next →
+The Syllogism
+beginner
+5 min
+Conditional Syllogisms: The Principle of Transitivity
+Example and principle of conditional syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to construct a valid conditional syllogism using the transitivity of implication and identify the antecedent-consequent chain.
+
+Core Idea
+If A implies B and B implies C, then A implies C: the transitive property of implication.
+
+The author illustrates a conditional syllogism with the example: 'If the sun is rising then daytime exists, and whenever daytime exists then the earth is illuminated; therefore if the sun is rising then the earth is illuminated.' The key principle is that the necessary condition of a necessary condition is itself a necessary condition. This is the transitivity of implication, foundational for reasoning with hypothetical statements.
+
+Guided Path
+1
+Identify the two conditional premises
+Each premise has the form 'If P then Q'. Note the antecedent and consequent of each.
+In the example: Premise 1: If sun rising (P) then daytime (Q). Premise 2: If daytime (Q) then earth illuminated (R).
+2
+Find the common term connecting them
+The consequent of the first premise is the antecedent of the second. That term 'Q' is the bridge.
+Here 'daytime exists' is the common term.
+3
+Apply the transitivity principle
+Since P implies Q and Q implies R, then P implies R. This is valid regardless of the truth of P, Q, or R.
+The principle is called 'ملزوم الملزوم ملزوم' (the necessary condition of the necessary condition is necessary).
+4
+Verify the conclusion
+The conclusion must have the form 'If P then R' or 'P implies R'. Check that it follows from the premises.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقِياسُ الاقتراني خَمسة أقسامٍ مِنْ وَجْهِ آخرٍ؛ لأَنَّهُ: إِمَّا مركَّب من حمليتيْنِ كَمَا مَرَّ. وإمَّا مِنْ مُتَصلتين، كقولنا: إن كانتِ الشمس طالعة فالنهارُ موجود، وكلَّما كانَ النهارُ موجوداً فالأرضُ مضيئَةٌ. يُنتج إن كانتِ الشمسُ طالعة فالأرضُ مضيْئَةٌ؛ لأنَّ ملزوم الملزومِ ملزوم. وإمَّا مِنْ منفصلتين، كقولنا: كلُّ عددٍ فهوَ إِمَّا زوج أو فَرْدٌ، وكل زوج إمَّا زَوْجُ الزوج أو زَوْجُ الفَردِ؛ لأنَّه إِمّا أَنْ ينقسم بمتساوِيَيْنِ أو لا. يُنتجُ كُلَّ عَددٍ فهوَ إِمَا زَوْجٌ أو فَرْدٌ أو زوج الزوج أو زَوْجُ الفَردِ؛ لأنَّ الصادِقَ من المنفَصِلِةِ الأُولى إِنْ كانَ الفردية فهي.
+And the categorical syllogism has five divisions from another aspect: because it is either composed of two categoricals as has passed, or of two conditionals (mutasilat), like our saying: 'If the sun is rising then daytime exists, and whenever daytime exists then the earth is illuminated'—it yields 'If the sun is rising then the earth is illuminated', because the necessary condition of the necessary condition is a necessary condition. Or it is composed of two disjunctives (munfasilat), like our saying: 'Every number is either even or odd, and every even is either evenly-even or oddly-even'—because it is either divisible into equal halves or not. It yields 'Every number is either even or odd or evenly-even or oddly-even', because if the true disjunct from the first disjunction is oddness, then...
+Source pages p. 159
+
+Commentary
+This passage introduces another classification of categorical syllogisms (al-qiyas al-iqtirani) based on their material (maddah)—that is, the type of propositions from which they are composed. The author states that from this angle, there are five types, but only three are detailed: (1) composed of two categorical propositions (hamliyyat), which have been discussed earlier; (2) composed of two conditional propositions (mutasilat)—i.e., hypothetical syllogisms—like the example: 'If the sun is rising, then daytime exists; and whenever daytime exists, the earth is illuminated.' This yields the conclusion 'If the sun is rising, then the earth is illuminated' because the necessary condition of a necessary condition is itself a necessary condition. This is an instance of a pure hypothetical syllogism (qiyas sharti muttasil). (3) composed of two disjunctive propositions (munfasilat), as in: 'Every number is either even or odd; and every even is either evenly-even (i.e., divisible by 4) or oddly-even (divisible by 2 but not 4).' This yields the conclusion 'Every number is either even or odd or evenly-even or oddly-even.' The author notes that the disjunction in the first premise is exhaustive (every number is either even or odd), and the second further divides even numbers. The logical principle is that the true component of the original disjunction (if it is oddness in the first, then the second premise does not apply; if it is evenness, then the second premise applies and further divides). The author provides the rule about the 'necessary condition of the necessary condition' (ملزوم الملزوم ملزوم) for the conditional type. This classification helps the student understand that categorical syllogisms (in the broad sense) can have different internal structures beyond simple subject-predicate forms.
+
+Key Terms
+متصلتين
+ملزوم الملزوم ملزوم
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the logical principle used to justify the conclusion in the conditional syllogism example?
+A) The opposite of the necessary condition is impossible
+B) The necessary condition of the necessary condition is necessary
+C) The disjunction of two conditionals yields a conditional
+D) The antecedent is the same as the consequent
+
+Key Takeaway
+Conditional syllogisms rely on the transitivity of implication: if A implies B and B implies C, then A implies C.
+
+How This Lesson Applies — to MY Life?
+?
+Complete the following conditional syllogism using an Islamic example: Premise 1: If a prayer is valid, then wudu is required. Premise 2: If wudu is required, then water is needed. Conclusion: ?
+?
+Identify the antecedent-consequent chain in this argument: 'If the moon is split, then the Hour is near; if the Hour is near, then preparation is due; therefore if the moon is split, preparation is due.'
+
+Pages p. 159 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 159
+Module 5 · Lesson 54
+Next →
+The Syllogism
+beginner
+5 min
+Disjunctive Syllogisms: Two-Level Division
+Example and analysis of disjunctive syllogism with two-level division
+
+Learning Objective
+By the end of this lesson, you will be able to combine two disjunctive premises into a final exhaustive division and determine the conclusion.
+
+Core Idea
+When one disjunct is further divided, the final conclusion includes all original disjuncts plus the subdivisions.
+
+The author provides a disjunctive syllogism example: 'Every number is either even or odd, and every even is either evenly-even or oddly-even; therefore every number is either even, odd, evenly-even, or oddly-even.' This shows how two disjunctive propositions can be combined to produce a more detailed classification. The logical process depends on the nature of the disjunctions involved.
+
+Guided Path
+1
+Identify the first disjunction
+The first premise divides the subject into mutually exclusive parts. In the example, 'Every number is either even or odd' is an exclusive disjunction.
+Exclusive means it cannot be both.
+2
+Identify the second disjunction
+The second premise further divides one of the disjuncts from the first. Here, 'every even is either evenly-even or oddly-even' divides 'even'.
+The phrase 'كل زوج' indicates the second premise applies to all evens.
+3
+Combine the divisions
+If the first disjunction is exhaustive and the second is also exhaustive for its subset, then the overall classification includes all original disjuncts and the subdivisions. The conclusion lists all possibilities: even, odd, evenly-even, oddly-even.
+Note that 'odd' is not further divided, so it remains as a single option.
+4
+Check the role of the first disjunction's truth
+The author notes: 'if the true disjunct from the first disjunction is oddness, then...' implying that the second premise only applies when the true disjunct is even. However, for the overall deduction, we consider all cases.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقِياسُ الاقتراني خَمسة أقسامٍ مِنْ وَجْهِ آخرٍ؛ لأَنَّهُ: إِمَّا مركَّب من حمليتيْنِ كَمَا مَرَّ. وإمَّا مِنْ مُتَصلتين، كقولنا: إن كانتِ الشمس طالعة فالنهارُ موجود، وكلَّما كانَ النهارُ موجوداً فالأرضُ مضيئَةٌ. يُنتج إن كانتِ الشمسُ طالعة فالأرضُ مضيْئَةٌ؛ لأنَّ ملزوم الملزومِ ملزوم. وإمَّا مِنْ منفصلتين، كقولنا: كلُّ عددٍ فهوَ إِمَّا زوج أو فَرْدٌ، وكل زوج إمَّا زَوْجُ الزوج أو زَوْجُ الفَردِ؛ لأنَّه إِمّا أَنْ ينقسم بمتساوِيَيْنِ أو لا. يُنتجُ كُلَّ عَددٍ فهوَ إِمَا زَوْجٌ أو فَرْدٌ أو زوج الزوج أو زَوْجُ الفَردِ؛ لأنَّ الصادِقَ من المنفَصِلِةِ الأُولى إِنْ كانَ الفردية فهي.
+And the categorical syllogism has five divisions from another aspect: because it is either composed of two categoricals as has passed, or of two conditionals (mutasilat), like our saying: 'If the sun is rising then daytime exists, and whenever daytime exists then the earth is illuminated'—it yields 'If the sun is rising then the earth is illuminated', because the necessary condition of the necessary condition is a necessary condition. Or it is composed of two disjunctives (munfasilat), like our saying: 'Every number is either even or odd, and every even is either evenly-even or oddly-even'—because it is either divisible into equal halves or not. It yields 'Every number is either even or odd or evenly-even or oddly-even', because if the true disjunct from the first disjunction is oddness, then...
+Source pages p. 159
+
+Commentary
+This passage introduces another classification of categorical syllogisms (al-qiyas al-iqtirani) based on their material (maddah)—that is, the type of propositions from which they are composed. The author states that from this angle, there are five types, but only three are detailed: (1) composed of two categorical propositions (hamliyyat), which have been discussed earlier; (2) composed of two conditional propositions (mutasilat)—i.e., hypothetical syllogisms—like the example: 'If the sun is rising, then daytime exists; and whenever daytime exists, the earth is illuminated.' This yields the conclusion 'If the sun is rising, then the earth is illuminated' because the necessary condition of a necessary condition is itself a necessary condition. This is an instance of a pure hypothetical syllogism (qiyas sharti muttasil). (3) composed of two disjunctive propositions (munfasilat), as in: 'Every number is either even or odd; and every even is either evenly-even (i.e., divisible by 4) or oddly-even (divisible by 2 but not 4).' This yields the conclusion 'Every number is either even or odd or evenly-even or oddly-even.' The author notes that the disjunction in the first premise is exhaustive (every number is either even or odd), and the second further divides even numbers. The logical principle is that the true component of the original disjunction (if it is oddness in the first, then the second premise does not apply; if it is evenness, then the second premise applies and further divides). The author provides the rule about the 'necessary condition of the necessary condition' (ملزوم الملزوم ملزوم) for the conditional type. This classification helps the student understand that categorical syllogisms (in the broad sense) can have different internal structures beyond simple subject-predicate forms.
+
+Key Terms
+منفصلتين
+زوج الزوج
+زوج الفرد
+
+Key Terms from Source Passage
+
+Checkpoint
+In the disjunctive syllogism example, how many distinct categories appear in the conclusion?
+A) Two
+B) Three
+C) Four
+D) Five
+
+Key Takeaway
+Disjunctive syllogisms can combine two levels of division to produce a more detailed and exhaustive classification.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a similar disjunctive syllogism using an Islamic classification: Every Muslim is either a scholar or a layperson; every scholar is either a jurist or a theologian; therefore every Muslim is either a scholar, a layperson, a jurist, or a theologian.
+?
+Given the syllogism: 'Every action is either wajib or haram; every wajib is either 'aini or kifa'i; therefore every action is either wajib or haram or 'aini or kifa'i.' Check if this follows the pattern of the author's example, considering that 'haram' is not further divided.
+
+Pages p. 159 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 159
+Module 5 · Lesson 55
+Next →
+The Syllogism
+intermediate
+8 min
+Four Material Types of Conjunctive Syllogism
+Author classifies conjunctive syllogism into four material types.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four material types of conjunctive syllogism and construct a valid example of each using Islamic science propositions.
+
+Core Idea
+A conjunctive syllogism's material (proposition types) determines its form and validity.
+
+We already know that a conjunctive syllogism combines premises to produce a conclusion implicitly. But what kinds of propositions can those premises be? The author now classifies conjunctive syllogisms based on their 'material' (maddah)—the types of propositions that compose them. Understanding this classification helps you recognize and evaluate arguments across Islamic disciplines, from fiqh to kalam.
+
+Guided Path
+1
+Recall the definition of conjunctive syllogism
+A conjunctive syllogism (qiyas iqtirani) is one where the conclusion follows from a conjunction of premises, not from an explicit 'therefore'. This was introduced earlier.
+2
+Identify the four types listed
+The author lists four combos: (1) two categoricals, (2) two conditionals, (3) two disjunctives, (4) one categorical + one conditional. He mentions 'five' but enumerates four; the fifth is likely a repetition of a prior classification.
+Look for the key Arabic terms: حملي, متصل, منفصل.
+3
+Examine the example for two conditionals
+The example: 'If the sun rises daytime exists, and if daytime exists the earth is illuminated.' This yields a conditional conclusion. The reasoning is transitivity of implication (malzum al-malzum).
+In Islamic logic, this is called a 'conditional conjunctive syllogism' (qiyas iqtirani min muttasilatayn).
+4
+Examine the example for two disjunctives
+The example: 'Every number is either even or odd, and every even is either even-even or even-odd.' The conclusion combines all possibilities, yielding a disjunctive conclusion.
+This type is used in Islamic jurisprudence when enumerating exhaustive possibilities for a ruling.
+5
+Examine the mixed type
+Example: 'Whenever this is a human it is an animal, and every animal is a body.' Conclusion: 'Whenever this is a human it is a body.' This mixes a conditional with a categorical, applying the rule that what holds for the broader concept holds for the narrower.
+This illustrates how categorical and conditional premises can be combined in a single syllogism.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والقِياسُ الاقتراني خَمسة أقسامٍ مِنْ وَجْهِ آخر ؛ لأَنَّه: إِمَّا مركَّب من حمليتيْنِ كَمَا مَرَّ. وإمَّا مِنْ مُتَصلتين، كقولنا: إن كانتِ الشمس طالعة فالنهارُ موجود، وكلَّما كانَ النهارُ موجوداً فالأرضُ مضيئَةٌ. يُنتج إن كانتِ الشمسُ طالعة فالأرضُ مضيْئَةٌ. وإمَّا مِنْ منفصلتين، كقولنا: كلُّ عددٍ فهوَ إِمَّا زوج أو فَرْدٌ، وكل زوج إمَّا زَوْجُ الزوج أو زَوْجُ الفَردِ. يُنتجُ كُلَّ عَددٍ فهوَ إِمَا زَوْجٌ أو فَرْدٌ أو زوج الزوج أو زَوْجُ الفَردِ. وإمَّا مِنْ حَمليةٍ ومُتَّصلة، كقولنا كلما كان هذا إنساناً فهو حَيوانٌ وكُلُّ حيوان جسمٌ يُنتج: كلَّما كانَ هذا إنسانا فهو جسم.
+The conjunctive syllogism has five divisions from another perspective: because it is either composed of two categoricals as has passed, or of two conditionals, as we say: If the sun is rising then daytime exists, and whenever daytime exists the earth is illuminated. It yields: If the sun is rising then the earth is illuminated. Or of two disjunctives, as we say: Every number is either even or odd, and every even is either even-even or even-odd. It yields: Every number is either even or odd or even-even or even-odd. Or of a categorical and a conditional, as we say: Whenever this is a human it is an animal, and every animal is a body. It yields: Whenever this is a human it is a body.
+Source pages p. 159
+
+Commentary
+This passage expands the classification of the conjunctive syllogism (qiyas iqtirani) from the perspective of its material (maddah), i.e., the types of propositions that compose it. The author claims there are five divisions but enumerates four. The first type is composed of two categorical propositions (hamliyya), as already discussed in earlier sections. The second type is composed of two conditional propositions (muttasila). The example given is: 'If the sun is rising then daytime exists, and whenever daytime exists the earth is illuminated.' This yields: 'If the sun is rising then the earth is illuminated.' The reasoning is based on the principle that the implication of an implication is itself an implication (ملزوم الملزوم ملزوم). The third type is composed of two disjunctive propositions (munfasila). The example: 'Every number is either even or odd, and every even is either even-even or even-odd.' The conclusion combines all four possibilities: 'Every number is either even or odd or even-even or even-odd.' The fourth type is a mixture of a categorical and a conditional. The example: 'Whenever this is a human it is an animal, and every animal is a body.' The conclusion: 'Whenever this is a human it is a body.' This follows because whatever is true of the broader concept (animal) is true of the narrower (human), and the conditional chain preserves the implication.
+
+Key Terms
+قياس اقتراني
+حملي
+متصل
+منفصل
+ملزوم
+لازم
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a conjunctive syllogism composed of two conditional propositions?
+A) Every prayer is obligatory, and Fajr is a prayer, therefore Fajr is obligatory.
+B) If the time for Dhuhr has entered then Dhuhr prayer is obligatory, and if Dhuhr prayer is obligatory then it must be performed; therefore, if the time for Dhuhr has entered then it must be performed.
+C) Either the loan is repaid or it is forgiven, and it is not forgiven, therefore it is repaid.
+D) All scholars are trustworthy, and some teachers are scholars, therefore some teachers are trustworthy.
+
+Key Takeaway
+A conjunctive syllogism can be composed of categoricals, conditionals, disjunctives, or a mixture; the type determines the rules for drawing the conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conjunctive syllogism of each material type using Islamic examples from fiqh or kalam. For example, create a two-conditional syllogism about the obligation of prayer depending on the time of day.
+?
+Identify the material type of this argument: 'Everything that is intoxicating is prohibited, and every intoxicant is a substance that clouds the mind; therefore, everything that clouds the mind is prohibited?' (Hint: This is not a valid conjunctive syllogism as given; what type is it?)
+
+Pages p. 159 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 160
+Module 5 · Lesson 56
+Next →
+The Syllogism
+intermediate
+15 min
+Three Types of Mixed Categorical-Conditional Syllogisms
+Enumerates three types of mixed categorical-conditional syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify each of the three types of mixed syllogisms (categorical-conditional, categorical-disjunctive, conditional-disjunctive) and validate their conclusions using the principles of lāzim (broader term) and malzūm (narrower term).
+
+Core Idea
+Mixed syllogisms combine categorical and conditional propositions using the broader-term principle to derive necessary conclusions.
+
+Compound syllogisms that mix categorical (ḥamliyya) propositions with conditional (muttaṣila) or disjunctive (munfaṣila) ones are essential for constructing valid arguments in Islamic sciences. The author presents three distinct types, each justified by the relationship between the broader term (lāzim) and the narrower term (malzūm). Mastering these forms sharpens your ability to reason across different proposition types.
+
+Guided Path
+1
+Identify the first type: categorical-conditional
+Look for a conditional premise (e.g., 'Whenever this is a human, it is an animal') and a categorical premise ('Every animal is a body'). The conclusion is a conditional with the same antecedent and a new consequent.
+The validity relies on the principle that what holds for the broader term (animal) holds for the narrower (human).
+2
+Apply the lāzim-malzūm principle
+The broader term (al-lāzim) is 'animal', the narrower (al-malzūm) is 'human'. Since 'body' is true of all animals, it must be true of all humans. Verify that the middle term is indeed broader.
+This principle is foundational in usul al-fiqh when extending rulings from a general category to a specific one.
+3
+Analyze the second type: categorical-disjunctive
+Find a disjunctive premise ('Every number is either even or odd') and a categorical premise ('Every even is divisible into two equal parts'). The conclusion replaces 'even' with its definition, producing a new disjunction.
+The justification uses the muʿānd (contradictory) principle: if two terms are equal (musāwī) to a third contradictory, they are contradictory to each other.
+4
+Check the muʿānd principle with an Islamic example
+Replace 'number' with 'action', 'even' with 'obligatory', 'odd' with 'forbidden', and 'divisible' with 'rewardable'. Then: every action is either obligatory or forbidden; every obligatory is rewardable; therefore every action is either forbidden or rewardable.
+This mirrors the logic of fiqh classifications.
+5
+Examine the third type: conditional-disjunctive
+One premise is a conditional ('Whenever this is human, it is an animal'), the other is a disjunctive ('Every animal is either white or black'). The conclusion is a conditional with a disjunctive consequent.
+The division principle: if the broader term (animal) divides into parts, the narrower (human) also divides into those parts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإما من حملية ومتصلة، كقولنا كلما كان هذا إنساناً فهو حيوان وكل حيوان جسم ينتج كلما كان هذا إنساناً فهو جسم؛ لأن الصادق على كل ما صدق عليه اللازم (١) صادق على الملزوم (٢) قطعا. (١) اللازم وهو الأعم - الحيوان في المثال. (٢) الملزوم هو الأخص مثل الإنسان في المثال المذكور، فأي شيء يصدق على الأعم يصدق على الأخص وما دام الجسم قد صدق على الحيوان يصدق على الإنسان. وإما من حملية ومنفصلة، كقولنا كل عدد إما زوج وإما فرد - وكل زوج فهو منقسم بمتساويين ينتج: كل عدد إما فرد أومنقسم بمتساويين (٣)؛ لأن المساوي لأحد المعاندين معاند للآخر (٤). (٣) الفرد مخالف للمنقسم بمتساويين المساوي للزوج، إذن كما أن الفرد معاند للزوج فهو معاند لقولنا منقسم بمتساويين؛ لأنهما مساويان للزوج. (٤) انقسام كل قسم مما صدق عليه اللازم يستلزم انقسام الملزوم. وإما من متصلة ومنفصلة، كقولنا كلما كان هذا إنساناً فهو حيوان وكل حيوان إما أبيض وإما أسود ينتج: كلما كان هذا إنساناً فهو إما أسود وإما أبيض؛ لأن انقسام كل قسم مما صدق عليه اللازم يستلزم انقسام الملزوم (٥). فهذه هي الأقسام الخمسة الاقترانية، واستيفاء البحث في تحقيق إنتاجها في المطولات. (٥) ما دام اللازم وهو الحيوان الأعم، انقسم إلى أسود وأبيض فالإنسان الملزوم الأخص أيضاً منقسم إلى أسود وأبيض. الشارح قال الأقسام خمسة، وهو سبق قلم منه، إذ هي ستة وليست خمسة كما رأيت.
+And sometimes [it is composed] from a categorical and a conditional, like our saying: 'Whenever this is a human, it is an animal; and every animal is a body', producing: 'Whenever this is a human, it is a body.' Because what is true of everything that the necessary [broader term] is true of is true of the necessary [narrower term] with certainty. (1) The necessary [broader term] is the more general – animal in the example. (2) The necessary [narrower term] is the more specific, like human in the mentioned example; so anything that is true of the more general is true of the more specific, and as long as 'body' is true of 'animal', it is true of 'human'. And sometimes [it is composed] from a categorical and a disjunctive, like our saying: 'Every number is either even or odd; and every even is divisible into two equal parts', producing: 'Every number is either odd or divisible into two equal parts' (3); because what is equal to one of two contradictories is contradictory to the other (4). (3) 'Odd' is contrary to 'divisible into two equal parts' which is equal to 'even'; so just as 'odd' is contradictory to 'even', it is contradictory to our saying 'divisible into two equal parts', because they are equal to 'even'. (4) The division of every part of what the necessary [broader term] is true of necessitates the division of the necessary [narrower term]. And sometimes [it is composed] from a conditional and a disjunctive, like our saying: 'Whenever this is a human, it is an animal; and every animal is either white or black', producing: 'Whenever this is a human, it is either black or white'; because the division of every part of what the necessary [broader term] is true of necessitates the division of the necessary [narrower term] (5). These are the five conjunctive types, and the full investigation into the verification of their productivity is in the detailed works. (5) As long as the necessary [broader term] – animal – is divided into black and white, then the human which is the more specific necessary [narrower term] is also divided into black and white. The commentator said the types are five, but that is a slip of his pen; for they are six, not five, as you have seen.
+Source pages p. 160
+
+Commentary
+This passage is a detailed classification and explanation of compound syllogisms (al-qiyas al-iqtirani) that mix different propositional forms. The author presents three distinct types of mixed syllogisms, each with an example from logic and a justification of why the conclusion follows. First, a syllogism mixing a universal categorical (ḥamliyya) with a universal conditional (muttaṣila): 'Whenever this is a human, it is an animal; every animal is a body; therefore whenever this is a human, it is a body.' The reasoning is that what is true of the broader term (al-lāzim, here 'animal') is necessarily true of the narrower term (al-malzūm, here 'human'). This is illustrated with the example where 'body' is true of 'animal', so it is true of 'human'. Second, a syllogism mixing a universal categorical with a universal disjunctive (munfaṣila): 'Every number is either even or odd; every even is divisible into two equal parts; therefore every number is either odd or divisible into two equal parts.' The justification relies on the principle that the counterpart of a contradictory (muʿānd) is also a contradictory of the other; here 'odd' and 'divisible into two equal parts' are both contradictory to 'even', so they are contradictory to each other? Actually the text says 'because what is equal to one of two contradictories is contradictory to the other' – this is a standard logical principle. The footnotes further explain that 'odd' is contrary to 'divisible into two equal parts' because both are equivalent to 'even'? More precisely: 'odd' is contrary to 'even', and 'divisible into two equal parts' is equal to 'even', so 'odd' is contrary to 'divisible into two equal parts'. Third, a syllogism mixing a conditional with a disjunctive: 'Whenever this is a human, it is an animal; every animal is either white or black; therefore whenever this is a human, it is either black or white.' The reasoning is that if the broader term (animal) is divided into two parts, then the narrower term (human) must also be divided into those same parts. The footnote reiterates this. Finally, the author states that these are the 'five conjunctive types' and refers to detailed works for full verification. However, a marginal note corrects the commentator: the types are actually six, not five, because there are more possible combinations. This shows the precision required in logical classification.
+
+Key Terms
+اللازم
+الملزوم
+المعاند
+المساوي
+القياس المختلط
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of mixed syllogism is illustrated by the example: 'If a contract involves gharar, it is invalid; every invalid contract is forbidden; therefore if a contract involves gharar, it is forbidden'?
+A) Categorical-conditional
+B) Categorical-disjunctive
+C) Conditional-disjunctive
+D) Categorical-categorical
+
+Key Takeaway
+Mixed syllogisms combine proposition types using the principles of broader and narrower terms; mastering them enables rigorous compound reasoning in Islamic sciences.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of mixed syllogism in the following example from fiqh: 'Every intoxicant is forbidden; if a beverage is intoxicating, then it is forbidden.' Is this a categorical-conditional, categorical-disjunctive, or conditional-disjunctive? Explain.
+?
+Construct a valid categorical-disjunctive mixed syllogism on a kalam topic (e.g., attributes of Allah) and verify its conclusion using the muʿānd principle.
+
+Pages p. 160 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 161
+Module 5 · Lesson 57
+Next →
+The Syllogism
+advanced
+10 min
+Compound Syllogisms: Types and Examples
+Author enumerates five types of compound syllogisms with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify compound syllogisms composed of different premise types and justify their validity using the principles of opposition and division of predicates.
+
+Core Idea
+Compound syllogisms mix premise types to yield new conclusions.
+
+Syllogisms can be more than just categorical. When premises are of different types—categorical with disjunctive, or conditional with disjunctive—the reasoning becomes compound. This lesson walks through two such examples and explains the logical principles that guarantee their validity, ending with a note about the correct count of types.
+
+Guided Path
+1
+Identify the premise types
+Look at each example and determine whether the premises are categorical (حملیة), conditional (متصلة), or disjunctive (منفصلة). Note the order.
+The first example uses categorical and disjunctive; the second uses conditional and disjunctive.
+2
+Extract the components
+Write down the subject and predicate of each premise. In the first example, the disjunctive premise divides numbers into even and odd; the categorical premise states a property of even numbers.
+The conclusion combines the division of the subject with the property of one subset.
+3
+Understand the justification
+For the first example, the principle is 'what is equal to one of two opposites is opposite to the other.' For the second, it is 'if the necessary predicate is divided, the subject is also divided.'
+These justifications are given in the text.
+4
+Count the types
+The author says five types, but the footnote says six. List the possible combinations: categorical-categorical, categorical-conditional, categorical-disjunctive, conditional-conditional, conditional-disjunctive, disjunctive-disjunctive. That makes six.
+The footnote corrects a scribal error.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإِمَّا مِنْ حَمْليةٍ ومُنفصلة، كقولنا : كلَّ عَددٍ إِمّا زَوْجٌ وإِمَّا فَرْدٌ - وكل زَوج فهوَ منقسم بمتساوِبَيْن، يُنتجُ: كل عدَدٍ إِمَّا فردَّ منقسم بمتساوِيَيْن)؛ لأنَّ المُساوِي لأحد المُعانِديْنِ معانِدٌ للآخَرِ). .٦ وإِمَّا مِنْ مُتصلة ومنفصلة، كقولنا كلَّما كانَ هَذا إنسَانَا فهو حيوان. وكل حيوانٍ إِمَّا أبيضُ وإما أسود. ينتجُ : كُلَّما كانَ هَذا إنساناً فَهُو إِمَّا أَسودُ وإِمَّا أَبْيَضُ)؛ لأنَّ انْقِسَامَ كلّ قِسْمٍ مِمَّا صَدَقَ عليه اللازم يَسْتَلِزِمُ انْقسَامَ المَلزِوْمِ. فهذه هي الأقسام الخمسة الاقترانية)، واستيفاء البحث في تحقيق إنتاجها في المُطَوَّلاتِ. (۱) الفرد مخالف للمنقسم بمتساويين المساوي للزوج، إذن كما أن الفرد معاند للزوج فهو معاند لقولنا منقسم بمتساويين؛ لأنهما مساويان للزوج. (۲) ما دام اللازم وهو الحيوان الأعم، انقسم إلى أسود وأبيض فالإنسان الملزوم الأخص أيضاً منقسم إلى أسود وأبيض. (۳) الشارح قال الأقسام خمسة، وهو سبق قلم منه، إذ هي ستة وليست خمسة كما رأيت.
+And sometimes from a categorical and a disjunctive, like our saying: Every number is either even or odd; and every even is divisible into two equal parts; it yields: Every number is odd or divisible into two equal parts; because what is equal to one of two opposites is opposite to the other. And sometimes from a conditional and a disjunctive, like our saying: Whenever this is a human, it is an animal; and every animal is either white or black; it yields: Whenever this is a human, it is either black or white; because the division of every part of that which the necessary predicate is true of necessitates the division of the subject. These are the five types of the conjunctive [syllogism]. The exhaustive investigation of establishing their productivity is in the longer works. (Footnote 1: The odd is opposite to the divisible into two equal parts which is equal to the even; thus just as the odd is opposite to the even, it is opposite to our saying 'divisible into two equal parts' because they are equal to the even.) (Footnote 2: Since the necessary predicate, which is the more general 'animal', divided into black and white, then the subject 'human' is also divided into black and white.) (Footnote 3: The commentator said the types are five, but this is a slip of the pen; they are six, not five, as you have seen.)
+Source pages p. 161
+
+Commentary
+This passage discusses compound syllogisms (al-iqtiraniya) that are composed of different types of premises. The author gives two examples of compound syllogisms: one combining a categorical and a disjunctive premise, and another combining a conditional and a disjunctive premise. In the first example, the categorical premise 'every even is divisible into two equal parts' and the disjunctive premise 'every number is either even or odd' yield the conclusion that every number is either odd or divisible into two equal parts. The justification is that what is equal to one of two opposites is opposite to the other. The second example uses a conditional premise 'if it is human, it is animal' and a disjunctive premise 'every animal is either white or black' to conclude that if it is human, it is either black or white. The justification is that if the necessary predicate (animal) is divided, the subject (human) is also divided. The author then states that these are the five types of conjunctive syllogisms, but a footnote corrects that there are actually six types, attributing the error to a slip of the pen by the commentator. The passage ends by referring to longer works for a full investigation. The two examples illustrate how different propositional combinations produce valid compound syllogisms.
+
+Key Terms
+اقترانية
+حملیة
+منفصلة
+متصلة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the compound syllogism example combining a categorical and a disjunctive premise, what is the justification for the conclusion that every number is odd or divisible into two equal parts?
+A) Because odd and divisible into two equal parts are opposites.
+B) Because what is equal to one of two opposites is opposite to the other.
+C) Because the necessary predicate is divided.
+D) Because the subject is more general.
+
+Key Takeaway
+Compound syllogisms combine different premise types and are justified by principles like opposition and division of predicates; there are six possible combinations.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a compound syllogism on an Islamic topic: e.g., 'Every act is either wajib or mubah; every wajib act requires intention; therefore, every act is either mubah or requires intention.' Identify the premise types and justify the conclusion.
+?
+In a Fiqh context, analyse the argument: 'If the prayer is invalid, it must be repeated; and every repetition is either immediate or later. Therefore, if the prayer is invalid, the repetition is either immediate or later.' Explain the logical principle used.
+
+Pages p. 161 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 162
+Module 5 · Lesson 58
+Next →
+The Syllogism
+beginner
+5 min
+Valid Inferences in the Conjunctive Conditional Syllogism
+Author defines the conjunctive conditional syllogism and its two valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two valid inference modes of a conjunctive conditional syllogism (modus ponens and modus tollens) and apply them to a theological argument.
+
+Core Idea
+Affirming the antecedent or denying the consequent yields certainty; the reverse does not.
+
+The conjunctive conditional syllogism (al-qiyas al-istithna'i al-muttasil) is the foundation for many arguments in Islamic theology and jurisprudence. When you have a conditional statement 'If A, then B,' knowing how to correctly infer from it is critical. This lesson teaches the only two valid modes: affirming A to conclude B, or denying B to conclude not-A. The other two possibilities (affirming B to conclude A, or denying A to conclude not-B) are fallacies.
+
+Guided Path
+1
+Identify the conditional premise
+Find the sentence of the form 'If...then...' in the argument. Example: 'If this intoxicant is khamr, then it is haram.' The antecedent is 'this intoxicant is khamr', the consequent is 'it is haram'.
+In Arabic, often expressed with 'in' or 'idha'.
+2
+Check the minor premise
+The minor premise will either affirm the antecedent or deny the consequent. Identify which one. If it affirms the antecedent, we have modus ponens. If it denies the consequent, we have modus tollens.
+3
+Draw the conclusion
+If modus ponens, conclude the consequent. If modus tollens, conclude the denial of the antecedent. Example: 'It is khamr' (affirms antecedent) → 'Therefore it is haram'. 'It is not haram' (denies consequent) → 'Therefore it is not khamr'.
+These are the only two valid modes.
+4
+Avoid invalid modes
+Do not affirm the consequent to conclude the antecedent, nor deny the antecedent to conclude the denial of the consequent. Those are fallacies.
+Common error in debates.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأَمَّا القِياسُ الاستثنائي ) فلا يخْلُو: مِنْ أَنْ تَكُونَ شَرطيةٌ مُتصلةٌ أو مُنفصلة. حقيقية، أو مَانِعَةَ الجَمْعِ، أو مانِعةُ الخلو. . فالمتصلة يُنتج بوضع المقدَّمِ وَضْعُ التَالِي وبرفع التالي رفع المقدَّم اثنانِ. .٢ . والحقيقية بوضع كل من الجزأينِ رَفع الآخَرِ. وبرفعِ كلِّ واحدٍ مِنْهما وَضْعَ الآخَرِ أَرْبَعَةٌ. ٣. ومانعةُ الجَمْعِ بوضع كلِّ وَاحدٍ منهُما رَفعَ الآخَرِ فَقَط اثْنَانِ. ٤ . ومَانِعةُ الخُلو برفْعِ كلّ منهُما وَضْعَ الآخَرِ فَقَطْ اثنانِ. (۱) سبق أن بينت سبب تسميته استثنائيا؛ لأنه يحتوي على أداة استثناء وهي (لكن) التي تدخل على الصغرى. (۲) الوضع الإثبات والإخبار (۳) الرفع هو النفي بإدخال حرف النفي على القضية. (٤) سمیت حقيقية؛ لأنها تمثل العناد في نوعيه في الوضع والرفع. (٥) سميت مانعة الجمع؛ لأنها تمنع جمع المقدم والتالي، ولا تمنع رفعهما، لأن الضدّين لا يجتمعان، وقد يرتفعان. (٦) لأن القضية تمنع من خلوهما ويجوز فيها جمعهما.
+As for the conditional syllogism, it is not free from being either a conditional proposition that is conjunctive or disjunctive: real, or exclusive of conjunction, or exclusive of emptiness. The conjunctive produces by affirming the antecedent the affirmation of the consequent, and by denying the consequent the denial of the antecedent: two [modes]. The real produces by affirming each of the two parts the denial of the other, and by denying each of them the affirmation of the other: four [modes]. The exclusive of conjunction produces by affirming each of them the denial of the other only: two [modes]. The exclusive of emptiness produces by denying each of them the affirmation of the other only: two [modes]. (Footnote 1: Previously I explained why it is called 'istithna'i' because it contains an exception tool, which is 'lākin' that enters the minor premise.) (Footnote 2: Affirmation is positive assertion.) (Footnote 3: Denial is negation by entering the negation particle on the proposition.) (Footnote 4: It is called 'real' because it represents opposition in both types, in affirmation and denial.) (Footnote 5: It is called 'exclusive of conjunction' because it prevents the conjunction of the antecedent and consequent, but does not prevent their being denied, because two opposites cannot be together, and they may both be absent.) (Footnote 6: Because the proposition prevents their emptiness and allows their conjunction.)
+Source pages p. 162
+
+Commentary
+This passage defines the conditional syllogism (al-qiyas al-istithna'i) and categorizes it into four types based on the nature of the conditional premise: conjunctive (muttasila), real disjunctive (haqiqiyya), exclusive of conjunction (mani'at al-jam'), and exclusive of emptiness (mani'at al-khuluw). For each type, the author specifies the valid inference rules. For the conjunctive (if-then), there are two valid modes: affirming the antecedent to conclude the consequent, and denying the consequent to conclude the denial of the antecedent. For the real disjunctive (either-or, exclusive in both ways), there are four valid modes: affirming one part to deny the other, and denying one part to affirm the other. For the exclusive of conjunction (which forbids both being true but allows both false), only two modes: affirming one part to deny the other (but not vice versa). For the exclusive of emptiness (which forbids both false but allows both true), only two modes: denying one part to affirm the other (but not affirming to deny). The footnotes explain the terminology: 'wad' means affirmation, 'raf' means negation; 'haqiqiyya' is called real because it encompasses opposition in both affirmation and negation; 'mani'at al-jam'' prevents conjunction; 'mani'at al-khuluw' prevents emptiness. The student should memorize these inference rules as they are foundational for evaluating conditional arguments in Islamic logical discourse.
+
+Key Terms
+قیاس استثنائي
+وضع
+رفع
+
+Key Terms from Source Passage
+
+Checkpoint
+In a conjunctive conditional syllogism with premise 'If prayer is valid, then wudu is performed', which of the following is a valid inference?
+A) The prayer is valid, so wudu is performed.
+B) Wudu is performed, so the prayer is valid.
+C) The prayer is not valid, so wudu is not performed.
+D) None of the above.
+
+Key Takeaway
+For a conjunctive conditional, only affirming the antecedent or denying the consequent yields a valid conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following argument uses a valid conjunctive inference: 'If the witness is trustworthy, his testimony is accepted. His testimony is accepted. Therefore the witness is trustworthy.' What is the fallacy?
+?
+Construct a valid modus tollens argument using the premise: 'If the sun rises from the west, then the world is about to end. The world is not about to end. Therefore...' Complete the conclusion.
+
+Pages p. 162 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 162
+Module 5 · Lesson 59
+Next →
+The Syllogism
+intermediate
+5 min
+Valid Inferences in the Real Disjunctive Syllogism (Haqiqiyya)
+Author defines the real disjunctive conditional syllogism and its four valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a real disjunctive premise and apply its four valid inference modes to a theological argument.
+
+Core Idea
+In real disjunction, affirming one part denies the other, and denying one part affirms the other.
+
+A real disjunctive (haqiqiyya) is an 'either-or' that is exclusive and exhaustive: the two parts cannot both be true and cannot both be false. This type appears in many Islamic legal maxims, such as 'every action is either obligatory or not obligatory' (but careful: that is not exhaustive). A proper example: 'The reward for a person's deeds is either Paradise or Hell.' This lesson covers the four valid inferences: affirming A denies B, affirming B denies A, denying A affirms B, denying B affirms A.
+
+Guided Path
+1
+Identify the real disjunctive premise
+Look for a proposition that presents two options that are mutually exclusive and exhaustive. In the passage, the author refers to 'al-haqiqiyya' which represents opposition in both affirmation and denial.
+Also called 'exclusive disjunction' in modern logic.
+2
+Check the minor premise
+The minor premise will either affirm one part or deny one part. There are four possibilities: affirm A, affirm B, deny A, deny B.
+3
+Draw the corresponding conclusion
+If you affirm A, conclude not-B. If you affirm B, conclude not-A. If you deny A, conclude B. If you deny B, conclude A. All four are valid for real disjunction.
+This is exactly what the author says: 'The real produces by affirming each of the two parts the denial of the other, and by denying each of them the affirmation of the other: four [modes].'
+4
+Test with an example
+Using the premise 'The reward is either Paradise or Hell.', evaluate each inference. For instance, 'The reward is Paradise' → 'It is not Hell' (valid). 'The reward is not Paradise' → 'It is Hell' (valid).
+Ensure the premise is truly exhaustive; otherwise the inference may fail.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأَمَّا القِياسُ الاستثنائي ) فلا يخْلُو: مِنْ أَنْ تَكُونَ شَرطيةٌ مُتصلةٌ أو مُنفصلة. حقيقية، أو مَانِعَةَ الجَمْعِ، أو مانِعةُ الخلو. . فالمتصلة يُنتج بوضع المقدَّمِ وَضْعُ التَالِي وبرفع التالي رفع المقدَّم اثنانِ. .٢ . والحقيقية بوضع كل من الجزأينِ رَفع الآخَرِ. وبرفعِ كلِّ واحدٍ مِنْهما وَضْعَ الآخَرِ أَرْبَعَةٌ. ٣. ومانعةُ الجَمْعِ بوضع كلِّ وَاحدٍ منهُما رَفعَ الآخَرِ فَقَط اثْنَانِ. ٤ . ومَانِعةُ الخُلو برفْعِ كلّ منهُما وَضْعَ الآخَرِ فَقَطْ اثنانِ. (۱) سبق أن بينت سبب تسميته استثنائيا؛ لأنه يحتوي على أداة استثناء وهي (لكن) التي تدخل على الصغرى. (۲) الوضع الإثبات والإخبار (۳) الرفع هو النفي بإدخال حرف النفي على القضية. (٤) سمیت حقيقية؛ لأنها تمثل العناد في نوعيه في الوضع والرفع. (٥) سميت مانعة الجمع؛ لأنها تمنع جمع المقدم والتالي، ولا تمنع رفعهما، لأن الضدّين لا يجتمعان، وقد يرتفعان. (٦) لأن القضية تمنع من خلوهما ويجوز فيها جمعهما.
+As for the conditional syllogism, it is not free from being either a conditional proposition that is conjunctive or disjunctive: real, or exclusive of conjunction, or exclusive of emptiness. The conjunctive produces by affirming the antecedent the affirmation of the consequent, and by denying the consequent the denial of the antecedent: two [modes]. The real produces by affirming each of the two parts the denial of the other, and by denying each of them the affirmation of the other: four [modes]. The exclusive of conjunction produces by affirming each of them the denial of the other only: two [modes]. The exclusive of emptiness produces by denying each of them the affirmation of the other only: two [modes]. (Footnote 1: Previously I explained why it is called 'istithna'i' because it contains an exception tool, which is 'lākin' that enters the minor premise.) (Footnote 2: Affirmation is positive assertion.) (Footnote 3: Denial is negation by entering the negation particle on the proposition.) (Footnote 4: It is called 'real' because it represents opposition in both types, in affirmation and denial.) (Footnote 5: It is called 'exclusive of conjunction' because it prevents the conjunction of the antecedent and consequent, but does not prevent their being denied, because two opposites cannot be together, and they may both be absent.) (Footnote 6: Because the proposition prevents their emptiness and allows their conjunction.)
+Source pages p. 162
+
+Commentary
+This passage defines the conditional syllogism (al-qiyas al-istithna'i) and categorizes it into four types based on the nature of the conditional premise: conjunctive (muttasila), real disjunctive (haqiqiyya), exclusive of conjunction (mani'at al-jam'), and exclusive of emptiness (mani'at al-khuluw). For each type, the author specifies the valid inference rules. For the conjunctive (if-then), there are two valid modes: affirming the antecedent to conclude the consequent, and denying the consequent to conclude the denial of the antecedent. For the real disjunctive (either-or, exclusive in both ways), there are four valid modes: affirming one part to deny the other, and denying one part to affirm the other. For the exclusive of conjunction (which forbids both being true but allows both false), only two modes: affirming one part to deny the other (but not vice versa). For the exclusive of emptiness (which forbids both false but allows both true), only two modes: denying one part to affirm the other (but not affirming to deny). The footnotes explain the terminology: 'wad' means affirmation, 'raf' means negation; 'haqiqiyya' is called real because it encompasses opposition in both affirmation and negation; 'mani'at al-jam'' prevents conjunction; 'mani'at al-khuluw' prevents emptiness. The student should memorize these inference rules as they are foundational for evaluating conditional arguments in Islamic logical discourse.
+
+Key Terms
+مانعة الجمع
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a valid inference from a real disjunctive premise?
+A) Affirming one part to deny the other.
+B) Denying one part to affirm the other.
+C) Both A and B.
+D) Neither A nor B.
+
+Key Takeaway
+For a real disjunction, all four combinations of affirming/denying one part to infer the opposite about the other part are valid.
+
+How This Lesson Applies — to MY Life?
+?
+The theologian states: 'The world is either eternal or temporally originated. This is a real disjunctive. If the world is eternal, then it is not temporally originated. If it is not eternal, then it is temporally originated.' Identify which of the four valid modes are being used.
+?
+Given the real disjunctive premise 'Every act of worship is either valid or invalid', test the inference: 'This act of worship is not valid, therefore it is invalid.' Is it valid? Why?
+
+Pages p. 162 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 162
+Module 5 · Lesson 60
+Next →
+The Syllogism
+intermediate
+5 min
+Valid Inferences in the Exclusive of Conjunction Disjunctive (Mani'at al-Jam')
+Author defines the exclusive of conjunction disjunctive and its two valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify an exclusive of conjunction disjunctive and correctly apply its only two valid inference modes.
+
+Core Idea
+When disjunction prevents both being true, only affirming one part allows you to deny the other.
+
+The exclusive of conjunction disjunctive (mani'at al-jam') allows the two parts to be both false, but not both true. For example, 'The day is either Friday or Saturday' – it cannot be both, but it could be neither (Sunday). In such a proposition, the only valid inferences are: if you affirm one part, you can deny the other. But if you deny one part, you cannot affirm the other because both could be false. This lesson teaches you to recognize this type and avoid invalid inferences.
+
+Guided Path
+1
+Identify the exclusive of conjunction disjunctive
+Check if the disjunction allows both parts to be false. The author says 'it prevents the conjunction of the antecedent and consequent, but does not prevent their being denied.' Look for cases where the two options are opposites that can both be absent.
+Example: 'The liquid is either wine or vinegar' – a liquid can be neither (water).
+2
+Check the minor premise
+If the minor premise affirms one part, you have a valid inference. If it denies one part, no valid conclusion follows because both could be false.
+3
+Draw the conclusion if valid
+If you affirm part A, conclude not-B. If you affirm part B, conclude not-A. These are the only two valid modes.
+The passage says: 'Mani'at al-jam' produces by affirming each of them the denial of the other only: two [modes].'
+4
+Test with an example
+From 'The liquid is either wine or vinegar', if we affirm 'wine', we conclude 'not vinegar'. But if we deny 'wine', we cannot conclude 'vinegar' because it could be water.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأَمَّا القِياسُ الاستثنائي ) فلا يخْلُو: مِنْ أَنْ تَكُونَ شَرطيةٌ مُتصلةٌ أو مُنفصلة. حقيقية، أو مَانِعَةَ الجَمْعِ، أو مانِعةُ الخلو. . فالمتصلة يُنتج بوضع المقدَّمِ وَضْعُ التَالِي وبرفع التالي رفع المقدَّم اثنانِ. .٢ . والحقيقية بوضع كل من الجزأينِ رَفع الآخَرِ. وبرفعِ كلِّ واحدٍ مِنْهما وَضْعَ الآخَرِ أَرْبَعَةٌ. ٣. ومانعةُ الجَمْعِ بوضع كلِّ وَاحدٍ منهُما رَفعَ الآخَرِ فَقَط اثْنَانِ. ٤ . ومَانِعةُ الخُلو برفْعِ كلّ منهُما وَضْعَ الآخَرِ فَقَطْ اثنانِ. (۱) سبق أن بينت سبب تسميته استثنائيا؛ لأنه يحتوي على أداة استثناء وهي (لكن) التي تدخل على الصغرى. (۲) الوضع الإثبات والإخبار (۳) الرفع هو النفي بإدخال حرف النفي على القضية. (٤) سمیت حقيقية؛ لأنها تمثل العناد في نوعيه في الوضع والرفع. (٥) سميت مانعة الجمع؛ لأنها تمنع جمع المقدم والتالي، ولا تمنع رفعهما، لأن الضدّين لا يجتمعان، وقد يرتفعان. (٦) لأن القضية تمنع من خلوهما ويجوز فيها جمعهما.
+As for the conditional syllogism, it is not free from being either a conditional proposition that is conjunctive or disjunctive: real, or exclusive of conjunction, or exclusive of emptiness. The conjunctive produces by affirming the antecedent the affirmation of the consequent, and by denying the consequent the denial of the antecedent: two [modes]. The real produces by affirming each of the two parts the denial of the other, and by denying each of them the affirmation of the other: four [modes]. The exclusive of conjunction produces by affirming each of them the denial of the other only: two [modes]. The exclusive of emptiness produces by denying each of them the affirmation of the other only: two [modes]. (Footnote 1: Previously I explained why it is called 'istithna'i' because it contains an exception tool, which is 'lākin' that enters the minor premise.) (Footnote 2: Affirmation is positive assertion.) (Footnote 3: Denial is negation by entering the negation particle on the proposition.) (Footnote 4: It is called 'real' because it represents opposition in both types, in affirmation and denial.) (Footnote 5: It is called 'exclusive of conjunction' because it prevents the conjunction of the antecedent and consequent, but does not prevent their being denied, because two opposites cannot be together, and they may both be absent.) (Footnote 6: Because the proposition prevents their emptiness and allows their conjunction.)
+Source pages p. 162
+
+Commentary
+This passage defines the conditional syllogism (al-qiyas al-istithna'i) and categorizes it into four types based on the nature of the conditional premise: conjunctive (muttasila), real disjunctive (haqiqiyya), exclusive of conjunction (mani'at al-jam'), and exclusive of emptiness (mani'at al-khuluw). For each type, the author specifies the valid inference rules. For the conjunctive (if-then), there are two valid modes: affirming the antecedent to conclude the consequent, and denying the consequent to conclude the denial of the antecedent. For the real disjunctive (either-or, exclusive in both ways), there are four valid modes: affirming one part to deny the other, and denying one part to affirm the other. For the exclusive of conjunction (which forbids both being true but allows both false), only two modes: affirming one part to deny the other (but not vice versa). For the exclusive of emptiness (which forbids both false but allows both true), only two modes: denying one part to affirm the other (but not affirming to deny). The footnotes explain the terminology: 'wad' means affirmation, 'raf' means negation; 'haqiqiyya' is called real because it encompasses opposition in both affirmation and negation; 'mani'at al-jam'' prevents conjunction; 'mani'at al-khuluw' prevents emptiness. The student should memorize these inference rules as they are foundational for evaluating conditional arguments in Islamic logical discourse.
+
+Key Terms
+مانعة الجمع
+
+Key Terms from Source Passage
+
+Checkpoint
+For a disjunctive premise that is exclusive of conjunction (mani'at al-jam'), which inference is valid?
+A) Affirming one part to deny the other.
+B) Denying one part to affirm the other.
+C) Both A and B.
+D) Neither A nor B.
+
+Key Takeaway
+In exclusive of conjunction, only affirmation-to-denial inferences are valid.
+
+How This Lesson Applies — to MY Life?
+?
+From the premise 'This action is either obligatory or forbidden' (assuming it is an exclusive of conjunction, i.e., it can be neither), test the inference: 'It is not obligatory, therefore it is forbidden.' Is it valid? Why or why not?
+?
+Construct a valid inference from the same premise by affirming one part.
+
+Pages p. 162 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 162
+Module 5 · Lesson 61
+Next →
+The Syllogism
+intermediate
+5 min
+Valid Inferences in the Exclusive of Emptiness Disjunctive (Mani'at al-Khuluw)
+Author defines the exclusive of emptiness disjunctive and its two valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify an exclusive of emptiness disjunctive and correctly apply its only two valid inference modes.
+
+Core Idea
+When disjunction prevents both being false, only denying one part allows you to affirm the other.
+
+The exclusive of emptiness disjunctive (mani'at al-khuluw) allows the two parts to be both true, but not both false. For example, 'Either God is just or He is merciful' – these attributes can both be true, but they cannot both be false (God must have at least one). In such a proposition, the only valid inferences are: if you deny one part, you can affirm the other. But if you affirm one part, you cannot deny the other because both could be true. This lesson teaches you to recognize this type and use it correctly in argumentation.
+
+Guided Path
+1
+Identify the exclusive of emptiness disjunctive
+Check if the disjunction allows both parts to be true. The author says 'the proposition prevents their emptiness and allows their conjunction.' That means it forbids both being false, but allows both true.
+Example: 'Either God is just or He is merciful' – these can both be true, and cannot both be false given divine attributes.
+2
+Check the minor premise
+If the minor premise denies one part, you have a valid inference. If it affirms one part, no valid conclusion follows because both could be true.
+3
+Draw the conclusion if valid
+If you deny part A, conclude B. If you deny part B, conclude A. These are the only two valid modes.
+The passage says: 'Mani'at al-khuluw produces by denying each of them the affirmation of the other only: two [modes].'
+4
+Test with an example
+From 'Either God is just or He is merciful', if we deny 'God is just', we conclude 'God is merciful'. But if we affirm 'God is just', we cannot conclude 'God is not merciful' because both can be true.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأَمَّا القِياسُ الاستثنائي ) فلا يخْلُو: مِنْ أَنْ تَكُونَ شَرطيةٌ مُتصلةٌ أو مُنفصلة. حقيقية، أو مَانِعَةَ الجَمْعِ، أو مانِعةُ الخلو. . فالمتصلة يُنتج بوضع المقدَّمِ وَضْعُ التَالِي وبرفع التالي رفع المقدَّم اثنانِ. .٢ . والحقيقية بوضع كل من الجزأينِ رَفع الآخَرِ. وبرفعِ كلِّ واحدٍ مِنْهما وَضْعَ الآخَرِ أَرْبَعَةٌ. ٣. ومانعةُ الجَمْعِ بوضع كلِّ وَاحدٍ منهُما رَفعَ الآخَرِ فَقَط اثْنَانِ. ٤ . ومَانِعةُ الخُلو برفْعِ كلّ منهُما وَضْعَ الآخَرِ فَقَطْ اثنانِ. (۱) سبق أن بينت سبب تسميته استثنائيا؛ لأنه يحتوي على أداة استثناء وهي (لكن) التي تدخل على الصغرى. (۲) الوضع الإثبات والإخبار (۳) الرفع هو النفي بإدخال حرف النفي على القضية. (٤) سمیت حقيقية؛ لأنها تمثل العناد في نوعيه في الوضع والرفع. (٥) سميت مانعة الجمع؛ لأنها تمنع جمع المقدم والتالي، ولا تمنع رفعهما، لأن الضدّين لا يجتمعان، وقد يرتفعان. (٦) لأن القضية تمنع من خلوهما ويجوز فيها جمعهما.
+As for the conditional syllogism, it is not free from being either a conditional proposition that is conjunctive or disjunctive: real, or exclusive of conjunction, or exclusive of emptiness. The conjunctive produces by affirming the antecedent the affirmation of the consequent, and by denying the consequent the denial of the antecedent: two [modes]. The real produces by affirming each of the two parts the denial of the other, and by denying each of them the affirmation of the other: four [modes]. The exclusive of conjunction produces by affirming each of them the denial of the other only: two [modes]. The exclusive of emptiness produces by denying each of them the affirmation of the other only: two [modes]. (Footnote 1: Previously I explained why it is called 'istithna'i' because it contains an exception tool, which is 'lākin' that enters the minor premise.) (Footnote 2: Affirmation is positive assertion.) (Footnote 3: Denial is negation by entering the negation particle on the proposition.) (Footnote 4: It is called 'real' because it represents opposition in both types, in affirmation and denial.) (Footnote 5: It is called 'exclusive of conjunction' because it prevents the conjunction of the antecedent and consequent, but does not prevent their being denied, because two opposites cannot be together, and they may both be absent.) (Footnote 6: Because the proposition prevents their emptiness and allows their conjunction.)
+Source pages p. 162
+
+Commentary
+This passage defines the conditional syllogism (al-qiyas al-istithna'i) and categorizes it into four types based on the nature of the conditional premise: conjunctive (muttasila), real disjunctive (haqiqiyya), exclusive of conjunction (mani'at al-jam'), and exclusive of emptiness (mani'at al-khuluw). For each type, the author specifies the valid inference rules. For the conjunctive (if-then), there are two valid modes: affirming the antecedent to conclude the consequent, and denying the consequent to conclude the denial of the antecedent. For the real disjunctive (either-or, exclusive in both ways), there are four valid modes: affirming one part to deny the other, and denying one part to affirm the other. For the exclusive of conjunction (which forbids both being true but allows both false), only two modes: affirming one part to deny the other (but not vice versa). For the exclusive of emptiness (which forbids both false but allows both true), only two modes: denying one part to affirm the other (but not affirming to deny). The footnotes explain the terminology: 'wad' means affirmation, 'raf' means negation; 'haqiqiyya' is called real because it encompasses opposition in both affirmation and negation; 'mani'at al-jam'' prevents conjunction; 'mani'at al-khuluw' prevents emptiness. The student should memorize these inference rules as they are foundational for evaluating conditional arguments in Islamic logical discourse.
+
+Key Terms
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+For a disjunctive premise that is exclusive of emptiness (mani'at al-khuluw), which inference is valid?
+A) Affirming one part to deny the other.
+B) Denying one part to affirm the other.
+C) Both A and B.
+D) Neither A nor B.
+
+Key Takeaway
+In exclusive of emptiness, only denial-to-affirmation inferences are valid.
+
+How This Lesson Applies — to MY Life?
+?
+Given the exclusive of emptiness disjunctive 'Either the act is pleasing to God or it is permissible', test the inference: 'It is not pleasing to God, therefore it is permissible.' Is it valid? Why?
+?
+Construct a valid inference from the same premise by denying the other part.
+
+Pages p. 162 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 163
+Module 5 · Lesson 62
+Next →
+The Syllogism
+intermediate
+10 min
+Productive and Unproductive Forms in the Implicative Conditional Syllogism
+Enumeration of productive/unproductive exceptive syllogism forms with implicative conditional rules.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four possible forms of an implicative conditional syllogism and determine which are productive based on the specific-generic relation between antecedent and consequent.
+
+Core Idea
+Only affirming the antecedent and denying the consequent yield valid conclusions in implicative conditionals.
+
+The exceptive syllogism (qiyas istithna'i) is central to Islamic logic. In this passage, the author systematically enumerates the productive and unproductive forms, focusing on the implicative conditional (muttasila luzumiyya). Using the classic example of 'human' and 'animal', the passage clarifies why certain inferences are valid and others are not. This lesson will guide you through that logical analysis.
+
+Guided Path
+1
+Understand the logical structure of an implicative conditional
+An implicative conditional has an antecedent (muqaddam) and consequent (tali) with a necessary relation (luzum). The consequent is typically more general (a'amm) than the antecedent (akhass). For example, 'human' is specific, 'animal' is general.
+This specific-generic relation is key to understanding which inferences are productive.
+2
+Enumerate the four possible minor premises
+The minor premise can either affirm or deny the antecedent or the consequent. So we have four cases: affirm antecedent, deny antecedent, affirm consequent, deny consequent.
+These correspond to the four rows in the author's table.
+3
+Apply the rule of the implicative conditional to each case
+Using the specific-generic relation: affirming the specific (antecedent) necessitates the general (consequent); denying the general necessitates denying the specific. But affirming the general or denying the specific do not yield necessary conclusions.
+The author states: 'وضع المقدم ينتج وضع التالي' (affirming antecedent yields consequent) and 'رفع التالي ينتج رفع المقدم' (denying consequent yields denying antecedent).
+4
+Identify which cases are productive
+Affirming the antecedent (modus ponens) and denying the consequent (modus tollens) are productive, yielding valid conclusions. The other two (affirming consequent, denying antecedent) are unproductive.
+Author counts two productive forms for the implicative conditional.
+5
+Test with the provided example
+The example 'If it is a human, it is an animal' (human=akhass, animal=a'amm). Verify each case: affirm human -> animal (valid); affirm animal -> human (invalid); deny human -> not animal (invalid); deny animal -> not human (valid).
+The author provides a complete table illustrating these results.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+صارَ مجموع المنتجات عشرة، والعقيمة ستة). اثنان في المُتصلة، واثنان في مانِعَةِ الجَمْعِ، واثنان في مانعة الخلو. هَذا هُوَ الكَلامُ الكُليُّ ، وإلى بَعْضٍ مَا ذَكَرْنَاهُ أَشار بقولِهِ : (۱) لأن القسمة العقلية تقتضي أن ضروب الشرطية ستة عشرة؛ لأنها مركبة من مقدم وتال. وكل منهما قد يوضع أو يرفع. وإليك جدولاً لذلك: القياس الاستثنائي: هو أن تكون النتيجة أو نقيضها مذكورة فيه بالفعل. سمي استثنائياً؛ لأن فيه أداة الاستثناء مثل كلمة (لكن)، والاستثنائي يكون إلا في القضايا الشرطية. الشرطية المتصلة اللزومية: لا الناتج فيها: وضع المقدم ينتج وضع التالي لا ينتج وضع التالي وضع المقدم أما رفع المقدم فلا ينتج رفع التالي رفع التالي ينتج رفع المقدم لأن الغالب فيها كون التالي أعم من المقدم. وأَمَّا القياسُ الاستثنائي - فالشرطية الموضُوعَةُ فيه: .١ إن كانتْ متصلة موجبة لزُوْمية - فاستثناء عين المقدَّمِ ينتجُ عَيْنَ التالي) كقولنا: إِنْ كانَ هذا إنساناً فهوَ حَيَوانٌ لكنَّهُ إِنسانُ يُنتجُ إِنَّهُ حيوان؛ لأنَّ وجُودَ المَلزُوْم يَستَلْزِمُ وجُودَ اللازم . (۱) هو الأخص وهو الإنسان. فوجود الأخص يستلزم وجود الأعم، فوجود الإنسان يستلزم وجود الأعم وهو الحيوان. ونفيه لا يستلزم نفي الأعم إذ قد يكون فرساً. ونفي الأعم كالحيوان - يستلزم نفي الأخص كالإنسان. أما وجود الأعم فإنه لا يستلزم وجود الأخص. فإذا قلنا: هذا حيوان، لا يلزم أن يكون إنساناً. فالناتج من الستة عشر اثنان في اللزومية المتصلة واثنان في مانعة الجمع واثنان في مانعة الخلو وأربعة في المنفصلة الحقيقية وإليك جدولاً للزومية المتصلة: الكبرى المقدم التالي الصغرى النتيجة لو كان إنسانا لكان حيواناً لكنه إنسان ينتج : فهو حيوان لو كان إنسانا لكان حيوانا لكنه حيوان لا ينتج : فهو إنسان لو كان إنسانا لكان حيوانا لكنه ليس حيواناً ينتج : فهو ليس إنسان لو كان إنسانا لكان حيوانا لكنه ليس إنسانا لا ينتج : فهو ليس بحيوان (۲) الأعم هو اللازم كالحيوان.
+The total of productive becomes ten, and the unproductive six. Two in the conditional, two in the exclusive, and two in the non-exclusive. This is the universal discourse, and to some of what we mentioned he indicated by his saying: (1) Because the rational division necessitates that the modes of the conditional are sixteen; because it is composed of antecedent and consequent. And each of them may be affirmed or denied. And for you is a table for that: The exceptive syllogism is that in which the conclusion or its contradictory is actually mentioned. It is called exceptive because it contains the exception particle like the word 'but', and the exceptive occurs only in conditional propositions. The implicative conditional: The resultant in it: Affirmation of the antecedent yields affirmation of the consequent; affirmation of the consequent does not yield affirmation of the antecedent; as for denial of the antecedent, it does not yield denial of the consequent; denial of the consequent yields denial of the antecedent — because the majority is that the consequent is more general than the antecedent. As for the exceptive syllogism — the conditional placed in it: if it is affirmative implicative conditional, then excepting the very antecedent yields the very consequent, as in our statement: 'If this is a human, then it is an animal, but it is a human, therefore it is an animal' — because the existence of the required necessitates the existence of the necessary. (1) It is the more specific which is the human. So the existence of the more specific necessitates the existence of the more general, so the existence of human necessitates the existence of the more general which is animal. And its denial does not necessitate the denial of the more general, for it may be a horse. And the denial of the more general like animal necessitates the denial of the more specific like human. As for the existence of the more general, it does not necessitate the existence of the more specific. If we say: 'This is an animal', it does not necessarily follow that it is a human. So the resultant from the sixteen: two in the implicative conditional, two in the exclusive, two in the non-exclusive, and four in the real disjunctive. And for you is a table for the implicative conditional: Major premise: antecedent, consequent; minor premise; result: 'If it were a human it would be an animal, but it is a human' yields: 'So it is an animal'. 'If it were a human it would be an animal, but it is an animal' does not yield: 'So it is a human'. 'If it were a human it would be an animal, but it is not an animal' yields: 'So it is not a human'. 'If it were a human it would be an animal, but it is not a human' does not yield: 'So it is not an animal'. (2) The more general is the necessary like animal.
+Source pages p. 163
+
+Commentary
+This passage is an enumeration and explanation of the productive (muntijah) and unproductive ('aqima) forms of the exceptive syllogism (qiyas istithna'i), focusing on the implicative conditional (muttasila luzumiyya). The author begins by stating that out of the sixteen possible forms of conditional syllogisms (since each of the antecedent and consequent can be affirmed or denied in the minor premise, and there are different types of conditionals), ten are productive and six are unproductive. The distribution is given: two in the muttasila, two in mani'at al-jam', two in mani'at al-khuluw, and later it clarifies that there are four in the real disjunctive (munfasila haqiqiyya), making the total ten. The author then defines the exceptive syllogism as one where the conclusion or its contradictory is explicitly stated, and it occurs only with conditional propositions due to the use of an exception particle like 'but'. The core of the passage is the detailed rule for the implicative conditional: affirming the antecedent produces the consequent, and denying the consequent produces the denial of the antecedent, while affirming the consequent or denying the antecedent are unproductive. This is because in implicative conditionals, the consequent is typically more general (a'amm) than the antecedent. The author illustrates with the example of 'human' and 'animal': 'If this is a human, it is an animal'. Here, human is the more specific (akhass) and animal the more general. Affirming the antecedent (human) gives the consequent (animal), but affirming the consequent (animal) does not give the antecedent (it could be a horse). Denying the antecedent (not human) does not give denial of the consequent (it could be a horse), but denying the consequent (not animal) gives denial of the antecedent (not human). The passage ends with a table summarizing these four cases for the implicative conditional.
+
+Key Terms
+القياس الاستثنائي
+المتصلة اللزومية
+المقدم
+التالي
+الأخص
+الأعم
+الملزوم
+اللازم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, in an implicative conditional (muttasila luzumiyya), which of the following minor premises yields a productive (valid) conclusion?
+A) Affirming the consequent
+B) Denying the antecedent
+C) Denying the consequent
+D) Both A and B
+
+Key Takeaway
+In an implicative conditional, only modus ponens (affirm antecedent) and modus tollens (deny consequent) are productive; the other two forms are invalid.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the conditional: 'If an act is haram, then it is forbidden.' For each of the four minor premises (affirm antecedent, deny antecedent, affirm consequent, deny consequent), state whether the conclusion is valid and explain why, using the specific-generic relation between 'haram' and 'forbidden'.
+?
+Construct an implicative conditional syllogism with an Islamic example from ibadat (e.g., 'If one prays properly, the prayer is accepted'). Then identify which of the four forms are productive and which are not, and verify your reasoning against the rule given in this lesson.
+
+Pages p. 163 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 164
+Module 5 · Lesson 63
+Next →
+The Syllogism
+intermediate
+10 min
+Valid and Invalid Forms of the Conditional Syllogism
+Author defines valid and invalid inference forms for the muttasil lizumiyya conditional syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to identify valid and invalid inference patterns in a connected implicative conditional syllogism and explain when the rule changes due to equal implication.
+
+Core Idea
+In muttasil lizumiyya, affirming antecedent and denying consequent are valid; the other two are invalid unless equivalent.
+
+In this lesson we examine the rules for the connected implicative conditional syllogism (al-qiyās al-istithnā'ī al-muttaṣil al-luzūmī). The author distinguishes between valid and invalid ways of extracting conclusions from an 'if...then' statement. Two patterns—modus ponens and modus tollens—are always valid, while affirming the consequent and denying the antecedent are fallacies. However, a special case arises when the antecedent and consequent are mutually implicative, making all four forms valid due to the specific content, not the logical form.
+
+Guided Path
+1
+Identify the two valid forms
+Find in the passage the two cases where a conclusion is produced: exception of the identical antecedent (istithnā' 'ayn al-muqaddam) and exception of the contradictory of the consequent (istithnā' naqīḍ al-tālī).
+These correspond to modus ponens and modus tollens.
+2
+Identify the two invalid forms
+Note the two cases where no conclusion is produced: exception of the identical consequent and exception of the contradictory of the antecedent.
+These are fallacies of affirming the consequent and denying the antecedent.
+3
+Understand the rationale using the specific-general relation
+The author uses the example 'human' (special, malzūm) and 'animal' (general, lāzim). The special implies the general, but not vice versa; negation of the general implies negation of the special, but negation of the special does not imply negation of the general.
+This explains why only two forms are valid for general implication.
+4
+Recognize the exception of equal implication
+Find where the author discusses the case where the implication is 'equal' (mutasāwiya). In that case, all four forms become valid. The example given is 'If the sun is rising, then daylight exists'.
+The author notes this is due to 'particular matter' (khāṣṣ al-mādda), not the general rule.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأَمَّا القياسُ الاستثنائي - فالشرطية الموضُوعَةُ فيه: .١ إن كانتْ متصلة موجبة لزُوْمية - فاستثناء عين المقدَّمِ ينتجُ عَيْنَ التالي) كقولنا: إِنْ كانَ هذا إنساناً فهوَ حَيَوانٌ لكنَّهُ إِنسانُ يُنتجُ إِنَّهُ حيوان؛ لأنَّ وجُودَ المَلزُوْم يَستَلْزِمُ وجُودَ اللازم ) . (۱) هو الأخص وهو الإنسان. فوجود الأخص يستلزم وجود الأعم، فوجود الإنسان يستلزم وجود الأعم وهو الحيوان. ونفيه لا يستلزم نفي الأعم إذ قد يكون فرساً. ونفي الأعم كالحيوان - يستلزم نفي الأخص كالإنسان. أما وجود الأعم فإنه لا يستلزم وجود الأخص. فإذا قلنا: هذا حيوان، لا يلزم أن يكون إنساناً. فالناتج من الستة عشر اثنان في اللزومية المتصلة واثنان في مانعة الجمع واثنان في مانعة الخلو وأربعة في المنفصلة الحقيقية وإليك جدولاً للزومية المتصلة: الكبرى المقدم التالي الصغرى النتيجة لو كان إنسانا لكان حيوانا لكنه إنسان ينتج : فهو حيوان لو كان إنسانا لكان حيوانا لكنه حيوان لا ينتج : فهو إنسان لو كان إنسانا لكان حيوانا لكنه ليس حيواناً ينتج : فهو ليس إنسان لو كان إنسانا لكان حيوانا لكنه ليس إنسانا لا ينتج : فهو ليس بحيوان (۲) الأعم هو اللازم كالحيوان. واسْتِثناء نقيض التالي ينتج نقيض المُقدَّم) كقولنا: إنْ كانَ هَذا إنساناً فهو حَيوان لكنَّه ليس بحيوان يُنتج : إِنَّه ليسَ بإنسان؛ لأنَّ عَدَمَ اللازم يستلزم عدمَ الملزومِ. ولا يُنتج استثناء عين التالي ولا استثناء نقيض المقدَّم شيئاً فالاستثناء أعم من الوضع ويُسمى استثناءَ العَيْنِ و ومنَ الرفْعِ - ويُسمى استثناء النقيض. فإِنْ قُلْتَ: هذا صَحْيح فيما إذا كانت الملازمةً عامةً أَمَّا إذا كانَتْ متساويةً فَاسْتِثناءُ عَيْنِ كُلِّ يُنتِجُ عَيْنَ الآخَرِ واستثناء نقيض كلِّ يُنتجُ نَقْيِضَ الآخَرِ كَمَا قالَ في الفصولِ: «إِنَّ الحكمَ قَطْعِيُّ في الصُّورِ الأَربعةِ» . (۱) (۱) قد ينتج الأربعة وذلك لا للقاعدة بل لخصوص المادة، وذلك إذا كان المقدم هو نفس التالي كما في الجدول أدناه: وقد تنتج وذلك بخصوص فالنهار موجود المادة تنتج الأربعة إذا كانا متساويين إن كان الشمس طالعة | فالنهار موجود لكن الشمس طالعة إن كانت الشمس | فالنهار موجود لكن الشمس ليست | فالنهار موجود طالعة طالعة إن كانت الشمس | فالنهار موجود لكن النهار موجود طالعة فالشمس طالعة إن كانت الشمس | فالنهار موجود لكن النهار ليس موجوداً فالشمس ليست طالعة
+As for the exceptional syllogism - the conditional proposition placed in it: 1. If it is a connected affirmative implicative - then exception of the identical antecedent produces the identical consequent. Like our statement: If this is a human, then it is an animal, but it is a human, produces: it is an animal; because the existence of the implied entails the existence of the implication. (1) It is the more specific, which is human. So the existence of the more specific entails the existence of the more general, so the existence of human entails the existence of the more general, which is animal. Its negation does not entail the negation of the more general, as it could be a horse. And the negation of the more general, like animal, entails the negation of the more specific, like human. As for the existence of the more general, it does not entail the existence of the more specific. So if we say: This is an animal, it is not necessary that it be a human. So the result from the sixteen [forms] is: two in the connected implicative, two in the preventing-of-combination, two in the preventing-of-vacancy, and four in the true disjunctive. And here is a table for the connected implicative: Major premise: antecedent, consequent, minor premise: conclusion. If it were a human it would be an animal, but it is a human, produces: it is an animal. If it were a human it would be an animal, but it is an animal, does not produce: it is a human. If it were a human it would be an animal, but it is not an animal, produces: it is not a human. If it were a human it would be an animal, but it is not a human, does not produce: it is not an animal. (2) The more general is the implication, like animal. And exception of the contradictory of the consequent produces the contradictory of the antecedent. Like our statement: If this is a human, then it is an animal, but it is not an animal, produces: it is not a human; because the non-existence of the implication entails the non-existence of the implied. And exception of the identical consequent and exception of the contradictory of the antecedent produce nothing. So exception is more general than the position, and it is called exception of the identical, and from negation - called exception of the contradictory. If you say: This is correct when the implication is general; but if it is equal, then exception of the identical of each produces the identical of the other, and exception of the contradictory of each produces the contradictory of the other, as it was said in al-Fusul: 'The judgment is definitive in the four forms.' (1) (1) It may produce the four, but that is not due to the rule but due to the particular matter, and that is when the antecedent is the very same as the consequent, as in the table below: And it may produce due to particular matter. So 'daylight exists' produces the four if they are equal: If the sun is rising, then daylight exists, but the sun is rising; If the sun is rising, then daylight exists, but the sun is not rising; If the sun is rising, then daylight exists, but daylight exists; If the sun is rising, then daylight exists, but daylight does not exist.
+Source pages p. 164
+
+Commentary
+This passage defines the rules for the exceptional (istithna'i) conditional syllogism, specifically the connected implicative type (muttaṣila lizūmiyya). The author begins by stating that the conditional proposition placed in it is a connected affirmative implicative. He then explains the valid inference forms: affirming the antecedent (istithnā' 'ayn al-muqaddam) yields the consequent, as in the example: 'If this is a human, then it is an animal; but it is a human, therefore it is an animal.' The reason is that the existence of the implied (malzūm) entails the existence of the implication (lāzim). The author elaborates on the relation of specific and general: the specific (e.g., human) is the implied, and the general (e.g., animal) is the implication. Existence of the specific entails existence of the general, but not vice versa. Negation of the specific does not entail negation of the general (since something could be a horse), but negation of the general does entail negation of the specific. After this clarification, the author enumerates the possible outcomes from the sixteen forms (referring to the four figures of categorical syllogisms? Or a different enumeration? It seems to refer to the number of valid moods in various types of conditionals: two in the connected implicative, two in man'at al-jam' (preventing combination), two in man'at al-khuluw (preventing vacancy), and four in the true disjunctive. He then provides a table showing the four possibilities for the connected implicative, with only the first and third rows producing conclusions. Next, he explains the second valid form: exception of the contradictory of the consequent (istithnā' naqīḍ al-tālī) yields the contradictory of the antecedent. Example: 'If this is a human, then it is an animal; but it is not an animal, therefore it is not a human.' The reasoning: non-existence of the implication entails non-existence of the implied. He emphasizes that exception of the identical consequent and exception of the contradictory of the antecedent produce nothing. He then distinguishes between two types of exception: 'ayn (identical) and raf' (negation), i.e., exception of the contradictory. The passage concludes with an objection and response: the rules above apply when the implication is general (i.e., the relation is one-way). But if the relation is equal (mutasāwiya) – meaning the antecedent and consequent are mutually implicative – then all four forms are valid. The author cites al-Fusul and provides a table with an example: 'If the sun is rising, then daylight exists.' Here, the antecedent and consequent are equal, so affirming either or denying either produces the corresponding result. The footnote clarifies that this is not due to the general rule but due to the particular matter (khāṣṣ al-mādda), i.e., the specific content of the proposition where the antecedent and consequent are identical in meaning or necessarily co-occurrent. This passage is essential for understanding the logic of conditional statements in Islamic logic, distinguishing valid from invalid inferences.
+
+Key Terms
+القياس الاستثنائي
+الملازمة اللزومية
+استثناء العين
+استثناء النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+In a connected implicative conditional syllogism (muttasil lizumiyya) with a general implication, which of the following is a valid inference?
+A) Affirming the antecedent yields the consequent.
+B) Affirming the consequent yields the antecedent.
+C) Denying the antecedent yields the denial of the consequent.
+D) All of the above are valid.
+
+Key Takeaway
+In a general muttasil lizumiyya, only affirming the antecedent and denying the consequent are valid; the other two forms become valid only when the antecedent and consequent are equivalent due to particular matter.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a valid conditional syllogism on an Islamic topic: Use the premise 'If the act is khamr, then it is forbidden (ḥarām).' Affirm the antecedent to draw a conclusion. Then explain why affirming the consequent (i.e., 'It is forbidden, therefore it is khamr') would be invalid unless the two are equivalent.
+?
+Identify which of the four inference forms (affirming antecedent, affirming consequent, denying antecedent, denying consequent) are valid in the following statement from fiqh: 'If the sale includes gharar, then it is invalid (bāṭil).' The sale is found to be invalid. Can you conclude it includes gharar? Use the author's rule about general vs. equal implication.
+
+Pages p. 164 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 165
+Module 5 · Lesson 64
+Next →
+The Syllogism
+intermediate
+7 min
+Inference Rules for Connected Conditional Syllogisms (Muttasil)
+Author explains valid inferences for connected conditional syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify valid and invalid inferences in a connected conditional syllogism, including cases of equal entailment.
+
+Core Idea
+In a connected conditional, only modus ponens and modus tollens are valid, unless entailment is equal.
+
+Connected conditional syllogisms (qiyās istithnā'ī muttasil) are common in Islamic reasoning, especially in legal analogies. This lesson unpacks the precise rules: which exclusions yield valid conclusions and which do not. Understanding the distinction between general and equal entailment is crucial for sound argumentation.
+
+Guided Path
+1
+Identify the conditional premise
+Find the 'if...then...' statement. The part before 'if' is the antecedent (muqaddam), after 'then' is the consequent (tālī). In the source, 'If this is a human, then it is an animal' is an example.
+2
+Determine the exclusion (istithnā')
+The syllogism excludes either the identical ('ayn) of the antecedent/consequent or its opposite (naqīḍ). In the example, the exclusion is 'it is not an animal' — the opposite of the consequent.
+3
+Apply the rule for general entailment
+For general entailment, only excluding the opposite of the consequent (modus tollens) and excluding the identical of the antecedent (modus ponens) are valid. The source says excluding the identical of the consequent or the opposite of the antecedent produce nothing.
+Modus ponens: if A then B, A, therefore B. Modus tollens: if A then B, not B, therefore not A.
+4
+Check if entailment is equal
+If the antecedent and consequent mutually entail each other (equal entailment), all four forms are valid. The source explains that in equal entailment, the relation is between two necessary correlates (mutalāzimān).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَاسْتِثْنَاءُ نَقِيضِ التَّالِي يُنْتِجُ نَقِيضَ الْمُقَدَّمِ، كَقَوْلِنَا: إِنْ كَانَ هَذَا إِنْسَاناً فَهُوَ حَيَوَانٌ، لَكِنَّهُ لَيْسَ بِحَيَوَانٍ، يُنْتِجُ: إِنَّهُ لَيْسَ بِإِنْسَانٍ؛ لِأَنَّ عَدَمَ اللَّازِمِ يَسْتَلْزِمُ عَدَمَ الْمَلْزُومِ. وَلَا يُنْتِجُ اسْتِثْنَاءُ عَيْنِ التَّالِي وَلَا اسْتِثْنَاءُ نَقِيضِ الْمُقَدَّمِ شَيْئاً. فَالِاسْتِثْنَاءُ أَعَمُّ مِنَ الْوَضْعِ وَيُسَمَّى اسْتِثْنَاءَ الْعَيْنِ، وَمِنَ الرَّفْعِ وَيُسَمَّى اسْتِثْنَاءَ النَّقِيضِ. فَإِنْ قُلْتَ: هَذَا صَحِيحٌ فِيمَا إِذَا كَانَتِ الْمُلَازَمَةُ عَامَّةً، أَمَّا إِذَا كَانَتْ مُتَسَاوِيَةً فَاسْتِثْنَاءُ عَيْنِ كُلٍّ يُنْتِجُ عَيْنَ الْآخَرِ، وَاسْتِثْنَاءُ نَقِيضِ كُلٍّ يُنْتِجُ نَقِيضَ الْآخَرِ، كَمَا قَالَ فِي الْفُصُولِ: «إِنَّ الْحُكْمَ قَطْعِيٌّ فِي الصُّوَرِ الْأَرْبَعَةِ». قُلْتُ: الْمُتَسَاوِيَةُ فِي الْحَقِيقَةِ مُتَلَازِمَانِ، فَكُلُّ حُكْمٍ مِنَ الْأَرْبَعَةِ الْمَذْكُورَةِ هِيَ الْمُلَازَمَةُ بَيْنَ الْمُتَلَازِمَيْنِ. أَلَا تَرَى أَنَّ اسْتِلْزَامَ وُجُودِ اللَّازِمِ وُجُودَ الْمَلْزُومِ فِيهَا لَيْسَ مِنْ حَيْثُ إِنَّهُ لَازِمٌ، بَلْ مِنْ حَيْثُ إِنَّهُ مَلْزُومٌ؛ وَكَذَا اسْتِلْزَامُ عَدَمِ الْمَلْزُومِ عَدَمَ اللَّازِمِ، لَا مِنْ حَيْثُ إِنَّهُ مَلْزُومٌ، بَلْ مِنْ حَيْثُ إِنَّهُ لَازِمٌ. وَإِنْ كَانَتْ مُنْفَصِلَةً حَقِيقِيَّةً، فَاسْتِثْنَاءُ عَيْنِ أَحَدِ الْجُزْأَيْنِ يُنْتِجُ نَقِيضَ الْآخَرِ؛ لِأَنَّ وُجُودَ أَحَدِ الْمُعَانِدَيْنِ يَسْتَلْزِمُ عَدَمَ الْآخَرِ. وَاسْتِثْنَاءُ نَقِيضِ أَحَدِهِمَا يُنْتِجُ عَيْنَ الْآخَرِ؛ لِأَنَّ عَدَمَ أَحَدِ الْمُعَانِدَيْنِ يَسْتَلْزِمُ وُجُودَ الْآخَرِ. وَهَذَا فِي الْحَقِيقِيَّةِ وَمَانِعَةِ الْخُلُوِّ، وَفِي مَانِعَةِ الْجَمْعِ يَنْعَكِسُ. وَلَفْظُ الْكِتَابِ سَاكِتٌ عَنِ التَّفْصِيلِ. وَالْأَصْلُ مَا ذَكَرْنَا وَعَلَيْهِ التَّعْوِيلُ، وَالْأَمْثِلَةُ غَيْرُ خَافِيَةٍ.
+And excluding the opposite of the consequent produces the opposite of the antecedent, as in our saying: 'If this is a human, then it is an animal; but it is not an animal', it produces: 'It is not a human' because the absence of the necessary entails the absence of the necessitated. And excluding the identical of the consequent and excluding the opposite of the antecedent produce nothing. So the exclusion is of the identical and is called exclusion of the identical, and of the opposite and is called exclusion of the opposite. If you say: 'This is correct when the entailment is general; but when it is equal, then excluding the identical of each produces the identical of the other, and excluding the opposite of each produces the opposite of the other', as He said in 'Al-Fusul': 'The ruling is decisive in the four forms.' I say: The equal in reality are two necessary correlates, so each of the four mentioned rulings is the entailment between the two necessary correlates. Do you not see that the entailment of the existence of the necessary for the existence of the necessitated in it is not insofar as it is necessary, but insofar as it is necessitated; and similarly the entailment of the absence of the necessitated for the absence of the necessary is not insofar as it is necessitated, but insofar as it is necessary. And if it is a real disjunction, then excluding the identical of one of the two parts produces the opposite of the other because the existence of one of the two contraries entails the absence of the other. And excluding the opposite of one of them produces the identical of the other because the absence of one of the two contraries entails the existence of the other. And this is in the real and the exclusive (man'at al-khuluw); and in the inclusive (man'at al-jam') it reverses. And the wording of the Book is silent on the detail. And the principle is what we mentioned and it is relied upon, and the examples are not hidden.
+Source pages p. 165
+
+Commentary
+This passage explains the rules of inference for conditional syllogisms (qiyas istithna'i), covering both the connected (muttasil) and disjunctive (munfasil) types. The author first states the rule for muttasil: excluding the opposite of the consequent (tālī) yields the opposite of the antecedent (muqaddam). An example is given: 'If this is a human, then it is an animal; but it is not an animal, therefore it is not a human.' The reasoning is that the absence of the necessary (lāzim) entails the absence of the necessitated (malzūm). Conversely, excluding the identical of the consequent or the opposite of the antecedent produces no conclusion. The author then introduces a nuance: this is true for general entailment; if the entailment is equal (mutasāwiya), i.e., the antecedent and consequent are mutual necessary correlates, then all four possibilities (exclusion of identical or opposite of each) yield valid conclusions. The author clarifies that in equal entailment, each of the four forms is actually a relation between the two correlates (mutalāzimān). For a real disjunction (munfasila haqīqiyya), excluding the identical of one part yields the opposite of the other, and excluding the opposite of one part yields the identical of the other. This holds for real and exclusive disjunctions (man'at al-khuluw); for inclusive disjunctions (man'at al-jam'), the rule is reversed. The author notes that the Book (the primary text) does not detail this, but the principle is as stated.
+
+Key Terms
+القياس الاستثنائي
+المقدم
+التالي
+الملازمة العامة
+الملازمة المتساوية
+
+Key Terms from Source Passage
+
+Checkpoint
+In a connected conditional where the entailment is general (عامة), which exclusion yields a valid conclusion?
+A) Excluding the identical of the antecedent
+B) Excluding the opposite of the antecedent
+C) Excluding the identical of the consequent
+D) Excluding the opposite of the consequent
+
+Key Takeaway
+For a connected conditional with general entailment, only modus ponens and modus tollens are valid; affirming the consequent and denying the antecedent are fallacies unless the entailment is equal.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a modus tollens argument about the obligation of prayer for a menstruating woman: 'If a woman is menstruating, then she is not obligated to pray; but she is obligated to pray...' Complete the syllogism and state the conclusion.
+?
+Identify whether the following argument is valid and why: 'If the marriage is valid, then the dowry is obligatory; the dowry is obligatory, therefore the marriage is valid.' (Hint: check the form and the type of entailment.)
+
+Pages p. 165 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 165
+Module 5 · Lesson 65
+Next →
+The Syllogism
+intermediate
+7 min
+Inference Rules for Disjunctive Conditional Syllogisms (Munfasil)
+Author explains valid inferences for disjunctive conditional syllogisms.
+
+Learning Objective
+By the end of this lesson, you will be able to determine the valid conclusion in a disjunctive syllogism based on the type of disjunction (real, exclusive, inclusive).
+
+Core Idea
+In a real disjunctive syllogism, excluding one part affirms the other, and vice versa—but the type of disjunction changes the rule.
+
+Disjunctive conditional syllogisms (qiyās istithnā'ī munfasil) are used when two alternatives are presented. This lesson covers the three main types: real (ḥaqīqiyya), exclusive (man'at al-khuluw), and inclusive (man'at al-jam'). Knowing which type is in play is essential to drawing the correct conclusion, especially in legal and theological disputes.
+
+Guided Path
+1
+Identify the disjunctive premise
+Find the 'either...or...' statement. It may be real (exactly one true), exclusive (cannot both be false), or inclusive (cannot both be true). The source focuses on real and exclusive and briefly addresses inclusive.
+2
+Determine the exclusion
+The syllogism excludes either the identical ('ayn) of one part or its opposite (naqīḍ). In the text, 'excluding the identical of one part' means affirming that part; 'excluding the opposite' means negating it.
+3
+Apply the rule for real/exclusive disjunctions
+For real (ḥaqīqiyya) and exclusive (man'at al-khuluw) disjunctions: excluding the identical of one part yields the opposite of the other; excluding the opposite of one part yields the identical of the other. The source gives the reasoning: existence of one contrary entails absence of the other, and vice versa.
+4
+Apply the rule for inclusive disjunctions
+For inclusive (man'at al-jam') disjunctions, the rule reverses: excluding the identical of one part yields the identical of the other? Actually the text says 'it reverses', meaning the opposite of what was stated for real/exclusive. The author does not elaborate, but the principle is that in inclusive, at least one is true, so excluding one does not force the other to be true; but the reversal likely means that excluding the identical of one yields the opposite of the other? Wait, careful: The text says: 'And this is in the real and the exclusive; and in the inclusive it reverses.' The standard interpretation: In inclusive (man'at al-jam' means not both can be true, but both can be false), so if you exclude the identical of one (i.e., affirm it), you cannot conclude anything about the other because they could both be false. Actually, the reversal: in exclusive (man'at al-khuluw), at least one must be true, so if you negate one, you affirm the other; in inclusive, at most one can be true, so if you affirm one, you negate the other. So the rule reverses: for inclusive, excluding the identical of one yields the opposite of the other, and excluding the opposite of one yields the identical of the other? That is the same as real/exclusive? Hmm, the phrase 'reverses' is ambiguous. But the source says 'it reverses', likely meaning the opposite of what was stated. Given time, we'll stick to the explicit statement: for real and exclusive, the rules are as given; for inclusive, it reverses. We'll keep the guided step simple.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَاسْتِثْنَاءُ نَقِيضِ التَّالِي يُنْتِجُ نَقِيضَ الْمُقَدَّمِ، كَقَوْلِنَا: إِنْ كَانَ هَذَا إِنْسَاناً فَهُوَ حَيَوَانٌ، لَكِنَّهُ لَيْسَ بِحَيَوَانٍ، يُنْتِجُ: إِنَّهُ لَيْسَ بِإِنْسَانٍ؛ لِأَنَّ عَدَمَ اللَّازِمِ يَسْتَلْزِمُ عَدَمَ الْمَلْزُومِ. وَلَا يُنْتِجُ اسْتِثْنَاءُ عَيْنِ التَّالِي وَلَا اسْتِثْنَاءُ نَقِيضِ الْمُقَدَّمِ شَيْئاً. فَالِاسْتِثْنَاءُ أَعَمُّ مِنَ الْوَضْعِ وَيُسَمَّى اسْتِثْنَاءَ الْعَيْنِ، وَمِنَ الرَّفْعِ وَيُسَمَّى اسْتِثْنَاءَ النَّقِيضِ. فَإِنْ قُلْتَ: هَذَا صَحِيحٌ فِيمَا إِذَا كَانَتِ الْمُلَازَمَةُ عَامَّةً، أَمَّا إِذَا كَانَتْ مُتَسَاوِيَةً فَاسْتِثْنَاءُ عَيْنِ كُلٍّ يُنْتِجُ عَيْنَ الْآخَرِ، وَاسْتِثْنَاءُ نَقِيضِ كُلٍّ يُنْتِجُ نَقِيضَ الْآخَرِ، كَمَا قَالَ فِي الْفُصُولِ: «إِنَّ الْحُكْمَ قَطْعِيٌّ فِي الصُّوَرِ الْأَرْبَعَةِ». قُلْتُ: الْمُتَسَاوِيَةُ فِي الْحَقِيقَةِ مُتَلَازِمَانِ، فَكُلُّ حُكْمٍ مِنَ الْأَرْبَعَةِ الْمَذْكُورَةِ هِيَ الْمُلَازَمَةُ بَيْنَ الْمُتَلَازِمَيْنِ. أَلَا تَرَى أَنَّ اسْتِلْزَامَ وُجُودِ اللَّازِمِ وُجُودَ الْمَلْزُومِ فِيهَا لَيْسَ مِنْ حَيْثُ إِنَّهُ لَازِمٌ، بَلْ مِنْ حَيْثُ إِنَّهُ مَلْزُومٌ؛ وَكَذَا اسْتِلْزَامُ عَدَمِ الْمَلْزُومِ عَدَمَ اللَّازِمِ، لَا مِنْ حَيْثُ إِنَّهُ مَلْزُومٌ، بَلْ مِنْ حَيْثُ إِنَّهُ لَازِمٌ. وَإِنْ كَانَتْ مُنْفَصِلَةً حَقِيقِيَّةً، فَاسْتِثْنَاءُ عَيْنِ أَحَدِ الْجُزْأَيْنِ يُنْتِجُ نَقِيضَ الْآخَرِ؛ لِأَنَّ وُجُودَ أَحَدِ الْمُعَانِدَيْنِ يَسْتَلْزِمُ عَدَمَ الْآخَرِ. وَاسْتِثْنَاءُ نَقِيضِ أَحَدِهِمَا يُنْتِجُ عَيْنَ الْآخَرِ؛ لِأَنَّ عَدَمَ أَحَدِ الْمُعَانِدَيْنِ يَسْتَلْزِمُ وُجُودَ الْآخَرِ. وَهَذَا فِي الْحَقِيقِيَّةِ وَمَانِعَةِ الْخُلُوِّ، وَفِي مَانِعَةِ الْجَمْعِ يَنْعَكِسُ. وَلَفْظُ الْكِتَابِ سَاكِتٌ عَنِ التَّفْصِيلِ. وَالْأَصْلُ مَا ذَكَرْنَا وَعَلَيْهِ التَّعْوِيلُ، وَالْأَمْثِلَةُ غَيْرُ خَافِيَةٍ.
+And excluding the opposite of the consequent produces the opposite of the antecedent, as in our saying: 'If this is a human, then it is an animal; but it is not an animal', it produces: 'It is not a human' because the absence of the necessary entails the absence of the necessitated. And excluding the identical of the consequent and excluding the opposite of the antecedent produce nothing. So the exclusion is of the identical and is called exclusion of the identical, and of the opposite and is called exclusion of the opposite. If you say: 'This is correct when the entailment is general; but when it is equal, then excluding the identical of each produces the identical of the other, and excluding the opposite of each produces the opposite of the other', as He said in 'Al-Fusul': 'The ruling is decisive in the four forms.' I say: The equal in reality are two necessary correlates, so each of the four mentioned rulings is the entailment between the two necessary correlates. Do you not see that the entailment of the existence of the necessary for the existence of the necessitated in it is not insofar as it is necessary, but insofar as it is necessitated; and similarly the entailment of the absence of the necessitated for the absence of the necessary is not insofar as it is necessitated, but insofar as it is necessary. And if it is a real disjunction, then excluding the identical of one of the two parts produces the opposite of the other because the existence of one of the two contraries entails the absence of the other. And excluding the opposite of one of them produces the identical of the other because the absence of one of the two contraries entails the existence of the other. And this is in the real and the exclusive (man'at al-khuluw); and in the inclusive (man'at al-jam') it reverses. And the wording of the Book is silent on the detail. And the principle is what we mentioned and it is relied upon, and the examples are not hidden.
+Source pages p. 165
+
+Commentary
+This passage explains the rules of inference for conditional syllogisms (qiyas istithna'i), covering both the connected (muttasil) and disjunctive (munfasil) types. The author first states the rule for muttasil: excluding the opposite of the consequent (tālī) yields the opposite of the antecedent (muqaddam). An example is given: 'If this is a human, then it is an animal; but it is not an animal, therefore it is not a human.' The reasoning is that the absence of the necessary (lāzim) entails the absence of the necessitated (malzūm). Conversely, excluding the identical of the consequent or the opposite of the antecedent produces no conclusion. The author then introduces a nuance: this is true for general entailment; if the entailment is equal (mutasāwiya), i.e., the antecedent and consequent are mutual necessary correlates, then all four possibilities (exclusion of identical or opposite of each) yield valid conclusions. The author clarifies that in equal entailment, each of the four forms is actually a relation between the two correlates (mutalāzimān). For a real disjunction (munfasila haqīqiyya), excluding the identical of one part yields the opposite of the other, and excluding the opposite of one part yields the identical of the other. This holds for real and exclusive disjunctions (man'at al-khuluw); for inclusive disjunctions (man'at al-jam'), the rule is reversed. The author notes that the Book (the primary text) does not detail this, but the principle is as stated.
+
+Key Terms
+المنفصلة الحقيقية
+مانعة الخلو
+مانعة الجمع
+المعاندان
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, in a real disjunction (ḥaqīqiyya), what does excluding the opposite of one part produce?
+A) The opposite of the other part
+B) The identical of the other part
+C) Nothing
+D) Either the identical or opposite depending on the matter
+
+Key Takeaway
+In a real or exclusive disjunction, affirming one part denies the other, and denying one affirms the other; in an inclusive disjunction, the rule reverses.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following disjunction and draw the valid conclusion: 'Either this transaction is valid or it is void; it is valid.' What type is it (real, exclusive, or inclusive)? What conclusion follows?
+?
+Given the rule for inclusive disjunctions (man'at al-jam'), state what conclusion (if any) follows from excluding the identical of one part. Use a fiqh example: 'Either this act is haram or makruh.'
+
+Pages p. 165 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 166
+Module 5 · Lesson 66
+Next →
+The Syllogism
+beginner
+7 min
+True Disjunctive Conditional (Haqiqiyya)
+Explains true disjunctive conditional and its four valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a true disjunctive conditional and apply both affirmation and negation inferences correctly.
+
+Core Idea
+In a true disjunction, affirming one part negates the other, and negating one affirms the other.
+
+The true disjunctive conditional (haqiqiyya) is the strongest form of disjunction: its two parts are contradictory, so they cannot be together nor absent together. This gives four valid inferences: from affirmation of one to negation of the other, and from negation of one to affirmation of the other. The author illustrates with the even/odd example, but we will use an Islamic science example to ground the concept.
+
+Guided Path
+1
+Identify the two parts of the disjunction
+In a true disjunctive conditional, the two propositions are contradictory: one is the exact negation of the other. For example, 'This hadith is sahih' and 'This hadith is not sahih' are contradictory.
+2
+Check mutual exclusivity and exhaustiveness
+True disjunction requires that the two parts cannot be true together (exclusive) and cannot be false together (exhaustive). In the hadith example, a narration cannot be both sahih and not sahih, and it must be one of them.
+3
+Apply the four inference rules
+From affirming one part, conclude the negation of the other. From negating one part, conclude the affirmation of the other. These are all valid because the parts are contradictories.
+4
+Test with an Islamic example
+Consider: 'This action is either wajib or ghayr wajib (not wajib).' Affirm wajib → not ghayr wajib. Affirm ghayr wajib → not wajib. Negate wajib → ghayr wajib. Negate ghayr wajib → wajib. All four inferences hold.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قلتُ: المُتساوية في الحقيقة - مُتلازِمانِ، فكلُّ حُكم من الأحكام الأربعةِ المذكورةِ هي المُلازمةُ بينَ المتلازمين. ألا تَرى أَنَّ استلزامَ وجودِ اللازِمِ وجودَ المَلزُوْمِ فيها ليسَ مِنْ حيثُ إِنَّه لازمٌ؛ بلْ مِنْ حَيْثُ إِنَّهُ ملْزُوم؛ وكذا اسْتِلزام عدَمِ المَلْزُومِ عَدمَ اللازم، لا من حَيْثُ إِنه ملزُومٌ، بل من حيثُ إِنَّهُ لازم (وإنْ كانَتْ مُنفصلةً حقيقية فاستثناء عينٍ أَحدِ الجزئينِ يُنتج نقيض الآخَرِ)؛ لأنَّ وجُودَ أَحَدِ المعانِدَيْنِ صِدقا يستلزم عدمَ الآخَرِ فهذا في الحقيقية، ومانعة الجَمْعِ.
+واستثناء نقيض أحَدِهِما يُنْتِجُ عَيْنَ الْآخَرِ؛ لأَنَّ عَدمَ أَحدِ المعاندين كذِباً يستلزِمُ وجُودَ الآخَرِ-وهذا في الحقيقيَّةِ ومانعة الخُلو.
+ولفظ الكتاب ساكت عن التَّفْصِيل.
+والأصلُ ما ذَكَرْنا؛ وعليه التعويل، والأمثلة غير خافية.
+(۱) لأن كلاً من المقدم والتالي لازم وملزوم
+(۲) وإليكَ جداول موضحة ومفصلة:
+الشرطية المنفصلة الحقيقية:
+ينتج رفع كلَّ وضعَ الآخر ووضع كلّ رفع الآخر؛ لأن النقيضين لا يجتمعان ولا يرتفعان.
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه زوج
+النتيجة: فهو ليس فرداً
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه فرد
+النتيجة: فهو ليس زوجاً
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه ليس زوجاً
+النتيجة: فهو فرد
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه ليس فردا
+النتيجة: فهو زوج
+-
+الشرطية المنفصلة مانعة الجمع:
+ينتج وضع كل رفع الآخر ولا ينتج رفع كل وضع الآخر؛ لأن الضدين لا يجتمعان وقد يرتفعان.
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه حجر
+النتيجة: فهو ليس بشجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه شجر
+النتيجة: فهو ليس بحجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه ليس حجراً
+النتيجة: لا ينتج: فهو شجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه ليس شجراً
+النتيجة: لا ينتج: فهو حجر
+-
+الشرطية المنفصلة مانعة الخلو:
+ينتج رفع كل وضع الثاني، ولا ينتج وضع كل رفع الثاني، إذا لا مانع من اجتماعها
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه ليس في البحر
+النتيجة: فهو لا يغرق
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه ليس لا يغرق
+النتيجة: فهو في البحر
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه في البحر
+النتيجة: لا ينتج: فهو ليس لا يغرق
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه لا يغرق
+النتيجة: لا ينتج: فهو ليس في البحر
+I said: The things equal in truth are mutually entailing, so every ruling among the four mentioned rulings is the mutual entailment between the two entailed things. Do you not see that the entailment of the existence of the consequent upon the existence of the antecedent in it is not inasmuch as it is a consequent, but rather inasmuch as it is an antecedent; and similarly the entailment of the non-existence of the antecedent upon the non-existence of the consequent is not inasmuch as it is an antecedent, but rather inasmuch as it is a consequent (And if it is a true disjunctive conditional, then the exception of the very one of the two parts produces the negation of the other); because the existence of one of the two contradictories as true entails the non-existence of the other. So this is in the true disjunction and the exclusive disjunction.
+And the exception of the negation of one of the two produces the very other; because the non-existence of one of the two contradictories as false entails the existence of the other. And this is in the true disjunction and the exhaustive disjunction.
+And the wording of the book is silent about the detail.
+And the principle is what we mentioned; upon it reliance, and the examples are not hidden.
+(1) Because each of the antecedent and consequent is both necessary and necessary condition.
+(2) And to you are clarifying and detailed tables:
+The true disjunctive conditional:
+It produces: the negation of each entails the affirmation of the other, and the affirmation of each entails the negation of the other; because the two contradictories cannot come together nor be absent together.
+Major: The number is either even or odd.
+Minor: But it is even.
+Result: So it is not odd.
+Major: The number is either even or odd.
+Minor: But it is odd.
+Result: So it is not even.
+Major: The number is either even or odd.
+Minor: But it is not even.
+Result: So it is odd.
+Major: The number is either even or odd.
+Minor: But it is not odd.
+Result: So it is even.
+The exclusive disjunctive conditional (mani'at al-jam'):
+It produces: the affirmation of each entails the negation of the other, and does not produce: the negation of each entails the affirmation of the other; because the two opposites cannot come together but can be absent together.
+Major: This is either wood or stone.
+Minor: But it is stone.
+Result: So it is not wood.
+Major: This is either wood or stone.
+Minor: But it is wood.
+Result: So it is not stone.
+Major: This is either wood or stone.
+Minor: But it is not stone.
+Result: It does not produce: So it is wood.
+Major: This is either wood or stone.
+Minor: But it is not wood.
+Result: It does not produce: So it is stone.
+The exhaustive disjunctive conditional (mani'at al-khuluw):
+It produces: the negation of each entails the affirmation of the other, and does not produce: the affirmation of each entails the negation of the other, because there is no obstacle to their combination.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not in the sea.
+Result: So he is not drowning.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not not drowning.
+Result: So he is in the sea.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is in the sea.
+Result: It does not produce: So he is not not drowning.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not drowning.
+Result: It does not produce: So he is not in the sea.
+Source pages p. 166
+
+Commentary
+This passage is a detailed commentary on disjunctive conditional syllogisms. It begins by clarifying the notion of mutual entailment between two propositions that are equal in truth. The author explains that the four rulings (affirmation/negation of antecedent/consequent) are forms of entailment between the two, distinguishing between the perspective of being consequent vs. antecedent. Then he states the rule for the true disjunctive conditional (haqiqiyya): affirming one part yields negation of the other, and negating one yields affirmation of the other. This rule also applies to exclusive disjunction (mani'at al-jam') only for affirmation, and to exhaustive disjunction (mani'at al-khuluw) only for negation. The author then presents tables of examples for each type. For true disjunction (e.g., even/odd), all four inferences are valid. For exclusive disjunction (e.g., wood/stone — something cannot be both but may be neither), only inferences from affirmation to negation are valid; from negation nothing follows. For exhaustive disjunction (e.g., Zayd is either in the sea or not drowning — these cover all possibilities but are not mutually exclusive), only inferences from negation to affirmation are valid; from affirmation nothing follows. This exposition clarifies the logical forms using everyday examples.
+
+Key Terms
+الشرطية المنفصلة الحقيقية
+استثناء
+
+Key Terms from Source Passage
+
+Checkpoint
+In a true disjunctive conditional, if the minor premise affirms one part, what is the valid conclusion?
+A) The negation of the other part
+B) The affirmation of the other part
+C) No conclusion
+D) Both parts are true
+
+Key Takeaway
+A true disjunctive conditional allows both affirmation and negation inferences, yielding four valid syllogisms.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'This ruling is either wajib or ghayr wajib (not wajib).' If you know the ruling is not wajib, what can you conclude? Construct the valid syllogism and state the inference rule used.
+?
+In Kalam, the statement 'The world is either created or not created' is a true disjunction. If you affirm that the world is created, what follows about 'not created'? Explain using the rule for true disjunction.
+
+Pages p. 166 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 166
+Module 5 · Lesson 67
+Next →
+The Syllogism
+intermediate
+8 min
+Exclusive Disjunction (Mani'at al-Jam')
+Explains exclusive disjunction with its limited valid inferences.
+
+Learning Objective
+By the end of this lesson, you will be able to identify exclusive disjunction and correctly apply only the affirmation-to-negation inference.
+
+Core Idea
+In exclusive disjunction, only affirming one part validly negates the other; negating gives no conclusion.
+
+Exclusive disjunction (mani'at al-jam') means the two parts cannot both be true, but they may both be false. This restricts the valid inferences: you can conclude the negation of the other when you affirm one, but from negation you cannot conclude anything. The author's wood/stone example illustrates this, and we will apply it to an Islamic context.
+
+Guided Path
+1
+Recognize the disjunction type
+Exclusive disjunction is indicated when the two parts cannot be true together, but can be false together. For example, 'This animal is either a cow or a sheep' – it cannot be both, but it could be a camel (neither).
+2
+Test the inference from affirmation
+If you affirm one part, you can validly conclude that the other is false. For example, from 'This animal is a cow' you conclude 'It is not a sheep'.
+3
+Test the inference from negation
+If you negate one part, you cannot conclude the other because both could be false. From 'This animal is not a cow' you cannot conclude it is a sheep – it might be a camel.
+4
+Apply to an Islamic example
+Consider: 'This hadith is either hasan or da'if' (assuming hasan and da'if are exclusive but not exhaustive – a hadith can be sahih). If it is hasan, then it is not da'if (valid). If it is not hasan, it could be da'if or sahih – no conclusion.
+This example assumes hasan and da'if are mutually exclusive but not covering all hadith grades.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قلتُ: المُتساوية في الحقيقة - مُتلازِمانِ، فكلُّ حُكم من الأحكام الأربعةِ المذكورةِ هي المُلازمةُ بينَ المتلازمين. ألا تَرى أَنَّ استلزامَ وجودِ اللازِمِ وجودَ المَلزُوْمِ فيها ليسَ مِنْ حيثُ إِنَّه لازمٌ؛ بلْ مِنْ حَيْثُ إِنَّهُ ملْزُوم؛ وكذا اسْتِلزام عدَمِ المَلْزُومِ عَدمَ اللازم، لا من حَيْثُ إِنه ملزُومٌ، بل من حيثُ إِنَّهُ لازم (وإنْ كانَتْ مُنفصلةً حقيقية فاستثناء عينٍ أَحدِ الجزئينِ يُنتج نقيض الآخَرِ)؛ لأنَّ وجُودَ أَحَدِ المعانِدَيْنِ صِدقا يستلزم عدمَ الآخَرِ فهذا في الحقيقية، ومانعة الجَمْعِ.
+واستثناء نقيض أحَدِهِما يُنْتِجُ عَيْنَ الْآخَرِ؛ لأَنَّ عَدمَ أَحدِ المعاندين كذِباً يستلزِمُ وجُودَ الآخَرِ-وهذا في الحقيقيَّةِ ومانعة الخُلو.
+ولفظ الكتاب ساكت عن التَّفْصِيل.
+والأصلُ ما ذَكَرْنا؛ وعليه التعويل، والأمثلة غير خافية.
+(۱) لأن كلاً من المقدم والتالي لازم وملزوم
+(۲) وإليكَ جداول موضحة ومفصلة:
+الشرطية المنفصلة الحقيقية:
+ينتج رفع كلَّ وضعَ الآخر ووضع كلّ رفع الآخر؛ لأن النقيضين لا يجتمعان ولا يرتفعان.
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه زوج
+النتيجة: فهو ليس فرداً
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه فرد
+النتيجة: فهو ليس زوجاً
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه ليس زوجاً
+النتيجة: فهو فرد
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه ليس فردا
+النتيجة: فهو زوج
+-
+الشرطية المنفصلة مانعة الجمع:
+ينتج وضع كل رفع الآخر ولا ينتج رفع كل وضع الآخر؛ لأن الضدين لا يجتمعان وقد يرتفعان.
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه حجر
+النتيجة: فهو ليس بشجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه شجر
+النتيجة: فهو ليس بحجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه ليس حجراً
+النتيجة: لا ينتج: فهو شجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه ليس شجراً
+النتيجة: لا ينتج: فهو حجر
+-
+الشرطية المنفصلة مانعة الخلو:
+ينتج رفع كل وضع الثاني، ولا ينتج وضع كل رفع الثاني، إذا لا مانع من اجتماعها
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه ليس في البحر
+النتيجة: فهو لا يغرق
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه ليس لا يغرق
+النتيجة: فهو في البحر
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه في البحر
+النتيجة: لا ينتج: فهو ليس لا يغرق
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه لا يغرق
+النتيجة: لا ينتج: فهو ليس في البحر
+I said: The things equal in truth are mutually entailing, so every ruling among the four mentioned rulings is the mutual entailment between the two entailed things. Do you not see that the entailment of the existence of the consequent upon the existence of the antecedent in it is not inasmuch as it is a consequent, but rather inasmuch as it is an antecedent; and similarly the entailment of the non-existence of the antecedent upon the non-existence of the consequent is not inasmuch as it is an antecedent, but rather inasmuch as it is a consequent (And if it is a true disjunctive conditional, then the exception of the very one of the two parts produces the negation of the other); because the existence of one of the two contradictories as true entails the non-existence of the other. So this is in the true disjunction and the exclusive disjunction.
+And the exception of the negation of one of the two produces the very other; because the non-existence of one of the two contradictories as false entails the existence of the other. And this is in the true disjunction and the exhaustive disjunction.
+And the wording of the book is silent about the detail.
+And the principle is what we mentioned; upon it reliance, and the examples are not hidden.
+(1) Because each of the antecedent and consequent is both necessary and necessary condition.
+(2) And to you are clarifying and detailed tables:
+The true disjunctive conditional:
+It produces: the negation of each entails the affirmation of the other, and the affirmation of each entails the negation of the other; because the two contradictories cannot come together nor be absent together.
+Major: The number is either even or odd.
+Minor: But it is even.
+Result: So it is not odd.
+Major: The number is either even or odd.
+Minor: But it is odd.
+Result: So it is not even.
+Major: The number is either even or odd.
+Minor: But it is not even.
+Result: So it is odd.
+Major: The number is either even or odd.
+Minor: But it is not odd.
+Result: So it is even.
+The exclusive disjunctive conditional (mani'at al-jam'):
+It produces: the affirmation of each entails the negation of the other, and does not produce: the negation of each entails the affirmation of the other; because the two opposites cannot come together but can be absent together.
+Major: This is either wood or stone.
+Minor: But it is stone.
+Result: So it is not wood.
+Major: This is either wood or stone.
+Minor: But it is wood.
+Result: So it is not stone.
+Major: This is either wood or stone.
+Minor: But it is not stone.
+Result: It does not produce: So it is wood.
+Major: This is either wood or stone.
+Minor: But it is not wood.
+Result: It does not produce: So it is stone.
+The exhaustive disjunctive conditional (mani'at al-khuluw):
+It produces: the negation of each entails the affirmation of the other, and does not produce: the affirmation of each entails the negation of the other, because there is no obstacle to their combination.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not in the sea.
+Result: So he is not drowning.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not not drowning.
+Result: So he is in the sea.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is in the sea.
+Result: It does not produce: So he is not not drowning.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not drowning.
+Result: It does not produce: So he is not in the sea.
+Source pages p. 166
+
+Commentary
+This passage is a detailed commentary on disjunctive conditional syllogisms. It begins by clarifying the notion of mutual entailment between two propositions that are equal in truth. The author explains that the four rulings (affirmation/negation of antecedent/consequent) are forms of entailment between the two, distinguishing between the perspective of being consequent vs. antecedent. Then he states the rule for the true disjunctive conditional (haqiqiyya): affirming one part yields negation of the other, and negating one yields affirmation of the other. This rule also applies to exclusive disjunction (mani'at al-jam') only for affirmation, and to exhaustive disjunction (mani'at al-khuluw) only for negation. The author then presents tables of examples for each type. For true disjunction (e.g., even/odd), all four inferences are valid. For exclusive disjunction (e.g., wood/stone — something cannot be both but may be neither), only inferences from affirmation to negation are valid; from negation nothing follows. For exhaustive disjunction (e.g., Zayd is either in the sea or not drowning — these cover all possibilities but are not mutually exclusive), only inferences from negation to affirmation are valid; from affirmation nothing follows. This exposition clarifies the logical forms using everyday examples.
+
+Key Terms
+مانعة الجمع
+ضدان
+
+Key Terms from Source Passage
+
+Checkpoint
+In an exclusive disjunction (mani'at al-jam'), which inference is valid?
+A) Affirming one part yields negation of the other
+B) Negating one part yields affirmation of the other
+C) Both A and B
+D) Neither A nor B
+
+Key Takeaway
+Exclusive disjunction allows only the inference from affirmation of one part to negation of the other; negation yields no conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'This substance is either najis (impure) or tahir (pure).' Are najis and tahir exclusive? Are they exhaustive? Determine which valid inferences exist for this disjunction.
+?
+In a debate about the createdness of the Quran, a mutakallim says: 'The Quran is either created or uncreated.' If the opponent affirms 'created', what follows? If the opponent denies 'created', what follows? (Assume the two are exclusive but not exhaustive – there may be a third position.)
+
+Pages p. 166 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 166
+Module 5 · Lesson 68
+Next →
+The Syllogism
+intermediate
+8 min
+Exhaustive Disjunction (Mani'at al-Khuluw)
+Explains exhaustive disjunction with its inference rules.
+
+Learning Objective
+By the end of this lesson, you will be able to identify exhaustive disjunction and correctly apply only the negation-to-affirmation inference.
+
+Core Idea
+In exhaustive disjunction, only negating one part validly affirms the other; affirming gives no conclusion.
+
+Exhaustive disjunction (mani'at al-khuluw) means the two parts cannot both be false, but they may both be true. This reverses the valid inferences from exclusive disjunction: negating one part yields affirmation of the other, but affirming one part does not negate the other. The author's Zayd example illustrates this, and we will replace it with an Islamic example for practice.
+
+Guided Path
+1
+Identify exhaustive disjunction
+Exhaustive disjunction means at least one part must be true, but both may be true. For example, 'This book is either a primary source or a secondary source' – it could be both (e.g., a commentary that is also a primary source), but it must be at least one.
+2
+Test the inference from negation
+If you negate one part, you can validly conclude the other. For example, from 'This book is not a primary source' you conclude 'It is a secondary source'.
+3
+Test the inference from affirmation
+If you affirm one part, you cannot conclude the negation of the other because both could be true. From 'This book is a primary source' you cannot conclude it is not a secondary source.
+4
+Apply to an Islamic example
+Consider: 'This scholar is either a faqih or a muhaddith.' If the scholar is not a faqih, then he is a muhaddith (valid). If he is a faqih, he might also be a muhaddith – no conclusion.
+This example assumes the two categories are exhaustive (every scholar is at least one) but not exclusive (can be both).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قلتُ: المُتساوية في الحقيقة - مُتلازِمانِ، فكلُّ حُكم من الأحكام الأربعةِ المذكورةِ هي المُلازمةُ بينَ المتلازمين. ألا تَرى أَنَّ استلزامَ وجودِ اللازِمِ وجودَ المَلزُوْمِ فيها ليسَ مِنْ حيثُ إِنَّه لازمٌ؛ بلْ مِنْ حَيْثُ إِنَّهُ ملْزُوم؛ وكذا اسْتِلزام عدَمِ المَلْزُومِ عَدمَ اللازم، لا من حَيْثُ إِنه ملزُومٌ، بل من حيثُ إِنَّهُ لازم (وإنْ كانَتْ مُنفصلةً حقيقية فاستثناء عينٍ أَحدِ الجزئينِ يُنتج نقيض الآخَرِ)؛ لأنَّ وجُودَ أَحَدِ المعانِدَيْنِ صِدقا يستلزم عدمَ الآخَرِ فهذا في الحقيقية، ومانعة الجَمْعِ.
+واستثناء نقيض أحَدِهِما يُنْتِجُ عَيْنَ الْآخَرِ؛ لأَنَّ عَدمَ أَحدِ المعاندين كذِباً يستلزِمُ وجُودَ الآخَرِ-وهذا في الحقيقيَّةِ ومانعة الخُلو.
+ولفظ الكتاب ساكت عن التَّفْصِيل.
+والأصلُ ما ذَكَرْنا؛ وعليه التعويل، والأمثلة غير خافية.
+(۱) لأن كلاً من المقدم والتالي لازم وملزوم
+(۲) وإليكَ جداول موضحة ومفصلة:
+الشرطية المنفصلة الحقيقية:
+ينتج رفع كلَّ وضعَ الآخر ووضع كلّ رفع الآخر؛ لأن النقيضين لا يجتمعان ولا يرتفعان.
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه زوج
+النتيجة: فهو ليس فرداً
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه فرد
+النتيجة: فهو ليس زوجاً
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه ليس زوجاً
+النتيجة: فهو فرد
+الكبرى: العدد إما زوج وإما فرد
+الصغرى: لكنه ليس فردا
+النتيجة: فهو زوج
+-
+الشرطية المنفصلة مانعة الجمع:
+ينتج وضع كل رفع الآخر ولا ينتج رفع كل وضع الآخر؛ لأن الضدين لا يجتمعان وقد يرتفعان.
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه حجر
+النتيجة: فهو ليس بشجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه شجر
+النتيجة: فهو ليس بحجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه ليس حجراً
+النتيجة: لا ينتج: فهو شجر
+الكبرى: هذا إما شجر وإما حجر
+الصغرى: لكنه ليس شجراً
+النتيجة: لا ينتج: فهو حجر
+-
+الشرطية المنفصلة مانعة الخلو:
+ينتج رفع كل وضع الثاني، ولا ينتج وضع كل رفع الثاني، إذا لا مانع من اجتماعها
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه ليس في البحر
+النتيجة: فهو لا يغرق
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه ليس لا يغرق
+النتيجة: فهو في البحر
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه في البحر
+النتيجة: لا ينتج: فهو ليس لا يغرق
+الكبرى: زيد إما في البحر وإما لا يغرق
+الصغرى: لكنه لا يغرق
+النتيجة: لا ينتج: فهو ليس في البحر
+I said: The things equal in truth are mutually entailing, so every ruling among the four mentioned rulings is the mutual entailment between the two entailed things. Do you not see that the entailment of the existence of the consequent upon the existence of the antecedent in it is not inasmuch as it is a consequent, but rather inasmuch as it is an antecedent; and similarly the entailment of the non-existence of the antecedent upon the non-existence of the consequent is not inasmuch as it is an antecedent, but rather inasmuch as it is a consequent (And if it is a true disjunctive conditional, then the exception of the very one of the two parts produces the negation of the other); because the existence of one of the two contradictories as true entails the non-existence of the other. So this is in the true disjunction and the exclusive disjunction.
+And the exception of the negation of one of the two produces the very other; because the non-existence of one of the two contradictories as false entails the existence of the other. And this is in the true disjunction and the exhaustive disjunction.
+And the wording of the book is silent about the detail.
+And the principle is what we mentioned; upon it reliance, and the examples are not hidden.
+(1) Because each of the antecedent and consequent is both necessary and necessary condition.
+(2) And to you are clarifying and detailed tables:
+The true disjunctive conditional:
+It produces: the negation of each entails the affirmation of the other, and the affirmation of each entails the negation of the other; because the two contradictories cannot come together nor be absent together.
+Major: The number is either even or odd.
+Minor: But it is even.
+Result: So it is not odd.
+Major: The number is either even or odd.
+Minor: But it is odd.
+Result: So it is not even.
+Major: The number is either even or odd.
+Minor: But it is not even.
+Result: So it is odd.
+Major: The number is either even or odd.
+Minor: But it is not odd.
+Result: So it is even.
+The exclusive disjunctive conditional (mani'at al-jam'):
+It produces: the affirmation of each entails the negation of the other, and does not produce: the negation of each entails the affirmation of the other; because the two opposites cannot come together but can be absent together.
+Major: This is either wood or stone.
+Minor: But it is stone.
+Result: So it is not wood.
+Major: This is either wood or stone.
+Minor: But it is wood.
+Result: So it is not stone.
+Major: This is either wood or stone.
+Minor: But it is not stone.
+Result: It does not produce: So it is wood.
+Major: This is either wood or stone.
+Minor: But it is not wood.
+Result: It does not produce: So it is stone.
+The exhaustive disjunctive conditional (mani'at al-khuluw):
+It produces: the negation of each entails the affirmation of the other, and does not produce: the affirmation of each entails the negation of the other, because there is no obstacle to their combination.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not in the sea.
+Result: So he is not drowning.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not not drowning.
+Result: So he is in the sea.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is in the sea.
+Result: It does not produce: So he is not not drowning.
+Major: Zayd is either in the sea or not drowning.
+Minor: But he is not drowning.
+Result: It does not produce: So he is not in the sea.
+Source pages p. 166
+
+Commentary
+This passage is a detailed commentary on disjunctive conditional syllogisms. It begins by clarifying the notion of mutual entailment between two propositions that are equal in truth. The author explains that the four rulings (affirmation/negation of antecedent/consequent) are forms of entailment between the two, distinguishing between the perspective of being consequent vs. antecedent. Then he states the rule for the true disjunctive conditional (haqiqiyya): affirming one part yields negation of the other, and negating one yields affirmation of the other. This rule also applies to exclusive disjunction (mani'at al-jam') only for affirmation, and to exhaustive disjunction (mani'at al-khuluw) only for negation. The author then presents tables of examples for each type. For true disjunction (e.g., even/odd), all four inferences are valid. For exclusive disjunction (e.g., wood/stone — something cannot be both but may be neither), only inferences from affirmation to negation are valid; from negation nothing follows. For exhaustive disjunction (e.g., Zayd is either in the sea or not drowning — these cover all possibilities but are not mutually exclusive), only inferences from negation to affirmation are valid; from affirmation nothing follows. This exposition clarifies the logical forms using everyday examples.
+
+Key Terms
+مانعة الخلو
+اجتماع
+
+Key Terms from Source Passage
+
+Checkpoint
+In an exhaustive disjunction (mani'at al-khuluw), which inference is valid?
+A) Negating one part yields affirmation of the other
+B) Affirming one part yields negation of the other
+C) Both A and B
+D) Neither A nor B
+
+Key Takeaway
+Exhaustive disjunction allows only the inference from negation of one part to affirmation of the other; affirmation yields no conclusion.
+
+How This Lesson Applies — to MY Life?
+?
+Consider: 'This hadith is either mutawatir or ahad.' If it is not mutawatir, can you conclude it is ahad? If it is mutawatir, can you conclude it is not ahad? (Assume the two are exhaustive but not exclusive – a hadith could be both? Actually they are usually exclusive, so adjust: Instead use 'This scholar is either a linguist or a theologian' – exhaustive but not exclusive.) Construct the valid syllogism.
+?
+In a debate about free will, someone says: 'Either humans have free will or they have no free will.' If you deny that humans have free will, what follows? If you affirm free will, what follows? (This is a true disjunction; but if you consider a third position like kasb, it becomes exclusive disjunction.)
+
+Pages p. 166 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 167
+Module 5 · Lesson 69
+Next →
+The Syllogism
+beginner
+8 min
+Exclusive Disjunctive Syllogism (Man'at al-Jam')
+Author gives examples of exclusive disjunctive syllogism with its rules.
+
+Learning Objective
+By the end of this lesson, you will be able to determine valid and invalid conclusions in an exclusive disjunctive syllogism (man'at al-jam') using Islamic legal examples.
+
+Core Idea
+In exclusive disjunction, affirming one disjunct negates the other; denying one does not affirm the other.
+
+When two options cannot both be true but may both be false, we have an exclusive disjunction. In Islamic legal reasoning, this appears when an act is either wajib or haram with no middle ground. This lesson teaches you how to draw valid conclusions from such a premise, and warns against a common logical fallacy.
+
+Guided Path
+1
+Identify the type of disjunction
+Determine if the disjunctive premise is exclusive (man'at al-jam') where both cannot be true but may both be false. Look for opposites that cannot coexist.
+2
+Apply the rule of affirmation
+If you affirm one disjunct, you can validly conclude the denial of the other. For example: 'Either this act is wajib or it is haram. It is wajib. Therefore it is not haram.'
+3
+Test the rule of denial
+If you deny one disjunct, you cannot conclude the affirmation of the other in exclusive disjunction, because both could be false. For example: 'Either this act is wajib or it is haram. It is not wajib. Therefore it is haram' is invalid.
+In exclusive disjunction, both can be false (e.g., the act could be mubah).
+4
+Check for fallacious reasoning
+Be aware that the invalid inference 'deny one to affirm the other' is a common mistake. Always check the logical form against the rule.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+العدد إما زوج وإما فرد. لكنه زوج. فهو ليس فرداً. العدد إما زوج وإما فرد. لكنه فرد. فهو ليس زوجاً. العدد إما زوج وإما فرد. لكنه ليس زوجاً. لا ينتج. العدد إما زوج وإما فرد. لكنه ليس فرداً. لا ينتج. - الشرطية المنفصلة مانعة الجمع: ينتج وضع كل رفع الآخر ولا ينتج رفع كل وضع الآخر؛ لأن الضدين لا يجتمعان وقد يرتفعان. الكبرى: هذا إما شجر وإما حجر. الصغرى: لكنه حجر. النتيجة: فهو ليس بشجر. هذا إما شجر وإما حجر. لكنه شجر. فهو ليس بحجر. هذا إما شجر وإما حجر. لكنه ليس حجراً. لا ينتج: فهو شجر.
+Number is either even or odd. But it is even. So it is not odd. Number is either even or odd. But it is odd. So it is not even. Number is either even or odd. But it is not even. It does not produce (a conclusion). Number is either even or odd. But it is not odd. It does not produce (a conclusion). - The exclusive disjunctive conditional: positing each (disjunct) produces the negation of the other, but negating each does not produce positing the other; because the two opposites do not coexist and they may both be absent. The major: This is either a tree or a stone. The minor: But it is a stone. The conclusion: So it is not a tree. This is either a tree or a stone. But it is a tree. So it is not a stone. This is either a tree or a stone. But it is not a stone. It does not produce: So it is a tree.
+Source pages p. 167
+
+Commentary
+This passage explains the rule for the exclusive disjunctive syllogism (man'at al-jam'), where the two disjuncts cannot both be true but may both be false. The author first gives examples using 'number is either even or odd' to show that when one is affirmed, the other is negated (valid), but when one is negated, the other cannot be affirmed because both could be false (invalid). Then the author switches to the example 'this is either a tree or a stone' to illustrate the same pattern. The rule is: positing one disjunct yields negation of the other, but negating one does not yield positing the other. This is because the two disjuncts are opposites that cannot coexist, yet they may both be absent.
+
+Key Terms
+شرطية منفصلة
+مانعة الجمع
+
+Key Terms from Source Passage
+
+Checkpoint
+Consider the exclusive disjunction: 'Either this act is wajib or it is haram.' If we affirm it is wajib, what follows?
+A) It is haram
+B) It is not haram
+C) Nothing follows
+D) It is mubah
+
+Key Takeaway
+In exclusive disjunction (man'at al-jam'), affirming one disjunct yields negation of the other, but denying one does not yield affirmation of the other.
+
+How This Lesson Applies — to MY Life?
+?
+1. Construct an exclusive disjunction about an act of worship (e.g., prayer at a certain time: either it is valid or invalid) and then show the valid inference when affirming one disjunct and the invalid inference when denying one disjunct.
+?
+2. In a fiqh debate, one person says: 'Either this transaction is riba or it is permissible.' The opponent proves it is permissible. Can he conclude it is not riba? Explain using the rule of man'at al-jam'.
+
+Pages p. 167 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 167
+Module 5 · Lesson 70
+Next →
+The Syllogism
+beginner
+5 min
+Disjunctive Syllogism: Exhaustive Disjunction (Man'at al-Khuluw)
+Author gives examples of exhaustive disjunctive syllogism with rules.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether an inference in an exhaustive disjunctive syllogism is valid or invalid by applying the rule that negating one disjunct yields the other, but affirming one does not negate the other.
+
+Core Idea
+In exhaustive disjunction, at least one is true, so both can be true — affirming one never denies the other.
+
+In this lesson, we examine the exhaustive disjunctive syllogism (man'at al-khuluw). The author explains the rule using the example of Zayd being in the sea or not drowning. We will learn why negating one disjunct is valid but affirming one is not, and how to apply this in Islamic reasoning.
+
+Guided Path
+1
+Understand the disjunction type
+Identify that man'at al-khuluw means the two disjuncts cannot both be false but can both be true. This determines the inference rules.
+2
+Extract the major premise
+In the given examples, the major premise is "Zayd is either in the sea or not drowning." These two propositions can coexist: Zayd can be in the sea and not drowning simultaneously.
+3
+Apply the rule for negation
+When one disjunct is negated (e.g., "he is not in the sea"), the conclusion is the other disjunct ("he is not drowning"). This is valid because the disjunction ensures at least one must be true.
+Similarly, negating the second disjunct yields the first.
+4
+Apply the rule for affirmation
+When one disjunct is affirmed (e.g., "he is in the sea"), no conclusion follows about the other disjunct. The author explicitly says it does not produce the negation of the other.
+Affirming the second disjunct also fails to produce negation of the first.
+5
+Generalize the rule
+For any exhaustive disjunction, the valid inferences are: from not-A to B, and from not-B to A. Affirming A or B gives no conclusion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الشرطية المنفصلة مانعة الخلو: ينتج رفع كل وضع الثاني، ولا ينتج وضع كل رفع الثاني، إذا لا مانع من اجتماعها. الكبرى: زيد إما في البحر وإما لا يغرق. الصغرى: لكنه ليس في البحر. النتيجة: فهو لا يغرق. زيد إما في البحر وإما لا يغرق. لكنه ليس لا يغرق. فهو في البحر. زيد إما في البحر وإما لا يغرق. لكنه في البحر. لا ينتج: فهو ليس لا يغرق. زيد إما في البحر وإما لا يغرق. لكنه لا يغرق. لا ينتج: فهو ليس في البحر.
+The exhaustive disjunctive conditional: negating each (disjunct) produces positing the other, but positing each does not produce negating the other, because there is no obstacle to their coexistence. The major: Zayd is either in the sea or not drowning. The minor: But he is not in the sea. The conclusion: So he is not drowning. Zayd is either in the sea or not drowning. But he is not not drowning. So he is in the sea. Zayd is either in the sea or not drowning. But he is in the sea. It does not produce: So he is not not drowning. Zayd is either in the sea or not drowning. But he is not drowning. It does not produce: So he is not in the sea.
+Source pages p. 167
+
+Commentary
+This passage explains the rule for the exhaustive disjunctive syllogism (man'at al-khuluw), where the two disjuncts cannot both be false but may both be true. The author gives an example with Zayd: either he is in the sea or he is not drowning. The two can be true together (e.g., if he is in the sea and not drowning). The rule: negating one disjunct yields the other (valid), but affirming one does not negate the other because both could be true. Thus, from 'he is in the sea' we cannot conclude 'he is not drowning' (since both could hold), and from 'he is not drowning' we cannot conclude 'he is not in the sea' (since he could be in the sea and not drowning).
+
+Key Terms
+مانعة الخلو (mani'at al-khuluw): Exhaustive disjunction: the two disjuncts cannot both be false; at least one must be true. [Note: Stable.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if we have the exhaustive disjunction 'Zayd is either in the sea or not drowning,' and we affirm that Zayd is in the sea, what follows?
+A) Zayd is not drowning.
+B) Zayd is not in the sea.
+C) Nothing follows.
+D) Zayd is drowning.
+
+Key Takeaway
+In exhaustive disjunction, negating a disjunct affirms the other, but affirming a disjunct does not negate the other.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an exhaustive disjunctive syllogism using an Islamic example (e.g., about fasting or prayer) and identify which inferences are valid and which are not, based on the rule of man'at al-khuluw.
+?
+Evaluate the following reasoning: 'Either the traveler is performing qasr or he is healthy. The traveler is performing qasr. Therefore he is not healthy.' Is this valid? Explain why or why not using the rule from this lesson.
+
+Pages p. 167 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 178
+Module 5 · Lesson 71
+Next →
+The Syllogism
+beginner
+5 min
+Dialectic (Jadal): Widely Accepted and Conceded Premises
+Definition of dialectic with examples
+
+Learning Objective
+By the end of this lesson, you will be able to identify a dialectical syllogism by its premise types and distinguish it from sophistry.
+
+Core Idea
+Dialectic yields opinion, not certainty, using premises accepted by common opinion or the opponent.
+
+In this passage, the author defines dialectic (jadal) as a syllogism built from premises that are either widely accepted (mashhūra) or conceded by the opponent (musallama). These premises produce opinion (ẓann), not necessary certainty. Two examples illustrate how dialectic works in actual argumentation: one on moral ugliness, the other on the caliphate. Understanding this definition helps you recognise when a logical argument is meant to persuade rather than to prove.
+
+Guided Path
+1
+Find the definition of jadal
+Locate the sentence beginning with 'الجَدَلُ' and note the two types of premises: mashhūra and musallama.
+2
+Examine the first example
+Injustice is ugly; every ugly thing is avoided; therefore injustice is avoided. Identify the premises and conclusion.
+The conclusion yields opinion (ẓann).
+3
+Examine the second example
+Abu Bakr was elected; everyone elected to caliphate is caliph; therefore Abu Bakr is caliph. Note that it yields opinion, not certainty.
+This example uses a widely accepted premise about election.
+4
+Compare with other definitions
+Contrast with sophistry: here premises are true-ish, there premises are false or deceptive. Refer to other parts of the passage.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كما يُقالُ: إِنَّ وراءَ العَالَمِ فَضاءً لَا يَتَناهَىٰ وهَذَا أَيْضًا إِنْ قُوْبِلَ بِهِ الحُكْمُ يُسمى سَفْسَطةً وإنْ قُوبِلَ بها الجَدَلُ تُسمى مُشَاغَبَةٌ.
+- الجدل: ما رُكَّبَ من مقدمتين مشهورة أو مُسَلَّمَة.
+الأمثلة:
+الصغرى: الظلم قبيح، الكبرى: وكل قبيح يترك، النتيجة: فالظلم يترك، قوتها: تفيد الظن.
+الصغرى: أبو بكر انتخب، الكبرى: وكل منتخب للخلافة، النتيجة: فأبو بكر خليفة، قوتها: تفيد الظن.
+- السَّفْسَطَة : هو ما رُكَّبَ من مقدمات وهمية كاذبة أو شبيهة بالحق وليست حقا، أو شبيهة بالمشهورة وليست مشهورة.
+الأمثلة:
+الصغرى: الميت جماد، الكبرى: وكل جماد لا يخاف منه، النتيجة: فالميت لا يخاف منه، قوتها: تفيد الظن (وهمية كاذبة).
+الصغرى: هذا فرس، الكبرى: وكل فرس صاهل، النتيجة: فهذا صاهل، قوتها: تفيد الظن (شبيهة بالحق).
+الصغرى: هذا يتكلم بألفاظ العلم، الكبرى: وكل من يتكلم بألفاظ العلم فهو عالم، النتيجة: فهذا عالم، قوتها: تفيد الظن (شبيهة بالمشهورة).
+(1) معنى وهمية كاذبة أن العقل يساعد الوهم في المقدمات ويخالفه في النتيجة، فإن العقل يكذب إن الميت لا يخاف منه، يصدق إن الميت جماد.
+(1) مشتقة من سوفسطاء وهي العلم المزخرف والحكمة المموهة أي المزين بالأباطيل؛ لأن سوفا العلم والحكمة واسطا الغلط والمزخرف.
+(2) هي المنازعة لرد الخصم حقاً أو باطلاً لا لإظهار الحقيقة.
+As it is said: 'Indeed, beyond the world is an infinite void.' And this (statement) is called sophistry if it is opposed to judgment, and strife if it is opposed to dialectic. Dialectic: what is composed of two premises, either widely accepted or conceded. Examples: Minor: injustice is ugly; major: every ugly thing is avoided; conclusion: injustice is avoided; its force: it yields opinion. Minor: Abu Bakr was elected; major: everyone elected to the caliphate is caliph; conclusion: Abu Bakr is caliph; its force: it yields opinion. Sophistry: what is composed of premises that are imaginary false, or resembling truth but not truth, or resembling the widely accepted but not widely accepted. Examples: Minor: the dead is inanimate; major: every inanimate thing is not to be feared; conclusion: the dead is not to be feared; its force: it yields opinion (imaginary false). Minor: this is a horse; major: every horse neighs; conclusion: this neighs; its force: it yields opinion (resembling truth). Minor: this one speaks with terms of knowledge; major: everyone who speaks with terms of knowledge is knowledgeable; conclusion: this one is knowledgeable; its force: it yields opinion (resembling the widely accepted). (1) The meaning of 'imaginary false' is that the intellect helps the imagination in the premises but opposes it in the conclusion, for the intellect denies that the dead is not to be feared, and affirms that the dead is inanimate. (1) It is derived from 'sufistā' which is decorated knowledge and disguised wisdom, i.e., adorned with falsehoods; because 'sufā' is knowledge and wisdom, and 'istā' is error and decoration. (2) It is the disputation to repel the opponent, right or wrong, not to manifest the truth.
+Source pages p. 178
+
+Commentary
+This passage defines three types of argumentative discourse: dialectic (jadal), sophistry (safsata), and strife (mushāghaba). The author begins with an example statement ('Beyond the world is an infinite void') and explains its classification: if used to oppose a judgment (hukm) it is called sophistry, and if used to oppose dialectic it is called strife. Then the author formally defines dialectic as a syllogism composed of two premises that are either widely accepted (mashhūra) or conceded (musallama) by the opponent. Two examples are given: one using 'injustice is ugly' and another using the election of Abu Bakr, each yielding opinion (ẓann), not certainty. Next, sophistry is defined as a syllogism composed of premises that are either 'imaginary false' (wahmiyya kādhiba) – where the imagination agrees with the premises but the intellect denies the conclusion – or resembling truth but not truth, or resembling the widely accepted but not widely accepted. Three examples illustrate these: a dead person is inanimate (imaginary false), a horse that neighs (resembling truth), and a speaker using scholarly terms (resembling the widely accepted). The footnotes clarify the etymology of 'sophistry' from Greek (sophistēs) meaning adorned false wisdom, and define 'strife' as contentious debate aimed at refuting the opponent regardless of truth.
+
+Key Terms
+الجدل
+المشهورة
+المسلمة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which type of argument uses premises that are widely accepted (mashhūra) or conceded (musallama)?
+A) Demonstration
+B) Dialectic
+C) Sophistry
+D) Strife
+
+Key Takeaway
+Dialectic is a syllogism using plausible premises to produce opinion, not certainty, and is distinct from sophistry.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a dialectical syllogism on a fiqh issue using one widely accepted premise (e.g., 'Every intoxicant is forbidden') and one conceded premise (e.g., 'This drink is an intoxicant' conceded by an opponent). State the conclusion.
+?
+Identify a real-world Islamic debate where a premise is widely accepted but not certain, and explain how it yields opinion.
+
+Pages p. 178 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 178
+Module 5 · Lesson 72
+Next →
+The Syllogism
+beginner
+5 min
+Sophistry (Safsata): False Imaginations and Deceptive Resemblances
+Definition of sophistry with three types of premises
+
+Learning Objective
+By the end of this lesson, you will be able to classify a sophistical argument according to its premise type: imaginary false, resembling truth, or resembling the widely accepted.
+
+Core Idea
+Sophistry uses premises that deceive the intellect, either by false imagination or by resemblance to truth or common opinion.
+
+This passage defines sophistry (safsata) as a syllogism built from premises that are false in imagination (wahmiyya kādhiba), or that resemble truth but are not true, or that resemble widely accepted opinions but are not actually widely accepted. Three examples illustrate each type. The footnotes clarify the etymology and the distinction from strife. By the end of this lesson, you will be able to spot sophistical arguments in Islamic debates and explain why they fail.
+
+Guided Path
+1
+Find the definition of safsata
+Locate the sentence beginning with 'السَّفْسَطَة' and note the three types of premises: imaginary false, resembling truth, and resembling the widely accepted.
+2
+Analyse the first example (imaginary false)
+The dead is inanimate; every inanimate is not feared; therefore the dead is not feared. Note that the conclusion is false though premises appear true.
+The footnote explains that the intellect opposes the conclusion.
+3
+Analyse the second example (resembling truth)
+This is a horse; every horse neighs; therefore this neighs. The major premise is not always true; some horses don't neigh.
+It resembles truth because most horses neigh, but it's not universally true.
+4
+Analyse the third example (resembling widely accepted)
+This person uses scholarly terms; everyone who does so is knowledgeable; therefore this person is knowledgeable. The major premise is not universally accepted; one can use terms without knowledge.
+It resembles a widely accepted belief but is not actually widely accepted as a universal rule.
+5
+Check the footnote on etymology
+The term derives from Greek meaning 'decorated wisdom' and indicates that sophistry adorns falsehood with the appearance of knowledge.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كما يُقالُ: إِنَّ وراءَ العَالَمِ فَضاءً لَا يَتَناهَىٰ وهَذَا أَيْضًا إِنْ قُوْبِلَ بِهِ الحُكْمُ يُسمى سَفْسَطةً وإنْ قُوبِلَ بها الجَدَلُ تُسمى مُشَاغَبَةٌ.
+- الجدل: ما رُكَّبَ من مقدمتين مشهورة أو مُسَلَّمَة.
+الأمثلة:
+الصغرى: الظلم قبيح، الكبرى: وكل قبيح يترك، النتيجة: فالظلم يترك، قوتها: تفيد الظن.
+الصغرى: أبو بكر انتخب، الكبرى: وكل منتخب للخلافة، النتيجة: فأبو بكر خليفة، قوتها: تفيد الظن.
+- السَّفْسَطَة : هو ما رُكَّبَ من مقدمات وهمية كاذبة أو شبيهة بالحق وليست حقا، أو شبيهة بالمشهورة وليست مشهورة.
+الأمثلة:
+الصغرى: الميت جماد، الكبرى: وكل جماد لا يخاف منه، النتيجة: فالميت لا يخاف منه، قوتها: تفيد الظن (وهمية كاذبة).
+الصغرى: هذا فرس، الكبرى: وكل فرس صاهل، النتيجة: فهذا صاهل، قوتها: تفيد الظن (شبيهة بالحق).
+الصغرى: هذا يتكلم بألفاظ العلم، الكبرى: وكل من يتكلم بألفاظ العلم فهو عالم، النتيجة: فهذا عالم، قوتها: تفيد الظن (شبيهة بالمشهورة).
+(1) معنى وهمية كاذبة أن العقل يساعد الوهم في المقدمات ويخالفه في النتيجة، فإن العقل يكذب إن الميت لا يخاف منه، يصدق إن الميت جماد.
+(1) مشتقة من سوفسطاء وهي العلم المزخرف والحكمة المموهة أي المزين بالأباطيل؛ لأن سوفا العلم والحكمة واسطا الغلط والمزخرف.
+(2) هي المنازعة لرد الخصم حقاً أو باطلاً لا لإظهار الحقيقة.
+As it is said: 'Indeed, beyond the world is an infinite void.' And this (statement) is called sophistry if it is opposed to judgment, and strife if it is opposed to dialectic. Dialectic: what is composed of two premises, either widely accepted or conceded. Examples: Minor: injustice is ugly; major: every ugly thing is avoided; conclusion: injustice is avoided; its force: it yields opinion. Minor: Abu Bakr was elected; major: everyone elected to the caliphate is caliph; conclusion: Abu Bakr is caliph; its force: it yields opinion. Sophistry: what is composed of premises that are imaginary false, or resembling truth but not truth, or resembling the widely accepted but not widely accepted. Examples: Minor: the dead is inanimate; major: every inanimate thing is not to be feared; conclusion: the dead is not to be feared; its force: it yields opinion (imaginary false). Minor: this is a horse; major: every horse neighs; conclusion: this neighs; its force: it yields opinion (resembling truth). Minor: this one speaks with terms of knowledge; major: everyone who speaks with terms of knowledge is knowledgeable; conclusion: this one is knowledgeable; its force: it yields opinion (resembling the widely accepted). (1) The meaning of 'imaginary false' is that the intellect helps the imagination in the premises but opposes it in the conclusion, for the intellect denies that the dead is not to be feared, and affirms that the dead is inanimate. (1) It is derived from 'sufistā' which is decorated knowledge and disguised wisdom, i.e., adorned with falsehoods; because 'sufā' is knowledge and wisdom, and 'istā' is error and decoration. (2) It is the disputation to repel the opponent, right or wrong, not to manifest the truth.
+Source pages p. 178
+
+Commentary
+This passage defines three types of argumentative discourse: dialectic (jadal), sophistry (safsata), and strife (mushāghaba). The author begins with an example statement ('Beyond the world is an infinite void') and explains its classification: if used to oppose a judgment (hukm) it is called sophistry, and if used to oppose dialectic it is called strife. Then the author formally defines dialectic as a syllogism composed of two premises that are either widely accepted (mashhūra) or conceded (musallama) by the opponent. Two examples are given: one using 'injustice is ugly' and another using the election of Abu Bakr, each yielding opinion (ẓann), not certainty. Next, sophistry is defined as a syllogism composed of premises that are either 'imaginary false' (wahmiyya kādhiba) – where the imagination agrees with the premises but the intellect denies the conclusion – or resembling truth but not truth, or resembling the widely accepted but not widely accepted. Three examples illustrate these: a dead person is inanimate (imaginary false), a horse that neighs (resembling truth), and a speaker using scholarly terms (resembling the widely accepted). The footnotes clarify the etymology of 'sophistry' from Greek (sophistēs) meaning adorned false wisdom, and define 'strife' as contentious debate aimed at refuting the opponent regardless of truth.
+
+Key Terms
+السفسطة
+الوهمية الكاذبة
+الشبيهة بالحق
+الشبيهة بالمشهورة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which of the following is NOT a type of premise used in sophistry?
+A) Imaginary false (wahmiyya kādhiba)
+B) Resembling truth (shabīha bi-l-ḥaqq)
+C) Widely accepted (mashhūra)
+D) Resembling widely accepted (shabīha bi-l-mashhūra)
+
+Key Takeaway
+Sophistry deceives by using premises that are false in imagination or that resemble truth or common opinion without actually being true or widely accepted.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which type of sophistical premise is used in this argument: 'This person claims to be a scholar; everyone who claims scholarship is a scholar; therefore this person is a scholar.' Explain why it is not necessarily valid.
+?
+Construct a sophistical argument on a topic from fiqh (e.g., the permissibility of something) using a premise that resembles truth but is false, and then expose the fallacy.
+
+Pages p. 178 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 178
+Module 5 · Lesson 73
+Next →
+The Syllogism
+intermediate
+5 min
+Strife (Mushāghaba): Contentious Disputation
+Distinction between sophistry and strife and definition of strife
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish strife (mushāghaba) from sophistry based on its purpose and the type of discourse it opposes.
+
+Core Idea
+Strife is contentious disputation aimed at refuting the opponent, regardless of truth; it opposes dialectic, not judgment.
+
+The author introduces strife (mushāghaba) as a third type of argumentative discourse, distinct from both dialectic and sophistry. While sophistry opposes judgment (ḥukm) by using deceptive premises, strife opposes dialectic (jadal) itself, focusing on defeating the opponent rather than establishing truth. The footnote defines it as 'disputation to repel the opponent, right or wrong, not to manifest the truth.' This lesson helps you recognise when a debate has shifted from seeking truth to mere contention.
+
+Guided Path
+1
+Find the mention of strife in the opening example
+Look at the sentence about 'infinite void' and note that it is called sophistry if opposed to judgment, and strife if opposed to dialectic.
+The same statement can be used in different ways.
+2
+Understand the distinction based on target
+Strife is defined relative to dialectic: it is the use of such arguments to attack dialectical reasoning itself.
+Sophistry targets judgment, strife targets the dialectical process.
+3
+Read the footnote definition
+Footnote (2) explains that strife is 'disputation to repel the opponent, right or wrong, not to manifest the truth.'
+This is the most explicit definition of strife in the passage.
+4
+Compare with sophistry
+Sophistry uses false premises to oppose judgment; strife uses similar methods but targets the dialectical process, aiming to win the argument rather than reach truth.
+Strife can involve any means, not just faulty syllogisms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كما يُقالُ: إِنَّ وراءَ العَالَمِ فَضاءً لَا يَتَناهَىٰ وهَذَا أَيْضًا إِنْ قُوْبِلَ بِهِ الحُكْمُ يُسمى سَفْسَطةً وإنْ قُوبِلَ بها الجَدَلُ تُسمى مُشَاغَبَةٌ.
+- الجدل: ما رُكَّبَ من مقدمتين مشهورة أو مُسَلَّمَة.
+الأمثلة:
+الصغرى: الظلم قبيح، الكبرى: وكل قبيح يترك، النتيجة: فالظلم يترك، قوتها: تفيد الظن.
+الصغرى: أبو بكر انتخب، الكبرى: وكل منتخب للخلافة، النتيجة: فأبو بكر خليفة، قوتها: تفيد الظن.
+- السَّفْسَطَة : هو ما رُكَّبَ من مقدمات وهمية كاذبة أو شبيهة بالحق وليست حقا، أو شبيهة بالمشهورة وليست مشهورة.
+الأمثلة:
+الصغرى: الميت جماد، الكبرى: وكل جماد لا يخاف منه، النتيجة: فالميت لا يخاف منه، قوتها: تفيد الظن (وهمية كاذبة).
+الصغرى: هذا فرس، الكبرى: وكل فرس صاهل، النتيجة: فهذا صاهل، قوتها: تفيد الظن (شبيهة بالحق).
+الصغرى: هذا يتكلم بألفاظ العلم، الكبرى: وكل من يتكلم بألفاظ العلم فهو عالم، النتيجة: فهذا عالم، قوتها: تفيد الظن (شبيهة بالمشهورة).
+(1) معنى وهمية كاذبة أن العقل يساعد الوهم في المقدمات ويخالفه في النتيجة، فإن العقل يكذب إن الميت لا يخاف منه، يصدق إن الميت جماد.
+(1) مشتقة من سوفسطاء وهي العلم المزخرف والحكمة المموهة أي المزين بالأباطيل؛ لأن سوفا العلم والحكمة واسطا الغلط والمزخرف.
+(2) هي المنازعة لرد الخصم حقاً أو باطلاً لا لإظهار الحقيقة.
+As it is said: 'Indeed, beyond the world is an infinite void.' And this (statement) is called sophistry if it is opposed to judgment, and strife if it is opposed to dialectic. Dialectic: what is composed of two premises, either widely accepted or conceded. Examples: Minor: injustice is ugly; major: every ugly thing is avoided; conclusion: injustice is avoided; its force: it yields opinion. Minor: Abu Bakr was elected; major: everyone elected to the caliphate is caliph; conclusion: Abu Bakr is caliph; its force: it yields opinion. Sophistry: what is composed of premises that are imaginary false, or resembling truth but not truth, or resembling the widely accepted but not widely accepted. Examples: Minor: the dead is inanimate; major: every inanimate thing is not to be feared; conclusion: the dead is not to be feared; its force: it yields opinion (imaginary false). Minor: this is a horse; major: every horse neighs; conclusion: this neighs; its force: it yields opinion (resembling truth). Minor: this one speaks with terms of knowledge; major: everyone who speaks with terms of knowledge is knowledgeable; conclusion: this one is knowledgeable; its force: it yields opinion (resembling the widely accepted). (1) The meaning of 'imaginary false' is that the intellect helps the imagination in the premises but opposes it in the conclusion, for the intellect denies that the dead is not to be feared, and affirms that the dead is inanimate. (1) It is derived from 'sufistā' which is decorated knowledge and disguised wisdom, i.e., adorned with falsehoods; because 'sufā' is knowledge and wisdom, and 'istā' is error and decoration. (2) It is the disputation to repel the opponent, right or wrong, not to manifest the truth.
+Source pages p. 178
+
+Commentary
+This passage defines three types of argumentative discourse: dialectic (jadal), sophistry (safsata), and strife (mushāghaba). The author begins with an example statement ('Beyond the world is an infinite void') and explains its classification: if used to oppose a judgment (hukm) it is called sophistry, and if used to oppose dialectic it is called strife. Then the author formally defines dialectic as a syllogism composed of two premises that are either widely accepted (mashhūra) or conceded (musallama) by the opponent. Two examples are given: one using 'injustice is ugly' and another using the election of Abu Bakr, each yielding opinion (ẓann), not certainty. Next, sophistry is defined as a syllogism composed of premises that are either 'imaginary false' (wahmiyya kādhiba) – where the imagination agrees with the premises but the intellect denies the conclusion – or resembling truth but not truth, or resembling the widely accepted but not widely accepted. Three examples illustrate these: a dead person is inanimate (imaginary false), a horse that neighs (resembling truth), and a speaker using scholarly terms (resembling the widely accepted). The footnotes clarify the etymology of 'sophistry' from Greek (sophistēs) meaning adorned false wisdom, and define 'strife' as contentious debate aimed at refuting the opponent regardless of truth.
+
+Key Terms
+المشاغبة
+المنازعة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the characteristic that distinguishes strife (mushāghaba) from sophistry?
+A) It uses false premises
+B) It opposes dialectic, not judgment
+C) It yields certainty
+D) It only occurs in oral disputes
+
+Key Takeaway
+Strife is contentious disputation that opposes dialectic and aims to defeat the opponent, not to uncover the truth.
+
+How This Lesson Applies — to MY Life?
+?
+Give an example of a debate on a fiqh issue (e.g., the permissibility of a specific transaction) where one party is engaging in strife rather than sincere dialectic. Explain what indicates strife.
+?
+Contrast the same argument used as dialectic vs used as strife. For instance, the statement 'The world is created' could be used dialectically to reach truth or as strife to merely oppose an opponent.
+
+Pages p. 178 · The Syllogism
+← Prev
+Mark Done
+Next →

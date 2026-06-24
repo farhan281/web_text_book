@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:52Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/manahij_bahth/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/modern_epistemology/31 - Manahij Bahth",
+  "output_bytes": 8422334,
+  "output_sha256": "87c47b1417ac228a335c70f1b83fcaf2bdbd60bd3db94fb6368f0bcb2ed55d32",
+  "checks": {
+    "catalog_expected_lessons": 865,
+    "course_reported_lessons": 865,
+    "index_lessons": 865,
+    "full_lessons": 865,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 21,
+    "course_reported_modules": 21,
+    "modules": 21,
+    "course_reported_sources": 622,
+    "sources": 622
+  }
+}

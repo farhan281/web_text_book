@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:23Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/MuntakhabUlHusamiAlBushra_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/66 - Muntakhabulhusamialbushra Merged With Pgs",
+  "output_bytes": 8221467,
+  "output_sha256": "aba4960d800e536fb60f460c24bd77a428bcaf0fa1eb7fe58d3a228b9032e8b3",
+  "checks": {
+    "catalog_expected_lessons": 609,
+    "course_reported_lessons": 609,
+    "index_lessons": 609,
+    "full_lessons": 609,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 562,
+    "sources": 562
+  }
+}

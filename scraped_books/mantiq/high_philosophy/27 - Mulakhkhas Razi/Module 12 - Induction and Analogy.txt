@@ -1,0 +1,505 @@
+← Prev
+p. 135
+Module 12 · Lesson 1
+Next →
+Induction and Analogy
+intermediate
+5 min
+Complete Induction vs. Analogy: Certainty in Reasoning
+Author compares complete induction to divisive syllogism and critiques analogy.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete induction from analogy and explain why analogy is considered weak in Islamic logic.
+
+Core Idea
+Complete induction is deductive; analogy is uncertain.
+
+In this passage, the author clarifies two non-demonstrative reasoning methods used in Islamic law: complete induction (al-istiqrā' al-'āmm) and analogy (al-tamthīl). He argues that complete induction, if exhaustive, is actually a valid syllogism. However, analogy is weak because the attribute used to transfer a ruling may not be the complete cause. This distinction is crucial for evaluating arguments in usul al-fiqh.
+
+Guided Path
+1
+Identify the two reasoning types
+The passage contrasts 'complete induction' (istiqra' 'amm) and 'analogy' (tamthil). Note that the author treats complete induction as a divisive syllogism, while analogy is criticized.
+Divisive syllogism (qiyas muqassim) is a deductive argument that exhaustively divides a genus into its species.
+2
+Understand the equivalence of complete induction to divisive syllogism
+Complete induction examines every individual of a class. If all individuals share a property, the conclusion is universal. For example, if every intoxicant (wine, beer, hashish) is forbidden, then 'all intoxicants are forbidden' follows deductively.
+This is valid only if the enumeration is truly exhaustive.
+3
+Analyze the critique of analogy
+The author says analogy is weak because its effect would only be realized if we already knew that wherever the attribute (e.g., intoxication) exists, the ruling (forbiddance) exists. But that requires knowing the ruling in the branch (far') beforehand, making the argument circular. Moreover, the attribute might be only part of the cause, a condition, a confirmer, or a remover of an obstacle—not the complete 'illa.
+This critique is common in usul al-fiqh debates about the validity of qiyas.
+4
+Apply the critique to a fiqh example
+Consider the analogy: 'Wine is forbidden because it intoxicates; therefore, nabidh (date wine) is forbidden because it intoxicates.' The critique asks: Is intoxication the complete cause? Perhaps it is only a condition, or the real cause is something else. Thus, the analogy is not certain.
+This shows why scholars differ on the strength of analogical reasoning in Islamic law.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الاستقراء إن كان عاما فهو القياس المقسم الذي مر. والتمثيل ضعيف لان التآمر منه إنما تحقق لو يينا انه اينما ثبت الوصف أنت الحاد اكبة الوصف حاصلية الفروع فلابد وان يعرف شوف الحكم في الفرع لان ذلك لوثت لاستعْلِنَا عَن أصل التمثل ولان بعد بر سرت قدان المنامة لاقلام الاعلية لاحتمال كونه جزء العلة أو شرط العلة أو نافعا أو معدا المانع.
+Then, induction if it is general is the divisive syllogism that has passed. And analogy is weak because its effect would only be realized if we establishes that wherever the attribute is established, the ruling is established in the branches; then we must know the establishment of the ruling in the branch, because otherwise we would have no need for the original analogy. And because after... reflection on the rulings for the cause due to the possibility that [the attribute] is part of the cause, or a condition of the cause, or a confirmer, or a remover of an obstacle.
+Source pages p. 135
+
+Commentary
+This passage critiques two forms of non-demonstrative reasoning used in Islamic law: complete induction (istiqra') and analogy (tamthil/qiyas). The author states that complete induction (enumerating all individuals) is actually a divisive syllogism (qiyas muqassim) — a valid deductive argument. For example, if we examine every type of intoxicant and find all are forbidden, we can deduce 'Every intoxicant is forbidden'. That's valid only if the induction is exhaustive. On the other hand, analogy (used in fiqh) is weak (da'if) because it relies on a common attribute to transfer a ruling from a known case (asl) to a new case (far'). The critique is that for analogy to be valid, we would need to establish that wherever the attribute exists, the ruling exists; but that requires already knowing the ruling in the branch, making the analogy circular. Moreover, the attribute might be merely part of the cause, a condition, a confirmer, or remove an obstacle, but not the complete cause ('illa). The author thus questions the certainty of analogical reasoning, a common topic in usul al-fiqh debates.
+
+Key Terms
+الاستقراء العام
+القياس المقسم
+التمثيل
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author consider analogy (tamthil) weak?
+A) Because it uses only two premises
+B) Because the common attribute may not be the complete cause
+C) Because it always leads to contradiction
+D) Because it requires faith
+
+Key Takeaway
+Complete induction, if exhaustive, yields certainty; analogy is weak because the attribute used may not be the complete cause.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the analogy: 'Selling wheat for wheat in unequal amounts is riba (usury) because it involves exchange of the same commodity; therefore, selling barley for barley in unequal amounts is also riba.' Identify the attribute and evaluate whether it is likely the complete cause. What does al-Razi's critique say about this reasoning?
+?
+Take a case from usul al-fiqh where the 'illa is contested (e.g., the cause for forbidding wine: intoxication vs. inebriation). Could this attribute be merely a condition? Explain using the passage's critique.
+
+Pages p. 135 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 135
+Module 12 · Lesson 2
+Next →
+Induction and Analogy
+beginner
+8 min
+Definition and Conditions of Tamthil
+Definition of tamthil and its conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to define tamthil and identify its two essential conditions.
+
+Core Idea
+Tamthil transfers a ruling via a shared cause, not mere resemblance.
+
+How do Islamic jurists extend rulings from known cases to new ones? The answer lies in tamthil, or analogical reasoning. But this is not a free-form comparison—it requires a precise causal link. In this passage, the author defines tamthil and sets its necessary conditions, grounding us in a core tool of Islamic legal reasoning.
+
+Guided Path
+1
+Identify the definiendum
+Find the term being defined in the Arabic. What is the author calling 'tamthil'?
+The term appears at the start: 'فهو التمثيل'.
+2
+Extract the definition
+The author says tamthil is 'to judge on the disputed case similar to the judgment on the agreed case due to a shared meaning'. Note the key components: a disputed case, an agreed case, a shared meaning.
+The shared meaning (ma'na mushtarak) is central.
+3
+Find the two conditions
+The author then states 'its condition: that the common attribute be a cause for the ruling in the original, and that there be nothing in the branch that prevents the ruling.' Identify these as the two conditions.
+First condition: causality of the attribute in the original. Second condition: no impediment in the branch.
+4
+Distinguish from universal induction
+The author begins by contrasting tamthil with universal induction (istiqra' 'amm). Understand that tamthil is non-universal induction, while universal induction leads to qiyas muqassam (divisive syllogism).
+This distinction prevents confusing tamthil with deductive syllogisms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الاستقراء إن كان عاما فهو القياس المقسم الذي مر. وأما إن لم يكن عاما فهو التمثيل. وهو أن يحكم على محل الخلاف بمثل الحكم على محل الوفاق لمعنى مشترك بينهما. ثم شرطه: أن يكون الوصف المشترك علة للحكم في الأصل، وأن لا يكون في الفرع ما يمنع من الحكم. ثم احتجوا على علة الوصف المشترك بطريقين: أحدهما قياس العكس، وهو ضعيف. واعترض عليه بأنه لو كان الحكم معللا بعلة لزم التسلسل، والجواب أن العلة تنحصر في الأقسام التي ذكرها، وإن سلم الحصر لكنه ليس بمجموعها بل تجوز أن تكون العلة مجموع بعضها لا كل واحد.
+Induction, if it is universal, is the divisive syllogism that has passed. But if it is not universal, it is tamthil. It is to judge on the disputed instance similar to the judgment on the agreed instance due to a meaning shared between them. Then its condition: that the common attribute be a cause for the ruling in the original, and that there be nothing in the branch that prevents the ruling. Then they argued for the causality of the common attribute in two ways: one of them is qiyas al-'aks (syllogism of the converse), which is weak. And objection was raised against it that if the ruling were caused by a cause, an infinite regress would follow. The answer is that the cause is limited to the divisions mentioned, and even if the exclusivity is granted, it is not that the cause is the sum of them all, but it is permissible that the cause be the sum of some of them, not each one individually.
+Source pages p. 135
+
+Commentary
+This passage defines tamthil (analogical reasoning) and outlines its essential conditions. The author begins by distinguishing tamthil from universal induction (istiqra' 'amm), which is the qiyas muqassam (divisive syllogism) discussed earlier. Tamthil is defined as transferring a ruling from a case of consensus (mahall al-wifaq) to a disputed case (mahall al-khilaf) due to a shared attribute (ma'na mushtarak). The key condition is that this shared attribute must be the 'illa (cause) of the ruling in the original case, and there must be no impediment (mani') in the branch that would block the ruling. The author then notes that proponents of tamthil try to establish the causality of the common attribute via two methods: one is qiyas al-'aks (syllogism of the converse), which is weak. An objection is raised: if every ruling must have a cause, that cause itself would need another cause, leading to infinite regress. The response is that the cause is limited to the specified categories, and even if we accept the exclusivity, the cause may be a combination of some attributes, not necessarily all individually.
+
+Key Terms
+التمثيل
+العلة
+الوصف المشترك
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the first condition for a valid tamthil?
+A) The shared attribute must be unique to the original case.
+B) The shared attribute must be the cause ('illa) of the ruling in the original case.
+C) The disputed case must be identical to the agreed case.
+D) The ruling must be confirmed by a textual source.
+
+Key Takeaway
+Tamthil is a conditional analogical transfer requiring the shared attribute to be the cause in the original and no impediment in the branch.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a tamthil argument for a fiqh case: derive the ruling for electronic contracts from the ruling for verbal contracts, identifying the shared 'illa and ensuring no impediment exists in the electronic case.
+
+Pages p. 135 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 135
+Module 12 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+10 min
+Proving Causality and the Infinite Regress Objection
+Discussion of the method to prove causality and the infinite regress objection.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the objection against causal tamthil and evaluate the response regarding infinite regress.
+
+Core Idea
+The cause must be limited to specified categories to avoid infinite regress.
+
+Once the conditions of tamthil are established, a deeper question arises: how do we know that the shared attribute is truly the cause? The logicians propose methods to prove causality. However, a powerful objection surfaces: if every ruling requires a cause, that cause would itself need a cause, leading to an infinite chain. The author presents a response that appeals to the finite categories of causes. Let's examine this argument step by step.
+
+Guided Path
+1
+Identify the objection
+The passage says: 'if the ruling were caused by a cause, an infinite regress would follow'. Understand the problem: if every ruling must have a cause, then the cause itself is a ruling that needs a cause, and so on ad infinitum.
+This is a classic philosophical problem (tasalsul).
+2
+Find the first response
+The author answers: 'the cause is limited to the divisions mentioned'. This means the categories of causes (e.g., attributes like intoxication) are finite, so the regress stops at the fundamental causes.
+The 'divisions mentioned' refer to earlier sections of the text (not in this chunk).
+3
+Refine the response
+The author adds: 'even if the exclusivity is granted, it is not that the cause is the sum of them all, but it is permissible that the cause be the sum of some of them, not each one individually.' This addresses a potential misinterpretation: the cause might be a combination of attributes, not each one singly.
+This nuance prevents the objection that if the cause is a single attribute, it might not be exhaustive.
+4
+Evaluate the argument
+Assess whether the response successfully blocks the infinite regress. Does limiting causes to finite categories solve the problem? Consider whether the categories themselves might still require justification.
+This step encourages critical thinking about the strength of the response.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الاستقراء إن كان عاما فهو القياس المقسم الذي مر. وأما إن لم يكن عاما فهو التمثيل. وهو أن يحكم على محل الخلاف بمثل الحكم على محل الوفاق لمعنى مشترك بينهما. ثم شرطه: أن يكون الوصف المشترك علة للحكم في الأصل، وأن لا يكون في الفرع ما يمنع من الحكم. ثم احتجوا على علة الوصف المشترك بطريقين: أحدهما قياس العكس، وهو ضعيف. واعترض عليه بأنه لو كان الحكم معللا بعلة لزم التسلسل، والجواب أن العلة تنحصر في الأقسام التي ذكرها، وإن سلم الحصر لكنه ليس بمجموعها بل تجوز أن تكون العلة مجموع بعضها لا كل واحد.
+Induction, if it is universal, is the divisive syllogism that has passed. But if it is not universal, it is tamthil. It is to judge on the disputed instance similar to the judgment on the agreed instance due to a meaning shared between them. Then its condition: that the common attribute be a cause for the ruling in the original, and that there be nothing in the branch that prevents the ruling. Then they argued for the causality of the common attribute in two ways: one of them is qiyas al-'aks (syllogism of the converse), which is weak. And objection was raised against it that if the ruling were caused by a cause, an infinite regress would follow. The answer is that the cause is limited to the divisions mentioned, and even if the exclusivity is granted, it is not that the cause is the sum of them all, but it is permissible that the cause be the sum of some of them, not each one individually.
+Source pages p. 135
+
+Commentary
+This passage defines tamthil (analogical reasoning) and outlines its essential conditions. The author begins by distinguishing tamthil from universal induction (istiqra' 'amm), which is the qiyas muqassam (divisive syllogism) discussed earlier. Tamthil is defined as transferring a ruling from a case of consensus (mahall al-wifaq) to a disputed case (mahall al-khilaf) due to a shared attribute (ma'na mushtarak). The key condition is that this shared attribute must be the 'illa (cause) of the ruling in the original case, and there must be no impediment (mani') in the branch that would block the ruling. The author then notes that proponents of tamthil try to establish the causality of the common attribute via two methods: one is qiyas al-'aks (syllogism of the converse), which is weak. An objection is raised: if every ruling must have a cause, that cause itself would need another cause, leading to infinite regress. The response is that the cause is limited to the specified categories, and even if we accept the exclusivity, the cause may be a combination of some attributes, not necessarily all individually.
+
+Key Terms
+قياس العكس
+التسلسل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the response to the objection that causal tamthil leads to infinite regress?
+A) The cause is limited to a finite set of categories, and it may be a combination of some, not all.
+B) The cause is not required for the ruling in the original case.
+C) The infinite regress is actually permissible in this context.
+D) The objection only applies to qiyas al-'aks, not to tamthil.
+
+Key Takeaway
+The infinite regress objection to causal analogies is answered by limiting causes to finite categories and allowing composite causes.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the following objection: 'If every ruling requires a cause, then the attribute that is the cause itself must be caused, leading to an infinite chain.' Then write a response using the author's argument about limited categories and permissible combinations.
+?
+Identify a case in usul al-fiqh where the 'illa is a combination of attributes (e.g., 'covering the head' and 'intention' for the validity of salat) and explain how it avoids the regress objection.
+
+Pages p. 135 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 378
+Module 12 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+5 min
+Refuting Anaxagoras Through Empirical Transformation
+Empirical refutation of Anaxagoras' mixture theory
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the author's empirical objection to Anaxagoras' mixture theory and evaluate its strength.
+
+Core Idea
+Anaxagoras is refuted by observable transformation, not mere combination.
+
+The author tackles Anaxagoras' ancient theory that every substance contains parts of every other substance, and that similars attract to produce a new nature. This lesson shows how a simple empirical observation—food changes into something entirely different—undermines the theory and supports genuine transformation (istihala).
+
+Guided Path
+1
+Identify Anaxagoras' claim
+Anaxagoras held that all things contain minute parts of all substances (e.g., bone, flesh, apple, garment). These parts are extremely small and when many gather, similars attract and a nature appears.
+2
+Find the author's empirical objection
+The author points to food turning into something else (e.g., into vinegar or other substances). If the original mixtures existed with their qualities in the food, we would perceive them; since we do not, the theory fails.
+3
+Understand the epistemological principle
+The author relies on sensory evidence that qualities change. He also mentions colors, tastes, and odors changing, which necessitates transformation (istihala), not mere latency (kumun) and emergence.
+4
+Evaluate the objection's strength
+The argument is inductive and empirical. It assumes that if something were present, it would be observable. Is this always valid? Consider cases where qualities might be masked. The author treats this as decisive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أما فساد كلية عنصر واحد مثل أن تستولي الطبيعة النارية على كرة الهواء حتى تنقلب الهواء كله نارا فلم لهم دلالة على استحالة ذلك ولكنه مستبعد لأن الأظهر أن كليات هذه العناصر متعادلة و الحكمة تمنع من الغرض المذكور. و القول باستحالة فساد كلية عنصر واحد على هذا الوجه وكذا القول بخروج كلية عنصر واحد عن كلية غيره. الفضل الثانية أن الأسطقسات هي الأركان بالذات لأنها ليست إلا الأربعة المذكورة وغيرها بالاعتبار أنها من حيث هي أجزاء العالم أركان من حيث إنه يتركب منها المركبات. و المباحث الفرعية أن طبائع المركبات حادثة. ذهب أنكاغورس إلى القول بالخليط و معناه أن هنا أجزاء هي عظام و أجزاء هي لحم و أجزاء هي طبيعة التفاح و أجزاء هي طبيعة الجبة لكنها متناهية الصغر و هي محاطة جدا فإذا اجتمع منها أجزاء كثيرة الانجذاب المتشابهات بعضها إلى بعض أخرجها على تلك الطبيعة فظن أنه حدثت تلك الطبيعة و ليس الأمر كذلك فإن تلك الطبائع كانت موجودة إنما الحادث هو التركيب. و هذا باطل لما نشاهد من أن الغذاء ينجيل أكثره خلا و لو كانت تلك الأخلاط موجودة بكيفياتها فيه لشاهدناها. و كذلك نرى الألوان و الطعوم و الروائح يتبدل كل نوع منها بالآخر و ذلك يقضي بوجود الاستحالة. و القول بالكمون و البروز باطل كما قرر في باب الحركة. و في أن المركبات متركبة من هذه الأربعة فيه وجهان استقرائيان: فالتجليل و التركيب يدلان على أن المركبات أرضية و مائية. أما التركيب فإن البدن مركب من الأعضاء المتشابهة و هي شكوية لوجين إما أولاً عن أمن و إما ثانياً عن النخاع و المنى تكون من الدم فالحيوان متكون من الدم و الدم من الغذاء و الغذاء إما حيوان أو نبات و الحيوان حاله كالأكل فاذن ينتهي أمر الغذاء إلى النبات المتقوم بالأرض و الماء. و أما التحليل فإنا إذا أخذنا عضوا من الأعضاء المتشابهة وقطرناه أو أحرقناه حصل أرض و ماء.
+As for the total corruption of a single element, such as the fiery nature dominating the sphere of air until all the air turns into fire: they have no demonstration of its impossibility, but it is improbable because it is more apparent that the wholes of these elements are balanced and wisdom prevents the mentioned purpose. And the saying that the total corruption of a single element is impossible in this manner, likewise the saying that a whole element leaves the whole of another. The second excellence: the stoicheia are the pillars essentially, for they are only the mentioned four and others by consideration that they are, insofar as they are parts of the world, pillars in that composites are composed of them. And the subsidiary investigations: that the natures of composites are generated. Anaxagoras held the view of mixture, meaning that there are parts that are bones, parts that are flesh, parts that are the nature of an apple, and parts that are the nature of a garment, but they are of extreme smallness and very surrounded. So when many parts gather, the attraction of similars to each other brings them out upon that nature, so he thought that nature came to be, but it is not so; rather those natures existed, only the composition is generated. And this is false because we observe that food turns mostly into something else, and if those mixtures existed with their qualities in it, we would perceive them. Likewise, we see colors, tastes, and odors changing from one type to another, and that necessitates the existence of transformation. And the theory of latency and emergence is false, as established in the chapter on motion. And regarding that composites are composed of these four, there are two inductive aspects: analysis and synthesis indicate that composites are earthy and watery. As for synthesis: the body is composed of similar parts, and they are (?) either primarily from bone or secondarily from the spinal cord, and semen comes from blood, so the animal is generated from blood, and blood from food, and food is either animal or plant, and the animal's state is like the eater, so the matter of food ultimately returns to the plant which is constituted by earth and water. As for analysis: if we take an organ from the similar parts and distill it or burn it, earth and water result.
+Source pages p. 378
+
+Commentary
+This passage is a critical refutation of Anaxagoras' theory of mixture and a positive proof that composites are formed from the four elements. The author begins by discussing the possibility of one element entirely corrupting into another, e.g., fire converting all air into fire. He notes this is not demonstrably impossible but improbable because the elements are balanced by wisdom. Then he defines the stoicheia (elements) as the four pillars, i.e., they are the ultimate components. The subsidiary investigation: the natures of composites are generated, not eternal. Anaxagoras claimed that everything is mixed in everything, with tiny parts (homoeomeries) of all substances present, and that when similars attract, a new nature appears. The author refutes this by noting that food transforms into something else entirely; if the original components existed with their qualities, we would see them. Also, colors and tastes change, proving substantial transformation. The theory of latency (كمون) and appearance (بروز) is false. Finally, the author provides two inductive proofs that composites come from earth and water: synthesis (tracking from animal to plant to earth and water) and analysis (burning or distilling a body part yields earth and water). This demonstrates the elemental composition.
+
+Key Terms
+خليط
+كمون
+استحالة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what empirical evidence does the author use to refute Anaxagoras?
+A) Food transforms into something else, and we do not see the original qualities.
+B) Food always contains earth and water.
+C) Animals are composed of the same substances as plants.
+D) Fire cannot turn air into fire.
+
+Key Takeaway
+Empirical observation of transformation refutes the theory that all substances are pre-mixed in all things.
+
+How This Lesson Applies — to MY Life?
+?
+Apply the same empirical objection to a modern theory: if someone claims that food contains all nutrients in latent form (e.g., 'preformed' vitamins), how would you refute it using the author's method?
+?
+Compose a short dialogue where a mutakallim uses the transformation argument against a proponent of mixture (khalit). Include the opponent's response and a counter.
+
+Pages p. 378 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 378
+Module 12 · Lesson 5
+Next →
+Induction and Analogy
+intermediate
+5 min
+Inductive Proof: Composites from Earth and Water
+Inductive demonstration of elemental composition via synthesis and analysis
+
+Learning Objective
+By the end of this lesson, you will be able to apply the two inductive methods (analysis and synthesis) to demonstrate elemental composition.
+
+Core Idea
+Analysis and synthesis are the two empirical pillars of elemental induction.
+
+After refuting Anaxagoras, the author provides a positive proof that all composites are ultimately composed of earth and water. Using two complementary inductive methods—synthesis (tracing from animal back to earth) and analysis (burning or distilling an organ)—he establishes the elemental basis.
+
+Guided Path
+1
+Understand the synthesis argument (tarkib)
+Trace the chain: animal arises from blood, blood from food, food from plants, plants from earth and water. Thus the composite (animal) ultimately derives from earth and water.
+2
+Understand the analysis argument (tahlil)
+Take an organ (e.g., flesh) and distill or burn it. The products are earth and water. This shows the organ's constituents.
+3
+Recognize the inductive logic
+Both methods are inductive: from specific instances (this animal, this organ) we generalize that all composites are earthy and watery. The author uses two independent lines to strengthen the conclusion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أما فساد كلية عنصر واحد مثل أن تستولي الطبيعة النارية على كرة الهواء حتى تنقلب الهواء كله نارا فلم لهم دلالة على استحالة ذلك ولكنه مستبعد لأن الأظهر أن كليات هذه العناصر متعادلة و الحكمة تمنع من الغرض المذكور. و القول باستحالة فساد كلية عنصر واحد على هذا الوجه وكذا القول بخروج كلية عنصر واحد عن كلية غيره. الفضل الثانية أن الأسطقسات هي الأركان بالذات لأنها ليست إلا الأربعة المذكورة وغيرها بالاعتبار أنها من حيث هي أجزاء العالم أركان من حيث إنه يتركب منها المركبات. و المباحث الفرعية أن طبائع المركبات حادثة. ذهب أنكاغورس إلى القول بالخليط و معناه أن هنا أجزاء هي عظام و أجزاء هي لحم و أجزاء هي طبيعة التفاح و أجزاء هي طبيعة الجبة لكنها متناهية الصغر و هي محاطة جدا فإذا اجتمع منها أجزاء كثيرة الانجذاب المتشابهات بعضها إلى بعض أخرجها على تلك الطبيعة فظن أنه حدثت تلك الطبيعة و ليس الأمر كذلك فإن تلك الطبائع كانت موجودة إنما الحادث هو التركيب. و هذا باطل لما نشاهد من أن الغذاء ينجيل أكثره خلا و لو كانت تلك الأخلاط موجودة بكيفياتها فيه لشاهدناها. و كذلك نرى الألوان و الطعوم و الروائح يتبدل كل نوع منها بالآخر و ذلك يقضي بوجود الاستحالة. و القول بالكمون و البروز باطل كما قرر في باب الحركة. و في أن المركبات متركبة من هذه الأربعة فيه وجهان استقرائيان: فالتجليل و التركيب يدلان على أن المركبات أرضية و مائية. أما التركيب فإن البدن مركب من الأعضاء المتشابهة و هي شكوية لوجين إما أولاً عن أمن و إما ثانياً عن النخاع و المنى تكون من الدم فالحيوان متكون من الدم و الدم من الغذاء و الغذاء إما حيوان أو نبات و الحيوان حاله كالأكل فاذن ينتهي أمر الغذاء إلى النبات المتقوم بالأرض و الماء. و أما التحليل فإنا إذا أخذنا عضوا من الأعضاء المتشابهة وقطرناه أو أحرقناه حصل أرض و ماء.
+As for the total corruption of a single element, such as the fiery nature dominating the sphere of air until all the air turns into fire: they have no demonstration of its impossibility, but it is improbable because it is more apparent that the wholes of these elements are balanced and wisdom prevents the mentioned purpose. And the saying that the total corruption of a single element is impossible in this manner, likewise the saying that a whole element leaves the whole of another. The second excellence: the stoicheia are the pillars essentially, for they are only the mentioned four and others by consideration that they are, insofar as they are parts of the world, pillars in that composites are composed of them. And the subsidiary investigations: that the natures of composites are generated. Anaxagoras held the view of mixture, meaning that there are parts that are bones, parts that are flesh, parts that are the nature of an apple, and parts that are the nature of a garment, but they are of extreme smallness and very surrounded. So when many parts gather, the attraction of similars to each other brings them out upon that nature, so he thought that nature came to be, but it is not so; rather those natures existed, only the composition is generated. And this is false because we observe that food turns mostly into something else, and if those mixtures existed with their qualities in it, we would perceive them. Likewise, we see colors, tastes, and odors changing from one type to another, and that necessitates the existence of transformation. And the theory of latency and emergence is false, as established in the chapter on motion. And regarding that composites are composed of these four, there are two inductive aspects: analysis and synthesis indicate that composites are earthy and watery. As for synthesis: the body is composed of similar parts, and they are (?) either primarily from bone or secondarily from the spinal cord, and semen comes from blood, so the animal is generated from blood, and blood from food, and food is either animal or plant, and the animal's state is like the eater, so the matter of food ultimately returns to the plant which is constituted by earth and water. As for analysis: if we take an organ from the similar parts and distill it or burn it, earth and water result.
+Source pages p. 378
+
+Commentary
+This passage is a critical refutation of Anaxagoras' theory of mixture and a positive proof that composites are formed from the four elements. The author begins by discussing the possibility of one element entirely corrupting into another, e.g., fire converting all air into fire. He notes this is not demonstrably impossible but improbable because the elements are balanced by wisdom. Then he defines the stoicheia (elements) as the four pillars, i.e., they are the ultimate components. The subsidiary investigation: the natures of composites are generated, not eternal. Anaxagoras claimed that everything is mixed in everything, with tiny parts (homoeomeries) of all substances present, and that when similars attract, a new nature appears. The author refutes this by noting that food transforms into something else entirely; if the original components existed with their qualities, we would see them. Also, colors and tastes change, proving substantial transformation. The theory of latency (كمون) and appearance (بروز) is false. Finally, the author provides two inductive proofs that composites come from earth and water: synthesis (tracking from animal to plant to earth and water) and analysis (burning or distilling a body part yields earth and water). This demonstrates the elemental composition.
+
+Key Terms
+استقراء
+تركيب
+تحليل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what does the analysis method involve?
+A) Distilling or burning an organ to obtain earth and water.
+B) Tracing food chains back to plants.
+C) Observing changes in colors and tastes.
+D) Examining the attraction of similars.
+
+Key Takeaway
+Two inductive methods—synthesis and analysis—together provide strong evidence that composites are fundamentally earthy and watery.
+
+How This Lesson Applies — to MY Life?
+?
+Trace a common food item (e.g., bread) back through its components to earth and water using the synthesis method.
+?
+Write a short inductive argument for the composition of a metal (e.g., iron) using both synthesis (its origin in ore from earth) and analysis (smelting it to separate components).
+
+Pages p. 378 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 378
+Module 12 · Lesson 6
+Next →
+Induction and Analogy
+intermediate
+5 min
+Inductive Proof of the Four Primary Qualities
+Inductive enumeration proving the four primary elements
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the inductive enumeration used to prove that the four primary tangible qualities (heat, cold, moisture, dryness) are the basis of physical transformation.
+
+Core Idea
+Induction enumerates all tangible qualities to isolate the four that cause interaction.
+
+The author uses a complete induction (istiqrā' tāmm) of tangible qualities to establish that the four primary elements—fire, air, water, earth—are the fundamental constituents of all physical compounds. This lesson unpacks how he eliminates secondary qualities and reduces the list to four.
+
+Guided Path
+1
+Identify the claim and method
+The author aims to prove that all physical compounds reduce to four elements. He uses two methods: (1) analysis/composition observations, and (2) induction of qualities. Your task is to spot the inductive step where he lists all tangible qualities and eliminates non-essential ones.
+The claim is that heat, cold, moisture, dryness are the only primary qualities.
+2
+Identify the induction's domain
+The author restricts induction to tangible qualities because only these cause physical interaction (tafā'ul). He explicitly excludes colors, tastes, smells as they do not produce transformation. Notice that this restriction is crucial for the completeness of the induction.
+The domain is 'tangible qualities' (al-malmūsa).
+3
+Distinguish primary from secondary
+The author lists secondary tangible qualities like shape, roughness, smoothness, etc., and argues they are not suitable because they are not subject to intensity (shidda/ḍa'f) and are shared. He eliminates them. Your task: confirm that these secondary qualities cannot cause transformation according to the text.
+Secondary qualities are non-gradable and universal, hence cannot explain change.
+4
+Reduce the primary list
+The author lists ten primary qualities: subtlety, density, dryness, wetness, viscosity, friability, hardness, softness, roughness, smoothness. He then reduces them: subtlety/density/wetness/dryness refer to moisture/dryness; the others are qualitative/positional. Follow the reduction to see that only four remain.
+The logical reduction is based on categorization: some are qualitative, some positional.
+5
+Conclude that only four remain
+After exhaustive induction, no other quality remains suitable for interaction. The author concludes that the four primary qualities (heat, cold, moisture, dryness) are the only ones that cause transformation, thus proving the four elements.
+This induction is presented as complete and certain (yaqīnī).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فالتحليل والتركيب يدلان على أن المركبات ترجع إلى هذه الأربعة. فإذا أخذنا عضواً من الأعضاء المتشابهة وقطرنا عليه الماء والهواء حصل أرض وماء. وكذلك نرى الألوان والطعوم والروائح تتبدل كل نوع منها بالآخر، وذلك يقضي بوجود الاستحالة. والاستقراء دل على أن ما عدا الكيفيات الملموسة لا تصلح للتفاعل. والملموسة إما أولية أو ثانوية. والثانوية كالشكل والفل والحفافة؛ فالشكل الطبيعي للباقط الكرة فهي مشتركة وما به التفاعل غير مشترك، ولأنه غير قابل للأشد والأنقص فلا يصح للتفاعل. وأما الأولية فهي الأربع المذكورة: اللطافة والغلظ والجفاف والبلة، واللزوجة والهشاشة والصلابة واللين والخشونة والملاسة. فاللطافة والغلظ والبلة والجفاف يرجع إلى الكميات بل إلى الرطوبة واليبوسة على بعض الاعتبارات. وأما اللزوجة والهشاشة والصلابة واللين والخشونة والملاسة فهي كيفيات مزاجية أو وضعية. فلم يبق بعد الاستقراء كيفية صالحة للأمر المطلوب إلا الأربع المذكورة.
+So analysis and composition both indicate that compounds reduce to these four. For if we take an organ of the similar parts and drip water and air upon it, earth and water result. And likewise we see colors, tastes, and smells change, each type transforming into another, and that necessitates the existence of transformation. And induction showed that other than tangible qualities are not suitable for interaction. And tangible qualities are either primary or secondary. The secondary, such as shape, roughness, and smoothness? For the natural shape of the sphere is the sphere, it is shared, and that whereby interaction occurs is not shared, and because it is not subject to intensity and decrease, it is not valid for interaction. As for the primary, they are the four mentioned: subtlety, density, dryness, wetness, viscosity, friability, hardness, softness, roughness, smoothness. So subtlety, density, wetness, and dryness refer to quantities rather to moisture and dryness in some respects. As for viscosity, friability, hardness, softness, roughness, and smoothness, they are qualitative or positional qualities. So after induction, no quality remains suitable for the required purpose except the four mentioned.
+Source pages p. 378
+
+Commentary
+This passage presents an inductive argument to prove that the four elements (fire, air, water, earth) are the primary constituents of all physical compounds. The author begins by stating that analysis (breaking down compounds) and composition (building up) both indicate that compounds ultimately reduce to these four. He gives an example: if you take a homogeneous organ and subject it to water and air, you get earth and water (i.e., the simpler components). He also observes that colors, tastes, and smells can change into one another, which proves that transformation (istihāla) occurs, implying underlying common elements. Then he uses induction (istiqrā') to examine all perceptible qualities. He notes that only tangible qualities (al-malmūsa) are relevant for interaction (tafā'ul). Among tangible qualities, he distinguishes primary from secondary. Secondary qualities like shape (shakl) are not suitable because they are not subject to intensity and are shared; they do not cause transformation. The primary tangible qualities he lists are: subtlety (latāfa), density (ghilaz), dryness (jufūf), wetness (bulla), viscosity (luzūja), friability (hashāsha), hardness (salāba), softness (layyin), roughness (khushūna), smoothness (malāsa). He then argues that many of these reduce to others: subtlety, density, wetness, dryness ultimately refer to moisture and dryness; viscosity, friability, hardness, softness are qualitative or composite; roughness and smoothness are positional. Thus, after exhaustive induction, only four primary qualities remain: heat, cold, moisture, and dryness (the four mentioned at the start). This argument is an example of inductive reasoning (istiqrā') used in natural philosophy to establish the fundamental principles.
+
+Key Terms
+الأسطقس
+الاستقراء
+التفاعل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why are secondary tangible qualities like shape not suitable for interaction (tafā'ul)?
+A) Because they are not real qualities
+B) Because they are not subject to intensity and decrease, and are shared
+C) Because they are not derived from the four elements
+D) Because they are only found in living things
+
+Key Takeaway
+Complete induction (istiqrā' tāmm) of tangible qualities isolates the four primary ones (heat, cold, moisture, dryness) as the sole causes of physical transformation, thus establishing the four elements.
+
+How This Lesson Applies — to MY Life?
+?
+Apply the same inductive method to a different domain: List all possible categories of evidence for the existence of God used in kalam (e.g., temporal origination, design, ontological). Perform a complete enumeration and argue that only the temporal origination argument (dalīl al-ḥudūth) is valid, mimicking the author's reduction strategy.
+?
+Identify each step of the induction in the passage (domain restriction, classification of qualities, elimination, reduction) and write a one-sentence summary of why the author considers this induction certain (yaqīnī).
+
+Pages p. 378 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 381
+Module 12 · Lesson 7
+Next →
+Induction and Analogy
+intermediate
+8 min
+Induction and the Four Elements: Al-Razi's Argument for Material Generation
+Al-Razi argues for the necessity of the four elements using induction and rebuts the fire objection.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the structure of an inductive argument (istiqra') for the necessity of the four elements in generation and evaluate its completeness.
+
+Core Idea
+Induction reveals the pattern of creation—complete generables arise only from the four elements.
+
+In this passage, Fakhr al-Din al-Razi tackles a tricky question: does the element of fire actually enter into the composition of living bodies? He uses a mix of deductive reasoning about heat and an inductive argument from observation to conclude that the four elements are necessary for generation. This lesson dissects his argument and shows how induction (istiqra') works in natural philosophy, a key tool in Islamic kalam and falsafa.
+
+Guided Path
+1
+Identify the claim
+Find the central thesis al-Razi is trying to prove. It is stated in the last part: 'complete generables occur only when these four are present'.
+The claim is about the necessity of the four elements (earth, water, air, fire) for generation.
+2
+Analyze the objection
+What objection does al-Razi address? Someone might argue that fire is not needed because animals and plants do not contain elemental fire, only accidental heat.
+Al-Razi concedes accidental heat is of the same genus as fiery heat but argues that elemental fire cannot persist in composites.
+3
+Examine the rebuttal
+Al-Razi gives two reasons: (1) flames extinguish when separated from fuel and become air; (2) small fiery particles cannot survive mixed with watery and earthy opposites over time.
+This rebuttal uses empirical observation about fire's nature.
+4
+Extract the inductive inference
+After the rebuttal, al-Razi states that 'complete induction indicates that some complete generables occur only when these four are present.' Here 'complete induction' (istiqra' 'amm) refers to an enumeration of observed cases.
+He does not list specific cases but implies that empirical observation supports the generalization.
+5
+Evaluate the induction
+Is this induction complete or incomplete? Since we cannot observe all generables, it is incomplete. Al-Razi seems to present it as decisive, but later logicians might question its certainty.
+In Islamic logic, incomplete induction yields probability, not certainty. Al-Razi's use of 'complete' may be rhetorical.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بالمركب حاجة إلى كيفية أخرى قد هذه الأربع. وأما عنصر النار فلا حاجة بالمكتب الحيواني والنباتي إليه، لما بينا لك أن الحرارة العرضية مخالفة بالنوع للحرارة النارية. سلمنا أن الحرارة العرضية من جنس الحرارة النارية، لكنا نعلم بالضرورة أنه لا فائدة للمركبات من تلك النار، لأنه من المستحيل أن تنال النار من هناك إلى [؟] الأرض بالطبع، وليس هناك قاس يصل إلى هناك فيقبض النار للنزول. ولات الشعل النارية على قوتها وعظمها إذا انفصلت انطفأت وصارت هواء. وإذا كان كذلك، فمن المستحيل أن تبقى الأجزاء النارية الصغيرة جدا على طبيعتها النارية مع إخلاطها بأضدادها من الماء والأرض مدة مديدة. واعلم أن الحق في هذا الباب أن الاستقراء العوفي دلت على أن أشياء من المولدات التامة لا تكون إلا عند حصول هذه الأربعة. فإما أن تكون هي بأعيانها تلك المركبات أو بعضها كذلك دون البعض، فإنه هل يكن عقلا ولة المركبات من غيرها؟ فذلك لم يثبت من الأدلة عليه.
+The composite body needs another quality? These four. As for the element of fire, the animal and vegetable [kingdoms] have no need for it, because we have shown you that accidental heat differs in species from fiery heat. We grant that accidental heat is of the genus of fiery heat, but we know by necessity that there is no benefit for the composites from that fire, because it is impossible for fire to reach the earth by nature, and there is no grasping agent that reaches there to grasp the fire for descent. And the fiery flames, despite their strength and magnitude, when separated are extinguished and become air. If that is so, it is impossible for very small fiery particles to remain in their fiery nature while mixed with their opposites, water and earth, for a long duration. And know that the truth in this matter is that complete induction indicates that some complete generables occur only when these four are present. So either they themselves are those composites, or some of them are like that and others not? It cannot be [determined] intellectually? And that is not established by evidence.
+Source pages p. 381
+
+Commentary
+This passage is an argument about the necessity of the four elements (earth, water, air, fire) for the generation of composite bodies, specifically addressing an objection concerning fire. The author first states that the composite body requires a certain quality from the four elements. He then addresses the element of fire: the animal and vegetable kingdoms do not need fire's own substance because the accidental heat in them is different in species from the heat of elemental fire. Even if one concedes that accidental heat is of the same genus, it is impossible for elemental fire to reach the earth and remain in composites, because flames are extinguished when separated from their fuel. Thus, it is impossible for fiery particles to persist mixed with water and earth. The author then concludes, based on induction (istiqra'), that complete generables (al-muwalladat al-tammah) only occur when the four elements are present. He raises a question: whether these generables are identical to the composites of the elements or only some are like that, but he states that this is not established by evidence.
+
+Key Terms
+الاستقراء (istiqra')
+المولدات التامة (al-muwalladat al-tammah)
+الحرارة العرضية (al-harara al-'aradiyya)
+الحرارة النارية (al-harara al-nariyya)
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Razi's argument, why can fiery particles not persist in composite bodies?
+A) Because fire is too hot and destroys the body.
+B) Because they are extinguished when separated from their source and become air.
+C) Because they are repelled by water and earth.
+D) Because the animal kingdom has no need for fire.
+
+Key Takeaway
+Induction in Islamic logic is a powerful tool for establishing natural patterns, but its conclusions remain probabilistic unless supported by complete enumeration or a causal proof.
+
+How This Lesson Applies — to MY Life?
+?
+1. Find another example in Islamic philosophy or kalam where induction (istiqra') is used to support a universal claim about physical objects. Briefly describe the argument and assess whether the induction is complete or incomplete.
+?
+2. Evaluate al-Razi's own inductive argument: does his observation that 'some complete generables occur only when these four are present' logically justify the conclusion that all such generables require the four elements? What additional premises would be needed for a sound induction?
+
+Pages p. 381 · Induction and Analogy
+← Prev
+Mark Done
+Next →

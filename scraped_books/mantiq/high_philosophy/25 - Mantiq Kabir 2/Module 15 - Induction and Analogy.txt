@@ -1,0 +1,1529 @@
+← Prev
+p. 347
+Module 15 · Lesson 1
+Next →
+Induction and Analogy
+beginner
+8 min
+Induction as a Syllogistic Structure: Term Role Reversal
+Auth defines induction and illustrates with a three-term example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three terms in an inductive argument and explain how the minor term becomes the middle term.
+
+Core Idea
+Induction reinterprets particulars as the middle term, turning the original middle into the minor.
+
+In this passage, the author presents induction (istiqra') as a valid form of reasoning with a syllogistic structure. He explains how the roles of terms shift: the particular subjects become the middle term, while the original middle term becomes the minor. This structural reversal is key to understanding how induction yields a universal conclusion from particular instances. Using concrete terms (human, horse, mule; little bile; long-lived), the author illustrates the mechanics of this transformation.
+
+Guided Path
+1
+Identify the three terms in the induction
+Find the three Arabic variables: ج (minor), ب (middle), أ (major). In the example, ج = human, horse, mule; ب = little bile; أ = long-lived.
+In the text, the author states: 'let the minor term be J (human, horse, mule), the middle term be B (little bile), and the major term be A (long-lived)'.
+2
+Understand the term role reversal
+In an ordinary categorical syllogism, the middle term connects the minor and major. Here, the particulars (the usual minor) become the middle term, and the universal that was to be the middle becomes the minor. The author writes: 'what was a minor term becomes a middle, and what was a middle becomes a minor'.
+This reversal is what makes induction distinct: we move from particulars (ج) to a universal conclusion about ب.
+3
+Formulate the inductive argument as a syllogism
+Rewrite the induction as: 'Every ج is ب (humans, horses, mules have little bile) and Every ج is أ (they are long-lived), therefore Every ب is أ (little bile is long-lived).' This shows how the particulars (ج) serve as the middle term in the reasoning.
+The original middle term ب (little bile) becomes the subject of the conclusion, and the major أ (long-lived) becomes the predicate.
+4
+Assess the completeness of the induction
+The author's example assumes that all creatures with little bile are included in the enumeration (humans, horses, mules). This is a complete induction (istiqra' tamm). Check if the argument would remain valid if other animals with little bile but short lifespan were omitted.
+Complete induction yields certainty; incomplete induction yields probability.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الاستقراء فهو الذي يبين أن شيئًا كليا يوجب على شيء كلي آخر أو يسلب عنه لوجود ذلك الكلي الآخر فيما يجب الكلي الثاني أعني جزئياته. ولما كان المبين به موضوعات المبين له الحكم؛ فالكلي المحمول أو المسلوب كالطرف الأكبر. وتلك الموضوعات حقها أن يكون كالطرف الأصغر. والكلي المحكوم عليه حقه أن يكون كالحد الأوسط؛ فيكون قد بين بأحد الطرفين وجود الطرف الآخر للواسطة، ويكون ما معه أن يكون حدا أصغر قد صار واسطة، وما معه أن يكون حدا أوسط صار حدا أصغر؛ فليكن الحد الأصغر وهو «ج» إنسان وفرس وبغل، والحد الأوسط وهو «ب» قليل المرارة، والحد الأكبر وهو «أ» طويل العمر ليتبين أن قليل المرارة طويل العمر.
+As for induction (istiqra'), it is that which shows that a universal thing is affirmed of or negated from another universal thing because that other universal exists in what the second universal is required of, namely its particulars. Since what shows are subjects of the judgment being shown, the universal predicate or negated term is like the major term. Those subjects should be like the minor term. The universal that is judged upon should be like the middle term. Thus it is shown by one of the two terms the existence of the other term for the middle, and what was with it that it should be a minor term becomes a middle, and what was with it that it should be a middle becomes a minor. So let the minor term be 'J' (human, horse, mule), the middle term be 'B' (little bile), and the major term be 'A' (long-lived), to show that little bile is long-lived.
+Source pages p. 347
+
+Commentary
+This passage defines induction (istiqra') as a method to establish a universal judgment by observing its particulars. The author explains the structural analogy to a categorical syllogism: the universal predicate or negated term corresponds to the major term, the subjects (particulars) correspond to the minor term, and the universal term being judged corresponds to the middle term. Through induction, the minor term (particulars) becomes the middle term (the universal), and the original middle term becomes the minor. The example given is: minor term (ج): human, horse, mule; middle term (ب): little bile; major term (أ): long-lived. The induction shows that 'little bile' is long-lived by observing that humans, horses, and mules (which have little bile) are long-lived. This is an inductive generalization.
+
+Key Terms
+الاستقراء (al-istiqrā'): Induction: establishing a universal statement by examining its particulars, here structured as a syllogism with terms. [Note: In later logic, istiqra' often refers to incomplete induction; here it is a complete enumeration.]
+الحد الأوسط (al-ḥadd al-awsaṭ): In this inductive structure, the universal term being judged (e.g., 'little bile') functions as the middle term. [Note: Normally in categorical syllogisms, the middle term is not the predicate of the conclusion; here the roles shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+In the induction example, what is the middle term according to the author?
+A) Long-lived
+B) Little bile
+C) Human
+D) Horse and mule
+
+Key Takeaway
+Induction, as presented here, is logically structured by a term role reversal: the minor term (particulars) becomes the middle, enabling a universal conclusion about the original middle term.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an induction on a fiqhi example: From the specific rulings that dried dates, dried grapes, and dried raisins are ribawi (subject to riba), formulate an inductive argument to conclude that all sweet dried fruits are ribawi. Identify the minor, middle, and major terms in your argument.
+?
+Test the author's example: Suppose a fourth animal, the rabbit, has little bile but lives only 2 years. Would the induction that 'little bile is long-lived' still be valid? Explain how this affects the completeness of the induction.
+
+Pages p. 347 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 347
+Module 15 · Lesson 2
+Next →
+Induction and Analogy
+intermediate
+7 min
+Induction: Definition, Logical Structure, and Certainty
+Definition of induction and its reduction to categorical syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct an inductive argument as a categorical syllogism with multiple middle terms and evaluate whether it yields certainty based on the finiteness of its particulars.
+
+Core Idea
+Induction is a categorical syllogism in disguise, swapping the roles of minor and middle terms.
+
+Induction (الاستقراء) is a method of reasoning that moves from particular instances to a universal conclusion. The author here gives its precise definition, shows how it can be reduced to the familiar form of a categorical syllogism (القياس الاقتراني), and explains when it gives certain knowledge. This lesson will walk you through the logical anatomy of induction, so you can recognise it in Islamic scholarly arguments and assess its strength.
+
+Guided Path
+1
+Identify the universal judgment in the induction
+Find the claim that the induction is trying to establish. In the example, it is 'Every long-lived animal has scanty bile.' This is the conclusion (النتيجة).
+2
+Map the logical terms to syllogistic roles
+The author instructs: the predicate of the conclusion (scanty bile) is the major term (الحد الأكبر). The subject of the conclusion (long-lived animal) is the middle term (الحد الأوسط). The specific instances (human, horse, mule) are the minor term (الحد الأصغر). Note how the middle term here is the universal subject of the conclusion.
+This is a reversal of the usual syllogism where the middle term is the one connecting the major and minor.
+3
+Reconstruct the induction as a categorical syllogism
+The author gives an implicit syllogism: Major premise: 'Every long-lived animal is like human, horse, or mule' (or '...is one of these particulars'). Minor premise: 'Every human, horse, and mule has scanty bile.' Conclusion: 'Therefore, every long-lived animal has scanty bile.' This shows induction reducible to a categorical syllogism, but with multiple subjects (the particulars) acting as the minor term.
+The multiple middle terms (the particulars) are the subjects of the major term, making the middle term effectively a conjunction of cases.
+4
+Assess certainty: finite vs. infinite particulars
+The author states induction yields certainty only if the particulars are finite and fully known. If the instances are infinite or only partially sampled, the conclusion is not certain (ظني). This is a key point for using induction in Islamic proofs.
+For example, if you examine every known intoxicant and find it forbidden, you can be certain that all intoxicants are forbidden only if the list is exhaustive.
+5
+Compare induction and syllogism in epistemic priority
+The author notes that syllogism is prior and clearer by nature to the intellect, while induction is prior and clearer by sense. Know the distinction: syllogism is intellectual, induction is empirical.
+This explains why induction is often used in sciences based on observation, like medicine or empirical fiqh rulings.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما الاستقراء فهو الذي يبين أن شيئًا كليا يوجب على شيء كلي آخر أو يسلب عنه لوجود ذلك الكلي الآخر فيما يجب الكلي الثاني أعني جزئياته. ولما كان المبين به موضوعات المبين له الحكم؛ فالكلي المحمول أو المسلوب كالطرف الأكبر. وتلك الموضوعات حقها أن يكون كالطرف الأصغر. والكلي المحكوم عليه حقه أن يكون كالحد الأوسط؛ فيكون قد بين بأحد الطرفين وجود الطرف الآخر للواسطة، ويكون ما معه أن يكون حدا أصغر قد صار واسطة، وما معه أن يكون حدا أوسط صار حدا أصغر؛ فليكن الحد الأصغر وهو «ج» إنسان وفرس وبغل، والحد الأوسط وهو «ب» قليل المرارة، والحد الأكبر وهو «أ» طويل العمر ليتبين أن قليل المرارة طويل العمر. فإذا أردنا أن نستعمل هذا على سبيل الاستقراء قلنا الأوسط أصغر والأصغر أوسط؛ فقلنا كل حيوان قليل المرارة فهو إما إنسان أو فرس أو بغل، أو قلنا كل حيوان طويل العمر فهو كالإنسان والفرس والبغل. ثم قلنا وكل فرس أو بغل أو إنسان قليل المرارة فإنه ينتج أن كل حيوان طويل العمر فهو قليل المرارة. فقد رجع هذا إذن إلى القياس الاقتراني إلا أن الوسائط فيها أشياء كثيرة وهي موضوعات الحد الأكبر. فيجب أن تعلم أن الاستقراء ليس استقراء لأنه بيان حكم على كلي لكونه في جزئياته؛ وليس قانونه مبنيا على أن يكون حقّابل على أن يكون على الصفة التي مرَّ ذكرها؛ وإنه قد يكون برهانيًا كما إذا كانت الجزئيات محدودة معلومة يكون الحكم فيها على سبيل التيقن، وقد لا يكون كما إذا كان على خلاف هذا وإنه ليس للإلزام الحقيقي بل للإلزام المشهوري فيكون مخالفاً للقياس بهذه الجهة وبجهة أن الشيء الذي يجب أن يكون حدا أصغر إذا كان القول قياسا يصير في الاستقراء واسطة فيتبين ما يجب أن يكون حدا أكبر للواسطة. ثم القياس أقدم وأبين بالطبع عند العقل، والاستقراء أقدم وأبين عن الحس؛ وهذه كلها من جملة ما يعرف على سبيل التفصيل من بعد إن شاء الله تعالى.
+As for induction, it is that which shows that a universal thing is affirmed of another universal or is negated from it, because that other universal is found in what the second universal requires, namely its particulars. And since the things by which the judgment is shown are the subjects of the judgment, the affirmed or negated universal is like the major term. And those subjects deserve to be like the minor term. And the universal of which the judgment is made deserves to be like the middle term. So it is shown by one of the two terms the existence of the other term for the middle, and what is with it that it becomes a minor term becomes a middle, and what is with it that it becomes a middle term becomes a minor. So let the minor term which is 'j' be human, horse, and mule; the middle term which is 'b' be scanty bile; and the major term which is 'a' be long-lived, to show that scanty bile (is) long-lived. If we want to use this by way of induction, we say the middle (is) smaller and the smaller (is) middle; so we said every animal with scanty bile is either human or horse or mule, or we said every long-lived animal is like human, horse, and mule. Then we said and every horse or mule or human with scanty bile, then it results that every long-lived animal has scanty bile. So this returns to the categorical syllogism, except that the middles are many things and are subjects of the major term. So you must know that induction is not induction because it is a statement of a judgment about a universal due to its being in its particulars; and its canon is not based on being true but on being the quality mentioned; and it may be demonstrative when the particulars are finite and known so the judgment is certain, and it may not be when otherwise, and it is not for real compulsion but for popular compulsion, so it differs from the syllogism in this respect and in the respect that what should be the minor term when the statement is a syllogism becomes in induction a middle term, then it shows what should be the major term for the middle. Then the syllogism is prior and clearer by nature to the intellect, and induction is prior and clearer by sense. All these are among what will be known in detail later, God willing.
+Source pages p. 347
+
+Commentary
+This passage provides a detailed definition of induction (استقراء). The author explains that induction establishes a universal judgment (e.g., all long-lived animals have scanty bile) by observing that the predicate (scanty bile) is found in the particulars of the subject (animals like humans, horses, mules). He maps the logical terms: the predicate (major) is the affirmed universal, the particulars (subjects) are like the minor term, and the subject of the universal judgment is like the middle term. In a syllogism, the minor and middle have fixed roles, but in induction they swap: what would be the minor becomes the middle, and vice versa. The author illustrates with an example: let the minor (ج) be 'human, horse, mule', the middle (ب) be 'scanty bile', and the major (أ) be 'long-lived'. Through induction, we say 'Every animal with scanty bile is human, horse, or mule' and 'Every long-lived animal is like human, horse, mule', then conclude 'Every long-lived animal has scanty bile'. This reduces to a categorical syllogism except with multiple middle terms. The author then clarifies that induction is not really induction? Actually he says it is not induction because it is a judgment about a universal based on its particulars (that is its definition). He notes its canon is not based on truth but on the characteristic mentioned. Induction can be demonstrative (برهاني) if the particulars are finite and known with certainty, otherwise it is not. Induction provides popular compulsion (الإلزام المشهوري) not real compulsion. Finally, syllogism is prior and clearer by intellect, while induction is prior and clearer by sense.
+
+Key Terms
+الاستقراء
+الحد الأصغر
+الحد الأوسط
+الحد الأكبر
+القياس الاقتراني
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, under what condition does induction yield certain (يقيني) knowledge?
+A) When the particulars are finite and fully known
+B) When the conclusion is intuitively obvious
+C) When the middle term is a universal
+D) Always, because induction is a form of syllogism
+
+Key Takeaway
+Induction is a categorical syllogism with multiple middle terms; it gives certain knowledge only when its particulars are finite and completely examined.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following inductive argument from fiqh: 'We examined mulberry juice, date juice, and grape juice; all were found intoxicating and forbidden. Therefore, all intoxicating beverages are forbidden.' Reconstruct this as a categorical syllogism following the author's method, identifying the major, middle, and minor terms. Then evaluate whether the induction is complete and yields certainty.
+?
+Critique the statement: 'The world is temporally originated (developed by Allah) because every part of the world we observe is temporally originated.' Using the author's criteria, explain whether this induction is demonstrative or not, and why.
+
+Pages p. 347 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 348
+Module 15 · Lesson 3
+Next →
+Induction and Analogy
+beginner
+5 min
+Complete vs Incomplete Induction
+Author refines induction definition and divides into complete/incomplete
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and explain why only complete induction yields certainty.
+
+Core Idea
+Only complete induction — where every particular is examined — yields certain knowledge.
+
+Induction is a powerful reasoning tool, but not all induction is equally reliable. In this passage, the author clarifies the definition of induction and divides it into two types: complete and incomplete. Understanding this distinction is crucial for evaluating the strength of inductive arguments in Islamic sciences, such as usul al-fiqh.
+
+Guided Path
+1
+Identify the definition of induction
+Read the Arabic to find how the author defines induction. He gives two formulations: one from a previous discussion (establishing a judgment on a universal because it exists in its particulars, with the implication that all particulars have been covered), and another as a judgment on a universal due to sensing that judgment in its particulars.
+Both definitions emphasize that induction moves from particulars to a universal.
+2
+Find the division into complete and incomplete
+The author states that induction 'may be complete (tāmm) and may not be (ghayr tāmm).' Locate that sentence and note the key terms.
+The division is based on whether all particulars have been examined.
+3
+Understand the condition for certainty
+Complete induction requires that all particulars be fully covered and that no contrary instance exists. If these conditions are met, the induction yields certain (yaqīni) knowledge. Incomplete induction leaves room for doubt.
+The author implies that only complete induction is certain; incomplete induction is merely probable.
+4
+Apply to an Islamic example
+Consider a legal example: 'In all known cases of riba in the Qur'an and Sunnah, the transaction involves excess. Therefore, any transaction with excess is riba.' Determine if this is complete or incomplete induction and whether the conclusion is certain.
+This induction is incomplete unless all possible cases of riba have been examined, so the conclusion is probable rather than certain.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في المباحث المخصوصة بالاستقراء قد مرَّ من قبل أن الاستقراء إنما يكون استقراء لأنه إثبات حكم على كلى لأنه موجود في جزئياته على إبهام أنها قد استوفيت ومنع أن يكون لها مخالفا (١). وقد تعرف أيضًا بأنه حكم على كلي بسبب إحساس ذلك الحكم في جزئيات ذلك الكلي؛ وإنه قد يكون تاما، وقد لا يكون فيكون أعم بالنسبة إلى هذا وذلك ؛ (۱) النسخة: مخلف. وما أثبتناه هو الصواب كما هو الظاهر من السياق.
+Chapter: On the specific investigations of induction. It has passed before that induction is only induction because it is the establishment of a judgment on a universal due to its being in its particulars, with the ambiguity that they have been fully covered and prevents that there be a contrary to it. (1) And it is also defined as a judgment on a universal due to sensing that judgment in the particulars of that universal; and it may be complete (tāmm), and it may not be, so it is more general with respect to this and that. (1) The copy: 'mukhlif' (different). What we have established is correct as is apparent from the context.
+Source pages p. 348
+
+Commentary
+This passage begins a new chapter specifically on the investigations of induction. The author reiterates the definition: induction is a judgment on a universal because the judgment is found in its particulars, with the implication that all particulars have been covered and no counterexample exists. He adds another definition: it is a judgment on a universal based on sensing that judgment in the particulars of that universal. Then he divides induction into two types: complete (تام) and incomplete (غير تام). Complete induction occurs when all particulars are examined, leading to certainty; incomplete induction leaves room for doubt and is more general in scope. The textual note indicates a correction: the original had 'مخلف' (different) but the correct reading is 'مخالف' (contrary). Thus this lesson emphasizes the condition of exhaustiveness for certain induction.
+
+Key Terms
+الاستقراء التام
+الاستقراء غير التام
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this chapter, what condition must be met for induction to be certain (برهاني)?
+A) The premises must be true
+B) The judgment must be sensible
+C) All particulars must be fully covered (complete induction)
+D) The subject must be a universal
+
+Key Takeaway
+Induction yields certainty only when every particular is examined and no contrary exists; otherwise it is probable.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument: 'In every known case of fraud in Islamic commercial transactions, the scholar has ruled the contract void. Therefore, any contract involving fraud is void.' Is this complete or incomplete induction? What must be true for it to be certain?
+?
+Identify whether the following induction is complete or incomplete and state the level of certainty: 'From the examination of all hadiths about prayer, we conclude that prayer necessitates wudu.'
+
+Pages p. 348 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 348
+Module 15 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+12 min
+Understanding Induction: Definition, Types, and Use in Premises
+Author defines induction, distinguishes complete from incomplete, and explains its use in establishing premises.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete from incomplete induction and explain how induction establishes a universal sought conclusion in an Islamic science context.
+
+Core Idea
+Induction builds universal judgments by surveying particulars, but only complete induction yields certainty.
+
+Induction (istiqra') is a fundamental logical tool for establishing universal claims from particulars. In this passage, the author clarifies what induction truly is: not merely correcting premises, but reaching a universal sought conclusion. He then splits it into complete (tamm) and incomplete (naqis) and outlines the epistemological conditions for using induction in syllogistic arguments. Let's parse these distinctions carefully.
+
+Guided Path
+1
+Identify the definition of induction
+Find the two definitions given: first, affirming a judgment about a universal because it exists in its particulars with exhaustion; second, judging a universal by sensing that judgment in its particulars. Note the common element: induction moves from particulars to a universal.
+The key is 'exhaustion' (isti'fa') for complete induction.
+2
+Distinguish complete from incomplete induction
+The author says induction may be complete (tamm) or not. Complete induction means all particulars are examined, yielding certainty. Incomplete induction surveys only some particulars, yielding probability.
+Complete induction is rare but certain; incomplete is more common but weaker.
+3
+Understand induction's true purpose
+The author stresses induction is not defined by correcting the major or minor premise. Its essence is establishing a universal sought conclusion (matlab kulli). This refutes a common misunderstanding.
+Induction can later become a premise, but that's secondary.
+4
+Apply the evidentness condition
+What is clarified by induction must be more evident than, or at least not less evident than, the other sought. If the predicate's existence is known but its quantity is unknown, induction verifies the quantity.
+This ensures induction serves as a proper proof, not an obscure one.
+5
+Recognize the role of induction in syllogistic premises
+Induction can clarify the major or minor premise. When used, the middle term for the premise is less than for the conclusion, making the premise more evident. The author introduces 'two inductions' where a common middle term plus an additional middle for the conclusion are involved.
+This prepares for using induction in actual syllogisms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في المباحث المخصوصة بالاستقراء قد مرَّ من قبل أن الاستقراء إنما يكون استقراء لأنه إثبات حكم على كلى لأنه موجود في جزئياته على إبهام أنها قد استوفت ومنع أن يكون لها مخالفا. وقد تعرف أيضًا بأنه حكم على كلي بسبب إحساس ذلك الحكم في جزئيات ذلك الكلي؛ وإنه قد يكون تاما، وقد لا يكون فيكون أعم بالنسبة إلى هذا وذلك ؛ وليس كونه استقراء بسبب تصحيح الكبرى أو الصغرى فإنه استقراء لما أنه يثبت به مطلوب كلي. ثم يعرض له أن يصير مرة أخرى أن تكون المقدمة كبرى أو صغرى ولا يكون استقراء لإثبات الكبرى أو الصغرى، أو لإثبات شيء لينتفع في شيء آخر، أو لإثبات شيء هو مطلوب في نفسه بل الاستقراء استقراء لأنه يثبت به آخر ما من الأمور واحد معين النوع المعلوم من الإثبات. وذلك الأمر تارة يكون مطلوبًا لنفسه وتارة يكون مطلوبًا لغيره؛ وذلك الاختلاف بعد كونه استقراء، ومثل هذا الاختلاف لا يجعله مختلفا في كونه استقراء. والاستقراء قد يستعمل لبيان الكبرى في القياس، وقد يستعمل لبيان الصغرى. وحيث ما كان فيجب أن يكون ما يبين بالاستقراء أظهر من المطلوب الآخر أو ليس أخفى منه : أما أنه أظهر فذلك بأن يكون ذلك المطلوب مجهولاً في وجود محمول لموضوعه أو سلبه عنه؛ ويكون المحمول في المصحح بالاستقراء / معلومًا وجوده لموضوعه أو سلبه عنه مطلقا لكن كميته مجهولة فيصحح بالاستقراء. ويمكن أن يكون كلاهما ظاهرين بحسب الشهرة لكن هذا أظهر. وأما أنه ليس أخفى منه بل مساويًا له فإنما يمكن إذا كان لوجود المحمول في المطلوب سبيل بيان غير هذه السبل لا يحتاج فيه إلى هذه السبل فيكون كل واحد منهما وجه بيان ليس متعلقا بالآخر. ولا يكون أحدهما مبدأ بيان للآخر فيكون أظهر منه بل يتساويان. ولكنه من حيث هو الآن يتبين بهذا فلا يمكن إلا أن يكون البيان أولا للمقدمة ثمَّ للنتيجة فيكون الوسط للمقدِّمة أقل منه للنتيجة. وإذا كان الوسط أقل فهو أبين. فإن جميع ما يورد في الاستقراءين وسط فإنه مشترك للمقدّمة والنتيجة، وللنتيجة زيادة وسط آخر، فإن كان الأصغر بينا فالأكبر مشكوكًا فيه، وأزيد إثباته بالاستقراء التام أمكن من وجه ولم يمكن من وجه؛ أما الوجه الذي يمكن فذلك أن يقسم بوجه
+Chapter: On Specific Discussions Concerning Induction. It has passed before that induction is induction because it is the affirmation of a judgment about a universal because it exists in its particulars with the indication that they have been exhausted and that there is no contrary. It is also defined as a judgment about a universal due to sensing that judgment in the particulars of that universal; and it may be complete (tamm) and may not be, thus being more general relative to this and that. And its being induction is not due to correcting the major or minor premise, for it is induction because it establishes a universal sought conclusion. Then it may happen that it becomes again the major or minor premise, and it is not induction for establishing the major or minor, or for establishing something to benefit something else, or for establishing something that is sought in itself; rather, induction is induction because it establishes the final thing among matters, one specific type of known establishment. And that matter is sometimes sought for itself and sometimes sought for something else; that difference is after its being induction, and such difference does not make it different in its being induction. Induction may be used to clarify the major premise in a syllogism, and it may be used to clarify the minor. Wherever it is, what is clarified by induction must be more evident than the other sought or not less evident than it. As for it being more evident, that is because that sought is unknown regarding the existence of a predicate for its subject or its negation; and the predicate in the verification by induction is known in its existence for its subject or its negation absolutely, but its quantity is unknown, so it is verified by induction. And it is possible that both are evident according to common acceptance, but this is more evident. As for it being not less evident but equal, that is possible only if there is a way of clarification for the existence of the predicate in the sought other than these ways, not needing these ways; thus each is a way of clarification not related to the other. And neither is a principle of clarification for the other, so it is more evident, but they are equal. However, in terms of what is now clarified by this, it is only possible that the clarification is first for the premise and then for the conclusion, so the middle for the premise is less than for the conclusion. And if the middle is less, it is more evident. For all that is introduced in the two inductions is a middle term common to the premise and the conclusion, and for the conclusion there is an additional middle term. If the minor is evident, then the major is doubtful, and its establishment by complete induction is possible in one respect and not possible in another. As for the respect in which it is possible, that is by dividing in a certain way...
+Source pages p. 348
+
+Commentary
+This chapter (fasl) is devoted specifically to induction. The author first reiterates the definition: induction establishes a universal judgment because the judgment is found in its particulars, implying that all particulars have been surveyed and no contrary exists. Induction is also defined as a judgment about a universal due to sensing that judgment in its particulars. Induction can be complete (tamm) – when all particulars are examined – or incomplete, which is more general. The author then clarifies that induction is not defined by whether it corrects the major or minor premise; rather, it is induction because it establishes a universal sought conclusion (matlub kulli). Afterwards, induction may itself become a premise (major or minor) in a syllogism, but that does not change its nature. The key is that induction establishes a final, specific type of establishment. The author then discusses the epistemological requirement: what is clarified by induction must be more evident than, or at least not less evident than, the other sought. He explains the case where it is more evident: the sought conclusion is unknown regarding the predicate's existence or negation for the subject, but in the verification by induction, the predicate's existence or negation is known absolutely, only its quantity (kammiyya) is unknown, so induction verifies the quantity. Alternatively, both could be equally evident based on common acceptance (shuhra). The author then discusses the structure: in induction, the middle term for the premise is less than for the conclusion, making it more evident. He introduces the idea of two inductions (istiqra'ayn): the middle term is common to premise and conclusion, but the conclusion has an additional middle. If the minor is evident, the major is doubtful; complete induction can establish it in one way but not another, specifically by division (qisma).
+
+Key Terms
+الاستقراء التام
+المطلوب الكلي
+الاستقراء الناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what makes induction 'complete' (tamm)?
+A) It is used to clarify the major premise
+B) The judgment is sensed in all particulars without exception
+C) The conclusion is more evident than the premise
+D) The induction uses analogy
+
+Key Takeaway
+Induction is a method to establish a universal conclusion from particulars; only complete induction, exhausting all particulars, yields certainty, and it can then serve as a premise in syllogisms.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the claim 'Every sale transaction involving uncertainty (gharar) is prohibited.' In Islamic fiqh, this is supported by induction from several hadiths. Determine whether this induction is complete or incomplete, and explain what additional evidence would make it complete.
+?
+Construct a simple inductive argument in the context of kalam: observe that many contingent things (e.g., the sky, the earth, humans) require a cause; then state the universal conclusion 'Every contingent being requires a cause.' Assess whether this induction is tamm or naqis and why.
+
+Pages p. 348 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 349
+Module 15 · Lesson 5
+Next →
+Induction and Analogy
+beginner
+5 min
+The Essence of Induction: Establishing a Universal
+Author clarifies that induction is defined by establishing a universal, not by its use as a premise.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the essential characteristic that defines induction (istiqra') and distinguish it from accidental purposes.
+
+Core Idea
+Induction is defined by what it does—establish a universal—not by why it is used.
+
+The author clarifies a common confusion: the essence of induction does not change based on whether the universal conclusion is used as a premise or as a final goal. Understanding this keeps the definition of induction stable across different contexts of reasoning.
+
+Guided Path
+1
+Identify the core claim
+What does the author say induction essentially is? Look for the phrase that defines induction: establishing a universal sought conclusion.
+2
+Locate accidental differences
+What purposes does the author list as not affecting the essence? Note that being used as a major/minor premise or sought for itself or for another are accidental.
+3
+Apply the distinction to a scenario
+If a jurist uses induction to derive a general rule for a new case, is that induction? Yes, because it establishes a universal, regardless of whether that rule is a final fatwa or a premise for a further ruling.
+4
+Summarize the definition
+Induction = any process that establishes a universal claim from particulars, independent of its subsequent use.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وليس كونه استقراء بسبب تصحيح الكبرى أو الصغرى فإنه استقراء لما أنه يثبت به مطلوب كلي. ثم يعرض له أن يصير مرة أخرى أن تكون المقدمة كبرى أو صغرى ولا يكون استقراء لإثبات الكبرى أو الصغرى، أو لإثبات شيء لينتفع في شيء آخر، أو لإثبات شيء هو مطلوب في نفسه بل الاستقراء استقراء لأنه يثبت به آخر ما من الأمور واحد معين النوع المعلوم من الإثبات. وذلك الأمر تارة يكون مطلوبًا لنفسه وتارة يكون مطلوبًا لغيره؛ وذلك الاختلاف بعد كونه استقراء، ومثل هذا الاختلاف لا يجعله مختلفا في كونه استقراء.
+And its being induction is not due to correcting the major or minor premise, because it is induction because it establishes a universal sought conclusion. Then it may happen that it becomes again that the premise is major or minor, and it is not induction for establishing the major or minor, or for establishing something to be used in something else, or for establishing something that is sought in itself. Rather, induction is induction because it establishes a final matter of the things, one specific type of known establishment. That matter may be sought for itself or sought for another; that difference occurs after it is induction, and such difference does not make it different in being induction.
+Source pages p. 349
+
+Commentary
+This passage defines the nature of induction (istiqra'). The author argues that the essence of induction is determined by its function: it establishes a universal conclusion. It does not matter whether that conclusion is used as a major or minor premise in a syllogism, or whether it is sought for its own sake or for something else. The induction remains induction regardless of the purpose. This clarifies a potential confusion: some might think that induction used to prove a premise is different from induction used for a final conclusion. The author denies this, stating that the difference is accidental, not essential. Thus, the definition of induction is stable across different contexts.
+
+Key Terms
+استقراء (istiqra')
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this passage, what determines that something is induction (istiqra')?
+A) Whether it proves a major or minor premise
+B) Whether the conclusion is sought for itself or for another
+C) Whether it establishes a universal conclusion
+D) Whether it is used in demonstration or dialectic
+
+Key Takeaway
+Induction is defined by establishing a universal conclusion; its purpose—whether as a premise or final goal—does not alter its essential nature.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following: A scholar collects several hadiths about selling dates before their ripeness and concludes that selling fruit before it becomes fit for trade is generally prohibited. Is this induction? Explain why in terms of the essential definition.
+?
+A mutakallim argues: 'All temporally originated things have a cause. The universe is temporally originated. Therefore, it has a cause.' Is the first premise derived by induction? If someone says: 'That induction was used to prove a major premise, so it is different from induction used for a final conclusion,' how would you respond using the author's distinction?
+
+Pages p. 349 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 349
+Module 15 · Lesson 6
+Next →
+Induction and Analogy
+advanced
+8 min
+Conditions for Valid Induction in Establishing Premises
+Author discusses the requirement that the premise established by induction be more apparent or at least not less apparent.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether an induction satisfies the condition of being more apparent (or equally apparent) and whether the division used for complete induction is proper and non-circular.
+
+Core Idea
+Induction is valid only if its premise is at least as apparent as the conclusion and the division exhaustively covers the minor term.
+
+Induction (istiqra') is a tool used to establish premises in syllogistic reasoning. But not every induction is valid. The author lays out two critical conditions: the premise must be sufficiently apparent, and if using complete induction via division, the division must be such that the minor term is fully covered without circularity. Understanding these conditions protects us from flawed arguments that seem inductive but are actually invalid.
+
+Guided Path
+1
+Identify the role of induction
+Determine whether induction is being used to establish the major or minor premise in a syllogism. The passage states it can be used for either.
+The condition applies regardless of which premise is being established.
+2
+Check the apparentness condition
+Compare the apparentness (zuhur) of the premise established by induction to the other sought conclusion. It must be more apparent (azhar) or at least not less apparent. Look for whether the other conclusion is unknown in predicate existence/negation while the premise is known absolutely except for quantity.
+If both are equally apparent, they can stand as independent explanations.
+3
+Examine the division for complete induction
+If using complete induction (istiqra' tamm) via division (qisma), ensure the division exhaustively covers the genus and that the minor term falls under one of the parts without overlapping divisions from other classifications. In the valid example, animal is divided into mortal and non-mortal, covering all animals.
+The division must be such that the minor term (e.g., rational) does not exit from the division parts.
+4
+Test for circularity
+Verify that the induction does not presuppose the conclusion. The invalid method uses a division that already includes the minor term as one part (e.g., animal into rational and non-rational), leading to a circular argument where the conclusion is assumed in the division.
+The author compares this to mistakenly dividing color into body and whiteness, which is erroneous.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والاستقراء قد يستعمل لبيان الكبرى في القياس، وقد يستعمل لبيان الصغرى. وحيث ما كان فيجب أن يكون ما يبين بالاستقراء أظهر من المطلوب الآخر أو ليس أخفى منه : أما أنه أظهر فذلك بأن يكون ذلك المطلوب مجهولاً في وجود محمول لموضوعه أو سلبه عنه؛ ويكون المحمول في المصحح (۲۸) بالاستقراء / معلومًا وجوده لموضوعه أو سلبه عنه مطلقا لكن كميته مجهولة فيصحح بالاستقراء. ويمكن أن يكون كلاهما ظاهرين بحسب الشهرة لكن هذا أظهر. وأما أنه ليس أخفى منه بل مساويًا له فإنما يمكن إذا كان لوجود المحمول في المطلوب سبيل بيان غير هذه السبل لا يحتاج فيه إلى هذه السبل فيكون كل واحد منهما وجه بيان ليس متعلقا بالآخر. ولا يكون أحدهما مبدأ بيان للآخر فيكون أظهر منه بل يتساويان. ولكنه من حيث هو الآن يتبين بهذا فلا يمكن إلا أن يكون البيان أولا للمقدمة ثمَّ للنتيجة فيكون الوسط للمقدِّمة أقل منه للنتيجة. وإذا كان الوسط أقل فهو أبين. فإن جميع ما يورد في الاستقراءين وسط فإنه مشترك للمقدّمة والنتيجة، وللنتيجة زيادة وسط آخر، فإن كان الأصغر بينا فالأكبر مشكوكًا فيه، وأزيد إثباته بالاستقراء التام أمكن من وجه ولم يمكن من وجه؛ أما الوجه الذي يمكن فذلك أن يقسم بوجه تكون الجزئيات فيه بحيث لا يخرج عنه الأصغر مثل أن الحيوان تارة يقسم إلى الناطق وإلى غير الناطق، وتارة إلى المائت وإلى غير المائت. والمائت وغير المائت لا يسلب عنهما الناطق و لا غير الناطق. فإذا أريد أن يبين مثلا أن كل ناطق «أ» وجعل الحيوان فيه وسطا، وأريد أن تبين الكبرى بالاستقراء قيل فيه كل حيوان مائت وغير مائت، وكل مائت وغير مائت فهو «أ» فكل ناطق «أ». وأما الوجه الذي لا يمكن فذلك أن يستعمل الاستقراء في الكبرى مأخوذا من جزئيات القسمة الأخرى فنقول كل ناطق حيوان وكل حيوان إما ناطق وإما كذا، وكل ناطق وكل كذا وكذا «أ» ؛ فإنه يأخذ إن كل ناطق «أ» في بيان أن كل ناطق (أ) كذلك الحال حيث لا تكون القسمة إلا واحدة إن كان شيء هكذا. وأما جعل هذه القسمة مثل قسمة اللون إلى جزئياته مرة إلى أنواع اللون، ومرة إلى أنها جسم وبياض : فجعل الجسم والبياض قسمين في الترتيب تحت اللون ولم يحضره أنه يمكن أن يقسم إلى موضوعات الحمل قسمة لا يُذكر فيها ما يدخل في قسمة أخرى، فذلك غلط.
+Induction may be used to explain the major premise in a syllogism, and may be used to explain the minor premise. Wherever it is, that which is explained by induction must be more apparent than the other sought conclusion, or not less apparent than it. As for it being more apparent, that is because that sought conclusion is unknown regarding the existence or negation of a predicate for its subject; and the predicate in what is corrected by induction is known regarding its existence or negation for its subject absolutely, but its quantity is unknown, so it is corrected by induction. It is possible that both are apparent in terms of fame, but this one is more apparent. As for it not being less apparent but equal to it, that is only possible if there is for the existence of the predicate in the sought conclusion a method of explanation other than these methods, not needing these methods, so each of them is a mode of explanation not related to the other. And one of them is not a principle of explanation for the other, so it would be more apparent than it; rather they are equal. But from the perspective that it is now explained by this, it is only possible that the explanation is first for the premise and then for the conclusion, so the middle term for the premise is less than it for the conclusion. And when the middle term is less, it is more apparent. For all that is adduced as a middle term in the two inductions is common to the premise and the conclusion, and for the conclusion there is an additional middle term. If the minor is apparent, then the major is doubtful, and its further establishment by complete induction is possible in one way and not possible in another. As for the way that is possible, that is by dividing in a way such that the particulars are such that the minor does not exit from them, like when animal is divided sometimes into rational and non-rational, and sometimes into mortal and non-mortal. And mortal and non-mortal are not negated from rational and non-rational. So if one wants to demonstrate, for example, that every rational is A, and makes animal the middle term in it, and wants to explain the major premise by induction, it is said in it: every animal is mortal and non-mortal, and every mortal and non-mortal is A, so every rational is A. As for the way that is not possible, that is by using induction for the major premise taken from particulars of another division, so we say: every rational is an animal, and every animal is either rational or so-and-so, and every rational and every so-and-so is A; for then it takes that every rational is A in the explanation of that every rational is A; similarly the case when there is only one division if something is like that. And as for making this division like the division of color into its particulars, sometimes into types of color and sometimes into it being body and whiteness: for making body and whiteness two divisions in the arrangement under color, and it did not occur to him that it can be divided into subjects of predication in a division where what enters another division is not mentioned, that is a mistake.
+Source pages p. 349
+
+Commentary
+This passage discusses the conditions under which induction (istiqra') is used to establish premises. The author first states that induction can be used to explain either the major premise or the minor premise in a syllogism. The key condition is that the premise established by induction must be more apparent (azhar) than the other sought conclusion, or at least not less apparent. Two cases are examined: (1) The premise is more apparent because the other conclusion is unknown in terms of the predicate's existence or negation, while the predicate in the premise is known absolutely but its quantity is unknown, so induction corrects it. (2) The premise is equal in fame to the other conclusion, but this is only possible if there is another method to explain the conclusion, not relying on this induction. Then the author delves into the use of complete induction (istiqra' tamm) through division (qisma). He gives an example using 'natiq' (rational) and 'hayawan' (animal). If we want to prove 'every rational is A' using animal as a middle term, we can divide animal into mortal and non-mortal, and if both are A, then every rational (a subset of animal) is A. This works because the division covers all animals and the minor term 'rational' falls under one of the parts. The author contrasts this with a method that fails: using a different division (e.g., animal into rational and non-rational) and then trying to prove the major premise by induction from those parts leads to a circular argument. He warns that mistakenly treating a classification as if it can be divided in two different ways without proper partitioning (like dividing color into types and then into body and whiteness) is an error. The passage is a technical explanation of how complete induction via proper division can be validly used in demonstration.
+
+Key Terms
+استقراء تام
+قسمة
+أظهر
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example given, what is the valid way to use complete induction to prove 'every rational is A' using animal as a middle term?
+A) Divide animal into rational and non-rational, then show both are A
+B) Divide animal into mortal and non-mortal, then show both are A
+C) Divide rational into animal and non-animal
+D) Use color as a division
+
+Key Takeaway
+Valid induction requires that the premise be at least as apparent as the conclusion and that complete induction uses a division that fully covers the subject without circularity.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'Every permissible sale is valid. This sale is permissible. Therefore it is valid.' The major premise is established by inductively dividing sales into cash sales and credit sales, and showing each is valid under certain conditions. Check whether the division is exhaustive and whether the premise is more apparent than the conclusion. If the division includes 'permissible sale' as a part, what fallacy arises?
+?
+Analyse the following inductive argument using complete division: 'All temporally originated things (hawadith) are contingent. The world is temporally originated. So the world is contingent.' The major premise is established by dividing temporally originated things into substances and accidents, each shown to be contingent. Is this valid according to the author's condition? Why?
+
+Pages p. 349 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 350
+Module 15 · Lesson 7
+Next →
+Induction and Analogy
+intermediate
+7 min
+Incomplete Induction in Demonstration and Dialectic
+Author distinguishes incomplete induction in burhan vs jadal
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish when incomplete induction (istiqra' naqis) is a fallacy versus when it is acceptable, based on the context of demonstration or dialectic.
+
+Core Idea
+Incomplete induction yields probability, not certainty; valid in dialectic, fallacious in demonstration.
+
+The author explains that induction is useful in the sciences, but its value depends on completeness and context. Incomplete induction, which does not survey all particulars, lacks the certainty required for demonstration and thus becomes a fallacy. However, in dialectic, where arguments are based on widely accepted premises, incomplete induction is acceptable. This lesson focuses on that critical distinction.
+
+Guided Path
+1
+Identify the two contexts
+Find where the author discusses demonstration (burhan) and dialectic (jadal) in the passage. Note the different standards for each.
+Look for the phrases 'في البرهان' and 'في الجدل'.
+2
+Locate the claim about incomplete induction in demonstration
+The author states: 'If it is used in demonstration while it is incomplete, it is a fallacy therein.' Mark this statement.
+The Arabic: 'فلو استعمل في البرهان وهو ناقص كان مغالطة'.
+3
+Understand why it is a fallacy
+Demonstration requires certainty, but incomplete induction only yields probability because it doesn't examine all instances. Therefore, concluding with certainty from incomplete evidence is a logical error.
+The passage does not elaborate, but this is the implicit reasoning.
+4
+Contrast with dialectic
+The author says that in dialectic, incomplete induction is taken as 'something not true' (غير حق), meaning it is acceptable as a probable or accepted opinion, not as certain truth.
+Arabic: 'في الجدل فإنه يؤخذ فيه أحدا غير حق'.
+5
+Reflect on the practical implication
+A logician or scholar must be careful not to use incomplete induction when aiming for certain knowledge, but may use it in debates or exploratory discussions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الاستقراء نافع في العلوم فيستعمل فيها وفي الغير كذلك. فلو استعمل في البرهان وهو ناقص كان مغالطة فيه بخلاف ما إذا استعمل في الجدل فإنه يؤخذ فيه أحدا غير حق. والتام إنما ينتفع في البراهين إذا بانت بها المقدمات من جهة قسمة ما؛ ثم هناك قسمة أخرى كما في هذه الصورة مثلا إذا بان أن كل ناطق وأن كل غير ناطق بصفة فصار كل حيوان بتلك الصفة. ثم أخذ الماشي فقيل والماشي حيوان؛ وقد بان بالاستقراء أن كل حيوان بصفة كذا / فالماشي بتلك الصفة، أو يكون قد بان الحكم على كل ناطق وعلى كل غير ناطق: فبان على كل حيوان ثمَّ جعل الحد الأصغر جزئي الناطق فلا يمتنع أن يكون الحكم على الناطق أبين منه على جزئي الناطق. وليس لقائل أن يقول فهل أبين الجزئي
+Then induction is beneficial in the sciences, so it is used in them and in others similarly. If it is used in demonstration while it is incomplete, it is a fallacy therein, contrary to when it is used in dialectic, for it is taken there as something not true. And the complete induction is only benefited from in demonstrations if the premises become apparent by means of some division; then there is another division as in this example, for instance when it is apparent that every rational and every non-rational have a certain attribute, so every animal becomes of that attribute. Then one takes the walking one and says: the walking one is an animal; and it has been shown by induction that every animal is of such attribute, so the walking one is of that attribute. Or it might be that the ruling on every rational and on every non-rational has been shown: so it is shown on every animal, then the minor term is made a particular of rational, so it is not impossible that the ruling on rational is more apparent than the ruling on a particular rational. And one cannot say: is the particular more apparent?
+Source pages p. 350
+
+Commentary
+This passage discusses the practical utility of induction (istiqra') in the sciences. The author states that induction is generally beneficial, but its use differs depending on the context. If incomplete induction (istiqra' naqis) is used in demonstration (burhan), it results in a fallacy because demonstration requires certainty. However, incomplete induction is acceptable in dialectic (jadal), where arguments are based on accepted opinions, not absolute truth. Complete induction (istiqra' tamm), on the other hand, is useful in demonstrations if the premises become evident through proper division (qisma). The author gives an example: if it is shown that every rational and every non-rational have a certain attribute, then it follows that every animal (which is composed of rational and non-rational) has that attribute. Then, if we take a particular animal like 'the walking one' (al-mashi), we can conclude it has the attribute because it falls under the universal ruling. Alternatively, the ruling might be shown on rational and non-rational, then on animal, and then the minor term is a particular of rational; it is not impossible that the ruling on rational is more apparent than the ruling on a particular rational. The passage ends with a rhetorical question about which is more apparent, suggesting that the universal is often clearer than the particular. This demonstrates how complete induction via division can be integrated into demonstrative reasoning.
+
+Key Terms
+برهان
+جدل
+استقراء ناقص
+مغالطة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say incomplete induction is a fallacy in demonstration?
+A) Because it uses division incorrectly
+B) Because it lacks certainty, and demonstration requires certainty
+C) Because it is only used in dialectic
+D) Because it always leads to contradictions
+
+Key Takeaway
+Incomplete induction is fallacious in demonstration but acceptable in dialectic due to differing epistemic standards.
+
+How This Lesson Applies — to MY Life?
+?
+Imagine a jurist arguing that all sales contracts require the consent of both parties based on observing only a few transactions. Would this be a valid demonstration? Explain using the lesson's distinction.
+?
+Construct a short dialectical argument using incomplete induction from the Islamic discipline of your choice (e.g., Hadith criticism) and state why it would not be a demonstration.
+
+Pages p. 350 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 350
+Module 15 · Lesson 8
+Next →
+Induction and Analogy
+intermediate
+8 min
+Complete Induction through Division in Demonstration
+Author explains how complete induction via division works in demonstration
+
+Learning Objective
+By the end of this lesson, you will be able to construct a complete induction via division (qisma) to support a demonstrative conclusion, using the example from the passage.
+
+Core Idea
+Complete induction with exhaustive division yields certain demonstration.
+
+The author explains that complete induction (istiqra' tamm) is beneficial in demonstration when the premises are clarified through a division (qisma) of the genus into its species. The example provided—if both rational and non-rational animals have an attribute, then every animal has it—illustrates how complete induction via division works. This lesson walks through that reasoning and shows how it satisfies the requirements of demonstration.
+
+Guided Path
+1
+Understand the structure of complete induction via division
+Instead of enumerating individual instances, this method divides a genus into its exhaustive species and proves the ruling for each species.
+This is also known as inductive division (istiqra' bi al-qisma).
+2
+Identify the example in the passage
+The passage gives an example: 'it is apparent that every rational and every non-rational have a certain attribute, so every animal becomes of that attribute.'
+Animal (hayawan) is divided into rational (natiq) and non-rational (ghayr natiq).
+3
+Recognize the division
+The genus 'animal' is divided into two species: rational (human) and non-rational (other animals). This division is exhaustive, covering all animals.
+In Islamic logic, animals are broadly categorized this way.
+4
+See how it supports a demonstrative conclusion
+Since the attribute is proven for each species, the conclusion that every animal has the attribute follows with certainty. This is a complete induction.
+The conclusion is certain because no instance is left out.
+5
+Reflect on the condition
+The induction is only valid if the division is truly exhaustive and the attribute is correctly established for each part. Otherwise, it is not complete.
+The author mentions 'if the premises become apparent by means of some division'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الاستقراء نافع في العلوم فيستعمل فيها وفي الغير كذلك. فلو استعمل في البرهان وهو ناقص كان مغالطة فيه بخلاف ما إذا استعمل في الجدل فإنه يؤخذ فيه أحدا غير حق. والتام إنما ينتفع في البراهين إذا بانت بها المقدمات من جهة قسمة ما؛ ثم هناك قسمة أخرى كما في هذه الصورة مثلا إذا بان أن كل ناطق وأن كل غير ناطق بصفة فصار كل حيوان بتلك الصفة. ثم أخذ الماشي فقيل والماشي حيوان؛ وقد بان بالاستقراء أن كل حيوان بصفة كذا / فالماشي بتلك الصفة، أو يكون قد بان الحكم على كل ناطق وعلى كل غير ناطق: فبان على كل حيوان ثمَّ جعل الحد الأصغر جزئي الناطق فلا يمتنع أن يكون الحكم على الناطق أبين منه على جزئي الناطق. وليس لقائل أن يقول فهل أبين الجزئي
+Then induction is beneficial in the sciences, so it is used in them and in others similarly. If it is used in demonstration while it is incomplete, it is a fallacy therein, contrary to when it is used in dialectic, for it is taken there as something not true. And the complete induction is only benefited from in demonstrations if the premises become apparent by means of some division; then there is another division as in this example, for instance when it is apparent that every rational and every non-rational have a certain attribute, so every animal becomes of that attribute. Then one takes the walking one and says: the walking one is an animal; and it has been shown by induction that every animal is of such attribute, so the walking one is of that attribute. Or it might be that the ruling on every rational and on every non-rational has been shown: so it is shown on every animal, then the minor term is made a particular of rational, so it is not impossible that the ruling on rational is more apparent than the ruling on a particular rational. And one cannot say: is the particular more apparent?
+Source pages p. 350
+
+Commentary
+This passage discusses the practical utility of induction (istiqra') in the sciences. The author states that induction is generally beneficial, but its use differs depending on the context. If incomplete induction (istiqra' naqis) is used in demonstration (burhan), it results in a fallacy because demonstration requires certainty. However, incomplete induction is acceptable in dialectic (jadal), where arguments are based on accepted opinions, not absolute truth. Complete induction (istiqra' tamm), on the other hand, is useful in demonstrations if the premises become evident through proper division (qisma). The author gives an example: if it is shown that every rational and every non-rational have a certain attribute, then it follows that every animal (which is composed of rational and non-rational) has that attribute. Then, if we take a particular animal like 'the walking one' (al-mashi), we can conclude it has the attribute because it falls under the universal ruling. Alternatively, the ruling might be shown on rational and non-rational, then on animal, and then the minor term is a particular of rational; it is not impossible that the ruling on rational is more apparent than the ruling on a particular rational. The passage ends with a rhetorical question about which is more apparent, suggesting that the universal is often clearer than the particular. This demonstrates how complete induction via division can be integrated into demonstrative reasoning.
+
+Key Terms
+استقراء تام
+قسمة
+برهان
+ناطق
+غير ناطق
+حيوان
+ماشي
+
+Key Terms from Source Passage
+
+Checkpoint
+What condition must be satisfied for complete induction to be valid in demonstration according to the passage?
+A) The premises must be accepted by everyone
+B) The division must be exhaustive of all species
+C) The induction must be incomplete
+D) The conclusion must be probable
+
+Key Takeaway
+Complete induction via exhaustive division provides certain knowledge and is a valid tool in demonstration.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the genus 'acts of worship' (ibadat). Divide it into its known categories (prayer, fasting, pilgrimage, etc.) and use complete induction to argue that all acts of worship require intention (niyya). State the steps of your induction.
+?
+Take the example from the passage and rewrite it as a formal syllogism: every rational is X, every non-rational is X, therefore every animal is X. Then, for a particular animal like 'the walking one', show the deduction.
+
+Pages p. 350 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 350
+Module 15 · Lesson 9
+Next →
+Induction and Analogy
+advanced
+12 min
+Induction and Its Two Types: Complete and Incomplete
+Author defines induction, distinguishes complete from incomplete, and compares it with syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction based on the author's criteria of exhaustive enumeration and epistemic certainty.
+
+Core Idea
+Only complete induction yields certainty; incomplete induction gives only probability.
+
+Induction is a form of reasoning from particular instances to a general conclusion. However, not all induction is equal. The author distinguishes two types: complete induction, which covers all particulars and reduces to a divided syllogism, and incomplete induction, which covers only some particulars and yields only probable opinion. Understanding this distinction is crucial for evaluating arguments in the Islamic sciences, where induction is frequently used to establish universal premises.
+
+Guided Path
+1
+Identify the two types of induction
+Locate where the author names al-istiqra' al-tamm (complete) and al-istiqra' al-naqis (incomplete). Note that complete induction covers all particulars and yields certainty (yaqin), while incomplete covers only some and yields probability (zann).
+The Arabic terms are التام (al-tamm) and الناقص (al-naqis).
+2
+Examine the example of complete induction
+The author gives the example: 'Every body is either animal, plant, or mineral; each of these is extended; so every body is extended.' This is a complete induction because it exhaustively divides the genus (body) into all its species. Observe that the conclusion is certain.
+This is also called a divided syllogism (al-qiyas al-muqassam).
+3
+Examine the example of incomplete induction
+The author gives: 'Man, horse, and lion move by will, so every animal moves by will.' This is incomplete because not all animals are observed. The conclusion is only probable, as counterexamples exist (e.g., the oyster).
+Incomplete induction can lead to error if mistaken for certainty.
+4
+Contrast the epistemic status
+Compare the certainty of complete induction with the probability of incomplete. The author states clearly that ‘induction in itself does not yield knowledge; otherwise the incomplete would be beneficial.’ Only complete induction, which reduces to a demonstrative syllogism, yields knowledge.
+This is a key epistemological point in Islamic logic.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تكون الجزئيات فيه بحيث لا يخرج عنه الأصغر مثل أن الحيوان تارة يقسم إلى الناطق وإلى غير الناطق، وتارة إلى المائت وإلى غير المائت. والمائت وغير المائت لا يسلب عنهما الناطق و لا غير الناطق. فإذا أريد أن يبين مثلا أن كل ناطق «أ» وجعل الحيوان فيه وسطا، وأريد أن تبين الكبرى بالاستقراء قيل فيه كل حيوان مائت وغير مائت، وكل مائت وغير مائت فهو «أ» فكل ناطق «أ». وأما الوجه الذي لا يمكن فذلك أن يستعمل الاستقراء في الكبرى مأخوذا من جزئيات القسمة الأخرى فنقول كل ناطق حيوان وكل حيوان إما ناطق وإما كذا، وكل ناطق وكل كذا وكذا «أ» ؛ فإنه يأخذ إن كل ناطق «أ» في بيان أن كل ناطق (أ) كذلك الحال حيث لا تكون القسمة إلا واحدة إن كان شيء هكذا. وأما جعل هذه القسمة مثل قسمة اللون إلى جزئياته مرة إلى أنواع اللون، ومرة إلى أنها جسم وبياض : فجعل الجسم والبياض قسمين في الترتيب تحت اللون ولم يحضره أنه يمكن أن يقسم إلى موضوعات الحمل قسمة لا يُذكر فيها ما يدخل في قسمة أخرى، فذلك غلط.
+ثم الاستقراء نافع في العلوم فيستعمل فيها وفي الغير كذلك. فلو استعمل في البرهان وهو ناقص كان مغالطة فيه بخلاف ما إذا استعمل في الجدل فإنه يؤخذ فيه أحدا غير حق. والتام إنما ينتفع في البراهين إذا بانت بها المقدمات من جهة قسمة ما؛ ثم هناك قسمة أخرى كما في هذه الصورة مثلا إذا بان أن كل ناطق
+وأن كل غير ناطق بصفة فصار كل حيوان بتلك الصفة. ثم أخذ الماشي فقيل والماشي حيوان؛ وقد بان بالاستقراء أن كل حيوان بصفة كذا فالماشي بتلك الصفة، أو يكون قد بان الحكم على كل ناطق وعلى كل غير ناطق: فبان على كل حيوان ثمَّ جعل الحد الأصغر جزئي الناطق فلا يمتنع أن يكون الحكم على الناطق أبين منه على جزئي الناطق. وليس لقائل أن يقول فهل أبين الجزئي للناطق من جزئية الناطق؟ فإنما ليس ذلك له لأنه لا يمتنع أن يكون نظره الأول في الناطق ليس لأجل جزئي الناطق بل لأجل الاستقراء ثم صح أنه من الاستقراء أن كل حيوان بصفة كذا لما أورده ذلك الجزئي خطر بالبال وقوعه تحت الحيوان ولم يخطر الناطق بالبال في الحال، فائتلف قياس صحيح. ثم الاستقراء يستعمل في تصحيح المقدمات الكلية كما مر ، وقد يستعمل للتنبيه على المقدمات الأولية تامّا كان أو ناقصا، وقد يستعمل بوجه ما للجزئية؛ ويحصل معه ضرب من التيقن وإن كان من غير استيفاء كما يجيء من بعد في كتاب البرهان.
+ثم الاستقراء من حيث هو الاستقراء لا يفيد العلم وإلا لكان الناقص مفيدًا بل إنه إنما يفيد إذا كان برهانيا وهو التام؛ إذ الحكم حاصل في جميع جزئياته حينئذ كقولنا في بيان أن كل جسم متحيز حيوان والنبات والجماد متحيز فكل جسم متحيز ضرورة أن الجسم لا يكون خارجًا عن هذه الثلاثة؛ وهذا هو القياس المقسَّم الذي مرَّ ذكره في الأقيسة الشرطية. وإنه يفيد العلم لما أنه بعد الرد إلى النظم الطبيعي يرجع إلى قياس صادق المقدمات كما يقال في هذا المثال كل جسم إما حيوان وإما نبات وإما جماد، وكل واحد منها متحيز فكل جسم إذن متحيز وإلا لكان الجسم خارجًا عن هذه الثلاثة؛ وذلك محال. وأما الناقص فإنه لا يفيد إلا الظنَّ كما في قولنا الإنسان والفرس والأسد متحرك بالإرادة فالحيوان كذلك أي حيوان كان. ثمَّ إنه وإن كان يردُّ إلى النظم الطبيعي فلا يفيد إلا الظَّنَّ لاحتمال أن يكون الحكم فيها لا يشاهده من الحيوانات على خلاف هذا كما قيل في الصدفِ إنه لا يكون متحرّكا حركة إرادية. وفرق بينه وبين القياس كما مرَّ من قبل أن القياس هو الاستدلال بالعام على الخاص وإنه هو الاستدلال بالخاص على العام.
+The particulars are such that the minor term does not exit from it, like when animal is sometimes divided into rational and non-rational, and sometimes into mortal and non-mortal. Mortal and non-mortal are not stripped of rational or non-rational. So if one wants to demonstrate, e.g., that every rational is A, and makes animal the middle term, and wants to demonstrate the major premise by induction, it is said: Every animal is mortal and non-mortal, and every mortal and non-mortal is A, so every rational is A. As for the way that is not possible, that is to use induction in the major premise taken from the particulars of the other division, so we say: Every rational is an animal, and every animal is either rational or such-and-such, and every rational and every such-and-such is A; for he takes that every rational is A in demonstrating that every rational is A; similarly if the division is only one if something is thus. As for making this division like the division of color into its particulars: once into the species of color, and once into that it is body and whiteness: making body and whiteness two divisions in arrangement under color, and it does not occur to him that it is possible to divide into subjects of predication a division in which what enters into another division is not mentioned, that is an error.
+Then induction is useful in the sciences, so it is used in them and in others as well. If it is used in demonstration while it is incomplete, it is a sophism in it, unlike when it is used in dialectic, for it is taken there as something not true. The complete induction is only useful in demonstrations if the premises are made apparent by means of some division; then there is another division as in this form, for example, if it becomes apparent that every rational and every non-rational has a certain attribute, then every animal has that attribute. Then the walking being is taken and it is said: The walking being is an animal; and it has been shown by induction that every animal has such an attribute, so the walking being has that attribute. Or the judgment may have been shown for every rational and every non-rational: so it is shown for every animal, then the minor term is made a particular of the rational, so it is not impossible that the judgment on the rational is more evident than on the particular of the rational. And it is not for a speaker to say: Is the particular of the rational more evident than the particularity of the rational? For that is not for him, because it is not impossible that his first consideration of the rational is not for the sake of the particular of the rational but for the sake of induction; then it is established that from induction every animal has such an attribute; when that particular occurred to mind, its falling under animal occurred to mind, and the rational did not occur to mind at that moment, so a sound syllogism came together. Then induction is used to correct universal premises as mentioned, and it may be used to draw attention to primary premises, whether complete or incomplete, and it may be used in some way for the particular; and a kind of certainty is obtained with it even if without complete enumeration, as will come later in the book of Demonstration.
+Then induction in itself as induction does not yield knowledge, otherwise the incomplete would be beneficial. Rather, it is only beneficial if it is demonstrative, and that is the complete induction; for the judgment is then present in all its particulars, like saying in demonstrating that every body is extended: animal, plant, and mineral are extended, so every body is extended, necessarily because body is not outside these three; and this is the divided syllogism that was mentioned earlier in conditional syllogisms. And it yields knowledge because when reduced to natural order it becomes a syllogism with true premises, as is said in this example: Every body is either animal or plant or mineral, and each one of them is extended, so every body is therefore extended, otherwise body would be outside these three; and that is impossible. As for the incomplete, it only yields probability, as in saying: Man, horse, and lion move by will, so every animal moves by will, whichever animal it is. Then even if it is reduced to natural order, it only yields probability because it is possible that there are animals not observed that are contrary to this, as was said of the oyster that it does not move with voluntary motion. And there is a difference between it and syllogism, as mentioned before, because syllogism is reasoning from the general to the particular, while induction is reasoning from the particular to the general.
+Source pages p. 350
+
+Commentary
+This passage discusses induction (istiqra'), its types, and its epistemological value. The author begins by illustrating how induction can be used in division. For example, animal can be divided into rational/non-rational and mortal/non-mortal. The author explains a valid way to use induction to prove a conclusion like 'every rational is A' by taking the major premise from induction over the division into mortal/non-mortal. He contrasts this with an invalid way that uses the other division incorrectly, leading to error. 
+
+Next, the author states that induction is useful in the sciences, but if incomplete induction is used in demonstration (burhan), it results in sophistry, whereas in dialectic (jadal) it is acceptable. Complete induction is useful in demonstrations when premises are clarified through division. The author gives examples of how complete induction can lead to a sound syllogism, even if the minor term is not initially considered. 
+
+Then, the author notes that induction can be used to correct universal premises, draw attention to primary premises (whether complete or incomplete), and for particulars, yielding a kind of certainty even without complete enumeration—though this is clarified later. 
+
+Finally, the author declares that induction in itself does not yield knowledge; otherwise incomplete induction would give knowledge. Only complete induction, which is demonstrative, yields knowledge because it covers all particulars and reduces to a divided syllogism (qiyas muqassam). An example is given: every body is either animal, plant, or mineral; each of these is extended; so every body is extended. This is a sound syllogism. Incomplete induction, like inferring that all animals move by will from observing man, horse, and lion, only yields probability (zann) because counterexamples (like the oyster) may exist. The passage concludes by distinguishing induction from syllogism: syllogism reasons from general to particular, while induction reasons from particular to general.
+
+Key Terms
+الاستقراء
+التام
+الناقص
+القياس المقسَّم
+البرهان
+الظن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the epistemic status of incomplete induction (al-istiqra' al-naqis)?
+A) It yields certain knowledge (yaqin).
+B) It yields probability (zann) only.
+C) It yields nothing because it is always fallacious.
+D) It yields certainty only when used in dialectic.
+
+Key Takeaway
+The distinction between complete and incomplete induction is fundamental: only complete induction, which reduces to a divided syllogism, yields certain knowledge; incomplete induction yields only probability and is not demonstrative.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the following induction is complete or incomplete: 'Zakat is obligatory on gold, silver, camels, cattle, and goats. Therefore, zakat is obligatory on all types of wealth.' What type of induction is this, and what epistemic value does it have? Explain using the author's criteria.
+?
+Construct a complete induction from the division of the five daily prayers into their types (Fajr, Dhuhr, Asr, Maghrib, Isha) to prove that all prayers are obligatory. Then reduce it to a divided syllogism.
+
+Pages p. 350 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 350
+Module 15 · Lesson 10
+Next →
+Induction and Analogy
+advanced
+15 min
+The Epistemological Value of Induction and Its Use in Sciences
+Author defines induction, distinguishes complete from incomplete, and compares it with syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to evaluate when induction can be used in demonstration (burhan) and when it leads to sophistry, and to assess the conditions under which induction yields certainty or probability.
+
+Core Idea
+Induction as such yields no knowledge; only complete induction that reduces to a divided syllogism is demonstrative.
+
+In the Islamic sciences, induction is often used to establish universal premises. However, its epistemic value depends critically on whether it is complete or incomplete. The author warns that using incomplete induction in demonstration results in sophistry, whereas in dialectic it is acceptable. Understanding when induction can provide certainty is essential for sound reasoning in theology, jurisprudence, and other Islamic disciplines.
+
+Guided Path
+1
+Identify the author's claim about induction and knowledge
+Find the statement: 'Induction in itself as induction does not yield knowledge, otherwise the incomplete would be beneficial.' This is the central thesis. Induction is not inherently informative; only its complete form, when reduced to a syllogism, is demonstrative.
+This is a strong epistemological claim that distinguishes Islamic logic from inductive empiricism.
+2
+Examine the use of complete induction in demonstration
+The author gives the example: 'Every body is either animal, plant, or mineral; each of these is extended; so every body is extended.' This complete induction is demonstrative because it exhausts the division of body into its species. It reduces to a divided syllogism (qiyas muqassam), which yields certainty.
+The divided syllogism is a conditional syllogism with a disjunctive premise.
+3
+Examine the use of incomplete induction in demonstration
+If incomplete induction is used in demonstration, it results in sophistry (mughalata). The author states: 'If it is used in demonstration while it is incomplete, it is a sophism.' This is because the conclusion is only probable but presented as certain.
+In dialectic, incomplete induction is acceptable because dialectical arguments do not require certainty.
+4
+Assess the role of induction in the sciences
+The author says 'induction is useful in the sciences' but specifies that it must be used appropriately. Complete induction is useful in demonstrations to correct universal premises or draw attention to primary premises. Incomplete induction can still yield a kind of certainty if it is used for particular judgments, but this is clarified later.
+This nuance shows that the author does not reject induction entirely but delimits its epistemic scope.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تكون الجزئيات فيه بحيث لا يخرج عنه الأصغر مثل أن الحيوان تارة يقسم إلى الناطق وإلى غير الناطق، وتارة إلى المائت وإلى غير المائت. والمائت وغير المائت لا يسلب عنهما الناطق و لا غير الناطق. فإذا أريد أن يبين مثلا أن كل ناطق «أ» وجعل الحيوان فيه وسطا، وأريد أن تبين الكبرى بالاستقراء قيل فيه كل حيوان مائت وغير مائت، وكل مائت وغير مائت فهو «أ» فكل ناطق «أ». وأما الوجه الذي لا يمكن فذلك أن يستعمل الاستقراء في الكبرى مأخوذا من جزئيات القسمة الأخرى فنقول كل ناطق حيوان وكل حيوان إما ناطق وإما كذا، وكل ناطق وكل كذا وكذا «أ» ؛ فإنه يأخذ إن كل ناطق «أ» في بيان أن كل ناطق (أ) كذلك الحال حيث لا تكون القسمة إلا واحدة إن كان شيء هكذا. وأما جعل هذه القسمة مثل قسمة اللون إلى جزئياته مرة إلى أنواع اللون، ومرة إلى أنها جسم وبياض : فجعل الجسم والبياض قسمين في الترتيب تحت اللون ولم يحضره أنه يمكن أن يقسم إلى موضوعات الحمل قسمة لا يُذكر فيها ما يدخل في قسمة أخرى، فذلك غلط.
+ثم الاستقراء نافع في العلوم فيستعمل فيها وفي الغير كذلك. فلو استعمل في البرهان وهو ناقص كان مغالطة فيه بخلاف ما إذا استعمل في الجدل فإنه يؤخذ فيه أحدا غير حق. والتام إنما ينتفع في البراهين إذا بانت بها المقدمات من جهة قسمة ما؛ ثم هناك قسمة أخرى كما في هذه الصورة مثلا إذا بان أن كل ناطق
+وأن كل غير ناطق بصفة فصار كل حيوان بتلك الصفة. ثم أخذ الماشي فقيل والماشي حيوان؛ وقد بان بالاستقراء أن كل حيوان بصفة كذا فالماشي بتلك الصفة، أو يكون قد بان الحكم على كل ناطق وعلى كل غير ناطق: فبان على كل حيوان ثمَّ جعل الحد الأصغر جزئي الناطق فلا يمتنع أن يكون الحكم على الناطق أبين منه على جزئي الناطق. وليس لقائل أن يقول فهل أبين الجزئي للناطق من جزئية الناطق؟ فإنما ليس ذلك له لأنه لا يمتنع أن يكون نظره الأول في الناطق ليس لأجل جزئي الناطق بل لأجل الاستقراء ثم صح أنه من الاستقراء أن كل حيوان بصفة كذا لما أورده ذلك الجزئي خطر بالبال وقوعه تحت الحيوان ولم يخطر الناطق بالبال في الحال، فائتلف قياس صحيح. ثم الاستقراء يستعمل في تصحيح المقدمات الكلية كما مر ، وقد يستعمل للتنبيه على المقدمات الأولية تامّا كان أو ناقصا، وقد يستعمل بوجه ما للجزئية؛ ويحصل معه ضرب من التيقن وإن كان من غير استيفاء كما يجيء من بعد في كتاب البرهان.
+ثم الاستقراء من حيث هو الاستقراء لا يفيد العلم وإلا لكان الناقص مفيدًا بل إنه إنما يفيد إذا كان برهانيا وهو التام؛ إذ الحكم حاصل في جميع جزئياته حينئذ كقولنا في بيان أن كل جسم متحيز حيوان والنبات والجماد متحيز فكل جسم متحيز ضرورة أن الجسم لا يكون خارجًا عن هذه الثلاثة؛ وهذا هو القياس المقسَّم الذي مرَّ ذكره في الأقيسة الشرطية. وإنه يفيد العلم لما أنه بعد الرد إلى النظم الطبيعي يرجع إلى قياس صادق المقدمات كما يقال في هذا المثال كل جسم إما حيوان وإما نبات وإما جماد، وكل واحد منها متحيز فكل جسم إذن متحيز وإلا لكان الجسم خارجًا عن هذه الثلاثة؛ وذلك محال. وأما الناقص فإنه لا يفيد إلا الظنَّ كما في قولنا الإنسان والفرس والأسد متحرك بالإرادة فالحيوان كذلك أي حيوان كان. ثمَّ إنه وإن كان يردُّ إلى النظم الطبيعي فلا يفيد إلا الظَّنَّ لاحتمال أن يكون الحكم فيها لا يشاهده من الحيوانات على خلاف هذا كما قيل في الصدفِ إنه لا يكون متحرّكا حركة إرادية. وفرق بينه وبين القياس كما مرَّ من قبل أن القياس هو الاستدلال بالعام على الخاص وإنه هو الاستدلال بالخاص على العام.
+The particulars are such that the minor term does not exit from it, like when animal is sometimes divided into rational and non-rational, and sometimes into mortal and non-mortal. Mortal and non-mortal are not stripped of rational or non-rational. So if one wants to demonstrate, e.g., that every rational is A, and makes animal the middle term, and wants to demonstrate the major premise by induction, it is said: Every animal is mortal and non-mortal, and every mortal and non-mortal is A, so every rational is A. As for the way that is not possible, that is to use induction in the major premise taken from the particulars of the other division, so we say: Every rational is an animal, and every animal is either rational or such-and-such, and every rational and every such-and-such is A; for he takes that every rational is A in demonstrating that every rational is A; similarly if the division is only one if something is thus. As for making this division like the division of color into its particulars: once into the species of color, and once into that it is body and whiteness: making body and whiteness two divisions in arrangement under color, and it does not occur to him that it is possible to divide into subjects of predication a division in which what enters into another division is not mentioned, that is an error.
+Then induction is useful in the sciences, so it is used in them and in others as well. If it is used in demonstration while it is incomplete, it is a sophism in it, unlike when it is used in dialectic, for it is taken there as something not true. The complete induction is only useful in demonstrations if the premises are made apparent by means of some division; then there is another division as in this form, for example, if it becomes apparent that every rational and every non-rational has a certain attribute, then every animal has that attribute. Then the walking being is taken and it is said: The walking being is an animal; and it has been shown by induction that every animal has such an attribute, so the walking being has that attribute. Or the judgment may have been shown for every rational and every non-rational: so it is shown for every animal, then the minor term is made a particular of the rational, so it is not impossible that the judgment on the rational is more evident than on the particular of the rational. And it is not for a speaker to say: Is the particular of the rational more evident than the particularity of the rational? For that is not for him, because it is not impossible that his first consideration of the rational is not for the sake of the particular of the rational but for the sake of induction; then it is established that from induction every animal has such an attribute; when that particular occurred to mind, its falling under animal occurred to mind, and the rational did not occur to mind at that moment, so a sound syllogism came together. Then induction is used to correct universal premises as mentioned, and it may be used to draw attention to primary premises, whether complete or incomplete, and it may be used in some way for the particular; and a kind of certainty is obtained with it even if without complete enumeration, as will come later in the book of Demonstration.
+Then induction in itself as induction does not yield knowledge, otherwise the incomplete would be beneficial. Rather, it is only beneficial if it is demonstrative, and that is the complete induction; for the judgment is then present in all its particulars, like saying in demonstrating that every body is extended: animal, plant, and mineral are extended, so every body is extended, necessarily because body is not outside these three; and this is the divided syllogism that was mentioned earlier in conditional syllogisms. And it yields knowledge because when reduced to natural order it becomes a syllogism with true premises, as is said in this example: Every body is either animal or plant or mineral, and each one of them is extended, so every body is therefore extended, otherwise body would be outside these three; and that is impossible. As for the incomplete, it only yields probability, as in saying: Man, horse, and lion move by will, so every animal moves by will, whichever animal it is. Then even if it is reduced to natural order, it only yields probability because it is possible that there are animals not observed that are contrary to this, as was said of the oyster that it does not move with voluntary motion. And there is a difference between it and syllogism, as mentioned before, because syllogism is reasoning from the general to the particular, while induction is reasoning from the particular to the general.
+Source pages p. 350
+
+Commentary
+This passage discusses induction (istiqra'), its types, and its epistemological value. The author begins by illustrating how induction can be used in division. For example, animal can be divided into rational/non-rational and mortal/non-mortal. The author explains a valid way to use induction to prove a conclusion like 'every rational is A' by taking the major premise from induction over the division into mortal/non-mortal. He contrasts this with an invalid way that uses the other division incorrectly, leading to error. 
+
+Next, the author states that induction is useful in the sciences, but if incomplete induction is used in demonstration (burhan), it results in sophistry, whereas in dialectic (jadal) it is acceptable. Complete induction is useful in demonstrations when premises are clarified through division. The author gives examples of how complete induction can lead to a sound syllogism, even if the minor term is not initially considered. 
+
+Then, the author notes that induction can be used to correct universal premises, draw attention to primary premises (whether complete or incomplete), and for particulars, yielding a kind of certainty even without complete enumeration—though this is clarified later. 
+
+Finally, the author declares that induction in itself does not yield knowledge; otherwise incomplete induction would give knowledge. Only complete induction, which is demonstrative, yields knowledge because it covers all particulars and reduces to a divided syllogism (qiyas muqassam). An example is given: every body is either animal, plant, or mineral; each of these is extended; so every body is extended. This is a sound syllogism. Incomplete induction, like inferring that all animals move by will from observing man, horse, and lion, only yields probability (zann) because counterexamples (like the oyster) may exist. The passage concludes by distinguishing induction from syllogism: syllogism reasons from general to particular, while induction reasons from particular to general.
+
+Key Terms
+الاستقراء
+التام
+الناقص
+البرهان
+الجدل
+الظن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what happens if incomplete induction is used in demonstration (burhan)?
+A) It yields certain knowledge.
+B) It results in a sophism (mughalata).
+C) It is perfectly acceptable as a probable argument.
+D) It becomes a valid syllogism.
+
+Key Takeaway
+Induction yields knowledge only when it is complete and reduces to a divided syllogism; incomplete induction in demonstration is a sophism, though it may be used in dialectic.
+
+How This Lesson Applies — to MY Life?
+?
+Assess the following argument: 'We have observed that the sun rises every day for the past year. Therefore, the sun will always rise every day.' Is this a complete or incomplete induction? Can it be used in demonstration according to the author? Explain.
+?
+Construct a sound complete induction from Islamic ritual practices (e.g., the five pillars) to prove that all acts of worship require intention (niyya). First, divide the acts of worship into their types (e.g., prayer, fasting, zakat, hajj) and verify each, then reduce to a divided syllogism.
+
+Pages p. 350 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 351
+Module 15 · Lesson 11
+Next →
+Induction and Analogy
+intermediate
+8 min
+Complete vs Incomplete Induction
+Author classifies induction and evaluates its certainty.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete from incomplete induction and identify which yields certainty and which yields probability according to classical Islamic logicians.
+
+Core Idea
+Complete induction is disguised deduction; incomplete induction is only probable.
+
+In this passage, the author clarifies the epistemic status of induction. Not all inductions are equal—only when all particulars are examined does induction yield certainty, because it reduces to a disjunctive syllogism. Incomplete induction, based on a sample, remains probable. This distinction is crucial for evaluating arguments in Islamic sciences, especially when universal premises are sought.
+
+Guided Path
+1
+Identify the two types of induction
+Locate where the author mentions 'tamm' (complete) and 'naqis' (incomplete) induction. Note that complete induction examines all particulars, while incomplete examines only a sample.
+The author emphasizes that induction as such does not yield knowledge; only the complete form does.
+2
+Understand why complete induction yields certainty
+The author argues that complete induction is equivalent to a disjunctive syllogism (qiyas muqassam). In the example, every body is either animal, plant, or mineral, and each is divisible, so every body is divisible. This is certain because it covers all possibilities.
+This reasoning makes complete induction a form of deduction, not empirical generalization.
+3
+Analyze the incomplete induction example
+The author gives the example: man, horse, and lion are voluntarily moving, so all animals are voluntarily moving. This is only probable because animals like oysters are counterexamples.
+Incomplete induction leaves room for exceptions, hence only yields zann (probability).
+4
+Contrast induction with syllogism
+The author states: syllogism (qiyas) reasons from general to specific, while induction reasons from specific to general. This directional difference affects epistemic value.
+In syllogism, if premises are true, the conclusion is certain. In induction, even if premises are true, the conclusion may be false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم الاستقراء يستعمل في تصحيح المقدمات الكلية كما مر ، وقد يستعمل للتنبيه على المقدمات الأولية تامّا كان أو ناقصا، وقد يستعمل بوجه ما للجزئية؛ ويحصل معه ضرب من التيقن وإن كان من غير استيفاء كما يجيء من بعد في كتاب البرهان.
+ثم الاستقراء من حيث هو الاستقراء لا يفيد العلم وإلا لكان الناقص مفيدًا بل إنه إنما يفيد إذا كان برهانيا وهو التام؛ إذ الحكم حاصل في جميع جزئياته حينئذ كقولنا في بيان أن كل جسم متحيز حيوان والنبات والجماد متحيز فكل جسم متحيز ضرورة أن الجسم لا يكون خارجًا عن هذه الثلاثة؛ وهذا هو القياس المقسَّم الذي مرَّ ذكره في الأقيسة الشرطية. وإنه يفيد العلم لما أنه بعد الرد إلى النظم الطبيعي يرجع إلى قياس صادق المقدمات كما يقال في هذا المثال كل جسم إما حيوان وإما نبات وإما جماد، وكل واحد منها متحيز فكل جسم إذن متحيز وإلا لكان الجسم خارجًا عن هذه الثلاثة؛ وذلك محال. وأما الناقص فإنه لا يفيد إلا الظنَّ كما في قولنا الإنسان والفرس والأسد متحرك بالإرادة فالحيوان كذلك أي حيوان كان. ثمَّ إنه وإن كان يردُّ إلى النظم الطبيعي فلا يفيد إلا الظَّنَّ لاحتمال أن يكون الحكم فيها لا يشاهده من الحيوانات على خلاف هذا كما قيل في الصدفِ إنه لا يكون متحرّكا حركة إرادية. وفرق بينه وبين القياس كما مرَّ من قبل أن القياس هو الاستدلال بالعام على الخاص وإنه هو الاستدلال بالخاص على العام.
+Then induction is used to verify universal premises as previously mentioned, and it is used to alert to primary premises, whether complete or incomplete, and it is used in a way for particulars; and with it a kind of certainty is obtained even if without exhaustion, as will come later in the book of Demonstration. Then induction as such does not yield knowledge, otherwise the incomplete would be useful. Rather, it yields knowledge only if it is demonstrative, which is the complete; for the ruling is then obtained in all its particulars, as in our statement in explaining that every body is divisible: animal, plant, and mineral are divisible, so every body is divisible necessarily because the body does not fall outside these three; and this is the disjunctive syllogism previously mentioned among conditional syllogisms. And it yields knowledge because, after being reduced to natural order, it returns to a true-premised syllogism, as is said in this example: every body is either animal or plant or mineral, and each one is divisible, so every body is divisible, otherwise the body would be outside these three; that is impossible. As for the incomplete, it yields only probability, as in our statement: man, horse, and lion are voluntarily moving, so the animal is likewise, whatever animal. Then, even if it is reduced to natural order, it yields only probability because of the possibility that the ruling in those not observed of animals is contrary to this, as it is said of the oyster that it does not move voluntarily. And there is a difference between it and syllogism, as previously stated: syllogism is reasoning from the general to the specific, and induction is reasoning from the specific to the general.
+Source pages p. 351
+
+Commentary
+This passage discusses induction (istiqra'), its types, and epistemic value. The author begins by stating that induction is used to verify universal premises and can be complete (tamm) or incomplete (naqis). Complete induction, when all particulars are examined, yields certainty because it is equivalent to a disjunctive syllogism (qiyas muqassam). He provides an example: every body is either animal, plant, or mineral, and each is divisible, so every body is divisible – this is certain. Incomplete induction, based on a few examples, yields only probability (zann) because there may be counterexamples, like the oyster which does not move voluntarily. He concludes by distinguishing induction from syllogism (qiyas): syllogism reasons from general to specific, while induction reasons from specific to general.
+
+Key Terms
+الاستقراء
+تام
+ناقص
+برهان
+ظن
+قياس مقسم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why does complete induction yield certainty?
+A) Because it examines many instances
+B) Because it reduces to a disjunctive syllogism with an exhaustive division
+C) Because it is based on sensory observation
+D) Because it uses the word 'every'
+
+Key Takeaway
+Only complete induction, equivalent to a disjunctive syllogism, yields certainty; incomplete induction yields only probability.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a complete induction over the five daily prayers to prove that all are obligatory at specific times. Identify the disjunctive syllogism underlying it.
+?
+Evaluate this induction: 'Zakat is obligatory on gold, silver, and livestock, so all wealth is subject to zakat.' Is it complete or incomplete? What epistemic value does it have according to the author?
+
+Pages p. 351 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 352
+Module 15 · Lesson 12
+Next →
+Induction and Analogy
+intermediate
+6 min
+Analogy (Tamthil): Definition, Components, and Composite Nature
+Author defines analogy as transfer of a ruling from original to branch via a common cause.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four terms of an analogical argument and explain why its conclusion is not definitive.
+
+Core Idea
+Analogy transfers a ruling via a shared cause, but yields only probability, not certainty.
+
+Analogy (tamthil) is a cornerstone of Islamic jurisprudence, used to extend rulings from established cases to new situations. In this passage, the author defines it formally, breaks it into its four logical components, and cautions that its conclusions are probable, not certain. He also reveals that analogy is actually a compound of induction and syllogism.
+
+Guided Path
+1
+Identify the four terms
+The author lists four terms: the major (universal predicate), the middle (cause), the minor (original subject), and the similar (branch subject). Locate each in the example: 'this building is temporally originated because it is a body, and likewise the sky because it is a body'.
+The major is 'temporally originated', the middle is 'body', the minor is 'this building', and the similar is 'the sky'.
+2
+Understand the role of the cause ('illa)
+The cause is the common attribute that justifies transferring the ruling. It must be coextensive (mutarida) and may be reciprocating (mun'akisa). The author distinguishes two types of causes.
+A coextensive and reciprocating cause ensures that the ruling follows the cause both in presence and absence.
+3
+Recognize why the conclusion is not definitive
+The author gives two reasons: the ruling might be tied to something specific to the original, or there might be an impediment in the branch. Thus, the analogy does not produce certainty (qat').
+This is a key limitation distinguishing tamthil from categorical syllogism.
+4
+See how analogy combines induction and syllogism
+The first part (establishing the ruling in the original due to the common description) is reasoning from particular to general (induction). The second part (applying it to the branch) is reasoning from general to particular (syllogism).
+Thus, analogy is a compound argument.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : [ في التمثيل ]
+وأما التمثيل فهو الحكم على جزئي لوجوده في جزئي آخر؛ وهو متفق عليه لمشابهة بينهما كما مرَّ في بيان الأقيسة المتفقهة. فإنه يعرف بتعريفات مختلفة عند المتفقه (۱) ، أحسنها أن يقال تعدية الحكم المتحد من الأصل إلى الفرع بعلَّة متحدة فيهما. فيقال مثلا هذا البناء حادث لأنه جسم فكذا السماء لكونها جسما. وإنه أي التمثيل مشتمل على أربعة حدود: [أ] الأكبر وهو كلي [ب] والأوسط وهو كلي أيضًا وإنه محمول على [ت] الأصغر وعلى / [ث] شبيهه فيكون الأصغر حدا، وشبيهه كذلك. فالحكم في الأصل [٢٦٩] وهو الصورة المتفق عليها يضاف إلى ما هو المشترك بينه وبين الفرع وهو الصورة المختلف فيها ؛ وإنه لا يضاف إليه إلا وأن يكون علة لوجوده، فيكون علة. وهذه العلة متحققة في الفرع فيثبت الحكم في الفرع لكن لا يكون حكمًا قطعيا لاحتمال أن يكون مضافًا في تلك الصورة إلى ما يكون مختصا بتلك الصورة، وأن يكون المانع متحققا في هذه الصورة أيضًا حتى إذا كان المشترك علة فلا يلزم من وجود تلك العلة في هذه الصورة الحكم فيها. والعلة [1] قد تكون مطردة ومنعكسة حتى يلزم من وجودها وجود الحكم، ومن عدمها عدم الحكم كذلك. [ب] وقد تكون مطردة غير منعكسة، ولكل واحدة منهما نظائر في المعقولات والمحسوسات فيقال مثلا الحكم متحقق في تلك الصورة لوجود هذه العلة، وهذه العلة متحققة في هذه الصورة، فيكون الحكم متحققا فيها . فكأنه أي التمثيل مركب من الاستقراء والقياس لما أنه يتبدل بالحكم في محل الوفاق على ارتباطه بالوصف المشترك. ثمَّ به على ثبوته في محل آخر فأوله الاستدلال بالخاص على العام، وآخره الاستدلال
+(۱) النسخة المتفقهة وما أثبتناه هو الصواب كما هو الظاهر من السياق.
+Section on Analogy (Tamthil). As for tamthil, it is a judgment on a particular due to its existence in another particular; it is agreed upon due to a similarity between them, as mentioned in the discussion of agreed-upon syllogisms. It is defined by different definitions among the jurists; the best is to say: transferring the uniform ruling from the original to the branch by a unified cause in both. So it is said, for example: this building is temporally originated because it is a body, and likewise the sky because it is a body. And tamthil comprises four terms: [a] the major, which is universal; [b] the middle, which is also universal and is predicated of [c] the minor and of [d] its similar, so the minor is a term, and its similar likewise. Thus the ruling in the original [269] – which is the agreed-upon form – is attached to what is common between it and the branch, which is the form under dispute; and it is not attached to it unless it is a cause for its existence, so it becomes a cause. And this cause is realized in the branch, so the ruling is established in the branch, but it is not a definitive judgment because of the possibility that it is attached in that form to something specific to that form, and that there exists an impediment in this form as well, so that even if the commonality is a cause, the existence of that cause in this form does not necessitate the ruling in it. The cause may be coextensive and reciprocating, such that from its existence the existence of the ruling follows, and from its absence the absence of the ruling likewise. Or it may be coextensive but not reciprocating. And for each type there are parallels in intelligible and sensible matters. For example, it is said: the ruling is realized in that form due to the existence of this cause, and this cause is realized in this form, so the ruling is realized in it. So tamthil seems to be composed of induction and syllogism, because it begins with the ruling in the locus of agreement due to its connection with the common description, then through that to its establishment in another locus. So its beginning is reasoning from the particular to the general, and its end is reasoning (from the general to the particular). (1) The copy has 'al-mutafaqqa' and what we have established is correct as evident from context.
+Source pages p. 352
+
+Commentary
+This passage defines analogy (tamthil) as a type of argument used by jurists. The author defines it as transferring a ruling from an original case to a branch case due to a shared cause. He breaks the analogy into four terms: the major (the universal predicate), the middle (the cause), the minor (the original subject), and the similar (the branch). The ruling is established in the branch only if the cause is shared and there is no impediment. He classifies causes into two types: those that are coextensive and reciprocating (mutarida wa mun'akisa) – meaning wherever the cause exists, the ruling exists, and vice versa – and those that are coextensive but not reciprocating. Each type has examples in rational and sensible matters. Finally, he observes that analogy is composed of induction and syllogism: the first part establishes the ruling in the original based on the common description (induction), and the second part applies it to the branch (syllogism). Thus, the beginning of analogy is reasoning from particular to general, and the end is reasoning from general to particular.
+
+Key Terms
+التمثيل
+متفق عليه
+مشابهة
+تعدية
+حكم
+أصل
+فرع
+علة
+مطردة
+منعكسة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why is the conclusion of an analogy not definitive?
+A) Because the cause may be coextensive only
+B) Because the cause may be specific to the original or there may be an impediment in the branch
+C) Because the analogy is based on similarity not identity
+D) Because the branch may not exist
+
+Key Takeaway
+Analogy is a compound of induction (establishing the cause in the original) and syllogism (applying it to the branch), and its conclusion is probable, not certain.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze this analogy: 'Every intoxicant is forbidden (shar'an). Wine is intoxicating, therefore wine is forbidden. Nabidh is intoxicating, therefore nabidh is forbidden.' Identify the four terms (major, middle, minor, similar). Then explain why the conclusion about nabidh is not definitive according to the author's criteria.
+?
+Consider a legal analogy: The Prophet ﷺ prohibited selling dates for dates unless equal (riba). Jurists extend this to wheat. Identify the asl, far', hukm, and 'illa. Then check if the cause is coextensive and reciprocating.
+
+Pages p. 352 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 353
+Module 15 · Lesson 13
+Next →
+Induction and Analogy
+intermediate
+8 min
+Types of Tamthil and the Weakness of Tanqih al-Manat
+Author introduces tanqih al-manat and begins critique
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four types of tamthil based on the shahid/gha'ib division and evaluate the logical strength of tanqih al-manat as a method for establishing causality.
+
+Core Idea
+Transferring a ruling by mere similarity is weak; eliminating causes by exhaustive division is stronger but rarely complete.
+
+In this passage, the author introduces the logical method of 'inference from the witnessed to the unseen' (al-istidlal bi al-shahid 'ala al-gha'ib), a type of analogical reasoning used extensively in kalam and fiqh. He then presents the method of tanqih al-manat, which attempts to isolate the effective cause ('illa) by eliminating irrelevant attributes through exhaustive division. However, he immediately warns of its inherent weakness: the division must be complete to yield certainty, which is often impossible.
+
+Guided Path
+1
+Identify the four types of tamthil
+The text says tamthil is divided into four categories based on whether the original (asl) and the branch (far') are witnessed (shahid) or unseen (gha'ib). List them: witnessed to witnessed, witnessed to unseen, unseen to witnessed, unseen to unseen.
+The author notes all four fall short of certainty.
+2
+Understand the critique of mere similarity
+The author asserts that transferring a ruling by mere similarity (mujarrad al-mushabaha) is very weak (da'if jiddan). Note why: it lacks a causal link between the two cases.
+This is the basis for demanding an explicit cause ('illa).
+3
+Analyze the tanqih al-manat example
+In the building example, possible causes for origination (huduth) are enumerated: existence, self-subsistence, location, specific identity, or being a body. Each is eliminated except 'being a body'. Identify the elimination steps.
+This is the classic method of sabr wa taqsim (trial and division).
+4
+Evaluate the condition of exhaustive division
+The author states the method is weak because it requires a complete division (qisma) of all possibilities, which is rarely achieved. Why is completeness necessary? Without it, the remaining cause is not certain.
+The passage breaks off mid-sentence, indicating further critique.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم من التمثيل نوع يسمونه الاستدلال بالشاهد على الغائب يعني بالمحسوس على غير المحسوس» لما بينهما من المشابهة في أمر ما؛ وحينئذ يلزم أن يكون التمثيل على أربعة أقسام بالنسبة إلى الشاهد والغائب غير أن الشاهد على الغائب، والغائب على الغائب ؛ قاصر كل واحد منهما عن إفادة التيقن بوجه ما. ولا يستراب في أن تعدية الحكم من الأصل إلى الفرع بمجرد المشابهة في أمر من الأمور ضعيف جدا، وأما بيان علية المشترك بين الأصل والفرع فذلك بوجوه : [أ] الأول منها أن يقال في المثال المذكور : إن الجسمية علة للحدوث لما أن الحدوث في ذلك البناء إما أن يكون لكونه موجودا، أو لكونه قائما بنفسه، أو لكونه في ذلك المكان، أو لكونه واحدا من الأعيان، أو لكونه جسما؛ ولا وجه للأول بدليل التخلف في كثير من الصور، ولا للثاني كذلك. وكذلك للثالث فإن كونه في المكان بعد الحدوث. وكذلك للرابع. ولما لم يكن حادثًا لكونه كذا وكذا وكذا فيكون حادثًا لكونه جسما: فهذا هو الطريق [٢٦٩] المستعمل عند / المتفقه (۲) ، وإنه هو المسمى بتنقيح المناط». والدليل على ضعف هذا الطريق بوجوه: [۱] منها أن يقال: إنه لا يتم إلا وأن تكون القسمة
+Then among tamthil there is a type that they call inference from the witnessed to the unseen, meaning from the sensible to the non-sensible, due to the similarity between them in some matter; and then it follows that tamthil is of four divisions with respect to the witnessed and the unseen: the witnessed to the unseen, and the unseen to the unseen; each of them falls short of yielding certainty in any way. And there is no doubt that transferring the ruling from the original to the branch merely by similarity in some matter is very weak. As for establishing the causality of the commonality between the original and the branch, that is by ways: [a] the first of them is to say in the mentioned example: bodiliness is the cause of origination because origination in that building is either for its being existent, or for its being self-subsistent, or for its being in that place, or for its being one of the individual entities, or for its being a body; and there is no basis for the first due to the evidence of non-fulfillment in many cases, nor for the second likewise. Likewise for the third: for its being in a place is after origination. Likewise for the fourth. And since it is not originated for being such and such and such, it is originated for being a body. This is the method used by the jurists, and it is called 'tanqih al-manat' (refinement of the ratio legis). And the proof of the weakness of this method is by ways: [1] among them is to say: it is not complete unless the division
+Source pages p. 353
+
+Commentary
+This passage introduces a specific type of tamthil known as 'inference from the witnessed to the unseen' (al-istidlal bi al-shahid 'ala al-gha'ib), which uses observable examples to draw conclusions about unobservable matters based on similarity. The author states that tamthil can be divided into four categories depending on whether the original (witnessed or unseen) and the branch (witnessed or unseen) are both present. These are: (1) from witnessed to witnessed, (2) from witnessed to unseen, (3) from unseen to witnessed, and (4) from unseen to unseen. However, the author notes that each type fails to provide certainty. He emphasizes that transferring a ruling merely by similarity is very weak. The text then focuses on the method used to establish the cause ('illa) common to the original and branch, called 'tanqih al-manat' (refinement of the ratio legis). In the example, the cause for origination in a building is identified by eliminating other possible causes: it is not because the building exists (since many existent things are not originated), nor because it is self-subsistent, nor because of its location, nor because it is a specific individual. By elimination, it must be because it is a body. This method is commonly used by jurists. The author then presents a critique: the method is weak because it requires an exhaustive division of all possible causes. The text breaks off at the beginning of this criticism, stating that the division must be complete for the argument to be valid.
+
+Key Terms
+الاستدلال بالشاهد على الغائب
+تنقيح المناط
+القسمة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the main weakness of the method of tanqih al-manat?
+A) It relies on similarity which is always uncertain
+B) It requires an exhaustive division of all possible causes
+C) It only applies to bodily objects
+D) It ignores the role of the original
+
+Key Takeaway
+The method of tanqih al-manat relies on exhaustive division of possible causes; without completeness, the inference remains weak and uncertain.
+
+How This Lesson Applies — to MY Life?
+?
+Take a real fiqh ruling: the prohibition of gambling (maysir). List at least three possible causes (attributes) for its prohibition (e.g., causing enmity, wasting wealth, being a game of chance). Using tanqih al-manat, eliminate those that do not apply consistently across all instances (e.g., if a non-wasteful game of chance exists, then 'wasting wealth' may not be the cause). Assess whether your division is exhaustive.
+?
+In a kalam argument for the existence of God, the mutakallimun use tamthil from the witnessed (created world) to the unseen (Creator). Identify which of the four types of tamthil this is and evaluate why the author says it does not yield certainty. What additional step (like tanqih al-manat) would be needed to strengthen the argument?
+
+Pages p. 353 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 353
+Module 15 · Lesson 14
+Next →
+Induction and Analogy
+intermediate
+10 min
+Definition and Types of Analogical Reasoning (Tamthil)
+Author defines tamthil as reasoning from observed to unobserved by similarity and divides it into four types.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the definition of tamthil as inference from the observed to the unobserved by similarity, and distinguish its four types based on the relationship between shahid and gha'ib.
+
+Core Idea
+Analogical reasoning transfers a ruling from observed to unobserved but cannot yield certainty.
+
+In this passage, the author defines a specific kind of analogical reasoning (tamthil) known as 'inference from the observed to the unobserved' (al-istidlāl bi al-shāhid ʿalā al-ghāʾib), which moves from sensible cases to non-sensible ones based on a shared attribute. He then explains that this analogy can be divided into four types depending on whether the shahid and gha'ib are both observed, both unobserved, etc. Importantly, he asserts that none of these types produce certainty (yaqīn), a key point that distinguishes analogy from demonstrative syllogisms in Islamic logic.
+
+Guided Path
+1
+Identify the core definition
+Locate the Arabic phrase 'الاستدلال بالشاهد على الغائب' which defines tamthil as inference from the observed to the unobserved. Note the translation: 'inference from the observed to the unobserved'.
+2
+Analyze the components: shahid and gha'ib
+Shahid is the observed, sensible case; gha'ib is the unobserved, non-sensible case. Understand that the inference is based on a similarity between them.
+3
+Identify the condition for inference: similarity
+The text says 'لما بينهما من المشابهة في أمر ما' meaning 'because of what is between them of similarity in some matter'. This similarity is the basis for transferring a ruling.
+4
+Determine the types of analogy
+The text states that analogy becomes four types with respect to shahid and gha'ib, but then specifies two: 'الشاهد على الغائب' (observed to unobserved) and 'الغائب على الغائب' (unobserved to unobserved). The other two types are likely shahid to shahid and gha'ib to shahid.
+The text's phrasing 'غير أن الشاهد على الغائب، والغائب على الغائب' may indicate that only these two are considered relevant, but the full set is four.
+5
+Evaluate the epistemic status
+The text concludes that each type 'قاصر عن إفادة التيقن' (falls short of yielding certainty). Thus, analogy does not produce certain knowledge.
+This epistemic limitation is a key distinction between analogy and demonstration.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم من التمثيل نوع يسمونه الاستدلال بالشاهد على الغائب يعني بالمحسوس على غير المحسوس، لما بينهما من المشابهة في أمر ما؛ وحينئذ يلزم أن يكون التمثيل على أربعة أقسام بالنسبة إلى الشاهد والغائب غير أن الشاهد على الغائب، والغائب على الغائب؛ قاصر كل واحد منهما عن إفادة التيقن بوجه ما.
+Then among analogy there is a type that they call 'inference from the observed to the unobserved,' meaning from the sensed to the non-sensed, because of what is between them of similarity in some matter. Then necessarily analogy becomes four types with respect to the observed and the unobserved, except that [there is] the observed to the unobserved, and the unobserved to the unobserved; each one of them falls short of yielding certainty in any way.
+Source pages p. 353
+
+Commentary
+This passage defines a specific type of analogical reasoning (tamthil) known as 'inference from the observed (shahid) to the unobserved (gha'ib)', i.e., from the sensible to the non-sensible, based on a shared resemblance. The author then states that analogy can be divided into four types according to the relationship between the observed and unobserved cases, but notes that both the 'observed-to-unobserved' and 'unobserved-to-unobserved' types are insufficient to produce certainty. This echoes the standard Islamic logical position that analogy, while useful in fields like jurisprudence, does not yield certain knowledge (yaqin) as required for demonstration.
+
+Key Terms
+التمثيل
+الشاهد
+الغائب
+التيقن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the basis for inferring from shahid to gha'ib in tamthil?
+A) Causal connection
+B) Similarity in some matter
+C) Contradiction
+D) Part-whole relationship
+
+Key Takeaway
+Analogical reasoning (tamthil) moves from the observed to the unobserved based on similarity, but it cannot produce certainty, only probability.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the shahid and gha'ib in the following analogy: 'Wine (khamr) is forbidden because it is intoxicating; therefore, any intoxicating drink (like nabidh) is also forbidden.' Explain which type of tamthil this represents.
+?
+Evaluate the certainty of the above analogy based on the author's statement that tamthil 'falls short of yielding certainty'. Why is it not certain?
+
+Pages p. 353 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 353
+Module 15 · Lesson 15
+Next →
+Induction and Analogy
+intermediate
+10 min
+Three Methods of Causal Proof in Analogy and Their Critiques
+Author presents and critiques three methods for establishing the cause in analogy.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three methods (tanqih al-manat, dawaran, mu'araqa) and explain why each is insufficient to establish causality according to the author.
+
+Core Idea
+Tanqih al-manat is not a proof but a weak inductive elimination; causality requires more than co-occurrence.
+
+This passage critically examines three classical methods used to prove that a shared attribute is the effective cause ('illa) in analogical reasoning. These methods are employed by jurists and dialecticians, but the author reveals their logical weaknesses. Understanding these critiques is essential for anyone who wants to use analogy rigorously in Islamic legal and theological reasoning.
+
+Guided Path
+1
+Identify the three methods
+Locate the three distinct ways (أ, ب, ت) the author presents for establishing that a shared attribute is the cause. Note their Arabic names: تنقيح المناط, دوران, and المعارضة (or دليل المنع).
+2
+Understand the first method (tanqih al-manat)
+Observe how the method eliminates possible causes by showing they are not always present with the effect, then concludes the remaining attribute is the cause. The example: the building's origination is due to corporeality because it is not due to existence, self-subsistence, etc.
+This is the method of 'refining the relevant attribute' used by jurists.
+3
+Analyze the critique of tanqih al-manat
+The author gives three objections: (1) the division of possibilities may not be exhaustive (incomplete induction), (2) it assumes the effect is not due to eliminated attributes without proof, (3) even if not due to any single attribute, it could be due to a combination. Note that each objection points to a logical gap.
+4
+Understand the second method (dawaran)
+This method claims causality by co-extensiveness: the cause and effect are always present together in existence and absent together in non-existence. The author mentions it but merely says it 'contains the discussion it contains', implying it has its own difficulties.
+Example: corporeality and temporal origination co-exist in bodies and co-absent in the Creator.
+5
+Understand the third method (mu'araqa)
+This method argues that if the attribute were not the cause, a preventer would block the effect; since the effect occurred, the attribute must be the cause. The author notes this is used by dialecticians but also does not prove that the attribute as such is the cause.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولا يستراب في أن تعدية الحكم من الأصل إلى الفرع بمجرد المشابهة في أمر من الأمور ضعيف جدا، وأما بيان علية المشترك بين الأصل والفرع فذلك بوجوه: [أ] الأول منها أن يقال في المثال المذكور: إن الجسمية علة للحدوث لما أن الحدوث في ذلك البناء إما أن يكون لكونه موجودا، أو لكونه قائما بنفسه، أو لكونه في ذلك المكان، أو لكونه واحدا من الأعيان، أو لكونه جسما؛ ولا وجه للأول بدليل التخلف في كثير من الصور، ولا للثاني كذلك. وكذلك للثالث فإن كونه في المكان بعد الحدوث. وكذلك للرابع. ولما لم يكن حادثًا لكونه كذا وكذا وكذا فيكون حادثًا لكونه جسما: فهذا هو الطريق [٢٦٩] المستعمل عند المتفقهة(٢)، وإنه هو المسمى «بتنقيح المناط». والدليل على ضعف هذا الطريق بوجوه: [۱] منها أن يقال: إنه لا يتم إلا وأن تكون القسمة منحصرة فيما ذكرتم من الأقسام وفيه من الكلام؛ إذ هو راجع إلى الاستقراء الناقص، وذلك لا يفيد كما مر، اللهم إلا أن يكون الاستقراء تاما؛ وذلك نادر. [٢] ومنها أن يقال: إنه لا يتم إلا وأن لا يكون حدوثه لكونه موجودا أو قائما بنفسه مثلا؛ وفيه من الكلام أيضًا. [٣] ومنها أن يقال: إنه لا يتم إلا وأن لا يكون حدوثه لذاته مع واحد من هذه الأوصاف وإن قيل لا يمكن أن يكون لهذا المجموع، ولا لذلك. وذلك كذلك بدليل التخلف فنقول هب أنه كذلك لكن لم قلتم بأنه إنما يكون لكونه جسما يمكن أن يكون لكونه جسما مع الغير. [ب] والثاني أن يقال: إن الجسمية علة للحدوث لما أن الحدوث دائر معه وجودًا وعدما أما وجودًا ففي ذلك البناء وذلك؛ إذ الجسمية موجودة والحادث ثابت. وأما عدمًا ففي صورة عدم الجسمية كما في ذات الصانع تعالى وتقدّس وصفاته القديمة. والمعنى من الحدوث هو الحادث الزماني لا الحدوث الذاتي؛ إذ الأجسام كلها حادثة بذلك الحدوث عند الكل. ولا يقال يشكل بالأمور الاتفاقية وغيرها؛ إذ الكلام فيما يكون صالحًا للعلية: وهذا هو الطريق المستعمل عند أهل الجدل؛ وفيه من الكلام ما فيه. [ت] والثالث أن يقال: إنها علة للحدوث وإلا لا يكون ذلك البناء حادثا بالمانع عن الحدوث وهو الذي يدل على امتناع وجود الشيء السالم عن معارضة كونه علة. وقد كان ذلك البناء حادثًا فتكون الجسمية علة، وهذا هو الطريق المستعمل عند أهل الجدل وغيرهم. ثم هذه الأدلة وإن كانت دالة على كون البناء جسما علة للحدوث فلا تكون دالة على الجسمية من حيث هي الجسمية علة. وقد كانت عليتها من جملة المستحيلات فإن الجسمية للأجسام على سبيل الدوام والحدوث لا يمكن أن تكون كذلك.
+There is no doubt that transferring the ruling from the origin to the branch by mere similarity in some matters is very weak. As for demonstrating that the shared attribute between the origin and the branch is the cause, that is by ways: [A] The first of them is to say in the mentioned example: 'Corporeality is the cause of temporal origination because the origination in that building is either because it exists, or because it is self-subsistent, or because it is in that place, or because it is one of the entities, or because it is a body. There is no justification for the first due to its non-fulfillment in many cases, nor for the second likewise. Similarly for the third, for its being in the place is after origination. Likewise for the fourth. And since it was not originated because of being such-and-such, it is originated because of being a body: This is the way used by the jurists, and it is called 'refining the relevant attribute' (tanqih al-manat). The evidence for the weakness of this way is by several points: [1] Among them is that it is not complete unless the division is restricted to the divisions you mentioned, and there is discussion about this, for it goes back to incomplete induction, and that does not yield benefit as previously mentioned, unless the induction is complete, and that is rare. [2] Among them is that it is not complete unless its origination is not because of its existence or self-subsistence, for example, and there is also discussion about this. [3] Among them is that it is not complete unless its origination is not because of itself together with one of these attributes, even if it is said that it cannot be for this composite nor for that. That is likewise due to the evidence of non-fulfillment. So we say: Grant that it is so, but why do you say that it is only because of being a body? It could be because of being a body together with something else. [B] The second is to say: 'Corporeality is the cause of temporal origination because temporal origination co-exists with it in existence and non-existence. As for existence, in that building and so on, for corporeality exists and the originated is established. As for non-existence, in the case of the absence of corporeality like in the essence of the Creator, exalted and sanctified, and His eternal attributes. And the meaning of origination is temporal origination, not essential origination, for all bodies are originated with that origination according to all. And it is not said that this is problematic due to accidental matters and others, for the discussion is about what is suitable for causality. This is the way used by the dialecticians, and it contains the discussion it contains. [C] The third is to say: 'It is the cause of origination, otherwise that building would not be originated due to the preventer of origination' - and that indicates the impossibility of the existence of a thing free from opposition of its being a cause. And that building was originated, so corporeality is the cause. This is the way used by the dialecticians and others. Then these proofs, although they indicate that the building being a body is the cause of origination, they do not indicate that corporeality as such is the cause. And its causality was among the impossibilities, for corporeality for bodies perpetually and origination cannot be like that.
+Source pages p. 353
+
+Commentary
+This passage critically examines three classical methods used to establish that a shared attribute is the effective cause ('illa) in analogical reasoning. The author first reiterates that transferring a ruling from the original case (asl) to the branch (far') based on mere similarity is very weak. Then he presents the three methods: 
+
+(أ) The first method, called 'tanqih al-manat' (refining the relevant attribute), is used by jurists. It involves eliminating possible causes by showing that they do not always accompany the effect, thereby concluding that the remaining attribute (here, corporeality) must be the cause. The author objects with three criticisms: (1) this reasoning relies on incomplete induction (istiqra' naqis) unless the division is exhaustive, which is rare; (2) it assumes that the effect is not due to the eliminated attributes, which is questionable; (3) even if the effect is not due to any single eliminated attribute, it might still be due to a combination of them, and the argument does not rule that out. 
+
+(ب) The second method is the 'argument from co-extensiveness and co-exclusiveness' (dawar). It claims that the cause and effect are always present together (in existence) and absent together (in non-existence). The author acknowledges its use by dialecticians but implies it has its own difficulties ('fihi min al-kalam ma fihi'), without elaborating here. 
+
+(ت) The third method is the 'argument from prevention' (mu'araqa or dalil al-man'). It states that if the attribute were not the cause, the effect would not occur due to some preventer, but since the effect did occur, the attribute must be the cause. This is also used by dialecticians. 
+
+Finally, the author makes a powerful critique: even if these methods prove that being a body is the cause of temporal origination in the building, they do not prove that corporeality as such (i.e., the essence of being a body) is the cause. In fact, he says it is impossible for corporeality to be a cause of origination because bodies are permanent, while origination is a contingent event—thus the cause cannot be the essence of corporeality itself. This nuance guards against overgeneralization from a single instance.
+
+Key Terms
+تنقيح المناط
+الاستقراء الناقص
+دوران
+العلية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is a main weakness of the first method (tanqih al-manat)?
+A) It requires complete enumeration which is rare
+B) It assumes the cause is single when it could be composite
+C) Both A and B
+D) It is only used by jurists, not logicians
+
+Key Takeaway
+The three methods of establishing the cause in analogy all suffer from logical flaws, primarily reliance on incomplete induction and failure to prove that the attribute as such is the cause.
+
+How This Lesson Applies — to MY Life?
+?
+In a fiqh debate, a jurist argues using tanqih al-manat: 'Wine is forbidden because it is intoxicating. All intoxicating substances are forbidden.' The opponent objects: 'But maybe it is forbidden because it is liquid? no, because water is not forbidden. Because it is a drink? no, because milk is not forbidden. Because it is fermented? no, because vinegar is not forbidden. Therefore it must be because of intoxication.' Identify the logical weakness in this reasoning based on the author's critique.
+?
+Suppose someone claims that 'every body is originated because corporeality is the cause of origination' using the dawaran method. Explain why the author's final critique (corporeality is permanent while origination is contingent) undermines this claim.
+
+Pages p. 353 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 388
+Module 15 · Lesson 16
+Next →
+Induction and Analogy
+advanced
+10 min
+Induction and Certainty in Predicates Without Cause
+Author explains how to know a predicate that has no cause in the subject, and critiques induction.
+
+Learning Objective
+By the end of this lesson, you will be able to evaluate the logical limitations of induction (istiqrā') in establishing certain knowledge of propositions where the predicate has no cause in the subject.
+
+Core Idea
+Induction cannot yield permanent certainty when the predicate has no cause.
+
+In this lesson, the author tackles a deep epistemological problem: how can we be certain of a proposition when the predicate has no apparent cause in the subject? He argues that such propositions must be self-evident or established by induction. But as he scrutinizes induction, he reveals its fundamental limitations in providing certainty. This lesson unpacks his critique and its implications for Islamic logical epistemology.
+
+Guided Path
+1
+Identify the core epistemological problem
+The passage opens with an objector's question: if there is no cause linking predicate and subject, how can we explain the relation? Note the author's response: if self-evident, no explanation is needed; otherwise, induction is considered.
+2
+Examine the two options for knowledge without a cause
+The author asserts that such propositions must be either self-evident (bāhin bi-nafsihi) or known by induction. Self-evidence gives certainty directly; induction is then analyzed.
+3
+Analyze the author's critique of induction
+Induction based on sense perception lacks permanence—it cannot guarantee the relation holds always. Intellectual induction is impossible because the predicate cannot be an essential constituent. If it is a necessary accident, it implies a general cause, contradicting the assumption of no cause.
+4
+Assess the conclusion about certainty
+The author shows that induction cannot deliver certain knowledge in this scenario, leaving self-evidence as the only viable path. Thus, propositions without a cause must be self-evident to be known with certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في كيفية تعرف ما ليس لمحموله سبب في موضوعه وفي الاستقراء والتجربة وموجبهما
+ثم لقائل أن يقول إنه إذا لم يكن بين المحمول والموضوع سبب في نفس الوجود فكيف نبين النسبة بينهما ببيان؟ فنقول إذا كان ذلك بينا بنفسه فلا حاجة إلى البيان بل يحصل فيه التعين من جهة أن نسبة المحمول إلى الموضوع لذات الموضوع فذات الموضوع تجب مواصلتها للمحمول؛ وقد وجبت المواصلة فيكون العلم الحاصل يقينيًا. وإن لم يكن بينا بنفسه فلا يمكن البتة أن يقع به يقين غير زائل لأنه إذا جعل الوسط ما ليس بسبب لم يكن
+أن يطلب به العلم اليقيني. وإذا جعل ما هو سبب كان الوسـط سـبـا؛ وكلامنا فيما ليس له / سبب أصلا فسببه أن تكون أمثال هذه بينة بنفسها أو بالاستقراء؛ [٢٨١و] غير أنه إذا بين بالاستقراء فلا يخلو من أن يكون وجود نسبة المحمول إلى جزئيات الموضوع بينا بنفسه بلا سبب إذن إنما يبين بالاستقراء بهذا النوع أو يكون وجود نسبة المحمول إلى جزئيات الموضوع في نفسه بسبب، فإن كان الأول فإما أن يكون البيان بالحس فقط ؛ وذلك لا يوجب الدوام ولا رفع إمكان الزوال. وإما أن يكون بالعقل؛ وهذا غير جائز ؛ إذ المحمول لا يمكن أن يكون ذاتيا مقوما؛ إذ المقوم غير مطلوب في الحقيقة لما بينه من بعد بل وجوده لما هو ذاتي له بين . وإن كان عرضيّاً كان ذلك من الأعراض اللازمة لكلي يقال على الجزئيات فيكون هذا العرض لازما لشيء من المعاني الذاتية للجزئيات؛ إذ العرض الذي هذا صفته هذا شأنه. وإذا كان كذلك كان حمله على جزئي لأجل معنى موجود له ولغيره من الذاتيات فيكون ذلك سببًا عاما لوجود هذا العرض في الجزئيات؛ وكلامنا فيما لا سبب له. وإذا عُلم من غير جهة ذلك السبب لم يكن ذلك العلم يقينيا، ولا يمكن أن يكون عرضًا للمعنى العام حتى
+Chapter: On the way of knowing what has no cause for its predicate in its subject, and on induction and experience and what they entail.
+Then someone might say: If there is no cause in existence between the predicate and the subject, how can we explain the relationship between them by an explanation? We say: If it is self-evident, then there is no need for explanation; rather certainty arises from the fact that the relation of the predicate to the subject is by the essence of the subject, so the essence of the subject necessitates its connection to the predicate; and connection is necessary, so the knowledge obtained is certain. And if it is not self-evident, then it is absolutely impossible to obtain non-transient certainty through it, because if one makes the middle term something not a cause, one cannot seek certain knowledge through it. And if one makes it a cause, then the middle is a cause; but we are discussing what has no cause at all, so its cause should be that such things are self-evident or by induction. However, if it is explained by induction, then it must be either that the existence of the relation of the predicate to the particulars of the subject is self-evident without a cause - so it is only explained by induction in this way - or that the existence of the relation of the predicate to the particulars of the subject in itself has a cause. If it is the first, then the explanation is either by sense only - and that does not necessitate permanence nor remove the possibility of change - or by intellect; and this is impossible, because the predicate cannot be an essential constituent; for the constituent is not sought in reality because what is evident from it is distant, rather its existence is evident for what is essential to it. And if it is accidental, then it is among the necessary accidents of a universal that is said of the particulars, so this accident is necessary for something among the essential meanings of the particulars; for the accident that has this description has this status. And if it is so, then its predication of a particular is because of a meaning existing in it and in other essential attributes, so that is a general cause for the existence of this accident in the particulars; but we are discussing what has no cause. And if it is known not from the aspect of that cause, then that knowledge is not certain, and it cannot be an accident of the universal meaning until...
+Source pages p. 388
+
+Commentary
+This passage opens a new chapter addressing a fundamental epistemological problem: how can we know a proposition when the predicate has no cause in the subject? The author presents a dialectical exchange: an objector questions how a relation can be explained without a cause. The answer distinguishes two cases. If the proposition is self-evident (bāhin bin-nafsih), the connection is immediate from the essence of the subject, yielding certainty. If not self-evident, no middle term can produce stable certainty because a non-causal middle cannot give certainty, and a causal middle contradicts the premise that there is no cause. Therefore, such propositions must either be self-evident or established by induction (istiqrā'). The author then dissects induction. Induction is either based on sense perception (which yields no permanence) or intellect (which is impossible because the predicate cannot be an essential constituent if it is not self-evident). If the predicate is an accident, it may be a necessary accident of a universal, but that implies a general cause (the essential meaning) for its inherence in particulars. This contradicts the starting assumption that there is no cause. Hence, knowledge acquired without reference to that cause is not certain, and the passage ends mid-sentence, suggesting a continuation. The overall argument reveals the stringent conditions for certain knowledge in the Islamic logical tradition, especially regarding predicates without an apparent cause.
+
+Key Terms
+الاستقراء
+بين بنفسه
+عرض لازم
+
+Key Terms from Source Passage
+
+Checkpoint
+What does the author say about induction (istiqrā') when used to know a proposition whose predicate has no cause?
+A) It always yields certain knowledge.
+B) It yields certainty only if based on sense perception.
+C) It cannot yield permanent certainty unless complete.
+D) It is equivalent to self-evidence.
+
+Key Takeaway
+Induction cannot provide certain knowledge of predicates without a cause; only self-evidence can.
+
+How This Lesson Applies — to MY Life?
+?
+Read the following statement: 'Shari'a rulings can be known through induction by observing that all revealed laws prohibit injustice.' Does this induction yield certainty according to the author's criteria? Explain.
+?
+Identify a proposition in Islamic theology that is claimed to be self-evident (bāhin bi-nafsihi). Why does the author consider self-evidence more reliable than induction?
+
+Pages p. 388 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 389
+Module 15 · Lesson 17
+Next →
+Induction and Analogy
+intermediate
+8 min
+How Repeated Observation Yields Certainty: Tajriba vs. Istiqra'
+Author distinguishes tajriba from istiqra' and gives the example of scammony.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish tajriba (experience) from istiqra' (induction) and explain why repeated observation can yield certainty about natural regularities without knowledge of causes.
+
+Core Idea
+Tajriba is not induction; repeated constant occurrence removes coincidence and gives certainty.
+
+In this passage, the author clarifies that experience (tajriba) is distinct from induction (istiqra'). Using the example of scammony's purgative effect on yellow bile, he shows how repeated observation leads the mind to judge a natural property, even when the cause is unknown. We will walk through the argument and see how it applies in Islamic sciences like medicine and fiqh.
+
+Guided Path
+1
+Identify the claim about tajriba
+Notice that the author opens by stating that experience is other than induction. This sets up the distinction he will elaborate.
+This distinction is important because later texts sometimes conflate them.
+2
+Analyze the example of scammony
+The example: we judge that scammony purges yellow bile because this has been observed repeatedly, so it is not a coincidence.
+Scammony is a plant used as a purgative in classical Islamic medicine.
+3
+Understand the role of repetition (tikrar)
+Repetition eliminates the possibility of ittifaq (coincidence). The mind then judges that it is in the nature of scammony to produce this effect.
+The author emphasizes that coincidental events are not constant or frequent.
+4
+Examine the objection and response
+An objector asks: if we don't know the cause, how can we be certain? The author replies: because the effect is constant or frequent under proper conditions (sound scammony, prepared patient), it cannot be coincidence.
+This shows that tajriba does not require causal knowledge.
+5
+Recognize the incomplete ending
+The passage cuts off mid-sentence, but the key point is made: tajriba yields certainty through repeated observation, not causal explanation.
+The full argument continues in subsequent pages.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما التجربة فإنها غير الاستقراء؛ وذلك يعرف من بعد، والتجربة مثل حكمنا أن السقمونيا مسهل الصفراء؛ فإنه لما تكرر هذا مرارًا كثيرة زال عن أن يكون مما يقع بالاتفاق، فحكم الذهن أن من شأنه أن يفعل كذا. ثمّ لقائل أن يقول هذا من جملة ما لا يعرف سببه فكيف يقع هذا اليقين الذي عندنا من أن السقمونيا لا يمكن أن يكون صحيح الطبع فلا يكون مسهلا للصفراء. لكنا نقول إنه لما تحقق أن السقمونيا يعرض له إسهال الصفراء ويبين ذلك على سبيل التكرار في غاية الكثرة عُلم أن ذلك ليس اتفاقاً؛ إذ الاتفاقي لا يكون دائمًا أو أكثريا فصح أنه في بلادنا يسهل دائما الصفراء إذا كانت صحيحة، وكان المنفعل مستعدا. ثم لقائل أن يقول أيضًا
+As for experience, it is other than induction; that will be known later. Experience is like our judgment that scammony is a purgative of yellow bile; when this has been repeated many times, it ceases to be something occurring by coincidence, so the mind judges that it is its nature to do so. Then an objector may say: this is among things whose cause is not known, so how does this certainty occur to us that scammony cannot be of sound nature and thus not be a purgative of yellow bile? But we say: when it is confirmed that scammony produces purging of yellow bile and that is demonstrated repeatedly to the utmost, it is known that this is not coincidental, for what is coincidental is not constant or frequent. So it is established that in our country it constantly purges yellow bile when the scammony is sound and the patient is prepared. Then someone may also say...
+Source pages p. 389
+
+Commentary
+This passage introduces tajriba (experience) as distinct from istiqra' (induction). The author gives the example of scammony (السقمونيا) causing purging of yellow bile. Through repeated observation, the mind judges that this is not coincidental but a natural property. The author then addresses an objection: how can we be certain about something whose cause we do not know? The answer: repeated constant or frequent occurrence rules out coincidence. The text adds a condition: the scammony must be sound and the patient prepared. The passage ends with the beginning of a second objection, which is cut off in the manuscript. This shows that experience, unlike induction, does not require knowledge of the cause; repeated observation alone can yield certainty about natural regularities. For example, in fiqh, repeated observation that wine intoxicates leads to the certain judgment that it is haram, even if the exact physiological cause is unknown.
+
+Key Terms
+تجربة
+اتفاق
+تكرار
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what condition must be met for the conclusion from tajriba to be valid?
+A) The cause must be known by reason.
+B) The thing must be sound (sahiha) and the patient prepared (musta'iddan).
+C) The observation must be continuous without interruption.
+D) The conclusion must be self-evident.
+
+Key Takeaway
+Tajriba provides certainty about natural regularities through repeated observation, without requiring knowledge of the cause.
+
+How This Lesson Applies — to MY Life?
+?
+1. Find an example from Islamic medicine where repeated observation led to a certain judgment about a remedy's effect, and explain how it fits the criteria of tajriba (repetition, constancy/frequency, proper conditions).
+?
+2. Contrast the method of tajriba with istiqra': why would istiqra' alone not give certainty in the scammony case?
+
+Pages p. 389 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 389
+Module 15 · Lesson 18
+Next →
+Induction and Analogy
+advanced
+10 min
+Induction vs. Experience: Epistemic Certainty
+Contrast between incomplete induction and experience.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish incomplete induction from experience (tajriba) and explain why experience yields predominant opinion while incomplete induction yields mere opinion.
+
+Core Idea
+Experience (tajriba) yields conditional certainty via an implicit syllogism; incomplete induction lacks cause and yields opinion.
+
+In this passage, the author explores a key epistemological distinction: how do we know that a property is essential rather than accidental? Incomplete induction merely collects cases, but experience adds a rational connection. Using the medical example of scammony, we will see why repeated observation, when combined with a concealed syllogism, produces a higher degree of belief—though still not absolute certainty. Let us walk through the author's argument step by step.
+
+Guided Path
+1
+Identify incomplete induction and experience
+Find where the author defines each term. Incomplete induction collects particulars without a causal link; experience involves repeated observation plus an implicit syllogism that the observed pattern is natural, not coincidental.
+The author says 'experience is not induction' and later ties experience to a concealed syllogism.
+2
+Understand the scammony example
+The author gives the example of scammony evacuating bile. Through many repetitions, the mind judges this is not coincidental. Note: the cause need not be known for the judgment to be made.
+The example shows how experience works in practice.
+3
+Analyze the objections and replies
+The author addresses two objections: (1) How can there be certainty without knowing the cause? (2) Why does experience differ from incomplete induction? The replies emphasize elimination of coincidence and the conditional nature of the universal.
+The second objection is crucial: incomplete induction yields only opinion, experience yields stronger belief.
+4
+Recognize the concealed syllogism
+The author argues that experience does not rely on frequency alone but on a syllogism: 'This thing, by its nature, necessitates that effect unless a hindrance prevents it.' This gives conditional universality.
+This syllogism is what elevates experience above incomplete induction.
+5
+Assess epistemic value
+The author concludes that experience does not produce absolute certainty (yaqin) but predominant opinion (zann ghalib), because it can err when accidental properties are mistaken for essential ones.
+Thus experience is a reliable source of knowledge in natural sciences but not infallible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يصح أن يكون مطلوبًا لكنه ذاتي لكل واحد من الجزئيات عن آخرها. فإن الذاتي لجميع الجزئيات لا يصح أن يكون عرضيا للمعنى الكلي المساوي لها؛ لأنه ليس شيء من موضوعات ذلك الكلي يعرض له ذلك الحمل سلبه أو إيجابه. وإذا لم يكن عارضًا لشيء منها فكيف يكون عارضًا لكلها وعارض طبيعة الكلي عارض للكل على ما عرف. وأما إن كان حال المحمول عند جزئيات الموضوع غير بين بنفسه بل يمكن أن يبين ببيان فذلك البيان إما أن لا يوجب كل واحد منهما اليقين الحقيقي الذي نقصده؛ فكيف يوضع ما ليس يقينيا اليقين الحقيقي الذي بعده وإما أن يوجب فيجب أن يتفق في السبب كما مرَّ فيكون وجود السبب للمعنى الكلي أولا . وإذا لم يكن السبب نافعا في المعنى الكلي فلا يكون نافعاً في الجزئي وإن كان نافعا في الكلي، فالنافع هو القياس لا الاستقراء. وأما أن يكون لا سبب هناك البتة فيكون إما بينا بنفسه، وإما بالاستقراء؛ والكلام فيهما قد مرَّ ؛ فظهر أن ما لا سبب لنسبة محموله إلى موضوعه فإما أن يكون بينا بنفسه، وإما أن لا يمكن بيانه. وأما التجربة فإنها غير الاستقراء؛ وذلك يعرف من بعد، والتجربة مثل حكمنا أن السقمونيا مسهل الصفراء؛ فإنه لما تكرر هذا مرارًا كثيرة زال عن أن يكون مما يقع بالاتفاق، فحكم الذهن أن من شأنه أن يفعل كذا. ثمّ لقائل أن يقول هذا من جملة ما لا يعرف سببه فكيف يقع هذا اليقين الذي عندنا من أن السقمونيا لا يمكن أن يكون صحيح الطبع فلا يكون مسهلا للصفراء. لكنا نقول إنه لما تحقق أن السقمونيا يعرض له إسهال الصفراء ويبين ذلك على سبيل التكرار في غاية الكثرة عُلم أن ذلك ليس اتفاقاً؛ إذ الاتفاقي لا يكون دائمًا أو أكثريا فصح أنه في بلادنا يسهل دائما الصفراء إذا كانت صحيحة، وكان المنفعل مستعدا. ثم لقائل أن يقول أيضًا ما بال التجربة تفيد علمًا على وجه يخالف في إفادته الاستقراء؟ لكنا نقول إن الاستقراء إما أن يكون تاماً كما مر ، وإما أن لا يكون وذلك لا يوقع غير الظن والتجربة ليست كذلك. ثم نعود ونقول ما بال التجربة يوقع في أشياء حكما يقينيا ثم لو توهمنا أن لا وجود إلا في بلاد السودان، ولا يتكرر على الحس إنسان إلا أسود؛ فهل يوجب ذلك أن يقع اعتقاد؟ فإن لم يوجب فلِمَ صار تكرّر يوقع وتكرّر لا يوقع ؟ وإن أوجب فقد أوقع خطأ؛ وإنه مما يزيل الوثوق عن التجربة. فنقول إن التجربة ليست تفيد العلم لكثرة ما يشاهد على ذلك الحكم فقط بل الاقتران قياس بها. ومع ذلك فليس يفيد علمًا كليا قياسًا مطلقا بل كليا بشرط ؛ وهو أن هذا الشيء الذي تكرّر على الحس يلزم طباعه في الناحية الشيء تكرّر الحس فيها أمر دائما إلا أن يكون مانع ؛ فيكون كليا بهذا الشرط فهذا من جملة ما أشار إليه الشيخ في الشفاء(۱)، والحق فيه أن التجربة من حيث هي التجربة لا تفيد اليقين. وكيف والتجربة كثيرًا ما يغلظ إذا أخذ ما بالعرض مكان ما بالذات فيها؛ فتوقع ظناً لا يقينا وإن كان الظن ظنًا غالبًا.
+It is valid to be sought but it is essential to each one of the particulars individually. For the essential to all particulars is not valid to be accidental to the universal meaning equal to them; because none of the subjects of that universal is subject to that predication, whether its negation or affirmation. And if it is not accidental to any of them, how can it be accidental to all? And the accidental of the nature of the universal is accidental to the whole, as is known. As for if the state of the predicate with respect to the particulars of the subject is not self-evident but can be shown by a proof, that proof either does not produce each of them the true certainty that we aim for; so how can what is not certain be placed [as] the true certainty after it? Or it does produce, then it must agree in the cause as mentioned previously, so the existence of the cause for the universal meaning is first. And if the cause is not beneficial for the universal meaning, then it is not beneficial for the particular; and if it is beneficial for the universal, then what is beneficial is the syllogism, not induction. And if there is no cause there at all, then it is either self-evident or by induction; and the discussion about them has passed. So it appears that what has no cause for the relation of its predicate to its subject is either self-evident or cannot be demonstrated. As for experience (tajriba), it is not induction; that is known later. And experience is like our judgment that scammony is an evacuator of bile; for when this was repeated many times, it ceased to be something that occurs by coincidence, so the mind judged that it is its nature to do such. Then an objector may say: this is among things whose cause is not known, so how does this certainty occur that we have that scammony cannot be of normal nature and thus not be an evacator of bile? But we say: when it is verified that scammony undergoes evacuation of bile and this is demonstrated by way of very frequent repetition, it is known that this is not coincidental; for the coincidental is not always or for the most part. So it is correct that in our land it always evacuates bile when it is healthy and the patient is receptive. Then an objector may also say: why does experience produce knowledge in a way that differs from how induction produces it? But we say: induction is either complete, as previously, or it is not, and that produces nothing but opinion, while experience is not like that. Then we return and say: why does experience produce in things a certain judgment? Then if we imagine that there is no existence except in the land of Sudan, and no human is perceived except black; would that necessitate that a belief occurs? If it does not necessitate, then why does repetition cause [certainty] and repetition not cause? And if it necessitates, then it has caused error; and that is something that removes trust in experience. So we say: experience does not produce knowledge only because of the frequency of what is observed of that judgment, but rather because of a syllogism associated with it. And despite that, it does not produce absolute universal knowledge by syllogism, but rather conditional universal: namely, that this thing which is repeated in sense-perception, its nature necessitates in that aspect the thing which is repeated in sense-perception as a constant matter unless there is a hindrance; so it is universal with this condition. This is among what the Shaykh indicated in the Shifa'. And the truth about it is that experience insofar as it is experience does not produce certainty. How so? For experience often errs when the accidental is taken in place of the essential in it; so it produces opinion, not certainty, even if the opinion is predominant opinion.
+Source pages p. 389
+
+Commentary
+This passage is an epistemological discussion comparing induction (istiqra') and experience (tajriba) in terms of their ability to produce certainty. The author begins by clarifying that when a predicate's relation to its subject is not self-evident, it requires a proof. If the proof is a syllogism, it must involve a cause that applies to the universal, not just the particulars. Induction, whether complete or incomplete, does not yield true certainty—only the syllogism does. Then the author introduces experience as distinct from induction, using the medical example of scammony (saqamuniyya) being an evacuant of bile. Through repeated observation, the mind judges that this is not coincidental but a natural property, even without knowing the cause. An objector questions how certainty can arise without knowledge of the cause. The author replies that the frequency of the occurrence eliminates coincidence, as the coincidental is not constant or predominant. Another objection asks why experience yields knowledge while incomplete induction only yields opinion. The author responds that incomplete induction does not produce even predominant opinion reliably, while experience does under conditions. A further objection presents the scenario of observing only black people in Sudan—suggesting that repetition alone could lead to false universal beliefs. The author answers that experience works through a concealed syllogism: the observed repetition is tied to a conditional universal, provided no hindrance exists. This is what Ibn Sina indicated in the Shifa'. Ultimately, the author states that experience in itself does not yield absolute certainty; it often errs when accidental properties are mistaken for essential ones, and so it produces only predominant opinion, not certainty.
+
+Key Terms
+التجربة
+الاستقراء
+اليقين
+السبب
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, why does experience (tajriba) produce knowledge that incomplete induction does not?
+A) Because experience involves a larger number of observations.
+B) Because experience is accompanied by a concealed syllogism that gives it conditional universality.
+C) Because experience always reveals the cause directly.
+D) Because incomplete induction is never used in natural sciences.
+
+Key Takeaway
+Experience (tajriba) combines repeated observation with an implicit syllogism to produce conditional knowledge (predominant opinion), while incomplete induction lacks the causal connection and yields only opinion.
+
+How This Lesson Applies — to MY Life?
+?
+Explain why the example of scammony (saqamuniyya) evacuating bile is considered experience (tajriba) and not incomplete induction, according to the author's criteria.
+?
+Consider a modern medical finding: 'Aspirin reduces fever.' Identify whether this conclusion would be based on incomplete induction or tajriba, and explain what concealed syllogism might justify it as a conditional universal.
+
+Pages p. 389 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 504
+Module 15 · Lesson 19
+Next →
+Induction and Analogy
+beginner
+7 min
+Three Ways the Senses Aid the Intellect
+Author lists three additional ways sense aids the intellect.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between induction, experience, and intuition as distinct aids to the intellect in acquiring knowledge beyond first principles.
+
+Core Idea
+Induction, experience, and intuition are distinct tools for accessing knowledge beyond first principles.
+
+We have already seen how sense provides the intellect with first principles. Now the author explains three additional ways the senses assist: through induction (al-istiqra'), experience (al-tajriba), and intuition (al-hads). Each operates differently and applies to specific domains of knowledge, not to the primary intuitions themselves.
+
+Guided Path
+1
+Identify the three aids
+Find in the Arabic passage the three terms: الاستقراء (induction), التجربة (experience), الحدس (intuition). Note that they are introduced as ways the intellect seeks aid from sense.
+2
+Understand the scope of each aid
+Induction moves from particular instances to general rules. Experience (tajriba) yields certainty about causal relationships through repeated observation, but does not apply to first principles. Intuition (hads) grasps the cause of something known directly, without syllogistic reasoning.
+The author explicitly says tajriba is 'not in first principles but in what is only obtained by experience'.
+3
+Compare with first principles
+First principles (awwaliyat) are known directly through the senses and intellect without these methods. The three aids are for knowledge that goes beyond immediate self-evident truths.
+4
+Recognize the role of intuition
+Intuition (hads) is a direct grasp of the cause, distinct from syllogistic reasoning. In Islamic thought, this is often considered a higher cognitive operation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد يستعين العقل بالحس والأوليات بطريق الاستقراء أيضًا كما مرَّ من قبل، وقد يعينه بطريق التجربة لا في الأوليات بل فيما لا يحصل إلا بالتجربة، وقد يعينه بطريق الحدس أيضًا علة ما عرف، فهذه وجوه إعانة الحس للعقل في الأوليات وغيرها. واعلم بأن مبدأ البرهان كما لا يكتسب بالبرهان فكذلك مبدأ العلم لا يوجد بقوة العلم؛ ولم تبق قوة تصلح لهذا إلا العقل، فهذه القوة هي قوة العقل النظري. وأما المبدأ لقبول العلم فهو العقل بالملكة؛ وهذه القوة إنما تفعل فعلها الأول إذا اعتدل مزاج الدماغ فقُوِيتِ القوى المعينة وهي الخيال والوهم والفكر والذكر فسُمِّيت آلات العقل.
+And the intellect may also seek aid from sense and the primary (intuitions) by way of induction, as has passed before; and it may be aided by way of experience, not in first principles but in what is only obtained by experience; and it may also be aided by way of intuition (hads) regarding the cause of what is known. So these are the ways in which sense aids the intellect in first principles and other matters. And know that just as the starting point of demonstration is not acquired through demonstration, likewise the starting point of knowledge (science) is not found through the power of knowledge. There remains no power suitable for this except the intellect; this power is the power of the theoretical intellect. As for the starting point for receiving knowledge, it is the intellect in habitu (al-'aql bi al-malaka). This power only performs its first act when the temperament of the brain is balanced, and the auxiliary powers – namely imagination (khayal), estimation (wahm), thought (fikr), and memory (dhikr) – become strong; thus they are called instruments of the intellect.
+Source pages p. 504
+
+Commentary
+This passage completes the discussion of the senses' role and introduces the faculties of the intellect. The author lists three additional ways the senses assist the intellect: (1) through induction (istiqra'), (2) through experience (tajriba), which applies not to first principles but to matters that require repeated observation, and (3) through intuition (hads), which grasps the cause of what is known. Then the author shifts to a general principle: just as the first premise of a demonstration is not itself proven by demonstration, so too the first starting point of knowledge (i.e., the faculty of intellect) is not acquired through the power of knowledge. The only faculty that can serve as this starting point is the theoretical intellect (al-'aql al-nazari). The receptive faculty for knowledge is the intellect in habitu (al-'aql bi al-malaka), which acts when the brain's temperament is balanced and the auxiliary powers (imagination, estimation, thought, and memory) are strong; these are called the instruments of the intellect.
+
+Key Terms
+الاستقراء
+التجربة
+الحدس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the role of experience (tajriba) in acquiring knowledge?
+A) It provides first principles.
+B) It aids in matters that are only obtained through repeated observation, not first principles.
+C) It is the same as intuition (hads).
+D) It is the only way to acquire universal concepts.
+
+Key Takeaway
+Sense aids the intellect in non-primary knowledge through induction, experience, and intuition, each with a distinct function and scope.
+
+How This Lesson Applies — to MY Life?
+?
+Give an example from Islamic jurisprudence where tajriba (experience) might be used to establish a causal link, such as determining the intoxicating effect of a substance through repeated observation.
+?
+Differentiate between hads (intuition) and qiyas (syllogism) using the example of a scholar who directly grasps the wisdom behind a ruling without explicit reasoning.
+
+Pages p. 504 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 504
+Module 15 · Lesson 20
+Next →
+Induction and Analogy
+intermediate
+8 min
+Faculties of the Theoretical Intellect
+Author describes the faculties of the theoretical intellect and its instruments.
+
+Learning Objective
+By the end of this lesson, you will be able to describe the roles of the theoretical intellect, the intellect in habitu, and the four auxiliary powers in the acquisition of knowledge.
+
+Core Idea
+The theoretical intellect, when habituated and supported by auxiliary powers, becomes the instrument for all knowledge.
+
+After discussing the aids from sense, the author now turns inward to the intellect itself. He explains that the starting point of all knowledge is the theoretical intellect, which is actualized through the intellect in habitu when the brain's temperament is balanced. The four auxiliary powers—imagination, estimation, thought, and memory—serve as its instruments.
+
+Guided Path
+1
+Identify the two intellects
+Find in the Arabic the terms العقل النظري (theoretical intellect) and العقل بالملكة (intellect in habitu). Note that the theoretical intellect is the faculty that apprehends universals, while the intellect in habitu is the disposition that becomes active when conditions are right.
+2
+Understand the principle of non-circularity
+The author states that the first principle of demonstration is not itself demonstrable. Similarly, the faculty that enables knowledge (the theoretical intellect) cannot be acquired through knowledge itself. It is a prerequisite.
+3
+List the four auxiliary powers
+Identify in the text: الخيال (imagination), الوهم (estimation), الفكر (thought), الذكر (memory). They are called آلات العقل (instruments of the intellect).
+4
+Explain the condition for activation
+The intellect in habitu performs its first act only when the brain's temperament is balanced and these auxiliary powers are strong. This highlights the link between physical health and intellectual function.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وقد يستعين العقل بالحس والأوليات بطريق الاستقراء أيضًا كما مرَّ من قبل، وقد يعينه بطريق التجربة لا في الأوليات بل فيما لا يحصل إلا بالتجربة، وقد يعينه بطريق الحدس أيضًا علة ما عرف، فهذه وجوه إعانة الحس للعقل في الأوليات وغيرها. واعلم بأن مبدأ البرهان كما لا يكتسب بالبرهان فكذلك مبدأ العلم لا يوجد بقوة العلم؛ ولم تبق قوة تصلح لهذا إلا العقل، فهذه القوة هي قوة العقل النظري. وأما المبدأ لقبول العلم فهو العقل بالملكة؛ وهذه القوة إنما تفعل فعلها الأول إذا اعتدل مزاج الدماغ فقُوِيتِ القوى المعينة وهي الخيال والوهم والفكر والذكر فسُمِّيت آلات العقل.
+And the intellect may also seek aid from sense and the primary (intuitions) by way of induction, as has passed before; and it may be aided by way of experience, not in first principles but in what is only obtained by experience; and it may also be aided by way of intuition (hads) regarding the cause of what is known. So these are the ways in which sense aids the intellect in first principles and other matters. And know that just as the starting point of demonstration is not acquired through demonstration, likewise the starting point of knowledge (science) is not found through the power of knowledge. There remains no power suitable for this except the intellect; this power is the power of the theoretical intellect. As for the starting point for receiving knowledge, it is the intellect in habitu (al-'aql bi al-malaka). This power only performs its first act when the temperament of the brain is balanced, and the auxiliary powers – namely imagination (khayal), estimation (wahm), thought (fikr), and memory (dhikr) – become strong; thus they are called instruments of the intellect.
+Source pages p. 504
+
+Commentary
+This passage completes the discussion of the senses' role and introduces the faculties of the intellect. The author lists three additional ways the senses assist the intellect: (1) through induction (istiqra'), (2) through experience (tajriba), which applies not to first principles but to matters that require repeated observation, and (3) through intuition (hads), which grasps the cause of what is known. Then the author shifts to a general principle: just as the first premise of a demonstration is not itself proven by demonstration, so too the first starting point of knowledge (i.e., the faculty of intellect) is not acquired through the power of knowledge. The only faculty that can serve as this starting point is the theoretical intellect (al-'aql al-nazari). The receptive faculty for knowledge is the intellect in habitu (al-'aql bi al-malaka), which acts when the brain's temperament is balanced and the auxiliary powers (imagination, estimation, thought, and memory) are strong; these are called the instruments of the intellect.
+
+Key Terms
+العقل النظري
+العقل بالملكة
+الخيال
+الوهم
+الفكر
+الذكر
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what condition must be met for the intellect in habitu to perform its first act?
+A) The person must have studied logic.
+B) The brain's temperament must be balanced and the auxiliary powers strong.
+C) The person must memorize the Qur'an.
+D) The senses must be fully operational.
+
+Key Takeaway
+The theoretical intellect is the foundation of knowledge, but its actual use depends on a balanced brain and strong auxiliary faculties.
+
+How This Lesson Applies — to MY Life?
+?
+Explain how the four auxiliary powers work together in the process of interpreting a Qur'anic verse: the mufassir uses imagination to visualize scenes, estimation to grasp intended meanings, thought to reason, and memory to recall relevant knowledge.
+?
+Discuss why the theoretical intellect cannot be proven by itself, using the example of the principle of non-contradiction as a first principle that is self-evident.
+
+Pages p. 504 · Induction and Analogy
+← Prev
+Mark Done
+Next →

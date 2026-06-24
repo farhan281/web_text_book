@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:46Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/bajuri_bannani/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/04 - Bajuri Bannani",
+  "output_bytes": 16973569,
+  "output_sha256": "3ba82718a02001b0b2b2eeace665d0433dfeea342eb239a7ac6ccb42d4e81996",
+  "checks": {
+    "catalog_expected_lessons": 1826,
+    "course_reported_lessons": 1826,
+    "index_lessons": 1826,
+    "full_lessons": 1826,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 23,
+    "course_reported_modules": 23,
+    "modules": 23,
+    "course_reported_sources": 1440,
+    "sources": 1440
+  }
+}

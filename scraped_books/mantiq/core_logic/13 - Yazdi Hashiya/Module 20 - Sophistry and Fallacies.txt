@@ -1,0 +1,753 @@
+← Prev
+p. 364
+Module 20 · Lesson 1
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Fallacy of Denying the Antecedent in Conditional Arguments
+Critiques the invalid inference that denying the antecedent yields denying the consequent.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of denying the antecedent in a conditional argument and distinguish between logical entailment and real-world causation when evaluating such arguments.
+
+Core Idea
+Denying the antecedent is fallacious unless the conditional is biconditional.
+
+This passage from the logical tradition critiques a common misunderstanding: that denying the antecedent (raf' al-muqaddam) necessarily leads to denying the consequent. The author uses two examples from classical Arabic poetry to illustrate the misuse, but then clarifies that the poets are speaking about external causation, not logical implication. Understanding this distinction is crucial for correctly evaluating conditional arguments in Islamic legal reasoning and theology.
+
+Guided Path
+1
+Recognize the fallacy form
+The fallacy of denying the antecedent occurs when you have a conditional 'If P then Q' and you assert 'not P' and conclude 'not Q'. This is invalid unless P and Q are equivalent (biconditional).
+In formal terms: ((P → Q) ∧ ¬P) → ¬Q is invalid.
+2
+Analyze the poetic examples
+Read the lines by al-Ma'arri and al-Hamasi. Identify the antecedent and consequent. Note that they deny the antecedent and claim the consequent is false.
+The poets assert that because the antecedent did not occur, the consequent did not occur.
+3
+Understand the author's critique
+The author explains that knowledge of denying the antecedent does not entail knowledge of denying the consequent. The poets are not making a logical inference but asserting a real-world causal relationship.
+The justification is that the necessary condition (lazim) may be more general than the condition.
+4
+Distinguish between linguistic and logical usage
+Linguists focus on external causal relationships, while logicians focus on the epistemic relationship between premises and conclusion. The poets' usage falls under the linguistic type.
+The author cites al-Taftazani's Sharh al-Talkhis for this distinction.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(۱۵۰) قوله: «ولا رفع المقدم ينتج رفع التالى»: فان قلت : فقد قال «ابو العلاء المعري» : ولود امت الدولات كانوا كغيرهم رعایا و ــن مـ مالهن دوام وقال «الحماسی» ولو طار ذو حافر قبلها لطارت ولكنه لم يطر فجعلا استثناء نقيض المقدم منتجاً لنقيض التالي. قلت ان مراد هم من ذلك : ان العلم برفع المقدم لا يستلزم العلم برفع التالى كما يستفاد من تعليلهم ذلك بجواز كون اللازم اعم ايضاً ولاشك ان العلم بعدم دوام الدولات لا يستلزم العلم بعدم كونهم رعايا وكذا لا يستلزم العلم بعدم طيران ذى حافر العلم بعدم طيرانها كما هو ظاهر. و تحقيق ذلك، ما قال المصنف فى شرح التلخيص من ان استعمال اهل اللغة و ارباب المعقول مختلف فى ذلك فاهل اللغة يستعملونها للدلالة على ان علة انتفاء مضمون الجزاء في الخارج هي انتفاء مضمون الشرط من غير التفات الى ان علة العلم بانتقاء الجزاء ماهى؟ وارباب المعقول يستعملونها للدلالة على أن العلم بانتفاء التالى علة للعلم بانتفاء المقدم أو على أن العلم بوجود المقدم علة للعلم بوجود التالي ضرورة انتفاء الملزوم بانتفاء اللازم ووجود اللازم بوجود الملزوم من غير التفات الى ان علة انتفاء الجزاء فى الخارج ماهي؟ و البيتان من قبيل الأول، لانهها ارادا ان الثانى انتقى بسبب انتفاء الأول من غير نظر الى ان العلم بذلك من اين كان ومن اى شيء حصل ؟ (محمد علی)
+(150) His statement: 'And denying the antecedent does not produce denying the consequent.' For if you say: Abu al-'Ala al-Ma'arri said: ... and al-Hamasi said: ... so they made exception of the contradictory of the antecedent producing the contradictory of the consequent. I say: Their meaning from that is that knowledge of denying the antecedent does not entail knowledge of denying the consequent, as understood from their justification that the necessary may be more general...
+Source pages p. 364
+
+Commentary
+This passage addresses the fallacy of denying the antecedent (raf' al-muqaddam) in conditional logic. The author quotes two poetic examples where poets seem to use the form: 'If it were not for X, Y would not have happened; but X did not happen, so Y did not happen.' This appears to infer that denying the antecedent proves the denial of the consequent. However, the author clarifies that this is not a logical necessity; the poets are speaking about external causation, not logical entailment. The distinction between the usage of linguists and logicians is highlighted: linguists focus on the external cause of the consequent's non-existence, while logicians require that knowledge of the denial of the consequent be the cause of knowing the denial of the antecedent. The examples are cases of the former, not the latter.
+
+Key Terms
+رفع المقدم (raf' al-muqaddam): Denying the antecedent in a conditional syllogism; a fallacious inference unless the conditional is biconditional.
+
+Key Terms from Source Passage
+
+Checkpoint
+Why do the poetic examples in the text not constitute a logical fallacy?
+A) They use 'law' which is biconditional
+B) They refer to external causation, not logical entailment
+C) They are not conditional statements
+D) They use 'in' which implies existence
+
+Key Takeaway
+The fallacy of denying the antecedent is avoided by remembering that a conditional does not necessarily imply its converse; valid inference from denial of the antecedent requires a biconditional.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the conditional: 'If a contract includes gharar (uncertainty), it is invalid.' A student argues: 'This contract does not include gharar, therefore it is valid.' Is this a valid inference? Explain why or why not using the lesson on denying the antecedent.
+?
+Find an example from Islamic theology (kalam) where denying the antecedent might be mistaken as valid (e.g., 'If the world is created, it has a creator; the world is not created, therefore it has no creator'). Correct the reasoning by identifying the fallacy.
+
+Pages p. 364 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 376
+Module 20 · Lesson 2
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Understanding Mughalata: Sophistry as Deceptive Wisdom
+Author defines sophistry as using false propositions that resemble truth to deceive the intellect.
+
+Learning Objective
+By the end of this lesson, you will be able to define mughalata, identify its etymology, and explain why it specifically uses false propositions to deceive the estimative faculty (wahm).
+
+Core Idea
+Sophistry is deceptive wisdom that targets the wahm, not the senses.
+
+In this passage, the author unpacks the term mughalata, showing its roots in Greek words for wisdom and deception. He clarifies that sophistry employs false propositions that appear true, specifically deceiving the estimative faculty (wahm) rather than the senses. This refines the understanding of mughalata as a logical fallacy with a psychological dimension.
+
+Guided Path
+1
+Break down the etymology
+Identify the two parts: 'soph' (wisdom) and 'ishta' (deception) to see that sophistry is deceptive wisdom.
+2
+Identify the material used
+Note that false propositions (qadaya kadhiba) are employed; they resemble truth.
+3
+Locate the faculty targeted
+Recognize that wahm (estimative) is highlighted; it does not err in sensory matters but can be deceived in non-sensibles.
+4
+Contrast with sensory perception
+Understand that sophistry succeeds because it operates beyond the senses, where the mind is more susceptible.
+5
+Synthesize the definition
+Combine etymology, material, and targeted faculty to form a complete definition of mughalata.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و ذلك لان «السوف» بمعنى: الحكمة عندهم كما تقدم فى «فيلسوف»، و «اسطا بمعنى: تدليس. ای القضايا الكاذبة كما صرح بذلك جمع من المحققين . انما خص به لان الوهم لا يكذب في المحسوسات فانها القوة المدركة للمعانى الجزئية
+And that is because 'soph' means wisdom according to them, as preceded in 'philosophos', and 'ishta' means deception. That is, false propositions, as a group of investigators have stated. It is specifically characterized by this because the estimative faculty (wahm) does not lie in sensory things, for it is the power that perceives partial meanings.
+Source pages p. 376
+
+Commentary
+This short passage explains the term mughalata (sophistry). It breaks down the word: 'soph' means wisdom, and 'ishta' means deception, so sophistry is deceptive wisdom. It uses false propositions (qadaya kadhiba) that resemble truth to deceive. The author specifies that the estimative faculty (wahm) is involved; it does not err in sensory matters but can be deceived in non-sensibles. Thus sophistical arguments often target the wahm.
+
+Key Terms
+المغالطة
+الوهم
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author specify that mughalata involves the wahm?
+A) Because the wahm is the only faculty that perceives sensory things
+B) Because the wahm does not lie in sensory matters, but sophistry targets non-sensory meanings
+C) Because the wahm is always correct about partial meanings
+D) Because sophistry only works on the senses
+
+Key Takeaway
+Mughalata is a deceptive argument that uses false propositions resembling truth to trick the estimative faculty (wahm), not the senses.
+
+How This Lesson Applies — to MY Life?
+?
+Find an example of a sophistical argument from a theological debate (e.g., a false dilemma or false analogy) and identify how it uses a false proposition that seems true to the wahm.
+?
+Write a short definition of mughalata in your own words, including the etymology, the type of propositions used, and the faculty deceived.
+
+Pages p. 376 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 376
+Module 20 · Lesson 3
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Sophistry and the Estimative Faculty (Wahm)
+Author defines sophistry and explains the role of wahm in producing false judgments.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when wahm produces false judgments and explain how sophistry exploits this error.
+
+Core Idea
+Wahm judges correctly in sensibles but errs when analogically extended beyond – the basis of sophistry.
+
+This lesson examines a key psychological source of logical error: the estimative faculty (wahm). While wahm accurately judges concrete meanings in physical objects, it can mislead when its judgments are applied to metaphysical or abstract entities. The passage explains how such errors give rise to sophistical arguments that deceive the opponent, and why understanding this helps guard against false reasoning.
+
+Guided Path
+1
+Identify wahm's domain of accuracy
+The author states wahm does not lie in sensibles (al-mahsusat) – it correctly perceives partial meanings in physical objects. Note that this is its proper function.
+2
+Extract the example of error
+When wahm judges non-sensibles (e.g., every existent must occupy a space) by analogy with sensibles, its judgment becomes false. This is the core mechanism of sophistry: illicit analogy from the physical to the metaphysical.
+3
+Understand why the soul is misled
+The false judgments (wahmiyyat) can be so convincing that they are mistaken for primary intelligibles (awwaliyat). Only reason ('aql) or revelation (shar') can correct them. This shows the need for epistemic checks beyond mere intuition.
+4
+Recognise the purpose and benefit
+Sophistry aims to deceive an opponent by exploiting these natural errors. The greatest benefit of studying it is to guard against it – knowing the types of fallacy helps one avoid being trapped.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+انما خص ،به لان الوهم لا يكذب في المحسوسات فانها القوة المدركة للمعانى الجزئية الموجودة في المحسوسات بل اذا حكم فيها كان حكماً صحيحاً و ان حكم فى غيرها باحكامها كان حكماً كاذباً كما اذا حكم بان كل موجود لابد له من فراغ يشغله، أو يجوز الاشارة اليه بعد ما حكم في الموجودات المحسوسة بذلك وربما يشتبه ذلك على النفس بحيث لا يتميز الوهميات عندها من الاوليات أولا تكذيب العقل والشرع اياه (محمد علی) ( وقال الشيخ عبد الرحيم (ره) : انما قيد بذلك .. (الي ان قال): و الغرض من المغالطة تغليط الخصم وامكانه. واعظم فايدتها الاحتراز عنها فان من يعرف الخير من الشر لا يقع فيه.
+It was specified with it because wahm does not lie in sensibles, for it is the faculty that perceives partial meanings existing in sensibles. Rather, when it judges in them, its judgment is correct, and if it judges in other than them by its judgments, its judgment is false – like judging that every existent must have a void that it occupies, or that it may be pointed to, after having judged that in sensibles. And perhaps this becomes ambiguous to the soul such that wahmiyyat are not distinguished from primary intelligibles, or unless intellect and revelation deny it. (Muhammad Ali) (And Shaykh Abd al-Rahim said: It was only restricted by that... until he said: and the purpose of sophistry is to deceive the opponent and to depict [him as unable]. The greatest benefit is to guard against it, for he who knows good from evil does not fall into it.
+Source pages p. 376
+
+Commentary
+This passage discusses sophistry (mugalata) and the faculty of wahm (estimation). The commentator explains that wahm does not err in judgments about perceived objects (e.g., that a wall has dust), but when it extrapolates its judgments to non-sensibles, it makes false judgments. Example: from seeing that every physical object occupies a space, wahm judges that every existent must occupy a space (false for abstract entities). These false judgments (wahmiyyat) can be so convincing that they are mistaken for primary axioms unless reason or revelation corrects them. The purpose of sophistry is to deceive an opponent, and knowing its types helps one avoid falling into error.
+
+Key Terms
+الوهم
+المغالطة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, when does wahm produce false judgments?
+A) When judging sensibles.
+B) When judged in sensibles and then applied to non-sensibles.
+C) Only in metaphysical matters.
+D) Never – wahm is always correct.
+
+Key Takeaway
+Wahm correctly judges sensibles but errs when analogically extended to non-sensibles; this error is exploited in sophistry and must be corrected by reason and revelation.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a sophistical argument based on wahm's error: use the example 'Every created being changes; therefore God changes' (since God exists). Then identify why it fails using this lesson.
+?
+Read the following statement from a debate: 'All bodies require a cause; the world is a body; therefore the world requires a cause.' Is this an example of wahm's false judgment? Why or why not?
+
+Pages p. 376 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 4
+Next →
+Sophistry and Fallacies
+beginner
+10 min
+Verbal Material Fallacies: al-Musadara and al-Ishtirak al-Lafzi
+Author distinguishes verbal material fallacies with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify instances of begging the question and equivocation in logical arguments from the Islamic tradition.
+
+Core Idea
+Words can hide circularity or ambiguity, misdirecting the reasoning.
+
+Material fallacies arise from the content of propositions rather than their form. This lesson focuses on two verbal material fallacies: begging the question (musadara), where the conclusion is merely restated, and equivocation (ishtirak lafzi), where a key term shifts meaning between premises.
+
+Guided Path
+1
+Examine begging the question
+In the example from the text, the conclusion 'every human is laughing' is identical to the major premise. This makes the argument circular, as no new information is provided.
+Be alert for arguments where a premise is logically equivalent to the conclusion.
+2
+Detect equivocation
+The term 'ayn is used in two senses: gold (minor premise) and eye (major premise). The middle term loses its unity, so the syllogism fails.
+Track the middle term across premises to see if its meaning remains constant.
+3
+Distinguish from valid arguments
+In valid Islamic arguments (e.g., 'every intoxicant is forbidden; beer is intoxicant; so beer is forbidden'), terms are unambiguous and premises are not circular.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و کل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية.
+And as for the second (material), it is either from the side of utterance or from the side of meaning. The first (verbal) is like when the conclusion and one of its premises are identical, called 'begging the question' (al-musadara 'ala al-matlab), like our saying: 'Every human is a human, and every human is laughing, so every human is laughing.' Or when the middle term is ambiguous, intended in the minor premise with one meaning and in the major with another, like our saying: 'This is an 'ayn' pointing to gold, and every weeping eye ('ayn bakiya) – intending the seeing eye – so this is weeping.' As for the second (conceptual), like our saying about the figure of a horse engraved on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous mention under this chapter: judging the genus by a ruling of a species under it, like 'This is a color, and color is black, so this is black'; and judging the absolute by the restricted in condition or time, like 'This is a neck, and the neck is believing, so this is believing'; and like our saying pointing to al-A'sha: 'He is sighted, and the sighted sees at night, so he sees at night'; and putting 'natural' in place of 'universal', like 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such things is only from the side of form and shape, for the universality of the major is absent in all of them.
+Source pages p. 377
+
+Commentary
+This passage covers material fallacies (al-mughalata al-madiyya), subdividing them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include: (1) Begging the question (musadara 'ala al-matlab) – where the conclusion is identical to a premise, e.g., 'Every human is B.' (2) Equivocation (ishtirak lafzi) – middle term used with two meanings, e.g., 'ayn meaning gold in the minor and eye in the major. Conceptual fallacies include: (a) Judging the genus by a species: 'This is a color, and color is black' – but black is a species, not all colors. (b) Judging the absolute by a restricted condition: 'This is a neck, and the neck is believing' – the 'neck' in the major is a believing person, not a literal neck. (c) Putting 'natural' in place of 'universal': 'Man is an animal, animal is a genus' – the statement 'animal is a genus' is true for the natural kind, but not for the universal proposition; the fallacy is formal, since the major premise should be universal but is not.
+
+Key Terms
+المصادرة على المطلوب
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of the fallacy of equivocation?
+A) 'Every human is a human, and every human is laughing, so every human is laughing.'
+B) 'This is an 'ayn (gold), and every weeping 'ayn (eye) is an organ, so this is weeping.'
+C) 'This is a color, and color is black, so this is black.'
+D) 'Man is an animal, and animal is a genus, so man is a genus.'
+
+Key Takeaway
+Verbal material fallacies deceive by exploiting word identity or ambiguity, not by stating false facts.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the equivocation fallacy in the following argument: 'Allah's 'ayn (eye) is mentioned in the Qur'an. Every 'ayn (eye) is a seeing organ. Therefore, Allah has a seeing organ.' Explain why it fails.
+?
+Construct a valid argument that avoids equivocation by clearly defining terms, using an example from fiqh.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 5
+Next →
+Sophistry and Fallacies
+intermediate
+12 min
+Conceptual Material Fallacies: Genus, Absolute, and Natural
+Author distinguishes conceptual material fallacies with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify conceptual material fallacies, such as judging a genus by its species, the absolute by the restricted, and confusing natural with universal.
+
+Core Idea
+Mistaking category relationships leads to false conclusions.
+
+Conceptual material fallacies occur when the mistake lies in the meaning or category of the terms, not in the words themselves. This lesson covers three types: judging the genus by a species (e.g., 'color is black'), judging the absolute by a restricted condition (e.g., 'neck is believing'), and confusing the natural with the universal (e.g., 'animal is a genus').
+
+Guided Path
+1
+Understand the genus-species fallacy
+The example 'this is a color, and color is black' falsely assumes that a property of a species (black) applies to the entire genus (color). The major premise should be universal over all colors, which is false.
+Check if the major premise holds for every member of the genus.
+2
+Analyze the absolute-restricted fallacy
+The example 'this is a neck, and the neck is believing' uses 'neck' in the minor as a body part, but in the major it refers to a believing person (a slave). The term is taken absolutely in one premise and with a restriction in the other.
+Identify if a term is used in a broader sense in one premise and a narrower sense in the other.
+3
+Examine the natural-universal confusion
+Saying 'man is an animal, and animal is a genus, so man is a genus' confuses the natural kind (animal as a natural group) with the universal concept (animal as a genus). The conclusion does not follow.
+Distinguish between a natural kind and a logical universal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و کل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية.
+And as for the second (material), it is either from the side of utterance or from the side of meaning. The first (verbal) is like when the conclusion and one of its premises are identical, called 'begging the question' (al-musadara 'ala al-matlab), like our saying: 'Every human is a human, and every human is laughing, so every human is laughing.' Or when the middle term is ambiguous, intended in the minor premise with one meaning and in the major with another, like our saying: 'This is an 'ayn' pointing to gold, and every weeping eye ('ayn bakiya) – intending the seeing eye – so this is weeping.' As for the second (conceptual), like our saying about the figure of a horse engraved on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous mention under this chapter: judging the genus by a ruling of a species under it, like 'This is a color, and color is black, so this is black'; and judging the absolute by the restricted in condition or time, like 'This is a neck, and the neck is believing, so this is believing'; and like our saying pointing to al-A'sha: 'He is sighted, and the sighted sees at night, so he sees at night'; and putting 'natural' in place of 'universal', like 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such things is only from the side of form and shape, for the universality of the major is absent in all of them.
+Source pages p. 377
+
+Commentary
+This passage covers material fallacies (al-mughalata al-madiyya), subdividing them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include: (1) Begging the question (musadara 'ala al-matlab) – where the conclusion is identical to a premise, e.g., 'Every human is B.' (2) Equivocation (ishtirak lafzi) – middle term used with two meanings, e.g., 'ayn meaning gold in the minor and eye in the major. Conceptual fallacies include: (a) Judging the genus by a species: 'This is a color, and color is black' – but black is a species, not all colors. (b) Judging the absolute by a restricted condition: 'This is a neck, and the neck is believing' – the 'neck' in the major is a believing person, not a literal neck. (c) Putting 'natural' in place of 'universal': 'Man is an animal, animal is a genus' – the statement 'animal is a genus' is true for the natural kind, but not for the universal proposition; the fallacy is formal, since the major premise should be universal but is not.
+
+Key Terms
+المصادرة على المطلوب (al-musadara 'ala al-matlab): Begging the question – a fallacy where the conclusion is already assumed in the premises. [Note: Stable across traditions.]
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of the conceptual fallacy of judging the absolute by the restricted?
+A) 'This is a color, and color is black, so this is black.'
+B) 'This is a neck, and the neck is believing, so this is believing.'
+C) 'Man is an animal, and animal is a genus, so man is a genus.'
+D) 'Every human is a human, and every human is laughing, so every human is laughing.'
+
+Key Takeaway
+Conceptual material fallacies arise from misapplying category relationships, such as treating a species property as generic.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the conceptual fallacy in the following argument: 'This act is worship. Worship is an obligation. Therefore, this act is an obligation.' Which type is it?
+?
+Create a valid argument that correctly uses a genus-species relationship in a fiqh context, such as concerning the types of contracts.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 6
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Classification of Material Fallacies
+Author defines and categorizes material fallacies.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish verbal material fallacies from conceptual material fallacies in Islamic logical arguments.
+
+Core Idea
+Material fallacies arise from content, not form—but often hide formal defects.
+
+In Islamic logic, fallacies are divided into formal (sūrī) and material (māddī). The material fallacies, as explained by al-Yazdi, are further split into verbal (lafẓī) and conceptual (maʿnawī). Understanding this classification is crucial for critiquing arguments in kalām, fiqh, and usul al-fiqh.
+
+Guided Path
+1
+Identify the type of fallacy
+Read the argument carefully. Determine whether the error stems from ambiguous wording or from a mistaken conceptual shift (e.g., applying a species property to the whole genus).
+The author gives clear examples: verbal fallacies include musadara and ishtirak; conceptual ones include absolute/qualified confusion and natural/universal mix-up.
+2
+Check for formal defects
+Even material fallacies often have a hidden formal flaw, such as the major premise not being universal. The author notes that many examples actually fail due to form.
+For instance, 'every human is an animal; every animal is a genus; so every human is a genus' fails because 'animal is a genus' is not universally true.
+3
+Classify the fallacy
+Once you have identified the source, classify it as verbal or conceptual. If it involves word meaning, it's verbal; if it involves a conceptual misapplication, it's conceptual.
+Use the key terms: musadara, ishtirak for verbal; applying species to genus, absolute to qualified, etc. for conceptual.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و كل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية. والعجب من بعض المحققين حيث صرح بذلك ومع ذلك ذكرها فى هذا الباب. اما اللفظى فكقولنا الصورة الفرس المنقوشة على الجدار: انها فرس وكل فرس صهال ينتج ان تلك الصورة صهال. و اما المعنوى: فكعدم رعاية وجود الموضوع فى الموجبة كقولنا كل انسان و فرس فهو انسان و كل انسان وفرس فهو فرس ينتج بعض الانسان فرس والغلط فيه ان موضوع المقدمتين ليس بموجود اذ في اقسام القياس ليس شيء موجود يصدق عليه الانسان و الفرس.
+As for the second [type of fallacy in matter], it is either from the aspect of wording or from the aspect of meaning. The first [verbal] is when the desired [conclusion] and one of its premises are the same thing, called 'begging the question', like our saying: 'Every human is a human, and every human is a laugher, so every human is a laugher.' And it may be that the middle term is from among equivocal words, intended in the minor premise with one meaning and in another [with another], like our saying: 'This is an eye, pointing to gold, and every eye is weeping, meaning the visual eye, so this is weeping.' As for the second [conceptual fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous scholars mention under this category: judging the genus by a judgment of a species included under it, like: 'This is a color, and color is black, so this is black'; and judging the absolute by a judgment of the qualified according to condition or time, like our saying: 'This is a neck, and the neck is believing, so this is believing'; and like our saying indicating to al-A'sha: 'This is seeing, and the seeing sees at night, so this sees at night'; and putting the 'natural' in place of the 'universal', like our saying: 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such examples is only from the aspect of form and structure, as is apparent, for the universality of the major premise is lacking in all of them. And it is surprising that some investigators state that, yet mention it in this chapter. As for the verbal [fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so that picture neighs.' As for the conceptual: like not observing the existence of the subject in the affirmative [premise], like our saying: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The error in it is that the subject of the two premises does not exist, for in the divisions of the syllogism there is nothing existing that is described as 'human and horse'.
+Source pages p. 377
+
+Commentary
+This passage details fallacies in matter (madda), which arise from content rather than form. The author divides them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include begging the question (musadara 'ala al-matlub), where the conclusion is assumed in a premise, and equivocation (ishtirak), where the middle term is used ambiguously. An example of the latter is 'عين' meaning both gold and weeping eye. Conceptual fallacies include applying a property of a species to the entire genus (e.g., 'color' and 'black'), applying a conditioned judgment to an absolute (e.g., a neck that is believing? referring to freeing a believing slave), and confusing the natural universal with the universal quantifier (e.g., 'man is a genus' from 'animal is a genus'). The author notes that many of these actually involve a formal defect (lack of universality of the major premise), and expresses surprise that some scholars still classify them under matter. The passage concludes with further examples: verbal (the horse picture) and conceptual (the non-existent subject 'human and horse' in a posited syllogism). The key takeaway is that material fallacies often involve illicit shifts between absolute and qualified judgments, or between genus and species.
+
+Key Terms
+مصادرة على المطلوب
+اشتراك
+طبيعية
+كلية
+
+Key Terms from Source Passage
+
+Checkpoint
+In the passage, what is the main difference between verbal and conceptual material fallacies?
+A) Verbal fallacies involve wording; conceptual fallacies involve meaning.
+B) Verbal fallacies are always formal; conceptual are always material.
+C) Verbal fallacies are about the middle term; conceptual are about the major premise.
+D) Verbal fallacies are rare; conceptual are common.
+
+Key Takeaway
+Material fallacies stem from either ambiguous wording or conceptual confusion, and often mask a formal defect.
+
+How This Lesson Applies — to MY Life?
+?
+Given the argument: 'Every intoxicant is forbidden; this nabidh is an intoxicant; so this nabidh is forbidden.' Is this a verbal or conceptual material fallacy? Explain why not, or identify the fallacy if present.
+?
+Find a real example of a material fallacy in a theological debate (e.g., from a kalām text) and classify it as verbal or conceptual.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 7
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Begging the Question (Musadara)
+Author defines and exemplifies begging the question.
+
+Learning Objective
+By the end of this lesson, you will be able to identify begging the question (musadara) in Islamic syllogisms and explain why it is a material fallacy.
+
+Core Idea
+Begging the question disguises the conclusion as a premise, making the argument circular.
+
+One of the most common material fallacies is musadara 'ala al-matlub, where the conclusion is explicitly or implicitly stated in one of the premises. This makes the argument formally valid but materially empty, as it assumes what it needs to prove. In Islamic theology, this often appears in attempts to prove divine attributes using premises that already assume them.
+
+Guided Path
+1
+Locate the conclusion
+Identify what the argument is trying to prove. For example, 'Every human is a laugher' in the author's example.
+The conclusion is often the last proposition.
+2
+Examine each premise
+Check if any premise is identical in meaning to the conclusion. The author's example: 'Every human is a human' is the same as part of the conclusion? Actually, his example is 'Every human is a human, and every human is a laugher, so every human is a laugher' – the first premise is trivial, but the second is the major. However, the classic musadara is when a premise is the conclusion itself.
+The author's example seems odd; usually musadara is like 'A is B because A is B' buried in premises. The standard example: 'The soul is immortal because it is not destroyed'.
+3
+Check for circularity
+If the argument assumes what it sets out to prove, it commits musadara. In Islamic fiqh, this is often disguised.
+For instance, arguing that riba is haram because it is forbidden in the Quran—this begs the question if the opponent does not accept Quranic authority.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و كل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية. والعجب من بعض المحققين حيث صرح بذلك ومع ذلك ذكرها فى هذا الباب. اما اللفظى فكقولنا الصورة الفرس المنقوشة على الجدار: انها فرس وكل فرس صهال ينتج ان تلك الصورة صهال. و اما المعنوى: فكعدم رعاية وجود الموضوع فى الموجبة كقولنا كل انسان و فرس فهو انسان و كل انسان وفرس فهو فرس ينتج بعض الانسان فرس والغلط فيه ان موضوع المقدمتين ليس بموجود اذ في اقسام القياس ليس شيء موجود يصدق عليه الانسان و الفرس.
+As for the second [type of fallacy in matter], it is either from the aspect of wording or from the aspect of meaning. The first [verbal] is when the desired [conclusion] and one of its premises are the same thing, called 'begging the question', like our saying: 'Every human is a human, and every human is a laugher, so every human is a laugher.' And it may be that the middle term is from among equivocal words, intended in the minor premise with one meaning and in another [with another], like our saying: 'This is an eye, pointing to gold, and every eye is weeping, meaning the visual eye, so this is weeping.' As for the second [conceptual fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous scholars mention under this category: judging the genus by a judgment of a species included under it, like: 'This is a color, and color is black, so this is black'; and judging the absolute by a judgment of the qualified according to condition or time, like our saying: 'This is a neck, and the neck is believing, so this is believing'; and like our saying indicating to al-A'sha: 'This is seeing, and the seeing sees at night, so this sees at night'; and putting the 'natural' in place of the 'universal', like our saying: 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such examples is only from the aspect of form and structure, as is apparent, for the universality of the major premise is lacking in all of them. And it is surprising that some investigators state that, yet mention it in this chapter. As for the verbal [fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so that picture neighs.' As for the conceptual: like not observing the existence of the subject in the affirmative [premise], like our saying: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The error in it is that the subject of the two premises does not exist, for in the divisions of the syllogism there is nothing existing that is described as 'human and horse'.
+Source pages p. 377
+
+Commentary
+This passage details fallacies in matter (madda), which arise from content rather than form. The author divides them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include begging the question (musadara 'ala al-matlub), where the conclusion is assumed in a premise, and equivocation (ishtirak), where the middle term is used ambiguously. An example of the latter is 'عين' meaning both gold and weeping eye. Conceptual fallacies include applying a property of a species to the entire genus (e.g., 'color' and 'black'), applying a conditioned judgment to an absolute (e.g., a neck that is believing? referring to freeing a believing slave), and confusing the natural universal with the universal quantifier (e.g., 'man is a genus' from 'animal is a genus'). The author notes that many of these actually involve a formal defect (lack of universality of the major premise), and expresses surprise that some scholars still classify them under matter. The passage concludes with further examples: verbal (the horse picture) and conceptual (the non-existent subject 'human and horse' in a posited syllogism). The key takeaway is that material fallacies often involve illicit shifts between absolute and qualified judgments, or between genus and species.
+
+Key Terms
+مصادرة على المطلوب
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the defining characteristic of musadara?
+A) The middle term is ambiguous.
+B) The conclusion and a premise are the same.
+C) The minor premise is negative.
+D) The major premise is uncertain.
+
+Key Takeaway
+Begging the question fails to prove because it assumes what it needs to establish.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'The world is temporally originated because it is created, and whatever is created is temporally originated.' Identify the potential musadara and rewrite the argument to avoid it.
+?
+In a fiqh debate, someone says: 'Riba is haram because it is forbidden by consensus.' Is this begging the question? Explain.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 8
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Equivocation (Ishtirak)
+Author gives an example of equivocation using the word 'عين'.
+
+Learning Objective
+By the end of this lesson, you will be able to identify equivocation (ishtirak) in Arabic syllogisms by detecting the ambiguous middle term.
+
+Core Idea
+One word, two meanings—the middle term slips between them.
+
+Equivocation occurs when the middle term of a syllogism is used in two different senses, making the argument formally valid but materially unsound. In Islamic sciences, this often appears when a word has both a common and a technical meaning, such as 'wajib' (obligatory vs. necessary).
+
+Guided Path
+1
+Identify the middle term
+The middle term is the term that appears in both premises but not in the conclusion. In the author's example, the middle term is 'عين' (eye).
+The example: 'هذا عين (gold) وكل عين باكية (weeping eye) فهذا باك'.
+2
+Check the meaning in each premise
+Determine if the middle term has the same meaning in both premises. In the example, 'عين' in the minor means 'gold piece', while in the major it means 'weeping eye'.
+This is a clear case of equivocation.
+3
+Test the conclusion
+If the meanings differ, the conclusion does not follow. The syllogism commits the fallacy of equivocation.
+The conclusion literally says 'this is weeping' but the subject is gold, not an eye.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و كل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية. والعجب من بعض المحققين حيث صرح بذلك ومع ذلك ذكرها فى هذا الباب. اما اللفظى فكقولنا الصورة الفرس المنقوشة على الجدار: انها فرس وكل فرس صهال ينتج ان تلك الصورة صهال. و اما المعنوى: فكعدم رعاية وجود الموضوع فى الموجبة كقولنا كل انسان و فرس فهو انسان و كل انسان وفرس فهو فرس ينتج بعض الانسان فرس والغلط فيه ان موضوع المقدمتين ليس بموجود اذ في اقسام القياس ليس شيء موجود يصدق عليه الانسان و الفرس.
+As for the second [type of fallacy in matter], it is either from the aspect of wording or from the aspect of meaning. The first [verbal] is when the desired [conclusion] and one of its premises are the same thing, called 'begging the question', like our saying: 'Every human is a human, and every human is a laugher, so every human is a laugher.' And it may be that the middle term is from among equivocal words, intended in the minor premise with one meaning and in another [with another], like our saying: 'This is an eye, pointing to gold, and every eye is weeping, meaning the visual eye, so this is weeping.' As for the second [conceptual fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous scholars mention under this category: judging the genus by a judgment of a species included under it, like: 'This is a color, and color is black, so this is black'; and judging the absolute by a judgment of the qualified according to condition or time, like our saying: 'This is a neck, and the neck is believing, so this is believing'; and like our saying indicating to al-A'sha: 'This is seeing, and the seeing sees at night, so this sees at night'; and putting the 'natural' in place of the 'universal', like our saying: 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such examples is only from the aspect of form and structure, as is apparent, for the universality of the major premise is lacking in all of them. And it is surprising that some investigators state that, yet mention it in this chapter. As for the verbal [fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so that picture neighs.' As for the conceptual: like not observing the existence of the subject in the affirmative [premise], like our saying: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The error in it is that the subject of the two premises does not exist, for in the divisions of the syllogism there is nothing existing that is described as 'human and horse'.
+Source pages p. 377
+
+Commentary
+This passage details fallacies in matter (madda), which arise from content rather than form. The author divides them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include begging the question (musadara 'ala al-matlub), where the conclusion is assumed in a premise, and equivocation (ishtirak), where the middle term is used ambiguously. An example of the latter is 'عين' meaning both gold and weeping eye. Conceptual fallacies include applying a property of a species to the entire genus (e.g., 'color' and 'black'), applying a conditioned judgment to an absolute (e.g., a neck that is believing? referring to freeing a believing slave), and confusing the natural universal with the universal quantifier (e.g., 'man is a genus' from 'animal is a genus'). The author notes that many of these actually involve a formal defect (lack of universality of the major premise), and expresses surprise that some scholars still classify them under matter. The passage concludes with further examples: verbal (the horse picture) and conceptual (the non-existent subject 'human and horse' in a posited syllogism). The key takeaway is that material fallacies often involve illicit shifts between absolute and qualified judgments, or between genus and species.
+
+Key Terms
+اشتراك
+عين
+
+Key Terms from Source Passage
+
+Checkpoint
+In the author's example 'هذا عين ... وكل عين باكية', what does 'عين' mean in each premise?
+A) Both refer to the visual eye.
+B) Minor: gold piece; Major: visual eye.
+C) Minor: visual eye; Major: gold piece.
+D) Both refer to gold.
+
+Key Takeaway
+Equivocation renders the syllogism invalid by using the same term with different meanings.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the ambiguous term in this syllogism: 'Every qatl (killing) is prohibited; this is qatl (homicide); therefore, this is prohibited.' Is there equivocation? Explain.
+?
+Find an example from Islamic theology where the word 'iman' (faith) is used equivocally (as belief vs. practice).
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 9
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Judging Absolute by Qualified (مطلق ومقيد)
+Author gives example of judging absolute by qualified.
+
+Learning Objective
+By the end of this lesson, you will be able to detect the fallacy of applying a qualified judgment to an absolute term in Islamic legal reasoning.
+
+Core Idea
+Don't confuse the absolute with the qualified—a condition-bound ruling does not apply unconditionally.
+
+One common conceptual fallacy is taking a ruling that applies to a qualified term (e.g., 'a believing slave') and applying it to the absolute term (e.g., 'a neck'). In Islamic fiqh, this is crucial when dealing with slaves, oaths, and expiation. The author gives the example: 'This is a neck; the neck is believing; so this is believing'—which is invalid because 'believing' is a qualification of the slave, not the neck itself.
+
+Guided Path
+1
+Identify the absolute and qualified terms
+Look for a term that is used without qualification (mutlaq) and then with a restriction (muqayyad). In the example, 'رقبة' (neck) is absolute in the minor, but 'رقبة مؤمنة' (believing slave) is qualified in the major.
+The major premise says 'الرقبة مؤمنة' which actually means 'the believing slave'.
+2
+Check if the qualification is essential
+Does the judgment apply to the absolute term without the qualification? The premise 'the neck is believing' only holds if 'neck' means 'slave' and additionally that slave is believing. But the minor uses 'neck' absolutely, so the conclusion does not follow.
+In fiqh, the absolute 'neck' in expiation means a slave, but the quality of faith is not part of the absolute.
+3
+Determine the fallacy
+This is a material fallacy because it shifts from the absolute to the qualified without justification.
+The author categorizes this under conceptual fallacies.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و كل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية. والعجب من بعض المحققين حيث صرح بذلك ومع ذلك ذكرها فى هذا الباب. اما اللفظى فكقولنا الصورة الفرس المنقوشة على الجدار: انها فرس وكل فرس صهال ينتج ان تلك الصورة صهال. و اما المعنوى: فكعدم رعاية وجود الموضوع فى الموجبة كقولنا كل انسان و فرس فهو انسان و كل انسان وفرس فهو فرس ينتج بعض الانسان فرس والغلط فيه ان موضوع المقدمتين ليس بموجود اذ في اقسام القياس ليس شيء موجود يصدق عليه الانسان و الفرس.
+As for the second [type of fallacy in matter], it is either from the aspect of wording or from the aspect of meaning. The first [verbal] is when the desired [conclusion] and one of its premises are the same thing, called 'begging the question', like our saying: 'Every human is a human, and every human is a laugher, so every human is a laugher.' And it may be that the middle term is from among equivocal words, intended in the minor premise with one meaning and in another [with another], like our saying: 'This is an eye, pointing to gold, and every eye is weeping, meaning the visual eye, so this is weeping.' As for the second [conceptual fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous scholars mention under this category: judging the genus by a judgment of a species included under it, like: 'This is a color, and color is black, so this is black'; and judging the absolute by a judgment of the qualified according to condition or time, like our saying: 'This is a neck, and the neck is believing, so this is believing'; and like our saying indicating to al-A'sha: 'This is seeing, and the seeing sees at night, so this sees at night'; and putting the 'natural' in place of the 'universal', like our saying: 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such examples is only from the aspect of form and structure, as is apparent, for the universality of the major premise is lacking in all of them. And it is surprising that some investigators state that, yet mention it in this chapter. As for the verbal [fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so that picture neighs.' As for the conceptual: like not observing the existence of the subject in the affirmative [premise], like our saying: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The error in it is that the subject of the two premises does not exist, for in the divisions of the syllogism there is nothing existing that is described as 'human and horse'.
+Source pages p. 377
+
+Commentary
+This passage details fallacies in matter (madda), which arise from content rather than form. The author divides them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include begging the question (musadara 'ala al-matlub), where the conclusion is assumed in a premise, and equivocation (ishtirak), where the middle term is used ambiguously. An example of the latter is 'عين' meaning both gold and weeping eye. Conceptual fallacies include applying a property of a species to the entire genus (e.g., 'color' and 'black'), applying a conditioned judgment to an absolute (e.g., a neck that is believing? referring to freeing a believing slave), and confusing the natural universal with the universal quantifier (e.g., 'man is a genus' from 'animal is a genus'). The author notes that many of these actually involve a formal defect (lack of universality of the major premise), and expresses surprise that some scholars still classify them under matter. The passage concludes with further examples: verbal (the horse picture) and conceptual (the non-existent subject 'human and horse' in a posited syllogism). The key takeaway is that material fallacies often involve illicit shifts between absolute and qualified judgments, or between genus and species.
+
+Key Terms
+مطلق
+مقيد
+رقبة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author's example 'هذه رقبة و الرقبة مؤمنة فهذه مؤمنة' commit a fallacy?
+A) The term 'رقبة' is ambiguous.
+B) The major premise applies a condition (مؤمنة) that is not present in the minor.
+C) The conclusion is identical to the major premise.
+D) The minor premise is false.
+
+Key Takeaway
+Applying a qualified judgment to an absolute term without justification is a material fallacy.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'Every intoxicated person is punished; Zaid is intoxicated; so Zaid is punished.' But the legal ruling for intoxication applies only to those who are mukallaf (accountable). Is this a material fallacy? Classify it.
+?
+Give an example from zakat where the absolute term 'mal' (wealth) might be confused with a qualified 'mal nam' (growing wealth) and explain the fallacy.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 10
+Next →
+Sophistry and Fallacies
+advanced
+5 min
+Natural Universal vs. Universal Quantifier
+Author explains fallacy of substituting natural for universal.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the natural universal (tabi'iyya) from the universal quantifier (kulliyya) and identify the fallacy of substituting one for the other.
+
+Core Idea
+The natural universal is the essence; the universal quantifier is its application to all individuals.
+
+A subtle yet important conceptual fallacy is confusing the natural universal (al-tabi'iyya), which is the essence considered in itself, with the universal quantifier (al-kulliyya), which applies to all individuals. The author gives the example: 'Man is an animal; animal is a genus; so man is a genus.' This is invalid because the major premise 'animal is a genus' is true only when 'animal' is considered as a universal quantifier (all animals), but the minor 'man is an animal' treats 'animal' as a natural universal (the essence). This confusion led some philosophers to mistakenly attribute generic properties to man.
+
+Guided Path
+1
+Identify the natural universal
+The natural universal (al-tabi'iyya) is the concept itself, e.g., 'animal' as an essence. In the minor premise 'man is an animal', 'animal' is used as a natural universal (predicating the essence).
+The author uses 'الطبيعية' to mean the essence considered in itself.
+2
+Identify the universal quantifier
+The universal quantifier (al-kulliyya) applies the predicate to every individual. In the major premise 'animal is a genus', 'animal' is considered as a universal quantifier (i.e., all animals are genera? Actually, it means 'animal' is a genus of its species).
+The author says 'الحيوان جنس' which means 'animal is a genus' in the sense of a logical category.
+3
+Spot the shift
+The fallacy occurs because 'animal' in the minor is a natural universal (predicate of man), but in the major it is a universal quantifier (genus). The conclusion 'man is a genus' does not follow.
+The author notes that the corruption is from the form—the major premise is not universally true as a natural universal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و كل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية. والعجب من بعض المحققين حيث صرح بذلك ومع ذلك ذكرها فى هذا الباب. اما اللفظى فكقولنا الصورة الفرس المنقوشة على الجدار: انها فرس وكل فرس صهال ينتج ان تلك الصورة صهال. و اما المعنوى: فكعدم رعاية وجود الموضوع فى الموجبة كقولنا كل انسان و فرس فهو انسان و كل انسان وفرس فهو فرس ينتج بعض الانسان فرس والغلط فيه ان موضوع المقدمتين ليس بموجود اذ في اقسام القياس ليس شيء موجود يصدق عليه الانسان و الفرس.
+As for the second [type of fallacy in matter], it is either from the aspect of wording or from the aspect of meaning. The first [verbal] is when the desired [conclusion] and one of its premises are the same thing, called 'begging the question', like our saying: 'Every human is a human, and every human is a laugher, so every human is a laugher.' And it may be that the middle term is from among equivocal words, intended in the minor premise with one meaning and in another [with another], like our saying: 'This is an eye, pointing to gold, and every eye is weeping, meaning the visual eye, so this is weeping.' As for the second [conceptual fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous scholars mention under this category: judging the genus by a judgment of a species included under it, like: 'This is a color, and color is black, so this is black'; and judging the absolute by a judgment of the qualified according to condition or time, like our saying: 'This is a neck, and the neck is believing, so this is believing'; and like our saying indicating to al-A'sha: 'This is seeing, and the seeing sees at night, so this sees at night'; and putting the 'natural' in place of the 'universal', like our saying: 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such examples is only from the aspect of form and structure, as is apparent, for the universality of the major premise is lacking in all of them. And it is surprising that some investigators state that, yet mention it in this chapter. As for the verbal [fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so that picture neighs.' As for the conceptual: like not observing the existence of the subject in the affirmative [premise], like our saying: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The error in it is that the subject of the two premises does not exist, for in the divisions of the syllogism there is nothing existing that is described as 'human and horse'.
+Source pages p. 377
+
+Commentary
+This passage details fallacies in matter (madda), which arise from content rather than form. The author divides them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include begging the question (musadara 'ala al-matlub), where the conclusion is assumed in a premise, and equivocation (ishtirak), where the middle term is used ambiguously. An example of the latter is 'عين' meaning both gold and weeping eye. Conceptual fallacies include applying a property of a species to the entire genus (e.g., 'color' and 'black'), applying a conditioned judgment to an absolute (e.g., a neck that is believing? referring to freeing a believing slave), and confusing the natural universal with the universal quantifier (e.g., 'man is a genus' from 'animal is a genus'). The author notes that many of these actually involve a formal defect (lack of universality of the major premise), and expresses surprise that some scholars still classify them under matter. The passage concludes with further examples: verbal (the horse picture) and conceptual (the non-existent subject 'human and horse' in a posited syllogism). The key takeaway is that material fallacies often involve illicit shifts between absolute and qualified judgments, or between genus and species.
+
+Key Terms
+طبيعية
+كلية
+جنس
+
+Key Terms from Source Passage
+
+Checkpoint
+In the argument 'الانسان حيوان والحيوان جنس فالانسان جنس', what logical error occurs?
+A) The minor premise is false.
+B) 'الحيوان' is used in two different senses.
+C) The conclusion contradicts the major premise.
+D) The argument is formally valid.
+
+Key Takeaway
+The natural universal and universal quantifier are distinct logical concepts; confusing them leads to fallacious genus attributions.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the argument: 'Every haram is prohibited; this act is haram; so it is prohibited.' Is there any confusion between natural universal and universal quantifier? Explain.
+?
+Construct a correct argument using 'تسفيح' (a term from Mantiq) and identify the natural universal and universal quantifier.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 377
+Module 20 · Lesson 11
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+The Fallacy of Non-Existent Subject
+Author gives example of fallacy due to non-existent subject.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a syllogism's subject term does not refer to any existing entity, making the argument invalid.
+
+Core Idea
+If the subject of the premises is empty, the syllogism collapses into fallacy.
+
+A conceptual fallacy occurs when the subject term of the premises has no actual existence, making the argument irrelevant. The author gives the example: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The subject 'human and horse' is a compound that does not exist in reality, so the premises are about nothing, and the conclusion is false.
+
+Guided Path
+1
+Identify the subject of the premises
+The subject in both premises is 'كل انسان و فرس' (every human and horse). This is a compound subject that refers to an individual that is both human and horse, which does not exist.
+The author says 'موضوع المقدمتين ليس بموجود' (the subject of the two premises does not exist).
+2
+Check if the subject refers to any real entity
+In Islamic logic, the subject must exist for the syllogism to be material sound. Here, there is no entity that is both human and horse.
+This is similar to the fallacy of the empty set in modern logic.
+3
+Determine the outcome
+Since the subject is non-existent, the premises are not true of any actual thing, so the conclusion is not supported.
+The conclusion 'some human is a horse' is false, but even if it were true, the argument is invalid because the premises do not refer to reality.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+و اما الثانى فاما ان يكون من جهة اللفظ او من جهة المعنى والاول كان يكون المطلوب و بعض مقدماته شيئاً واحداً و يسمى بـ «المصادرة على المطلوب كقولنا كل انسان بشر و كل بشر ضاحك ينتج كل انسان ضاحك و كان يكون الحد الأوسط من الالفاظ المشتركة يراد به في الصغرى معنى وفي آخر كقولنا هذا عين مشاراً به الى الذهب وكل عين باكية مراداً به الباصرة فهذا باك و اما الثاني فكقولنا لصورة الفرس المنقوشة في الجدار انها فرس و كل فرس صاهل فهى صاهلة. وذكر بعض الفضلاء من هذا الباب الحكم على الجنس بحكم نوع منه مندرج تحته نحو: هذالون و اللون سواد فهذا سواد و الحكم على المطلق بحكم المقيد بحال او وقت كقولنا: هذه رقبة و الرقبة مؤمنة فهذه مؤمنة وكقولنا هذا مشيراً الى الاعشى - مبصر والمبصر يبصر بالليل فهذا يبصر بالليل، و وضع «الطبيعية » موضع «الكلية» كقولنا : الانسان حيوان والحيوان جنس فالانسان جنس ولا يخفى ان فساد امثال ذلك انما هو من جهة الصورة والهيئة كما هو ظاهر فان كلية الكبرى في جميعها منتفية. والعجب من بعض المحققين حيث صرح بذلك ومع ذلك ذكرها فى هذا الباب. اما اللفظى فكقولنا الصورة الفرس المنقوشة على الجدار: انها فرس وكل فرس صهال ينتج ان تلك الصورة صهال. و اما المعنوى: فكعدم رعاية وجود الموضوع فى الموجبة كقولنا كل انسان و فرس فهو انسان و كل انسان وفرس فهو فرس ينتج بعض الانسان فرس والغلط فيه ان موضوع المقدمتين ليس بموجود اذ في اقسام القياس ليس شيء موجود يصدق عليه الانسان و الفرس.
+As for the second [type of fallacy in matter], it is either from the aspect of wording or from the aspect of meaning. The first [verbal] is when the desired [conclusion] and one of its premises are the same thing, called 'begging the question', like our saying: 'Every human is a human, and every human is a laugher, so every human is a laugher.' And it may be that the middle term is from among equivocal words, intended in the minor premise with one meaning and in another [with another], like our saying: 'This is an eye, pointing to gold, and every eye is weeping, meaning the visual eye, so this is weeping.' As for the second [conceptual fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so it neighs.' And some virtuous scholars mention under this category: judging the genus by a judgment of a species included under it, like: 'This is a color, and color is black, so this is black'; and judging the absolute by a judgment of the qualified according to condition or time, like our saying: 'This is a neck, and the neck is believing, so this is believing'; and like our saying indicating to al-A'sha: 'This is seeing, and the seeing sees at night, so this sees at night'; and putting the 'natural' in place of the 'universal', like our saying: 'Man is an animal, and animal is a genus, so man is a genus.' And it is not hidden that the corruption of such examples is only from the aspect of form and structure, as is apparent, for the universality of the major premise is lacking in all of them. And it is surprising that some investigators state that, yet mention it in this chapter. As for the verbal [fallacy], like our saying regarding the picture of a horse drawn on the wall: 'It is a horse, and every horse neighs, so that picture neighs.' As for the conceptual: like not observing the existence of the subject in the affirmative [premise], like our saying: 'Every human and horse is a human, and every human and horse is a horse, so some human is a horse.' The error in it is that the subject of the two premises does not exist, for in the divisions of the syllogism there is nothing existing that is described as 'human and horse'.
+Source pages p. 377
+
+Commentary
+This passage details fallacies in matter (madda), which arise from content rather than form. The author divides them into verbal (lafzi) and conceptual (ma'nawi). Verbal fallacies include begging the question (musadara 'ala al-matlub), where the conclusion is assumed in a premise, and equivocation (ishtirak), where the middle term is used ambiguously. An example of the latter is 'عين' meaning both gold and weeping eye. Conceptual fallacies include applying a property of a species to the entire genus (e.g., 'color' and 'black'), applying a conditioned judgment to an absolute (e.g., a neck that is believing? referring to freeing a believing slave), and confusing the natural universal with the universal quantifier (e.g., 'man is a genus' from 'animal is a genus'). The author notes that many of these actually involve a formal defect (lack of universality of the major premise), and expresses surprise that some scholars still classify them under matter. The passage concludes with further examples: verbal (the horse picture) and conceptual (the non-existent subject 'human and horse' in a posited syllogism). The key takeaway is that material fallacies often involve illicit shifts between absolute and qualified judgments, or between genus and species.
+
+Key Terms
+موضوع
+وجود
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the example 'كل انسان و فرس فهو انسان... ينتج بعض الانسان فرس' fail?
+A) The middle term is ambiguous.
+B) The subject 'انسان و فرس' does not exist in reality.
+C) The major premise is false.
+D) The conclusion is not a logical consequence.
+
+Key Takeaway
+A syllogism with a non-existent subject term is invalid because the premises refer to nothing real.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'Every created and uncreated thing is created; every created and uncreated thing is uncreated; so some created thing is uncreated.' Identify the fallacy and explain why the subject is non-existent.
+?
+In Islamic theology, the term 'partnership in divinity' (shirk) leads to compound subjects that are impossible. Form a syllogism with such a subject and show the fallacy.
+
+Pages p. 377 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →

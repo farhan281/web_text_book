@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:52:09Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/AL_QUDURI_MAA_AHADITHIH_WA_USOOLIH_02_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/20 - Al Quduri Maa Ahadithih Wa Usoolih 02 Merged With Pgs",
+  "output_bytes": 7213919,
+  "output_sha256": "fdfbf95fb7cd560f932b3e94a17f84a3695e4e01488467c2e3deeb9b6645d299",
+  "checks": {
+    "catalog_expected_lessons": 995,
+    "course_reported_lessons": 995,
+    "index_lessons": 995,
+    "full_lessons": 995,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 23,
+    "course_reported_modules": 23,
+    "modules": 23,
+    "course_reported_sources": 958,
+    "sources": 958
+  }
+}

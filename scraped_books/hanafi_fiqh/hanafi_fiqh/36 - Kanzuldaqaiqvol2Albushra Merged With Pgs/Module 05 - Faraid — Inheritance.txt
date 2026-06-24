@@ -1,0 +1,1191 @@
+← Prev
+p. 16
+Module 5 · Lesson 1
+Next →
+Faraid — Inheritance
+advanced
+10 min
+Intra-Hanafi Dispute: Freedom Shares in Repeated Ambiguous Emancipation
+Intra-Hanafi dispute on repeated ambiguous emancipation with terminal illness calculations
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the freedom shares for each slave (thābit, khārij, dākhil) in a repeated ambiguous emancipation scenario and distinguish between the positions of the Shaykhayn and Muhammad al-Shaybani.
+
+Core Idea
+The dākhil's freedom share depends on whether the impediment of prior emancipation transfers to him.
+
+This passage from Kanz al-Daqa'iq addresses a complex case: a master with three slaves makes two ambiguous emancipation statements, one after the other, and dies without clarification. The ruling determines how much of each slave is freed, with an intra-Hanafi dispute between Abu Hanifa/Abu Yusuf and Muhammad al-Shaybani regarding the dākhil (the slave who entered after the first statement). The lesson walks through the logic of the Shaykhayn, Muhammad’s counterargument, and the application when the master is terminally ill, requiring proportional reduction of the bequest.
+
+Guided Path
+1
+Identify the three slaves and the sequence of events
+Label the three slaves: thābit (present for both declarations), khārij (present for first, exited before second), dākhil (entered after first, present only for second). The master says 'one of you is free' twice, then dies without clarifying.
+The thābit is the one against whom both statements were repeated; this is by consensus.
+2
+Determine the freedom shares of thābit and khārij
+The first declaration is divided between thābit and khārij, each getting half (1/2 each). The second declaration is divided between thābit and dākhil. For thābit, half of the second declaration (1/4) overlaps with his already freed half, so that overlapping portion is void (laghā). Thus thābit gets 1/2 + 1/4 = 3/4. Khārij gets only 1/2 from the first declaration (the second does not involve him).
+Thābit's total is 3/4: 1/2 from first, 1/4 from second (the remaining 1/4 of the second is void).
+3
+Analyze the intra-Hanafi dispute for the dākhil
+Muhammad argues that the second declaration is divided equally between thābit and dākhil, so each gets 1/4 (since thābit effectively receives only 1/4 due to the impediment). The Shaykhayn argue that the impediment (thābit's prior half) is specific to thābit; dākhil has no impediment, so he receives the full half from the second declaration.
+The thamarah al-khilaf: dākhil freed by 1/2 (Shaykhayn) vs 1/4 (Muhammad).
+4
+Apply the terminal illness limitation
+If the master is terminally ill and the emancipation exceeds one-third of the estate (since it is a bequest), the freedom shares are proportionally reduced. The total freedom fractions (thābit 3/4, khārij 1/2, dākhil 1/2 or 1/4) sum to 7/4 (Shaykhayn) or 6/4 (Muhammad). This is scaled to fit within 1/3 of the estate using an 'awl-like method.
+The calculation uses a base of 4 shares for the healthy case, then adjusts for the illness case.
+5
+Calculate the final distribution with sa'yah
+For Shaykhayn: total freedom shares = 7, with base 4, then set 1/3 of estate = 7 shares, so estate = 21 shares, each slave valued at 7 shares. Freed portion: thābit 3 (works off 4), khārij 2 (works off 5), dākhil 2 (works off 5). For Muhammad: total freedom shares =6, estate=18, each slave=6. Freed: thābit 3 (works off 3), khārij 2 (works off 4), dākhil 1 (works off 5). The partially freed slaves must perform sa'yah to pay the heirs the remaining value.
+Sa'yah is work to earn the unfreed portion; it is required when freedom exceeds the one-third bequest limit.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+باب العبد الذي يعتق بعضه. عتق ثلاثة أرباع الثابت ونصف كل من الآخرين ولو كان. أي عتق نصف إلخ الخارج والداخل عند الشيخين أي هذا القول عتق ثلاثة أرباع الثابت: [هو الذي أعيد عليه القول و لم يخرج وهذا بالإجماع. (عيني)] أي من كان له ثلاثة عبيد دخل عليه اثنان منهم فقال: أحدكما حر، ثم خرج الواحد منهما، ودخل آخر فأعاد قوله: أحدكما حر، ثم مات ولم يبين ما عناه بالعتق أولا وثانياً، عتق من الذي أعيد عليه القولان ثلاثة أرباعه وهو الملقب بالثابت، وعتق نصف كل واحد من الآخرين، وهو الخارج والداخل عند أبي حنيفة وأبي يوسف بحملها، وقال محمد: يعتق من الداخل ربعه، وقيد بقوله: كرر؛ لأنه لو لم يكرر هذا القول يعتق نصف كل واحد من الأولين اتفاقاً، وقيد بقوله: "ومات بلا بيان"؛ لأنه ما دام حياً يؤمر بالبيان، فإن بين يؤخذ ببيانه، أما عتق نصف الخارج، فإن الإيجاب الأول دائر بينه وبين الثابت فيتنصف بينهما. ثم الإيجاب الثاني دائر بين الداخل وبين الثابت فيتنصف بينهما، فالنصف الذي أصاب الثابت مشاع، فما أصاب النصف الذي عتق بالإيجاب الأول لغا، وما أصاب النصف الفارغ وهو الربع، فيعتق من الثابت ثلاثة أرباعه، النصف بالإيجاب الأول، والربع بالإيجاب الثاني، وأما الداخل فيعتق منه النصف بالإيجاب الثاني عند الشيخين، وربعه عند محمد؛ لأن الإيجاب الثاني لما أوجب عتق ربع من الثابت فكذا من الداخل؛ لأنه ينتصف بينهما، وللشيخين: أن المانع من عتق النصف مخصوص بالثابت؛ لكون نصفه معتقاً بالإيجاب الأول، ولا مانع بالداخل فيعتق نصفه. فإن قيل: ينبغي أن يعتق كل واحد من العبيد ولا يجب عليهم السعاية سواء خرجوا من الثلث أو لا عند الصاحبين، بناء على أن الإعتاق لا يتجزأ عندهما، قلنا: الإعتاق إنما لا يتجزأ عندهما إذا صادف محلاً معلوماً، أما إذا ثبت بطريق التوزع باعتبار الأحوال فلا؛ لأنه حينئذ ثبت ضرورة والثابت بالضرورة يتقدر بقدرها ولا يعدد موضعها. (مستخلص، مسكين) ولو كان إلخ: أي لو قال ذلك القول في مرض موته و لم تجز الورثة ولا مال له سوى العبيد الثلاثة وقيمتهم متساوية، قسم ثلث التركة على هذا الطريق بأن نقول: حق الخارج في النصف، وحق الثابت في ثلاثة الأرباع، وحق الداخل عند الشيخين في النصف أيضاً، فتحتاج إلى مخرج له نصف وربع، وأقله أربعة، فحق الخارج في سهمين وحق الثابت في ثلاثة، وحق الداخل في سهمين فبلغت سهام العتق بطريق العول سبعة، وفي قسمة التركات الأربعة لا تعول؛ لأنه لا يجتمع فيها نصف وربع، فيجعل ثلث المال سبعة؛ لأن العتق في المرض وصية ومحل نفاذها الثلث. وإذا صار ثلث المال سبعة يكون ثلثا المال أربعة عشر وهي سهام السعاية، وصار جميع المال أحداً وماله ثلاثة أعبد فيصير كل عبد لسبعة، يعتق من الخارج سهمان، ويسعى في خمسة، ويعتق من الداخل سهمان، ويسعى في خمسة، ويعتق من الثابت ثلاثة ويسعى في أربعة فبلغت سهام الوصية سبعة، وسهام السعاية أربعة عشر، فاستقام الثلث والثلثان، وعند محمد حق الداخل في الربع أي في سهم، فكان سهام العتق عنده ستة، وتجعل كل رقبة ستة وسهام السعاية اثنى عشر وجميع المال ثمانية عشر، فيعتق من الثابت ثلاثة، ويسعى في ثلاثة، ومن الخارج سهمان ويسعى في أربعة ومن الداخل سهم، ويسعى في خمسة، يقرع بينهم، ويقوم الوارث مقامه في البيان، وعن أحمد يقرع في الحياة والممات وهذه المسألة على ثلاثة أوجه: الأول: أن يموت المولى قبل البيان، وقد ذكر حكمه والثاني: أن يموت العبد فإن مات الثابت عتق الخارج والداخل؛ لأن مزاحمة الثابت تبطل بموته، وإن مات الداخل، قيل للمولى وقع العتق على أيهما شئت، وإن مات الخارج تعين الثابت بالكلام الأول وبطل الكلام الثاني؛ لأن المضموم إليه حر، والثالث أن يكون الكل بالحياة، فحكمه أن المولى يجبر على البيان؛ لأنه هو المبهم. (مستخلص، مسكين، عيني)
+Chapter on the slave who is partially emancipated. (The ruling:) three-fourths of the constant (thābit) is freed, and half of each of the other two, even if [the master repeated the statement]. That is: half of the one who exited (khārij) and the one who entered (dākhil) according to the two shaykhs (Abu Hanifa and Abu Yusuf). They said: this statement: three-fourths of the constant is freed. [It is the one against whom the statement was repeated and did not exit, and this is by consensus. ('Aynī)] That is: if someone had three slaves, two of them entered upon him and he said: 'One of you is free,' then one of them exited, and another entered, and he repeated his statement: 'One of you is free,' then he died without clarifying what he meant by the first and second emancipation. Then from the one against whom the two statements were repeated, three-fourths is freed—that is the one called 'thābit'—and half of each of the other two is freed, namely the khārij and the dākhil according to Abu Hanifa and Abu Yusuf, relying on their analogy. Muhammad said: from the dākhil, one-fourth is freed. He restricted it by saying 'he repeated'; because if he had not repeated this statement, half of each of the first two would be freed by agreement. And he restricted it by saying 'and he died without clarification'; because as long as he is alive, he is commanded to clarify, and if he clarifies, his clarification is followed. As for the freeing of half of the khārij, the first declaration is divided between him and the thābit, so it is split between them. Then the second declaration is divided between the dākhil and the thābit, so it is split between them. The half that hits the thābit is shared; so what hits the half that was freed by the first declaration is void (laghā), and what hits the empty half, which is one-fourth, is freed from the thābit. So three-fourths of the thābit is freed: half by the first declaration, and one-fourth by the second. As for the dākhil, half of him is freed by the second declaration according to the two shaykhs, and one-fourth according to Muhammad. Because when the second declaration necessitated the freeing of one-fourth of the thābit, likewise from the dākhil, since it is split between them. The two shaykhs argue: the impediment to freeing half is specific to the thābit, because half of him is already freed by the first declaration, and there is no impediment for the dākhil, so half of him is freed. If it is said: it should be that each slave is freed entirely, and no sa'yah is due upon them, whether they come from the third or not, according to the two companions, based on the principle that emancipation is indivisible in their view. We say: emancipation is only indivisible in their view when it encounters a known locus; but if it is established by way of distribution according to circumstances, then it is not; because then it is established by necessity, and what is established by necessity is measured by its measure and does not multiply its place. (Mukhtaṣar, Miskīn) And if it was... etc.: That is, if he said that statement in his terminal illness, and the heirs did not give permission, and he has no property except the three slaves, and their values are equal, then one-third of the estate is divided according to this method: we say: the right of the khārij is in half, the right of the thābit is in three-fourths, and the right of the dākhil according to the two shaykhs is also in half. So we need a denominator for half and one-fourth, and its smallest is four. So the right of the khārij is in two shares, the thābit's right in three, and the dākhil's right in two, so the shares of emancipation ('awl method) become seven. In the division of inheritances, four does not have 'awl because half and one-fourth do not combine. So one-third of the property is made seven, because emancipation in illness is a bequest and its effective area is one-third. When one-third of the property becomes seven, two-thirds become fourteen, which are the shares of sa'yah. All of the property becomes twenty-one, and he has three slaves, so each slave is worth seven. From the khārij, two shares are freed, and he performs sa'yah for five; from the dākhil, two shares are freed, and he performs sa'yah for five; from the thābit, three shares are freed, and he performs sa'yah for four. So the shares of the bequest are seven, and the shares of sa'yah are fourteen, so one-third and two-thirds are harmonious. According to Muhammad, the right of the dākhil is in one-fourth, i.e., one share, so the shares of emancipation according to him are six. He makes each slave six, and the shares of sa'yah are twelve, and all the property is eighteen. From the thābit, three are freed, and he performs sa'yah for three; from the khārij, two shares are freed, and he performs sa'yah for four; from the dākhil, one share is freed, and he performs sa'yah for five. They draw lots among them, and the heir stands in his place regarding clarification. Ahmad is reported to have said: lots are drawn during life and death. This issue has three aspects: first, that the master dies before clarification, and its ruling has been mentioned; second, that a slave dies: if the thābit dies, the khārij and dākhil are freed, because the competition of the thābit is nullified by his death; if the dākhil dies, it is said to the master: apply the emancipation to whichever you wish; if the khārij dies, the thābit is determined by the first statement and the second statement is void, because the person joined to him is free; third, that all are alive, and its ruling is that the master is compelled to clarify, because he is the one who made it ambiguous. (Mukhtaṣar, Miskīn, 'Aynī)
+Source pages p. 16
+
+Commentary
+This passage is an expanded commentary on the chapter of partial emancipation in Kanz al-Daqa'iq. It addresses a specific scenario: a master has three slaves, two enter, he says 'one of you is free', then one of those two exits, a third enters, and he repeats 'one of you is free', then dies without clarifying. The ruling determines how much of each slave becomes free. The slave who was present for both declarations (thābit) is freed by 3/4: 1/2 from the first declaration and 1/4 from the second (the other 1/4 of the second declaration is void because it overlaps with the first). The slave who exited (khārij) is freed by 1/2 from the first declaration (since there is no later interference). The slave who entered (dākhil) is freed by 1/2 according to Abu Hanifa and Abu Yusuf, but only 1/4 according to Muhammad. The Shaykhayn argue that the dākhil has no prior emancipation, so the full 1/2 from the second declaration applies to him. Muhammad draws an analogy with the thābit, where the second declaration only gave 1/4 due to the impediment of prior emancipation. The Shaykhayn respond that the impediment is specific to the thābit and does not transfer to the dākhil. The passage then addresses the case where this occurs in the master's terminal illness and the bequest (the emancipation) is limited to one-third of the estate. Using an 'awl-like method (proportional reduction from inheritance), the shares of freedom and sa'yah (work to pay off remaining value) are calculated. The final part discusses what happens if a slave dies before clarification, with different outcomes depending on which slave dies.
+
+Key Terms
+ثابت (thābit): The slave who remains present for both declarations (the constant one).
+خارج (khārij): The slave who was present for the first declaration but exited before the second.
+داخل (dākhil): The slave who entered after the first declaration and was present only for the second.
+إيجاب (ījāb): A declaration or utterance that creates an obligation; here, the statements of emancipation ('one of you is free').
+سعاية (sa'yah): The work performed by a partially freed slave to earn money to pay off the remaining portion of his value to the master's heirs.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the Shaykhayn (Abu Hanifa and Abu Yusuf), what fraction of the dākhil slave is freed in the repeated ambiguous emancipation case?
+A) 1/4
+B) 1/2
+C) 3/4
+D) 1/8
+
+Key Takeaway
+The dākhil slave's freedom share is 1/2 (Shaykhayn, mufta bihi) or 1/4 (Muhammad), depending on whether the impediment of prior emancipation is considered transferable.
+
+Pages p. 16 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 31
+Module 5 · Lesson 2
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Ruling on Both Co-Owners Claiming the Child: Hanafi vs Shafi'i
+Inter-madhhab dispute: Hanafi vs Shafi'i on co-ownership of a child
+
+Learning Objective
+By the end of this lesson, you will be able to state the Hanafi ruling when both co-owners claim the child of a jointly-owned slave-girl and evaluate the Shafi'i counter-argument using the Hanafi proofs.
+
+Core Idea
+A child can be legally attributed to both co-owners for inheritance and custody, even though biological paternity is singular.
+
+In this lesson, we examine a unique case from Hanafi fiqh: when two co-owners of a slave-girl both claim her child as their own. The Hanafi school rules that the child's lineage is established from both, with specific legal and financial consequences. We will also explore the opposing view of Imam al-Shafi'i, who insists on referring the matter to a lineage expert (qa'if). Understanding this dispute sharpens your ability to compare proofs and appreciate the Hanafi methodology.
+
+Guided Path
+1
+State the Hanafi position
+Identify the exact ruling: the child's lineage is established from both co-owners, she becomes their umm walad, each owes half the dower, and the child inherits from both as a full son. Note that the co-owners then offset their mutual claims (taqasu).
+This is the mufta bihi position; it is based on the practice of Umar, Ali, Ibn Abbas, and Zayd ibn Thabit.
+2
+Identify the opponent's view
+Al-Shafi'i argues that the matter must be referred to a qa'if (an expert in lineage through resemblance). His main proofs: the Prophet's pleasure at the qa'if's statement about Usama, and that lineage is indivisible.
+The qa'if's judgment is based on physical resemblance, which the Hanafis consider unreliable.
+3
+Follow the opponent's proof
+Examine the Shafi'i reasoning: a child cannot have two biological fathers; lineage is indivisible like marriage; the Prophet was pleased by the qa'if's word, indicating it is a valid proof.
+They also argue that establishing lineage from two persons is impossible.
+4
+Analyse the Hanafi response
+The Hanafis respond that the Prophet's pleasure was to silence the polytheists' taunts, not to establish a legal precedent. The qa'if's statement is a report of a situation, not a binding proof. Moreover, relying on the qa'if involves speculation (rajan bi al-ghayb) and may lead to false accusations (qadhf).
+The Hanafi proof is stronger because it is based on the practice of the Companions, which occurred in their presence without disapproval.
+5
+Determine the thamarah al-khilaf
+The practical difference: Hanafi allows the child to inherit from both co-owners and receive maintenance from both; Shafi'i attributes the child to one father only, as determined by the qa'if. This affects inheritance shares and the mother's status.
+The Hanafi position also explains that while lineage itself is indivisible, its attendant rulings (inheritance, custody) are divisible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن ادعياه معاً ثبت نسبه منهما وهي أم ولدهما، وعلى كل واحد نصف العقر أي مجتمعين من الشريكين وورث من كل ارث ابن كامل، وتقاصا، ووران وإن ادعياه معاً: أي ادعى الشريكان نسب الولد الذي حبلت به أمه في ملكهما . (عيني) منهما: أي من الشريكين إذا كان العلوق في ملكهما . (ط) عيني) وهي أم ولدهما الأن دعوة كل منهما في نصيبه راجعة على صاحبه فتتعه الأم. (عيني هذا عندنا وقال الشافعي: يرجع فيه إلى قول القافة . جمع قائف وهو الذي يعرف آثار الآباء في الأبناء أي شبه الأولاد بالآباء؛ لأن إثبات النسب . من شخصين مع علمنا أن الولد لا يخلق من مائين متعذر، وقد سر عليه السلام بقول القائف في أسامة بن زيد له ولأن النسب مما لا يتجزأ فلا تتصور فيه الشركة كالنكاح. ولنا: كتاب عمر الله إلى شريح لبسا فلبس عليهما، ولو بينا لبين لهما، هو ابنهما ، يرثهما ويرثانه، وهو للباقي منهما، وكان ذلك بمحضر من الصحابة غير نكير، من وهو مذهب علي وابن عباس وزيد بن ثابت ، ولأنه رجم بالغيب، والله تعالى هو المنفرد بعلم الغيب ويعلم ما في الأرحام؛ ولأن فيه قذفاً للمحصنات، ولهذا صار قذفا في غير هذه الحالة إجماعاً. وسرور النبي و كان لقطع طعن المشركين؛ لأنهم كانوا يطعنون في نسب أسامة بن زيد لاختلاف لونهما، وكانوا يعتقدون أن القائف يعلم ذلك، ولما مر محزز المدلجي عليهما، فقال: هذه الأقدام بعضها من بعض انقطع طعنهم، ولزمت الحجة عليهم على زعمهم، فسر عليها لذلك؛ لا لأن قول القائف حجة شرعاً؛ ولأنه حكاية حال فلا يمكن الاحتجاج به، والنسب وإن كان لا يتجزأ لكن يتعلق به أحكام متجزئة كالميراث والنفقة والحضانة والتصرف في المال، وأحكام غير متجزئة كالنسب وولاية الإنكاح فما يقبل التجزئة يثبت بينهما على التجزئة وما لا يقبلها يثبت في حق كل منهما على الكمال كأنه ليس معه غيره [ رمز الحقائق: ٣٤٠/١] (فتح) نصف العقر: لأن الوطء في المحل المحترم لا يخلو عن حد أو عقر وقد تعذر الأول للشبهة فتعين الثاني، وقوله: "وتقاصا" أي بماله على الآخر من قيمة نصفها ونصف عقرها فيتقابل الحقان ويسقطان بالمعاوضة، فإن قيل: لا فائدة في وجوب العقر؛ لأنه يصير قصاصاً، قلنا: فيه فائدة، فربما يبرأ أحدهما الآخر من حقه فيبقى حق الآخر ويتوجه المطالبة، ومن فوائده أنه لو قوم نصيب أحدهما بالدراهم والآخر بالذهب كان له أن يدفع الدراهم ويأخذ الذهب، ولو كان نصيب أحدهما أكثر كان له أخذ الزيادة؛ إذ المهر يجب لكل واحد منهما بقدر ملكه فيها، بخلاف البنوة والإرث منه حيث يكون لهما على السواء؛ لأن النسب لا يتجزأ، وهو في الحقيقة لأحدهما، فيكون بينهما على السواء؛ لعدم الأولوية رمز الحقائق: ٣٤١/١] (فتح) وتقاصا : أي تعاوضا بأن يطرح أحد الشريكين نصيبه عوضاً عن نصيب الآخر، ولا يأخذ أحدهما حقه عن الآخر. (محشي) من كل أي من كل واحد من الشريكين (عيني كامل لأن كل واحد منهما أقر له على نفسه بثبوته على الكمال فيقبل قوله. (عيني)
+And if both claim it together, his lineage is established from both, and she is their umm walad, and on each one is half the dower, that is jointly from the two co-owners; and he inherits from each an inheritance of a complete son, and they offset (taqasu) against each other. And 'both claim it together' means the two co-owners claimed the lineage of the child whose mother conceived in their ownership. ('Ayni) 'From both' means from the two co-owners if the coitus occurred in their ownership. (Tahawi, 'Ayni) And she is their umm walad, because the claim of each, in his own share, returns upon his partner, so the mother is shared. ('Ayni) This is our position. And Al-Shafi'i said: The matter is referred to the statement of the qa'if (one skilled in recognizing lineage through physical resemblance). He is one who knows the traces of fathers in children, meaning the resemblance of children to fathers, because establishing lineage from two persons, while we know that a child cannot be created from two sperms, is impossible. And the Prophet (peace be upon him) was pleased by the word of the qa'if regarding Usama ibn Zaid. And because lineage is indivisible, so partnership in it is inconceivable, like marriage. And we have: The letter of Umar (may Allah be pleased with him) to Shurayh: 'Make them both the fathers, and they will both be fathers to him; it is his son, he inherits from them and they inherit from him, and he belongs to the one who survives.' And that was in the presence of the Companions without disapproval. And it is the madhhab of Ali, Ibn Abbas, and Zayd ibn Thabit. And because the qa'if's judgment is casting into the unseen, and Allah alone knows the unseen and knows what is in the wombs; and because it involves accusing chaste women (qadhf), which is considered qadhf by consensus in other cases. And the Prophet's pleasure was to cut off the taunt of the polytheists, because they were taunting the lineage of Usama ibn Zid due to the difference in their skin colors, and they believed that the qa'if knows that. When Muhazziz al-Madliji passed by them and said: 'These feet are from each other,' their taunts stopped, and the argument was established against them according to their belief; so he was pleased for that reason, not because the qa'if's statement is legally authoritative; and because it is a report of a situation, so it cannot be used as a proof. And even though lineage is indivisible, there are divisible rulings attached to it, such as inheritance, maintenance, custody, and disposal of wealth, and non-divisible rulings such as lineage itself and the right to give in marriage. So what accepts division is established between them dividedly, and what does not accept division is established for each completely, as if there is no one else. (Ramz al-Haqaiq 1/340) (Fath) 'Half the dower' because intercourse in a protected place is not free from either a fixed penalty (hadd) or dower; the first was prevented due to the doubt, so the second is imposed. And his statement: 'And they offset (taqasu)' means by what each owes the other of the value of half of her and half her dower, so the two rights meet and cancel each other by exchange. If it is said: There is no benefit in the obligation of dower because it becomes set-off, we say: There is a benefit; perhaps one may forgive the other his right, so the other's right remains and he can demand it. Among its benefits: if one's share is evaluated in dirhams and the other's in gold, he may pay the dirhams and take the gold; and if one's share is greater, he may take the excess. Since the dower is due to each according to his ownership in her, unlike sonship and inheritance from him, where it is equally for both because lineage is indivisible, and in reality, it belongs to one of them, so it is equal for both due to the lack of preference. (Ramz al-Haqaiq 1/341) (Fath) 'And they offset' means they exchange by one partner giving his share as compensation for the other's share, and neither takes his right from the other. (Mahashi) 'From each' means from each of the two co-owners ('Ayni, Kamal) because each one has acknowledged to himself that it is established fully, so his statement is accepted. ('Ayni)
+Source pages p. 31
+
+Commentary
+This passage is an inter-madhhab dispute about the case where both co-owners claim the child of a jointly-owned slave-girl. The Hanafi position is that the child's lineage is established from both, she becomes their umm walad, each owes half the dower, and the child inherits from each as a full son; the two co-owners then offset their mutual claims. The opposing view of al-Shafi'i is to refer the matter to a qa'if (a lineage expert who judges by resemblance), arguing that a child cannot have two fathers and that lineage is indivisible. The Hanafi school counters with several proofs: a letter from Umar to Shurayh commanding that both be considered fathers; this was accepted by the Companions and is the position of Ali, Ibn Abbas, and Zayd ibn Thabit. They argue that resorting to a qa'if is tantamount to casting into the unseen and involves accusing chaste women (qadhf). The pleasure of the Prophet regarding the qa'if in the case of Usama was to silence the polytheists, not to establish it as a legal proof; it was a report of a situation, not a binding ruling. The Hanafis also explain that while lineage itself is indivisible, its attendant rulings (like inheritance, maintenance) are divisible, so the child can inherit from both and receive maintenance from both, while the non-divisible aspects (like the right to give in marriage) are held completely by each. The passage then details the practicalities of the offset (taqasu) and the calculation of the dower, noting that the dower is owed in proportion to each co-owner's share in the slave-girl, while inheritance is equal due to the indivisibility of lineage.
+
+Key Terms
+القافة (al-qāfa): The science of identifying lineage through physical resemblance; a qa'if is an expert who determines parentage by looking at features.
+التقاص (al-taqāṣ): Offset; mutual cancellation of debts between the two co-owners: each one's liability for half the value and half the dower is set off against the other.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the Hanafi school, what happens if both co-owners of a slave-girl claim her child?
+A) The child is attributed to the one who the qa'if decides
+B) The child inherits from both as a full son, and both are considered fathers
+C) The child is free and belongs to neither
+D) The child is considered the son of the first to claim
+
+Key Takeaway
+In Hanafi fiqh, when both co-owners claim the child, the child's lineage is established from both for all divisible legal purposes.
+
+Pages p. 31 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 31
+Module 5 · Lesson 3
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Joint Claim of Paternity by Co-Owners
+Ruling and proof for two co-owners claiming paternity of a child
+
+Learning Objective
+By the end of this lesson, you will be able to state the Hanafi ruling when two co-owners both claim paternity of a child from their jointly owned slave-girl, and explain the Hanafi evidence and rebuttal against the Shafi'i reliance on the qa'if.
+
+Core Idea
+When two co-owners jointly claim a child, Hanafi law establishes lineage from both without need for a physiognomist.
+
+This lesson addresses a unique scenario in classical Hanafi fiqh: two partners jointly own a slave-girl, and both claim that the child she bears is theirs. The Hanafi school rules that the child's lineage is established from both partners, with full inheritance and compensation. This ruling is supported by a Companion precedent and a critical analysis of the Shafi'i argument based on the qa'if (physiognomist). You will learn the substantive ruling, its dalil, and the inter-madhhab debate.
+
+Guided Path
+1
+State the Hanafi ruling and its components
+Identify the key consequences: lineage from both, umm walad status, payment of half 'aqr each, and inheritance pattern.
+2
+Locate the Hanafi dalil
+Find the proof cited: 'Umar's letter to Shuraih and the incident of Usama ibn Zayd. Understand how these are used as evidence.
+3
+Understand the Shafi'i objection
+The Shafi'i school argues that lineage cannot be from two people, so a qa'if (physiognomist) must decide. Note their proof: the Prophet's approval of a qa'if in Usama's case.
+4
+Analyze the Hanafi response
+The Hanafi rebuttal: the Prophet's approval was to rebut polytheists, not as legal proof. The qa'if's statement is conjecture, not binding evidence. The letter of 'Umar had sahabi consensus.
+5
+Determine the practical consequence (thamarah al-khilaf)
+In practice, Hanafis establish lineage from both with full inheritance; Shafi'is would refer to a qa'if, potentially ruling for only one father.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن ادعياه معاً ثبت نسبه منهما وهي أم ولدهما، وعلى كل واحد نصف العقر أي مجتمعين أي نسب الولد أي الأمة وورث من كل ارث ابن كامل، من الشريكين وتقاصا، ووران وإن ادعياه معاً: أي ادعى الشريكان نسب الولد الذي حبلت به أمه في ملكهما . (عيني) منهما: أي من الشريكين إذا كان العلوق في ملكهما . (ط) عيني) وهي أم ولدهما الأن دعوة كل منهما في نصيبه راجعة على صاحبه فتتعه الأم. (عيني هذا عندنا وقال الشافعي: يرجع فيه إلى قول القافة . جمع قائف وهو الذي يعرف آثار الآباء في الأبناء أي شبه الأولاد بالآباء؛ لأن إثبات النسب . من شخصين مع علمنا أن الولد لا يخلق من مائين متعذر، وقد سر عليه السلام بقول القائف في أسامة بن زيد له ولأن النسب مما لا يتجزأ فلا تتصور فيه الشركة كالنكاح. ولنا: كتاب عمر الله إلى شريح لبسا فلبس عليهما، ولو بينا لبين لهما، هو ابنهما ، يرثهما ويرثانه، وهو للباقي منهما، وكان ذلك بمحضر من الصحابة غير نكير، من وهو مذهب علي وابن عباس وزيد بن ثابت ، ولأنه رجم بالغيب، والله تعالى هو المنفرد بعلم الغيب ويعلم ما في الأرحام؛ ولأن فيه قذفاً للمحصنات، ولهذا صار قذفا في غير هذه الحالة إجماعاً. وسرور النبي و كان لقطع طعن المشركين؛ لأنهم كانوا يطعنون في نسب أسامة بن زيد لاختلاف لونهما، وكانوا يعتقدون أن القائف يعلم ذلك، ولما مر محزز المدلجي عليهما، فقال: هذه الأقدام بعضها من بعض انقطع طعنهم، ولزمت الحجة عليهم على زعمهم، فسر عليها لذلك؛ لا لأن قول القائف حجة شرعاً؛ ولأنه حكاية حال فلا يمكن الاحتجاج به، والنسب وإن كان لا يتجزأ لكن يتعلق به أحكام متجزئة كالميراث والنفقة والحضانة والتصرف في المال، وأحكام غير متجزئة كالنسب وولاية الإنكاح فما يقبل التجزئة يثبت بينهما على التجزئة وما لا يقبلها يثبت في حق كل منهما على الكمال كأنه ليس معه غيره (فتح) نصف العقر: لأن الوطء في المحل المحترم لا يخلو عن حد أو عقر وقد تعذر الأول للشبهة فتعين الثاني، وقوله: "وتقاصا" أي بماله على الآخر من قيمة نصفها ونصف عقرها فيتقابل الحقان ويسقطان بالمعاوضة، فإن قيل: لا فائدة في وجوب العقر؛ لأنه يصير قصاصاً، قلنا: فيه فائدة، فربما يبرأ أحدهما الآخر من حقه فيبقى حق الآخر ويتوجه المطالبة، ومن فوائده أنه لو قوم نصيب أحدهما بالدراهم والآخر بالذهب كان له أن يدفع الدراهم ويأخذ الذهب، ولو كان نصيب أحدهما أكثر كان له أخذ الزيادة؛ إذ المهر يجب لكل واحد منهما بقدر ملكه فيها، بخلاف البنوة والإرث منه حيث يكون لهما على السواء؛ لأن النسب لا يتجزأ، وهو في الحقيقة لأحدهما، فيكون بينهما على السواء؛ لعدم الأولوية (فتح) وتقاصا : أي تعاوضا بأن يطرح أحد الشريكين نصيبه عوضاً عن نصيب الآخر، ولا يأخذ أحدهما حقه عن الآخر. (محشي) من كل أي من كل واحد من الشريكين كامل لأن كل واحد منهما أقر له على نفسه بثبوته على الكمال فيقبل قوله. (عيني) وورثا منه ارث أب، أي يرث المدعيان من الابن إرث أب واحد وهو السدس، والعصوبة المحضة؛ لأن الأب في الحقيقة أحدهما، وهو غير معلوم فيتنصف الإرث بينهما، فإن مات أحدهما يرث الباقي جميع الميراث، ولا يكون نصفه لورثة الميت لكونهم محجوبين بأبوة الباقي لثبوتها له كاملاً، فيقتسمان الإرث نصفين، وإن كان أحدهما أكثر نصيباً من الآخر؛ لعدم تجزي النسب، ويتبع النسب الإرث والولاء. (مستخلص، فتح) إرث أب: أي واحد؛ لأن المستحق أحدهما فيقسمان نصيب الأب الواحد لعدم الأولوية. (عيني)
+And if they both claim him together, his lineage is established from both of them, and she is an umm walad for both of them, and upon each one is half of the 'aqr (compensation). And each inherits from him the inheritance of a complete son. And they mutually settle accounts. And if they both claim him together: i.e., the two partners claim the lineage of the child whom his mother conceived while in their joint ownership. (Ayni) From both of them: i.e., from the two partners if the conception occurred while in their joint ownership. And she is an umm walad for both of them, because the claim of each in his share reverts to his partner, so she becomes an umm walad. (Ayni) This is our position. Al-Shafi'i said: The matter is referred to the qa'if (physiognomist). ... (continued fully in Arabic)
+Source pages p. 31
+
+Commentary
+This passage deals with the case of two partners who jointly own a slave-girl, and both claim that the child she bears is theirs. The Hanafi ruling is that the child's lineage is established from both partners, making the slave-girl an umm walad for both. Each partner must pay half of the 'aqr (compensation for intercourse) because the intercourse occurred under a legal ambiguity (shubha). The child inherits from each partner as a full son, and each partner inherits from the child as a full father. The partners mutually settle accounts regarding the value of the slave-girl and the 'aqr. The text then discusses the Shafi'i opinion that the matter should be referred to a qa'if (physiognomist), and the Hanafi refutation using the precedent of 'Umar's letter to Shuraih and the incident of Usama ibn Zayd. The Hanafi position is supported by the principle that the child inherits fully from each, and the 'aqr is divided based on ownership shares.
+
+Key Terms
+القافة (al-qāfah): Physiognomists who claim to recognize lineage by resemblance
+العقر (al-‘aqr): Compensation paid by a man who has intercourse with a woman he does not own or is married to, due to shubha
+الاستيلاد (al-istīlād): A slave-girl becoming umm walad by bearing her master's child
+
+Key Terms from Source Passage
+
+Checkpoint
+In the case of two co-owners claiming a child from their jointly owned slave-girl, how much 'aqr does each pay?
+A) Full 'aqr
+B) Half 'aqr
+C) No 'aqr
+D) Double 'aqr
+
+Key Takeaway
+Hanafi school establishes lineage from both co-owners based on the precedent of 'Umar's letter and the principle that inheritance can be divided even if lineage cannot.
+
+Pages p. 31 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 204
+Module 5 · Lesson 4
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Inheritance of the Apostate's Child from a Kitabi Slave-Girl
+Rulings on paternity, freedom, and inheritance
+
+Learning Objective
+By the end of this lesson, you will be able to state the four scenarios for inheritance of the child of an apostate from a slave-girl and explain which scenario excludes inheritance and why.
+
+Core Idea
+A child born to an apostate's Kitabi slave-girl does not inherit if born six months or more after apostasy.
+
+This passage from Kanz al-Daqaiq and its commentary deals with a specific case: a man apostatises and later claims a child born to his Kitabi slave-girl. The rulings cover the child's freedom, lineage, and inheritance. The key issue is how the child's religion is determined, which in turn affects inheritance. Let's walk through the four possible scenarios and the legal reasoning behind each.
+
+Guided Path
+1
+Identify the base ruling
+The text states that the child is free, paternity is established via istilad, but the child does NOT inherit the apostate father. First note this default.
+2
+Introduce the exception for a Muslim mother
+The text adds 'if she was Muslim, the son inherits.' This shows that the mother's religion changes the ruling. Pause to understand why religion matters.
+The child's religion follows the parent with stronger Islamic status: the apostate father is closer to Islam than a Kitabiyya, but a Muslim mother is stronger than the apostate father.
+3
+Enumerate the four scenarios
+Based on two variables (mother's religion: Kitabiyya vs Muslim; time of birth: less than 6 months vs 6+ months after apostasy), list all four combinations. The commentary does this explicitly.
+1. Kitabiyya, 6+ months → no inheritance. 2. Kitabiyya, <6 months → inherits. 3. Muslim, 6+ months → inherits. 4. Muslim, <6 months → inherits.
+4
+Analyse the reasoning (talil) for each scenario
+Scenario 1: child follows apostate father in religion (apostate), and apostates cannot inherit. Scenarios 2-4: child is Muslim (either conceived before apostasy or following Muslim mother), so inherits. Confirm the logic.
+The crucial distinction is whether the child's existence as a Muslim can be established before or after apostasy.
+5
+Note the intra-Hanafi ikhtilaf
+The commentary mentions that according to Abu Yusuf and Hasan, the child must be an heir at the time of apostasy, which could exclude scenario 4. According to Muhammad, the critical time is death/judgment, which includes scenario 4. The relied-upon view (mufta bihi) is the latter.
+This difference only affects scenario 4 (Muslim mother, <6 months); under the weaker narration it would not inherit.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولدت أمة له نصرانية لستة أشهر مذ ارتد، فادعاه، فهي أم ولده، أي للمرتد
+أو أكثر
+أي !
+الأمة لصحة استيلاده
+وإن عاد: أي المرتد إلى دار الإسلام. فما وجده في يد إلخ: أي إذا عاد المرتد مسلماً بعد الحكم بلحاقه بدار الحرب، فما وجد من ماله عينا في يد وارثه أخذه؛ لأن الوارث إنما يخلفه لاستغنائه، فإذا عاد مسلماً احتاج إليه، وبطلت خلفية الوارث، فيقدم على الوارث؛ لحاجته، ثم إنما يعود إلى ملكه بقضاء أو رضاء من الوارث؛ لأنه دخل في ملكه بحكم شرعي، فلا يخرج عن ملكه إلا بطريقه. وقيد بقوله: بعد الحكم بلحاقه"؛ لأنه لو عاد المرتد مسلماً قبل القضاء به جعل كأنه لم يلحق، وكأنه لم يزل مسلماً، فيأخذ ما يجده من ماله بغير قضاء ورضاء ويضمن ما أتلفه ولا يعتق مدبره وأم ولده، ولم يحل دينه المؤجل، وفيه إشارة إلى أنه لا يسقط بالردة ما هو من حقوق العباد. (مستخلص، فتح، عيني)
+عاد
+مسلماً
+وإلا لا [ أي وإن لم يجد شيئاً في يد وارثه بأن أخرجه الوارث عن ملكه أو أتلفه] أي وإن لم يجد المرتد الذي بعد الحكم بلحاقه شيئاً . من ماله في يد الوارث، لا يضمن الوارث؛ لأن الوارث تصرف بحكم الشرع فلا يضمن ولا سبيل له على أمهات أولاده ولا مدبريه؛ لأن القاضي قضى بعتقهن عن ولاية شرعية، فلا يمكن نقضه، ولو جاء مسلماً قبل أن يقضي القاضي بذلك لم يخرج عن ملكه. [رمز الحقائق: ٤٤٤/١] (فتح) نصرانية: أراد بها الكتابية من إيراد الخاص وإرادة العام مجازاً. (فتح) فادعاه أي ادعى المرتد الولد قيد به؛ لأن نسب ولد الأمة لا يثبت بدون الدعوة. (عيني، فتح)
+فهي أم ولده أي إذا وطي المرتد جاريته الكتابية كانت له في حالة الإسلام فجاءت بولد لستة أشهر أو أكثر منذ ارتد فادعاه المرتد فهي أم ولده والولد حر، وهو ابنه أما صحة الاستيلاد فلما . في تصرفات المرتد من أن استيلاده نافذ بالاتفاق؛ لأن الاستيلاد لا يفتقر إلى حقيقة الملك كما في جارية الابن، فإذا صحت الاستيلاد فالولد ابنه، وأما كون الولد حراً؛ فلأن المرتد لا يسترق فيكون الولد مرتداً تبعا لأبيه؛ لأنه أقرب إلى الإسلام من الكتابية لكونه يجبر على الإسلام دون الأمة، فيكون حراً.
+وقوله: "ولا يرثه" أي الولد لا يرث المرتد مع ثبوت نسبه منه؛ لان الأم إذا كانت كتابية يكون الولد تبعاً لأبيه مرتدا لقربه إلى الإسلام والمرتد لا يرث أحداً ولا يمكن أن يجعل مسلماً حتى يرثه؛ لأنه جاءت به لستة أشهر، فلم يتيقن بوجوده عند الردة، حتى يكون مسلماً تبعا له، حتى لو ولدته لأقل من ستة أشهر يرثه؛ للتيقن بوجوده في البطن قبل الردة، فيكون مسلماً تبعاً للأب، ولا يمكن أن يجعل تبعاً للدار حتى يكون مسلماً؛ لأن تبعية الدار لا تظهر الأبوين، بخلاف الولد الصغير إذا ارتد أبواه حيث يجعل مسلماً تبعا للدار ما لم يلحقا به دار الحرب؛ مع لأنه ثبت له حكم الإسلام قبل ردتهما فيبقى على تلك الصفة ما لم يلحقا به دار الحرب، بخلاف ما نحن فيه، فإنه لم يثبت له حكم الإسلام [ رمز الحقائق: ٤٤٥/١] (مستخلص)
+وهو ابنه حر، ولا يرثه، ولو مسلمةً ورثه الابن إن مات على الرّدة، أو لحق بدار
+أي الولد
+لأن المرتد لا يسترق
+مرتدا
+الحرب، وإن لحق المرتدّ بماله، فظهر عليه فهو فيء، فإن رجع إلى دار الإسلام وذهب أي مع ماله بدار الحرب المال أي المال بمال، فظهر عليه فلوارثه، فإن الحق وقضي بعبده لابنه، فكاتبه، فجاء مسلماً، ..... أي على المال
+خير
+المرتد
+وهو ابنه: أي المرتد لصحة الاستيلاد ولا يرثه أي الولد لا يرث المرتد مع ثبوت نسبه منه. ولو مسلمة ورثه الابن أي إذا كانت الأمة مسلمة والمسألة بحالها بأن جاءت به لستة أشهر فأكثر، ورثه الابن؛ رهما ديناً والحاصل أن الصور أربعة يرث في ثلاث منها، ولا يرث في واحدة. لأنه مسلم تبعا لأمه؛ إذ هي . الأولى: أن الأمة كانت كتابية، وجاءت به لستة أشهر أو أكثر منذ ارتد لا يرث وهي مسألة المتن. الثاني: أنها جاءت به لأقل من ستة أشهر، فالولد يرث الثالث: إذا كانت مسلمة وجاءت به لستة أشهر أو أكثر، يرث، وهي أيضاً مسألة المتن. الرابع: أنها جاءت به لأقل منها، فيرث أيضاً، ولكن لا يتصور صورة المتن على قول أبي حنيفة إلا في الرواية التي رواه عنه محمد، فإنه يعتبر كونه وارثاً فيها وقت الموت أو القتل أو القضاء باللحاق، وأما على الروايتين اللتين رواهما الحسن وأبو يوسف عنه، فلا يتصور أن يرث؛ لعدم كونه وارثاً عند الردة. (عيني، فتح)
+(The commentary continues) And he is his son, free, and does not inherit him, and if she [the slave-girl] was Muslim, the son inherits if he dies upon apostasy or joins Dar al-Harb. And if the apostate joins Dar al-Harb with his wealth, then we overcome it, it is fay'. Then if he returns to Dar al-Islam and goes with his wealth to Dar al-Harb, and we overcome it, it is for his heir. The commentary: 'And he is his son' i.e. the apostate's son due to validity of istilad; 'and does not inherit him' i.e. the child does not inherit the apostate despite establishment of lineage. 'And if she was Muslim, the son inherits' i.e. if the slave-girl was Muslim and the case is the same, i.e. she gave birth after six months or more, the son inherits; because he is Muslim following his mother. The summary is that there are four scenarios: he inherits in three, and does not inherit in one. First: the slave-girl was Kitabiyya and gave birth after six months or more since apostasy: the child does not inherit; this is the case in the text. Second: she gave birth in less than six months: the child inherits. Third: if she was Muslim and gave birth after six months or more: he inherits; this is also a case in the text. Fourth: she gave birth in less than that: he also inherits. But according to Abu Hanifa, the scenario of the text regarding the fourth is only conceivable in the narration transmitted by Muhammad from him, where he considers the child an heir at the time of death, killing, or judgment of lahaq. But according to the two narrations from Hasan and Abu Yusuf, it is not conceivable for him to inherit, because he is not considered an heir at the time of apostasy. (Ayni, Fath)
+Source pages p. 204
+
+Commentary
+This passage continues the discussion of the apostate's child from a Kitabi slave-girl. The base text states that the child is free and is the apostate's son, but does not inherit from the apostate. There is an exception: if the slave-girl was Muslim, then the son inherits if the apostate dies or joins Dar al-Harb. The commentary then enumerates four scenarios based on two variables: (1) the religion of the mother (Kitabiyya or Muslim), and (2) the time of birth relative to the apostasy (less than six months or six months or more). The child inherits in three cases: (a) mother Kitabiyya, birth less than six months (since conception before apostasy makes child Muslim); (b) mother Muslim, birth six months or more (child Muslim following mother); (c) mother Muslim, birth less than six months (also Muslim). The only case where the child does not inherit is when the mother is Kitabiyya and birth occurs six months or more after apostasy (since the child is considered an apostate following the father and cannot inherit from an apostate). The commentary also notes a difference of opinion within the Hanafi school regarding the timing of inheritance qualification: according to Imam Muhammad, the child must be an heir at the time of death/judgment; according to Imam Abu Yusuf and Hasan, the child must be an heir at the time of apostasy. This difference affects the fourth scenario (Muslim mother, birth less than six months) — some narrations may exclude it. The relied-upon view (zahir al-riwaya) supports the three-inheritance cases.
+
+Key Terms
+استيلاد (istilad): The act of begetting a child from one's slave-girl, which establishes the child's lineage and makes the slave-girl an umm walad.
+تبعية (taba'iyyah): Legal following; a child's religion follows the parent with the higher claim to Islam, or the abode in certain cases.
+
+Key Terms from Source Passage
+
+Checkpoint
+In which of the following scenarios does the child of an apostate NOT inherit from him?
+A) Mother is Kitabiyya, birth less than 6 months after apostasy.
+B) Mother is Muslim, birth 6 months or more after apostasy.
+C) Mother is Kitabiyya, birth 6 months or more after apostasy.
+D) Mother is Muslim, birth less than 6 months after apostasy.
+
+Key Takeaway
+The child of an apostate from a Kitabi slave-girl inherits only if the child is Muslim, which depends on the mother's religion and time of birth relative to apostasy.
+
+Pages p. 204 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 205
+Module 5 · Lesson 5
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Inheritance of the Child of an Apostate: The Four Scenarios
+Ruling on inheritance of child born to an apostate mother
+
+Learning Objective
+By the end of this lesson, you will be able to state the four scenarios for a child's inheritance from an apostate father and identify which scenario yields non-inheritance according to the relied-upon Hanafi position.
+
+Core Idea
+A Muslim son inherits from his apostate father in three of four scenarios, depending on mother's religion and birth timing.
+
+The inheritance rights of a child born to an apostate father depend on nuanced conditions: the mother's religion (Muslim or Kitabiyya) and whether the child was born before or after six months from the apostasy. This lesson unpacks the four possible scenarios, the general Hanafi rule, and the intra-school disagreement among Abu Hanifa and his disciples.
+
+Guided Path
+1
+Identify the parties
+Determine the apostate father, the child, and the mother's status (Muslim, Kitabiyya, free, or slave). The text assumes the mother is a slave woman.
+The child is free and his lineage is established.
+2
+Check the timing of birth
+Ascertain whether the child was born before or after six months from the date of the father's apostasy. This determines the child's legal status at the time of apostasy.
+Six months is the minimum period of pregnancy in Hanafi fiqh.
+3
+Apply the general rule
+A Muslim heir inherits from an apostate father. Since the child follows the mother's religion, if the mother is Muslim, the child is Muslim and inherits in all timing scenarios.
+This is the established Hanafi principle.
+4
+Identify the exception
+If the mother is Kitabiyya and the child is born after six months from apostasy, the child does not inherit according to Abu Hanifa. Note that Abu Yusuf and Muhammad differ, considering the child an heir at the time of death.
+The mufta bihi is the non-inheritance in this scenario.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهو ابنه حر، ولا يرثه، ولو مسلمةً ورثه الابن إن مات على الرّدة، أو لحق بدار الحرب، وإن لحق المرتدّ بماله، فظهر عليه فهو فيء، فإن رجع إلى دار الإسلام وذهب أي مع ماله بدار الحرب المال أي المال بمال، فظهر عليه فلوارثه، فإن الحق وقضي بعبده لابنه، فكاتبه، فجاء مسلماً، ..... أي على المال خير المرتد وهو ابنه: أي المرتد لصحة الاستيلاد ولا يرثه أي الولد لا يرث المرتد مع ثبوت نسبه منه. ولو مسلمة ورثه الابن أي إذا كانت الأمة مسلمة والمسألة بحالها بأن جاءت به لستة أشهر فأكثر، ورثه الابن؛ رهما ديناً والحاصل أن الصور أربعة يرث في ثلاث منها، ولا يرث في واحدة. لأنه مسلم تبعا لأمه؛ إذ هي . الأولى: أن الأمة كانت كتابية، وجاءت به لستة أشهر أو أكثر منذ ارتد لا يرث وهي مسألة المتن. الثاني: أنها جاءت به لأقل من ستة أشهر، فالولد يرث الثالث: إذا كانت مسلمة وجاءت به لستة أشهر أو أكثر، يرث، وهي أيضاً مسألة المتن. الرابع: أنها جاءت به لأقل منها، فيرث أيضاً، ولكن لا يتصور صورة المتن على قول أبي حنيفة إلا في الرواية التي رواه عنه محمد، فإنه يعتبر كونه وارثاً فيها وقت الموت أو القتل أو القضاء باللحاق، وأما على الروايتين اللتين رواهما الحسن وأبو يوسف عنه، فلا يتصور أن يرث؛ لعدم كونه وارثاً عند الردة. (عيني، فتح) إن مات أي المرتد في الصورتين أو قتل بدار الحرب لأن الابن مسلم والمسلم يرث المرتد. (عيني)
+And he is his son, free, and he does not inherit from him. And if (she is) Muslim, the son inherits from him if he dies upon apostasy or joins the abode of war. And if the apostate joins the abode of war with his wealth, then it is spoils. Then if he returns to the abode of Islam and goes with his wealth to the abode of war, the wealth is for his heir. Then the judge decreed his slave to his son, so the son made a kitabah with him, then the apostate came as a Muslim... the choice of the apostate regarding the wealth. And he is his son: meaning the apostate's child due to valid parentage, and he does not inherit from him. And if (the mother is) Muslim, the son inherits from him. That is, if the slave woman is Muslim and the situation is such that she gave birth after six months or more, the son inherits from him; because they are both religiously? The summary is that there are four scenarios: he inherits in three, and does not inherit in one. Because he is Muslim following his mother; since she is... The first: the slave woman was a Kitabiyya, and she gave birth after six months or more from the apostasy; he does not inherit – this is the text's scenario. Second: she gave birth before six months; the child inherits. Third: if she was Muslim and gave birth after six months or more; he inherits – this is also the text's scenario. Fourth: she gave birth before six months; he also inherits, but the text's scenario is not conceivable according to Abu Hanifa except in the narration transmitted by Muhammad, for he considers him an heir at the time of death, killing, or judgment of joining. But according to the two narrations transmitted by al-Hasan and Abu Yusuf, it is not conceivable that he inherits due to not being an heir at the time of apostasy. ('Ayni, Fath) If he dies, i.e., the apostate in the two scenarios, or is killed in the abode of war, because the son is Muslim and the Muslim inherits from the apostate. ('Ayni)
+Source pages p. 205
+
+Commentary
+This passage is a ruling on the inheritance of a child born to an apostate parent in the Hanafi school. The text from Kanz al-Daqa'iq states that a son born to an apostate does not inherit from him if the mother is a Kitabiyya (scriptural) slave woman. However, if the mother is Muslim, the son inherits. The commentary by 'Ayni and Fath al-Qadir explains that there are four possible scenarios depending on the mother's religion and the timing of birth relative to the apostasy. The core principle is that the Muslim child follows the mother's religion and inherits from the apostate father because Muslims inherit from apostates according to the Hanafi school. The dispute among the companions of Abu Hanifa concerns the exact moment when the child becomes an heir: whether it is at the time of apostasy or at the time of death/judgment. Abu Hanifa's relied-upon position is that the child inherits in three out of four scenarios, with the exception being when the mother is Kitabiyya and the child is born after six months from the apostasy.
+
+Key Terms
+مرتد (murtadd): A person who has renounced Islam, considered legally dead in some contexts for inheritance purposes.
+
+Key Terms from Source Passage
+
+Checkpoint
+In which scenario does the child of an apostate NOT inherit according to the text?
+A) When the mother is Muslim and the child is born after six months from apostasy
+B) When the mother is Kitabiyya and the child is born after six months from apostasy
+C) When the mother is Muslim and the child is born before six months
+D) When the mother is Kitabiyya and the child is born before six months
+
+Key Takeaway
+In Hanafi fiqh, the inheritance of a child from an apostate father depends on the mother's religion and the timing of birth; the child inherits in three scenarios, with non-inheritance only when the mother is Kitabiyya and birth occurs after six months.
+
+Pages p. 205 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 212
+Module 5 · Lesson 6
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Inheritance When a Killer Claims Justification (Ta'wil) – Hanafi Dispute
+Resolves Hanafi dispute on inheritance when killer claims justification
+
+Learning Objective
+By the end of this lesson, you will be able to state the Hanafi position on inheritance when a killer claims ta'wil, distinguish Abu Yusuf's view, and apply the rule to scenarios involving just and rebel killers.
+
+Core Idea
+Justified killing does not prevent inheritance; only prohibited killing does.
+
+In Islamic law, killing generally deprives the killer of inheritance from the victim. But what if the killer claims he acted on a valid interpretation (ta'wil) of the Quran, even if that interpretation is corrupt? The Hanafi school is divided: the majority (Abu Hanifa and Muhammad) hold that such killing is considered justified and thus does not block inheritance, while Abu Yusuf disagrees. This lesson unpacks the reasoning behind this dispute and its practical implications.
+
+Guided Path
+1
+Identify the two scenarios
+The passage covers two cases: a just person killing a rebel, and a rebel killing a just person. In both, the killer claims to be on the truth.
+The first case (just kills rebel) is unanimous.
+2
+Analyze the consensus case
+When a just person kills a rebel, the just inherits by consensus because the rebel's sanctity is nullified by rebellion. The killing is permissible, so no penalty attaches.
+This sets the baseline: justified killing does not cause deprivation.
+3
+Examine the disputed case: rebel kills just
+Here, Abu Hanifa and Muhammad say the rebel inherits because his corrupt interpretation (ta'wil fásid), backed by mutual strength (man'ah), removes liability. Thus, the killing is treated as justified for inheritance purposes.
+The key concept is that ta'wil fásid with man'ah is like a valid interpretation in liability matters.
+4
+Understand Abu Yusuf's objection
+Abu Yusuf argues the killing is without right (ghayr haqq) because the rebel is sinful, so inheritance is blocked. He is joined by Shafi'i, Malik, and Ahmad (one narration).
+The disagreement hinges on whether the claim of being on truth makes the killing bi haqq.
+5
+Apply the mufta bihi position
+The text favors Abu Hanifa and Muhammad. The operative ruling for fatwa is that the rebel inherits if he claims truth and has man'ah. If he admits falsehood, he does not inherit by consensus.
+This is the practical takeaway for muftis.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن قتل عادل باغياً أو قتله باغ وقال: أنا على حق ورثه [ أي ورث العادل الباغي في المسألة الأولى، وورث الباغي العادل في المسألة الثانية، والأولى بالإجماع ] أي إذا قتل عادل باغياً، أو قتل الباغي عادلاً، وكان القاتل في الصورتين وارثاً، مثل الابن أو العم أو الأخ، وقال الباغي: "كنت على الحق حين قتلت وأنا الآن على الحق"، ورث القاتل المقتول في الصورتين، أما الأول؛ فلأن العادل إذا تلف نفس الباغي أو ماله، لا يأثم به، ولا يضمن؛ لأن المحاربة تبطل العصمة، وقد أمرنا بقتالهم؛ لقوله تعالى: ﴿فَقَاتِلُوا الَّتِي تَبْغِي﴾ الآية، فصار قتلهم بحق كقتل أهل الحرب، فلا يوجب حرمان الإرث؛ لأن حرمان الإرث جزاء قتل محظور، فلا يناط بقتل مباح، وهذا بالإجماع. وأما الثانية؛ فلأن الباغي إذا قتل العادل، يأثم ولا يضمن عندنا، والتأويل الفاسد بمنزلة الصحيح في حق دفع الضمان إذا ضمت إليه المنعة كتأويل أهل الحرب، وإذا لم يجب به الضمان لم يجب به الحرمان، والإرث مستحق بالقرابة، وهذا قولهما، وعند أبي يوسف: لا يرث؛ لأنه قتل بغير حق، وبه قال الشافعي ومالك وأحمد في رواية، ولهما: أنه إذا قال: قتلته وأنا على حق يكون قتلاً بحق ألا ترى أنه يسقط به الضمان، فلا توجب به الحرمان. ولهما أيضاً: ما روى الزهري أن الصحابة اتفقوا على أن كل دم أريق بتأويل القرآن هو موضوع؛ لأنه أتلف تأويل فاسد والفاسد منه ملحق بالصحيح إذا ضمت إليه منعة في حق الدفع، ولهذا لا يضمن أهل الحرب ما تلفوا علينا، وبيانه أن الخوارج يستحلون دماء المسلمين بالمعصية صغيرة كانت أو كبيرة؛ لقوله تعالى: ﴿وَمَنْ يَعْصِ اللَّه وَرَسُولَهُ فَإِنَّ لَهُ نَارَ جَهَنَّمَ خَالِدِينَ فِيهَا﴾ وتأويلهم هذا وإن كان فاسداً، لكن اعتبر في حق دفع الضمان إذا اتلفوا في حال المنعة، وأما قبل ظهور المنعة أو بعد الانهزام فإنهم يضمنون؛ لأنهم من أهل دار الإسلام. (مستخلص، فتح، عيني) وإن قال إلخ الباغي: قتلته وإنما كنت على باطل. (عيني)] أي لو قال الباغي الذي قتل عادلاً: "قتلته وأنا على باطل" لا يرث من المقتول إجماعاً؛ لأنه إذا أقر بالبطلان يجب الضمان، فيلزم الحرمان. (فتح)
+And if a just person kills a rebel, or a rebel kills a just person and says, 'I was on the truth,' he inherits from him. Meaning: the just inherits from the rebel in the first case, and the rebel inherits from the just in the second case, and the first case is by consensus. That is, if a just person kills a rebel, or a rebel kills a just person, and the killer in both cases is an heir (e.g., son, paternal uncle, or brother), and the killer says, 'I was on the truth when I killed and I am now on the truth,' then the killer inherits from the victim in both cases. As for the first case: because when a just person causes the loss of the rebel's life or property, he does not sin and is not liable, because rebellion nullifies sanctity, and we are commanded to fight them—Allah says, 'Fight the one that rebels'—so killing them is justified like killing people of war, and thus does not cause deprivation of inheritance, because deprivation of inheritance is a penalty for prohibited killing, so it is not attached to permissible killing. This is by consensus. As for the second case: because when a rebel kills a just person, he sins but is not liable according to us. A corrupt interpretation (ta'wil fásid) is treated like a correct one in terms of avoiding liability when it is accompanied by mutual strength (man'ah), like the interpretation of the people of war. Since no liability is incurred, no deprivation of inheritance is incurred, and inheritance is due by blood relation. This is their (Abu Hanifa and Muhammad's) position. According to Abu Yusuf: He does not inherit, because it is killing without right. Al-Shafi'i, Malik, and Ahmad (in one narration) also said this. Their (Abu Hanifa and Muhammad's) proof is that when he says 'I killed him and I was on the truth,' the killing is by right; do you not see that liability is dropped by it? Thus it does not cause deprivation. They also have the hadith reported by al-Zuhri that the Companions agreed that every blood shed by interpretation of the Qur'an is 'wad'i' (negligible) because it is a corrupt interpretation, and the corrupt one is treated like the correct one in terms of avoiding liability when mutual strength is present. This is why the people of war are not liable for what they destroy against us. The explanation: the Khawarij consider the blood of Muslims permissible for minor or major sin, based on the verse 'And whoever disobeys Allah and His Messenger, indeed for him is the fire of Hell, abiding therein forever.' Their interpretation, though corrupt, is considered in terms of avoiding liability when they cause loss in a state of mutual strength. But before the emergence of mutual strength or after defeat, they are liable because they are from the people of Dar al-Islam. (Extracted from Mustakhlas, Fath, Ayni) And if the rebel says: 'I killed him and I was on falsehood,' (according to Ayni) meaning: if the rebel who killed a just person says, 'I killed him and I was on falsehood,' he does not inherit from the victim by consensus, because when he admits falsehood, liability becomes obligatory, so deprivation follows. (Fath)
+Source pages p. 212
+
+Commentary
+This passage is an intra-Hanafi dispute on inheritance when a killer, whether just or rebel, claims to have acted on a valid interpretation (ta'wil). The majority of the Hanafi school (Abu Hanifa and Muhammad) hold that the killer inherits because the killing is considered justified (bi haqq) due to the killer's claim of being on the truth, which drops liability. The first scenario (just killing rebel) is unanimous: the just inherits because the rebel's sanctity is nullified by rebellion. The second scenario (rebel killing just) is disputed: Abu Yusuf argues the rebel does not inherit because the killing is without right (ghayr haqq), while Abu Hanifa and Muhammad argue that the rebel's corrupt interpretation, when backed by mutual strength (man'ah), treats the killing as justified for purposes of liability and thus inheritance. They support this with the hadith of al-Zuhri that the Companions agreed that blood shed by Qur'anic interpretation is 'wad'i' (negligible), analogizing to the treatment of ahl al-harb. If the rebel admits falsehood, then by consensus he does not inherit. The mufta bihi position is that of Abu Hanifa and Muhammad.
+
+Key Terms
+تأويل (ta'wīl): An interpretation of religious texts that may be correct or corrupt; here, rebels' corrupt interpretation (ta'wil fásid) is still considered in liability matters.
+منعة (man'ah): Mutual strength or military power that makes a group capable of resistance, used to justify treating rebels like ahl al-harb in liability matters.
+حرمان الإرث (ḥirmān al-irth): Deprivation of inheritance as a penalty for prohibited (mahẓur) killing.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the majority Hanafi position (Abu Hanifa and Muhammad), does a rebel who kills a just person and claims to be on the truth inherit from the victim?
+A) No, because the killing is without right.
+B) Yes, because the corrupt interpretation with military strength makes the killing justified for inheritance purposes.
+C) Yes, but only if the rebel was actually following a correct interpretation.
+D) No, because the rebel sinned.
+
+Key Takeaway
+A rebel who kills a just person and claims truth inherits from the victim according to the majority Hanafi position, because corrupt interpretation with military strength removes liability and thus inheritance is not blocked.
+
+Pages p. 212 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 227
+Module 5 · Lesson 7
+Next →
+Faraid — Inheritance
+advanced
+15 min
+Inheritance Distribution with a Missing Heir
+Explaining inheritance rules when an heir is missing
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the inheritance shares for each heir when one heir is missing, applying the Hanafi rule of giving the lesser of two possible shares and holding the remainder.
+
+Core Idea
+Each non-excluded heir receives the minimum of the two scenarios; the difference is held for the missing person.
+
+When an heir is missing, we cannot know his fate. The Hanafi school solves this by calculating two scenarios: one assuming the missing person is alive, and one assuming he is dead. Each living heir receives the amount they are certain to get (the lower of the two shares), and the difference is suspended until the missing person's status is resolved. This lesson walks you through the method with two classic examples.
+
+Guided Path
+1
+Identify the missing heir and the two scenarios
+Determine who is missing. Then define two cases: (A) missing person is alive at the time of the decedent's death, (B) missing person died before the decedent. All calculations are done under both assumptions.
+The missing person does not inherit from relatives who die during his absence unless his life at that time is confirmed.
+2
+List all other heirs and apply hajb under each scenario
+Identify all living heirs. Under scenario A (missing alive), check if the missing person excludes any heir entirely (hajb hirman) or reduces their share (hajb nuqsan). Under scenario B (missing dead), hajb by the missing person does not apply. Record the status.
+In the first example, the missing son excludes the son's son entirely if alive. In the second, the missing brother does not exclude the full sister but reduces her share.
+3
+Calculate shares in both scenarios
+For each scenario, determine the base number (asl al-mas'alah) of the inheritance. Assign Quranic fixed shares to eligible heirs and the remaining balance to 'asabah. If the shares exceed the base, apply 'awl (increase the base). Record the share of each heir in each scenario.
+In the second example, scenario B (missing dead) requires 'awl from 6 to 8 because the husband's half (3/6) and the full sister's half (3/6) and mother's one-third (2/6) sum to 8/6.
+4
+Determine the minimum certain share for each heir
+Compare each heir's share in scenario A and scenario B. The heir is given the smaller of the two amounts immediately. This is the amount they are certain to receive regardless of the missing person's status.
+In the first example, the two daughters receive half (the lesser of half and two-thirds). In the second example, the husband receives half (lesser of half and one-third), the mother receives one-sixth (lesser of one-sixth and one-fourth), the full sister receives one-ninth (lesser of one-ninth and three-eighths).
+5
+Hold the remainder and reconcile mathematical differences
+Subtract the total given immediately from the estate. The remainder is held for the missing person. If the two scenarios have different base numbers or fractional shares, adjust by finding a common multiple (tashih) to ensure the shares are integers. This remainder is returned to the other heirs only if the missing person is later declared dead.
+The text mentions the rule for tashih: if the two base numbers are compatible (have a common factor), multiply the concordance; if incompatible, multiply each by the other.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وورث منه حينئذ لا قبله ولا يرث من أحد، فلو كان مع المفقود وارث يحجب به لم يعط شيئا، وإن انتقص حقه به يعطى أقل من النصيبين، ويوقف الباقي أي الوارث أي حق الوارث أي الوارث لا قبله أي قبل الحكم بالموت حتى لا يرثه إلا ورثته الموجودون في ذلك الوقت لا من مات قبل ذلك من ورثته. (عيني) ولا يرث إلخ: بل يوقف نصيبه؛ لأن بقاءه حياً إلى ذلك الوقت باستصحاب الحال، أي ظاهر الحال وهو لا يصلح حجة أن يستحق به مال الغير، وإنما هو حجة لدفع استحقاق غيره من ماله، فيكون كأنه ماله، ميت في حق مال غيره هذا إذا لم تعلم حياته إلى أن يحكم بموته، وإن علم حياته في وقت من الأوقات يرث من مات قبل ذلك الوقت ولهذا يوقف نصيبه من مال مات قبل ذلك الوقت من أقاربه كما في الحمل؛ لاحتمال أن يكون حياً فيرث فإن تبين حياته في وقت مات فيه قريبه كان له، وإلا يرد الموقوف لأجله إلى وارث مورثه الذي وقف من ماله [رمز الحقائق: ٤٦٢/١] (مستخلص) من إلا أحد مات من أقاربه حال فقده قبل الحكم بموته . (عيني) فلو كان مع المفقود: صورته: رجل مات عن بنتين وابن مفقود وابن الابن المتوفى والمال في يد أجنبي، فتصادقوا على فقد الابن فطلبت البنتان الميراث، يعطيان النصف؛ لأن لهما في صورة حياة المفقود النصف والمسألة من أربعة وفي صورة مماته لهما الثلثان فالنصف متيقن به، ويوقف النصف الآخر للمفقود، ولا يعطى لابن الابن الميت؛ لأنه يحجب بالمفقود لو كان حياً حجب حرمان، وفي صورة الممات يستحق بالعصوبة فلا يستحق الميراث بالشك، ولا ينزع المال من يد الأجنبي إذا ظهرت خيانته. [ رمز الحقائق: ٤٦٢/١] (محشي) وإن انتقص حقه أي إذا كان مع المفقود وارث لا يحجب بالمفقود حجب حرمان بل ينتقص حقه به يعطى لهذا الوارث أقل من نصيبين، صورته: تركت امرأة زوجاً وأماً وأختاً لأبوين وأخاً كذلك مفقوداً، فعلى تقدير حياة المفقود للأم السدس، والمسألة من ستة، وعلى تقدير مماته للأم الربع؛ لأن المسألة من ستة أيضاً، لكن تعول إلى ثمانية؛ لاجتماع النصفين والثلث فللأم الثلث من الأصل، وهو الربع من العول، وللزوج النصف على تقدير حياته، وعلى تقدير وفاته الربع والثمن يعني من العول، وكذا للأخت على تقدير مماته الربع والثمن من العول، وعلى تقدير حياته لها التسع، فيعطى لكل واحد منهم الأقل، ويوقف الباقي من نصيبه والتفصيل يأتي في الصفحة الآتية. (عيني، محشي) النصيبين: أي النصيب الذي يصيبه في صورة حياته والنصيب الذي يصيبه في صورة مماته. (محشي) ويوقف الباقي: اعلم أن الأصل فيه أن تصحيح المسألة على تقدير أن المفقود حي وعلى تقدير النسبة بين المسألتين، فإن توافقتا فاضرب وفق إحداهما في جميع الأخرى، وإن تباينتا فاضرب كل إحداهما في جميع الأخرى، ثم اضرب سهام ورثة إحداهما في الثانية أو في وفقها، فصورة الموافقة ما ذكرنا في الصفحة السابقة . أنه ميت ثم انظر =
+And he is inherited from at that time, not before, and he does not inherit from anyone. So if there is with the missing person an heir who is excluded by him, he is not given anything; and if his right is diminished by him, he is given the lesser of the two shares, and the remainder is held. (Ayni) 'And he does not inherit etc.': Rather, his share is suspended; because his being alive up to that time is istishab al-hal, i.e., the apparent state, which is not a valid proof to entitle him to the property of others; it is only a proof to prevent others from taking his property, so his property is as if it exists, but he is dead regarding the property of others. This is if his life is not known until the judge rules his death. If his life is known at some time, he inherits from anyone who died before that time, and for this reason his share from the property of a relative who died before that time is suspended, as in the case of a fetus; because of the possibility that he is alive and inherits. If it becomes clear that he was alive at the time of his relative's death, it is given to him; otherwise, the suspended property is returned to the heirs of the decedent from whose property it was suspended. [Ramz al-Haqa'iq: 1/462] (Mustakhlas) ... except that he inherits from anyone of his relatives who died during his absence before the judgment of his death. (Ayni) So if there is with the missing person: its example: a man dies leaving two daughters, a missing son, and the son of a deceased son, and the property is in the hand of a third party. They agree on the son's absence, and the two daughters demand the inheritance. They are given half, because on the assumption that the missing son is alive, they get half (the case from 4), and on the assumption of his death, they get two-thirds (from 6), so half is certain. The other half is held for the missing son. The son's son (the deceased son's son) is not given anything, because he is excluded by the missing son if he is alive (hajb hirman), and on the assumption of death he is entitled as an 'asabah, but he does not inherit due to doubt. The property is not taken from the hand of the third party if his treason becomes apparent. [Ramz al-Haqa'iq: 1/462] (Hashiyah) 'And if his right is diminished' means if there is with the missing person an heir who is not totally excluded by him but his right is diminished, that heir is given the lesser of the two shares. Its example: a woman leaves a husband, a mother, a uterine sister? No, a sister for both parents (full sister), and a similarly missing brother (full brother). On the assumption that the missing brother is alive, the mother gets one-sixth (the case from 6); on the assumption of his death, the mother gets one-fourth (because the case is still from 6 but 'awl to 8 due to meeting of halves and third; the mother gets one-third of the original, which is one-fourth of the 'awl). The husband gets half on the assumption of his life, and on the assumption of his death he gets one-fourth and one-eighth? meaning from the 'awl. Similarly for the sister: on the assumption of his death she gets one-fourth and one-eighth from the 'awl, and on the assumption of his life she gets one-ninth. So each of them is given the lesser, and the remainder of his share is held. The detail will come on the next page. (Ayni, Hashiyah) 'Two shares' i.e., the share that hits him on the assumption of his life and the share that hits him on the assumption of his death. (Hashiyah) 'And the remainder is held': Know that the principle in this is to correct the case on the assumption of the missing person being alive and the ratio between the two cases. If they agree (have a common factor), multiply the concordance of one by the whole of the other; if they are disparate, multiply each by the whole of the other, then multiply the shares of the heirs of one case by the other or by its concordance. The example of agreement was mentioned on the previous page. (But here it says 'then look' as if the next page continues).
+Source pages p. 227
+
+Commentary
+This passage is a detailed explanation of inheritance calculations when one of the heirs is missing. The ruling: the missing person's estate is distributed only after the judge rules his death; before that, it is held. The missing person does not inherit from relatives who die during his absence (unless his life is confirmed at the time of their death). The key principle: when an heir is missing, we calculate two scenarios: one assuming the missing person is alive, and one assuming he is dead. Each heir receives the minimum amount they would get in either scenario, and the difference is held (suspended) for the missing person. Two examples are given: First example: a man leaves two daughters, a missing son, and a deceased son's son. The daughters receive half (the certain minimum), the missing son's share is held, and the deceased son's son gets nothing because he is totally excluded by the missing son. Second example: a woman leaves a husband, mother, full sister, and a missing full brother. Each heir receives the lesser of the two possible shares (calculated under both scenarios), and the difference is held. The passage also outlines the method for reconciling the two scenarios mathematically: find the base numbers of both cases, compare them, and adjust if necessary (using tashih). The details of this method are referenced to the previous page.
+
+Key Terms
+حجب حرمان (hajb hirman): Total exclusion of an heir from inheritance due to the presence of a closer heir.
+استصحاب الحال (istishab al-hal): Presumption of continuity of a previous state until evidence changes it. Here, the missing person is presumed alive to prevent others from taking his property.
+التصحيح (al-tashih): Correction of the base number of the inheritance case so that shares are integral numbers.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the first example (man dies leaving two daughters, a missing son, and a dead son's son), why is the son's son not given anything?
+A) Because he is an 'asabah and the daughters take everything.
+B) Because he is totally excluded (hajb hirman) by the missing son if he is alive, and on the assumption of death he is not given due to doubt.
+C) Because there is no property left after the daughters' share.
+D) Because the missing son is given the entire estate.
+
+Key Takeaway
+When an heir is missing, each living heir receives the lesser of the two possible shares; the remainder is held for the missing person until his status is resolved.
+
+Pages p. 227 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 227
+Module 5 · Lesson 8
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Inheritance of a Missing Person: The Lesser Share Rule
+General ruling and example of missing person
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the shares of heirs when a missing person is involved, applying the Hanafi rule of giving the lesser certain share and stopping the remainder.
+
+Core Idea
+Heirs receive the minimum certain share; the rest is stopped until the missing person's status is resolved.
+
+When an heir is missing (mafqud), his life or death is uncertain. This uncertainty affects the inheritance of all other heirs. The Hanafi school resolves this by giving each heir the lesser of the two possible shares — the share they would receive if the missing person were alive versus dead — and stopping the remainder until the missing person's status is known. In this lesson, we unpack the rule and apply it to a concrete case involving daughters, a missing son, and a grandson.
+
+Guided Path
+1
+Identify the heirs and the missing person
+List all living relatives and note which one is missing (mafqud). In the example: two daughters, a missing son, and a deceased son's son (grandson). The grandson is alive but may be excluded.
+The missing son is the key; his status affects others' shares.
+2
+Determine the two possible scenarios
+Consider two scenarios: (A) missing son alive at the time of death, (B) missing son dead at that time. Calculate shares for each scenario.
+The missing son is presumed alive regarding his own property but dead regarding others' claims?
+3
+Calculate shares in each scenario
+Scenario A (son alive): Daughters get 1/2 (as two daughters with a son get 1/2 as fard), son gets the rest as asabah. Scenario B (son dead): Daughters get 2/3 (as two daughters with no son), and the grandson would get the remaining 1/3 as asabah.
+The share of the daughters differs: 1/2 vs 2/3. The grandson gets nothing in A (excluded by son) and 1/3 in B.
+4
+Apply the rule: give the lesser certain share
+For each heir whose share varies between scenarios, give the minimum that is certain. For the daughters, the lesser of 1/2 and 2/3 is 1/2. The grandson gets nothing because in Scenario A he gets nothing (excluded), and in Scenario B he gets 1/3 but entitlement is uncertain, so he receives the lesser (zero).
+This follows the principle that certainty (yaqin) prevails over doubt.
+5
+Stop the remainder for the missing person
+The remaining portion after giving the lesser shares is stopped (waqf) for the missing person. In the example, after giving 1/2 to daughters, the other 1/2 is stopped for the missing son.
+The stopped portion is held until the missing person's status is resolved by a court judgment.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كتاب المفقود
+أحكام المفقود
+وورث منه حينئذ لا قبله ولا يرث من أحد، فلو كان مع المفقود وارث يحجب به لم يعط شيئا، وإن انتقص حقه به يعطى أقل من النصيبين، ويوقف الباقي أي الوارث لا قبله أي قبل الحكم بالموت حتى لا يرثه إلا ورثته الموجودون في ذلك الوقت لا من مات قبل ذلك من ورثته. (عيني) ولا يرث إلخ: بل يوقف نصيبه؛ لأن بقاءه حياً إلى ذلك الوقت باستصحاب الحال، أي ظاهر الحال وهو لا يصلح حجة أن يستحق به مال الغير، وإنما هو حجة لدفع استحقاق غيره من ماله، فيكون كأنه ماله، ميت في حق مال غيره هذا إذا لم تعلم حياته إلى أن يحكم بموته، وإن علم حياته في وقت من الأوقات يرث من مات قبل ذلك الوقت ولهذا يوقف نصيبه من مال مات قبل ذلك الوقت من أقاربه كما في الحمل؛ لاحتمال أن يكون حياً فيرث فإن تبين حياته في وقت مات فيه قريبه كان له، وإلا يرد الموقوف لأجله إلى وارث مورثه الذي وقف من ماله [ رمز الحقائق: ٤٦٢/١] (مستخلص) حي من في من إلا أحد مات من أقاربه حال فقده قبل الحكم بموته . (عيني) فلو كان مع المفقود: صورته: رجل مات عن بنتين وابن مفقود وابن الابن المتوفى والمال في يد أجنبي، فتصادقوا على فقد الابن فطلبت البنتان الميراث، يعطيان النصف؛ لأن لهما في صورة حياة المفقود النصف والمسألة من أربعة وفي صورة مماته لهما الثلثان فالنصف متيقن به، ويوقف النصف الآخر للمفقود، ولا يعطى لابن الابن الميت؛ لأنه يحجب بالمفقود لو كان حياً حجب حرمان، وفي صورة الممات يستحق بالعصوبة فلا يستحق الميراث بالشك، ولا ينزع المال من يد الأج إذا ظهرت خيانته. [ رمز الحقائق: ٤٦٢/١] (محشي)
+Book of the Missing Person. Rulings of the Missing Person. He inherits from him at that time, not before, and does not inherit from anyone. If with the missing person there is an heir who would be excluded by him, he is not given anything. And if his right is diminished by him, he is given the lesser of the two shares, and the remainder is stopped. (Commentary) meaning the heir, not before, meaning before the judgment of death, so only his existing heirs at that time inherit from him, not those who died before that time. (Ayni) 'Nor does he inherit' etc.: Rather, his share is stopped; because his being alive until that time is by istishab al-hal, i.e., apparent state, which is not a valid proof to entitle him to another's property, but is a proof to repel another's entitlement to his property. So it is as if his property is dead with respect to another's property. This is if his life is not known until judgment of death. If his life at a certain time is known, he inherits from those who died before that time, and therefore his share is stopped from the property of those who died before that time from his relatives, as in the case of a fetus; due to the possibility that he was alive at the time his relative died, so he inherits. If his life becomes clear, it is his; otherwise, the stopped property is returned to the heirs of the testator from whose property it was stopped. [Ramz al-Haqaiq 1/462] (Mukhtalas) Apart from one who died from his relatives during his disappearance before judgment of his death. (Ayni) 'If with the missing person': Its example: A man died leaving two daughters, a missing son, and a deceased son's son, and the property is in the hand of a stranger. They agree on the son's disappearance. The two daughters claim inheritance. They are given half; because in the scenario of the missing son's life, they have half, and the case is from four; in the scenario of his death, they have two-thirds, so half is certain. The other half is stopped for the missing son. The deceased son's son is not given anything because he is excluded by the missing son if he were alive by exclusion of deprivation; in the scenario of death, he would be entitled by asabah, so he does not deserve inheritance by doubt. And the property is not taken from the stranger's hand if his treason appears. [Ramz al-Haqaiq 1/462] (Mahshi)
+Source pages p. 227
+
+Commentary
+This passage is a faraid case involving a missing person. It establishes the general rule that when a missing person's inheritance is adjudicated, heirs who would be excluded by the missing person are given nothing (they get the lesser scenario, which is zero), while those whose share is reduced are given the lesser of the two possible shares (the minimum between the scenario where the missing person is alive vs. dead). The remainder of the estate is stopped (suspended) until the missing person's status is resolved. The commentary explains that the missing person's share is stopped because only an actual living person can own property; istishab (presumption of continuity) is only a proof to defend one's own property, not to claim another's. The example illustrates a man with two daughters, a missing son, and a deceased son's son (grandson). The two daughters are given half (the minimum) because in the scenario where the missing son is alive, they get half; if dead, two-thirds. Half is certain. The other half is stopped for the missing son. The grandson gets nothing because if the missing son is alive, he excludes him entirely (hajb hirman); if dead, he would inherit as asabah, but since his survival is uncertain, he does not receive anything. The property is not taken from a stranger even if his treachery appears, because the ownership is disputed.
+
+Key Terms
+مفقود (mafqud): A person whose whereabouts are unknown and whose life or death is uncertain.
+حجاب حرمان (hajb hirman): Total exclusion of an heir by a nearer relative.
+استصحاب الحال (istishab al-hal): Presumption of continuation of a state (e.g., life) until the contrary is established.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example with two daughters and a missing son, how much do the two daughters receive immediately?
+A) Their full share as if the missing son is alive.
+B) Their full share as if the missing son is dead.
+C) The lesser of the two possible shares, which is half.
+D) The greater of the two possible shares, which is two-thirds.
+
+Key Takeaway
+Heirs receive the minimum certain share; the remainder is stopped until the missing person's status is resolved.
+
+Pages p. 227 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 227
+Module 5 · Lesson 9
+Next →
+Faraid — Inheritance
+advanced
+15 min
+Faraid with a Missing Heir: Giving the Lesser Share
+Complete calculation for missing person who reduces shares
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the immediate shares for heirs when a missing person is present, using the Hanafi method of giving the lesser of two possible shares.
+
+Core Idea
+An heir with a missing co-heir gets the minimum of two scenarios; the rest is stopped.
+
+When a missing person is among the heirs, their presence or absence changes the shares of others. The Hanafi school solves this by calculating two possible distributions: one assuming the missing person is alive, one assuming dead. Each heir receives the smaller of their two shares immediately, and the excess is held in suspense. In this lesson, we work through a classic example: a husband, mother, full sister, and a missing full brother.
+
+Guided Path
+1
+Identify the heirs and the missing person
+List all heirs: husband, mother, full sister, and a full brother who is missing. The missing brother is an asabah heir who, if alive, shares the residue with the sister.
+The missing person is not a Quranic sharer but an asabah.
+2
+Compute the alive scenario
+Assume the brother is alive. Initial base=6: husband (1/2)=3, mother (1/6)=1, brother+sister (asabah)=2. Since 2 cannot be divided equally between them, multiply by number of heads (2) → new base=18. Shares: husband=9, mother=3, brother=4, sister=2. So sister gets 2/18 = 1/9, brother gets 4/18 = 2/9.
+The sister becomes an asabah with her brother, so no fixed Quranic share.
+3
+Compute the dead scenario
+Assume the brother is dead. Initial base=6 but due to awl (two halves and one third) it increases to 8. Shares: husband=3, sister=3, mother=2. So husband=3/8, sister=3/8, mother=2/8=1/4.
+Here the sister takes the residue as a single asabah.
+4
+Harmonize the two scenarios
+Find a common base for 18 and 8. They are compatible (both divisible by 2). Multiply half of one by the whole of the other: (18/2)×8 = 9×8 = 72, or 18×(8/2)=18×4=72. Use 72 as the common base.
+Compatibility (muwafaqah) means they share a common divisor >1.
+5
+Give the lesser share and stop the remainder
+Convert each heir's shares from both scenarios to the common base 72. For husband: alive=9/18=36/72, dead=3/8=27/72 → give 27, stop 9. For mother: alive=3/18=12/72, dead=2/8=18/72 → give 12, stop 6. For sister: alive=2/18=8/72, dead=3/8=27/72 → give 8, stop 10. The missing brother's share (4/18=16/72) is entirely stopped until his status is known.
+The stopped amounts are reserved for the missing brother if he returns alive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن انتقص حقه أي إذا كان مع المفقود وارث لا يحجب بالمفقود حجب حرمان بل ينتقص حقه به يعطى لهذا الوارث أقل من نصيبين، صورته: تركت امرأة زوجاً وأماً وأختاً لأبوين وأخاً كذلك مفقوداً، فعلى تقدير حياة المفقود للأم السدس، والمسألة من ستة، وعلى تقدير مماته للأم الربع؛ لأن المسألة من ستة أيضاً، لكن تعول إلى ثمانية؛ لاجتماع النصفين والثلث فللأم الثلث من الأصل، وهو الربع من العول، وللزوج النصف على تقدير حياته، وعلى تقدير وفاته الربع والثمن يعني من العول، وكذا للأخت على تقدير مماته الربع والثمن من العول، وعلى تقدير حياته لها التسع، فيعطى لكل واحد منهم الأقل، ويوقف الباقي من نصيبه والتفصيل يأتي في الصفحة الآتية. (عيني، محشي) النصيبين: أي النصيب الذي يصيبه في صورة حياته والنصيب الذي يصيبه في صورة مماته. (محشي) ويوقف الباقي: اعلم أن الأصل فيه أن تصحيح المسألة على تقدير أن المفقود حي وعلى تقدير النسبة بين المسألتين، فإن توافقتا فاضرب وفق إحداهما في جميع الأخرى، وإن تباينتا فاضرب كل إحداهما في جميع الأخرى، ثم اضرب سهام ورثة إحداهما في الثانية أو في وفقها، فصورة الموافقة ما ذكرنا في الصفحة السابقة . أنه ميت ثم انظر
+
+والمسألة على تقدير حياة المفقود تكون من ستة للزوج ثلاثة للأم واحد واثنان للأخ والأخت، ولا ينقسمان عليهما فضربنا المسألة في الرؤوس، وصحت المسألة من ثمانية عشر فتكون للزوج تسعة وللأم ثلاثة، وللأخ أربعة وللأخت اثنان وعلى تقدير وفاة المفقود المسألة من ستة أيضاً لاجتماع النصفين والثلث، فالثلاثة للزوج، والثلاثة للأخت واثنان للأم، فعالت إلى ثمانية، والنسبة بين ثمانية عشر وبين ثمانية موافقة بالنصف، فإذا ضربت نصف أحدهما في جميع الآخر تبلغ اثنين وسبعين ومنه تصح المسألة، ثم ضربنا سهام ورثة مسألة الحياة في وفق مسألة الوفاة فتكون للزوج ستة وثلاثون، وضربنا أيضاً سهام ورثة مسألة الوفاة في وفق مسألة الحياة فتكون للزوج سبعة وعشرون فيعطى له هذا المقدار وتكون التسعة موقوفة من نصيبه وهكذا الأم تكون اثنا عشر، وستة موقوفة من نصيبها وللأخت ثمانية وعشرة موقوفة من نصيبها، فإن ظهرت حياته أخذ كل واحد منهم كان مستحقاً على ذلك التقدير وإن حكم بموته فكذلك، وصورة المباينة: زوج وأخت لأب وأم وأخت لأب وهي مفقودة، فمسألة الحياة من سبعة ومسألة الوفات من اثنين، فتضرب السبعة في الاثنين تبلغ أربعة عشر، وتفعل العمل في ضرب السهام كما مر . (عيني، محشي)
+And if his right is diminished, i.e., if with the missing person there is an heir who is not excluded by him by exclusion of deprivation but rather his right is reduced by him, then this heir is given the lesser of the two shares. Its example: A woman left a husband, a mother, a full sister, and a full brother who is missing. On the estimation of the missing person's life, the mother gets 1/6, and the case is from six. On the estimation of his death, the mother gets 1/4; because the case is also from six, but it increases to eight due to the combination of halves and one-third. So the mother gets one-third of the original, which is one-fourth of the increase. The husband gets half on the estimation of his life, and on the estimation of his death, one-fourth and one-eighth meaning from the increase. Similarly, the sister gets one-fourth and one-eighth from the increase on the estimation of his death, and on the estimation of his life, she gets one-ninth. So each of them is given the lesser, and the remainder of his share is stopped. The details come on the next page. (Ayni, Mahshi) 'The two shares': meaning the share he gets in the scenario of his life and the share he gets in the scenario of his death. (Mahshi) 'And the remainder is stopped': Know that the principle in this is that the case is corrected on the estimation that the missing person is alive and on the estimation of the ratio between the two cases. If they are compatible, multiply the reciprocal of one by the whole of the other. If they are different, multiply each one by the whole of the other. Then multiply the shares of the heirs of one case by the other or by its reciprocal. So the image of compatibility is what we mentioned on the previous page. That he is dead then look. Then: The case on the estimation of the missing person's life is from six: for the husband three, for the mother one, and two for the brother and sister. They do not divide between them, so we multiplied the case by the number of heads, and the case became from eighteen. So for the husband nine, for the mother three, for the brother four, and for the sister two. And on the estimation of the missing person's death, the case is also from six due to the combination of halves and one-third. So three for the husband, three for the sister, and two for the mother. So it increases to eight. The ratio between eighteen and eight is compatible with half. So if you multiply half of one by the whole of the other, it becomes seventy-two, and from it the case is corrected. Then we multiplied the shares of the heirs of the life case by the reciprocal of the death case, so for the husband thirty-six. And we also multiplied the shares of the heirs of the death case by the reciprocal of the life case, so for the husband twenty-seven. So he is given this amount, and the nine are stopped from his share. Similarly, the mother gets twelve, and six are stopped from her share. The sister gets eight, and ten are stopped from her share. If his life becomes clear, each takes what was entitled on that estimation; and if he is judged dead, similarly. And the image of disparity: a husband, a full sister, and a paternal sister who is missing. The life case is from seven, and the death case is from two. So multiply seven by two to get fourteen, and do the operation for multiplying the shares as before. (Ayni, Mahshi)
+Source pages p. 227
+
+Commentary
+This passage is a detailed faraid case involving a missing person who does not totally exclude other heirs but reduces their shares. It presents the scenario of a woman who dies leaving a husband, mother, full sister, and a full brother who is missing. The commentary explains the method of calculating the minimum shares for each heir by considering two scenarios: brother alive and brother dead. In the alive scenario, the brother inherits as asabah with the sister, reducing the mother to 1/6, husband to 1/2, and sister to asabah (sharing with brother). In the dead scenario, the shares are: husband 1/2 (or 3/8? Actually the text says with awl: husband 3/8, mother 2/8=1/4, sister 3/8). Actually they explain the calculation: each heir is given the lesser of the two amounts. The text then delves into the arithmetical procedure to harmonize the two scenarios: find the base number for each scenario, adjust for compatibility or disparity, and then determine the portions to give now and the portions to stop. The goal is to give each heir the minimum they would receive in either scenario, and stop the remainder for the missing person. A second example is given involving a husband, full sister, and missing paternal sister, illustrating a case of disparity (tabayun) where the base numbers are 7 and 2, yielding 14.
+
+Key Terms
+نصيبين (nasibayni): The two possible shares an heir could receive: one if the missing person is alive, one if dead.
+عول (awl): Increase in the denominator when fixed shares exceed the estate.
+موافقة (muwafaqah): Compatibility between two numbers (they share a common divisor).
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example case, how much does the husband receive immediately after harmonization?
+A) 1/2
+B) 3/8
+C) 9/72
+D) 36/72
+
+Key Takeaway
+When an heir's share depends on a missing person, each heir is given the lesser of their two possible shares, and the surplus is suspended.
+
+Pages p. 227 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 228
+Module 5 · Lesson 10
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Inheritance Rules for a Fetus (Haml) in Hanafi Fiqh
+Analogy between missing person and fetus in inheritance
+
+Learning Objective
+By the end of this lesson, you will be able to apply the Hanafi rules for stopping the share of a fetus in inheritance and identify the mufta bihi among the three imams.
+
+Core Idea
+The fetus's potential heirship requires stopping part of the estate; the amount stopped depends on whether it excludes or reduces others.
+
+In the previous lesson, we learned about stopping the estate for a missing person (mafqud). The same principle applies to a fetus (haml) of a deceased man. However, the amount to be stopped varies depending on whether the fetus, if born alive, would exclude or merely reduce other heirs. This lesson unpacks the Hanafi rules, including a well-known intra-madhhab dispute among Abu Hanifa, Abu Yusuf, and Muhammad al-Shaybani.
+
+Guided Path
+1
+Identify the three categories of heirs relative to the fetus
+Heirs affected by a potential fetus fall into three types: (1) those whose share is unchanged regardless of the fetus, (2) those who are totally excluded if the fetus is a son, and (3) those whose share changes (either partial exclusion or reduction).
+This step classifies the heirs to determine the stopping rule.
+2
+Apply the rule for heirs who are not excluded or reduced
+If an heir's share does not change due to the fetus (e.g., a son among other sons), that heir receives his full share immediately. The fetus's share is stopped based on the number of possible children.
+E.g., if there are two sons and a fetus, the two sons get their shares, but a portion is stopped for the fetus.
+3
+Examine the non-exclusion scenario: two sons and a fetus
+When the deceased leaves two sons and a pregnant wife, the fetus does not exclude any heir. The amount to stop is disputed: Abu Hanifa says stop 2/3 (as if the fetus is a son), Muhammad says stop 1/2 (as if the fetus could be a single daughter), and the mufta bihi is Abu Yusuf's opinion: stop 1/3.
+The thamarah al-khilaf: the amount kept in abeyance differs.
+4
+Apply rules for total exclusion and partial exclusion/reduction
+If the fetus would totally exclude certain heirs (e.g., brothers, uncles if a son is born), the entire estate is stopped. If partial exclusion (e.g., brothers with grandfather), the grandfather gets 1/6 and the rest is stopped. If reduction (e.g., husband or wife), they get the lesser of their two possible shares.
+The same logic as the missing person: give the minimum possible share to those whose share could be reduced.
+5
+Summarize the parallel to the missing person (mafqud)
+The final summary states: an heir unaffected by the fetus gets full share; an heir excluded entirely gets nothing; an heir whose share changes gets the lesser of the two possible shares. This mirrors the rule for a missing person.
+This generalization is the key takeaway.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كالحمل: [ أي كما يوقف المال في صورة الحمل بأن مات وترك امرأته حاملا يوقف نصيب الحمل. (عيني) ] أي كما يوقف في الحمل، لأن الحمل لا يخلو إما أن يكون غير حاجب للورثة، أو كان حاجباً، فإن كان غير حاجب شاركهم مثل ما إذا مات وترك ابنين وحملاً فعلى قول أبي حنيفة يوقف ثلثا المال، وعلى قول محمد نصفه، وعلى المفتى به ثلثه وهو قول أبي يوسف، وإن كان حاجباً بحجب حرمان في الجميع كالإخوة والأخوات والأعمام وبني الأعمام يوقف جميع التركة؛ لجواز أن يكون ابناً، وإن كان الحجب البعض كالإخوة والجد يعطى للجد السدس ويوقف الباقي، وإن كان حجب نقصان كالزوج والزوجة يعطيان أقل نصيبهما ويوقف الباقي. رمز الحقائق: ٤٦٣/١] والحاصل أنه لو كان مع الحمل وارث لا يسقط بحال ولا يتغير بحمل يعطى كل نصيبه، وإن كان ممن يسقط بالحمل لم يعط شيئاً، وإن كان ممن يتغير به يعطى أقل النصيبين كما في المفقود. (مسكين)
+Like the fetus: [Meaning, just as the property is stopped in the case of the fetus: if a man dies leaving his pregnant wife, the share of the fetus is stopped. (Ayni)] Meaning just as it is stopped in the case of the fetus, because the fetus is either non-excluding to the heirs, or it is excluding. If it is non-excluding, it shares with them, like when a man dies leaving two sons and a fetus. According to Abu Hanifa, two-thirds of the property is stopped; according to Muhammad, half; and according to the fatwa, one-third, which is the saying of Abu Yusuf. And if it is excluding by exclusion of deprivation in all, like brothers, sisters, paternal uncles, and sons of paternal uncles, the entire estate is stopped; because it is possible that it is a son. And if the exclusion is partial, like brothers and grandfather, the grandfather is given one-sixth and the rest is stopped. And if the exclusion is by reduction, like the husband and wife, they are given the lesser of their two shares and the rest is stopped. [Ramz al-Haqaiq 1/463] And the conclusion: If with the fetus there is an heir who is not dropped in any case and does not change with the fetus, he is given his full share. If he is among those who are dropped by the fetus, he is not given anything. If he is among those who change with it, he is given the lesser of the two shares, as in the case of the missing person. (Miskin)
+Source pages p. 228
+
+Commentary
+This passage draws an analogy between the rules for a missing person (mafqud) and a fetus (haml) in inheritance. The commentary explains that just as the share of a missing person is stopped pending his status, the share of a fetus is also stopped until birth. The key point is that the fetus may or may not exclude other heirs. If the fetus does not exclude (e.g., when the deceased leaves two sons and a fetus), the amount to be stopped varies among the Hanafi imams: Abu Hanifa says stop two-thirds, Muhammad says half, and the relied-upon fatwa is that of Abu Yusuf: stop one-third. If the fetus would totally exclude some heirs (e.g., if it is a son, it excludes brothers, sisters, uncles), then the entire estate is stopped. If it partially excludes (e.g., grandfather with brothers), the grandfather gets his minimum (1/6) and the rest is stopped. If it reduces shares (e.g., husband or wife), they get the lesser of their two possible shares. The summary conclusion generalizes the rule in a way exactly parallel to the missing person: an heir unaffected by the fetus gets full share; an heir excluded entirely gets nothing; an heir whose share changes gets the lesser of the two possible shares.
+
+Key Terms
+حمل (haml): A fetus in the womb of a deceased's wife, with potential inheritance rights.
+حجب (hajb): Exclusion from inheritance, either total (hirman) or partial (nuqsan).
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the mufta bihi (relied-upon) opinion in the Hanafi school, how much of the estate is stopped when a deceased leaves two sons and a pregnant wife?
+A) Two-thirds
+B) Half
+C) One-third
+D) The entire estate
+
+Key Takeaway
+The fetus's share is stopped until birth; the amount depends on whether it excludes or reduces other heirs, with the mufta bihi being one-third in the two-son case.
+
+Pages p. 228 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 228
+Module 5 · Lesson 11
+Next →
+Faraid — Inheritance
+intermediate
+12 min
+Faraid of the Missing Person and Comparison with Pregnancy
+Faraid calculation with suspense and pregnancy comparison
+
+Learning Objective
+By the end of this lesson, you will be able to calculate the interim distribution of an estate when an heir is missing or unborn, using the Hanafi method of two scenarios and suspense holding.
+
+Core Idea
+Each heir gets the minimum possible share; the rest is held until the missing or unborn heir's status is known.
+
+When an heir is missing (mafqud) or unborn (haml), we cannot simply distribute the entire estate. Instead, we calculate what each heir would receive under the best and worst cases for the missing heir, give them the smaller share, and hold the difference. This lesson walks you through the arithmetic and the legal reasoning behind this suspense mechanism, including an intra-Hanafi disagreement on how much to hold for a pregnancy.
+
+Guided Path
+1
+Identify the two assumptions
+For a missing person, we consider two scenarios: (1) the missing person is alive, and (2) the missing person is dead. List the heirs under each scenario.
+In the example: husband, mother, brother (missing), sister. Under death, brother is gone.
+2
+Calculate shares under each assumption
+For each scenario, compute the standard faraid shares. Apply awl if the sum of shares exceeds the base.
+Alive: base 6 becomes 18 after correcting for uneven division. Dead: base 6 awl to 8.
+3
+Find a common denominator and determine suspense
+Use the concordance method (muwafaqa or mubayana) to combine the two scenarios. Multiply each heir's share in each scenario to an overall common denominator. The smaller amount is given immediately; the difference is held.
+Example uses 72 as common denominator for 18 and 8.
+4
+Apply the same principle to pregnancy
+For an unborn child, similar reasoning applies. Determine if the child is a hijib (excluder) or not. Use the minimum share for each heir based on possible outcomes.
+The child's sex is unknown, so we assume worst-case for other heirs.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كتاب المفقود كالحمل. أحكام المفقود. والمسألة على تقدير حياة المفقود تكون من ستة للزوج ثلاثة للأم واحد واثنان للأخ والأخت، ولا ينقسمان عليهما فضربنا المسألة في الرؤوس، وصحت المسألة من ثمانية عشر فتكون للزوج تسعة وللأم ثلاثة، وللأخ أربعة وللأخت اثنان وعلى تقدير وفاة المفقود المسألة من ستة أيضاً لاجتماع النصفين والثلث، فالثلاثة للزوج، والثلاثة للأخت واثنان للأم، فعالت إلى ثمانية، والنسبة بين ثمانية عشر وبين ثمانية موافقة بالنصف، فإذا ضربت نصف أحدهما في جميع الآخر تبلغ اثنين وسبعين ومنه تصح المسألة، ثم ضربنا سهام ورثة مسألة الحياة في وفق مسألة الوفاة فتكون للزوج ستة وثلاثون، وضربنا أيضاً سهام ورثة مسألة الوفاة في وفق مسألة الحياة فتكون للزوج سبعة وعشرون فيعطى له هذا المقدار وتكون التسعة موقوفة من نصيبه وهكذا الأم تكون اثنا عشر، وستة موقوفة من نصيبها وللأخت ثمانية وعشرة موقوفة من نصيبها، فإن ظهرت حياته أخذ كل واحد منهم كان مستحقاً على ذلك التقدير وإن حكم بموته فكذلك، وصورة المباينة: زوج وأخت لأب وأم وأخت لأب وهي مفقودة، فمسألة الحياة من سبعة ومسألة الوفات من اثنين، فتضرب السبعة في الاثنين تبلغ أربعة عشر، وتفعل العمل في ضرب السهام كما مر. (عيني، محشي) كالحمل: [ أي كما يوقف المال في صورة الحمل بأن مات وترك امرأته حاملا يوقف نصيب الحمل. (عيني) ] أي كما يوقف في الحمل، لأن الحمل لا يخلو إما أن يكون غير حاجب للورثة، أو كان حاجباً، فإن كان غير حاجب شاركهم مثل ما إذا مات وترك ابنين وحملاً فعلى قول أبي حنيفة يوقف ثلاث المال، وعلى قول محمد نصفه، وعلى المفتى به ثلثه وهو قول أبي يوسف، وإن كان حاجباً بحجب حرمان في الجميع كالإخوة والأخوات والأعمام وبني الأعمام يوقف جميع التركة؛ لجواز أن يكون ابناً، وإن كان الحجب البعض كالإخوة والجد يعطى للجد السدس ويوقف الباقي، وإن كان حجب نقصان كالزوج والزوجة يعطيان أقل نصيبهما ويوقف الباقي. [رمز الحقائق: ٤٦٣/١] والحاصل أنه لو كان مع الحمل وارث لا يسقط بحال ولا يتغير بحمل يعطى كل نصيبه، وإن كان ممن يسقط بالحمل لم يعط شيئاً، وإن كان ممن يتغير به يعطى أقل النصيبين كما في المفقود. (مسكين)
+The book of the missing person, like the pregnancy. Rulings of the missing person. The case on the assumption of the missing person being alive is from six: for the husband three, for the mother one, and two for the brother and sister. They do not divide evenly between them, so we multiplied the case by the heads, and the case came to eighteen: so for the husband nine, for the mother three, for the brother four, and for the sister two. And on the assumption of the death of the missing person, the case is also from six due to the meeting of halves and the third: three for the husband, three for the sister, and two for the mother. It increases to eight. The proportion between eighteen and eight is agreement by half. So if you multiply half of one by the whole of the other, it reaches seventy-two, and from it the case is corrected. Then we multiplied the shares of the heirs of the living scenario by the concord of the death scenario, so for the husband thirty-six, and we also multiplied the shares of the heirs of the death scenario by the concord of the living scenario, so for the husband twenty-seven. So he is given this amount, and the nine are held from his share. Similarly, the mother becomes twelve, and six are held from her share; and for the sister eight and ten are held from her share. If his life appears, each takes what was his due on that estimate; and if his death is determined, similarly. The picture of disparity: a husband and a sister on the father's and mother's side and a sister on the father's side who is missing. So the living scenario is from seven, and the death scenario from two. Multiply the seven by the two, it amounts to fourteen, and do the work of multiplying the shares as before. (Ayni, Muhashi) Like the pregnancy: [meaning that wealth is held in the case of pregnancy: if a man dies leaving his wife pregnant, the share of the pregnancy is held. (Ayni)] meaning as it is held in pregnancy, because the pregnancy is either non-hijib for the heirs or is a hijib. If it is non-hijib, it shares with them, like if a man dies leaving two sons and a pregnancy: according to Abu Hanifa, one-third of the wealth is held; according to Muhammad, half; and according to the position given for fatwa, one-third, which is the opinion of Abu Yusuf. And if it is a hijib that excludes entirely from all, like brothers, sisters, paternal uncles, and cousins, then all the estate is held, because it is possible that it is a son. And if the hijib is partial, like brothers and grandfather, the grandfather is given the sixth and the rest is held. And if it is a hijib of deficiency, like husband and wife, they are given the less of their two shares and the rest is held. [Ramz al-Haqa'iq: 1/463] The conclusion is that if there is with the pregnancy an heir who is never excluded nor changes by the pregnancy, he is given his full share; and if he is one who is excluded by the pregnancy, he is given nothing; and if he is one who changes by it, he is given the lesser of the two shares, as in the case of the missing person. (Miskin)
+Source pages p. 228
+
+Commentary
+This passage is a faraid calculation for the estate of a missing person. The text presents two scenarios: (1) assuming the missing person is alive, and (2) assuming he is dead. The heirs are the husband, mother, and a brother and sister (the missing person is the brother). In the first scenario, the base is 6, but the brother and sister's share does not divide evenly, so the base is raised to 18 by multiplying by the number of heads (2). The final shares: husband 9/18, mother 3/18, brother 4/18, sister 2/18. In the second scenario, the missing brother is dead, so heirs are husband, mother, and sister. The base is 6, shares: husband 3/6, sister 3/6, mother 2/6, which totals 8/6, so awl to 8. Then the text shows how to intermingle the two scenarios to determine what each heir should receive immediately and what should be held in suspense. The method: find a common denominator between the two scenarios' bases (72). Then multiply each heir's share in each scenario by the appropriate factor. The heir receives the smaller amount, and the difference is held. If the missing person is found alive, he takes his shares; if dead, the held shares go to the others. The text also gives a second example (disparity) with a missing sister. Then it compares with the case of a pregnant woman (hamil). For pregnancy, the amount to withhold depends on whether the unborn child is a hijib (excluding or reducing others). An intra-Hanafi dispute is noted: for two sons and a pregnancy, Abu Hanifa withholds 1/3 of the estate, Muhammad withholds 1/2, but the fatwa is on Abu Yusuf's view (1/3). The general rule: give each heir the lesser of the two possibilities if the unborn child's status changes their share.
+
+Key Terms
+مفقود (mafqud): A person whose life or death is unknown; special inheritance rules apply.
+حمل (haml): An unborn child; its potential inheritance affects distribution.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the case of a missing person, what is the purpose of calculating two separate faraid scenarios (life and death)?
+A) To determine the court costs
+B) To decide how much to give each heir immediately and how much to hold
+C) To decide whether the missing person is male or female
+D) To pay off debts first
+
+Key Takeaway
+For a missing person or unborn child, each heir receives the minimum possible share and the balance is held until circumstances are certain.
+
+Pages p. 228 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 432
+Module 5 · Lesson 12
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Wife's Conversion and Inheritance: Istishab al-Hal in Dispute
+Intra-Hanafi dispute on inheritance when conversion timing is contested
+
+Learning Objective
+By the end of this lesson, you will be able to explain the Hanafi position on a dhimmi's wife claiming conversion after his death and apply the principle of istishab al-hal to inheritance disputes.
+
+Core Idea
+The present difference of religion is presumed to have existed at death via istishab, barring inheritance.
+
+When a dhimmi dies and his wife claims she converted after his death, who bears the burden of proof? The Hanafi school applies istishab al-hal (presumption of continuity) to determine the religious status at the critical moment. In this lesson, we examine the reasoning, the intra-madhhab dispute with Zufar, and the legal maxim that istishab is valid for defense but not for establishing rights.
+
+Guided Path
+1
+Identify the claims and parties
+A dhimmi dies. His wife claims she converted after his death; the heirs claim she converted before. Determine who is claimant and who is defendant.
+The wife is claimant (seeking inheritance), heirs are defendants.
+2
+State the Hanafi ruling and its basis
+The heirs' statement is accepted; wife does not inherit. The basis is istishab al-hal: currently there is difference of religion, so it is presumed to have existed at death.
+This is a defensive use of istishab (daf').
+3
+Articulate Zufar's opposing argument
+Zufar holds that conversion is a new event and should be attributed to the nearest possible time (after death), so she inherits.
+He relies on the principle 'al-hawadith tudafu ila aqrabi al-awqat'.
+4
+Analyze the Hanafi response
+The Hanafi response uses the mill analogy: present state of water flow determines past state. Istishab is valid for defense, not for entitlement. Zufar's principle is also a presumption but only a zann; istishab for defense is stronger.
+The text explicitly distinguishes daf' (defense) from ithbat (entitlement).
+5
+Determine the thamarah al-khilaf and mufta bihi
+Practical outcome: wife does not inherit in the relied-upon Hanafi position. Zufar's view is not adopted for fatwa.
+The commentary favors the Hanafi view as zahir al-riwayah.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإن مات ذمّي، فقالت زوجته: أسلمت بعد موته، وقالت الورثة : أسلمت قبل موته، فالقول لهم، وإن قال المودع: هذا ابن مودعي للورثة بتاء الخطاب بفتح الدال لرجل بكسر الدال - وقد أنكر المدعى عليه العقد، فيكون البرهان على البراءة مناقضاً، وعن أبي يوسف: أنها تقبل؛ لأن التوفيق ممكن بأن لم يبعها هو، وإنما باعها منه . وكيله، وأبرأه من العيب، فيكون صادقاً بذلك رمز الحقائق: ١٣٤/٢] (عناية) ويبطل الصك إلخ ... (then continues) بعد موته: ولي الميراث؛ لاتحاد الدين وقت الموت. (ط، محشي) قبل موته أي موت الذمي ولا ميراث لك. (ط) فالقول لهم: ولا ترث الزوجة، ولا يمين على الورثة إلا إذا ادعت عليهم بكفرها بعد موته، فيحلفون على نفي العلم، وعند زفر : القول لها وترث؛ لأن الإسلام أمر حادث، والأصل في الحوادث أن يضاف إلى أقرب الأوقات، وأقرب أوقاته ما بعد الموت، فيضاف إليه، قلنا: سبب الحرمان ثابت في الحال؛ لاختلاف الدينين، وكل ما هو ثابت في الحال، يكون ثابتاً فيما مضى باستصحاب الحال كما في جريان ماء الطاحونة إذا اختلف فيه صاحب الطاحونة والمستأجر بعد مضي مدة، فإنه يحكم الحال، فإن كان الماء جارياً في الحال، كان القول لصاحب الطاحون، وإن كان منقطعاً كان القول للمستأجر، وتحكيم الحال يعتبر للدفع كما اعتبرناه؛ لدفع استحقاق الميراث، وهو صحيح، وما ذكره زفر للاستحقاق، وهو ليس بصحيح. فإن قيل: إنه لم يجعل استحقاقها للميراث بالحال بل بأن الأصل في الحادث الإضافة إلى أقرب الأوقات، وأجيب بأن ذلك أيضاً ظاهر، والظاهر استصحابا كان أو غيره لا يعتبر للاستحقاق على أنه يستلزم العمل بالاستصحاب كما سيظهر، وأشار بكون الزوج ذميا إلى أنه لو مات مسلم وله امرأة نصرانية فجاءت مسلمة بعد موته وقالت: أسلمت قبل موته وقالت الورثة: أسلمت بعد موته فالقول لهم ولا يحكم الحال؛ لأن الظاهر لا يصلح حجة للاستحقاق، وهي محتاجة إليه، أما الورثة فهم الدافعون يشهد لهم ظاهر الحدوث أيضاً. (عيني، فتح، عناية)
+And if a dhimmi dies, and his wife says: I converted after his death, and the heirs say: She converted before his death, so the statement is theirs (i.e., the heirs). And if the depositor said: This is the son of my depositor... (interruption) After his death: the inheritance belongs to the wife because of unity of religion at the time of death. (T, Hashiyah) Before his death, i.e., the death of the dhimmi, and there is no inheritance for you. (T) So the statement is theirs: and the wife does not inherit, and there is no oath upon the heirs unless she claims that they are kafir after his death, then they will swear that they have no knowledge. And according to Zufar: The statement is hers and she inherits, because Islam is an event, and the principle for events is to attribute them to the nearest time, and the nearest time is after death, so it is attributed to that. We say: The reason for deprivation (inheritance) is established in the present due to difference of religion, and whatever is established in the present is established in the past by istishab al-hal (presumption of continuity), as in the case of the flow of water of a mill if the owner of the mill and the lessee dispute after a period passes, then the present state is judged. If the water is flowing in the present, the statement is with the owner of the mill; if it is cut off, the statement is with the lessee. And ruling by the present state is considered for defense, as we considered it; to defend against entitlement to inheritance, and that is correct. What Zufar mentioned is for entitlement, and it is not correct. If it is said that he did not base her entitlement to inheritance on the present state but rather on the principle that events are attributed to the nearest time, the answer is that that is also a presumption, and a presumption, whether istishab or otherwise, is not considered for entitlement, and it necessitates working with istishab, as will appear. And the indication that the husband is a dhimmi is that if a Muslim dies and he has a Christian wife, and she comes as a Muslim after his death saying: I converted before his death, and the heirs say: She converted after his death, then the statement is theirs, and the present state is not ruled because the presumption is not a valid proof for entitlement, and she needs it. As for the heirs, they are the defenders, and the presumption of the event also testifies for them. ('Ayni, Fath, 'Inayah)
+Source pages p. 432
+
+Commentary
+This lesson deals with a disputed inheritance case: a dhimmi (non-Muslim under Muslim rule) dies, and his wife claims she converted to Islam after his death, while the heirs claim she converted before his death. The Hanafi ruling is that the heirs' claim is accepted, and the wife does not inherit. The reasoning is that since inheritance requires unity of religion at the moment of death, and currently the wife is Muslim and the deceased is non-Muslim, the present state (hāl) is that of difference of religion. This present state is extended to the past through istishab al-hal (presumption of continuity), so she is considered non-Muslim at his death. Zufar argues that the wife should have the benefit of the doubt: the new event (her conversion) should be attributed to the nearest possible time (after death), so she would have been Muslim at his death. The Hanafi response: istishab al-hal is a stronger principle for defense (repelling claims), not for establishing entitlement. The heirs are defending against her claim, so istishab works in their favor. The text analogizes to a mill dispute: if the water flow is currently on or off, that state is presumed to have been the case in the past. Thus, the wife's inheritance is denied. The passage also clarifies that if the husband were Muslim and the wife Christian, the same rule applies: her claim of prior conversion is not accepted.
+
+Key Terms
+استصحاب الحال (istishab al-hal): Presumption that a present state of affairs existed in the past
+الذمي (al-dhimmi): A non-Muslim subject living under Muslim rule with a covenant of protection
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the Hanafi position in this lesson, what is the basis for denying inheritance to the dhimmi's wife?
+A) Istishab al-hal of difference of religion
+B) The principle that events are attributed to the nearest time
+C) The heirs' oath
+D) The wife's confession
+
+Key Takeaway
+The Hanafi school uses istishab al-hal defensively to bar inheritance when the present state indicates continued difference of religion.
+
+Pages p. 432 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 432
+Module 5 · Lesson 13
+Next →
+Faraid — Inheritance
+intermediate
+8 min
+Ruling on Wife's Conversion After Dhimmi's Death: Intra-Hanafi Dispute on Burden of Proof
+Intra-Hanafi dispute on inheritance after conversion
+
+Learning Objective
+By the end of this lesson, you will be able to state the Hanafi position on inheritance when a dhimmi's wife converts and explain the basis for taking the heirs' word over the wife's.
+
+Core Idea
+In a dispute over timing of conversion, the heirs' word is taken because the present state (difference of religion at death) is presumed to have existed before.
+
+This passage addresses a specific scenario: a dhimmi husband dies, and his wife claims she converted to Islam after his death (so she would inherit as a Muslim), while the heirs claim she converted before his death (so she is a non-Muslim at death and does not inherit). The Hanafi majority takes the heirs' word, while Zufar holds the opposite. The commentary explores the reasoning using istishab al-hal and the mill water analogy.
+
+Guided Path
+1
+Identify the dispute and the opposing positions
+Recognize that the matn states the heirs' word is taken, and the commentary contrasts Zufar's view. Abu Hanifa and the majority hold the heirs' word; Zufar holds the wife's word.
+2
+Understand the majority's argument
+The cause of deprivation (difference of religion) is established at death. Istishab al-hal (presumption of continuity) extends that present state to the past, so the wife was a non-Muslim at death and does not inherit.
+3
+Analyze Zufar's counter-argument
+Zufar argues that Islam is a new event, and new events are attributed to the nearest time, which is after death. Therefore, the wife's conversion is attributed to after death, making her a Muslim at the time of inheritance.
+4
+See the Hanafi response
+The Hanafi response distinguishes between using the apparent (zahir) for defense versus for claiming a right. The heirs are defending the estate; thus, the present state (difference of religion) is used to rebut the wife's claim. The wife is claiming, so she needs proof.
+5
+Note the mill water analogy
+The analogy: if there is a dispute after a period about whether water was flowing, the present state is judged. If water is flowing now, it is presumed to have been flowing before (for the mill owner's defense). Similarly, the present difference of religion is used to defend the estate against the wife's claim.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+(فتح) بعد موته: ولي الميراث؛ لاتحاد الدين وقت الموت. (ط، محشي) قبل موته أي موت الذمي ولا ميراث لك. (ط) فالقول لهم: ولا ترث الزوجة، ولا يمين على الورثة إلا إذا ادعت عليهم بكفرها بعد موته، فيحلفون على نفي العلم، وعند زفر : القول لها وترث؛ لأن الإسلام أمر حادث، والأصل في الحوادث أن يضاف إلى أقرب الأوقات، وأقرب أوقاته ما بعد الموت، فيضاف إليه، قلنا: سبب الحرمان ثابت في الحال؛ لاختلاف الدينين، وكل ما هو ثابت في الحال، يكون ثابتاً فيما مضى باستصحاب الحال كما في جريان ماء الطاحونة إذا اختلف فيه صاحب الطاحونة والمستأجر بعد مضي مدة، فإنه يحكم الحال، فإن كان الماء جارياً في الحال، كان القول لصاحب الطاحون، وإن كان منقطعاً كان القول للمستأجر، وتحكيم الحال يعتبر للدفع كما اعتبرناه؛ لدفع استحقاق الميراث، وهو صحيح، وما ذكره زفر للاستحقاق، وهو ليس بصحيح. فإن قيل: إنه لم يجعل استحقاقها للميراث بالحال بل بأن الأصل في الحادث الإضافة إلى أقرب الأوقات، وأجيب بأن ذلك أيضاً ظاهر، والظاهر استصحابا كان أو غيره لا يعتبر للاستحقاق على أنه يستلزم العمل بالاستصحاب كما سيظهر، وأشار بكون الزوج ذميا إلى أنه لو مات مسلم وله امرأة نصرانية فجاءت مسلمة بعد موته وقالت: أسلمت قبل موته وقالت الورثة: أسلمت بعد موته فالقول لهم ولا يحكم الحال؛ لأن الظاهر لا يصلح حجة للاستحقاق، وهي محتاجة إليه، أما الورثة فهم الدافعون يشهد لهم ظاهر الحدوث أيضاً. (عيني، فتح، عناية)
+(Fath) 'After his death': He is entitled to the inheritance due to unity of religion at the time of death. (T, Muhashi) 'Before his death' i.e., the death of the dhimmi, and no inheritance for you. (T) 'So the statement is theirs': The wife does not inherit, and no oath is upon the heirs unless she claims their disbelief after his death, then they swear upon negation of knowledge. According to Zufar: The statement is hers and she inherits, because Islam is a new event, and the principle regarding events is that they are attributed to the nearest times, and the nearest time is after death, so it is attributed to it. We said: The cause of deprivation is established in the present due to difference of religion, and whatever is established in the present is established in the past by istishab al-hal, as in the flow of water of the mill when the owner and the tenant differ after a period of time, then the present situation is judged: if the water is flowing in the present, the statement of the mill owner is taken; if it is cut off, the statement of the tenant is taken. And the judgment of the present is considered for defense as we have considered it for defeating the claim of inheritance, and that is correct. What Zufar mentioned is for claiming entitlement, which is not correct. If it is said: He (Zufar) did not make her entitlement to inheritance based on the present but rather by the principle of attributing events to the nearest times, the answer is that that too is apparent, and the apparent, whether istishab or otherwise, is not considered for entitlement, as it necessitates acting on istishab as will become clear. And he indicated by the husband being a dhimmi that if a Muslim dies and he has a Christian wife, and she comes as a Muslim after his death and says: 'I converted before his death,' and the heirs say: 'She converted after his death,' then the statement is theirs and the present is not judged; because the apparent is not a valid proof for entitlement, and she needs it. As for the heirs, they are the defenders, and the apparent of occurrence also testifies for them.
+Source pages p. 432
+
+Commentary
+This passage is an intra-Hanafi dispute concerning the inheritance of a non-Muslim wife from a dhimmi husband when there is a dispute over the timing of her conversion to Islam. The matn states that if a dhimmi dies and his wife claims she converted after his death (so she inherits as a Muslim), while the heirs claim she converted before his death (so she does not inherit because at death she was a non-Muslim and thus not an heir), the heirs' word is taken, and the wife does not inherit. The commentary expands on this, noting that no oath is required from the heirs unless the wife accuses them of lying, in which case they swear that they do not know. Zufar (a Hanafi scholar) differs, holding that the wife's word is taken because the nearest time for a new event (conversion) is the present, i.e., after death. The Hanafi response is that the cause of deprivation (difference of religion) is established at the time of death, and by istishab al-hal (present presumption), the present state is extended to the past. An analogy is given of a water mill: if there is a dispute after a period about whether the water was flowing or not, the present state is judged to determine the past. This method is used for defense (the heirs defending the estate), not for claiming a right. Therefore, the apparent (zahir) is not sufficient for entitlement, and since the wife is claiming, she bears the burden of proof. The commentary also notes that if the husband were Muslim and the wife Christian, the same principle applies: the heirs' word is taken.
+
+Key Terms
+ذمي (dhimmi): A non-Muslim subject of an Islamic state with protected status.
+استصحاب الحال (istishab al-hal): Presumption of continuity of a state until proven otherwise.
+زفر (Zufar): Zufar ibn al-Hudhayl, a major Hanafi scholar who has opposing views on several issues.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the Hanafi ruling on a dhimmi's wife who claims conversion after his death, whose word is taken and why?
+A) The wife's word, because conversion is a new event attributed to the nearest time.
+B) The heirs' word, because the present difference of religion at death is presumed to have existed before and is used for defense.
+C) Both parties' words are taken equally, and the estate is divided.
+D) The judge's discretion based on the strength of evidence.
+
+Key Takeaway
+In Hanafi law, the heirs' word is taken over the wife's claim of conversion, based on istishab al-hal for defense, not for entitlement.
+
+Pages p. 432 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 433
+Module 5 · Lesson 14
+Next →
+Faraid — Inheritance
+intermediate
+6 min
+No Guarantor from Creditors or Heirs in Estate Division
+States that no guarantor is taken from creditors or heirs when estate is divided.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why Abu Hanifa does not require a guarantor from a present creditor or heir and compare this with the Sahibayn's position, identifying the thamarah al-khilaf.
+
+Core Idea
+Certainty is not delayed by mere conjecture — the present heir's right is immediately paid.
+
+When an estate is being divided among creditors and heirs, a practical question arises: should the present claimants be required to provide a guarantor in case an absent claimant appears later? This passage presents an intra-Hanafi dispute between Abu Hanifa and his two disciples. Understanding this dispute reveals a key principle: certainty (yaqin) is not overridden by mere possibility (wahm).
+
+Guided Path
+1
+State the issue and the Hanafi default
+Identify the ruling stated in the matn: no guarantor is taken from creditors or heirs. This is Abu Hanifa's position.
+The matn begins with this as the default.
+2
+Identify the opposing view of Sahibayn
+Recognize that the two (Abu Yusuf and Muhammad) argue that a guarantor should be taken because there might be an absent creditor or heir.
+Their reasoning is based on the possibility of an absent claimant.
+3
+Examine the reasoning of each side
+Abu Hanifa argues that the present claimant's right is either certain (qat'i) or apparent (zahir), so it should not be delayed for a conjectural possibility (mawhum). The Sahibayn give weight to the need to protect absent claimants.
+Note the technical term mawhum (conjecture) in Abu Hanifa's argument.
+4
+Explore the thamarah al-khilaf
+Determine the practical difference: under Abu Hanifa's view, the present claimant receives immediately; under Sahibayn's view, they must provide a guarantor, delaying payment until the absent claimant's situation clarifies.
+The judge has discretion to postpone for caution even under Abu Hanifa's view.
+5
+Note the judge's discretion
+The passage ends by noting that the judge may act cautiously and postpone payment until it becomes predominant that no absent claimant exists.
+This moderates the dispute, giving the judge some authority.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ميراث قسم بين الغرماء لا يكفل منهم ، ولا من وارث هذا عند أبي حنيفة، وقالا : يؤخذ الكفيل منهم؛ لأنه يحتمل أن يكون له وارث أو غريم غائب، وله: أن حق الحاضر ثابت قطعاً، أو ظاهراً فلا يؤخر لأجل الموهوم، وللقاضي أن يحتاط ويؤخر القضاء ولا يدفع إليه حتى يغلب
+'An estate divided among creditors: no guarantor is taken from them, nor from an heir.' This is according to Abu Hanifa. The two (Abu Yusuf and Muhammad) said: A guarantor is taken from them, because it is possible that there is an absent heir or creditor. His (Abu Hanifa's) argument is that the right of the present person is established definitively or apparently, so it is not delayed due to the conjectural. And the judge may act cautiously and postpone the judgment and not pay until it becomes predominant.
+Source pages p. 433
+
+Commentary
+This passage is an intra-Hanafi dispute regarding the procedure for distributing an estate among creditors and heirs. The matn states that when the estate is divided among creditors, no guarantor (كفيل) is taken from them, and similarly no guarantor is taken from an heir. This is Abu Hanifa's view. The Sahibayn (Abu Yusuf and Muhammad) disagree, holding that a guarantor should be taken because there might be an absent creditor or heir who could have a claim. Abu Hanifa's reasoning is that the right of the present person is either certain (قطعي) or apparently established (ظاهر), so it should not be delayed due to a mere possibility. However, the judge has the discretion to be cautious and postpone the payment until the matter is clarified (e.g., until it becomes predominant that there is no absent claimant). The passage does not explicitly state the mufta bihi, but the structure suggests Abu Hanifa's view is the default, with a concession for the judge to exercise caution.
+
+Key Terms
+غرماء (ghurama'): Creditors (plural of gharim).
+كفيل (kafil): Guarantor or surety.
+موهوم (mawhum): Conjectural or doubtful possibility.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Abu Hanifa, why is a guarantor not required from a present creditor when distributing an estate?
+A) Because the creditor's right is based on conjecture.
+B) Because the creditor's right is established certainly or apparently, and should not be delayed for a mere possibility.
+C) Because the judge has no authority to demand a guarantor.
+D) Because all creditors are equally present.
+
+Key Takeaway
+When a present claimant's right is certain or apparently established, it should not be delayed for a conjectural possibility; the judge may still postpone payment if he chooses to be cautious.
+
+Pages p. 433 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 467
+Module 5 · Lesson 15
+Next →
+Faraid — Inheritance
+intermediate
+6 min
+When Testimony on Possession Suffices in Inheritance (and When It Doesn't)
+Ruling on testimony on possession in inheritance with exceptions and intra-madhhab dispute
+
+Learning Objective
+By the end of this lesson, you will be able to state the excepted cases where testimony on possession suffices to prove inheritance ownership, and apply the Hanafi ruling on testimony of a living person's past possession.
+
+Core Idea
+Testimony on possession at death suffices; testimony on a living person's past possession is rejected due to ambiguity.
+
+In inheritance disputes, proving that the deceased owned an asset is crucial. This passage from Kanz al-Daqaiq explores when testimony about physical possession (yad) is sufficient and when additional proof of 'jar' (inheritance link) is required. It also highlights a notable intra-Hanafi disagreement about testimony on a living person's past possession.
+
+Guided Path
+1
+Identify the two categories of yad
+Recognize that possession (yad) is divided into 'hand of ownership' (yad milk) and 'hand of trust' (yad amana). This distinction is critical for understanding the rulings.
+2
+List the excepted cases where testimony on yad suffices
+From the passage, note that testimony on possession at death, including cases where the property was in the hand of a depositary, borrower, lessee, pledgee, or usurper, is sufficient without further proof of inheritance (jar).
+These are established by consensus.
+3
+Understand why trust hands convert at death
+At death, a hand of trust converts to a hand of ownership through the guarantee (daman) when the deceased dies unknown. Thus, establishing yad at death effectively establishes ownership.
+This conversion is a key principle in Hanafi inheritance law.
+4
+Analyze the disagreement on living person's past possession
+Contrast the positions: Abu Hanifa and Muhammad reject testimony of past possession for a living person because the type of hand is unknown. Abu Yusuf accepts it by analogy to testimony of ownership.
+The relied-upon position (mufta bihi) is rejection.
+5
+Note the exceptional role of iqrar (acknowledgment)
+If the defendant acknowledges ownership, or witnesses testify that he acknowledged it, the property is given to the plaintiff. Iqrar is a stronger proof because vagueness does not invalidate it.
+This is a distinct legal mechanism from testimony.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كتاب الشهادة. باب الاختلاف في الشهادة. أو يد مودعه أو مستعيره وقت الموت، ولو شهدا بيد حي مذ شهر، ردّت، ولو أقرّ المدعى عليه بذلك، أو شهد شاهدان أنه أقر أنه كان في يد المدعي، دفع إلى المدعي. أي المدعى عليه أن المدعى أي المال المدعي به ولو قالا: كانت لأبيه، ولم يزدا على ذلك، لم يكن جراً، ومنها: أن يشهدا أنها كانت في يده عند الموت؛ لأن فيه جراً أيضاً؛ إذ يده إن كانت يد ملك عند الموت، فظاهر، وإن كانت يد أمانة فكذلك الحكم؛ لأن الأيدي في الأمانات عند الموت تنقلب يد ملك بواسطة الضمان إذا مات مجهلاً، والمضمون يملكه الضامن على ما عرف، فيكون إثبات اليد في ذلك الوقت إثباتاً للملك. ومنها: أن يشهدا أنها كانت في يد مودعه أو مستعيره وكذا مستأجره ومرتهنه وغاصبه؛ لأن إثبات يد من يقوم مقامه إثبات ليده معنى فيغني إثبات الملك وقت الموت عن ذكر الجر، فاكتفى به عنه، وبيانه إذا مات رجل، فأقام وارثه بينة على دار أنها كانت لأبيه، أعارها أو آجرها أو أودعها أو رهنها أو غصبها الذي في يده، فإنه يأخذها، ولا يكلف البينة على ذكر الجر بأنه مات وتركها ميراثاً له، وهذه المسائل المستثناة بالإجماع. (عيني، فتح) أو يد مودعه أي أو أن يشهدا أنها كانت في يد مودع المورث بفتح الدال عيني) أو مستعيره: أي أو أن يشهدا أنها كانت في يد مستعير المورث. (عيني) وقت الموت متعلق بالكل، وكذا يد مستأجره ومرتهنه وغاصبه. (عيني، مسكين) ولو شهدا بيد حي إلخ [ أي الاثنان أن هذه العين كانت في يد شخص حي. (عيني)] شهدا أنه كان في يد المدعي منذ شهر، والحال أنه ليس في يد المدعي عند الدعوى، لا تقبل؛ لأن الشهادة قامت بمجهول؛ لأن اليد متنوعة إلى يد ملك ويد أمانة فتعذر القضاء بالمجهول، بخلاف الملك؛ فإنه معلوم غير متنوع، هذا عند الطرفين، وعند أبي يوسف تقبل؛ لأن اليد مقصودة كالملك، ولو شهدا أنه ملكه، تقبل، فكذا هنا، وقيد بالحي؛ لأنهما إذا شهدا للميت أنها كانت في يده وقت الموت، تقبل اتفاقاً، والمصنف أتى بهذه المسألة استطراداً ليست من باب الميراث. وصورته: إذا كانت الدار في يد رجل فادعى آخر أنها له وأقام بينة أنها كانت في يده، والتقييد بقوله: "مذ شهر" لا حاجة إليه؛ فإنه ذكر "التمرتاشي" في "الجامع": شهدوا لحي أن العين كانت في يده، لم تقبل، فعلم أن الخلاف ثابت أيضاً بدون ذكره. (عيني، فتح) مذ شهر وجوده كعدمه والخلاف ثابتة أيضاً بدون ذكره. (مسكين) ردت أي هذه الشهادة عند الطرفين بذلك أي باليد للحي بأن العين كانت في يده. (ط، عيني) في يد المدعي سواء قال: منذ شهر أولا . (عيني) دفع إلى المدعي لأنه تصح الشهادة بالإقرار فإنه معلوم وجهالة المقر به لا تمنع صحة الإقرار ألا ترى أنه لو قال لفلان على شيء صح، ويجب عليه البيان، ولا تصح الشهادة به، وإنما قال: "دفع إليه دون أن يقول : إنه إقرار بالملك له؛ لأنه لو برهن أنه ملكه يقبل، ولو قال: إنه كان بيده بغير حق ففيه خلاف والمفتى به أنه إقرار. (عيني، فتح)
+The Book of Testimony. Chapter: Dispute in Testimony. Or the hand of his depositary or his borrower at the time of death. And if they testify to a hand of a living person a month ago, it is rejected. And if the defendant acknowledges that, or two witnesses testify that he acknowledged that it was in the hand of the plaintiff, it is given to the plaintiff. That is, the defendant acknowledges that the claimed property (the property claimed). And if they say: 'It was his father's' and do not add to that, it is not a pulling (jar). And from them: that they testify that it was in his hand at death; because there is pulling in it also; for if his hand was a hand of ownership at death, it is obvious, and if it was a hand of trust, the ruling is likewise; because hands in trusts at death convert to a hand of ownership through the guarantee when he dies unknown, and the guaranteed item is owned by the guarantor as is known, so establishing the hand at that time is establishing ownership. And from them: that they testify that it was in the hand of his depositary or his borrower, and similarly his lessee, his pledgee, and his usurper; because establishing the hand of one who stands in his place is establishing his hand in meaning, so establishing ownership at the time of death suffices instead of mentioning the pulling, so it suffices in place of it. Its explanation: if a man dies, and his heir produces evidence on a house that it was his father's, he lent it or leased it or deposited it or pledged it or it was usurped by the one in whose hand it is, he takes it and is not required to produce evidence on mentioning the pulling, that he died and left it as inheritance to him. These are the excepted cases by consensus. ('Ayni, Fath) 'Or the hand of his depositary' i.e. or that they testify that it was in the hand of the depositary of the deceased (with fatḥa on the dāl) ('Ayni) 'or his borrower' i.e. or that they testify that it was in the hand of the borrower of the deceased. ('Ayni) 'at the time of death' relates to all, and similarly the hand of his lessee, his pledgee, and his usurper. ('Ayni, Miskin) 'And if they testify by the hand of a living person' etc. [i.e. the two that this object was in the hand of a living person. ('Ayni)] They testify that it was in the hand of the plaintiff since a month, while it is not in the hand of the plaintiff at the time of claim, it is not accepted; because the testimony is founded on an unknown; because the hand is of multiple types: hand of ownership and hand of trust, so judgment on the unknown is not possible, unlike ownership; for it is known and not diverse. This is according to the two parties (Abu Hanifa and Muhammad). And according to Abu Yusuf, it is accepted; because the hand is intended like ownership, and if they testify that it is his ownership, it is accepted, so here likewise. And he restricted it to the living because if they testify for the deceased that it was in his hand at the time of death, it is accepted unanimously. The author brought this issue as a digression, not from the chapter of inheritance. Its scenario: if a house is in the hand of a man, and another claims it is his and brings evidence that it was in his hand, the restriction by saying 'a month ago' is unnecessary; for al-Tamartashi mentioned in al-Jami': 'They testified for a living person that the object was in his hand, it is not accepted.' So it is known that the disagreement is established without it. ('Ayni, Fath) 'A month ago' its existence is like its nonexistence, and the disagreement is established without it. (Miskin) 'Rejected' i.e. this testimony according to the two parties (Abu Hanifa and Muhammad) regarding that (the hand of the living, that the object was in his hand). (T, 'Ayni) 'in the hand of the plaintiff' whether he said 'since a month' or not. ('Ayni) 'Given to the plaintiff' because testimony is valid through acknowledgment, for it is known, and ignorance of the acknowledged thing does not prevent the validity of the acknowledgment. Do you not see that if he says 'So-and-so has a thing against me' it is valid and he must explain it, and testimony on it is not valid. And he only said 'given to him' without saying 'it is an acknowledgment of ownership to him' because if he proves that it is his ownership, it is accepted. And if he says 'it was in his hand without right,' there is disagreement, and the mufta bihi is that it is an acknowledgment. ('Ayni, Fath)
+Source pages p. 467
+
+Commentary
+This passage from the chapter on disputes in testimony (bab al-ikhtilaf fi al-shahada) discusses rules for establishing ownership through testimony on possession (yad), especially in inheritance cases. The author explains exceptions where testimony on possession suffices without further mention of 'jar' (i.e., that the deceased died owning it as inheritance). If witnesses testify that property was in the deceased's hand at death, it is accepted regardless of whether that hand was ownership or trust (amana), because trusts convert to ownership upon death if the deceased dies unknown, due to guarantee. Similarly, testifying that property was in the hand of the deceased's depositary, borrower, lessee, pledgee, or usurper suffices because establishing the hand of his representative is like establishing his own hand in meaning. The passage also discusses a contrasting case: if witnesses testify that a living person had possession of an object a month ago but not currently, it is rejected according to Abu Hanifa and Muhammad (the two parties) because the type of hand is ambiguous. Abu Yusuf accepts it, analogizing to testimony of ownership. The text further mentions that if the defendant acknowledges ownership, or witnesses testify that he acknowledged it, the property is given to the plaintiff. The ruling is based on consensus for the excepted cases and on istihsan for the general principle.
+
+Key Terms
+يد (yad): Physical possession or control; categorized into 'hand of ownership' (yad milk) and 'hand of trust' (yad amana)
+جر (jar): The act of 'pulling' or extending a claim to show that the deceased left the property as inheritance (i.e., that it was part of the estate)
+إقرار (iqrar): Acknowledgment or confession; a form of proof against oneself that suffices even if the subject matter is unspecified
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is NOT one of the excepted cases where testimony on possession at death suffices without mentioning jar?
+A) Testimony that the property was in the hand of the deceased's depositary at death.
+B) Testimony that the property was in the hand of the deceased's borrower at death.
+C) Testimony that the property was in the hand of a living person one month ago.
+D) Testimony that the property was in the hand of the deceased's lessee at death.
+
+Key Takeaway
+Testimony on possession at death suffices to prove inheritance ownership, but testimony on a living person's past possession is rejected due to ambiguity, per the relied-upon Hanafi position.
+
+Pages p. 467 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 509
+Module 5 · Lesson 16
+Next →
+Faraid — Inheritance
+intermediate
+6 min
+Handing Over Deposit or Debt on Inheritance Claim
+Ruling on claimant asserting ownership of deposit via purchase or inheritance
+
+Learning Objective
+By the end of this lesson, you will be able to state the Hanafi ruling when a claimant asserts ownership of a deposit or debt via inheritance or bequest, and identify the conditions under which the depositee or debtor must hand over.
+
+Core Idea
+A depositee must not hand over the deposit on a claim of inheritance unless the claimant asserts no other heir exists; the debtor may pay upon confirmation.
+
+This lesson addresses a practical scenario: someone claims that the depositor died and left the deposit (or debt) to them as inheritance or bequest. The Hanafi school imposes a crucial condition before the depositee or debtor can safely hand over the property. Understanding this condition prevents injustice to other potential heirs.
+
+Guided Path
+1
+Identify the claimant's assertion
+The claimant states that the depositor or creditor died and left the deposit or debt as inheritance (or bequest) to him. The depositee or debtor must evaluate this claim.
+2
+Determine the depositee's default obligation
+For a deposit, the depositee is a trustee (amin). He must not hand over based solely on the claimant's statement; he must be cautious because other heirs may exist.
+3
+Apply the condition for safe handover of deposit
+The depositee may only hand over if the claimant explicitly says that the deceased left no other heir. For a bequest, the legatee is treated similarly, but the claimant must also state that there is no heir.
+4
+Distinguish the debt scenario
+For a debt, if the debtor confirms the claimant's statement (that the creditor died and left the debt as inheritance), he is ordered to pay. No additional condition about other heirs is required.
+5
+Recognize the exception for lack of knowledge
+If the depositee or debtor denies the death of the original owner or says 'I don't know', they must not hand over unless the claimant produces evidence (bayyinah).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وتركها ميراثاً له: لو قال: "وتركها ميراثاً أو وصية له" لكان أولى؛ لأن الموصى له منزل منزلة الوارث عند عدمه، ولابد من التوقف فيها؛ لاحتمال أن يكون له وارث آخر، ولابد في دعوى الوصية من قوله: "لم يترك وارثاً"، وإلا لم يكن ذو اليد خصماً، والدين كالوديعة، يعني إذا ادعى أن رب الدين مات وتركه ميراثاً له، وصدقه المديون أمر بالدفع إليه، وقوله : وصدقه قيد به؛ لأنه لو أنكر موته أو قال: لا أدرى، لا يؤمر بالتسليم إليه ما لم يقم البينة.
+And left it as inheritance for him: It would have been better if he said: 'left it as inheritance or bequest for him', because the legatee is treated as an heir in his absence. It is necessary to pause in this, because it is possible that he has another heir. And in a claim of bequest, it is necessary for him to say: 'He left no heir', otherwise the possessor is not a litigant. And debt is like a deposit, meaning if he claims that the creditor died and left it as inheritance for him, and the debtor confirms him, he is ordered to pay to him. And his saying 'and he confirmed him' is a restriction; because if he denies his death or says 'I don't know', he is not ordered to hand over unless he produces evidence.
+Source pages p. 509
+
+Commentary
+This lesson continues the discussion on claims related to deposits. The text addresses the situation where a person claims that the depositor died and left the deposit as inheritance (or bequest) to him. Even if the depositee confirms this claim, he is not ordered to hand over the deposit. The commentary notes that the claimant must also assert that there is no other heir; otherwise, the depositee is not a proper opponent. For debt, the ruling is different: if the debtor confirms an inheritance claim, he may pay. But for deposit, the depositee must not hand over without certainty. The restriction 'confirm' is important: if the depositee does not confirm, the claimant must produce evidence.
+
+Key Terms
+الوصية (al-waṣiyya): Bequest; a testamentary disposition of property.
+
+Key Terms from Source Passage
+
+Checkpoint
+If a person claims that the depositor died and left the deposit as inheritance to him, and the depositee confirms, what should the depositee do?
+A) Hand over the deposit immediately.
+B) Not hand over unless the claimant says there is no other heir.
+C) Hand over if the claimant swears.
+D) Hand over only if the claimant produces a written will.
+
+Key Takeaway
+A depositee must not deliver the deposit based on an inheritance claim unless the claimant asserts no other heir exists.
+
+Pages p. 509 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 509
+Module 5 · Lesson 17
+Next →
+Faraid — Inheritance
+intermediate
+6 min
+Agency for Inheritance or Bequest of Deposit: Conditions for Payment
+Ruling on agency claims involving inheritance or bequest of a deposit
+
+Learning Objective
+By the end of this lesson, you will be able to state the Hanafi ruling on a claim of inheritance of a deposit and identify the conditions under which the depositary must pay.
+
+Core Idea
+A depositary's confirmation of an inheritance claim does not oblige payment; it is an invalid acknowledgment of another's property.
+
+This passage from Kanz al-Daqa'iq addresses a scenario where a claimant alleges that the depositor has died and left the deposit as their inheritance or bequest. Even if the depositary confirms the claim, payment is not ordered. The reasoning is rooted in the principle that acknowledging another's property is invalid. The lesson unpacks this ruling and its conditions, including the need for evidence when the depositary denies or is uncertain.
+
+Guided Path
+1
+Identify the claim scenario
+The claimant asserts that the depositor died and left the deposit as inheritance (or bequest) to him, and there is no other heir.
+The claim involves ownership transfer after death.
+2
+Note the depositary's confirmation
+Even if the depositary confirms the claim (i.e., agrees that the depositor died and the claimant is heir), the depositary is not ordered to pay.
+Confirmation alone is insufficient.
+3
+Understand the legal reason (talil)
+The prohibition is because the depositary's confirmation constitutes acknowledgment of another's property (i.e., property not yet proven to belong to the claimant).
+Acknowledgment of another's property is invalid in Hanafi law.
+4
+Recognize the exception when evidence is required
+If the depositary denies the death or pleads ignorance, the claimant must produce evidence (bayyinah) before the depositary can be compelled to hand over the deposit.
+The condition 'and he confirms him' is a necessary condition for the ruling; without it, evidence is mandatory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولو ادعى أن المودع مات وتركها ميراثاً له، وصدقه، ولا وارث له غيره، لم يؤمر المودع بالدفع إليه؛ لأنه إقرار بمال الغير. ولو ادعى وصية كذلك. وقوله: وصدقه قيد به؛ لأنه لو أنكر موته أو قال: لا أدري، لا يؤمر بالتسليم إليه ما لم يقم البينة.
+And if he claims that the depositor died and left it as inheritance for him, and he confirms him, and there is no other heir for him, the depositary is not ordered to pay it to him; because it is an acknowledgment of another's property. And if he claims a bequest, similarly. And his statement: 'and he confirms him' is a condition; because if he denies his death or says: I do not know, he is not ordered to hand it over unless he produces evidence.
+Source pages p. 509
+
+Commentary
+This passage continues the ruling on deposit agency claims, now addressing inheritance or bequest. If a person claims that the owner of the deposit has died and left the deposit as his inheritance, and the depositary confirms this claim, the depositary is still not ordered to hand over the deposit. The reasoning is the same: the inheritance claim is an acknowledgment regarding the property of the deceased, which is not yet proven to be the claimant's property. The condition 'and he confirms him' is important: if the depositary denies the owner's death or pleads ignorance, the claimant must produce evidence (bayyinah) before the depositary can be compelled. The ruling also applies analogously to a claim of bequest (wasiyyah). The commentary notes that it would be better to explicitly include 'or bequest' in the matn, as the donee is treated like an heir in the absence of other heirs. There is hesitation because there may be another heir, so the ruling requires that the claimant be the only heir.
+
+Key Terms
+ميراث (mirath): Inheritance; property transferred to heirs after death.
+وصية (wasiyyah): Bequest; a will transferring ownership after death.
+بينة (bayyinah): Evidence; legally acceptable proof, typically two male witnesses or one man and two women.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the case of a claim of inheritance of a deposit, what happens if the depositary denies the owner's death?
+A) The depositary is ordered to pay because he is confirming the agency.
+B) The claimant is not required to provide evidence; the claim stands.
+C) The depositary is not ordered to pay until the claimant produces evidence of the owner's death and his inheritance.
+D) The depositary must pay and then can recover from the true heir.
+
+Key Takeaway
+A depositary is never compelled to pay based solely on confirmation of an inheritance claim; the claimant must prove his right, especially if the depositary denies or is uncertain.
+
+Pages p. 509 · Faraid — Inheritance
+← Prev
+Mark Done
+Next →

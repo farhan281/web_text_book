@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:51:20Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Nur%20al-Idah%20Bushra_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/05 - Nur Al-Idah Bushra Merged With Pgs",
+  "output_bytes": 7402442,
+  "output_sha256": "8374742fc08673e9f57be4a4c4302e61bf6e77a55002ac28a3d14aef37a13040",
+  "checks": {
+    "catalog_expected_lessons": 761,
+    "course_reported_lessons": 761,
+    "index_lessons": 761,
+    "full_lessons": 761,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 8,
+    "course_reported_modules": 8,
+    "modules": 8,
+    "course_reported_sources": 623,
+    "sources": 623
+  }
+}

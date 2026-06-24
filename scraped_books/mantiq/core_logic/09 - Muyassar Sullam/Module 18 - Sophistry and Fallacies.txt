@@ -1,0 +1,347 @@
+← Prev
+p. 86
+Module 18 · Lesson 1
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+The Fallacy of Equivocation: Treating Distinct Terms as Synonyms
+Author explains the fallacy of equivocation by example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of equivocation in a categorical syllogism where the middle term is used in two different senses.
+
+Core Idea
+A valid syllogism requires the middle term to have the exact same meaning in both premises.
+
+Words can be treacherous: one word may carry multiple meanings. In logic, if a key term shifts meaning between premises, the argument collapses. This lesson dissects a classic fallacy where distinct terms are mistakenly treated as synonyms, leading to an invalid conclusion.
+
+Guided Path
+1
+Identify the premises and conclusion
+Find the minor premise (e.g., 'This is a sharp sword' pointing to a non-cutting sword), major premise ('Every sharp sword is a sword'), and conclusion ('This is a sword').
+2
+Locate the middle term
+The middle term is 'sharp sword' (ṣārim). Note that it appears in both premises.
+3
+Determine the meaning in each premise
+In the minor premise, 'sharp sword' refers to a non-cutting sword. In the major premise, it refers to a cutting sword. These meanings are different.
+4
+Check if the meaning is identical
+Since the middle term has different meanings, the syllogism commits the fallacy of equivocation. The middle term is repeated only in wording, not in meaning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثانيا: جعل الألفاظ المتباينة مثل المترادفة ، كقولك [هذا صارم] مشيراً إلى سيف غير قاطع، وكل صارم سيف] فحقيقة السيف تباين حقيقة الصارم ، لأن السيف ماكان على الهيئة المخصوصة قاطعا كان أو غير قاطع، والصارم هو السيف بقيد القطع، فكانت النتيجة كاذبة لأن الصارم في الصغرى أريد به غير القاطع، فلم يصح حمل السيف عليه في الكبرى، بل هو محمول على الصارم الذي هو القاطع من جنس السيف فلم يتكرر الحد الوسط. (1) أى لم يتكرر الحدّ الوسط معنى، وإنما تكرر لفظاً بمعنيين مختلفين.
+Secondly: making distinct terms like synonyms, such as your saying [This is a sharp sword] pointing to a non-cutting sword, and [Every sharp sword is a sword]. The reality of 'sword' differs from 'sharp sword', because a sword is whatever is in the specific form, cutting or not, while a sharp sword is a sword with the condition of cutting. So the conclusion is false because the sharp sword in the minor premise was intended as non-cutting, so it was not correct to predicate 'sword' upon it in the major premise. Rather, 'sword' is predicated on the sharp sword that is cutting, of the genus of sword, so the middle term was not repeated. (1) Meaning: the middle term was not repeated in meaning, but was repeated in wording with two different meanings.
+Source pages p. 86
+
+Commentary
+This passage defines a type of fallacy where two terms that have different meanings are treated as if they were synonyms. The author gives an example: 'This is a sharp sword' pointing to a non-cutting sword, and 'Every sharp sword is a sword'. The term 'sharp sword' (sarim) in the minor premise refers to a non-cutting sword, but in the major premise it refers to a cutting sword. Thus the middle term 'sharp sword' is not repeated in the same sense. The footnote clarifies that the middle term is repeated only in wording, not in meaning. This fallacy occurs when a word is ambiguous and the arguer shifts its meaning between premises.
+
+Key Terms
+الألفاظ المتباينة
+المترادفة
+الحد الوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+In the fallacy of 'making distinct terms like synonyms', what is the status of the middle term?
+A) It is repeated in meaning and wording.
+B) It is repeated only in wording but not in meaning.
+C) It is not repeated at all.
+D) It is repeated only in meaning but not in wording.
+
+Key Takeaway
+Equivocation occurs when a term is used in two different senses in a syllogism, making the argument invalid even if the form appears correct.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the fallacy in this argument: 'The Quran is created (makhluq). Every created thing has a beginning. Therefore the Quran has a beginning.' Consider if 'created' is used in the same sense for the Quran as for other things.
+
+Pages p. 86 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 86
+Module 18 · Lesson 2
+Next →
+Sophistry and Fallacies
+intermediate
+8 min
+Fallacy of Equivocation on the Middle Term
+Fallacy of confusing false with true via equivocation
+
+Learning Objective
+By the end of this lesson, you will be able to identify and diagnose the fallacy of equivocation on the middle term in a categorical syllogism by detecting shifts in meaning.
+
+Core Idea
+Equivocation on a middle term turns a valid form into a fallacy by using two meanings.
+
+This passage from al-Sullam al-Muyassar addresses a common sophistical error: taking an accidental attribute as essential. The example of a person in a ship shows how a syllogism can seem valid but fails because the key term 'moving' shifts meaning between premises. Understanding this fallacy helps you avoid building false conclusions in theological and legal arguments.
+
+Guided Path
+1
+Identify the syllogism's components
+Read the example: 'The person sitting in the ship is moving, and everything moving does not stay in one place.' Identify the minor premise (person sitting is moving) and major premise (everything moving does not stay in one place). The middle term is 'moving'.
+The conclusion is implicit: the person does not stay in one place, which is false if the ship is still.
+2
+Detect the shift in meaning
+Ask: is 'moving' used in the same sense in both premises? In the minor premise, the person moves accidentally (with the ship). In the major premise, 'moving' means essential motion (self-motion). The meaning is different: عرضي (accidental) vs. ذاتي (essential).
+The author explicitly contrasts these two senses.
+3
+Diagnose the fallacy
+Because the middle term is not repeated in a single meaning, the syllogism violates the condition of iqtiran (connection). The premises are true only if each is interpreted with its own meaning, but then the middle term is equivocal, so no valid conclusion follows. The fallacy is called 'confusing a false proposition with a true one' because the equivocation makes a false conclusion appear true.
+If one meaning is used, one premise becomes false, so the argument is still unsound.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أولاً: التباس القضية الكاذبة بقضية صادقة ، كأن تجعل العرضي ذاتياً، مثاله كقولنا [الجالس في السفينة متحرك، وكل متحرك لا يثبت في مكان واحد، فإحدى المقدمتين كاذبة إن أريد بالمتحرك فيها معنى واحد، وإن أريد بالمتحرك في الأولى المتحرك بالعرض وفي الثانية المتحرك بالذات كانتا صادقتين، لكن لم تكرر، فلم تصدق النتيجة.
+First: confusing a false proposition with a true one, like making the accidental essential. Example: our saying [The person sitting in the ship is moving, and everything moving does not stay in one place]. One of the two premises is false if 'moving' is intended in one meaning. If 'moving' in the first is intended as accidental movement and in the second as essential movement, both are true, but it is not repeated, so the conclusion is not true.
+Source pages p. 86
+
+Commentary
+This passage describes a fallacy where a false proposition is mistaken for a true one by equivocating on a term. The example: 'The person sitting in the ship is moving.' This is true only if 'moving' means accidental movement (the person moves with the ship). But then the major premise 'Everything moving does not stay in one place' is true only if 'moving' means essential motion (self-motion). If both meanings are used, the middle term 'moving' is not repeated in the same sense, so the syllogism fails. If one meaning is used, one premise becomes false.
+
+Key Terms
+العرضي
+الذاتي
+القضية الكاذبة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example of the person in the ship, what makes the syllogism invalid?
+A) The minor premise is false.
+B) The major premise is false.
+C) The middle term is not repeated in the same meaning.
+D) The conclusion is false.
+
+Key Takeaway
+A syllogism fails if its middle term is equivocal, even if each premise is true under its own interpretation.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a valid first-figure syllogism on an Islamic topic (e.g., 'Every intoxicant is forbidden; all khamr is an intoxicant; therefore khamr is forbidden'). Then rewrite it by equivocating on the middle term (e.g., using 'intoxicant' to mean both literal and metaphorical) and explain why it becomes fallacious.
+?
+Identify the shift in meaning in the following argument: 'The Imam leads the prayer; whoever leads others is a leader; therefore the Imam is a leader.' Is there equivocation on 'leads'? Explain.
+
+Pages p. 86 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 86
+Module 18 · Lesson 3
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+The Fallacy of Begging the Question (Petitio Principii)
+Author explains the fallacy of using the conclusion as a premise.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a syllogism commits the fallacy of making the conclusion identical to one of the premises (petitio principii) and explain why it fails to produce new knowledge.
+
+Core Idea
+A syllogism may be formally valid but useless if its conclusion merely restates a premise.
+
+The second cause of error in meanings is when the conclusion is made one of the premises. This fallacy, known in Western logic as 'begging the question' or petitio principii, occurs when the conclusion is synonymous with or directly repeated from a premise. Even if the syllogism's form is correct, it yields no new knowledge—the hallmark of a useless argument. In this lesson, we dissect this fallacy using the example from the text.
+
+Guided Path
+1
+Identify the syllogism's structure
+Write out the example: 'This is a transference; every transference is a movement; therefore this is a movement.' Separate into premises (minor: 'This is a transference'; major: 'Every transference is a movement') and conclusion ('This is a movement').
+The subject of the minor premise and conclusion is the same: 'this'.
+2
+Check for synonymy between terms
+Notice that the minor premise uses 'transference' (naqla) and the conclusion uses 'movement' (haraka). The text states they are synonyms. Determine if the conclusion's key terms are essentially the same as those in the premises.
+In this case, 'movement' is synonymous with 'transference', so the conclusion's predicate is identical in meaning to the minor premise's predicate.
+3
+Evaluate knowledge gain
+Ask: Does the conclusion provide new information beyond the premises? Since the term 'movement' means the same as 'transference,' the conclusion only restates the minor premise in different words. No new knowledge is obtained.
+The text explicitly says 'so no additional knowledge is obtained' (فلم يحصل علم زائد عليها).
+4
+Determine the fallacy's classification
+Recognize this as a material fallacy (error in meaning) rather than a formal fallacy. The syllogism is formally valid (first figure, Barbara mood), but materially defective because the terms are synonymous.
+Thus, formal validity does not guarantee a useful argument.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثانياً: جعل النتيجة إحدى المقدمتين، كقولنا هذه نقلة، وكل نقلة حركة، فهذه حركة ] ، فالنتيجة عين الصغرى لأن الحركة مرادفة للنقلة. (2) لأنه لا يفيد، مع صحة القياس صورة. فإثبات كون هذه حركة لا يتم بواسطة إثبات أنها حركة، ولا إثبات كونها نقلة يتم بإثبات كونها حركة، لأن الحركة هى عين النقلة. فهما شيء واحد. فهو مردود من جهة أن النتيجه لیست مغايرة للمقدمتين، فلم يحصل علم زائد عليها.
+Secondly: making the conclusion one of the premises, like our saying 'This is a transference, and every transference is a movement, so this is a movement.' The conclusion is identical to the minor premise because 'movement' is synonymous with 'transference'. (2) Because it is of no benefit, even if the syllogism is formally valid. For proving that this is a movement is not established by proving that it is a movement, nor is proving that it is a transference established by proving that it is a movement, because movement is exactly transference. They are one thing. So it is rejected because the conclusion is not different from the premises, so no additional knowledge is obtained.
+Source pages p. 86
+
+Commentary
+This passage defines the fallacy of begging the question (petitio principii) where the conclusion is identical to one of the premises. The example: 'This is a transference, every transference is a movement, so this is a movement.' Since 'movement' and 'transference' are synonyms, the conclusion simply restates the minor premise. The footnote explains that even if the form of the syllogism is correct, no new knowledge is produced. In Islamic logic, a valid syllogism must give new knowledge (ilm za'id). This fallacy occurs when the terms are synonymous, so the conclusion adds nothing.
+
+Key Terms
+النتيجة (al-natīja): The conclusion of a syllogism.
+النقلة (al-naqla): Transference, movement from one place to another.
+الحركة (al-ḥaraka): Movement, change of position.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'This is a transference; every transference is a movement; therefore this is a movement,' why is this considered a fallacy?
+A) The minor premise is false.
+B) The major premise is false.
+C) The conclusion is identical to the minor premise.
+D) The syllogism is in the wrong figure.
+
+Key Takeaway
+A syllogism that is formally valid but whose conclusion is synonymous with a premise commits the fallacy of petitio principii and yields no new knowledge.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'Every act of injustice is forbidden. Backbiting is an act of injustice. Therefore backbiting is forbidden.' If 'act of injustice' is defined as 'something forbidden,' is this a petitio principii? Explain which terms might be synonymous.
+?
+Construct a similar fallacy using terms from fiqh: choose two synonymous terms (e.g., 'wine' and 'khamr') and show how a syllogism could commit this fallacy.
+
+Pages p. 86 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 86
+Module 18 · Lesson 4
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+Fallacy of Judging Genus by Species
+Author explains the fallacy of inferring that a genus has a property of a species.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of judging the genus by the species (īhām al-ʿaks) and explain why it occurs.
+
+Core Idea
+A property of a species does not automatically extend to the whole genus.
+
+This passage introduces a common logical error: assuming that what is true of a species is true of its entire genus. The author illustrates it with a simple syllogism and names the fallacy 'illusion of conversion'. Understanding this fallacy helps you avoid false generalizations in reasoning, especially in Islamic legal analogies.
+
+Guided Path
+1
+Identify the false premise
+In the example 'Every horse is an animal, every animal is rational, therefore every horse is rational', locate the premise that is actually false. The premise 'every animal is rational' is false because rationality is only a property of humans, not all animals. The other premise 'every horse is an animal' is true.
+The false premise is the major premise of the syllogism.
+2
+Recognize the conversion error
+Notice how the error arises from assuming that because 'every rational is an animal' is true, the converse 'every animal is rational' is also true. This is the illusion of conversion (īhām al-ʿaks). Conversion of a universal affirmative (All A are B) yields a particular affirmative (Some B are A), not a universal affirmative.
+The fallacy is thinking 'All A are B' implies 'All B are A'.
+3
+Test with an Islamic example
+Consider the true proposition 'every intoxicant is forbidden' (from Islamic law). Its converse 'every forbidden thing is intoxicant' is false because many forbidden things (e.g., pork, blood) are not intoxicants. This fallacy leads to incorrect rulings if applied in fiqh or usul al-fiqh.
+Use this test to check for the fallacy in everyday arguments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثالثاً: الحكم للجنس بحكم النوع، كقولنا اكل فرس حيوان، وكل حيوان ناطق، فكل فرس ناطق]، وهـو كذب، ويسمى مثله إيهام العكس، لأنه لما رأى أن كل ناطق حيوان توهم أن كل حيوان ناطق، وليس كذلك، فجاء الخطأ.
+Thirdly: judging the genus by the ruling of the species, like our saying 'Every horse is an animal, and every animal is rational, so every horse is rational.' This is false. It is called the illusion of conversion (īhām al-ʿaks), because when he saw that every rational is an animal, he imagined that every animal is rational, which is not the case, so the error occurred.
+Source pages p. 86
+
+Commentary
+This passage describes a fallacy where one attributes a property of a species to the entire genus. The example: 'Every horse is an animal, every animal is rational, therefore every horse is rational.' The major premise 'every animal is rational' is false; rationality is a property of humans (a species of animal), not all animals. The author calls this 'īhām al-ʿaks' (illusion of conversion), because the person wrongly assumes that if every rational is an animal, then every animal is rational. In Islamic logic, this is a confusion between the universal affirmative proposition and its converse.
+
+Key Terms
+الحكم للجنس بحكم النوع
+إيهام العكس
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the error called in the fallacy 'Every horse is an animal, every animal is rational, therefore every horse is rational'?
+A) Begging the question
+B) Illusion of conversion
+C) Equivocation
+D) Accident
+
+Key Takeaway
+The fallacy of judging the genus by the species occurs when one mistakenly treats a property of a species as a property of the entire genus, often due to assuming the converse of a universal affirmative is also universal.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an example of this fallacy using an Islamic ruling. State the false premise and explain why it is erroneous. For instance: 'Every fard is wajib; every wajib is fard' – explain why this is false by giving a counterexample from fiqh (e.g., wudu is wajib but not fard in the sense of obligatory for the validity of prayer).
+?
+Identify whether the following argument commits the fallacy of īhām al-ʿaks: 'Every sadaqa is a good deed; every good deed is a sadaqa.' Explain why or why not, using knowledge from this lesson.
+
+Pages p. 86 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 86
+Module 18 · Lesson 5
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+Treating a Non-Certain Premise as Certain: The Fallacy of Wahm
+Author explains the fallacy of using a merely probable premise as if it were certain.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a premise is treated as certain but is actually based on estimation (wahm), and explain why this renders the syllogism unsound.
+
+Core Idea
+Certainty in premises is required for certain conclusions; confusion arises when probable premises are treated as certain.
+
+In many arguments, a premise may seem plausible but lacks certainty. The fourth cause of error in meanings is when a non-certain premise is treated as if it were definitive. The author illustrates this with a syllogism where the major premise 'every dead thing is inanimate' is accepted as certain, yet it is only an imaginary judgment from the faculty of wahm. This lesson shows how such an error can be detected and avoided in Islamic reasoning.
+
+Guided Path
+1
+Identify the premise claimed as certain
+In the example, the major premise 'every dead thing is inanimate' is presented as if it were certain. Locate the premise that is being elevated to the level of yaqin.
+The minor premise 'this is dead' is usually empirical and certain.
+2
+Assess the epistemic basis of that premise
+Determine whether the premise is based on sense perception, reason, or estimation (wahm). The author states it is wahmiyya, meaning it comes from the imagination, which can mistake resemblance for identity.
+The dead body may appear inert, but that does not make it inanimate in the same way as a rock.
+3
+Check the impact on the conclusion
+If the major premise is not certain, the conclusion inherits that uncertainty. Even if the syllogistic form is valid, the argument becomes unsound because a premise lacks certainty.
+A valid syllogism with a probable premise yields only a probable conclusion.
+4
+Apply to other Islamic science arguments
+Look for similar fallacies in kalam or fiqh proofs where a premise might be taken as certain when it is only probable. For example, in arguments from analogy (qiyas), the 'illa must be established with certainty, not just be an estimation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+رابعاً: جعل المقدمة غير القطعية قطعية مثال قولك هذا ،ميت وكل ميت جماد]، فالكبرى وهمية لأن الوهم يحكم بجمادية الميت لكونه كالجماد في عدم الروح والإحساس والحركة فجعلت في هذا القياس كالقطعية، ونزلت منزلتها في أخذها جزءاً لها.
+Fourthly: making a non-certain premise certain. Example: your saying 'This is dead, and every dead thing is inanimate.' The major premise is imaginary (wahmiyya) because the imagination (wahm) judges that a dead thing is inanimate due to its being like inanimate objects in lacking spirit, sensation, and movement. So it was made like a certain premise in this syllogism and treated as such.
+Source pages p. 86
+
+Commentary
+This passage describes a fallacy where a premise that is merely probable or based on imagination (wahm) is treated as certain. The example: 'This is dead, every dead thing is inanimate.' The major premise 'every dead thing is inanimate' is not certain; it is based on a false analogy. The dead body may appear inanimate, but it is not truly inanimate (e.g., it can decay, etc.). In Islamic logic, the faculty of wahm (estimation) can produce false judgments. This fallacy occurs when such a judgment is taken as a certain premise in a syllogism.
+
+Key Terms
+الوهم
+قطعية
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example given in the passage, why is the major premise 'every dead thing is inanimate' considered non-certain?
+A) Because it is false.
+B) Because it is based on imagination (wahm), not certainty.
+C) Because it is not universally quantified.
+D) Because it contradicts sense perception.
+
+Key Takeaway
+A syllogism is only as certain as its weakest premise; treating a probable premise as certain leads to an unsound argument.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the syllogism: 'Every alcoholic drink is forbidden. This beverage is alcoholic. Therefore it is forbidden.' Identify which premise might be non-certain if the beverage's alcoholic content is only suspected, not confirmed. How would you restate the premises to ensure certainty?
+?
+In a debate about the attributes of Allah, a mutakallim says: 'Every being that performs actions has a will. Allah performs actions. Therefore Allah has a will.' Explain why the major premise might be considered non-certain in some schools of kalam, and how this fallacy could affect the conclusion.
+
+Pages p. 86 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →

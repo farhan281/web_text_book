@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:09Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/SharahUqoodERasmIlMuftiAlBushra/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/iftaa_usul/87 - Sharahuqooderasmilmuftialbushra",
+  "output_bytes": 1285389,
+  "output_sha256": "851da8251b9068a21ceb355d79524d19e5da48b7e44d3fbc713571571858cb64",
+  "checks": {
+    "catalog_expected_lessons": 137,
+    "course_reported_lessons": 137,
+    "index_lessons": 137,
+    "full_lessons": 137,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 11,
+    "course_reported_modules": 11,
+    "modules": 11,
+    "course_reported_sources": 134,
+    "sources": 134
+  }
+}

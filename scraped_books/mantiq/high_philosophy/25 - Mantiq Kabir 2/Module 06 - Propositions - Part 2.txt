@@ -1,0 +1,653 @@
+← Prev
+p. 415
+Module 6 · Lesson 51
+Next →
+Propositions
+intermediate
+10 min
+Distinguishing Primary from Universal Judgments
+Author explains the second cause of error where a judgment on all members is mistaken for universal when it is actually primary.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a judgment about a class is universal or primary based on the condition of primariness.
+
+Core Idea
+A judgment about each individual is not automatically universal—it may be primary.
+
+Sometimes we think that if a statement applies to every member of a group, it must be a universal judgment about the nature of that group. But the logicians warn that this may be a primary judgment, which applies to each individual separately without capturing a common universal. This distinction is crucial in avoiding errors in reasoning, especially in theological and legal arguments.
+
+Guided Path
+1
+Identify the second cause of error
+The second cause is the opposite of the first: a judgment is actually primary but is mistaken for universal. Look for the phrase 'الشبهة الثانية' and note that it is described as the reverse of the first cause.
+2
+Analyze the geometric example
+The author gives an example about two lines that are concealed by a third line, making every interior angle on one side right. Notice that this judgment applies to every such pair of lines, but it is not about the universal nature of 'line pair'—it is about each individual pair's property.
+The example is from geometry, but the logical structure is what matters.
+3
+Contrast with a true universal judgment
+A true universal judgment would apply to the common nature itself, e.g., 'Every human is rational' – where 'rational' belongs to the nature of humanity. In the example, the property 'having right interior angles' is not part of the definition of a line pair; it is a primary attribute that happens to hold for every instance meeting a condition.
+4
+Apply the condition of primariness
+The key is that the judgment is 'awwalī' (primary) because it attaches to each subject individually, not to a universal. Check if the predicate is part of the subject's essence or if it is an accident. If it is an accident applying to every individual, it may still be primary, not universal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+[ب] وأما الثاني من الأسباب الثلاثة فهو الشبهة الثانية؛ وهي كأنها عكس هذه في الوجهين جميعا أحدهما في أنه لم يضع المقول على الكل فظن أنه وضع؛ وكان هناك وضع فظن أنه لم يضع. والثاني أن السبب فيه أنه لما حكم على كل واحد فكان الحكم عاما حسب أنه كلي؛ ولم يكن في الحقيقة كليا؛ إذ فات أنه أولي؛ وكان هناك حكم على واحدة فظن أنه لم يحكم كليا كما في قولنا إن التواري لخطين يقع عليهما خط فيجعل كل زاوية داخلة من جهة واحدة قائمة ولأنه لا يخلو من خطين بهذه الصفة إلا وهما متواريان فيظن أن المقول على الكل كلي؛ وليس كذلك فإن شرط الأولية فاتت.
+[B] As for the second of the three causes, it is the second doubt; it is like the opposite of this in both aspects: one, that he did not place the predicate on the whole, so he thought he placed it; and there was placement, so he thought he did not place it. The second is that the cause in it is that when he judged about each one, the judgment was general, so he thought it was universal; but in reality it was not universal, because it missed being primary; and there was a judgment about one, so he thought he did not judge universally, as in our saying: The concealment of two lines upon which a line falls makes every interior angle on one side right, and since there are no two lines with this description except that they are concealed, so he thinks that what is predicated of the whole is universal; but it is not so, for the condition of primariness is missing.
+Source pages p. 415
+
+Commentary
+This passage presents the second cause of error, which is the opposite of the first. The first cause mistakenly considered something universal to be only primary; here, something is thought to be universal when it is actually primary. The author explains that when a judgment is made about every individual of a kind, one might think it is universal. But the judgment may be about a primary attribute that belongs to each individual individually, not about the common nature. The author gives a geometrical example: 'The concealment of two lines upon which a line falls makes every interior angle on one side right.' This statement applies to every pair of lines meeting that condition, but it is not a universal judgment about a common nature; it is about each individual pair's primary attribute (the angle being right). Since every such pair has this property, one might think it is universal, but it is not because the condition of being primary (i.e., the property attaching to a particular subject) is missing. In other words, the judgment is about each individual, not about a universal concept. This is the second source of confusion.
+
+Key Terms
+أولي (awwalī): primary attribute that belongs to each subject individually
+كلي (kullī): universal judgment applied to a common nature
+
+Key Terms from Source Passage
+
+Checkpoint
+The second cause of error arises when:
+A) A universal judgment is mistakenly thought to be primary.
+B) A judgment about each individual is thought to be universal, when it is actually primary.
+C) A primary attribute is thought to be universal because it applies to many.
+D) A judgment is made without any predicate.
+
+Key Takeaway
+Not every judgment that covers all individuals is a universal judgment; it may be primary, and missing this distinction leads to logical error.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the statement: 'Every prayer that is invalid due to impurity must be repeated.' Is this a universal judgment about the nature of prayer, or is it a primary judgment about each invalid prayer? Use the condition of primariness from this passage to justify your answer.
+?
+Think of another example from Fiqh or Kalam where a judgment applies to every individual but is not truly universal. Write it down and explain why it is primary.
+
+Pages p. 415 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 415
+Module 6 · Lesson 52
+Next →
+Propositions
+intermediate
+8 min
+The Third Cause: Missing Common Name
+Author explains how absence of a general term causes false primariness
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a universal property is mistakenly thought to be primary to a specific species due to the lack of a common genus name in a particular science.
+
+Core Idea
+A missing shared name can hide a universal truth from view.
+
+The third cause of error in logic arises not from a fallacy in reasoning, but from a failure of terminology. When a property truly belongs to a broader genus, but that genus lacks a common name in a particular discipline, the property appears to be specific to each species. This lesson explores that subtle but important epistemological pitfall.
+
+Guided Path
+1
+Identify the universal property and the species
+Find the property that applies to multiple species. In the example, the property is 'proportional when transformed' applied to magnitudes and numbers.
+2
+Recognize the missing genus name
+Determine the broader genus that encompasses both species. Here, it is 'quantity' (al-kamm), but this term is not used as a common genus in geometry or arithmetic.
+3
+Understand the mistake
+Because the property is demonstrated separately in each science without a common name, it is thought to be primary to each subject individually, when in fact it is primary to the common genus.
+4
+Apply to other examples
+The author mentions times, statements, and melodies as other phenomena that are essentially or accidentally quantities. Consider how the same pattern might occur there.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+[ت] وأما السبب الثالث فهو سبب الشبهة الثالثة وهي شبهة توقع فيها الضرورة أو الخطأ أما الضرورة فلأن الكلي العام إذا كان لأنواع مختلفة لا اسم له فبين الحكم في كل واحد من أنواعه التي لها أسماء بينات خاصة. فإذا لم يوجد الحكم لشيء أعم منه لفقدان الاسم العام ظن أنه أولي لكل واحد منها والحكم عليه كلي مثل أن يبرهن في المقادير أن المقادير المتناسبة إذا بدلت تكون متناسبة، ويبرهن أيضًا في الأعداد أن الأعداد المتناسبة إذا بدلت تكون متناسبة. ولكن المبرهن عليه ليس أولياً لواحد منهما بل هو أولي لكل كم إلا أن اسم الكم لا يوضع إلا في صناعة الحساب لا في الهندسة لأن صناعة الحساب يوضع العدد فيها على أنه أعم جنس ولا يتجاوز، وصناعة الهندسة يوضع فيها المقدار على أنه أعم جنس ولا يتجاوز. وكان اسم الكم معدوم بحسب الصناعتين فكأنه ليس في إحديهما للمعنى العام اسم ويظن في كل واحدة منهما أن هذا العارض أولي لموضوع صناعته وهو في الحقيقة أولي لجنس موضوعيهما. وكذلك هذا التبديل في الأزمان والأقوال والنغم وغير ذلك مما هو كم بالذات أو ذو كم.
+[C] As for the third cause, it is the cause of the third doubt, which is a doubt that involves necessity or error. As for necessity, because the general universal, if it has no name for its different types, then the judgment is evident in each one of its types that have particular evident names. So if the judgment is not found for something more general due to the lack of a general name, it is thought that it is primary for each one of them, and the judgment upon it is universal. For example, it is demonstrated of magnitudes that proportional magnitudes when transformed remain proportional, and it is also demonstrated of numbers that proportional numbers when transformed remain proportional. But what is demonstrated is not primary to either one, but rather it is primary to every quantity, except that the name 'quantity' is only placed in the art of arithmetic, not in geometry, because in the art of arithmetic, number is placed as the most general genus and does not exceed, and in the art of geometry, magnitude is placed as the most general genus and does not exceed. And the name 'quantity' is absent in both arts, as if in each of them there is no name for the general meaning, and it is thought in each one that this accident is primary to the subject of its art, while in truth it is primary to the genus of their subjects. And similarly, this replacement applies to times, statements, melodies, and other things that are quantity essentially or possess quantity.
+Source pages p. 415
+
+Commentary
+This passage explains the third cause of error. It occurs when a universal property applies to different species but lacks a common name in a particular science. Consequently, the property appears to be primary (i.e., specific) to each species. The author gives an example: the property of proportionality when transformed applies both to magnitudes and numbers. In geometry, it is demonstrated for magnitudes; in arithmetic, for numbers. However, the property is actually primary to the broader genus of 'quantity' (al-kamm), but since the arts of geometry and arithmetic do not use the term 'quantity' as a common genus—each uses its own specific genus (magnitude or number)—the property is mistakenly thought to be primary to each subject individually. In reality, it is primary to the common genus. The same applies to other phenomena like times, statements, and melodies, which are essentially or accidentally quantities. This explains why scientists may mistakenly treat a general property as specific to their field.
+
+Key Terms
+كلي عام
+كم
+عارض
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the property of 'proportional when transformed' thought to be primary to magnitudes and numbers separately?
+A) Because it is truly primary to each.
+B) Because the general term 'quantity' is not used in both sciences.
+C) Because geometry and arithmetic have different definitions.
+D) Because the property is not truly universal.
+
+Key Takeaway
+A universal property may be mistakenly assigned to a specific species when the broader genus lacks a common name, causing scientists to treat it as primary to their own subject.
+
+How This Lesson Applies — to MY Life?
+?
+The passage mentions that the same replacement applies to times, statements, melodies, etc. Choose one of these (e.g., 'melodies are essentially quantity') and explain how the lack of a common term for 'quantity' in music theory might lead to the property being thought primary to melodies alone.
+
+Pages p. 415 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 422
+Module 6 · Lesson 53
+Next →
+Propositions
+intermediate
+8 min
+Classifying the Subject of Categorical Questions
+Author classifies masaa'il into categorical/conditional and lists types of subjects.
+
+Learning Objective
+By the end of this lesson, you will be able to classify the subject of any categorical question from an Islamic science into one of the five types described by the author.
+
+Core Idea
+Categorical questions are defined by their subject, which can be the science's own subject, its species, or its essential accidents.
+
+This passage from a classical logic text shows how to analyse the structure of questions. Every categorical question has a subject and predicate. The author provides a precise taxonomy for the subject, which is crucial for understanding how questions relate to their scientific context. We will learn to identify each type using examples from natural science.
+
+Guided Path
+1
+Distinguish categorical from conditional questions
+Note the author's initial division: questions are either categorical (hamliyya) or conditional (shartiyya). Focus on categorical ones, which have a subject and predicate without a condition.
+2
+Identify the first type: subject of the science itself
+Look for questions whose subject is exactly the subject of the science they belong to. Example: 'Every body is divisible infinitely' is a question of natural science because body is the subject of natural science.
+3
+Identify the second type: a species of the subject
+When the subject is a specific kind or species of the science's subject, like 'air trapped in water' or 'anger' — these are species of natural beings.
+4
+Identify the third and fourth types: essential accidents
+The subject can be an essential accident ('arad dhati) either of the science's subject (e.g., motion — an accident of body) or of a species of that subject (e.g., time — an accident of motion).
+5
+Identify the fifth type: essential accident of a type of accident
+The most specific case: the subject is an essential accident that belongs to only some instances of a broader accident. Example: slowness is an accident of only some motions (not uniform ones).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما المسائل فهي إما حمليات أو شرطيات؛ والشرطيات تتبع الحمليات فيما نورده فنقول: كل مسألة حملية فلها موضوع و محمول، أما موضوعها فقد يكون نفس موضوع العلم كقولنا كل جسم ينقسم إلى ما لا نهاية له فإنه مسألة من مسائل الطبيعي؛ وموضوعها نفس موضوع العلم الطبيعي، وقد يكون نوع موضوعه كقولنا هل الهواء المحبوس في الماء يندفع إلى فوق بالطبع أو للانضغاط القاسر وهل الغضب مبدئه الدماغ أو القلب، وقد يكون عرضًا ذاتيًا إما لموضوعه كقولنا هل حركة كذا مضادة لحركة كذا أو لنوع موضوعه كقولنا هل الزمان بعد السكون : فإن الزمان عارض للحركة التي هي عرض ذاتي للجسم، أو عرض ذاتي بنوع عرض له كقولنا هل أبطأ الحركة لتحلل سكون فإن الإبطاء من عوارض بعض الحركات دون بعض، فإن بعض الحركات مستوية السرعة لا يبطئ البتة.
+As for the questions, they are either categorical or conditional; and the conditionals follow the categoricals in what we will mention. So we say: every categorical question has a subject and a predicate. As for its subject, it may be the very subject of the science, like our saying 'every body is divisible infinitely,' for it is a question of natural science; its subject is the very subject of natural science. And it may be a species of its subject, like our saying 'does the air trapped in water move upward naturally or due to forceful compression?' and 'does anger originate in the brain or the heart?' And it may be an essential accident either of its subject, like our saying 'is this particular motion contrary to that motion?' or of a species of its subject, like our saying 'is time after rest?' for time is an accident of motion which is an essential accident of body. Or it may be an essential accident of a type of accident of it, like our saying 'is the slowness of motion due to dissolution of rest?' for slowness is among the accidents of some motions but not others, for some motions are uniform in speed and never slow down.
+Source pages p. 422
+
+Commentary
+This passage is a classification of the types of questions (masa'il) in logic. The author first divides questions into categorical (hamliyya) and conditional (shartiyya), noting that conditional questions follow categorical ones in the principles to be discussed. Then it focuses on categorical questions, stating that each has a subject and a predicate. The subject can be of several types: first, it can be exactly the subject of the science itself, as in the example 'every body is divisible infinitely' which belongs to natural science. Second, it can be a species of the subject of the science, as in questions about trapped air or the origin of anger. Third, it can be an essential accident ('arad dhati) of the subject itself, such as asking whether one motion is contrary to another. Fourth, it can be an essential accident of a species of the subject, such as asking about time after rest, since time is an accident of motion which is an essential accident of body. Fifth, it can be an essential accident of a type of accident of the subject, such as asking about slowness of motion, which is a property of only some motions. This classification shows the range of possible subjects in logical inquiry, ensuring that every categorical question falls under one of these categories.
+
+Key Terms
+مسألة
+حملي
+عرض ذاتي
+موضوع
+نوع
+طبيعي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, the subject of a categorical question can be which of the following?
+A) Only the subject of the science
+B) The subject of the science, its species, or its essential accidents
+C) Only its essential accidents
+D) Only its species
+
+Key Takeaway
+The subject of a categorical question can be the science's own subject, a species, or essential accidents at various levels — a fivefold classification that structures logical inquiry.
+
+How This Lesson Applies — to MY Life?
+?
+The question 'Is every intoxicant forbidden?' is from fiqh. Identify which type of subject it has according to the passage (the subject is 'intoxicant' — what is it relative to the subject of fiqh, which is actions of the mukallaf?).
+?
+Take a categorical question from kalam: 'Is the world temporally originated?' Explain why its subject ('the world') is the subject of kalam itself.
+
+Pages p. 422 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 422
+Module 6 · Lesson 54
+Next →
+Propositions
+intermediate
+5 min
+When Genus or Differentia Cannot Be Predicates
+Author prohibits genus/differentia as predicates when nature is realized.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a predicate cannot be a genus or differentia based on the type of inquiry (inniyya vs limiyya) and the realization of the subject's nature.
+
+Core Idea
+If the subject's nature is fully known, seeking its genus or differentia as predicates is impermissible.
+
+In this passage, the author begins by distinguishing between two types of inquiry: seeking the existence (inniyya) of a thing versus seeking its cause (limiyya). When the subject's nature is fully realized and we are only asking whether it exists, the predicate cannot be a genus, differentia, or their combination. This is because essential predicates that enter the definition are self-evident once the thing is realized. Let us unpack this condition and see how it applies in Islamic logic.
+
+Guided Path
+1
+Identify the two types of inquiry
+Find the terms 'inniyya' (that-ness) and 'limiyya' (why-ness) in the passage. Understand which type of question allows or disallows genus/differentia as predicates.
+The author focuses on inniyya here.
+2
+Check if the subject's nature is realized
+The passage states that if the nature of the subject is fully known, then the predicate cannot be a genus or differentia. Determine what 'fully realized' means: it means we already have a clear conception of the thing's essence.
+3
+Apply the condition to a concrete example
+Consider the example later in the passage: if we know what 'form' (sura) is in reality, we would instantly know that it is a substance, without needing a middle term. This illustrates the condition.
+The author contrasts this with cases where we only have a vague conception.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما محمولها فنقول إذا كان المطلوب هو الإنية لا اللمية لا يجوز أن يكون جنسًا أو فصلا أو مجتمعًا منهما إذا كانت طبيعة الموضوع محصلة : فإن المحمولات الذاتية التي توجد في حد الشيء يجب أن تكون بينة الوجود للشيء إذا تحقق الشيء كما علمت. وإن كان يمكن في بعضها أن يبين بحد أوسط لكن ليس كل بيان بحد أوسط فهو قياس؛ فإن الإثبات قد يمكن أن يبين بوجه بحد أوسط مثل أن يجعل الحد الأوسط حد المحمول أو رسمه أو يجعل الأوسط بالنسبة إلى الأصغر كذلك بأن يجعل حد الأوسط أو رسمه أوسط بين الأصغر وبين الأوسط لكن شيء منهما لا يكون قياسًا لأن القياس إنما يكون على خفي البيان واللم. وأما مطلب أن هذا المحمول حد أو جنس أو فصل فهذا ما يجوز أن يكون مطلوبًا لأن كون الشيء طبيعة وكونه جنسًا أو فصلا مختلفان فإن الحساس من جهة ما هو حساس طبيعة ما، وبالقياس إلى الإنسان فصل جنسه فنسبة أن يكون إنما يشكل في مثل هذا أنه جنس للإنسان أو ليس بجنس، ولا يشكل أنه موجود للإنسان من جهة ما هو معنى ما من شأنه أن يكون جنسا أو فصل جنس إذا اعتبرناه من جهة أنه أعم؛ وقد بينه على دخول أمثال هذه المحمولات المقومة ببيان ما من ليس سليم الفطرة كما بينه على المبادئ الأولية. وأيضًا قد يبرهن على وجودها لشيء ما عرف بعوارضه دون حقيقته فعرف مثلا من جهة ما هو منسوب إلى شيء أو له فعل أو انفعال مثل ما يطلب أن النفس جوهر أو ليس بجوهر ؛ والجوهر جنس للنفس. وإنما يجوز ذلك الأنا ما عرفنا النفس بذاتها وحقيقتها ولكن عرفناها من جهة ما هي مضافة إلى البدن وكمال له وتصدر عنها الأفاعيل الحيوانية. وكثيرًا ما يتفق هذا الطلب إذا لم يكن معنى الموضوع؛ والمطلوب ثبوته له محصلا لنا بل منهما عندنا اسم فقط كما يطلب هل الصورة جوهر أم غير جوهر، فإنا إذا عرفنا بالحقيقة ما الجوهر وعرفنا بالحقيقة ما الصورة عرفنا أن الصورة جوهر؛ ولم نحتج إلى وسط ولكن إذا كان عندنا من الصورة خيال أخذنا نحتج ونقيس فنثبت أن المقدمات قد توجد محمولات في المسائل على أحد هذه الوجوه التي مرَّ وذكرها بل المسائل إذا كانت موضوعاتها من موضوع الصناعة كانت محمولاتها أعراضا ذاتية لها وأجناس أعراضها وفصول أعراضها وأعراض أعراضها وإن كانت موضوعاتها من أعراضها الذاتية جاز أن تكون محمولاتها من
+As for its predicate, we say: if what is sought is the 'that-ness' (inniyya) not the 'why-ness' (limiyya), it is not permissible that it be a genus or a differentia or a combination of both, if the nature of the subject is fully realized. For the essential predicates that occur in the definition of a thing must be self-evident in existence for the thing once the thing is realized, as you have learned. And although it is possible in some of them to be demonstrated via a middle term, not every demonstration via a middle term is a syllogism; for proof can sometimes be shown by way of a middle term, such as making the middle term the definition (hadd) or description (rasm) of the predicate, or making the middle term relative to the minor term similarly, by making the definition or description of the middle term a middle between the minor and the middle. But neither of these is a syllogism, because the syllogism is only upon what is obscure in demonstration and intelligibility. As for the demand that this predicate is a definition or genus or differentia, this is permissible to be demanded. Because the thing being a nature and its being a genus or differentia are different. For 'sentient' (al-hassas) insofar as it is sentient is a certain nature, and in relation to man it is the differentia of its genus. So the relation of being [a genus or differentia] is only problematic in something like this: whether it is a genus for man or not a genus. And it is not problematic that it exists for man insofar as it is a certain meaning that has the property of being a genus or differentia of a genus if we consider it from the aspect of being more general. And it has been explained about the inclusion of such constitutive predicates with an explanation that is not sound in natural disposition, just as it has been explained about the primary principles. Also, sometimes it is proven that they exist for something that is known by its accidents without its reality, so it is known, for example, from the aspect of its relation to something or its having an action or passion, such as when it is asked whether the soul is a substance or not a substance; and substance is a genus for the soul. And that is only permissible because we do not know the soul in its essence and reality, but we know it from the aspect that it is related to the body and is its perfection, and from it issue vital actions. And this demand occurs frequently when the meaning of the subject and what is sought to be proven for it is not realized for us; rather only a name is [known] from them, as when one asks whether form (sura) is a substance or not a substance. For if we know in reality what substance is and know in reality what form is, we would know that form is a substance, and we would not need a middle term. But if we have a conception of form [only], we need to argue and syllogize and prove that... [the text breaks off]
+Source pages p. 422
+
+Commentary
+This passage discusses the predicate of categorical questions, specifically the conditions under which it is permissible to ask for a genus or differentia as a predicate. The author begins by stating that if the inquiry is about the existence (inniyya) of something rather than its cause (limiyya), and the nature of the subject is fully known, then the predicate cannot be a genus, differentia, or their combination. This is because essential predicates that enter into the definition must be self-evident once the thing is realized. However, sometimes such a predicate can be demonstrated via a middle term, but not every middle-term demonstration counts as a syllogism—only those that resolve obscurity. The author then addresses a special case: when the question is whether a given predicate is a definition, genus, or differentia. This is permissible because being a nature and being a genus/differentia are distinct. For example, 'sentient' (hassas) is a nature in itself, but relative to man it is a differentia of the genus. The problem only arises in determining whether something is a genus for a given species; it is not problematic that the meaning itself has the property of being a genus if considered from a more general aspect. The author notes that some people have explained this in a way that is not sound. Finally, the author gives an example: when we ask whether the soul is a substance, and substance is a genus for the soul, this question is permissible because we do not know the soul's essence directly; we know it through its relation to the body and its actions. Similarly, for 'form' (sura), if we know both substance and form in reality, we would immediately know that form is a substance, but if we only have a vague conception, we need a syllogism. The passage ends abruptly while discussing that predicates can be essential accidents, genera, species, etc., depending on the subject.
+
+Key Terms
+إنية
+لمية
+جنس
+فصل
+قياس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what condition makes it impermissible to seek a genus or differentia as a predicate?
+A) When the inquiry is about limiyya
+B) When the subject's nature is fully realized and the inquiry is about inniyya
+C) When the predicate is a differentia
+D) When the middle term is a definition
+
+Key Takeaway
+Essential predicates that enter the definition are self-evident when the subject's nature is known; they cannot be the object of an inniyya inquiry.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the question: 'Is the soul a substance?' According to the passage, why is this question permissible even though 'substance' is a genus? Write a short analysis referring to the distinction between knowing the soul through essence versus through accidents.
+?
+Give an example from fiqh where a similar condition applies: when proving the existence of an 'illa (effective cause) for a ruling, must the nature of the 'illa be fully known? Explain using the author's condition.
+
+Pages p. 422 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 422
+Module 6 · Lesson 55
+Next →
+Propositions
+intermediate
+5 min
+When Genus/Differentia Inquiries Are Permissible
+Author explains conditions for permissible genus/differentia inquiries.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between cases where asking whether a predicate is a genus or differentia is permissible and where it is not, based on knowledge of the subject's essence.
+
+Core Idea
+Asking whether a predicate is a genus or differentia is allowed only if the subject is known through accidents, not through its essence.
+
+After stating the general prohibition, the author introduces an important exception: it is permissible to ask whether a predicate is a definition, genus, or differentia if the subject is not known in its essence but only through its accidents or relations. He illustrates this with the soul-substance question and the form-substance question. Let us explore the logic behind this exception and its application in Islamic sciences.
+
+Guided Path
+1
+Distinguish between knowing essence vs accidents
+The passage contrasts two situations: knowing the soul via its own reality vs. knowing it through its relation to the body and its actions. Locate where the author says this distinction matters.
+2
+Identify the consequence of each type of knowledge
+If we know the essence, we immediately know whether the predicate (genus/differentia) applies without a middle term. If we know only accidents, we need a syllogism.
+Example: form-substance.
+3
+Apply the rule to the soul example
+The author says we can ask 'Is the soul a substance?' because we only know the soul through its accidents. Substance is a genus of the soul, so the question is valid.
+This is permissible because we are not asking for inniyya in the strict sense but for the classificatory status.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما محمولها فنقول إذا كان المطلوب هو الإنية لا اللمية لا يجوز أن يكون جنسًا أو فصلا أو مجتمعًا منهما إذا كانت طبيعة الموضوع محصلة : فإن المحمولات الذاتية التي توجد في حد الشيء يجب أن تكون بينة الوجود للشيء إذا تحقق الشيء كما علمت. وإن كان يمكن في بعضها أن يبين بحد أوسط لكن ليس كل بيان بحد أوسط فهو قياس؛ فإن الإثبات قد يمكن أن يبين بوجه بحد أوسط مثل أن يجعل الحد الأوسط حد المحمول أو رسمه أو يجعل الأوسط بالنسبة إلى الأصغر كذلك بأن يجعل حد الأوسط أو رسمه أوسط بين الأصغر وبين الأوسط لكن شيء منهما لا يكون قياسًا لأن القياس إنما يكون على خفي البيان واللم. وأما مطلب أن هذا المحمول حد أو جنس أو فصل فهذا ما يجوز أن يكون مطلوبًا لأن كون الشيء طبيعة وكونه جنسًا أو فصلا مختلفان فإن الحساس من جهة ما هو حساس طبيعة ما، وبالقياس إلى الإنسان فصل جنسه فنسبة أن يكون إنما يشكل في مثل هذا أنه جنس للإنسان أو ليس بجنس، ولا يشكل أنه موجود للإنسان من جهة ما هو معنى ما من شأنه أن يكون جنسا أو فصل جنس إذا اعتبرناه من جهة أنه أعم؛ وقد بينه على دخول أمثال هذه المحمولات المقومة ببيان ما من ليس سليم الفطرة كما بينه على المبادئ الأولية. وأيضًا قد يبرهن على وجودها لشيء ما عرف بعوارضه دون حقيقته فعرف مثلا من جهة ما هو منسوب إلى شيء أو له فعل أو انفعال مثل ما يطلب أن النفس جوهر أو ليس بجوهر ؛ والجوهر جنس للنفس. وإنما يجوز ذلك الأنا ما عرفنا النفس بذاتها وحقيقتها ولكن عرفناها من جهة ما هي مضافة إلى البدن وكمال له وتصدر عنها الأفاعيل الحيوانية. وكثيرًا ما يتفق هذا الطلب إذا لم يكن معنى الموضوع؛ والمطلوب ثبوته له محصلا لنا بل منهما عندنا اسم فقط كما يطلب هل الصورة جوهر أم غير جوهر، فإنا إذا عرفنا بالحقيقة ما الجوهر وعرفنا بالحقيقة ما الصورة عرفنا أن الصورة جوهر؛ ولم نحتج إلى وسط ولكن إذا كان عندنا من الصورة خيال أخذنا نحتج ونقيس فنثبت أن المقدمات قد توجد محمولات في المسائل على أحد هذه الوجوه التي مرَّ وذكرها بل المسائل إذا كانت موضوعاتها من موضوع الصناعة كانت محمولاتها أعراضا ذاتية لها وأجناس أعراضها وفصول أعراضها وأعراض أعراضها وإن كانت موضوعاتها من أعراضها الذاتية جاز أن تكون محمولاتها من
+As for its predicate, we say: if what is sought is the 'that-ness' (inniyya) not the 'why-ness' (limiyya), it is not permissible that it be a genus or a differentia or a combination of both, if the nature of the subject is fully realized. For the essential predicates that occur in the definition of a thing must be self-evident in existence for the thing once the thing is realized, as you have learned. And although it is possible in some of them to be demonstrated via a middle term, not every demonstration via a middle term is a syllogism; for proof can sometimes be shown by way of a middle term, such as making the middle term the definition (hadd) or description (rasm) of the predicate, or making the middle term relative to the minor term similarly, by making the definition or description of the middle term a middle between the minor and the middle. But neither of these is a syllogism, because the syllogism is only upon what is obscure in demonstration and intelligibility. As for the demand that this predicate is a definition or genus or differentia, this is permissible to be demanded. Because the thing being a nature and its being a genus or differentia are different. For 'sentient' (al-hassas) insofar as it is sentient is a certain nature, and in relation to man it is the differentia of its genus. So the relation of being [a genus or differentia] is only problematic in something like this: whether it is a genus for man or not a genus. And it is not problematic that it exists for man insofar as it is a certain meaning that has the property of being a genus or differentia of a genus if we consider it from the aspect of being more general. And it has been explained about the inclusion of such constitutive predicates with an explanation that is not sound in natural disposition, just as it has been explained about the primary principles. Also, sometimes it is proven that they exist for something that is known by its accidents without its reality, so it is known, for example, from the aspect of its relation to something or its having an action or passion, such as when it is asked whether the soul is a substance or not a substance; and substance is a genus for the soul. And that is only permissible because we do not know the soul in its essence and reality, but we know it from the aspect that it is related to the body and is its perfection, and from it issue vital actions. And this demand occurs frequently when the meaning of the subject and what is sought to be proven for it is not realized for us; rather only a name is [known] from them, as when one asks whether form (sura) is a substance or not a substance. For if we know in reality what substance is and know in reality what form is, we would know that form is a substance, and we would not need a middle term. But if we have a conception of form [only], we need to argue and syllogize and prove that... [the text breaks off]
+Source pages p. 422
+
+Commentary
+This passage discusses the predicate of categorical questions, specifically the conditions under which it is permissible to ask for a genus or differentia as a predicate. The author begins by stating that if the inquiry is about the existence (inniyya) of something rather than its cause (limiyya), and the nature of the subject is fully known, then the predicate cannot be a genus, differentia, or their combination. This is because essential predicates that enter into the definition must be self-evident once the thing is realized. However, sometimes such a predicate can be demonstrated via a middle term, but not every middle-term demonstration counts as a syllogism—only those that resolve obscurity. The author then addresses a special case: when the question is whether a given predicate is a definition, genus, or differentia. This is permissible because being a nature and being a genus/differentia are distinct. For example, 'sentient' (hassas) is a nature in itself, but relative to man it is a differentia of the genus. The problem only arises in determining whether something is a genus for a given species; it is not problematic that the meaning itself has the property of being a genus if considered from a more general aspect. The author notes that some people have explained this in a way that is not sound. Finally, the author gives an example: when we ask whether the soul is a substance, and substance is a genus for the soul, this question is permissible because we do not know the soul's essence directly; we know it through its relation to the body and its actions. Similarly, for 'form' (sura), if we know both substance and form in reality, we would immediately know that form is a substance, but if we only have a vague conception, we need a syllogism. The passage ends abruptly while discussing that predicates can be essential accidents, genera, species, etc., depending on the subject.
+
+Key Terms
+جنس
+فصل
+حد
+عوارض
+حقيقة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is it permissible to ask whether the soul is a substance, according to the author?
+A) Because the soul is a substance by definition
+B) Because we know the soul through its essence
+C) Because we know the soul only through its accidents and relation to the body
+D) Because substance is not a genus
+
+Key Takeaway
+Questions about whether a predicate is a genus or differentia are permissible when the subject is known through attributes rather than essence.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the question: 'Is the 'illa of wine prohibition intoxication?' According to the passage, is this question permissible if intoxication is known only through its effects? Justify your answer using the soul-substance example.
+?
+Construct a similar scenario from usul al-fiqh: The question 'Is qiyas (analogy) a source of law?' involves a predicate (source of law) that may be a genus or differentia. Determine whether this question is permissible based on the author's condition.
+
+Pages p. 422 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 475
+Module 6 · Lesson 56
+Next →
+Propositions
+advanced
+12 min
+The Equality of Demands: What, Whether, and Why
+Author reduces all demands to 'what' and 'whether' and refutes the reversal.
+
+Learning Objective
+By the end of this lesson, you will be able to classify the three types of inquiries ('what', 'whether', 'why') and explain their relationships in demonstration, including the reduction of all demands to 'what' and 'whether'.
+
+Core Idea
+All demands reduce to two: 'What is it?' and 'Is it?' — 'Why?' is just a potential 'What?' seeking the middle term.
+
+This passage reveals the deep structure of scientific inquiry: every question we ask is ultimately a demand to know either what something is or whether it exists. The author, building on Aristotle, shows that the question 'why' is not a separate type but a special case of 'what' in potentiality, aimed at discovering the middle term that causes a conclusion. Understanding this classification is essential for constructing valid demonstrations in any Islamic science, from Kalam to Usul al-Fiqh.
+
+Guided Path
+1
+Identify the main claim about demands and known things
+Notice the opening: demands and known things are equal because something is only demanded to be known, and once known, the demand ceases. This sets up the equivalence.
+2
+List the three fundamental demands: 'what', 'whether', 'why'
+The passage mentions 'what (ma)', 'whether (hal)', and implicitly 'why (lima)'. Note that 'what' concerning essence is initially treated as a 'whether' demand, but called 'what' by name.
+The compound demand combines two 'whether' inquiries to seek the major and middle terms.
+3
+Analyze the reduction of demands
+The author argues that all potential demands reduce to 'whether the thing (hal)' and 'what the thing (ma)'. The demand for 'why' is a search for 'what' in potentiality, specifically for the middle term (hadd awsat), which is the cause.
+Example: 'Why did you say the thing is such-and-such?' seeks the middle term that necessitates the conclusion.
+4
+Distinguish 'existent as a whole' vs 'existent in part'
+The First Teacher (Aristotle) distinguishes 'existent as a whole' (existence of the subject itself, like asking 'Is the triangle existent?') from 'existent in part' (existence of an attribute, like 'Is the triangle such-and-such?').
+This distinction clarifies what type of 'whether' is being asked.
+5
+Evaluate the mistaken view that all 'why' is 'what' and vice versa
+Some thought the reduction is reversible, but the author refutes it: not every search for the middle term is a search for definitional predication, and not every cause is a definition or genus.
+The refutation shows the subtlety of the classification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : [ في أن المطالب والمعلومات بالطلب متساوية ] واعلم بأن المطالب والمعلومات بالطلب متساوية فإن الشيء إنما يطلب ليعلم فإذا علم بطل الطلب. والمطالب كما هي هي فإنها من جملة ما تقدم ذكره مثل مطلب «ما» و «هل» وغير ذلك ؛ وقد علم أن مطلب «ما» الذي بحسب [٣١٠,] الذات فهو مطلب هل لكنه قد سبق من حيث هو مطلب / «ما» بحسب الاسم. فإذا أعطي ثم أعطي مطلب «هل» اتضح في الحال مقتضى مطلب بحسب الذات؛ ويتبع المطلب المركب من مطلبي الهل أيضًا على وجه حتى يكون كأنه يطلب ما الحد الأكبر وما الحد الأوسط؟ والحد الأوسط هو العلة، ويقع فيه طلب الما بعد طلب الهل على وجهين: أحدهما بالقوة. فإن طالب الهل في مثل هذا إنما يطلب عما هو مشكوك فيه؛ فيقتضي طلب هل أنه يطلب بالقوة هل هناك حد أوسط مثل (۱) من سأل هل الشيء كذا فإنه إنما يطلب هل شيء يوجب العلم، أو لم قلتَ إن الشيء كذا فإنه مطلب ما عليه القياس؛ وإنه قياس وهو الحد الأوسط، أو ما عليه القياس في أنه برهان وهو الحد وهو الحد الأوسط الذي هو عليه الأمر في نفسه. فيكون البحث عن لم؛ بحثًا عما هو الحد الأوسط بالقوة فيكون طلب «لِمَ» هنا إنما هو طلب «لم» بالقياس إلى النتيجة؛ ويكون بالفعل، وطلب بالقياس إلى الحد الأوسط؛ ويكون بالقوة. وأما طلب «ما» الحد الأوسط فذلك ظاهر لا بد منه أن يكون مجهولا. فقول المعلم الأوَّل الموجود بالجزء يعني به الموجود شيء ما، والموجود بالكل يعني به الموجود على الإطلاق» (۲) والأول إما شيئًا جوهريا للموضوع أو عرضًا ذاتيًا أو عرضًا خارجيًا . ثمَّ يقول أعني بالموجود على الإطلاق الشيء المطلوب هل نفسه موجود مثل قولنا هل المثلث موجود: فهذا إنما يبحث عن وجود نفس الموضع . وأما هل المثلث كذا فإنه إنما يبحث عن وجود عارض ما أو لاحق؛ وهذا هو الموجود شيئًا ما ، فظهر من هذا أن المطالب بالقوة يرجع إلى هل الشيء، وإلى ما الشيء. وأن مطلب اللم بحث ما عن ما الشيء بوجه لأنه بالقوة بمعنى ما الأوسط ولكن من الناس من ظن أن هذا ينعكس؛ وأنه ليس في البراهين شيء وهو بحث اللهم إلا وهو بحث الما بالقوة، ولا بحث الما إلا وهو بحث اللم. وتعدَّى هذا إلى أن ظن أن الأوسط في البراهين هي الحدود وكل ذلك أمر باطل فإنه ليس كل بحث عما هو عن الأوسط. وأيضًا ليس البحث عما هو الأوسط هو البحث عن ما فيه أحد الجزأين من الآخر حتى يكون الجواب حدا؛ ولا كل ما هو علــة موجبة فهو حد أو جنس
+Chapter: On that demands and known things are equal. Know that demands and known things are equal, for a thing is only demanded to be known, so when it is known, the demand ceases. As for demands as they are, they are from what was previously mentioned, like the demand for 'what' and 'whether' and others. It is known that the demand for 'what' concerning the essence is a demand for 'whether', but it preceded in terms of being a 'what' demand according to name. So when the 'what' is given, then the 'whether' is given, the requirement of the demand concerning the essence becomes clear immediately. And the compound demand follows from the two 'whether' demands in such a way that it is as if one is asking for the major term and the middle term. The middle term is the cause, and in it the demand for 'what' occurs after the demand for 'whether' in two ways: one of them potentially. For the seeker of 'whether' in such a case only asks about something doubtful; the demand for 'whether' necessitates that it potentially seeks whether there is a middle term, like one who asks 'Is the thing such-and-such?' He only asks whether there is something that necessitates knowledge, or 'Why did you say the thing is such-and-such?' which is a demand for what the syllogism is based on; and it is a syllogism, i.e., the middle term, or what the syllogism is based on in that it is a demonstration, i.e., the limit which is the middle term that is the matter itself. So the search for 'why' is a search for what is potentially the middle term. Thus the demand for 'why' here is a demand for 'why' in relation to the conclusion; it is actual, and a demand in relation to the middle term; it is potential. As for the demand for 'what' the middle term, that is apparent and must be unknown. So the statement of the First Teacher about 'existent in part' means 'existent as a something', and 'existent as a whole' means 'existent absolutely'. The first is either a substantial thing for the subject, or an essential accident, or an external accident. Then he says: I mean by 'existent absolutely' the thing whose very existence is demanded, like our saying 'Is the triangle existent?' This only investigates the existence of the subject itself. As for 'Is the triangle such-and-such?', it only investigates the existence of some accident or consequent. This is 'existent as a something'. From this it appears that the demands potentially reduce to 'whether the thing' and 'what the thing'. And that the demand for 'why' is a search for 'what the thing' in a certain way, because it is potentially in the sense of 'what the middle term'. But some people thought that this is reversed, and that there is nothing in demonstrations that is a search for 'why' except that it is a search for 'what' potentially, and no search for 'what' except that it is a search for 'why'. And this led them to think that the middle terms in demonstrations are the limits, and all that is false. For not every search for what is about the middle term. Also, the search for what the middle term is not the search for how one part is predicated of the other such that the answer would be a definition; nor is every cause that necessitates a definition or a genus.
+Source pages p. 475
+
+Commentary
+This passage is a chapter on the equality of demands and known things. The author asserts that demands are identical to the things known through the act of demanding, because something is only demanded to be known, so once known, the demand disappears. The types of demands, such as 'what' (ma) and 'whether' (hal), were previously mentioned. The author explains that the demand for 'what' concerning essence is actually a demand for 'whether', but it is called 'what' by name. Once the 'what' is given, the 'whether' becomes clear. A compound demand arises from two 'whether' demands, as if seeking the major and middle term. The middle term is the cause (illa). The demand for 'what' after 'whether' can be potential or actual. The author uses an example: someone asking 'Is the thing such-and-such?' is asking whether there is a middle term that yields knowledge, or 'Why did you say the thing is such-and-such?' is a demand for the basis of the syllogism. The search for 'why' is a search for the middle term potentially. Then the author refers to the First Teacher (Aristotle) regarding 'existent in part' and 'existent as a whole'. 'Existent in part' means existent as a specific something, which can be substantial or accidental. 'Existent as a whole' means existent absolutely, like asking whether a triangle exists. From this, it is clear that all potential demands reduce to 'whether' and 'what'. The demand for 'why' is a kind of 'what' demand potentially. However, some people mistakenly thought the reverse, that every 'why' is a 'what' and vice versa, leading to errors. The author refutes this, arguing that not every search for the middle term is a search for definitional predication, nor is every causal condition a definition or genus. This is a sophisticated discussion on the nature of scientific inquiry, distinguishing various types of questions and their logical roles in demonstration.
+
+Key Terms
+مطلب
+هل
+ما
+لم
+حد أوسط
+موجود بالجزء
+موجود بالكل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this passage, what is the relationship between the demand for 'why' and the demand for 'what'?
+A) They are completely unrelated
+B) The demand for 'why' is always actual, while 'what' is potential
+C) The demand for 'why' is potentially a search for the middle term, which is a kind of 'what' demand
+D) The demand for 'what' reduces to the demand for 'why'
+
+Key Takeaway
+All demands reduce to 'what' and 'whether', with 'why' being a potential 'what' seeking the middle term, but the reduction is not reversible, as not every middle term search is definitional.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following statement: 'Why is wine forbidden?' In light of this passage, identify which type of demand this represents, and explain how it relates to the search for the middle term in a syllogism such as 'Wine is an intoxicant; every intoxicant is forbidden; therefore wine is forbidden.'
+?
+Some logicians claim that every search for 'why' in a demonstration is actually a search for 'what' (definition). Using the author's critique, explain why this claim is false, providing an example from Islamic law (fiqh).
+
+Pages p. 475 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 503
+Module 6 · Lesson 57
+Next →
+Propositions
+intermediate
+10 min
+Critique of Requiring Demonstration for All Assent
+Author refutes the view that all tasdiq requires demonstration, showing first principles derive from sense perception.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the author's argument against requiring demonstration for all assent and identify the role of the senses in acquiring first principles.
+
+Core Idea
+First principles need no proof; they are immediate once conceptualized, and the senses provide those concepts.
+
+In this passage, the author engages with a radical claim: that every act of assent (tasdiq) must be proven through a demonstrative syllogism (burhan). If that were true, he argues, knowledge would collapse into infinite regress or circularity. But his real target is to show that first principles are not proven—they are immediately certain once their terms are understood, and the senses are the source of those terms.
+
+Guided Path
+1
+Identify the claim being refuted
+Find the position that the author is attacking. It is the assertion that all tasdiq requires burhan (demonstration).
+The author introduces this claim indirectly through its consequences.
+2
+Extract the absurd consequences
+The author argues that if all tasdiq required burhan, then either circularity (dawr) or infinite regress (tasalsul) would follow. Understand why this is impossible: a circular proof proves nothing, and infinite regress means no proof is ever complete.
+This is a classic reductio ad absurdum.
+3
+Understand the alternative foundation
+The author proposes that first principles (awwaliyat) are not initially actual but potential. They become actual with the help of the senses. Once their terms are conceptualized, the mind immediately assents to them without further proof.
+This distinguishes primary propositions from those requiring demonstration.
+4
+Distinguish between types of assent
+Not all assents are immediate. Some require hesitation and investigation. The primary ones are those where the mind does not hesitate once the terms are understood (e.g., 'the whole is greater than the part').
+This shows the author's view is nuanced, not rejecting all proof.
+5
+Recognize the role of the senses
+The senses provide the initial conceptualizations (tasawwurat) that precede all assent. Without sensory input, the mind has no material to work with. This empiricist strand grounds knowledge in experience.
+The senses are the 'net' (shabaka) for capturing concepts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+يلزم إما الدور وإما التسلسل، وإما أن لا يكون بطريق البرهان بل بالغير؛ وذلك يوهم المحال بموجب قولكم لا سبيل إلى اقتناص المجهولات التصديقية دون البرهان. وأما الطريق إلى جل هذا العويض فهو أنها لا تكون حاصلة لنا في أول الخلقة بالفعل بل بالقوة التي من شأنها أن تعلم من الأشياء بغير تعلم ومعاونة أعوان تكون معونتها على جهة المعونة في التعليم الأول. وتلك الأعوان هي الحواس الظاهرة والباطنة. والعلوم التصديقية الحاصلة بعد ما لم يكن فليس حصول كل واحد منها بالبرهان بل منها ما إذا تصورت مفرداته وراعيت النسبة بينهما بالإيجاب أو السلب توقف الذهن عن الحكم الجزم فيها؛ والأوليات ليست من هذا القبيل بل الذهن إذا تصور مفرداتها لم يتوقف في الحكم بالنسبة الواجبة بينها على شيء آخر. وإنما لم تكن حاصلة بالفعل لفقدانها ما يجب تقديمه عليها من التصوّر فإنما من تصديق إلا ويتقدمه من التصورات كما علمت وشبكة اقتناص هذه التصورات هي الحواس الظاهرة فيما لم تنطبع المحسوسات فيها ولم يتأدَّ منها إلى الخيال لم يأخذ العقل في التصرف فيها.
+Necessarily either circularity or infinite regress results, or that it is not by way of demonstration but by something else; and that implies impossibility according to your statement that there is no way to capture unknown assents without demonstration. And the way to solve this difficulty is that these (first principles) are not actual for us at the beginning of creation, but rather potential, with a disposition to know things without learning and with the aid of helpers whose assistance is like the assistance in primary education. Those helpers are the external and internal senses. The assents that occur after not having existed are not all obtained by demonstration; rather, some of them are such that when their terms are conceptualized and the relation between them is considered with affirmation or negation, the mind hesitates in making a decisive judgment about them. The primary ones are not of this kind; rather, when the mind conceptualizes their terms, it does not hesitate in judging the necessary relation between them, depending on nothing else. They are not actual only because what must precede them of conceptualizations is lacking; for there is no assent that is not preceded by conceptualizations, as you know, and the net for capturing these conceptualizations is the external senses. As long as the sensibles are not impressed in them and are not conveyed from them to the imagination, the mind does not begin to operate on them.
+Source pages p. 503
+
+Commentary
+This passage is a critical epistemological argument. The author is refuting the position that all tasdiq (assent) must be obtained through burhan (demonstration). He starts by showing the absurd consequences of that view: either circularity (dawr) or infinite regress (tasalsul) would follow, or the knowledge would have to come from something other than demonstration, which contradicts the claim that there is no other way. He then offers the solution: first principles (awwaliyat) are not initially actual but potential, and they are acquired with the help of the senses (external and internal). Not all assents require demonstration; some, like the primary ones, are such that once their terms are conceptualized, the mind immediately affirms the relation without needing a middle term. The senses provide the initial conceptualizations (tasawwurat) that precede assent; without sensory input, the mind cannot begin its operation.
+
+Key Terms
+البرهان
+الأوليات
+التصديق
+التصور
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the consequence if all assents (tasdiq) required demonstration (burhan)?
+A) All knowledge becomes doubtful.
+B) Circularity or infinite regress would result.
+C) The senses become superfluous.
+D) Only syllogistic knowledge is possible.
+
+Key Takeaway
+The author shows that first principles are not demonstrated but immediate, and the senses provide the concepts that make them known.
+
+How This Lesson Applies — to MY Life?
+?
+Identify a first principle in Islamic theology (e.g., 'the world is originated') and explain why it is not derived from a syllogism but from sensory experience, following the author's reasoning.
+?
+Construct a conditional argument showing what would happen if a theologian insisted on proving every proposition. Show the absurd consequence (circularity or infinite regress) and how the author's solution avoids it.
+
+Pages p. 503 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 528
+Module 6 · Lesson 58
+Next →
+Propositions
+beginner
+5 min
+Three Types of Premises in Dialectic
+Author classifies premises and questions into three types: logical, ethical, natural.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given dialectical premise or question as logical, ethical, or natural based on the criteria given in the text.
+
+Core Idea
+Dialectical premises serve distinct roles: logical as tools, ethical as human actions, natural as reality.
+
+In dialectical reasoning, premises and questions are not all alike. The author classifies them into logical, ethical, and natural types. Logical premises serve as means for other sciences, ethical premises relate to human character and choices, and natural premises concern physical and metaphysical realities. This classification helps you select the right premise for your argument.
+
+Guided Path
+1
+Identify the three categories
+Read the first part of the passage and list the three types of premises/questions mentioned: logical (منطقية), ethical (خلقية), and natural (طبيعية).
+2
+Note distinguishing features
+For each type, note its defining characteristic: logical are tools for other sciences, ethical involve ما إلينا (what is within our capacity), natural are about reality like the soul or the world.
+3
+Apply to examples
+The author gives examples: logical question about opposites, ethical question about pleasure, natural question about the world's eternity. Use these to test your understanding.
+4
+Classify new examples
+Practice by taking another statement and deciding its type based on the criteria. Check your reasoning with the text.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ويعلم أن المقدّمات والمسائل ثلاثة أصناف: [١] أحدها منطقية يراد لغيرها من الأمور النظرية والعملية، [٢] والثاني خُلقية وهو فيما إلينا أن نعلمه وهو المتعلق بالمطلوب والمهروب إما تعلقا أولا مثل قولنا هل أفعال العفّة سعادة، وإما تعلقاً ثانيا وهو أن يكون نفس المسألة كقولهم هل يمكن إزالة الخُلق . [٣] والثالث طبيعية مثل اعتقادنا أن النفس باقية وأنها يجب أن تفارق البدن مقدّمة ظاهرة؛ فإن هذا ينفع بوجه من الوجوه في العلم الخلقي ولكن لا بذاته. ولنرتب أمثلة للأصناف الثلاثة في موضوع واحد. فنقول : أما للمسألة المنطقية فقولنا هل المتضادات توجد حد بعضها في بعض، وأما الخلقية فقولنا هل اللذة مؤثرة أم لا؟ وأما الطبيعية فقولنا هل العالم أزلي أم لا، فيجب إذا تأمل المشهورات ليستنبطها، ويحصلها من المسموع والمكتوب أن يصف ما يقع في فن واحد بعضه إلى بعض، ويجمعه في مجموع واحد. فإن القياس الجدلي لا يكون إلا من مقدمات جدلية وهي المشهورات؛ ويجب أن يجتهد حتى تكون المقدمات مأخوذة عنده من وجهين أحدهما أن يصيرها مجموعةً إلى حكم عام وهذا للحفظ، والثاني أن تكون مفصَّلة عنده مقرّبة إلى الجزئيات حتى يكون له تصرف في كثيره؛ وهذا السبب أنفع للاستعمال كما مرَّ سالفًا. فإذا كان عنده المتقابلات فصل ذلك إلى المتضادات وما معها، وإذا كان عنده المتضادات فصل ذلك إلى الأضداد الجزئية فيقال مثلا العلم بالحار والبارد واحد، والعلم بالرطب واليابس واحد، والعلم الفضيلة والرذيلة واحد.
+And it is known that the premises and questions are of three types: [1] One of them is logical, intended for other than themselves from theoretical and practical matters; [2] The second is ethical, which concerns what is within our capacity to know, and it relates to what is sought and what is fled, either primarily, such as our saying 'Are the acts of chastity happiness?' or secondarily, which is when the question itself is like their saying 'Is it possible to remove character?' [3] And the third is natural, such as our belief that the soul is eternal and that it must depart from the body as an apparent premise; for this benefits in some way in ethical science but not essentially. And let us arrange examples for the three types within one subject. We say: As for the logical question, it is our saying 'Do opposites exist at the boundary of each other?' As for the ethical, it is our saying 'Is pleasure effective or not?' As for the natural, it is our saying 'Is the world eternal or not?' So it is necessary, when one examines the accepted opinions (mashhurat) to deduce them and obtain them from what is heard and written, to describe what occurs in one art part by part and collect it in a single whole. For the dialectical syllogism is only from dialectical premises, which are the accepted opinions; and one must strive so that the premises are taken by him from two aspects: one is that he makes them grouped under a general ruling, and this is for memorization; the second is that they be detailed by him, brought near to particulars, so that he has discretion in much of it; and this cause is more useful for use as has passed earlier. So if he has the opposites (mutabaqilat), he separates them into contraries (mutadaddat) and what goes with them; and if he has the contraries, he separates them into particular contraries, such as saying 'The knowledge of hot and cold is one, the knowledge of wet and dry is one, and the knowledge of virtue and vice is one.'
+Source pages p. 528
+
+Commentary
+This passage is definitional and explanatory, classifying premises and questions into three types for dialectical purposes. The author first states that premises and questions are of three kinds. The first is logical (manṭiqiyya), which are used as means for theoretical and practical matters beyond themselves. The second is ethical (khuluqiyya), concerning matters within human capacity (mā ilaynā), relating to what is pursued (maṭlūb) and avoided (mahrib). This ethical type has two sub-aspects: primary, e.g., 'Are acts of chastity happiness?', and secondary, where the question itself is about character, e.g., 'Can character be removed?' The third is natural (ṭabī‘iyya), such as the belief that the soul is eternal and must depart the body—a premise that appears obvious and benefits ethics indirectly, not essentially. The author then gives examples within one subject: a logical question: 'Do opposites exist at each other's boundary?'; an ethical question: 'Is pleasure effective?'; a natural question: 'Is the world eternal?' The text then shifts to methodology: one must examine accepted opinions (mashhūrāt) from heard and written sources, organize them by art, and collect them into a whole. This is because dialectical syllogism (qiyās jadalī) relies on dialectical premises, which are the accepted opinions. The student must take premises from two angles: (1) grouped under a general rule for memorization, and (2) detailed and brought close to particulars for flexible use. The latter is more beneficial. Finally, the author discusses opposites: when one has 'mutabāqilāt' (opposite pairs), they should be divided into 'muṭāḍādāt' (contraries) and associated terms; then contraries are further divided into particular contraries, e.g., knowledge of hot and cold, wet and dry, virtue and vice—each a single knowledge. This classification helps in dialectical reasoning.
+
+Key Terms
+مقدّمات
+مسائل
+منطقية
+خلقية
+طبيعية
+مشهورات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of question is 'هل اللذة مؤثرة أم لا' (Is pleasure effective or not)?
+A) Logical
+B) Ethical
+C) Natural
+D) None
+
+Key Takeaway
+Dialectical premises are divided into logical, ethical, and natural, each serving a distinct function in argumentation.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following three statements as logical, ethical, or natural: (a) 'God is one', (b) 'Justice is good', (c) 'Every effect has a cause'. Justify your answers using the criteria from the passage.
+?
+Take a question from fiqh, e.g., 'Is gambling prohibited?' and explain which type of question it would be (ethical? logical? natural?) and why.
+
+Pages p. 528 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 528
+Module 6 · Lesson 59
+Next →
+Propositions
+intermediate
+5 min
+Organizing Dialectical Premises from Mashhurat
+Author classifies premises and questions into three types: logical, ethical, natural.
+
+Learning Objective
+By the end of this lesson, you will be able to describe the two methods (general grouping and detailed particularization) for organizing mashhurat for effective use in dialectical syllogisms.
+
+Core Idea
+Effective dialectic requires grouping premises under general rules and detailing them to particulars.
+
+The author emphasizes that studying mashhurat (accepted opinions) is essential for dialectical syllogisms, but mere collection is not enough. One must organize them in two complementary ways: grouping them under general rulings for memorization, and breaking them down into detailed particulars for flexible application. This dual method, illustrated with the example of opposites and contraries, is key to mastering dialectic.
+
+Guided Path
+1
+Recognize the role of mashhurat
+Note that the author states 'dialectical syllogism is only from dialectical premises, which are the accepted opinions (mashhurat).' Understand that mashhurat form the material of dialectical arguments.
+2
+Identify the two organizational aspects
+Read the part about 'from two aspects': grouping under a general ruling (للحفظ) and detailing to particulars (للاستعمال). Grasp the purpose of each: memorization vs. practical application.
+3
+Examine the example of opposites
+The author shows how to handle opposites: from mutabaqilat to mutadaddat to particular contraries. This demonstrates the detailing process.
+For instance, from 'opposites' (general), you go to 'contraries' (more specific), then to particular contraries like hot/cold, wet/dry.
+4
+Apply to another set
+Choose a set of related concepts (e.g., virtues) and practice grouping them under a general rule and then spelling out particulars.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ويعلم أن المقدّمات والمسائل ثلاثة أصناف: [١] أحدها منطقية يراد لغيرها من الأمور النظرية والعملية، [٢] والثاني خُلقية وهو فيما إلينا أن نعلمه وهو المتعلق بالمطلوب والمهروب إما تعلقا أولا مثل قولنا هل أفعال العفّة سعادة، وإما تعلقاً ثانيا وهو أن يكون نفس المسألة كقولهم هل يمكن إزالة الخُلق . [٣] والثالث طبيعية مثل اعتقادنا أن النفس باقية وأنها يجب أن تفارق البدن مقدّمة ظاهرة؛ فإن هذا ينفع بوجه من الوجوه في العلم الخلقي ولكن لا بذاته. ولنرتب أمثلة للأصناف الثلاثة في موضوع واحد. فنقول : أما للمسألة المنطقية فقولنا هل المتضادات توجد حد بعضها في بعض، وأما الخلقية فقولنا هل اللذة مؤثرة أم لا؟ وأما الطبيعية فقولنا هل العالم أزلي أم لا، فيجب إذا تأمل المشهورات ليستنبطها، ويحصلها من المسموع والمكتوب أن يصف ما يقع في فن واحد بعضه إلى بعض، ويجمعه في مجموع واحد. فإن القياس الجدلي لا يكون إلا من مقدمات جدلية وهي المشهورات؛ ويجب أن يجتهد حتى تكون المقدمات مأخوذة عنده من وجهين أحدهما أن يصيرها مجموعةً إلى حكم عام وهذا للحفظ، والثاني أن تكون مفصَّلة عنده مقرّبة إلى الجزئيات حتى يكون له تصرف في كثيره؛ وهذا السبب أنفع للاستعمال كما مرَّ سالفًا. فإذا كان عنده المتقابلات فصل ذلك إلى المتضادات وما معها، وإذا كان عنده المتضادات فصل ذلك إلى الأضداد الجزئية فيقال مثلا العلم بالحار والبارد واحد، والعلم بالرطب واليابس واحد، والعلم الفضيلة والرذيلة واحد.
+And it is known that the premises and questions are of three types: [1] One of them is logical, intended for other than themselves from theoretical and practical matters; [2] The second is ethical, which concerns what is within our capacity to know, and it relates to what is sought and what is fled, either primarily, such as our saying 'Are the acts of chastity happiness?' or secondarily, which is when the question itself is like their saying 'Is it possible to remove character?' [3] And the third is natural, such as our belief that the soul is eternal and that it must depart from the body as an apparent premise; for this benefits in some way in ethical science but not essentially. And let us arrange examples for the three types within one subject. We say: As for the logical question, it is our saying 'Do opposites exist at the boundary of each other?' As for the ethical, it is our saying 'Is pleasure effective or not?' As for the natural, it is our saying 'Is the world eternal or not?' So it is necessary, when one examines the accepted opinions (mashhurat) to deduce them and obtain them from what is heard and written, to describe what occurs in one art part by part and collect it in a single whole. For the dialectical syllogism is only from dialectical premises, which are the accepted opinions; and one must strive so that the premises are taken by him from two aspects: one is that he makes them grouped under a general ruling, and this is for memorization; the second is that they be detailed by him, brought near to particulars, so that he has discretion in much of it; and this cause is more useful for use as has passed earlier. So if he has the opposites (mutabaqilat), he separates them into contraries (mutadaddat) and what goes with them; and if he has the contraries, he separates them into particular contraries, such as saying 'The knowledge of hot and cold is one, the knowledge of wet and dry is one, and the knowledge of virtue and vice is one.'
+Source pages p. 528
+
+Commentary
+This passage is definitional and explanatory, classifying premises and questions into three types for dialectical purposes. The author first states that premises and questions are of three kinds. The first is logical (manṭiqiyya), which are used as means for theoretical and practical matters beyond themselves. The second is ethical (khuluqiyya), concerning matters within human capacity (mā ilaynā), relating to what is pursued (maṭlūb) and avoided (mahrib). This ethical type has two sub-aspects: primary, e.g., 'Are acts of chastity happiness?', and secondary, where the question itself is about character, e.g., 'Can character be removed?' The third is natural (ṭabī‘iyya), such as the belief that the soul is eternal and must depart the body—a premise that appears obvious and benefits ethics indirectly, not essentially. The author then gives examples within one subject: a logical question: 'Do opposites exist at each other's boundary?'; an ethical question: 'Is pleasure effective?'; a natural question: 'Is the world eternal?' The text then shifts to methodology: one must examine accepted opinions (mashhūrāt) from heard and written sources, organize them by art, and collect them into a whole. This is because dialectical syllogism (qiyās jadalī) relies on dialectical premises, which are the accepted opinions. The student must take premises from two angles: (1) grouped under a general rule for memorization, and (2) detailed and brought close to particulars for flexible use. The latter is more beneficial. Finally, the author discusses opposites: when one has 'mutabāqilāt' (opposite pairs), they should be divided into 'muṭāḍādāt' (contraries) and associated terms; then contraries are further divided into particular contraries, e.g., knowledge of hot and cold, wet and dry, virtue and vice—each a single knowledge. This classification helps in dialectical reasoning.
+
+Key Terms
+مقدّمات
+مسائل
+مشهورات
+القياس الجدلي
+المتقابلات
+المتضادات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the primary purpose of grouping premises under a general ruling?
+A) For easier memorization
+B) For deeper analysis
+C) For convincing opponents
+D) For logical validity
+
+Key Takeaway
+Organizing mashhurat under general rules and then detailing them to particulars is essential for effective dialectical reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Choose a topic from fiqh (e.g., purity) and list three mashhurat about it. Then show how they can be grouped under a general ruling and then detailed into specific cases (e.g., different types of water).
+?
+Using the passage's example of opposites, practice with another pair like 'knowledge' and 'ignorance'. State the general category, then separate into contraries and then particular contraries.
+
+Pages p. 528 · Propositions
+← Prev
+Mark Done
+Next →

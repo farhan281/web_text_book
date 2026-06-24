@@ -1,0 +1,356 @@
+← Prev
+p. 35
+Module 14 · Lesson 1
+Next →
+Induction and Analogy
+beginner
+5 min
+Induction: Complete and Incomplete
+Author defines induction and divides it into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and explain why incomplete induction does not yield certainty.
+
+Core Idea
+Induction's certainty depends on its completeness; partial observation can mislead.
+
+Induction is a method of reasoning from particulars to a universal judgment. In this lesson, we examine its two types as presented by the author: complete and incomplete. Understanding this distinction is crucial because it determines the epistemic strength of inductive arguments used in Islamic sciences.
+
+Guided Path
+1
+Identify the definiendum
+The passage defines 'istiqra'' (induction). Note that it is defined as inferring a universal judgment from particular instances.
+2
+Extract the division
+The author divides induction into complete (tamm) and incomplete (naqis) based on how many particulars are examined.
+3
+Understand complete induction
+Complete induction examines all particulars. The author notes it is rarely used. Consider why: in many cases, it is impossible to check every individual.
+4
+Understand incomplete induction
+Incomplete induction examines most particulars and generalizes. The author gives the example: 'Every animal moves its lower jaw when chewing' based on humans, beasts, and predators. But this is false because the crocodile is an exception.
+5
+Assess certainty
+The author explicitly states that incomplete induction does not yield certainty due to the possibility of counterexamples. This is the key limitation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الاستقراء : وهو :
+۱ - تامٌ إِن اسْتُدِلَّ بجميع الجزئيات وحُكمَ على الكل، وهو قليل الاستعمال.
+۲ - وناقص إذا استُدِلَّ بأكثر الجزئيات وحُكمَ على الكل، كقولنا: كل حيوان يحرك فكه الأسفل عند المضغ ؛ لأن الإنسان والبهائم والسباع كذلك، وهو لا يفيد اليقين؛ لاحتمال ألا يكون الكل بهذه الصفة كالتمساح.
+Section on induction: It is:
+1- Complete if all particulars are used to infer and a judgment is made on the whole, and it is rarely used.
+2- Incomplete if most particulars are used to infer and a judgment is made on the whole, like our saying: Every animal moves its lower jaw when chewing, because humans, beasts, and predators do so. It does not yield certainty because it is possible that not all are like that, like the crocodile.
+Source pages p. 35
+
+Commentary
+This passage defines induction (istiqra') and divides it into two types. Complete induction involves examining all particulars and then making a universal judgment; it is rarely used in practice because it is often impossible to examine every individual. Incomplete induction examines only most particulars and then generalizes; it does not produce certainty because there may be counterexamples. The author gives the example of inferring that all animals move their lower jaw when chewing based on observing humans, beasts, and predators, but notes that the crocodile is an exception. This illustrates the probabilistic nature of incomplete induction. The passage is straightforward and suitable for memorization as a definitional anchor.
+
+Key Terms
+استقراء
+تام
+ناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does incomplete induction not yield certainty according to the passage?
+A) Because it uses most particulars but not all, so a counterexample may exist.
+B) Because it uses all particulars.
+C) Because the middle term is not the cause.
+D) Because the conclusion is explicit in the premises.
+
+Key Takeaway
+Incomplete induction does not provide certainty because it leaves room for exceptions.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether each of the following is a complete or incomplete induction: (a) After examining all narrated hadith on the prohibition of riba, a scholar concludes that every increase over the principal is riba. (b) After examining most usul al-fiqh manuals, a student concludes that all usulis define qiyas as extending a ruling based on 'illah.
+?
+Provide an Islamic example of an incomplete induction that appears convincing but is actually false, similar to the crocodile example. Explain why it does not yield certainty.
+
+Pages p. 35 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 35
+Module 14 · Lesson 2
+Next →
+Induction and Analogy
+beginner
+5 min
+Understanding Analogical Reasoning (Tamthil)
+Author defines analogical reasoning and notes its equivalence to juristic qiyas.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of analogical reasoning (tamthil) and explain how it corresponds to juristic qiyas.
+
+Core Idea
+Analogical reasoning transfers a ruling via a shared effective cause.
+
+In this passage, the author defines tamthil—analogical reasoning—and directly connects it to the juristic method of qiyas. This is a foundational concept in both logic and fiqh: by identifying a shared universal attribute that influences a judgment, you can reason from one particular case to another. The example of the world and the house illustrates how composition implies temporal origination. Understanding this definition will help you see the logical structure behind many legal rulings.
+
+Guided Path
+1
+Locate the definition of tamthil
+Read the passage and identify the sentence that defines tamthil. Notice that it involves inferring from one particular (juz'i) to another particular based on a shared universal (kulli) that influences the judgment (mu'aththir fi al-hukm).
+2
+Extract the four components of the analogical argument
+In analogical reasoning, there are four key parts: (1) the original case (asl), (2) the new case (far'), (3) the effective cause ('illa), and (4) the ruling (hukm). Find these in the example given: the world is far', the house is asl, composition is 'illa, and originated is hukm.
+3
+Understand the shared universal
+The common attribute that justifies the inference is a 'universal that influences the judgment.' In the example, composition (ta'lif) is the universal shared by both the house and the world. This is what allows the conclusion that the world is originated, just like the house.
+The 'illa must be relevant to the ruling.
+4
+Connect tamthil to juristic qiyas
+The passage explicitly states that this form of reasoning is called qiyas in the terminology of jurists. In usul al-fiqh, qiyas is a primary source of law. Recognise that the logical structure of tamthil is exactly the same as the legal reasoning used to extend rulings from established cases to new situations.
+This equivalence is important for understanding how logic and fiqh interact.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في التمثيل، وهو أن يُستَدلَّ بجزئي على جزئي آخر لمشاركتهما في كلي مؤثر في الحكم، ويسمى في عُرْفِ الفقهاء قياسًا، كقولنا: العالم مؤلف، فيكون حادثا كالبيت.
+Section on analogical reasoning (tamthil): It is to infer from one particular to another particular due to their sharing in a universal that is effective in the judgment. It is called 'qiyas' in the terminology of the jurists, like our saying: The world is composed, so it is originated like the house.
+Source pages p. 35
+
+Commentary
+This passage defines tamthil (analogical reasoning). The author explains that tamthil involves inferring a property of one particular thing from another particular thing because they share a common universal attribute that is relevant to the judgment. He then notes that this form of reasoning is what jurists (fuqaha) call 'qiyas' (analogical deduction in Islamic jurisprudence). The example given is: the world is composed, therefore it is originated (hadith) like a house. The shared attribute is composition, which is the effective cause ('illa) for the judgment of being originated. This passage highlights the connection between logical terminology and the methodology of fiqh. It is a memorization anchor for understanding the definition of tamthil.
+
+Key Terms
+تمثيل (tamthil): Inference from one particular to another based on a shared universal that influences the judgment. [Note: In later logic, tamthil is sometimes distinguished from qiyas, but here it is equated with juristic qiyas.]
+قياس (في عرف الفقهاء) (qiyas (fi urf al-fuqaha')): Analogical deduction used by jurists to extend a ruling from an original case to a new case due to shared 'illa. [Note: This is a significant shift: in logic, qiyas primarily means syllogism; in fiqh, it means analogy.]
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the term 'qiyas' used for in the terminology of jurists according to the passage?
+A) Categorical syllogism.
+B) Analogical reasoning (tamthil).
+C) Conditional syllogism.
+D) Demonstration.
+
+Key Takeaway
+Tamthil is the logical basis for juristic qiyas: transferring a ruling from an original case to a new case due to a shared effective cause ('illa).
+
+How This Lesson Applies — to MY Life?
+?
+Identify the 'illa in the analogical argument: 'Wine is prohibited because it is intoxicating; therefore, nabidh (date wine) is also prohibited.' Explain each component (asl, far', 'illa, hukm).
+?
+Construct an analogical argument in fiqh using another example: e.g., the permissibility of selling gold for silver with spot exchange (asl) to selling currency (far'), with the 'illa being hand-to-hand exchange. Write out the argument in the form of tamthil.
+
+Pages p. 35 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 109
+Module 14 · Lesson 3
+Next →
+Induction and Analogy
+beginner
+8 min
+Induction: Complete vs Incomplete
+Author defines induction, distinguishes complete from incomplete, and gives an example with crocodile.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete from incomplete induction and evaluate the certainty of an inductive argument.
+
+Core Idea
+Complete induction yields certainty; incomplete induction only probability, vulnerable to counterexamples like the crocodile.
+
+Induction is the examination of particulars to reach a universal judgment. But not all induction is equal: some exhaust all cases and give certainty, while others rely on most cases and remain probabilistic. The author illustrates this with the crocodile — a classic Islamic warning against hasty generalization.
+
+Guided Path
+1
+Identify the inductive claim
+Find the universal statement that the induction aims to prove. In the incomplete example: 'Every animal moves its lower jaw when chewing.'
+2
+List the examined particulars
+Which specific cases did the induction examine? In the text: humans and beasts. Not all animals.
+3
+Check completeness
+Did the induction cover all possible particulars? If not, it is incomplete. Here, many animals (like crocodile) were not examined.
+4
+Evaluate certainty
+Complete induction yields certainty (yaqin); incomplete yields only probability (zann) because a counterexample may exist. The crocodile shows the risk.
+5
+Apply to Islamic sciences
+Think of an induction used in fiqh or kalam. Is it complete or incomplete? What would a counterexample look like?
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في الاستقراء وهو عبارة عن تصفح أمور جزئية ليحكم بحكمها على ما اشتمل تلك الجزئيات وهو أي الاستقراء على نوعين تام إن استدل بجميع الجزئيات وحكم على الكل كما يقال: كل جسم إما حيوان أو نبات أو جماد إلى آخره، وكل واحد منها متحيز، ينتج أن كل جسم متحيز، وهو يفيد اليقين وهو قليل الاستعمال. وناقص إن استدل بأكثر الجزئيات وحكم على الكل كقولنا : كل حيوان يحرك فكه الأسفل عند المضغ ؛ لأن الإنسان والبهائم كذلك، وهو لا يفيد اليقين؛ لاحتمال أن لا يكون الكل بهذه الصفة؛ لجواز وجود جزئي آخر يكون حكمه مخالفا لما استقرئ كالتمساح، فإنه قيل: إنه لا يحرك فكه الأسفل عند المضغ.
+Chapter: On Induction. And it (induction) is an expression for examining partial things in order to judge by their judgment on what encompasses those partials. And it (induction) is of two types: complete, if one uses all the particulars and judges the whole, as it is said: Every body is either animal, plant, or mineral, etc., and every one of them is extended (mutaḥayyiz), producing that every body is extended, and it yields certainty, and it is rarely used. And incomplete, if one uses most of the particulars and judges the whole, like our statement: Every animal moves its lower jaw when chewing; because humans and beasts are like that, and it does not yield certainty, because of the possibility that the whole may not be of this quality; due to the possibility of the existence of another particular whose judgment is contrary to what was inducted, like the crocodile, for it is said that it does not move its lower jaw when chewing.
+Source pages p. 109
+
+Commentary
+This passage defines induction (istiqra') as the examination of particular things to derive a judgment about the universal that encompasses them. The author then divides induction into two types: (1) Complete induction (tām), where all particulars are examined and a judgment is made about the whole. The example given: 'Every body is either animal, plant, or mineral, and every one of them is extended (occupies space). Therefore, every body is extended.' This yields certainty (yaqīn) but is rarely used because it is difficult to enumerate all particulars. (2) Incomplete induction (nāqiṣ), where most particulars are examined and a judgment is made about all. The example: 'Every animal moves its lower jaw when chewing' based on observing humans and beasts. This does not yield certainty because it is possible that a particular exists that contradicts, like the crocodile, which reportedly does not move its lower jaw. The author uses a natural history example from the Islamic tradition (mentioning crocodile).
+
+Key Terms
+الاستقراء
+تام
+ناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+How does incomplete induction differ from complete induction according to the author?
+A) Incomplete induction examines all particulars, complete examines most.
+B) Complete induction yields certainty, incomplete does not.
+C) Incomplete induction is used only in fiqh.
+D) Complete induction is based on analogy.
+
+Key Takeaway
+Complete induction gives certain knowledge, but incomplete induction only probable knowledge because a single counterexample can overturn the universal claim.
+
+How This Lesson Applies — to MY Life?
+?
+Give an example of complete induction from Islamic fiqh (e.g., enumerating all types of prohibited contracts to deduce a general rule) and explain why it yields certainty.
+?
+Analyze the inductive argument 'All revealed scriptures command Tawhid' based only on the Qur'an and Torah. Identify its weakness using the crocodile counterexample model.
+
+Pages p. 109 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 109
+Module 14 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+10 min
+Understanding Analogy (Tamthil) and Its Use as Qiyas in Fiqh
+Definition of analogy and its identification with fiqh qiyas
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of an analogical argument (tamthil) and distinguish it from a categorical syllogism, using examples from kalam and fiqh.
+
+Core Idea
+Analogy transfers a judgment between two particulars via a shared meaning; it is the basis of fiqh qiyas.
+
+This passage defines analogy (tamthīl) and explains its structure, noting that it is called qiyas in fiqh. You will learn how a particular is used as evidence for another particular through a common cause ('illa), and see an example from kalam: the world's composition implying its origination, like a house. This tool is essential for understanding legal reasoning and theological proofs.
+
+Guided Path
+1
+Identify the two particulars (al-mushabbah and al-mushabbah bihī)
+In the text, the 'mushabbah' (simile) is the case you want to prove, and the 'mushabbah bihī' (similitud) is the case with a known judgment. For example, the world is the simile and the house is the similitud.
+In fiqh, these are called 'far'' (branch) and 'aṣl' (original).
+2
+Extract the common meaning ('illa jāmi'a)
+The shared attribute that links the two cases. In the example, both the world and the house are 'composed' (mu'allaf), which is the cause for the judgment of origination.
+In fiqh, the 'illa must be a common effective cause for the judgment.
+3
+Check how the judgment is transferred
+The judgment that holds for the similitud (house) is transferred to the simile (world) because they share the cause. The text says 'to establish for the simile the judgment established for the similitud which is explained by that meaning'.
+This transfer is valid only if the cause is truly common and effective.
+4
+Distinguish tamthil from categorical syllogism
+Unlike a categorical syllogism that uses two universal premises to deduce a particular, tamthil moves from particular to particular via a shared universal. The author notes that in logic, tamthil is contrasted with qiyas (syllogism), but in fiqh, it is called qiyas.
+This terminological shift is important to avoid confusion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في التمثيل وهو تشبيه جزئي بجزئي في معنى مشترك بينهما ليثبت في المشبه الحكم الثابت في المشبه به المعلل بذلك المعنى، وهو المعني بقوله: وهو أن يستدل بجزئي على جزئي آخر؛ لمشاركتهما في كلي مؤثر في الحكم، ويسمى التمثيل في عرف الفقهاء قياسا؛ لما فيه من ضم جزئي لجزئي وإلحاقه به والصورة التي هي محل الوفاق أصلا، والصورة التي هي محل الخلاف فرعا، والمعنى المشترك بينهما علة جامعة، كقولنا: العالم مؤلف فيكون حادثا كالبيت
+Chapter: On Analogy (tamthīl). And it is likening a particular to a particular in a meaning common between them, in order to establish for the simile (al-mushabbah) the judgment established for the similitud (al-mushabbah bihī) which is explained (mu'allal) by that meaning. And it is what is meant by his saying: 'And it is that one uses a particular as evidence for another particular, due to their sharing in a universal effective in the judgment.' And it is called 'qiyās' in the terminology of the jurists (fuqahā'), because it involves attaching a particular to a particular and annexing it to it. And the form that is the place of agreement is the original (aṣl), and the form that is the place of disagreement is the branch (far'), and the meaning common between them is the comprehensive cause ('illa jāmi'a). Like our saying: 'The world is composed, therefore it is originated (ḥādith), like the house.'
+Source pages p. 109
+
+Commentary
+This passage defines analogy (tamthīl) as the likening of one particular to another in a shared meaning, in order to prove for the compared object (mushabbah) the same judgment that exists in the object compared to (mushabbah bihī), which is explained by that shared meaning. The author then references a saying (probably from another scholar) that this is using a particular as evidence for another particular due to their sharing in a universal that is effective in the judgment. This type of reasoning is called qiyās in Islamic jurisprudence (fiqh). The author explains that this is because it involves attaching one particular to another and annexing it. The form that is agreed upon (the source case) is the original (aṣl), and the disputed form is the branch (far'). The common meaning between them is the comprehensive cause ('illa jāmi'a). An example is given: 'The world is composed, therefore it is originated (hadith), like the house.' This is a classic kalam argument for the createdness of the world, using the analogy of a house requiring a builder.
+
+Key Terms
+التمثيل (al-tamthīl): Analogy: likening one particular to another in a shared meaning to transfer a judgment based on that meaning. [Note: In logic, tamthil is often contrasted with qiyas (syllogism); in fiqh, tamthil is called qiyas.]
+قياس (qiyās): In fiqh terminology, it is analogical reasoning based on a common cause ('illa), equivalent to tamthil in logic. [Note: In logic, qiyas usually means syllogism; in fiqh, it means analogy. The author notes the shift.]
+علة جامعة ('illa jāmi'a): The comprehensive cause or common attribute that links the original and branch cases. [Note: Stable term in usul al-fiqh.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the relationship between tamthīl (analogy) and qiyās (as used in fiqh)?
+A) Tamthīl is a type of categorical syllogism; qiyās is a different method.
+B) Tamthīl is equivalent to qiyās in fiqh; both involve likening particulars.
+C) Qiyās is a broader category that includes tamthīl and other types of reasoning.
+D) Tamthīl is used only in kalam, while qiyās is used only in fiqh.
+
+Key Takeaway
+Tamthīl transfers a judgment from one particular to another through a shared meaning ('illa), forming the basis of fiqh qiyās and kalam analogical proofs.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the components (aṣl, far', 'illa, judgment) in this analogical argument: 'Selling food before taking possession is prohibited like ribā because both involve uncertain exchange.' (Fiqh example).
+?
+Construct an analogical argument using a different example: for instance, use the case of 'a hybrid financial transaction (e.g., tawarruq) compared to classical ribā' – specify the 'illa and explain how the judgment transfers.
+
+Pages p. 109 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 109
+Module 14 · Lesson 5
+Next →
+Induction and Analogy
+beginner
+5 min
+Analogy (Tamthīl): Definition and Components
+Author defines analogy and relates it to jurists' qiyās.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the four components of a logical analogy (mushabbah, mushabbah bihī, ma'nā sharīk, hukm) and relate it to the jurists' qiyās.
+
+Core Idea
+Analogy transfers a ruling from a known case to a new one through a shared cause.
+
+This passage defines tamthīl (analogy) as comparing one particular to another to extend a ruling. The author also explains that jurists call this qiyās. Understanding analogy is crucial for legal reasoning in fiqh, where rulings are extended from a known case (aṣl) to a new case (far‘) based on a shared effective cause (ʻilla).
+
+Guided Path
+1
+Identify the two particulars
+Find the original case (mushabbah bihī/asl) and the new case (mushabbah/far‘) in the passage. For example, in 'the world is composed, so it is originated, like a house', the house is the original and the world is the new case.
+2
+Extract the shared meaning (ma'nā)
+Determine the common attribute that justifies the ruling transfer. Here, both are 'composed' (mu'allaf). This is the 'illa (effective cause).
+3
+Verify the ruling transfer
+Check that the ruling (ḥukm) from the original case is applied to the new case because of the shared meaning. The ruling is 'originated' (ḥādith). Since composition implies temporality, the universe is also temporally originated.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في التمثيل وهو تشبيه جزئي بجزئي في معنى مشترك بينهما ليثبت في المشبه الحكم الثابت في المشبه به المعلل بذلك المعنى، وهو المعني بقوله: (وهو أن يستدل بجزئي على جزئي آخر؛ لمشاركتهما في كلي مؤثر في الحكم، ويسمى التمثيل في عرف الفقهاء قياسا)؛ لما فيه من ضم جزئي لجزئي وإلحاقه به والصورة التي هي محل الوفاق أصلا، والصورة التي هي محل الخلاف فرعا، والمعنى المشترك بينهما علة جامعة، (كقولنا: العالم مؤلف فيكون حادثا كالبيت
+Section on analogy (tamthīl): it is likening a particular to a particular in a meaning shared between them, in order to establish for the analogand (mushabbah) the ruling established for the analog (mushabbah bihī) which is explained by that meaning. It is what is meant by his saying: 'It is inferring from one particular to another particular because they share a universal that influences the ruling.' And analogy is called qiyās in the terminology of the jurists, because it involves joining one particular to another and attaching it to it — the image (case) that is agreed upon is the original (aṣl), the image that is disagreed upon is the branch (far‘), and the shared meaning between them is the unifying cause (ʿilla). As in our statement: 'The universe is composed, so it is originated, like a house.'
+Source pages p. 109
+
+Commentary
+This passage defines analogy (tamthīl) as comparing one particular to another based on a shared meaning (ma‘nā) to extend a ruling from the original case (mushabbah bihī) to the new case (mushabbah). The author notes that jurists (fuqahā’) call this qiyās, where the original case (aṣl) is agreed upon, the branch (far‘) is disputed, and the common attribute (ʿilla) unites them. The example given: 'The universe is composed, so it is originated, like a house' illustrates that the composition of the universe is analogous to the composition of a house, which implies temporality (ḥudūth). This shows how analogy transfers a ruling based on a shared cause.
+
+Key Terms
+التمثيل (al-tamthīl): Analogical reasoning comparing two particulars to transfer a ruling based on a shared meaning. [Note: In logic, tamthīl is distinct from categorical syllogism; in fiqh, it is called qiyās and is a primary source of law.]
+القياس (al-qiyās): In the 'urf of jurists, it refers to analogical reasoning (tamthīl); in logic, it often refers to categorical syllogism. [Note: Significant shift: in logic, qiyās primarily means categorical syllogism; in fiqh, it means analogical deduction.]
+علة (al-‘illa): The shared attribute that is the cause for the ruling in the original case and is present in the branch. [Note: No significant shift — stable as the effective cause in analogy.]
+
+Key Terms from Source Passage
+
+Checkpoint
+In the jurists' terminology, what is the term for what logicians call tamthīl?
+A) Qiyās
+B) Istiqrā’
+C) Burhān
+D) Tajriba
+
+Key Takeaway
+Analogy (tamthīl) is defined as comparing two particulars based on a shared meaning to transfer a ruling; jurists call this qiyās and it is foundational for legal reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the components of the analogy given in the passage: 'The universe is composed, so it is originated, like a house.' What is the original case, the new case, the shared meaning, and the transferred ruling?
+?
+Construct a fiqh analogy: The Quran forbids wine (khamr) because it intoxicates ('illa). Extend this ruling to all intoxicating substances (e.g., heroin) using the tamthīl structure.
+
+Pages p. 109 · Induction and Analogy
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,1298 @@
+← Prev
+p. 8
+Module 3 · Lesson 1
+Next →
+Hadd and Rasm
+beginner
+5 min
+Types of Definition: Hadd Tamm, Hadd Naqis, and Rasm
+Author classifies definitions into complete and incomplete hadd and rasm.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given definition as hadd tamm, hadd naqis, or rasm (complete or incomplete), and determine whether it meets the author's conditions.
+
+Core Idea
+Complete definitions combine genus and differentia; incomplete ones lack one. Descriptions use accidents.
+
+The passage distinguishes essential definitions (hadd) from descriptive definitions (rasm), each with complete and incomplete forms. By understanding these categories, you can evaluate whether a definition is logically sound. The examples provided, such as 'man is a rational animal' (hadd tamm) and 'man is laughing' (rasm), illustrate the practical application.
+
+Guided Path
+1
+Identify the definiendum and definiens
+Find the term being defined and what is used to define it. In the passage, examples include defining man as 'rational animal' or 'laughing'.
+2
+Check for genus and differentia
+Does the definiens include a broader category (genus) and a distinguishing feature (differentia)? For hadd tamm, both are present. For hadd naqis, only one is present.
+3
+Distinguish essential from accidental properties
+If the definiens includes an accident (like 'laughing' for man), it is a rasm, not a hadd. If it includes differentia (like 'rational'), it is a hadd.
+4
+Determine completeness
+A complete hadd (tamm) uses both genus and differentia. A complete rasm uses genus and accident. An incomplete one uses only one component.
+5
+Apply to the passage's examples
+Work through: 'man is a rational animal' (hadd tamm), 'man is laughing' (incomplete rasm), 'man is animal' (hadd naqis by genus only).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحد التام لا يقبل الزيادة والنقصان. والحد الناقص قد يقبل الزيادة والنقصان. والتعريف بالمسامتة المختصة فيكون رسما. مثاله تعريف الإنسان بأنه ضاحك. والتعريف بالخاصة يكون رسما أيضا. والتعريف بما يساوي الشيء في المعرفة والجهالة كتعريف الأب بأنه والد الابن. والحد التام هو المركب من الجنس والفصل. والحد الناقص هو ما كان بفصل فقط أو جنس فقط. والرسم التام هو ما كان بالجنس والعرض الخاص. والرسم الناقص هو ما كان بالعرض فقط.
+The complete definition does not accept increase or decrease. The incomplete definition may accept increase or decrease. Definition by specific coextensive property is a depiction (rasm). Its example is defining man as laughing. Definition by a specific property is also a rasm. Definition by what equals the thing in knowledge and ignorance, like defining father as the parent of a son. The complete definition is composed of genus and differentia. The incomplete definition is that which is only by differentia or only by genus. The complete rasm is that which is by genus and specific accident. The incomplete rasm is that which is by accident only.
+Source pages p. 8
+
+Commentary
+This passage defines and classifies the types of definitions (ta'rif) in logic. The author distinguishes between hadd (definition proper) and rasm (description). A complete definition (hadd tamm) is composed of both genus and differentia, e.g., defining man as 'rational animal' (animal is genus, rational is differentia). Such a definition is complete and does not admit addition or subtraction without changing the essence. An incomplete definition (hadd naqis) uses only the differentia (e.g., man is rational) or only the genus (man is animal); it can be expanded. Then the author discusses rasm, which is a description based on accidental properties. A complete rasm uses both genus and a specific accident (e.g., man is a laughing animal); here 'animal' is genus and 'laughing' is a specific property, but not the differentia. An incomplete rasm uses only an accident (e.g., man is laughing). The passage also mentions a special type: definition by equivalence in knowledge and ignorance, where two terms are mutually known, like 'father' and 'son' are defined in terms of each other (this is circular but sometimes used). The author emphasizes that proper definitions should avoid increase and decrease when they are complete. In Islamic sciences, such distinctions are crucial: for example, in usul al-fiqh, defining 'qiyas' requires its genus (analogy) and differentia (transferring a ruling based on commonality). Understanding these categories helps avoid flawed definitions.
+
+Key Terms
+الحد التام
+الحد الناقص
+الرسم
+المسامتة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is an example of a complete definition (hadd tamm)?
+A) Man is an animal
+B) Man is rational
+C) Man is a laughing animal
+D) Man is a rational animal
+
+Key Takeaway
+A complete essential definition (hadd tamm) combines genus and differentia; incomplete definitions and descriptions (rasm) use fewer or accidental components.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the definition: 'Salah is an act of worship consisting of specific actions and words, beginning with takbir and ending with taslim.' According to the categories in the passage, is this a hadd or a rasm? Complete or incomplete? Justify your answer by identifying genus and differentia or accident.
+?
+In usul al-fiqh, jurists define 'ijma' as 'the agreement of the mujtahidun of the Muslim community after the death of the Prophet on a legal ruling'. Identify the genus (what broader category it belongs to) and the differentia or specific property used. Then classify the definition.
+
+Pages p. 8 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 8
+Module 3 · Lesson 2
+Next →
+Hadd and Rasm
+beginner
+5 min
+Complete Definition (Hadd Tamm) vs Description (Rasm)
+Author distinguishes between complete and incomplete definitions
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish a complete definition (hadd tamm) from an incomplete definition or description (rasm) by analyzing whether the definition uses essential or accidental attributes.
+
+Core Idea
+The complete definition uses essence; rasm uses accidents.
+
+In this lesson, we explore the classification of definitions. The author distinguishes between definitions that capture the essence (hadd) and those that rely on accidental properties (rasm). Understanding this distinction is crucial for evaluating definitions in Islamic sciences.
+
+Guided Path
+1
+Identify the definiendum
+Determine what is being defined. In the passage, the example is 'man' (insan).
+2
+Extract the attributes used
+List the attributes given: 'growing, sensing body' includes a genus (body) with two qualities (growing, sensing); 'laughing' is a single property.
+Check if these attributes are essential (dhati) or accidental (aradi).
+3
+Test for completeness
+A complete definition must include the proximate genus and specific differentia, and cannot accept addition or subtraction. Does the definition include everything essential and nothing extraneous?
+The author says 'growing, sensing body' is incomplete because it lacks the differentia (rationality).
+4
+Distinguish hadd from rasm
+If the definition uses essential attributes (dhatiyyat), it is a hadd. If it uses accidental attributes (aradiyyat), it is a rasm. Here, 'laughing' is a property (khassa), not essential.
+5
+Apply to other examples
+Try the same test on definitions from Islamic sciences, e.g., 'salah is specific acts of worship comprising takbir, qira'ah, ruku', sujud, etc. with intention' – this is a complete definition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التعريف بالمسابقة المختصة فيكون رسما أيضا. و تعريف الإنسان بالضحك رسم. و الحد التام لا يقبل الزيادة والنقصان. و الحد الناقص يقبل الزيادة والنقصان. و تعريف الإنسان بالجسم النامي الحساس الحيب [؟] هو حد ناقص. و الفرق بين الحد والرسم أن الحد يجمع الذاتيات والرسم يجمع العرضيات.
+Definition by the specific differential becomes a description as well. And the definition of man as laughing is a description. The complete definition does not accept increase or decrease. The incomplete definition accepts increase and decrease. The definition of man as a growing, sensing, [?] body is an incomplete definition. The difference between definition and description is that definition collects essential attributes and description collects accidental attributes.
+Source pages p. 8
+
+Commentary
+This passage classifies types of definition. It distinguishes between a complete definition (hadd tamm) which captures the essence and allows no addition or subtraction, and an incomplete definition (hadd naqis) or description (rasm) which relies on accidental properties. The example given: defining man as 'laughing' is a rasm, since laughter is a property (khassa) not an essential. Defining man as 'a growing, sensing body' (an attempt at jins+fasl) is a hadd naqis if it omits the differentia. The key point: hadd uses essential attributes (dhatiyyat), rasm uses accidental attributes (aradiyyat). This mirrors standard logic: the complete definition (hadd tamm) is composed of proximate genus and specific differentia, while rasm uses proper accidents.
+
+Key Terms
+الحد التام
+الرسم
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is a complete definition (hadd tamm) of 'sawm' (fasting)?
+A) Sawm is abstinence from food, drink, and marital relations from dawn to sunset with intention.
+B) Sawm is an act of worship that teaches self-discipline.
+C) Sawm is a pillar of Islam.
+D) Sawm is refraining from eating.
+
+Key Takeaway
+A complete definition (hadd tamm) uses essential attributes (genus and differentia) and resists addition or subtraction, while a description (rasm) uses accidental properties.
+
+How This Lesson Applies — to MY Life?
+?
+1. Consider the definition of 'zakat' (obligatory charity) as 'a specific portion of wealth given to specific recipients at a specific time'. Identify which part is the genus and which is the differentia. Is this a hadd tamm or hadd naqis?
+?
+2. A student defines 'hajj' as 'the journey to Mecca in Dhu al-Hijjah with the intention of performing the rituals'. Is this a complete definition? Why or why not?
+
+Pages p. 8 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 10
+Module 3 · Lesson 3
+Next →
+Hadd and Rasm
+beginner
+5 min
+Defining True Light Linguistically: A Sensory Quality
+Author defines true light linguistically as a sensory quality.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the linguistic definition of true light as a sensory quality and distinguish it from other meanings.
+
+Core Idea
+True light is not a concept or substance—it is a sensory quality perceived by the eye.
+
+In this passage, the author clarifies the linguistic meaning of 'light' (al-nur) by defining it as a sensory quality. This is a foundational definition for later discussions on metaphor and reality. The commentator also addresses the term 'simple' to avoid confusion.
+
+Guided Path
+1
+Identify the definiendum
+Find the term being defined: 'al-nur al-haqiqi al-lughawi' (the real linguistic light).
+This is the subject of the definition.
+2
+Extract the genus and differentia
+The definition is 'al-kayfiyya al-hissiyya' (sensory quality). The genus is 'kayfiyya' (quality) and the differentia is 'hissiyya' (sensory).
+This follows the classical structure of a definition.
+3
+Test the definition's completeness
+Consider whether this definition covers all types of light (e.g., sunlight, lamplight) and excludes non-sensory meanings (e.g., intellectual light).
+The passage does not evaluate completeness, but you can apply the test.
+4
+Compare with the definition of 'simple'
+The passage also defines 'al-basit' as 'al-amr al-wahid' (the single thing) that may have parts. This helps clarify that simplicity here is conceptual, not physical.
+This prevents confusion between different types of simplicity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+اقول النور الحقيقي اللغوى هو الكيفية الحسية. فاذن كيف تنضف [؟] ليس المراد البسيط الحكم [؟] والبسيط هو الأمر الواحد وإن كان مركبا من الأجزاء.
+I say: the real linguistic light is the sensory quality. So how do you refine? The intended meaning is not the simple judgment. And the simple is the single thing even if it is composed of parts.
+Source pages p. 10
+
+Commentary
+This passage defines two key terms: 'real linguistic light' (al-nur al-haqiqi al-lughawi) and 'simple' (al-basit). The commentator begins by stating that 'real linguistic light' is a sensory quality (kayfiyya hissiyya). This is a lexical definition rooted in ordinary language, referring to the physical phenomenon of light perceived by the senses. The commentator then poses a rhetorical question ('so how do you refine?') and answers that the intended meaning is not the 'simple judgment' (al-basit al-hukmi?). The term 'simple' is then defined as a single thing (al-amr al-wahid) that may be composed of parts in terms of physical composition but is considered one in essence. This distinction is crucial in logic and metaphysics: a simple entity is not necessarily indivisible in every sense—it can be simple in definition while having parts. For example, in Islamic theology, the divine essence is simple, whereas composite entities like human beings have parts. The commentator is clarifying that the simplicity discussed here is conceptual, not physical.
+
+Key Terms
+النور الحقيقي اللغوي
+الكيفية الحسية
+البسيط
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the genus in the definition of true light?
+A) Sensory
+B) Quality
+C) Simple
+D) Thing
+
+Key Takeaway
+The linguistic definition of true light is a sensory quality, and simplicity is defined as conceptual unity, not physical lack of parts.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the genus and differentia in the definition of 'light' given in this passage. Then find another term in usul al-fiqh (e.g., 'wajib') and try to define it linguistically using the same method.
+
+Pages p. 10 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 11
+Module 3 · Lesson 4
+Next →
+Hadd and Rasm
+beginner
+5 min
+Complete and Incomplete Definitions
+Author defines 'hadd' and categorizes definitions by completeness.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish a complete definition (hadd tamm) from an incomplete definition (hadd naqis) by identifying whether the genus is proximate or remote.
+
+Core Idea
+A definition is complete only when its genus is proximate.
+
+Every definition in logic aims to capture the essence of a thing. But not all definitions are equally precise. In this passage, the author introduces the technical meaning of 'hadd' and then classifies definitions based on the genus used. Understanding this classification helps you evaluate the precision of definitions you encounter in Islamic disciplines like kalam, fiqh, and usul.
+
+Guided Path
+1
+Identify the term being defined
+Find the definiendum in the Arabic. Here it is 'hadd' (الحد). The author gives both a linguistic and a technical meaning.
+2
+Extract the genus and differentia from the example
+The example defines 'insan' (human) as 'jism natiq' (rational body). Identify which part is the genus (jism) and which is the differentia (natiq).
+In standard logic, the proximate genus of human is 'animal', but here 'body' is used. This may be considered a remote genus.
+3
+Check proximity of the genus
+Determine whether the genus used is the immediate genus (jins qarib) or a higher, more general genus (jins ba'id). A complete definition requires the proximate genus.
+4
+Classify the definition as complete or incomplete
+Based on the proximity, decide if the given definition is hadd tamm (proximate genus + differentia) or hadd naqis (remote genus + differentia).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحد في اللغة المنع. اصطلاحا: الكلام الدال على ذاتية الشيء. ومنه تعريف الشيء بجنسه وفصله القريبين ويسمى حدا تاما. وإن كان بجنس بعيد وفصل قريب يسمى حدا ناقصا كقولنا في تعريف الإنسان: جسم ناطق.
+Al-hadd (definition) in language means prevention. Technically: it is speech indicating the essence of a thing. From it is the definition of a thing by its proximate genus and differentia, and it is called a complete definition. If it is by a remote genus and proximate differentia, it is called an incomplete definition, like our statement in defining humans: 'rational animal.'
+Source pages p. 11
+
+Commentary
+This passage defines the term 'hadd' (definition) both linguistically and terminologically, then classifies definitions into complete and incomplete based on the genus used. Linguistically, 'hadd' means prevention or barrier, referring to a definition's function of delimiting and preventing confusion. Technically, in logic, a hadd is a statement (kalam) that indicates the essence (dhatiyya) of a thing. The author then explains that a complete definition (hadd tamm) consists of the proximate genus (al-jins al-qarib) and the proximate differentia (al-fasl al-qarib). An incomplete definition (hadd naqis) uses a remote genus (jins ba'id) with a proximate differentia. The example given is the definition of 'insan' (human) as 'jism natiq' (rational body). Here, 'jism' is the proximate genus? Actually in standard logic, the proximate genus of human is 'hayawan' (animal), but here 'jism' is used, which is a higher genus. The author considers this as an example of a complete definition? Wait, the text says: 'kagawlina fi ta'rif al-insan: jism natiq.' According to the classification, if the genus is proximate, it's complete; if remote, it's incomplete. So if 'jism' is taken as proximate genus for human, that would be unusual because animal is more proximate. Possibly the author is giving an example of an incomplete definition? The text is ambiguous. Typically, 'jism natiq' is a common definition. The commentary should note that the example fits if 'jism' is considered the proximate genus here, but in standard logic, the proximate genus is 'hayawan'. However, the author may be using a different hierarchy. The key point is that using a more general genus yields a less precise definition.
+
+Key Terms
+الحد
+حد تام
+حد ناقص
+جنس قريب
+فصل قريب
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what makes a definition 'complete' (tamm)?
+A) Using a remote genus and proximate differentia.
+B) Using the proximate genus and proximate differentia.
+C) Including all essential and accidental properties.
+D) Using the term 'hadd' in the definition.
+
+Key Takeaway
+A definition is complete only when it uses the proximate genus; using a remote genus yields an incomplete definition.
+
+How This Lesson Applies — to MY Life?
+?
+Find a definition in a usul al-fiqh text (e.g., 'al-salah hiya aqwal wa af'al makhsusa'). Identify the genus and differentia, then determine if the definition is complete or incomplete based on the proximity of the genus.
+?
+Construct a complete definition of 'zakat' using its proximate genus (e.g., 'obligatory charity') and its differentia (e.g., 'on specific wealth with specific conditions'). Then construct an incomplete version using a remote genus (e.g., 'financial act').
+
+Pages p. 11 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 12
+Module 3 · Lesson 5
+Next →
+Hadd and Rasm
+beginner
+8 min
+Complete and Incomplete Definitions: Hadd and Rasm
+Author defines 'hadd' and 'rasm' with their constituents and examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete definition (hadd tamm), incomplete definition (hadd naqis), and description (rasm), and identify their components (genus, differentia, common accident).
+
+Core Idea
+A complete definition captures the essence; a description helps recognize it.
+
+In Islamic logic, defining a concept properly is the foundation of sound reasoning. This passage introduces two key methods: strict definition (hadd) and looser description (rasm). Understanding their components—genus, differentia, and accident—will sharpen your ability to evaluate definitions in fiqh, kalam, and other Islamic sciences.
+
+Guided Path
+1
+Identify the definiendum
+The passage uses 'human' as the thing being defined. Notice how the author applies both hadd and rasm to the same example.
+2
+Extract the genus and differentia for each definition
+For the complete hadd, genus is 'animal' and differentia is 'rational'. For the incomplete hadd, genus is 'body' and differentia is 'speaking'. For the rasm, no genus-differentia pair; instead 'walking' and 'laughing' are used.
+Proximate genus is the closest category; remote differentia is less specific.
+3
+Classify each example as hadd tamm, hadd naqis, or rasm
+Rational animal = hadd tamm; speaking body = hadd naqis; walking laughing = rasm. Note the criteria: 'all essential attributes' vs 'some essential plus common accident'.
+4
+Check the definition's completeness
+A complete definition must include all essential attributes. Does 'rational animal' cover what it is to be human? Does 'walking laughing' miss something essential?
+This exercise helps you assess definitions in Islamic texts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والحد في اللغة المنع. واصطلاحاً [؟] الاعتماد على جميع الذاتيات. إن كان بجنس وفصل قريبين كقولنا في تعريف الإنسان حيوان ناطق، وهو الحد التام. أو بجنس قريب وفصل بعيد كقولنا في تعريف الإنسان جسم ناطق، وهو الحد الناقص. وأما الرسم فهو الاعتماد على بعض الذاتيات مع العرض العام، كقولنا في تعريف الإنسان ماشٍ ضاحك [؟].
+The definition (hadd) in language is prevention. In technical terminology, it is reliance on all essential attributes. If it is via a proximate genus and differentia, such as our saying in defining human: 'rational animal' — that is the complete definition. Or via a proximate genus and a remote differentia, such as our saying in defining human: 'speaking body' — that is the incomplete definition. As for description (rasm), it is reliance on some essential attributes along with a common accident, such as our saying in defining human: 'walking, laughing'.
+Source pages p. 12
+
+Commentary
+This passage defines two key terms in logic: al-hadd (definition) and al-rasm (description). It begins by giving the linguistic meaning of hadd (prevention), then its technical meaning in logic: a definition built on all essential attributes (dhatiyyat) of the thing. It then divides hadd into two types: tamm (complete) and naqis (incomplete). The complete definition uses a proximate genus and differentia, exemplified by 'rational animal' for human. The incomplete definition uses a proximate genus but a remote differentia, e.g., 'speaking body' for human (where 'body' is genus and 'speaking' is a remote differentia). Then it explains rasm as a description that relies on only some essential attributes along with a common accident (al-'ard al-'amm), providing the example 'walking, laughing' for human. The author is clarifying the standard Aristotelian–Islamic logical framework where definition and description are the two main ways of clarifying a concept.
+
+Key Terms
+الحد
+الرسم
+الجنس
+الفصل
+الذاتيات
+العرض العام
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a complete definition (hadd tamm) according to the passage?
+A) Human is a speaking body.
+B) Human is a walking animal.
+C) Human is a rational animal.
+D) Human is a laughing body.
+
+Key Takeaway
+A complete definition (hadd tamm) uses proximate genus and differentia; an incomplete definition (hadd naqis) uses a remote differentia; a description (rasm) uses some essentials plus a common accident.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Given the definition of 'salah' as 'specific words and actions beginning with takbir and ending with taslim, performed with intention', classify it as hadd tamm, hadd naqis, or rasm. Justify your answer by identifying genus and differentia or common accident.
+?
+Task 2: In the field of kalam, al-Ash'ari defines 'knowledge' as 'the attribute through which the knower is described as knowing'. Is this a hadd or rasm? What components are present?
+
+Pages p. 12 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 26
+Module 3 · Lesson 6
+Next →
+Hadd and Rasm
+beginner
+8 min
+The Four Types of Definition: Hadd and Rasm
+Author defines definition (mu'arrif) and distinguishes hadd and rasm types.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any definition as one of the four types: hadd tamm, hadd naqis, rasm tamm, or rasm naqis.
+
+Core Idea
+Definitions are either essential (hadd) or descriptive (rasm), and each can be perfect or imperfect.
+
+The author presents a taxonomy of definitions that is crucial for precise conceptual analysis. By learning to identify whether a definition uses a genus, a differentia, or a property, you will be able to assess the type and completeness of any definition encountered in Islamic scholarship.
+
+Guided Path
+1
+Identify the definiendum
+Look for the term that is being defined in the definition phrase. It is usually the subject of the sentence.
+e.g., in 'human is rational animal', the definiendum is 'human'.
+2
+Find the genus if present
+The genus is the broader category that includes the definiendum. It is usually a universal term like 'animal' or 'body'.
+3
+Find the differentia if present
+The differentia is the distinguishing characteristic that separates the species from other members of the genus, e.g., 'rational'.
+4
+Check for a property (khassa)
+A property is a non-essential characteristic that uniquely belongs to the species, e.g., 'able to laugh' for humans. If a property is used without a differentia, the definition is a rasm.
+5
+Classify the definition
+Based on the presence/absence of genus, differentia, and property, determine if it is hadd tamm, hadd naqis, rasm tamm, or rasm naqis.
+Use the following table: hadd tamm: genus + differentia; hadd naqis: differentia alone or remote genus + differentia; rasm tamm: genus + property; rasm naqis: property alone or remote genus + property.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في التعريفات: المعرف للشي هو الذي يستلزم تصوره تصور ذلك الشيء، ويسمى حدا تاما إن كان بجنس وفصل قريبين وحـدا ناقصا إن كان بفصل قريب وحده، أو به وبجنس بعيد، ورسما تاما إن كان بجنس قريب وخاصة ورسما ناقصا إن كان بها فقط، أو بها وبجنس بعيد. ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة، وعن استعمال ألفاظ غريبة غير ظاهرة الدلالة بالقياس إلى السائل.
+Section on definitions: The definer of a thing is that whose conception necessitates the conception of that thing. It is called a perfect essential definition (ḥadd tāmm) if it is by the proximate genus and differentia. An imperfect essential definition (ḥadd nāqiṣ) if it is by the proximate differentia alone, or by it and a remote genus. A perfect descriptive definition (rasm tāmm) if it is by a proximate genus and a property (khāṣṣa). An imperfect descriptive definition (rasm nāqiṣ) if it is by the property alone, or by it and a remote genus. It is necessary to avoid defining a thing by what equals it in knowledge and ignorance, and to avoid using unfamiliar words whose indication is not clear relative to the questioner.
+Source pages p. 26
+
+Commentary
+This passage lays out the classifications of definitions in logic. The author first defines the definer (mu'arrif) as that whose conception entails the conception of the thing defined. Then he distinguishes two main types: essential definition (ḥadd) and descriptive definition (rasm). A perfect essential definition (ḥadd tāmm) consists of the proximate genus and proximate differentia, e.g., defining human as 'rational animal'. An imperfect essential definition (ḥadd nāqiṣ) uses the proximate differentia alone (e.g., 'rational') or a remote genus with the differentia (e.g., 'rational body'). A perfect descriptive definition (rasm tāmm) uses a proximate genus and a property (khāṣṣa), e.g., 'an animal that laughs' for human. An imperfect descriptive definition uses the property alone or with a remote genus. The passage also warns against two errors: defining something by something equally obscure, and using unfamiliar terms that do not provide clarity to the seeker.
+
+Key Terms
+حد تام (ḥadd tāmm): An essential definition composed of the proximate genus and proximate differentia.
+حد ناقص (ḥadd nāqiṣ): An essential definition using only the differentia or a remote genus with differentia.
+رسم تام (rasm tāmm): A descriptive definition using proximate genus and a property (khāṣṣa).
+رسم ناقص (rasm nāqiṣ): A descriptive definition using only the property or with a remote genus.
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a perfect essential definition (ḥadd tāmm)?
+A) 'Human is an animal that laughs'
+B) 'Human is a rational animal'
+C) 'Human is rational'
+D) 'Human is a body that is rational'
+
+Key Takeaway
+A perfect essential definition (hadd tamm) requires both the proximate genus and proximate differentia; any other combination is either imperfect or descriptive.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following definition of 'Salat' (prayer): 'Specific actions beginning with takbir and ending with taslim' as one of the four types. Justify your answer.
+?
+Classify the definition 'Wudu is washing the face, hands, and feet with water' as one of the four types. Justify.
+
+Pages p. 26 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 26
+Module 3 · Lesson 7
+Next →
+Hadd and Rasm
+intermediate
+5 min
+Conditions for a Valid Definition: Avoiding Circularity and Obscurity
+Author warns against circular and obscure definitions.
+
+Learning Objective
+By the end of this lesson, you will be able to assess whether a definition meets the two essential conditions: it must not be equal in knowledge/ignorance (circular) and must not use unfamiliar terms.
+
+Core Idea
+A good definition must be clearer than the defiendum and avoid obscure language.
+
+The author concludes the section with two important warnings: a definition should not define a thing by something equally unknown, nor should it use unfamiliar words. These conditions ensure that the definition actually fulfills its purpose of conveying knowledge.
+
+Guided Path
+1
+Identify the first condition
+The definer must not be equal to the defined in terms of knowledge and ignorance; i.e., the definition should not be circular or use synonyms that are equally obscure.
+Example: defining 'knowledge' as 'gnosis' is circular if 'gnosis' is no clearer.
+2
+Identify the second condition
+Avoid using unfamiliar (ghariba) words that are not clearly indicative to the questioner. The definition should use terms that are well-known to the audience.
+E.g., defining 'water' as 'H2O' is not a proper definition for a layperson.
+3
+Evaluate a given definition
+Check the definition against these two conditions. Does it use terms that are at least as well-known as the definiendum? Are the terms clear?
+Practice with examples from Islamic texts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في التعريفات: المعرف للشي هو الذي يستلزم تصوره تصور ذلك الشيء، ويسمى حدا تاما إن كان بجنس وفصل قريبين وحـدا ناقصا إن كان بفصل قريب وحده، أو به وبجنس بعيد، ورسما تاما إن كان بجنس قريب وخاصة ورسما ناقصا إن كان بها فقط، أو بها وبجنس بعيد. ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة، وعن استعمال ألفاظ غريبة غير ظاهرة الدلالة بالقياس إلى السائل.
+Section on definitions: The definer of a thing is that whose conception necessitates the conception of that thing. It is called a perfect essential definition (ḥadd tāmm) if it is by the proximate genus and differentia. An imperfect essential definition (ḥadd nāqiṣ) if it is by the proximate differentia alone, or by it and a remote genus. A perfect descriptive definition (rasm tāmm) if it is by a proximate genus and a property (khāṣṣa). An imperfect descriptive definition (rasm nāqiṣ) if it is by the property alone, or by it and a remote genus. It is necessary to avoid defining a thing by what equals it in knowledge and ignorance, and to avoid using unfamiliar words whose indication is not clear relative to the questioner.
+Source pages p. 26
+
+Commentary
+This passage lays out the classifications of definitions in logic. The author first defines the definer (mu'arrif) as that whose conception entails the conception of the thing defined. Then he distinguishes two main types: essential definition (ḥadd) and descriptive definition (rasm). A perfect essential definition (ḥadd tāmm) consists of the proximate genus and proximate differentia, e.g., defining human as 'rational animal'. An imperfect essential definition (ḥadd nāqiṣ) uses the proximate differentia alone (e.g., 'rational') or a remote genus with the differentia (e.g., 'rational body'). A perfect descriptive definition (rasm tāmm) uses a proximate genus and a property (khāṣṣa), e.g., 'an animal that laughs' for human. An imperfect descriptive definition uses the property alone or with a remote genus. The passage also warns against two errors: defining something by something equally obscure, and using unfamiliar terms that do not provide clarity to the seeker.
+
+Key Terms
+المعرفة والجهالة
+ألفاظ غريبة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following violates the condition of avoiding circularity?
+A) 'Water is H2O'
+B) 'Knowledge is gnosis'
+C) 'Human is rational animal'
+D) 'Salat is prayer'
+
+Key Takeaway
+A valid definition must be clearer than the term defined and use familiar language; otherwise, it fails to convey knowledge.
+
+How This Lesson Applies — to MY Life?
+?
+Evaluate the following definition: 'Quran is the word of Allah' against the two conditions. Is it a good definition? Why or why not?
+?
+Identify whether the definition 'Riba is an increase without a contract' contains any unfamiliar terms that might violate the second condition.
+
+Pages p. 26 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 26
+Module 3 · Lesson 8
+Next →
+Hadd and Rasm
+beginner
+5 min
+The Condition for a Valid Definition
+Author defines the essential condition for a valid definition.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether a given statement satisfies the definitional condition: its conception entails conception of the defined thing.
+
+Core Idea
+A definition must lead to conception of the defined thing.
+
+This passage introduces the foundational criterion for any definition: it must cause the mind to grasp the defined thing. This is not a trivial point—it excludes circular and uninformative definitions. Let's unpack this condition.
+
+Guided Path
+1
+Identify the definiens and definiendum
+Locate the part of the sentence that does the defining and the part that is being defined. In the text, 'المعرف للشي هو الذي يستلزم تصوره تصور ذلك الشيء' — the definer (المعرف) is what, when conceived, leads to conception of the thing (ذلك الشيء).
+The definiens is the entire expression used to define.
+2
+Check the entailment condition
+Ask: does understanding the definiens automatically bring the defined thing to mind? If yes, the condition is met. If the definiens itself requires further definition, the condition fails.
+This prevents infinite regress.
+3
+Apply to a sample definition
+Consider the definition: 'الصلاة هي الأقوال والأفعال المفتتحة بالتكبير والمختتمة بالتسليم' (Prayer is words and deeds beginning with takbir and ending with taslim). Does the conception of 'words and deeds beginning with takbir and ending with taslim' entail conception of 'prayer'? For a Muslim, yes, because that is the known form. But for someone unfamiliar with Islamic worship, it might not. The condition is relative to the listener's knowledge.
+The text later warns about using unfamiliar terms.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المعرف للشي هو الذي يستلزم تصوره تصور ذلك الشيء، ويسمى حدا تاما إن كان بجنس وفصل قريبين وحدا ناقصا إن كان بفصل قريب وحده، أو به وبجنس بعيد، ورسما تاما إن كان بجنس قريب وخاصة ورسما ناقصا إن كان بها فقط، أو بها وبجنس بعيد. ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة، وعن استعمال ألفاظ غريبة غير ظاهرة الدلالة بالقياس إلى السائل.
+The definer of a thing is that whose conception entails the conception of that thing. It is called a complete definition if it is by a proximate genus and differentia; an incomplete definition if by a proximate differentia alone, or by it and a remote genus; a complete description if by a proximate genus and a property; an incomplete description if by the property alone, or by it and a remote genus. And it is necessary to avoid defining a thing by what equals it in knowledge and ignorance, and to avoid using unfamiliar terms that are not clear in indication relative to the questioner.
+Source pages p. 26
+
+Commentary
+This passage defines what a definition (ta'rif) is and classifies its types into hadd (definition) and rasm (description), each subdivided into complete (tāmm) and incomplete (nāqis). The defining characteristic of a ta'rif is that it leads to the conception of the defined thing. A complete definition (hadd tāmm) consists of the proximate genus and proximate differentia. An incomplete definition (hadd nāqis) uses only the proximate differentia, or the differentia with a remote genus. Similarly, a complete description (rasm tāmm) uses a proximate genus and a property (khāṣṣa), while an incomplete description uses just a property or a property with a remote genus. The passage also warns against two errors: defining something by what is equally known or unknown (circularity), and using unfamiliar or ambiguous terms. This is crucial for avoiding logical fallacies in definition.
+
+Key Terms
+تعريف
+معرف
+مستلزم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the essential condition for a definition to be valid?
+A) It uses a genus and differentia
+B) It leads to conception of the defined thing
+C) It avoids obscure terms
+D) It is complete in describing properties
+
+Key Takeaway
+A valid definition is one that, when understood, brings the defined concept to mind.
+
+How This Lesson Applies — to MY Life?
+?
+Evaluate the following definition from a fiqh textbook: 'Al-Ghusl is the purification of the entire body with water.' Does the conception of 'purification of the entire body with water' entail the conception of 'ghusl'? Explain.
+
+Pages p. 26 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 26
+Module 3 · Lesson 9
+Next →
+Hadd and Rasm
+beginner
+5 min
+Classifying Definitions: Hadd and Rasm, Complete and Incomplete
+Author classifies definitions into four types.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any definition into one of the four types: hadd tāmm, hadd nāqis, rasm tāmm, or rasm nāqis based on its components (genus, differentia, property).
+
+Core Idea
+A complete definition uses proximate genus and differentia; a complete description uses proximate genus and property.
+
+After establishing the condition for a definition, the text presents a taxonomy. Definitions are divided into hadd (essential) and rasm (descriptive), each with complete and incomplete subtypes. Understanding this classification helps you assess how thoroughly a definition captures the essence or identifies the thing.
+
+Guided Path
+1
+Identify the components in the definition
+Look for a genus (جنس) – a broader category, a differentia (فصل) – a distinguishing essential characteristic, and/or a property (خاصة) – a non-essential distinctive attribute. For example, in 'human is a rational animal', 'animal' is the genus, 'rational' is the differentia.
+Differentia is essential, property is not.
+2
+Check the proximity of the genus
+If the genus is the closest (proximate) genus, it yields a complete definition/description. If it is a remote genus, the definition becomes incomplete. For example, 'human is a rational substance' uses 'substance' (a remote genus) – that would be incomplete hadd (hadd nāqis).
+Proximate genus is the immediate higher category.
+3
+Determine if it is hadd or rasm
+If the distinguishing component is a differentia (essential), it is hadd. If it is a property (non-essential), it is rasm.
+4
+Assign the type
+Combine: if hadd with proximate genus → hadd tāmm; hadd without proximate genus (only differentia, or differentia+remote genus) → hadd nāqis; rasm with proximate genus+property → rasm tāmm; rasm with only property or property+remote genus → rasm nāqis.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المعرف للشي هو الذي يستلزم تصوره تصور ذلك الشيء، ويسمى حدا تاما إن كان بجنس وفصل قريبين وحدا ناقصا إن كان بفصل قريب وحده، أو به وبجنس بعيد، ورسما تاما إن كان بجنس قريب وخاصة ورسما ناقصا إن كان بها فقط، أو بها وبجنس بعيد. ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة، وعن استعمال ألفاظ غريبة غير ظاهرة الدلالة بالقياس إلى السائل.
+The definer of a thing is that whose conception entails the conception of that thing. It is called a complete definition if it is by a proximate genus and differentia; an incomplete definition if by a proximate differentia alone, or by it and a remote genus; a complete description if by a proximate genus and a property; an incomplete description if by the property alone, or by it and a remote genus. And it is necessary to avoid defining a thing by what equals it in knowledge and ignorance, and to avoid using unfamiliar terms that are not clear in indication relative to the questioner.
+Source pages p. 26
+
+Commentary
+This passage defines what a definition (ta'rif) is and classifies its types into hadd (definition) and rasm (description), each subdivided into complete (tāmm) and incomplete (nāqis). The defining characteristic of a ta'rif is that it leads to the conception of the defined thing. A complete definition (hadd tāmm) consists of the proximate genus and proximate differentia. An incomplete definition (hadd nāqis) uses only the proximate differentia, or the differentia with a remote genus. Similarly, a complete description (rasm tāmm) uses a proximate genus and a property (khāṣṣa), while an incomplete description uses just a property or a property with a remote genus. The passage also warns against two errors: defining something by what is equally known or unknown (circularity), and using unfamiliar or ambiguous terms. This is crucial for avoiding logical fallacies in definition.
+
+Key Terms
+حد
+رسم
+خاصة
+جنس قريب
+فصل قريب
+
+Key Terms from Source Passage
+
+Checkpoint
+What makes a hadd nāqis incomplete?
+A) It lacks a differentia
+B) It uses a remote genus or only a differentia
+C) It uses a property instead of a differentia
+D) It is circular
+
+Key Takeaway
+The completeness of a definition depends on having a proximate genus; the type (hadd vs rasm) depends on whether the distinguishing feature is essential or not.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following definition: 'Al-Wuḍū' is the act of washing specific body parts with water.' It uses a proximate genus (act of washing) and a property (specific body parts) – but is 'specific body parts' a differentia or a property? It is a property because it does not reveal the essence of wuḍū' (which is purification). So it is rasm tāmm if the genus is proximate. Explain your classification.
+
+Pages p. 26 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 26
+Module 3 · Lesson 10
+Next →
+Hadd and Rasm
+beginner
+5 min
+Two Prohibitions in Definition: Circularity and Obscurity
+Author warns against circular definitions and obscure terms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify circular definitions and definitions using obscure terms, and correct them.
+
+Core Idea
+A definition must not be circular or use terms more obscure than the definiendum.
+
+Having laid out the types, the author adds two critical warnings. First, a definition must not rely on the very thing being defined or something equally unknown. Second, it must avoid unfamiliar terms. These are practical guidelines for anyone constructing or evaluating definitions in the Islamic sciences.
+
+Guided Path
+1
+Check for circularity
+Examine if the definiens uses the definiendum itself or a synonym. For example, defining 'al-nār (fire) as 'a hot substance' is fine because 'hot' is not synonymous. But defining 'al-ḥadath (ritual impurity) as 'a state of impurity that necessitates wuḍū'' might be circular if 'impurity' is not defined. The text says avoid defining by what equals it in knowledge and ignorance – meaning the definiendum and definiens are equally unknown, so no knowledge is gained.
+Circularity can be direct or through a chain.
+2
+Check for obscure terms
+Look at the vocabulary used in the definiens. Are any words unfamiliar to the intended audience? The text warns against 'alfāẓ gharība ghayr ẓāhira al-dalāla' – strange terms not clearly indicative. For instance, using a rare synonym for 'water' when defining 'ṭahāra' might confuse a beginner.
+The standard is relative to the questioner (السائل).
+3
+Apply the checks to a sample definition
+Take the definition: 'Al-Ṣalāt is the worship consisting of specific acts and words performed with humility.' Is there circularity? No. Are the terms 'acts', 'words', 'humility' clear? Yes. But if one said 'Al-Ṣalāt is the tawajjuh of the soul to the creator', 'tawajjuh' might be obscure to some.
+The goal is to increase understanding.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المعرف للشي هو الذي يستلزم تصوره تصور ذلك الشيء، ويسمى حدا تاما إن كان بجنس وفصل قريبين وحدا ناقصا إن كان بفصل قريب وحده، أو به وبجنس بعيد، ورسما تاما إن كان بجنس قريب وخاصة ورسما ناقصا إن كان بها فقط، أو بها وبجنس بعيد. ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة، وعن استعمال ألفاظ غريبة غير ظاهرة الدلالة بالقياس إلى السائل.
+The definer of a thing is that whose conception entails the conception of that thing. It is called a complete definition if it is by a proximate genus and differentia; an incomplete definition if by a proximate differentia alone, or by it and a remote genus; a complete description if by a proximate genus and a property; an incomplete description if by the property alone, or by it and a remote genus. And it is necessary to avoid defining a thing by what equals it in knowledge and ignorance, and to avoid using unfamiliar terms that are not clear in indication relative to the questioner.
+Source pages p. 26
+
+Commentary
+This passage defines what a definition (ta'rif) is and classifies its types into hadd (definition) and rasm (description), each subdivided into complete (tāmm) and incomplete (nāqis). The defining characteristic of a ta'rif is that it leads to the conception of the defined thing. A complete definition (hadd tāmm) consists of the proximate genus and proximate differentia. An incomplete definition (hadd nāqis) uses only the proximate differentia, or the differentia with a remote genus. Similarly, a complete description (rasm tāmm) uses a proximate genus and a property (khāṣṣa), while an incomplete description uses just a property or a property with a remote genus. The passage also warns against two errors: defining something by what is equally known or unknown (circularity), and using unfamiliar or ambiguous terms. This is crucial for avoiding logical fallacies in definition.
+
+Key Terms
+احتراز
+يساويه في المعرفة والجهالة
+ألفاظ غريبة
+السائل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is a valid reason to reject a definition?
+A) It uses a proximate genus
+B) It uses a familiar term
+C) It defines the thing by what is equally unknown
+D) It includes a property
+
+Key Takeaway
+A definition must be clearer than the definiendum and use commonly understood language.
+
+How This Lesson Applies — to MY Life?
+?
+The following definition of 'al-Ṣalāt' is given: 'prayer is the spiritual connection with Allah through prescribed movements and recitations.' Is there any issue? (Consider: 'spiritual connection' might be obscure to a layperson. Suggest a clearer alternative.)
+
+Pages p. 26 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 47
+Module 3 · Lesson 11
+Next →
+Hadd and Rasm
+intermediate
+10 min
+The Six Relations of Indication (al-Nisab al-Sitta)
+Author enumerates six relations among mutabaqa, tadammun, and iltizam.
+
+Learning Objective
+By the end of this lesson, you will be able to identify which of the three types of indication (mutabaqa, tadammun, iltizam) entail which others, and justify each relation using the conditions of wad' and simple/composite meanings.
+
+Core Idea
+The three indications form a logical hierarchy: tadammun and iltizam always entail mutabaqa, but mutabaqa stands alone.
+
+In the Mizan al-‘Adala, the author delves into the logical structure of indication (dalala). He clarifies that implicative indication (dalala iltizamiyya) does not require external existence—mental connection suffices. The heart of the passage is the systematic enumeration of six possible entailment relations among mutabaqa, tadammun, and iltizam. Understanding these relations is essential for analyzing definitions and arguments in Islamic logic, particularly in usul al-fiqh where the scope of a term's meaning determines legal interpretation.
+
+Guided Path
+1
+Identify the three types of indication
+Recall the definitions: mutabaqa (word signifies entire meaning), tadammun (word signifies a part of meaning), iltizam (word signifies something necessarily implied by the meaning).
+2
+Understand the condition for entailment
+The author argues that both tadammun and iltizam involve conventional assignment (wad'), which itself entails mutabaqa. Therefore, tadammun and iltizam both entail mutabaqa.
+This is the first relation.
+3
+Check mutabaqa's entailment of tadammun
+Mutabaqa does not entail tadammun because simple meanings (like 'point') have no parts. Tadammun requires a composite meaning.
+Second relation: mutabaqa does not entail tadammun.
+4
+Check mutabaqa's entailment of iltizam
+Mutabaqa does not necessarily entail iltizam, unless the signified always has a necessary concomitant. The author discusses the Imam's view that every quiddity has a concomitant (e.g., 'not being other'), but the standard response restricts it to the more specific sense.
+Third relation: mutabaqa does not entail iltizam in the strict sense.
+5
+Examine tadammun and iltizam
+There is no mutual entailment between tadammun and iltizam. A composite meaning may lack a necessary concomitant, and a simple meaning may have one that is understood only after understanding the meaning.
+Remaining three relations are negative: tadammun does not entail iltizam, iltizam does not entail tadammun.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المتأخرين، وهو متحقق بين الإنسان وقابل العلم كذا قالوا ، والأولى أن يقال: كدلالة العمى على البصر، وقد يقال : الأولى أن يقال كدلالة الاثنين على الزوجية.
+ولا يشترط في الدلالة الالتزامية اللزوم الخارجي؛ لتحقق الدلالة الالتزامية بدون اللزوم الخارجي كما في العمى وقيل بين اللزوم الذهني والخارجي عموم وخصوص من وجه؛ لاجتماعهما في الزوجية والاثنين وافتراق الذهني عن الخارجي في البصر للعمى، وافتراق الخارجي عن الذهني في خواص النباتات المخفية على أكثر البريات، التي لا تظهر إلا بعد التجارب الكثيرة مع إمعان النظر.
+والنسب بين الدلالات الثلاث باللزوم وعدمه باعتبار مقايسة كل منها إلى الآخر منحصرة في ستة، فالتضمن والالتزام يستلزمان المطابقة لأنهما يستلزمان الوضع، وهو مستلزم للمطابقة، فيستلزمان المطابقة، وهو ظاهر.
+والمطابقة لا تستلزم التضمن؛ لأنه قد يكون اللفظ موضوعا لمعنى بسيط كالنقطة، فهو يدل عليها بالمطابقة ولا تضمن ولا تستلزم الالتزام أيضا الجواز ألا يكون للمسمى لازم بين بالمعنى الأخص وحينئذ يتحقق المطابقة لا الالتزام وأيضا لو كانت المطابقة مستلزمة للالتزام لكان كلما تعقلنا شيئا تعقلنا معه شيئا آخر، وليس كذلك؛ ضرورة أنا نتصور كثيرا من الأشياء مع الذهول عن سائر أغياره والإمام قال به؛ لأن لكل ماهية لازما بينا، وأقله أنها ليست غيرها وأجيب بأن كون المعنى ليس غيره لازم بين بالمعنى الأعم، والمعتبر في الدلالة هو المعنى الأخص ، وأنت خبير بأن المعتبر عند الإمام هو المعنى الأعم لا الأخص، فيكون المطابقة مستلزمة للالتزام عنده.
+وأما التضمن والالتزام فلا تلازم بينهما ؛ لأنه يجوز أن لا يكون للمسمى المركب لازم، فينفك التضمن عن الالتزام وكذا يجوز أن يكون المسمى البسيط ملزوما لما يلزم من فهمه فهمه، فينفك الالتزام عن التضمن.
+The later scholars, and it is realized between man and the object of knowledge, as they said. And it is better to say: like the indication of blindness of sight. And it is sometimes said: it is better to say like the indication of two on evenness. And external implication is not required in implicative indication, because implicative indication is realized without external implication, as in blindness. And it is said that between mental implication and external implication there is general and specific from one aspect; because they coincide in evenness and two, and mental differs from external in sight for blindness, and external differs from mental in the hidden properties of plants, hidden from most creatures, which do not appear except after many experiments with careful consideration. And the relations among the three indications, in terms of implication and its absence, considering each to the other, are limited to six. So tadammun and iltizam both entail mutabaqa because they entail wad', and wad' entails mutabaqa, so they entail mutabaqa. And that is apparent. And mutabaqa does not entail tadammun, because sometimes a word is placed for a simple meaning, like a point, so it indicates it by mutabaqa, not tadammun. And it also does not entail iltizam, because it is possible that the signified has no necessary concomitant in the more specific sense. Then mutabaqa occurs without iltizam. And also, if mutabaqa entailed iltizam, then whenever we conceive something we would conceive something else with it, and that is not the case, necessarily, since we conceive many things while being heedless of all their others. And the Imam held this; because every quiddity has a necessary concomitant, the least of which is that it is not other than itself. And it was answered that the meaning not being other than itself is a necessary concomitant in the more general sense, and what is considered in indication is the more specific sense. And you are aware that what the Imam considers is the more general sense, not the more specific, so according to him mutabaqa entails iltizam. As for tadammun and iltizam, there is no entailment between them, because it is possible for a composite signified to have no necessary concomitant, so tadammun separates from iltizam. And similarly, it is possible for a simple signified to be that which necessitates understanding something else from understanding it, so iltizam separates from tadammun.
+Source pages p. 47
+
+Commentary
+This passage discusses implicative indication (dalala iltizamiyya) and the logical relations among the three types of indication: mutabaqa (conformity), tadammun (containment), and iltizam (implication). The author begins by noting that external implication (al-luzum al-khariji) is not a condition for implicative indication, as seen in the example of blindness indicating sight, where the connection is mental rather than external. He then clarifies that mental and external implication overlap in cases like evenness and two, but diverge in other cases. Next, the author enumerates the six possible relations among the three types, focusing on entailment. Tadammun and iltizam both entail mutabaqa because they imply conventional placement (wad'), which entails mutabaqa. Mutabaqa does not entail tadammun, as shown by simple terms like 'point' which have no parts. Similarly, mutabaqa does not entail iltizam unless the signified necessarily implies another meaning; the author cites the Imam (al-Ghazali?) who argued that every quiddity has a necessary concomitant, but the general response restricts it to the more specific sense. Finally, tadammun and iltizam do not entail each other, as a composite may lack a necessary concomitant, while a simple may have one that is understood only from understanding it.
+
+Key Terms
+الدلالة الالتزامية
+اللزوم الخارجي
+المطابقة
+التضمن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is true about the relations among the three types of indication?
+A) Mutabaqa entails both tadammun and iltizam.
+B) Tadammun and iltizam both entail mutabaqa.
+C) Tadammun entails iltizam.
+D) Iltizam entails tadammun.
+
+Key Takeaway
+Of the six possible entailment relations among the three indications, only tadammun→mutabaqa and iltizam→mutabaqa hold; the others are denied.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the term 'ghasal' (washing) in fiqh. Does its mutabaqa meaning entail tadammun? Explain using the example of 'point' from the passage: if 'ghasal' has parts (e.g., rubbing), then mutabaqa might entail tadammun, but if considered simple, it would not. Determine which view aligns with the author's criteria.
+?
+Draw a diagram with three circles labeled mutabaqa, tadammun, and iltizam. Mark one-way arrows for entailments that the author confirms: arrow from tadammun to mutabaqa, from iltizam to mutabaqa. Mark crossed-out arrows for the relations that are denied: mutabaqa → tadammun, mutabaqa → iltizam (in the specific sense), tadammun ↔ iltizam.
+
+Pages p. 47 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 48
+Module 3 · Lesson 12
+Next →
+Hadd and Rasm
+intermediate
+7 min
+Distinguishing the Compound Word (Murakkab) from the Singular
+Author defines compound expression (murakkab) with conditions and exclusions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a given lafz is murakkab or mufrad by testing if its part indicates part of its meaning intentionally.
+
+Core Idea
+A compound word is not just any phrase—its parts must intentionally indicate parts of its meaning.
+
+The logician divides words into singular (mufrad) and compound (murakkab) because compound words serve as building blocks for propositions. The definition of murakkab is precise: a word whose part, when intended, indicates part of its meaning according to linguistic convention. This lesson will walk you through that definition and its exclusions.
+
+Guided Path
+1
+Locate the definition
+Find the statement where the author defines 'murakkab'. It begins with 'واللفظ الدال بالمطابقة' and ends with 'دلالة على جزء معناه حينما يقصد به'. Note that the definition is embedded within a conditional structure ('إن قصد...').
+The definition hinges on intentionality and part-whole correspondence.
+2
+Identify the conditions
+Break down the definition into four conditions: (1) the word must have a part, (2) that part must indicate (dilala) a meaning, (3) that meaning must be part of the intended meaning, and (4) the indication must be intended (maqsuda). These conditions collectively define murakkab.
+3
+Examine the four exclusions
+The author lists four types of words that fail the definition: (a) words with no part (e.g., the letter 'ب' as a proper name), (b) words whose part does not indicate anything (e.g., 'Zayd'), (c) words whose part indicates a meaning not part of the intended meaning (e.g., 'Abd Allah as a proper name), and (d) words whose part indicates part of the intended meaning but the indication is not intended (e.g., 'rational animal' as a proper name). Understand why each fails.
+4
+Apply the definition to new examples
+Test additional examples from theology or jurisprudence: e.g., 'صلاة' (prayer) – singular; 'الصلوات الخمس' (the five prayers) – compound; 'خلق الله' (creation of God) – compound because 'خلق' indicates part of the meaning when intended. Use the conditions to justify your classification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولما كان نظر المنطقي في الألفاظ من حيث إنها دلائل طرق الانتقال، مركبة من مفردات أراد البحث عن الألفاظ الدالة على طرق الانتقال، وعن الألفاظ المفردة الدالة على أجزائه، فشرع في تقسيم اللفظ إلى المركب والمفرد وقدم المركب؛ لكونه وجوديا
+فقال:
+اتقسيم اللفظ لمفرد ومركب]
+واللفظ الدال بالمطابقة أي مطلقا أو نقول: قيَّد بالمطابقة لأصالتها (إن قصد) أي: إن كان بحيث يقصد (بجزئه) المرتب المسموع حقيقة أو تقديرا قصدا جاريا على قانون اللغة (دلالة على جزء معناه حينما يقصد به فلا بد أن يكون للفظ جزء، ولذلك الجزء دلالة على المعنى، وذلك المعنى بعض المعنى المقصود، ودلالة الجزء على بعض المعنى المقصود مقصودة، كرامي الحجارة، فيخرج عن الحد ما لا يكون له جزء كـ«ب» إذا جعل علما، أو يكون له جزء لكن لا يدل على شيء كزيد، وما له جزء دال على معنى(۱)، لكن لا على جزء المعنى المقصود كعبد الله إذا جعل علما لشخص، وما يكون له جزء دال على جزء معناه المقصود، لكن لا يكون دلالته على جزء المعنى المقصود مقصودة كالحيوان الناطق إذا جعل علما لشخص إنساني، فعبد الله وحيوان ناطق علمين كزيد باعتبار معناهما العلمي في عدم قصد دلالة لفظه على جزء معناه العلمي.
+جزء
+والفرق بينهما : أن المعنى التركيبي في الحيوان الناطق جزء معناه العلمي، فإنه عبارة عن المعنى التركيبي والتشخص، فإذا دل جزء اللفظ باعتبار الوضع التركيبي على جزء المعنى فدلالته عليه دلالة على جزء المعنى العلمي المقصود؛ لأن جزء الجزء جزء، والمعنى التركيبي في عبد الله ليس بجزء من المعنى العلمى الذي هو الشخص الإنساني؛ لأن العبودية والألوهية
+And since the logician's consideration of words is insofar as they are indicators of the modes of transition, composed of singulars, he intended to research words indicating the modes of transition, and singular words indicating their parts. So he began to divide the word into compound and singular, and he presented the compound because it is existential. He said: [Division of the word into singular and compound] And the word indicating by mutabaqa, i.e., absolutely, or we say: it was restricted to mutabaqa because of its originality. (If intended), i.e., if it is such that it is intended by its part, the ordered audible, truly or estimatively, an intention following the law of language, (indication of part of its meaning when it is intended by it). So necessarily the word has a part, and that part has indication of the meaning, and that meaning is some of the intended meaning, and the indication of the part on some of the intended meaning is intended, like 'thrower of stones'. So there is excluded from the definition what has no part, like 'ب' if made a proper name, or what has a part but does not indicate anything, like Zayd, and what has a part indicating a meaning, but not on part of the intended meaning, like 'Abd Allah if made a proper name for a person, and what has a part indicating part of its intended meaning, but its indication of part of the intended meaning is not intended, like 'rational animal' if made a proper name for a human person. So 'Abd Allah and 'rational animal' are proper names like Zayd in consideration of their proper-name meaning in not intending the indication of their word on part of their proper-name meaning. Part. And the difference between them is that the compositional meaning in 'rational animal' is part of its proper-name meaning, for it consists of the compositional meaning and individuation. So if the part of the word indicates, by virtue of the compositional placement, part of the meaning, then its indication of it is indication of part of the intended proper-name meaning, because the part of a part is a part. And the compositional meaning in 'Abd Allah is not part of the proper-name meaning which is the human person, because 'ubudiyya and uluhiyya...
+Source pages p. 48
+
+Commentary
+This passage defines the division of lafz (word) into mufrad (singular) and murakkab (compound). The author begins by explaining why the logician considers words: as indicators of modes of transition (propositions) composed of singulars. Therefore, the division starts with the compound because it exists. The definition of compound is given with conditions: a word that, when intended, its part indicates part of its meaning. This indication must be intended according to linguistic convention. Several exclusions are listed: words with no part (like the letter 'ب' as a proper name), words with a part that does not indicate anything (like 'Zayd' as a proper name), words whose part indicates a meaning but not part of the intended meaning (like 'Abd Allah as a proper name), and words whose part does indicate part of the intended meaning but the indication is not intended (like 'rational animal' as a proper name). The author then distinguishes between 'Abd Allah and 'rational animal' as proper names: in 'rational animal', the compositional meaning is part of the proper-name meaning, so indicating it is indicating part of the intended meaning, but in 'Abd Allah the compositional meaning is not part of the intended meaning (the person). The passage ends mid-sentence when discussing 'ubudiyya and uluhiyya.
+
+Key Terms
+مركب
+مفرد
+المطابقة
+جزء المعنى
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a murakkab (compound) word according to the passage?
+A) 'Abd Allah as a proper name
+B) Zayd as a proper name
+C) 'Thrower of stones' (rami al-hijara) as a descriptive phrase
+D) The letter 'ب' as a proper name
+
+Key Takeaway
+The compound word is defined by the intentional indication of its part on part of its meaning, not merely by having multiple parts.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following as mufrad or murakkab according to the passage's definition: (a) 'الصلاة' (prayer) as a proper name for the ritual (b) 'ركوع السجود' (bowing and prostration) as a description (c) 'رب العالمين' (Lord of the worlds) as a title for Allah. Justify each classification using the conditions.
+?
+Explain why 'عبد الله' as a proper name for a person is not considered murakkab, even though it has two parts, referencing the passage's discussion.
+
+Pages p. 48 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 62
+Module 3 · Lesson 13
+Next →
+Hadd and Rasm
+intermediate
+5 min
+Defending the Wording 'ala al-Shay' in Defining Fasl
+Author defends the wording 'ala al-shay' against an objection.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why al-Taftazani used 'ala al-shay' instead of alternatives and refute a common objection by distinguishing between real restriction and inclusive extension.
+
+Core Idea
+The wording 'ala al-shay' broadens the definition to include both proximate and remote differentiae.
+
+In defining 'fasl' (differentia), choosing the right wording is crucial. Al-Taftazani's use of 'ala al-shay' ('on the thing') was intentional to cover both al-fasl al-qarib (proximate) and al-fasl al-ba'id (remote). An unskilled critic objected that 'ala al-naw' would also suffice, but the author refutes this by clarifying that the original phrase from the five universals would have excluded the remote differentia. This lesson walks through the dialectical exchange to understand the logical precision required in Islamic definitions.
+
+Guided Path
+1
+Identify al-Taftazani's original justification
+Read al-Taftazani's statement: 'He only said "on the thing" to include the two that agree in reality (proximate) and the two that differ in reality (remote).' Recognize that the wording is meant to be inclusive of both types of differentiae.
+2
+Recognize the critic's misunderstanding
+The critic claims that using 'true of the species' would also cover both, because in answering 'what thing is man?', one could say 'rational' (proximate) or 'sentient' (remote). Note that the critic overlooks the fact that the original definition of fasl is based on the five universals, which says 'true of many agreeing in reality'—that would exclude the remote differentia.
+3
+Analyze the author's defense
+The author retorts that al-Taftazani's intention is not to restrict but to include. If the definition had said 'true of many agreeing in reality', the remote differentia (which differs in reality) would be excluded. Therefore, 'on the thing' is a deliberate widening.
+4
+Distinguish between real restriction and inclusive extension
+The critic mistakenly thought 'ala al-shay' was a 'qasr haqiqi' (real restriction). The author clarifies it is not; it is simply a more general phrase that covers both cases. Understand that precision in wording is about capturing all intended instances, not about artificial restriction.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قال العلامة سعد الملة والدين التفتازاني قدس الله سره العزيز: "إنما قال: على الشيء ليشمل المتفقة الحقيقة كالفصل القريب والمختلفة الحقيقة كالفصل البعيد". وبعض من لا مهارة له في هذا الفن ولم يطلع على مراد العلامة قال: فيه بحث؛ لأنه لو قال: صادق على النوع مثلا لكان شاملا لهما أيضا؛ لأنه إذا سئل الإنسان أي شيء هو في حقيقته؟ يجوز أن يقال في جوابه: الناطق، متفقة الحقيقة ويجوز أن يقال في جوابه الحساس، وهو مختلفة الحقيقة". وهو أقول: مراد العلامة قدس الله سره : إنما قال على الشيء ولم يقل على كثيرين متفقين بالحقيقة...الخ مع أن الفصل كذلك كالناطق، فإنه مقول على كثيرين متفقين بالحقيقة؛ لأنه لو قال: صادق على كثيرين متفقين بالحقيقة ... الخ لم يشمل الفصل البعيد، فقال: على الشيء؛ ليشمل الفصلين، ولم يُرِد أن الاشتمال لا يحصل إلا بذكر الشيء دون مـا عـداه على طريق القصر الحقيقي كما زعم الباحث.
+The sage Sa'd al-Milla wa al-Din al-Taftazani (may Allah sanctify his noble soul) said: "He only said 'on the thing' to include the two that agree in reality, like the proximate differentia, and the two that differ in reality, like the remote differentia." And someone unskilled in this art who did not consult the intention of the sage said: "There is an investigation in it; because if he had said 'true of the species' for example, it would have included both as well, because when man is asked 'what thing is he in his reality?' it is permissible to say in answer: 'rational,' agreeing in reality, and it is permissible to say in answer: 'sentient,' which differs in reality." And he said: "I say: The intention of the sage (may Allah sanctify his soul) is that he only said 'on the thing' and did not say 'on many agreeing in reality'... although the differentia is like that, e.g., 'rational' is predicated of many agreeing in reality; because if he had said 'true of many agreeing in reality'... it would not have included the remote differentia. So he said 'on the thing' to include both differentiae, and he did not intend that inclusion is only attained by mentioning 'thing' to the exclusion of what else is besides it in the way of real restriction, as the investigator claimed."
+Source pages p. 62
+
+Commentary
+This passage is a dialectical exchange. Al-Taftazani first explains why the definition of 'fasl' uses 'ala al-shay' rather than 'ala al-naw' or similar: it covers both proximate and remote differentiae, which agree and differ in reality respectively. Then an objection is raised: using 'ala al-naw' would also cover both because in answering 'what thing is he?' one could say 'rational' (proximate) or 'sentient' (remote). The author retorts that the critic missed the point: the definition originally said 'sadiq 'ala kathirin muttafiqin bil-haqiqah' from the definition of five universals, which would exclude the remote differentia. By using 'ala al-shay', it includes both. The author clarifies that al-Taftazani did not intend a real restriction but merely to include.
+
+Key Terms
+الفصل
+قصر حقيقي
+
+Key Terms from Source Passage
+
+Checkpoint
+Why did al-Taftazani use 'ala al-shay' instead of 'ala al-naw' in defining fasl?
+A) To include only the proximate differentia
+B) To include only the remote differentia
+C) To include both proximate and remote differentiae
+D) To exclude the species itself
+
+Key Takeaway
+Precision in wording definitions is essential: a seemingly specific term can be inclusive, and critics must understand the author's intention before proposing alternatives.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: An objector claims that in defining 'fasl' one could simply say 'true of the species' instead of 'true of the thing'. Using the method from this passage, write a response that shows why the objector's alternative fails to include remote differentiae.
+?
+Task 2: In usul al-fiqh, the definition of 'qiyas' (analogical reasoning) often includes the phrase 'illa illa' to cover both manifest and hidden causes. Explain how a similar inclusive strategy is used and what would be missed if a narrower wording were adopted.
+
+Pages p. 62 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 70
+Module 3 · Lesson 14
+Next →
+Hadd and Rasm
+intermediate
+5 min
+Grades of Relative Species: The Basic Distinction
+Author introduces the four grades of relative species and begins to explain them.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between a real species and a relative species and explain why the real species cannot have grades.
+
+Core Idea
+Only relative species have grades; real species would become a genus if graded.
+
+In this lesson, we examine the author's introduction to the grades (maratib) of the relative species (al-naw' al-idhafi). The author clarifies a crucial point: the real species (al-naw' al-haqiqi) does not have grades, because if it did, it would become a genus. This distinction is foundational for understanding the Porphyrian tree in the Islamic logical tradition.
+
+Guided Path
+1
+Identify the two types of species
+Find in the Arabic the terms 'relative species' (النوع الإضافي) and 'real species' (النوع الحقيقي). Note that the author is contrasting them.
+The relative species is a species in relation to a genus above it, while the real species is the lowest in a chain without further division.
+2
+Understand why real species has no grades
+Read the author's argument: if the real species had grades, it would necessitate that it be a genus. Why? Because grades imply a hierarchy, and the real species is by definition the last species in its line.
+This is a logical consequence, not a mere assertion.
+3
+Recognize the beginning of the four grades
+The author says 'أربع' (four) and starts explaining the first condition: the relative species is either included in the chain... The passage cuts off, but the point is that the author is setting up a classification.
+The incomplete nature indicates that the full enumeration appears in the next section.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولما فرغ من بيان معنى النوع الإضافي شرع في مراتبه فقال: (ومراتبه) أي: مراتب النوع الإضافي بالنسبة إلى النوع الإضافي، وأما النوع الحقيقي فلا يترتب وإلا يلزم أن يكون النوع الحقيقي جنسا وهو باطل. (أربع؛ لأنه :أي: لأن النوع الإضافي لا يخلو إما أن يكون داخلا في سلسلة الأنواع الإضافية الحاصلة من ترتب بعض أفرادها على بعض بحسب الصدق وحينئذ إما أن يكون
+And when he finished explaining the meaning of the relative species, he began on its grades and said: (And its grades) i.e., the grades of the relative species in relation to the relative species. As for the real species, it does not have grades; otherwise it would necessitate that the real species be a genus, which is false. (Four; because i.e., because the relative species is either included in the chain of relative species resulting from the ordering of some of its individuals over others in terms of truth, and then it is either...
+Source pages p. 70
+
+Commentary
+This passage begins a discussion on the grades of the relative species. The author notes that only the relative species has grades, not the real species, because if the real species had grades it would become a genus. The relative species can be ordered in a chain of predication. The text then starts enumerating the four possibilities but cuts off. The incomplete part presumably lists the four types. This is a definitional passage setting up a classification.
+
+Key Terms
+مراتب النوع الإضافي
+النوع الحقيقي
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the real species not have grades according to the author?
+A) Because it is too simple.
+B) Because having grades would make it a genus.
+C) Because it is not a relative species.
+D) Because it is not predicated in answer to 'what is it'.
+
+Key Takeaway
+The relative species has grades, but the real species does not; attempting to grade a real species would turn it into a genus.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the term 'human' (insan) as a species. Is it a real species or a relative species? Explain your reasoning using the distinction from this lesson.
+?
+In a fiqh analogy, identify which terms are relative species (e.g., 'intoxicant' as a genus relative to 'wine') and which are real species (e.g., 'wine' itself if it has no further subdivisions under the category of intoxicants).
+
+Pages p. 70 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 72
+Module 3 · Lesson 15
+Next →
+Hadd and Rasm
+intermediate
+5 min
+Defining the Definer and Avoiding Infinite Regress
+Author defines 'definition' and defends against infinite regress and circularity.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the logical arguments for defining the definer and evaluate the force of the infinite regress and identity objections in Islamic logic.
+
+Core Idea
+Conceptual regress terminates with consideration; identity in conceptual matters is real.
+
+This lesson tackles a foundational controversy: can the concept of 'definition' itself be defined? The author presents his preferred definition, defends it against the charge of infinite regress, and uses the example of existence to show that in conceptual matters, identity is coherent. You will learn to parse the logical structure of this debate and see how it applies to defining foundational terms in Islamic sciences.
+
+Guided Path
+1
+Identify the author's definition of 'definition'
+Find the sentence that states what a definer (المعرف) is. Note that it requires conception (تصور) either by essence or aspect, and that distinction from everything else is not required.
+2
+Locate the objection against defining the definer
+Some scholars argue that defining the definer is impossible because it leads to infinite regress (تسلسل). Find where this objection is introduced.
+3
+Examine the two responses to the objection
+The author gives two answers. First: infinite regress does not occur in conceptual matters (أمور اعتبارية) because it ends when consideration ends. Second: the definer of the definer is identical to the definer itself, like 'existence of existence'.
+The second response uses the notion of identity (عينية) in conceptual matters.
+4
+Analyze the counter-objection and reply
+An objector says identity is impossible because there must be a difference between a relation and its relatum. The author replies that this necessity applies only to external matters; in conceptual matters, unification is valid.
+5
+Reflect on the example of existence
+The author uses 'the existence of existence' (وجود الوجود) to illustrate identity in conceptual matters. Consider why existence is considered conceptual and how this supports the main argument.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في التعريفات المعرف للشيء هو الذي يستلزم تصوره بطريق النظر والاكتساب (تصور ذلك الشيء) إما بالكنه أو بوجه ما، سواء كان مع التصور بالوجه الامتياز عن جميع ما عداه أو عن بعض ما عداه، ولا يجب الامتياز عن جميع ما عداه، وهو مختار المتقدمين، وهو الصواب. وذهب جماعة إلى أنه لا يجوز تعريف المعرف، وإلا يلزم التسلسل، والجواب: أن التسلسل في الأمور الاعتبارية غير متحقق؛ لانقطاعه بانقطاع الاعتبار، أو يقال: إن معرف المعرّف عينه كوجود الوجود، قيل عليه : إن العينية ممنوعة؛ ضرورة ثبوت التغاير بين المضاف والمضاف إليه، وأجيب عنه بأن كون التغاير ضروريا إنما هو في الأمور الخارجية، وأما في الأمور الاعتبارية فيصح الاتحاد بحسب الواقع، والوجود من الأمور الاعتبارية، فيكون وجود الوجود عين الوجود بحسب الواقع، وعلى هذا حد الحد.
+Section on Definitions: The definer of something is that which necessitates its conception through the path of reflection and acquisition, that conception being either by the essence or by some aspect, whether that conception includes distinction from everything else or from some things other than it, and distinction from everything else is not obligatory. This is the choice of the early scholars, and it is correct. A group held that it is not permissible to define the definer, otherwise circularity would occur. The answer is that circularity in conceptual matters is not realized because it ends when the consideration ends. Or it is said that the definer of the definer is identical to it, like the existence of existence. It was objected that identity is prevented because of the necessary difference between the relative and its relatum. It was answered that the necessity of difference is only in external matters, but in conceptual matters, unification is valid in reality, and existence is among conceptual matters, so the existence of existence is identical to existence in reality. And upon this is the definition of definition.
+Source pages p. 72
+
+Commentary
+This passage defines the term 'definition' (المعرف) and addresses a controversy about whether the definer itself can be defined. The author first gives his definition: a definer is anything that yields a conception (تصور) of the object, either by its essence (الكنه) or by some aspect (بوجه ما), and importantly, it need not distinguish the object from everything else—only from some things. This is the position of the early scholars (المتقدمين) and is deemed correct. Then he presents a counter-argument: some say that defining the definer is impossible because it leads to infinite regress (تسلسل). The author provides two responses. First, infinite regress does not occur in conceptual matters (الأمور الاعتبارية) because the regress terminates when the consideration terminates. Second, one may say that the definer of the definer is identical to the definer itself, analogous to 'the existence of existence' (وجود الوجود), which is identical to existence. An objection is raised that identity is impossible because there is a necessary distinction between the relative (المضاف) and its relatum (المضاف إليه). The author answers that this necessary distinction applies only to external (خارجية) matters, but in conceptual matters, unification is real—existence is conceptual, so 'existence of existence' is identical to existence. Thus the definition of 'definition' (حد الحد) is established. The discussion uses the example of existence, a key concept in Islamic philosophy and theology.
+
+Key Terms
+المعرف
+التسلسل
+الأمور الاعتبارية
+العينية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is the correct view on defining the definer?
+A) It is impossible due to infinite regress.
+B) It is possible only through the essence.
+C) It is possible in conceptual matters because circularity is not real.
+D) It is impossible because of necessary difference between relative and relatum.
+
+Key Takeaway
+Definitions of foundational concepts are possible in conceptual matters because the chain of definitions terminates with mental consideration.
+
+How This Lesson Applies — to MY Life?
+?
+Write a definition of 'haram' that does not lead to infinite regress. Use the conceptual identity approach to justify your definition.
+?
+In a debate, someone claims that defining 'ibadah' is impossible because any definition would require another definition. Construct a response using the two arguments from this lesson (termination in conceptual matters and identity of definer).
+
+Pages p. 72 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 73
+Module 3 · Lesson 16
+Next →
+Hadd and Rasm
+intermediate
+10 min
+Classifying Definitions: Hadd and Rasm
+Author divides definition into hadd and rasm, each into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given definition as hadd or rasm and as tamm or naqis by identifying its components (genus, differentia, property).
+
+Core Idea
+Definitions are either essential (hadd) or descriptive (rasm); each is judged complete if it includes the right components.
+
+In Islamic logic, precision begins with definition. This passage dissects the types of definition—essential (hadd) and descriptive (rasm)—and their completeness. By understanding this classification, you will be able to evaluate definitions in fiqh, kalam, and usul, ensuring they capture essence or distinguishing marks correctly.
+
+Guided Path
+1
+Identify the definiendum
+Find the term being defined in the passage. In the examples, it is 'human' (al-insan).
+The definiendum is the thing whose definition is being given.
+2
+Extract the components
+List the components mentioned: do they include a genus (jins), a differentia (fasl), or a property (khassa)? For 'rational animal', genus is 'animal' (hayawan), differentia is 'rational' (natiq).
+Proximate (qarib) means immediately above; remote (ba'id) means further up the hierarchy.
+3
+Determine completeness rules
+A complete hadd requires both proximate genus and proximate differentia. An incomplete hadd lacks some essential part (e.g., only differentia). A complete rasm uses proximate genus plus property; an incomplete rasm uses property alone or with a general accident.
+The passage also discusses coextensive terms and objections about predication.
+4
+Classify the definition
+Based on the components and rules, decide: if proximate genus and differentia present → hadd tamm; if only differentia → hadd naqis; if proximate genus and property → rasm tamm; if only property → rasm naqis.
+Check the source examples for each type.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فقال: ثم شرع في تقسيم المعرّف إلى الحد ،والرسم وكل واحد منهما إلى التام والناقص، (ويسمى) أي: المعرّف (حدا) ؛ لكونه مانعا عن دخول الأغيار (تاما)؛ لاشتماله على جميع الذاتيات (إن كان بجنس وفصل قريبين مع تقديم ) الجنس على الفصل، كالحيوان الناطق في تعريف الإنسان أو بأمرين متساويين أو أمور متساوية، والمصنف لم يذكره؛ لعدم تحققه. إن قيل: هذا يقتضي جزئية كل منهما للمركب، والجزء لا يحمل على الكل، والجنس والفصل محمولان على النوع، قلنا: إن الجنس والفصل باعتبار الجزئية غير محمول، وباعتبار محموليتهما ليسا بجزئين. (و) يسمى (حدا)؛ لما ذكرناه (ناقصا)؛ لخلوه عن بعض الذاتيات (إن كان بفصل قريب وحده كقولنا في تعريف الإنسان ناطق (أو) (به أي بفصل قريب وبجنس بعيد كقولنا في تعريف الإنسان جسم ناطق، وكلما كان الجنس أبعد كان التعريف في النقصان أدخل، أو به وبخارجي، والمصنف لم يذكره؛ لأنه عُلِم ،دلالةً، وقيل: إنما لم يذكره؛ لكونه غير معتبر؛ لأن العرض العام مع الفصل القريب لا يفيد الامتياز ولا الاطلاع على الذاتي، وكذا مع الفصل؛ لأن الامتياز حاصل بالفصل، وفيه نظر، أو بـه وبفصـل بعيـد، ولم يذكره ؛ لأنه بمنزلة الجنس البعيد. (و) يسمى (رسما)؛ لكونه تعريفا بالخاصة التي هي أثر الشيء (تاما)؛ لمشابهته للحد التام في وضع الجنس القريب ثم تقييده بما يخصص الماهية (إن كان بجنس قريب وخاصة) كقولنا في تعريف الإنسان حيوان ضاحك، (و) يسمى (رسما) ؛ لما ذكرناه (ناقصـا)؛ لنقصان أجزائه بالنسبة إلى الرسم التام ( إن كان) التعريف (بها) أي: بالخاصة فقط نحو الإنسان ضاحك، أو بها وبعرض عام، ولم يذكره المصنف؛ لما مر نحو: الإنسان ماش ضاحك، والتعريف بالمثال تعريف بالمشابهة المختصة به فيكون رسما أيضا ، أو بها وبفصل بعيد ولم يذكره؛ لما
+He said: Then he began to divide the definition into hadd and rasm, and each of them into complete and incomplete. (It is called) i.e., the definition (a hadd) because it prevents the entry of others, (complete) because it includes all the essential parts, (if it is by a proximate genus and proximate differentia with the genus preceding the differentia, like 'rational animal' in defining human, or by two coextensive things or coextensive things, and the author did not mention it because it does not actually occur. If it is said: This implies that each of them is a part of the composite, and a part is not predicated of the whole, while the genus and differentia are predicated of the species, we say: The genus and differentia in terms of being parts are not predicated, and in terms of their predicability they are not parts. (And) it is called (a hadd) for what we mentioned (incomplete) because it lacks some essential parts (if it is by a proximate differentia alone, like our saying in defining human 'rational,' or (by it) i.e., by a proximate differentia and a remote genus, like our saying in defining human 'rational body,' and the more remote the genus, the more deficient the definition becomes, or by it and an extrinsic [accident], and the author did not mention it because it is known by implication, and it is said: He did not mention it because it is not considered valid, for the general accident with the proximate differentia does not confer distinction nor insight into the essential, and likewise with the differentia because distinction is achieved by the differentia, and there is a view to the contrary, or by it and a remote differentia, and he did not mention it because it is like the remote genus. (And) it is called (a rasm) because it is a definition by the property which is the effect of the thing, (complete) because it resembles the complete hadd in placing the proximate genus and then restricting it with what specifies the essence (if it is by a proximate genus and a property), like our saying in defining human 'laughing animal,' (and) it is called (a rasm) for what we mentioned (incomplete) because of the deficiency of its parts relative to the complete rasm (if) the definition (is by it) i.e., by the property alone, like 'human is laughing,' or by it and a general accident, and the author did not mention it for the reason passed, like 'human is walking laughing,' and definition by example is a definition by a resemblance specific to it, so it is also a rasm, or by it and a remote differentia, and he did not mention it because...
+Source pages p. 73
+
+Commentary
+This passage classifies definitions (ta'rif) into two main types: essential definition (hadd) and descriptive definition (rasm), each further divided into complete (tamm) and incomplete (naqis). The author, commenting on an earlier text (likely al-Mizan), explains the criteria for each. A complete hadd must include the proximate genus and proximate differentia, with the genus first, as in 'rational animal' for human. It can also be by coextensive terms, but this is rare. The text then addresses an objection: if genus and differentia are parts of the definition, they cannot be predicated of the defined term, but the answer is that they are not considered parts from the perspective of predication. An incomplete hadd lacks some essential parts; it can be by the proximate differentia alone (e.g., 'rational' for human), or by a proximate differentia with a remote genus (e.g., 'rational body'), which is even more deficient. Using a general accident ('arad 'amm) with a proximate differentia is considered invalid because it does not add distinction. A complete rasm uses proximate genus and a specific property (khassa), like 'laughing animal' for human. An incomplete rasm is by the property alone (e.g., 'laughing') or with a general accident (e.g., 'walking laughing'), which the author did not mention for similar reasons. The classification emphasizes that definition must capture the essence or a distinguishing mark.
+
+Key Terms
+حد
+رسم
+جنس
+فصل
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a complete essential definition (hadd tamm) according to the passage?
+A) al-insanu hayawanun natiqun (Human is a rational animal)
+B) al-insanu natiqun (Human is rational)
+C) al-insanu dahikun (Human is laughing)
+D) al-insanu jismun natiqun (Human is a rational body)
+
+Key Takeaway
+The classification of definitions into hadd/rasm and tamm/naqis depends on the presence and proximity of genus, differentia, and property.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following definition: 'al-khamru sharabun muskirun' (wine is an intoxicating beverage). Identify whether it is hadd or rasm, and whether complete or incomplete. Explain your reasoning based on the components.
+?
+Given the definition 'al-salatu aqwaalun wa af'aalun makhsusatun bi takbir wa taslim' (prayer is specific words and actions beginning with takbir and ending with taslim), determine its type and completeness. If it is incomplete, suggest a complete hadd or rasm.
+
+Pages p. 73 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 74
+Module 3 · Lesson 17
+Next →
+Hadd and Rasm
+intermediate
+10 min
+Two Pitfalls in Definition: Circularity and Obscurity
+Author states two pitfalls to avoid in definitions: circularity and obscure wording.
+
+Learning Objective
+By the end of this lesson, you will be able to identify circular definitions and obscure wording in Islamic logical texts, and distinguish between complete and incomplete definitions.
+
+Core Idea
+A definition must clarify the unknown, not mirror it or hide it in strange words.
+
+We have seen what a good definition looks like. Now the author warns us of two fatal errors that make a definition useless: circularity (turning in a loop) and obscurity (using unfamiliar or ambiguous words). These are not just minor mistakes—they defeat the very purpose of definition, which is to produce knowledge. Let us examine each defect carefully and then see how they relate to the distinction between complete and incomplete definitions.
+
+Guided Path
+1
+Identify the two pitfalls
+Read the Arabic and find the two things the author says must be avoided: (1) defining something by something equally known/unknown (circularity), and (2) using strange or barbarous words (obscurity).
+2
+Analyze circularity
+The example is defining 'father' by 'son' and 'son' by 'father'. Notice why this fails: one term is known only through the other, so no new knowledge is gained. The listener is no better off than before.
+This applies to any pair of correlatives (mutadayifan) in logic or usul al-fiqh.
+3
+Analyze obscure wording
+The author says to avoid strange words (alfaz ghariba) that are not clearly indicative of the intended meaning. He adds that lack of clarity may come from strangeness, metaphor, or homonymy without context. The key is that the definition must be clear to the questioner, not to someone else.
+The purpose of definition is to teach, so the terms must be more familiar than the definiendum.
+4
+Distinguish complete vs incomplete definitions
+A complete essential definition (hadd tamm) does not admit increase or decrease in meaning, though it may be rephrased. Incomplete definitions (like rasm) can vary in meaning and may not be expressed by speech alone.
+This helps you evaluate whether a given definition is a real hadd or merely a description.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثم شرع في بيان ما يجب الاحتراز عنه في التعريفات فقال: ( ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة كتعريف أحد المتضايفين بالآخر، مثل أن يقال الابن من له أب والأب من له ابن، فإن الأب والابن متساويان في المعرفة والجهالة. (و) يجب الاحتراز في التعريف ( عن استعمال ألفاظ غريبة) أي: وحشية (غير ظاهرة الدلالة على المراد، وهذا تعميم بعد تخصيص ؛ لأن عدم الظهور قد يكون للغرابة، وقد يكون للمجاز والاشتراك من غير قرينة معيّنة ظاهرة بالقياس إلى السائل) لا إلى غيره؛ لأن المطلوب علمه لا علم غيره، وإنما يجب الاحتراز عن مثل هذه الألفاظ؛ لكونه مفوتا للغرض المقصود من التعريف. والحد التام لا يقبل الزيادة والنقصان من حيث المعنى، ولكن يقبلهما من حيث اللفظ ، وأما غير الحد التام فيقبل الزيادة والنقصان معنى، والحد التام لا يكون إلا بالقول بخلاف الحد الناقص، فإنه قد لا يكون بالقول.
+Then he began to explain what must be avoided in definitions and said: (And one must avoid defining a thing by something that equals it in knownness and unknownness, like defining one of the two correlatives by the other, such as saying 'the son is he who has a father' and 'the father is he who has a son'—for the father and son are equal in knownness and unknownness. (And) one must avoid in definitions (using strange words) i.e., barbarous (that are not clearly indicative of the intended meaning, and this is a general after a particular, because lack of clarity may be due to strangeness, or due to metaphor and homonymy without a determinate context clear in relation to the questioner) not to others, because what is sought is his knowledge, not the knowledge of another. And one must avoid such words because they defeat the purpose intended by the definition. The complete essential definition does not admit increase or decrease in meaning, but admits them in wording; as for other than the complete essential definition, it admits increase and decrease in meaning. And the complete essential definition is only by speech, unlike the incomplete essential definition, for it may not be by speech.
+Source pages p. 74
+
+Commentary
+This passage lists two major defects that invalidate a definition: circularity and obscurity. First, circularity occurs when a definition uses a term that is equally unknown as the definiendum, as when one defines 'father' by 'son' and vice versa—they are interdependent and thus no real knowledge is gained. Second, definitions must avoid strange or ambiguous words that are not immediately clear, especially relative to the questioner. The text notes that lack of clarity may arise from barbarism, metaphor, or homonymy without a clarifying context. The goal of definition is to produce understanding, so the terms must be more known to the person being taught. The passage concludes with a note on the complete essential definition (hadd tamm): it is precise in meaning but can be expressed in different words; incomplete definitions (including rasm and incomplete hadd) can vary in meaning as well as wording. Also, a complete hadd must be expressed in speech (qawl), while an incomplete hadd may be pointed to or gestured.
+
+Key Terms
+متضايفان (mutadayifan)
+ألفاظ غريبة (alfaz ghariba)
+حد تام (hadd tamm)
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a circular definition?
+A) al-insanu hayawanun natiqun (Human is a rational animal)
+B) al-abu man lahu ibnun (A father is one who has a son)
+C) al-insanu dahikun (Human is laughing)
+D) al-insanu jismun natiqun (Human is a rational body)
+
+Key Takeaway
+A valid definition must be non-circular and use clear, familiar terms; the complete essential definition is fixed in meaning but flexible in wording.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the following definition from a usul text: 'Al-ijtihad huwa istifragh al-wus' fi talab al-hukm al-shar'i' (Ijtihad is expending effort in seeking the legal ruling). Is this definition circular? Identify any obscure terms and suggest a clearer definition.
+?
+Check a definition of 'naskh' (abrogation) from a classical usul work: 'Naskh huwa raf' al-hukm bi dalil shar'i muta'akhkhir' (Abrogation is the lifting of a ruling by a later legal evidence). Is this definition complete or incomplete? Does it use any potentially obscure words?
+
+Pages p. 74 · Hadd and Rasm
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 74
+Module 3 · Lesson 18
+Next →
+Hadd and Rasm
+intermediate
+8 min
+Two Precautions in Definitions and the Perfect Definition
+Author enumerates two precautions in definitions and discusses the perfect definition's invariance.
+
+Learning Objective
+By the end of this lesson, you will be able to identify circular definitions and distinguish perfect definitions from imperfect definitions.
+
+Core Idea
+A definition must clarify the unknown, not circle back to it.
+
+Definitions are tools for knowledge, but they can fail if they use words that are equally puzzling or obscure. The author of the matn lays down two crucial precautions: avoid defining something by what is equally known or unknown, and avoid strange words that defeat clarity. He then clarifies the nature of the perfect definition (al-ḥadd al-tāmm) and how it differs from an imperfect one.
+
+Guided Path
+1
+1. Identify the two precautions
+Read the Arabic carefully to find the two things the author says must be avoided in definitions. Mark them in the text.
+The first is circularity; the second is obscurity.
+2
+2. Understand the circularity example
+The example is defining one of two correlatives by the other, like 'father' and 'son'. Why does this fail to increase knowledge? Because each is known only through the other; the definition goes in a circle.
+This is called 'تعريف الشيء بما يساويه في المعرفة والجهالة'.
+3
+3. Analyze the second precaution: strange words
+The author warns against words that are not clearly indicative of the intended meaning, whether due to barbarism, metaphor, or homonymy without a clear context. The standard is the questioner's understanding, not some absolute standard.
+This ensures the definition is useful to the specific audience.
+4
+4. Distinguish perfect from imperfect definition
+The perfect definition (ḥadd tāmm) does not accept increase or decrease in meaning—any change would alter the essence—but it can accept verbal variation. The imperfect definition (ḥadd nāqiṣ) does accept change in meaning. Perfect definitions must be expressed in a statement; imperfect ones may not be fully articulated.
+Apply this to a definition in fiqh or kalām to test if it is perfect.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ويجب الاحتراز عن تعريف الشيء بما يساويه في المعرفة والجهالة كتعريف أحد المتضايفين بالآخر، مثل أن يقال الابن من له أب والأب من له ابن، فإن الأب والابن متساويان في المعرفة والجهالة. (و) يجب الاحتراز في التعريف ( عن استعمال ألفاظ غريبة) أي: وحشية (غير ظاهرة الدلالة على المراد، وهذا تعميم بعد تخصيص ؛ لأن عدم الظهور قد يكون للغرابة، وقد يكون للمجاز والاشتراك من غير قرينة معيّنة ظاهرة بالقياس إلى السائل) لا إلى غيره؛ لأن المطلوب علمه لا علم غيره، وإنما يجب الاحتراز عن مثل هذه الألفاظ؛ لكونه مفوتا للغرض المقصود من التعريف. والعام يجب تقديمه على الخاص للأعرفية والحد التام لا يقبل الزيادة والنقصان من حيث المعنى، ولكن يقبلهما من حيث اللفظ ، وأما غير الحد التام فيقبل الزيادة والنقصان معنى، والحد التام لا يكون إلا بالقول بخلاف الحد الناقص، فإنه قد لا يكون بالقول.
+And it is necessary to avoid defining a thing by what equals it in knowledge and ignorance, such as defining one of the two correlatives by the other, like saying 'the son is one who has a father' and 'the father is one who has a son', for the father and son are equal in knowledge and ignorance. And it is necessary to avoid in definition the use of strange words, that is, barbarous words that are not clearly indicative of the intended meaning, and this is a generalization after specification because lack of clarity may be due to strangeness, or may be due to metaphor and homonymy without a specific apparent qarīna relative to the questioner, not to others, because what is required is his knowledge, not the knowledge of others. And it is necessary to avoid such words because they defeat the purpose of definition. And the general must be presented before the specific due to being more known. And the perfect definition does not accept increase or decrease in meaning, but it accepts them in wording. As for the imperfect definition, it accepts increase and decrease in meaning, and the perfect definition is only by a statement, unlike the imperfect definition, which may not be by a statement.
+Source pages p. 74
+
+Commentary
+This passage is an expansion on the conditions that must be observed in definitions. The author first presents the rule: avoid defining something by something that is equally known or unknown. The example given is defining correlatives (al-mutaḍāyifān) like 'father' and 'son'—each is known only in relation to the other, so using one to define the other is circular and does not increase knowledge. The second precaution is to avoid using strange or barbarous words that are not clearly understood by the questioner. The author notes that lack of clarity can stem from strangeness, metaphor, or polysemy without a clear context. The definition must be clear to the intended audience. The passage then adds that the general should precede the specific because it is more known. Finally, the author discusses the perfect definition (al-ḥadd al-tāmm): it does not accept increase or decrease in meaning—any addition or subtraction in meaning would change the essence; however, it can accept verbal variation. In contrast, the imperfect definition (al-ḥadd al-nāqiṣ) can accept change in meaning. Also, the perfect definition must be expressed in a statement (qawl), while the imperfect definition may not be fully articulated. These rules ensure definitions are effective and precise.
+
+Key Terms
+المتضايفان
+تعريف الشيء بما يساويه في المعرفة والجهالة
+حد تام
+حد ناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is defining 'father' as 'one who has a son' and 'son' as 'one who has a father' invalid according to the author?
+A) Because they use strange words
+B) Because they are not general enough
+C) Because they define each correlative by the other, resulting in equal ignorance
+D) Because they are not perfect definitions
+
+Key Takeaway
+A good definition must avoid circularity and obscurity, and a perfect definition remains invariant in meaning even if expressed differently.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Find a definition from the fiqh of Ṣalāh (e.g., 'Ṣalāh is specific movements and words beginning with takbīr and ending with taslīm'). Check if it uses any term that is equally unknown (e.g., defining 'takbīr' as 'saying Allāhu Akbar' would be circular if 'takbīr' is defined as 'the act of saying Allāhu Akbar'). Identify any potential circularity.
+?
+Task 2: Consider the perfect definition (ḥadd tāmm) of 'kitāb' in Arabic grammar: 'kalām mu'allaf min thalāth kalimāt fa akthār'. Determine whether this definition accepts increase or decrease in meaning. Explain why it is perfect or imperfect.
+
+Pages p. 74 · Hadd and Rasm
+← Prev
+Mark Done
+Next →

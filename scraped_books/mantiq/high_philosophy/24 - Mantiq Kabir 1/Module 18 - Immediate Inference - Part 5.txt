@@ -1,0 +1,370 @@
+← Prev
+p. 510
+Module 18 · Lesson 201
+Next →
+Immediate Inference
+intermediate
+5 min
+Contrapositive of Negative Conditionals
+Author explains that negative conditional propositions do have a valid contrapositive, specifically a particular affirmative one.
+
+Learning Objective
+By the end of this lesson, you will be able to derive the correct contrapositive of a negative conditional proposition and verify its validity using reductio ad absurdum.
+
+Core Idea
+Even negative conditionals have a valid contrapositive—a particular affirmative one.
+
+In the previous lesson we learned about contrapositives of affirmative conditionals. Now we turn to negative conditionals, such as 'Not at all if A then B' (a universal negative conditional). You might think such a proposition has no valid contrapositive, but the author demonstrates that it does—specifically a particular affirmative conditional like 'Sometimes if not B then A'. The proof relies on reductio (al-khalf), a standard argument technique in Islamic logic. Understanding this will sharpen your skill in handling immediate inferences and deepen your grasp of the relationship between conditionals and their negations.
+
+Guided Path
+1
+Identify the original negative conditional
+Locate the conditional proposition that is negative. For example, 'Not at all if A then B' is a universal negative conditional. It asserts that it is never the case that if A then B.
+In the Arabic, the term 'ليس البتة إذا كان أب) كان جدا' represents 'not at all if A then B'.
+2
+Recall the contrapositive rule for negatives
+The author states that a negative conditional (actual, universal or particular) converts into a particular affirmative contrapositive. That is, from 'Not at all if A then B' we infer 'Sometimes if not B then not A' (with absolute modality).
+The clause 'فينعكس عكسا جزئيا' means it yields a particular contrapositive.
+3
+Verify by reductio ad absurdum
+Assume the contrapositive is false. Then its contradictory would be true: 'Always if not B then A'? Actually the text says: if the contrapositive were false, then the statement 'always if not A then B' would be true, leading to contradiction with the original. Follow the logic: original says not at all if A then B; if contrapositive is false, then 'always if not A then B' would hold, but that would imply that sometimes if A then B, contradicting the original.
+The term 'خلف' refers to this reductio argument.
+4
+Apply to possible conditionals
+The rule also applies to possible conditionals (al-mumkinat), whether specific or universal. The same contrapositive form holds.
+The passage ends by noting that the proof extends to such cases.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هذا إذا كانت المتّصلة من الموجبات، فأما إذا كانت من السوالب وهى من الفعليات كلية كانت أو جزئية ضرورية كانت أو لا ضرورية فإنها تنعكس جزئية مطلقة عامة فيقال ليس البتة إذا كان أب) كان جدا، قد لا يكون إذا لم يكن (ج) د لم يكن «أب» بالإطلاق العام وإلا لصدق نقيضه وهو قولنا دائما إذا لم يكن .«أب». فينعكس عكس النقيض وهو قولنا دائما إذا كان «أب» كان ج د ؛ وقد قلنا ليس البتة إذا كان «أب» كان جدا، هذا خلف. ولأنه إذا صدق قولنا ليس البتة إذا كان «أب» كان ج د» صدق قولنا كلَّما كان «أب» ليس اج دا؛ فينعكس عكسا جزئيا وهو قولنا قد يكون إذا لم يكن ج د» كان «أب»؛ وإنه من جملة ما يلزمه صدق العكس لاستحالة صدق النقيض حينئذ. وكما أنه يبرهن بهما فكذلك بغيرهما من البراهين التي مرَّ ذكرها في السوالب من الحمليّات. وعلى هذا إذا كانت من الممكنات خاصة كانت أو عامة كلية
+This if the conjunctives are affirmatives. But if they are negatives, and they are from the actualities, whether universal or particular, necessary or not necessary, then they are converted into a universal particular absolute contrapositive. So it is said: 'Not at all if 'ab' then 'jd''; it may be that if not 'jd' then not 'ab' with absolute universality, otherwise its contradictory would be true, which is our statement: 'always if not 'ab''. So it contraposes into a particular contrapositive, which is our statement: 'sometimes if not 'jd' then 'ab''; and that is among what entails the truth of the contrapositive due to the impossibility of its contradictory then. And just as it is proven by these two, so too by other proofs that were mentioned regarding negatives in categoricals. And likewise if they are possibles, whether specific or universal.
+Source pages p. 510
+
+Commentary
+This passage examines the contraposition of negative conditional propositions (salibat min al-shartiyyat). The author states that if a conditional is negative and actual (haqiqi), whether universal or particular, necessary or not, it does have a contrapositive, but a particular affirmative one. For example, from 'Not at all if A then B' we can infer 'Sometimes if not B then not A' with absolute universality. The proof uses reductio: if the contrapositive were false, then its contradictory would be true, leading to a contradiction. This mirrors the rules for negative categoricals. The same applies for possible conditionals.
+
+Key Terms
+السوالب
+الفعليات
+الخلف
+
+Key Terms from Source Passage
+
+Checkpoint
+What type of contrapositive does a negative universal conditional ('not at all if A then B') yield according to the author?
+A) A universal affirmative conditional ('always if not A then not B')
+B) A particular affirmative conditional ('sometimes if not B then A')
+C) A negative universal conditional ('not at all if not B then not A')
+D) No contrapositive is valid
+
+Key Takeaway
+Negative conditionals validly contrapose to a particular affirmative conditional, as proven by reductio ad absurdum.
+
+How This Lesson Applies — to MY Life?
+?
+Given the conditional 'Not at all if prayer is invalid then ablution is required', derive its correct contrapositive and state whether it is universal or particular.
+?
+Using reductio, prove why 'Not at all if fasting is broken then eating is allowed' does not yield 'Always if eating is allowed then fasting is broken'.
+
+Pages p. 510 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 510
+Module 18 · Lesson 202
+Next →
+Immediate Inference
+intermediate
+5 min
+Conversion of Conditional Propositions: Implicative vs Accidental
+Explains the conversion of implicative and accidental conditionals in universal and particular forms.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between implicative and accidental conditionals and determine when contrapositive conversion is valid.
+
+Core Idea
+Only implicative conditionals allow contrapositive conversion; accidental ones do not.
+
+Conditional propositions appear frequently in Islamic legal reasoning, e.g., 'If the sale is valid, then ownership transfers.' But not all conditionals behave the same way when we try to convert them. This lesson clarifies the crucial distinction between necessary (implicative) and accidental conditionals, and shows when the contrapositive is a valid inference.
+
+Guided Path
+1
+Identify the type of conditional
+Look at the connection between the antecedent (المقدم) and consequent (التالي). If the connection is necessary (e.g., based on definition or cause), it is implicative (لزومية). If the connection is merely coincidental, it is accidental (اتفاقية).
+The passage uses the terms ملزوم (entailed) and لازم (entailer) for the antecedent and consequent in implicative conditionals.
+2
+Apply contrapositive to implicative conditionals
+For an implicative conditional, the contrapositive is valid: negate both parts and swap them. For example, from 'If the entailed exists, the entailer exists' we infer 'If the entailer does not exist, the entailed does not exist.' The passage states that this holds universally and particularly.
+The passage also mentions that even a particular conditional can imply a universal one from one side.
+3
+Test accidental conditionals
+For accidental conditionals, the contrapositive does not hold. Try it: from 'If the antecedent exists, the consequent exists' (accidental), you cannot infer 'If the consequent does not exist, the antecedent does not exist' because the connection is not necessary.
+The passage explicitly says accidental conditionals do not convert by contraposition, whether universal or particular.
+4
+Generalize the rule
+The validity of contrapositive conversion depends on the nature of the connection, not on the universality or particularity of the proposition. Always check if the conditional is implicative before applying contrapositive.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+إذا كانت الشرطية لزومية وإلا لا تكون لزومية؛ فإن من المحال أن يمتنع هذا دون ذلك ولا يمتنع أيضًا. واعلم بأن الشرطية وإن كانت جزئية فيما نحن فيه فقد كانت مستلزمة الشرطية كلية من جانب المقدم تارة، ومن جانب التالي أخرى فيقال كلما كان الملزوم موجوداً كان اللازم موجودًا، وكلّما لم يكن اللازم موجوداً لم يكن الملزوم موجودًا وإلا لا يكون الملزوم ملزوما في نفس الأمر، ولا اللازم لازما كذلك؛ هذا هو الكلام في اللزومية. وأما في الاتفاقية فالحق فيها أنها لا تنعكس عكس النقيض كلية كانت أو جزئية فإنه لا يلزم من انتفاء التالي فيها انتفاء المقدم على ما عرف.
+If the conditional is implicative, otherwise it is not implicative; for it is impossible for this to be absent without that and it is also not absent. And know that the conditional, even if it is particular in our context, has implied a universal conditional from the side of the antecedent sometimes, and from the side of the consequent other times, so it is said: whenever the entailed is existent, the entailer is existent, and whenever the entailer is not existent, the entailed is not existent; otherwise the entailed would not be an entailed in reality, nor the entailer an entailer likewise. This is the discussion of implicative conditionals. As for accidental conditionals, the truth is that they do not convert by contraposition, whether universal or particular, for the non-existence of the consequent does not necessitate the non-existence of the antecedent, as is known.
+Source pages p. 510
+
+Commentary
+This passage distinguishes between two types of conditional propositions: implicative (لزومية) and accidental (اتفاقية). For implicative conditionals, the contrapositive conversion holds: if the consequent is absent, the antecedent must be absent, because the relationship is necessary. The author explains this using the terms 'entailed' (ملزوم) and 'entailer' (لازم). For accidental conditionals, no such necessary connection exists, so contrapositive conversion does not apply. The passage emphasizes that the conversion rule depends on the nature of the conditional, not on its universality or particularity.
+
+Key Terms
+الشرطية
+اللزومية
+الاتفاقية
+عكس النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of conditional proposition allows contrapositive conversion?
+A) Accidental conditional
+B) Implicative conditional
+C) Both accidental and implicative
+D) Neither
+
+Key Takeaway
+The validity of contrapositive conversion depends on the necessity of the connection between antecedent and consequent, not on the universality or particularity of the proposition.
+
+How This Lesson Applies — to MY Life?
+?
+Construct an implicative conditional from a fiqh ruling (e.g., 'If the water is pure, it purifies') and write its valid contrapositive.
+?
+Consider the theological conditional 'If the world is temporally originated, then it has a Creator.' Determine if it is implicative or accidental, write its contrapositive, and assess validity.
+
+Pages p. 510 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 510
+Module 18 · Lesson 203
+Next →
+Immediate Inference
+intermediate
+5 min
+Contrapositive Conversion of Universal Negative Actual Conditionals
+Discusses contrapositive conversion of negative actual conditionals
+
+Learning Objective
+By the end of this lesson, you will be able to perform the contrapositive conversion of a universal negative actual conditional and verify its logical validity using proof by contradiction.
+
+Core Idea
+Contraposition transforms 'No A implies C' into 'Some not-C implies A'.
+
+In this passage, the author explains how negative conditional propositions convert by contrapositive. He begins with actual conditionals (those concerning actual existence). Understanding this conversion is crucial for immediate inferences in Islamic logic, as it allows us to derive new propositions from given ones without additional premises.
+
+Guided Path
+1
+Identify the original proposition
+Locate the universal negative actual conditional: 'Not at all if A is B, then C is D' (ليس البتة إذا كان أب كان جدا). This is a universal negative proposition in the actual modality.
+The original is a conditional of the form 'If P then Q' negated universally.
+2
+State the contrapositive target
+The author claims that this converts to a particular absolute universal: 'It may not be that if not C D, then not A B' (قد لا يكون إذا لم يكن ج د لم يكن أب). Note the addition of 'it may not be' indicating particularity.
+The conversion is from universal to particular, and from actual to absolute.
+3
+Apply proof by contradiction
+Assume the contrapositive is false, leading to its contradictory: 'Always if not C D, then not A B' (دائما إذا لم يكن ج د لم يكن أب). Then derive a contradiction with the original 'Not at all if A B, then C D'.
+The author uses khalaf (reductio ad absurdum) to establish the conversion.
+4
+Generalize the rule
+The same proof works for all universal negative actual conditionals, whether necessary or not. The contrapositive becomes a particular absolute statement (جزئية مطلقة عامة).
+This rule is derived from the broader theory of conversion (عكس) in categoricals.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في السوالب من الشرطيات هذا إذا كانت المتّصلة من الموجبات، فأما إذا كانت من السوالب وهى من الفعليات كلية كانت أو جزئية ضرورية كانت أو لا ضرورية فإنها تنعكس جزئية مطلقة عامة فيقال ليس البتة إذا كان أب كان جدا، قد لا يكون إذا لم يكن ج د لم يكن أب بالإطلاق العام وإلا لصدق نقيضه وهو قولنا دائما إذا لم يكن أب. فينعكس عكس النقيض وهو قولنا دائما إذا كان أب كان ج د؛ وقد قلنا ليس البتة إذا كان أب كان جدا، هذا خلف. ولأنه إذا صدق قولنا ليس البتة إذا كان أب كان ج د صدق قولنا كلَّما كان أب ليس اج دا؛ فينعكس عكسا جزئيا وهو قولنا قد يكون إذا لم يكن ج د كان أب؛ وإنه من جملة ما يلزمه صدق العكس لاستحالة صدق النقيض حينئذ. وكما أنه يبرهن بهما فكذلك بغيرهما من البراهين التي مرَّ ذكرها في السوالب من الحمليّات. وعلى هذا إذا كانت من الممكنات خاصة كانت أو عامة كلية كانت أو جزئية فإنها تنعكس عكس النقيض جزئية ممكنة عامة كما يقال ليس البتة إذا كان أ ب كان د بالإمكان الخاص، قد لا يكون إذا لم يكن ج د لم يكن أب بالإمكان العام وإلا لصدق نقيضه وهو قولنا بالضرورة كلَّما لم يكن ج د لم يكن أب وإنه يفضي إلى المحال كما مرَّ من قبل. وأما الجزئية منها فإنها تنعكس جزئية مطلقة عامة في الفعليات ممكنة عامة في الممكنات فيقال قد لا يكون إذا كان أب كان ج د، قد لا يكون إذا لم يكن ج د لم يكن أب وإلا لصدق نقيضه؛ وذلك يفضي إلى المحال كما مر، هذا هو الكلام في اللزومية. وأما في الاتفاقية فكذلك كما يقال ليس البتة إذا كان الإنسان موجودًا كان الخلاء موجودًا، قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودا وإلا لصدق نقيضه وذلك يفضي إلى المحال كذلك. وعلى هذا في الجزئية منها كما يقال قد لا يكون إذا كان الإنسان موجودا كان الخلاء موجودًا، قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودا.
+Section: On the negatives of conditionals. This is when the conjunctive [conditional] is from affirmatives. But if it is from negatives, and they are from actuals, whether universal or particular, necessary or not necessary, then they convert to a particular absolute universal; so it is said: 'Not at all if A is B, then C is D'; 'it may not be that if not C D, then not A B' with absolute universality; otherwise its contradictory would be true, which is our statement 'always if not A B'. Then it converts by contraposition to our statement 'always if A B, then C D'; and we have said 'not at all if A B, then C D', this is a contradiction. And because if our statement 'not at all if A B, then C D' is true, our statement 'whenever A B is not C D' is true; then it converts by a particular contraposition to our statement 'it may be that if not C D, then A B'; and it is among what necessitates the truth of the conversion due to the impossibility of the truth of the contradictory then. And just as it is proven by these two, so also by other proofs mentioned in the negatives of categoricals. And similarly, if it is from possibles, whether specific or general, universal or particular, then it converts by contraposition to a particular possible general, as is said: 'Not at all if A B is C D with specific possibility'; 'it may not be that if not C D, then not A B' with general possibility; otherwise its contradictory would be true, which is our statement 'necessarily whenever not C D, then not A B', and it leads to impossibility as previously. And as for the particular of them, it converts to a particular absolute universal in actuals, to a particular possible in possibles, so it is said: 'it may not be that if A B is C D'; 'it may not be that if not C D, then not A B'; otherwise its contradictory would be true; and that leads to impossibility as previously. This is the discussion of implicative conditionals. And as for accidental conditionals, it is similar, as is said: 'Not at all if man exists, then vacuum exists'; 'it may not be that if vacuum does not exist, then man does not exist'; otherwise its contradictory would be true, and that leads to impossibility likewise. And similarly for the particular of them, as is said: 'it may not be that if man exists, then vacuum exists'; 'it may not be that if vacuum does not exist, then man does not exist'.
+Source pages p. 510
+
+Commentary
+This passage explains how negative conditional propositions (both universal and particular) convert by contraposition. It first covers actual (fi'liyya) conditionals: a universal negative conditional ('not at all if A then C') converts to a particular absolute statement ('it may not be that if not C then not A'). The author uses proof by contradiction (khalaf). The same applies to possible (mumkina) conditionals, but with possible modalities. The conversion yields a particular possible general. The passage also notes that these conversions apply to accidental conditionals (ittifaqiyya) as well, giving the example 'not at all if man exists, then vacuum exists' (an accidental conditional) and its contrapositive.
+
+Key Terms
+السوالب
+الفعليات
+عكس النقيض
+
+Key Terms from Source Passage
+
+Checkpoint
+What type of proposition does a universal negative actual conditional convert to according to this passage?
+A) Universal affirmative
+B) Particular absolute
+C) Universal possible
+D) Particular negative
+
+Key Takeaway
+A universal negative actual conditional converts by contrapositive to a particular absolute conditional, proved by contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the universal negative actual conditional 'Not at all if a thing is created, then it is eternal' into its contrapositive using the rule from this lesson. State both the original and the contrapositive in propositional form.
+?
+Prove the validity of the conversion by contradiction: Assume the negated contrapositive and derive a contradiction with the original. Show the steps.
+
+Pages p. 510 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 510
+Module 18 · Lesson 204
+Next →
+Immediate Inference
+intermediate
+5 min
+Contrapositive Conversion of Negative Possible and Accidental Conditionals
+Discusses contrapositive conversion for possible and accidental conditionals
+
+Learning Objective
+By the end of this lesson, you will be able to perform the contrapositive conversion of negative possible and accidental conditionals, distinguishing the modal differences.
+
+Core Idea
+Negative possible conditionals contrapose to particular possible conditionals; accidental conditionals follow the same pattern.
+
+The author extends the conversion rule to possible (mumkina) and accidental (ittifaqiyya) conditionals. For possibles, the contrapositive retains a modality of possibility but shifts from specific to general possibility. Accidental conditionals, which lack a genuine implication, still obey the same conversion pattern, as shown by the example 'man exists, vacuum exists'.
+
+Guided Path
+1
+Identify the original modal context
+For possible conditionals, note the modality: the original contains 'with specific possibility' (بالإمكان الخاص). The conversion yields 'with general possibility' (بالإمكان العام).
+Specific possibility is more restricted than general possibility.
+2
+Apply the conversion rule for possibles
+A universal negative possible conditional 'Not at all if A B is C D with specific possibility' converts to 'It may not be that if not C D then not A B with general possibility'.
+The modality weakens from specific to general possibility.
+3
+Consider accidental conditionals
+Accidental conditionals (e.g., 'If man exists, then vacuum exists') are not genuine implications but still convert. The same formula applies: 'Not at all if man exists then vacuum exists' converts to 'It may not be that if vacuum does not exist then man does not exist'.
+The proof by contradiction works equally for accidental conditionals.
+4
+Verify the particular cases
+For particular negatives (e.g., 'It may not be that if man exists then vacuum exists'), the conversion yields a particular of the same modality: 'It may not be that if vacuum does not exist then man does not exist'.
+The pattern holds for both universal and particular, with appropriate modality.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل : في السوالب من الشرطيات هذا إذا كانت المتّصلة من الموجبات، فأما إذا كانت من السوالب وهى من الفعليات كلية كانت أو جزئية ضرورية كانت أو لا ضرورية فإنها تنعكس جزئية مطلقة عامة فيقال ليس البتة إذا كان أب كان جدا، قد لا يكون إذا لم يكن ج د لم يكن أب بالإطلاق العام وإلا لصدق نقيضه وهو قولنا دائما إذا لم يكن أب. فينعكس عكس النقيض وهو قولنا دائما إذا كان أب كان ج د؛ وقد قلنا ليس البتة إذا كان أب كان جدا، هذا خلف. ولأنه إذا صدق قولنا ليس البتة إذا كان أب كان ج د صدق قولنا كلَّما كان أب ليس اج دا؛ فينعكس عكسا جزئيا وهو قولنا قد يكون إذا لم يكن ج د كان أب؛ وإنه من جملة ما يلزمه صدق العكس لاستحالة صدق النقيض حينئذ. وكما أنه يبرهن بهما فكذلك بغيرهما من البراهين التي مرَّ ذكرها في السوالب من الحمليّات. وعلى هذا إذا كانت من الممكنات خاصة كانت أو عامة كلية كانت أو جزئية فإنها تنعكس عكس النقيض جزئية ممكنة عامة كما يقال ليس البتة إذا كان أ ب كان د بالإمكان الخاص، قد لا يكون إذا لم يكن ج د لم يكن أب بالإمكان العام وإلا لصدق نقيضه وهو قولنا بالضرورة كلَّما لم يكن ج د لم يكن أب وإنه يفضي إلى المحال كما مرَّ من قبل. وأما الجزئية منها فإنها تنعكس جزئية مطلقة عامة في الفعليات ممكنة عامة في الممكنات فيقال قد لا يكون إذا كان أب كان ج د، قد لا يكون إذا لم يكن ج د لم يكن أب وإلا لصدق نقيضه؛ وذلك يفضي إلى المحال كما مر، هذا هو الكلام في اللزومية. وأما في الاتفاقية فكذلك كما يقال ليس البتة إذا كان الإنسان موجودًا كان الخلاء موجودًا، قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودا وإلا لصدق نقيضه وذلك يفضي إلى المحال كذلك. وعلى هذا في الجزئية منها كما يقال قد لا يكون إذا كان الإنسان موجودا كان الخلاء موجودًا، قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودا.
+Section: On the negatives of conditionals. This is when the conjunctive [conditional] is from affirmatives. But if it is from negatives, and they are from actuals, whether universal or particular, necessary or not necessary, then they convert to a particular absolute universal; so it is said: 'Not at all if A is B, then C is D'; 'it may not be that if not C D, then not A B' with absolute universality; otherwise its contradictory would be true, which is our statement 'always if not A B'. Then it converts by contraposition to our statement 'always if A B, then C D'; and we have said 'not at all if A B, then C D', this is a contradiction. And because if our statement 'not at all if A B, then C D' is true, our statement 'whenever A B is not C D' is true; then it converts by a particular contraposition to our statement 'it may be that if not C D, then A B'; and it is among what necessitates the truth of the conversion due to the impossibility of the truth of the contradictory then. And just as it is proven by these two, so also by other proofs mentioned in the negatives of categoricals. And similarly, if it is from possibles, whether specific or general, universal or particular, then it converts by contraposition to a particular possible general, as is said: 'Not at all if A B is C D with specific possibility'; 'it may not be that if not C D, then not A B' with general possibility; otherwise its contradictory would be true, which is our statement 'necessarily whenever not C D, then not A B', and it leads to impossibility as previously. And as for the particular of them, it converts to a particular absolute universal in actuals, to a particular possible in possibles, so it is said: 'it may not be that if A B is C D'; 'it may not be that if not C D, then not A B'; otherwise its contradictory would be true; and that leads to impossibility as previously. This is the discussion of implicative conditionals. And as for accidental conditionals, it is similar, as is said: 'Not at all if man exists, then vacuum exists'; 'it may not be that if vacuum does not exist, then man does not exist'; otherwise its contradictory would be true, and that leads to impossibility likewise. And similarly for the particular of them, as is said: 'it may not be that if man exists, then vacuum exists'; 'it may not be that if vacuum does not exist, then man does not exist'.
+Source pages p. 510
+
+Commentary
+This passage explains how negative conditional propositions (both universal and particular) convert by contraposition. It first covers actual (fi'liyya) conditionals: a universal negative conditional ('not at all if A then C') converts to a particular absolute statement ('it may not be that if not C then not A'). The author uses proof by contradiction (khalaf). The same applies to possible (mumkina) conditionals, but with possible modalities. The conversion yields a particular possible general. The passage also notes that these conversions apply to accidental conditionals (ittifaqiyya) as well, giving the example 'not at all if man exists, then vacuum exists' (an accidental conditional) and its contrapositive.
+
+Key Terms
+الممكنات
+الإمكان الخاص
+الإمكان العام
+الاتفاقية
+
+Key Terms from Source Passage
+
+Checkpoint
+What modality does the contrapositive of a universal negative possible conditional have?
+A) Specific possibility
+B) General possibility
+C) Absolute
+D) Necessary
+
+Key Takeaway
+Negative possible and accidental conditionals convert by contrapositive, with modalities shifting from specific to general possibility for possibles, and the same pattern applying to accidental conditionals.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the universal negative possible conditional 'Not at all if a substance is actual, then it is possible with specific possibility' into its contrapositive, specifying the modality.
+?
+Using the passage's method, prove the conversion for the accidental conditional 'Not at all if man is sleeping, then he is moving' by contradiction.
+
+Pages p. 510 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 511
+Module 18 · Lesson 205
+Next →
+Immediate Inference
+intermediate
+8 min
+Contrapositive Conversion of Conditional Propositions
+Author explains the contrapositive conversion for conditional propositions with examples
+
+Learning Objective
+By the end of this lesson, you will be able to construct the contrapositive of any universal or particular conditional proposition and verify its validity using a proof by contradiction.
+
+Core Idea
+Contraposing a conditional swaps and negates antecedent and consequent, always yielding a particular modal proposition.
+
+In the previous lessons, we learned about contrapositive conversion for categorical propositions. Now, the author extends this to conditional propositions. He shows that when you swap and negate the antecedent and consequent, the result is always a particular proposition with a modality of 'possible general'. This is proven by a simple proof by contradiction. Let's explore the rule and its proof.
+
+Guided Path
+1
+Identify the type and quantity of the conditional
+Determine if the conditional is universal (e.g., 'it is absolutely not the case that if p then q') or particular (e.g., 'it may not be that if p then q'), and whether it is implicational (luzumiyya) or conjunctive (ittifaqiyya).
+The quantity and type affect the modality of the contrapositive result.
+2
+Perform the contrapositive operation
+Swap the antecedent and consequent and negate both. For a universal conditional 'not (if p then q)', the contrapositive is 'it may not be that if not q then not p'.
+The result is a particular proposition, not universal.
+3
+Adjust the modality
+For universal conditionals, the contrapositive has modality 'possible general' (imkan 'amm). For particular conditionals in actuals, it becomes 'absolute general' (mutlaqa 'amma).
+This is because the contrapositive of a universal is particular, and the modality shifts from necessity to possibility.
+4
+Verify via proof by contradiction
+Assume the contrapositive is false, which would make its contradictory true. Show that this leads to an impossibility (contradiction) based on the original proposition.
+The author uses this method to guarantee the validity of the conversion.
+5
+Apply to conjunctive conditionals
+The same rule applies to conjunctive conditionals (e.g., 'if man exists then void exists'). The contrapositive is formed similarly, and the proof by contradiction holds.
+The example 'man exists' and 'void exists' illustrates the rule for accidental connections.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+كانت أو جزئية فإنها تنعكس عكس النقيض جزئية ممكنة عامة كما يقال ليس البتة إذا كان (أ ب) كان ( د) بالإمكان الخاص، قد لا يكون إذا لم يكن ج د لم يكن «أب» بالإمكان العام وإلا لصدق نقيضه وهو قولنا بالضرورة كلَّما لم يكن (ج) د لم يكن أب» وإنه يفضي إلى المحال كما مرَّ من قبل. وأما الجزئية منها فإنها تنعكس جزئية مطلقة عامة في الفعليات ممكنة عامة في الممكنات فيقال قد لا يكون إذا كان «أب» كان «ج د»، قد لا يكون إذا لم يكن ج د لم يكن أب وإلا لصدق نقيضه؛ وذلك يفضي إلى المحال كما مر، هذا هو الكلام في اللزومية. وأما في الاتفاقية فكذلك كما يقال ليس البتة إذا كان الإنسان موجودًا كان الخلاء موجودًا، قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودا وإلا لصدق نقيضه وذلك يفضي إلى المحال كذلك. وعلى هذا في الجزئية منها كما يقال قد لا يكون إذا كان الإنسان موجودا كان الخلاء موجودًا، قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودا.
+Whether universal or particular, it converts by contrapositive into a particular possible general [proposition], as is said: 'It is absolutely not the case that if A is B then D with particular possibility' becomes 'It may not be that if not C D then not A B with general possibility.' Otherwise its contradictory would be true, which leads to impossibility as previously mentioned. As for the particular of them, it converts into a particular absolute general in actuals and a particular possible general in possibles, so it is said: 'It may not be that if A B then C D' becomes 'It may not be that if not C D then not A B.' Otherwise its contradictory would be true, leading to impossibility as before. This is the discussion for implicational conditionals. As for conjunctive conditionals, it is similar, as is said: 'It is absolutely not the case that if man exists then void exists' becomes 'It may not be that if void does not exist then man does not exist.' Otherwise its contradictory would be true, leading to impossibility likewise. And similarly for the particular of them, as is said: 'It may not be that if man exists then void exists' becomes 'It may not be that if void does not exist then man does not exist.'
+Source pages p. 511
+
+Commentary
+This passage explains the rule of contrapositive conversion ('aks al-naqid) for conditional propositions. The author first states the general rule: a conditional proposition, whether universal or particular, when contraposed yields a particular possible general proposition. To illustrate, the universal negative conditional 'It is absolutely not the case that if A is B then D with particular possibility' (meaning: it is possible that A is B and D is not) contraposes to 'It may not be that if not C D then not A B with general possibility' (i.e., it is not necessary that when D is not, A is not B). The author then proves this by noting that if the contrapositive were false, its contradictory would be true, which would lead to an impossibility (a contradiction) as previously shown. Next, he discusses particular conditionals, which convert to a particular absolute general in actual cases and a particular possible general in possible cases, and gives a similar proof. The discussion then moves to conjunctive conditionals (ittifaqiyya), using the example of 'man exists' and 'void exists' to show the same pattern, both for universal and particular forms.
+
+Key Terms
+عكس النقيض
+لزومية
+اتفاقية
+إمكان عام
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the contrapositive of the universal conditional 'ليس البتة إذا كان الإنسان موجودًا كان الخلاء موجودًا'?
+A) قد لا يكون إذا كان الخلاء موجودًا كان الإنسان موجودًا
+B) قد لا يكون إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودًا
+C) بالضرورة إذا كان الإنسان موجودًا كان الخلاء موجودًا
+D) ليس البتة إذا لم يكن الخلاء موجودًا لم يكن الإنسان موجودًا
+
+Key Takeaway
+The contrapositive of a conditional proposition is always a particular modal proposition, valid because its falsity would entail a contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+Take the universal conditional 'ليس البتة إذا كان الخلق محدثًا كان له محدث' (It is absolutely not the case that if the creation is temporally originated then it has a creator). Construct its contrapositive following the rule in the passage, and state its modality.
+?
+Using the method of proof by contradiction described, demonstrate why the contrapositive of the above conditional must be true, assuming the original is true.
+
+Pages p. 511 · Immediate Inference
+← Prev
+Mark Done
+Next →

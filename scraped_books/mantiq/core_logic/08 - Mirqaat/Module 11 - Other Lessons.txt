@@ -1,0 +1,1371 @@
+← Prev
+p. 16
+Module 11 · Lesson 1
+Next →
+Other Lessons
+intermediate
+10 min
+Resolving Circularity in Definition and Types of Necessity
+Raises and resolves a circularity objection, then explains types of necessity.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and resolve a circularity objection in a definition, and distinguish intellectual from conventional necessity using Islamic examples.
+
+Core Idea
+Circular definitions are avoided by distinguishing the type of knowledge required at each step.
+
+Definitions in logic and other Islamic sciences must avoid circularity (dawr). This passage presents a common objection against the definition of 'indication' (dalalah) and resolves it through a precise distinction. Then it expands on the term 'necessity' (luzum) used in definitions, explaining that it includes both intellectual and conventional necessity. Understanding these distinctions is crucial for evaluating definitions in usul al-fiqh, kalam, and other disciplines.
+
+Guided Path
+1
+Identify the circularity objection
+The objector claims that the definition of indication is circular because indication depends on knowledge of the significate, and knowledge of the significate depends on indication. Locate this in the Arabic: 'فإن قلت: إن الدلالة تتوقف على علم المدلول وهو يتوقف على الدلالة'.
+The objection is a standard logical charge; you must see why it appears plausible.
+2
+Analyse the resolution
+The response distinguishes between 'knowledge of the significate from the indicator' (علم المدلول من الدال) and 'absolute knowledge of the significate' (علم المدلول مطلقا). The definition requires only absolute knowledge of the significate for indication, not the specific knowledge from that indicator. Thus no circle occurs. Trace the reasoning in the response: 'قلت: إن علم المدلول من الدال موقوف على الدلالة لا علم المدلول مطلقا...'.
+This resolution is a classic logical move: breaking the circle by introducing a distinction.
+3
+Distinguish intellectual vs. conventional necessity
+The term 'necessity' (luzum) in the definition is broader than intellectual necessity. Intellectual necessity (اللزوم العقلي) is when the mind cannot separate two concepts, e.g., four and evenness. Conventional necessity (اللزوم العرفي) is when custom makes a link appear inseparable, e.g., generosity and Hatim. Note the examples: 'كلزوم الزوجية للأربعة' and 'كلزوم الجود للحاتم'.
+Conventional necessity is often used in definitions of adjectival or relational terms.
+4
+Apply the distinction to the definition of indication
+Why does the definition of indication need to include conventional necessity? Because the relation between an indicator and its significate is often customary, not purely intellectual. For example, the word 'fire' conventionally indicates heat, even though intellect could conceive a fire without heat (though impossible). This shows how the definition avoids being too narrow.
+The passage says 'المراد باللزوم ههنا أعم من أن يكون عقليا أو عرفيا' – necessity here is general.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فإن قلت: إن الدلالة تتوقف على علم المدلول وهو يتوقف على الدلالة، وهذا دور؟ قلت: إن علم المدلول من الدال موقوف على الدلالة لا علم المدلول مطلقا، والدلالة تتوقف على علم المدلول مطلقا لا على المدلول من الدال فلا دور. يلزم إلخ: اعلم أن المراد باللزوم ههنا أعم من أن يكون عقليا أو عرفيا والأول أي: اللزوم العقلي هو ما يمتنع تصور الملزوم بدون اللازم عقلا كلزوم الزوجية للأربعة، فإن العقل إذا تصور معنى الأربعة يمتنع عدم تصور معنى الزوجية والثاني :أي: اللزوم العرفي هو ما يمتنع تصور الملزوم بدون اللازم عرفا وإن لم يمتنع عقلا، كلزوم الجود للحاتم فإن العقل يجوز أن يتصور الحاتم بدون الجود لكن لكثرة صدور الجود عن الحاتم صار كأنه لازم له.
+If you say: 'Indication depends on knowledge of the significate, and knowledge of the significate depends on indication – this is a circle?' I say: 'Knowledge of the significate from the indicator depends on indication, not knowledge of the significate absolutely. And indication depends on knowledge of the significate absolutely, not on the knowledge of the significate from the indicator, so there is no circle.' 'It necessitates' etc.: Know that what is meant by 'necessity' here is more general than being intellectual or conventional. The first, i.e., intellectual necessity, is that in which it is impossible to conceive the necessitating without the necessitated intellectually, like the necessity of evenness for four; for when the intellect conceives the meaning of four, it is impossible to not conceive the meaning of evenness. The second, i.e., conventional necessity, is that in which it is impossible to conceive the necessitating without the necessitated conventionally, even if not impossible intellectually, like the necessity of generosity for Hatim; for the intellect can conceive Hatim without generosity, but due to the frequency of generosity emanating from Hatim, it becomes as if it were necessary for him.
+Source pages p. 16
+
+Commentary
+This passage is a dialectical exchange followed by a definitional clarification. First, the commentator raises an objection: the definition of indication contains a vicious circle because it says 'knowledge of the indicator leads to knowledge of the significate', but to know the indicator as an indicator requires prior knowledge of the significate, which itself would require indication. The response resolves the circle by distinguishing two types of knowledge: the specific knowledge of the significate from this particular indicator (which depends on the indication), and the absolute knowledge of the significate (which does not depend on this indication). The indication depends on absolute knowledge of the significate, not the particular knowledge, so no circle. Then the commentator clarifies the meaning of 'necessity' (luzum) in the definition. It is broader than just intellectual necessity; it includes both intellectual and conventional necessity. Intellectual necessity is when the intellect cannot separate the concepts, like the impossibility of conceiving 'four' without 'evenness'. Conventional necessity is when custom makes the link so strong that it seems necessary, like generosity being inseparable from the person of Hatim in common thought, even though it is intellectually possible to separate them. This shows that the relation in indication can be based on custom, not just logic.
+
+Key Terms
+دور
+اللزوم العقلي
+اللزوم العرفي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, why is the definition of indication not circular?
+A) Because indication does not depend on any knowledge of the significate.
+B) Because the knowledge of the significate from the indicator is different from absolute knowledge of the significate.
+C) Because the circle is broken by conventional necessity.
+D) Because the definition only applies to verbal indication.
+
+Key Takeaway
+A definition avoids circularity when the dependency chain uses distinct senses of key terms; necessity in definitions can be either intellectual or conventional.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the following definition from a fiqh text: 'Riba is an increase in a loan that is required by custom.' Is this definition circular? Use the distinction between absolute and specific knowledge to test it. Write your analysis in one paragraph.
+?
+Choose an example from everyday Islamic discourse (e.g., defining 'iman', 'salah', or 'wudu') and determine whether the definition given relies on intellectual or conventional necessity. Explain your reasoning with reference to the two types of luzum.
+
+Pages p. 16 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 16
+Module 11 · Lesson 2
+Next →
+Other Lessons
+intermediate
+7 min
+The Definition of Indication and Its Sixfold Division
+Defines indication and outlines its six types
+
+Learning Objective
+By the end of this lesson, you will be able to define indication (dalala) in logical terms and classify indications into six types based on two criteria: verbal/non-verbal and conventional/natural/rational.
+
+Core Idea
+Indication is the bridge from known to unknown; its sixfold classification maps every sign.
+
+This lesson introduces the foundational concept of indication (dalala), the key to understanding how signs convey meaning. The passage defines indication and then splits it into verbal and non-verbal, each with three subtypes.
+
+Guided Path
+1
+Grasp the definition of dalala
+Locate the definition in the Arabic: 'كون الشيء بحيث يلزم من العلم به العلم بشيء آخر'. Note that indication is a relation between two things (indicator and significate) such that knowledge of the first leads to knowledge of the second.
+The indicator is called 'dal', the significate 'madlul'.
+2
+Identify the two main divisions
+The passage divides indication into verbal (lafziyya) and non-verbal (ghayr lafziyya). The criterion is whether the indicator is a word or not.
+Verbal: the indicator is a word (لفظ). Non-verbal: everything else.
+3
+Enumerate the three subtypes for each division
+Both verbal and non-verbal are further divided into conventional (wad'iyya), natural (tab'iyya), and rational ('aqliyya). This gives a total of six types.
+Write down: 1. conventional verbal, 2. natural verbal, 3. rational verbal, 4. conventional non-verbal, 5. natural non-verbal, 6. rational non-verbal.
+4
+Match each subtype with its example
+From the passage, note the example for each: e.g., 'Zayd' for conventional verbal, 'uḥ aḥ' for natural verbal, 'Dīz' for rational verbal; the four indicators (nusub, khutut, isharat, 'uqūd) for conventional non-verbal; horse whinnying for natural non-verbal; smoke for fire for rational non-verbal.
+Think about why each example fits its category.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الدلالة الدلالة لغة هو الإرشاد أي راه نمودن وفي الاصطلاح كون الشيء بحيث يلزم من العلم به العلم بشيء آخر. والدلالة قسمان لفظية وغير لفظية، واللفظية: حصر الدلالة في ستة أقسام الدلالة وأقسامها ما يكون الدال فيه اللفظ وغير اللفظية ما لا يكون الدال فيه اللفظ، وكل منهما على ثلاثة أنحاء أحدها : اللفظية الوضعية، كدلالة لفظ زيد على مسماه، وثانيها: اللفظية الطبعية، كدلالة لفظ "أُح أح" - بضم الهمزة وسكون الحاء المهملة، وقيل: بفتحها – على وجع الصدر ؛ فإن الطبعية تضطر بإحداث هذا اللفظ عند عروض الوجع في الصدر وثالثها اللفظية العقلية كدلالة لفظ "ديز" المسموع من وراء الجدار على وجود اللافظ، ورابعها غير اللفظية الوضعية، كدلالة الدوال الأربع على مدلولاتها، وخامسها غير اللفظية الطبعية كدلالة صهيل الفرس على طلب الماء والكلأ، وسادسها: الغير اللفظية العقلية كدلالة الدخان على النار. الوضعية إلخ منسوب إلى الوضع بأن يكون للوضع فيها مدخل، سواء وضع عين اللفظ أي شخصه لمعناه، كوضع "زيد" لذاته، أو وضع مفردات اللفظ لمعناها كوضع زيد" "قائم لمعناه، فإنه وإن لم يثبت وضع مجموعه لمعناه من الواضع لكن وضع مفرادته لمعناها. والوضع في اللغة "نهادن" وفي الاصطلاح: "تخصيص شيء بشيء بحيث متى أطلق أو أحس الشيء الأول فهم منه الشيء الثاني. والمراد من الدلالة اللفظية الوضعية هي اللفظ بحيث متى أطلق فهم منه معناه للعلم بوضعه. الطبعية إلخ: هي التي تكون بإحداث الطبيعة الدال عند عروض المدلول سواء كان الدال لفظا، كدلالة كون ح أح" على السعال، أو غير لفظ كر كض الدابة على العلف. أح أح: بفتح الهمزة أو ضمها بالحاء المهملة. يقال: "أح الرجل" إذا سعل. وأما بضم الهمزة وسكون الخاء المعجمة المشددة فدلالة على الوجع، وإذا فتحت الهمزة دلت على التحسر . كذا في "القاموس" وغيره، فقد وقع التسامح من المصنف في تفسير أح أح، وهذا مثال للدلالة الطبعية اللفظية. وركض الدابة مثال للدلالة التي هي غير لفظية. في "الصراح" ركض: تحريك الرّجل، وركض الفرس: إذا عدا، ومنه قوله تعالى : وارْكُضُ بِرِجْلِكَ . العقلية: إنما نسبت إلى العقل لعدم مداخلة الوضع والطبع فيها، ويعتبر فيها علاقة التأثير فيشمل دلالة الأثر، كالدخان على المؤثر كالنار، ودلالة المؤثر على الأثر ودلالة أحد الأثرين على الآخر ، كدلالة الدخان على الحرارة، وهما أثران للنار. النُصُب أي ما ينصب على الطريق لإدراك بعد المسافة والخطوط والإشارات والعقود أي: الدوال: وهي عقود الأنامل التي تدل على الأعداد.
+Section on indication: Indication linguistically is guidance, i.e., rāh namūdan [in Persian]. In terminology, it is the state of a thing such that knowledge of it necessitates knowledge of another thing. Indication is of two types: verbal and non-verbal. Verbal: Enumeration of indication into six types: indication and its divisions: what has the word as the indicator, and non-verbal: what does not have the word as the indicator. Each of them is of three kinds: First: conventional verbal indication, like the indication of the word 'Zayd' for its namesake; second: natural verbal indication, like the indication of the word 'uḥ aḥ' – with ḍamma on the hamza and sukūn on the ḥāʼ, or with fatḥa – for chest pain; for nature compels producing this word when chest pain occurs; third: rational verbal indication, like the indication of the word 'Dīz' heard from behind a wall for the existence of the speaker; fourth: conventional non-verbal indication, like the indication of the four indicators for their significates; fifth: natural non-verbal indication, like the indication of the whinnying of a horse for seeking water and fodder; sixth: rational non-verbal indication, like the indication of smoke for fire. 'Conventional' etc.: attributed to convention (waḍʻ), such that convention has an entry in it, whether the specific word itself is placed for its meaning, like placing 'Zayd' for his essence, or the parts of the word are placed for their meanings, like placing 'Zayd' and 'standing' for their meanings; even if the whole phrase is not established by a single act of placing, the parts are. Convention linguistically is 'nihādan' [in Persian], and in terminology: 'allocating one thing to another such that whenever the first is uttered or sensed, the second is understood from it.' What is meant by conventional verbal indication is a word such that when it is uttered, its meaning is understood due to knowledge of its convention. Natural: it is that which is caused by nature producing the indicator when the significate occurs, whether the indicator is verbal, like the indication of 'uḥ aḥ' for coughing, or non-verbal like the kicking of an animal for fodder. 'Uḥ aḥ': with fatḥa or ḍamma on the hamza and a ḥāʼ with sukūn; it is said 'aḥa al-rajul' if he coughed. And with ḍamma on the hamza and sukūn on the khāʼ with tashdid, it indicates pain; with fatḥa on the hamza it indicates regret. This is an example of natural verbal indication. The kicking of an animal is an example of non-verbal natural indication. In 'al-Ṣirāḥ', 'rakḍ' means moving the foot; 'rakḍ al-faras' means it runs; from it is the verse: 'And [We said], 'Strike with your foot'' [Qur'an 38:42]. Rational: it is attributed to reason because there is no intervention of convention or nature; in it a relation of effect is considered, so it includes indication of the effect for the cause, like smoke for the fire, indication of the cause for the effect, and indication of one of the two effects for the other, like indication of smoke for heat – both are effects of fire. 'An-nuṣub': that which is set up on the road to measure distance, and lines, and signals, and knots (ʻuqūd): the counters (dawāl), which are knots of the fingers that indicate numbers.
+Source pages p. 16
+
+Commentary
+This passage provides the definition of indication (dalala) and its detailed classification. First, the definition is given: indication is a relation between two things such that knowledge of one (the indicator) leads to knowledge of the other (the significate). Indication is then divided into two major types: verbal (the indicator is a word) and non-verbal (the indicator is not a word). Each of these is further divided into three subtypes: conventional (wad'iyya), natural (tab'iyya), and rational ('aqliyya). The author enumerates all six types with clear examples. For conventional verbal, the example is the word 'Zayd' which indicates the person Zayd by convention. For natural verbal, the example is the utterance 'uḥ aḥ' which naturally occurs when someone has chest pain. For rational verbal, the example is hearing the word 'Dīz' from behind a wall, which leads rationally to the conclusion that there is a speaker. For conventional non-verbal, the example is the four 'dawāl' (finger-counting signs) used to indicate numbers. For natural non-verbal, the example is a horse's whinny indicating its desire for water. For rational non-verbal, the example is smoke indicating fire. The commentary then elaborates each type: explaining that 'conventional' involves a deliberate assignment of a sign to a meaning; 'natural' arises from an involuntary connection; 'rational' depends on a causal inference. The commentary also clarifies issues like the fact that a compound expression can be conventional based on its parts, even if the whole is not explicitly placed. It also corrects a potential misreading of 'uḥ aḥ' by citing lexical sources.
+
+Key Terms
+الدلالة
+الدلالة اللفظية الوضعية
+الدلالة اللفظية الطبعية
+الدلالة اللفظية العقلية
+الدوال الأربع
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, the definition of indication in logic is:
+A) A word that points to its meaning.
+B) The state of a thing such that knowledge of it leads to knowledge of another thing.
+C) A natural sign that occurs involuntarily.
+D) A conventional sign used by humans.
+
+Key Takeaway
+Indication is a relation of leading from known to unknown; logic classifies it into six types based on the nature of the indicator and the basis of the connection.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of indication for each of the following: a) The word 'Zayd' referring to a person; b) A person coughing and the sound 'uḥ aḥ' indicating pain; c) Hearing footsteps and inferring someone is coming; d) A raised hand in class indicating a desire to speak. Write the type and justify.
+?
+From the Quran, find three examples of words that indicate by convention (e.g., 'Allāh', 'kitāb', 'ṣalāh'). Classify them as conventional verbal indication.
+
+Pages p. 16 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 16
+Module 11 · Lesson 3
+Next →
+Other Lessons
+intermediate
+5 min
+The Three Types of Verbal Indication
+Explains conventional, natural, and rational verbal indication with examples
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish conventional, natural, and rational verbal indication using examples from Arabic language and Islamic texts.
+
+Core Idea
+Words can indicate meanings by convention, nature, or reason — each has a different epistemic basis.
+
+We focus here on verbal indication, where the indicator is a word. The passage explains three subtypes: conventional (like 'Zayd'), natural (like coughing sounds), and rational (like inferring a speaker from sound).
+
+Guided Path
+1
+Locate the three verbal subtypes in the Arabic
+Find the terms: اللفظية الوضعية, اللفظية الطبعية, اللفظية العقلية. Note that they are all under the heading 'اللفظية' (verbal).
+The passage states 'كل منهما على ثلاثة أنحاء' and then lists them.
+2
+Understand the basis for each subtype
+For conventional, the connection is established by deliberate assignment (waḍʻ). For natural, it arises from an involuntary bodily reaction (tabʻ). For rational, it depends on an inference of cause and effect ('aql).
+Check the commentary: 'الوضعية... منسوب إلى الوضع', 'الطبعية... بإحداث الطبيعة', 'العقلية... لعدم مداخلة الوضع والطبع'.
+3
+Examine the examples provided
+Write down the example for each: conventional: 'Zayd'; natural: 'uḥ aḥ'; rational: hearing 'Dīz' and inferring a speaker. Understand why each fits.
+For natural, note that it is a word (لفظ) but produced involuntarily, so it is verbal natural.
+4
+Apply the taxonomy to new examples
+Think of other words: e.g., 'آه' for sighing (natural), 'الم' in the Quran (conventional), the sound of a broken glass implying an accident (rational). Classify them.
+Use Islamic examples: the word 'رب' indicating Lord by convention, the groan of a sick person (natural), the sound of rain implying a storm (rational).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الدلالة الدلالة لغة هو الإرشاد أي راه نمودن وفي الاصطلاح كون الشيء بحيث يلزم من العلم به العلم بشيء آخر. والدلالة قسمان لفظية وغير لفظية، واللفظية: حصر الدلالة في ستة أقسام الدلالة وأقسامها ما يكون الدال فيه اللفظ وغير اللفظية ما لا يكون الدال فيه اللفظ، وكل منهما على ثلاثة أنحاء أحدها : اللفظية الوضعية، كدلالة لفظ زيد على مسماه، وثانيها: اللفظية الطبعية، كدلالة لفظ "أُح أح" - بضم الهمزة وسكون الحاء المهملة، وقيل: بفتحها – على وجع الصدر ؛ فإن الطبعية تضطر بإحداث هذا اللفظ عند عروض الوجع في الصدر وثالثها اللفظية العقلية كدلالة لفظ "ديز" المسموع من وراء الجدار على وجود اللافظ، ورابعها غير اللفظية الوضعية، كدلالة الدوال الأربع على مدلولاتها، وخامسها غير اللفظية الطبعية كدلالة صهيل الفرس على طلب الماء والكلأ، وسادسها: الغير اللفظية العقلية كدلالة الدخان على النار. الوضعية إلخ منسوب إلى الوضع بأن يكون للوضع فيها مدخل، سواء وضع عين اللفظ أي شخصه لمعناه، كوضع "زيد" لذاته، أو وضع مفردات اللفظ لمعناها كوضع زيد" "قائم لمعناه، فإنه وإن لم يثبت وضع مجموعه لمعناه من الواضع لكن وضع مفرادته لمعناها. والوضع في اللغة "نهادن" وفي الاصطلاح: "تخصيص شيء بشيء بحيث متى أطلق أو أحس الشيء الأول فهم منه الشيء الثاني. والمراد من الدلالة اللفظية الوضعية هي اللفظ بحيث متى أطلق فهم منه معناه للعلم بوضعه. الطبعية إلخ: هي التي تكون بإحداث الطبيعة الدال عند عروض المدلول سواء كان الدال لفظا، كدلالة كون ح أح" على السعال، أو غير لفظ كر كض الدابة على العلف. أح أح: بفتح الهمزة أو ضمها بالحاء المهملة. يقال: "أح الرجل" إذا سعل. وأما بضم الهمزة وسكون الخاء المعجمة المشددة فدلالة على الوجع، وإذا فتحت الهمزة دلت على التحسر . كذا في "القاموس" وغيره، فقد وقع التسامح من المصنف في تفسير أح أح، وهذا مثال للدلالة الطبعية اللفظية. وركض الدابة مثال للدلالة التي هي غير لفظية. في "الصراح" ركض: تحريك الرّجل، وركض الفرس: إذا عدا، ومنه قوله تعالى : وارْكُضُ بِرِجْلِكَ . العقلية: إنما نسبت إلى العقل لعدم مداخلة الوضع والطبع فيها، ويعتبر فيها علاقة التأثير فيشمل دلالة الأثر، كالدخان على المؤثر كالنار، ودلالة المؤثر على الأثر ودلالة أحد الأثرين على الآخر ، كدلالة الدخان على الحرارة، وهما أثران للنار. النُصُب أي ما ينصب على الطريق لإدراك بعد المسافة والخطوط والإشارات والعقود أي: الدوال: وهي عقود الأنامل التي تدل على الأعداد.
+Section on indication: Indication linguistically is guidance, i.e., rāh namūdan [in Persian]. In terminology, it is the state of a thing such that knowledge of it necessitates knowledge of another thing. Indication is of two types: verbal and non-verbal. Verbal: Enumeration of indication into six types: indication and its divisions: what has the word as the indicator, and non-verbal: what does not have the word as the indicator. Each of them is of three kinds: First: conventional verbal indication, like the indication of the word 'Zayd' for its namesake; second: natural verbal indication, like the indication of the word 'uḥ aḥ' – with ḍamma on the hamza and sukūn on the ḥāʼ, or with fatḥa – for chest pain; for nature compels producing this word when chest pain occurs; third: rational verbal indication, like the indication of the word 'Dīz' heard from behind a wall for the existence of the speaker; fourth: conventional non-verbal indication, like the indication of the four indicators for their significates; fifth: natural non-verbal indication, like the indication of the whinnying of a horse for seeking water and fodder; sixth: rational non-verbal indication, like the indication of smoke for fire. 'Conventional' etc.: attributed to convention (waḍʻ), such that convention has an entry in it, whether the specific word itself is placed for its meaning, like placing 'Zayd' for his essence, or the parts of the word are placed for their meanings, like placing 'Zayd' and 'standing' for their meanings; even if the whole phrase is not established by a single act of placing, the parts are. Convention linguistically is 'nihādan' [in Persian], and in terminology: 'allocating one thing to another such that whenever the first is uttered or sensed, the second is understood from it.' What is meant by conventional verbal indication is a word such that when it is uttered, its meaning is understood due to knowledge of its convention. Natural: it is that which is caused by nature producing the indicator when the significate occurs, whether the indicator is verbal, like the indication of 'uḥ aḥ' for coughing, or non-verbal like the kicking of an animal for fodder. 'Uḥ aḥ': with fatḥa or ḍamma on the hamza and a ḥāʼ with sukūn; it is said 'aḥa al-rajul' if he coughed. And with ḍamma on the hamza and sukūn on the khāʼ with tashdid, it indicates pain; with fatḥa on the hamza it indicates regret. This is an example of natural verbal indication. The kicking of an animal is an example of non-verbal natural indication. In 'al-Ṣirāḥ', 'rakḍ' means moving the foot; 'rakḍ al-faras' means it runs; from it is the verse: 'And [We said], 'Strike with your foot'' [Qur'an 38:42]. Rational: it is attributed to reason because there is no intervention of convention or nature; in it a relation of effect is considered, so it includes indication of the effect for the cause, like smoke for the fire, indication of the cause for the effect, and indication of one of the two effects for the other, like indication of smoke for heat – both are effects of fire. 'An-nuṣub': that which is set up on the road to measure distance, and lines, and signals, and knots (ʻuqūd): the counters (dawāl), which are knots of the fingers that indicate numbers.
+Source pages p. 16
+
+Commentary
+This passage provides the definition of indication (dalala) and its detailed classification. First, the definition is given: indication is a relation between two things such that knowledge of one (the indicator) leads to knowledge of the other (the significate). Indication is then divided into two major types: verbal (the indicator is a word) and non-verbal (the indicator is not a word). Each of these is further divided into three subtypes: conventional (wad'iyya), natural (tab'iyya), and rational ('aqliyya). The author enumerates all six types with clear examples. For conventional verbal, the example is the word 'Zayd' which indicates the person Zayd by convention. For natural verbal, the example is the utterance 'uḥ aḥ' which naturally occurs when someone has chest pain. For rational verbal, the example is hearing the word 'Dīz' from behind a wall, which leads rationally to the conclusion that there is a speaker. For conventional non-verbal, the example is the four 'dawāl' (finger-counting signs) used to indicate numbers. For natural non-verbal, the example is a horse's whinny indicating its desire for water. For rational non-verbal, the example is smoke indicating fire. The commentary then elaborates each type: explaining that 'conventional' involves a deliberate assignment of a sign to a meaning; 'natural' arises from an involuntary connection; 'rational' depends on a causal inference. The commentary also clarifies issues like the fact that a compound expression can be conventional based on its parts, even if the whole is not explicitly placed. It also corrects a potential misreading of 'uḥ aḥ' by citing lexical sources.
+
+Key Terms
+الدلالة اللفظية الوضعية
+الدلالة اللفظية الطبعية
+الدلالة اللفظية العقلية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of rational verbal indication?
+A) Horse whinnying for water.
+B) The word 'kitāb' indicating a book.
+C) Hearing 'Dīz' from behind a wall implying a speaker.
+D) Smoke indicating fire.
+
+Key Takeaway
+Verbal indication is subdivided into conventional, natural, and rational; each rests on a different basis: deliberate assignment, involuntary response, or cause-effect reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each as conventional, natural, or rational verbal indication: a) The call 'الله أكبر' (Allahu Akbar) indicating the start of prayer; b) A person sneezing and saying 'أتش' (atchoo) indicating a tickle; c) Hearing the phrase 'الحمد لله' from a neighbor and inferring they are grateful. Justify each.
+?
+Find two examples from the Quran where a word indicates by rational verbal indication. Hint: consider verses where a phenomenon implies the Creator (e.g., 'أفلا ينظرون إلى الإبل كيف خلقت' (Do they not look at the camels, how they are created?)).
+
+Pages p. 16 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 16
+Module 11 · Lesson 4
+Next →
+Other Lessons
+intermediate
+5 min
+The Three Types of Non-Verbal Indication
+Explains conventional, natural, and rational non-verbal indication with examples
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish conventional, natural, and rational non-verbal indication using examples from natural phenomena and Islamic practices.
+
+Core Idea
+Non-verbal signs — like smoke, whinnies, and finger-counts — also follow the same threefold pattern.
+
+This lesson covers non-verbal indication, where the indicator is not a word. The passage lists conventional (like finger-counting signs), natural (like a horse whinnying for water), and rational (like smoke indicating fire) non-verbal indications.
+
+Guided Path
+1
+Identify the non-verbal subtypes in the Arabic
+Find the terms after 'غير اللفظية': الوضعية, الطبعية, العقلية. They are the non-verbal counterparts.
+The passage explicitly says 'غير اللفظية الوضعية', 'غير اللفظية الطبعية', 'غير اللفظية العقلية'.
+2
+Understand the basis for non-verbal subtypes
+The same three bases apply: conventional (by agreement), natural (by nature), rational (by reasoning). The difference is that the indicator is not a word.
+For conventional non-verbal, the passage mentions the four 'dawāl' (mile-markers, lines, signals, knots). These are human conventions without using words.
+3
+Examine the examples provided
+Conventional non-verbal: the four indicators (mile-markers for distance, lines for marking, signals for gestures, knots for counting). Natural non-verbal: horse whinnying for water. Rational non-verbal: smoke indicating fire.
+Each example clearly illustrates the basis: the four indicators are conventional, whinnying is natural (involuntary), smoke-to-fire is rational (cause and effect).
+4
+Apply the taxonomy to Islamic contexts
+Think of examples from Islamic practice: e.g., the Prophet's (PBUH) pointing finger during tashahhud is a non-verbal conventional indication (signal). The sound of a crying baby in the mosque is a natural non-verbal indication of distress. The sight of a broken foot in a hadith victim indicates a fall by rational inference.
+Use these to practice classification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل في الدلالة الدلالة لغة هو الإرشاد أي راه نمودن وفي الاصطلاح كون الشيء بحيث يلزم من العلم به العلم بشيء آخر. والدلالة قسمان لفظية وغير لفظية، واللفظية: حصر الدلالة في ستة أقسام الدلالة وأقسامها ما يكون الدال فيه اللفظ وغير اللفظية ما لا يكون الدال فيه اللفظ، وكل منهما على ثلاثة أنحاء أحدها : اللفظية الوضعية، كدلالة لفظ زيد على مسماه، وثانيها: اللفظية الطبعية، كدلالة لفظ "أُح أح" - بضم الهمزة وسكون الحاء المهملة، وقيل: بفتحها – على وجع الصدر ؛ فإن الطبعية تضطر بإحداث هذا اللفظ عند عروض الوجع في الصدر وثالثها اللفظية العقلية كدلالة لفظ "ديز" المسموع من وراء الجدار على وجود اللافظ، ورابعها غير اللفظية الوضعية، كدلالة الدوال الأربع على مدلولاتها، وخامسها غير اللفظية الطبعية كدلالة صهيل الفرس على طلب الماء والكلأ، وسادسها: الغير اللفظية العقلية كدلالة الدخان على النار. الوضعية إلخ منسوب إلى الوضع بأن يكون للوضع فيها مدخل، سواء وضع عين اللفظ أي شخصه لمعناه، كوضع "زيد" لذاته، أو وضع مفردات اللفظ لمعناها كوضع زيد" "قائم لمعناه، فإنه وإن لم يثبت وضع مجموعه لمعناه من الواضع لكن وضع مفرادته لمعناها. والوضع في اللغة "نهادن" وفي الاصطلاح: "تخصيص شيء بشيء بحيث متى أطلق أو أحس الشيء الأول فهم منه الشيء الثاني. والمراد من الدلالة اللفظية الوضعية هي اللفظ بحيث متى أطلق فهم منه معناه للعلم بوضعه. الطبعية إلخ: هي التي تكون بإحداث الطبيعة الدال عند عروض المدلول سواء كان الدال لفظا، كدلالة كون ح أح" على السعال، أو غير لفظ كر كض الدابة على العلف. أح أح: بفتح الهمزة أو ضمها بالحاء المهملة. يقال: "أح الرجل" إذا سعل. وأما بضم الهمزة وسكون الخاء المعجمة المشددة فدلالة على الوجع، وإذا فتحت الهمزة دلت على التحسر . كذا في "القاموس" وغيره، فقد وقع التسامح من المصنف في تفسير أح أح، وهذا مثال للدلالة الطبعية اللفظية. وركض الدابة مثال للدلالة التي هي غير لفظية. في "الصراح" ركض: تحريك الرّجل، وركض الفرس: إذا عدا، ومنه قوله تعالى : وارْكُضُ بِرِجْلِكَ . العقلية: إنما نسبت إلى العقل لعدم مداخلة الوضع والطبع فيها، ويعتبر فيها علاقة التأثير فيشمل دلالة الأثر، كالدخان على المؤثر كالنار، ودلالة المؤثر على الأثر ودلالة أحد الأثرين على الآخر ، كدلالة الدخان على الحرارة، وهما أثران للنار. النُصُب أي ما ينصب على الطريق لإدراك بعد المسافة والخطوط والإشارات والعقود أي: الدوال: وهي عقود الأنامل التي تدل على الأعداد.
+Section on indication: Indication linguistically is guidance, i.e., rāh namūdan [in Persian]. In terminology, it is the state of a thing such that knowledge of it necessitates knowledge of another thing. Indication is of two types: verbal and non-verbal. Verbal: Enumeration of indication into six types: indication and its divisions: what has the word as the indicator, and non-verbal: what does not have the word as the indicator. Each of them is of three kinds: First: conventional verbal indication, like the indication of the word 'Zayd' for its namesake; second: natural verbal indication, like the indication of the word 'uḥ aḥ' – with ḍamma on the hamza and sukūn on the ḥāʼ, or with fatḥa – for chest pain; for nature compels producing this word when chest pain occurs; third: rational verbal indication, like the indication of the word 'Dīz' heard from behind a wall for the existence of the speaker; fourth: conventional non-verbal indication, like the indication of the four indicators for their significates; fifth: natural non-verbal indication, like the indication of the whinnying of a horse for seeking water and fodder; sixth: rational non-verbal indication, like the indication of smoke for fire. 'Conventional' etc.: attributed to convention (waḍʻ), such that convention has an entry in it, whether the specific word itself is placed for its meaning, like placing 'Zayd' for his essence, or the parts of the word are placed for their meanings, like placing 'Zayd' and 'standing' for their meanings; even if the whole phrase is not established by a single act of placing, the parts are. Convention linguistically is 'nihādan' [in Persian], and in terminology: 'allocating one thing to another such that whenever the first is uttered or sensed, the second is understood from it.' What is meant by conventional verbal indication is a word such that when it is uttered, its meaning is understood due to knowledge of its convention. Natural: it is that which is caused by nature producing the indicator when the significate occurs, whether the indicator is verbal, like the indication of 'uḥ aḥ' for coughing, or non-verbal like the kicking of an animal for fodder. 'Uḥ aḥ': with fatḥa or ḍamma on the hamza and a ḥāʼ with sukūn; it is said 'aḥa al-rajul' if he coughed. And with ḍamma on the hamza and sukūn on the khāʼ with tashdid, it indicates pain; with fatḥa on the hamza it indicates regret. This is an example of natural verbal indication. The kicking of an animal is an example of non-verbal natural indication. In 'al-Ṣirāḥ', 'rakḍ' means moving the foot; 'rakḍ al-faras' means it runs; from it is the verse: 'And [We said], 'Strike with your foot'' [Qur'an 38:42]. Rational: it is attributed to reason because there is no intervention of convention or nature; in it a relation of effect is considered, so it includes indication of the effect for the cause, like smoke for the fire, indication of the cause for the effect, and indication of one of the two effects for the other, like indication of smoke for heat – both are effects of fire. 'An-nuṣub': that which is set up on the road to measure distance, and lines, and signals, and knots (ʻuqūd): the counters (dawāl), which are knots of the fingers that indicate numbers.
+Source pages p. 16
+
+Commentary
+This passage provides the definition of indication (dalala) and its detailed classification. First, the definition is given: indication is a relation between two things such that knowledge of one (the indicator) leads to knowledge of the other (the significate). Indication is then divided into two major types: verbal (the indicator is a word) and non-verbal (the indicator is not a word). Each of these is further divided into three subtypes: conventional (wad'iyya), natural (tab'iyya), and rational ('aqliyya). The author enumerates all six types with clear examples. For conventional verbal, the example is the word 'Zayd' which indicates the person Zayd by convention. For natural verbal, the example is the utterance 'uḥ aḥ' which naturally occurs when someone has chest pain. For rational verbal, the example is hearing the word 'Dīz' from behind a wall, which leads rationally to the conclusion that there is a speaker. For conventional non-verbal, the example is the four 'dawāl' (finger-counting signs) used to indicate numbers. For natural non-verbal, the example is a horse's whinny indicating its desire for water. For rational non-verbal, the example is smoke indicating fire. The commentary then elaborates each type: explaining that 'conventional' involves a deliberate assignment of a sign to a meaning; 'natural' arises from an involuntary connection; 'rational' depends on a causal inference. The commentary also clarifies issues like the fact that a compound expression can be conventional based on its parts, even if the whole is not explicitly placed. It also corrects a potential misreading of 'uḥ aḥ' by citing lexical sources.
+
+Key Terms
+الدوال الأربع
+الدلالة الغير اللفظية الوضعية
+الدلالة الغير اللفظية الطبعية
+الدلالة الغير اللفظية العقلية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of natural non-verbal indication?
+A) The word 'Zayd' indicating a person.
+B) A horse whinnying for water.
+C) Finger-counting knots indicating numbers.
+D) Smoke indicating fire.
+
+Key Takeaway
+Non-verbal signs, like verbal signs, are classified as conventional, natural, or rational, depending on the source of the connection.
+
+How This Lesson Applies — to MY Life?
+?
+Classify each as conventional, natural, or rational non-verbal indication: a) A thumbs-up gesture meaning 'good'; b) A baby crying when hungry; c) Seeing a wet floor and inferring it rained; d) A sundial indicating time. Provide an Islamic example for each.
+?
+In the hadith of the Prophet (PBUH) pointing during dhikr, what type of non-verbal indication is this? Explain why it is conventional and not natural or rational.
+
+Pages p. 16 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 19
+Module 11 · Lesson 5
+Next →
+Other Lessons
+beginner
+5 min
+The Three Types of Verbal Signification: Mutabaqa, Tadammun, and Iltizam
+Commentator defines matching, implicative, and concomitant signification.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and differentiate between the three types of conventional verbal signification (mutabaqa, tadammun, iltizam) using examples from Islamic sciences.
+
+Core Idea
+A word can signify its entire meaning, a part, or a necessary external meaning.
+
+Words are not limited to a single mode of signification. In Islamic logic, a conventional word placed for a meaning can signify that meaning in three distinct ways. Understanding these three types — matching (mutabaqa), implicative (tadammun), and concomitant (iltizam) — is essential for precise interpretation of texts in fiqh, kalam, and tafsir.
+
+Guided Path
+1
+Identify the overarching category
+The term 'الدلالة اللفظية الوضعية' (conventional verbal signification) is the general concept. All three types fall under it.
+This is the capacity of a word to convey meaning based on convention (wad').
+2
+Distinguish matching (mutabaqa)
+Matching signification occurs when a word signifies the entirety of the meaning it was placed for. Example: 'insan' signifies the complete meaning of 'animal + rational'.
+It is the most direct form of signification.
+3
+Distinguish implicative (tadammun)
+Implicative signification occurs when a word signifies only a part of its original meaning. Example: 'insan' signifies just 'animal'.
+The part is inherent in the whole.
+4
+Distinguish concomitant (iltizam)
+Concomitant signification occurs when a word signifies a meaning external to its original meaning but necessarily connected to it. Example: 'insan' signifies 'capacity for knowledge' — an external necessary concomitant.
+The mind transfers from the original meaning to the concomitant (lazim).
+5
+Apply the distinction to a new example
+Take the word 'salah' (prayer). Its matching signification is the entire ritual; its implicative is a part like ruku'; its concomitant could be 'abstaining from lewdness' (from Qur'an 29:45).
+Practice with other Islamic terms to cement understanding.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الدلالة اللفظية الوضعية: ذلك اللفظ له كدلالة الإنسان على مجموع الحيوان والناطق، وثانيها: التضمنية، وهي أن يدل اللفظ على جزء المعنى الموضوع له كدلالته على الحيوان فقط، وثالثها: الدلالة الالتزامية، وهي أن لا يدل اللفظ على الموضوع له ولا على جزئه، بل على معنى خارج لازم للموضوع له واللازم هو ما ينتقل الذهن من الموضوع له إليه.
+Conventional verbal signification: that word has it like the signification of 'human' upon the aggregate of animal and rational. And second: implicative signification, which is that the word signifies a part of the meaning it is placed for, like its signification upon 'animal' only. And third: concomitant signification, which is that the word does not signify the meaning it is placed for nor a part of it, but rather an external meaning necessary to the meaning it is placed for; and the necessary is that which the mind transfers from the meaning it is placed for to it.
+Source pages p. 19
+
+Commentary
+This passage defines the three types of conventional verbal signification (al-dalala al-lafziyya al-wad'iyya). The commentator presents them in order. The first type, matching (mutabaqa), is exemplified by the word 'insan' signifying the entire meaning of animal and rational (hayawan natiq). The second, implicative (tadammun), is when the word signifies only a part of that meaning, such as 'insan' signifying 'animal' alone. The third, concomitant (iltizam), is when the word signifies a meaning external to its original meaning but necessarily connected to it, such that the mind moves from the original to that external meaning. An example would be 'human' signifying 'capacity for knowledge' — this is a necessary concomitant. The passage emphasizes that the necessary (lazim) is what the mind transfers from the original to it.
+
+Key Terms
+الدلالة اللفظية الوضعية
+المطابقة
+التضمن
+الالتزام
+اللازم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the difference between implicative (tadammun) and concomitant (iltizam) signification?
+A) Tadammun signifies the whole meaning, iltizam signifies a part.
+B) Tadammun signifies a part of the original meaning, iltizam signifies an external necessary meaning.
+C) Tadammun and iltizam are the same.
+D) Tadammun requires intent, iltizam does not.
+
+Key Takeaway
+The three types of verbal signification — mutabaqa, tadammun, iltizam — form the foundation for analyzing how words convey meaning in Islamic texts.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the word 'salah' (prayer) in Islamic law. Identify which type of signification applies when the word is used to mean 'the specific acts of standing, bowing, and prostrating together' (mutabaqa), when it means only 'bowing' (tadammun), and when it means 'abstaining from immorality' (iltizam, based on 'salah forbids lewdness').
+?
+Take the word 'iman' (faith). According to the passage, what would be an example of its implicative signification? (Hint: part of its meaning is 'belief in the heart').
+
+Pages p. 19 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 19
+Module 11 · Lesson 6
+Next →
+Other Lessons
+intermediate
+8 min
+Resolving the Sun Objection: The Role of Haythiyya in Dalalat
+Commentator resolves the famous objection about the sun word signifying both matching and concomitant.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish matching and concomitant signification using the concept of haythiyya and apply it to resolve apparent contradictions in word signification.
+
+Core Idea
+The same word can signify both matchingly and concomitantly depending on which aspect you consider.
+
+In this passage, the commentator addresses a famous objection about the word 'sun' which seems to have both matching and concomitant signification simultaneously. He introduces the crucial concept of haythiyya (aspect) to resolve the contradiction. Understanding this will sharpen your ability to analyse word-meaning relationships in Islamic sciences.
+
+Guided Path
+1
+Understand the objection
+The objection claims that the word 'sun' signifies both the luminous body (matching) and light (concomitant) at the same time, creating a paradox.
+The objection arises because the word is placed for both malzum and lazim.
+2
+Identify the two perspectives
+The signification is considered from two different aspects: as the entire meaning placed for (matching) and as a necessary concomitant of that meaning (concomitant).
+The same utterance can evoke both meanings, but under different aspects.
+3
+Apply the concept of haythiyya
+The same signification can be matching if viewed as the whole, but concomitant if viewed as following necessarily from the subject. The haythiyya specifies which aspect is intended.
+Haythiyya is the perspectival filter that resolves the apparent contradiction.
+4
+Realise the refinement
+The commentator shows that the contradiction is resolved by specifying the aspect; the matn author's omission of this qualification was a laxity.
+This critical refinement illustrates the importance of precision in defining terms of signification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإنما قيدناها بهذه الحيثية لدفع الإشكال المشهور: وهو أن اللفظ مثلا كالشمس إذا وضع للملزوم كالجرم النوري، واللازم كالضوء، وأريد اللازم - أي الضوء - من جهة أنه لازم لملزومه الموضوع له - أعني الحرم النوري - يكون الدلالة حينئذ التزامية مع أنه يصدق على هذه الدلالة أنها دلالة اللفظ على تمام ما وضع له فيكون هذه الدلالة مطابقية. ودفعه بأن الدلالة المذكورة وإن كانت دلالة اللفظ على تمام ما وضع له لكنها ليس من حيث إنه تمام ما وضع له بل من حيث إنه لازم لملزومه الموضوع له، فظهر أن ترك الحيثية من مسامحة الماتن.
+And we only qualified it with this aspect to repel the famous objection: which is that the word, for example 'sun', if placed for the necessary (malzum) like the luminous body, and the concomitant (lazim) like light, and one intends the concomitant - i.e. light - from the perspective that it is a necessary concomitant of its malzum placed for - i.e. the luminous body - then the signification is concomitant, while it also applies to this signification that it is the signification of the word on the entirety of what it is placed for, therefore this signification would be matching. And its refutation is that the mentioned signification, even if it is the signification of the word on the entirety of what it is placed for, it is not from the perspective that it is the entirety of what it is placed for, but rather from the perspective that it is a necessary concomitant of its malzum placed for. So it appears that omitting the aspect (haythiyya) is a laxity of the author.
+Source pages p. 19
+
+Commentary
+This passage presents a famous objection concerning the word 'shams' (sun). The objection states that if the word 'sun' is placed for the malzum (the luminous body) and also for the lazim (light), then when one intends light, the signification appears to be both matching (since light is the entirety of what is placed for? Actually the objection says the signification is of the entire meaning placed for, so it would be matching) and concomitant at the same time, which is contradictory. The commentator resolves it by pointing out that the haythiyya (aspect) matters: when we say the word signifies the entirety of what it is placed for, if that is considered from the aspect that it is the entirety, it is matching; but if it is considered from the aspect that it is a necessary concomitant of the malzum, it is concomitant. So the same signification can be both under different aspects. The commentator notes that the matn author omitted this qualification, which is a laxity.
+
+Key Terms
+الحيثية
+المطابقية
+الالتزامية
+
+Key Terms from Source Passage
+
+Checkpoint
+How does the commentator resolve the objection about the word 'sun' signifying both matching and concomitant?
+A) By saying the signification is only matching.
+B) By saying the signification is only concomitant.
+C) By distinguishing the aspect (haythiyya) considered.
+D) By claiming the matn author made a mistake.
+
+Key Takeaway
+The haythiyya resolves apparent contradictions between matching and concomitant signification by specifying the aspect considered.
+
+How This Lesson Applies — to MY Life?
+?
+Analyse the word 'zakah' – it signifies both the act of giving (malzum) and the purification (concomitant). Apply the haythiyya to explain how both significations coexist without contradiction.
+
+Pages p. 19 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 19
+Module 11 · Lesson 7
+Next →
+Other Lessons
+intermediate
+5 min
+Two Schools on Implicative Signification: Intent and Understanding
+Commentator compares the views of logicians and grammarians on whether intent is required for implicative signification.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the logicians' and grammarians' conditions for implicative signification and explain why the logicians' view is essential for the division of signification.
+
+Core Idea
+Implicative signification does not require speaker intent — only that the part is understood from the word.
+
+In this passage, the commentator highlights a key disagreement in the theory of signification: must a speaker intend a part of a composite meaning for that part to be signified? The logicians say no; the grammarians say yes. This difference has consequences for how we classify types of signification. Let's examine their arguments and the commentator's verdict.
+
+Guided Path
+1
+Identify the two schools
+Locate where the commentator mentions the two schools: 'ahl al-mizan' (logicians) and 'ahl al-arabiyya' (grammarians). Note that they differ on the requirement of intent (al-qasd) for signification.
+2
+Understand the logicians' view
+The logicians do not consider intent necessary; they only require understanding (al-fahm). For them, a word placed for a composite meaning signifies its parts implicatively even if the speaker did not intend those parts specifically.
+Implicative signification (dalala tadammuniyya) is defined accordingly.
+3
+Understand the grammarians' view
+The grammarians require that the part be intended by the speaker; otherwise, they do not count it as a signification. This narrows the scope of implicative signification.
+4
+Grasp the commentator's argument
+The commentator argues that following the grammarians would invalidate the enumeration (al-hasr) of the three types of signification (matching, implicative, concomitant). The logicians' implicative signification would not fit into any category, yet it is clearly a type of signification.
+This shows the logical consequence of each position.
+5
+Decide which view is correct
+The commentator declares that the truth (al-haqq) is with the logicians. Accept their view to maintain a complete classification.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وثانيها إلخ : اعلم أن ههنا أي في دلالة التضمن مذهبين مذهب أهل الميزان، وهم لم يعتبروا في الدلالة القصد، بل الفهم فقط، فدلالة اللفظ الموضوع للمعنى المركب على الأجزاء المفهومة في ضمن المعنى المركب بحيث لم يتعلق القصد بها بالذات تضمنية. وأهل العربية اعتبروا القصد فلا تكون تضمنية عندهم. والحق مذهب أهل الميزان؛ فإن على مذهب أهل العربية يبطل الحصر، فإن الدلالة التضمنية الميزانية لا تدخل في شيء من الدلالات مع أنها داخلة في المقسم.
+And second (etc.): Know that here concerning implicative signification there are two schools: the school of the people of the scale (logicians), who did not consider intent in signification, but only understanding. So the signification of a word placed for a composite meaning on the parts understood within the composite meaning, such that intent does not attach to them essentially, is implicative. And the people of Arabic (grammarians) considered intent, so according to them it is not implicative. And the truth is the school of the people of the scale; for according to the school of the people of Arabic, the enumeration would be invalidated, because the implicative signification of the logicians would not enter into any of the (three) significations, while it is included in the divided concept.
+Source pages p. 19
+
+Commentary
+This passage discusses the different views regarding implicative signification (dalala tadammuniyya). The commentator notes that there are two schools: the logicians (ahl al-mizan) and the Arabic grammarians (ahl al-arabiyya). The logicians do not require intent (qasd) for signification; they only require that the meaning is understood from the word. So when a word placed for a composite meaning (e.g., 'human' for animal+rational) signifies a part (e.g., 'animal'), that is implicative even if the speaker did not intend that part. The grammarians, however, require that the part be intended by the speaker; otherwise, they do not consider it signification. The commentator declares that the truth is with the logicians, because if we follow the grammarians, then the implicative signification as defined by logicians would not fall under any of the three types of signification (since it would be neither matching nor implicative nor concomitant), yet it is clearly a type of signification and should be included in the division.
+
+Key Terms
+التضمن
+القصد
+أهل الميزان
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the main difference between the logicians' and grammarians' view on implicative signification?
+A) Logicians require intent, grammarians do not.
+B) Logicians do not require intent, grammarians do.
+C) Both require intent.
+D) Both do not require intent.
+
+Key Takeaway
+The logicians' position on implicative signification (no intent required) is necessary to maintain a complete and consistent classification of the types of signification.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the word 'iman' (faith) which signifies both belief and action. According to the logicians' view, does 'iman' implicitly signify 'action' even if the speaker is only focusing on belief? Explain using the concept of implicative signification.
+?
+Construct an example from fiqh: The word 'hajj' signifies standing at Arafat, tawaf, etc. If someone says 'I intend to perform hajj,' do they implicitly intend each part? How would the two schools analyze this situation?
+
+Pages p. 19 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 20
+Module 11 · Lesson 8
+Next →
+Other Lessons
+intermediate
+8 min
+Relationship Between Matching, Implicative, and Concomitant Signification
+Commentator states dependency of implicative and concomitant on matching, and responds to objection about necessary concomitants.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the three types of signification and explain the dependency relationships among them, including the condition for valid concomitant signification.
+
+Core Idea
+Implicative and concomitant depend on matching, but matching can stand alone.
+
+In this lesson, we explore how the three types of signification — matching, implicative, and concomitant — relate to each other. The commentator clarifies that the latter two cannot exist without the first, and addresses a subtle objection about whether every meaning has a necessary concomitant. Understanding these distinctions is crucial for interpreting Islamic legal and theological texts accurately.
+
+Guided Path
+1
+Identify the three types of signification
+Locate the three types in the Arabic passage: المطابقة (matching), التضمن (implicative), الالتزام (concomitant). Note that matching is the primary one.
+Each type corresponds to a different aspect of meaning conveyed by a word.
+2
+Trace the dependency claims
+The commentator asserts that implicative and concomitant do not exist without matching. For implicative, he says the part (جزء) is not conceived without the whole (كل). For concomitant, the necessary (لازم) does not exist without the necessary (ملزوم).
+Think of 'التابع' (the follower) and 'المتبوع' (the followed) as imagery for dependency.
+3
+Analyze the exception for matching alone
+Matching can exist without the other two because a word may be placed for a simple meaning (معنى بسيط) that has no parts and no necessary concomitants. This is a counterexample to the idea that every meaning has parts or necessities.
+Example: the word 'وجود' (existence) is a simple concept with no internal parts.
+4
+Understand the objection and response
+The imaginary objector says: no meaning exists without a necessary concomitant, at least that it is not other than itself. The commentator responds that the necessary meant in concomitant signification is the 'evident necessary' (اللازم البين) which the mind transfers to from the malzum.
+The commentator questions why logicians restrict the necessary to this specific sense.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل الدلالة التضمنية والالتزامية لا توجدان بدون المطابقة؛ وذلك لأن الجزء لا يتصور بدون الكل، وكذا اللازم بدون الملزوم، والتابع لا يوجد بدون المتبوع، والمطابقة قد توجد بدونهما؛ الجواز أن يوضع اللفظ لمعنى بسيط لا جزء له ولا لازم له. فإن قلت: لا نسلم أن يوجد معنى لا لازم له؛ فإن لكل معنى لازما ألبتة، وأقله أنه ليس غيره؟ قلنا : المراد باللازم هو اللازم البين الذي ينتقل الذهن من الملزوم إليه، ولا أدري أي ضرورتهم دعتهم إلى هذا الاعتبار؟ وأي باعث بعثهم على هذا التقييد في اللازم المعتبر في الدلالة الالتزامية؟ مع أنه لا يكاد يوجد في :
+Section: Implicative and concomitant significations do not exist without matching; because the part is not conceived without the whole, and likewise the necessary concomitant without the necessary (malzum), and the follower does not exist without the followed. And matching may exist without them; because it is possible that the word is placed for a simple meaning that has no part and no necessary concomitant. If you say: We do not concede that there exists a meaning that has no necessary concomitant; for every meaning definitely has a necessary concomitant, at least that it is not other than itself? We say: What is meant by the necessary is the evident necessary (al-lazim al-bayyin) to which the mind transfers from the necessary (malzum). And I do not know what necessity drove them to this consideration? And what motive impelled them to this restriction in the necessary considered in concomitant signification? While it is hardly found in...
+Source pages p. 20
+
+Commentary
+This passage establishes the relationship between the three types of signification. The commentator states that implicative (tadammun) and concomitant (iltizam) cannot exist without matching (mutabaqa), because a part cannot be conceived without the whole, nor a concomitant without its malzum. Matching, however, can exist without them, because a word can be placed for a simple meaning that has no parts and no necessary concomitants. An objection is raised: It is not conceded that there exists a meaning without any necessary concomitant; every meaning has at least the concomitant that it is not other than itself. The commentator responds that the intended necessary is the 'evident necessary' (al-lazim al-bayyin) to which the mind transfers. He then expresses puzzlement about why the logicians restrict the necessary to only the evident specific sense, since such evident concomitants are rare.
+
+Key Terms
+المطابقة
+التضمن
+الالتزام
+اللازم البين
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, can matching signification exist without implicative or concomitant?
+A) No, it always requires them.
+B) Yes, because a word can be placed for a simple meaning with no parts or necessary concomitants.
+C) Only if the meaning is composite.
+D) Only if the meaning has a part.
+
+Key Takeaway
+Implicative and concomitant signification depend on matching, but matching can stand alone; the concomitant requires an evident necessary (al-lazim al-bayyin).
+
+How This Lesson Applies — to MY Life?
+?
+Find an example from the Qur'an or Hadith where a word has a simple meaning (no parts) and therefore only matching signification applies. Explain why.
+?
+Take the term 'الإيمان' (faith) and identify its matching, implicative, and concomitant significations based on standard Usul al-Fiqh definitions.
+
+Pages p. 20 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 25
+Module 11 · Lesson 9
+Next →
+Other Lessons
+intermediate
+10 min
+The Problem of Tashkik in Existence by Intensity
+First part: debate on tashkik in existence
+
+Learning Objective
+By the end of this lesson, you will be able to explain why Peripatetics find tashkik by intensity problematic for existence and how Illuminationists resolve it.
+
+Core Idea
+Tashkik by intensity would make existence composite or accidental; Illuminationists treat it as variation in perfection.
+
+The passage opens with a specific question: can existence be graded by intensity? The author presents the Peripatetic objection that such grading would force existence into either a genus or an accident, and then offers the Illuminationist counter that existence is a simple reality varying in perfection.
+
+Guided Path
+1
+Identify the two senses of tashkik
+Note that tashkik is admitted by both schools in terms of priority/preference between the Necessary and contingent, but disputed in terms of intensity/weakness.
+2
+Understand the Peripatetic problem
+If existence admits intensity, then Necessary and contingent have different types of existence, forcing absolute existence to be either a genus (making existence composite) or accidental (making it a mere accident).
+3
+Grasp the Illuminationist response
+They propose that existence is a simple reality with a single meaning, yet its individuals vary in perfection/deficiency without composition or accident.
+4
+Recognize the unresolved status
+The author presents this as a place of reflection, not a settled issue, due to constraints of space.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الشدة: كالوجود : لا ريب في كون الوجود مشككا بالقياس إلى الواجب – جل مجده وبالقياس إلى الممكن باعتبار التقدم والتأخر والأولوية وعدمها وأما كونه مشككا باعتبار الشدة والضعف فمحل تأمل؛ إذ لو كان كذلك لقام بالواجب نوع من الوجود هو أشد، وبالممكن نوع من الوجود أضعف بما ثبت عندهم أن الأشد والأضعف نوعان متبائنان، فإما أن يكون الوجود المطلق جنسا للنوعين، فيلزم تركبهما من الجنس والفصل، أو يكون عرضيا لهما، فيكون لهما حقيقة غير الوجود المطلق. وبالجملة لا يتصور التفاوت في الوجود بالشدة والضعف إلا أن يقال: الوجود حقيقة نوعية بذاتها بسيطة لا جنس لها ولا فصل لها، وهي في جميع الأشياء بمعنى واحد ، ومع وحدتها متفاوتة الحصول بأنحاء التشكيك، وليست أفرادها متخالفة الهويات في التقدم والتأخر، والكمال والنقص والغنى والحاجة. ومرجع والضعف ليس إلا الكمال والنقصان كما هو مذهب الإشراقية. مشككا مسألة التشكيك في كتب الفن مسطورة على وجه البسط والتفصيل. وهي مسألة عويصة معركة الآراء، ومزلة الأقدام وضيق المقام، ومخافة الخروج من نطاق المقصود، وإن كانا لا يرخصان لتفصيلها وبسط أدلة المشائية والإشراقية وتعيين الحق فيها كما هو حقه إلا أنا لا نرى بأسا بذكره على وجه الاختصار والإيجاز بحيث يكون تبصرة للمبتدئيين وإعانة على فهمها في مقامها. فنقول: إن الحكماء قد اختلفوا في جواز التشكيك في الماهيات والذاتيات بمعنى أنه هل يجوز أن يكون أفراد ماهية واحدة متفاوتة بالأولية والأولوية والشدة والزيادة ومقابلاتها بحيث تكون الماهية في نحو الوجود كاملة من في نحو آخر منه من دون انضمام أمر وعروض عارض أم لا ؟ فجوّزه الإشراقية ومنعه المشّائية. قالوا: لا تشكيك في الماهية الجوهرية ولا في الماهية العرضية، بل التشكيك في اتصاف أفراد الماهية بالعارض، فلا تشكيك في الجسم ولا في السواد بل في صدق مفهوم العرضي، كالأسود المشتق من المعنى الجنسي للسواد على أفراده. وقال الإشراقيون القائلون بالتشكيك في الماهية: إن جوهرا كجواهر العالم العقلي أقوى في الجوهرية من جواهر أخر، كجواهر العالم الأدنى، وحيوان وجسم أكثر في الحيوانية والجسمية من حيوان وجسم آخر، كالإنسان والفيل من البق كما هو مذكور في حكمة الإشراق. هكذا خلاصة دعاويهم مجردة عن الدلائل والبسط مع ما له وما عليه في المبسوطات. لأنه يوقع إلخ لأن أفراده مشتركة في أصل معناه ومختلفة بأحد الوجوه الثلاثة، فالناظر إليه إن نظر إلى جهة الاشتراك خيله أنه متواطئ لتوافق أفراده فيه وإن نظر إلى جهة الاختلاف أو همه أنه مشترك كأنه لفظ له معان مختلفة، فيشكك هل هو متواطئ أو مشترك ؟
+[Discussion of intensity]: Like existence: There is no doubt that existence is skeptical with respect to the Necessary (glorified is His majesty) and with respect to the contingent in terms of priority and posteriority and preference and their absence. As for it being skeptical in terms of intensity and weakness, it is a place of reflection; for if it were so, there would attach to the Necessary a type of existence that is more intense, and to the contingent a type of existence that is weaker, since it is established with them that the more intense and the weaker are two distinct types. Then either absolute existence is a genus for the two types, necessitating their composition from genus and differentia, or it is accidental to them, so that they have a reality other than absolute existence. In summary, variation in existence by intensity and weakness cannot be conceived unless one says: existence is a specific reality, simple by itself, having no genus nor differentia, and it is in all things with a single meaning, yet despite its unity it is obtained with variation by modes of skeptical gradation, and its individuals are not differing in quiddities in terms of priority and posteriority, perfection and deficiency, richness and need. The reference of intensity and weakness is nothing other than perfection and deficiency, as is the doctrine of the Illuminationists. The issue of skeptical gradation (tashkik) is recorded in the books of the art at length and in detail. It is a difficult issue, a battlefield of opinions, a slippery place, and due to narrow space and fear of deviating from the scope of the purpose—though the two [space and purpose] do not permit its detail and the exposition of the proofs of the Peripatetics and Illuminationists and the determination of the truth in it as it deserves—we see no harm in mentioning it in an abridged and concise manner such that it may be a lesson for beginners and an aid to understanding it in its proper place. So we say: The philosophers have differed regarding the permissibility of skeptical gradation in quiddities and essential properties, i.e., whether it is permissible that individuals of a single quiddity vary by priority, preference, intensity, increase, and their opposites, such that the quiddity in one mode of existence is more complete than in another mode, without the addition of something or the occurrence of an accident, or not? The Illuminationists permitted it, while the Peripatetics forbade it. They (Peripatetics) said: There is no skeptical gradation in substantial quiddity nor in accidental quiddity; rather, gradation is in the attribution of the quiddity's individuals with the accident. So there is no gradation in body or in blackness, but rather in the truth of the accidental concept, like 'black' derived from the generic meaning of blackness as applied to its individuals. The Illuminationists, who affirm gradation in quiddity, said: A substance like the substances of the intellectual world is stronger in substantiality than other substances, like the substances of the lower world, and an animal and a body are more in animality and body-ness than another animal and body, like the human and elephant compared to the mosquito, as is mentioned in the Wisdom of Illumination. This is the summary of their claims stripped of proofs and elaboration, with what supports and opposes them in the detailed works. Because it makes the observer doubt etc.: because its individuals share the root of its meaning but differ by one of the three ways, so the observer, if he looks at the aspect of sharing, imagines it is univocal due to the agreement of its individuals in it, and if he looks at the aspect of difference, he thinks it is equivocal (mushtarak) as if it were a word with different meanings. So he doubts: is it univocal or equivocal?
+Source pages p. 25
+
+Commentary
+This passage begins by addressing an objection regarding the application of 'shidda' (intensity) to the concept of existence. The author notes that while existence is clearly skeptical in terms of priority and preference between the Necessary and the contingent, its gradation by intensity and weakness is problematic. If existence were subject to intensity, then Necessary existence and contingent existence would be two distinct types, leading to composition of existence from genus and differentia or making existence accidental. The author suggests an alternative view from the Illuminationists that existence is a simple reality that nonetheless varies in perfection. The passage then transitions to the broader issue of tashkik (skeptical gradation) in mahiyyat (quiddities). The Peripatetics deny tashkik in essence, whether substantial or accidental; they restrict gradation to accidental attributes. The Illuminationists affirm that quiddities themselves can be graded, e.g., intellectual substances are more substantial than physical ones. The author summarizes the positions without taking sides, noting the limited space. The final lines repeat the reason why such terms are called mushakkik: because they appear univocal in one aspect and equivocal in another, causing doubt.
+
+Key Terms
+التشكيك
+الوجود
+الشدة
+الضعف
+الواجب
+الممكن
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the Peripatetics' main concern if existence is graded by intensity/weakness?
+A) It would make existence a genus.
+B) It would make existence accidental to the Necessary.
+C) It would make the Necessary and contingent have different existence types, leading to composition or accident.
+D) All of the above.
+
+Key Takeaway
+Peripatetics argue that tashkik by intensity in existence would force existence to be either a genus or an accident, compromising the simplicity of the Necessary.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a short argument: If existence were subject to intensity, then necessary existence would be more intense than contingent existence. Would that make 'existence' a genus or an accident? Explain why the Peripatetics reject this.
+
+Pages p. 25 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 25
+Module 11 · Lesson 10
+Next →
+Other Lessons
+intermediate
+10 min
+The Debate on Tashkik in Quiddity (Mahiyya)
+Second part: debate on tashkik in quiddity
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the Peripatetic and Illuminationist positions on tashkik in quiddity and provide examples from their respective views.
+
+Core Idea
+Peripatetics restrict tashkik to accidents; Illuminationists extend it to essences themselves.
+
+The author moves from the specific case of existence to the general debate on tashkik in quiddities. He frames the question and presents the two opposing schools: Peripatetics deny tashkik in essences, Illuminationists affirm it with examples from substantiality and animality.
+
+Guided Path
+1
+Understand the question
+The debate is whether individuals of a single quiddity can vary in priority, perfection, etc., without an added accident.
+2
+Learn the Peripatetic position
+They deny tashkik in substantial and accidental quiddities; gradation only applies to accidental attributes like 'black' from blackness.
+3
+Learn the Illuminationist position
+They affirm tashkik in quiddity itself, e.g., intellectual substances are more substantial than physical substances; humans are more animal than mosquitoes.
+4
+Note the author's disclaimer
+The author provides only a summary without proofs, warning that the issue is complex and space is limited.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الشدة: كالوجود : لا ريب في كون الوجود مشككا بالقياس إلى الواجب – جل مجده وبالقياس إلى الممكن باعتبار التقدم والتأخر والأولوية وعدمها وأما كونه مشككا باعتبار الشدة والضعف فمحل تأمل؛ إذ لو كان كذلك لقام بالواجب نوع من الوجود هو أشد، وبالممكن نوع من الوجود أضعف بما ثبت عندهم أن الأشد والأضعف نوعان متبائنان، فإما أن يكون الوجود المطلق جنسا للنوعين، فيلزم تركبهما من الجنس والفصل، أو يكون عرضيا لهما، فيكون لهما حقيقة غير الوجود المطلق. وبالجملة لا يتصور التفاوت في الوجود بالشدة والضعف إلا أن يقال: الوجود حقيقة نوعية بذاتها بسيطة لا جنس لها ولا فصل لها، وهي في جميع الأشياء بمعنى واحد ، ومع وحدتها متفاوتة الحصول بأنحاء التشكيك، وليست أفرادها متخالفة الهويات في التقدم والتأخر، والكمال والنقص والغنى والحاجة. ومرجع والضعف ليس إلا الكمال والنقصان كما هو مذهب الإشراقية. مشككا مسألة التشكيك في كتب الفن مسطورة على وجه البسط والتفصيل. وهي مسألة عويصة معركة الآراء، ومزلة الأقدام وضيق المقام، ومخافة الخروج من نطاق المقصود، وإن كانا لا يرخصان لتفصيلها وبسط أدلة المشائية والإشراقية وتعيين الحق فيها كما هو حقه إلا أنا لا نرى بأسا بذكره على وجه الاختصار والإيجاز بحيث يكون تبصرة للمبتدئيين وإعانة على فهمها في مقامها. فنقول: إن الحكماء قد اختلفوا في جواز التشكيك في الماهيات والذاتيات بمعنى أنه هل يجوز أن يكون أفراد ماهية واحدة متفاوتة بالأولية والأولوية والشدة والزيادة ومقابلاتها بحيث تكون الماهية في نحو الوجود كاملة من في نحو آخر منه من دون انضمام أمر وعروض عارض أم لا ؟ فجوّزه الإشراقية ومنعه المشّائية. قالوا: لا تشكيك في الماهية الجوهرية ولا في الماهية العرضية، بل التشكيك في اتصاف أفراد الماهية بالعارض، فلا تشكيك في الجسم ولا في السواد بل في صدق مفهوم العرضي، كالأسود المشتق من المعنى الجنسي للسواد على أفراده. وقال الإشراقيون القائلون بالتشكيك في الماهية: إن جوهرا كجواهر العالم العقلي أقوى في الجوهرية من جواهر أخر، كجواهر العالم الأدنى، وحيوان وجسم أكثر في الحيوانية والجسمية من حيوان وجسم آخر، كالإنسان والفيل من البق كما هو مذكور في حكمة الإشراق. هكذا خلاصة دعاويهم مجردة عن الدلائل والبسط مع ما له وما عليه في المبسوطات. لأنه يوقع إلخ لأن أفراده مشتركة في أصل معناه ومختلفة بأحد الوجوه الثلاثة، فالناظر إليه إن نظر إلى جهة الاشتراك خيله أنه متواطئ لتوافق أفراده فيه وإن نظر إلى جهة الاختلاف أو همه أنه مشترك كأنه لفظ له معان مختلفة، فيشكك هل هو متواطئ أو مشترك ؟
+[Discussion of intensity]: Like existence: There is no doubt that existence is skeptical with respect to the Necessary (glorified is His majesty) and with respect to the contingent in terms of priority and posteriority and preference and their absence. As for it being skeptical in terms of intensity and weakness, it is a place of reflection; for if it were so, there would attach to the Necessary a type of existence that is more intense, and to the contingent a type of existence that is weaker, since it is established with them that the more intense and the weaker are two distinct types. Then either absolute existence is a genus for the two types, necessitating their composition from genus and differentia, or it is accidental to them, so that they have a reality other than absolute existence. In summary, variation in existence by intensity and weakness cannot be conceived unless one says: existence is a specific reality, simple by itself, having no genus nor differentia, and it is in all things with a single meaning, yet despite its unity it is obtained with variation by modes of skeptical gradation, and its individuals are not differing in quiddities in terms of priority and posteriority, perfection and deficiency, richness and need. The reference of intensity and weakness is nothing other than perfection and deficiency, as is the doctrine of the Illuminationists. The issue of skeptical gradation (tashkik) is recorded in the books of the art at length and in detail. It is a difficult issue, a battlefield of opinions, a slippery place, and due to narrow space and fear of deviating from the scope of the purpose—though the two [space and purpose] do not permit its detail and the exposition of the proofs of the Peripatetics and Illuminationists and the determination of the truth in it as it deserves—we see no harm in mentioning it in an abridged and concise manner such that it may be a lesson for beginners and an aid to understanding it in its proper place. So we say: The philosophers have differed regarding the permissibility of skeptical gradation in quiddities and essential properties, i.e., whether it is permissible that individuals of a single quiddity vary by priority, preference, intensity, increase, and their opposites, such that the quiddity in one mode of existence is more complete than in another mode, without the addition of something or the occurrence of an accident, or not? The Illuminationists permitted it, while the Peripatetics forbade it. They (Peripatetics) said: There is no skeptical gradation in substantial quiddity nor in accidental quiddity; rather, gradation is in the attribution of the quiddity's individuals with the accident. So there is no gradation in body or in blackness, but rather in the truth of the accidental concept, like 'black' derived from the generic meaning of blackness as applied to its individuals. The Illuminationists, who affirm gradation in quiddity, said: A substance like the substances of the intellectual world is stronger in substantiality than other substances, like the substances of the lower world, and an animal and a body are more in animality and body-ness than another animal and body, like the human and elephant compared to the mosquito, as is mentioned in the Wisdom of Illumination. This is the summary of their claims stripped of proofs and elaboration, with what supports and opposes them in the detailed works. Because it makes the observer doubt etc.: because its individuals share the root of its meaning but differ by one of the three ways, so the observer, if he looks at the aspect of sharing, imagines it is univocal due to the agreement of its individuals in it, and if he looks at the aspect of difference, he thinks it is equivocal (mushtarak) as if it were a word with different meanings. So he doubts: is it univocal or equivocal?
+Source pages p. 25
+
+Commentary
+This passage begins by addressing an objection regarding the application of 'shidda' (intensity) to the concept of existence. The author notes that while existence is clearly skeptical in terms of priority and preference between the Necessary and the contingent, its gradation by intensity and weakness is problematic. If existence were subject to intensity, then Necessary existence and contingent existence would be two distinct types, leading to composition of existence from genus and differentia or making existence accidental. The author suggests an alternative view from the Illuminationists that existence is a simple reality that nonetheless varies in perfection. The passage then transitions to the broader issue of tashkik (skeptical gradation) in mahiyyat (quiddities). The Peripatetics deny tashkik in essence, whether substantial or accidental; they restrict gradation to accidental attributes. The Illuminationists affirm that quiddities themselves can be graded, e.g., intellectual substances are more substantial than physical ones. The author summarizes the positions without taking sides, noting the limited space. The final lines repeat the reason why such terms are called mushakkik: because they appear univocal in one aspect and equivocal in another, causing doubt.
+
+Key Terms
+التشكيك
+الماهية
+المشائية
+الإشراقية
+الجوهر
+العرض
+الحيوانية
+الجسمية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the Illuminationists, what is an example of tashkik in quiddity?
+A) Blackness is more intense in some objects than others.
+B) A human is more animal than a mosquito.
+C) Existence is more intense in the Necessary than in the contingent.
+D) Heat is more intense in fire than in water.
+
+Key Takeaway
+Illuminationists argue that quiddities themselves admit of degrees, whereas Peripatetics limit gradation to accidental attributes.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which school each statement belongs to: (1) 'There is no gradation in the essence of body; only in whiteness' – answer: Peripatetic. (2) 'An angel's substance is more substantial than a physical substance' – answer: Illuminationist.
+
+Pages p. 25 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 27
+Module 11 · Lesson 11
+Next →
+Other Lessons
+beginner
+7 min
+Common Terms (Mushtarak) and Their Meanings
+Defines common terms (لفظ مشترك) with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify common terms (mushtarak) by analyzing their original and transferred meanings as demonstrated in Islamic sciences.
+
+Core Idea
+A mushtarak word carries multiple meanings, and recognizing it prevents misinterpretation in sacred texts.
+
+In Islamic logic and jurisprudence, words often have more than one meaning. This lesson introduces 'common terms' (mushtarak) — words that are used in both their original and a transferred sense. Using examples from the passage, you will learn how to identify such terms and understand their dual usage.
+
+Guided Path
+1
+Identify the term in question
+Locate the word being discussed. The passage gives three examples: 'dābba', 'ṣalāt', and 'ism'. Each has an original meaning and a transferred meaning assigned by different groups.
+The term must be recognized as having at least two distinct meanings.
+2
+Determine the original (literal) meaning
+For each term, find what it originally referred to. For 'dābba', it was any creature that walks on earth. For 'ṣalāt', it was supplication. For 'ism', it was elevation.
+The original meaning is the first subject (al-mawḍūʿ al-awwal).
+3
+Identify the transferred (figurative) meaning
+See how the term was transferred to a new meaning by a specific group. The common people transferred 'dābba' to horse or quadruped. The Lawgiver transferred 'ṣalāt' to specific acts. The grammarians transferred 'ism' to an independent word.
+The transferred meaning becomes common if used frequently.
+4
+Classify as mushtarak
+If the term is used in both meanings without abandoning the original, it is called mushtarak. For example, 'asad' is used literally for the animal and figuratively for a brave man, making it a common term.
+Mushtarak words are those that have multiple established usages.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مثال الأول كلفظة الدابة كان في الأصل موضوعا لما يدبّ على الأرض، ثم نقله العامة للفرس أو لذات القوائم الأربع. مثال الثاني كلفظ الصلاة، كان في الأصل كاد بمعنى الدعاء، ثم نقله الشارع إلى أركان .مخصوصة. مثال الثالث كلفظ الاسم، في اللغة بمعنى العلوّ، ثم نقله النحاة إلى كلمة مستقلة في الدلالة غير مقترنة بزمان من الأزمنة الثلاثة، وإن لم يشتهر في الثاني ولم يترك الأول، بل يستعمل في الموضوع الأول مرة وفي الثاني أخرى، يسمّى بالنسبة إلى الأول حقيقة وبالنسبة إلى الثاني مجازا، كالأسد بالنسبة إلى الحيوان المفترس والرجل الشجاع، فهو بالنسبة إلى الأول حقيقة، وبالنسبة إلى الثاني مجاز. حقيقة وإنما سمي الحقيقة حقيقة؛ لأنها من "حق" فلان الأمر أي أثبته، أو من "حققته" إذا كنت منه على يقين. فإذا كان اللفظ مستعملا في موضوعه الأصلي فهو شيء ثبت في مقامه معلوم الدلالة والتاء فيه للنقل من الوصفية إلى الاسمية كما في الذبيحة. مجازا: سمي به؛ لأنه من "جاز الشيء يجوزه" إذا تعدّاه، وإذا استعمل اللفظ في المعنى المجازي فقد جاز مكانه الأول وموضوعه الأصلي. ثم اعلم أنه لا بدّ في المجاز من علاقة بين المعنى الأول الموضوع له والثاني المجازي؛ لينتقل إليه، وذلك للاحتراز عن الغلط كما يقال: "خُذ هذا الفرس" مشيرا إلى كتاب. وقد حصروا العلاقة المصححة للتجوز في خمسة وعشرين وضبطها صاحب "التوضيح" في تسعة، وابن الحاجب في أصوله في خمسة. والتفصيل في كتب الأصول والبيان.
+First example: the word 'dābba' was originally used for anything that walks on the earth, then the common people transferred it to the horse or to quadrupeds. Second example: the word 'salāt' was originally, nearly [meaning] supplication, then the Lawgiver transferred it to specific actions. Third example: the word 'ism' in language means elevation, then the grammarians transferred it to an independent word indicating meaning without being associated with any of the three tenses. And if [the usage] is not well-known in the second [meaning] and does not abandon the first, but is used in the original subject sometimes and in the other sometimes, it is called, in relation to the first, literal (ḥaqīqa), and in relation to the second, figurative (majāz). Like 'lion' in relation to the predatory animal and the brave man. So it is literal in relation to the first and figurative in relation to the second. 'Ḥaqīqa' – it is called ḥaqīqa because it is from 'ḥaqqa fulān al-amr' meaning he established it, or from 'ḥaqqaqtuhu' when you are certain of it. So when the word is used in its original subject, it is something established in its place, known in indication; the tāʼ at the end is for transfer from adjectival to nominal, as in 'dhabīḥa'. 'Majāz' – it is called by that because it is from 'jāza al-shayʼ yajūzuhu' when it passes beyond; and when the word is used in the figurative meaning, it has passed its original place and subject. Then know that in figurative usage there must be a relation (ʿalāqa) between the first original meaning and the second figurative meaning to transfer from one to the other; this is to guard against error, as when one says 'Take this horse' pointing to a book. They have enumerated the relation that allows figurative extension to twenty-five, and the author of al-Tawḍīḥ summarized them in nine, and Ibn al-Ḥājib in his Uṣūl summarized them in five. The detail is in the books of Uṣūl and Bayān.
+Source pages p. 27
+
+Commentary
+This passage defines the concept of common terms (mushtarak) and distinguishes between literal (ḥaqīqa) and figurative (majāz) usage. It begins by giving three examples of common terms: 'dābba', 'ṣalāt', and 'ism'. For each, it shows how the word originally had one meaning and was then transferred to another by different groups (common people, Lawgiver, grammarians). The third example is particularly detailed: when a word is used in both its original and transferred meanings without one dominating, it is called 'ḥaqīqa' in the first sense and 'majāz' in the second. The example of 'asad' (lion) is given – literally the animal, figuratively a brave man. The passage then provides etymological explanations for the terms 'ḥaqīqa' (from 'haqqa' meaning to establish or be certain) and 'majāz' (from 'jāza' meaning to pass beyond). Finally, it emphasizes that figurative usage requires a relational link (ʿalāqa) between the two meanings to avoid erroneous transfers, and notes that scholars have categorized these relations. This is standard in Uṣūl al-Fiqh and Bayān. The commentary uses Islamic examples such as 'ṣalāt' as a legal term and 'dābba' as a common word.
+
+Key Terms
+مشترك
+حقيقة
+مجاز
+علاقة
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a mushtarak word given in the passage?
+A) Dābba
+B) Kitāb
+C) Rajul
+D) Bayt
+
+Key Takeaway
+A word that is used in both its original and a transferred meaning without abandoning the first is called a common term (mushtarak).
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether the term 'nikāḥ' in the Quran is mushtarak by examining its usage: it can mean both marriage and sexual intercourse. Use the criteria from the passage: is there an original and a transferred meaning? What is the relation?
+?
+Find another example of mushtarak in fiqh (e.g., 'ṣalāt' as prayer vs. mercy in Tafsir). Explain which meaning is literal and which is figurative according to the passage.
+
+Pages p. 27 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 27
+Module 11 · Lesson 12
+Next →
+Other Lessons
+beginner
+8 min
+Haqiqa and Majaz: Literal vs Figurative Meaning
+Explains literal (حقيقة) and figurative (مجاز) usage with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between literal (haqiqa) and figurative (majaz) usage and justify the necessity of a relational link (ʿalāqa) in figurative transfer.
+
+Core Idea
+Figurative meaning is no accident; it requires a valid relational link to the literal meaning to avoid error.
+
+Words can be used in their original sense (haqiqa) or in a secondary sense (majaz). This lesson explains the definitions of haqiqa and majaz, their etymologies, and the critical condition for figurative usage: a relational link (ʿalāqa) between the two meanings. Using the example of 'asad' (lion), you will learn to classify usage and verify the presence of ʿalāqa.
+
+Guided Path
+1
+Identify the term and its usage
+Select a term like 'asad' from the passage. It is used in two contexts: the predatory animal (literal) and the brave man (figurative).
+Determine which usage is being considered.
+2
+Determine if the usage is haqiqa or majaz
+If the word is used in its original subject, it is haqiqa. If used in a secondary meaning with a relational link, it is majaz. For 'asad' applied to a brave man, it is majaz because the original meaning is the animal.
+The passage states: 'it is literal in relation to the first and figurative in relation to the second'.
+3
+Verify the existence of a relational link (ʿalāqa)
+The passage stresses that majaz requires a ʿalāqa between the original and figurative meanings to prevent error. For 'asad', the link is courage (both the lion and the brave man share courage). Without such a link, the usage would be erroneous, like saying 'Take this horse' pointing to a book.
+The passage gives an absurd example to show what happens without ʿalāqa.
+4
+Classify the type of ʿalāqa (optional)
+The passage notes that scholars have enumerated up to 25 relations. Common ones include similarity (ishbāh), causality, and part-whole. For 'asad', it is similarity (tashbīh) in ferocity or bravery.
+Detailed classification is left to books of Uṣūl and Bayān.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+مثال الأول كلفظة الدابة كان في الأصل موضوعا لما يدبّ على الأرض، ثم نقله العامة للفرس أو لذات القوائم الأربع. مثال الثاني كلفظ الصلاة، كان في الأصل كاد بمعنى الدعاء، ثم نقله الشارع إلى أركان .مخصوصة. مثال الثالث كلفظ الاسم، في اللغة بمعنى العلوّ، ثم نقله النحاة إلى كلمة مستقلة في الدلالة غير مقترنة بزمان من الأزمنة الثلاثة، وإن لم يشتهر في الثاني ولم يترك الأول، بل يستعمل في الموضوع الأول مرة وفي الثاني أخرى، يسمّى بالنسبة إلى الأول حقيقة وبالنسبة إلى الثاني مجازا، كالأسد بالنسبة إلى الحيوان المفترس والرجل الشجاع، فهو بالنسبة إلى الأول حقيقة، وبالنسبة إلى الثاني مجاز. حقيقة وإنما سمي الحقيقة حقيقة؛ لأنها من "حق" فلان الأمر أي أثبته، أو من "حققته" إذا كنت منه على يقين. فإذا كان اللفظ مستعملا في موضوعه الأصلي فهو شيء ثبت في مقامه معلوم الدلالة والتاء فيه للنقل من الوصفية إلى الاسمية كما في الذبيحة. مجازا: سمي به؛ لأنه من "جاز الشيء يجوزه" إذا تعدّاه، وإذا استعمل اللفظ في المعنى المجازي فقد جاز مكانه الأول وموضوعه الأصلي. ثم اعلم أنه لا بدّ في المجاز من علاقة بين المعنى الأول الموضوع له والثاني المجازي؛ لينتقل إليه، وذلك للاحتراز عن الغلط كما يقال: "خُذ هذا الفرس" مشيرا إلى كتاب. وقد حصروا العلاقة المصححة للتجوز في خمسة وعشرين وضبطها صاحب "التوضيح" في تسعة، وابن الحاجب في أصوله في خمسة. والتفصيل في كتب الأصول والبيان.
+First example: the word 'dābba' was originally used for anything that walks on the earth, then the common people transferred it to the horse or to quadrupeds. Second example: the word 'salāt' was originally, nearly [meaning] supplication, then the Lawgiver transferred it to specific actions. Third example: the word 'ism' in language means elevation, then the grammarians transferred it to an independent word indicating meaning without being associated with any of the three tenses. And if [the usage] is not well-known in the second [meaning] and does not abandon the first, but is used in the original subject sometimes and in the other sometimes, it is called, in relation to the first, literal (ḥaqīqa), and in relation to the second, figurative (majāz). Like 'lion' in relation to the predatory animal and the brave man. So it is literal in relation to the first and figurative in relation to the second. 'Ḥaqīqa' – it is called ḥaqīqa because it is from 'ḥaqqa fulān al-amr' meaning he established it, or from 'ḥaqqaqtuhu' when you are certain of it. So when the word is used in its original subject, it is something established in its place, known in indication; the tāʼ at the end is for transfer from adjectival to nominal, as in 'dhabīḥa'. 'Majāz' – it is called by that because it is from 'jāza al-shayʼ yajūzuhu' when it passes beyond; and when the word is used in the figurative meaning, it has passed its original place and subject. Then know that in figurative usage there must be a relation (ʿalāqa) between the first original meaning and the second figurative meaning to transfer from one to the other; this is to guard against error, as when one says 'Take this horse' pointing to a book. They have enumerated the relation that allows figurative extension to twenty-five, and the author of al-Tawḍīḥ summarized them in nine, and Ibn al-Ḥājib in his Uṣūl summarized them in five. The detail is in the books of Uṣūl and Bayān.
+Source pages p. 27
+
+Commentary
+This passage defines the concept of common terms (mushtarak) and distinguishes between literal (ḥaqīqa) and figurative (majāz) usage. It begins by giving three examples of common terms: 'dābba', 'ṣalāt', and 'ism'. For each, it shows how the word originally had one meaning and was then transferred to another by different groups (common people, Lawgiver, grammarians). The third example is particularly detailed: when a word is used in both its original and transferred meanings without one dominating, it is called 'ḥaqīqa' in the first sense and 'majāz' in the second. The example of 'asad' (lion) is given – literally the animal, figuratively a brave man. The passage then provides etymological explanations for the terms 'ḥaqīqa' (from 'haqqa' meaning to establish or be certain) and 'majāz' (from 'jāza' meaning to pass beyond). Finally, it emphasizes that figurative usage requires a relational link (ʿalāqa) between the two meanings to avoid erroneous transfers, and notes that scholars have categorized these relations. This is standard in Uṣūl al-Fiqh and Bayān. The commentary uses Islamic examples such as 'ṣalāt' as a legal term and 'dābba' as a common word.
+
+Key Terms
+حقيقة
+مجاز
+علاقة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is required for a word to be used in a figurative (majaz) meaning?
+A) The word must be used in poetry.
+B) There must be a relation (ʿalāqa) between the original and figurative meanings.
+C) The word must have only one meaning.
+D) The word must be a legal term.
+
+Key Takeaway
+Figurative usage (majaz) is only valid when supported by a relational link (ʿalāqa) connecting the original and transferred meanings.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the phrase 'yadullāhi fawqa aydīhim' (Quran 48:10). Is 'yad' used literally or figuratively? If figurative, what is the likely ʿalāqa?
+?
+Find a term in the Quran that is used in both haqiqa and majaz (e.g., 'shawq' or 'ḥubb'). For each usage, explain the shift and the ʿalāqa.
+
+Pages p. 27 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 27
+Module 11 · Lesson 13
+Next →
+Other Lessons
+beginner
+5 min
+Synonymy: Multiple Words with One Meaning
+Defines synonymy and corrects a common error regarding generality.
+
+Learning Objective
+By the end of this lesson, you will be able to identify true synonymy and distinguish it from cases of overlapping meaning using the generality test.
+
+Core Idea
+True synonymy requires complete equality of meaning, not just overlap.
+
+After studying words with multiple meanings (homonyms), we now turn to the opposite: multiple words sharing a single meaning, known as synonymy (murādafa). This lesson defines the concept and, more importantly, corrects a common mistake that can lead to flawed interpretations in Islamic texts.
+
+Guided Path
+1
+Identify the definition of synonymy
+Find in the text the condition for something to be called murādif: multiple words with a single meaning. Note that the words must be different but refer to the exact same concept.
+The definition is in the first sentence: 'If the word is multiple and the meaning is one, it is called synonym.'
+2
+Examine the examples given
+Look at the examples: 'asad' and 'layth' (both lion), 'ghaym' and 'ghayth', and 'qu‘ūd' and 'julūs' (both sitting). These are presented as true synonyms.
+Some of these examples may be debated, but the author considers them valid.
+3
+Apply the generality test to the erroneous case
+The passage refutes the claim that 'sayf' (sword) and 'ṣārim' (cutting) are synonyms because 'ṣārim' is more general (it applies to any cutting object). Test any candidate pair for synonymy by checking if one term has a broader scope. If so, they are not true synonyms.
+Use this test to avoid mistakes in defining terms in fiqh and usul.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: إن كان اللفظ متعددا والمعنى واحدا يسمّى مرادفا، كالأسد والليث، والغيم والغيث. إن كان إلخ لما فرغ المصنف محله عن أحوال لفظ واحد له معانٍ متعددة شرع في بيان أحوال ألفاظ متعددة لها معنى واحد مرادفا كما مثله المصنف له وكالقعود والجلوس. وأما القول بالترادف بين السيف والصارم، والناطق والفصيح كما وقع من بعض المحققين خطأ؛ فإن الصارم هو القاطع، فهو أعم مطلقا من السيف، وكذا الناطق أعم من الفصيح والمرادفة ركوب أحد خلف الآخر على دابة واحدة فكأن اللفظين راكبان على معنى واحد.
+Section: If the word is multiple and the meaning is one, it is called synonym (murādif), like 'asad' and 'layth', 'ghaym' and 'ghayth'. 'If it is...' etc. When the author finished discussing the states of a single word with multiple meanings, he began to discuss the states of multiple words with a single meaning, i.e., synonym, as exemplified by the author, and like 'qu‘ūd' and 'julūs'. As for the claim of synonymy between 'sayf' and 'ṣārim', and 'nāṭiq' and 'faṣīḥ', as occurred from some scholars, it is an error. For 'ṣārim' is the cutting one, so it is absolutely more general than 'sayf'; similarly, 'nāṭiq' is more general than 'faṣīḥ'. And the word 'murādafa' is one riding behind another on one mount, as if the two words are riders on one meaning.
+Source pages p. 27
+
+Commentary
+This passage defines synonymy (murādafa) as multiple words sharing a single meaning. It provides examples: 'asad' and 'layth' (both mean lion), 'ghaym' and 'ghayth' (cloud and rain?). The commentary explains that after discussing common terms (one word, many meanings), the author turns to the opposite: many words, one meaning. The commentator adds examples like 'qu‘ūd' and 'julūs' (both meaning sitting). Importantly, the passage corrects a common error: some scholars mistakenly consider 'sayf' (sword) and 'ṣārim' (sharp/cutting) as synonyms, but 'ṣārim' is more general (since it can apply to any cutting thing). Similarly, 'nāṭiq' (speaking) is more general than 'faṣīḥ' (eloquent). True synonymy requires that the words be completely equal in meaning, not just overlapping. The etymology of 'murādafa' is riding pillion, suggesting two words riding on one meaning.
+
+Key Terms
+مرادف
+ترادف
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the claim of synonymy between 'sayf' (sword) and 'ṣārim' (cutting) considered an error according to the passage?
+A) Because 'ṣārim' is a type of sword.
+B) Because 'ṣārim' is more general (aʿamm) than 'sayf', as it can apply to any cutting object.
+C) Because 'sayf' is a Persian word.
+D) Because the two words are from different languages.
+
+Key Takeaway
+Synonymy (murādafa) requires multiple words to share exactly the same meaning without difference in generality; otherwise, they are not true synonyms.
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the pair 'sayf' and 'ṣārim' using the definition of synonymy: are they true synonyms? Why or why not?
+?
+Find another pair of Arabic words often considered synonyms, such as 'suḥb' and 'ṣadāqah' (friendship), and test them for complete overlap of meaning.
+
+Pages p. 27 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 28
+Module 11 · Lesson 14
+Next →
+Other Lessons
+beginner
+5 min
+Incomplete Compound: Definition and Types
+Defines incomplete compound and classifies it.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and classify incomplete compounds into restrictive and non-restrictive types using the criterion of predication.
+
+Core Idea
+Incomplete compounds lack predication; they are building blocks, not sentences.
+
+In logic and Arabic grammar, expressions are divided into complete (predicative) and incomplete. This lesson introduces the incomplete compound, which cannot stand alone as a full statement. Understanding its types—restrictive and non-restrictive—is essential for analyzing larger expressions.
+
+Guided Path
+1
+Recognize the defining feature
+An incomplete compound lacks predication (isnād), meaning it does not assert a subject-predicate relationship.
+2
+Identify restrictive compounds
+Look for compounds where the second part restricts the first, e.g., adjective-noun (al-rajul al-karīm) or possessive (ghulām Zayd). These are called taqyīdī.
+3
+Identify non-restrictive compounds
+These include prepositional phrases like fī al-dār, where the second part does not restrict the first in the same way.
+4
+Distinguish from complete compounds
+Compare with sentences like Zayd qā'im, which have predication.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: المركب الناقص على أنحاء، منها: المركب الإضافي، كـ "غلام" زيد" . المركب الناقص : اعلم أن المركب الناقص عبارة عن المركب الذي لا إسناد فيه فهو إما تقييدي إن كان الثاني قيدا للأول سواء كان صفة له أو مضافا إليه أو لا يكون شيئا منهما بأن يكون التركيب من الفعل والمفعول أو نحوهما. أو غير تقييدي إن لم يكن كذلك كـ في الدار". والحاصل أن المركب الناقص إما مركب من جزئين =
+Section: The incomplete compound has several types, among them: the genitive compound (iḍāfī), like 'ghulāmu Zaydin' (Zayd's servant). The incomplete compound: Know that the incomplete compound is a compound that has no predication (isnād). So it is either restrictive (taqyīdī) if the second is a restriction of the first, whether it is an adjective of it or a possessive (muḍāf ilayhi) or it is none of them, like a composition of a verb and an object or the like; or non-restrictive (ghayr taqyīdī) if it is not like that, like 'fī al-dāri' (in the house). The summary is that the incomplete compound is composed of two parts...
+Source pages p. 28
+
+Commentary
+This passage defines the incomplete compound (al-murakkab al-nāqiṣ) as a compound that lacks predication (isnād), meaning it is not a full sentence. It then classifies it into two main types: restrictive (taqyīdī), where the second part restricts the first (e.g., adjective-noun, possessive construction, verb-object); and non-restrictive (ghayr taqyīdī), like prepositional phrases. The example given for genitive compound is 'ghulām Zayd' (Zayd's servant). The explanation notes that incomplete compounds are not independent statements; they function as parts of larger expressions. This is common in Arabic grammar and logic.
+
+Key Terms
+مركب ناقص
+مركب إضافي
+تقييدي
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of an incomplete compound (murakkab nāqiṣ)?
+A) 'Zayd is standing'
+B) 'In the house'
+C) 'The world is temporally originated'
+D) 'There is no god but Allah'
+
+Key Takeaway
+An incomplete compound lacks predication and is classified into restrictive and non-restrictive types based on whether the second part restricts the first.
+
+How This Lesson Applies — to MY Life?
+?
+Find an example of a restrictive incomplete compound in a Quranic verse (e.g., 'Rasūlu Llāhi') and explain why it is restrictive.
+?
+Identify whether 'fī al-masjidi' (in the mosque) is a restrictive or non-restrictive incomplete compound, and justify your answer.
+
+Pages p. 28 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 28
+Module 11 · Lesson 15
+Next →
+Other Lessons
+beginner
+5 min
+The Six Types of Insha (Performative Speech Acts)
+Author enumerates and defines the six types of insha.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between the six types of insha and identify their definitions in Arabic sentences.
+
+Core Idea
+Insha are speech acts that cannot be true or false; they include command, prohibition, wish, hope, interrogation, and call.
+
+The author divides complete compounds into two categories: khabar (truth-apt) and insha (performative). Insha encompasses six types, each with a specific function. Understanding these types is essential for analyzing Arabic sentences in logic, grammar, and fiqh.
+
+Guided Path
+1
+Recognize the two-part division
+Understand that a complete compound (murakkab tamm) is either khabar (informative, can be true/false) or insha (performative, cannot be true/false). The passage defines insha as the second division.
+This classification is fundamental in Arabic logic.
+2
+Identify command (amr) and prohibition (nahy)
+Command requests an action with superiority; prohibition requests cessation with superiority. Both are used in legal texts to indicate obligation or prohibition.
+In usul al-fiqh, amr and nahy have additional conditions for obligation.
+3
+Distinguish wish (tamanni) from hope (tarajji)
+Wish does not require the possibility of the object (e.g., 'I wish I were a bird'). Hope requires possibility (e.g., 'I hope it rains'). This is a key distinction often confused.
+Use the possibility test to differentiate them.
+4
+Recognize interrogation (istifham) and call (nida')
+Interrogation is a request for understanding; call is a request for attention. Both are common in Arabic discourse.
+Interrogation often uses question particles, while call uses vocative particles like 'ya'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ويقال لثاني القسمين: الإنشاء، وللإنشاء أقسام أمر ونهي وتمن وترجّ واستفهام ونداء. أمر إلخ الأمر: ما وضع لطلب الفعل على سبيل الاستعلاء والنهي: ما وضع لطلب الكف على سبيل الاستعلاء والتمني: طلب حصول شيء على سبيل المحبة، ولا يشترط إمكان المتمنى والترجي: طلب حصول شيء ممكن على سبيل المحبة والاستفهام: وهو ما يدل على طلب الفهم والنداء: ما وضع لطلب الإقبال.
+And the second of the two divisions is called insha, and for insha there are divisions: command, prohibition, wish, hope, interrogation, and call. Command etc.: Command is what is established for requesting an action in a manner of superiority; prohibition is what is established for requesting cessation in a manner of superiority; wish is requesting the occurrence of something in a manner of love, and the possibility of the wished-for is not required; hope is requesting the occurrence of something possible in a manner of love; interrogation is what indicates a request for understanding; and call is what is established for requesting attention.
+Source pages p. 28
+
+Commentary
+This passage enumerates and defines the six types of insha (performative speech acts). The author lists them: command (amr), prohibition (nahy), wish (tamannī), hope (tarajjī), interrogation (istifhām), and call (nidā'). For each, a brief definition is given. Command is a request for action with superiority; prohibition is a request for cessation with superiority; wish is a request for something with love, not requiring the object to be possible; hope is a request for something possible with love; interrogation is a request for understanding; call is a request for attention. These are all complete compounds but do not admit truth or falsehood because they are not intended as narratives. This classification is important for distinguishing between logical propositions and other speech acts.
+
+Key Terms
+الإنشاء
+أقسام
+أمر
+نهي
+تمن
+ترج
+استفهام
+نداء
+
+Key Terms from Source Passage
+
+Checkpoint
+Which type of insha does not require the possibility of the object?
+A) Command
+B) Prohibition
+C) Wish (tamannī)
+D) Hope (tarajjī)
+
+Key Takeaway
+Insha are performative speech acts that cannot be evaluated as true or false; they include six types: command, prohibition, wish, hope, interrogation, and call.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the type of insha in the following Quranic verse: 'O you who believe, establish prayer.' For 'O you who believe' and 'establish prayer', name each type and explain your reasoning.
+?
+Write one Arabic sentence expressing a wish (tamanni) and one expressing hope (tarajji). Then explain which object is possible and which is not, justifying based on the definitions in the passage.
+
+Pages p. 28 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 28
+Module 11 · Lesson 16
+Next →
+Other Lessons
+beginner
+5 min
+Types of Incomplete Compounds: Idafi, Tawsifi, Taqyidi
+Author lists and explains the three types of incomplete compound: additive, descriptive, and restrictive.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and distinguish the three types of incomplete compounds (idafi, tawsifi, taqyidi) in Arabic expressions from Islamic texts.
+
+Core Idea
+Incomplete compounds are building blocks of meaning; knowing their types helps parse any Arabic text accurately.
+
+Having discussed expressions (alfaz) in general, we now focus on a crucial subcategory: the incomplete compound (al-murakkab al-naqis). This lesson breaks down the three main types—additive, descriptive, and restrictive—that appear constantly in Islamic texts. By mastering these, you will be able to accurately analyze phrases in the Quran, Hadith, and classical works.
+
+Guided Path
+1
+Recognize an incomplete compound
+An incomplete compound is a phrase that does not convey a complete meaning by itself; it needs additional context. Examples include 'Zayd's servant' or 'in the house'—these are not full sentences.
+Contrast with complete compounds (jumal) like 'Zayd is standing'.
+2
+Identify the additive compound (idafi)
+Look for a possessive construction (idafa): two nouns where the first is possessed and the second is the possessor, e.g., 'ghulamu Zaydin' (Zayd's servant). The relationship is ownership or affiliation.
+The idafi compound always has a genitive (majrur) second term.
+3
+Identify the descriptive compound (tawsifi)
+Look for a noun modified by an adjective that agrees in definiteness, gender, and number, e.g., 'al-rajulu al-'alimu' (the learned man). The adjective describes the noun.
+Both noun and adjective must have the same definiteness prefix (al-).
+4
+Identify the restrictive compound (taqyidi)
+Look for a prepositional phrase: a preposition followed by its object, e.g., 'fi al-dari' (in the house). This construction restricts or specifies the meaning of another word.
+In some texts, taqyidi may include other restrictive phrases, but here it is limited to prepositional phrases.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: المركب الناقص على أنحاء، منها: المركب الإضافي، كـ 'غلام زيد'، ومنها المركب التوصيفى كـ 'الرجل العالم'، ومنها المركب التقييدي كـ 'في الدار'، وههنا قد تم بحث الألفاظ والآن نرشدك إلى بحث المعاني.
+Chapter: The incomplete compound is of several kinds: among them is the additive compound (al-murakkab al-iḍāfī), like 'Zayd's servant'; among them is the descriptive compound (al-murakkab al-tawṣīfī), like 'the learned man'; and among them is the restrictive compound (al-murakkab al-taqyīdī), like 'in the house'. And here the discussion of expressions is completed, and now we guide you to the discussion of meanings.
+Source pages p. 28
+
+Commentary
+This passage provides a classification of incomplete compounds (al-murakkab al-nāqiṣ). The author lists three types: (1) the additive compound (idāfī), which is an idafa construction like 'servant of Zayd' (ghulāmu Zaydin); (2) the descriptive compound (tawṣīfī), which is an adjective-noun phrase like 'the learned man' (al-rajulu al-‘ālimu); and (3) the restrictive compound (taqyīdī), which involves a preposition and its object like 'in the house' (fī al-dāri). The passage then marks a transition: the discussion of expressions (alfāẓ) is concluded, and the author will now move to the discussion of meanings (ma‘ānī). This sets the stage for the next topic on concepts (mafāhīm).
+
+Key Terms
+المركب الإضافي
+المركب التوصيفي
+المركب التقييدي
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of an additive compound (idafi)?
+A) 'The tall man'
+B) 'Zayd's book'
+C) 'In the mosque'
+D) 'Zayd is standing'
+
+Key Takeaway
+Incomplete compounds are classified into three types (idafi, tawsifi, taqyidi) based on the syntactic relationship between their parts.
+
+How This Lesson Applies — to MY Life?
+?
+1. Identify the type of incomplete compound in the Quranic phrase 'sirāṭ al-mustaqīm' (the straight path). Is it idafi, tawsifi, or taqyidi? Explain why.
+?
+2. In the hadith 'al-a'mālu bi al-niyyāt' (actions are by intentions), is 'bi al-niyyāt' an incomplete compound? If so, which type? (Hint: look for a preposition.)
+
+Pages p. 28 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 102
+Module 11 · Lesson 17
+Next →
+Other Lessons
+beginner
+5 min
+Ambiguous Reference (Ikhtilāf al-Marjiʿ)
+Author defines and exemplifies the first fallacy type: ambiguous reference.
+
+Learning Objective
+By the end of this lesson, you will be able to identify ambiguous reference (ikhtilāf al-marjiʿ) in a statement and explain how truth value depends on the pronoun's antecedent.
+
+Core Idea
+A pronoun can make a statement true or false depending on its reference.
+
+One common linguistic fallacy occurs when a pronoun's antecedent is unclear. This passage from Mirqāt shows how the sentence 'What the sage knows, he acts upon what he knows' can be true or false based on whether the pronoun 'he' refers to the sage or to the knowledge. Learning to detect such ambiguity is crucial for interpreting arguments in Islamic texts.
+
+Guided Path
+1
+Identify the pronoun in the example
+In 'ما يعلمه الحكيم فهو يعمل بما يعلمه', the pronoun in 'يعمل' and 'بما يعلمه' needs a referent.
+The pronoun is hidden in the verb but understood.
+2
+State the two possible antecedents
+The pronoun could refer to 'الحكيم' (the sage) or to 'ما يعلمه' (what he knows).
+3
+Determine truth under each interpretation
+If it refers to the sage, the statement is true; if to the knowledge, it is false because it attributes knowledge to an action.
+4
+Explain why the false interpretation is invalid
+Actions are not rational beings, so they cannot possess knowledge.
+This is explained in the commentary.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أسباب الغلط الأغاليط وأقسامها تركيبا إضافيا والمتعلق بالألفاظ من جهة التركيب فإما بالنظر إلى اختلاف المرجع نحو: "ما يعلمه الحكيم فهو يعمل بما يعلمه" فإن عاد الضمير إلى الحكيم صدق، وإلا كذب. وإما بإفراد المركب نحو النارنج حلو حامض صادق، وإن أفرد وقيل: "هذا حلو وحامض" لم يصدق. وإما بجمع المنفصل نحو زيد طبيب وماهر صدق، وإن جمع وقيل: "طبيب ماهر" كذب. فإن عاد الضمير أي إن عاد الضمير المرفوع المستتر في "بما يعلمه" إلى الحكيم صدق، وإلا أي: وإن لم يرجع إلى الحكيم، بل إلى الموصول الذي في "بما يعلمه" كذب؛ لأن المعنى على هذا أن عمل الحكيم بسبب أن العمل يعلم الحكيم، وهذا ليس بصحيح؛ لأن العلم من صفات ذوي العقول والعمل ليس من ذوي العقول. الأغاليط هي جمع أغلوطة بمعنى ما يغلط به كالأعجوبة والأضحوكة.
+Causes of error. The fallacies and their divisions: [are] of the additive composition type, and it pertains to words from the aspect of composition. Either with regard to ambiguous reference, like: 'What the sage knows, he acts upon what he knows' — if the pronoun refers to the sage, it is true; otherwise false. Or with regard to singular compound, like: 'The bitter orange is sweet sour' is true, but if it is said individually: 'This is sweet and sour' it is not true. Or with regard to the plural compound, like: 'Zayd is a skilled physician' is true, but if it is combined and said: 'a skilled physician' it is false. [Commentary:] 'If the pronoun refers' means: if the hidden nominative pronoun in 'what he knows' refers to the sage, it is true; otherwise, i.e., if it does not refer to the sage but to the relative pronoun in 'what he knows', it is false; because the meaning then is that the sage's action is because the action knows the sage, and this is not correct, because knowledge is an attribute of rational beings and action is not a rational being. Al-aghalit (fallacies) is the plural of ughlutah, meaning that by which one is caused to err, like a marvel (u'jubah) and a laughingstock (udhukah).
+Source pages p. 102
+
+Commentary
+This passage defines and classifies fallacies that arise due to composition (تركيب) in language. The author identifies three subtypes. The first is اختلاف المرجع (ambiguous reference), illustrated by the statement: 'What the sage knows, he acts upon what he knows.' The truth of this statement depends on whether the pronoun 'he' in 'he acts' refers back to 'the sage' or to 'what he knows'. If it refers to the sage, the statement is sound; if it refers to the object of knowledge, the statement becomes false because it would mean the action itself knows the sage, which is impossible. The second subtype is إفراد المركب (singular compound), exemplified by describing a bitter orange as 'sweet sour' — when said as a single description, it is true (meaning it is both sweet and sour), but if broken into two separate statements 'this is sweet and this is sour', each is false because the fruit is not purely sweet nor purely sour. The third subtype is جمع المنفصل (plural compound), as in saying 'Zayd is a skilled physician' — when the adjectives are separate ('skilled' and 'physician'), the statement is true; but when combined into a single predicate 'a skilled physician', it is false because it implies a single profession of 'skilled physician' which is not a customary designation. The passage concludes by defining the term 'aghalit' (fallacies) as plural of 'ughlutah', meaning that by which someone is misled, drawing an analogy to words like 'u'jubah' (marvel) and 'udhukah' (laughingstock). The commentary clarifies the first example in detail, showing the logical error in the ambiguous reference.
+
+Key Terms
+اختلاف المرجع
+أغلوطة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'ما يعلمه الحكيم فهو يعمل بما يعلمه', if the pronoun in 'يعمل' refers to 'ما يعلمه', what is the resulting meaning?
+A) The sage acts according to his knowledge
+B) The sage's action knows the sage
+C) The knowledge acts upon the sage
+D) The sage knows what he acts upon
+
+Key Takeaway
+Ambiguous reference occurs when a pronoun has more than one possible antecedent, and the truth of the statement depends on which is chosen.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the hadith: 'The strong believer is better and more beloved to Allah than the weak believer, although there is good in each.' (Muslim). Paraphrase: 'What the strong believer has, Allah loves it.' Could there be an ambiguous reference? If so, what is the ambiguity?
+
+Pages p. 102 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 102
+Module 11 · Lesson 18
+Next →
+Other Lessons
+beginner
+5 min
+Singular Compound (Ifrād al-Murakkab)
+Author defines and exemplifies the second fallacy type: singular compound.
+
+Learning Objective
+By the end of this lesson, you will be able to identify singular compound (ifrād al-murakkab) fallacies, where a compound term when taken separately changes truth value.
+
+Core Idea
+A compound description can be true while its separate parts are false.
+
+The second fallacy type involves taking a compound expression and splitting it into parts. The example 'The bitter orange is sweet sour' is true as a single description (meaning it has both qualities), but if you say 'This is sweet' and 'This is sour' individually, each is false. This fallacy appears in arguments that rely on compound attributes.
+
+Guided Path
+1
+Understand the compound phrase
+The phrase 'النارنج حلو حامض' means the fruit is sweet-sour, i.e., has both qualities simultaneously.
+2
+Consider the separated statements
+If you assert 'هذا حلو' and 'هذا حامض' separately, each is false because the fruit is not purely sweet nor purely sour.
+3
+Note the truth shift
+The compound is true; the separated statements are false.
+4
+Generalize
+When a combination of attributes is predicated together, it may be true, but predicating each individually may not hold.
+This fallacy exploits the difference between conjunction and compound predicate.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أسباب الغلط الأغاليط وأقسامها تركيبا إضافيا والمتعلق بالألفاظ من جهة التركيب فإما بالنظر إلى اختلاف المرجع نحو: "ما يعلمه الحكيم فهو يعمل بما يعلمه" فإن عاد الضمير إلى الحكيم صدق، وإلا كذب. وإما بإفراد المركب نحو النارنج حلو حامض صادق، وإن أفرد وقيل: "هذا حلو وحامض" لم يصدق. وإما بجمع المنفصل نحو زيد طبيب وماهر صدق، وإن جمع وقيل: "طبيب ماهر" كذب. فإن عاد الضمير أي إن عاد الضمير المرفوع المستتر في "بما يعلمه" إلى الحكيم صدق، وإلا أي: وإن لم يرجع إلى الحكيم، بل إلى الموصول الذي في "بما يعلمه" كذب؛ لأن المعنى على هذا أن عمل الحكيم بسبب أن العمل يعلم الحكيم، وهذا ليس بصحيح؛ لأن العلم من صفات ذوي العقول والعمل ليس من ذوي العقول. الأغاليط هي جمع أغلوطة بمعنى ما يغلط به كالأعجوبة والأضحوكة.
+Causes of error. The fallacies and their divisions: [are] of the additive composition type, and it pertains to words from the aspect of composition. Either with regard to ambiguous reference, like: 'What the sage knows, he acts upon what he knows' — if the pronoun refers to the sage, it is true; otherwise false. Or with regard to singular compound, like: 'The bitter orange is sweet sour' is true, but if it is said individually: 'This is sweet and sour' it is not true. Or with regard to the plural compound, like: 'Zayd is a skilled physician' is true, but if it is combined and said: 'a skilled physician' it is false. [Commentary:] 'If the pronoun refers' means: if the hidden nominative pronoun in 'what he knows' refers to the sage, it is true; otherwise, i.e., if it does not refer to the sage but to the relative pronoun in 'what he knows', it is false; because the meaning then is that the sage's action is because the action knows the sage, and this is not correct, because knowledge is an attribute of rational beings and action is not a rational being. Al-aghalit (fallacies) is the plural of ughlutah, meaning that by which one is caused to err, like a marvel (u'jubah) and a laughingstock (udhukah).
+Source pages p. 102
+
+Commentary
+This passage defines and classifies fallacies that arise due to composition (تركيب) in language. The author identifies three subtypes. The first is اختلاف المرجع (ambiguous reference), illustrated by the statement: 'What the sage knows, he acts upon what he knows.' The truth of this statement depends on whether the pronoun 'he' in 'he acts' refers back to 'the sage' or to 'what he knows'. If it refers to the sage, the statement is sound; if it refers to the object of knowledge, the statement becomes false because it would mean the action itself knows the sage, which is impossible. The second subtype is إفراد المركب (singular compound), exemplified by describing a bitter orange as 'sweet sour' — when said as a single description, it is true (meaning it is both sweet and sour), but if broken into two separate statements 'this is sweet and this is sour', each is false because the fruit is not purely sweet nor purely sour. The third subtype is جمع المنفصل (plural compound), as in saying 'Zayd is a skilled physician' — when the adjectives are separate ('skilled' and 'physician'), the statement is true; but when combined into a single predicate 'a skilled physician', it is false because it implies a single profession of 'skilled physician' which is not a customary designation. The passage concludes by defining the term 'aghalit' (fallacies) as plural of 'ughlutah', meaning that by which someone is misled, drawing an analogy to words like 'u'jubah' (marvel) and 'udhukah' (laughingstock). The commentary clarifies the first example in detail, showing the logical error in the ambiguous reference.
+
+Key Terms
+إفراد المركب
+أغلوطة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the statement 'The bitter orange is sweet sour' true when said as one phrase but false when split into 'This is sweet' and 'This is sour'?
+A) Because the fruit is both sweet and sour, so each part is false individually
+B) Because the fruit is neither sweet nor sour
+C) Because the compound phrase is ambiguous
+D) Because of a singular compound fallacy?
+
+Key Takeaway
+A compound predicate can be true even if its individual components are not true separately.
+
+How This Lesson Applies — to MY Life?
+?
+A jurist says: 'Riba is forbidden in both excess and delay.' If someone separates it: 'Riba is forbidden in excess' and 'Riba is forbidden in delay' – each is true individually. Is this a singular compound fallacy? Why or why not?
+
+Pages p. 102 · Other Lessons
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 102
+Module 11 · Lesson 19
+Next →
+Other Lessons
+beginner
+5 min
+Plural Compound (Jamʿ al-Munfaṣil)
+Author defines and exemplifies the third fallacy type: plural compound.
+
+Learning Objective
+By the end of this lesson, you will be able to identify plural compound (jamʿ al-munfaṣil) fallacies, where separate statements when combined into one compound change truth value.
+
+Core Idea
+Combining two true separate statements into one compound can make the statement false.
+
+The third fallacy type is the reverse: taking two separate true statements and combining them into a single predicate. The example 'Zayd is a skilled physician' is true when said as separate predicates ('Zayd is skilled' and 'Zayd is a physician'), but if you combine them into 'Zayd is a skilled physician', it becomes false because it implies a specific profession that may not be customary. This fallacy highlights how syntax matters.
+
+Guided Path
+1
+Examine the separate statements
+'زيد طبيب' (Zayd is a physician) is true; 'زيد ماهر' (Zayd is skilled) is true.
+2
+Consider the combined form
+'زيد طبيب ماهر' (Zayd is a skilled physician) is a single predicate combining both.
+3
+Determine truth of combined form
+The passage says it is false because it implies a specific compound attribute that is not accurate.
+4
+Understand why
+The combination may imply a new meaning that was not present in the separate statements, such as an established profession.
+The fallacy lies in the shift from two independent predicates to one compound predicate.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أسباب الغلط الأغاليط وأقسامها تركيبا إضافيا والمتعلق بالألفاظ من جهة التركيب فإما بالنظر إلى اختلاف المرجع نحو: "ما يعلمه الحكيم فهو يعمل بما يعلمه" فإن عاد الضمير إلى الحكيم صدق، وإلا كذب. وإما بإفراد المركب نحو النارنج حلو حامض صادق، وإن أفرد وقيل: "هذا حلو وحامض" لم يصدق. وإما بجمع المنفصل نحو زيد طبيب وماهر صدق، وإن جمع وقيل: "طبيب ماهر" كذب. فإن عاد الضمير أي إن عاد الضمير المرفوع المستتر في "بما يعلمه" إلى الحكيم صدق، وإلا أي: وإن لم يرجع إلى الحكيم، بل إلى الموصول الذي في "بما يعلمه" كذب؛ لأن المعنى على هذا أن عمل الحكيم بسبب أن العمل يعلم الحكيم، وهذا ليس بصحيح؛ لأن العلم من صفات ذوي العقول والعمل ليس من ذوي العقول. الأغاليط هي جمع أغلوطة بمعنى ما يغلط به كالأعجوبة والأضحوكة.
+Causes of error. The fallacies and their divisions: [are] of the additive composition type, and it pertains to words from the aspect of composition. Either with regard to ambiguous reference, like: 'What the sage knows, he acts upon what he knows' — if the pronoun refers to the sage, it is true; otherwise false. Or with regard to singular compound, like: 'The bitter orange is sweet sour' is true, but if it is said individually: 'This is sweet and sour' it is not true. Or with regard to the plural compound, like: 'Zayd is a skilled physician' is true, but if it is combined and said: 'a skilled physician' it is false. [Commentary:] 'If the pronoun refers' means: if the hidden nominative pronoun in 'what he knows' refers to the sage, it is true; otherwise, i.e., if it does not refer to the sage but to the relative pronoun in 'what he knows', it is false; because the meaning then is that the sage's action is because the action knows the sage, and this is not correct, because knowledge is an attribute of rational beings and action is not a rational being. Al-aghalit (fallacies) is the plural of ughlutah, meaning that by which one is caused to err, like a marvel (u'jubah) and a laughingstock (udhukah).
+Source pages p. 102
+
+Commentary
+This passage defines and classifies fallacies that arise due to composition (تركيب) in language. The author identifies three subtypes. The first is اختلاف المرجع (ambiguous reference), illustrated by the statement: 'What the sage knows, he acts upon what he knows.' The truth of this statement depends on whether the pronoun 'he' in 'he acts' refers back to 'the sage' or to 'what he knows'. If it refers to the sage, the statement is sound; if it refers to the object of knowledge, the statement becomes false because it would mean the action itself knows the sage, which is impossible. The second subtype is إفراد المركب (singular compound), exemplified by describing a bitter orange as 'sweet sour' — when said as a single description, it is true (meaning it is both sweet and sour), but if broken into two separate statements 'this is sweet and this is sour', each is false because the fruit is not purely sweet nor purely sour. The third subtype is جمع المنفصل (plural compound), as in saying 'Zayd is a skilled physician' — when the adjectives are separate ('skilled' and 'physician'), the statement is true; but when combined into a single predicate 'a skilled physician', it is false because it implies a single profession of 'skilled physician' which is not a customary designation. The passage concludes by defining the term 'aghalit' (fallacies) as plural of 'ughlutah', meaning that by which someone is misled, drawing an analogy to words like 'u'jubah' (marvel) and 'udhukah' (laughingstock). The commentary clarifies the first example in detail, showing the logical error in the ambiguous reference.
+
+Key Terms
+جمع المنفصل
+أغلوطة
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example 'Zayd is a skilled physician', why is the combined statement false according to the author?
+A) Because Zayd is not actually a physician
+B) Because the combination implies a single qualification that is not true
+C) Because 'skilled physician' is a contradiction
+D) Because the separated statements were false
+
+Key Takeaway
+Combining true separate statements into a single compound can produce a false statement due to change in meaning.
+
+How This Lesson Applies — to MY Life?
+?
+A hadith states: 'The best of you is the one who learns the Qur'an and teaches it.' If someone says 'The best of you is the one who learns the Qur'an teaching it', is that a fallacy? Why?
+
+Pages p. 102 · Other Lessons
+← Prev
+Mark Done
+Next →

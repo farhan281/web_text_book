@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:18Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Maqasid%20Vol.%205/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/29 - Sharh Al-Maqasid Vol. 5",
+  "output_bytes": 10979321,
+  "output_sha256": "f2f31076aa011e5823c0e89032c0758f311b7554bb8fe317fcee28953b0156b2",
+  "checks": {
+    "catalog_expected_lessons": 1414,
+    "course_reported_lessons": 1414,
+    "index_lessons": 1414,
+    "full_lessons": 1414,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 1036,
+    "sources": 1036
+  }
+}

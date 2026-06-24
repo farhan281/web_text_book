@@ -1,0 +1,364 @@
+← Prev
+p. 460
+Module 17 · Lesson 1
+Next →
+Sophistry and Fallacies
+advanced
+8 min
+The Fallacy of Opposite Premises: When a Thing is Not Itself
+Author explains how opposite premises lead to impossible identity conclusions
+
+Learning Objective
+By the end of this lesson, you will be able to identify opposite premises and explain why they lead to the absurd conclusion that a thing is not itself (khalf).
+
+Core Idea
+Opposite premises force the absurd conclusion that a thing is not itself.
+
+In this passage, the author of Daqaiq al-Haqaiq warns against a subtle fallacy: using two premises with the same subject and predicate but opposite quality. Such a pair inevitably yields the identity paradox 'a thing is not itself' – an absurdity that signals a flaw in the reasoning. Understanding this fallacy is crucial for maintaining logical consistency in theological and legal arguments.
+
+Guided Path
+1
+Identify the pattern of opposite premises
+Locate the two premises in the passage that share exactly the same subject and predicate but differ in quality (one affirmative, one negative). For example: 'Every medicine is knowledge' (affirmative) and 'No medicine is knowledge' (negative).
+The subject and predicate must be identical; any other difference would change the nature of the fallacy.
+2
+Trace the absurd conclusion
+From these opposite premises, the author argues that the necessary conclusion is that 'a thing is not itself' – for instance, from the two statements above we would get 'Not every knowledge is knowledge' or, more directly, 'Medicine is not medicine.' Recognize that this is a logical impossibility (khalf).
+This conclusion is not merely false; it contradicts self-identity.
+3
+Examine a concrete syllogism that produces the fallacy
+Consider the example of Zayd: 'Zayd is a rational animal' (true) and 'Nothing that is a rational animal is a speaker' (false). This valid syllogism (first figure) yields 'Zayd is not a speaker', which contradicts the truth that Zayd is indeed a speaker. Now combine the false conclusion with the true original statement to get a contradictory pair leading to 'Zayd is not Zayd'.
+The error here is using a false premise about the middle term (rational animal) as if it were true.
+4
+Understand the source of the error
+The author notes that such errors arise from faulty conceptualization or imagination before reasoning. The thinker mistakenly treats a composite as separate from its parts or fails to notice the contradiction. In the Zayd case, the thinker incorrectly assumes that 'rational animal' excludes 'speaker', perhaps because of an imaginative confusion.
+This step helps you guard against similar pitfalls in your own reasoning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفن السادس في القياسات المؤلفة من المقدمات المتقابلة
+الموضوع في المقدمتين واحداً، والمحمول واحداً، ولا اختلاف في غير الكيفية، كقولنا: (كل) طب (علم) و (لا شيء من الطب (علم فإنه وإن لزم منه أنه ليس كل علم علما) فليس الغلط فيه خافيا، ونحن وإن كنا نجوز لزوم النتيجة الصادقة عن المقدمات الكاذبة، فليس يلزمنا تجويز لزوم الصادق عن المتقابلتين؛ إذ اللازم عنهما أن الشيء ليس هو هو) وهو خلف. وأما أنه كيف يعرض للنظار الوقوع في المقاييس من المقدمات المتقابلة بحيث ينتج أن الشيء ليس هو هو من غير شعور، فذلك أنه قد يتفق أن يكون عنده أصل حق موضوع وقياسات فاسدة تنتج نتائج فاسدة يلزم عنها وعن الأصل الموضوع أنه ليس هو هو ومثاله وليكن الموضوع إن بعض الأعداد فرد) والقياس الفاسد (كل عدد منقسم بمتساويين) و (لا شيء من المنقسم بمتساويين فرد) فـ (لا شيء من العدد فرد) فإذا قلت بعض العدد (فرد) و (لا شيء من العدد فرد أنتج بالنظر إلى الشكل الثاني (بعض العدد ليس بعدد وبالنظر إلى الشكل الثالث بعض الفرد ليس بفرد وربما كان الموضوع باطلاً والقياس صحيح منتج لمقابله، وربما كان عنده قياسان إما كاذبان أو أحدهما نتيجتاهما متقابلتان كما سبق، وربما اتفق وقوع الغلط بإيهام أن المركب ليس هو أحد جزأيه - أي ليس هو هو بمجرده - ثم يجعل المركب حداً أوسط بين الجزء المسلوب وبين ما المركب ثابت له، وهو كما يقال: زید) حیوان ناطق) و (لا شيء مما هو حيوان ناطق بمناطق ويكون ذلك في ما بينه نفسه، على أنه ليس هو هو) فقط فينتج أن زيداً ليس بناطق وقد كان بعينه ناطقاً، وليس ذلك كله، فما يقع التصور ابتدأ قبل الوقوع في بعض هذه الزلات، أو التخيّل ببعض هذه التخيلات.
+The sixth art: syllogisms composed of opposite premises. The subject in both premises is one, and the predicate is one, and there is no difference except in quality, as we say: 'Every medicine is knowledge' and 'No medicine is knowledge.' For although it follows from this that 'Not every knowledge is knowledge,' the error is not hidden in it. And even if we allow that a true conclusion may follow from false premises, we are not obliged to allow the true from opposite premises, because what follows from them is that 'a thing is not itself,' which is absurd. As for how it happens that a thinker falls into syllogisms from opposite premises such that it produces that a thing is not itself without awareness, that is because it may happen that he has a true original proposition and fallacious syllogisms that produce false conclusions from which, together with the original proposition, it follows that it is not itself. Its example: let the original proposition be 'Some numbers are odd,' and the fallacious syllogism: 'Every number is divisible into two equals,' and 'Nothing divisible into two equals is odd,' so 'No number is odd.' Then if you say 'Some numbers are odd' and 'No number is odd,' with respect to the second figure it produces 'Some numbers are not numbers,' and with respect to the third figure 'Some odd is not odd.' And sometimes the original proposition is false and the syllogism is sound producing its opposite. And sometimes he has two syllogisms, either both false or one of them, whose conclusions are opposite as before. And sometimes error occurs by suggesting that the composite is not one of its two parts — i.e., it is not itself by itself — then making the composite a middle term between the part negated and that to which the composite is affirmed, as in saying: 'Zayd is a rational animal' and 'Nothing that is a rational animal is a speaker.' That occurs in what is between his own self, as if it is not itself, so it produces that Zayd is not a speaker, while he was precisely a speaker. And not all of that is [as described]. So some conceptualization occurs initially before falling into some of these slips, or imagination by some of these imaginings.
+Source pages p. 460
+
+Commentary
+This passage critically analyzes a fallacy that arises from using opposite premises in a syllogism. The author explains that when two premises have the same subject and predicate but differ in quality (one affirmative, one negative), they force a conclusion that contradicts self-identity—something is not itself. This is an absurdity (خلف). The author provides three scenarios: (1) when a true original premise is combined with a false syllogism, yielding a false conclusion that contradicts the original; (2) when two syllogisms produce opposite conclusions; and (3) when a composite term is mistakenly separated from its part, leading to the false inference that the composite lacks a property it possesses. The example of Zayd being 'a rational animal' but not 'a speaker' illustrates the last case. The author concludes that such errors arise from faulty conceptualization or imagination preceding the reasoning.
+
+Key Terms
+المقدمات المتقابلة
+خلف
+الشكل الثاني
+
+Key Terms from Source Passage
+
+Checkpoint
+What absurd conclusion necessarily follows from two opposite premises?
+A) The conclusion is always false.
+B) The conclusion is that a thing is not itself.
+C) The conclusion is always true.
+D) The conclusion is uncertain.
+
+Key Takeaway
+Opposite premises (same subject and predicate, opposite quality) inevitably lead to the identity paradox 'a thing is not itself' – a fallacy that must be avoided in all Islamic scholarly reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a pair of opposite premises using a subject from Islamic rulings (e.g., 'Every prayer is obligatory' and 'No prayer is obligatory') and show what absurd conclusion follows (e.g., 'prayer is not prayer'). Then explain why such a pair cannot be part of a sound argument.
+?
+Identify the fallacy in the following example from kalam: 'The Quran is created' and 'The Quran is not created' are both claimed as premises. What absurdity follows? Use the author's explanation.
+
+Pages p. 460 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 474
+Module 17 · Lesson 2
+Next →
+Sophistry and Fallacies
+intermediate
+7 min
+Recognizing Begging the Question (Musadara) through a Geometric Example
+Author illustrates musadara with a geometric scenario.
+
+Learning Objective
+By the end of this lesson, you will be able to identify instances of the fallacy of begging the question where the conclusion is assumed in a premise.
+
+Core Idea
+Begging the question is circular reasoning: using the proposition to be proved as a premise.
+
+This lesson introduces the fallacy of musadara 'ala al-matlub, or begging the question. The author provides a striking geometric example to illustrate how a proof can inadvertently assume what it tries to prove. Understanding this fallacy is crucial for evaluating the validity of arguments in Islamic sciences, especially when constructing proofs for theological or juristic principles.
+
+Guided Path
+1
+Read the geometric example carefully.
+The author describes a situation where from two lines and a base, a triangle with angles greater than two right angles would result, but this depends on an unproven assumption.
+2
+Identify the premise that assumes the conclusion.
+The author says: 'this is only proven after the validity of that position' – so the proof assumes the position it aims to prove.
+3
+Generalize the structure of the fallacy.
+The fallacy occurs when the argument's premises rely on the truth of the conclusion, making it circular.
+4
+Apply this to an Islamic science argument.
+Consider a kalam argument that uses 'the world is created' to prove 'the world has a cause' when 'created' already includes having a cause, leading to circularity.
+This is a typical example of musadara in kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفن الثامن في اعتبار أمور نافعة الاعتبار في صور الحجج يلتقيان، وإلا فلو التقيا في جهة لحدث منهما مع الواقع عليهما مثلث زواياه أعظم من قائمتين؛ لكون الزاويتين اللتين عند قاعدته مساوية لقائمتين والحادثة من الخطين زائدة عليهما وهو خلف؛ إذ زوايا المثلث مساوية لقائمتين، إنما تبرهن بعد صحة ذلك الوضع، فيكون قد بيّن حال الزوايا في الخطين بما لا يتم بيانه إلا به، وهو مصادرة على المطلوب. وأما إن كان منفصلاً فإما بسيط وإما مركب فإن كان بسيطاً لم يتصور فيه مصادرة على المطلوب، وإلا فالمصادرة إما في المنفصلة أو الاستثنائية منه، لا جائز أن يكون في المنفصلة؛ إذ التسليم لها لا يكون تسليماً للمطلوب، ولا في الاستثنائية؛ إذ هي أبداً في المنفصلة تكون مقابلة للمطلوب، والمقابل للمطلوب كيف يصادر فيه على عين المطلوب؟ وأما إن كان مركباً فعلى هذا النحو أيضاً، وربما أخذ في القياس شيئان متعاكسان كـ الإنسان والناطق) أو جزئي وكلي كـ (الإنسان والحيوان فيظن أن حكمهما ،واحد ثم يبنى عليه ظن المصادرة على المطلوب الأول، وفي التحقيق ليس ذلك مصادرة إلا بحسب الظن، وهو على أقسام نذكرها في طوبيقا، وعند تحقيق ما أشرنا إليه من حقيقي المصادرة على المطلوب وظنية فما صودر فيه على المطلوب قد يشابه القياس الكائن من المقدمات المتقابلة في أخذ الحد الأوسط في النتيجة، وإن افترقا في لا بُدّية كذب إحدى المقدمتين المتقابلتين في القياس المؤلف منهما، وعدم هذه اللا بُدّية في المصادرة؛ إذ ليس يمتنع أن يكون المطلوب ـع ما اقترن به حقاً، وفي أن المصادرة يُبيّن به مطلوب غير بين، وفي القياس المتقابل نقيض مطلوب مسلّم.
+The eighth art: regarding considering useful matters in the forms of arguments. They meet, otherwise if they met in a direction then from them with the object upon which they both fall would result a triangle whose angles are greater than two right angles; because the two angles at its base are equal to two right angles and the angle formed by the two lines is in excess of them, which is a contradiction; for the angles of a triangle are equal to two right angles; this is only proven after the validity of that position, so he has explained the state of the angles in the two lines by something whose explanation is only completed by it—and that is begging the question (musadara 'ala al-matlub). As for if it is disjunctive, it is either simple or composite. If it is simple, then begging the question with respect to the desired conclusion cannot be conceived; otherwise, the begging would be either in the disjunction or in the exception from it. It is not possible that it be in the disjunction, because granting it is not granting the desired conclusion, nor in the exception, because it is always in the disjunction opposite to the desired conclusion—how can the opposite of the desired conclusion be begged with respect to the very desired conclusion? As for if it is composite, it is on this same pattern as well. And sometimes two contradictory things are taken in the syllogism, like 'human' and 'rational', or a particular and a universal, like 'human' and 'animal', so it is thought that their ruling is one, then upon that is built the supposition of begging the question with respect to the first desired conclusion. In reality, that is not begging the question except according to supposition. It has divisions that we will mention in the Topics. And upon investigation of what we have indicated regarding real and apparent begging of the question, that in which the desired conclusion is begged resembles the syllogism composed of contradictory premises in taking the middle term in the conclusion, although they differ in the necessity of the falsity of one of the two contradictory premises in the syllogism composed of them, and the absence of this necessity in begging the question; for it is not impossible that the desired conclusion, along with what accompanies it, be true. And in that begging the question is used to prove a non-evident desired conclusion, while in the syllogism with contradictory premises it is the contradictory of a conceded desired conclusion.
+Source pages p. 474
+
+Commentary
+This passage is a critical analysis of the fallacy of begging the question (musadara 'ala al-matlub). The author begins by illustrating a geometric example where the proof of the angles in two lines assumes the very point that needs to be proven, which is a clear case of circular reasoning. Then he examines whether such a fallacy occurs in conditional syllogisms. For disjunctive syllogisms (qiyas munfasil), he argues that simple disjunctive syllogisms cannot beg the question because granting the disjunction does not grant the desired conclusion, and the exception in the disjunctive is always opposite to the desired conclusion. Composite disjunctive syllogisms follow the same logic. He then notes that sometimes in categorical syllogisms, two terms like 'human' and 'rational' are taken as if they have the same extension, creating a false impression of begging the question, but this is only apparent, not real. The passage compares this fallacy to syllogisms with contradictory premises, highlighting that in begging the question the premises do not necessarily entail the conclusion's falsity, unlike contradictory premises which force a false conclusion. The author also distinguishes between real and apparent begging of the question, noting that real begging of the question still produces truth, while the syllogism with contradictory premises yields a falsehood. The discussion is rooted in the Aristotelian Topics (Topika).
+
+Key Terms
+مصادرة على المطلوب
+قياس منفصل
+لا بُدّية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is an example of musadara on al-matlub (begging the question)?
+A) A triangle with angles greater than two right angles
+B) Proving the angles of a triangle are equal to two right angles using an assumption that is itself unproven
+C) Using a disjunctive syllogism
+D) Taking human and rational as the same
+
+Key Takeaway
+Musadara occurs when a premise presupposes the conclusion, making the argument circular.
+
+How This Lesson Applies — to MY Life?
+?
+Find an example of a potential circular argument in a fiqh ruling (e.g., 'Wine is forbidden because it is intoxicating, and intoxicants are forbidden' – but if 'wine' is defined as an intoxicant, it is circular. State why or why not.)
+?
+Construct a valid categorical syllogism on a kalam topic that does NOT commit musadara, and then modify a premise to make it circular.
+
+Pages p. 474 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 474
+Module 17 · Lesson 3
+Next →
+Sophistry and Fallacies
+advanced
+8 min
+Why Simple Disjunctive Syllogisms Cannot Beg the Question
+Author analyzes musadara in disjunctive and composite syllogisms, and distinguishes real from apparent musadara.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why simple disjunctive syllogisms are immune to the fallacy of begging the question and distinguish real from apparent musadara.
+
+Core Idea
+In a simple disjunctive syllogism, granting the disjunction does not grant the conclusion, so no circularity.
+
+The author next examines whether musadara can occur in conditional syllogisms, focusing on the disjunctive type (qiyas munfasil). He argues that simple disjunctive syllogisms cannot involve the fallacy because the disjunction itself does not entail the desired conclusion, and the exception is opposite to it. This lesson clarifies the reasoning and also discusses apparent musadara when terms are taken as synonyms.
+
+Guided Path
+1
+Identify the author's claim about simple disjunctive syllogisms.
+The author says it is impossible for musadara to occur in a simple disjunctive syllogism.
+2
+Understand the two components: the disjunctive premise and the exception.
+The disjunctive premise (e.g., either A or B) and the exception (e.g., not A) are the two parts of the syllogism.
+3
+Consider why the disjunction cannot be a source of musadara.
+Granting the disjunction does not grant the desired conclusion because it only presents possibilities; it does not assert which one is true.
+4
+Consider why the exception cannot be a source of musadara.
+The author argues that the exception is always opposite to the desired conclusion, so it cannot be circular—how can the opposite of the conclusion be taken as a premise that assumes the conclusion?
+This point requires careful analysis: in a typical disjunctive syllogism, the exception negates the other disjunct, not the conclusion itself. The author's statement may be interpreted as the exception being opposite to the desired conclusion in the sense that it negates the disjunct that is not the conclusion.
+5
+Distinguish real from apparent musadara with synonyms.
+When two terms like 'human' and 'rational' are taken as having the same extension, it may seem that the conclusion is assumed, but this is only a supposition, not true circularity.
+The author clarifies that this is apparent musadara, not real.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفن الثامن في اعتبار أمور نافعة الاعتبار في صور الحجج يلتقيان، وإلا فلو التقيا في جهة لحدث منهما مع الواقع عليهما مثلث زواياه أعظم من قائمتين؛ لكون الزاويتين اللتين عند قاعدته مساوية لقائمتين والحادثة من الخطين زائدة عليهما وهو خلف؛ إذ زوايا المثلث مساوية لقائمتين، إنما تبرهن بعد صحة ذلك الوضع، فيكون قد بيّن حال الزوايا في الخطين بما لا يتم بيانه إلا به، وهو مصادرة على المطلوب. وأما إن كان منفصلاً فإما بسيط وإما مركب فإن كان بسيطاً لم يتصور فيه مصادرة على المطلوب، وإلا فالمصادرة إما في المنفصلة أو الاستثنائية منه، لا جائز أن يكون في المنفصلة؛ إذ التسليم لها لا يكون تسليماً للمطلوب، ولا في الاستثنائية؛ إذ هي أبداً في المنفصلة تكون مقابلة للمطلوب، والمقابل للمطلوب كيف يصادر فيه على عين المطلوب؟ وأما إن كان مركباً فعلى هذا النحو أيضاً، وربما أخذ في القياس شيئان متعاكسان كـ الإنسان والناطق) أو جزئي وكلي كـ (الإنسان والحيوان فيظن أن حكمهما ،واحد ثم يبنى عليه ظن المصادرة على المطلوب الأول، وفي التحقيق ليس ذلك مصادرة إلا بحسب الظن، وهو على أقسام نذكرها في طوبيقا، وعند تحقيق ما أشرنا إليه من حقيقي المصادرة على المطلوب وظنية فما صودر فيه على المطلوب قد يشابه القياس الكائن من المقدمات المتقابلة في أخذ الحد الأوسط في النتيجة، وإن افترقا في لا بُدّية كذب إحدى المقدمتين المتقابلتين في القياس المؤلف منهما، وعدم هذه اللا بُدّية في المصادرة؛ إذ ليس يمتنع أن يكون المطلوب ـع ما اقترن به حقاً، وفي أن المصادرة يُبيّن به مطلوب غير بين، وفي القياس المتقابل نقيض مطلوب مسلّم.
+The eighth art: regarding considering useful matters in the forms of arguments. They meet, otherwise if they met in a direction then from them with the object upon which they both fall would result a triangle whose angles are greater than two right angles; because the two angles at its base are equal to two right angles and the angle formed by the two lines is in excess of them, which is a contradiction; for the angles of a triangle are equal to two right angles; this is only proven after the validity of that position, so he has explained the state of the angles in the two lines by something whose explanation is only completed by it—and that is begging the question (musadara 'ala al-matlub). As for if it is disjunctive, it is either simple or composite. If it is simple, then begging the question with respect to the desired conclusion cannot be conceived; otherwise, the begging would be either in the disjunction or in the exception from it. It is not possible that it be in the disjunction, because granting it is not granting the desired conclusion, nor in the exception, because it is always in the disjunction opposite to the desired conclusion—how can the opposite of the desired conclusion be begged with respect to the very desired conclusion? As for if it is composite, it is on this same pattern as well. And sometimes two contradictory things are taken in the syllogism, like 'human' and 'rational', or a particular and a universal, like 'human' and 'animal', so it is thought that their ruling is one, then upon that is built the supposition of begging the question with respect to the first desired conclusion. In reality, that is not begging the question except according to supposition. It has divisions that we will mention in the Topics. And upon investigation of what we have indicated regarding real and apparent begging of the question, that in which the desired conclusion is begged resembles the syllogism composed of contradictory premises in taking the middle term in the conclusion, although they differ in the necessity of the falsity of one of the two contradictory premises in the syllogism composed of them, and the absence of this necessity in begging the question; for it is not impossible that the desired conclusion, along with what accompanies it, be true. And in that begging the question is used to prove a non-evident desired conclusion, while in the syllogism with contradictory premises it is the contradictory of a conceded desired conclusion.
+Source pages p. 474
+
+Commentary
+This passage is a critical analysis of the fallacy of begging the question (musadara 'ala al-matlub). The author begins by illustrating a geometric example where the proof of the angles in two lines assumes the very point that needs to be proven, which is a clear case of circular reasoning. Then he examines whether such a fallacy occurs in conditional syllogisms. For disjunctive syllogisms (qiyas munfasil), he argues that simple disjunctive syllogisms cannot beg the question because granting the disjunction does not grant the desired conclusion, and the exception in the disjunctive is always opposite to the desired conclusion. Composite disjunctive syllogisms follow the same logic. He then notes that sometimes in categorical syllogisms, two terms like 'human' and 'rational' are taken as if they have the same extension, creating a false impression of begging the question, but this is only apparent, not real. The passage compares this fallacy to syllogisms with contradictory premises, highlighting that in begging the question the premises do not necessarily entail the conclusion's falsity, unlike contradictory premises which force a false conclusion. The author also distinguishes between real and apparent begging of the question, noting that real begging of the question still produces truth, while the syllogism with contradictory premises yields a falsehood. The discussion is rooted in the Aristotelian Topics (Topika).
+
+Key Terms
+مصادرة على المطلوب
+قياس منفصل
+لا بُدّية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why can a simple disjunctive syllogism never involve begging the question?
+A) Because the disjunction is always true.
+B) Because granting the disjunction does not grant the desired conclusion.
+C) Because the exception in the disjunction is identical to the desired conclusion.
+D) Because simple disjunctive syllogisms are always valid.
+
+Key Takeaway
+Simple disjunctive syllogisms are immune to musadara because the disjunction does not assert the conclusion, and the exception is opposite to it.
+
+How This Lesson Applies — to MY Life?
+?
+Take a disjunctive syllogism from Islamic law: 'Either this contract is valid or it is invalid. It is not invalid. Therefore it is valid.' Explain why this does not commit musadara according to the author's criteria.
+?
+Identify an example in kalam where two terms (e.g., 'created' and 'contingent') are sometimes used interchangeably, leading to apparent musadara. Explain why it is only apparent.
+
+Pages p. 474 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 475
+Module 17 · Lesson 4
+Next →
+Sophistry and Fallacies
+advanced
+8 min
+Identifying False Cause in Reductio Arguments
+Author explains the fallacy of false cause in reductio arguments.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a reductio argument commits the fallacy of attributing the absurdity to the wrong premise, using the criteria from the passage.
+
+Core Idea
+A reductio is valid only if the absurdity follows solely from the contradictory assumption.
+
+This passage addresses a subtle but critical fallacy in reductio arguments (qiyas al-khalf). In Islamic logic, reductio is used to prove a conclusion by assuming its contradictory and deriving an impossibility. However, the author warns that sometimes the impossibility actually arises from other premises, not from the contradictory assumption itself. Misattributing the source of the absurdity leads to a sophistical argument. Understanding this fallacy sharpens your ability to evaluate theological and juristic proofs that rely on reductio.
+
+Guided Path
+1
+Recognize the structure of a reductio
+Identify the desired conclusion (al-matlub) and its contradictory (naqid al-matlub) assumed for the sake of argument. The reductio aims to derive an impossibility (muhal) from the conjunction of this contradictory assumption with other premises.
+In the passage, the author gives examples with variable letters to abstract the structure.
+2
+Locate the assumed contradictory
+Find the proposition that is the opposite of what the arguer wants to prove. In the first example, the desired conclusion is 'not every animal is human', so the contradictory is 'every animal is human'.
+The contradictory is the premise that the arguer intends to show leads to absurdity.
+3
+Check if the absurdity follows without the contradictory
+Test whether the same impossibility would still be derivable if the contradictory assumption were removed. If the conclusion still follows from the other premises alone, then the reductio is fallacious.
+The author shows this in the second example: the impossibility (كل ج أ) follows from (كل ج د) and (كل د أ) even if (كل ب ج) is removed.
+4
+Distinguish correct from fallacious reductio
+A correct reductio requires that the impossibility only follows when the contradictory is present. If the impossibility persists after removing the contradictory, the cause is misattributed.
+The passage emphasizes that the syllogism must be 'free from redundancy' (خليّاً عن الحشو) and that removing the contradictory must eliminate the absurdity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل الثاني في تحقيق وضع ما ليس سبباً للنتيجة الكاذبة على أنه سبب لها نقول: إنه قد يوضع قياس لإنتاج محال، ويظن انتسابه إلى مقدمة معينة منه، وإنما هو منسوب إلى غيرها بأن يبقى المحال، وإن رفعت المقدمة المعينة سبباً، وليس هذا الاعتبار مما يقع في القياس المستقيم، إذ هو لا يقصد فيه إنتاج الكذب من وضع شيء أو رفعه، بل ذلك إنما هو لقياس الخلف، حيث يوجد فيه نقيض المطلوب، ويرام اقترانه بمقدمة أخرى لإنتاج محال، يظن انتسابه إلى النقيض، والسبب فيه غيره، إما بأن تكون حدود المحال وقياسه غير مشاركة للنقيض، أو مشاركة، لكن المحال إنما يلزم عن الغير مثال الأول ما لو كان المطلوب (لا) كل حيوان إنسان ثم قرن بنقيضه قياس ينتج أن) كل جوهر عرض ومثال الثاني ما لو قلت ليس كل "ب" "ج") وإلا فـ ( كـل "ب" "ج") و(كل "ج" "د") و(كل "د" "أ") فـ (كل "ج" "أ") وهو خلف، فليس (كل "ب" "ج") ظناً بأن لزوم المحال إنما هو من فرض نقيض المطلوب، وإنما يكون كذلك أن لو يلزم المحال، وإن قدر رفع النقيض من البين ولا يخفى لزومه عن قولنا: (كل) "ج" "د") و(كل "د" د") و (كل "د" "أ") وإن قدر رفع (كل "ب" "ج") وكذا لو أخرت ذكر النقيض بأن قلت إن لم يكن لا كل "ب" "ج") فـ (ليكن كل "د" "ر") و(كل "ر" "ب") و(كل "ب" "ج") فـ (كل "د" "ب") وهو خلف؛ إذ المحال لازم عن قولنا: (كل "د" "ر") و(كل "ر" "ب") وإن لم نقل (كل "أ" "ج") فالمحال إنما يلزم عن وضع النقيض بحيث يكون ما مثل هذا القياس خليّاً عن الحشو، وأن يكون بحيث لو رفع النقيض لما لزم المحال.
+The second chapter: on verifying the placement of what is not a cause for a false conclusion as a cause for it. We say: A syllogism may be set up to produce an impossibility, and its attribution is thought to be to a specific premise from it, while it is actually attributed to something else, such that the impossibility remains even if that specific premise is removed as a cause. This consideration does not occur in a straightforward syllogism, because in it one does not intend to produce falsehood by positing or removing something. Rather, that is only for a reductio syllogism (qiyas al-khalf), where the contradictory of the desired conclusion is present, and one seeks to conjoin it with another premise to produce an impossibility, which is thought to be attributed to the contradictory, but the cause is something else. Either the terms of the impossibility and its syllogism do not share with the contradictory, or they share but the impossibility only follows from the other. Example of the first: if the desired conclusion is 'not every animal is human', then conjoined with its contradictory a syllogism yields 'every substance is an accident'. Example of the second: if you say 'not every B is C', otherwise 'every B is C' and 'every C is D' and 'every D is A', so 'every C is A', which is a contradiction. So it is not (every B is C) that is thought that the occurrence of the impossibility is only from assuming the contradictory of the desired conclusion; it would only be like that if the impossibility followed even if the contradictory were removed from the picture. And its following from our statement '(every C is D) and (every D is D) and (every D is A)' is not hidden even if (every B is C) is removed. Likewise, if you delay mentioning the contradictory by saying: if it is not 'not every B is C', then let 'every D is R' and 'every R is B' and 'every B is C', so 'every D is B', which is a contradiction. For the impossibility follows from our statement 'every D is R' and 'every R is B' even if we do not say 'every A is C'. So the impossibility only follows from positing the contradictory such that what is like this syllogism is free from redundancy, and such that if the contradictory were removed, the impossibility would not follow.
+Source pages p. 475
+
+Commentary
+This passage is a critical analysis of a specific fallacy in reductio arguments (qiyas al-khalf). The author explains that sometimes a syllogism is constructed to produce an absurdity (muhal), and it is mistakenly thought that a particular premise is the cause of that absurdity, when in fact the absurdity follows from other premises. This fallacy does not occur in direct syllogisms, which aim for truth, but in reductio arguments where the contradictory of the desired conclusion is assumed. The author distinguishes two cases: either the terms of the absurdity are completely separate from the contradictory, or they share some terms but the absurdity still follows from other premises. Two examples are given. In the first, the desired conclusion is 'not every animal is human'; the contradictory is 'every animal is human', and from this conjoined with other premises, the absurdity 'every substance is an accident' is produced—but the absurdity actually follows from those other premises alone. In the second example, using variable letters (B, C, D, A), a reductio is set up: assuming 'not every B is C' leads to a contradiction via premises about C, D, and A, but the contradiction actually follows from the premises about C, D, and A alone, independent of 'every B is C'. The author stresses that for a correct reductio, the absurdity must truly follow only from the contradictory assumption and not from other premises. The passage underscores the need for scrutiny in reductio arguments to avoid false attribution of the cause of the absurdity.
+
+Key Terms
+قياس الخلف
+محال
+نقيض المطلوب
+
+Key Terms from Source Passage
+
+Checkpoint
+In the second example of the passage, what is the correct cause of the impossibility (contradiction)?
+A) The premise 'every B is C'.
+B) The premises about C, D, and A alone.
+C) The conjunction of all premises.
+D) The assumption of the contradictory of the desired conclusion.
+
+Key Takeaway
+The validity of a reductio argument hinges on the absurdity being strictly dependent on the contradictory assumption, free from extraneous premises that could independently generate the contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following reductio argument in Usul al-Fiqh: 'Assume that riba (usury) is permissible for all goods (contradictory of the desired prohibition). Then, with the premise that all permissible things involve mutual consent, we derive that riba involves mutual consent, which is not absurd. So the reductio fails.' Explain why this argument does not actually commit the false cause fallacy (or does it? Apply the criterion from the passage).
+?
+Take a classical Kalam argument for the existence of God: 'If the world were eternal (contradictory), then it would have an infinite number of past events, leading to a contradiction (actual infinite cannot be traversed).' Identify the assumed contradictory and check if the absurdity would follow without it (e.g., from premises about the nature of time alone).
+
+Pages p. 475 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 496
+Module 17 · Lesson 5
+Next →
+Sophistry and Fallacies
+intermediate
+10 min
+Six Sources of Difficulty in Analyzing Syllogisms
+Author identifies difficulties in analyzing syllogisms due to conclusion, premises, limits, figure, and example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the six sources of difficulty in analyzing syllogisms as enumerated by the author and recognize how a seemingly obvious conclusion can mask a fallacy.
+
+Core Idea
+A plausible conclusion can hide a fallacious syllogism; not every convincing argument is valid.
+
+When analysing a syllogism, it is easy to be misled by a conclusion that seems obviously true. The author of this logic text identifies several factors that can make analysis difficult. In this lesson, we will explore these factors and see how an apparently necessary conclusion can deceive the mind into accepting a flawed argument.
+
+Guided Path
+1
+Extract the list of difficulty sources
+Read the Arabic carefully and list all the sources of difficulty the author mentions. He says: 'from that is what is due to the conclusion, from it is what is due to the conditions of the syllogism, from it is what is due to the limits, from it is what is due to the figure of the syllogism, and the premise.' How many distinct sources are there? Note that 'figure' and 'premise' might be one or two.
+The author does not number them explicitly; count the separate items mentioned.
+2
+Focus on the first source: the conclusion
+The author explains that difficulty arises when the conclusion 'comes to the mind previously'—that is, it seems so obvious that the imagination rejects any possibility of defect. The syllogism may not actually produce the conclusion, but because the conclusion is intuitively appealing, we assume it is valid.
+This is a psychological trap; the obviousness of the conclusion overrides careful checking.
+3
+Examine the example given
+The author provides an example: 'The parts of substance, if they are annihilated, substance is annihilated; and what is not substance, its annihilation does not annihilate substance.' This argument leads the mind to think that the parts of substance are themselves substance. Break down the premises and the apparent conclusion.
+The example is designed to appear valid even though it is not.
+4
+Identify the fallacy
+Why is the example flawed? The premises do not logically establish that the parts of substance are substance. The argument commits a fallacy by exploiting the obviousness of the conclusion. Formulate the fallacy in your own words and explain how it deceives the unsuspecting analyst.
+Think about what is missing: the connection between 'parts being annihilated' and 'parts being substance'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفن الثامن في اعتبار أمور نافعة الاعتبار في صور الحجج
+لكن ربما عَسُر التحليل والوقوف على وجه الزيادة والنقصان ومواضع الصدق والكذب والتحريف والحق، بسبب أمور لا بُدّ من الإشارة إلى أنموذجات منها تكون سهلة في اعتبارها من ذلك ما يكون بسبب النتيجة، ومنه ما يكون بسبب شرائط القياس ومنه ما يكون بسبب الحدود، ومنه ما يكون بسبب شكل القياس، والمقدمة، فأما ما يعود إلى نفس النتيجة فبأن يكون لزومها من القول سابقاً إلى الذهن، بحيث يرتفع عند الوهم احتمال ما فيه من الخلل، ووجه الزيادة والنقصان، مع أنه غير منتج للمطلوب، وإن كان فلا يكون إلا مع تعشف في التمحل والتغيير، وهو كقولنا: (أجزاء الجوهر تبطل ببطلانها الجوهر، وما ليس بجوهر لا يبطل ببطلانه (الجوهر أو كما في قولنا : بطلان) أجزاء الجوهر يبطل معها الجوهر، وبطلان ما ليس بجوهر لا يبطل معه الجوهر) فيسبق إلى الذهن منها أن أجزاء الجوهر جوهر، ونظن
+The Eighth Art: On considering useful considerations regarding the forms of arguments. But perhaps analysis and determining the aspect of excess and deficiency, and the places of truth and falsehood, distortion and correctness, is difficult due to matters which must be pointed to with examples that are easy to consider. Among that is what is due to the conclusion, among it is what is due to the conditions of the syllogism, among it is what is due to the limits, among it is what is due to the figure of the syllogism, and the premise. As for what pertains to the conclusion itself, it is that the necessity of it from the statement comes to the mind previously, such that the imagination removes the possibility of defect in it, and the aspect of excess and deficiency, while it does not produce the conclusion. And if it does, it is only with artifice in forced interpretation and alteration. It is like our saying: 'The parts of substance, if they are annihilated, substance is annihilated; and what is not substance, its annihilation does not annihilate substance.' Or as in our saying: 'Annihilation of the parts of substance, with it substance is annihilated, and annihilation of what is not substance, with it substance is not annihilated.' So it comes to mind from them that the parts of substance are substance, and we think...
+Source pages p. 496
+
+Commentary
+This passage introduces a new section (the 'Eighth Art') on useful considerations for analyzing syllogistic forms. The author states that analysis can be difficult due to several factors. He lists six sources of difficulty: 1) the conclusion itself, 2) the conditions of the syllogism, 3) the limits (hudud, i.e., definitions or terms), 4) the figure of the syllogism, and 5) the premise. (Two are mentioned in the text: 'from the figure and the premise' may be read as two separate items, or 'figure' and 'premise' as one; but the enumeration seems to have at least four, possibly five including 'conditions' as separate.) The author then elaborates on the first source: the conclusion. The problem occurs when the conclusion appears necessary and obvious to the mind, so that the imagination dismisses any possible defect, even though the syllogism is not actually productive of the desired conclusion. If it does produce, it is only through forced manipulation. He gives an example: statements about 'parts of substance' and 'substance' that make one think that the parts of substance are substance itself, which is a fallacy. The example illustrates how a flawed argument can seem convincing due to the immediate appeal of the conclusion.
+
+Key Terms
+نتيجة (natija): The conclusion of a syllogism; here specifically the source of difficulty when the conclusion seems obviously true. [Note: Stable; standard term for conclusion in logic.]
+تحريف (tahrif): Distortion; a corruption of the argument form or content. [Note: Common term in textual criticism; in logic it refers to fallacious alteration.]
+الحدود (hudud): The limits or terms (i.e., the subject and predicate of propositions); here a source of difficulty. [Note: In logic, 'hadd' can mean definition or term; here it likely means the terms of the syllogism.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is one source of difficulty in analyzing syllogisms?
+A) The number of premises
+B) The conclusion being false
+C) The conditions of the syllogism
+D) The mood of the syllogism
+
+Key Takeaway
+The obviousness of a conclusion does not guarantee the validity of the syllogism; one must always check the logical structure.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the following argument: 'The Quran is eloquent; the Quran is Arabic speech; therefore all Arabic speech is eloquent.' Identify which source of difficulty (due to conclusion, conditions, limits, figure, or premise) might be at play. Explain why the conclusion seems plausible but is actually invalid.
+?
+Construct an original example (on a fiqh or kalam topic) of a syllogism where the conclusion is obviously true but the argument is fallacious. Identify the specific defect in your example.
+
+Pages p. 496 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →

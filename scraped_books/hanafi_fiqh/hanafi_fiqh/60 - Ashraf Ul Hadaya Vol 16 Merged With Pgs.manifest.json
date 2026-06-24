@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:15Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Ashraf%20ul%20Hadaya%20Vol%2016_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/60 - Ashraf Ul Hadaya Vol 16 Merged With Pgs",
+  "output_bytes": 6510810,
+  "output_sha256": "540bb6cbc85bc2b92979128a5eded03e34175c0f206b6d1df2a17839c26d5fa9",
+  "checks": {
+    "catalog_expected_lessons": 705,
+    "course_reported_lessons": 705,
+    "index_lessons": 705,
+    "full_lessons": 705,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 22,
+    "course_reported_modules": 22,
+    "modules": 22,
+    "course_reported_sources": 709,
+    "sources": 709
+  }
+}

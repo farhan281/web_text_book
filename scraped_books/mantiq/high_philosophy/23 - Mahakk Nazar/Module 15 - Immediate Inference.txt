@@ -1,0 +1,1527 @@
+← Prev
+p. 86
+Module 15 · Lesson 1
+Next →
+Immediate Inference
+beginner
+5 min
+Understanding the Contradictory of a Proposition (Naqid al-Qadiyya)
+Author explains the need for understanding contradictories and warns against fallacies.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the contradictory of a given Islamic proposition and explain why indirect proof via contradiction is valid.
+
+Core Idea
+The contradictory is the key to indirect proof: when direct proof fails, disprove the opposite.
+
+In Islamic logic, many arguments proceed indirectly: rather than proving a claim directly, one shows that its negation leads to absurdity. This requires a precise understanding of what constitutes a genuine contradictory. The author warns that contradictory relationships are not always obvious, and many fallacies arise from mistaking non-contradictory pairs for true contradictories. In this lesson, we will examine the definition and conditions of contradictories and see how they are used in kalam arguments.
+
+Guided Path
+1
+Locate the author's definition
+Find the Arabic phrase 'القضيتان المتنافيتان' which defines contradictory propositions. Note that the definition is given after the warning.
+The definition is: 'كل قضيتين إذا صدقت إحداهما.. كذبت الأخرى بالضرورة' (every two propositions such that if one is true, the other is necessarily false).
+2
+Extract the core condition
+The defining condition is mutual exclusivity and joint exhaustiveness: they cannot both be true and cannot both be false. This is a two-way relation.
+This distinguishes contradictions from contraries (which cannot both be true but can both be false) and subcontraries (which cannot both be false but can both be true).
+3
+Identify the example
+The author gives the example 'العالم حادث' (The world is originated). Determine its contradictory: 'العالم ليس بحادث' or 'العالم قديم' (The world is not originated).
+This example is taken from kalam, where proving the world's origination is a central concern.
+4
+Understand the utility
+The author states that when a claim cannot be proven directly, one can prove it by disproving its contradictory. This is the method of indirect proof (burhan al-‘aks or reductio ad absurdum).
+This is widely used in Islamic theology, e.g., in arguments for the existence of God and the origination of the world.
+5
+Recognize the warning
+Many mistakenly think contradictories are obvious, but without careful refinement, one may confuse non-contradictory pairs (e.g., contraries) with true contradictories, leading to countless sophistries.
+Precise conditions include sameness of subject, predicate, time, place, etc.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+نقيض القضايا والحاجة إليه. التفصيل الثالث: في بيان نقيض القضية: وهذا مما يحتاج إليه؛ إذ رب مطلوب لا يقوم على نفسه دليل، ولكن يقوم الدليل على بطلان نقيضه، فيتسلق من إبطاله إلى إثبات نقيضه، فلا بد من معرفته. وربما يظن أن نقيض القضية جلي، لا يحتاج إلى البيان، ومع ذلك فإنه مثار لجملة من الأغاليط لا تحصى؛ فإن الأمور في أوائلها تلوح جلية، ولكن إذا لم يهتم الناظر بتنقيحها وتحقيقها.. اعتاص عليه في التفصيل بين القضيتين المتنافيتين. وأعني بالقضيتين المتنافيتين: كل قضيتين إذا صدقت إحداهما.. كذبت الأخرى بالضرورة؛ كقولنا: (العالم حادث).
+The contradictory of propositions and the need for it. The third detail: on explaining the contradictory of a proposition: and this is something that is needed; because perhaps a sought statement has no proof on its own, but the proof rests on the falsity of its contradictory, so one ascends from its refutation to establishing its contradictory, so one must know it. And sometimes it is thought that the contradictory of a proposition is obvious, not needing explanation, and yet it is the source of countless sophistries; because matters in their beginnings appear clear, but if the observer does not take care to refine and verify them, it becomes difficult for him in distinguishing between the two contradictory propositions. And I mean by the two contradictory propositions: every two propositions such that if one of them is true, the other is necessarily false; like our saying: 'The world is originated.'
+Source pages p. 86
+
+Commentary
+This passage introduces the concept of the contradictory of a proposition (naqid al-qadiyya) and explains its utility and pitfalls. The author states that sometimes a desired claim cannot be directly proven, but can be proven indirectly by disproving its contradictory. This makes understanding contradictories essential. He warns that many people think contradictories are obvious, but this leads to numerous fallacies. The reason is that at first glance, logical relationships seem clear, but without careful refinement, one easily mistakes non-contradictory pairs for true contradictories. The author then defines two contradictory propositions (al-qadiyatani al-mutanafiyatani) as any two propositions such that if one is true, the other is necessarily false, and vice versa. He gives the example: 'The world is originated'. The implied contradictory would be 'The world is not originated'. This is a classic example from kalam used in arguments for the temporal origination of the world.
+
+Key Terms
+نقيض القضية
+القضيتان المتنافيتان
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is the main benefit of understanding the contradictory of a proposition?
+A) It helps in proving a claim indirectly by refuting its opposite.
+B) It allows one to combine two propositions into one.
+C) It makes all propositions self-evident.
+D) It eliminates the need for direct proof.
+
+Key Takeaway
+Understanding the precise conditions of contradiction is essential for valid indirect proof and avoiding errors in logical reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'الـعلم واجب' (Knowledge is obligatory), write its contradictory and explain why it meets the definition.
+?
+In the debate about the attributes of Allah, some claim that 'Allah is knowing' and 'Allah is not knowing' are contradictory. Are they? Justify using the conditions of contradiction (same subject, predicate, time, etc.).
+
+Pages p. 86 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 87
+Module 15 · Lesson 2
+Next →
+Immediate Inference
+intermediate
+10 min
+Four Conditions for Genuine Contradiction
+Author explains the first four conditions for true contradiction.
+
+Learning Objective
+By the end of this lesson, you will be able to identify violations of the four conditions that break a genuine contradiction between two propositions.
+
+Core Idea
+A true contradiction is a fragile thing: one ambiguous word, one relative term, or one shift from potential to actual and you've lost it.
+
+The author presents the first four of six conditions that must hold for two propositions to be genuine contradictories. Understanding these conditions is crucial for avoiding fallacious arguments, especially in jurisprudence and theology where subtle ambiguities can lead to false dilemmas.
+
+Guided Path
+1
+Read each condition as stated
+The author lists four conditions: (1) unity of subject in essence, (2) unity of judgment, (3) unity of relation in relative matters, (4) equality in potentiality and actuality.
+The conditions are sequential; each must be satisfied for a genuine contradiction.
+2
+Analyze the examples for each condition
+For each condition, the author gives an example where the condition is violated, showing that the propositions are both true. Identify how the violation occurs in each case.
+Examples: light (physical vs intellectual), coerced (different senses), father (different children), half (different wholes), water cold (potential vs actual).
+3
+Relate to Islamic sciences
+Notice that the examples come from fiqh (coercion, guardianship) and kalam (God's creation in pre-eternity). Understand how overlooking these conditions leads to false contradictions in scholarly debates.
+The author explicitly says there are many fallacies in legal and theoretical matters from this source.
+4
+Formulate a test for any pair of propositions
+When presented with two propositions that seem contradictory, check: Are the subject and predicate identical in meaning? Is the relation the same? Are they about the same mode (potential/actual)? If any condition fails, the propositions are not genuine contradictories.
+This test is a practical tool for evaluating arguments in Islamic texts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإنما يلزمُ صدقُ إحداهما مِنْ كذب الأخرى بستة شروط : الأوّلُ : أن يكونَ المحكوم عليهِ في القضيتين واحداً بالذاتِ ، لا بمجرَّدِ اللفظ : فإن اتحدَ الاسمُ دونَ المعنى . . لم يتناقضا ؛ كقولك : ( النور مدراً بالبصر ) ، ( النور ليس بمدرك بالبصر ) فهما صادقانِ إن أردْتَ بأحدِهِما الضوء ، وبالآخر نور العقل . وكذلك لا يتناقض قولُ الفقهاء : ( المضطر مختار ) ، ( المضطر ليس بمختار ) في مسألةِ المُكْرهِ ، وقولُهُمْ : ( المضطر آثم ) ، ( المضطرُّ غيرُ آثمٍ ( إذ المضطر قدْ يُعبَّرُ بِهِ عَنِ المرتعدِ والمحمول على غيرِهِ ، وقد يُعبَّرُ بِهِ عَنِ المدعةِ بالسيفِ إلى الفعل ، فالاسم متحد والمعنى مختلف . الثاني : أن يكونَ الحكم واحداً : وإلا لم يتناقضا ؛ كقولك : العالم قديمٌ ) ، ( العالم ليس بقديم ) وأردتَ بأحدِ القديمينِ : ما أرادَ الله تعالى بقولِهِ : كَالْعُرْجُونِ الْقَدِيمِ . وكذلك أيضاً لم يتناقض قولُ الخصمينِ : ( المُكْره مختار ) ، ( المُكْره ليس بمختار ) إذْ ذكرنا أنَّ المختار عبارةٌ عن معنيين مختلفين . الثالث : أن تتحد الإضافة في الأمور الإضافيَّةِ : فإِنَّكَ لو قلت : ( زيدٌ أب ) ، ( زيدٌ ليس بأب ) .. لم يتناقض ؛ إذ يكون أباً لبكر ، ولا يكون أباً لخالد . وكذلك تقولُ : ( زيدٌ أبٌ ( ( زيد ابنٌ ) فيكون أباً لشخص وابناً لأخر . و العشرة نصف ) ، و ( العشرة ليسَتْ بنصف ) أي : هي نصفُ العشرينَ ، وليست نصف الثلاثين . وفي النظريات الفقهيَّةِ والعقلية أغاليط كثيرة هذا منشؤها ؛ كما يُقالُ : ( المرأةُ مولّى عليها ) ، (المرأةُ ليس بمولّى عليها ) وهما صادقتان بالإضافة إلى النكاح والبيع ، وإلى العَصَبةِ والأجنبي . الرابع : أن يتساويا في القوَّةِ والفعل : فإِنَّكَ تقولُ : ( الماءُ في الكوز مرو ) أي : بالقوة ، و ( ليس بمرو ) أي : بالفعل ، وهما صادقتان . و( السيفُ بالعملِ صارمٌ ) ، و ( ليس بصارم ) وهما صادقتان . و ( الفاسقُ شاهدٌ ) ، و ( ليس بشاهد ) . ومن هذا غلط المختلفونَ في قولِهِمْ : ( إِنَّ الله تعالى في الأَزْلِ خالق ) ، و ( إنَّ الله تعالى في الأزلِ ليس بخالق )
+And the truth of one of them necessarily follows from the falsity of the other only with six conditions. The first: that the subject in the two propositions is identical in essence, not merely in wording. For if the name is unified without the meaning, they are not contradictory. Like your saying: 'Light is perceived by sight' and 'Light is not perceived by sight'; both are true if by one you mean visible light and by the other intellectual light. Similarly, the jurists' saying: 'The coerced is free' and 'The coerced is not free' is not contradictory regarding the issue of compulsion, and their saying: 'The coerced is sinful' and 'The coerced is not sinful', since 'coerced' may refer to the trembling person or the one carried against his will, and may refer to the one compelled by the sword to an action; the name is unified but the meaning differs. The second: that the judgment is one; otherwise they are not contradictory. Like your saying: 'The world is ancient' and 'The world is not ancient', intending by 'ancient' what God Almighty meant by His saying: 'Like an old palm branch' [Ya Sin 39]. Similarly, the two opponents' saying: 'The coerced is free' and 'The coerced is not free' is not contradictory, since we mentioned that 'free' is an expression for two different meanings. The third: that the relation is unified in relative matters. For if you said: 'Zayd is a father', 'Zayd is not a father', they are not contradictory, since he is a father of Bakr and not a father of Khalid. And likewise you say: 'Zayd is a father', 'Zayd is a son', so he is a father of one person and a son of another. And 'Ten is half' and 'Ten is not half', meaning it is half of twenty and not half of thirty. In legal and theoretical matters, there are many fallacies whose source is this; as it is said: 'The woman is under guardianship', 'The woman is not under guardianship', both are true in relation to marriage and sale, and to the agnate and the stranger. The fourth: that they are equal in potentiality and actuality. For you say: 'Water in the jug is cold' meaning potentially, and 'It is not cold' meaning actually, both are true. And 'The sword by use is sharp' and 'It is not sharp' both are true. And 'The sinner is a witness' and 'He is not a witness'. And from this is the error of those who differ in their saying: 'God Almighty in pre-eternity is a creator' and 'God Almighty in pre-eternity is not a creator'.
+Source pages p. 87
+
+Commentary
+This passage enumerates and explains the first four of six conditions necessary for two propositions to be contradictories (naqīḍān). The author frames the discussion by stating that the truth of one necessarily follows from the falsity of the other only when these conditions are met. The first condition is unity of subject (ittiḥād al-maḥkūm ʿalayhi) in essence, not merely in wording. He illustrates with the example of 'light' (al-nūr): if one intends physical light and the other intellectual light, the propositions can both be true. He also gives a fiqh example: 'the coerced (al-muḍṭarr) is free' and 'the coerced is not free' are not contradictory if 'coerced' means different things (e.g., one trembling from fear, the other compelled by force). The second condition is unity of judgment (al-ḥukm). The author warns that the term 'ancient' (qadīm) can be ambiguous: in the Qur'an it means 'old' (a palm branch), but in kalam it means 'eternal'. If opponents intend different meanings, the propositions are not contradictory. He also revisits the coerced example to show that 'free' (mukhtār) has multiple senses. The third condition is unity of relation (ittiḥād al-iḍāfa) in relative matters. For instance, 'Zayd is a father' can be true relative to one child and false relative to another, so no contradiction. Similarly, numerical halfness depends on the whole. The author notes that many fallacies in jurisprudence and theology arise from overlooking this condition, citing the example of a woman being under guardianship in marriage but not in sale. The fourth condition is equality in potentiality (quwwa) and actuality (fiʿl). A proposition can be true in potentiality but false in actuality, like water being cold potentially but not actually. The author applies this to the theological debate about God's attribute of creation in pre-eternity (al-azal), noting that God is a creator in potentiality but not actually at that time. These conditions together ensure that a pair of propositions genuinely contradict each other, eliminating false contradictions due to ambiguity or context.
+
+Key Terms
+تناقض
+محكوم عليه
+حكم
+إضافة
+قوة
+فعل
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following is an example of a violation of the condition of unity of subject (المحكوم عليه) in contradiction?
+A) 'The world is created' and 'The world is not created' when both use 'world' in the same sense.
+B) 'The coerced (muḍṭarr) is free' and 'The coerced is not free' when 'coerced' means different things (e.g., trembling vs. compelled).
+C) 'Zayd is a father' and 'Zayd is not a father' when Zayd is father of Bakr but not of Khalid.
+D) 'Water in the jug is cold' potentially and 'Water in the jug is not cold' actually.
+
+Key Takeaway
+To verify a genuine contradiction, check that the subject and predicate are identical in meaning, the relation is the same, and the mode (potential/actual) is consistent.
+
+How This Lesson Applies — to MY Life?
+?
+Take the pair 'The woman is under guardianship' and 'The woman is not under guardianship'. Under which condition would this fail to be a contradiction? Explain using the passage's analysis of condition 3.
+?
+Identify which condition is violated in the example: 'The world is ancient (qadīm)' and 'The world is not ancient' when one means old and the other means eternal. Justify your answer with the author's reasoning.
+
+Pages p. 87 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 88
+Module 15 · Lesson 3
+Next →
+Immediate Inference
+intermediate
+5 min
+Unity of Relation in Contradiction
+Third condition for contradiction: unity of relation
+
+Learning Objective
+By the end of this lesson, you will be able to identify cases where two statements appear contradictory but are actually compatible due to different relations, and apply the condition of unity of relation.
+
+Core Idea
+Two statements are truly contradictory only when the predicate is about the same relation.
+
+Statements like 'Zayd is a father' and 'Zayd is not a father' can both be true if they refer to different children. This lesson explains the third condition for valid contradiction: unity of relation (ittihād al-iḍāfa). You will learn to detect fallacies in fiqh and rational sciences that arise from neglecting this condition.
+
+Guided Path
+1
+Identify the relation in each statement
+Look for implicit or explicit relations (e.g., father of whom, half of what). In the example 'Zayd is a father' vs 'Zayd is not a father', the relation is to different individuals.
+The same predicate 'father' can apply to one person and not to another.
+2
+Check if the relation is unified
+If the two statements involve different relations (e.g., father of Bakr vs. father of Khalid), they are not contradictory.
+The condition requires the predicate to be affirmed/denied of the same subject under the same respect.
+3
+Apply to the fiqh example
+Consider 'The woman is under guardianship' and 'The woman is not under guardianship'. These are both true if one refers to marriage (guardianship of agnate) and the other to sale (guardianship of judge).
+Many juristic disputes stem from ignoring this condition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثالث : أن تتحد الإضافة في الأمور الإضافيَّةِ : فإِنَّكَ لو قلت : ( زيدٌ أب ) ، ( زيدٌ ليس بأب ) .. لم يتناقض ؛ إذ يكون أباً لبكر ، ولا يكون أباً لخالد . وكذلك تقولُ : ( زيدٌ أب ) ( زيد ابنٌ ) فيكون أباً لشخص وابناً لآخر. و ( العشرة نصف ) ، و ( العشرة ليسَتْ بنصف ) أي : هي نصفُ العشرينَ ، وليست نصف الثلاثين . وفي النظريات الفقهيَّةِ والعقلية أغاليط كثيرة هذا منشؤها ؛ كما يُقالُ : ( المرأةُ مولّى عليها ) ، (المرأةُ ليس بمولّى عليها ) وهما صادقتان بالإضافة إلى النكاح والبيع ، وإلى العَصَبةِ والأجنبي. الرابع : أن يتساويا في القوَّةِ والفعل : فإِنَّكَ تقولُ : ( الماءُ في الكوز مرو ) أي : بالقوة ، و ( ليس بمرو ) أي : بالفعل ، وهما صادقتان. و ( السيفُ بالعملِ صارمٌ ) ، و ( ليس بصارم ) وهما صادقتان . و ( الفاسقُ شاهدٌ ) ، و ( ليس بشاهد ). ومن هذا غلط المختلفونَ في قولِهِمْ : ( إِنَّ الله تعالى في الأَزْلِ خالق ) ، و ( إنَّ الله تعالى في الأزلِ ليس بخالق ). الخامس : التساوي في الجزء والكلّ : فإِنَّكَ تقولُ : ( الزَّنْجِيُّ أسودُ ) ، ( الزَّنْجِيُّ ليس بأسودَ ) أي : أسود البشرة ، ليس بأسود الأسنان ، فيصدقان . وعن هذا الغلط تخيَّلَ مَنْ بَعُدَ عَنِ التحصيل أنَّ العالميَّة حال لجملة زيدٍ إذا قلنا : ( زيدٌ عالمٌ ) ، وزيد عبارة عن جملتِهِ ، ولم يعرف أنَّا إذا قلنا : ( زيدٌ في بغداد ) .. لم نردْ بهِ أَنَّهُ في كلّ البلد ، بل في بعضِهِ ، وإنْ كانَتْ بغداد عبارة عن كل البلد ، ولكن أغنى العادةُ والحس عَنْ بيانِ أَنَّ زيداً في بغداد في مكان يساوي مساحة بدنِهِ . وكذلك أغنى وضوح الأمر أن تقولُ : إِنَّ زيداً عالم بجزء لا يتجزأُ مِنْ قلبهِ أوْ دماغِهِ . السادس : التساوي في الزمان والمكانِ : فإِنَّكَ تقولُ : ( العالم حادث ) ، ( العالمُ ليس بحادث ) وهما صادقان ، ولكنَّه حادث عند أوَّلِ وجودِهِ ، وليس بحادث قبلَهُ ولا بعده ، بل قبله معدوم ، وبعده باقٍ . وتقولُ : ( الصبي ينبتُ لهُ أسنان ) ، ( الصبيُّ لا ينبتُ لهُ أسنان ) ونعني بأحدِهِما : السنة الأولى ، وبالآخر : السنة التي بعدها . ولا ينبغي أن نطوّلَ بتعديدِ الشروط والأمثلة ، فلنجمل له ضابط معرفة القضية المناقضة
+Third: that the relation be unified in relational matters. For if you said: 'Zayd is a father,' 'Zayd is not a father,' they are not contradictory because he is a father of Bakr and not a father of Khalid. Likewise you say: 'Zayd is a father,' 'Zayd is a son'—so he is a father of one person and a son of another. And 'ten is a half' and 'ten is not a half'—i.e., it is a half of twenty and not a half of thirty. In juristic and rational theories there are many fallacies arising from this; as it is said: 'The woman is under guardianship,' 'The woman is not under guardianship'—both are true in relation to marriage and sale, and to the agnate and the stranger. Fourth: that they be equal in potentiality and actuality. For you say: 'The water in the pitcher is moist'—i.e., potentially—and 'it is not moist'—i.e., actually—and both are true. And 'the sword is sharp by use' and 'it is not sharp'—both are true. And 'the sinner is a witness' and 'he is not a witness.' From this comes the error of those who differ in their saying: 'God Almighty is creator in pre-eternity' and 'God Almighty is not creator in pre-eternity.' Fifth: equality in part and whole. For you say: 'The Zanjī is black,' 'The Zanjī is not black'—i.e., black in skin, not black in teeth—so both are true. And from this error one far from verification imagined that 'being-a-knower' is a state of Zayd's totality when we say: 'Zayd is a knower,' while Zayd refers to his totality; and he did not know that when we say: 'Zayd is in Baghdad,' we do not mean that he is in the entire city, but in a part of it, even if Baghdad refers to the whole city. But habit and sense suffice to indicate that Zayd is in a place equal to the area of his body. Likewise the clarity of the matter suffices for you to say: Zayd is a knower by a part indivisible of his heart or brain. Sixth: equality in time and place. For you say: 'The world is originated,' 'The world is not originated'—both are true, but it is originated at the beginning of its existence, and not originated before it nor after it; rather before it it is non-existent and after it it is lasting. And you say: 'The boy grows teeth,' 'The boy does not grow teeth'—we mean by one the first year, and by the other the year after that. And we should not lengthen by enumerating conditions and examples, so let us summarize a rule for recognizing the contradictory proposition.
+Source pages p. 88
+
+Commentary
+This passage defines the third through sixth conditions necessary for two statements to be truly contradictory (tanāquḍ). The author explains that for a genuine contradiction, the predicates must apply to the same subject under the same respect. The third condition is unity of relation (ittihād al-iḍāfa): statements like 'Zayd is a father' and 'Zayd is not a father' can both be true if they refer to different children—e.g., he is father of Bakr but not of Khalid. Similarly, 'ten is a half' and 'ten is not a half' are compatible if one considers half of twenty vs. half of thirty. The author notes that many errors in fiqh and kalām arise from neglecting this condition, e.g., saying 'a woman is under guardianship' (in marriage) and 'she is not under guardianship' (in sale) are both true. The fourth condition is equality in potentiality and actuality (tasāwī fī al-quwwa wa al-fi‘l): water in a pitcher is potentially moist but not actually; a sword is sharp by use actually but not potentially etc. A famous theological error from this is the debate about whether God is creator in pre-eternity: He is creator potentially in pre-eternity (since He has the power) but not actually, as creation follows. The fifth condition is equality in part and whole (tasāwī fī al-juz’ wa al-kull): 'the Zanjī is black' (skin) and 'the Zanjī is not black' (teeth) can both be true. This leads to the error of those who think that 'Zayd is a knower' attributes knowledge to his entire person, whereas actually knowledge inheres in a specific part (his heart or brain), just as 'Zayd is in Baghdad' means he is in a part of the city, not the whole. The sixth condition is equality in time and place (tasāwī fī al-zamān wa al-makān): 'the world is originated' (at the moment of its beginning) and 'the world is not originated' (before or after) are compatible; 'the boy grows teeth' (in the first year) and 'the boy does not grow teeth' (in the second year) both true. The author concludes by saying he will not multiply examples further but will give a rule for recognizing contradictory propositions.
+
+Key Terms
+اتحاد الإضافة
+التناقض
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following pairs of statements are NOT contradictory because of differing relations?
+A) 'The sky is blue' and 'The sky is not blue'
+B) 'This meat is halal' and 'This meat is not halal' (one considers slaughter method, the other considers source)
+C) 'The sun rises in the east' and 'The sun does not rise in the east'
+D) 'Water is wet' and 'Water is not wet'
+
+Key Takeaway
+Unity of relation is essential: two statements that differ in the respect of the predicate are not genuinely contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statements: 'This contract is valid' and 'This contract is invalid.' Provide a scenario where both are true due to different relations (e.g., valid in one school, invalid in another, or valid for one party, invalid for another). Explain using the condition of unity of relation.
+
+Pages p. 88 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 88
+Module 15 · Lesson 4
+Next →
+Immediate Inference
+intermediate
+5 min
+Equality in Potentiality and Actuality
+Fourth condition: equality in potentiality and actuality
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between potential and actual predicates and determine when two statements can both be true due to difference in mode.
+
+Core Idea
+A predicate can be true in potentiality and false in actuality, or vice versa, without contradiction.
+
+Statements like 'Water in the pitcher is moist' and 'It is not moist' can both be true if one refers to potentiality and the other to actuality. This lesson covers the fourth condition for contradiction: equality in potentiality and actuality (al-quwwa wa al-fi‘l).
+
+Guided Path
+1
+Identify the mode (potential or actual)
+For each statement, determine whether the predicate is being asserted in potentiality (power) or actuality (act). For example, water in a pitcher is potentially moist (if left to air) but not actually moist.
+If both statements agree in mode, they are contradictory; if modes differ, they are compatible.
+2
+Apply to the theological example
+Consider 'God is creator in pre-eternity' and 'God is not creator in pre-eternity'. The first is true in potentiality (He has the power), the second in actuality (creation does not exist yet). Thus both are true, and error arises if one insists on one mode only.
+This resolves a classic kalām dispute.
+3
+Check for fallacy
+When opposing statements are made, always ask: are they both about the same mode? If not, they are not contradictory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثالث : أن تتحد الإضافة في الأمور الإضافيَّةِ : فإِنَّكَ لو قلت : ( زيدٌ أب ) ، ( زيدٌ ليس بأب ) .. لم يتناقض ؛ إذ يكون أباً لبكر ، ولا يكون أباً لخالد . وكذلك تقولُ : ( زيدٌ أب ) ( زيد ابنٌ ) فيكون أباً لشخص وابناً لآخر. و ( العشرة نصف ) ، و ( العشرة ليسَتْ بنصف ) أي : هي نصفُ العشرينَ ، وليست نصف الثلاثين . وفي النظريات الفقهيَّةِ والعقلية أغاليط كثيرة هذا منشؤها ؛ كما يُقالُ : ( المرأةُ مولّى عليها ) ، (المرأةُ ليس بمولّى عليها ) وهما صادقتان بالإضافة إلى النكاح والبيع ، وإلى العَصَبةِ والأجنبي. الرابع : أن يتساويا في القوَّةِ والفعل : فإِنَّكَ تقولُ : ( الماءُ في الكوز مرو ) أي : بالقوة ، و ( ليس بمرو ) أي : بالفعل ، وهما صادقتان. و ( السيفُ بالعملِ صارمٌ ) ، و ( ليس بصارم ) وهما صادقتان . و ( الفاسقُ شاهدٌ ) ، و ( ليس بشاهد ). ومن هذا غلط المختلفونَ في قولِهِمْ : ( إِنَّ الله تعالى في الأَزْلِ خالق ) ، و ( إنَّ الله تعالى في الأزلِ ليس بخالق ). الخامس : التساوي في الجزء والكلّ : فإِنَّكَ تقولُ : ( الزَّنْجِيُّ أسودُ ) ، ( الزَّنْجِيُّ ليس بأسودَ ) أي : أسود البشرة ، ليس بأسود الأسنان ، فيصدقان . وعن هذا الغلط تخيَّلَ مَنْ بَعُدَ عَنِ التحصيل أنَّ العالميَّة حال لجملة زيدٍ إذا قلنا : ( زيدٌ عالمٌ ) ، وزيد عبارة عن جملتِهِ ، ولم يعرف أنَّا إذا قلنا : ( زيدٌ في بغداد ) .. لم نردْ بهِ أَنَّهُ في كلّ البلد ، بل في بعضِهِ ، وإنْ كانَتْ بغداد عبارة عن كل البلد ، ولكن أغنى العادةُ والحس عَنْ بيانِ أَنَّ زيداً في بغداد في مكان يساوي مساحة بدنِهِ . وكذلك أغنى وضوح الأمر أن تقولُ : إِنَّ زيداً عالم بجزء لا يتجزأُ مِنْ قلبهِ أوْ دماغِهِ . السادس : التساوي في الزمان والمكانِ : فإِنَّكَ تقولُ : ( العالم حادث ) ، ( العالمُ ليس بحادث ) وهما صادقان ، ولكنَّه حادث عند أوَّلِ وجودِهِ ، وليس بحادث قبلَهُ ولا بعده ، بل قبله معدوم ، وبعده باقٍ . وتقولُ : ( الصبي ينبتُ لهُ أسنان ) ، ( الصبيُّ لا ينبتُ لهُ أسنان ) ونعني بأحدِهِما : السنة الأولى ، وبالآخر : السنة التي بعدها . ولا ينبغي أن نطوّلَ بتعديدِ الشروط والأمثلة ، فلنجمل له ضابط معرفة القضية المناقضة
+Third: that the relation be unified in relational matters. For if you said: 'Zayd is a father,' 'Zayd is not a father,' they are not contradictory because he is a father of Bakr and not a father of Khalid. Likewise you say: 'Zayd is a father,' 'Zayd is a son'—so he is a father of one person and a son of another. And 'ten is a half' and 'ten is not a half'—i.e., it is a half of twenty and not a half of thirty. In juristic and rational theories there are many fallacies arising from this; as it is said: 'The woman is under guardianship,' 'The woman is not under guardianship'—both are true in relation to marriage and sale, and to the agnate and the stranger. Fourth: that they be equal in potentiality and actuality. For you say: 'The water in the pitcher is moist'—i.e., potentially—and 'it is not moist'—i.e., actually—and both are true. And 'the sword is sharp by use' and 'it is not sharp'—both are true. And 'the sinner is a witness' and 'he is not a witness.' From this comes the error of those who differ in their saying: 'God Almighty is creator in pre-eternity' and 'God Almighty is not creator in pre-eternity.' Fifth: equality in part and whole. For you say: 'The Zanjī is black,' 'The Zanjī is not black'—i.e., black in skin, not black in teeth—so both are true. And from this error one far from verification imagined that 'being-a-knower' is a state of Zayd's totality when we say: 'Zayd is a knower,' while Zayd refers to his totality; and he did not know that when we say: 'Zayd is in Baghdad,' we do not mean that he is in the entire city, but in a part of it, even if Baghdad refers to the whole city. But habit and sense suffice to indicate that Zayd is in a place equal to the area of his body. Likewise the clarity of the matter suffices for you to say: Zayd is a knower by a part indivisible of his heart or brain. Sixth: equality in time and place. For you say: 'The world is originated,' 'The world is not originated'—both are true, but it is originated at the beginning of its existence, and not originated before it nor after it; rather before it it is non-existent and after it it is lasting. And you say: 'The boy grows teeth,' 'The boy does not grow teeth'—we mean by one the first year, and by the other the year after that. And we should not lengthen by enumerating conditions and examples, so let us summarize a rule for recognizing the contradictory proposition.
+Source pages p. 88
+
+Commentary
+This passage defines the third through sixth conditions necessary for two statements to be truly contradictory (tanāquḍ). The author explains that for a genuine contradiction, the predicates must apply to the same subject under the same respect. The third condition is unity of relation (ittihād al-iḍāfa): statements like 'Zayd is a father' and 'Zayd is not a father' can both be true if they refer to different children—e.g., he is father of Bakr but not of Khalid. Similarly, 'ten is a half' and 'ten is not a half' are compatible if one considers half of twenty vs. half of thirty. The author notes that many errors in fiqh and kalām arise from neglecting this condition, e.g., saying 'a woman is under guardianship' (in marriage) and 'she is not under guardianship' (in sale) are both true. The fourth condition is equality in potentiality and actuality (tasāwī fī al-quwwa wa al-fi‘l): water in a pitcher is potentially moist but not actually; a sword is sharp by use actually but not potentially etc. A famous theological error from this is the debate about whether God is creator in pre-eternity: He is creator potentially in pre-eternity (since He has the power) but not actually, as creation follows. The fifth condition is equality in part and whole (tasāwī fī al-juz’ wa al-kull): 'the Zanjī is black' (skin) and 'the Zanjī is not black' (teeth) can both be true. This leads to the error of those who think that 'Zayd is a knower' attributes knowledge to his entire person, whereas actually knowledge inheres in a specific part (his heart or brain), just as 'Zayd is in Baghdad' means he is in a part of the city, not the whole. The sixth condition is equality in time and place (tasāwī fī al-zamān wa al-makān): 'the world is originated' (at the moment of its beginning) and 'the world is not originated' (before or after) are compatible; 'the boy grows teeth' (in the first year) and 'the boy does not grow teeth' (in the second year) both true. The author concludes by saying he will not multiply examples further but will give a rule for recognizing contradictory propositions.
+
+Key Terms
+القوة والفعل
+التناقض
+
+Key Terms from Source Passage
+
+Checkpoint
+Which pair of statements is compatible due to difference in potentiality/actuality?
+A) 'The student is clever' and 'The student is not clever'
+B) 'The seed is a tree' (potentially) and 'The seed is not a tree' (actually)
+C) 'The fire is hot' and 'The fire is not hot'
+D) 'The water is boiling' and 'The water is not boiling'
+
+Key Takeaway
+Statements about potentiality and actuality are not contradictory if they refer to different modes.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'The repentant sinner is a just witness' and 'The repentant sinner is not a just witness.' Explain in which sense (potential or actual) each could be true, using the condition of equality in potentiality and actuality.
+
+Pages p. 88 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 88
+Module 15 · Lesson 5
+Next →
+Immediate Inference
+intermediate
+5 min
+Equality in Part and Whole
+Fifth condition: equality in part and whole
+
+Learning Objective
+By the end of this lesson, you will be able to identify when two statements about the same subject are compatible because one refers to a part and the other to the whole.
+
+Core Idea
+A predicate can be true of a whole but false of a part, or vice versa, without contradiction.
+
+Saying 'The Zanjī is black' and 'The Zanjī is not black' can both be true if 'black' refers to skin versus teeth. This lesson covers the fifth condition for contradiction: equality in part and whole (al-juz’ wa al-kull).
+
+Guided Path
+1
+Identify the subject as a whole and its parts
+When a predicate is applied, note whether it applies to the entire subject or only a part. For example, 'Zayd is a knower' applies to his mind, not his entire body.
+Common error: thinking that 'Zayd is a knower' means his whole person is knowledge, whereas knowledge resides in a part (heart/brain).
+2
+Compare the two statements
+If one statement predicates something of the whole and the other denies it of a part (or vice versa), they are compatible. Example: 'The Zanjī is black' (skin) and 'The Zanjī is not black' (teeth).
+The predicate must be applied to the same part/whole for contradiction.
+3
+Apply to the example of Zayd in Baghdad
+When we say 'Zayd is in Baghdad', we do not mean he is in every part of Baghdad, but in a specific part. Misunderstanding this leads to errors.
+Clarity about part/whole avoids false contradictions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثالث : أن تتحد الإضافة في الأمور الإضافيَّةِ : فإِنَّكَ لو قلت : ( زيدٌ أب ) ، ( زيدٌ ليس بأب ) .. لم يتناقض ؛ إذ يكون أباً لبكر ، ولا يكون أباً لخالد . وكذلك تقولُ : ( زيدٌ أب ) ( زيد ابنٌ ) فيكون أباً لشخص وابناً لآخر. و ( العشرة نصف ) ، و ( العشرة ليسَتْ بنصف ) أي : هي نصفُ العشرينَ ، وليست نصف الثلاثين . وفي النظريات الفقهيَّةِ والعقلية أغاليط كثيرة هذا منشؤها ؛ كما يُقالُ : ( المرأةُ مولّى عليها ) ، (المرأةُ ليس بمولّى عليها ) وهما صادقتان بالإضافة إلى النكاح والبيع ، وإلى العَصَبةِ والأجنبي. الرابع : أن يتساويا في القوَّةِ والفعل : فإِنَّكَ تقولُ : ( الماءُ في الكوز مرو ) أي : بالقوة ، و ( ليس بمرو ) أي : بالفعل ، وهما صادقتان. و ( السيفُ بالعملِ صارمٌ ) ، و ( ليس بصارم ) وهما صادقتان . و ( الفاسقُ شاهدٌ ) ، و ( ليس بشاهد ). ومن هذا غلط المختلفونَ في قولِهِمْ : ( إِنَّ الله تعالى في الأَزْلِ خالق ) ، و ( إنَّ الله تعالى في الأزلِ ليس بخالق ). الخامس : التساوي في الجزء والكلّ : فإِنَّكَ تقولُ : ( الزَّنْجِيُّ أسودُ ) ، ( الزَّنْجِيُّ ليس بأسودَ ) أي : أسود البشرة ، ليس بأسود الأسنان ، فيصدقان . وعن هذا الغلط تخيَّلَ مَنْ بَعُدَ عَنِ التحصيل أنَّ العالميَّة حال لجملة زيدٍ إذا قلنا : ( زيدٌ عالمٌ ) ، وزيد عبارة عن جملتِهِ ، ولم يعرف أنَّا إذا قلنا : ( زيدٌ في بغداد ) .. لم نردْ بهِ أَنَّهُ في كلّ البلد ، بل في بعضِهِ ، وإنْ كانَتْ بغداد عبارة عن كل البلد ، ولكن أغنى العادةُ والحس عَنْ بيانِ أَنَّ زيداً في بغداد في مكان يساوي مساحة بدنِهِ . وكذلك أغنى وضوح الأمر أن تقولُ : إِنَّ زيداً عالم بجزء لا يتجزأُ مِنْ قلبهِ أوْ دماغِهِ . السادس : التساوي في الزمان والمكانِ : فإِنَّكَ تقولُ : ( العالم حادث ) ، ( العالمُ ليس بحادث ) وهما صادقان ، ولكنَّه حادث عند أوَّلِ وجودِهِ ، وليس بحادث قبلَهُ ولا بعده ، بل قبله معدوم ، وبعده باقٍ . وتقولُ : ( الصبي ينبتُ لهُ أسنان ) ، ( الصبيُّ لا ينبتُ لهُ أسنان ) ونعني بأحدِهِما : السنة الأولى ، وبالآخر : السنة التي بعدها . ولا ينبغي أن نطوّلَ بتعديدِ الشروط والأمثلة ، فلنجمل له ضابط معرفة القضية المناقضة
+Third: that the relation be unified in relational matters. For if you said: 'Zayd is a father,' 'Zayd is not a father,' they are not contradictory because he is a father of Bakr and not a father of Khalid. Likewise you say: 'Zayd is a father,' 'Zayd is a son'—so he is a father of one person and a son of another. And 'ten is a half' and 'ten is not a half'—i.e., it is a half of twenty and not a half of thirty. In juristic and rational theories there are many fallacies arising from this; as it is said: 'The woman is under guardianship,' 'The woman is not under guardianship'—both are true in relation to marriage and sale, and to the agnate and the stranger. Fourth: that they be equal in potentiality and actuality. For you say: 'The water in the pitcher is moist'—i.e., potentially—and 'it is not moist'—i.e., actually—and both are true. And 'the sword is sharp by use' and 'it is not sharp'—both are true. And 'the sinner is a witness' and 'he is not a witness.' From this comes the error of those who differ in their saying: 'God Almighty is creator in pre-eternity' and 'God Almighty is not creator in pre-eternity.' Fifth: equality in part and whole. For you say: 'The Zanjī is black,' 'The Zanjī is not black'—i.e., black in skin, not black in teeth—so both are true. And from this error one far from verification imagined that 'being-a-knower' is a state of Zayd's totality when we say: 'Zayd is a knower,' while Zayd refers to his totality; and he did not know that when we say: 'Zayd is in Baghdad,' we do not mean that he is in the entire city, but in a part of it, even if Baghdad refers to the whole city. But habit and sense suffice to indicate that Zayd is in a place equal to the area of his body. Likewise the clarity of the matter suffices for you to say: Zayd is a knower by a part indivisible of his heart or brain. Sixth: equality in time and place. For you say: 'The world is originated,' 'The world is not originated'—both are true, but it is originated at the beginning of its existence, and not originated before it nor after it; rather before it it is non-existent and after it it is lasting. And you say: 'The boy grows teeth,' 'The boy does not grow teeth'—we mean by one the first year, and by the other the year after that. And we should not lengthen by enumerating conditions and examples, so let us summarize a rule for recognizing the contradictory proposition.
+Source pages p. 88
+
+Commentary
+This passage defines the third through sixth conditions necessary for two statements to be truly contradictory (tanāquḍ). The author explains that for a genuine contradiction, the predicates must apply to the same subject under the same respect. The third condition is unity of relation (ittihād al-iḍāfa): statements like 'Zayd is a father' and 'Zayd is not a father' can both be true if they refer to different children—e.g., he is father of Bakr but not of Khalid. Similarly, 'ten is a half' and 'ten is not a half' are compatible if one considers half of twenty vs. half of thirty. The author notes that many errors in fiqh and kalām arise from neglecting this condition, e.g., saying 'a woman is under guardianship' (in marriage) and 'she is not under guardianship' (in sale) are both true. The fourth condition is equality in potentiality and actuality (tasāwī fī al-quwwa wa al-fi‘l): water in a pitcher is potentially moist but not actually; a sword is sharp by use actually but not potentially etc. A famous theological error from this is the debate about whether God is creator in pre-eternity: He is creator potentially in pre-eternity (since He has the power) but not actually, as creation follows. The fifth condition is equality in part and whole (tasāwī fī al-juz’ wa al-kull): 'the Zanjī is black' (skin) and 'the Zanjī is not black' (teeth) can both be true. This leads to the error of those who think that 'Zayd is a knower' attributes knowledge to his entire person, whereas actually knowledge inheres in a specific part (his heart or brain), just as 'Zayd is in Baghdad' means he is in a part of the city, not the whole. The sixth condition is equality in time and place (tasāwī fī al-zamān wa al-makān): 'the world is originated' (at the moment of its beginning) and 'the world is not originated' (before or after) are compatible; 'the boy grows teeth' (in the first year) and 'the boy does not grow teeth' (in the second year) both true. The author concludes by saying he will not multiply examples further but will give a rule for recognizing contradictory propositions.
+
+Key Terms
+الجزء والكل
+التناقض
+
+Key Terms from Source Passage
+
+Checkpoint
+Which pair of statements is compatible due to the part/whole condition?
+A) 'The house is red' and 'The house is not red' (painting on walls vs. roof)
+B) 'The book is heavy' and 'The book is not heavy'
+C) 'The tree is tall' and 'The tree is not tall'
+D) 'The water is cold' and 'The water is not cold'
+
+Key Takeaway
+A predicate can apply to a part without applying to the whole, so statements about different parts are not contradictory.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'The human is mortal' and 'The human is not mortal' (e.g., the soul is immortal). Explain how this is not a contradiction by applying the condition of part and whole (body vs. soul).
+
+Pages p. 88 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 88
+Module 15 · Lesson 6
+Next →
+Immediate Inference
+intermediate
+5 min
+Equality in Time and Place
+Sixth condition: equality in time and place
+
+Learning Objective
+By the end of this lesson, you will be able to identify when two statements about the same subject are compatible because they refer to different times or places.
+
+Core Idea
+A statement can be true at one time/place and false at another without contradiction.
+
+Saying 'The world is originated' and 'The world is not originated' can both be true if one refers to the moment of creation and the other to before or after. This lesson covers the sixth condition for contradiction: equality in time and place (al-zamān wa al-makān).
+
+Guided Path
+1
+Identify the time or place referenced
+In each statement, note whether a specific time or place is implied. For example, 'The boy grows teeth' may refer to the first year, while 'The boy does not grow teeth' may refer to the second year.
+If times differ, the statements are not contradictory.
+2
+Apply to the example of the world's origination
+'The world is originated' is true at the moment of its beginning; 'The world is not originated' is true before its existence and after it continues. Both are true at different times.
+This condition is crucial in kalām discussions about the temporal origination of the world.
+3
+Distinguish from logical contradiction
+For genuine contradiction, the same subject must have the same predicate at the same time and same place. If either differs, the opposition is only verbal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثالث : أن تتحد الإضافة في الأمور الإضافيَّةِ : فإِنَّكَ لو قلت : ( زيدٌ أب ) ، ( زيدٌ ليس بأب ) .. لم يتناقض ؛ إذ يكون أباً لبكر ، ولا يكون أباً لخالد . وكذلك تقولُ : ( زيدٌ أب ) ( زيد ابنٌ ) فيكون أباً لشخص وابناً لآخر. و ( العشرة نصف ) ، و ( العشرة ليسَتْ بنصف ) أي : هي نصفُ العشرينَ ، وليست نصف الثلاثين . وفي النظريات الفقهيَّةِ والعقلية أغاليط كثيرة هذا منشؤها ؛ كما يُقالُ : ( المرأةُ مولّى عليها ) ، (المرأةُ ليس بمولّى عليها ) وهما صادقتان بالإضافة إلى النكاح والبيع ، وإلى العَصَبةِ والأجنبي. الرابع : أن يتساويا في القوَّةِ والفعل : فإِنَّكَ تقولُ : ( الماءُ في الكوز مرو ) أي : بالقوة ، و ( ليس بمرو ) أي : بالفعل ، وهما صادقتان. و ( السيفُ بالعملِ صارمٌ ) ، و ( ليس بصارم ) وهما صادقتان . و ( الفاسقُ شاهدٌ ) ، و ( ليس بشاهد ). ومن هذا غلط المختلفونَ في قولِهِمْ : ( إِنَّ الله تعالى في الأَزْلِ خالق ) ، و ( إنَّ الله تعالى في الأزلِ ليس بخالق ). الخامس : التساوي في الجزء والكلّ : فإِنَّكَ تقولُ : ( الزَّنْجِيُّ أسودُ ) ، ( الزَّنْجِيُّ ليس بأسودَ ) أي : أسود البشرة ، ليس بأسود الأسنان ، فيصدقان . وعن هذا الغلط تخيَّلَ مَنْ بَعُدَ عَنِ التحصيل أنَّ العالميَّة حال لجملة زيدٍ إذا قلنا : ( زيدٌ عالمٌ ) ، وزيد عبارة عن جملتِهِ ، ولم يعرف أنَّا إذا قلنا : ( زيدٌ في بغداد ) .. لم نردْ بهِ أَنَّهُ في كلّ البلد ، بل في بعضِهِ ، وإنْ كانَتْ بغداد عبارة عن كل البلد ، ولكن أغنى العادةُ والحس عَنْ بيانِ أَنَّ زيداً في بغداد في مكان يساوي مساحة بدنِهِ . وكذلك أغنى وضوح الأمر أن تقولُ : إِنَّ زيداً عالم بجزء لا يتجزأُ مِنْ قلبهِ أوْ دماغِهِ . السادس : التساوي في الزمان والمكانِ : فإِنَّكَ تقولُ : ( العالم حادث ) ، ( العالمُ ليس بحادث ) وهما صادقان ، ولكنَّه حادث عند أوَّلِ وجودِهِ ، وليس بحادث قبلَهُ ولا بعده ، بل قبله معدوم ، وبعده باقٍ . وتقولُ : ( الصبي ينبتُ لهُ أسنان ) ، ( الصبيُّ لا ينبتُ لهُ أسنان ) ونعني بأحدِهِما : السنة الأولى ، وبالآخر : السنة التي بعدها . ولا ينبغي أن نطوّلَ بتعديدِ الشروط والأمثلة ، فلنجمل له ضابط معرفة القضية المناقضة
+Third: that the relation be unified in relational matters. For if you said: 'Zayd is a father,' 'Zayd is not a father,' they are not contradictory because he is a father of Bakr and not a father of Khalid. Likewise you say: 'Zayd is a father,' 'Zayd is a son'—so he is a father of one person and a son of another. And 'ten is a half' and 'ten is not a half'—i.e., it is a half of twenty and not a half of thirty. In juristic and rational theories there are many fallacies arising from this; as it is said: 'The woman is under guardianship,' 'The woman is not under guardianship'—both are true in relation to marriage and sale, and to the agnate and the stranger. Fourth: that they be equal in potentiality and actuality. For you say: 'The water in the pitcher is moist'—i.e., potentially—and 'it is not moist'—i.e., actually—and both are true. And 'the sword is sharp by use' and 'it is not sharp'—both are true. And 'the sinner is a witness' and 'he is not a witness.' From this comes the error of those who differ in their saying: 'God Almighty is creator in pre-eternity' and 'God Almighty is not creator in pre-eternity.' Fifth: equality in part and whole. For you say: 'The Zanjī is black,' 'The Zanjī is not black'—i.e., black in skin, not black in teeth—so both are true. And from this error one far from verification imagined that 'being-a-knower' is a state of Zayd's totality when we say: 'Zayd is a knower,' while Zayd refers to his totality; and he did not know that when we say: 'Zayd is in Baghdad,' we do not mean that he is in the entire city, but in a part of it, even if Baghdad refers to the whole city. But habit and sense suffice to indicate that Zayd is in a place equal to the area of his body. Likewise the clarity of the matter suffices for you to say: Zayd is a knower by a part indivisible of his heart or brain. Sixth: equality in time and place. For you say: 'The world is originated,' 'The world is not originated'—both are true, but it is originated at the beginning of its existence, and not originated before it nor after it; rather before it it is non-existent and after it it is lasting. And you say: 'The boy grows teeth,' 'The boy does not grow teeth'—we mean by one the first year, and by the other the year after that. And we should not lengthen by enumerating conditions and examples, so let us summarize a rule for recognizing the contradictory proposition.
+Source pages p. 88
+
+Commentary
+This passage defines the third through sixth conditions necessary for two statements to be truly contradictory (tanāquḍ). The author explains that for a genuine contradiction, the predicates must apply to the same subject under the same respect. The third condition is unity of relation (ittihād al-iḍāfa): statements like 'Zayd is a father' and 'Zayd is not a father' can both be true if they refer to different children—e.g., he is father of Bakr but not of Khalid. Similarly, 'ten is a half' and 'ten is not a half' are compatible if one considers half of twenty vs. half of thirty. The author notes that many errors in fiqh and kalām arise from neglecting this condition, e.g., saying 'a woman is under guardianship' (in marriage) and 'she is not under guardianship' (in sale) are both true. The fourth condition is equality in potentiality and actuality (tasāwī fī al-quwwa wa al-fi‘l): water in a pitcher is potentially moist but not actually; a sword is sharp by use actually but not potentially etc. A famous theological error from this is the debate about whether God is creator in pre-eternity: He is creator potentially in pre-eternity (since He has the power) but not actually, as creation follows. The fifth condition is equality in part and whole (tasāwī fī al-juz’ wa al-kull): 'the Zanjī is black' (skin) and 'the Zanjī is not black' (teeth) can both be true. This leads to the error of those who think that 'Zayd is a knower' attributes knowledge to his entire person, whereas actually knowledge inheres in a specific part (his heart or brain), just as 'Zayd is in Baghdad' means he is in a part of the city, not the whole. The sixth condition is equality in time and place (tasāwī fī al-zamān wa al-makān): 'the world is originated' (at the moment of its beginning) and 'the world is not originated' (before or after) are compatible; 'the boy grows teeth' (in the first year) and 'the boy does not grow teeth' (in the second year) both true. The author concludes by saying he will not multiply examples further but will give a rule for recognizing contradictory propositions.
+
+Key Terms
+الزمان والمكان
+التناقض
+
+Key Terms from Source Passage
+
+Checkpoint
+Which pair of statements is compatible due to different times?
+A) 'The sun is shining' and 'The sun is not shining' (at different times of day)
+B) 'The apple is red' and 'The apple is not red'
+C) 'The water is hot' and 'The water is not hot'
+D) 'The tree is tall' and 'The tree is not tall'
+
+Key Takeaway
+Time and place must be the same for two statements to be truly contradictory; otherwise they are compatible.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Fasting on the Day of Ashura is obligatory' and 'Fasting on the Day of Ashura is not obligatory.' Explain how this can be resolved by applying the condition of equality in time (e.g., before and after the hijrah).
+
+Pages p. 88 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 89
+Module 15 · Lesson 7
+Next →
+Immediate Inference
+intermediate
+8 min
+Rule for Identifying Contradictory Propositions
+Author states the precise conditions for genuine contradiction between propositions.
+
+Learning Objective
+By the end of this lesson, you will be able to determine whether two propositions are genuine contradictories by applying the conditions of time, place, state, and quantity.
+
+Core Idea
+Genuine contradiction requires exact match in all conditions except truth value; for universals, one must be particular.
+
+In logic and Islamic sciences, we often need to identify whether two statements truly contradict each other or only appear to. This lesson presents a precise rule from the text that spells out every condition required for genuine contradiction. We will learn to apply this rule to both singular and universal propositions, using examples from kalam and fiqh.
+
+Guided Path
+1
+Identify the type of proposition
+First, determine whether the proposition is singular (about a specific individual/thing) or universal. The rule differs for each.
+Singular: 'Zayd is in Baghdad'; Universal: 'Every man is a writer'.
+2
+For singular propositions, check the core condition
+The contradictory must differ only in affirmation/negation, while agreeing exactly in time, place, state, relation, potentiality/actuality, and part/whole. If any condition differs, it is not a genuine contradiction.
+Example: 'Zayd is in Baghdad at noon' vs 'Zayd is not in Baghdad at noon' – this is a contradiction.
+3
+For universal propositions, verify quantity difference
+If the proposition is universal, one of the contradictories must be universal and the other particular. Two universal propositions about contingent matters can both be false; two particular can both be true.
+Universal affirmative vs universal negative on a contingent matter are not contradictory; e.g., 'Every man is a writer' and 'No man is a writer' are both false.
+4
+Test for possible joint truth or falsehood
+If it is possible for both propositions to be true together or both false, they are not genuine contradictories. The genuine contradictory pair must always have opposite truth values.
+Use the provided examples: universal pair both false; particular pair both true; singular pair cannot both be true/false.
+5
+Apply the rule to new examples
+Practice by constructing your own pairs and testing whether they satisfy all conditions. Extract examples from Islamic texts, such as statements about creation, obligation, or divine attributes.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولا ينبغي أن نطوّلَ بتعديدِ الشروط والأمثلة ، فلنجمل له ضابط معرفة القضية المناقضة ضبطاً ؛ وهوَ : أنَّ القضية المناقضة هي التي تسلب مثلاً ما تثبتُهُ الأولى بعينِهِ ، أو تثبتُ ما سلبته الأولى بعينه ، وفي ذلك الوقت والمكان والحالِ وتلكَ الإضافةِ بعينها ، وبالقوَّةِ إِنْ كانَ ذلكَ بالقوة ، وبالفعل إنْ كانَ ذلكَ بالفعل ، وكذا في الجزء والكل . ويحصل ذلكَ : بألَّا تُخالف القضيَّةُ النافية المثبتةَ إِلَّا في تبديل النفي بالإثباتِ فقط ، هذا إذا كانَتِ القضيَّةُ قضيةً في عين القضيتان الكليتان في فإن كانَتْ عامَّةً .. زادَتْ شريطة أخرى ؛ وهي أن تكونَ إحداهما عامَّةً والأخرى خاصَّةً ؛ ليلزم التناقض ، وإلا .. فيُتصوَّرُ أن يجتمعا في الصدق أو الكذب ولا يكون التناقض ضرورياً ؛ فإنَّ القضيتين العامتين في نسبة الممكنات .. كاذبتان ؛ كقولنا : ( كلُّ إنسانٍ كاتب ) ، ( لا أحدَ مِنَ الناس كاتب ) ، والخاصتانِ صادقتانِ ؛ كقولك : ( بعض الناس كاتب ) ، ( بعضُ الناس ليس بكاتب ) . فتأمَّل هذه الشروط ، واستخرج من نفسك بقيَّةَ الأمثلة
+It is not appropriate for us to lengthen by counting conditions and examples. So let us summarize a rule for knowing the contradictory proposition, precisely: it is that the contradictory proposition is the one that negates, for example, what the first affirms exactly, or affirms what the first negated exactly, with the same time, place, state, and relation; with potentiality if that is potential, and with actuality if that is actual; and similarly in part and whole. That is achieved by the negative proposition not differing from the affirmative except in changing negation to affirmation only – this is when the proposition is about a particular thing. For if it is universal, another condition is added: that one be universal and the other particular, so that contradiction is necessary. Otherwise, it is conceivable that they both be true or both false, and contradiction is not necessary. For the two universal propositions about contingent things are both false, as our saying: 'Every man is a writer', 'No man is a writer'. And the two particular propositions are both true, as your saying: 'Some man is a writer', 'Some man is not a writer'. So reflect on these conditions and extract from yourself the remaining examples.
+Source pages p. 89
+
+Commentary
+This passage provides a precise rule for identifying genuine contradictory propositions (al-manāqiḍa). The author states that a true contradictory must differ from the original only in affirmation/negation, while agreeing in all conditions: time, place, state, relation, potentiality or actuality, and part/whole. This is the core condition for singular propositions. For universal propositions, an additional condition is required: one must be universal and the other particular. Without this, two universal propositions about contingent matters (al-mumkināt) can both be false, as in the example 'Every man is a writer' and 'No man is a writer' (both false because some men are writers and some are not). Conversely, two particular propositions ('Some man is a writer' and 'Some man is not a writer') can both be true. The author encourages the reader to derive further examples. This rule is crucial for correct reasoning and avoids false contradictions in debates, especially in theological and jurisprudential contexts where one must carefully specify the scope of propositions.
+
+Key Terms
+القضية المناقضة (al-qaḍiyya al-munāqiḍa): The contradictory proposition that negates exactly what the first affirms (or vice versa) with identical conditions of time, place, state, etc., and if universal, one must be universal and the other particular. [Note: In earlier logic texts, conditions for contradiction were often limited to quality and quantity; here al-Razi adds detailed conditions including potentiality/actuality and part/whole.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the rule, why are 'Every man is a writer' and 'No man is a writer' not genuine contradictories?
+A) Because they differ in quality.
+B) Because they are both about contingent matters and can both be false.
+C) Because one is affirmative and the other negative.
+D) Because they do not agree in time and place.
+
+Key Takeaway
+Genuine contradiction requires more than opposite truth values; it demands exact agreement in all conditions and, for universal propositions, a difference in quantity.
+
+How This Lesson Applies — to MY Life?
+?
+Determine whether the following pair is a genuine contradiction according to the rule: 'Every action is created by Allah' and 'Some action is not created by Allah'. Explain your reasoning.
+?
+Construct a genuine contradictory pair for the singular proposition 'Zayd is standing in the market at noon on Friday.' Then construct a non-contradictory pair that changes one condition (e.g., time).
+
+Pages p. 89 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 90
+Module 15 · Lesson 8
+Next →
+Immediate Inference
+beginner
+5 min
+Introduction to Conversion of Propositions
+Author introduces conversion and its utility
+
+Learning Objective
+By the end of this lesson, you will be able to define the operation of conversion (ʿaks) and explain why it is needed in logical reasoning.
+
+Core Idea
+Conversion swaps subject and predicate to uncover the logical converse of a proven statement.
+
+In this lesson, we begin the study of conversion (ʿaks), a fundamental immediate inference. The author explains that sometimes the evidence we have is not for the exact claim we want, but for its converse. By converting the proven proposition, we can derive the desired conclusion. The definition is straightforward: make the predicate the subject and the subject the predicate, while preserving truth under specific conditions.
+
+Guided Path
+1
+Recognize the problem
+Note the author's motivation: the proof may hit the converse of what you need, not the target itself. Conversion solves this.
+2
+Define conversion
+Conversion (ʿaks) is making the predicate (al-maḥkūm bihi) the subject (al-maḥkūm ʿalayhi) and vice versa. This operation preserves truth when applied correctly.
+The definition is operational; specific rules for each proposition type will follow.
+3
+Understand its purpose
+Conversion allows you to move from a proven converse to the originally desired statement. This is essential in constructing proofs and arguments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التفصيل الرابع : في بيان عكس القضية : وهذا أيضاً يُحتاجُ إليه ؛ إذْ ربَّما لا يُصادف الدليل على نفس المطلوب ، ويصادف على عكسه، فيمكن التوصل منه إلى المطلوب . وأعني بالعكس : أن تجعلَ الحُكْمَ محكوماً عليه ، والمحكوم
+The fourth detail: on explaining the conversion of the proposition. And this is also needed, because perhaps the proof does not hit upon the very thing sought, but hits upon its converse; so it is possible to arrive at the sought thing from it. And I mean by 'converse': that you make the predicate the subject, and the subject
+Source pages p. 90
+
+Commentary
+This passage opens the fourth section (tafṣīl) on the conversion of propositions (ʿaks al-qaḍiyya). The author explains why this is necessary: sometimes one has a proof for the converse of a desired statement, but not for the statement itself. By converting the proven statement, one can obtain the original desired statement. The definition of conversion is given as making the predicate (al-maḥkūm bihi) into the subject (al-maḥkūm ʿalayhi) and vice versa. The text is cut off, but it is clear that the author will proceed to detail the rules for converting different types of propositions (universal affirmative, universal negative, etc.). This technique is essential in logic because many syllogisms work more easily with one arrangement of terms, and conversion allows flexibility in argumentation. In Islamic jurisprudence, for example, one might prove that 'all forbidden things are impure' and need to assert 'some impure things are forbidden', which is a conversion of a universal affirmative to a particular affirmative.
+
+Key Terms
+عكس القضية
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is conversion of propositions needed according to the author?
+A) To find the middle term in a syllogism
+B) Because sometimes one finds a proof for the converse of the desired statement, not the statement itself
+C) To distinguish between essential and accidental predicates
+D) To transform a conditional syllogism into a categorical one
+
+Key Takeaway
+Conversion allows a logician to derive a desired proposition from its converse when direct proof is unavailable.
+
+How This Lesson Applies — to MY Life?
+?
+Take the universal affirmative proposition 'Every khamr wine is impure' and perform conversion as defined: the converse is 'Some impure things are wine'. Explain why the quantity changes from universal to particular.
+
+Pages p. 90 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 90
+Module 15 · Lesson 9
+Next →
+Immediate Inference
+intermediate
+5 min
+Conditions for Contradictory Propositions
+Author defines contradictory propositions and gives conditions with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether two propositions are genuinely contradictory by checking the conditions of identity in time, place, state, and quantifier.
+
+Core Idea
+True contradiction requires difference only in negation/affirmation under identical conditions.
+
+This passage defines the precise conditions under which two propositions are contradictory. It is not enough that they simply oppose each other; they must do so under the exact same circumstances, including time, place, state, and quantification. The author provides examples from possible matters to illustrate a key nuance for universal propositions.
+
+Guided Path
+1
+Identify the two propositions
+Locate the propositions being compared. Note their subjects and predicates.
+In the passage, examples like 'Every human is a writer' and 'No human is a writer' are used.
+2
+Check identity of conditions
+Ensure that time, place, state, relation, potentiality/actuality, and part/whole are the same for both propositions.
+Any change in these conditions prevents genuine contradiction.
+3
+Verify only negation/affirmation differs
+Confirm that the propositions differ solely in that one affirms what the other negates, with no other changes.
+This is the core of contradiction; other changes would make them merely different.
+4
+If universal, check quantifier contrast
+For universal propositions, one must be universal (e.g., 'Every S is P') and the other particular (e.g., 'Some S is not P'), otherwise both can be false or both true in possible matters.
+The author's example shows two universals can both be false.
+5
+Apply to examples and test
+Use the conditions to determine if given proposition pairs are contradictory. Derive your own examples from fiqh or kalam.
+Practice with legal rulings or theological statements.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهوَ : أنَّ القضية المناقضة هي التي تسلب مثلاً ما تثبتُهُ الأولى بعينِهِ ، أو تثبتُ ما سلبته الأولى بعينه ، وفي ذلك الوقت والمكان والحالِ وتلكَ الإضافةِ بعينها ، وبالقوَّةِ إِنْ كانَ ذلك بالقوة ، وبالفعل إنْ كانَ ذلكَ بالفعل ، وكذا في الجزء والكل . ويحصل ذلكَ : بألَّا تُخالف القضيَّةُ النافية المثبتةَ إِلَّا في تبديل النفي بالإثباتِ فقط ، هذا إذا كانَتِ القضيَّةُ قضيةً في عين القضيتان الكليتان في فإن كانَتْ عامَّةً .. زادَتْ شريطة أخرى ؛ وهي أن تكونَ إحداهما عامَّةً والأخرى خاصَّةً ؛ ليلزم التناقض ، وإلا .. فيُتصوَّرُ أن يجتمعا في الصدق أو الكذب ولا يكون التناقض ضرورياً ؛ فإنَّ القضيتين العامتين في نسبة الممكنات .. كاذبتان ؛ كقولنا : ( كلُّ إنسانٍ كاتب ) ، ( لا أحدَ مِنَ الناس كاتب ) ، والخاصتانِ صادقتانِ ؛ كقولك : ( بعض الناس كاتب ) ، ( بعضُ الناس ليس بكاتب ) . فتأمَّل هذه الشروط ، واستخرج من نفسك بقيَّةَ الأمثلة
+And it is: The contradictory proposition is the one that negates, for example, what the first affirms exactly, or affirms what the first negated exactly, with the same time, place, state, and relation exactly, and potentially if it was potential, and actually if it was actual, and similarly in part and whole. And that happens by the negative proposition not opposing the affirmative except in exchanging negation for affirmation only, when the proposition is a proposition in its essence. Then if it is universal, another condition is added: that one of them be universal and the other particular, so that contradiction is necessary; otherwise it is conceivable that they both be true or both false and contradiction is not necessary. For the two universal propositions in the case of possible things are false, like our statement: 'Every human is a writer', 'No human is a writer'; and the two particular ones are true, like your saying: 'Some humans are writers', 'Some humans are not writers.' So contemplate these conditions, and derive the remaining examples from yourself.
+Source pages p. 90
+
+Commentary
+This passage defines what makes two propositions contradictory. The author states that a contradictory proposition must negate exactly what the first affirms (or vice versa) under the same conditions of time, place, state, relation, potentiality/actuality, and part/whole. This strict sameness is crucial: any change in these elements prevents genuine contradiction. Then the author adds that when propositions are universal, an extra condition arises: one must be universal and the other particular. Without this, both could be simultaneously true or false, as shown with the example of 'possible' matters (like writing ability). For instance, 'Every human is a writer' and 'No human is a writer' are both false, while 'Some human is a writer' and 'Some human is not a writer' are both true. So for contradiction, one must be universal and the other particular in the case of universals.
+
+Key Terms
+القضية المناقضة
+النفي والإثبات
+عامة وخاصة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which condition ensures contradiction between universal propositions?
+A) Both must be universal.
+B) One must be universal and the other particular.
+C) They must have the same subject and predicate.
+D) They must both be about possible things.
+
+Key Takeaway
+Two propositions are contradictory only if they differ solely in affirmation/negation under identical conditions, with universal/particular distinction for universal propositions.
+
+How This Lesson Applies — to MY Life?
+?
+Determine if the following pair is contradictory according to the passage's conditions: 'Every obligatory act is rewarded' and 'No obligatory act is rewarded.' Explain why or why not.
+?
+Construct your own example of two propositions that seem contradictory but fail the conditions (e.g., due to different times or places) in the context of Islamic rulings on prayer.
+
+Pages p. 90 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 90
+Module 15 · Lesson 10
+Next →
+Immediate Inference
+beginner
+5 min
+Conversion of Propositions and Its Rules
+Author defines conversion and enumerates four types with examples.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the correct conversion rule for each of the four proposition types: universal negative, particular negative, universal affirmative, and particular affirmative.
+
+Core Idea
+Conversion swaps subject and predicate while preserving truth, but not all propositions convert equally.
+
+In logical reasoning, sometimes the direct argument for a conclusion is not available, but its converse might be provable. This is where conversion (ʿaks) becomes essential. In this lesson, we define conversion and learn the rules for each of the four proposition types based on the classic treatment.
+
+Guided Path
+1
+Understand the definition of conversion
+Identify what the author means by conversion: making the predicate the subject and the subject the predicate without any other change, and the proposition must remain true.
+2
+List the four proposition types
+Recognize the four types discussed: universal negative (nāfiyya ʿāmma), particular negative (nāfiyya khāṣṣa), universal affirmative (muthbita ʿāmma), and particular affirmative (muthbita juzʾiyya). Note the author's exclusion of singular propositions.
+The fourth type is implied in the passage; it converts into itself.
+3
+Memorize the conversion rule for each type
+For universal negative: converts to itself (e.g., 'No body is accident' → 'No accident is body'). For particular negative: no true converse. For universal affirmative: converts to particular affirmative (e.g., 'Every human is animal' → 'Some animal is human'). For particular affirmative: converts to itself.
+These rules are foundational for immediate inference.
+4
+Apply the rules to Islamic science examples
+Practice converting propositions from fiqh or kalam, e.g., 'No intoxicant is halal' (universal negative) converts to 'No halal is intoxicant'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التفصيل الرابع : في بيان عكس القضية : وهذا أيضاً يُحتاجُ إليه ؛ إذْ ربَّما لا يُصادف الدليل على نفس المطلوب ، ويصادف على عكسه، فيمكن التوصل منه إلى المطلوب وأعني بالعكس : أن تجعلَ الحُكْمَ محكوماً عليه ، والمحكوم عليه حُكْماً، ولا تتصرف فيهِ إلَّا بهذا القدر ، وتبقى القضيَّةُ صادقة ، فعند ذلك تقولُ : هذه قضيَّةٌ منعكسة ؛ أي : عكسها أيضاً صادق . والقضايا بهذا الاعتبار أربع : الأولى : نافية عامَّةٌ : ولسنا نتكلَّمُ في قضيَّةِ العين (١) ؛ فإنَّها القضية السـ لا تستعمل في النظريَّاتِ ، بلْ في الأعمال والصناعاتِ والعاداتِ . فالنافية العامَّةُ تنعكس مثل نفسها نافية عامةً ، فمهما صدق قولُنا : ( لا متحيّز واحدَ عرض ) .. صدق قولنا : ( لا عرض واحد متحيّز ) ، وإذا صدق قولنا : ( لا سوادَ واحد علمٌ ) .. صدق قولنا : ( لا علم واحد سوادٌ) فإنَّ ما يُسلب عن الشيء .. فمسلوبٌ عنه الشيء بالضرورة . الثانيةُ : النافية الخاصَّةُ : ولا يصدقُ عكسُها ألبتة (٢) ، فإِنَّكَ إذا قلت : ( بعضُ اللونِ ليس بسوادٍ ) لمْ يمكنك أن تقول : ( وبعض السوادِ ليس بلون ( ولا أمكنكَ أنْ تقول : ( كلُّ السوادِ ليس بلون ) . الثالثةُ : المثبته العامَّةُ : ولا تنعكس مثل نفسها ، ولكن تنعكس موجبة جزئية
+The fourth section: On explaining conversion of the proposition. And this is also needed because sometimes the evidence does not match the desired conclusion itself, but matches its converse, so one can arrive at the desired conclusion from it. And by conversion I mean: you make the predicate the subject, and the subject the predicate, and you do not alter it except to this extent, and the proposition remains true. At that point you say: This proposition is convertible, i.e., its converse is also true. Propositions in this regard are four: First: Universal negative. And we do not speak about the singular proposition [external] because it is not used in theoretical matters, but in actions, crafts, and habits. So the universal negative converts into exactly itself as a universal negative. Whenever our statement: 'No body is an accident' is true, then our statement: 'No accident is a body' is true; and if our statement: 'No blackness is knowledge' is true, then our statement: 'No knowledge is blackness' is true, because what is denied of a thing is necessarily denied by that thing. Second: The particular negative. Its converse is never true, because if you say: 'Some color is not blackness,' you cannot say: 'Some blackness is not color,' nor can you say: 'Every blackness is not color.' Third: The universal affirmative. It does not convert into itself, but converts into a particular affirmative.
+Source pages p. 90
+
+Commentary
+This passage introduces the concept of conversion (عكس) of propositions. The author explains its utility: when a direct proof is not available, one might prove the converse and then derive the original. Conversion is defined as swapping subject and predicate without any other change, while preserving truth. Then the author classifies propositions into four types based on conversion behavior. The first type is universal negative (e.g., 'No body is an accident' converts to 'No accident is a body') — it converts into itself. The second is particular negative (e.g., 'Some color is not blackness') — it has no true converse at all. The third is universal affirmative (e.g., 'Every human is an animal') — it does not remain universal but becomes particular affirmative ('Some animal is human'). The fourth type is particular affirmative (though not fully stated here, it is implied to convert into itself). The passage emphasizes that singular propositions are excluded from this discussion as they belong to practical matters, not theoretical.
+
+Key Terms
+عكس القضية
+نافية عامة
+نافية خاصة
+مثبتة عامة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which type of proposition has no true converse?
+A) Universal negative
+B) Particular negative
+C) Universal affirmative
+D) Particular affirmative
+
+Key Takeaway
+Universal negative and particular affirmative convert into themselves, universal affirmative converts into particular affirmative, and particular negative has no true converse.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following universal affirmative proposition using the rule from the passage: 'Every act of injustice is forbidden.' State the converse and its quantity.
+?
+Determine whether the proposition 'Some scholars are not knowledgeable' has a true converse according to the passage. Explain why or why not.
+
+Pages p. 90 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 91
+Module 15 · Lesson 11
+Next →
+Immediate Inference
+beginner
+10 min
+The Four Types of Categorical Conversion
+Enumerates four types of categorical propositions and their conversion rules.
+
+Learning Objective
+By the end of this lesson, you will be able to identify and apply the conversion rules for each of the four categorical propositions: universal negative, particular negative, universal affirmative, and particular affirmative.
+
+Core Idea
+Universal negatives and particular affirmatives convert to themselves; universal affirmatives become particular; particular negatives do not convert.
+
+In this passage, the author introduces the concept of a convertible proposition (qadiyya mun'akisa) and systematically lists the conversion behavior of the four categorical proposition types. Understanding these rules is essential for immediate inference in logical reasoning, including in Islamic theological and legal arguments where propositions are reversed.
+
+Guided Path
+1
+Recognize conversion
+Understand that a proposition is convertible if, when it is true, its converse (subject and predicate swapped) is also true. The author sets aside singular propositions as not used in theoretical matters.
+Conversion is an immediate inference; no additional premises are needed.
+2
+Identify the four types
+The four categorical propositions are: universal negative (No S is P), particular negative (Some S is not P), universal affirmative (Every S is P), and particular affirmative (Some S is P).
+These correspond to the standard A, E, I, O in Western logic.
+3
+Apply the rule for universal negative
+A universal negative converts to itself: 'No S is P' becomes 'No P is S'. Example: 'No individual substance (mutahayyiz) is an accident' converts to 'No accident is an individual substance'.
+4
+Apply the rule for particular negative
+A particular negative does not convert at all: from 'Some S is not P' you cannot infer any proposition with P as subject. Example: 'Some color is not blackness' does not yield 'Some blackness is not color' or 'All blackness is not color'.
+5
+Apply the rule for universal affirmative
+A universal affirmative converts to a particular affirmative: 'Every S is P' becomes 'Some P is S'. Example: 'Every blackness is color' converts to 'Some colors are blackness', not 'All colors are blackness'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+عليه حُكْماً، ولا تتصرف فيهِ إلَّا بهذا القدر ، وتبقى القضيَّةُ صادقة ، فعند ذلك تقولُ : هذه قضيَّةٌ منعكسة ؛ أي : عكسها أيضاً صادق . متى تكون القضية منعكسة ؟ والقضايا بهذا الاعتبار أربع : الأولى : نافية عامَّةٌ : ولسنا نتكلَّمُ في قضيَّةِ العين (١) ؛ فإنَّها القضية الشخصية لا تستعمل في النظريَّاتِ ، بلْ في الأعمال والصناعاتِ والعاداتِ . فالنافية العامَّةُ تنعكس مثل نفسها نافية عامةً ، فمهما صدق قولُنا : ( لا متحيّز واحدَ عرض ) .. صدق قولنا : ( لا عرض واحد متحيّز ) ، وإذا صدق قولنا : ( لا سوادَ واحد علمٌ ) .. صدق قولنا : ( لا علم واحد سوادٌ) فإنَّ ما يُسلب عن الشيء .. فمسلوبٌ عنه الشيء بالضرورة . الثانيةُ : النافية الخاصَّةُ : ولا يصدقُ عكسُها ألبتة (٢) ، فإِنَّكَ إذا قلت : ( بعضُ اللونِ ليس بسوادٍ ) لمْ يمكنك أن تقول : ( وبعض السوادِ ليس بلون ( ولا أمكنكَ أنْ تقول : ( كلُّ السوادِ ليس بلون ) . الثالثةُ : المثبته العامَّةُ : ولا تنعكس مثل نفسها ، ولكن تنعكس مثبتةً خاصةً ، فإنَّهُ مهما صدق قولك : ( كلُّ سوادٍ لون ) .. صدق بالضرورة قولُكَ : ( بعض الألوان سواد ) ولا يمكنك أن تقول : ( كل الألوان سوادٌ ) . الرابعةُ : المثبته الخاصَّةُ : تنعكس مثل نفسها ، فإنَّك مهما قلت : ( بعض الألوان سوادٌ ) .. صدق قولك : ( بعض السوادِ لون ) فإنَّ كونَ كلّ السوادِ لوناً .. لا يخرج عن الصدق قولنا : ( بعضُ السوادِ لون ) . ولا يلتفتُ إلى فحوى الخطاب فليس ذلك من مقتضى اللفظ ، وهو خارج عن غرضِنا هذا وإن كان صحيحاً في موضعه . ولنقتصرُ مِنَ السوابق على هذا القدْر ، فالزيادة عليه لا تليق بحجم هذا الكتاب .
+Thus, you do not apply any ruling to it except to this extent, and the proposition remains true. Then you say: This is a convertible proposition, meaning its converse is also true. When is a proposition convertible? Propositions in this respect are four: First: universal negative: We do not speak of the singular proposition (1); for it is the singular proposition not used in theoretical matters, but in actions, crafts, and habits. The universal negative is converted the same as itself as a universal negative. For whenever our statement 'No individual substance (mutahayyiz) is an accident' is true, our statement 'No accident is an individual substance' is true. And if our statement 'No blackness is knowledge' is true, our statement 'No knowledge is blackness' is true. For what is denied of a thing — that thing is necessarily denied of it. Second: particular negative: Its converse is never true (2). For if you say 'Some color is not blackness', you cannot say 'Some blackness is not color', nor can you say 'All blackness is not color'. Third: universal affirmative: It is not converted the same as itself, but is converted as a particular affirmative. For whenever your statement 'Every blackness is color' is true, your statement 'Some colors are blackness' is necessarily true, and you cannot say 'All colors are blackness'. Fourth: particular affirmative: It is converted the same as itself. For whenever you say 'Some colors are blackness', your statement 'Some blackness is color' is true. For the fact that all blackness is color does not take our statement 'Some blackness is color' out of truth. And one should not pay attention to the implication of discourse (fahwa al-khitab), for that is not required by the wording, and it is outside our present purpose, even if it is correct in its place. We will confine ourselves to this amount of the conversions; additional material is not suitable for the size of this book.
+Source pages p. 91
+
+Commentary
+This passage defines the concept of a convertible proposition (qadiyya mun'akisa) and then classifies categorical propositions into four types based on their conversion behavior. The author begins by explaining that a proposition is convertible if when it is true, its converse (the proposition with the subject and predicate swapped) is also true. He then sets aside singular propositions (qadiyya al-'ayn) because they are not used in theoretical reasoning but in practical contexts. The first type is the universal negative (nāfiya 'āmma). It converts to itself: a universal negative becomes a universal negative. For example, if 'No individual substance is an accident' is true, then 'No accident is an individual substance' is also true. This is because the denial is symmetric. The second type is the particular negative (nāfiya khāṣṣa). It has no valid converse (it does not convert). If 'Some color is not blackness' is true, we cannot conclude any 'some' or 'all' statements about blackness being or not being color. The third type is the universal affirmative (muthbita 'āmma). It does not convert to a universal affirmative but to a particular affirmative. From 'Every blackness is color' we can only infer 'Some colors are blackness', not 'All colors are blackness'. The fourth type is the particular affirmative (muthbita khāṣṣa). It converts to itself: a particular affirmative becomes a particular affirmative. From 'Some colors are blackness' we infer 'Some blackness is color'. The author notes that the converse does not require the assumption that all blackness is color; the particular statement is still true. Finally, he warns against considering implications (fahwa al-khitab) like the concept of 'mufahama' (implied meaning) because logic deals only with explicit wording (mantuq), not implied meaning. The author cuts the discussion short due to the book's concise size.
+
+Key Terms
+القضية المنعكسة
+النافية العامة
+النافية الخاصة
+المثبتة العامة
+المثبتة الخاصة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the conversion of the universal affirmative proposition 'Every intoxicant (khamr) is forbidden (haram)'?
+A) Every forbidden thing is intoxicant.
+B) Some forbidden things are intoxicant.
+C) Some intoxicants are not forbidden.
+D) No forbidden thing is intoxicant.
+
+Key Takeaway
+The conversion rules for categorical propositions are: universal negatives and particular affirmatives convert to themselves, universal affirmatives convert to particulars, and particular negatives do not convert.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'No ignorant person (jahil) is trustworthy (thiqa)', write its valid converse and verify it follows the rule for universal negative.
+?
+A student argues: 'Every action is created by Allah' (universal affirmative), therefore 'Every created thing is an action.' Is this conversion valid? If not, what is the correct conversion?
+
+Pages p. 91 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 109
+Module 15 · Lesson 12
+Next →
+Immediate Inference
+beginner
+5 min
+Negation of the Specific Does Not Necessitate Negation of the General
+Author corrects a mistaken logical inference regarding specific and general terms.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of inferring the negation of the general from the negation of the specific, and apply the correct immediate inference rule.
+
+Core Idea
+Denying a specific does not force you to deny the broader category.
+
+This passage corrects a common logical mistake: assuming that if a specific colour like black is absent, then colour itself is absent. The author shows that this does not follow, and connects it to the rule of conditional syllogisms. We will break down the principle and its implications for clear reasoning.
+
+Guided Path
+1
+Identify the specific and general terms
+In the example, what is the specific (akhass) and what is the general (a'am)? Blackness is the specific, colour is the general.
+2
+State the incorrect inference
+The mistaken conclusion someone might draw: 'No blackness, therefore no colour.'
+3
+Recognize the correct logical relationship
+The specific implies the general (blackness implies colour), but the negation of the specific does not entail anything about the general.
+4
+Connect to conditional syllogism rule
+The author links this to the rule that affirming the negation of the antecedent yields no conclusion. The mistaken conditional 'If it is colour, then it is blackness' illustrates the fallacy of making the specific a necessary condition.
+5
+Apply to Islamic sciences
+Consider a fiqh example: if a ruling applies to a specific type of wine, does it apply to all intoxicants? This principle helps avoid errors in legal analogy.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأمَّا انتفاء الأخصّ فلا يوجب انتفاء الأعم لا انتفاءً ولا ثبوتاً؛ فإنَّ انتفاءَ السوادِ لا يوجب انتفاء اللون ولا ثبوته، وهو نفي الأخص لا يلزم عنه نفي الأعم الذي عنيناه بقولنا: إنَّ تسليم نقيض المقدَّمِ لا ينتج لا عين اللازم ولا نقيضه أصلاً. وإِنْ جُعِلَ الأخص لازماً للأعمّ فهو خطأ؛ كمَنْ يقولُ: إِنْ كانَ هذا لوناً فهو سوادٌ.
+And as for the negation of the more specific, it does not necessitate the negation of the more general, neither a negation nor an affirmation. For the negation of blackness does not necessitate the negation of colour nor its affirmation. And this is the negation of the specific; it does not entail the negation of the general, which we meant by our saying: 'Indeed, affirming the contradiction of the antecedent does not produce the very consequent nor its contradiction at all.' And if the specific is made a necessary condition of the general, it is a mistake, like someone saying: 'If this is a colour, then it is blackness.'
+Source pages p. 109
+
+Commentary
+This passage clarifies an important logical principle: denying the specific does not force us to deny the general. For example, the absence of blackness (a specific colour) does not mean the absence of colour (the general) nor that colour is present; the object could be red. The author connects this to the rule in conditional syllogisms that affirming the negation of the antecedent (taslim naqiḍ al-muqaddam) yields no conclusion about the consequent or its negation. He then warns against the error of making the specific a necessary condition of the general, like saying 'if it is a colour, then it is blackness.' That would incorrectly restrict the general to one specific.
+
+Key Terms
+الأخص (al-akhass): The more specific term, e.g., blackness as a specific colour.
+الأعم (al-a'am): The more general term, e.g., colour as a broader category.
+انتفاء (intifa'): Negation, absence, or non-existence.
+ثبوت (thubut): Affirmation, existence, or positive state.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, if blackness (the specific) is absent, what can we conclude about colour (the general)?
+A) Colour is absent.
+B) Colour is present.
+C) Either colour is absent or present.
+D) Colour is both absent and present.
+
+Key Takeaway
+Negating a specific term does not allow us to infer anything about the broader category it belongs to; the relationship is one-way implication.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the fiqh maxim: 'Every intoxicant is haram.' If a specific substance (nabidh) is not an intoxicant (its intoxication is unclear), does that mean the general category of intoxicants does not exist? Explain using the principle from this lesson.
+?
+Identify the fallacy in the following argument: 'All types of alcohol are prohibited. This drink is not alcohol (it is a soft drink), so it is not prohibited.' Is this a correct inference according to the passage? Why or why not?
+
+Pages p. 109 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 257
+Module 15 · Lesson 13
+Next →
+Immediate Inference
+beginner
+5 min
+Navigating the Outline: Contradiction, Conversion, and Syllogism
+Outline of logical topics
+
+Learning Objective
+By the end of this lesson, you will be able to identify the three major topics covered in the outline and their logical sequence.
+
+Core Idea
+The outline is a roadmap: contradiction first, then conversion, then syllogism.
+
+This lesson orients you to the structure of the upcoming logical discussions. The outline lists key topics: the conditions for a true contradiction, the rules for converting propositions, and the three figures of categorical syllogism. Understanding this map will help you connect each piece to the larger logical project.
+
+Guided Path
+1
+Locate the three main sections
+The outline begins with 'نقيض القضايا' (contradiction), then moves to 'عكس القضايا' (conversion), and finally to 'القياس الاقتراني' (categorical syllogism). Identify these three headings.
+2
+Note the subheadings under contradiction
+Under contradiction, the outline lists specific conditions: union of subject, unity of judgment, equality in potentiality/actuality, part/whole, time/place. These are precise requirements for two propositions to be true contradictories.
+3
+Examine the conversion rules
+The outline gives four rules: universal negative converts to universal negative, universal affirmative to particular affirmative, particular affirmative to itself, and particular negative does not always convert. Notice the pattern.
+4
+Identify the three figures of syllogism
+Under categorical syllogism, the outline introduces three figures (أشكال). The first figure has conditions (affirmative minor and universal major), the second figure produces only negative conclusions, and the third figure is mentioned with a general principle.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تحريجة : الإنسان ليس بحجر ، فكيف نُعت هذا بالاستحالة ؟
+- نقيض القضايا والحاجة إليه
+-
+شروط تحقق التناقض
+اتحاد المحكوم عليه في القضيتين
+كون الحكم واحداً فيهما
+اتحاد الإضافة في الإضافيات
+تساويهما في القوة والفعل
+التساوي في الجزء والكل
+التساوي في الزمان والمكان
+ضابط معرفة القضية المناقضة
+- القضيتان الكليتان في نسبة الممكنات كاذبتان
+- القضيتان الجزئيتان في نسبة الممكنات صادقتان - عكس القضايا
+- متى تكون القضية منعكسة ؟
+- القضية السالبة الكلية عكسها مثلها
+- القضية السالبة الجزئية لا يطرد صدقُ عكسها
+- القضية الموجبة الكلية تنعكس موجبة جزئية
+القضية الموجبة الجزئية تنعكس مثل نفسها
+الفن الثاني من مِحَنِ القياس : في المقاصدِ ، وهوَ طرفان
+الطرف الأول : في نظم القياس
+-
+النمطُ الأَوَّلُ : نمط التعادل ، ونظمُهُ مِنْ ثلاثة أوجه
+القياس الاقتراني
+الشكل الأول
+لا بد من اشتراك بين المقدمتين لتحصل النتيجة
+تعيين المقدمتين الصغرى والكبرى
+التسليم عن يقين أو ظنّ للمقدمتين .. شرط للزوم النتيجة
+.
+الحكم على الصفة .. حكم على الموصوف بالضرورة .
+شروط إنتاج الشكل الأول :
+الأول : إيجاب الصغرى
+- الثاني : كلية الكبرى
+- تحريجة : فما الفارقُ بين هذا الشكل والشكلين الآتيين ؟
+الشكل الثاني للقياس الاقتراني
+كل شيئين ثبت لأحدهما ما انتفى عن الآخر . . فهما متباينان
+- الشكل الثاني لا ينتج إلا القضايا السالبة
+-
+تحريجة : لِمَ لا ينتج هذا الشكل الإثبات ؟
+بيان شروط إنتاج الشكل الثاني
+الشكل الثالث من القياس الاقتراني
+فوات الحكم العام لا يمنع من إثبات الحكم الخاص
+- شرط إنتاج الشكل الثالث
+شرطان عامان لإنتاج أشكال القياس الاقتراني
+Exercise: Man is not a stone, so how is this attribute impossible?
+- The contrary of propositions and the need for it
+- Conditions for the realization of contradiction
+Union of the subject in the two propositions
+The judgment being one in them
+Union of the relation in relationals
+Their equality in potentiality and actuality
+Equality in part and whole
+Equality in time and place
+The rule for knowing the contradictory proposition
+- The two universal propositions regarding possible ratios are false
+- The two particular propositions regarding possible ratios are true - Conversion of propositions
+- When is a proposition convertible?
+- The universal negative proposition, its conversion is like itself
+- The particular negative proposition, the truth of its conversion is not always valid
+- The universal affirmative proposition converts to a particular affirmative
+- The particular affirmative proposition converts to like itself
+The second art of the touchstone of syllogism: on the intentions, and it has two parts
+The first part: on the arrangement of syllogism
+- The first pattern: the pattern of equivalence, and its arrangement from three aspects
+The categorical syllogism
+The first figure
+There must be a common term between the two premises for the conclusion to occur
+Determination of the minor and major premises
+Acceptance with certainty or conjecture of the two premises is a condition for the entailment of the conclusion
+. Judgment on the attribute is necessarily judgment on the described subject
+Conditions for the productivity of the first figure:
+First: affirmation of the minor
+- Second: universality of the major
+- Exercise: What is the difference between this figure and the following two figures?
+The second figure of the categorical syllogism
+Every two things of which one is proven what is denied of the other are then distinct
+- The second figure produces only negative propositions
+- Exercise: Why does this figure not produce affirmations?
+Explanation of the conditions for the productivity of the second figure
+The third figure of the categorical syllogism
+The absence of the general ruling does not prevent the proof of the specific ruling
+- Condition for the productivity of the third figure
+Two general conditions for the productivity of the figures of the categorical syllogism
+Source pages p. 257
+
+Commentary
+This passage is a table of contents or outline for the remaining sections of the book. It begins with a brief exercise (تحريجة) about the impossibility of a stone being attributed to man, then lists topics: the contrary of propositions (نقيض القضايا), conditions for contradiction (شروط تحقق التناقض) such as identity of subject, unity of judgment, equality in potentiality/actuality, part/whole, and time/place. It then discusses conversion of propositions (عكس القضايا), giving rules for each type: universal negative converts to universal negative, particular negative does not always convert, universal affirmative converts to particular affirmative, particular affirmative converts to itself. Then it transitions to the second art (الفن الثاني) on syllogism (القياس), with two parts: arrangement (نظم) and pattern (نمط). The first pattern is that of equivalence (التعادل) with three aspects, leading to the categorical syllogism (القياس الاقتراني). The first figure requires a common term, determination of minor and major premises, and acceptance of premises with certainty or conjecture. Conditions for the first figure: minor must be affirmative and major universal. An exercise asks the difference from the next figures. The second figure is introduced: it produces only negative conclusions, with an exercise asking why. The third figure is mentioned with the principle that absence of a general ruling does not prevent proof of a specific ruling. Two general conditions for all figures conclude the outline. This passage serves as an overview for the student to anticipate the structure of the coming lessons.
+
+Key Terms
+نقيض
+عكس
+القياس الاقتراني
+شكل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the outline, under which main topic do the rules for converting subject and predicate appear?
+A) Contradiction (نقيض)
+B) Conversion (عكس)
+C) Syllogism (قياس)
+D) The exercise (تحريجة)
+
+Key Takeaway
+This outline shows that logical reasoning proceeds from mastering contradiction, through conversion, to synthetic syllogistic arguments.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which of the three main sections (contradiction, conversion, syllogism) is most relevant to the Kalam argument that 'the world is not eternal because it is originated'.
+?
+List the conditions for contradiction as they appear in the outline and explain why each is necessary to avoid false contradictories.
+
+Pages p. 257 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 257
+Module 15 · Lesson 14
+Next →
+Immediate Inference
+intermediate
+7 min
+Conditions for Contradiction (Naqīḍ)
+Conditions for contradictory propositions
+
+Learning Objective
+By the end of this lesson, you will be able to list the six conditions for a true contradiction and apply them to evaluate whether two propositions are contradictory.
+
+Core Idea
+A true contradiction requires identity in subject, judgment, relation, potentiality, part, and time/place.
+
+Contradiction is the strongest form of opposition between propositions. The outline provides precise conditions that must all be met for two propositions to be genuine contradictories. In Islamic theology, identifying a correct contradictory is crucial for arguments about God's attributes and the world's origin.
+
+Guided Path
+1
+Identify the key condition: union of subject
+The first condition listed is 'اتحاد المحكوم عليه' (union of the subject). This means both propositions must be about exactly the same thing.
+2
+Identify the condition: unity of judgment
+The judgment (الحكم) must be one and the same; you cannot compare a statement of existence with a statement of nonexistence regarding different aspects.
+3
+Identify the condition: union of relation in relationals
+For relational propositions, the relation must be identical. For example, 'A is greater than B' and 'A is not greater than B' are contradictories only if the relation is the same.
+4
+Identify the conditions: equality in potentiality/actuality, part/whole, time/place
+The propositions must be equally about potential or actual, about the same part or whole, and at the same time and place. Any change in these aspects can make the propositions compatible rather than contradictory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تحريجة : الإنسان ليس بحجر ، فكيف نُعت هذا بالاستحالة ؟
+- نقيض القضايا والحاجة إليه
+-
+شروط تحقق التناقض
+اتحاد المحكوم عليه في القضيتين
+كون الحكم واحداً فيهما
+اتحاد الإضافة في الإضافيات
+تساويهما في القوة والفعل
+التساوي في الجزء والكل
+التساوي في الزمان والمكان
+ضابط معرفة القضية المناقضة
+- القضيتان الكليتان في نسبة الممكنات كاذبتان
+- القضيتان الجزئيتان في نسبة الممكنات صادقتان - عكس القضايا
+- متى تكون القضية منعكسة ؟
+- القضية السالبة الكلية عكسها مثلها
+- القضية السالبة الجزئية لا يطرد صدقُ عكسها
+- القضية الموجبة الكلية تنعكس موجبة جزئية
+القضية الموجبة الجزئية تنعكس مثل نفسها
+الفن الثاني من مِحَنِ القياس : في المقاصدِ ، وهوَ طرفان
+الطرف الأول : في نظم القياس
+-
+النمطُ الأَوَّلُ : نمط التعادل ، ونظمُهُ مِنْ ثلاثة أوجه
+القياس الاقتراني
+الشكل الأول
+لا بد من اشتراك بين المقدمتين لتحصل النتيجة
+تعيين المقدمتين الصغرى والكبرى
+التسليم عن يقين أو ظنّ للمقدمتين .. شرط للزوم النتيجة
+.
+الحكم على الصفة .. حكم على الموصوف بالضرورة .
+شروط إنتاج الشكل الأول :
+الأول : إيجاب الصغرى
+- الثاني : كلية الكبرى
+- تحريجة : فما الفارقُ بين هذا الشكل والشكلين الآتيين ؟
+الشكل الثاني للقياس الاقتراني
+كل شيئين ثبت لأحدهما ما انتفى عن الآخر . . فهما متباينان
+- الشكل الثاني لا ينتج إلا القضايا السالبة
+-
+تحريجة : لِمَ لا ينتج هذا الشكل الإثبات ؟
+بيان شروط إنتاج الشكل الثاني
+الشكل الثالث من القياس الاقتراني
+فوات الحكم العام لا يمنع من إثبات الحكم الخاص
+- شرط إنتاج الشكل الثالث
+شرطان عامان لإنتاج أشكال القياس الاقتراني
+Exercise: Man is not a stone, so how is this attribute impossible?
+- The contrary of propositions and the need for it
+- Conditions for the realization of contradiction
+Union of the subject in the two propositions
+The judgment being one in them
+Union of the relation in relationals
+Their equality in potentiality and actuality
+Equality in part and whole
+Equality in time and place
+The rule for knowing the contradictory proposition
+- The two universal propositions regarding possible ratios are false
+- The two particular propositions regarding possible ratios are true - Conversion of propositions
+- When is a proposition convertible?
+- The universal negative proposition, its conversion is like itself
+- The particular negative proposition, the truth of its conversion is not always valid
+- The universal affirmative proposition converts to a particular affirmative
+- The particular affirmative proposition converts to like itself
+The second art of the touchstone of syllogism: on the intentions, and it has two parts
+The first part: on the arrangement of syllogism
+- The first pattern: the pattern of equivalence, and its arrangement from three aspects
+The categorical syllogism
+The first figure
+There must be a common term between the two premises for the conclusion to occur
+Determination of the minor and major premises
+Acceptance with certainty or conjecture of the two premises is a condition for the entailment of the conclusion
+. Judgment on the attribute is necessarily judgment on the described subject
+Conditions for the productivity of the first figure:
+First: affirmation of the minor
+- Second: universality of the major
+- Exercise: What is the difference between this figure and the following two figures?
+The second figure of the categorical syllogism
+Every two things of which one is proven what is denied of the other are then distinct
+- The second figure produces only negative propositions
+- Exercise: Why does this figure not produce affirmations?
+Explanation of the conditions for the productivity of the second figure
+The third figure of the categorical syllogism
+The absence of the general ruling does not prevent the proof of the specific ruling
+- Condition for the productivity of the third figure
+Two general conditions for the productivity of the figures of the categorical syllogism
+Source pages p. 257
+
+Commentary
+This passage is a table of contents or outline for the remaining sections of the book. It begins with a brief exercise (تحريجة) about the impossibility of a stone being attributed to man, then lists topics: the contrary of propositions (نقيض القضايا), conditions for contradiction (شروط تحقق التناقض) such as identity of subject, unity of judgment, equality in potentiality/actuality, part/whole, and time/place. It then discusses conversion of propositions (عكس القضايا), giving rules for each type: universal negative converts to universal negative, particular negative does not always convert, universal affirmative converts to particular affirmative, particular affirmative converts to itself. Then it transitions to the second art (الفن الثاني) on syllogism (القياس), with two parts: arrangement (نظم) and pattern (نمط). The first pattern is that of equivalence (التعادل) with three aspects, leading to the categorical syllogism (القياس الاقتراني). The first figure requires a common term, determination of minor and major premises, and acceptance of premises with certainty or conjecture. Conditions for the first figure: minor must be affirmative and major universal. An exercise asks the difference from the next figures. The second figure is introduced: it produces only negative conclusions, with an exercise asking why. The third figure is mentioned with the principle that absence of a general ruling does not prevent proof of a specific ruling. Two general conditions for all figures conclude the outline. This passage serves as an overview for the student to anticipate the structure of the coming lessons.
+
+Key Terms
+نقيض
+اتحاد المحكوم عليه
+كون الحكم واحداً
+اتحاد الإضافة
+تساويهما في القوة والفعل
+التساوي في الجزء والكل
+التساوي في الزمان والمكان
+
+Key Terms from Source Passage
+
+Checkpoint
+Which condition for contradiction ensures that the propositions are about the same state of existence?
+A) Union of subject
+B) Equality in potentiality and actuality
+C) Unity of judgment
+D) Union of relation
+
+Key Takeaway
+A genuine contradiction requires full identity across subject, judgment, relation, modality, whole/part, and spatiotemporal context.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the two propositions: 'The world is created in time' and 'The world is not created in time'. Check each of the six conditions to determine if they are true contradictories.
+?
+Find an example from Kalam where a theologian uses these conditions to refute an opponent's claim of contradiction.
+
+Pages p. 257 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 257
+Module 15 · Lesson 15
+Next →
+Immediate Inference
+intermediate
+6 min
+Rules of Conversion ('Aks) of Propositions
+Rules for converting propositions
+
+Learning Objective
+By the end of this lesson, you will be able to apply the four rules of conversion to any categorical proposition and determine whether the converted proposition is valid.
+
+Core Idea
+Conversion swaps subject and predicate under strict rules: universal negative stays universal, universal affirmative becomes particular, etc.
+
+Conversion (عكس) is an immediate inference that interchanges subject and predicate while preserving truth. The outline provides four rules covering each type of categorical proposition. Mastering conversion is essential for restructuring arguments in usul al-fiqh and kalam.
+
+Guided Path
+1
+Recall the four types of categorical propositions
+Propositions are universal affirmative (A), universal negative (E), particular affirmative (I), particular negative (O). The outline gives rules for each.
+2
+Rule for universal negative (E)
+The outline says 'القضية السالبة الكلية عكسها مثلها' meaning the converse of a universal negative is a universal negative. Example: 'No man is stone' converts to 'No stone is man'.
+3
+Rule for universal affirmative (A)
+It says 'القضية الموجبة الكلية تنعكس موجبة جزئية': the converse of a universal affirmative is a particular affirmative. Example: 'All men are mortal' becomes 'Some mortals are men'.
+4
+Rule for particular affirmative (I) and negative (O)
+Particular affirmative (I) converts to itself (e.g., 'Some man is writer' becomes 'Some writer is man'). Particular negative (O) does not always preserve truth; conversion is not valid. Example: 'Some animal is not man' does not imply 'Some man is not animal' reliably.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تحريجة : الإنسان ليس بحجر ، فكيف نُعت هذا بالاستحالة ؟
+- نقيض القضايا والحاجة إليه
+-
+شروط تحقق التناقض
+اتحاد المحكوم عليه في القضيتين
+كون الحكم واحداً فيهما
+اتحاد الإضافة في الإضافيات
+تساويهما في القوة والفعل
+التساوي في الجزء والكل
+التساوي في الزمان والمكان
+ضابط معرفة القضية المناقضة
+- القضيتان الكليتان في نسبة الممكنات كاذبتان
+- القضيتان الجزئيتان في نسبة الممكنات صادقتان - عكس القضايا
+- متى تكون القضية منعكسة ؟
+- القضية السالبة الكلية عكسها مثلها
+- القضية السالبة الجزئية لا يطرد صدقُ عكسها
+- القضية الموجبة الكلية تنعكس موجبة جزئية
+القضية الموجبة الجزئية تنعكس مثل نفسها
+الفن الثاني من مِحَنِ القياس : في المقاصدِ ، وهوَ طرفان
+الطرف الأول : في نظم القياس
+-
+النمطُ الأَوَّلُ : نمط التعادل ، ونظمُهُ مِنْ ثلاثة أوجه
+القياس الاقتراني
+الشكل الأول
+لا بد من اشتراك بين المقدمتين لتحصل النتيجة
+تعيين المقدمتين الصغرى والكبرى
+التسليم عن يقين أو ظنّ للمقدمتين .. شرط للزوم النتيجة
+.
+الحكم على الصفة .. حكم على الموصوف بالضرورة .
+شروط إنتاج الشكل الأول :
+الأول : إيجاب الصغرى
+- الثاني : كلية الكبرى
+- تحريجة : فما الفارقُ بين هذا الشكل والشكلين الآتيين ؟
+الشكل الثاني للقياس الاقتراني
+كل شيئين ثبت لأحدهما ما انتفى عن الآخر . . فهما متباينان
+- الشكل الثاني لا ينتج إلا القضايا السالبة
+-
+تحريجة : لِمَ لا ينتج هذا الشكل الإثبات ؟
+بيان شروط إنتاج الشكل الثاني
+الشكل الثالث من القياس الاقتراني
+فوات الحكم العام لا يمنع من إثبات الحكم الخاص
+- شرط إنتاج الشكل الثالث
+شرطان عامان لإنتاج أشكال القياس الاقتراني
+Exercise: Man is not a stone, so how is this attribute impossible?
+- The contrary of propositions and the need for it
+- Conditions for the realization of contradiction
+Union of the subject in the two propositions
+The judgment being one in them
+Union of the relation in relationals
+Their equality in potentiality and actuality
+Equality in part and whole
+Equality in time and place
+The rule for knowing the contradictory proposition
+- The two universal propositions regarding possible ratios are false
+- The two particular propositions regarding possible ratios are true - Conversion of propositions
+- When is a proposition convertible?
+- The universal negative proposition, its conversion is like itself
+- The particular negative proposition, the truth of its conversion is not always valid
+- The universal affirmative proposition converts to a particular affirmative
+- The particular affirmative proposition converts to like itself
+The second art of the touchstone of syllogism: on the intentions, and it has two parts
+The first part: on the arrangement of syllogism
+- The first pattern: the pattern of equivalence, and its arrangement from three aspects
+The categorical syllogism
+The first figure
+There must be a common term between the two premises for the conclusion to occur
+Determination of the minor and major premises
+Acceptance with certainty or conjecture of the two premises is a condition for the entailment of the conclusion
+. Judgment on the attribute is necessarily judgment on the described subject
+Conditions for the productivity of the first figure:
+First: affirmation of the minor
+- Second: universality of the major
+- Exercise: What is the difference between this figure and the following two figures?
+The second figure of the categorical syllogism
+Every two things of which one is proven what is denied of the other are then distinct
+- The second figure produces only negative propositions
+- Exercise: Why does this figure not produce affirmations?
+Explanation of the conditions for the productivity of the second figure
+The third figure of the categorical syllogism
+The absence of the general ruling does not prevent the proof of the specific ruling
+- Condition for the productivity of the third figure
+Two general conditions for the productivity of the figures of the categorical syllogism
+Source pages p. 257
+
+Commentary
+This passage is a table of contents or outline for the remaining sections of the book. It begins with a brief exercise (تحريجة) about the impossibility of a stone being attributed to man, then lists topics: the contrary of propositions (نقيض القضايا), conditions for contradiction (شروط تحقق التناقض) such as identity of subject, unity of judgment, equality in potentiality/actuality, part/whole, and time/place. It then discusses conversion of propositions (عكس القضايا), giving rules for each type: universal negative converts to universal negative, particular negative does not always convert, universal affirmative converts to particular affirmative, particular affirmative converts to itself. Then it transitions to the second art (الفن الثاني) on syllogism (القياس), with two parts: arrangement (نظم) and pattern (نمط). The first pattern is that of equivalence (التعادل) with three aspects, leading to the categorical syllogism (القياس الاقتراني). The first figure requires a common term, determination of minor and major premises, and acceptance of premises with certainty or conjecture. Conditions for the first figure: minor must be affirmative and major universal. An exercise asks the difference from the next figures. The second figure is introduced: it produces only negative conclusions, with an exercise asking why. The third figure is mentioned with the principle that absence of a general ruling does not prevent proof of a specific ruling. Two general conditions for all figures conclude the outline. This passage serves as an overview for the student to anticipate the structure of the coming lessons.
+
+Key Terms
+عكس
+قضية سالبة كلية
+قضية سالبة جزئية
+قضية موجبة كلية
+قضية موجبة جزئية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the outline, what is the converse of a universal affirmative proposition?
+A) Universal affirmative
+B) Universal negative
+C) Particular affirmative
+D) Particular negative
+
+Key Takeaway
+Conversion swaps subject and predicate with specific restrictions: only universal negative remains the same type; universal affirmative becomes particular; particular negative may not preserve truth.
+
+How This Lesson Applies — to MY Life?
+?
+Convert the following propositions using the rules above: (a) 'No prayer is valid without purification' (universal negative). (b) 'Some knowledge is obligatory' (particular affirmative).
+?
+Explain why the particular negative conversion is not always valid using an Islamic example: 'Some animal is not a man' does not imply 'Some man is not an animal' because the second could be false if all men are animals.
+
+Pages p. 257 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 257
+Module 15 · Lesson 16
+Next →
+Immediate Inference
+intermediate
+8 min
+The Three Figures of Categorical Syllogism
+Three figures of categorical syllogism
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the three figures of categorical syllogism and state the productivity conditions for the first figure.
+
+Core Idea
+The categorical syllogism has three figures, each defined by the middle term's position, with the first figure being the most productive.
+
+The outline introduces the categorical syllogism (القياس الاقتراني) and its three figures (أشكال). The first figure requires an affirmative minor and a universal major to produce a conclusion. The second figure yields only negative conclusions, and the third figure allows proof of a specific ruling even when a general rule is absent. Understanding these figures is foundational for constructing valid theological proofs.
+
+Guided Path
+1
+Understand the structure of a categorical syllogism
+A categorical syllogism consists of two premises sharing a middle term, leading to a conclusion. The outline mentions 'لا بد من اشتراك بين المقدمتين لتحصل النتيجة' – the premises must share a term.
+2
+Identify the first figure and its conditions
+The first figure has two conditions: 'إيجاب الصغرى' (the minor premise must be affirmative) and 'كلية الكبرى' (the major premise must be universal). The outline also notes that the middle term is subject in one premise and predicate in the other.
+3
+Recognize the second figure's character
+The second figure is defined by the middle term being predicate in both premises. The outline states 'الشكل الثاني لا ينتج إلا القضايا السالبة' – it produces only negative conclusions. An exercise asks why it cannot produce affirmative conclusions.
+4
+Grasp the third figure's principle
+The third figure has the middle term as subject in both premises. The outline gives the principle 'فوات الحكم العام لا يمنع من إثبات الحكم الخاص' – the absence of a general ruling does not prevent proving a specific ruling. This figure is useful when a universal premise is missing.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تحريجة : الإنسان ليس بحجر ، فكيف نُعت هذا بالاستحالة ؟
+- نقيض القضايا والحاجة إليه
+-
+شروط تحقق التناقض
+اتحاد المحكوم عليه في القضيتين
+كون الحكم واحداً فيهما
+اتحاد الإضافة في الإضافيات
+تساويهما في القوة والفعل
+التساوي في الجزء والكل
+التساوي في الزمان والمكان
+ضابط معرفة القضية المناقضة
+- القضيتان الكليتان في نسبة الممكنات كاذبتان
+- القضيتان الجزئيتان في نسبة الممكنات صادقتان - عكس القضايا
+- متى تكون القضية منعكسة ؟
+- القضية السالبة الكلية عكسها مثلها
+- القضية السالبة الجزئية لا يطرد صدقُ عكسها
+- القضية الموجبة الكلية تنعكس موجبة جزئية
+القضية الموجبة الجزئية تنعكس مثل نفسها
+الفن الثاني من مِحَنِ القياس : في المقاصدِ ، وهوَ طرفان
+الطرف الأول : في نظم القياس
+-
+النمطُ الأَوَّلُ : نمط التعادل ، ونظمُهُ مِنْ ثلاثة أوجه
+القياس الاقتراني
+الشكل الأول
+لا بد من اشتراك بين المقدمتين لتحصل النتيجة
+تعيين المقدمتين الصغرى والكبرى
+التسليم عن يقين أو ظنّ للمقدمتين .. شرط للزوم النتيجة
+.
+الحكم على الصفة .. حكم على الموصوف بالضرورة .
+شروط إنتاج الشكل الأول :
+الأول : إيجاب الصغرى
+- الثاني : كلية الكبرى
+- تحريجة : فما الفارقُ بين هذا الشكل والشكلين الآتيين ؟
+الشكل الثاني للقياس الاقتراني
+كل شيئين ثبت لأحدهما ما انتفى عن الآخر . . فهما متباينان
+- الشكل الثاني لا ينتج إلا القضايا السالبة
+-
+تحريجة : لِمَ لا ينتج هذا الشكل الإثبات ؟
+بيان شروط إنتاج الشكل الثاني
+الشكل الثالث من القياس الاقتراني
+فوات الحكم العام لا يمنع من إثبات الحكم الخاص
+- شرط إنتاج الشكل الثالث
+شرطان عامان لإنتاج أشكال القياس الاقتراني
+Exercise: Man is not a stone, so how is this attribute impossible?
+- The contrary of propositions and the need for it
+- Conditions for the realization of contradiction
+Union of the subject in the two propositions
+The judgment being one in them
+Union of the relation in relationals
+Their equality in potentiality and actuality
+Equality in part and whole
+Equality in time and place
+The rule for knowing the contradictory proposition
+- The two universal propositions regarding possible ratios are false
+- The two particular propositions regarding possible ratios are true - Conversion of propositions
+- When is a proposition convertible?
+- The universal negative proposition, its conversion is like itself
+- The particular negative proposition, the truth of its conversion is not always valid
+- The universal affirmative proposition converts to a particular affirmative
+- The particular affirmative proposition converts to like itself
+The second art of the touchstone of syllogism: on the intentions, and it has two parts
+The first part: on the arrangement of syllogism
+- The first pattern: the pattern of equivalence, and its arrangement from three aspects
+The categorical syllogism
+The first figure
+There must be a common term between the two premises for the conclusion to occur
+Determination of the minor and major premises
+Acceptance with certainty or conjecture of the two premises is a condition for the entailment of the conclusion
+. Judgment on the attribute is necessarily judgment on the described subject
+Conditions for the productivity of the first figure:
+First: affirmation of the minor
+- Second: universality of the major
+- Exercise: What is the difference between this figure and the following two figures?
+The second figure of the categorical syllogism
+Every two things of which one is proven what is denied of the other are then distinct
+- The second figure produces only negative propositions
+- Exercise: Why does this figure not produce affirmations?
+Explanation of the conditions for the productivity of the second figure
+The third figure of the categorical syllogism
+The absence of the general ruling does not prevent the proof of the specific ruling
+- Condition for the productivity of the third figure
+Two general conditions for the productivity of the figures of the categorical syllogism
+Source pages p. 257
+
+Commentary
+This passage is a table of contents or outline for the remaining sections of the book. It begins with a brief exercise (تحريجة) about the impossibility of a stone being attributed to man, then lists topics: the contrary of propositions (نقيض القضايا), conditions for contradiction (شروط تحقق التناقض) such as identity of subject, unity of judgment, equality in potentiality/actuality, part/whole, and time/place. It then discusses conversion of propositions (عكس القضايا), giving rules for each type: universal negative converts to universal negative, particular negative does not always convert, universal affirmative converts to particular affirmative, particular affirmative converts to itself. Then it transitions to the second art (الفن الثاني) on syllogism (القياس), with two parts: arrangement (نظم) and pattern (نمط). The first pattern is that of equivalence (التعادل) with three aspects, leading to the categorical syllogism (القياس الاقتراني). The first figure requires a common term, determination of minor and major premises, and acceptance of premises with certainty or conjecture. Conditions for the first figure: minor must be affirmative and major universal. An exercise asks the difference from the next figures. The second figure is introduced: it produces only negative conclusions, with an exercise asking why. The third figure is mentioned with the principle that absence of a general ruling does not prevent proof of a specific ruling. Two general conditions for all figures conclude the outline. This passage serves as an overview for the student to anticipate the structure of the coming lessons.
+
+Key Terms
+القياس الاقتراني
+شكل أول
+شكل ثان
+شكل ثالث
+إيجاب الصغرى
+كلية الكبرى
+
+Key Terms from Source Passage
+
+Checkpoint
+Which condition is required for the first figure of categorical syllogism according to the outline?
+A) The minor premise must be universal
+B) The major premise must be affirmative
+C) The minor premise must be affirmative
+D) Both premises must be negative
+
+Key Takeaway
+The three figures of categorical syllogism differ by the middle term's position, and the first figure's productivity requires an affirmative minor and a universal major.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following syllogism into its figure and check if it satisfies the productivity conditions: 'All humans are mortal. All prophets are human. Therefore all prophets are mortal.' (First figure, affirmative minor, universal major – valid.)
+?
+Explain why the second figure cannot produce an affirmative conclusion using the principle given: 'كل شيئين ثبت لأحدهما ما انتفى عن الآخر فهما متباينان' (if one thing is affirmed of X and denied of Y, then X and Y are distinct, leading to a negative conclusion).
+
+Pages p. 257 · Immediate Inference
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 259
+Module 15 · Lesson 17
+Next →
+Immediate Inference
+beginner
+5 min
+The Pattern of Contradiction
+Defines the pattern of contradiction and its conditions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify contradictory propositions and determine valid inferences from their truth values.
+
+Core Idea
+Contradictories: one true, the other false – they cannot be both true or both false.
+
+The pattern of contradiction is one of the fundamental tools in Islamic logic for immediate inference. It concerns the relation between two propositions that are exact opposites in truth value. This lesson unpacks the key rule: they cannot both hold (combine) and cannot both be absent (cease). We also examine a crucial condition: the propositions must be properly restricted (quantified) for the pattern to yield a productive conclusion.
+
+Guided Path
+1
+Define contradictory propositions
+Two propositions are contradictory if one is the negation of the other in both quantity and quality. For example, 'Every A is B' and 'Some A is not B' are contradictories.
+The Arabic term is 'المتناقضان' (al-mutanaqidan).
+2
+Understand the two properties
+The passage states they 'do not combine' (لا يجتمعان) meaning they cannot both be true, and 'do not both cease to exist' (لا يرتفعان) meaning they cannot both be false. Exactly one is true and one is false.
+This is the law of non-contradiction plus excluded middle.
+3
+Apply the condition of restriction
+The phrase 'عدم الحصر يلزم عنه عدم الإنتاج عند النفي' means if the propositions are not properly restricted (i.e., not subject to proper quantification like universal/particular), then negation alone yields no productive inference. The pattern requires that the contradictory relationship be between properly quantified propositions.
+For example, if you only say 'Zayd is not standing', without a universal or particular quantifier, you cannot deduce anything productive about Zayd.
+4
+Test a pair of propositions
+Given a pair, check if they are contradictories: they must have opposite truth values in every possible scenario. Use the square of opposition as a guide.
+For Islamic examples, consider 'Every khamr is haram' and 'Some khamr is not haram' – they are contradictories.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+النمط الثالث : نمط التعاندِ المتناقضان لا يجتمعان ولا يرتفعان عدم الحصر يلزم عنه عدم الإنتاج عند النفي
+The third pattern: the pattern of contradiction. The two contradictories do not combine nor do they both cease to exist. The lack of restriction entails lack of productivity in negation.
+Source pages p. 259
+
+Commentary
+This passage introduces the third pattern of syllogism: the pattern of contradiction (namat al-ta'and). It states the fundamental law of contradiction: two contradictory propositions (al-mutanaqidan) cannot both be true (they do not combine) and cannot both be false (they do not both cease to exist). In other words, exactly one of them is true. The second line, 'the lack of restriction entails lack of productivity in negation,' likely means that if the terms are not restricted (e.g., not universal or particular in the proper way), then negation does not yield a valid inference. For example, if we only know that a proposition is not true, without knowing its relation to other propositions, we cannot conclude anything productive. The passage is compact and assumes familiarity with the rules of contradiction.
+
+Key Terms
+نمط التعاند
+المتناقضان
+عدم الحصر
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the pattern of contradiction, if 'Every khamr is haram' is false, what can be inferred?
+A) Every khamr is halal.
+B) Some khamr is not haram.
+C) No khamr is haram.
+D) Some khamr is haram.
+
+Key Takeaway
+The pattern of contradiction gives us a powerful rule: from the truth of one contradictory, we immediately know the falsity of the other, and vice versa, provided the propositions are properly quantified.
+
+How This Lesson Applies — to MY Life?
+?
+Given the proposition 'Every nabidh is intoxicating', write its contradictory and explain why they cannot both be true or both false.
+?
+Using the pattern of contradiction, if you know that 'Some khamr is not haram' is false, what can you infer about 'Every khamr is haram'?
+
+Pages p. 259 · Immediate Inference
+← Prev
+Mark Done
+Next →

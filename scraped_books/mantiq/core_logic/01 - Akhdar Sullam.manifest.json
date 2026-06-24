@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:42Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/akhdar_sullam/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/01 - Akhdar Sullam",
+  "output_bytes": 2505173,
+  "output_sha256": "633e2a65886df0bdec35ea5158c0cba04ef0107608da917b2882bdf1b52a9c37",
+  "checks": {
+    "catalog_expected_lessons": 334,
+    "course_reported_lessons": 334,
+    "index_lessons": 334,
+    "full_lessons": 334,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 268,
+    "sources": 268
+  }
+}

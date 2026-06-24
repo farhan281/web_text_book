@@ -1,0 +1,79 @@
+← Prev
+p. 332
+Module 9 · Lesson 51
+Next →
+Tasawwur and Tasdiq
+intermediate
+10 min
+The Concept of Contradictory and the Use of Equivalent Necessary
+Commentator defines nafīḍ as negation, discusses a critique, and introduces equivalent necessary.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a contradictory must be taken as an equivalent necessary rather than direct negation, and apply this to modal propositions in Islamic logic.
+
+Core Idea
+Not every direct negation is a clear proposition; contradictory is sometimes taken metaphorically via an equivalent necessary.
+
+In this passage, the commentator refines the definition of contradictory (naqīḍ). While a contradictory is commonly understood as the direct negation (rafʿ) of a proposition, a problem arises when that negation lacks a clear conceptual meaning (mafhūm muḥaṣṣal) in the mind. To resolve this, logicians invoke an equivalent necessary (lāzim musāwī) that is easier to grasp. This lesson unpacks that epistemological move and shows how it applies to modal propositions in Islamic logical works.
+
+Guided Path
+1
+Identify the definition of contradictory
+The commentator states: 'the contradictory of everything is its negation (rafʿ)'. This is straightforward: for any proposition, its contradictory is simply the denial of that proposition.
+This definition works well for non-modal categorical propositions.
+2
+Discover the problem with direct negation
+When a proposition is negated, the resulting expression may not be a standard proposition with a clear conceptual meaning (mafhūm muḥaṣṣal). For example, negating 'Every human is necessarily an animal' yields 'Not every human is necessarily an animal'—this is not a standard categorical proposition.
+The commentator cites a critique by al-Sharif that probing this issue.
+3
+Learn the solution: the equivalent necessary
+Instead of using the direct negation, logicians find a proposition that is logically equivalent to the contradictory and has a clear meaning. This equivalent necessary (lāzim musāwī) is then called the contradictory by metaphorical extension.
+For modal propositions, the equivalent necessary is often a possibility statement.
+4
+Apply to a modal rule
+The passage ends by applying this: the contradictory of the absolute necessary (e.g., 'Every A is necessarily B') is the absolute possible ('Some A is possibly not B'), which is the equivalent necessary, not the direct negation.
+This rule is central to the logic of modality in Islamic sciences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقول : أعلم أولا أن نقيض كلّ شيء رفعه، وهذا القدر كاف في أخذ النقيض لقضية قضيّة حتى أن كل قضية يكون نقيضها رفع تلك القضية.
+فإذا قلنا : كلّ إنسان حيوان بالضرورة» فنقيضها أنه ليس كذلك، وكذلك في سائر القضايا، لكن إذا رفع القضيّة فربما يكون نفس رفعها (۱) فيه مناقشة، لأن السلب شيء ونقيضه الإيجاب، وليس الإيجاب رفع السلب وإن كان مستلزماً له، بل السلب رفع الإيجاب، فالأولى أن يقال : رفع كلّ شيء نقيضه؛ إلا أن يريد بالرفع ما هو أعم من الرفع حقيقة وما هو مساو له، وبالنقيض ما هو أعم من النقيض حقيقة وما يساويه، فيظهر حينئذ صدق قوله : «نقيض كل شيء رفعه» (شريف).
+قضيّة لها مفهوم محصل معين عند العقل من القضايا المعتبرة، وربما لم يكن رفعها قضيّة لها مفهوم محصل عند العقل من القضايا، بل يكون لرفعها لازم مساو، له مفهوم محصل عند العقل من القضايا، فأخذ ذلك اللازم المساوي فأطلق اسم النقيض عليه تجوزاً، فحصل لنقائض القضايا مفهومات محصلة عند العقل، وانما حصلت تلك المفهومات، ولم يكتف بالقدر الإجمالي في أخذ النقيض ليسهل استعمالها في الأحكام.
+
+فالمراد بالنقيض في هذا الفصل أحد الأمرين : إما نفس النقيض أو لازمه المساوي.
+
+و إذا عرفت هذا فنقول : نقيض الضرورية المطلقة الممكنة العامة :
+I say: Know first that the contradictory of everything is its negation (raf'), and this much is sufficient for taking the contradictory of any proposition, even that every proposition its contradictory is the negation of that proposition. So if we say: 'Every human is an animal necessarily', its contradictory is that it is not so, and likewise in all propositions. But if the proposition is negated, sometimes its very negation [results in a proposition that does not have a definite concept]. (1) In it is a discussion: because negation (salb) is something and its contradictory is affirmation, and affirmation is not the negation of negation although it is entailed by it, rather negation is the negation of affirmation. So it is better to say: The negation of everything is its contradictory; except if by 'negation' he means what is more general than actual negation and what is equivalent to it, and by 'contradictory' what is more general than actual contradictory and what is equivalent to it, then his statement 'The contradictory of everything is its negation' becomes true. (al-Sharif). A proposition has a definite conceptualized meaning (mafhūm muḥaṣṣal) in the mind from among the considered propositions, and sometimes its negation does not have a definite conceptualized meaning in the mind from among the propositions, but rather its negation has an equivalent necessary (lāzim musāwī) that has a definite conceptualized meaning in the mind from among the propositions, so that equivalent necessary is taken and the name 'contradictory' is applied to it metaphorically. Thus the contradictories of propositions acquire definite conceptualized meanings in the mind, and these meanings are acquired and they were not content with the summary capacity in taking the contradictory to facilitate their use in rulings. So what is meant by 'contradictory' in this chapter is one of two things: either the actual contradictory or its equivalent necessary. And if you have understood this, we say: The contradictory of the absolute necessary is the absolute possible: ...
+Source pages p. 332
+
+Commentary
+This passage is a detailed epistemological discussion about the nature of contradictory (naqīḍ). The commentator begins by defining the contradictory of a proposition as its negation (raf'), which is sufficient for identification. For example, the contradictory of 'Every human is necessarily an animal' is 'It is not the case that every human is necessarily an animal.' However, a problem arises: the direct negation of a proposition may not itself be a clear proposition with a definite conceptualized meaning (mafhūm muḥaṣṣal) in the mind. For instance, negating a universal affirmative results in a statement like 'Not every human is necessarily an animal,' which is not a standard categorical proposition. To resolve this, logicians use an equivalent necessary (lāzim musāwī) that has a definite meaning, such as 'Some human is possibly not an animal.' The commentator then cites a critique (footnote from al-Sharif) that challenges the original definition: negation (salb) is one thing, and its contradictory is affirmation, not negation of negation. The critic suggests it is better to say 'the negation of everything is its contradictory' unless the terms are taken broadly. The commentator then explains that the contradictory in this chapter is taken metaphorically: either the actual contradictory or its equivalent necessary. This allows for practical use in logical reasoning. The passage concludes by reiterating the specific rule from the previous lesson: the contradictory of absolute necessary is absolute possible, but now with this refined understanding.
+
+Key Terms
+رفع
+نقيض
+لازم مساوي
+مفهوم محصل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why might one need to use an equivalent necessary for the contradictory instead of direct negation?
+A) Direct negation is too long.
+B) Direct negation may not have a clear conceptual meaning.
+C) Direct negation is always false.
+D) Direct negation changes the subject.
+
+Key Takeaway
+When the direct negation of a proposition does not yield a clear proposition, the contradictory is taken metaphorically as its equivalent necessary.
+
+How This Lesson Applies — to MY Life?
+?
+Given the modal proposition 'Every human is necessarily rational', write its contradictory as an equivalent necessary that is a standard categorical proposition.
+?
+In a debate about divine attributes, someone says 'Allah is necessarily alive'. Using the concept of lāzim musāwī, what is the correct contradictory? Explain why the direct negation would be insufficient.
+
+Pages p. 332 · Tasawwur and Tasdiq
+← Prev
+Mark Done
+Next →

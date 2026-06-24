@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:14Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/risalat_adab/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/intellectual_combat/19 - Risalat Adab",
+  "output_bytes": 758263,
+  "output_sha256": "5f3cc52c1859b07ce44050c48e89371a76020c9cc31b8106e19d7ff8716a3efb",
+  "checks": {
+    "catalog_expected_lessons": 112,
+    "course_reported_lessons": 112,
+    "index_lessons": 112,
+    "full_lessons": 112,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 8,
+    "course_reported_modules": 8,
+    "modules": 8,
+    "course_reported_sources": 94,
+    "sources": 94
+  }
+}

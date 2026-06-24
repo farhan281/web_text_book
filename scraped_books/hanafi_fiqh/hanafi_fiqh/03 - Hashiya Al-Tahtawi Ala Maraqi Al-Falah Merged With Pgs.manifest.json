@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:51:24Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Hashiya%20al-Tahtawi%20ala%20Maraqi%20al-Falah_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/03 - Hashiya Al-Tahtawi Ala Maraqi Al-Falah Merged With Pgs",
+  "output_bytes": 17594073,
+  "output_sha256": "beea08fddbd191852f05badec35c70a225589e3b8416cea586b4f6e28c523a75",
+  "checks": {
+    "catalog_expected_lessons": 1778,
+    "course_reported_lessons": 1778,
+    "index_lessons": 1778,
+    "full_lessons": 1778,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 12,
+    "course_reported_modules": 12,
+    "modules": 12,
+    "course_reported_sources": 1598,
+    "sources": 1598
+  }
+}

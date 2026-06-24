@@ -1,0 +1,1573 @@
+← Prev
+p. 185
+Module 7 · Lesson 151
+Next →
+Rational Judgments
+intermediate
+6 min
+Refutation of the Third Objection: The Supposition of the Infinite
+Al-Razi refutes the objection that the proof only applies to existing lines.
+
+Learning Objective
+By the end of this lesson, you will understand how al-Razi refutes the objection that the proof only applies to existing lines, by showing that the impossibility arises from the supposition of the infinite, not from the supposition itself.
+
+Core Idea
+A supposition of a possible thing cannot cause an impossibility; the impossibility reveals the falsehood of the supposition.
+
+Abu al-Barakat objects that the impossibilities al-Razi derived only follow if the two lines actually exist. Since they are hypothetical, the proof seems invalid. Al-Razi answers by clarifying the logical status of suppositions. This lesson unpacks his refutation and the key distinction between possible and impossible suppositions.
+
+Guided Path
+1
+Read the objection and answer
+Read the Arabic passage and its translation. Notice that the objection claims the proof only works for existing lines. Then read al-Razi's response.
+Pay attention to the structure: objection then answer.
+2
+Identify the key distinction
+Al-Razi distinguishes between a supposition of something possible and an impossible supposition. Find where he states that supposing the lines exist is not impossible.
+The phrase 'ليس من المحالات' is crucial.
+3
+Understand the logical implication
+If a supposition of a possible thing leads to an impossibility, the problem is not the act of supposing but the content being supposed. Here, the impossibility is due to the infinite line.
+This is the core of the refutation.
+4
+Apply to the overall proof
+Realize that this refutation preserves the original argument because the impossibility is tied to the infinite nature, not the hypothetical status.
+Thus the proof remains valid.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+السؤال الثالث : قال : و هذه المحالات إنما تلزم . إذا كان الخطان الموصوفان موجودين ، لكنهما ليسا موجودين بالفعل ، فالمجال المذكور غير لازم ) وجوابه : إن فرض هذين الخطين موجودين ، ليس من المحالات . وكل ما كان ممكناً ، فإنه لا يلزم من فرض وقوعه محال . فلما بينا : أنه لزم المحال من فرض وقوعها ، علمنا : أن ذلك المحال ، إنما لزم من فرض كون ذلك الخط غير متناه . فوجب أن يكون هذا الفرض باطلاً
+The third question: He said: 'These impossibilities only follow if the two described lines exist, but they do not actually exist, so the mentioned impossibility is not necessary.' And its answer: The supposition of these two lines existing is not among impossibilities. And whatever is possible, it does not necessitate an impossibility from supposing its occurrence. So when we showed that impossibility follows from supposing their occurrence, we know that that impossibility only follows from the supposition that the line is infinite. So it is necessary that this supposition be false.
+Source pages p. 185
+
+Commentary
+This passage records the third objection raised by Abu al-Barakat al-Baghdadi and Fakhr al-Din al-Razi's response. The objection claims that the contradictions in the proof only arise if the two lines (the finite and the infinite) are actually existent; since they are merely hypothetical, the impossibility is not binding. Al-Razi answers by distinguishing between the supposition of existence and actual existence. He argues: supposing these lines exist is not inherently impossible. For any possible thing, supposing its occurrence does not entail an impossibility; the impossibility must come from something else. Since we have demonstrated that an impossibility (contradiction) follows from the supposition, we know that the impossibility is due specifically to the infinite nature of the line, not to the mere supposition. Therefore, the supposition of an infinite line is false. This refutation upholds the validity of the original proof.
+
+Key Terms
+محال (impossible)
+فرض (supposition)
+موجود (existent)
+باطل (false)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Hypothetical reasoning cannot yield real conclusions; the impossibility only arises because the lines are assumed to exist.
+Correction: Al-Razi shows that the impossibility arises from the infinite nature, not from the act of supposing. A valid supposition of a possible thing does not create an impossibility; the impossibility reveals the falsehood of what is supposed.
+
+Checkpoint
+What does al-Razi argue is the source of the impossibility in the proof?
+A) The actual existence of the lines.
+B) The supposition of the lines being possible.
+C) The supposition that the line is infinite.
+D) The non-existence of the lines.
+
+Key Takeaway
+The impossibility arising from supposing an infinite line proves that the supposition of an infinite line is false, not that the proof is invalid.
+
+How This Lesson Applies — to MY Life?
+?
+What assumptions do you hold so tightly that you have never examined where they logically lead? Could any of them, if traced fully, result in an impossibility that you have ignored?
+?
+Al-Razi shows that a false supposition inevitably leads to contradiction. Is there a belief or habit in your life that, when you honestly follow its consequences, leaves you uncomfortable or spiritually stuck? Will you stop supposing it is harmless?
+?
+If a supposition of an infinite line leads to impossibility, what does that tell you about your own attempts to think of God, existence, or eternity without revelation? Where are you trusting your own imagination more than the clear arguments of reason and revelation?
+
+Pages p. 185 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 185
+Module 7 · Lesson 152
+Next →
+Rational Judgments
+intermediate
+7 min
+Establishing the Priority of Upper Tangency
+Al-Razi invokes Euclid's postulate to prove the priority of upper tangency.
+
+Learning Objective
+By the end of this lesson, you will understand how al-Razi uses Euclid's geometric postulate to demonstrate that upper tangency necessarily precedes lower tangency in his proof.
+
+Core Idea
+Geometry proves that the upper point touches first.
+
+In this passage, al-Razi completes his earlier argument by providing a geometric demonstration that upper tangency must occur before lower tangency. He invokes a fundamental postulate from Euclid and applies it to the configuration of lines and points. This lesson walks through the logic step by step.
+
+Guided Path
+1
+Understand the context
+The proof requires showing that tangency with the upper point happens before tangency with the lower point. Recognize why this is essential for the overall argument.
+2
+Apply Euclid's postulate
+Al-Razi uses Euclid's postulate that any two points can be connected by a straight line. See how this applies to the points on the line and the center of the sphere.
+Euclid's postulate is self-evident and foundational.
+3
+Visualize the coincidence
+As the finite line rotates from parallelism to tangency, it coincides with lines from the center to points on the infinite line. The coincidence with the upper point occurs first due to geometry. Drawing the figure helps.
+The order of coincidence is a geometric necessity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واعلم : أن هذا الدليل إنما يتم إذا بينا : أن المسامتة مع النقطة الفوقانية ، لا بد وأن تحصل قبل المسامنة مع النقطة التحتانية ، فنقول : الدليل عليه : أن اقليدس ذكر في مصادرة المقالة الأولى : ( إن لنا أن نصل بين كل نقطتين بخط مستقيم . وإذا كان كذلك ، فنقول : لا نقطة يمكن فرضها في الخط الذي لا نهاية له ، إلا ويمكننا أن نصل بينها وبين مركز الكرة ، التي منها خرج ذلك الخط المتناهي بخط مستقيم ) . إذا عرفت هذا ، فنقول : إن ذلك الخط المتناهي ، إذا زال عن الموازاة إلى المسامتة . فإذا سامت نقطة ، انطبق ذلك الخط على الخط الواصل بين تلك النقطة ، وبين مركز الكرة ويكون انطباقه على الخط الواصل بين النقطة الفوقانية وبين مركز الكرة قبل انطباقه على الخط الواصل بين النقطة التحتانية ، وبين مركز الكرة. ومن أراد أن يشاهد ذلك ، فليشكل هذا الشكل ، حتى يجد ما ذكرناه : محسوساً . وذلك يدل على أن المسامتة الفوقانية ، تكون متقدمة على المسامتة مع النقطة التحتانية . فهذا تمام الكلام في تقرير هذه الحجة
+And know: that this proof is only complete when we show that the tangency with the upper point must occur before the tangency with the lower point. So we say: the proof for it is that Euclid mentioned in the first postulate of Book I: 'We can connect between any two points with a straight line.' And if that is so, we say: there is no point that can be supposed in the line that has no end except that we can connect between it and the center of the sphere from which that finite line emerged with a straight line. When you know this, we say: that finite line, when it deviates from parallelism to tangency, and when it becomes tangent to a point, that line coincides with the line connecting that point and the center of the sphere, and its coincidence with the line connecting the upper point and the center of the sphere is before its coincidence with the line connecting the lower point and the center of the sphere. And whoever wants to observe that, let him draw this figure until he finds what we mentioned as sensible. And that indicates that the upper tangency is prior to the tangency with the lower point. This is the completion of the discourse on establishing this argument.
+Source pages p. 185
+
+Commentary
+This passage provides an additional geometrical proof to establish the priority of upper tangency over lower tangency, which is crucial for the earlier reductio argument. Al-Razi invokes Euclid's postulate that any two points can be joined by a straight line. He then notes that for any point on the infinite line, we can connect it to the center of the sphere (from which the finite line originates). As the finite line rotates from parallelism to tangency, it will coincide with the line from the center to a given point on the infinite line. Since the line to the upper point makes a smaller angle with the finite line than the line to the lower point, the coincidence (and thus tangency) occurs first for the upper point. This is presented as a self-evident geometrical fact that can be checked by drawing the figure. The priority is thereby established, completing the earlier argument against an infinite line.
+
+Key Terms
+مسامتة (tangency)
+خط مستقيم (straight line)
+مركز الكرة (center of the sphere)
+انطباق (coincidence)
+اقليدس (Euclid)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think this is an empirical argument based on observation or experiment.
+Correction: It is a geometric demonstration based on self-evident postulates, not empirical observation.
+
+Checkpoint
+What does al-Razi use to prove the priority of upper tangency?
+A) A physical experiment.
+B) An astronomical observation.
+C) Euclid's postulate on connecting points.
+D) The definition of an infinite line.
+
+Key Takeaway
+Al-Razi completes his argument by showing, via Euclid's postulate, that upper tangency necessarily precedes lower tangency.
+
+How This Lesson Applies — to MY Life?
+?
+Al-Razi invites the reader to 'draw this figure until he finds what we mentioned as sensible.' Have you ever taken the time to truly grasp a proof or argument in your faith until it became personally evident? What keeps you from doing so in matters of theology?
+?
+The proof shows that a fundamental geometric postulate leads to an unavoidable priority in physical reality. Is there a truth in your life that you have resisted accepting even though it is rationally necessary? Will you submit to it today?
+
+Pages p. 185 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 186
+Module 7 · Lesson 153
+Next →
+Rational Judgments
+intermediate
+10 min
+Objection: The Proof Implies Infinite Dimensions
+An opponent argues that al-Razi's proof implies infinite dimensions outside the world.
+
+Learning Objective
+By the end of this lesson, you will understand a geometrical objection to al-Razi's argument for the finitude of the world: that the same reasoning can be used to prove the opposite conclusion—that dimensions extend infinitely.
+
+Core Idea
+An objection turns al-Razi's own geometry on its head to argue for infinite dimensions.
+
+Having presented al-Razi's proof for the finitude of the world, the text now records an objection from an opponent. The opponent argues that al-Razi's own geometrical reasoning is more fitting to prove that dimensions are infinite, not finite. This objection uses a detailed construction involving the world's axis and angles to show that points must exist outside the world. As you read, pay attention to how the objection mirrors al-Razi's own method.
+
+Guided Path
+1
+Read the objection carefully
+Read the Arabic and translation. Understand that the opponent is not denying the logical structure, but applying it differently. Notice the key terms: محور العالم (axis of the world), زاوية (angle), خارج العالم (outside the world).
+The opponent is using the same sphere (the world) and axis.
+2
+Identify the geometrical construction
+Trace the construction: from the sphere's center, a finite line; on it a parallel line to the axis; the parallel line inclines to become tangent, creating an angle. The angle is divisible, so a narrower angle leads to a point beyond the axis end. This implies points outside the world.
+The opponent is using divisibility of angles to extend beyond the world.
+3
+Understand the rhetorical force
+Note the opponent's claim that denying this is 'obstinate denial' (مكابرة) of self-evident truths. This shows the strength of the objection. Also note that the passage ends abruptly, and the response is not included in this lesson.
+This is the end of the discussion of this set of proofs.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولقائل أن يقول : هذه الحجة بأن تدل على أنه لا نهاية للأبعاد : أولى . وبيانه : إن أعظم الخطوط المستقيمة ، هو محور العالم . فلنفرض الكرة التي ذكرتموها وهي عين كرة العالم - خرج من مركزها خط متناه ، وقام على ذلك الخط المتناهي خط آخر ، موازي لمحور العالم . فإذا فرضنا أن ذلك الخط الموازي للمحور ، مال إلى المحور ، حتى صار مسامتاً له . فقد حدثت زاوية . بسبب ميل هذا الخط عن تلك الموازاة، إلى هذه المسامتة . ولا شك أن تلك الزاوية قابلة للقسمة . فالخط الخارج على زاوية أضيق منها ، يكون طرفه لا محالة مسامتاً لنقطة فوق طرف محور العالم . وذلك يدل على حصول أبعاد ، يفترض فيها نقط في خارج العالم . وذلك ضد غرضكم ، ونقيض مطلوبكم . فإن قلتم في هذه الصورة : إنها على هذا التقدير لا تسامت شيئاً . كان ذلك مكابرة في الضروريات. لأن صريح العقل شاهد بأنه إذا خرج هذا الخط على الاستقامة . فإن طرفه يقع خارج العالم لا محالة . فهذا منتهى الكلام في حكاية دلائل القائلين بوجوب
+And one may say: This argument is more fitting to indicate that there is no end to dimensions. And its explanation: The greatest of straight lines is the axis of the world. So let us suppose the sphere you mentioned – which is the very sphere of the world – there emerges from its center a finite line, and upon that finite line stands another line, parallel to the axis of the world. So if we suppose that line parallel to the axis inclines toward the axis until it becomes tangent to it, then an angle occurs due to the inclination of this line from that parallelism to this tangency. And there is no doubt that that angle is divisible. So the line emerging at a narrower angle than that will have its endpoint inevitably tangent to a point above the endpoint of the world's axis. And that indicates the occurrence of dimensions in which points are supposed outside the world. And that is contrary to your purpose and the opposite of your desired conclusion. And if you say in this situation that upon this supposition it does not become tangent to anything, that is an obstinate denial of self-evident truths. Because clear reason witnesses that when this line emerges straight, its endpoint falls outside the world inevitably. This is the end of the discourse on relating the proofs of those who affirm the necessity
+Source pages p. 186
+
+Commentary
+This passage presents a counterargument to al-Razi's proof. An opponent claims that the same reasoning actually proves the infinity of dimensions (that the universe extends infinitely) rather than finitude. The opponent uses the world's axis as the largest straight line. They construct a scenario: from the sphere's center (the world sphere), a finite line emerges, and a parallel line stands on it. As this parallel line inclines to become tangent to the axis, it creates an angle. Since the angle is divisible, a line at a narrower angle will be tangent to a point beyond the axis end, implying points outside the world. This would mean infinite extension, contradicting the intended finitude. The opponent warns that denying this is obstinate denial of the self-evident, for reason clearly shows the line's endpoint would fall outside the world. The passage ends the discussion of this set of proofs. The text then breaks off, indicating this is the conclusion of the section on the proofs of those who affirm the necessity (of finitude or something else).
+
+Key Terms
+لا نهاية للأبعاد (infinity of dimensions)
+محور العالم (axis of the world)
+زاوية (angle)
+خارج العالم (outside the world)
+مكابرة (obstinate denial)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One may think that the opponent's argument is the author's own view.
+Correction: This argument is presented as an objection to be refuted, not as the author's position. The author likely responds on a later page.
+
+Checkpoint
+What does the opponent claim the argument actually proves?
+A) The finitude of the world.
+B) The impossibility of an infinite line.
+C) The infinity of dimensions beyond the world.
+D) The correctness of Abu al-Barakat's objection.
+
+Key Takeaway
+This objection uses al-Razi's own method to argue for infinite dimensions, turning his proof against itself.
+
+How This Lesson Applies — to MY Life?
+?
+When you encounter a counterargument that uses your own logic against you, do you automatically dismiss it or do you honestly evaluate its strength? This objection turns al-Razi's own method against him. If you were al-Razi, would you have the intellectual humility to reconsider your proof, or would you insist it is flawed? What does your reaction reveal about your attachment to your own conclusions?
+?
+The opponent warns that denying the geometric implication is 'obstinate denial of self-evident truths.' Are there areas in your life where you refuse to accept what is clearly evident because it conflicts with what you want to believe? Commit to examining one such area honestly this week, and ask God for guidance to see the truth even when it is uncomfortable.
+
+Pages p. 186 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 186
+Module 7 · Lesson 154
+Next →
+Rational Judgments
+intermediate
+10 min
+Objection to Finitude Proof Refuted by Clear Reason
+Objection and refutation using self-evident reason.
+
+Learning Objective
+By the end of this lesson, you will understand the structure of a kalam objection and how self-evident truths are used to refute a sophisticated geometrical argument against the finitude of dimensions.
+
+Core Idea
+A clever geometrical objection collapses before the clear witness of reason.
+
+Sanusi now presents a powerful objection against the proof for the finitude of dimensions. The objector attempts to turn the argument on its head, claiming the proof actually shows dimensions are infinite. By constructing a scenario with the world's axis and parallel lines, he forces a contradiction. But as you will see, the answer appeals to self-evident truths of reason, which cannot be denied.
+
+Guided Path
+1
+Read the objection carefully
+Read the Arabic passage once to get the flow of the argument. Then read the translation. Notice the objector's main claim: the proof is more fitting to show that dimensions have no end.
+The objector uses the very same proof structure to argue the opposite.
+2
+Understand the geometrical scenario
+The objector constructs a scenario involving the world's axis, a finite line from the center, a parallel line, and an inclination. Visualize the geometry: the axis is the greatest straight line; a finite line from the center; another line parallel to the axis; then it inclines to become aligned, creating a divisible angle.
+The key move is that a line at a narrower angle will align with a point beyond the world's axis endpoint, implying outer dimensions.
+3
+Identify the conclusion and the anticipated reply
+The objector concludes that this indicates dimensions outside the world, contrary to the finitude claim. Then he anticipates a possible response: that the line does not align with anything. He calls this obstinacy against self-evident truths and invokes 'clear reason' to assert that the straight line's endpoint must fall outside.
+This shows how kalam uses self-evident principles to settle disputes.
+4
+Reflect on the lesson's doctrinal import
+This passage demonstrates that rational necessity ('clear reason') is a valid tool in kalam to refute objections that appear logical but contradict basic intuitions. The objector's argument is rejected not by another proof but by appealing to what is self-evidently true.
+This reinforces the authority of 'aql (reason) in Islamic theology.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولقائل أن يقول : هذه الحجة بأن تدل على أنه لا نهاية للأبعاد : أولى . وبيانه : إن أعظم الخطوط المستقيمة ، هو محور العالم . فلنفرض الكرة التي ذكرتموها وهي عين كرة العالم - خرج من مركزها خط متناه ، وقام على ذلك الخط المتناهي خط آخر ، موازي لمحور العالم . فإذا فرضنا أن ذلك الخط الموازي للمحور ، مال إلى المحور ، حتى صار مسامتاً له . فقد حدثت زاوية . بسبب ميل هذا الخط عن تلك الموازاة، إلى هذه المسامتة . ولا شك أن تلك الزاوية قابلة للقسمة . فالخط الخارج على زاوية أضيق منها ، يكون طرفه لا محالة مسامتاً لنقطة فوق طرف محور العالم . وذلك يدل على حصول أبعاد ، يفترض فيها نقط في خارج العالم . وذلك ضد غرضكم ، ونقيض مطلوبكم فإن قلتم في هذه الصورة : إنها على هذا التقدير لا تسامت شيئاً . كان ذلك مكابرة في الضروريات. لأن صريح العقل شاهد بأنه إذا خرج هذا الخط على الاستقامة . فإن طرفه يقع خارج العالم لا محالة
+And an objector may say: This proof is more fitting to indicate that there is no end to dimensions. Its explanation: The greatest of straight lines is the axis of the world. So let us suppose the sphere you mentioned, which is the very sphere of the world – a finite line emerges from its center, and upon that finite line stands another line parallel to the axis of the world. If we suppose that line parallel to the axis inclines towards the axis until it becomes aligned with it, then an angle occurs due to the inclination of this line from that parallelism to this alignment. There is no doubt that this angle is divisible. The line emerging at a narrower angle will inevitably have its endpoint aligned with a point above the endpoint of the world's axis. That indicates the occurrence of dimensions in which points are supposed outside the world. That is contrary to your purpose and the opposite of your aim. If you say in this situation that on this supposition it does not align with anything, that would be obstinacy concerning self-evident truths. For clear reason witnesses that if this line goes out straight, its endpoint necessarily falls outside the world.
+Source pages p. 186
+
+Commentary
+This passage presents an objection and its answer regarding a proof for the finitude of dimensions. The objector argues that the proof actually implies that dimensions are infinite. He constructs a scenario: the greatest straight line is the world's axis; suppose a sphere (the world) with a finite line from its center, and another line parallel to the axis. If the parallel line inclines to align with the axis, an angle results which is divisible. A line at a narrower angle would align with a point beyond the world's axis endpoint, implying dimensions outside the world—contradicting the finitude claim. The objector then anticipates a possible reply: that on this supposition, the line does not align with anything. He dismisses this as obstinacy against self-evident truths, because clear reason dictates that the endpoint of the straight line would lie outside the world. Thus, the objection attempts to turn the proof against itself, and the answer firmly appeals to rational necessity.
+
+Key Terms
+مسامتة (alignment)
+موازاة (parallelism)
+زاوية (angle)
+ضروريات (self-evident truths)
+صريح العقل (clear reason)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: That the objector's argument successfully proves that dimensions are infinite.
+Correction: The objector's scenario is rejected because it contradicts self-evident truths of reason; the proof for finitude remains valid.
+
+Checkpoint
+According to the objector, what does the proof for finitude actually indicate?
+A) That dimensions are finite
+B) That dimensions have no end
+C) That the world is spherical
+D) That angles are indivisible
+
+Key Takeaway
+The objector's geometrical argument is refuted not by another proof but by appealing to clear rational intuition that a straight line extending from the world's axis must go beyond it.
+
+How This Lesson Applies — to MY Life?
+?
+What self-evident truth about Allah—such as His existence, oneness, or justice—have you been evading because a clever objection from your own mind seemed more convincing? Will you now submit to clear reason, or continue in obstinacy?
+?
+The objector's argument was refuted not by a complex proof but by an appeal to what your own mind already knows. Is there an area of your life—your character, your worship, your relationships—where you are manufacturing objections to avoid facing a truth you already recognize? What would it cost you to surrender to that truth today?
+?
+The passage warns against 'obstinacy concerning self-evident truths.' Before Allah, are there clear signs of guidance (in the Qur'an, in your conscience, in the world) that you have been resisting? Will you stop rationalizing and let your heart accept what your reason already sees?
+
+Pages p. 186 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 187
+Module 7 · Lesson 155
+Next →
+Rational Judgments
+intermediate
+6 min
+The First Argument for Infinite Dimensions: Self-Evident Directions
+First argument: at the world's edge, reason distinguishes directions, proving space beyond.
+
+Learning Objective
+By the end of this lesson, you will understand how the first argument for infinite dimensions uses the self-evident distinction of directions at the world's boundary to prove the existence of space beyond, and how its proponents defend this judgment against the objection that it stems from imagination.
+
+Core Idea
+At the world's edge, reason's distinction of directions proves space beyond.
+
+This passage presents the first argument from those who believe dimensions are infinite. They propose a thought experiment: if we stand at the edge of the physical world, our reason necessarily distinguishes front from back and right from left. This self-evident judgment, they claim, proves that there must be space beyond. But is this judgment truly from reason, or from imagination? The argument anticipates and refutes this objection with a logical analysis, and then strengthens its case by comparing the degree of certainty.
+
+Guided Path
+1
+Read the argument and thought experiment
+Read the Arabic passage and translation. Notice the scenario: standing at the edge of the world. Identify the claim that reason judges directions.
+The argument treats this judgment as self-evident (badīhī).
+2
+Follow the objection and its refutation
+The opponent objects that the certainty comes from imagination, not reason. The refutation uses a dilemma: if knowledge that it's from imagination is necessary, it cannot coexist with the certainty; if theoretical, it creates circularity.
+This is a key logical move.
+3
+Examine the strengthening point
+The author adds that the certainty about directions is stronger than the premises used to prove finitude, so reason should follow the stronger certainty.
+This appeals to the principle of preferring the preponderant.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الأولى : قالوا : إنا لو فرضنا أنفسنا على طرف العالم الجسماني ، فإن صريح عقلنا يحكم بأنا في تلك الحالة نميز بين قدامنا وخلفنا ، ويميننا ويسارنا . ولا يمكننا أن نشكك أنفسنا في هذه القضية . كما أنه لا يمكننا أن نشكك أنفسنا في سائر البديهيات . فلو جاز الطعن في هذا الجزم ، لجاز أيضاً في كل ما يجزم به العقل . وحينئذ تلزم السفسطة . ولا يقال : إن هذا الجزم إنما جاء من قبل الوهم والخيال ، لا من قبل العقل . لأنا نقول : علمنا بأن هذا الجزم إنما جاء من قبل الوهم والخيال ، مع علمنا بأن حكم الوهم والخيال كاذب : أما أن يكون علماً ضرورياً أو نظرياً . فإن كان الأول : امتنع مع حصول ذينك العلمين ، حصول الجزم والقطع في هذه القضية . وقد فرضنا حصوله . وإن كان الثاني فحينئذ تتوقف صحة البديهيات على النظريات. ولا شك أن النظريات موقوفة على البديهيات . فيلزم الدور وهو محال ومما يقوي هذا الدليل : إنا إذا عرضنا على عقولنا : أنا عند الوقوف على طرف العالم ، لا بد وأن نميز جانب القدام عن جانب الخلف ، وعرضنا أيضاً على عقولنا تلك المقدمات، التي ركبتم دلائلكم في وجوب تناهي الأبعاد عليها . فإنا وجدنا جزم العقل بتلك القضية ، أقوى وأكمل من جزمها بتلك القضايا ، التي ركبتم دلائلكم في وجوب تناهي الأبعاد عليها . والعقل يوجب ترجيح الراجح على المرجوح . فكان الرجوع إلى هذه القضية أولى من الرجوع إلى تلك الوجوه المتكلفة ، والمقدمات المتعسفة .
+The first argument: They said: If we suppose ourselves at the edge of the physical world, then our clear reason judges that in that state we distinguish between our front and back, and our right and left. And we cannot doubt ourselves in this proposition, just as we cannot doubt ourselves in other self-evident truths. So if it were permissible to impugn this certainty, then it would also be permissible regarding everything that reason affirms, and then sophistry would follow. And let it not be said that this certainty comes only from illusion and imagination, not from reason. For we say: Our knowledge that this certainty comes only from illusion and imagination, along with our knowledge that the judgment of illusion and imagination is false – either it is necessary knowledge or theoretical. If the first, then it is impossible that with the occurrence of those two knowledges, certainty and decisiveness occur in this proposition, whereas we have supposed its occurrence. And if the second, then the validity of self-evident truths depends on theoretical matters, and there is no doubt that theoretical matters depend on self-evident truths, leading to circularity, which is impossible. And what strengthens this proof is that if we present to our minds that when standing at the edge of the world we must distinguish the front side from the back side, and also present to our minds those premises upon which you constructed your proofs for the necessary finitude of dimensions, we find the mind's certainty in that proposition stronger and more complete than its certainty in those propositions upon which you constructed your proofs for the necessary finitude of dimensions. And reason requires giving precedence to the preponderant over the less preponderant. So resorting to this proposition is more fitting than resorting to those strained aspects and forced premises.
+Source pages p. 187
+
+Commentary
+This passage presents the first argument of those who claim that dimensions are infinite. The proponents propose a scenario: if we imagine ourselves at the edge of the physical world, our clear reason necessarily distinguishes front/back and right/left. This judgment is self-evident, like all self-evident truths. If we reject this certainty, we would have to reject all rational certainties, leading to sophistry (safsata). They then refute a potential objection: that this certainty comes from imagination, not reason. They argue that if we know that the certainty is from imagination and that imagination is false, that knowledge would either be necessary or theoretical. If necessary, it cannot coexist with the certainty of the original judgment (which we have supposed). If theoretical, then self-evident truths would depend on theoretical matters, creating a vicious circle. They strengthen the argument by comparing the strength of certainty: the judgment about front/back at the world's edge is stronger than those premises used to prove finitude, and reason should follow the stronger certainty. Thus, the first argument claims that the self-evident distinction of directions at the world's boundary proves the existence of space beyond, implying infinite dimensions.
+
+Key Terms
+بديهيات
+سفسطة
+وهم
+خيال
+دور
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The certainty about directions at the world's edge comes from imagination, not reason.
+Correction: The argument refutes this by showing that if that were true, it would lead to contradiction or circularity; thus the judgment must be from reason.
+
+Checkpoint
+What does the first argument use as its basis for proving infinite dimensions?
+A) The impossibility of a vacuum
+B) The self-evident distinction of directions at the world's edge
+C) The divisibility of angles
+D) The necessity of a creator
+
+Key Takeaway
+The first argument for infinite dimensions relies on the self-evident rational judgment of distinguishing directions at the world's boundary, defended against the charge of imagination and strengthened by its superior certainty.
+
+How This Lesson Applies — to MY Life?
+?
+When you face a truth that your reason affirms clearly but your heart resists, do you side with reason or with your feelings? This argument shows that denying a self-evident truth leads to total skepticism. Is there an area of your faith where you have been rationalizing doubt rather than accepting what is clear? Will you commit today to trust the self-evident truths Allah has placed in your fitra, even when they are uncomfortable?
+?
+Have you ever dismissed a truth because it seemed to come from illusion or imagination? This argument warns that such dismissal can lead to circular reasoning. Think of a time you rejected a clear religious command because it felt 'too emotional' or 'not rational enough'. Was it really from illusion, or was it from your reason? How can you test the source of your certainties?
+?
+The argument claims that the certainty of distinguishing directions is stronger than the premises of arguments for finitude. In your life, you often face competing certainties—Islamic teachings versus worldly ideologies. Which certainties are you building your life on? Are you giving precedence to the stronger, self-evident truths of revelation and reason, or to weaker, strained arguments from culture and desire? What is one change you will make today to align with the stronger certainty?
+
+Pages p. 187 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 191
+Module 7 · Lesson 156
+Next →
+Rational Judgments
+beginner
+5 min
+First Argument for Bodies' Similarity and Its Refutation
+Al-Razi presents and critiques the first argument for tamathul al-ajsam.
+
+Learning Objective
+By the end of this lesson, you will understand why sharing certain properties does not prove that bodies have the same essence, according to al-Razi.
+
+Core Idea
+Sharing properties does not prove shared essence.
+
+The question of whether all bodies are alike in essence is a key debate in kalam. Al-Razi presents one argument that claims bodies are equal because they all occupy space and receive accidents. However, he quickly shows that this reasoning is flawed. In this lesson, we will see his critique and learn why shared properties are only concomitants, not indicators of essence.
+
+Guided Path
+1
+Read the passage
+Read the Arabic passage and its translation to get a sense of the argument and refutation.
+Notice the structure: first the argument, then al-Razi's response.
+2
+Identify the argument's structure
+Break down the argument: all bodies share being occupiers of spaces and receptive to accidents; therefore they are equal in quiddity.
+What is the conclusion? What are the premises?
+3
+Understand the refutation
+Al-Razi calls it 'far-fetched' and explains that the shared properties are merely necessary concomitants, not the essence itself. Equality in concomitants does not imply equality in quiddity.
+Think of examples: fire and water both cause heat (shared property) but have different essences.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الأول : إن الأجسام متساوية في كونها شاغلة للأحياز ، وفي كونها قابلة للأعراض . وإذا حصل الاستواء في هذه المعاني ، فقد حصل الاستواء في تمام الماهية. وهذا بعيد . لأن كونها شاغلة للأحياز، وقابلة للأعراض : لوازم لتلك الذوات وأحكام لها . والاستواء في اللوازم والأحكام لا يدل على الاستواء في تمام الماهية . لما ثبت : أن الأشياء المختلفة ، لا يبعد اشتراكها في اللوازم
+The first [way]: Bodies are equal in being occupiers of spaces and in being receptive to accidents. If equality is obtained in these meanings, then equality in the entirety of quiddity is obtained. But this is far-fetched. Because their being occupiers of spaces and receptive to accidents are necessary concomitants (lawazim) of those essences and properties (ahkam) of them. Equality in concomitants and properties does not indicate equality in the entirety of quiddity, since it is established that different things are not far from sharing in concomitants.
+Source pages p. 191
+
+Commentary
+This passage is an argument-and-refutation unit. Al-Razi presents the first way (al-awwal) that people have used to prove that bodies are similar in essence. The argument states that all bodies share the properties of occupying space and being receptive to accidents; therefore they must be equal in the entirety of their quiddity. Al-Razi then critiques this as 'far-fetched' (ba'id). He explains that the properties of being occupiers of spaces and receptive to accidents are merely necessary concomitants (lawazim) and properties (ahkam) of the essences, not the essences themselves. Equality in such concomitants and properties does not entail equality in quiddity. He gives the general principle: different things can share the same concomitants, so the inference is invalid.
+
+Key Terms
+شاغلة للأحياز (occupying spaces)
+قابلة للأعراض (receptive to accidents)
+لوازم (necessary concomitants)
+أحكام (properties)
+تمام الماهية (entirety of quiddity)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: If two things share all observable properties, they must have the same essence.
+Correction: Al-Razi explains that shared properties are merely concomitants, not the essence itself. Different essences can share the same concomitants.
+
+Checkpoint
+Why does al-Razi reject the first argument for the similarity of bodies?
+A) Because bodies do not actually occupy space
+B) Because shared properties are just concomitants, not evidence of shared essence
+C) Because bodies are not receptive to accidents
+D) Because equality in properties entails equality in essence
+
+Key Takeaway
+Al-Razi demonstrates that shared properties are mere concomitants and do not prove that bodies share the same essence.
+
+How This Lesson Applies — to MY Life?
+?
+Think of someone you judge based solely on their outward actions (like prayer or charity). This lesson teaches that external properties are merely concomitants, not the essence. How does that challenge your assessment of them? Will you change how you perceive their inner faith?
+?
+Consider a sin you commit repeatedly. Does sharing that sin with others make you conclude that you are essentially no different from them? This lesson shows that shared properties do not define essence. How can this truth free you to seek repentance without despair?
+?
+Al-Razi says different essences can share the same concomitants. Are you tempted to define your own worth by external achievements? How does this lesson call you to look beyond your outward resume to your inner reality with Allah?
+
+Pages p. 191 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 191
+Module 7 · Lesson 157
+Next →
+Rational Judgments
+beginner
+4 min
+Second Argument for Bodies' Similarity and Its Refutation
+Al-Razi presents and critiques the second argument from division of bodies.
+
+Learning Objective
+By the end of this lesson, you will understand al-Razi's refutation of the argument from division for the similarity of bodies, and why the analogy with attributes reveals an infinite regress.
+
+Core Idea
+Division of bodies does not prove their similarity—analogy with attributes shows absurdity.
+
+Al-Razi continues his critique by tackling the second argument for bodies' similarity, which relies on division into types. He shows that this argument is weak because the same reasoning leads to absurd consequences when applied to attributes. Let's explore both the argument and its refutation.
+
+Guided Path
+1
+Read the passage
+Read the Arabic passage once without analyzing it. Then read the translation. Notice the two parts: the argument and the refutation.
+2
+Understand the argument
+Identify how the proponents argue: bodies can be divided into various types, and the common subject of division implies a single concept of body. This is their desired conclusion.
+3
+Analyze the refutation
+Al-Razi uses an analogy with attributes: if we similarly divide attributes, they would all be equal in being attributes, and their differences would require further attributes, leading to an infinite regress (tasalsul). This is impossible, so the original argument fails.
+Infinite regress is a logical absurdity in kalam.
+4
+Reflect on the absurdity
+Ask yourself why an infinite regress is considered impossible. Then connect this to why the argument from division is weak.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثاني : قالوا : الجسم يمكن تقسيمه إلى الفلكي والعنصري ، وإلى اللطيف والكثيف ، وإلى الحمار والبارد ، والأرضي والناري . ومورد التقسيم مشترك فيه بين جميع الأقسام . فكونه جسماً مفهوم واحد مشترك بين الكل . وهو المطلوب .
+وهذا أيضاً ضعيف . لأنه يمكن أيضاً تقسيم الصفة إلى الصفة الروحانية والصفة الجسمانية ، وإلى اللون والطعم والرائحة. وهذا يقتضي كون الصفات متساوية في كونها صفات ، وأن يقع اختلافها بسبب صفات أخرى . ويلزم التسلسل ، وهو محال .
+The second [way]: They said: A body can be divided into celestial and elemental, into subtle and dense, into hot and cold, and into earthly and fiery. The subject of division is shared among all the divisions. So its being a body is a single concept common to all. That is the desired conclusion.
+This too is weak. Because it is also possible to divide attribute into spiritual attribute and corporeal attribute, and into color, taste, and smell. This would require that attributes are equal in being attributes, and that their difference occurs due to other attributes, leading to infinite regress (tasalsul), which is impossible.
+Source pages p. 191
+
+Commentary
+This passage is another argument-and-refutation unit. Al-Razi presents the second way (al-thani) for proving tamathul al-ajsam. The argument is based on division: a body can be divided into various types (celestial/elemental, subtle/dense, hot/cold, earthy/fiery). The common subject of these divisions is the concept of 'body' itself, which is shared by all divisions. Therefore, the concept of body is a single common concept, implying similarity in quiddity. Al-Razi dismisses this as weak (da'if) by drawing an analogy with attributes. He argues that one could similarly divide attribute into spiritual and corporeal, or into color, taste, and smell. This would imply that all attributes are equal in being attributes, and that their differences arise from other attributes—leading to an infinite regress (tasalsul), which is absurd. Thus, the argument fails because its structure would lead to an absurd consequence if applied analogously.
+
+Key Terms
+تقسيم
+الفلكي والعنصري
+اللطيف والكثيف
+الحمار والبارد
+الأرضي والناري
+مورد التقسيم
+التسلسل
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that division of a genus into species proves a common essence across all species.
+Correction: Al-Razi shows that the same reasoning applied to attributes leads to an infinite regress, which is absurd. Thus, division alone does not prove a shared essence; the argument is weak.
+
+Checkpoint
+How does al-Razi refute the second argument for the similarity of bodies?
+A) By denying that bodies can be divided
+B) By showing the same reasoning would lead to infinite regress when applied to attributes
+C) By claiming bodies are not actually similar
+D) By offering a different division of bodies
+
+Key Takeaway
+The argument from division fails because analogous reasoning applied to attributes leads to an infinite regress, proving it unsound.
+
+How This Lesson Applies — to MY Life?
+?
+If you were debating someone who presented the second argument, would you have spotted the flaw that al-Razi highlighted? Think of a time you accepted a seemingly logical argument without testing it by analogy. What stopped you from digging deeper, and how can you cultivate that habit starting today?
+?
+Al-Razi's refutation shows that a plausible argument can lead to an absurd conclusion when applied consistently. Is there a belief or behavior you tolerate in your own life that, if consistently applied to all situations, would lead to absurdity or harm? Will you examine it today?
+?
+The passage refutes an argument about bodies. But consider: are there areas where you assume your reasoning is self-evident yet you never subject it to the same scrutiny? When will you take the time to apply al-Razi's method of testing your own assumptions?
+
+Pages p. 191 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 191
+Module 7 · Lesson 158
+Next →
+Rational Judgments
+beginner
+5 min
+Two Arguments for Body Equality and Their Refutations
+Presents and refutes two arguments for body equality in quiddity.
+
+Learning Objective
+By the end of this lesson, you will understand two common arguments for the equality of bodies in quiddity and the critical flaws that render them invalid.
+
+Core Idea
+Sharing properties does not prove sharing essence.
+
+In this passage, the author addresses a foundational issue in Islamic theology: whether all bodies are equal in their quiddity (essence). He presents two arguments that might be used to support this claim and then refutes each one, showing that equality in certain attributes does not prove equality in essence. This lesson will walk through each argument and its refutation.
+
+Guided Path
+1
+Read the passage carefully
+Read the Arabic passage once to get the flow. Then read the translation. Notice the two arguments and their refutations.
+The author uses a direct style, stating each argument followed by a refutation.
+2
+Analyze the first argument
+Identify the premises: bodies share space-occupying and accident-receptivity. The conclusion: they are equal in quiddity. Then see the refutation: these are concomitants, not essences.
+Think about why equality in concomitants does not prove equality in essence. Can you find examples?
+3
+Analyze the second argument
+This argument is based on the division of body into types. The common basis of division suggests a shared concept. The refutation uses a counterexample from attributes, showing it leads to infinite regress.
+The refutation shows the argument is flawed by analogy.
+4
+Review the key takeaway
+The lesson shows that surface-level similarities do not imply deep identity. This is important for understanding the unique quiddity of bodies in kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فثبت : أن هذا الأصل معتبر في تقرير الإلهيات والنبوات والمعاد . فيجب الإهتمام بتقريره : فنقول : الناس ذكروا فيه وجوهاً :
+الأول : إن الأجسام متساوية في كونها شاغلة للأحياز ، وفي كونها قابلة للأعراض . وإذا حصل الاستواء في هذه المعاني ، فقد حصل الاستواء في تمام الماهية. وهذا بعيد . لأن كونها شاغلة للأحياز، وقابلة للأعراض : لوازم لتلك الذوات وأحكام لها . والاستواء في اللوازم والأحكام لا يدل على الاستواء في تمام الماهية . لما ثبت : أن الأشياء المختلفة ، لا يبعد اشتراكها في اللوازم
+الثاني : قالوا : الجسم يمكن تقسيمه إلى الفلكي والعنصري ، وإلى اللطيف والكثيف ، وإلى الحمار والبارد ، والأرضي والناري . ومورد التقسيم مشترك فيه بين جميع الأقسام . فكونه جسماً مفهوم واحد مشترك بين الكل . وهو المطلوب .
+وهذا أيضاً ضعيف . لأنه يمكن أيضاً تقسيم الصفة إلى الصفة الروحانية والصفة الجسمانية ، وإلى اللون والطعم والرائحة. وهذا يقتضي كون الصفات متساوية في كونها صفات ، وأن يقع اختلافها بسبب صفات أخرى . ويلزم التسلسل ، وهو محال .
+It is established: that this principle is considered in establishing matters of divinity, prophethood, and resurrection. So it is necessary to pay attention to establishing it. We say: People have mentioned several aspects concerning it:
+
+First: Bodies are equal in being occupiers of spaces and in being receptive to accidents. If equality in these meanings is attained, then equality in the entire quiddity is attained. This is far-fetched. Because their being occupiers of spaces and receptive to accidents are necessary concomitants of those essences and attributes. Equality in concomitants and attributes does not indicate equality in the entire quiddity. For it has been established that different things are not unlikely to share in concomitants.
+
+Second: They said: The body can be divided into celestial and elemental, into subtle and dense, into hot and cold, into earthly and fiery. The basis of division is common among all divisions. So its being a body is a single concept common to all. That is the desired conclusion.
+
+This is also weak. Because one can also divide attribute into spiritual attribute and bodily attribute, and into color, taste, and smell. This would require that attributes are equal in being attributes, and that their difference occurs due to other attributes. This leads to infinite regress, which is impossible.
+Source pages p. 191
+
+Commentary
+This passage presents and refutes two arguments for the equality of bodies in their quiddity. The author first states that the principle of equality of bodies is important for theology, prophethood, and resurrection. Then he presents two arguments. The first argument claims that since all bodies share being space-occupying and receptive to accidents, they must be equal in quiddity. The author refutes this by saying that these are mere concomitants (lawazim) and that equality in concomitants does not entail equality in essence. The second argument uses the fact that body can be divided into various types, implying a common concept of body. The author refutes this by a counterexample: dividing attributes into types would imply all attributes share a common concept, leading to an infinite regress of the attribute being differentiated by other attributes. Thus both arguments are weak.
+
+Key Terms
+الأجسام
+الماهية
+اللوازم
+الأعراض
+التسلسل
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: If two things share some properties, they must be identical in essence.
+Correction: Sharing properties, especially accidental ones, does not entail sharing quiddity. Different kinds of substances can share concomitants.
+
+Checkpoint
+What is the author's main criticism of the first argument for body equality?
+A) It assumes equality in space-occupying leads to equality in quiddity, but that is not necessary.
+B) The division of bodies proves nothing.
+C) It leads to infinite regress.
+D) It is based on accidents rather than essence.
+
+Key Takeaway
+Equality in concomitants does not prove equality in quiddity, and arguments based on division can lead to infinite regress.
+
+How This Lesson Applies — to MY Life?
+?
+Have you ever assumed that because you share certain behaviors or traits with others, you are essentially the same? How does this lesson's refutation of equality in concomitants challenge you to examine your assumptions about identity and worth? Will you now distinguish more carefully between your fundamental self and the attributes you happen to have?
+?
+Consider a belief you hold about something important (e.g., about God or yourself) that you assumed was true because it could be divided into categories. How does the infinite regress argument in this lesson reveal the weakness in that reasoning? What concrete step will you take to avoid such fallacies in your own beliefs?
+
+Pages p. 191 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 191
+Module 7 · Lesson 159
+Next →
+Rational Judgments
+advanced
+12 min
+The Preferred Argument for Body Equality
+The author presents his preferred argument by enumerating and refuting three of four possible relations.
+
+Learning Objective
+By the end of this lesson, you will understand the author's preferred argument that bodies are identical in quiddity based on their shared property of being space-occupying, and the logical analysis of four possible relations between the considerations of body and difference.
+
+Core Idea
+The equality of bodies in being space-occupying leads to a necessary distinction between essential and accidental differences.
+
+We now turn to the author's own preferred argument on the equality of bodies. He starts from an undeniable commonality — all bodies occupy space — and rigorously examines what must follow about their essence. By analyzing the possible relations between the concept of body and the concepts that differentiate bodies, he eliminates all alternatives except those that affirm his thesis. This passage is a masterclass in applied kalam logic.
+
+Guided Path
+1
+Understand the starting premise
+Recognize that the argument begins from the agreed fact that all bodies share the property of being space-occupying (tahayyuz). Note that this is presented as indubitable.
+2
+Follow the deduction of distinct considerations
+If bodies also differ, then the concept of being a body (hajmiyya) must be different from the differentiating concepts. This sets up the need to examine their relation.
+3
+Examine the four possible relations
+The author enumerates four logical possibilities for how the two sets of considerations relate. Work through each one, especially the elimination of the first and fourth, which are the key moves.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والأقرب في هذا الباب : أن يقال : لا شك أن الأجسام متساوية في كونها متحيزة. وهذا المفهوم قدر مشترك . فالأجسام لما كانت متساوية في هذا المفهوم . لو كانت مختلفة باعتبار آخر ، لكان ما به المشاركة غير ما به المخالفة فوجب أن يكون اعتبار الحجمية والمتحيزية ، أمراً مغايراً لتلك الاعتبارات الأخرى . وإذا كان كذلك ، فنقول : إما أن يكون كل واحد من ذينك الاعتبارين حالاً في الآخر ، ومحلاً له . وإما أن لا يكون حالا في الآخر ، ولا محلا له . وإما أن يكون أحدهما حالاً والآخر محلاً .
+والأول باطل لوجهين : أحدهما : إن الحال مفتقر إلى المحل فلو كان كل واحد منهنما حالاً في الآخر ومحلاً له ، لزم الدور . والثاني : إنا نبين أن الحجمية والتحيز ، يمتنع أن يكون حالا في محل
+والثاني باطل : لأن على هذا التقدير تكون الأجسام ذوات متماثلة في أنفسها . وأما الاعتبارات التي بها حصل الاختلاف . فهي أمور مغايرة للأجسام ، ومباينة عنها بحسب الذات . وذلك لا يقدح في مطلوبنا . وأما القسم الثالث : وهو أن يكون ذلك الاعتبار حالا في الأجسام ، وتكون الأجسام محلاً لها . فهذا لا يقدح في قولنا . لأن على هذا التقدير : الأجسام متماثلة في تمام الماهية ، ومختلفة بالأعراض الحالة . وذلك لا يقدح في قولنا
+وأما القسم الرابع : وهو أن تكون الحجمية والتحيز حالاً في ذلك الاعتبار ، وصفة لها . فذلك محال . لأن الحجمية والتحيز مفهومات مختصة بالحيز والمكان والجهة . فتلك الاعتبارات. إن كانت مختصة بالحيز والجهة ، كانت تلك الاعتبارات أيضاً أجساماً . وذلك يقتضي حلول الجسم في الجسم . وإن لم تكن مختصة بالحيز والجهة ، امتنع حلول الجسمية فيه لأن حلول ما يجب كونه مختصاً بالمكان والجهة في شيء يمتنع كونه مختصاً بالمكان والجهة محال في بديهة العقل
+·
+فهذا أقصى ما يمكن أن يقال في هذا الباب . والله أعلم .
+The closest [approach] in this chapter: It should be said: There is no doubt that bodies are equal in being space-occupying (mutahayyiza). This concept is a common factor. Since bodies are equal in this concept, if they were different in another respect, then that by which they share would be other than that by which they differ, so it must be that the consideration of being a body (hajmiyya) and being space-occupying (mutahayyiziyya) is something different from those other considerations. When that is so, we say: Either each of these two considerations is inhering (hal) in the other and a locus (mahall) for it, or neither is inhering in the other nor a locus for it, or one of them is inhering and the other is a locus.
+
+The first is invalid for two reasons: One: The inhering is dependent on the locus; so if each were inhering in the other and a locus for it, a vicious circle (dawr) would result. Second: We show that hajmiyya and tahayyuz cannot inhere in a locus.
+
+The second is invalid: because on this assumption, bodies would be identical essences in themselves. As for the considerations by which difference occurs, they are things other than the bodies and separate in essence. That does not damage our thesis.
+
+As for the third division: that one of the considerations inheres in the bodies and the bodies are loci for it. This does not damage our statement, because on this assumption bodies are identical in the entire quiddity and differ by inhering accidents (a'rad hala). That does not damage our thesis.
+
+As for the fourth division: that hajmiyya and tahayyuz inhere in that consideration and are an attribute of it. That is impossible, because hajmiyya and tahayyuz are concepts specific to space (hayyiz), place (makan), and direction (jiha). So if those considerations are specific to space and direction, then those considerations would also be bodies. That would entail the inherence of a body in a body. If they are not specific to space and direction, then inherence of bodilyness (jismiyya) in them is impossible, because the inherence of that which must be specific to space and direction in something that cannot be specific to space and direction is impossible in the immediate intuition of reason.
+
+This is the utmost that can be said in this chapter. And God knows best.
+Source pages p. 191
+
+Commentary
+This passage presents the author's preferred approach (al-aqrab fi hadha al-bab). He starts from the premise that bodies are unequivocally equal in being space-occupying (mutahayyiza). This is a common factor (qadr mushtarak). If bodies also have differentiating aspects, then the aspect of being a body (hajmiyya) and being space-occupying must be different from those differentiating aspects. Then he considers four possible relations between the two considerations (hajmiyya/tahayyuz and the differentiating aspects). He then eliminates three possibilities: (1) each inheres in the other (circular), (2) neither inheres (then bodies are identical in essence and difference is external, which is fine), (3) one inheres in the body (then bodies are identical in quiddity and differ by accidents, also fine). The fourth possibility (hajmiyya inheres in the differentiating aspect) is impossible because hajmiyya requires spatial location, leading to absurdities. Thus the only coherent positions are the second and third, which actually support the thesis that bodies are identical in essence (quiddity) and differ by accidents or separate attributes. This argument aims to establish the equality of bodies in their quiddity, a key principle in kalam.
+
+Key Terms
+المتحيزة
+الحجمية
+التحيز
+الحال
+المحل
+الدور
+الأعراض الحالة
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The author argues that all bodies are completely identical with no differences.
+Correction: The author argues only that bodies are identical in their essence (quiddity), but they can differ by accidents or separate attributes.
+
+Checkpoint
+In the fourth division, why is it impossible for hajmiyya to inhere in a differentiating consideration?
+A) Because it would lead to a circle.
+B) Because hajmiyya requires spatial location and the consideration may not have spatial location.
+C) Because bodies would then be identical.
+D) Because hajmiyya is an accident.
+
+Key Takeaway
+The author's preferred argument shows that the only logically consistent positions are that bodies are identical in quiddity and differ only by accidents or separate attributes.
+
+How This Lesson Applies — to MY Life?
+?
+If everything about you that differs from others is merely accidental, what is the true you that remains? How does that change how you view your identity and your purpose?
+?
+The argument shows that bodies cannot differentiate themselves; they need an external cause. In what areas of your life are you trying to be self-sufficient, refusing to admit that your very existence depends on a cause beyond you?
+?
+If only the accidents—not the essence—are what we see and judge, how much of your attention is spent on those superficial differences? What would it cost you to look past them to the shared essence?
+
+Pages p. 191 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 160
+Next →
+Rational Judgments
+beginner
+4 min
+The Aristotelian Argument Against Multiple Worlds: The Void Impossibility
+First argument: two worlds imply void, which is impossible.
+
+Learning Objective
+By the end of this lesson, you will understand how the Aristotelian argument uses the impossibility of void to reject the existence of multiple worlds.
+
+Core Idea
+Two spheres must have void, but void is impossible — so multiple worlds are impossible.
+
+The followers of Aristotle present their first cogent argument against the possibility of multiple worlds. It starts from an agreed premise about the shape of the world and derives a contradiction. This short but powerful argument shows how philosophical principles can rule out seemingly plausible alternatives.
+
+Guided Path
+1
+Read the passage and translation
+Read the Arabic passage once, then the literal translation. Notice the logical flow: premise, implication, impossibility, conclusion.
+2
+Identify premises and conclusion
+List the key claims: world is spherical, two worlds would be two spheres, between spheres is void, void is impossible, therefore two worlds impossible.
+The argument is a reductio ad absurdum.
+3
+Reflect on the impossibility of void
+Consider why void (empty space) is considered impossible in Aristotelian physics. This is a key principle.
+Void would imply separate dimensions without bodies, which is rejected.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل الثالث
+في الاعتراض على الحايل المذكور في أن العالم واحد
+احتج أصحاب أرسطاطاليس على صحة هذا القول من وجوه : الحجة الأولى : قالوا : ثبت أن شكل العالم هو الكرة ، فلو حصل عالمان ، لكانا كرتين ، والكرتان إذا حصلنا ، لزم أن يحصل فيما بينهما خلاء متقدر بمقدار معين . والقول بالخلاء قد ثبت أنه محال . فوجب أن يكون القول بإثبات العالمين محالاً
+The Third Chapter: On objecting to the mentioned obstacle that the world is one. The followers of Aristotle argued for the correctness of this statement in several ways. The first argument: They said: It is established that the shape of the world is the sphere. So if there were two worlds, they would be two spheres. And if two spheres exist, it would necessarily entail between them a void measured by a certain magnitude. And the statement of void has been established as impossible. So the statement affirming two worlds must be impossible.
+Source pages p. 194
+
+Commentary
+This passage presents the first of three arguments from the followers of Aristotle against the possibility of multiple worlds. The argument begins by stating a premise accepted by both sides: the shape of the world is spherical. From this, it argues that if there were two worlds, each would be a sphere. Two spheres cannot touch at every point; there would necessarily be space (void) between them. But the existence of void (خلاء) has already been proven impossible in Aristotelian physics. Therefore, the existence of two worlds is impossible. The logic is a reductio ad absurdum: the supposition of multiple worlds leads to an impossibility, so the supposition is false.
+
+Key Terms
+خلاء
+كرة
+عالم
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think void is simply empty space that could exist, but in classical kalam and falsafa, void is considered impossible because it would imply separate dimensions without bodies.
+Correction: In Aristotelian physics, void is impossible because it would entail dimensions existing independently of bodies, which is rejected.
+
+Checkpoint
+According to the first argument, what would necessarily exist between two spherical worlds?
+A) A connecting bridge
+B) A void of certain magnitude
+C) Another world
+D) Nothing
+
+Key Takeaway
+The impossibility of void between spheres leads to the impossibility of multiple worlds.
+
+How This Lesson Applies — to MY Life?
+?
+If the impossibility of two worlds points to the oneness of Allah’s creation, what 'two worlds' do you try to live in — for example, a public religious face and a private life of compromise? How can you resolve this contradiction today?
+?
+The proof shows that void is impossible; what spiritual voids in your life are you trying to fill with distractions instead of with the truth of tawheed? Commit to one concrete action this week to address that void.
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 161
+Next →
+Rational Judgments
+beginner
+4 min
+Elements and the Impossibility of Multiple Worlds
+Second argument: elements forced into unnatural places
+
+Learning Objective
+By the end of this lesson, you will understand how the impossibility of perpetual coercion of elements in a second world disproves the existence of multiple worlds.
+
+Core Idea
+Every element has one natural home; forcing it elsewhere cannot last forever.
+
+This lesson unpacks a classic kalam argument against multiple worlds. It begins from the necessary composition of any world from the four elements, each with a unique natural place, and concludes that a second world would require eternal unnatural states—which is impossible.
+
+Guided Path
+1
+Read the passage and translation
+Read the Arabic passage once without analysis, then read the literal translation. Absorb the flow of the argument.
+The translation provided matches the original closely.
+2
+Identify the core premise
+Notice the statement: 'a single body has only one natural place.' This is the key assumption upon which the entire argument rests.
+Think about why this premise is plausible.
+3
+Trace the logical chain
+Follow the reasoning: two worlds → each has four elements → elements in one world are out of place → this state is eternal → perpetual coercion is impossible → therefore no second world.
+Pay attention to the leap from 'perpetual coercion' to 'impossible'.
+4
+Reflect on the conclusion
+Ask yourself: does this argument successfully rule out multiple worlds? Consider what assumptions might be challenged.
+This connects to the broader discussion of cosmology in kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الثانية : قالوا : لو فرضنا عالمين ، يحصل في داخل كل واحد منهما أرض وهواء وماء ونار . ضرورة أن التركيب والمزاج لا يحصل إلا بهذه العناصر . والجسم الواحد لا يكون له إلا حيز واحد بالطبع. ومتى كان الأمر كذلك ، كان بقاء أحد هذه العناصر في أحد ذينك الحيزين : قسراً دائماً . والقسر الدائم محال ، فكان القول بوجود العالمين محالاً
+The second argument: They said: If we suppose two worlds, within each one of them there would occur earth, air, water, and fire—necessarily so, because composition and mixture only occur through these elements. And a single body has only one natural place. And if this is the case, then the remaining of one of these elements in one of those two places would be perpetual coercion. And perpetual coercion is impossible, so the statement of the existence of two worlds is impossible.
+Source pages p. 194
+
+Commentary
+This passage presents the second argument. It assumes that any world must be composed of the four elements (earth, air, water, fire) because mixture and composition require them. Each element has a single natural place (e.g., fire naturally rises, earth naturally sinks). In a single world, each element can rest in its natural place. But if there were two worlds, the elements of one world would be in a spatial location different from the natural place of that element; for example, the earth in the other world would be forced to stay in a region that is not its natural place. This forced state would be perpetual (دائم), and perpetual coercion is impossible. Therefore, multiple worlds cannot exist.
+
+Key Terms
+عناصر
+حيز
+قسر
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think elements could have multiple natural places in different universes.
+Correction: The argument assumes each element has exactly one natural place in the whole of existence; therefore, a second world would force elements into a location that is not their natural one.
+
+Checkpoint
+In the second argument, what makes the existence of two worlds impossible?
+A) The worlds would be too far apart
+B) Elements would be perpetually forced out of their natural places
+C) There would be no void
+D) The worlds would collide
+
+Key Takeaway
+The impossibility of perpetual coercion shows that multiple worlds cannot coexist because elements would be forever out of their natural place.
+
+How This Lesson Applies — to MY Life?
+?
+Is there an area of your life where you believe you are stuck in a 'perpetual coercion'—a situation or habit you think is unchangeable? This lesson argues that perpetual coercion is impossible. Does that mean your assumption is wrong? What would it take to trust that your natural state (submission to your Creator) is where you belong and that anything else cannot last forever?
+?
+The argument says each element has one natural place. What is your natural place in relation to Allah? Are you living in your natural state of worship and obedience, or are you forcing yourself into a place of rebellion? If perpetual coercion is impossible, how long can that rebellion last? What is one step you will take today to return to your natural place?
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 162
+Next →
+Rational Judgments
+beginner
+4 min
+The First Argument for the Unity of the World
+First Aristotelian argument: two worlds imply void, which is impossible.
+
+Learning Objective
+By the end of this lesson, you will understand the first Aristotelian argument for the unity of the world, which uses the impossibility of void to prove that multiple worlds cannot exist.
+
+Core Idea
+Two worlds require void, but void is impossible.
+
+The Aristotelians argued that the world must be one because the existence of two worlds would lead to an impossibility. Their first proof is a straightforward reductio ad absurdum based on the shape of the world and the impossibility of void. Let's examine how this reasoning works.
+
+Guided Path
+1
+Read the passage carefully
+Read the Arabic passage and its translation. Notice how the argument is structured as a conditional chain.
+The argument uses a logical form: if P then Q, if Q then R, R is false, therefore P is false.
+2
+Identify the premises
+Identify the two key premises: (1) the world is spherical, (2) void is impossible. These are taken as established.
+Premise (1) is about the shape, premise (2) is a physical principle.
+3
+Trace the logical flow
+Follow the reasoning: if two worlds, then two spheres; if two spheres, then void between them; void is impossible; therefore two worlds impossible.
+This is a chain of implications leading to a contradiction with premise (2).
+4
+Reflect on the role of void
+Understand why void is crucial. The argument depends entirely on the impossibility of void, a key doctrine in Aristotelian physics.
+If void were possible, the argument would not prove unity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الأولى : قالوا : ثبت أن شكل العالم هو الكرة ، فلو حصل عالمان ، لكانا كرتين ، والكرتان إذا حصلنا ، لزم أن يحصل فيما بينهما خلاء متقدر بمقدار معين . والقول بالخلاء قد ثبت أنه محال . فوجب أن يكون القول بإثبات العالمين محالاً
+The first proof: They said: It is established that the shape of the world is the sphere. So if two worlds existed, they would be two spheres. And if two spheres existed, it would necessarily follow that between them there occurs a void quantifiable by a specific amount. And the assertion of void has been established as impossible. So the assertion of establishing two worlds must be impossible.
+Source pages p. 194
+
+Commentary
+This passage presents the first argument from the followers of Aristotle for the necessary unity of the world. It is a simple reductio ad absurdum. The proof begins with the premise that the world is spherical in shape. If there were two worlds, each would be a sphere. Two spheres, if they exist, must be separate; thus there would be a space between them, which must be a void (khalā’) of a certain magnitude. The idea of void has already been proven impossible in their physics. Therefore, the existence of more than one world leads to an impossibility, so the existence of multiple worlds is itself impossible. The argument is straightforward and relies on the impossibility of void.
+
+Key Terms
+خلاء (void)
+كرة (sphere)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The argument proves the world is spherical.
+Correction: The argument does not prove the world is spherical; it assumes that as a premise and uses it to prove unity. The sphericity of the world is established elsewhere.
+
+Checkpoint
+What is the first premise of the argument for the unity of the world?
+A) The world is made of four elements.
+B) The shape of the world is the sphere.
+C) Void is impossible.
+D) Two spheres cannot exist simultaneously.
+
+Key Takeaway
+The impossibility of void entails that multiple spherical worlds cannot coexist, so the world must be one.
+
+How This Lesson Applies — to MY Life?
+?
+Do you ever assume that your limited understanding of a concept (like void) is enough to judge a religious truth? How does this argument challenge you to accept well-reasoned premises even when they feel abstract?
+?
+If you truly believe that this world is the only one, how should that change the way you live today? Are there any areas where you act as if there is another chance or another world to fall back on?
+?
+When you consider the logical necessity of the world's unity, does it strengthen your certainty in the oneness of Allah (tawheed)? Or do you rely solely on faith without engaging your intellect? Ask yourself: will I take time to learn and use rational arguments like this to defend my creed?
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 163
+Next →
+Rational Judgments
+intermediate
+4 min
+First Objection: Why Must the World Be Spherical?
+First objection questioning spherical shape
+
+Learning Objective
+By the end of this lesson, you will understand how the author refutes the spherical shape premise by appealing to earlier discussions on the indivisible atom.
+
+Core Idea
+The shape of the world is not a certain premise.
+
+The author begins his refutation by stating that the first argument is extremely weak. He then raises three objections, the first of which targets the foundational claim that the world must be spherical. He references a previous discussion on the indivisible atom where the proofs for sphericity were shown to be weak and false. This lesson examines that first objection.
+
+Guided Path
+1
+Read the first objection
+Read the Arabic and translation of the first objection carefully.
+Notice the reference to the indivisible atom.
+2
+Understand the appeal to prior discussion
+The author refers to a previous discussion on the indivisible atom where proofs for sphericity were refuted.
+This shows the argument's foundation is shaky.
+3
+Assess the impact
+Consider how this objection weakens the first argument for unity.
+If the shape premise fails, the whole argument fails.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واعلم : أن الحجة الأولى في غاية الضعف . وبيانه من وجوه : الأول : لم قلتم : إنه يجب أن يكون شكل العالم هو الكرة ؟ وذلك لأنا بينا في مسألة الجوهر الفرد : إن دلائلكم في إثبات الكرة والدائرة : ضعيفة . ودلائلكم في إثبات أن الجسم البسيط هو الكرة : ضعيفة باطلة . السؤال الثاني : إن سلمنا صحة ذلك ، لكن ثبت في « المجسطي ، أن فلك تدوير و المريخ ، أعظم من كلية فلك الشمس . وإذا كان الأمر كذلك . فلم لا يجوز أن يكون الفلك الأعظم ، مع ما فيه من الأفلاك الثمانية والعناصر : تكون مركوزة في ثخن فلك آخر في غاية العظمة ، ويكون في ثخن ذلك الفلك من أمثال الفلك الأعظم الذي نعرفه ألف ألف ؟ بل نقول : ولم لا يجوز أن يكون ذلك الفلك الذي ذكرناه : مركوزاً في ثخن فلك آخر ؟ وكذا القول في الثالث والرابع. ومن الذي يمكنه أن يذكر في إبطال هذا الاحتمال خيالاً إقناعياً ، فضلا عن البرهان اليقيني ؟ السؤال الثالث : سلمنا : أنه يلزم القول بالخلاء . فلم قلتم : إن القول بالخلاء باطل ؟ والكلام في الخلاء قد تقدم
+And know: that the first argument is extremely weak. Its explanation is from aspects: First: Why did you say that the shape of the world must be the sphere? Because we have shown in the issue of the indivisible atom (al-jawhar al-fard) that your proofs for establishing the sphere and the circle are weak. And your proofs for establishing that the simple body is the sphere are weak and false. The second question: If we grant that [the spherical shape is true], but it is established in the Almagest that the orbit of Mars is greater than the entire sphere of the sun. And if that is so, then why is it not permissible that the greatest sphere, along with what it contains of the eight spheres and the elements, be embedded in the thickness of another immense sphere, and in the thickness of that sphere there be a thousand thousand examples of the greatest sphere that we know? Rather we say: And why is it not permissible that that sphere which we mentioned be embedded in the thickness of another sphere? And likewise for the third and fourth. And who can bring, in refutation of this possibility, a persuasive fancy, let alone a certain proof? The third question: Granted that the assertion of void follows, why did you say that the assertion of void is false? And the discussion on void has preceded.
+Source pages p. 194
+
+Commentary
+This passage is a refutation of the first argument for the unity of the world. The author states that the first argument is extremely weak and then provides three objections (questions). The first objection attacks the premise that the world is spherical. The author refers to a previous discussion on the indivisible atom (jawhar fard) where the proofs for spherical shape and the simplicity of bodies were shown to be weak and false. Thus the foundational premise is not established. The second objection is hypothetical: even if we accept the spherical shape, why can we not conceive of a nested hierarchy of spheres? Using the example from the Almagest that Mars's orbital sphere is larger than the sun's, the author argues that our known universe could be embedded in a much larger sphere, and that sphere in an even larger one, ad infinitum. No one can produce even a persuasive argument against this possibility, let alone a certain proof. Therefore, the existence of multiple worlds is still possible. The third objection targets the impossibility of void: even if we grant that void would occur between spheres, the author reminds that the impossibility of void has already been discussed and is not conceded. So the whole argument collapses.
+
+Key Terms
+جوهر فرد
+الكرة
+الدائرة
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think the author is claiming the world is not spherical.
+Correction: The author only argues that the proofs for sphericity are weak and false, not that the world is definitely not spherical.
+
+Checkpoint
+What prior discussion does the author refer to in the first objection?
+A) The discussion on void
+B) The discussion on the indivisible atom
+C) The discussion on the Almagest
+D) The discussion on causality
+
+Key Takeaway
+The first objection shows that the spherical shape of the world is not rationally necessary.
+
+How This Lesson Applies — to MY Life?
+?
+You have likely accepted the spherical shape of the world as a scientific fact. But if the rational proofs are weak, why do you still believe it? Is your conviction based on certainty or habit? Examine the foundations of your own beliefs today.
+?
+When a long-held assumption of yours is challenged—like the necessity of the world's shape—do you cling to it or honestly seek the truth? Think of a belief you hold that may have weak proof. Are you willing to question it as the author questions the first argument?
+?
+If the shape of the world is not rationally necessary, what else about your worldview might be less certain than you think? Pause and ask yourself: what is one thing you believe that you have never critically examined, and will you commit to testing it today?
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 164
+Next →
+Rational Judgments
+intermediate
+5 min
+Second Objection: The Possibility of Nested Spheres
+Second objection arguing for nested spheres
+
+Learning Objective
+By the end of this lesson, you will understand how the author uses the scale of Mars's orbit to argue for the possibility of an infinite hierarchy of spheres.
+
+Core Idea
+Even if our universe is spherical, it could be embedded in larger spheres.
+
+Assuming the spherical shape is granted, the author raises a second objection based on astronomical data from the Almagest. He points out that the orbit of Mars is larger than the sun's sphere, so it is possible that our known universe is merely embedded in a much larger sphere, and that sphere in yet another, ad infinitum. This opens the door to multiple worlds.
+
+Guided Path
+1
+Read the second objection
+Read the Arabic and translation of the second objection carefully.
+Notice the conditional acceptance 'if we grant that'.
+2
+Examine the astronomical example
+The author uses the fact from the Almagest that Mars's orbit is larger than the sun's sphere to motivate the nested sphere scenario.
+This shows that our universe is not necessarily the largest.
+3
+Understand the infinite nesting
+Consider why the author suggests an infinite chain of nested spheres and the challenge he issues.
+No one can provide even a persuasive argument against this possibility.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واعلم : أن الحجة الأولى في غاية الضعف . وبيانه من وجوه : الأول : لم قلتم : إنه يجب أن يكون شكل العالم هو الكرة ؟ وذلك لأنا بينا في مسألة الجوهر الفرد : إن دلائلكم في إثبات الكرة والدائرة : ضعيفة . ودلائلكم في إثبات أن الجسم البسيط هو الكرة : ضعيفة باطلة . السؤال الثاني : إن سلمنا صحة ذلك ، لكن ثبت في « المجسطي ، أن فلك تدوير و المريخ ، أعظم من كلية فلك الشمس . وإذا كان الأمر كذلك . فلم لا يجوز أن يكون الفلك الأعظم ، مع ما فيه من الأفلاك الثمانية والعناصر : تكون مركوزة في ثخن فلك آخر في غاية العظمة ، ويكون في ثخن ذلك الفلك من أمثال الفلك الأعظم الذي نعرفه ألف ألف ؟ بل نقول : ولم لا يجوز أن يكون ذلك الفلك الذي ذكرناه : مركوزاً في ثخن فلك آخر ؟ وكذا القول في الثالث والرابع. ومن الذي يمكنه أن يذكر في إبطال هذا الاحتمال خيالاً إقناعياً ، فضلا عن البرهان اليقيني ؟ السؤال الثالث : سلمنا : أنه يلزم القول بالخلاء . فلم قلتم : إن القول بالخلاء باطل ؟ والكلام في الخلاء قد تقدم
+And know: that the first argument is extremely weak. Its explanation is from aspects: First: Why did you say that the shape of the world must be the sphere? Because we have shown in the issue of the indivisible atom (al-jawhar al-fard) that your proofs for establishing the sphere and the circle are weak. And your proofs for establishing that the simple body is the sphere are weak and false. The second question: If we grant that [the spherical shape is true], but it is established in the Almagest that the orbit of Mars is greater than the entire sphere of the sun. And if that is so, then why is it not permissible that the greatest sphere, along with what it contains of the eight spheres and the elements, be embedded in the thickness of another immense sphere, and in the thickness of that sphere there be a thousand thousand examples of the greatest sphere that we know? Rather we say: And why is it not permissible that that sphere which we mentioned be embedded in the thickness of another sphere? And likewise for the third and fourth. And who can bring, in refutation of this possibility, a persuasive fancy, let alone a certain proof? The third question: Granted that the assertion of void follows, why did you say that the assertion of void is false? And the discussion on void has preceded.
+Source pages p. 194
+
+Commentary
+This passage is a refutation of the first argument for the unity of the world. The author states that the first argument is extremely weak and then provides three objections (questions). The first objection attacks the premise that the world is spherical. The author refers to a previous discussion on the indivisible atom (jawhar fard) where the proofs for spherical shape and the simplicity of bodies were shown to be weak and false. Thus the foundational premise is not established. The second objection is hypothetical: even if we accept the spherical shape, why can we not conceive of a nested hierarchy of spheres? Using the example from the Almagest that Mars's orbital sphere is larger than the sun's, the author argues that our known universe could be embedded in a much larger sphere, and that sphere in an even larger one, ad infinitum. No one can produce even a persuasive argument against this possibility, let alone a certain proof. Therefore, the existence of multiple worlds is still possible. The third objection targets the impossibility of void: even if we grant that void would occur between spheres, the author reminds that the impossibility of void has already been discussed and is not conceded. So the whole argument collapses.
+
+Key Terms
+فلك تدوير
+المجسطي
+فلك الشمس
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think the objection relies on the actual truth of Ptolemaic astronomy.
+Correction: The author uses the Almagest example as a plausible hypothetical, not as a proven fact, to show the possibility of nesting.
+
+Checkpoint
+Which celestial body does the author mention as having a sphere larger than the sun's?
+A) Jupiter
+B) Mars
+C) Saturn
+D) Venus
+
+Key Takeaway
+The possibility of nested spheres weakens the claim that there is only one universe.
+
+How This Lesson Applies — to MY Life?
+?
+The author challenges anyone to bring even a persuasive argument against the possibility of nested spheres. In what area of your faith or worldview have you been too quick to dismiss a mere possibility, without honestly examining whether your certainty is based on proof or habit? Will you set aside time this week to investigate that assumption?
+?
+If our universe could be just a tiny part of a much larger reality, how does that possibility affect your sense of intellectual humility before the vastness of Allah's creation? Is there a specific belief you hold that would need to be re-evaluated if this possibility turned out to be true? What would that re-evaluation cost you personally?
+?
+The objection rests on what is merely 'possible' (jāʾiz), not proven. When you stand before Allah on the Day of Judgment, will He ask you whether you were certain only of what could be proven, or whether you acted on what was most likely? What is one step you can take today to live more consistently with the truths you recognize as certain, while acknowledging the mysteries you cannot settle?
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 165
+Next →
+Rational Judgments
+beginner
+3 min
+Third Objection: Is Void Impossible?
+Third objection questioning impossibility of void
+
+Learning Objective
+By the end of this lesson, you will understand the author's final objection that the impossibility of void is not conceded, and thus the argument fails.
+
+Core Idea
+The impossibility of void is not self-evident.
+
+The third objection addresses the consequence that void would exist between multiple spheres. The author reminds that the impossibility of void has been discussed previously and is not accepted. Therefore, even if void would follow, it does not refute the possibility of multiple worlds.
+
+Guided Path
+1
+Read the third objection
+Read the Arabic and translation of the third objection carefully.
+Notice the conditional 'granted that the assertion of void follows'.
+2
+Understand the appeal to prior discussion
+The author references a previous discussion on void, implying its impossibility is not established.
+This counters the assumption that void is obviously false.
+3
+Reflect on the overall refutation
+Consider how all three objections together dismantle the first argument.
+The argument fails at multiple points.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+واعلم : أن الحجة الأولى في غاية الضعف . وبيانه من وجوه : الأول : لم قلتم : إنه يجب أن يكون شكل العالم هو الكرة ؟ وذلك لأنا بينا في مسألة الجوهر الفرد : إن دلائلكم في إثبات الكرة والدائرة : ضعيفة . ودلائلكم في إثبات أن الجسم البسيط هو الكرة : ضعيفة باطلة . السؤال الثاني : إن سلمنا صحة ذلك ، لكن ثبت في « المجسطي ، أن فلك تدوير و المريخ ، أعظم من كلية فلك الشمس . وإذا كان الأمر كذلك . فلم لا يجوز أن يكون الفلك الأعظم ، مع ما فيه من الأفلاك الثمانية والعناصر : تكون مركوزة في ثخن فلك آخر في غاية العظمة ، ويكون في ثخن ذلك الفلك من أمثال الفلك الأعظم الذي نعرفه ألف ألف ؟ بل نقول : ولم لا يجوز أن يكون ذلك الفلك الذي ذكرناه : مركوزاً في ثخن فلك آخر ؟ وكذا القول في الثالث والرابع. ومن الذي يمكنه أن يذكر في إبطال هذا الاحتمال خيالاً إقناعياً ، فضلا عن البرهان اليقيني ؟ السؤال الثالث : سلمنا : أنه يلزم القول بالخلاء . فلم قلتم : إن القول بالخلاء باطل ؟ والكلام في الخلاء قد تقدم
+And know: that the first argument is extremely weak. Its explanation is from aspects: First: Why did you say that the shape of the world must be the sphere? Because we have shown in the issue of the indivisible atom (al-jawhar al-fard) that your proofs for establishing the sphere and the circle are weak. And your proofs for establishing that the simple body is the sphere are weak and false. The second question: If we grant that [the spherical shape is true], but it is established in the Almagest that the orbit of Mars is greater than the entire sphere of the sun. And if that is so, then why is it not permissible that the greatest sphere, along with what it contains of the eight spheres and the elements, be embedded in the thickness of another immense sphere, and in the thickness of that sphere there be a thousand thousand examples of the greatest sphere that we know? Rather we say: And why is it not permissible that that sphere which we mentioned be embedded in the thickness of another sphere? And likewise for the third and fourth. And who can bring, in refutation of this possibility, a persuasive fancy, let alone a certain proof? The third question: Granted that the assertion of void follows, why did you say that the assertion of void is false? And the discussion on void has preceded.
+Source pages p. 194
+
+Commentary
+This passage is a refutation of the first argument for the unity of the world. The author states that the first argument is extremely weak and then provides three objections (questions). The first objection attacks the premise that the world is spherical. The author refers to a previous discussion on the indivisible atom (jawhar fard) where the proofs for spherical shape and the simplicity of bodies were shown to be weak and false. Thus the foundational premise is not established. The second objection is hypothetical: even if we accept the spherical shape, why can we not conceive of a nested hierarchy of spheres? Using the example from the Almagest that Mars's orbital sphere is larger than the sun's, the author argues that our known universe could be embedded in a much larger sphere, and that sphere in an even larger one, ad infinitum. No one can produce even a persuasive argument against this possibility, let alone a certain proof. Therefore, the existence of multiple worlds is still possible. The third objection targets the impossibility of void: even if we grant that void would occur between spheres, the author reminds that the impossibility of void has already been discussed and is not conceded. So the whole argument collapses.
+
+Key Terms
+خلاء
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think void is self-evidently impossible.
+Correction: The author argues that the impossibility of void is not a given; it must be proven.
+
+Checkpoint
+What does the author refer to in his third objection?
+A) The Almagest
+B) The discussion on void
+C) The indivisible atom
+D) The spherical shape
+
+Key Takeaway
+The author refutes the claim that void is impossible, thereby removing the final objection against multiple worlds.
+
+How This Lesson Applies — to MY Life?
+?
+Have you ever dismissed an idea about God's power as impossible simply because it led to an uncomfortable consequence? How does the author's approach of granting the consequence and then questioning its impossibility challenge you to be more intellectually honest in your own beliefs? What assumption about God or His creation are you willing to re-examine today?
+?
+The author refers to a previous discussion to support his questioning. In your spiritual life, is there a previous truth or teaching you have ignored that would help you overcome a current doubt? Will you revisit it now?
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 7 · Lesson 166
+Next →
+Rational Judgments
+intermediate
+6 min
+The Third Argument: From the One Only One Proceeds
+Aristotelians argue from the One's necessary emanation that only one world can proceed.
+
+Learning Objective
+By the end of this lesson, you will understand the third Aristotelian proof for the unity of the world based on the emanationist principle that from the one only one proceeds.
+
+Core Idea
+If only one world emanates from the One, then multiple worlds are impossible.
+
+The third argument for the unity of the world relies on a metaphysical principle familiar to Aristotelians: from a single, self-necessitating cause only one effect can directly proceed. This passage presents that reasoning, shows how the emanation of intellects and spheres follows, and then uses a reductio ad absurdum to prove that multiple worlds would violate that principle.
+
+Guided Path
+1
+Understand the two premises
+The argument starts with two key premises: (1) God is one and self-necessitating (موجب بالذات), and (2) from the one only one can proceed (الواحد لا يوجد إلا الواحد). Grasp these before moving on.
+The second premise is a cornerstone of Neoplatonic emanationism.
+2
+Follow the emanation chain
+According to the philosophers' doctrine, the first emanation from God is a single intellect. From that intellect emanate another intellect and a sphere, and so on, building the hierarchy of intellects and spheres. Understand this sequence.
+This emanationist cosmology is adapted from Aristotle and Plotinus.
+3
+Consider the hypothetical of two worlds
+If there were two completely separate worlds, each would need its own series of intellects and spheres. That would mean the One would have to directly cause more than one effect (the first intellects of each world), violating the principle.
+This is a reductio ad absurdum: the assumption leads to a contradiction.
+4
+Reflect on the argument's scope
+Note that this argument depends on accepting the emanationist framework. It is not a scriptural proof but a philosophical one, based on specific metaphysical commitments.
+Many Muslim theologians rejected emanationism and thus would not accept this proof.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الثالثة : إنه ثبت أن إله العالم واحد موجب بالذات . وثبت أن الواحد لا يوجد إلا الواحد ، فوجب أن لا يكون الصادر الأول عنه ، إلا عقلاً واحداً ، وأن يصدر عن ذلك العقل : عقل وفلك . كما شرحنا كيفية ترتيب الوجود على مذهبهم فلو فرضنا عالمين متباينين ، لزم أن يحصل هناك عقول غير هذه العقول، وأفلاك غير هذه الأفلاك . وحينئذ يلزم أن يصدر عن الواحد أكثر من الواحد وهو محال . فهذا جملة دلائل القائلين بأن العالم يجب أن يكون واحداً .
+The third proof: It is established that the God of the world is one, self-necessitating (mūjib bi-dhātih). And it is established that from the one only one proceeds (al-wāḥid lā yūjadu illā al-wāḥid). So it necessarily follows that the first emanation from Him is only one intellect, and from that intellect emanate an intellect and a sphere, as we explained the manner of ordering existence according to their doctrine. So if we posit two distinct worlds, it would necessitate that there occur intellects other than these intellects, and spheres other than these spheres. And then it would necessitate that from the one proceeds more than one, which is impossible. So this is the sum of the arguments of those who say that the world must be one.
+Source pages p. 194
+
+Commentary
+This passage presents the third argument for the unity of the world, based on emanationist metaphysics. The premises are: (1) The God of the world is one and self-necessitating; (2) From the one only one can proceed (the principle 'from the one only one' – al-wāḥid lā yūjadu illā al-wāḥid). According to the Aristotelian/Neoplatonic emanation scheme used by these philosophers, the first intellect emanates from God, and from that intellect emanate another intellect and a sphere, and so on, producing the hierarchy of intellects and spheres. If there were two completely separate worlds, each would require its own series of intellects and spheres. That would mean that from the First Cause (the One) more than one effect proceeds directly, violating the principle. Hence multiple worlds are impossible. The passage concludes with the statement that these are the three proofs for the unity of the world.
+
+Key Terms
+موجب بالذات (self-necessitating)
+واحد (the One)
+صادر (emanation)
+عقل (intellect)
+فلك (sphere)
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Some may think that the principle 'from the one only one proceeds' is a Qur'anic or universally accepted theological doctrine.
+Correction: This principle is a philosophical axiom from Neoplatonic emanationism. Many Muslim theologians (e.g., Ash'aris) rejected it, arguing that God can directly create multiple things without an intermediary.
+
+Checkpoint
+What is the key principle used in the third argument?
+A) The world is spherical
+B) From the one only one proceeds
+C) Void is impossible
+D) Elements have natural places
+
+Key Takeaway
+The third argument for the unity of the world relies on the emanationist axiom that from a single simple cause only one effect can directly proceed, and any claim to multiple worlds would contradict that.
+
+How This Lesson Applies — to MY Life?
+?
+If the principle 'from the one only one proceeds' were true, it would mean God's creativity is constrained by logical necessity. Do you trust your own reasoning enough to impose limits on what God can do, or do you submit to the possibility that God's power transcends human logic?
+?
+This argument makes the universe a necessary emanation from God. Does that view make you feel that your existence is a cold, mechanical necessity—or can you still find room for divine love and purpose in such a system?
+?
+The 'one only one' principle is used here to deny multiple worlds. But what if you are wrong about a cherished intellectual principle? Are you willing to hold your philosophical commitments lightly enough to let God be greater than your concepts?
+
+Pages p. 194 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 205
+Module 7 · Lesson 167
+Next →
+Rational Judgments
+beginner
+5 min
+The Fifth Proof: Body as Composite of Matter and Form
+Razi presents the fifth proof for body's composition from matter and form.
+
+Learning Objective
+By the end of this lesson, you will understand Razi's fifth proof that body must be composed of matter (hyle) and form, derived from the nature of void and the impossibility of interpenetration.
+
+Core Idea
+Body is not mere dimension; void has dimension too, so body must be dimension in matter.
+
+Razi builds his fifth proof on the previously established existence of void as dimensional extension. He then shows that if body were merely dimensions, then void would also be a body, leading to the absurdity of interpenetration. This forces the conclusion that body is dimension subsisting in matter, hence composite.
+
+Guided Path
+1
+Recall the nature of void
+The proof assumes void is not pure non-existence but has dimensions. Ensure you accept that void is a dimensional extension.
+Razi mentions they have already proven this earlier.
+2
+Follow the conditional argument
+Assume body is just dimensions. Since void also has dimensions, void would then be a body. That would mean when a body occupies void, two bodies occupy the same space – interpenetration.
+3
+Draw the conclusion
+Interpenetration is impossible, so the assumption is false. Body must be dimensions subsisting in matter, making it composite of matter and form.
+This is the core of the proof.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الخامسة : وهي : إنا قد دللنا على إثبات الخلاء ، ودللنا على أن الخلاء لا يجوز أن يكون عدماً محضاً ونفياً صرفاً . بل هو أبعاد وامتدادات . فنقول : لو كان الجسم عبارة عن مجرد الأبعاد والامتدادات ، فحينئذ يلزم كون الخلاء جسماً . فيلزم من حصول الجسم في الخلاء : تداخل الأجسام . وهـو محال . فبقي : أن يقال : الجسم هو الأبعاد الحالة في المادة . والخلاء هو البعد المجرد عن المادة . وعلى هذا التقدير، فإنه يجب أن يكون الجسم مركباً من الهيولى والصورة . فهذه جملة الوجوه التي ذكرناها في إثبات كون الجسم مركباً من الهيولى والصورة .
+The fifth proof: it is that we have given evidence for the existence of void, and we have given evidence that void cannot be pure nonexistence and sheer negation. Rather it is dimensions and extensions. So we say: if body were merely dimensions and extensions, then at that time void would necessarily become a body. Then from the occurrence of body in void, interpenetration of bodies would be necessary. And that is impossible. So it remains to be said: body is the dimensions subsisting in matter, and void is the dimension abstracted from matter. And on this supposition, it is necessary that body be composed of hyle and form. So this is the sum of the arguments we have mentioned in proving that body is composed of hyle and form.
+Source pages p. 205
+
+Commentary
+This passage is a rational proof for the composition of body from matter (hayula) and form (sura). Razi begins by stating that they have already established the existence of void (khala') and that void is not pure non-existence but rather has dimensions and extensions. Then he constructs a conditional argument: if body were simply dimensions and extensions, then void would also qualify as body (since it too has dimensions). This would imply that when a body is located in void, there would be interpenetration of bodies, which is impossible. Therefore body must be dimensions that subsist in a material substrate (hayula), while void is dimension apart from matter. On this foundation, body is necessarily composite of matter and form. The passage concludes by summarizing that this is one of the arguments for composition.
+
+Key Terms
+خلاء
+جسم
+أبعاد
+امتدادات
+هيولى
+صورة
+تركيب
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Proof presupposes void without justification
+Correction: Razi explicitly notes that void's existence and dimensional nature have been proven earlier, so the proof is not circular.
+
+Checkpoint
+According to the fifth proof, what is the consequence of defining body as mere dimensions?
+A) Void becomes nonexistent.
+B) Void becomes a body, leading to interpenetration.
+C) Body becomes indivisible.
+D) Matter and form are unnecessary.
+
+Key Takeaway
+Body must be composite because if it were mere dimension, void would also be body, leading to impossible interpenetration.
+
+How This Lesson Applies — to MY Life?
+?
+Your body is not just a collection of dimensions; it has a material reality. Do you treat your physical existence as a mere extension in space, or as a sign of a deeper purpose? What does it mean that you are composed of matter and form? How does this affect the way you care for your body and use it in worship? Commit to one action today that honors the reality of your body as a composite gift from Allah.
+?
+If void is not nothing but has dimensions, then consider the empty spaces in your life—silence, solitude, waiting. Do you fill them with distraction because you fear they are meaningless? How can you recognize that these 'voids' have their own reality and purpose? Reflect on a time when you experienced a 'void' and turned it into an opportunity for spiritual growth.
+?
+The proof uses impossible interpenetration to argue for composition. In your life, do you try to mix incompatible things—like faith and worldly desires? How does the impossibility of two bodies occupying the same space remind you that you cannot combine opposites in your heart? Ask yourself: What is currently interpenetrating your devotion that should not be there?
+
+Pages p. 205 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 206
+Module 7 · Lesson 168
+Next →
+Rational Judgments
+intermediate
+6 min
+Two Objections to the Atomists' First Proof
+Razi presents two objections to the first proof of the atomists.
+
+Learning Objective
+By the end of this lesson, you will understand two objections Razi raises against the first proof of the atomists: the reliance on an unproven denial of the indivisible atom and the argument that unity and number are accidents, not essential to the body's composition.
+
+Core Idea
+Razi challenges the atomist proof by arguing that unity and number are mere accidents, not essential composition.
+
+In this passage, Razi begins his critique of the atomists' first proof. He presents two objections. The first questions the proof's foundation on denying the indivisible atom, a claim not yet established. The second, more incisive objection, argues that even if division occurs, it only changes accidents like unity and multiplicity, not the body's essence. This sets the stage for a deeper discussion on the nature of composition.
+
+Guided Path
+1
+Identify the two objections
+Read the passage once to locate the two distinct objections. The first begins with 'السؤال الأول' and the second with 'السؤال الثاني'.
+The first objection is very brief; the second is longer and more detailed.
+2
+Analyze the first objection
+The first objection argues that the proof depends on denying the indivisible atom, but this issue was not yet resolved. Razi says it was discussed earlier, so the proof's foundation is questionable.
+This is a methodological objection: the proof presupposes a contested point.
+3
+Examine the second objection
+The second objection grants that the body is one continuous thing but argues that division only removes unity and adds multiplicity. Since philosophers agree unity and number are accidents, the proof only shows accidental change, not essential composition.
+Razi strengthens this by noting each part remains continuous after division.
+4
+Reflect on Razi's assessment
+Razi states that this objection is sound and that he found no satisfactory answer from opponents. He then mentions there are three ways to repel it, though they are not listed here.
+This suggests a forthcoming rebuttal or further discussion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الفصل الثاني في الاعتراض على حجج المثبتين [؟] الحيواس  نقول : أما الحجة الأولى : فالاعتراض عليها من وجوه : السؤال الأول : أن نقول : دليلكم بناء على نفي الجوهر الفرد . وقد سبق الاستقصاء في هذه المسألة نفياً وإثباتاً . السؤال الثاني : سلمنا : أن ال[؟]ملجسم في نفسه شيء واحد متصل . إلا أنا نقول : إنا لا نفهم من كونه متصلاً ، إلا أنه في نفسه شيء واحد . ولا نفهم من ورود الانفصال عليه إلا أنه صار اثنين . وعلى هذا التقدير . فالزائل هو الوحدة ، والطاريء هو التعدد والاثنينية . لكن الفلاسفة اتفقوا على أن الوحدة والعدد قائمة بالأجسام . فهذا الدليل الذي ذكرتم يقتضي كون الوحدة والعدد عرضين قائمين بالجسم ، ولا يقتضي وقوع التركيب في ماهية الجسم وفي ذاته وفي مقوماته . والذي يؤكد هذا السؤال : هو أن الجسم عند ورود الانفصال عليه لم يبطل اتصاله . لأن كل واحد من الجزءين ، يبقى متصلاً ، كما كان . إنما الزائد هو الوحدة فقط . وذلك يؤكد ما قلناه . واعلم : أن هذا السؤال كلام معقول حق . ولما أوردنا هذا السؤال على القوم، لم نجد عندهم جواباً شافياً في هذا الباب . ثم إنا لما وجدنا أن الذي يمكن أن يندفع به هذا السؤال وجوه ثلاثة :
+Chapter Two: On objecting to the proofs of the affirmers [؟] of atoms. We say: As for the first proof, the objection to it is from several faces: The first question: that we say: your proof is based on denying the indivisible atom. And the full investigation of this issue has already preceded, both denial and affirmation. The second question: we grant that the [؟] body in itself is one continuous thing. However we say: we do not understand from its being continuous except that it is in itself one thing. And we do not understand from the occurrence of division upon it except that it became two. On this supposition, what is removed is unity, and what arrives is multiplicity and duality. But the philosophers agree that unity and number subsist in bodies. So this proof that you have mentioned necessitates that unity and number are accidents subsisting in the body, and does not necessitate the occurrence of composition in the quiddity of the body, nor in its essence, nor in its constituents. And what confirms this question is that the body upon the occurrence of division does not lose its continuity, because each one of the two parts remains continuous as it was. Only unity is added. And that confirms what we have said. And know that this question is a sound, rational statement. And when we presented this question to the people, we did not find with them a sufficient answer in this chapter. Then we found that what can repel this question are three faces:
+Source pages p. 206
+
+Commentary
+This passage begins the second chapter, which focuses on objecting to the proofs of those who affirm the atom (al-muthbitun). It addresses the first proof with two objections (su'al). The first objection challenges the proof's reliance on denying the indivisible atom (al-jawhar al-fard), noting that this issue has been thoroughly discussed elsewhere and cannot be presupposed. The second objection is more substantive: even if we concede that the body is one continuous thing, the only change when division occurs is the loss of unity and the gain of multiplicity. The philosophers agree that unity and number are accidents (a'rad) that inhere in bodies, not essential properties. Therefore, the proof only shows that unity and number are accidents, not that the body's essence (mahiyya) or constituents (muqawwimat) are composite. The objector reinforces this by noting that after division, each part remains continuous as before; only the attribute of unity is lost. The author remarks that this objection is sound, and when he posed it to opponents, he found no satisfactory answer. However, he then states that there are three ways to repel this objection, though they are not elaborated in this passage.
+
+Key Terms
+جوهر فرد
+اتصال
+انفصال
+وحدة
+عدد
+عرض
+ماهية
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The objection denies that bodies have any composition at all.
+Correction: The objection does not deny composition; it argues that the atomist proof only shows accidental composition (unity and number as accidents), not that the body's essence is composite.
+
+Checkpoint
+What is the main point of the second objection to the first proof?
+A) The proof relies on an unproven denial of the atom.
+B) The proof only shows that unity and number are accidents, not that the body's essence is composite.
+C) The body never actually divides.
+D) Philosophers reject the concept of composition.
+
+Key Takeaway
+Razi's second objection reveals that the atomist proof only establishes accidental attributes, not essential composition.
+
+How This Lesson Applies — to MY Life?
+?
+When you think of your own identity as a continuous person, do you unconsciously believe that any change – like a new role or loss – 'disconnects' your essence? Razi argues that division only affects accidental unity, not the true self. What change are you currently allowing to define you as 'broken' when, in reality, your essence remains intact? Write down one specific situation where you can stop identifying with a lost attribute and instead hold fast to your unchanging innermost self.
+?
+Razi uses rational argument to show that the body's essence does not gain composition from division. This implies that many things we think are 'part of us' are just accidents. Consider one belief or possession you feel would 'destroy' you if lost. Is your attachment to that thing truly part of your essence, or is it an accident? What would it mean to live as if the core of you cannot be multiplied or divided by outer events?
+?
+The atomists' proof seemed solid, but Razi exposed its hidden assumption about the indivisible atom. In your own life, do you have a 'proof' – a belief about yourself or the world – that you have never questioned because it seems obvious? Would you be willing to examine it as rigorously as Razi examines the atomist argument, even if it means losing a comfortable certainty?
+
+Pages p. 206 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 212
+Module 7 · Lesson 169
+Next →
+Rational Judgments
+beginner
+5 min
+Geometric Proof Against Atomism
+Geometric proof that diagonal and side are incommensurable, refuting atomism.
+
+Learning Objective
+By the end of this lesson, you will understand how geometric incommensurability between the diagonal and side of a square refutes the atomistic claim that all objects are composed of identical indivisible parts.
+
+Core Idea
+Geometry proves the diagonal and side are incommensurable — atomism cannot explain this.
+
+The second argument against atomism uses a well-known geometric fact: the diagonal of a square and its side have no common measure. If atoms were identical units, any two lengths would be multiples of the same atom and thus commensurable. Since the diagonal and side are not commensurable, atomism fails. This short but powerful proof shows how mathematics can be used in theological debates.
+
+Guided Path
+1
+Read the passage and translation
+Read the Arabic passage once, then the translation. Let the logical flow of the argument settle.
+Notice the concise style: claim, hypothetical, conclusion.
+2
+Understand the geometric claim
+The diagonal and side of a square are incommensurable – they cannot be expressed as integer multiples of a common unit. This is a proven theorem.
+3
+Apply the proof to atomism
+If the square were composed of atoms, its diagonal and side would be multiples of the atom's size, making them commensurable. Since they are not, atomism is false.
+This refutes the atomic theory of matter as proposed by some kalam theologians.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الثانية : ثبت بالبراهين الهندسية : أن القطر مباين للضلع ، ولو كان القطر مركباً من الأجزاء التي لا تتجزأ ، والضلع ايضاً مركب من الأجزاء التي لا تتجزأ ، فحينئذ تكون نسبة القطر إلى الضلع ، كنسبة عدد إلى عدد ، آخر . وحينئذ يكونان مشتركين لا متباينين. فثبت بهذا : أن تركيب المربع من الجوهر الفرد محال . والله أعلم
+The second proof: It has been established by geometric proofs that the diagonal is distinct from the side. If the diagonal were composed of indivisible parts, and the side also composed of indivisible parts, then the ratio of the diagonal to the side would be as the ratio of a number to another number. Then they would be commensurable, not distinct. Thus it is established that the composition of the square from the indivisible atom is impossible. And God knows best.
+Source pages p. 212
+
+Commentary
+This passage gives a second argument against atomism using geometry. The author states that it is geometrically proven that the diagonal and side of a square are incommensurable (mubayin). If both were composed of indivisible atoms, their lengths would be multiples of the same atom, making them commensurable—they would share a common measure. But geometry shows they are not commensurable. Therefore, the composition of the square from indivisible atoms is impossible, thus refuting atomism.
+
+Key Terms
+القطر
+الضلع
+الجوهر الفرد
+المباينة
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that atoms could be different sizes, so the diagonal and side could be incommensurable even if composed of atoms.
+Correction: Kalam atomism posits that all atoms are identical in size and indivisible. If atoms varied, they would not be truly indivisible units, and the theory would lose its explanatory power. The proof assumes the standard atomist position of identical atoms.
+
+Checkpoint
+What does the geometric proof show about the diagonal and side?
+A) They are equal
+B) They are commensurable
+C) They are distinct (incommensurable)
+D) They are composed of the same atoms
+
+Key Takeaway
+The geometric incommensurability of the diagonal and side of a square proves that objects cannot be composed of identical indivisible atoms.
+
+How This Lesson Applies — to MY Life?
+?
+When you consider that even geometry—a tool of human reason—reveals a reality that cannot be reduced to simple, countable parts, how does that affect your confidence in your own ability to fully understand the world around you? What assumptions about God's creation might you be clinging to that are actually oversimplifications?
+?
+The atomists tried to explain everything in terms of tiny identical units, but the proof shows that reality is more complex and irreducible. In what areas of your life—your faith, your relationships, or your self-understanding—are you tempted to reduce things to overly simple explanations? Will you commit today to embracing the depths and mysteries that God has placed in His creation, rather than forcing them into a comfortable framework?
+?
+This argument forces you to accept that some things are simply incommensurable—they cannot be compared or reduced to a common measure. Is there a relationship, a trial, or a truth in your life that you have been trying to measure by worldly standards (e.g., success, happiness, worth)? What would it look like to let go of that measurement and trust that God's wisdom is beyond human calculation? Are you willing to make that surrender right now?
+
+Pages p. 212 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 213
+Module 7 · Lesson 170
+Next →
+Rational Judgments
+intermediate
+8 min
+Third Argument: Euclid's Parallel Lines Refute Atomism
+Third argument: Euclid's principle of equal areas under parallels used to refute atomism, with objection and answer.
+
+Learning Objective
+By the end of this lesson, you will understand how Euclid's geometric theorem about equal areas under parallels is used to argue against the existence of indivisible atoms, and how a geometric objection is resolved.
+
+Core Idea
+Geometry shows that area is conserved, disproving atomism's discrete parts.
+
+This lesson presents a sophisticated argument that uses Euclidean geometry to refute the atomist theory of the indivisible atom. The author invokes a theorem about parallelograms to show that atomism leads to a contradiction. An objection is raised and answered using the same geometric principles, revealing the depth of the theological engagement with mathematics.
+
+Guided Path
+1
+Read the passage and translation
+Read the Arabic passage once without analyzing, then read the English translation. Let the author's argument unfold naturally.
+Notice the use of a geometric theorem as a theological proof.
+2
+Understand Euclid's theorem
+Identify the theorem: parallelograms on the same base and between the same parallels have equal area. This is the foundation of the argument.
+Recall basic geometry: area = base × height.
+3
+See how atomism implies a contradiction
+If surfaces are made of atoms, two such surfaces with the same area must have the same number of atoms. But a long, thin surface would have more atoms along its length, leading to a different count. This contradiction refutes atomism.
+The argument assumes atoms are indivisible and arranged in lines.
+4
+Examine the objection and its resolution
+The objection claims Euclid's theorem itself leads to absurdity. The answer shows that width compensates for length to preserve area – no contradiction.
+The resolution relies on the geometric property of inclined sides.
+5
+Reflect on the method
+Consider how geometry is used as a rational proof in theology. This shows the interdisciplinary nature of classical kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الحجة الثالثة : إن ( أقليدس ) برهن في المقالة الأولى على أن السطوح المتوازية الأضلاع، التي تكون على قاعدة واحدة، في جهة واحدة ، وفيما بين خطوط بأعيانها متوازية . فإنه يجب أن يساوي بعضها بعضاً . وإذا ثبت هذا فنقول : إن هذا يبطل القول بالجوهر الفرد . لأنا إذا قدرنا أن أحد السطحين عشرة في عشرة ، حتى كان مجموعه مائة . وكان السطح الآخر مائة ، يلزم أن يكون مجموع الأجزاء الحاصلة في ذلك السطح، مساوية لمائة جزء . وذلك محال . فإن قالوا : فهذا المحال أيضاً لازم على ( أقليدس ، لأن أحد السطحين إذا كان ذراعاً في ذراع، والآخر طوله من المشرق إلى المغرب . فكيف يعقل كون أحدهما مساوياً للآخر ؟ قلنا : السطحان المتوازيان إذا كان أحدهما قائماً على قاعدته ، وكان الآخر ماثلاً ، وكانا جميعاً على قاعدة واحدة ، فيما بين خطين متوازيين . فإن بمقدار ما يزداد السطح الماثل في الطول ، فإنه ينتقص عن العرض . والمحال إنما كان يلزم ، لو كان عرض السطح الماثل بقدر القاعدة المشتركة لكنه ليس الأمر كذلك ، بل بمقدار ما ازداد في الطول ، انتقص عن العرض . فزال الإشكال . والله أعلم
+The third proof: Euclid proved in the first book that surfaces with parallel sides that are on the same base, in the same direction, and between the same parallel lines must equal each other. If this is established, we say: This invalidates the claim of the indivisible atom. For if we suppose that one of the surfaces is ten by ten, so its total is one hundred, and the other surface is one hundred, then the total of the parts obtained in that surface must be equal to one hundred parts, and that is impossible. If they say: This impossibility also follows from Euclid, because if one surface is a cubit by a cubit, and the other has a length from east to west, how can one be equal to the other? We say: Two parallel surfaces, if one is upright on its base and the other is inclined, and both are on the same base between two parallel lines, then to the extent that the inclined surface increases in length, it decreases in width. The impossibility would only follow if the width of the inclined surface were that of the common base, but the matter is not so; rather, as it increased in length, it decreased in width. So the difficulty is removed. And God knows best.
+Source pages p. 213
+
+Commentary
+This passage presents a third argument against atomism using Euclid's geometry. The author invokes Euclid's theorem: parallelograms on the same base and between the same parallels have equal area. If surfaces were made of indivisible atoms, two such surfaces with the same base and between the same parallels would have the same number of atoms (area). But if one surface is a 10x10 square (area 100) and the other is a very long but thin rectangle (also area 100), they would both have 100 atoms. However, according to atomism, the number of atoms in a line is discrete, so the long rectangle would have more atoms along its length, leading to more total atoms—a contradiction. An objection is raised: Euclid himself faces an absurdity if one surface is 1x1 and the other is extremely long, because how can they be equal? The answer is that the inclined surface compensates by decreasing in width as it increases in length, preserving area equality. Thus the objection fails, and the argument stands.
+
+Key Terms
+السطوح المتوازية
+القاعدة
+الجوهر الفرد
+الماثل
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The objection shows that Euclid's theorem is false or leads to absurdity.
+Correction: The objection misapplies the theorem by ignoring that width compensates length. The theorem remains valid.
+
+Checkpoint
+What does Euclid's theorem about surfaces on the same base and between parallels state?
+A) They are similar
+B) They are equal in area
+C) They are proportional
+D) They are composed of atoms
+
+Key Takeaway
+Euclid's geometry provides a clear argument against atomism by showing that area conservation contradicts the discrete nature of atoms.
+
+How This Lesson Applies — to MY Life?
+?
+This argument uses geometry to challenge a foundational belief about reality. Are there assumptions in your own worldview that you hold without proof? Would you be willing to reconsider them if a rational proof undermined them?
+?
+The objection raised is natural, but the answer shows that careful reasoning resolves it. When you encounter doubts about your faith, do you seek to resolve them with patient reasoning, or do you dismiss them? What step can you take today to engage with a doubt rationally?
+?
+Euclid's theorem shows that area is conserved even when shape changes. Reflect on something in your life that seems to be 'stretched' (time, energy, resources) but perhaps you assume it must be lost or divided. How might God's wisdom preserve what matters despite appearances?
+
+Pages p. 213 · Rational Judgments
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:53:49Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/Ashraf%20ul%20Hadaya%20Vol%2007_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/hanafi_fiqh/51 - Ashraf Ul Hadaya Vol 07 Merged With Pgs",
+  "output_bytes": 6020236,
+  "output_sha256": "89f69216dd621935fa7a3505fb821f5abb34201623b6178c270f9dc70e858f51",
+  "checks": {
+    "catalog_expected_lessons": 699,
+    "course_reported_lessons": 699,
+    "index_lessons": 699,
+    "full_lessons": 699,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 23,
+    "course_reported_modules": 23,
+    "modules": 23,
+    "course_reported_sources": 709,
+    "sources": 709
+  }
+}

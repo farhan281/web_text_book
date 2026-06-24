@@ -1,0 +1,1007 @@
+← Prev
+p. 37
+Module 14 · Lesson 1
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+Distinguishing Technical and General Meanings of Burhan
+Tablawi specifies that 'clear proof' here means any evidence, not specifically the logical syllogism of certain premises.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish the technical logical meaning of 'burhan' from its general usage in religious texts and explain the commentator's rationale for the broader interpretation.
+
+Core Idea
+The same Arabic term 'burhan' can mean different things depending on context: technical syllogism or any compelling evidence.
+
+In logic texts, 'burhan' is a technical term for a syllogism composed of certain premises that yields certainties. However, in many religious contexts—especially when discussing proofs of prophethood—'burhan' simply means any clear proof or evidence. This lesson examines a commentator's critical refinement to prevent confusion between the two senses and to ensure correct interpretation of theological texts.
+
+Guided Path
+1
+Identify the term under discussion
+Locate the phrase 'al-burhan al-wadih' in the source. The commentator is clarifying what 'burhan' means in this specific context.
+2
+Extract the technical definition that is excluded
+The commentator explicitly mentions the logical definition: 'a syllogism composed of certain premises to produce certainties'. Recognize that this is a precise technical meaning used in Aristotelian logic texts.
+3
+Contrast with the broader meaning intended
+The commentator states that the intended meaning is 'absolute proof' (mutlaq al-dalil). Observe that this includes any type of evidence—miracles, signs, rational arguments—not just formal syllogisms.
+4
+Understand the significance of the distinction
+Why does this matter? In the context of proving prophethood, the 'clear proof' often refers to miracles (mu'jizat) as evidence. Forcing a syllogistic interpretation would misrepresent the argument. The commentator safeguards against anachronistic application of logical terms.
+This step connects to the where_this_tool_lives section below.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: (بِالبُرْهَانِ الوَاضِحِ) ليس المراد بـ «البرهان»: خصوص الدَّليل المنطقي؛ الذي هو: «قياس مؤلَّفٌ مِن مقدِّماتٍ يقينيَّة لإنتاج اليقينيات»، بل المراد مطلق الدَّليل.
+His statement: 'by the clear proof' does not mean by 'burhan' the specific logical proof, which is 'a syllogism composed of certain premises to produce certainties', but rather it means absolute evidence.
+Source pages p. 37
+
+Commentary
+This passage is a critical refinement by al-Tablawi regarding the term 'burhan' in the main text. The main text says the Prophet Muhammad was confirmed by 'al-burhan al-wadih' (the clear proof). A student might assume that 'burhan' here refers to the technical logical term: a syllogism made up of certain premises that yields certain conclusions. Tablawi corrects this by stating that the intended meaning is 'absolute proof' (mutlaq al-dalil), not the specific logical syllogism. This is important because in the Prophet's context, the 'clear proof' refers to the miracles and signs that confirm his prophethood, not a formal Aristotelian syllogism. The commentator thus distinguishes between the ordinary language use of 'burhan' and the technical definition used in logic books.
+
+Key Terms
+برهان
+دليل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to Tablawi, 'al-burhan al-wadih' in the context of proving prophethood refers to:
+A) A formal syllogism with certain premises
+B) Absolute proof generally
+C) An inductive argument
+D) A dialectical argument
+
+Key Takeaway
+In Islamic theological contexts, 'burhan' often means any clear evidence, not just a logical syllogism.
+
+How This Lesson Applies — to MY Life?
+?
+1. Find three occurrences of 'burhan' in a standard kalam text (e.g., al-Sanusiyya). For each, determine whether it refers to the technical syllogistic sense or the general sense of proof, based on context. Write a sentence justifying each classification.
+?
+2. Write a brief note explaining why the commentator Tablawi insisted on the broader meaning in this particular passage about prophethood. What would be lost if 'burhan' were taken in the technical sense here?
+
+Pages p. 37 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 316
+Module 14 · Lesson 2
+Next →
+Demonstration -- Burhan
+intermediate
+8 min
+Tracing Premises to Self-Evident or Accepted Foundations
+Author explains that premises in a proof must terminate at necessary or accepted premises to avoid circularity or infinite regress.
+
+Learning Objective
+By the end of this lesson, you will be able to trace the chain of premises in a demonstrative argument and identify where each premise terminates in a necessary (daruriyya) or accepted (musallama) premise, avoiding circularity and infinite regress.
+
+Core Idea
+Every demonstrative chain must bottom out in self-evident or conceded premises—or it is a castle in the air.
+
+In this passage, the commentator expands on the matn line 'and they end at a necessity,' explaining that every premise in a demonstration must ultimately be grounded either in self-evident truths (darura) or in propositions conceded by the opponent (musallama). Without such foundations, the argument would either circle back on itself (dawr) or regress infinitely (tasalsul). You will learn to apply this criterion to any argument by tracing its premises back to their ultimate foundations.
+
+Guided Path
+1
+Identify the conclusion and initial premises
+Take a demonstrative argument, e.g., the kalām argument for the origination of bodies: 'Bodies have originated attributes; everything with originated attributes is originated; therefore bodies are originated.' List the two premises: the minor and the major.
+2
+Assess each premise's epistemological status
+Ask: Is this premise self-evident (necessary by observation or reason) or accepted by the opponent (musallama)? If yes, the chain ends. If not, proceed. For example, 'Bodies have changing attributes' is necessary by observation; but 'Everything changing is originated' is not self-evident.
+3
+Find the supporting argument for the non-obvious premise
+Look in the text for how the author proves the premise that needs support. Here, the author argues for the major premise by analyzing change: If change is from non-existence to existence, it's origination; if from existence to non-existence, it shows contingency and thus origination.
+4
+Repeat until all premises are necessary or accepted
+Each supporting argument introduces new premises. Continue until you reach premises that are either observed, self-evident, or conceded by the opponent. Verify there is no circularity (premise depending on conclusion) and no infinite regress (an endless chain without foundation).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قَوْلُهُ : (وَتَنْتَهِي ... إلخ) الضَّمِيرُ لِ المُقَدِّمَاتِ المَعْلُومَةِ مِنَ السِّيَاقِ. وَقَوْلُهُ : (إِلَى ضَرُورَةٍ) أَيْ : إِلَى ذَاتِ ضَرُورَةٍ؛ يَعْنِي : إِلَى مُقَدِّمَاتٍ ضَرُورِيَّةٍ، وَمِثْلُهَا المُقَدِّمَاتُ المُسَلَّمَةُ. وَمَحَلُّ مَا ذُكِرَ - كَمَا هُوَ ظَاهِرُ :- : إِذَا لَمْ تَكُنِ المُقَدِّمَاتُ نَفْسُهَا ضَرُورِيَّةٌ؛ كَمَا فِي قَوْلِكَ : الأَرْبَعَةُ عَدَدٌ يَنْقَسِمُ إِلَى مُتَسَاوِيَيْنِ، وَكُلُّ عَدَدٍ يَنْقَسِمُ إِلَى مُتَسَاوِيَيْنِ زَوْجُ، أَوْ مُسَلَّمَةٌ؛ كَمَا فِي قَوْلِكَ - مُشِيراً إِلَى فِعْلِ شَيْءٍ بِغَيْرِ حَقٍّ - : «هَذَا ظُلْمٌ، وَكُلُّ ظُلْمٍ قَبِيحٌ، وَإِلَّا فَلَا مَعْنَى لَهُ وَلَا حَاجَةَ إِلَيْهِ فِي الثَّانِي. فَتَلَخَّصَ : أَنَّ المُقَدِّمَاتِ إِنْ لَمْ تَكُنْ ضَرُورِيَّةٌ وَلَا مُسَلَّمَةٌ لَا بُدَّ أَنْ تَنْتَهِي إِلَى مُقَدِّمَاتٍ ضَرُورِيَّةٍ أَوْ مُسَلَّمَةٍ، فَإِذَا قُلْتَ مَثَلاً فِي الاسْتِدْلَالِ عَلَى حُدُوثِ الأَجْرَامِ : الأَجْرَامُ صِفَاتُهَا حَادِثَةٌ، وَكُلُّ مَا كَانَ كَذَلِكَ فَهُوَ حَادِثُ افْتَقَرَ كُلٌّ مِنْ مُقَدِّمَتَى هَذَا الدَّلِيلِ إِلَى الِاسْتِدْلَالِ عَلَيْهِ، حَتَّى يَنْتَهِي إِلَى مَا ذُكِرَ : - فَتَسْتَدِلُّ عَلَى الصُّغُرَى بِقَوْلِكَ : الأَجْرَامُ صِفَاتُهَا مُتَغَيِّرَةٌ، وَكُلُّ مُتَغَيِّرٍ حَادِثٌ»، وَالأُوْلَى مِنْ هَاتَيْنِ المُقَدِّمَتَيْنِ لَا تَحْتَاجُ إِلَى الاسْتِدْلَالِ؛ لِكَوْنِهَا ضَرُورِيَّةٌ بِالمُشَاهَدَةِ، وَالثَّانِيَةُ تَحْتَاجُ إِلَى الاسْتِدْلَالِ بـ: «أَنَّهُ إِنْ كَانَ التَّغَيُّرُ مِنْ عَدَمِ إِلَى وُجُودٍ كَانَ الوُجُودُ طَارِئًا، وَذَلِكَ هُوَ مَعْنَى الحُدُوثِ، وَإِنْ كَانَ مِنْ وُجُودٍ إِلَى عَدَمٍ كَانَ الوُجُودُ جَائِزًا، وَالجَائِزُ لَا يَكُونُ إِلَّا حَادِثًا».
+His saying: (and they end... etc.) The pronoun refers to the premises known from context. And his saying: (to a necessity) means to a necessary thing, i.e., to necessary premises, and like them are accepted premises. And the place of what was mentioned - as is apparent - is when the premises themselves are not necessary; as in your saying: 'Four is a number that divides into two equals, and every number that divides into two equals is even', or accepted; as in your saying - pointing to an action without right -: 'This is injustice, and every injustice is ugly'. Otherwise there is no meaning for it and no need for it in the second. So it is summarized: that the premises, if they are not necessary nor accepted, must end at necessary or accepted premises. For example, when you say in arguing for the origination of bodies: 'Bodies: their attributes are originated, and everything whose attributes are originated is originated', each of the two premises of this proof needs to be argued for, until it ends at what was mentioned: So you argue for the minor by your saying: 'Bodies: their attributes are changing, and everything changing is originated.' The first of these two premises does not need argumentation because it is necessary by observation, and the second needs argumentation by saying: 'If the change is from non-existence to existence, then the existence is accidental, and that is the meaning of origination; and if it is from existence to non-existence, then the existence is contingent, and the contingent is only originated.'
+Source pages p. 316
+
+Commentary
+This passage explains the epistemological requirement that a chain of premises in a demonstration must terminate at premises that are self-evident (daruriyya) or accepted (musallama). The author expands on the matn line 'And they end at a necessity' meaning that the premises must ultimately rest on necessary or accepted propositions. This is to avoid circularity (dawr) and infinite regress (tasalsul). The author gives examples: 'Four is a number that divides into two equals, and every such number is even' is a necessary premise; pointing to an unjust act and saying 'This is injustice, and every injustice is ugly' is an accepted premise. If the premises are not themselves necessary or accepted, they must be supported by further arguments that eventually reach such premises. The detailed example concerns the kalām argument for the origination of bodies: bodies have changing attributes, and everything with changing attributes is originated. The minor premise (bodies have changing attributes) is necessary through observation, but the major premise (everything changing is originated) requires further argument about the nature of change, leading to the conclusion that change implies origination (either from non-existence to existence, or from existence to non-existence indicating contingency, which necessitates origination).
+
+Key Terms
+ضرورة
+مسلمة
+دور
+تسلسل
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example argument for the origination of bodies, which premise is considered necessary through observation?
+A) Everything changing is originated
+B) Bodies have changing attributes
+C) Change implies origination
+D) Contingent things are originated
+
+Key Takeaway
+The foundational requirement for any demonstrative argument: its premises must ultimately rest on self-evident truths (darura) or accepted concessions (musallama), avoiding infinite regress and circularity.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following argument: 'Every intoxicant (khamr) is haram; nabidh (date wine) is intoxicating; therefore nabidh is haram.' Identify which premise(s) are necessary or accepted, and if any requires further support, sketch what that support would be.
+?
+Using the kalām argument from the lesson, write the complete chain of premises traced back to necessary or accepted premises, labeling each premise as daruriyya or musallama.
+
+Pages p. 316 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 316
+Module 14 · Lesson 3
+Next →
+Demonstration -- Burhan
+intermediate
+10 min
+Why Arguments Need Necessary Premises
+Commentary on the need for premises to end in necessity.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why a chain of reasoning must ultimately rest on necessary or conceded premises, and identify the fallacies of circularity and infinite regress.
+
+Core Idea
+Every proof must bottom out in self-evident or conceded premises, else it collapses into circularity or infinite regress.
+
+In this lesson, we explore a foundational principle of Islamic logic: that any argument must eventually reduce to premises that are either self-evident (daruri) or conceded by the opponent (musallam). The commentator unpacks this rule and illustrates it with a classic theological proof for the origination of bodies. Understanding this principle protects our reasoning from two dangerous pitfalls: circular reasoning (dawr) and infinite regress (tasalsul).
+
+Guided Path
+1
+Identify the two types of foundational premises
+The passage mentions necessary premises (daruriyya) which are self-evident, and conceded premises (musallama) which are accepted from the opponent without proof. Note that both serve as ultimate stopping points for demonstration.
+Examples: 'Four is an even number' (necessary) and 'This act is oppression' (conceded, if opponent agrees).
+2
+Trace the proof for huduth al-ajram
+The commentator gives a detailed example: proving that bodies are originated. The chain includes: bodies have changing accidents (observation) → every changing thing is originated (argued from the meaning of change) → everything whose accidents are originated is never free of originated things → does not precede them → therefore it is originated.
+Each premise is either observed or reduced to a necessary truth.
+3
+Observe how each chain ends in necessity
+The minor premise ends in an observational necessity (changing is seen), and the major premise ends in a logical necessity (if not free of originated things, then does not precede them, hence originated). The chain stops at these necessary propositions.
+The commentator emphasizes that each sub-proof also terminates in necessity.
+4
+Explain why dawr and tasalsul are avoided
+Without an endpoint, you either return to an earlier premise (dawr: circular dependence) or proceed infinitely (tasalsul: endless chain). Both are invalid because they prevent certainty. The requirement of necessity ensures the argument is grounded.
+Dawr and tasalsul are fallacies in demonstration; they make knowledge impossible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَتَنْتَهِي إِلَى ضَرُورَةٍ لِمَا مِنْ دَوْرٍ أَوْ تَسَلْسُلٍ قَدْ لَزِمَا. قَالَ الشَّارِحُ: قَوْلُهُ: (وَتَنْتَهِي) الضَّمِيرُ لِلْمُقَدِّمَاتِ الْمَعْلُومَةِ مِنَ السِّيَاقِ. وَقَوْلُهُ: (إِلَى ضَرُورَةٍ) أَيْ إِلَى ذَاتِ ضَرُورَةٍ يَعْنِي إِلَى مُقَدِّمَاتٍ ضَرُورِيَّةٍ، وَمِثْلُهَا الْمُقَدِّمَاتُ الْمُسَلَّمَةُ. وَمَحَلُّ مَا ذُكِرَ إِذَا لَمْ تَكُنِ الْمُقَدِّمَاتُ نَفْسُهَا ضَرُورِيَّةً كَمَا فِي قَوْلِكَ: الْأَرْبَعَةُ عَدَدٌ يَنْقَسِمُ إِلَى مُتَسَاوِيَيْنِ، وَكُلُّ عَدَدٍ يَنْقَسِمُ إِلَى مُتَسَاوِيَيْنِ زَوْجٌ، أَوْ مُسَلَّمَةً كَمَا فِي قَوْلِكَ مُشِيراً إِلَى فِعْلِ شَيْءٍ بِغَيْرِ حَقٍّ: هَذَا ظُلْمٌ وَكُلُّ ظُلْمٍ قَبِيحٌ. فَتَلَخَّصَ: أَنَّ الْمُقَدِّمَاتِ إِنْ لَمْ تَكُنْ ضَرُورِيَّةً وَلَا مُسَلَّمَةً لَا بُدَّ أَنْ تَنْتَهِيَ إِلَى مُقَدِّمَاتٍ ضَرُورِيَّةٍ أَوْ مُسَلَّمَةٍ. فَإِذَا قُلْتَ مَثَلًا فِي الِاسْتِدْلَالِ عَلَى حُدُوثِ الْأَجْرَامِ: الْأَجْرَامُ صِفَاتُهَا حَادِثَةٌ، وَكُلُّ مَا كَانَ كَذَلِكَ فَهُوَ حَادِثٌ، افْتَقَرَ كُلٌّ مِنْ مُقَدِّمَتَيْ هَذَا الدَّلِيلِ إِلَى الِاسْتِدْلَالِ عَلَيْهِ حَتَّى يَنْتَهِيَ إِلَى مَا ذُكِرَ. فَتَسْتَدِلُّ عَلَى الصُّغْرَى بِقَوْلِكَ: الْأَجْرَامُ صِفَاتُهَا مُتَغَيِّرَةٌ، وَكُلُّ مُتَغَيِّرٍ حَادِثٌ. وَالْأُولَى مِنْ هَاتَيْنِ الْمُقَدِّمَتَيْنِ لَا تَحْتَاجُ إِلَى الِاسْتِدْلَالِ لِكَوْنِهَا ضَرُورِيَّةً بِالْمُشَاهَدَةِ، وَالثَّانِيَةُ تَحْتَاجُ إِلَى الِاسْتِدْلَالِ بِأَنَّهُ إِنْ كَانَ التَّغَيُّرُ مِنْ عَدَمٍ إِلَى وُجُودٍ كَانَ الْوُجُودُ طَارِئًا وَذَلِكَ هُوَ مَعْنَى الْحُدُوثِ، وَإِنْ كَانَ مِنْ وُجُودٍ إِلَى عَدَمٍ كَانَ الْوُجُودُ جَائِزًا وَالْجَائِزُ لَا يَكُونُ إِلَّا حَادِثًا. وَتَسْتَدِلُّ عَلَى الْكُبْرَى بِقَوْلِكَ: كُلُّ مَنْ صِفَاتُهُ حَادِثَةٌ لَا يَعْرَى عَنِ الْحَوَادِثِ، وَكُلُّ مَا لَا يَعْرَى عَنِ الْحَوَادِثِ لَا يَسْبِقُهَا، وَكُلُّ مَا لَا يَسْبِقُهَا حَادِثٌ. فَقَدِ انْتَهَى كُلٌّ مِنَ الصُّغْرَى وَالْكُبْرَى إِلَى الضَّرُورَةِ. وَلَا عِبْرَةَ بِاعْتِرَاضَاتِ الْفَلَاسِفَةِ عَلَى بَعْضِ تِلْكَ الْمُقَدِّمَاتِ لِأَنَّهَا مُجَرَّدُ مُكَابَرَةٍ. قَوْلُهُ: (لِمَا مِنْ دَوْرٍ) وَجْهُهُ: أَنَّهُ لَوْ لَمْ تَنْتَهِ الْمُقَدِّمَاتُ إِلَى ذَلِكَ لَزِمَ تَوَقُّفُ الْعِلْمِ بِهَا عَلَى غَيْرِهَا، وَكَذَا الْحَالُ فِي ذَلِكَ الْغَيْرِ، فَإِنْ عُدْنَا إِلَى بَعْضِ الْأَوَائِلِ لَزِمَ الدَّوْرُ وَهُوَ تَوَقُّفُ شَيْءٍ عَلَى مَا يَتَوَقَّفُ عَلَيْهِ، وَإِنْ ذَهَبْنَا لَا إِلَى غَايَةٍ لَزِمَ التَّسَلْسُلُ وَهُوَ تَوَقُّفُ أَمْرٍ عَلَى أَمْرٍ آخَرَ مُتَوَقِّفٍ عَلَى أَمْرٍ آخَرَ وَهَكَذَا إِلَى مَا لَا نِهَايَةَ لَهُ.
+And they (the premises) end in necessity, because otherwise a cycle or infinite regress would necessarily occur. The commentator said: His saying 'end' refers to the premises known from context. His saying 'to necessity' means to a necessary thing, i.e., to necessary premises, and conceded premises are similar. And the place of what is mentioned is when the premises themselves are not necessary, as in your saying: 'Four is a number that divides into two equal parts, and every number that divides into two equal parts is even', or conceded, as in your saying, pointing to an action without right: 'This is oppression, and every oppression is ugly'. To summarize: premises that are not necessary nor conceded must end in necessary or conceded premises. For example, when arguing for the origination of bodies: 'Bodies have accidents that are originated, and everything that has originated accidents is originated', each of the two premises of this proof requires proof until it ends in what was mentioned. So you prove the minor by saying: 'Bodies have changing accidents, and everything changing is originated.' The first of these two premises does not need proof because it is necessary by observation, and the second needs proof by saying: 'If change is from non-existence to existence, then existence is emergent, and that is the meaning of origination; and if it is from existence to non-existence, then existence is contingent, and the contingent is only originated.' And you prove the major by saying: 'Everything whose accidents are originated is never free of originated things, and everything that is never free of originated things does not precede them, and everything that does not precede them is originated.' So each of the minor and major has ended in necessity. And no attention is paid to the philosophers' objections to some of those premises, because they are mere obstinacy. His saying: 'because of a cycle' — its explanation: if the premises did not end in that, then knowledge of them would depend on others, and so on. If we return to some of the first ones, a cycle would occur — which is the dependence of a thing on that which itself depends on it. And if we go on without an end, an infinite regress would occur — which is the dependence of a matter on another matter that depends on another, and so on indefinitely.
+Source pages p. 316
+
+Commentary
+This passage is an explanation of the matn line 'وَتَنْتَهِي إِلَى ضَرُورَةٍ لِمَا مِنْ دَوْرٍ أَوْ تَسَلْسُلٍ' which states that any chain of reasoning must ultimately rest on necessary principles to avoid two logical fallacies: circular reasoning (dawr) and infinite regress (tasalsul). The commentator first clarifies the referent of the pronoun in 'تَنْتَهِي' as the premises known from context. He then explains that 'to necessity' means to necessary premises (badihiyyat) or conceded premises (musallamat) which are accepted without proof. He gives examples: a necessary premise like 'every number that divides into two equal parts is even' (though the example of 'four' is actually a particular, but it's used to illustrate a general necessary truth), and a conceded premise like 'this is oppression, and every oppression is ugly' (a moral judgment conceded by the opponent). The commentator then summarizes that if premises are not necessary or conceded, they must be proven until reaching such premises. He provides a detailed example from theology: proving the origination of bodies (huduth al-ajram). The minor premise 'Bodies have accidents that are originated' is proven by showing that bodies have changing accidents, which is known by observation, and then establishing that every changing thing is originated. The second premise 'Every changing thing is originated' is argued by analyzing change: change from non-existence to existence implies emergence (huduth), and change from existence to non-existence implies contingency, and everything contingent is originated. The major premise 'Everything whose accidents are originated is itself originated' is proven by showing that such a thing is never devoid of originated accidents, hence does not precede them, and hence is originated. Thus both premises end in necessary truths. The commentator dismisses objections from philosophers as mere obstinacy (mukabarah). Finally, he explains the logical rationale: without an endpoint, either one returns to an earlier premise (dawr) or proceeds infinitely (tasalsul), both of which are invalid.
+
+Key Terms
+ضَرُورَة
+دَوْر
+تَسَلْسُل
+مُسَلَّمَة
+حُدُوث
+مُكَابَرَة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentary, what are the two consequences of failing to end reasoning in necessary or conceded premises?
+A) Circularity and infinite regress.
+B) Falsehood and doubt.
+C) Ignorance and error.
+D) Belief and certainty.
+
+Key Takeaway
+A sound argument must ultimately rest on premises that are either self-evident or accepted by the opponent, otherwise it leads to logical collapse into circularity or infinite regress.
+
+How This Lesson Applies — to MY Life?
+?
+Take the argument: 'Smoking is harmful; everything harmful is prohibited (in Islamic law, given the principle of harm), therefore smoking is prohibited.' Identify which premises are necessary or conceded, and which need proof. Trace how you would reduce the chain to necessity (e.g., harm is known by observation or medical consensus).
+?
+Construct a simple syllogism on a fiqh issue of your choice (e.g., 'Alcohol is an intoxicant, every intoxicant is forbidden, therefore alcohol is forbidden') and show how each premise can be traced back to a necessary (textual or rational) or conceded premise.
+
+Pages p. 316 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 698
+Module 14 · Lesson 4
+Next →
+Demonstration -- Burhan
+intermediate
+7 min
+The Components of Demonstration: Necessary and Theoretical Premises
+Definition and classification of premises in demonstration.
+
+Learning Objective
+By the end of this lesson, you will be able to classify the premises of a demonstration as necessary or theoretical and provide examples of each type.
+
+Core Idea
+Demonstration is certain, but its premises may be self-evident or derived, as long as the chain reaches necessity.
+
+In this passage, the commentator explains that a demonstration (burhan) can be composed of necessary premises, theoretical premises, or a mix of both. Understanding this distinction is crucial for evaluating the certainty of theological proofs.
+
+Guided Path
+1
+Identify the definition of burhan
+Locate the definition: it is a syllogism composed of certain propositions. Note that the commentator says it will come that demonstration is such.
+The term 'certain' (yaqiniyya) encompasses both necessary and theoretical.
+2
+Distinguish necessary from theoretical
+Necessary premises are self-evident (e.g., 'Half of four is two'); theoretical premises are acquired through reasoning (e.g., 'The world is temporal').
+Necessary premises require no proof; theoretical premises depend on demonstration.
+3
+Examine the three examples
+Identify for each example which premises are necessary and which are theoretical. The first example has two necessary premises; the second has two theoretical; the third has one necessary (minor) and one theoretical (major).
+4
+Test the mixed example
+For 'The accident inheres in the body' (necessary) and 'Everything inhering in the body is temporal' (theoretical), note that the minor is observational and the major requires proof.
+This shows that both types can coexist in one syllogism.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: (وَتَنْتَهِي إِلَى ضَرُورَةٍ؛ لِمَا مِنْ دَوْرٍ أَوْ تَسَلْسُلٍ قَدْ لَزِمَا سَيَأْتِي أَنَّ البُرْهَانَ هُوَ القِيَاسُ المُؤَلَّفُ مِنَ القَضَايَا اليَقِينِيَّةِ ؛ ضَرُورِيَّةٌ كَانَتْ أَوْ نَظَرِيَّةٌ مُكْتَسَبَةٌ مِنْهَا ، فَالمُؤَلَّفَ مِنَ الضَّرُورِيَّاتِ ، كَقَوْلِنَا : نِصْفُ الأَرْبَعَةِ اثْنَانِ، وَكُلُّ اثْنَيْنِ ؛ زَوْجٌ، وَمِنَ النَّظَرِيَّاتِ ؛ كَقَوْلِنَا : العَالَمُ حَادِثٌ وَكُلُّ حَادِثٍ مُفْتَقِرٌ إِلَى مُحْدِثِ ، وَمِنَ النَّوْعَيْنِ؛ نَحْوُ : العَرَضُ قَائِمٌ بِالجِرْمِ، وَكُلُّ قَائِمِ بِالجِرْمِ حَادِثٌ، فَالصُّغْرَى ضَرُورِيَّةٌ وَالكُبْرَى نَظَرِيَّةٌ . وَأَفَادَ هُنَا أَنَّ البُرْهَانَ إِنْ تَأَلَّفَ مِنَ النَّظَرِيَّاتِ، فَلَا بُدَّ أَنْ تَكُونَ مُنْتَهِيةٌ إِلَى الضَّرُورِيَّاتِ، وَإِلَّا لَزِمَ الدَّوْرُ إِنِ اسْتُدِلَ بِالمَطْلُوبِ عَلَى المُقَدِّمَاتِ ، أَوِ التَسَلْسُلُ إِنِ اسْتُدِلَّ عَلَى المَطْلُوبِ بِقَضِيَّةٍ ثُمَّ عَلَيْهَا بِأُخْرَى إِلَى غَيْرِ نِهَايَةٍ، وَلَوْ أَخَّرَ هَذَا البَيْتَ حَتَّى يَتَكَلَّمَ عَلَى مَوَادِّ البُرْهَانِ، كَانَ أَوْلَى .
+His statement: (And it ends in necessity, because of circularity or infinite regress that would necessarily occur. It will come that demonstration is the syllogism composed of certain propositions, whether necessary or theoretical acquired from them. So what is composed of necessities, like our saying: 'Half of four is two, and every two is even.' And from theoreticals, like our saying: 'The world is temporal, and every temporal is in need of an originator.' And from both types, like: 'The accident inheres in the body, and everything inhering in the body is temporal.' So the minor is necessary and the major is theoretical. And he indicated here that if demonstration is composed of theoreticals, then it must end in necessities. Otherwise, circularity would follow if the sought [conclusion] is used to prove the premises, or infinite regress if the sought is proven by a proposition, then that by another to no end. And if he had delayed this verse until he spoke about the matters of demonstration, it would have been better.)
+Source pages p. 698
+
+Commentary
+This passage discusses the foundation of demonstration (برهان). The author defines demonstration as a syllogism composed of certain propositions, whether these propositions are necessary (ضرورية) or theoretical (نظرية) derived from necessary ones. Three examples illustrate: (1) All necessary premises: 'Half of four is two, and every two is even' – both premises are necessary. (2) All theoretical premises: 'The world is temporal, and everything temporal needs an originator' – both are theoretical. (3) Mixed: 'The accident inheres in the body, and everything inhering in the body is temporal' – the minor is necessary (accidents are observed to inhere), the major is theoretical. The key epistemological point is that theoretical premises in a demonstration must ultimately trace back to necessary premises. If they do not, two problems arise: either circularity (دور) if the conclusion is used to prove the premises, or infinite regress (تسلسل) if each premise requires proof from another premise ad infinitum. Thus, all demonstrative knowledge rests on a foundation of self-evident necessary truths. The commentator notes that the versifier might have better placed this verse later when discussing the matters (materials) of demonstration.
+
+Key Terms
+بُرْهَان
+ضَرُورِيَّة
+نَظَرِيَّة
+دَوْر
+تَسَلْسُل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which of the following is an example of a necessary premise?
+A) The world is temporal.
+B) Half of four is two.
+C) Everything temporal needs an originator.
+D) The accident inheres in the body.
+
+Key Takeaway
+The certainty of a demonstration depends on its premises being either self-evident or derived from self-evident truths.
+
+How This Lesson Applies — to MY Life?
+?
+Take the following demonstration: 'The Qur'an is the word of God; every word of God is true; therefore the Qur'an is true.' Identify which premises are necessary and which are theoretical.
+
+Pages p. 698 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 698
+Module 14 · Lesson 5
+Next →
+Demonstration -- Burhan
+intermediate
+7 min
+Avoiding Circularity and Infinite Regress in Demonstration
+Explanation of why theoretical premises must rest on necessary ones.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why theoretical premises in a demonstration must ultimately trace back to necessary premises to avoid circularity (dawr) and infinite regress (tasalsul).
+
+Core Idea
+Without a foundation in necessary truths, proof either loops back on itself or recedes endlessly.
+
+The commentator now addresses a critical epistemological point: if theoretical premises are not grounded in necessary ones, the argument suffers from either circularity or an infinite chain. This is why all knowledge ultimately rests on self-evident foundations.
+
+Guided Path
+1
+State the problem
+The commentator says demonstrations composed of theoreticals must end in necessities. Otherwise, two problems arise.
+2
+Identify the two possible fallacies
+Circularity (dawr): the conclusion is used to prove the premises. Infinite regress (tasalsul): each premise requires another premise ad infinitum.
+These are logical impossibilities for a valid demonstration.
+3
+Understand why they are unacceptable
+Circularity makes the argument invalid because it assumes what it aims to prove. Infinite regress means the argument is never complete, so no conclusion is established.
+Both undermine the certainty required for demonstration.
+4
+Apply to a Kalam argument
+Consider burhan al-huduth: the major premise 'Everything temporal needs an originator' is theoretical. It must be proven from self-evident premises (e.g., that change requires a cause). Trace it back until you reach a necessary truth.
+This illustrates how the chain of reasoning terminates in necessity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: (وَتَنْتَهِي إِلَى ضَرُورَةٍ؛ لِمَا مِنْ دَوْرٍ أَوْ تَسَلْسُلٍ قَدْ لَزِمَا سَيَأْتِي أَنَّ البُرْهَانَ هُوَ القِيَاسُ المُؤَلَّفُ مِنَ القَضَايَا اليَقِينِيَّةِ ؛ ضَرُورِيَّةٌ كَانَتْ أَوْ نَظَرِيَّةٌ مُكْتَسَبَةٌ مِنْهَا ، فَالمُؤَلَّفَ مِنَ الضَّرُورِيَّاتِ ، كَقَوْلِنَا : نِصْفُ الأَرْبَعَةِ اثْنَانِ، وَكُلُّ اثْنَيْنِ ؛ زَوْجٌ، وَمِنَ النَّظَرِيَّاتِ ؛ كَقَوْلِنَا : العَالَمُ حَادِثٌ وَكُلُّ حَادِثٍ مُفْتَقِرٌ إِلَى مُحْدِثِ ، وَمِنَ النَّوْعَيْنِ؛ نَحْوُ : العَرَضُ قَائِمٌ بِالجِرْمِ، وَكُلُّ قَائِمِ بِالجِرْمِ حَادِثٌ، فَالصُّغْرَى ضَرُورِيَّةٌ وَالكُبْرَى نَظَرِيَّةٌ . وَأَفَادَ هُنَا أَنَّ البُرْهَانَ إِنْ تَأَلَّفَ مِنَ النَّظَرِيَّاتِ، فَلَا بُدَّ أَنْ تَكُونَ مُنْتَهِيةٌ إِلَى الضَّرُورِيَّاتِ، وَإِلَّا لَزِمَ الدَّوْرُ إِنِ اسْتُدِلَ بِالمَطْلُوبِ عَلَى المُقَدِّمَاتِ ، أَوِ التَسَلْسُلُ إِنِ اسْتُدِلَّ عَلَى المَطْلُوبِ بِقَضِيَّةٍ ثُمَّ عَلَيْهَا بِأُخْرَى إِلَى غَيْرِ نِهَايَةٍ، وَلَوْ أَخَّرَ هَذَا البَيْتَ حَتَّى يَتَكَلَّمَ عَلَى مَوَادِّ البُرْهَانِ، كَانَ أَوْلَى .
+His statement: (And it ends in necessity, because of circularity or infinite regress that would necessarily occur. It will come that demonstration is the syllogism composed of certain propositions, whether necessary or theoretical acquired from them. So what is composed of necessities, like our saying: 'Half of four is two, and every two is even.' And from theoreticals, like our saying: 'The world is temporal, and every temporal is in need of an originator.' And from both types, like: 'The accident inheres in the body, and everything inhering in the body is temporal.' So the minor is necessary and the major is theoretical. And he indicated here that if demonstration is composed of theoreticals, then it must end in necessities. Otherwise, circularity would follow if the sought [conclusion] is used to prove the premises, or infinite regress if the sought is proven by a proposition, then that by another to no end. And if he had delayed this verse until he spoke about the matters of demonstration, it would have been better.)
+Source pages p. 698
+
+Commentary
+This passage discusses the foundation of demonstration (برهان). The author defines demonstration as a syllogism composed of certain propositions, whether these propositions are necessary (ضرورية) or theoretical (نظرية) derived from necessary ones. Three examples illustrate: (1) All necessary premises: 'Half of four is two, and every two is even' – both premises are necessary. (2) All theoretical premises: 'The world is temporal, and everything temporal needs an originator' – both are theoretical. (3) Mixed: 'The accident inheres in the body, and everything inhering in the body is temporal' – the minor is necessary (accidents are observed to inhere), the major is theoretical. The key epistemological point is that theoretical premises in a demonstration must ultimately trace back to necessary premises. If they do not, two problems arise: either circularity (دور) if the conclusion is used to prove the premises, or infinite regress (تسلسل) if each premise requires proof from another premise ad infinitum. Thus, all demonstrative knowledge rests on a foundation of self-evident necessary truths. The commentator notes that the versifier might have better placed this verse later when discussing the matters (materials) of demonstration.
+
+Key Terms
+بُرْهَان
+ضَرُورِيَّة
+نَظَرِيَّة
+دَوْر
+تَسَلْسُل
+
+Key Terms from Source Passage
+
+Checkpoint
+What are the two unacceptable consequences if a demonstration's theoretical premises do not ultimately rest on necessary premises?
+A) The premises become false.
+B) Circularity or infinite regress.
+C) The argument becomes dialectical.
+D) The conclusion becomes probable.
+
+Key Takeaway
+Every chain of demonstrative reasoning must terminate in self-evident truths, or it collapses into circularity or an infinite series.
+
+How This Lesson Applies — to MY Life?
+?
+Examine this argument: 'The world is created because it is temporal. Why is it temporal? Because it is created.' Identify the fallacy and explain how to fix it.
+
+Pages p. 698 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 698
+Module 14 · Lesson 6
+Next →
+Demonstration -- Burhan
+intermediate
+8 min
+Why Demonstration Must End in Necessary Premises
+Author explains that demonstration must ultimately rest on necessary premises to avoid circularity or infinite regress.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why a valid demonstration must ultimately rest on necessary premises and identify the two fallacies (circularity and infinite regress) that result otherwise.
+
+Core Idea
+Demonstration is only as strong as its epistemological foundation: every chain of reasoning must anchor in self-evident truths.
+
+In this passage, the author clarifies a crucial requirement for any valid demonstration (burhan). While a demonstration can include theoretical propositions derived from reasoning, those propositions must ultimately be traced back to necessary, self-evident premises. Without this foundation, the entire proof collapses into circular reasoning or an endless chain of justifications.
+
+Guided Path
+1
+Identify the core claim
+The passage states that every burhan must end in necessary premises (tantalii ila darura). What does this mean? It means that any demonstration's chain of reasoning must terminate at premises that are self-evident or necessary (daruriyyat), not merely theoretical.
+The author emphasizes that otherwise, two problems arise: circularity (dawr) or infinite regress (tasalsul).
+2
+Distinguish necessary vs theoretical premises
+The author gives three examples: a syllogism of only necessary premises (e.g., half of four is two; every two is even); one of only theoretical premises (e.g., the world is originated; every originated thing requires an originator); and one mixed (minor necessary, major theoretical). Classify each premise in these examples as necessary or theoretical based on whether it is self-evident or requires proof.
+Necessary premises are known immediately; theoretical premises are known through reasoning and ultimately depend on necessary ones.
+3
+Trace the epistemological chain
+For the mixed syllogism, the minor premise 'The accident subsists in the body' is necessary (self-evident from observation), but the major 'Everything subsisting in the body is originated' is theoretical. However, that major itself must be derived from necessary truths about temporality and contingency. Trace a theoretical premise back to a necessary foundation.
+This ensures that the chain of reasoning does not go on infinitely or loop back on itself.
+4
+Recognize the two dangers
+The author warns that if theoretical premises do not trace back to necessary ones, we face either circularity (using the conclusion as a premise to prove itself) or infinite regress (each premise needing a new proof without end). Understand why each is fatal to certainty.
+Circularity: dawr; infinite regress: tasalsul. Both destroy the certainty that burhan requires.
+5
+Apply to an Islamic example
+Take the classic kalam argument: 'The world is originated; everything originated has an originator; therefore the world has an originator.' The premise 'the world is originated' is theoretical, proven by arguments about change and contingency. That chain must ultimately rely on a necessary premise like 'Every change implies a changer,' which is self-evident to reason.
+If one questioned 'Why does every change imply a changer?' and answered with another theoretical premise, the chain would regress without a necessary foundation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قَوْلُهُ : (۹۹) وَتَنْتَهِي إِلَى ضَرُورَةٍ؛ لِمَا مِنْ دَوْرٍ أَوْ تَسَلْسُلٍ قَدْ لَزِمَا سَيَأْتِي أَنَّ الْبُرْهَانَ هُوَ الْقِيَاسُ الْمُؤَلَّفُ مِنَ الْقَضَايَا الْيَقِينِيَّةِ ؛ ضَرُورِيَّةٌ كَانَتْ أَوْ نَظَرِيَّةٌ مُكْتَسَبَةٌ مِنْهَا ، فَالْمُؤَلَّفَ مِنَ الضَّرُورِيَّاتِ ، كَقَوْلِنَا : نِصْفُ الْأَرْبَعَةِ اثْنَانِ، وَكُلُّ اثْنَيْنِ زَوْجٌ، وَمِنَ النَّظَرِيَّاتِ ؛ كَقَوْلِنَا : الْعَالَمُ حَادِثٌ وَكُلُّ حَادِثٍ مُفْتَقِرٌ إِلَى مُحْدِثِ ، وَمِنَ النَّوْعَيْنِ؛ نَحْوُ : الْعَرَضُ قَائِمٌ بِالْجِرْمِ، وَكُلُّ قَائِمِ بِالْجِرْمِ حَادِثٌ، فَالصُّغْرَى ضَرُورِيَّةٌ وَالْكُبْرَى نَظَرِيَّةٌ . وَأَفَادَ هُنَا أَنَّ الْبُرْهَانَ إِنْ تَأَلَّفَ مِنَ النَّظَرِيَّاتِ، فَلَا بُدَّ أَنْ تَكُونَ مُنْتَهِيةً إِلَى الضَّرُورِيَّاتِ، وَإِلَّا لَزِمَ الدَّوْرُ إِنِ اسْتُدِلَّ بِالْمَطْلُوبِ عَلَى الْمُقَدِّمَاتِ ، أَوِ التَّسَلْسُلُ إِنِ اسْتُدِلَّ عَلَى الْمَطْلُوبِ بِقَضِيَّةٍ ثُمَّ عَلَيْهَا بِأُخْرَى إِلَى غَيْرِ نِهَايَةٍ، وَلَوْ أَخَّرَ هَذَا الْبَيْتَ حَتَّى يَتَكَلَّمَ عَلَى مَوَادِّ الْبُرْهَانِ، كَانَ أَوْلَى .
+His statement: (99) And it ends in necessity; because of a cycle or infinite regress that has been necessitated. It will come that demonstration is the syllogism composed of certain propositions; whether necessary or theoretical derived from them. So the composed of necessary ones, like our saying: Half of four is two, and every two is even; and of theoretical ones, like our saying: The world is originated and every originated thing requires an originator; and of both types, like: The accident subsists in the body, and everything subsisting in the body is originated, so the minor is necessary and the major is theoretical. And it is indicated here that if demonstration is composed of theoretical premises, then they must end in necessary premises; otherwise, circularity would result if the conclusion is used to prove the premises, or infinite regress if one proves the conclusion with a proposition and then that with another without end. And if he had delayed this line until discussing the matter of demonstration, it would have been better.
+Source pages p. 698
+
+Commentary
+This passage defines and explains a core condition of valid demonstration (burhan). The author begins by citing the matn line that demonstration must end in what is necessary (daruri). He then clarifies that burhan is a syllogism of certain propositions, which may be either necessary (self-evident) or theoretical (derived from necessary ones). Examples illustrate each case: a necessary syllogism (half of four is two; every two is even), a theoretical syllogism (the world is originated; everything originated needs an originator), and a mixed syllogism where the minor is necessary (accident subsists in body) and the major is theoretical (everything subsisting in body is originated). The main point follows: if a demonstration uses only theoretical premises, those premises must ultimately trace back to necessary premises. Without this foundation, one falls into circular reasoning (using the conclusion as a premise) or an infinite regress (each new premise needing its own proof). This principle is epistemologically crucial: all chains of reasoning must rest on foundational self-evident truths. The author ends with a pedagogical suggestion that the point would better have been placed later in the discussion of the materials of demonstration.
+
+Key Terms
+البرهان
+الضروريات
+النظريات
+الدور
+التسلسل
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the consequence if a demonstration's theoretical premises do not ultimately end in necessary premises?
+A) The demonstration becomes invalid.
+B) It leads to circularity or infinite regress.
+C) The premises become unnecessary.
+D) The conclusion becomes uncertain.
+
+Key Takeaway
+Every valid demonstration must ultimately rest on self-evident necessary premises; otherwise, the proof becomes circular or infinitely regressive.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the kalam proof: 'The world is a substance; every substance requires a creator.' The premise 'every substance requires a creator' is a theoretical claim. Trace its justification back to a necessary premise. What necessary premise does it ultimately rest on? (Hint: think about the impossibility of temporal regress without a first cause.)
+?
+Identify whether the following argument chain involves circularity or infinite regress: 'A is B because of C; C is D because of E; E is F because of A.' Explain your reasoning.
+
+Pages p. 698 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 698
+Module 14 · Lesson 7
+Next →
+Demonstration -- Burhan
+intermediate
+8 min
+Evaluating the Quranic Argument Against Multiple Gods
+Author analyzes the Quranic verse as a demonstration, discussing whether the implication is customary or rational.
+
+Learning Objective
+By the end of this lesson, you will be able to analyze the Quranic conditional argument against multiple gods and distinguish between customary and rational implications.
+
+Core Idea
+The Quranic argument's logical force depends on whether the implication is customary or rational.
+
+The Quranic verse 'If there were gods in them other than Allah, they would have corrupted' is a powerful argument for tawheed. But is it a certain demonstration or a persuasive rhetorical proof? In this lesson, we examine how classical scholars analyzed the nature of the implication (mulazama) between plurality and corruption, and how this affects the argument's status.
+
+Guided Path
+1
+Reconstruct the conditional syllogism
+Identify the major premise: 'If there were multiple gods, then the heavens and earth would have corrupted.' The minor premise (implied) is: 'They have not corrupted.' The conclusion: 'Therefore, there are not multiple gods.' This is modus tollens.
+The verse explicitly states the conditional, but the exception is omitted, as typical in rhetorical contexts.
+2
+Identify the type of implication claimed by al-Taftazani
+Al-Sa'd al-Taftazani argues that the implication is customary (mulazama 'adiyya): based on habitual observation that multiple rulers cause chaos. This makes the argument persuasive, not certain.
+Customary implication is weaker because it relies on empirical regularity, not logical necessity.
+3
+Consider the rational interpretation advocated by al-Sanusi
+Al-Sanusi interprets 'corruption' as non-existence: multiple gods would entail inability or contradiction, so a single necessary being is required. This is a rational (aqli) implication yielding certainty.
+This interpretation strengthens the argument to demonstrative status.
+4
+Evaluate implications for the argument's certitude
+If the implication is customary, the argument is persuasive (khatabi). If rational, it is certain (burhani). The choice depends on how 'corruption' is defined.
+This shows how definition affects logical analysis in kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+عصارة.
+قوله : (وَمِنْهُ : وَلَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللهُ لَفَسَدَتَا ) أي : مِن حذف بعض المقدمتين ... إلخ، فهذا دليل برهاني حذفت منه المقدّمة الاستثنائية ؛ أي: «لكنهما لم تفسدا، فليس فيهما آلهة إلا الله». والملازمة في الآية عاديَّةٌ إن أريد بـ «فساد السَّماء والأرض»: خروجهما عن نظامهما المشاهد، مع قطع النظر عن الابتداء؛ لأنَّه قد عهد وألف أنَّ تزاحم الحكّام يقضي إلى فساد النظام، وجريان الأمور على غير وجهها، فهي من قبيل الاستدلال بالخطابة ؛ والحجَّةُ فيها اقناعيَّة؛ كذا ذكر المولى سعد الدين في شرحي «التلخيص».
+قال في شرح العقائد النسفيَّة : وإلا - أي: وإن لم تكن الملازمة في الآية عادية، بل عقلية ـ، فإن أريد ـ أي بقوله : «فسدتا» ـ الفساد بالفعل ؛ أي: خروجهما عنِ النّظام المشاهد، فمجرَّد التَّعدُّد لا يستلزمه؛ لجواز الاتفاق عقلاً على هذا النظام، وإن أريد إمكان الفساد؛ أي: لا وقوعه خارجاً فلا دليل على انتفائه، بل النُّصوص شاهدة بطيّ السَّماء ورفع هذا النظام، فيكون الفساد ممكناً لا محالة .
+وعقليّة إن أريد بـ «فسادهما » : عدم تكونهما لِمَا يؤدّي إليه التَّعدُّد من رجوع الأثر الواحد أثرين الاتفاق، ومن عجزهما مع الاختلاف، والإله يجب عموم قدرته وإرادته لجميع الممكنات، وعليه جرى السنوسي في شرح الكبرى» و«المختصر)، خلافاً للسَّعد في نفيه أن تكون الملازمة فيها مع قطعية .
+Summary. His statement: 'And among it: If there were gods in them other than Allah, they would have corrupted.' That is, from omitting one of the two premises... etc., so this is a demonstrative proof from which the exceptional premise is omitted; i.e.: 'But they have not corrupted, so there are no gods in them except Allah.' The implication in the verse is customary if by 'corruption of the heavens and earth' is meant their departure from their observed order, regardless of creation; because it is habitually known that rivalry of rulers leads to corruption of order and matters proceeding abnormally. So it is of the type of rhetorical inference; its argument is persuasive. Thus mentioned by Mawlana Sa'd al-Din in his two commentaries on al-Talkhis. He said in Sharh al-'Aqa'id al-Nasafiyya: Otherwise – i.e., if the implication in the verse is not customary but rational – then if by 'they would have corrupted' is meant actual corruption, i.e., their departure from the observed order, mere plurality does not necessitate that because rational agreement on this order is possible. And if is meant possibility of corruption, i.e., not actual occurrence, then there is no proof of its negation; rather, texts witness the folding of the heaven and removal of this system, so corruption is necessarily possible. And it is rational if by 'their corruption' is meant their non-existence, due to what plurality leads to: the return of one effect to two effects of agreement, and their inability with disagreement, and the god must have universal power and will over all possibles. And accordingly al-Sanusi proceeded in Sharh al-Kubra and al-Mukhtasar, contrary to al-Sa'd in his denial that the implication therein is certain.
+Source pages p. 698
+
+Commentary
+This passage analyzes the celebrated Quranic argument from Surah al-Anbiya' verse 22, presented as a demonstrative proof by modus tollens (denying the consequent). The author explains that the argument is missing an explicit premise, but the implied universal conditional is: 'If there were multiple gods, the heavens and earth would be corrupted.' Since they are not corrupted, there cannot be multiple gods. The core issue is the nature of the implication (mulazama) between plurality of gods and corruption. Al-Sa'd al-Taftazani considered it a customary (adiyya) implication, based on the empirical observation that multiple rulers habitually produce disorder. Hence the argument is rhetorical (khatabi) and persuasive, not demonstratively certain. In his commentary on al-Nasafiyya, he then considers the alternative that the implication is rational (aqliyya). If 'corruption' means actual departure from the observed order, mere plurality does not logically necessitate that because rational agreement on order is possible. If 'corruption' means possibility of corruption, then the absence of corruption does not disprove that possibility; indeed, Islamic texts foretell the eventual destruction of this cosmos, proving corruption is possible. The more robust rational interpretation, favored by al-Sanusi, takes 'corruption' to mean non-existence: multiple gods would entail inability or contradiction, so a single necessary being (wajib al-wujud) is required. This rational interpretation is held to yield certain knowledge. The discussion illustrates the range of approaches to Quranic arguments within Islamic logic and kalam.
+
+Key Terms
+الملازمة
+الملازمة العادية
+الملازمة العقلية
+الاستثنائية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Sa'd al-Taftazani, what type of implication is the connection between multiple gods and corruption in the Quranic verse if 'corruption' is understood as departure from the observed order?
+A) Rational implication
+B) Customary implication
+C) Both rational and customary
+D) No implication exists
+
+Key Takeaway
+The logical force of a Quranic argument can vary depending on whether the implication is interpreted as customary (persuasive) or rational (certain).
+
+How This Lesson Applies — to MY Life?
+?
+Analyze the Quranic argument from Surah al-Anbiya' 22 by reconstructing it as a conditional syllogism. Identify which interpretation of 'corruption' makes the implication customary and which makes it rational.
+?
+Consider a kalam argument: 'If the world had two creators, they would disagree; disagreement leads to corruption; since the world is ordered, there is one creator.' Identify the conditional form and discuss whether the implication is customary or rational.
+
+Pages p. 698 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 721
+Module 14 · Lesson 8
+Next →
+Demonstration -- Burhan
+intermediate
+5 min
+What is Burhan? The Supreme Argument in Islamic Logic
+Author defines burhan and ranks it among arguments.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the genus and differentia of burhan and distinguish it from other forms of argument mentioned in the text.
+
+Core Idea
+Burhan is the syllogism composed of certain premises, the highest form of proof.
+
+In this passage, the author defines burhan (demonstration) as the most honorable argument. He distinguishes it from rhetoric, dialectic, and sophistry, and links it to the Quranic concept of 'wisdom'. Understanding this definition is the first step to recognizing valid demonstrative proofs in Islamic sciences.
+
+Guided Path
+1
+Identify the genus of burhan
+The passage says 'ma' refers to syllogism (qiyas), the nearest genus. What is the broader category? Note that induction and analogy are excluded.
+2
+Extract the differentia
+The differentia is 'composed of certain premises'. This excludes all arguments that do not have certain premises.
+3
+Rank burhan among the arguments
+The passage ranks burhan as the most honorable, then rhetoric, then sophistry as worst. Also note the mention of dialectic? Actually only three are explicitly ranked, but earlier the text mentioned five arguments.
+The commentator notes a contradiction in ranking between this passage and an earlier one.
+4
+Connect to Quran
+The passage equates burhan with 'wisdom' in Quran 16:125. How does this link logic to revelation?
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أَقْسَامُ الحُجَّةِ ثُمَّ قَالَ : (۱۱۷) أَجَلُّهَا «البُرْهَانُ»: مَا أُلْفَ مِنْ مُقَدِّمَاتٍ بِاليَقِيْنِ تَقْتَرِنْ يَعْنِي: أَنَّ البُرْهَانَ هُوَ أَجَلُّ الحُجَجِ المُتَقَدِّمَةِ؛ لِإِفَادَتِهِ مَعْرِفَةِ الحَقِّ وَالقَطْعِ بِهِ، وَهُوَ الحِكْمَةُ فِي آيَة : ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ) [النحل: ١٢٥] . وَأَرْدَؤُهَا : المُغَالَطَةُ وَهِيَ السَّفْسَطَةُ ؛ لإفَادَتِهَا التَّشْكِيكِ وَتَلْبِيسِ الحَقِّ بِالبَاطِلِ وَأَقْرَبُهَا إِلَى البُرْهَانِ : الخَطَابَةُ ؛ لإفَادَتِهَا التَّصْدِيقَ بِالدَّلَائِلِ الإِقْنَاعِيَّةِ وَالمَظْنُونَةِ، وَهِيَ المَوْعِظَةُ الحَسَنَةُ فِى الآيَةِ. ثُمَّ عَرَّفَ البُرْهَانَ بِأَنَّهُ: «مَا أُلْفَ مِنْ مُقَدِّمَاتٍ يَقِينِيَّةٍ». - فَـ «مَا » : وَاقِعَةٌ عَلَى القِيَاسِ ؛ لِأَنَّهُ الجِنْسُ الأَقْرَبُ لِلْحُجَجِ الخَمْسِ، وَيَخْرُجُ عَنْهُ : الاسْتِقْرَاءُ وَالتَّمْثِيلُ . - وَقَوْلُهُ: «أُلّف ... إلخ » فَصْلٌ يُخْرِجُ : مَا عَدَا البُرْهَانِ مِنَ الحُجَجِ . - وَاليَقِينُ هُوَ : الِاعْتِقَادُ الجَازِمُ المُطَابِقُ الثَّابِتُ، فَيَخْرُجُ بِـ «الجَازِمِ»: الظَّنُّ، وَبِـ «المُطَابِقِ» : الجَهْلُ المُرَكَّبُ، وَبِـ «الثَّابِتِ» : التَّقْلِيدُ . قَال النَّاظم : (أَجَلُّهَا «البُرْهَانُ»): قوله : (وَأَقْرَبُهَا إِلَى البُرْهَانِ: الخَطَابَةُ) هذا يناقض ترتيبه المتقدم. قول النَّاظم : (بِاليَقِيْنِ تَقْتَرِنْ يُفيد أنَّ البرهان هو القياس المؤلَّف مِنَ القضايا اليقينيَّات الضَّرورية أو المكتسبة منها بواسطة أو أكثر، فالضَّروريَّة كقولك : نصف الأربعة اثنان، وكلُّ اثنين زوج، والمكتسبات كقولنا : العالم حادث، وكلُّ حادث مفتقر إلى محدث، فالبرهان ليس مقصوراً على الضَّروريَّات كما يوهمه كلام غير واحد بل يتركَّب منها ومِنَ النَّظريَّات، لكن لا بدَّ أن تكون النَّظريّات منتهية إلى الضروريات. قوله : (وَبِـ «المُطَابِقِ)) : الجَهْلُ المُرَكَّبُ :أي: كاعتقاد المعتزليّ أنَّ العبد يخلق أفعاله، والله تعالى يقول: ﴿هَلْ مِنْ خَلِقٍ غَيْرُ الله له [فاطر: ۳ ، اللهُ خَلِقُ كُلِّ شَيْءٍ ﴾ [الزمر: ٦٢] .
+Divisions of the argument. Then he said (117): 'The most honorable of them is burhan: what is composed of premises connected with certainty.' Meaning: burhan is the most honorable of the preceding arguments because it yields knowledge of the truth and certainty concerning it, and it is the 'wisdom' in the verse: 'Invite to the way of your Lord with wisdom and good exhortation' (Quran 16:125). The worst of them is fallacy (mughalatah), which is sophistry (safsata), because it yields doubt and obscuring truth with falsehood. And the closest to burhan is rhetoric (khataba), because it yields assent through persuasive and probable proofs, and it is the 'good exhortation' in the verse. Then he defined burhan as: 'What is composed of certain premises.' So 'ma' refers to the syllogism (qiyas), because it is the nearest genus for the five arguments, and excludes induction (istiqra') and analogy (tamthil). And his saying: 'composed... etc.' is a differentia that excludes what is other than burhan among the arguments. Certainty (yaqin) is: firm (jazim) belief, corresponding (mutabiq) to reality, and stable (thabit). So by 'firm' is excluded conjecture (zann), by 'corresponding' is excluded compound ignorance (jahl murakkab), and by 'stable' is excluded blind acceptance (taqlid). The author (nazim) said: 'The most honorable of them is burhan': his saying: 'And the closest to burhan is rhetoric' contradicts his previous order. The saying of the author: 'connected with certainty' indicates that burhan is the syllogism composed of certain premises, either necessary or acquired from them by one or more steps. Necessary ones like your saying: half of four is two, and every two is an even number. Acquired ones like our saying: the world is originated, and everything originated has a creator. So burhan is not restricted to necessary premises as the words of some might imply; rather, it is composed of necessary and theoretical premises, but the theoretical must lead back to the necessary. His saying: 'and by corresponding [is excluded]' compound ignorance: i.e., like the Mu'tazilite's belief that the servant creates his actions, while God Almighty says: 'Is there any creator other than God?' (Quran 35:3), 'God is the Creator of all things' (Quran 39:62).
+Source pages p. 721
+
+Commentary
+This passage defines burhan (demonstration) as the highest form of argument. It begins by stating the division of arguments (hujaj) and ranks burhan as the most honorable, followed by rhetoric (khataba) and the worst as sophistry. Burhan corresponds to 'wisdom' in Quran 16:125, while rhetoric corresponds to 'good exhortation'. Then the formal definition is given: burhan is a syllogism composed of certain premises. The commentator explains that the term 'ma' (what) refers to qiyas (syllogism), which is the nearest genus for the five arts, and the differentia 'composed of certain premises' excludes other arguments like induction and analogy. The key part is the definition of certainty (yaqin) as having three conditions: (1) firm belief (jazim), excluding conjecture (zann); (2) correspondence to reality (mutabiq), excluding compound ignorance (jahl murakkab) – the example given is the Mu'tazilite belief that humans create their actions; (3) stability (thabit), excluding blind imitation (taqlid). The commentary then addresses a contradiction in the ranking: the author previously said rhetoric is closest to burhan, but earlier he mentioned dialectic (jadal) etc. It also clarifies that burhan can include not only necessary premises (e.g., 'half of four is two') but also theoretical premises derived from necessary ones, like 'the world is originated, and everything originated has a creator'. Thus burhan is not limited to necessary truths but must ultimately rest on them.
+
+Key Terms
+البرهان
+اليقين
+القياس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the genus of burhan?
+A) Induction (istiqra')
+B) Syllogism (qiyas)
+C) Analogy (tamthil)
+D) Rhetoric (khataba)
+
+Key Takeaway
+Burhan is a syllogism composed of certain premises, making it the highest form of proof.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a burhan (demonstrative syllogism) on a topic from usul al-fiqh, e.g., 'Every intoxicant is haram; khamr is an intoxicant; therefore khamr is haram.' Then check whether its premises satisfy the conditions of yaqin.
+
+Pages p. 721 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 721
+Module 14 · Lesson 9
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+The Three Conditions of Certainty (Yaqin) for Sound Demonstration
+Author details the three conditions of yaqin.
+
+Learning Objective
+By the end of this lesson, you will be able to explain the three conditions of yaqin and give examples of what each condition excludes.
+
+Core Idea
+Certainty requires firm conviction, correspondence to reality, and stability – excluding conjecture, compound ignorance, and blind imitation.
+
+The passage defines yaqin (certainty) as a three-part condition for the premises of burhan. Knowing these conditions helps you evaluate whether a belief qualifies as certain and can serve as a premise in a demonstrative argument.
+
+Guided Path
+1
+List the three conditions
+The text states: firm (jazim), corresponding (mutabiq), stable (thabit).
+2
+Understand what 'firm' excludes
+It excludes conjecture (zann), which is belief less than certainty.
+3
+Understand what 'corresponding' excludes
+It excludes compound ignorance (jahl murakkab), exemplified by the Mu'tazilite belief that humans create actions, which contradicts Quran.
+4
+Understand what 'stable' excludes
+It excludes blind acceptance (taqlid), which is not based on evidence.
+5
+Apply to an example
+Consider the premise 'the world is originated'. Check if it is firm, corresponding, and stable.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أَقْسَامُ الحُجَّةِ ثُمَّ قَالَ : (۱۱۷) أَجَلُّهَا «البُرْهَانُ»: مَا أُلْفَ مِنْ مُقَدِّمَاتٍ بِاليَقِيْنِ تَقْتَرِنْ يَعْنِي: أَنَّ البُرْهَانَ هُوَ أَجَلُّ الحُجَجِ المُتَقَدِّمَةِ؛ لِإِفَادَتِهِ مَعْرِفَةِ الحَقِّ وَالقَطْعِ بِهِ، وَهُوَ الحِكْمَةُ فِي آيَة : ادْعُ إِلَى سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ) [النحل: ١٢٥] . وَأَرْدَؤُهَا : المُغَالَطَةُ وَهِيَ السَّفْسَطَةُ ؛ لإفَادَتِهَا التَّشْكِيكِ وَتَلْبِيسِ الحَقِّ بِالبَاطِلِ وَأَقْرَبُهَا إِلَى البُرْهَانِ : الخَطَابَةُ ؛ لإفَادَتِهَا التَّصْدِيقَ بِالدَّلَائِلِ الإِقْنَاعِيَّةِ وَالمَظْنُونَةِ، وَهِيَ المَوْعِظَةُ الحَسَنَةُ فِى الآيَةِ. ثُمَّ عَرَّفَ البُرْهَانَ بِأَنَّهُ: «مَا أُلْفَ مِنْ مُقَدِّمَاتٍ يَقِينِيَّةٍ». - فَـ «مَا » : وَاقِعَةٌ عَلَى القِيَاسِ ؛ لِأَنَّهُ الجِنْسُ الأَقْرَبُ لِلْحُجَجِ الخَمْسِ، وَيَخْرُجُ عَنْهُ : الاسْتِقْرَاءُ وَالتَّمْثِيلُ . - وَقَوْلُهُ: «أُلّف ... إلخ » فَصْلٌ يُخْرِجُ : مَا عَدَا البُرْهَانِ مِنَ الحُجَجِ . - وَاليَقِينُ هُوَ : الِاعْتِقَادُ الجَازِمُ المُطَابِقُ الثَّابِتُ، فَيَخْرُجُ بِـ «الجَازِمِ»: الظَّنُّ، وَبِـ «المُطَابِقِ» : الجَهْلُ المُرَكَّبُ، وَبِـ «الثَّابِتِ» : التَّقْلِيدُ . قَال النَّاظم : (أَجَلُّهَا «البُرْهَانُ»): قوله : (وَأَقْرَبُهَا إِلَى البُرْهَانِ: الخَطَابَةُ) هذا يناقض ترتيبه المتقدم. قول النَّاظم : (بِاليَقِيْنِ تَقْتَرِنْ يُفيد أنَّ البرهان هو القياس المؤلَّف مِنَ القضايا اليقينيَّات الضَّرورية أو المكتسبة منها بواسطة أو أكثر، فالضَّروريَّة كقولك : نصف الأربعة اثنان، وكلُّ اثنين زوج، والمكتسبات كقولنا : العالم حادث، وكلُّ حادث مفتقر إلى محدث، فالبرهان ليس مقصوراً على الضَّروريَّات كما يوهمه كلام غير واحد بل يتركَّب منها ومِنَ النَّظريَّات، لكن لا بدَّ أن تكون النَّظريّات منتهية إلى الضروريات. قوله : (وَبِـ «المُطَابِقِ)) : الجَهْلُ المُرَكَّبُ :أي: كاعتقاد المعتزليّ أنَّ العبد يخلق أفعاله، والله تعالى يقول: ﴿هَلْ مِنْ خَلِقٍ غَيْرُ الله له [فاطر: ۳ ، اللهُ خَلِقُ كُلِّ شَيْءٍ ﴾ [الزمر: ٦٢] .
+Divisions of the argument. Then he said (117): 'The most honorable of them is burhan: what is composed of premises connected with certainty.' Meaning: burhan is the most honorable of the preceding arguments because it yields knowledge of the truth and certainty concerning it, and it is the 'wisdom' in the verse: 'Invite to the way of your Lord with wisdom and good exhortation' (Quran 16:125). The worst of them is fallacy (mughalatah), which is sophistry (safsata), because it yields doubt and obscuring truth with falsehood. And the closest to burhan is rhetoric (khataba), because it yields assent through persuasive and probable proofs, and it is the 'good exhortation' in the verse. Then he defined burhan as: 'What is composed of certain premises.' So 'ma' refers to the syllogism (qiyas), because it is the nearest genus for the five arguments, and excludes induction (istiqra') and analogy (tamthil). And his saying: 'composed... etc.' is a differentia that excludes what is other than burhan among the arguments. Certainty (yaqin) is: firm (jazim) belief, corresponding (mutabiq) to reality, and stable (thabit). So by 'firm' is excluded conjecture (zann), by 'corresponding' is excluded compound ignorance (jahl murakkab), and by 'stable' is excluded blind acceptance (taqlid). The author (nazim) said: 'The most honorable of them is burhan': his saying: 'And the closest to burhan is rhetoric' contradicts his previous order. The saying of the author: 'connected with certainty' indicates that burhan is the syllogism composed of certain premises, either necessary or acquired from them by one or more steps. Necessary ones like your saying: half of four is two, and every two is an even number. Acquired ones like our saying: the world is originated, and everything originated has a creator. So burhan is not restricted to necessary premises as the words of some might imply; rather, it is composed of necessary and theoretical premises, but the theoretical must lead back to the necessary. His saying: 'and by corresponding [is excluded]' compound ignorance: i.e., like the Mu'tazilite's belief that the servant creates his actions, while God Almighty says: 'Is there any creator other than God?' (Quran 35:3), 'God is the Creator of all things' (Quran 39:62).
+Source pages p. 721
+
+Commentary
+This passage defines burhan (demonstration) as the highest form of argument. It begins by stating the division of arguments (hujaj) and ranks burhan as the most honorable, followed by rhetoric (khataba) and the worst as sophistry. Burhan corresponds to 'wisdom' in Quran 16:125, while rhetoric corresponds to 'good exhortation'. Then the formal definition is given: burhan is a syllogism composed of certain premises. The commentator explains that the term 'ma' (what) refers to qiyas (syllogism), which is the nearest genus for the five arts, and the differentia 'composed of certain premises' excludes other arguments like induction and analogy. The key part is the definition of certainty (yaqin) as having three conditions: (1) firm belief (jazim), excluding conjecture (zann); (2) correspondence to reality (mutabiq), excluding compound ignorance (jahl murakkab) – the example given is the Mu'tazilite belief that humans create their actions; (3) stability (thabit), excluding blind imitation (taqlid). The commentary then addresses a contradiction in the ranking: the author previously said rhetoric is closest to burhan, but earlier he mentioned dialectic (jadal) etc. It also clarifies that burhan can include not only necessary premises (e.g., 'half of four is two') but also theoretical premises derived from necessary ones, like 'the world is originated, and everything originated has a creator'. Thus burhan is not limited to necessary truths but must ultimately rest on them.
+
+Key Terms
+اليقين
+الجهل المركب
+التقليد
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what does the condition 'corresponding' (mutabiq) exclude?
+A) Conjecture (zann)
+B) Compound ignorance (jahl murakkab)
+C) Blind imitation (taqlid)
+D) All of the above
+
+Key Takeaway
+Yaqin requires firmness, correspondence to reality, and stability – each condition excludes a specific epistemic defect.
+
+How This Lesson Applies — to MY Life?
+?
+Identify which condition of yaqin is violated in the following belief: A person believes that nabidh is halal because they were told so by a respected shaykh, without checking evidence. (Answer: stability/thabit is violated because it is taqlid.)
+
+Pages p. 721 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 722
+Module 14 · Lesson 10
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+The Six Types of Necessary Certainties and the Nature of Awwaliyat
+Author lists six certainties and defines awwaliyat.
+
+Learning Objective
+By the end of this lesson, you will be able to enumerate the six types of necessary certain premises and define awwaliyat with its standard examples from this passage.
+
+Core Idea
+Awwaliyat are propositions the mind accepts instantly without proof upon understanding the terms.
+
+This passage from Bajuri's Sharh begins by listing the six kinds of certain premises that form the foundation of demonstrative reasoning. The first type, awwaliyat (also called badihiyyat), are the most basic: they are propositions the mind judges as soon as it conceives what the subject and predicate mean. Understanding this definition is critical because all demonstration ultimately rests on such self-evident truths.
+
+Guided Path
+1
+Identify the list of six certainties
+Find the enumeration in the Arabic and note each term: awwaliyat, mushahadat, mujarrabat, mutawatirat, hadsiyyat, mahsusat.
+2
+Locate the definition of awwaliyat
+Look for the phrase 'هِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِمُجَرَّدِ تَصَوُّرِ طَرَفَيْهَا' and understand its components.
+Note that awwaliyat are also called badihiyyat.
+3
+Study the examples
+Determine why each example fits the definition. For instance, 'the one is half of two' is immediately evident upon understanding 'one', 'half', and 'two'.
+4
+Distinguish awwaliyat from compound syllogisms
+The author mentions a compound syllogism built from awwaliyat to show that they serve as building blocks for further reasoning.
+This contrasts awwaliyat with propositions that require explicit proof.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثُمَّ بَيَّنَ أَنْوَاعَ اليَقِينِيَّاتِ بِقَوْلِهِ : (مِنْ أَوَّلِيَّاتٍ مُشَاهَدَاتِ مُجَرَّبَاتٍ مُتَوَاتِرَاتِ، وَحَدَسِيَّاتٍ، وَمَحْسُوسَاتِ) فَتِلْكَ جُمْلَةُ اليَقِينِيَّاتِ. حَصَرَ اليَقِينِيَّاتِ الضَّرُورِيَّاتِ فِي سِتَّةِ أَنْوَاعٍ : أَحَدُهَا : الأَوَّلِيَّاتُ، وَتُسَمَّى : البَدِيهِيَّاتُ، وَهِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِمُجَرَّدِ تَصَوُّرِ طَرَفَيْهَا، كَالحُكْمِ بِـ : «أَنَّ الوَاحِدَ نِصْفُ الاِثْنَيْنِ»، وَ «أَنَّ الكُلَّ أَعْظَمُ مِنَ الجُزْءِ»، وَ «أَنَّ الشَّخْصَ الوَاحِدَ لَا يَكُونُ فِي وَقْتٍ وَاحِدٍ فِي مَكَانَيْنِ». فإذا قيل: «هذا كل له جزء، وكلُّ كلِّ فهو أعظم من جزئه» كان قياساً مركباً مِنَ الأوَّلِيَّات. قوله : (وَ أَنَّ الشَّخْصَ الوَاحِدَ ... إلخ) فإن قيل : الأَوَّليَّات هي التي يجزم العقل فيها بوجود الحكم عند تصور الطرفين، وعدم كينونة الشَّخص في وقتٍ واحدٍ في مكانين لا يدركه العقل بمجرد تصور المكانين والشَّخص ؛ إذ لا بدَّ من تصور كينونته في كلّ واحدٍ منهما، ثمَّ بعد ذلك يدرك المنع ؛ لأنَّ الحكم على الشَّيء فرع تصوره ، وما يحتاج العقل في الجزم إلى واسطة لا يكون أوليا . فالجواب : أنَّ المراد بكون العقل يدرك الحكم عند تصوُّر الطرفين تصورهما على كيفيَّة خاصة من كون الشخص حالاً في المكانين، وعند كمال هذا التَّصور جزم العقل بالحكم بالاستحالة من غير احتياج إلى واسطة . وأيضاً : فإنَّ كون بعض الأشياء تتوقف على بعض التّأمُّل لا يخرجها عن كونها أوَّليَّات؛ لأنَّ ذلك يعرض لها لنقصان الغريزة؛ كما فى البله والصبيان، أو لتدنس الفكرة بالعقائد المضادة، أو لعدم خلق الله تعالى له العِلم، أو لعدم تصور الطَّرفين.
+Then he explained the types of certainties by his saying: (Among first principles, observed things, experimental things, mutawatir things, intuitive things, and sensed things) — that is the total of certainties. He restricted the necessary certainties to six types: One of them: the first principles, also called the self-evidents, and they are propositions that the mind judges by mere conceptualization of their two terms, like the judgment that 'the one is half of two', and 'the whole is greater than the part', and 'a single person cannot be in two places at one time'. If it is said: 'This is a whole having a part, and every whole is greater than its part' — that would be a compound syllogism from first principles. His saying: (and that a single person... etc.) — for if it is said: First principles are those in which the mind is certain of the existence of the judgment upon conceptualization of the two terms, and the non-being of a person in two places at one time is not perceived by the mind by mere conceptualization of the two places and the person; since it is necessary to conceptualize his being in each of them, then after that he perceives the impossibility; because judgment about a thing is subsequent to its conceptualization, and what the mind needs a mediator for in certainty is not first principle. So the answer: That what is meant by the mind perceiving the judgment upon conceptualization of the two terms is conceptualizing them in a specific manner — of the person being in the two places — and upon completion of this conceptualization the mind is certain of the judgment of impossibility without needing a mediator. And also: The fact that some things depend on some reflection does not remove them from being first principles; because that occurs due to deficiency of the innate disposition, as in the feeble-minded and children, or due to the corruption of thought by opposing beliefs, or due to God not having created knowledge for him, or due to lack of conceptualization of the two terms.
+Source pages p. 722
+
+Commentary
+This passage is a definitional and dialectical unit from the Sharh of Bajuri on the poem al-Sullam al-Munawraq. It first introduces the topic of the types of certain premises (yaqiniyyat) that are necessary (daruriyyat). The author cites the poet's line enumerating six types: awwaliyat (first principles/self-evident), mushahadat (observed via inner senses), mujarrabat (experimental), mutawatirat (recurrent reports), hadsiyyat (intuitive), and mahsusat (sensed via outer senses). Then the commentator restricts the necessary certainties to these six and begins defining them one by one. The first type, awwaliyat, also called badihiyyat, are propositions that the mind accepts immediately upon simply understanding the subject and predicate, without needing any intermediate reasoning. Examples given are: 'The one is half of two', 'The whole is greater than the part', and 'A single person cannot be in two places at once'. However, the commentator anticipates an objection: some awwaliyat seem to require reasoning, such as 'the whole is greater than the part' — because if someone says 'This whole has a part, and every whole is greater than its part', that is a compound syllogism, not immediate. The objection specifically targets the third example: to know that a person cannot be in two places, one must first conceive of the person being in each place individually and then infer impossibility, requiring reflection. The answer clarifies that the mind judges upon conceptualizing the terms in a particular way — i.e., imagining the person simultaneously occupying both places — and then immediately sees the impossibility. Additional explanation is given: some awwaliyat may require slight reflection due to mental weakness, opposing beliefs, or incomplete conceptualization, but they remain self-evident in essence.
+
+Key Terms
+الأَوَّلِيَّات (al-awwaliyat): Propositions that the mind judges by merely conceptualizing their two terms without any need for a mediator. [Note: In later texts, awwaliyat are sometimes distinguished from badihiyyat by whether they are common to all people; here they are synonymous.]
+اليَقِينِيَّات الضَّرُورِيَّات (al-yaqiniyyat al-daruriyyat): Necessary certainties—premises that are known with certainty and are a priori or based on immediate experience. [Note: Stable term across the tradition, though the classification into six may vary slightly in later works.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to this passage, which of the following is NOT an example of awwaliyat (first principles)?
+A) The one is half of two
+B) The whole is greater than the part
+C) Fire burns because of its nature
+D) A single person cannot be in two places at once
+
+Key Takeaway
+Awwaliyat are the bedrock of all certain knowledge, requiring no proof beyond the conceptualization of their terms.
+
+How This Lesson Applies — to MY Life?
+?
+List the six types of certain premises mentioned in the text, then write a one-sentence definition of awwaliyat in your own words.
+?
+Provide an example of a proposition from Islamic logic that is not awwali (i.e., requires proof) and explain why it does not meet the definition.
+
+Pages p. 722 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 722
+Module 14 · Lesson 11
+Next →
+Demonstration -- Burhan
+intermediate
+5 min
+Defending Awwaliyat: Objection and Response on the Principle of Spatial Impossibility
+Author responds to objection about awwali status of spatial impossibility example.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the objection against the awwali status of 'a person cannot be in two places' and explain the author's response using the concepts of specific conceptualization and deficiency of the knower.
+
+Core Idea
+An objection that a proposition requires reflection does not disprove its self-evidence; the need for reflection may be due to the knower's limitation, not the proposition.
+
+This part of the commentary addresses a subtle challenge: the example 'a single person cannot be in two places at once' seems to require conceptualizing the person in each place before judging, which would mean it is not a purely immediate judgment. The author anticipates this objection and provides a rigorous defense, showing that even a small pause does not destroy self-evidence if the judgment eventually occurs without a separate mediator. This dialectical exchange is a classic illustration of how Islamic logicians defended foundational premises.
+
+Guided Path
+1
+Identify the objection
+Locate the clause beginning with 'فإن قيل' and restate it: the opponent claims that the judgment about spatial impossibility requires first conceptualizing the person in each place separately, meaning a mediator is needed.
+2
+Extract the key point of the objection
+The opponent argues that because conceptualization of the two terms alone is insufficient—since one must also conceive the person in each location—the proposition does not fit the definition of awwali.
+3
+Analyze the first part of the response
+The author clarifies that 'mere conceptualization' means conceptualizing the two terms (the person and being in two places) in a specific manner, i.e., simultaneously, which yields immediate judgment.
+The key phrase is 'تصورهما على كيفيَّة خاصة من كون الشخص حالاً في المكانين'.
+4
+Analyze the second part of the response
+The author adds that any need for reflection is due to deficiency in the knower (e.g., feeble-mindedness, conflicting beliefs, or lack of conceptualization), not a flaw in the proposition itself.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ثُمَّ بَيَّنَ أَنْوَاعَ اليَقِينِيَّاتِ بِقَوْلِهِ : (مِنْ أَوَّلِيَّاتٍ مُشَاهَدَاتِ مُجَرَّبَاتٍ مُتَوَاتِرَاتِ، وَحَدَسِيَّاتٍ، وَمَحْسُوسَاتِ) فَتِلْكَ جُمْلَةُ اليَقِينِيَّاتِ. حَصَرَ اليَقِينِيَّاتِ الضَّرُورِيَّاتِ فِي سِتَّةِ أَنْوَاعٍ : أَحَدُهَا : الأَوَّلِيَّاتُ، وَتُسَمَّى : البَدِيهِيَّاتُ، وَهِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِمُجَرَّدِ تَصَوُّرِ طَرَفَيْهَا، كَالحُكْمِ بِـ : «أَنَّ الوَاحِدَ نِصْفُ الاِثْنَيْنِ»، وَ «أَنَّ الكُلَّ أَعْظَمُ مِنَ الجُزْءِ»، وَ «أَنَّ الشَّخْصَ الوَاحِدَ لَا يَكُونُ فِي وَقْتٍ وَاحِدٍ فِي مَكَانَيْنِ». فإذا قيل: «هذا كل له جزء، وكلُّ كلِّ فهو أعظم من جزئه» كان قياساً مركباً مِنَ الأوَّلِيَّات. قوله : (وَ أَنَّ الشَّخْصَ الوَاحِدَ ... إلخ) فإن قيل : الأَوَّليَّات هي التي يجزم العقل فيها بوجود الحكم عند تصور الطرفين، وعدم كينونة الشَّخص في وقتٍ واحدٍ في مكانين لا يدركه العقل بمجرد تصور المكانين والشَّخص ؛ إذ لا بدَّ من تصور كينونته في كلّ واحدٍ منهما، ثمَّ بعد ذلك يدرك المنع ؛ لأنَّ الحكم على الشَّيء فرع تصوره ، وما يحتاج العقل في الجزم إلى واسطة لا يكون أوليا . فالجواب : أنَّ المراد بكون العقل يدرك الحكم عند تصوُّر الطرفين تصورهما على كيفيَّة خاصة من كون الشخص حالاً في المكانين، وعند كمال هذا التَّصور جزم العقل بالحكم بالاستحالة من غير احتياج إلى واسطة . وأيضاً : فإنَّ كون بعض الأشياء تتوقف على بعض التّأمُّل لا يخرجها عن كونها أوَّليَّات؛ لأنَّ ذلك يعرض لها لنقصان الغريزة؛ كما فى البله والصبيان، أو لتدنس الفكرة بالعقائد المضادة، أو لعدم خلق الله تعالى له العِلم، أو لعدم تصور الطَّرفين.
+Then he explained the types of certainties by his saying: (Among first principles, observed things, experimental things, mutawatir things, intuitive things, and sensed things) — that is the total of certainties. He restricted the necessary certainties to six types: One of them: the first principles, also called the self-evidents, and they are propositions that the mind judges by mere conceptualization of their two terms, like the judgment that 'the one is half of two', and 'the whole is greater than the part', and 'a single person cannot be in two places at one time'. If it is said: 'This is a whole having a part, and every whole is greater than its part' — that would be a compound syllogism from first principles. His saying: (and that a single person... etc.) — for if it is said: First principles are those in which the mind is certain of the existence of the judgment upon conceptualization of the two terms, and the non-being of a person in two places at one time is not perceived by the mind by mere conceptualization of the two places and the person; since it is necessary to conceptualize his being in each of them, then after that he perceives the impossibility; because judgment about a thing is subsequent to its conceptualization, and what the mind needs a mediator for in certainty is not first principle. So the answer: That what is meant by the mind perceiving the judgment upon conceptualization of the two terms is conceptualizing them in a specific manner — of the person being in the two places — and upon completion of this conceptualization the mind is certain of the judgment of impossibility without needing a mediator. And also: The fact that some things depend on some reflection does not remove them from being first principles; because that occurs due to deficiency of the innate disposition, as in the feeble-minded and children, or due to the corruption of thought by opposing beliefs, or due to God not having created knowledge for him, or due to lack of conceptualization of the two terms.
+Source pages p. 722
+
+Commentary
+This passage is a definitional and dialectical unit from the Sharh of Bajuri on the poem al-Sullam al-Munawraq. It first introduces the topic of the types of certain premises (yaqiniyyat) that are necessary (daruriyyat). The author cites the poet's line enumerating six types: awwaliyat (first principles/self-evident), mushahadat (observed via inner senses), mujarrabat (experimental), mutawatirat (recurrent reports), hadsiyyat (intuitive), and mahsusat (sensed via outer senses). Then the commentator restricts the necessary certainties to these six and begins defining them one by one. The first type, awwaliyat, also called badihiyyat, are propositions that the mind accepts immediately upon simply understanding the subject and predicate, without needing any intermediate reasoning. Examples given are: 'The one is half of two', 'The whole is greater than the part', and 'A single person cannot be in two places at once'. However, the commentator anticipates an objection: some awwaliyat seem to require reasoning, such as 'the whole is greater than the part' — because if someone says 'This whole has a part, and every whole is greater than its part', that is a compound syllogism, not immediate. The objection specifically targets the third example: to know that a person cannot be in two places, one must first conceive of the person being in each place individually and then infer impossibility, requiring reflection. The answer clarifies that the mind judges upon conceptualizing the terms in a particular way — i.e., imagining the person simultaneously occupying both places — and then immediately sees the impossibility. Additional explanation is given: some awwaliyat may require slight reflection due to mental weakness, opposing beliefs, or incomplete conceptualization, but they remain self-evident in essence.
+
+Key Terms
+الأَوَّلِيَّات (al-awwaliyat): Propositions that the mind judges by merely conceptualizing their two terms without any need for a mediator. [Note: In later texts, awwaliyat are sometimes distinguished from badihiyyat by whether they are common to all people; here they are synonymous.]
+اليَقِينِيَّات الضَّرُورِيَّات (al-yaqiniyyat al-daruriyyat): Necessary certainties—premises that are known with certainty and are a priori or based on immediate experience. [Note: Stable term across the tradition, though the classification into six may vary slightly in later works.]
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the first part of the author's response to the objection that 'a person cannot be in two places' requires reflection?
+A) He admits it is not awwali after all
+B) He says the conceptualization must be of the person in both places simultaneously
+C) He says it is a mujarrabat, not awwali
+D) He says only children need reflection
+
+Key Takeaway
+The self-evidence of a proposition is not negated by the fact that some individuals require a moment of reflection due to their own deficiencies.
+
+How This Lesson Applies — to MY Life?
+?
+Write a short dialogue (objection and response) similar to this passage, but using a different example from Islamic thought, such as 'the one is half of two'. The opponent should claim that it requires conceptualizing fractions, and the defender should use the author's reasoning to reply.
+?
+Explain why, according to the author, a child who does not see the impossibility of a person being in two places does not disprove that it is awwali.
+
+Pages p. 722 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 722
+Module 14 · Lesson 12
+Next →
+Demonstration -- Burhan
+beginner
+5 min
+Inner Sense (Wijdaniyyat): Particular Judgments from Inner Experience
+Author defines wijdaniyyat as inner sense judgments.
+
+Learning Objective
+By the end of this lesson, you will be able to define wijdaniyyat and explain why their judgments are particular rather than universal.
+
+Core Idea
+Inner sense gives immediate particular judgments, not universal ones.
+
+This lesson covers the second of the six certainties: mushahadat, identified with wijdaniyyat (inner sensations). The author defines them as propositions judged by the mind via inner senses, such as hunger or pleasure. A key point is that sense judgments are inherently particular (juz'iyya), not universal. Understanding this distinction is vital for evaluating how such premises function in demonstrations.
+
+Guided Path
+1
+Identify the term and its reference
+Locate 'al-mushahadat' in the Arabic and note that the author equates it with 'al-wijdaniyyat'. Understand that these are propositions arising from inner senses.
+The term 'mushahadat' can sometimes include outer senses, but here it is restricted to inner sense.
+2
+Recognize the role of inner senses
+The inner senses include feelings like hunger, pleasure, and self-awareness (awareness of oneself and one's states). These are not dependent on external bodily organs.
+Self-awareness is given as an example of something we find in our souls without bodily instruments.
+3
+Understand that sense judgments are particular
+The author explicitly states that sense judgments (ahkam al-hiss) are only particular (juz'iyya). For example, 'I feel hunger now' is a particular judgment, not a universal one.
+This particularity is a key limitation: inner sense alone does not yield universal premises for demonstration.
+4
+Distinguish the role of reason
+The commentary clarifies that the universal judgment (e.g., 'every fire is hot') is rational, composed of sense and reason. Ibn al-Hajib's claim that wijdaniyyat do not need reason is qualified: they are not purely rational, but as premises of demonstration they involve reason.
+Thus, wijdaniyyat as used in burhan are not purely sense-based.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثَّانِي : المُشَاهَدَاتُ، وَأَرَادَ بِهَا : الوِجْدَانِيَّاتُ، وَهِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِوَاسِطَةِ الحَوَاسُ البَاطِنَةِ، كَالحُكْم بـ : «أَنَّ لَنَا جُوعاً، وَلَذَّةٌ، وَفَرَحاً»، وَمِنْهَا مَا نَجِدُهُ بِنُفُوسِنَا مِنْ غَيْرِ الآلَاتِ البَدَنِيَّةِ كَشُعُورِنَا بِذَوَاتِنَا وَأَحْوَالِنَا، وَأَحْكَامُ الحِس لَا تَكُونُ إِلَّا جُزْيَّيَّةٌ. الثَّالِثُ : المُجَرَّبَاتُ، وَهِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِانْضِمَام تَكَرُّرِ المُشَاهَدَةِ إِلَيْهِ، وَالقِيَاسُ الخَفِيُّ المُنْتِجُ لِليَقِينِ إِلَيْهَا، وَهُوَ : أَنَّ الوُقُوعَ المُتَكَرِّرِ عَلَى نَهْجِ وَاحِدٍ لَا بُدَّ لَهُ مِنْ سَبَبٍ، وَإِنْ لَمْ نَعْرِفْ مَاهِيَّتَهُ، وَكُلَّمَا عُلِمَ وُجُودُ السَّبَبِ عُلِمَ وُجُودُ المُسَبَّبِ قَطعاً، وَذَلِكَ كَالحُكْمِ بِ: «أَنَّ السَّقَمُونِيَا مُسَهِّلْ لِلصَّفْرَاءِ»، وَ «أَنَّ الضَّرْبَ بِالخَشَبَةِ مُؤلِم»، وَنَحْوُ ذَلِكَ مِمَّا فِيهِ تَأثِيرٌ كَإِحْرَاقِ النَّارِ، بِخِلَافِ مَا لَا تَأثِيرَ فِيهِ كَسَوَادِ القَارِّ. قوله : (إذ الحِسُّ إِنَّمَا يُفِيدُ أَنَّ هَذِهِ النَّارَ حَارَّةُ) أي : وألم هذا الجوع، ونفع هذا الري، ولذة معرفة ذلك الأمر، ولذلك قد يشارك الأعجم الناطق فيها. قوله : (وَأَمَّا الحُكْمُ بِأَنَّ كُلَّ نَارٍ حَارَّةٌ) أي : ولكلِّ جوع ألم ، ولكلِّ معرفة لذَّة. قوله : (فَحُكْمُ عَقْلِيٌّ) فظهر : أنَّ الحكم بالمشاهدات مركَبٌ مِنَ الحِس والعقل، لا عقليّ مجرد، فتصريح ابنُ الحاجب بأنَّ الوجدانيات لا تفتقر إلى العقل لا يعني به أَنَّهَا مِن حيث إنَّها مقدمات البرهان تكون كذلك. قوله : (تَكَرُّرِ المُشَاهَدَةِ مِن إضافة الصفة للموصوف ؛ أي : مشاهدة متكرّرة مفيدة لليقين بواسطة قياس خفيّ. قوله : (كَالحُكْمِ بِـ: «أَنَّ السَّقَمُونِيَا مُسَهِّلْ لِلصَّفْرَاءِ) فهذه قضيَّة حكم بها العقل بواسطة مشاهدة السهلة عند شربه وتكرّرت تلك المشاهدة تكراراً أفادنا يقيناً حتّى أمنا أن يكون ذلك الإسهال اتِّفاقيًا؛ أي: اتَّفق إن وجد مع هذا الشَّراب، بل ذلك الإسهال لسبب، وهو هذا الشَّراب، فكلَّما وجد السَّبب وُجِد المسبب، ولذا صح لنا الحكم، وهذا اليقين من هذا التكرر بواسطة نظم قياسي خفي؛ أي: غير ظاهر الحكم، وذلك أن يُقال : هذا الشَّراب يسهل البطن، ولو كان وجوده اتفاقيا مع وجود السهلة لما كان دائماً ولا أكثريا ، لكنه دائم ينتج : ليس اتفاقيا، بل لسبب اقتضى ذلك»، فإذا قيل مثلاً : هذه سقمونيا، وكلُّ سقمونيا مسهلة للصفراء، هذه مسهلة للصفراء كان قياساً مِنَ المجربات.
+The second: the observed things (mushahadat), and by them he intended inner sensations (wijdaniyyat), and they are propositions that the mind judges by means of the inner senses, like the judgment that ‘we have hunger, pleasure, and joy’, and among them is what we find in our souls without bodily organs, like our awareness of ourselves and our states. And the judgments of sense are only particular. The third: the experimental things (mujarrabat), and they are propositions that the mind judges by the addition of repeated observation to it, and the hidden syllogism that produces certainty in them, which is: that repeated occurrence on a uniform course necessarily has a cause, even if we do not know its essence, and whenever the existence of the cause is known, the existence of the effect is known certainly. That is like the judgment that ‘scammony is a laxative for yellow bile’, and that ‘hitting with wood causes pain’, and similar things that have an effect, like the burning of fire, contrary to what has no effect like the blackness of pitch. His saying: (for sense only informs that this fire is hot) means: and the pain of this hunger, the benefit of this thirst-quenching, and the pleasure of knowing that matter, and therefore the non-Arab may share in it with the articulate. His saying: (and as for the judgment that every fire is hot) means: and every hunger has pain, and every knowledge has pleasure. His saying: (so it is a rational judgment) so it appears: that the judgment about observed things is composed of sense and reason, not purely rational, so the explicit statement of Ibn al-Hajib that wijdaniyyat do not depend on reason does not mean that they, inasmuch as they are premises of demonstration, are like that. His saying: (repetition of observation is an addition of the attribute to the described; i.e., repeated observation beneficial for certainty by means of a hidden syllogism.) His saying: (like the judgment that scammony is a laxative for yellow bile) so this is a proposition that the mind judges by means of observing the laxative effect when drinking it, and that observation was repeated repeatedly, giving us certainty until we were sure that that laxative effect was not coincidental; i.e., it did not happen coincidentally with this drink, rather that laxative effect is due to a cause, which is this drink. So whenever the cause exists, the effect exists, and therefore the judgment is valid for us. And this certainty from this repetition is by means of a hidden syllogistic structure; i.e., the judgment is not apparent, and that is by saying: This drink loosens the stomach, and if its existence coinciding with the existence of the loosening were coincidental, it would not be constant nor mostly so. But it is constant, so it follows: it is not coincidental, but rather due to a cause that necessitated that. So if it is said, for example: This is scammony, and every scammony is a laxative for yellow bile, therefore this is a laxative for yellow bile — that is a syllogism from the experimental things.
+Source pages p. 722
+
+Commentary
+This passage continues the definition of the six certainties, now covering the second and third types. The second type, mushahadat, is identified with wijdaniyyat—judgments arising from inner senses, such as feeling hunger, pleasure, or joy. This includes self-awareness without external organs. However, such sense judgments are inherently particular (juz'iyya), not universal. The third type, mujarrabat, are empirical generalizations. The mind judges them by combining repeated observations with a hidden syllogism (qiyas khafi) that yields certainty. The hidden syllogism is: repeated uniform occurrence implies a necessary cause, even if the cause's essence is unknown; whenever the cause exists, the effect certainly follows. Examples given: scammony causes laxation of yellow bile, hitting with wood causes pain, and fire burns—contrasting with mere constant conjunctions like the blackness of pitch (which has no causal efficacy). The commentary elaborates on the poet's word 'idh al-hissu innama yufid...' explaining that sense only gives particular information (this fire is hot), while the universal judgment (every fire is hot) is rational, combining sense and reason. Ibn al-Hajib's claim that wijdaniyyat do not need reason is qualified: they are not purely rational but are composed of sense and reason. Then the commentary unpacks 'takrur al-mushahadah': it means repeated observations leading to certainty via a hidden syllogism. The example of scammony is explained: repeated observation of laxation upon drinking scammony eliminates the possibility of chance, establishing a causal link. The hidden syllogism is made explicit: 'This drink loosens the stomach; if it were coincidental it would not be constant; it is constant; therefore it is not coincidental but due to a cause.' Finally, the example is cast as a formal categorical syllogism: 'This is scammony; every scammony is a laxative for yellow bile; therefore this is a laxative for yellow bile'—showing that mujarrabat can be used as premises in syllogisms.
+
+Key Terms
+المُشَاهَدَات
+الوِجْدَانِيَّات
+الحَوَاسُ البَاطِنَة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what type of judgments do wijdaniyyat (inner sensations) produce?
+A) Universal judgments like 'every fire is hot'
+B) Particular judgments only
+C) Both particular and universal
+D) None, they are not judgments
+
+Key Takeaway
+Wijdaniyyat are particular sense judgments; they require rational addition to become universal premises.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'I feel joy when I contemplate the beauty of Allah's creation.' Is this judgment particular or universal according to the definition of wijdaniyyat? Explain your reasoning.
+
+Pages p. 722 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 722
+Module 14 · Lesson 13
+Next →
+Demonstration -- Burhan
+intermediate
+7 min
+Experimental Certainty (Mujarrabat): The Hidden Syllogism
+Author defines mujarrabat and explains the hidden syllogism.
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the hidden syllogism that makes mujarrabat certain and apply it to examples from Islamic sciences.
+
+Core Idea
+Experimental certainty rests on a hidden syllogism: constant conjunction implies a cause; the cause produces the effect.
+
+This lesson explores the third certainty: mujarrabat (experimentals). The author explains that these are propositions judged by the mind through repeated observation combined with a hidden syllogism that yields certainty. The hidden syllogism asserts that repeated uniform occurrence necessitates a cause, and knowledge of the cause guarantees knowledge of the effect. Understanding this logical structure is essential for evaluating empirical claims in demonstration.
+
+Guided Path
+1
+Define mujarrabat formally
+Locate the definition: 'المُجَرَّبَاتُ ... يَحْكُمُ بِهَا العَقْلُ بِانْضِمَام تَكَرُّرِ المُشَاهَدَةِ إِلَيْهِ، وَالقِيَاسُ الخَفِيُّ' (mujarrabat are propositions the mind judges by the addition of repeated observation and the hidden syllogism).
+Note the two components: repeated observation and a hidden syllogism.
+2
+Extract the hidden syllogism
+The hidden syllogism is: repeated uniform occurrence (duplicate) must have a cause (1st premise); if the cause exists, the effect certainly exists (2nd premise); therefore, the effect is not coincidental.
+The author states: 'الوُقُوعَ المُتَكَرِّرِ عَلَى نَهْجِ وَاحِدٍ لَا بُدَّ لَهُ مِنْ سَبَبٍ'.
+3
+Apply to the scammony example
+The example: scammony is observed to induce laxation repeatedly. The hidden syllogism shows that this is not accidental but due to a causal property of scammony.
+The full explicit syllogism is given at the end: 'This is scammony; every scammony is a laxative for yellow bile; therefore this is a laxative for yellow bile.'
+4
+Distinguish from non-causal conjunctions
+Not all constant conjunctions imply causality. The author contrasts cases with effect (like fire burning) from those without (like blackness of pitch). The hidden syllogism only works when there is genuine causal influence.
+This distinguishes mujarrabat from mere accidental regularities.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثَّانِي : المُشَاهَدَاتُ، وَأَرَادَ بِهَا : الوِجْدَانِيَّاتُ، وَهِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِوَاسِطَةِ الحَوَاسُ البَاطِنَةِ، كَالحُكْم بـ : «أَنَّ لَنَا جُوعاً، وَلَذَّةٌ، وَفَرَحاً»، وَمِنْهَا مَا نَجِدُهُ بِنُفُوسِنَا مِنْ غَيْرِ الآلَاتِ البَدَنِيَّةِ كَشُعُورِنَا بِذَوَاتِنَا وَأَحْوَالِنَا، وَأَحْكَامُ الحِس لَا تَكُونُ إِلَّا جُزْيَّيَّةٌ. الثَّالِثُ : المُجَرَّبَاتُ، وَهِيَ : قَضَايَا يَحْكُمُ بِهَا العَقْلُ بِانْضِمَام تَكَرُّرِ المُشَاهَدَةِ إِلَيْهِ، وَالقِيَاسُ الخَفِيُّ المُنْتِجُ لِليَقِينِ إِلَيْهَا، وَهُوَ : أَنَّ الوُقُوعَ المُتَكَرِّرِ عَلَى نَهْجِ وَاحِدٍ لَا بُدَّ لَهُ مِنْ سَبَبٍ، وَإِنْ لَمْ نَعْرِفْ مَاهِيَّتَهُ، وَكُلَّمَا عُلِمَ وُجُودُ السَّبَبِ عُلِمَ وُجُودُ المُسَبَّبِ قَطعاً، وَذَلِكَ كَالحُكْمِ بِ: «أَنَّ السَّقَمُونِيَا مُسَهِّلْ لِلصَّفْرَاءِ»، وَ «أَنَّ الضَّرْبَ بِالخَشَبَةِ مُؤلِم»، وَنَحْوُ ذَلِكَ مِمَّا فِيهِ تَأثِيرٌ كَإِحْرَاقِ النَّارِ، بِخِلَافِ مَا لَا تَأثِيرَ فِيهِ كَسَوَادِ القَارِّ. قوله : (إذ الحِسُّ إِنَّمَا يُفِيدُ أَنَّ هَذِهِ النَّارَ حَارَّةُ) أي : وألم هذا الجوع، ونفع هذا الري، ولذة معرفة ذلك الأمر، ولذلك قد يشارك الأعجم الناطق فيها. قوله : (وَأَمَّا الحُكْمُ بِأَنَّ كُلَّ نَارٍ حَارَّةٌ) أي : ولكلِّ جوع ألم ، ولكلِّ معرفة لذَّة. قوله : (فَحُكْمُ عَقْلِيٌّ) فظهر : أنَّ الحكم بالمشاهدات مركَبٌ مِنَ الحِس والعقل، لا عقليّ مجرد، فتصريح ابنُ الحاجب بأنَّ الوجدانيات لا تفتقر إلى العقل لا يعني به أَنَّهَا مِن حيث إنَّها مقدمات البرهان تكون كذلك. قوله : (تَكَرُّرِ المُشَاهَدَةِ مِن إضافة الصفة للموصوف ؛ أي : مشاهدة متكرّرة مفيدة لليقين بواسطة قياس خفيّ. قوله : (كَالحُكْمِ بِـ: «أَنَّ السَّقَمُونِيَا مُسَهِّلْ لِلصَّفْرَاءِ) فهذه قضيَّة حكم بها العقل بواسطة مشاهدة السهلة عند شربه وتكرّرت تلك المشاهدة تكراراً أفادنا يقيناً حتّى أمنا أن يكون ذلك الإسهال اتِّفاقيًا؛ أي: اتَّفق إن وجد مع هذا الشَّراب، بل ذلك الإسهال لسبب، وهو هذا الشَّراب، فكلَّما وجد السَّبب وُجِد المسبب، ولذا صح لنا الحكم، وهذا اليقين من هذا التكرر بواسطة نظم قياسي خفي؛ أي: غير ظاهر الحكم، وذلك أن يُقال : هذا الشَّراب يسهل البطن، ولو كان وجوده اتفاقيا مع وجود السهلة لما كان دائماً ولا أكثريا ، لكنه دائم ينتج : ليس اتفاقيا، بل لسبب اقتضى ذلك»، فإذا قيل مثلاً : هذه سقمونيا، وكلُّ سقمونيا مسهلة للصفراء، هذه مسهلة للصفراء كان قياساً مِنَ المجربات.
+The second: the observed things (mushahadat), and by them he intended inner sensations (wijdaniyyat), and they are propositions that the mind judges by means of the inner senses, like the judgment that ‘we have hunger, pleasure, and joy’, and among them is what we find in our souls without bodily organs, like our awareness of ourselves and our states. And the judgments of sense are only particular. The third: the experimental things (mujarrabat), and they are propositions that the mind judges by the addition of repeated observation to it, and the hidden syllogism that produces certainty in them, which is: that repeated occurrence on a uniform course necessarily has a cause, even if we do not know its essence, and whenever the existence of the cause is known, the existence of the effect is known certainly. That is like the judgment that ‘scammony is a laxative for yellow bile’, and that ‘hitting with wood causes pain’, and similar things that have an effect, like the burning of fire, contrary to what has no effect like the blackness of pitch. His saying: (for sense only informs that this fire is hot) means: and the pain of this hunger, the benefit of this thirst-quenching, and the pleasure of knowing that matter, and therefore the non-Arab may share in it with the articulate. His saying: (and as for the judgment that every fire is hot) means: and every hunger has pain, and every knowledge has pleasure. His saying: (so it is a rational judgment) so it appears: that the judgment about observed things is composed of sense and reason, not purely rational, so the explicit statement of Ibn al-Hajib that wijdaniyyat do not depend on reason does not mean that they, inasmuch as they are premises of demonstration, are like that. His saying: (repetition of observation is an addition of the attribute to the described; i.e., repeated observation beneficial for certainty by means of a hidden syllogism.) His saying: (like the judgment that scammony is a laxative for yellow bile) so this is a proposition that the mind judges by means of observing the laxative effect when drinking it, and that observation was repeated repeatedly, giving us certainty until we were sure that that laxative effect was not coincidental; i.e., it did not happen coincidentally with this drink, rather that laxative effect is due to a cause, which is this drink. So whenever the cause exists, the effect exists, and therefore the judgment is valid for us. And this certainty from this repetition is by means of a hidden syllogistic structure; i.e., the judgment is not apparent, and that is by saying: This drink loosens the stomach, and if its existence coinciding with the existence of the loosening were coincidental, it would not be constant nor mostly so. But it is constant, so it follows: it is not coincidental, but rather due to a cause that necessitated that. So if it is said, for example: This is scammony, and every scammony is a laxative for yellow bile, therefore this is a laxative for yellow bile — that is a syllogism from the experimental things.
+Source pages p. 722
+
+Commentary
+This passage continues the definition of the six certainties, now covering the second and third types. The second type, mushahadat, is identified with wijdaniyyat—judgments arising from inner senses, such as feeling hunger, pleasure, or joy. This includes self-awareness without external organs. However, such sense judgments are inherently particular (juz'iyya), not universal. The third type, mujarrabat, are empirical generalizations. The mind judges them by combining repeated observations with a hidden syllogism (qiyas khafi) that yields certainty. The hidden syllogism is: repeated uniform occurrence implies a necessary cause, even if the cause's essence is unknown; whenever the cause exists, the effect certainly follows. Examples given: scammony causes laxation of yellow bile, hitting with wood causes pain, and fire burns—contrasting with mere constant conjunctions like the blackness of pitch (which has no causal efficacy). The commentary elaborates on the poet's word 'idh al-hissu innama yufid...' explaining that sense only gives particular information (this fire is hot), while the universal judgment (every fire is hot) is rational, combining sense and reason. Ibn al-Hajib's claim that wijdaniyyat do not need reason is qualified: they are not purely rational but are composed of sense and reason. Then the commentary unpacks 'takrur al-mushahadah': it means repeated observations leading to certainty via a hidden syllogism. The example of scammony is explained: repeated observation of laxation upon drinking scammony eliminates the possibility of chance, establishing a causal link. The hidden syllogism is made explicit: 'This drink loosens the stomach; if it were coincidental it would not be constant; it is constant; therefore it is not coincidental but due to a cause.' Finally, the example is cast as a formal categorical syllogism: 'This is scammony; every scammony is a laxative for yellow bile; therefore this is a laxative for yellow bile'—showing that mujarrabat can be used as premises in syllogisms.
+
+Key Terms
+المُجَرَّبَات
+القِيَاس الخَفِي
+السَّقَمُونِيَا
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the hidden syllogism that underlies mujarrabat?
+A) If something occurs repeatedly, it must be true.
+B) Repeated uniform occurrence implies a cause; the cause implies the effect.
+C) All experimental truths are based on testimony.
+D) The mind judges directly without observation.
+
+Key Takeaway
+Mujarrabat achieve certainty through a hidden syllogism that infers a cause from constant conjunction.
+
+How This Lesson Applies — to MY Life?
+?
+Given the statement: 'Hitting with wood causes pain.' Write out the hidden syllogism that leads to certainty, following the pattern from the scammony example.
+?
+Take the proposition: 'Every intoxicant is forbidden (haram). Nabidh (date drink) is intoxicating. Therefore nabidh is forbidden.' Is this a mujarrabat? Explain.
+
+Pages p. 722 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 728
+Module 14 · Lesson 14
+Next →
+Demonstration -- Burhan
+intermediate
+10 min
+Refuting Essential Necessitation in Causal Reasoning
+Author presents and dismisses the philosophers' claim that premises necessitate the conclusion essentially.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the philosophers' doctrine of essential necessitation and explain why it is rejected in Ash'ari kalām on the basis of tawhid al-af'āl.
+
+Core Idea
+The philosophers claim premises force the conclusion by themselves; kalām replies: only Allah creates.
+
+We have examined two views on how premises yield the conclusion: generation (tawallud) and acquisition (kasb). Now the philosophers offer a third: essential necessitation. This lesson unpacks their claim and the decisive kalām refutation, showing why attributing causal power to anything other than Allah is a serious error in Islamic theology.
+
+Guided Path
+1
+Identify the philosophers' claim
+Find the statement that the conclusion follows from the premises by 'essential necessitation' (al-ījāb al-dhātī). What does this mean in terms of causality?
+The text says: 'by way of essential necessitation; meaning, the effect of the cause in its effect by its essence.'
+2
+Understand the causal logic used
+The philosophers view reflection (nazar) as an efficient cause (ʿilla muʾaththira) that produces the conclusion necessarily. They hold that it is rationally impossible for the cause not to produce its effect.
+This implies that the premises themselves have inherent causal power, independent of divine intervention.
+3
+Locate the refutation in the passage
+The author dismisses this view as 'delusion' and appeals to the established kalām proofs that Allah is the Creator of every originated thing. How does this refute the philosophers?
+The refutation is not a detailed argument but a reference to the foundational kalām doctrine of tawhid al-af'āl: only Allah creates.
+4
+Connect to broader kalām principles
+In Ash'ari theology, no created entity has independent causal efficacy. The act of reasoning and the resulting knowledge are both created by Allah directly. This doctrine protects tawhid and excludes secondary causes.
+Thus, the philosophers' view is not just wrong but contradictory to the core of Islamic creed.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المَذْهَبُ الثَّالِثُ، وَهُوَ القَوْلُ الرَّابِعُ فِي النَّظْم مَذْهَبُ الفَلَاسِفَةِ : إِنَّهَا بِطَرِيقِ الإِيْجَابِ الذَّاتِيِّ؛ أَيْ: تَأثِيرِ العِلَّةِ بِذَاتِهَا فِي مَعْلُولِهَا ، فَالنَّظَرُ عِنْدَهُمْ عِلَّةٌ مُؤَثِّرَةٌ بِذَاتِهَا فِي حُصُولِ العِلْمِ بِالنَّتِيجَةِ، وَيَسْتَحِيلُ عِنْدَهُمْ عَقْلاً أَنْ لَا تُؤَثِّرَ العِلَّةُ فِي مَعْلُولِهَا ، وَهَذَا مِنْ هَوَسِهِمُ الَّذِي لَا شُبْهَةَ لَهُمْ عَلَيْهِ، أَبْعَدَهُمُ اللهُ تَعَالَى، وَمَا تَقَرَّرَ فِي عِلْمِ الكَلَامِ مِنَ الأَدِلَّةِ القَاطِعَةِ عَلَى أَنَّ اللهَ تَعَالَى خَالِقُ كُلِّ حَادِثٍ كَافٍ فِي إِبْطَالِ ضَلَالِهِمْ، وَاللَّهُ المُوَفِّقُ لَا رَبَّ غَيْرَهُ.
+The third madhab, which is the fourth statement in the versification, the madhab of the philosophers: that it (i.e., the conclusion's attainment) is by way of essential necessitation (al-ījāb al-dhātī); meaning, the effect of the cause in its effect by its essence. So, according to them, reflection (nazar) is an effective cause by its essence in the attainment of knowledge of the conclusion, and it is rationally impossible for the cause not to effect its effect. This is from their delusion for which they have no proof. May Allah distance them. And what is established in the science of kalām from the decisive proofs that Allah is the Creator of every originated thing is sufficient for falsifying their error. And Allah is the Grantor of success; no lord other than Him.
+Source pages p. 728
+
+Commentary
+This passage presents the third and final madhab on how premises yield the conclusion: the view of the philosophers (falāsifa). They assert that the conclusion follows from the premises by 'essential necessitation' (al-ījāb al-dhātī): the premises are an efficient cause that necessarily produces its effect by its own essence. Thus, if one reflects on the premises, the conclusion must arise. The author dismisses this as pure delusion (hawas) with no plausible evidence. The refutation is that this contradicts the foundational kalām principle that Allah alone creates every originated thing—no creature or created act possesses inherent causal efficacy. The decisive proofs of kalām are sufficient to falsify this error. The author concludes with a prayer for divine guidance.
+
+Key Terms
+الإيجاب الذاتي
+العلة المؤثرة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author reject the philosophers' view of essential necessitation?
+A) Because it denies the possibility of syllogism.
+B) Because it contradicts the kalām principle that Allah creates every originated thing.
+C) Because it is not mentioned in the Quran.
+D) Because it makes the conclusion always known.
+
+Key Takeaway
+Essential necessitation is rejected in Ash'ari kalām because it assigns causal power to something other than Allah, violating the principle that Allah alone creates every originated thing.
+
+How This Lesson Applies — to MY Life?
+?
+Identify a modern argument that implicitly assumes essential causation (e.g., 'the data forces the conclusion') and explain, using the kalām principle, why an Ash'ari theologian would reject it.
+?
+Draft a short response to a philosopher who claims: 'If the premises are true and the syllogism is valid, the conclusion must follow necessarily.' Use the refutation from this lesson to counter that claim.
+
+Pages p. 728 · Demonstration -- Burhan
+← Prev
+Mark Done
+Next →

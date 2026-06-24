@@ -1,0 +1,242 @@
+← Prev
+p. 547
+Module 8 · Lesson 101
+Next →
+What Is Mantiq?
+intermediate
+8 min
+Tamthil Yields Certainty: A Defense of Analogical Reasoning
+Author defends tamthil's certainty against Ibn Sina and al-Tusi
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the author's argument that tamthil (juristic qiyas) can yield certainty by reducing to categorical syllogism, and evaluate the critique of Ibn Sina and al-Tusi.
+
+Core Idea
+Tamthil yields certainty not despite its analogical form but because it is a disguised categorical syllogism with certain premises.
+
+In this passage, the author defends analogical reasoning (tamthil) against the charge of being merely presumptive. He argues that tamthil reduces to the categorical syllogism, and its epistemic value depends solely on the certainty of its premises. He attacks Ibn Sina and al-Tusi for failing to see this, accusing them of poor understanding.
+
+Guided Path
+1
+Identify the target claim
+Ibn Sina and al-Tusi claim that tamthil is inherently presumptive (zanni) and weaker than induction. They deny it can yield certainty. Find where the author states this.
+Look at the part: 'وزعم ابن سينا والطوسي المتشيع وبعضهم شددوا وقالوا دون الاستقراء'
+2
+Extract the author's counter-argument
+The author asserts that tamthil reduces to categorical syllogism (qiyas mantiqi). Therefore, its certainty depends on its premises. Find the statement 'فإنه راجع إلى القياس'.
+3
+Analyze the conditional example
+The author gives a conditional: if the judgment of a particular (asl) is caused by a certain cause, and that cause is certainly present in another particular (far'), then the judgment applies with certainty. This is essentially a Barbara syllogism: All C are H; A is C; therefore A is H. Identify the terms.
+The cause ('illa) serves as the middle term.
+4
+Evaluate the critique's validity
+The author dismisses Ibn Sina and al-Tusi as lacking understanding. Consider whether the reduction to syllogism is always valid. Does the presence of the 'illa guarantee the transfer of the ruling? Are there conditions (like munasaba) that must be met? Reflect on the practical limitations.
+In usul al-fiqh, qiyas requires a sound 'illa; not all shared attributes are valid causes.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بيان أن ولما فرغ عن الاستقراء أراد أن يشرع في التمثيل، وقال: التمثيل يفيد القطع، وهو استدلال بجزئي على جزئي آخر لأمر مشترك، والفقهاء يسمونه قياسا، والأول أصلا والثاني فرعا، والمشترك علة جامعة، قالوا هو حجة ظنية، وزعم ابن سينا والطوسي المتشيع وبعضهم شددوا وقالوا دون الاستقراء، والشيخ أفرط في ذلك وقال هو أيضا حجة ضعيفة، وهذا كله من سوء فهم الشيخ وأتباعه، ونصير الطوسي قد انتهى في هذا الأمر حد البلادة، وظن أنه لا يلزم منه شيء؛ فإنا بينا سابقا أن طريق الإيصال فيه قطعي؛ فإنه راجع إلى القياس، فإن كانت مقدماته قطعية تورث القطع، كالقياس المنطقي. وهل يشك عاقل إذا ثبت أن حكم الجزئي معلول لعلة قطعا، موجودة في جزئي آخر قطعا في أن يثبت ذلك الحكم في ذلك الجزئي قطعا، لا سيما إذا علم قطعا أن العلة إنما وضعت علة ليتعدى الحكم بها. وإن كانت ظنية تورث الظن، فمن أين ضعف هذه الحجة؟ ولعل الفقهاء أعلى الله أعلامهم إنما حكموا بالظنية لأن الأغلب في مقدماته الظن، ومن ههنا ترى بعضهم يقدمون بعض التمثيلات على بعض النصوص. وبالجملة تضعيف هذه الحجة لا يصدر إلا عمن انتهى حد البلادة، ولا يليق أن يخاطب في المباحث العلمية.
+An explanation that when he finished with induction, he wanted to begin with tamthil, and he said: Tamthil yields certainty, and it is reasoning from a particular to another particular due to a common matter. The jurists call it qiyas, the first [particular] the original, the second the branch, and the common matter the encompassing cause. They said it is a presumptive proof. Ibn Sina and al-Tusi the Shiite claimed, and some others were strict and said it is below induction. The Shaykh [Ibn Sina] exaggerated in that and said it too is a weak proof. All this stems from the poor understanding of the Shaykh and his followers. Nasir al-Tusi reached the limit of stupidity in this matter and thought that nothing follows from it. For we have already shown that the method of deriving [certainty] in it is certain; because it reduces to syllogism. If its premises are certain, it yields certainty, like logical syllogism. Can any rational person doubt that if it is established that the judgment of a particular is definitely caused by a cause that is definitely present in another particular, then that judgment is definitely established in that particular, especially if it is known with certainty that the cause was established as a cause for the judgment to be transferred? If the premises are presumptive, it yields presumption. So where does the weakness of this proof come from? Perhaps the jurists — may Allah elevate their status — only ruled it presumptive because most of its premises are presumptive. Hence you see some of them prefer some tamthilat over some texts. In short, weakening this proof only comes from one who has reached the limit of stupidity and is not fit to be addressed in scientific inquiries.
+Source pages p. 547
+
+Commentary
+This passage is a defense of analogical reasoning (tamthil) against the criticism of Ibn Sina and Nasir al-Din al-Tusi. The author, commenting on the matn line 'al-tamthil yufid al-qat'', explains that tamthil is reasoning from one particular to another due to a shared attribute. Jurists call this qiyas, using terms 'asl (original), far' (branch), and 'illa (cause). Some scholars, including Ibn Sina and al-Tusi, considered tamthil merely presumptive (zanni) and weaker than induction. The author vehemently rejects this, accusing them of misunderstanding. He argues that tamthil reduces to categorical syllogism (qiyas mantiqi). If its premises are certain, it yields certainty; if presumptive, it yields presumption. The author provides a clear example: if we know with certainty that a judgment on one particular is caused by a cause that is also certainly present in another particular, the judgment must apply with certainty. He further notes that jurists often rule tamthil presumptive only because its premises are usually presumptive, but in principle it can be certain. The passage ends with a strong rebuke of those who weaken tamthil, deeming them unfit for scholarly discourse.
+
+Key Terms
+تمثيل
+قياس
+علة
+قطع
+ظن
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what determines whether tamthīl yields certainty or presumption?
+A) The presence of a shared attribute
+B) The certainty of the premises
+C) The strength of the jurist
+D) Whether it is called tamthīl or qiyās
+
+Key Takeaway
+Tamthil (analogical reasoning) can yield certainty when its premises are certain because it reduces to a categorical syllogism; its epistemic weakness is due to premises, not form.
+
+How This Lesson Applies — to MY Life?
+?
+1) Consider the following: The 'illa for prohibiting wine is intoxication. If it is certain that all intoxicants are prohibited (from a definitive text), and it is certain that nabidh (date drink) is intoxicating (by observation), does the prohibition apply to nabidh with certainty? Use the author's reasoning to answer.
+?
+2) Find an example of a qiyas in usul al-fiqh where the 'illa is disputed (e.g., qiyas of grain to rice for riba). Would the author say this qiyas yields certainty or presumption? Explain your reasoning based on the lesson.
+
+Pages p. 547 · What Is Mantiq?
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 564
+Module 8 · Lesson 102
+Next →
+What Is Mantiq?
+intermediate
+8 min
+Empirical Science (Tajriba) vs. Induction: The Causal Distinction
+Author defines empirical science and distinguishes it from induction and intuition.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether a given observation-based judgment qualifies as empirical science (tajriba) or remains induction (istiqra') by checking for causal transition.
+
+Core Idea
+Tajriba leaps to the cause, induction stays on the surface.
+
+In the Islamic logical tradition, empirical knowledge (tajriba) is a foundational source of certainty, but it is often confused with mere induction. This passage from the sharh of Sullam al-'Ulum clarifies the essential difference: tajriba involves a transition (intiqal) to the cause (al-'illa) or its concomitant, while induction merely observes repeated instances without grasping the causal link. Understanding this distinction is critical for evaluating the epistemic strength of arguments about the natural world and the rulings of Islamic law.
+
+Guided Path
+1
+Identify the definiendum
+Locate the term 'التجربة' in the Arabic passage and note its definition as a type of certain premise. Recognize that it is being defined in contrast to induction.
+2
+Extract the genus and differentia
+The genus is 'observation of most individuals of a universal with a judgment' (مشاهدة أكثر أفراد كلي موصوف بحكم). The differentia is 'transition to the cause or its concomitance' (الانتقال إلى العلة أو ملازمتها).
+This is the key distinguishing feature.
+3
+Contrast with induction (istiqra')
+Find the description of الاستقراء: it also observes many individuals but without causal transition. It yields only conjecture (ظن). Notice the example of 'every mover is raised'.
+The absence of causal inference makes induction non-certain.
+4
+Analyze the example of scammony
+Trace the reasoning: scammony (السقمونيا) is observed to cause bile expulsion in most cases where the matter is receptive. The mind then moves to the conclusion that its nature is a cause or concomitant, leading to a universal judgment: 'Every scammony in our country is a bile-expellant.'
+This illustrates the transition to the cause.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الصناعات الخمس
+بهذا الحكم ويصدق به كالسَّقْمُونِيَا ، فإنه شوهد أكثر أفراده بحيث إذا أكل أَسْهَلَ الصفراء، بشرط كون مادته قابلة ، فانتقل إلى أن طبيعتها علة أو ملازمة للعلة، فحكم أن كل سقمونيا في بلادنا مسهل للصفراء.
+التجربيات
+وهذا بخلاف الاستقراء؛ فإن فيه مشاهدة أكثر أفراد كلي موصوف بحكم ( الفرق بين من غير انتقال إلى العلة، فيظن أن الحكم ثابت لكل فرد منه ، الحكم ثابت لكل فرد منه ، كما إذا وجدل والاستقراء
+أكثر الفواعل مرفوعةً حكم أن كل فاعل مرفوع ظنا. هذا هو الفرق بين التجربة والاستقراء ، كذا في «الشفاء». وقال النصير الطوسي : الحدس والتجربة سواء، إلا أنه في التجربة يعلم العلة إجمالا ، ولذا يكون في جميع المجربات
+=
+عنه ،
+لما استمر في الأكثر من غير اختلاف، حتى إذا لم يوجد ذلك اللازم استبعدت النفس تأخُرَه وعدته نادرا، وطلبت له سببا عارضا مانعا . هذا، وقد أحاب في المعيار (۱۲۳) عن الإشكال المترتب على قول الأشاعرة: إن جز الرقبة مثلا ليس للموت . وإنما هو ـ أي الموت - بخلق الله تعالى عند حصول الجز، أجاب عنه باختصار قائلا: ليس في العقلاء من يشك فيه - أي في حصول الموت عند حز الرقبة .. وأما النظر في هل هو لزوم ضروري ليس في الإمكان تغييره، أو هو بحكم جريان سنة الله تعالى : لنفوذ مشيئته الأزلية التي لا تحتمل التبديل والتغيير فهو نظر في وجه الاقتران، لا في نفس الاقتران فليفهم هذا ، وليعلم أن التشكك في موت من جزت رقبته وسواس مجرد وأن اعتقاده موته يقين لا يستراب فيه .
+أنه
+·
+(1) قال السهروردي في حكمة الإشراق (٤١) : وليس هو من الاستقراء، والاستقراء هو حكم على كلي بما وجد في جزئياته الكثيرة، فإذا كان الاستقراء عبارة عن هذا الحكم فنعلم أن حكمنا على كل إنسان بأنه إذا قطع رأسه لا يعيش» ليس إلا حكما على كلي بما صودف في جزئياته الكثيرة ؛ إذ لا مشاهدة للكل، والاستقراء قد يفيد اليقين إذا اتحد النوع ، كما في المثال المذكور ، وإذا اختلف قد لا يفيد اليقين، كحكمك بأن كل حيوان يحرك لدُنْ مضغه فكه الأسفل استقراء بما شاهدت ، ويجوز أن يكون حكم ما لم تشاهده - كالتمساح - بخلاف ما شاهدته» .
+(۲) في شرح الإشارات: ٣٤٨/١.
+٥٦٣
+قياس واحد، وفي الحدس يعلم بخصوصها، ولذا يكون في كل حدس قياس على حِدَةٍ، وقد رده المصنف سابقا.
+ثم إن التجربة لا بد فيها من أن يراعى قيود شوهد الجزئيات معها ، فمَن شاهد الزَّنْجِي أسودَ لا بد أن يحكم أن كل إنسان زنجي أسود، لا أن كل إنسان أسود ؛ فإن الذهن إنما ينتقل إلى علية ما وجد فيه الحكم، أو ملازمته إياها، دون ما هو أعم، كذا في «الشفاء» أيضا. هذا، والعلم الحق عند علام
+الغيوب .
+وَقَدْ نَازَعَ بَعْضُهُمْ فِي كَوْنِهَا أي التجربيات (مِنَ الْيَقِينِيَّاتِ)؛ زعما منهم عدم الفرق بينهما وبين الاستقرائيات، (كَالْحَدَسِيَّاتِ)، أي كما أنهم زعموا أن الحدسيات أيضا غير مفيدة للعلم اليقيني ، ولعل إنكار التجربيات من جملة إنكار الضروريات، وأما الحدسيات فحالها لا يعلم إلا من
+والعلم الحق عند العليم الخبير .
+له
+حدس .
+The five arts. By this judgment it is verified, like scammony: most of its individuals were observed such that when eaten it expels bile, provided its matter is receptive, so one moves to [the conclusion] that its nature is a cause or concomitant of the cause, and judges that every scammony in our country is a bile-expellant. Empirical [sciences]. This is contrary to induction; for in it there is observation of most individuals of a universal described by a judgment without transition to the cause, so one assumes that the judgment holds for every individual of it, just as if one observes most [cases of] a mover being raised, one judges that every mover is raised, conjecturally. This is the difference between experiment and induction, as in al-Shifa. And Nasir al-Din al-Tusi said: Intuition and experiment are the same, except that in experiment one knows the cause in a general way, so it applies to all experiments... when it continues in most [cases] without difference, so that if that concomitant is not found, the soul considers its absence improbable and deems it rare, and seeks for it an accidental preventing cause. This, and he answered in al-Mi'yar (123) the difficulty arising from the Ash'ari statement: Cutting the neck, for example, is not for death; rather it is 'death' by the creation of Allah when the cutting occurs. He answered briefly: There is no rational person who doubts it—i.e., the occurrence of death upon cutting the neck. As for considering whether it is a necessary entailment not possible to change, or it is by the rule of the customary way of Allah, for the execution of His eternal will which admits no substitution or change—that is a consideration of the manner of conjunction, not of the conjunction itself. Let this be understood, and know that doubting the death of one whose neck is cut is pure obsession, and the belief in his death is certain beyond doubt. (1) Suhrawardi said in Hikmat al-Ishraq (41): It is not from induction; induction is a judgment on a universal based on what is found in its many particulars. Since induction is this judgment, we know that our judgment 'every human, if his head is cut off, does not live' is nothing but a judgment on a universal based on what was encountered in its many particulars, for there is no observation of the universal. Induction may yield certainty if the species is uniform, as in the aforementioned example; if it differs, it may not yield certainty, like your judgment that every animal moves its lower jaw while chewing, based on induction from what you observed, and it is possible that the judgment of what you have not observed—like the crocodile—is contrary to what you observed. (2) In Sharh al-Isharat: 1/348. 563. One syllogism, and in intuition one knows the cause specifically, so in every intuition there is a separate syllogism, and the author refuted this earlier. Then experiment necessarily requires observing the particulars with their conditions. So if one observes a black Zanjī, he must judge that every Zanjī person is black, not that every human is black; for the mind only transfers to the causality of what was found with the judgment, or its concomitance, not to what is more general, as in al-Shifa also. This, and true knowledge is with the Knower of the unseen. And some have disputed that it (i.e., empirical sciences) is from the certainties, claiming that there is no difference between them and inductive sciences, like intuitive ones. That is, they claimed that intuitive ones too do not yield certain knowledge. Perhaps denying empirical sciences is part of denying necessary truths. As for intuitive ones, their state is known only from intuition. And true knowledge is with the All-Knowing, the All-Aware. He has intuition.
+Source pages p. 564
+
+Commentary
+This passage defines the empirical science (tajriba) as a type of certain premise, distinguishing it from both induction (istiqra') and intuition (hads). The author begins with an example: scammony (al-saqmuniya), a plant whose consumption is observed to cause bile expulsion in most cases where the matter is receptive. The mind then moves to the conclusion that its nature is either a cause or concomitant of the cause, yielding the judgment that every scammony in our region expels bile. This is empirical knowledge. The author differentiates experiment from induction: induction observes many individuals under a universal without grasping the causal link, leading only to a conjectural judgment (e.g., 'every mover is raised'). Experiment, by contrast, involves a transition to the cause (al-'illa) or its concomitance, producing certain knowledge. Nasir al-Din al-Tusi is quoted equating hads (intuition) and tajriba, except that in experiment the cause is known generally (ijmalan), so it applies to all cases, whereas in intuition the cause is known specifically (bi-khususiha), each requiring a separate syllogism—a view the author rejects. The author then addresses the Ash'ari objection that cutting the neck does not cause death per se, but death is created by Allah at the moment of cutting. The response is that no rational person doubts the co-occurrence (al-iqtiran) of cutting and death; the debate is about the necessity of the link, not the link itself. Doubting this is obsessional. The passage concludes with a note: true knowledge is with Allah. Several scholars disputed whether empirical sciences are certainties, confusing them with induction and intuition. The author asserts that denying empirical sciences is akin to denying necessary truths, and intuition's certainty is known only to those with intuition. This passage is an expansion (sharh) of the matn of Sullam al-'Ulum, explaining the nature of empirical premises and their epistemological status. The example of scammony illustrates medical knowledge derived from repeated observation with causal inference. In fiqh, a similar reasoning applies: observing that wine intoxicates in many instances leads to the rule that all wine is intoxicating due to the 'illa of intoxication.
+
+Key Terms
+التجربة
+الاستقراء
+الحدس
+العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the key difference between tajriba and istiqra'?
+A) Tajriba observes all instances, istiqra' observes some.
+B) Tajriba involves transition to the cause, istiqra' does not.
+C) Tajriba is about natural causes, istiqra' is about divine will.
+D) Tajriba is used in medicine, istiqra' in logic.
+
+Key Takeaway
+Empirical science (tajriba) yields certainty because it transfers observation of many instances to a causal universal, unlike induction which remains conjectural.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Consider a physician who observes that a certain herb reduces fever in many patients but does not investigate the cause. Does this observation qualify as tajriba or istiqra'? Explain using the criteria from the lesson.
+?
+Task 2: Identify the causal transition in the following example: 'Every nabidh (date drink) that is intoxicating is forbidden, because intoxication is the cause (al-illa).' Is this a case of tajriba? Why or why not?
+
+Pages p. 564 · What Is Mantiq?
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 575
+Module 8 · Lesson 103
+Next →
+What Is Mantiq?
+intermediate
+7 min
+Why the Predicate of a Demonstrative Problem Cannot Be a Definition
+Author defines mas'ala and explains why its predicate cannot be a definition of the subject.
+
+Learning Objective
+By the end of this lesson, you will be able to explain why the predicate of a demonstrative problem cannot be a real definition of its subject and identify the two problematic alternatives for the middle term.
+
+Core Idea
+The predicate of a problem cannot be its subject's definition, else the proof fails.
+
+In this lesson, we examine the first investigation of demonstration. The author defines 'mas'ala' as the conclusion sought by demonstration and then lays down a crucial rule: the predicate of a demonstrative problem cannot be a real definition (hadd) of the subject. This is not arbitrary; it follows from the nature of demonstration and the requirement that the middle term be more evident than the conclusion. We will unpack the reasoning behind this rule and see why two alternative candidates for the middle term are both impossible.
+
+Guided Path
+1
+Identify the rule
+The author states that the predicate of a demonstrative problem cannot be a definition of the subject. Locate this statement in the Arabic and note the term 'mas'ala'.
+The rule is given immediately after defining mas'ala.
+2
+Understand the conditional reasoning
+If the predicate were a definition, then the middle term (al-awsat) that proves it would have to be either a special property (khassa) or another definition. Why would that be? Because in a categorical syllogism, the middle term must be causally related to the predicate.
+The author uses a disjunctive condition: either khassa or another hadd.
+3
+Refute the first option (khassa)
+The special property is less evident than the definition, so it cannot serve as a middle term to prove the definition. The definition should be better known than the property.
+The author says 'the opposite is the case' – the definition is more evident.
+4
+Refute the second option (another definition)
+A subject can have only one real definition. If there were multiple definitions, they would be either equivalent (redundant) or contradictory. So a second definition is impossible.
+The author calls this 'necessarily false' (bāṭil bi’l-ḍarūra).
+5
+Consider the qualification
+The rule applies when the subject is conceived in its essence (bi’l-kunn). If the subject is not fully understood, the essential may not be evident.
+This nuance is referenced from al-Talwīḥāt and al-Shams al-Bāzigha.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+البحث الأول: الذي يطلب بالبرهان يسمى مسألة، قالوا: لا يكون محمول المسألة حدا لموضوعه، وإلا فالأوسط إما خاصة أو حد آخر، لا سبيل إلى الأول؛ لأن ثبوت الخاصة ليس أجلى من ثبوت الحد، بل الأمر بالعكس، وكذا لا سبيل إلى الثاني؛ لأن تعدد الحدود الحقيقية باطل بالضرورة. لعل مرادهم إذا كان الموضوع متصورا بالكنه وإلا فثبوت الذاتي غير بين، وإلى ما ذكرنا إشارة في «التلويحات» و «الشمس البازغة»، والسر فيه أن البديهة والنظرية تختلفان باختلاف العنوان، فإذا كان العنوان عرضيا للموضوع صار الحد من قبيل العوارض. هذا، والله أعلم.
+The first investigation: That which is sought by demonstration is called a 'problem' (mas'ala). They said: The predicate of the problem cannot be a definition of its subject; otherwise the middle term would be either a special property (khassa) or another definition. There is no way to the first because the affirmation of the special property is not more evident than the affirmation of the definition; in fact the opposite is the case. Likewise, there is no way to the second because multiplicity of real definitions is necessarily false. Perhaps what they mean is when the subject is conceived in its essence; otherwise the affirmation of the essential is not evident. There is an indication of what we mentioned in al-Talwihat and al-Shams al-Bazigha. The secret is that the intuitive (badihi) and theoretical (nazari) differ according to the aspect; so if the aspect is accidental to the subject, the definition becomes a kind of accident. This, and Allah knows best.
+Source pages p. 575
+
+Commentary
+This passage is a definitional and argumentative text from the first investigation of demonstration. The author defines 'mas'ala' as the conclusion sought by demonstration. He then reports a rule: the predicate of a demonstrative problem cannot be a real definition (hadd) of the subject. The reason is that if it were, the middle term would have to be either a special property (khassa) or another definition. The first option fails because the special property is less evident than the definition, not more, so it cannot be used to prove the definition. The second option fails because a subject can have only one real definition; having multiple definitions is impossible. The author adds a qualification: this applies when the subject is conceived in its essence (bi'l-kunn); if not, the essential property may not be evident. He refers to other works for further detail, and explains that the distinction between immediate and discursive knowledge depends on the aspect under which the subject is considered. If the aspect is accidental, the definition becomes like an accident.
+
+Key Terms
+مسألة
+حد
+خاصة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why can the predicate of a demonstrative problem not be a real definition of the subject?
+A) Because definitions are self-evident and need no proof
+B) Because the middle term would be either a special property or another definition, both leading to problems
+C) Because definitions are always true
+D) Because the predicate must be an accident
+
+Key Takeaway
+The predicate of a demonstrative problem cannot be its subject's definition, because that would make the middle term either less evident or redundant, breaking the conditions of a valid demonstration.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Wine is intoxicating, and every intoxicant is forbidden, therefore wine is forbidden.' Is 'forbidden' a definition of wine? Explain why the predicate of this problem cannot be the definition of the subject, using the reasoning from the lesson.
+?
+Suppose someone argues: 'Man is rational, and rationality is the definition of man, therefore man is rational.' Identify why this is not a genuine demonstrative problem. What would happen to the middle term if it were treated as a definition?
+
+Pages p. 575 · What Is Mantiq?
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,524 @@
+← Prev
+p. 36
+Module 10 · Lesson 1
+Next →
+The Syllogism
+advanced
+10 min
+The Fallacy of Division and Its Resolution
+Author presents a fallacy and its resolution in division logic
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of division in universal-partition arguments and explain its resolution using the correct observation of the muqassam.
+
+Core Idea
+The fallacy of division arises when you confuse the divided thing with its parts; the cure is to consider it in itself.
+
+This lesson examines a classic fallacy that commonly occurs when dividing universals into their particulars. The author, following al-Sayyid al-Sanad, identifies the logical error and provides a precise answer. Understanding this fallacy sharpens your ability to evaluate definitions and classifications in Islamic sciences.
+
+Guided Path
+1
+Identify the divided thing and the parts
+In any division, there is a muqassam (the thing being divided) and aqsam (the parts). For example, dividing 'hukm' into 'wajib, mandub, etc.' The muqassam is 'hukm', the aqsam are the individual rulings.
+2
+Recognize the two problematic perspectives
+The fallacy considers the muqassam either as realized in some parts (so it does not include the other parts) or as realized in all parts (so each part becomes a co-part of the muqassam).
+These are presented as the only two possibilities, leading to absurdities.
+3
+See why each leads to absurdity
+If realized in some parts, you get division into itself and other (impossible). If realized in all parts, you get division into its own co-parts (circular).
+The absurdity shows the fallacy's premise is flawed.
+4
+Understand the correct answer
+The answer is to consider the muqassam in itself, regardless of its realization in any part. This avoids the dilemma.
+The muqassam is a universal concept; it is not confined to its instances.
+5
+Analyze the formalization and conditions
+The fallacy is formalized as a conditional syllogism: either the muqassam is realized in some parts or in all parts. Both are rejected. The author then checks the minor premise (the disjunction): if it is mani'at al-jam' (prevents conjunction), the argument is complex; if not, the premise is false. For a valid division syllogism, the disjunction must be mani'at al-khuluw (prevents emptiness).
+This shows the importance of disjunction type in division arguments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ونقل عن السيد السند مغالطة يعم ورودها الجميع تقسيمات الكليات إلى جزئياتها، وهي أن المقسم لا تحقق له إلا في ضمن الأقسام فإذا أخذ من حيث تحققه في ضمن بعض الأقسام لا يتناول القسم فيلزم انقسام الشيء إلى نفسه وإلى غيره، وإذا أخذ من حيث تحققه في ضمن جميع الأقسام يكون كل من الأقسام قسما للمقسم فيلزم انقسام الشيء إلى الأشياء القسيمة له. وأجيب عنها بأنا نلاحظ القسم في نفسه مع قطع النظر عن تحققه في ضمن شيء من الأقسام. وتقرير هذه المغالطة أن هذا التقسيم إما مقارن بحيث يتحقق مقسمه في ضمن بعض الأقسام وإما مقارن بحيث يتحقق مقسمه في ضمن جميع الأقسام والأول باطل لاستلزامه الانقسام إلى نفسه وإلى غيره والثاني باطل لاستلزامه انقسام الشيء إلى الأقسام القسيمة له ينتج أن هذا التقسيم قياس مقسم متحدة فيه نتيجة التأليف لكنه فاسد إما من جهة المادة أو من جهة الصورة لأن الصغرى إما مانعة الجمع أولا، فعلى الثاني فالصغرى ممنوعة لأن المقسم ملحوظ هنا في نفسه مع قطع النظر عن تينك الحيثيتين، وعلى الأول فالإنتاج مجموع. فإن من شرائط إنتاج قياس التقسيم أن تكون المفصلة التي فيه حقيقية أو مانعة الخلو كما بين في محله.
+It is reported from al-Sayyid al-Sanad a fallacy that is common in all divisions of universals into their particulars: that the divided thing has no realization except within the parts. So if it is taken from the aspect of its realization within some parts, it does not include the part, so the division of the thing into itself and other than itself follows. And if it is taken from the aspect of its realization within all parts, each of the parts becomes a co-part of the divided thing, so the division of the thing into its co-parts follows. And the answer to it is: we observe the divided thing in itself, disregarding its realization within any of the parts. And the formulation of this fallacy is that this division is either concomitant such that its divided thing is realized within some parts, or concomitant such that its divided thing is realized within all parts. The first is invalid because it entails division into itself and other, and the second is invalid because it entails division of the thing into its co-parts. It follows that this division is a syllogism with a single result of composition, but it is invalid either materially or formally, because the minor premise is either a disjunctive that prevents conjunction or not. On the second, the minor is denied because the divided thing is here observed in itself disregarding those two aspects. On the first, the production is composite. For among the conditions for a division syllogism to produce is that the disjunctive in it be real or preventing emptiness as is established in its place.
+Source pages p. 36
+
+Commentary
+This passage presents a known fallacy (mughalata) in the logic of division, attributed to al-Sayyid al-Sanad, and provides its resolution. The fallacy targets all divisions of universals into their particulars. The argument is that the divided thing (muqassam) has no existence except within the parts (aqsam). Therefore, if we consider the divided thing as realized in some parts, it does not encompass the other part, leading to the impossibility of dividing the thing into itself and something else. Conversely, if we consider it as realized in all parts, then each part becomes a co-part (qasim) of the divided thing, resulting in the division of the thing into its own co-parts, which is circular. The answer is simple: we consider the divided thing in its essence, irrespective of its realization in any part. The fallacy is then formalized as a conditional syllogism: either the division is such that the divided thing is realized in some parts, or in all parts. The first leads to self-division (invalid), the second leads to co-part division (also invalid). The conclusion would be that this division is a compound syllogism with a single product, but it is flawed either materially (the minor premise is false) or formally (the disjunction is not exclusive). The correct solution is that the minor premise (the disjunction) must be a true exclusive disjunction (mani'at al-khuluw) for the syllogism to be valid. Otherwise, we deny the minor premise because the divided thing is considered in itself. This is a critical refinement typical of a hashiya, correcting a misunderstanding about the conditions of division.
+
+Key Terms
+مقسم
+قسم
+قسمة
+مانعة الجمع
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the correct way to consider the muqassam in a division?
+A) As realized in some of its parts.
+B) As realized in all of its parts.
+C) In itself, disregarding its realization in any part.
+D) As identical to the sum of its parts.
+
+Key Takeaway
+The key to avoiding the fallacy of division is to consider the divided universal in itself, not as instantiated in its particulars.
+
+How This Lesson Applies — to MY Life?
+?
+1. Consider the division of 'hukm' into 'wajib', 'haram', etc. Apply the fallacy: imagine 'hukm' is taken as realized in some category (e.g., wajib). What absurdity follows? Then provide the correct perspective considering 'hukm' in itself.
+?
+2. Analyze the following syllogism: 'Acts are either salah or sawm. Salah is invalid without niyyah, sawm is invalid without niyyah. Therefore all acts require niyyah.' Is this a valid division syllogism? Explain by checking the disjunction type.
+
+Pages p. 36 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 44
+Module 10 · Lesson 2
+Next →
+The Syllogism
+intermediate
+8 min
+Objection and the Condition of Exhaustive Division
+Discusses the nature of objection and the requirement of exhaustive division.
+
+Learning Objective
+By the end of this lesson, you will be able to formulate an objection (i'tirad) against a rational division by demonstrating its lack of exhaustiveness (hasr) using a categorical syllogism.
+
+Core Idea
+An objection must show the division fails to cover all possible parts.
+
+This lesson unpacks the nature of objection in dialectic and the critical condition that a rational division must be exhaustive. You will learn how to identify a non-exhaustive division and construct a valid objection, which is a key skill in theological and juristic debates where rational classifications are used.
+
+Guided Path
+1
+Identify the type of division
+Determine whether the division is rational ('aqli) or empirical. The passage specifies that if it is rational, the opponent can object by proposing another conceptually possible part.
+2
+Understand the exhaustiveness condition
+A valid division must be exhaustive (hasr), covering all possible parts. If the opponent can conceive of another part within the divided whole, the division is non-exhaustive.
+3
+Formulate the objection as a categorical syllogism
+The objection takes the form: 'Every non-exhaustive division is invalid. This division is non-exhaustive (because another part is permissible). Therefore, this division is invalid.' Recognize this as a first-figure Barbara syllogism.
+This logical structure ensures the objection is sound.
+4
+Apply the objection to a new Islamic case
+Take a rational division, e.g., division of acts into obligatory and prohibited. Can the opponent posit a third category (e.g., permissible) to refute the division? Practice constructing the objection syllogistically.
+This tests your grasp of the condition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في الاعتراض على حصر التقسيم إلى جزئيانه بانتفاء الحصر. اعلم أن التقسيم من المطالب التصورية حقيقة وإن كان من المطالب التصديقية صورة عند المحقق الشريف، ومن التصديقية حقيقة وصورة عند المحقق التفتازاني. ولعل التعبير بالاعتراض للإشارة إلى تطبيق الكلام على المذهبين لأن الاعتراض أعم من المنع والنقض والمعارضة ويجوز التخصيص بالنقض الاجمالي كما يدل عليه بيانه. فان كان عقليا ينقضه السائل بوجود قسم آخر خارج عن الأقسام داخل في المقسم يجوزه العقل. وتقريره أن هذا التقسيم باطل لأنه غير حاصر لأقسامه لأنه مقارن بجواز قسم آخر للمقسم فهو غير حاصر، وكل تقسيم غير حاصر فهو باطل. وههنا مغالطة مشهورة ترد على كل تقسيم مثلا لو قسمنا الكلمة إلى الاسم والفعل والحرف فيقول السائل هذا التقسيم باطل لأنه تقسيم الشيء إلى نفسه وإلى غيره لأن مورد القسمة كلمة وكل كلمة إما اسم أو فعل أو حرف، فمورد القسمة إما اسم أو فعل أو حرف، وأيا ما كان يكون تقسيمها إلى الاسم والفعل والحرف تقسيم للشيء إلى نفسه وإلى غيره. وجوابها أن الكلمة التي هي مورد القسمة أعم.
+Chapter: On the objection to the exhaustive enumeration of the division of the universal into its particulars due to the absence of exhaustiveness. Know that the division is from the conceptual demands in reality, even if it is from the assertoric demands in form according to al-Muhaqqiq al-Sharif, and from the assertoric demands in reality and form according to al-Muhaqqiq al-Taftazani. Perhaps the expression 'objection' indicates applying the statement to both schools, because objection is more general than prevention, refutation, and counter-argument, and it is permissible to specify it with summary refutation as indicated by its explanation. If it is rational, the opponent refutes it by [positing] the existence of another part outside the mentioned parts but inside the divided whole that reason allows. And its explanation is that this division is invalid because it does not exhaust its parts, since it is accompanied by the permissibility of another part for the divided whole, so it is non-exhaustive, and every non-exhaustive division is invalid. And here is a famous fallacy that occurs in every division, for example if we divided 'kalima' into noun, verb, and particle, the opponent says: this division is invalid because it divides a thing into itself and something else, because the object of division is kalima, and every kalima is either a noun, verb, or particle, so the object of division is either a noun, verb, or particle, and whichever it is, its division into noun, verb, and particle is a division of the thing into itself and something else. And its answer is that the kalima which is the object of division is more general [than any of its parts].
+Source pages p. 44
+
+Commentary
+This section begins a new chapter on objections to exhaustive division (hasr) of a universal into its particulars. The author notes that division is conceptually a demand of tasawwur (conceptualization) in reality, though it may appear in the form of tasdiq (assertion), a point of disagreement between al-Sharif and al-Taftazani. The use of the term 'i'tirad' (objection) is deliberate because it encompasses man', naqd, and mu'arada. If the division is rational ('aqli), the opponent can refute it by positing another possible part that is within the divided whole but not listed in the division. The logical form of the objection is: this division is invalid because it does not exhaust all its parts; it is accompanied by the possibility of another part, thus it is non-exhaustive; every non-exhaustive division is invalid. The author then presents a famous fallacy (maghalata) that occurs in every division: for example, dividing 'kalima' into noun, verb, and particle. The opponent argues that this divides a thing into itself and another, because the object of division (kalima) is itself a noun, verb, or particle, so dividing it into these is dividing it into itself and something else. The correct response is that the kalima under division is more general (a'amm) than any of its specific parts; it is a universal that applies to all three, so the division is not into itself but into its subclasses.
+
+Key Terms
+اعتراض
+حصر
+تقسيم عقلي
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the condition for a rational division to be valid?
+A) It must be based on empirical observation.
+B) It must be exhaustive (cover all possible parts).
+C) It must have at least two parts.
+D) It must be agreed upon by the disputants.
+
+Key Takeaway
+An exhaustive division must cover all possible parts; a rational division can be refuted by positing an unlisted possibility.
+
+How This Lesson Applies — to MY Life?
+?
+Formulate an objection to the division of acts into 'obligatory' and 'prohibited' by positing a third category (e.g., permissible). Structure your objection as a categorical syllogism following the pattern taught in this lesson.
+?
+In a debate about the division of 'ilm (knowledge) into acquired (kasbi) and bestowed (wahbi), what objection could an opponent raise using the condition of exhaustiveness? Write the objection in logical form.
+
+Pages p. 44 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 44
+Module 10 · Lesson 3
+Next →
+The Syllogism
+intermediate
+8 min
+The Kalima Fallacy and Its Resolution
+Presents the famous Kalima Fallacy and its resolution.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the fallacy of dividing a universal into itself and its opposite, and resolve it by distinguishing the universal from its species.
+
+Core Idea
+Dividing a universal into its species is not dividing it into itself; the universal is more general.
+
+This lesson examines a famous fallacy that repeatedly appears in logical debates: the claim that dividing a universal into its species amounts to dividing a thing into itself and another. Using the example of 'kalima' (word) divided into noun, verb, and particle, you will learn to recognize the error and apply the correct resolution.
+
+Guided Path
+1
+Identify the fallacy in the example
+Read the example: dividing 'kalima' into noun, verb, particle. The opponent objects that this divides the thing into itself because every kalima is one of those parts.
+This is the Kalima Fallacy.
+2
+Analyze the opponent's reasoning
+The opponent treats the divided whole (kalima) as identical to one of its species, ignoring that 'kalima' is a universal (genus) that applies to all species.
+He confuses the universal with a particular instance.
+3
+Apply the author's resolution
+The correct answer: the kalima under division is more general (a'amm) than any particular part. It is the genus, not one of the species. Therefore, dividing it into its species is valid and does not involve self-division.
+The universality of the divided whole is key.
+4
+Generalize to other Islamic examples
+This fallacy can occur in any division of a genus into its species, e.g., dividing 'hukm' (ruling) into wajib, mandub, etc. Practice spotting the fallacy and responding.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في الاعتراض على حصر التقسيم إلى جزئيانه بانتفاء الحصر. اعلم أن التقسيم من المطالب التصورية حقيقة وإن كان من المطالب التصديقية صورة عند المحقق الشريف، ومن التصديقية حقيقة وصورة عند المحقق التفتازاني. ولعل التعبير بالاعتراض للإشارة إلى تطبيق الكلام على المذهبين لأن الاعتراض أعم من المنع والنقض والمعارضة ويجوز التخصيص بالنقض الاجمالي كما يدل عليه بيانه. فان كان عقليا ينقضه السائل بوجود قسم آخر خارج عن الأقسام داخل في المقسم يجوزه العقل. وتقريره أن هذا التقسيم باطل لأنه غير حاصر لأقسامه لأنه مقارن بجواز قسم آخر للمقسم فهو غير حاصر، وكل تقسيم غير حاصر فهو باطل. وههنا مغالطة مشهورة ترد على كل تقسيم مثلا لو قسمنا الكلمة إلى الاسم والفعل والحرف فيقول السائل هذا التقسيم باطل لأنه تقسيم الشيء إلى نفسه وإلى غيره لأن مورد القسمة كلمة وكل كلمة إما اسم أو فعل أو حرف، فمورد القسمة إما اسم أو فعل أو حرف، وأيا ما كان يكون تقسيمها إلى الاسم والفعل والحرف تقسيم للشيء إلى نفسه وإلى غيره. وجوابها أن الكلمة التي هي مورد القسمة أعم.
+Chapter: On the objection to the exhaustive enumeration of the division of the universal into its particulars due to the absence of exhaustiveness. Know that the division is from the conceptual demands in reality, even if it is from the assertoric demands in form according to al-Muhaqqiq al-Sharif, and from the assertoric demands in reality and form according to al-Muhaqqiq al-Taftazani. Perhaps the expression 'objection' indicates applying the statement to both schools, because objection is more general than prevention, refutation, and counter-argument, and it is permissible to specify it with summary refutation as indicated by its explanation. If it is rational, the opponent refutes it by [positing] the existence of another part outside the mentioned parts but inside the divided whole that reason allows. And its explanation is that this division is invalid because it does not exhaust its parts, since it is accompanied by the permissibility of another part for the divided whole, so it is non-exhaustive, and every non-exhaustive division is invalid. And here is a famous fallacy that occurs in every division, for example if we divided 'kalima' into noun, verb, and particle, the opponent says: this division is invalid because it divides a thing into itself and something else, because the object of division is kalima, and every kalima is either a noun, verb, or particle, so the object of division is either a noun, verb, or particle, and whichever it is, its division into noun, verb, and particle is a division of the thing into itself and something else. And its answer is that the kalima which is the object of division is more general [than any of its parts].
+Source pages p. 44
+
+Commentary
+This section begins a new chapter on objections to exhaustive division (hasr) of a universal into its particulars. The author notes that division is conceptually a demand of tasawwur (conceptualization) in reality, though it may appear in the form of tasdiq (assertion), a point of disagreement between al-Sharif and al-Taftazani. The use of the term 'i'tirad' (objection) is deliberate because it encompasses man', naqd, and mu'arada. If the division is rational ('aqli), the opponent can refute it by positing another possible part that is within the divided whole but not listed in the division. The logical form of the objection is: this division is invalid because it does not exhaust all its parts; it is accompanied by the possibility of another part, thus it is non-exhaustive; every non-exhaustive division is invalid. The author then presents a famous fallacy (maghalata) that occurs in every division: for example, dividing 'kalima' into noun, verb, and particle. The opponent argues that this divides a thing into itself and another, because the object of division (kalima) is itself a noun, verb, or particle, so dividing it into these is dividing it into itself and something else. The correct response is that the kalima under division is more general (a'amm) than any of its specific parts; it is a universal that applies to all three, so the division is not into itself but into its subclasses.
+
+Key Terms
+مغالطة
+تقسيم عقلي
+أعم
+
+Key Terms from Source Passage
+
+Checkpoint
+In the fallacy about dividing 'kalima' (word) into noun, verb, and particle, what is the correct response to the objection that it divides a thing into itself and another?
+A) The division is indeed invalid because a word is just a noun, verb, or particle.
+B) The kalima under division is more general than any of its parts, so the division is valid.
+C) The objection is irrelevant because division into noun, verb, and particle is conventional.
+D) The division should be into parts that are not overlapping.
+
+Key Takeaway
+A universal divided into its species remains a universal not a species; the division is valid and does not involve self-division.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the division of 'ibada (worship) into prayer, fasting, zakat, and hajj. An opponent objects that this divides ibada into itself and others because each ibada is one of these. Write a one-paragraph response using the resolution from this lesson.
+?
+Identify a similar fallacy in the following claim: 'The division of 'ilm into tafsir, hadith, and fiqh is invalid because every 'ilm is one of these, so it divides 'ilm into itself.' Provide the correct analysis.
+
+Pages p. 44 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 85
+Module 10 · Lesson 4
+Next →
+The Syllogism
+intermediate
+10 min
+Conditions of Complete Taqrib
+Author defines taqrib and explains its completion depends on the relation between the proof's conclusion and the claim.
+
+Learning Objective
+By the end of this lesson, you will be able to evaluate whether a given evidence-conclusion relation constitutes a complete taqrib by comparing it to the claim in terms of generality or specificity.
+
+Core Idea
+Taqrib is complete only when the evidence's conclusion is identical, equivalent, or more specific than the claim – never more general or opposite.
+
+In dialectical debate, evidence (dalil) is brought to support a claim (mad'aa). But not every valid inference constitutes a proper taqrib (approximation). This passage from the matn lays down strict conditions: the conclusion of the evidence must be exactly the claim, or equivalent to it, or more specific. If it is more general or opposite, the taqrib fails. Understanding this distinction is crucial for evaluating arguments in Islamic scholarly debates.
+
+Guided Path
+1
+Identify the claim and the evidence's conclusion
+From the passage, note that the claimant asserts something, and the evidence produces a conclusion. For example, the claim 'some animal is a writer' and the evidence concludes 'some animal is laughing'.
+The claim and conclusion may differ in quantity, quality, modality, or scope.
+2
+Determine the relation between the conclusion and the claim
+Classify whether the conclusion is exactly the same (ayn al-mad'aa), equivalent (musawi), more specific (akhass), more general (a'amm), or opposite (mubayin). The passage emphasizes that more general may be absolute or from one aspect.
+Use the examples given: laughing is more general than writer; inanimate is opposite to animal.
+3
+Apply the rule for complete taqrib
+If the relation is identical, equivalent, or more specific, the taqrib is complete (tamm). If it is more general (absolutely or from one aspect) or opposite, there is no taqrib at all.
+The author rejects the view that more general yields incomplete taqrib; it yields none.
+4
+Test with the passage's examples
+Walk through the examples: 'some animal is a writer' vs 'some animal is laughing' – more general from one aspect, so no taqrib. 'This is not an animal' vs implied 'this is an animal' – opposite, so no taqrib.
+5
+Extend the rule to modality and proposition type
+The passage notes that the rule applies regardless of modality (necessary vs perpetual) and whether the proposition is real, external, or mental. Thus a necessary claim cannot be supported by a perpetual conclusion unless the perpetual is equivalent or more specific.
+This prevents loose reasoning in theological arguments about divine attributes.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما إذا أنتج الدليل الأعم مطلقا أو من وجه أو المباين فلا تقريب، أي لا يوجد فيه التقريب أصلا. ومثال الأعم من وجه كما إذا ادعينا بعض الحيوان كاتب بالفعل وقلنا لأنه متعجب بالفصل وكل متعجب بالفعل فهو ضاحك بالفعل فبعض الحيوان ضاحك بالفعل فهذا أعم من المدعى من وجه وهو مندرج في الأعم. وأما إذا أنتج الدليل المباين فلا تقريب بالطريق الأولى مثاله هذا لا حيوان لأنه جماد وكل جماد لا حيوان فهذا لا حيوان وهو مباين المدعى. وما قيل إنه إذا أنتج الأعم مطلقا أو من وجه فهذا تقريب لكنه ليس بتام وأما إذا أنتج المباين فلا تقريب أصلا فليس بجيد كما لا يخفى. كأن يكون المدعى موجبة كلية حملية أو شرطية متصلة أو منفصلة وينتج الدليل موجبة جزئية حملية كانت أو شرطية مطلقا. وكذا إذا كان المدعى ضرورية والدليل ينتج دائمة ومطلقة عامة أو مشروطة عامة أو عرفية عامة أو إحدى القضايا العامة من الضرورية. والحاصل أن الدليل إذا أنتج عين المدعى أو مساوية أو الأخص منه مطلقا كان التقريب تاما وإن أنتج الأعم مطلقا أو من وجه أو المباين بأي وجه كان سواء كانت المساواة وغيرها بحسب الكم والكيف أو بحسب الجهة أو غيرها من كون القضية حقيقية أو خارجية أو ذهنية فلا تقريب.
+And as for when the evidence produces [something] more general absolutely, or from one aspect, or opposite, then there is no taqrib, meaning there is no approximation at all. An example of more general from one aspect: if we claim that some animal is actually a writer and we say because it is actually amazed by the species and every actually amazed is actually laughing, so some animal is actually laughing, so this is more general than the claim from one aspect and it is included in the more general. And as for when the evidence produces the opposite, there is no taqrib by primary appropriateness; its example: this is not an animal because it is inanimate, and every inanimate is not an animal, so this is not an animal and it is opposite to the claim. And what was said that if it produces the more general absolutely or from one aspect, this is taqrib but not complete, and if it produces the opposite, there is no taqrib at all, is not good, as is not hidden. For example, the claim is a universal affirmative categorical or conditional conjunctive or disjunctive, and the evidence produces a particular affirmative categorical or conditional absolutely. Likewise if the claim is necessary and the evidence produces perpetual and absolute general or conditional general or customary general or one of the general propositions from the necessary. The upshot: if the evidence produces the very claim or equivalent or the more specific absolutely, the taqrib is complete; but if it produces the more general absolutely or from one aspect or the opposite in any aspect, whether the equivalence and others are in terms of quantity and quality or in terms of modality or other, like the proposition being real or external or mental, then there is no taqrib.
+Source pages p. 85
+
+Commentary
+This passage defines taqrib (literally 'bringing close') in the context of dialectical debate. Taqrib refers to the evidence (dalil) producing a conclusion that approximates the claim (mad'aa). The author begins by stating that if the evidence produces a conclusion that is more general (a'amm) absolutely or from one aspect, or if it is opposite (mubayin) to the claim, then there is no taqrib at all. To illustrate 'more general from one aspect', he gives the example: the claim is 'some animal is a writer', and the evidence argues that because that animal is actually amazed, and every actually amazed being is actually laughing, the conclusion is 'some animal is actually laughing'. Since laughing is more general than writing (writing is a specific kind of laughter in the context?), the conclusion is more general, but only from one aspect. For the opposite case, the example shows a conclusion that directly contradicts the claim: 'this is not an animal' versus an implied claim that it is an animal. The author then critiques a previous opinion that considered the more general case as an incomplete taqrib rather than none, calling it not good. He then provides a summary: taqrib is complete only when the evidence produces the exact claim, an equivalent (musawi), or a more specific (akhass) term. This applies across different types of propositions: categorical, conditional, necessary vs perpetual, and considering quantity, quality, modality, and whether the proposition is real (haqiqiyya), external (kharijiyya), or mental (dhihniyya). The key insight is that producing a more general or opposite conclusion fails to properly 'bring close' the claim, and thus is not considered valid taqrib.
+
+Key Terms
+تقريب
+أعم
+مباين
+مساوي
+جهة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the status of taqrib when the evidence produces a conclusion that is more general absolutely than the claim?
+A) It is a complete taqrib
+B) It is an incomplete taqrib
+C) There is no taqrib at all
+D) It depends on the modality
+
+Key Takeaway
+For a taqrib to be complete, the evidence's conclusion must be identical to, equivalent to, or more specific than the claim; more general or opposite conclusions yield no taqrib at all.
+
+How This Lesson Applies — to MY Life?
+?
+A claimant says 'Every intoxicant is haram' and the evidence proves 'Every liquid that causes intoxication is haram'. Is the taqrib complete? Explain using the three relations (identical, equivalent, more specific, more general, opposite).
+?
+In a fiqh debate, a claimant says 'Riba in trade is prohibited' and the evidence proves 'All forms of exploitation are prohibited'. Determine the relation and whether taqrib is complete, referencing the passage's rule on absolute generality.
+
+Pages p. 85 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 101
+Module 10 · Lesson 5
+Next →
+The Syllogism
+advanced
+15 min
+Types of Counterarguments in Dialectical Logic: Mu'arada bi'l-Mithl and Mu'arada bi'l-Ghayr
+Classification of counterarguments in dialectical logic
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between opposition by similar form (mu'arada bi'l-mithl) and opposition by different form (mu'arada bi'l-ghayr), and construct a valid counterargument in the kalam debate on world eternity.
+
+Core Idea
+A counterargument can mirror the form or change it; understanding both is essential for jadal.
+
+This passage applies the general sophism to the eternity debate and then classifies how an opponent can respond. The key distinction is whether the counterargument shares the same logical form as the original or differs. This classification is fundamental in the adab al-bahth tradition and reveals the sophistication of Islamic dialectical logic.
+
+Guided Path
+1
+Read the philosopher's conditional argument for eternity.
+Identify the 'if...then' structure and the claim that the antecedent is true. The philosopher argues: If the thing whose existence and non-existence entail the world's eternity is fixed, then the world is eternal; but one of them is fixed, so the world is eternal.
+This is a conditional syllogism (qiyas istithna'i muttasil).
+2
+See how the opponent mirrors the form to argue for temporality.
+The opponent uses the same conditional structure but replaces 'eternity' with 'temporality'. This is mu'arada bi'l-mithl in conditional form: same logical form, different matter (the middle term/consequent).
+Same form, different matter.
+3
+Examine the categorical syllogism examples.
+The philosopher uses 'the world is eternal because it is the effect of the eternal' (first figure Barbara). The opponent counters with 'the world is temporal because it is changing' (also first figure Barbara). This is another instance of mu'arada bi'l-mithl.
+Both are universal affirmative syllogisms (awwal al-shakl al-awwal).
+4
+Identify the mu'arada bi'l-ghayr example.
+The opponent uses a different syllogistic form: 'The world is temporal/not eternal because it is an effect of the Chosen One, and nothing eternal is an effect of the Chosen One.' This proof differs in form (and possibly matter) from the philosopher's first-figure syllogism.
+Differing form, regardless of matter.
+5
+Understand the prover's response to mu'arada.
+The prover can respond by choosing that the thing in question (the entity whose existence/non-existence entails the conclusion) is non-existent (ma'dum), thereby denying the antecedent and blocking the entailment. This is a standard dialectical move.
+This is not a refutation of the mu'arada but a way to avoid the forced conclusion.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقول: فإذا استدل به (أي بذلك الدليل الفلسفي) على قدم العالم بأن قال: إذا كان الشيء الذي يستلزم وجوده وعدمه قدم العالم ثابتا كان العالم قديما، لكن أحدهما ثابت فالعالم قديم، فتعارضه (أي الفلسفي) بالاستدلال به على حدوثه (أي على حدوث العالم) بأن يقال: العالم حادث لأنه إذا كان الشيء الذي يستلزم وجوده وعدمه حدوث العالم ثابتا كان العالم حادثا، لكن أحدهما ثابت فهو حادث. وإن كان دليل المعارض غيره (أي غير دليل المعلل) مادة وكان عينه صورة تسمى تلك المعارضة معارضة بالمثل لتماثل الدليلين في الصورة، كأن يقول العلمي: العالم قديم لأنه القديم (هذه صغرى) وكل ما هو أثر القديم قديم (وهو كبرى) ينتج أن العالم قديم فتعارضه بأنه (أي العالم) حادث لأنه متغير وكل متغير حادث فالعالم حادث، فإن دليلنا هذا غير دليله مادة لتغاير أوسطهما وعينه صورة لكونهما من أول الشكل الأول. وإن كان دليل المعارض غيره (أي غير دليل المعلل) صورة تسمى تلك المعارضة معارضة بالغير لتغاير صورة الدليلين، سواء كان دليل المعارض غيره (أي غير دليل المعلل) مادة أيضا (أي كما كان غيره صورة) كما إذا عارضه الفلسفي في الصورة المذكورة (أي في ادعاء قدم العالم) بأن العالم حادث أو ليس بقديم لأنه أثر المختار ولا شيء من القديم بأثر المختار أو لا شيء من أثر المختار بقديم، فكل واحد من هذين الدليلين غير دليل المعلل مادة (وهو ظاهر) وصورة لأن دليله من أول الشكل الأول وأولهما. أقول: فإذا استدل به (أي بذلك القول الفلسفي) على قدم العالم بأن قال: إن كان الشيء الذي يستلزم وجوده وعدمه قدم العالم موجودا أو معدوما كان العالم قديما، لكن المقدم حق والتالي مثله، فتعارضه بالاستدلال به على حدوثه بأن تقول: إن كان الشيء الذي يستلزم وجوده وعدمه حدوث العالم موجودا أو معدوما كان العالم حادثا أو لم يكن العالم قديما، لكن المقدم حق والتالي مثله. قال في الحاشية: ويجاب عنه بأنا نختار أنه معدوم، ولا نسلم ثبوت المطلوب لأنا نختار أنه معدوم ذاته وصفته التي هي استلزام عدم المطلوب انتهى. وقال في التقرير: أو يجاب بأنا نختار أن عدمها بعدم تلك الصفة فلا يلزم المطلوب. وإن كان دليل المعارض غيره (أي غير دليل المعلل) مادة وعينه صورة تسمى تلك المعارضة معارضة بالمثل لتماثل الدليلين في الصورة، كأن يقول الفلسفي: العالم قديم لأنه أثر القديم وكل ما كان أثر القديم فهو قديم فتعارضه بأنه (أي العالم) حادث لأنه متغير وكل متغير حادث، فإن دليلنا هذا غير دليله مادة لتغاير أوسطهما وعينه صورة لكونهما من أول الأول. وإن كان دليل المعارض غيره (أي غير دليل المعلل) صورة تسمى تلك المعارضة معارضة بالغير لتغاير صورتها، سواء كان دليل المعارض غيره (أي غير دليل المعلل) مادة أيضا كما إذا عارضنا ذلك الفلسفي في الصورة المذكورة بأن العالم حادث أو ليس بقديم لأنه أثر المختار ولا شيء من القديم بأثر المختار.
+I say: So if he uses it (i.e., that philosophical proof) for the eternity of the world by saying: If the thing whose existence and non-existence entail the eternity of the world is fixed, then the world is eternal; but one of them is fixed, so the world is eternal. Then you oppose him (i.e., the philosopher) by using it for its temporality (i.e., for the temporality of the world) by saying: The world is temporal because if the thing whose existence and non-existence entail the temporality of the world is fixed, then the world is temporal; but one of them is fixed, so it is temporal. And if the opponent's proof is other than (i.e., different from) the prover's proof in matter but identical to it in form, that opposition is called opposition by the similar (mu'arada bi'l-mithl) due to the similarity of the two proofs in form. For example, the theologian (al-'ilmi) says: The world is eternal because it is eternal (this is the minor premise) and everything that is the effect of the eternal is eternal (which is the major premise), yielding that the world is eternal. Then you oppose him by saying that the world is temporal because it is changing and everything changing is temporal, so the world is temporal. For our proof here is different from his proof in matter due to the difference of their middle terms, and identical to it in form because both are from the first figure (al-shakl al-awwal). And if the opponent's proof is other than the prover's proof in form, that opposition is called opposition by the other (mu'arada bi'l-ghayr) due to the difference in form of the two proofs, whether the opponent's proof is also other than the prover's proof in matter (i.e., as it is other in form) as when he opposes the philosopher in the mentioned form (i.e., in claiming the eternity of the world) by saying that the world is temporal or not eternal because it is the effect of the Chosen One (al-Mukhtar) and nothing eternal is an effect of the Chosen One, or nothing that is an effect of the Chosen One is eternal. So each of these two proofs is other than the prover's proof in matter (which is apparent) and in form because his proof is from the first figure and they are from it as well. I say: So if he uses it (i.e., that philosophical statement) for the eternity of the world by saying: If the thing whose existence and non-existence entail the eternity of the world is existent or non-existent, then the world is eternal; but the antecedent is true and the consequent is like it. Then you oppose him by using it for its temporality by saying: If the thing whose existence and non-existence entail the temporality of the world is existent or non-existent, then the world is temporal or the world is not eternal; but the antecedent is true and the consequent is like it. He said in the gloss: And it is answered by saying: We choose that it is non-existent, and we do not grant the establishment of the demand because we choose that it is non-existent in itself and its attribute which is the entailment of the non-existence of the demand. End. And he said in the commentary (al-Taqrir): Or it is answered by saying: We choose that its non-existence is due to the absence of that attribute, so the demand does not follow. And if the opponent's proof is other than the prover's proof in matter and identical to it in form, that opposition is called opposition by the similar due to the similarity of the two proofs in form, as when the philosopher says: The world is eternal because it is the effect of the eternal, and everything that is the effect of the eternal is eternal. Then you oppose him by saying that the world is temporal because it is changing and everything changing is temporal. For our proof here is different from his proof in matter due to the difference of their middle terms and identical to it in form because both are from the first figure. And if the opponent's proof is other than the prover's proof in form, that opposition is called opposition by the other due to the difference of its form, whether the opponent's proof is also other than the prover's proof in matter as when we oppose that philosopher in the mentioned form by saying that the world is temporal or not eternal because it is the effect of the Chosen One and nothing eternal is an effect of the Chosen One.
+Source pages p. 101
+
+Commentary
+This passage applies the general sophism to a specific theological debate: the eternity of the world (qidam al-'alam) versus its temporality (huduth). The philosopher uses the sophism to argue for eternity: if the thing whose existence and non-existence entail the world's eternity is fixed, then the world is eternal; but one of them is fixed, so the world is eternal. The opponent counters by using the same form to argue for temporality. The author then distinguishes two types of mu'arada: opposition by the similar (mu'arada bi'l-mithl) and opposition by the other (mu'arada bi'l-ghayr). In mu'arada bi'l-mithl, the opponent's proof differs in matter (i.e., terms) but shares the same form (e.g., both are first figure categorical syllogisms). The example given is the theologian arguing for eternity using 'eternal' as middle term, and the opponent arguing for temporality using 'changing' as middle term; both are first figure. In mu'arada bi'l-ghayr, the opponent's proof differs in form (and possibly matter) from the original. The example uses a different syllogistic form: the philosopher's proof is first figure, while the opponent's is a different form, e.g., using 'effect of the Chosen One' as a premise. The author also notes the response to the mu'arada: the prover can choose that the thing in question is non-existent (ma'dum) and thus deny the entailment. This is a standard move in jadal. The passage is dense and illustrates how logical structures are used in theological argumentation. The key takeaway is the classification of counterarguments and the method of response.
+
+Key Terms
+قدم العالم
+حدوث العالم
+معارضة بالمثل
+معارضة بالغير
+أول الشكل الأول
+
+Key Terms from Source Passage
+
+Checkpoint
+In mu'arada bi'l-mithl, the opponent's proof differs from the prover's proof in:
+A) matter only
+B) form only
+C) both matter and form
+D) neither matter nor form
+
+Key Takeaway
+Counterarguments in jadal are classified by their logical form relative to the original: mu'arada bi'l-mithl shares the form, mu'arada bi'l-ghayr changes it.
+
+How This Lesson Applies — to MY Life?
+?
+Given the philosopher's argument: 'If the world had a beginning, it would require a Creator; but it has no beginning, so no Creator.' Construct a mu'arada bi'l-mithl by using the same conditional form but substituting the consequent to argue for a Creator.
+?
+Identify whether the following counterargument is mu'arada bi'l-mithl or mu'arada bi'l-ghayr: The philosopher says 'The world is eternal because it is necessary', and the opponent says 'The world is temporal because it is contingent'. (Assume both are categorical syllogisms in the first figure.)
+
+Pages p. 101 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 119
+Module 10 · Lesson 6
+Next →
+The Syllogism
+intermediate
+8 min
+Debate Must Terminate: A Conditional Proof
+Proof that debate ends in one of two incapacities
+
+Learning Objective
+By the end of this lesson, you will be able to reconstruct the proof that debate must terminate and identify the two syllogistic forms used (categorical and conditional).
+
+Core Idea
+Debate cannot go on forever because the human soul is created and finite.
+
+In this passage, the author proves a key principle of munazara: every debate must eventually end in one of two incapacities. He offers the proof in two logical forms: first as a categorical syllogism, then as a non-standard conditional syllogism. By understanding this argument, you will see how Islamic dialectic grounds its rules in rational necessity.
+
+Guided Path
+1
+Identify the conclusion
+Read the passage and find the statement that the author is trying to prove. It is that the debate must terminate (end) in one of two incapacities: either the respondent cannot answer, or the questioner cannot object further.
+The conclusion is stated early: البحث بينهما لا بد أن ينقطع.
+2
+Extract the categorical syllogism
+The author presents a syllogism: major premise (self-evident) that every discussion ending in one of two incapacities is terminated; minor premise that this discussion ends in one of the two incapacities; conclusion that it must terminate. Identify the terms.
+The minor premise is justified by the impossibility of infinite regress.
+3
+Reformulate as a conditional syllogism
+The author notes it can be seen as a non-standard conditional (istithna'i ghair mustaqim). If the debate does not end in one of the two incapacities, then it could continue infinitely. But it cannot continue infinitely (because the soul is created). Therefore, it must end in one of the two incapacities.
+This is a modus tollens form: ~P → Q, ~Q, therefore P (where P = ends in incapacities).
+4
+Analyze the key premise
+The impossibility of infinite continuation is based on the createdness (huduth) of the rational soul. A created being cannot arrange infinite matters. This is a rational, not empirical, claim.
+The author refers to قصور القوة البشرية عن ترتيب أمور غير متناهية إذ النفس الناطقة حادثة.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بين المتناظرين إما أن ينهى إلى عجز المعلل وسكوته عن دفع اعتراض السائل أو ينتهى إلى عجز السائل عن الاعتراض على جواب المعلل، إذ لا يمكن جريان البحث بينهما إلى غير النهاية. وحاصل الدليل أن البحث بينهما منته إلى أحد العجزين، وكل بحث منته إلى أحد العجزين منقطع، فالبحث بينهما لا بد أن ينقطع. أما الكبرى فبديهية. وأما الصغرى فبينها بقوله إذ لا يمكن الخ. وحاصله أن البحث بينهما بحث لا يمكن جريانه إلى غير النهاية، وكل بحث لا يمكن جريانه إلى غير النهاية منته إلى أحد العجزين. ويمكن أن يكون من الاستثنائي الغير المستقيم بأن يقال إن البحث بينهما منته إلى أحد العجزين وإلا لأمكن جريان البحث إلى غير النهاية، لكن لا يمكن جريان البحث إلى غير النهاية لقصور القوة البشرية عن ترتيب أمور غير متناهية إذ النفس الناطقة حادثة.
+Between the two debaters, either it ends in the incapacity of the respondent and his silence in repelling the questioner's objection, or it ends in the incapacity of the questioner to object to the respondent's answer, because the discussion between them cannot continue infinitely. The gist of the proof is that the discussion between them ends in one of the two incapacities, and every discussion that ends in one of the two incapacities is terminated, so the discussion between them must terminate. As for the major premise, it is self-evident. As for the minor premise, it is shown by his saying 'because it cannot' etc. Its gist is that the discussion between them is a discussion that cannot proceed infinitely, and every discussion that cannot proceed infinitely ends in one of the two incapacities. It could be a non-standard conditional syllogism, such that it is said: The discussion between them ends in one of the two incapacities, otherwise it would be possible for the discussion to continue infinitely, but it is not possible for the discussion to continue infinitely due to the weakness of human power to arrange infinite matters, since the rational soul is created.
+Source pages p. 119
+
+Commentary
+This passage proves that any debate in munazara must eventually terminate. The proof is presented in two forms: first as a categorical syllogism (with self-evident major and proven minor), then as a non-standard conditional syllogism (istithna'i ghair mustaqim). The key premise is that human capacity is finite because the rational soul is created (haditha), so an infinite chain of arguments is impossible. Thus the debate ends either with the respondent unable to refute an objection (ajz al-mu'allil) or the questioner unable to continue objecting (ajz al-sa'il). The author follows the argument step by step, clarifying the logical structure.
+
+Key Terms
+المعلل
+السائل
+عجز
+الاستثنائي الغير المستقيم
+
+Key Terms from Source Passage
+
+Checkpoint
+Why does the author say debate cannot continue infinitely?
+A) Because people get tired
+B) Because the human soul is created and cannot handle infinite arguments
+C) Because the major premise is self-evident
+D) Because both parties eventually agree
+
+Key Takeaway
+Debate must terminate because infinite regress is impossible, given the createdness of the human soul.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a conditional syllogism (istithna'i ghair mustaqim) to prove that a qiyas (analogical argument) must have a valid 'illah (cause): If the 'illah is not valid, then the analogy is valid; but the analogy is not valid unless the 'illah is valid? Actually, use the form: If the debate does not end, then infinite regress occurs. So for a qiyas: If the 'illah is not verified (shart), then the qiyas is rejected; but the qiyas is accepted, so the 'illah must be verified.
+?
+Analyze a hypothetical debate: The respondent is asked about the prohibition of riba. He provides an 'illah (increase). The questioner objects that the 'illah is not effective. Using the principle from the lesson, explain how the debate must terminate.
+
+Pages p. 119 · The Syllogism
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 122
+Module 10 · Lesson 7
+Next →
+The Syllogism
+intermediate
+10 min
+Mutual Nullification of Evidences via Second-Figure Syllogism
+Author explains the result when two evidences in a debate contradict each other.
+
+Learning Objective
+By the end of this lesson, you will be able to analyze a dialectical exchange and determine when both arguments are invalidated using a second-figure categorical syllogism.
+
+Core Idea
+When two evidences contradict, both can be nullified via second-figure syllogisms.
+
+In a debate, it is not uncommon for each party to bring evidence that directly contradicts the other's conclusion. The author of our passage explains a powerful dialectical outcome: when each evidence implies the opposite of its own intended claim, a second-figure categorical syllogism can demonstrate that both evidences are invalid. This concept, known as 'al-musāqaṭa' (fall), is essential for understanding how arguments are evaluated in Islamic dialectics (jadal). We will unpack how the second-figure syllogism is used to reach this mutual nullification.
+
+Guided Path
+1
+Identify the two conflicting claims
+In the debate, the proponent (mu'allil) and the objector (mu'āriḍ) each have a claim. The proponent's evidence is supposed to support his claim, but it is alleged to imply the opposite. Similarly for the objector. Find the claims in the text.
+2
+Understand the condition for a valid evidence
+The author states: a correct evidence (dalīl ṣaḥīḥ) with all its premises does not indicate contrary to its own implication (madlūl). Why? Because that would entail the combination of two contradictories (ijtimā' al-naqīḍayn). Grasp why this is a logical impossibility.
+3
+Recognize the second-figure syllogism
+The author says that if the proponent's evidence implies the opposite of its conclusion, then a proof from the second figure (shakl thānī) is produced that the evidence is invalid. Review the second figure: the middle term is predicate in both premises, and it yields a negative conclusion. Here, the conclusion is 'this evidence is not correct.'
+4
+Apply the same reasoning symmetrically
+The same logic applies to the objector's evidence. So both evidences are shown invalid by separate second-figure syllogisms. This is the symmetry.
+5
+Conclude the dialectical outcome (al-musāqaṭa)
+With both evidences invalid, both claims remain without proof. The outcome is that both arguments fall (tasqit). This is not a draw; it is a nullification of both positions, which is a recognized result in jadal.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+بطلان الملزوم وكأن المعلل يقول أيضا إن دليلى أبطل دعواك فيبطل دليلك الذي عارضت به : اعلم أن ما أنتجه دليل المعارض هو دعوى المعارض وما أنتجه دليل للعلل هو دعوى الملل (إذ الدليل الصحيح ) بجميع مقدماته ( لا يدل ) دليل ( على خلاف مدلوله ) وإلا لزم اجتماع النقيضين ودليل المعلل يدل على خلاف مدلوله دليل ينتج من الشكل الثاني أن دليل المعلل ليس بدليل صحيح وكذا دليل المعارض يدل على خلاف مدلوله دليل ينتج من الثاني أيضا دليل المعارض ليس بدليل صحيح وفرع على الأول قوله ( فيبقى مدعى الملل بلا دليل ) ويتفرع على الثانى ويبقى مدعى المعارض بلا دليل لكن تركه حملا على المقايسة فاذا كان كذلك كان حاصلها المساقطة وهو المطلوب.
+The invalidity of the consequent: it is as if the proponent also says that my evidence invalidates your claim, thus invalidates your evidence that you used to object... Know that what the objector's evidence produces is the objector's claim, and what the proponent's evidence produces is the proponent's claim. (Since a correct evidence with all its premises does not indicate contrary to its implication; otherwise, the two contradictories would combine.) The proponent's evidence indicates contrary to its implication, so a proof from the second figure is produced that the proponent's evidence is not a correct evidence. Likewise, the objector's evidence indicates contrary to its implication, so a proof from the second figure is also produced that the objector's evidence is not a correct evidence. A branch of the first is his statement: 'So the proponent's claim remains without evidence', and it branches from the second: 'and the objector's claim remains without evidence', but he omitted it for the sake of parallelism. When this is the case, its outcome is fall (tasqit), and that is the desired result.
+Source pages p. 122
+
+Commentary
+This passage deals with the dialectical situation where both parties in a debate produce contradictory evidences. The author argues that if the proponent's evidence implies the opposite of its own intended conclusion, then a second-figure syllogism shows that evidence to be invalid. The same applies to the opponent's evidence. The result is that both claims are left without evidence, leading to 'tasqit' (fall) — both arguments collapse. This is a key concept in jadal (dialectics). The author uses the second-figure syllogism, which is known for producing negative conclusions. An Islamic example: if one claims that nabidh is permitted because it is not wine, and the objector claims it is forbidden because it intoxicates, and each uses a flawed analogy, then both evidences cancel out, leaving no valid proof.
+
+Key Terms
+المساقطة
+الشكل الثاني
+المعلل
+المعارض
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what does it mean when the proponent's evidence indicates contrary to its own implication?
+A) The evidence is correct.
+B) A second-figure syllogism shows the evidence is invalid.
+C) The opponent must withdraw.
+D) The debate ends in a tie.
+
+Key Takeaway
+When both evidences in a dialectical exchange imply the opposite of their intended conclusions, second-figure categorical syllogisms can invalidate both, leading to mutual nullification (musāqaṭa).
+
+How This Lesson Applies — to MY Life?
+?
+Construct an example from usul al-fiqh where two jurists debate a ruling, each presenting an analogy that inadvertently implies the opposite conclusion. Then apply the second-figure syllogism to show that both evidences are invalid.
+?
+Analyze the following dialectical exchange: An opponent argues that 'every intoxicant is forbidden' and that 'khamr is an intoxicant', concluding khamr is forbidden. The proponent argues that 'every permissible drink is not forbidden' and that 'khamr is a permissible drink', concluding khamr is not forbidden. Identify the contradiction and explain how the second-figure syllogism nullifies both arguments.
+
+Pages p. 122 · The Syllogism
+← Prev
+Mark Done
+Next →

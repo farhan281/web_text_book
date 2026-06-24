@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:41Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/badi_mizan/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/02 - Badi Mizan",
+  "output_bytes": 2427891,
+  "output_sha256": "61e225fc9d7af87880bf7c52b56eca059bab87913051cf71af17659d7fa6b837",
+  "checks": {
+    "catalog_expected_lessons": 311,
+    "course_reported_lessons": 311,
+    "index_lessons": 311,
+    "full_lessons": 311,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 15,
+    "course_reported_modules": 15,
+    "modules": 15,
+    "course_reported_sources": 241,
+    "sources": 241
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:55Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Asas%20al-Taqdis%20-%20Imam%20Razi%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/ashari/49 - Asas al-Taqdis - Imam Razi RA",
+  "output_bytes": 6411170,
+  "output_sha256": "31da39bce97284d9e629751cf247d7e55442e2b58a3851e3c46a69f84e7ea095",
+  "checks": {
+    "catalog_expected_lessons": 874,
+    "course_reported_lessons": 874,
+    "index_lessons": 874,
+    "full_lessons": 874,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 726,
+    "sources": 726
+  }
+}

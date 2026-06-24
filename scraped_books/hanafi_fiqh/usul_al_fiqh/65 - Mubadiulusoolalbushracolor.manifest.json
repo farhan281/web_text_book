@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:20Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/MubadiUlUsoolAlBushraColor/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/65 - Mubadiulusoolalbushracolor",
+  "output_bytes": 882170,
+  "output_sha256": "34eda12ab3dd31915b453746bf5c5ab7d6c2df244d8bb417f0d435658d93f98f",
+  "checks": {
+    "catalog_expected_lessons": 127,
+    "course_reported_lessons": 127,
+    "index_lessons": 127,
+    "full_lessons": 127,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 131,
+    "sources": 131
+  }
+}

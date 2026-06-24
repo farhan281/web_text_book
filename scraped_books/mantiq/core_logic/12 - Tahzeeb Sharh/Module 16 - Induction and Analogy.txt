@@ -1,0 +1,899 @@
+← Prev
+p. 191
+Module 16 · Lesson 1
+Next →
+Induction and Analogy
+beginner
+10 min
+The Three Types of Proof in Islamic Logic
+Author divides arguments into three types and defines each.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between syllogism, induction, and analogy, and identify which type of reasoning is used in a given Islamic argument.
+
+Core Idea
+Every logical argument moves either from universal to particular, particular to universal, or particular to particular.
+
+This lesson introduces the threefold classification of arguments that forms the backbone of Islamic logic. The author explains that reasoning can proceed from a universal rule to its particulars (syllogism), from particulars to a universal rule (induction), or from one particular to another under a common universal (analogy). Understanding this classification helps you recognize the structure of arguments in kalam, fiqh, and tafsir.
+
+Guided Path
+1
+Identify the direction of reasoning
+Look at the starting point and endpoint of the argument. Does it begin with a universal claim or a particular observation?
+The three types are defined by the direction: universal→particular (qiyas), particular→universal (istiqra'), particular→particular (tamthil).
+2
+Apply to the example: animal jaw movement
+The text gives an example: observing that humans, horses, and cows move their lower jaws when chewing leads to the universal claim 'every animal moves its lower jaw when chewing.' This is induction.
+3
+Apply to the example: wine and bang
+The analogy example: wine is prohibited because it intoxicates; bang is also an intoxicant, so bang is prohibited. This moves from one particular (wine) to another (bang) under the universal 'intoxicant'.
+This is tamthil; in usul al-fiqh it becomes qiyas with strict conditions.
+4
+Check the classification against the objection
+An objector says that reasoning from universal to universal exists. The author replies that the classification itself is based on induction (observation of common usage), not rational necessity, so it is not exhaustive in a rational sense.
+This shows the pragmatic approach of Islamic logicians.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: الاستقراء تصفح الجزئيات: اعلم أن الحجة على ثلاثة أقسام؛ لأن الاستدلال إما حال من الكلي على حال الجزئيات، وإما من حال الجزئيات على حال كليها وإما من حال أحد الجزئيين المندرجين تحت كلي على حال الجزئي الآخر، فالأول هو القياس وقد سبق مفصلا، والثاني هو الاستقراء، والثالث هو التمثيل. فالاستقراء هو الحجة التي يستدل فيها من حكم الجزئيات على حكم كليها. فافهم لعله إشارة إلى أنه يمكن إرجاعه إلى قياسين استثنائيين بأن يقال: لو لم يثبت المطلوب لثبت نقيضه لكن نقيضه ليس بثابت؛ إذ لو ثبت نقيضه لثبت المحال لكن المحال ليس بثابت على ثلاثة أقسام فيه نظر؛ إذ يحتمل أن يكون في بعض الحجة استدلال من الكلي على الكلي الآخر، وهو خارج من الأقسام الثلاثة فجوابه: أن هذا التقسيم استقرائي لا عقلي. (برهان) إما من حال الكلي: أي بطريق الاستقراء لا العقل، وإلا فالعقل يجوز أن يكون حجة يستدل فيها حال الكلي على حال كلي آخر ، فلا يرد أن الحصر باطل؛ إذ يجوز عند العقل احتمال آخر؛ فإنا نقول: ذلك الحصر استقرائي لا عقلي وجواز الاحتمال عند العقل إنما ينافي الثاني لا الأول.(إسماعيل) إما من حال الجزئيات: أي جزئيات كلي. أما الكلي فكالحيوان، وجزئياته كالإنسان والفرس والبقر وغير ذلك من أفراد الحيوان، وحالها تحرك الفك الأسفل عند المضغ، فيستدل من تصفح حال هذه الجزئيات على حال الحيوان، ويقال: كل حيوان يحرك فكه الأسفل عند المضغ. أحد الجزئين: الكلي المسكر والجزئيان المندرجان تحته من هو تاما الخمر والبنج وأحدهما الخمر وحاله الحرمة والجزئي الآخر البنج ، وهذه بشارة عظمى لشاربي البنج. الحجة التي إلخ: اعلم أن هذا التعريف إما أنه تعريف لما يطلق عليه الاستقراء، فالمراد من الجزئيات أعم من الأكثر والكل؛ فإن الاستقراء بهذا المعنى شامل لما يستدل فيها من حال جميع الجزئيات على حال الكلي أو من حال أكثر الجزئيات على حاله وهذا كما قالوا: الاستقراء على قسمين: تام، وغير تام؛ فإن الأول والثاني ناقصا أو تعريف لما هو الاستقراء ،حقيقة ولا يخفى أن المراد حينئذ أكثر الجزئيات؛ فإن ما يستدل فيه حال جميع الجزئيات على حال الكلي فهو مفيد لليقين داخل تحت القياس؛ ولذا سموه قياسا مقسما، وإنما يطلق عليه لفظ الاستقراء باعتبار أنه يحتاج في مقدماته إلى التتبع. فافهم.
+His statement: 'Induction is the examination of particulars.' Know that proof is of three divisions because reasoning is either from the state of a universal to the state of its particulars, or from the state of particulars to the state of their universal, or from the state of one of the two particulars subsumed under a universal to the state of the other particular. The first is syllogism, which has been detailed previously; the second is induction; the third is analogy. So induction is the proof in which one reasons from the judgment of particulars to the judgment of their universal. Understand; perhaps it is an indication that it can be reduced to two conditional syllogisms by saying: if the desired conclusion is not established, its contradictory is established, but its contradictory is not established; because if its contradictory were established, the impossible would be established, but the impossible is not established. Regarding the three divisions, there is scrutiny; because it is possible that in some proofs there is reasoning from a universal to another universal, and that is outside the three divisions. So the answer is that this division is inductive, not rational. (Burhan) 'Either from the state of the universal' means by way of induction, not reason; otherwise reason allows that there be a proof in which one reasons from the state of a universal to the state of another universal. So it is not objected that the enumeration is false, because reason allows another possibility. So we say: that enumeration is inductive, not rational, and the possibility of an alternative by reason only contradicts the second, not the first. (Isma'il) 'Either from the state of particulars' means particulars of a universal. As for the universal, like animal, and its particulars like human, horse, cow, and other individuals of animal; and their state is the movement of the lower jaw when chewing. So one infers from examining the state of these particulars to the state of animal, and says: every animal moves its lower jaw when chewing. One of the two particulars: the universal intoxicant, and the two particulars subsumed under it are wine and bang, one of them is wine and its state is prohibition, and the other particular is bang—and this is great good news for bang drinkers. 'The proof which...' etc. Know that this definition is either a definition of what is called induction, so by particulars is meant more general than the majority and the whole; for induction in this sense includes that in which one reasons from the state of all particulars to the state of the universal or from the state of most particulars to its state. And this is as they said: induction is of two types: complete and incomplete; for the first and second are deficient. Or it is a definition of what induction actually is, and it is not hidden that then by particulars is meant most particulars; for that in which one reasons from the state of all particulars to the state of the universal is productive of certainty and is subsumed under syllogism; therefore they call it 'divisive syllogism', and it is only called induction because its premises require investigation. Understand.
+Source pages p. 191
+
+Commentary
+This passage defines induction (istiqra') and situates it among the three types of argument. The author begins by explaining that proof (hujja) is of three kinds: reasoning from a universal to its particulars (syllogism, qiyas), from particulars to a universal (induction, istiqra'), and from one particular to another under a common universal (analogy, tamthil). Induction is then defined as the proof in which one reasons from the judgment of particulars to the judgment of their universal. The commentary addresses a potential objection that this classification might exclude reasoning from one universal to another; the response is that the classification is itself inductive (based on observation) rather than rational (necessary). The passage then gives concrete examples: for induction, one observes that individual animals (human, horse, cow) move their lower jaw when chewing, and concludes that all animals do so. For analogy, an example is given: wine is prohibited because it intoxicates, and bang (an intoxicant) shares that property, so bang is also prohibited. The author then distinguishes between complete induction (istiqra' taam), which examines all particulars and yields certainty (and is essentially a syllogism called 'divisive syllogism'), and incomplete induction (istiqra' naaqis), which examines only most particulars and does not yield certainty. The term 'induction' is often used for the incomplete type, though it may also include the complete type if the definition focuses on the method of examination rather than the result.
+
+Key Terms
+استقراء
+تمثيل
+قياس
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, which of the following correctly matches the three types of proof?
+A) Syllogism: particular to universal; Induction: universal to particular; Analogy: particular to particular
+B) Syllogism: universal to particular; Induction: particular to universal; Analogy: particular to particular
+C) Syllogism: universal to universal; Induction: particular to particular; Analogy: universal to particular
+D) Syllogism: particular to particular; Induction: universal to universal; Analogy: particular to universal
+
+Key Takeaway
+Arguments in Islamic logic are classified by the direction of reasoning: from universal to particular (syllogism), particular to universal (induction), or particular to particular (analogy).
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following argument: 'Every intoxicant is forbidden. Nabidh is an intoxicant. Therefore nabidh is forbidden.' Which type of reasoning is this?
+?
+Find a real example of induction in a contemporary fatwa or kalam text and identify which direction it moves (particular to universal).
+
+Pages p. 191 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 191
+Module 16 · Lesson 2
+Next →
+Induction and Analogy
+intermediate
+10 min
+Induction: Complete vs. Incomplete
+Author distinguishes complete from incomplete induction and explains their certainty levels.
+
+Learning Objective
+By the end of this lesson, you will be able to differentiate between complete and incomplete induction and explain why only complete induction yields certainty.
+
+Core Idea
+Complete induction is certain but is really a syllogism; incomplete induction is probable but practically useful.
+
+This lesson dives deeper into induction, which the author defines as reasoning from particulars to a universal. The key distinction is between complete induction (istiqra' taam), which examines all particulars and yields certainty, and incomplete induction (istiqra' naaqis), which examines only most and yields probability. The commentator notes that complete induction is essentially a syllogism called 'divisive syllogism' (qiyas muqassam). Understanding this distinction prevents overconfidence in arguments from incomplete data.
+
+Guided Path
+1
+Identify the definition of induction
+The author defines induction as reasoning from the judgment of particulars to the judgment of their universal. This is the core idea.
+The term 'particulars' can mean all or most, leading to two types.
+2
+Examine the two types of induction
+Complete induction (istiqra' taam) covers all particulars; incomplete (istiqra' naaqis) covers only most. The commentator says that when all are covered, the result is certain and the argument is actually a syllogism.
+Complete induction is called 'divisive syllogism' because it divides the universal into its parts.
+3
+Apply to the animal jaw example
+The example given is observing humans, horses, cows, etc. moving their lower jaws. If we observe all animal species, it is complete; if only many, it is incomplete. The text treats this as incomplete unless proven exhaustive.
+In practice, most scientific inductions are incomplete.
+4
+Assess the certainty level
+Complete induction yields certainty (yaqin); incomplete yields probability (zann). The commentator stresses that incomplete induction is what is usually meant by 'induction' in logic.
+This is crucial for evaluating arguments in fiqh and kalam: an incomplete induction does not prove a universal rule.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله: الاستقراء تصفح الجزئيات: اعلم أن الحجة على ثلاثة أقسام؛ لأن الاستدلال إما حال من الكلي على حال الجزئيات، وإما من حال الجزئيات على حال كليها وإما من حال أحد الجزئيين المندرجين تحت كلي على حال الجزئي الآخر، فالأول هو القياس وقد سبق مفصلا، والثاني هو الاستقراء، والثالث هو التمثيل. فالاستقراء هو الحجة التي يستدل فيها من حكم الجزئيات على حكم كليها. فافهم لعله إشارة إلى أنه يمكن إرجاعه إلى قياسين استثنائيين بأن يقال: لو لم يثبت المطلوب لثبت نقيضه لكن نقيضه ليس بثابت؛ إذ لو ثبت نقيضه لثبت المحال لكن المحال ليس بثابت على ثلاثة أقسام فيه نظر؛ إذ يحتمل أن يكون في بعض الحجة استدلال من الكلي على الكلي الآخر، وهو خارج من الأقسام الثلاثة فجوابه: أن هذا التقسيم استقرائي لا عقلي. (برهان) إما من حال الكلي: أي بطريق الاستقراء لا العقل، وإلا فالعقل يجوز أن يكون حجة يستدل فيها حال الكلي على حال كلي آخر ، فلا يرد أن الحصر باطل؛ إذ يجوز عند العقل احتمال آخر؛ فإنا نقول: ذلك الحصر استقرائي لا عقلي وجواز الاحتمال عند العقل إنما ينافي الثاني لا الأول.(إسماعيل) إما من حال الجزئيات: أي جزئيات كلي. أما الكلي فكالحيوان، وجزئياته كالإنسان والفرس والبقر وغير ذلك من أفراد الحيوان، وحالها تحرك الفك الأسفل عند المضغ، فيستدل من تصفح حال هذه الجزئيات على حال الحيوان، ويقال: كل حيوان يحرك فكه الأسفل عند المضغ. أحد الجزئين: الكلي المسكر والجزئيان المندرجان تحته من هو تاما الخمر والبنج وأحدهما الخمر وحاله الحرمة والجزئي الآخر البنج ، وهذه بشارة عظمى لشاربي البنج. الحجة التي إلخ: اعلم أن هذا التعريف إما أنه تعريف لما يطلق عليه الاستقراء، فالمراد من الجزئيات أعم من الأكثر والكل؛ فإن الاستقراء بهذا المعنى شامل لما يستدل فيها من حال جميع الجزئيات على حال الكلي أو من حال أكثر الجزئيات على حاله وهذا كما قالوا: الاستقراء على قسمين: تام، وغير تام؛ فإن الأول والثاني ناقصا أو تعريف لما هو الاستقراء ،حقيقة ولا يخفى أن المراد حينئذ أكثر الجزئيات؛ فإن ما يستدل فيه حال جميع الجزئيات على حال الكلي فهو مفيد لليقين داخل تحت القياس؛ ولذا سموه قياسا مقسما، وإنما يطلق عليه لفظ الاستقراء باعتبار أنه يحتاج في مقدماته إلى التتبع. فافهم.
+His statement: 'Induction is the examination of particulars.' Know that proof is of three divisions because reasoning is either from the state of a universal to the state of its particulars, or from the state of particulars to the state of their universal, or from the state of one of the two particulars subsumed under a universal to the state of the other particular. The first is syllogism, which has been detailed previously; the second is induction; the third is analogy. So induction is the proof in which one reasons from the judgment of particulars to the judgment of their universal. Understand; perhaps it is an indication that it can be reduced to two conditional syllogisms by saying: if the desired conclusion is not established, its contradictory is established, but its contradictory is not established; because if its contradictory were established, the impossible would be established, but the impossible is not established. Regarding the three divisions, there is scrutiny; because it is possible that in some proofs there is reasoning from a universal to another universal, and that is outside the three divisions. So the answer is that this division is inductive, not rational. (Burhan) 'Either from the state of the universal' means by way of induction, not reason; otherwise reason allows that there be a proof in which one reasons from the state of a universal to the state of another universal. So it is not objected that the enumeration is false, because reason allows another possibility. So we say: that enumeration is inductive, not rational, and the possibility of an alternative by reason only contradicts the second, not the first. (Isma'il) 'Either from the state of particulars' means particulars of a universal. As for the universal, like animal, and its particulars like human, horse, cow, and other individuals of animal; and their state is the movement of the lower jaw when chewing. So one infers from examining the state of these particulars to the state of animal, and says: every animal moves its lower jaw when chewing. One of the two particulars: the universal intoxicant, and the two particulars subsumed under it are wine and bang, one of them is wine and its state is prohibition, and the other particular is bang—and this is great good news for bang drinkers. 'The proof which...' etc. Know that this definition is either a definition of what is called induction, so by particulars is meant more general than the majority and the whole; for induction in this sense includes that in which one reasons from the state of all particulars to the state of the universal or from the state of most particulars to its state. And this is as they said: induction is of two types: complete and incomplete; for the first and second are deficient. Or it is a definition of what induction actually is, and it is not hidden that then by particulars is meant most particulars; for that in which one reasons from the state of all particulars to the state of the universal is productive of certainty and is subsumed under syllogism; therefore they call it 'divisive syllogism', and it is only called induction because its premises require investigation. Understand.
+Source pages p. 191
+
+Commentary
+This passage defines induction (istiqra') and situates it among the three types of argument. The author begins by explaining that proof (hujja) is of three kinds: reasoning from a universal to its particulars (syllogism, qiyas), from particulars to a universal (induction, istiqra'), and from one particular to another under a common universal (analogy, tamthil). Induction is then defined as the proof in which one reasons from the judgment of particulars to the judgment of their universal. The commentary addresses a potential objection that this classification might exclude reasoning from one universal to another; the response is that the classification is itself inductive (based on observation) rather than rational (necessary). The passage then gives concrete examples: for induction, one observes that individual animals (human, horse, cow) move their lower jaw when chewing, and concludes that all animals do so. For analogy, an example is given: wine is prohibited because it intoxicates, and bang (an intoxicant) shares that property, so bang is also prohibited. The author then distinguishes between complete induction (istiqra' taam), which examines all particulars and yields certainty (and is essentially a syllogism called 'divisive syllogism'), and incomplete induction (istiqra' naaqis), which examines only most particulars and does not yield certainty. The term 'induction' is often used for the incomplete type, though it may also include the complete type if the definition focuses on the method of examination rather than the result.
+
+Key Terms
+استقراء تام
+استقراء ناقص
+قياس مقسم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the status of complete induction?
+A) It is a type of analogy.
+B) It yields probability but not certainty.
+C) It is considered a type of syllogism and yields certainty.
+D) It is not a valid form of reasoning.
+
+Key Takeaway
+Complete induction is certain but is actually a syllogism; incomplete induction is probable and is what is commonly meant by 'induction'.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the claim 'All animals breathe air.' Is this based on complete or incomplete induction? Explain what would be needed for it to be complete.
+?
+Find a fatwa that uses an inductive argument (e.g., 'All observed intoxicants are forbidden, so all intoxicants are forbidden'). Determine whether it is complete or incomplete and assess its certainty.
+
+Pages p. 191 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 191
+Module 16 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+8 min
+Induction and Its Two Types
+Definition and classification of induction
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and explain why complete induction is considered a type of syllogism.
+
+Core Idea
+Complete induction yields certainty and is actually a form of syllogism, while incomplete induction is probabilistic.
+
+In this passage, the author defines induction (istiqra') as reasoning from particulars to a universal. He classifies it into complete and incomplete types, and notes that complete induction, though called induction, is really a kind of syllogism because it covers all particulars and yields certainty. Understanding this distinction is crucial for evaluating the strength of inductive arguments in Islamic sciences like usul al-fiqh and kalam.
+
+Guided Path
+1
+Identify the three types of proof
+The author lists syllogism, induction, and analogy. Note the direction of reasoning: universal to particular (syllogism), particular to universal (induction), and particular to particular (analogy).
+2
+Define induction precisely
+Induction is the proof where you go from the judgment of particulars to a judgment of their universal. The term 'particulars' can mean all or most.
+The commentator notes that 'particulars' in the definition can be interpreted generally.
+3
+Distinguish complete from incomplete induction
+Complete induction covers all particulars (e.g., every individual animal), incomplete covers most. Complete yields certainty; incomplete yields probability.
+The text says: 'الاستقراء على قسمين: تام، وغير تام'.
+4
+Understand the relationship to syllogism
+Complete induction is actually a form of syllogism because it involves a universal statement covering all individuals. They call it 'divisive syllogism' (قياس مقسم).
+The commentator says: 'مفيد لليقين داخل تحت القياس'.
+5
+Apply the taxonomy to an example
+Consider the claim: 'All animals move their lower jaw when chewing.' If we have checked every species, it's complete induction; if only most, it's incomplete.
+The example is given in the commentary.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التصديقات
+تعريف الاستقراء وحكمه
+فصل
+الاستقراء تصفح الجزئيات
+إلى استثنائي واقتراني معناه أن هذا القدر مما لابد منه في كل قياس خلف، وقد يزيد عليه، فافهم. قوله: الاستقراء تصفح الجزئيات: اعلم أن الحجة على ثلاثة أقسام؛ لأن الاستدلال إما حال من الكلي على حال الجزئيات، وإما من حال الجزئيات على حال كليها وإما من حال أحد الجزئيين المندرجين تحت كلي على حال الجزئي الآخر، فالأول هو القياس وقد سبق مفصلا، والثاني هو الاستقراء، والثالث هو التمثيل. فالاستقراء هو الحجة التي يستدل فيها من حكم الجزئيات على حكم كليها.
+فافهم لعله إشارة إلى أنه يمكن إرجاعه إلى قياسين استثنائيين بأن يقال: لو لم يثبت المطلوب لثبت نقيضه لكن نقيضه ليس بثابت؛ إذ لو ثبت نقيضه لثبت المحال لكن المحال ليس بثابت على ثلاثة أقسام فيه نظر؛ إذ يحتمل أن يكون في بعض الحجة استدلال من الكلي على الكلي الآخر، وهو خارج من الأقسام الثلاثة فجوابه: أن هذا التقسيم استقرائي لا عقلي. (برهان) إما من حال الكلي: أي بطريق الاستقراء لا العقل، وإلا فالعقل يجوز أن يكون حجة يستدل فيها حال الكلي على حال كلي آخر ، فلا يرد أن الحصر باطل؛ إذ يجوز عند العقل احتمال آخر؛ فإنا نقول: ذلك الحصر استقرائي لا عقلي وجواز الاحتمال عند العقل إنما ينافي الثاني لا الأول.(إسماعيل) إما من حال الجزئيات: أي جزئيات كلي. أما الكلي فكالحيوان، وجزئياته كالإنسان والفرس والبقر وغير ذلك من أفراد الحيوان، وحالها تحرك الفك الأسفل عند المضغ، فيستدل من تصفح حال هذه الجزئيات على حال الحيوان، ويقال: كل حيوان يحرك فكه الأسفل عند المضغ. أحد الجزئين: الكلي المسكر والجزئيان المندرجان تحته الخمر والبنج وأحدهما الخمر وحاله الحرمة والجزئي الآخر البنج، وهذه بشارة عظمى لشاربي البنج. الحجة التي إلخ: اعلم أن هذا التعريف إما أنه تعريف لما يطلق عليه الاستقراء، فالمراد من الجزئيات أعم من الأكثر والكل؛ فإن الاستقراء بهذا المعنى شامل لما يستدل فيها من حال جميع الجزئيات على حال الكلي أو من حال أكثر الجزئيات على حاله وهذا كما قالوا: الاستقراء على قسمين: تام، وغير تام؛ فإن الأول والثاني ناقصا أو تعريف لما هو الاستقراء، حقيقة ولا يخفى أن المراد حينئذ أكثر الجزئيات؛ فإن ما يستدل فيه حال جميع الجزئيات على حال الكلي فهو مفيد لليقين داخل تحت القياس؛ ولذا سموه قياسا مقسما، وإنما يطلق عليه لفظ الاستقراء باعتبار أنه يحتاج في مقدماته إلى التتبع. فافهم. إسماعيل) من يسمى
+The Assertions. Definition of Induction and Its Ruling. Chapter: Induction is the perusal of particulars. ... Know that the proof is of three divisions: because reasoning is either from the condition of the universal to the condition of the particulars, or from the condition of the particulars to the condition of their universal, or from the condition of one of the two particulars subsumed under a universal to the condition of the other particular. The first is syllogism and has been detailed previously; the second is induction; and the third is analogy. So induction is the proof in which one infers from the judgment of the particulars to the judgment of their universal. ... Know that this definition is either a definition of what is called induction, so the meaning of particulars is more general than the majority and the totality; for induction in this sense includes that in which one infers from the condition of all the particulars to the condition of the universal, or from the condition of most of the particulars to its condition. And this is as they said: induction is of two types: complete and incomplete; for the first and second are incomplete, or a definition of what induction is in reality. And it is not hidden that the intended meaning then is most of the particulars; for that in which one infers from the condition of all the particulars to the condition of the universal is productive of certainty and falls under syllogism; therefore they called it divisive syllogism, and the term 'induction' is applied to it only because its premises require tracking. So understand.
+Source pages p. 191
+
+Commentary
+This passage defines induction (istiqra') and situates it within a threefold classification of proofs: syllogism (qiyas), induction, and analogy (tamthil). Induction is reasoning from particulars to a universal, as opposed to syllogism which goes from universal to particular. The author also discusses the logical structure, noting that induction can be reduced to two conditional syllogisms via reductio ad absurdum. The key distinction is between complete induction (covering all particulars) and incomplete induction (covering most). Complete induction yields certainty and is actually a form of syllogism, while incomplete induction is probabilistic. The commentary uses an example from natural theology: observing that humans, horses, and cows move their lower jaw when chewing leads to the universal claim that every animal moves its lower jaw when chewing. Another example from jurisprudence: wine is intoxicating (haram), and betel nut is another intoxicant; by incomplete induction, one might conclude all intoxicants are haram. The passage emphasizes that the term 'induction' properly refers to the process of tracking particulars, even when complete, because the premises require investigation.
+
+Key Terms
+الاستقراء
+القياس
+التمثيل
+استقراء تام
+استقراء ناقص
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the relationship between complete induction and syllogism (qiyas)?
+A) Complete induction is a type of analogy.
+B) Complete induction yields certainty and falls under syllogism.
+C) Complete induction is not a valid proof.
+D) Complete induction is the same as incomplete induction.
+
+Key Takeaway
+Induction is a proof from particulars to universal, but only complete induction yields certainty and is actually a form of syllogism; incomplete induction is probabilistic.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the statement: 'Every animal with a heart has blood circulation.' If a biologist has examined every known animal species and found that all have circulation, what type of induction is this? Is it certain? How does it relate to syllogism according to the passage?
+?
+In a debate about whether alcohol in all forms is prohibited, a scholar uses an inductive argument: 'I have observed that wine, beer, and whisky are intoxicating and prohibited; therefore, any intoxicating substance is prohibited.' Critique this argument using the distinction between complete and incomplete induction.
+
+Pages p. 191 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 192
+Module 16 · Lesson 4
+Next →
+Induction and Analogy
+intermediate
+7 min
+The Definition of Induction and Its Linguistic Shift
+Author defines induction and critiques alternative definitions.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the correct definition of induction (istiqra') and distinguish between irtijal and naql in the transfer of meaning from literal to technical.
+
+Core Idea
+Induction is defined as establishing a universal judgment; its literal meaning is transferred by naql, not irtijal.
+
+The passage begins by stating the correct definition of induction: 'to establish a universal judgment.' It then critiques the definition derived by al-Farabi and al-Ghazali, noting a tolerance. This tolerance serves to indicate that the term 'istiqra'' is used by transmption (naql) from its literal meaning of 'examining particulars.' Understanding this linguistic shift is crucial for grasping the technical term's validity as an argument (hujja).
+
+Guided Path
+1
+Extract the correct definition of induction
+Find the phrase that the author considers the correct definition. It is the first statement: 'لإثبات حكم كلي' (to establish a universal judgment). This is the core definition that the commentator defends.
+The phrase 'لإثبات حكم كلي' is presented as the sound definition.
+2
+Identify the critique of the alternative definition
+The author mentions that the definition from al-Farabi and al-Ghazali ('تصفح الجزئيات وتتبعها لإثبات حكم كلي') has an apparent tolerance (تسامح). Why? Because the act of tracing is not a known proposition leading to an unknown; it does not fit the definition of a hujja.
+The tolerance is excused because it allows linking the literal and technical meanings via naql.
+3
+Understand the distinction between irtijal and naql
+Irtijal is using a word for a new meaning without a connection; naql is transferring with a suitable connection. The author argues that the term 'istiqra'' is used by naql from its literal sense (examination) to the technical sense (the argument that examines particulars).
+This distinction explains why the definition is tolerated: it shows the literal meaning is considered in the technical.
+4
+Confirm the intended meaning of the definition
+The passage notes that 'istiqra'' can refer to the source meaning (the act of examining) or the argument itself. Here it is defined in the first sense. The definition with 'to establish a universal judgment' applies to the technical meaning by way of description or genitive construction.
+This resolves potential ambiguity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تعريف الاستقراء وحكمه: لإثبات حكم كلى. هذا تعريفه الصحيح الذي لا غبار عليه. وأما ما استنبطه المصنف من كلام الفارابي وحجة الإسلام واختاره أعني تصفح الجزئيات وتتبعها لإثبات حكم كلي ففيه تسامح ظاهر؛ فإن هذا التتبع ليس معلوما تصديقياً موصلا إلى مجهول تصديقي، فلا يندرج تحت الحجة، فكأن الباعث على هذه المسامحة هو الإشارة إلى أن تسمية هذا القسم من الحجة بالاستقراء ليس على سبيل الارتجال بل على سبيل النقل. وههنا وجه آخر يجيء إن شاء الله الجليل في تحقيق التمثيل. قوله: لإثبات حكم كلي إما بطريق التوصيف فيكون إشارة إلى أن المطلوب في الاستقراء لا يكون حكما جزئيا كما سنحققه، وإما بطريق الإضافة والتنوين في كلى حينئذٍ عوض عن المضاف إليه. من كلام الفارابي وهو أن الاستقراء هو الحكم على كلي لوجوده في أكثر الجزئيات. وقال فخر الإسلام البزدوي: وهو تصفح أمور جزئية ليحكم بحكمها على أمر يشمل تلك الجزئيات. ففيه تسامح ظاهر: قد مر معنى التسامح في بيان إنتاج ضروب الشكل الرابع. فكأن للتشبيه، وقد يستعمل في مقام الشك والضعف. فهذا عذر من جانب المصنف على اختياره هذا التعريف. على سبيل الارتجال أي استعمال اللفظ في غير ما وضع له بدون المناسبة بينهما كما سيجيء. على سبيل النقل: أي من المعنى اللغوي إلى المعنى الاصطلاحي بملاحظة المناسبة بينهما. ووجه الإشارة أنه جعل المعنى اللغوي أعني التصفح محمولا على الاستقراء الذي هو قسم من الحجة ومعرف له مع أنه لا يصح حمله عليه فضلا عن أن يكون معرفا له، ومع هذا لما جعل معرفا علم أن المعنى اللغوي معتبر في المعنى الاصطلاحي بحيث صار كأنه هو. والارتجال في الاصطلاح استعمال اللفظ في غير ما وضع له بدون ملاحظة مناسبة بينهما قصدا وعند عدم القصد يكون خطأ، والنقل استعمال اللفظ الموضوع للمعنى المشهور استعماله في المعنى الثاني المنقول لمناسبة بحيث كثر استعماله في الثاني والهجر في الأول بحيث لا يستعمل فيه إلا مع القرينة. وههنا وجه آخر وهو أن الاستقراء يطلق على المعنى المصدري وهو التصفح والتتبع وعلى الحجة التي يقع فيها ذلك التتبع كما أن العكس يطلق على المعنى المصدري أي التبديل وعلى القضية الحاصلة بعد التبديل، فالمراد ههنا تعريف الاستقراء باعتبار المعنى الأول. وأما تعريفه بالمعنى الثاني فيعرف بالمقايسة. لا يكون حكما جزئيا فإن تتبع أكثر الجزئيات لا شك أنه يفيد اليقين بالحكم الجزئي كما سيظهر فيكون داخلا في القياس المفيد بالحكم الجزئي كما أن الاستقراء التام داخل تحته كما علمت وستعلم. وتحقيق ذلك أنهم قالوا: إن الاستقراء إما تام يتصفح فيه حال الجزئيات بأسرها وهو يرجع إلى القياس المقسم، كقولنا: كل حيوان إما ناطق أو غير ناطق، وكل ناطق حساس، وكل غير ناطق من الحيوان حساس، ينتج: كل حيوان حساس، وهذا القسم يفيد اليقين. وإما ناقص يكتفي فيه تتبع أكثر الجزئيات، كقولنا: كل حيوان يحرك فكه الأسفل عند المضغ؛ لأن الإنسان كذلك، والفرس والبقر كذلك إلى غير ذلك مما صادفناه من أفراد الحيوان، وهذا القسم لا يفيد إلا الظن؛ إذ من الجائز أن يكون من الحيوانات التي لم نصادفها ما يتحرك فكه الأعلى عند المضغ كما تسمعه في التمساح. ولا يخفى أن الحكم بأن الثاني لا يفيد إلا الظن إنما يصح إذا كان المطلوب الحكم الكلي، وأما إذا اكتفى بالجزئي فلا شك أن تتبع البعض يفيد اليقين به كما يقال بعض الحيوان فرس، وبعضه إنسان. وتحققه أن المطلوب بالاستقراء يكون حكما كليا لا جزئيا. إلى القياس المقسم لأن الحكم بوجوده في جميع الجزئيات من حيث هو جميعها يستلزم الحصر والترديد ضمنا وهذا كاف في القياس المقسم. وشرطه أن يكون المنفصلة موجبة كلية مانعة الخلو أو حقيقية. إلى القياس المقسم يعني أنه يكون خارجا عن القياس الاستقرائي فلا يسمى استقراء، بل قياسا مقسما؛ لأن الاستقراء الذي هو قسم من الحجة اعتبر فيه تصفح أكثر الجزئيات، يعني وجود الحكم في أكثرها كما سيجيء؛ ولهذا قالوا: إن الاستقراء يفيد الظن، وهذا إنما يتصور في الاستقراء الناقص لا التام كما لا يخفى. من ههنا ظهر أن الاستقراء حقيقة هو الحجة التي يستدل فيها من تتبع أكثر الجزئيات على الحكم الكلي؛ فإن تتبع فيه جميع الجزئيات يفيد اليقين فهو داخل في الحقيقة تحت القياس، وكذا ما يستدل من الجزئيات على الحكم الجزئي؛ فإنه أيضاً قياس حقيقة؛ لكونه مفيدا لليقين. يفيد اليقين به أي بالحكم الجزئي، وحينئذ لا يكون الاستقراء اصطلاحا، فقد علمت مكررا غير مرة ههنا أن المطلوب بالاستقراء الاصطلاحي لا يكون إلا حكما كليا لا جزئيا.
+Definition of Induction and its Ruling: To establish a universal judgment. This is its correct definition with no flaw. As for what the author derived from the words of al-Farabi and Hujjat al-Islam (al-Ghazali) and chose, namely the examination and tracing of particulars to establish a universal judgment, there is an apparent tolerance in it; for this tracing is not a tasdiqi known leading to a tasdiqi unknown, so it does not fall under the argument (hujja). It seems the motive for this tolerance is the indication that naming this part of the argument as induction is not by way of improvisation (irtijal) but by way of transmption (naql). There is another aspect that will come, God willing, in the investigation of analogical reasoning. His statement: 'to establish a universal judgment' either by way of description, being an indication that the sought object in induction is not a particular judgment as we will investigate, or by way of genitive construction and nunation, where 'kulli' is then a substitute for the genitive. From the words of al-Farabi: that induction is the judgment on a universal due to its existence in most particulars. And Fakhr al-Islam al-Bazdawi said: it is the examination of particular matters to judge by their judgment on a matter that encompasses those particulars. There is apparent tolerance in it: the meaning of tolerance has already been mentioned in the explanation of the production of the moods of the fourth figure. It seems to be for a simile, and it may be used in contexts of doubt and weakness. This is an excuse from the author's side for his choice of this definition. 'By way of improvisation' means using a word not for what it was coined for without a suitable connection between them, as will come. 'By way of transmption' means from the literal meaning to the technical meaning with observance of the suitable connection between them. The point of the indication is that he made the literal meaning, namely examination, predicated on induction which is a part of the argument and a definer for it, even though it is not valid to predicate it on it, let alone be a definer for it. Yet when he made it a definer, it is known that the literal meaning is considered in the technical meaning such that it became as if it were it. Improvisation in terminology is using a word not for what it was coined for without observing a suitable connection between them intentionally, and without intention it is a mistake; transmption is using a word coined for a well-known meaning for a second meaning transferred to it due to a suitable connection such that the second usage becomes frequent and the first is abandoned such that it is not used except with a contextual indicator. There is another aspect: that induction is applied to the source meaning (masdari), which is examination and tracing, and to the argument in which that tracing occurs, just as 'aks (conversion) is applied to the source meaning, i.e., substitution, and to the proposition resulting after substitution. So the intended here is the definition of induction according to the first meaning. As for its definition by the second meaning, it is known by comparison. It is not a particular judgment: for tracing most particulars undoubtedly yields certainty regarding the particular judgment, as will appear, so it falls under the syllogism (qiyas) that yields the particular judgment, just as complete induction falls under it, as you have known and will know. And the investigation of that: they said: induction is either complete, in which the state of all particulars is examined, and it reduces to the dividing syllogism (qiyas muqassam), as we say: every animal is either rational or non-rational, and every rational is sentient, and every non-rational animal is sentient, resulting: every animal is sentient; this type yields certainty. Or incomplete, in which tracing of most particulars suffices, as we say: every animal moves its lower jaw when chewing, because the human is like that, and the horse and cow are like that, and so on from the individuals of animal we have encountered; this type yields only speculation (zann), for it is possible that among animals we have not encountered there are those that move their upper jaw when chewing, as you hear concerning the crocodile. It is not hidden that the judgment that the second type yields only speculation is valid only if the sought judgment is universal; but if it is satisfied with the particular, then there is no doubt that tracing some yields certainty, as it is said: some animal is a horse, and some is a human. And its investigation: that the sought object in induction is a universal judgment, not a particular. To the dividing syllogism: because the judgment of its existence in all particulars insofar as they are all necessitates exclusion and division implicitly, and this suffices for the dividing syllogism. Its condition is that the disjunctive be a universal affirmative excluding emptiness (man'at al-khulu) or a real (haqiqi). To the dividing syllogism means that it falls outside the inductive syllogism, so it is not called induction, but rather a dividing syllogism; for induction, which is a part of the argument, has been considered in it the tracing of most particulars, i.e., the existence of the judgment in most of them, as will come; therefore they said that induction yields speculation, and this is only conceived in incomplete induction, not in complete, as is not hidden. From here it has appeared that induction in reality is the argument in which one infers from tracing most particulars to the universal judgment; for if one traces all particulars, it yields certainty, so it is in reality included under syllogism (qiyas); likewise, what is inferred from particulars to a particular judgment is also a syllogism in reality, because it yields certainty. It yields certainty by it, i.e., by the particular judgment, and then it is not induction technically. It has been stated repeatedly more than once here that the sought object in technical induction is only a universal judgment, not a particular.
+Source pages p. 192
+
+Commentary
+This passage defines induction (istiqra') and clarifies its types and ruling. It begins by giving the correct definition: 'To establish a universal judgment.' Then it notes that the definition derived by the author (Taftazani) from al-Farabi and al-Ghazali, i.e., 'the examination and tracing of particulars to establish a universal judgment,' has an apparent tolerance (tasamuh). The reason is that such tracing is not a known proposition (ma'lum tasdiqi) leading to an unknown proposition (majhul tasdiqi), so it does not qualify as a hujja (argument). The author tolerates this to indicate that the term 'istiqra' is used by transmption (naql) from its literal meaning, not by improvisation (irtijal). The commentary then distinguishes between irtijal (using a word without connection) and naql (transferring with a connection). It also explains that the definition specifies a universal judgment as the sought object, not a particular one; this is clarified by analyzing the phrase 'to establish a universal judgment' as either a description or a genitive construction. The text then quotes definitions from al-Farabi and al-Bazdawi, noting the tolerance in them. It further explains that the term 'istiqra' can refer to the source meaning (the act of examining) or the argument resulting from that examination; here it is defined in the first sense. The passage then discusses the classification of induction into complete (tam) and incomplete (naqis). Complete induction examines all particulars and reduces to a dividing syllogism (qiyas muqassam), an example of which is given: 'Every animal is either rational or non-rational; every rational is sentient; every non-rational animal is sentient; therefore, every animal is sentient.' This yields certainty (yaqin). Incomplete induction examines only most particulars, e.g., 'Every animal moves its lower jaw when chewing' based on observed animals; but this yields only speculation (zann) because counterexamples like the crocodile may exist. However, the text notes that if the sought judgment is particular (e.g., 'Some animal is a horse'), then tracing some particulars yields certainty. Ultimately, the technical meaning of induction (istiqra' istilahi) is limited to seeking a universal judgment from tracing most particulars; complete induction and arguments to particular judgments are considered syllogisms, not induction in the technical sense.
+
+Key Terms
+استقراء
+تصفح
+تتبع
+ارتجال
+نقل
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why is the definition of induction as 'the examination and tracing of particulars to establish a universal judgment' considered to have tolerance?
+A) Because it does not specify that the judgment must be universal.
+B) Because the act of tracing is not a known proposition leading to an unknown, so it does not qualify as a hujja.
+C) Because it uses the word 'istiqra' in its literal sense only.
+D) Because it confuses induction with analogical reasoning.
+
+Key Takeaway
+The correct definition of induction is 'to establish a universal judgment,' and the term is transferred from its literal meaning by naql, not irtijal.
+
+How This Lesson Applies — to MY Life?
+?
+Find the definition of 'qiyas' (analogical reasoning) in a usul al-fiqh text. Does it involve any 'tolerance' similar to that in the definition of istiqra'? Identify if the transfer from literal to technical is by naql or irtijal.
+?
+Take the definition of 'khabar' (report) in hadith terminology. Explain how its literal meaning (news) is transferred to the technical meaning (a prophetic saying) by naql, citing a suitable connection.
+
+Pages p. 192 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 192
+Module 16 · Lesson 5
+Next →
+Induction and Analogy
+intermediate
+8 min
+Complete and Incomplete Induction: Certainty and Speculation
+Author classifies induction into complete and incomplete.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction, explain why complete induction yields certainty and incomplete yields only speculation, and identify the dividing syllogism as the logical form of complete induction.
+
+Core Idea
+Complete induction produces certainty and reduces to a dividing syllogism; incomplete induction yields only speculation when seeking a universal judgment.
+
+After defining induction, the passage classifies it into two types: complete (tam) and incomplete (naqis). Complete induction examines all particulars and yields certainty (yaqin), while incomplete examines only most particulars and yields speculation (zann). The passage also shows that complete induction reduces to a dividing syllogism (qiyas muqassam) using a disjunctive premise. Understanding this distinction helps evaluate the epistemic strength of inductive arguments in Islamic sciences.
+
+Guided Path
+1
+Identify the two types of induction
+The passage states: 'الاستقراء إما تام ... وإما ناقص'. Complete induction examines all particulars; incomplete examines most.
+2
+Understand the epistemic outcome of each type
+Complete yields certainty (يقين) because all cases are covered. Incomplete yields only speculation (ظن) because a counterexample may exist among unexamined particulars.
+The example of the crocodile (تمساح) shows that a universal claim about jaw movement may be false.
+3
+Examine the reduction of complete induction to qiyas muqassam
+The passage gives an example: كل حيوان إما ناطق أو غير ناطق, وكل ناطق حساس, وكل غير ناطق حساس → كل حيوان حساس. This is a dividing syllogism (قياس مقسم) with a disjunctive major premise that is man'at al-khulu or haqiqi.
+The condition is that the disjunctive must be a universal affirmative excluding emptiness or real.
+4
+Clarify when particular judgments yield certainty
+If the sought judgment is particular (e.g., 'some animal is a horse'), tracing some particulars yields certainty, but this is not considered induction technically; it is a syllogism.
+Technical induction (الاستقراء الاصطلاحي) only seeks universal judgments.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تعريف الاستقراء وحكمه: لإثبات حكم كلى. هذا تعريفه الصحيح الذي لا غبار عليه. وأما ما استنبطه المصنف من كلام الفارابي وحجة الإسلام واختاره أعني تصفح الجزئيات وتتبعها لإثبات حكم كلي ففيه تسامح ظاهر؛ فإن هذا التتبع ليس معلوما تصديقياً موصلا إلى مجهول تصديقي، فلا يندرج تحت الحجة، فكأن الباعث على هذه المسامحة هو الإشارة إلى أن تسمية هذا القسم من الحجة بالاستقراء ليس على سبيل الارتجال بل على سبيل النقل. وههنا وجه آخر يجيء إن شاء الله الجليل في تحقيق التمثيل. قوله: لإثبات حكم كلي إما بطريق التوصيف فيكون إشارة إلى أن المطلوب في الاستقراء لا يكون حكما جزئيا كما سنحققه، وإما بطريق الإضافة والتنوين في كلى حينئذٍ عوض عن المضاف إليه. من كلام الفارابي وهو أن الاستقراء هو الحكم على كلي لوجوده في أكثر الجزئيات. وقال فخر الإسلام البزدوي: وهو تصفح أمور جزئية ليحكم بحكمها على أمر يشمل تلك الجزئيات. ففيه تسامح ظاهر: قد مر معنى التسامح في بيان إنتاج ضروب الشكل الرابع. فكأن للتشبيه، وقد يستعمل في مقام الشك والضعف. فهذا عذر من جانب المصنف على اختياره هذا التعريف. على سبيل الارتجال أي استعمال اللفظ في غير ما وضع له بدون المناسبة بينهما كما سيجيء. على سبيل النقل: أي من المعنى اللغوي إلى المعنى الاصطلاحي بملاحظة المناسبة بينهما. ووجه الإشارة أنه جعل المعنى اللغوي أعني التصفح محمولا على الاستقراء الذي هو قسم من الحجة ومعرف له مع أنه لا يصح حمله عليه فضلا عن أن يكون معرفا له، ومع هذا لما جعل معرفا علم أن المعنى اللغوي معتبر في المعنى الاصطلاحي بحيث صار كأنه هو. والارتجال في الاصطلاح استعمال اللفظ في غير ما وضع له بدون ملاحظة مناسبة بينهما قصدا وعند عدم القصد يكون خطأ، والنقل استعمال اللفظ الموضوع للمعنى المشهور استعماله في المعنى الثاني المنقول لمناسبة بحيث كثر استعماله في الثاني والهجر في الأول بحيث لا يستعمل فيه إلا مع القرينة. وههنا وجه آخر وهو أن الاستقراء يطلق على المعنى المصدري وهو التصفح والتتبع وعلى الحجة التي يقع فيها ذلك التتبع كما أن العكس يطلق على المعنى المصدري أي التبديل وعلى القضية الحاصلة بعد التبديل، فالمراد ههنا تعريف الاستقراء باعتبار المعنى الأول. وأما تعريفه بالمعنى الثاني فيعرف بالمقايسة. لا يكون حكما جزئيا فإن تتبع أكثر الجزئيات لا شك أنه يفيد اليقين بالحكم الجزئي كما سيظهر فيكون داخلا في القياس المفيد بالحكم الجزئي كما أن الاستقراء التام داخل تحته كما علمت وستعلم. وتحقيق ذلك أنهم قالوا: إن الاستقراء إما تام يتصفح فيه حال الجزئيات بأسرها وهو يرجع إلى القياس المقسم، كقولنا: كل حيوان إما ناطق أو غير ناطق، وكل ناطق حساس، وكل غير ناطق من الحيوان حساس، ينتج: كل حيوان حساس، وهذا القسم يفيد اليقين. وإما ناقص يكتفي فيه تتبع أكثر الجزئيات، كقولنا: كل حيوان يحرك فكه الأسفل عند المضغ؛ لأن الإنسان كذلك، والفرس والبقر كذلك إلى غير ذلك مما صادفناه من أفراد الحيوان، وهذا القسم لا يفيد إلا الظن؛ إذ من الجائز أن يكون من الحيوانات التي لم نصادفها ما يتحرك فكه الأعلى عند المضغ كما تسمعه في التمساح. ولا يخفى أن الحكم بأن الثاني لا يفيد إلا الظن إنما يصح إذا كان المطلوب الحكم الكلي، وأما إذا اكتفى بالجزئي فلا شك أن تتبع البعض يفيد اليقين به كما يقال بعض الحيوان فرس، وبعضه إنسان. وتحققه أن المطلوب بالاستقراء يكون حكما كليا لا جزئيا. إلى القياس المقسم لأن الحكم بوجوده في جميع الجزئيات من حيث هو جميعها يستلزم الحصر والترديد ضمنا وهذا كاف في القياس المقسم. وشرطه أن يكون المنفصلة موجبة كلية مانعة الخلو أو حقيقية. إلى القياس المقسم يعني أنه يكون خارجا عن القياس الاستقرائي فلا يسمى استقراء، بل قياسا مقسما؛ لأن الاستقراء الذي هو قسم من الحجة اعتبر فيه تصفح أكثر الجزئيات، يعني وجود الحكم في أكثرها كما سيجيء؛ ولهذا قالوا: إن الاستقراء يفيد الظن، وهذا إنما يتصور في الاستقراء الناقص لا التام كما لا يخفى. من ههنا ظهر أن الاستقراء حقيقة هو الحجة التي يستدل فيها من تتبع أكثر الجزئيات على الحكم الكلي؛ فإن تتبع فيه جميع الجزئيات يفيد اليقين فهو داخل في الحقيقة تحت القياس، وكذا ما يستدل من الجزئيات على الحكم الجزئي؛ فإنه أيضاً قياس حقيقة؛ لكونه مفيدا لليقين. يفيد اليقين به أي بالحكم الجزئي، وحينئذ لا يكون الاستقراء اصطلاحا، فقد علمت مكررا غير مرة ههنا أن المطلوب بالاستقراء الاصطلاحي لا يكون إلا حكما كليا لا جزئيا.
+Definition of Induction and its Ruling: To establish a universal judgment. This is its correct definition with no flaw. As for what the author derived from the words of al-Farabi and Hujjat al-Islam (al-Ghazali) and chose, namely the examination and tracing of particulars to establish a universal judgment, there is an apparent tolerance in it; for this tracing is not a tasdiqi known leading to a tasdiqi unknown, so it does not fall under the argument (hujja). It seems the motive for this tolerance is the indication that naming this part of the argument as induction is not by way of improvisation (irtijal) but by way of transmption (naql). There is another aspect that will come, God willing, in the investigation of analogical reasoning. His statement: 'to establish a universal judgment' either by way of description, being an indication that the sought object in induction is not a particular judgment as we will investigate, or by way of genitive construction and nunation, where 'kulli' is then a substitute for the genitive. From the words of al-Farabi: that induction is the judgment on a universal due to its existence in most particulars. And Fakhr al-Islam al-Bazdawi said: it is the examination of particular matters to judge by their judgment on a matter that encompasses those particulars. There is apparent tolerance in it: the meaning of tolerance has already been mentioned in the explanation of the production of the moods of the fourth figure. It seems to be for a simile, and it may be used in contexts of doubt and weakness. This is an excuse from the author's side for his choice of this definition. 'By way of improvisation' means using a word not for what it was coined for without a suitable connection between them, as will come. 'By way of transmption' means from the literal meaning to the technical meaning with observance of the suitable connection between them. The point of the indication is that he made the literal meaning, namely examination, predicated on induction which is a part of the argument and a definer for it, even though it is not valid to predicate it on it, let alone be a definer for it. Yet when he made it a definer, it is known that the literal meaning is considered in the technical meaning such that it became as if it were it. Improvisation in terminology is using a word not for what it was coined for without observing a suitable connection between them intentionally, and without intention it is a mistake; transmption is using a word coined for a well-known meaning for a second meaning transferred to it due to a suitable connection such that the second usage becomes frequent and the first is abandoned such that it is not used except with a contextual indicator. There is another aspect: that induction is applied to the source meaning (masdari), which is examination and tracing, and to the argument in which that tracing occurs, just as 'aks (conversion) is applied to the source meaning, i.e., substitution, and to the proposition resulting after substitution. So the intended here is the definition of induction according to the first meaning. As for its definition by the second meaning, it is known by comparison. It is not a particular judgment: for tracing most particulars undoubtedly yields certainty regarding the particular judgment, as will appear, so it falls under the syllogism (qiyas) that yields the particular judgment, just as complete induction falls under it, as you have known and will know. And the investigation of that: they said: induction is either complete, in which the state of all particulars is examined, and it reduces to the dividing syllogism (qiyas muqassam), as we say: every animal is either rational or non-rational, and every rational is sentient, and every non-rational animal is sentient, resulting: every animal is sentient; this type yields certainty. Or incomplete, in which tracing of most particulars suffices, as we say: every animal moves its lower jaw when chewing, because the human is like that, and the horse and cow are like that, and so on from the individuals of animal we have encountered; this type yields only speculation (zann), for it is possible that among animals we have not encountered there are those that move their upper jaw when chewing, as you hear concerning the crocodile. It is not hidden that the judgment that the second type yields only speculation is valid only if the sought judgment is universal; but if it is satisfied with the particular, then there is no doubt that tracing some yields certainty, as it is said: some animal is a horse, and some is a human. And its investigation: that the sought object in induction is a universal judgment, not a particular. To the dividing syllogism: because the judgment of its existence in all particulars insofar as they are all necessitates exclusion and division implicitly, and this suffices for the dividing syllogism. Its condition is that the disjunctive be a universal affirmative excluding emptiness (man'at al-khulu) or a real (haqiqi). To the dividing syllogism means that it falls outside the inductive syllogism, so it is not called induction, but rather a dividing syllogism; for induction, which is a part of the argument, has been considered in it the tracing of most particulars, i.e., the existence of the judgment in most of them, as will come; therefore they said that induction yields speculation, and this is only conceived in incomplete induction, not in complete, as is not hidden. From here it has appeared that induction in reality is the argument in which one infers from tracing most particulars to the universal judgment; for if one traces all particulars, it yields certainty, so it is in reality included under syllogism (qiyas); likewise, what is inferred from particulars to a particular judgment is also a syllogism in reality, because it yields certainty. It yields certainty by it, i.e., by the particular judgment, and then it is not induction technically. It has been stated repeatedly more than once here that the sought object in technical induction is only a universal judgment, not a particular.
+Source pages p. 192
+
+Commentary
+This passage defines induction (istiqra') and clarifies its types and ruling. It begins by giving the correct definition: 'To establish a universal judgment.' Then it notes that the definition derived by the author (Taftazani) from al-Farabi and al-Ghazali, i.e., 'the examination and tracing of particulars to establish a universal judgment,' has an apparent tolerance (tasamuh). The reason is that such tracing is not a known proposition (ma'lum tasdiqi) leading to an unknown proposition (majhul tasdiqi), so it does not qualify as a hujja (argument). The author tolerates this to indicate that the term 'istiqra' is used by transmption (naql) from its literal meaning, not by improvisation (irtijal). The commentary then distinguishes between irtijal (using a word without connection) and naql (transferring with a connection). It also explains that the definition specifies a universal judgment as the sought object, not a particular one; this is clarified by analyzing the phrase 'to establish a universal judgment' as either a description or a genitive construction. The text then quotes definitions from al-Farabi and al-Bazdawi, noting the tolerance in them. It further explains that the term 'istiqra' can refer to the source meaning (the act of examining) or the argument resulting from that examination; here it is defined in the first sense. The passage then discusses the classification of induction into complete (tam) and incomplete (naqis). Complete induction examines all particulars and reduces to a dividing syllogism (qiyas muqassam), an example of which is given: 'Every animal is either rational or non-rational; every rational is sentient; every non-rational animal is sentient; therefore, every animal is sentient.' This yields certainty (yaqin). Incomplete induction examines only most particulars, e.g., 'Every animal moves its lower jaw when chewing' based on observed animals; but this yields only speculation (zann) because counterexamples like the crocodile may exist. However, the text notes that if the sought judgment is particular (e.g., 'Some animal is a horse'), then tracing some particulars yields certainty. Ultimately, the technical meaning of induction (istiqra' istilahi) is limited to seeking a universal judgment from tracing most particulars; complete induction and arguments to particular judgments are considered syllogisms, not induction in the technical sense.
+
+Key Terms
+استقراء تام
+استقراء ناقص
+يقين
+ظن
+قياس مقسم
+مانعة الخلو
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why does incomplete induction yield only speculation?
+A) Because it examines all particulars and finds counterexamples.
+B) Because it is possible that unexamined particulars do not share the judgment.
+C) Because it uses a disjunctive premise.
+D) Because it only seeks particular judgments.
+
+Key Takeaway
+Complete induction yields certainty and reduces to a dividing syllogism; incomplete induction yields speculation when seeking a universal judgment.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the argument: 'All prophets are truthful. Muhammad is a prophet. Therefore Muhammad is truthful.' Is this inductive or deductive? Classify the type of argument and determine whether it yields certainty or speculation.
+?
+Take the inductive argument: 'Most animals are sentient. Therefore all animals are sentient.' Is this complete or incomplete induction? What would be required to make it complete? Rewrite it as a dividing syllogism if possible.
+
+Pages p. 192 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 193
+Module 16 · Lesson 6
+Next →
+Induction and Analogy
+intermediate
+5 min
+Definition and Types of Induction (Istiqra')
+Author defines induction, divides it into complete and incomplete, and explains their certainty levels.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between complete and incomplete induction and evaluate their epistemic certainty based on the passage.
+
+Core Idea
+Terminological induction is only the incomplete type; complete induction is actually a syllogism.
+
+In this passage, the author defines induction (istiqra') and clarifies what it truly means in logic. He explains that although induction aims at universal judgments from particulars, only incomplete induction—where not all cases are examined—is considered induction in the technical sense. Complete induction, which surveys all particulars, reduces to a divided syllogism and yields certainty, not probability.
+
+Guided Path
+1
+Identify the definition of induction
+Find where the author states that induction seeks a universal judgment from particulars. Note that the apparent inclusion of particular judgments is not the real aim.
+2
+Distinguish the two types of induction
+The passage divides induction into complete and incomplete. Complete induction examines all particulars; incomplete surveys most. Identify the key difference.
+3
+Analyze the examples
+For complete induction, the example uses a disjunction (rational/non-rational) with categorical premises to conclude all animals are sensitive. For incomplete, the example uses observed animals (man, horse, cow) to generalize about jaw movement. Notice the crocodile counterexample.
+4
+Evaluate the epistemic status
+Complete induction yields certainty; incomplete yields only probability. Understand why: completeness eliminates the possibility of counterexamples.
+5
+Recognize the terminological narrowing
+The commentators emphasize that only incomplete induction is called 'induction' in logic; complete induction is actually a divided syllogism. This is important for understanding how the term is used in later discussions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+تعريف الاستقراء وحكمه أي لإثبات حكم كليها إلى كلي تلك الجزئيات، وهذا وإن اشتمل الحكم الجزئي والكلي كليهما بحسب الظاهر إلا أنه في الواقع لا يكون المطلوب بالاستقراء إلا الكلى. وتحقيق ذلك أنهم قالوا: إن الاستقراء إما تام يتصفح فيه حال الجزئيات بأسرها وهو يرجع إلى القياس المقسم، كقولنا: كل حيوان إما ناطق أو غير ناطق، وكل ناطق حساس، وكل غير ناطق من الحيوان حساس، ينتج: كل حيوان حساس، وهذا القسم يفيد اليقين وإما ناقص يكتفي فيه تتبع أكثر الجزئيات، كقولنا: كل حيوان يحرك فكه الأسفل عند المضغ ; لأن الإنسان كذلك، والفرس والبقر كذلك إلى غير ذلك مما صادفناه من أفراد الحيوان، وهذا القسم لا يفيد إلا الظن; إذ من الجائز أن يكون من الحيوانات التي لم نصادفها ما يتحرك فكه الأعلى عند المضغ كما تسمعه في التمساح، ولا يخفى أن الحكم بأن الثاني لا يفيد إلا الظن إنما يصح إذا كان المطلوب الحكم الكلي، وأما إذا اكتفى بالجزئي فلا شك أن تتبع البعض يفيد اليقين به كما يقال بعض الحيوان فرس، وبعضه إنسان، وتحقيق ذلك أي تحقيق أن المطلوب بالاستقراء يكون حكما كليا لا جزئيا. إلى القياس المقسم لأن الحكم بوجوده في جميع الجزئيات من حيث هو جميعها يستلزم الحصر والترديد ضمنا وهذا كاف في القياس المقسم. (أبو الفتح) إلى القياس المقسم : وهو ما يتركب من الحملية والمنفصلة وشرطه أن يكون المنفصلة موجبة كلية مانعة الخلو أو حقيقية. (شرح الشمسية إلى القياس المقسم يعني أنه يكون خارجا عن القياس الاستقرائي فلا يسمى استقراء، بل قياسا مقسما; لأن الاستقراء الذي هو قسم من الحجة اعتبر فيه تصفح أكثر الجزئيات، يعني وجود الحكم في أكثرها كما سيجيء; ولهذا قالوا: إن الاستقراء يفيد الظن، وهذا إنما يتصور في الاستقراء الناقص لا التام كما لا يخفى. ولا يخفى أن الحكم إلخ من ههنا ظهر أن الاستقراء حقيقية هو الحجة التي يستدل فيها من تتبع أكثر الجزئيات على الحكم الكلي; فإن يتتبع فيه جميع الجزئيات يفيد اليقين فهو داخل في الحقيقة تحت القياس، وكذا ما يستدل من الجزئيات على الحكم الجزئي; فإنه أيضاً قياس حقيقة; لكونه مفيدا لليقين. (إسماعيل) يفيد اليقين به أي بالحكم الجزئي، وحينئذ لا يكون الاستقراء اصطلاحا، فقد علمت مكررا غير مرة ههنا أن المطلوب بالاستقراء الاصطلاحي لا يكون إلا حكما كليا لا جزئيا.
+Definition of induction and its judgment: To establish a universal judgment by bringing it back to the universality of those particulars. And this, although it includes both particular and universal judgment apparently, yet in reality the sought by induction is only the universal. The verification of that: They said: Induction is either complete, wherein the condition of all particulars is examined, and it reduces to divided syllogism, such as our saying: Every animal is either rational or non-rational, and every rational is sensitive, and every non-rational animal is sensitive, producing: Every animal is sensitive, and this type yields certainty. Or incomplete, wherein one suffices with tracing most particulars, such as our saying: Every animal moves its lower jaw when chewing, because man is so, and the horse and the cow are so, and so on from what we have encountered of individual animals. And this type yields only probability, for it is possible that among the animals we have not encountered there may be one that moves its upper jaw when chewing, as you hear in the crocodile. And it is not hidden that the judgment that the second yields only probability is only correct if the sought is a universal judgment. But if one suffices with the particular, there is no doubt that tracing some yields certainty about it, as it is said: Some animal is a horse, and some of it is a man. And verification of that: That the sought by induction is a universal judgment, not a particular. To the divided syllogism because the judgment of its existence in all particulars from the aspect of their allness entails restriction and disjunction implicitly, and that suffices for the divided syllogism. (Abu al-Fath) To the divided syllogism: It is composed of categorical and disjunctive, and its condition is that the disjunctive be affirmative universal, preventing emptiness or true. (Sharh al-Shamsiyya: To the divided syllogism means that it falls outside inductive syllogism, so it is not called induction, but divided syllogism; because induction, which is a type of argument, considered in it the survey of most particulars, meaning the existence of the judgment in most of them, as will come; and therefore they said: Induction yields probability, and this is only conceived in incomplete induction, not complete, as is not hidden. And it is not hidden that the judgment, etc. From here it appears that induction in reality is the argument in which one argues from surveying most particulars to the universal judgment. If one surveys all particulars, it yields certainty, so it falls under syllogism in reality. Similarly, what argues from particulars to a particular judgment is also a syllogism in reality because it yields certainty. (Isma'il) Yields certainty about it, i.e., about the particular judgment, and then it is not induction terminologically. You have known repeatedly here that the sought by terminological induction is nothing but a universal judgment, not a particular.
+Source pages p. 193
+
+Commentary
+This passage defines induction (istiqra') and explains its types and epistemic value. The author begins by stating that induction aims to establish a universal judgment from particulars. Although the wording may seem to include both particular and universal judgments, in reality induction only seeks the universal. To verify this, they present two types: complete induction (istiqra' tam) and incomplete induction (istiqra' naqis). Complete induction involves examining all particulars and reduces to a divided syllogism (qiyas muqassam). The example given uses animal classification: every animal is either rational or non-rational; every rational is sensitive; every non-rational animal is sensitive; therefore every animal is sensitive. This yields certainty. Incomplete induction surveys only most particulars, e.g., every animal moves its lower jaw when chewing, based on observed animals like man, horse, cow. This yields only probability because other animals like the crocodile may have an upper jaw movement. The author clarifies that incomplete induction yields probability only when the sought judgment is universal; if one seeks a particular judgment, surveying some particulars gives certainty (e.g., 'some animal is a horse'). The commentary by Abu al-Fath and Isma'il elaborates: complete induction is actually not induction but a divided syllogism; terminological induction is only the incomplete type that yields probability. If a complete survey is made, it falls under syllogism, not induction. Similarly, arguing from particulars to a particular judgment is also a syllogism, not induction. Thus, the true terminological induction is limited to incomplete induction that yields probability.
+
+Key Terms
+الاستقراء (al-istiqra'): Induction: a logical argument that infers a universal judgment from surveying most particulars (incomplete) or all particulars (complete); terminologically, only incomplete induction is called induction. [Note: In earlier logic, istiqra' was often a broader term; here it is specifically distinguished from complete enumeration which becomes divided syllogism.]
+الاستقراء التام (al-istiqra' al-tam): Complete induction: examining all particulars to reach a universal judgment; reduces to divided syllogism and yields certainty.
+الاستقراء الناقص (al-istiqra' al-naqis): Incomplete induction: surveying most particulars to infer a universal judgment; yields only probability.
+القياس المقسم (al-qiyas al-muqassam): Divided syllogism: a compound syllogism of categorical and disjunctive premises, where the disjunctive is affirmative universal preventing emptiness. [Note: This term is used specifically in this commentary; in broader logic it may be called qiyas sharti.]
+
+Key Terms from Source Passage
+
+Checkpoint
+Based on the passage, what is the epistemic status of incomplete induction (istiqra' naqis) when the sought judgment is universal?
+A) Certainty
+B) Probability
+C) Falsity
+D) Necessity
+
+Key Takeaway
+Incomplete induction yields only probability because it does not cover all particulars; complete induction yields certainty but is not considered a true induction terminologically.
+
+How This Lesson Applies — to MY Life?
+?
+Given the examples from the passage (animal classification and jaw movement), identify which is complete and which is incomplete induction, and explain the epistemic difference.
+?
+Construct an original example from fiqh that illustrates incomplete induction and state its epistemic status (yaqini or zanni).
+
+Pages p. 193 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 194
+Module 16 · Lesson 7
+Next →
+Induction and Analogy
+intermediate
+5 min
+The Logical Structure of Analogy (Tamthil)
+Author defines analogy (tamthil) as establishing shared cause for transferring judgment between particulars.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of an analogical argument in Islamic legal reasoning and extract the cause ('illa) that transfers the judgment.
+
+Core Idea
+Analogy transfers a judgment by showing two particulars share the same cause.
+
+This passage defines tamthil as demonstrating participation of one particular with another in the cause of a judgment. Understanding this logical structure is essential for legal analogy (qiyas) in usul al-fiqh. The commentator provides an example from kalam and a legal example from usul.
+
+Guided Path
+1
+Identify the definition of tamthil
+Find the sentence starting with 'والتمثيل بيان مشاركة' and note that tamthil is defined as 'demonstration of participation in the cause of the judgment'.
+The definition establishes the core logical structure.
+2
+Extract the key components
+Identify the two particulars (جزئيان), the cause (علة الحكم), and the judgment to be transferred.
+These are the pillars of any analogical argument.
+3
+Analyze the kalam example
+The example 'every horse moves its lower jaw when chewing, and every man does too, therefore some animal does so' illustrates a shared property.
+This is not a legal example but shows the logical form.
+4
+Analyze the legal example
+The example 'nabidh is forbidden because wine is forbidden, and the cause is intoxication present in both' shows transfer of a ruling via shared cause.
+Identify the 'illa (intoxication) and the two particulars (wine and nabidh).
+5
+Note the caution about looseness
+The author warns that the expression 'as it is said' is not itself the analogy; the analogy is the process of participation.
+This prevents confusing the linguistic form with the logical operation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والتمثيل بيان مشاركة جزئي لآخر في علة الحكم; ليثبت فيه، تعريف التمثيل وحكمه وكل فرس يتحرك فكه الأسفل عند المضغ، وكل إنسان أيضاً كذلك ينتج قطعاً: أن بعض الحيوان كذلك; ومن هذا علم أن حمل عبارة المتن على التوصيف كما هو الرواية أحسن من حيث الدراية أيضاً; إذ ليس فيه شبهة صحة التعريف بالأعم. قوله: ليثبت فيه: أي ليثبت الحكم في الجزئي الأول، وبعبارة أخرى تشبيه جزئي بجزئي في معنى مشترك بينهما ليثبت في المشبه الحكم الثابت في المشبه به المعلل بذلك المعنى، كما يقال النبيذ حرام; لأن الخمر حرام، وعلة حرمة الخمر الإسكار وهو موجود في النبيذ. وفي العبارتين تسامح; فإن التمثيل هو التي يقع فيها ذلك البيان والتشبيه وقد عرفت النكتة في التسامح
+And analogy (tamthil) is the demonstration of the participation of one particular with another in the cause of the judgment, so that it (the judgment) may be established in it. Definition of analogy and its judgment: And every horse moves its lower jaw when chewing, and every man is also so, necessarily produces that some animal is so. And from this it is known that interpreting the expression of the text as adjectival (mawsufi) as is the narration is better from the standpoint of knowledge as well; for there is no suspicion of defining by the broader term. His saying: 'so that it may be established in it' means: so that the judgment may be established in the first particular, and in other words, likening a particular to a particular in a meaning common between them so that the judgment established in the compared-to, explained by that meaning, may be established in the compared. As it is said: Nabidh is forbidden because wine is forbidden, and the cause of wine's prohibition is intoxication, and it exists in nabidh. In both expressions there is looseness (tasamuh); for analogy is that in which that demonstration and likening occur, and you have known the point in the looseness.
+Source pages p. 194
+
+Commentary
+This passage defines analogy (tamthil) and gives its explanation. The author states that analogy is the demonstration that one particular shares with another particular the cause ('illa) of a judgment, in order to establish that judgment in the first particular. The commentary then provides an example: every horse moves its lower jaw when chewing, and every man does too, therefore some animal does so. This illustrates the logical structure. Then the commentator notes that interpreting the text's expression as adjectival (tawsifi) rather than additive (idafi) is better because it avoids defining the term by a broader concept. The phrase 'liyathbuta fihi' is explained: to establish the judgment in the first particular (the original case), or more clearly, likening one particular to another in a shared meaning to transfer the judgment from the compared-to (musabbah bihi) to the compared (musabbah). The legal example is given: nabidh (date drink) is forbidden because wine is forbidden, and the cause of wine's prohibition is intoxication, which exists in nabidh. Thus, by analogy, nabidh inherits the ruling. Finally, the author notes a looseness (tasamuh) in both expressions: analogy itself is the process of demonstration and likening, not the statement of that demonstration. The reader is reminded that the point of this looseness was discussed earlier.
+
+Key Terms
+التمثيل
+علة الحكم
+تشبيه
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the cause ('illa) in the analogy that transfers the prohibition from wine to nabidh?
+A) Intoxication
+B) Fermentation
+C) Grape origin
+D) Liquid form
+
+Key Takeaway
+Analogy (tamthil) is the demonstration that two particulars share a cause, allowing the transfer of a judgment; the example of wine and nabidh exemplifies this.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the cause ('illa) and the two particulars in the following analogy: 'The sale of food before taking possession is invalid because the Prophet forbade selling food before receiving it; the same applies to any other commodity that can be measured or weighed.'
+?
+Construct an analogical argument based on a real usul al-fiqh example: consider the ruling on nicotine (modern nabidh) using the intoxication cause.
+
+Pages p. 194 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 196
+Module 16 · Lesson 8
+Next →
+Induction and Analogy
+intermediate
+8 min
+The Method of Tamthil: Co-occurrence and Elimination
+Explanation of tamthil's method and premises
+
+Learning Objective
+By the end of this lesson, you will be able to construct the three premises of a valid tamthil (analogical argument) in Islamic legal reasoning and identify the role of al-dawran wa al-tardid in establishing the 'illa.
+
+Core Idea
+Tamthil is valid only when the 'illa (cause) is established via co-occurrence and elimination.
+
+Tamthil (analogy) is a cornerstone of Islamic jurisprudence, allowing jurists to extend rulings from known cases to new ones. This lesson unpacks the method for establishing the critical second premise—the 'illa (effective cause). You will learn the three premises of a valid tamthil and how the method of al-dawran wa al-tardid (co-occurrence and elimination) secures the second premise, which is the most problematic.
+
+Guided Path
+1
+Identify the three premises of tamthil
+From the passage, extract the three premises: (1) the ruling is established in the original case (al-asl), (2) the cause of the ruling is a specific attribute (al-'illa), and (3) that attribute exists in the branch case (al-far'). Write them in your own words.
+These correspond exactly to the structure of qiyas in usul al-fiqh.
+2
+Understand the difficulty of the second premise
+The commentator states that the first and third premises are obvious, but the second requires justification. Why? Because the existence of the 'illa in the original must be proven, not assumed. This is where al-dawran wa al-tardid comes in.
+3
+Learn al-dawran wa al-tardid
+Al-dawran means the 'illa co-occurs with the ruling (when the 'illa is present, the ruling is present). Al-tardid means when the 'illa is absent, the ruling is absent. This method confirms that the attribute is indeed the cause.
+This is a standard method from usul al-fiqh, often used to prove the 'illa for analogical extension.
+4
+Apply to a real fiqh example
+Consider the prohibition of wine due to intoxication. The original (asl) is wine, the ruling is 'prohibited', and the 'illa is intoxication. The branch (far') is nabidh (date drink) which also intoxicates. The three premises apply, and al-dawran wa al-tardid confirms intoxication as the cause.
+This example is classic in Islamic legal theory.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والعمدة في طريقه الدوران والترديد.
+قوله: والعمدة في طريقه إلخ: اعلم أنه لابد في التمثيل من مقدمات: الأول: أن الحكم ثابت في الأصل أعني المشبه به الثانية: أن علة الحكم في الأصل الوصف الكذائي. الثالثة: أن ذلك الوصف موجود في الفرع أعني المشبه؛ فإنه إذا تحقق العلم بهذه المقدمات الثلاث ينتقل الذهن إلى كون الحكم ثابتاً في الفرع أيضاً وهو المطلوب من التمثيل، ثم إن المقدمة الأولى والثالثة ظاهرتان في كل تمثيل، وإنما الإشكال في الثانية، وبيانها بطرق متعددة فصلوها في كتب أصول الفقه، والمصنف ذكر ما هو العمدة من بينها، عن المشهور أعني الاستقراء هو الحكم على كلي لوجوده في أكثر جزئياته، والتمثيل هو الحكم على جزئي مشارك لجزئي آخر في علة الحكم عليه. ولما كان في كل من التعريفين المشهورين تسامح؛ إذ الحكمان المذكوران في تعريف الاستقراء والتمثيل عين نتيجتهما لأنفسهما عدل المصنف عنهما وتركهما واستنبط منهما تعريفين لا يتوهم عنهما هذا التسامح فعلة العدول دفع التوهم و به لم يعلم أن في ما ذكره من التعريفين أيضاً تسامحا، والمصنف فر عن تسامح وكر إلى تسامح آخر. فالتسامحان وإن تغايرا لكنهما مشتركان في أصل التسامح كما لا يخفى. وليت شعري المراد من كلمة هذا في قوله لهذا التوهم كما وقع في أكثر النسخ التوهم المذكور. هذا غاية ما سنح لي في تحرير كلام الشارح وبيان مرامه ولعل عند غيري أحسن من هذا وهل هو إلا كر: يعني ليس هذا العدول إلا رجوعا على ما فرعنه، وهو التسامح كما عرفت. وهذا مثل مشهور يضرب لمن ترك أمرا احترازا عن بلاء فيه واختار ففاجأ في ما اختار بلاء سواء كان عين البلاء الأول أو بلاء آخر.
+The main method in its path is co-occurrence and elimination. His words: 'The main method in its path etc.': Know that tamthil necessarily has premises: First: that the ruling is established in the original, meaning the thing compared to. Second: that the cause of the ruling in the original is such-and-such attribute. Third: that that attribute exists in the branch, meaning the thing compared. For when knowledge of these three premises is realized, the mind transfers to the ruling being established in the branch also, and that is the desired result of tamthil. Then, the first and third premises are apparent in every tamthil, while the difficulty is only in the second, and its demonstration is by multiple methods detailed in usul al-fiqh books, and the author mentioned what is the main among them. From the famous: i.e., induction is a judgment on a universal because of its existence in most of its particulars, and tamthil is a judgment on a particular sharing with another particular in the cause of the ruling upon it. Since in each of the two famous definitions there is looseness, because the two judgments mentioned in the definition of induction and tamthil are exactly their own results, the author deviated from them, left them, and derived from them two definitions in which this looseness is not imagined. So the cause of deviation is repelling the false notion, and it is not known that in what he mentioned of the two definitions there is also looseness. The author fled from one looseness and returned to another looseness. The two loosenesses, though different, share in the essence of looseness, as is not hidden. Would that I knew what is meant by the word 'this' in his saying 'for this false notion'—as it occurs in most copies, it is the mentioned false notion. This is the utmost that occurred to me in editing the commentator's words and expressing his intent, and perhaps someone else has better than this. And it is only a return to what he fled from? He means: this deviation is only a return to what he fled from, which is looseness as you have known. This is a famous proverb used for one who leaves a matter to avoid a calamity in it and chooses, and then is suddenly confronted in what he chose with a calamity, whether it is the same first calamity or another calamity.
+Source pages p. 196
+
+Commentary
+This passage is both an explanation of the method of tamthil (analogical reasoning) and a critique of the author's definitions. The commentator begins by stating the main method for establishing the 'illa (cause) in tamthil: al-dawran wa al-tardid (co-occurrence and elimination). He then explains the three necessary premises of a valid tamthil: (1) the ruling is established in the original, (2) the cause of that ruling is a specific attribute, and (3) that attribute exists in the branch. The first and third premises are obvious, while the second requires justification via methods detailed in usul al-fiqh. The author chose to mention al-dawran wa al-tardid as the primary method. Next, the commentator presents the famous definitions of induction and tamthil: induction is a judgment on a universal based on its existence in most particulars, and tamthil is a judgment on a particular sharing another particular in the cause. He argues that these definitions involve looseness (tasamuh) because the judgments in the definitions are the very conclusions of the arguments. The author avoided this looseness by defining them differently (as examination and exposition), but the commentator points out that the author's own definitions also involve looseness, albeit of a different kind. The author fled from one looseness only to fall into another. The passage concludes with a critique that the deviation is merely a return to what was fled from, illustrated by a proverb about escaping a calamity only to encounter another.
+
+Key Terms
+الدوران والترديد
+الأصل
+الفرع
+العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, which premise is the most problematic in a tamthil argument?
+A) The first premise: the ruling is established in the original
+B) The second premise: the cause is a specific attribute
+C) The third premise: the attribute exists in the branch
+D) All premises are equally problematic
+
+Key Takeaway
+Tamthil requires three premises, but the critical one is the second (the 'illa), which must be established via methods like al-dawran wa al-tardid to ensure the analogy is sound.
+
+How This Lesson Applies — to MY Life?
+?
+Take the fiqh example: 'The sale of gharar (uncertainty) is prohibited. The 'illa is uncertainty in the contract. A futures contract involves uncertainty. Construct the three premises of tamthil and explain how al-dawran wa al-tardid would be used to establish uncertainty as the 'illa.'
+?
+Identify a ruling from the Quran or Sunnah that has an apparent 'illa, and construct a tamthil to extend it to a new case not mentioned in the texts. Write out the three premises.
+
+Pages p. 196 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 196
+Module 16 · Lesson 9
+Next →
+Induction and Analogy
+advanced
+10 min
+Critique of Definitions: Escaping One Looseness into Another
+Critique of definitions of induction and tamthil
+
+Learning Objective
+By the end of this lesson, you will be able to identify the looseness (tasamuh) in defining logical operations by their results and evaluate the validity of alternative definitions.
+
+Core Idea
+Defining a logical operation by its result is a subtle but significant looseness that can persist across reformulations.
+
+The commentator critiques the famous definitions of induction and tamthil, as well as the author's revised definitions, for containing a looseness (tasamuh) that undermines their precision. You will learn to spot this error—defining something by its own conclusion—and understand why the commentator argues that the author merely exchanged one looseness for another, without escaping the problem.
+
+Guided Path
+1
+Understand the famous definitions of induction and tamthil
+The passage mentions: 'Induction is a judgment on a universal because of its existence in most of its particulars. Tamthil is a judgment on a particular sharing with another particular in the cause of the ruling upon it.' Write these definitions in your own words.
+2
+Identify the looseness in these definitions
+The commentator says the judgments mentioned in the definitions are exactly the results of the respective operations. For example, the definition of tamthil refers to the judgment on the branch, which is the conclusion of tamthil. This makes the definition circular or result-oriented, not based on the operation itself.
+This is the first tasamuh.
+3
+Analyze the author's revised definitions
+The author proposed alternative definitions: induction as 'examination' and tamthil as 'exposition' (not quoted directly in the passage, but implied). The commentator argues that these also contain looseness, because they still involve the notion of the result (the judgment). Identify why the commentator thinks this—the author's definitions still refer to the outcome.
+The passage says: 'The author fled from one looseness and returned to another looseness.'
+4
+Evaluate the critique's validity
+The commentator's point is that any definition that describes an operation in terms of its result will suffer from tasamuh. Do you agree? Consider whether a definition of tamthil can be given without reference to the conclusion. This is a deeper methodological point.
+Reflect on whether it's possible to define tamthil purely by its procedure (e.g., 'transferring the ruling from original to branch based on shared 'illa').
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والعمدة في طريقه الدوران والترديد.
+قوله: والعمدة في طريقه إلخ: اعلم أنه لابد في التمثيل من مقدمات: الأول: أن الحكم ثابت في الأصل أعني المشبه به الثانية: أن علة الحكم في الأصل الوصف الكذائي. الثالثة: أن ذلك الوصف موجود في الفرع أعني المشبه؛ فإنه إذا تحقق العلم بهذه المقدمات الثلاث ينتقل الذهن إلى كون الحكم ثابتاً في الفرع أيضاً وهو المطلوب من التمثيل، ثم إن المقدمة الأولى والثالثة ظاهرتان في كل تمثيل، وإنما الإشكال في الثانية، وبيانها بطرق متعددة فصلوها في كتب أصول الفقه، والمصنف ذكر ما هو العمدة من بينها، عن المشهور أعني الاستقراء هو الحكم على كلي لوجوده في أكثر جزئياته، والتمثيل هو الحكم على جزئي مشارك لجزئي آخر في علة الحكم عليه. ولما كان في كل من التعريفين المشهورين تسامح؛ إذ الحكمان المذكوران في تعريف الاستقراء والتمثيل عين نتيجتهما لأنفسهما عدل المصنف عنهما وتركهما واستنبط منهما تعريفين لا يتوهم عنهما هذا التسامح فعلة العدول دفع التوهم و به لم يعلم أن في ما ذكره من التعريفين أيضاً تسامحا، والمصنف فر عن تسامح وكر إلى تسامح آخر. فالتسامحان وإن تغايرا لكنهما مشتركان في أصل التسامح كما لا يخفى. وليت شعري المراد من كلمة هذا في قوله لهذا التوهم كما وقع في أكثر النسخ التوهم المذكور. هذا غاية ما سنح لي في تحرير كلام الشارح وبيان مرامه ولعل عند غيري أحسن من هذا وهل هو إلا كر: يعني ليس هذا العدول إلا رجوعا على ما فرعنه، وهو التسامح كما عرفت. وهذا مثل مشهور يضرب لمن ترك أمرا احترازا عن بلاء فيه واختار ففاجأ في ما اختار بلاء سواء كان عين البلاء الأول أو بلاء آخر.
+The main method in its path is co-occurrence and elimination. His words: 'The main method in its path etc.': Know that tamthil necessarily has premises: First: that the ruling is established in the original, meaning the thing compared to. Second: that the cause of the ruling in the original is such-and-such attribute. Third: that that attribute exists in the branch, meaning the thing compared. For when knowledge of these three premises is realized, the mind transfers to the ruling being established in the branch also, and that is the desired result of tamthil. Then, the first and third premises are apparent in every tamthil, while the difficulty is only in the second, and its demonstration is by multiple methods detailed in usul al-fiqh books, and the author mentioned what is the main among them. From the famous: i.e., induction is a judgment on a universal because of its existence in most of its particulars, and tamthil is a judgment on a particular sharing with another particular in the cause of the ruling upon it. Since in each of the two famous definitions there is looseness, because the two judgments mentioned in the definition of induction and tamthil are exactly their own results, the author deviated from them, left them, and derived from them two definitions in which this looseness is not imagined. So the cause of deviation is repelling the false notion, and it is not known that in what he mentioned of the two definitions there is also looseness. The author fled from one looseness and returned to another looseness. The two loosenesses, though different, share in the essence of looseness, as is not hidden. Would that I knew what is meant by the word 'this' in his saying 'for this false notion'—as it occurs in most copies, it is the mentioned false notion. This is the utmost that occurred to me in editing the commentator's words and expressing his intent, and perhaps someone else has better than this. And it is only a return to what he fled from? He means: this deviation is only a return to what he fled from, which is looseness as you have known. This is a famous proverb used for one who leaves a matter to avoid a calamity in it and chooses, and then is suddenly confronted in what he chose with a calamity, whether it is the same first calamity or another calamity.
+Source pages p. 196
+
+Commentary
+This passage is both an explanation of the method of tamthil (analogical reasoning) and a critique of the author's definitions. The commentator begins by stating the main method for establishing the 'illa (cause) in tamthil: al-dawran wa al-tardid (co-occurrence and elimination). He then explains the three necessary premises of a valid tamthil: (1) the ruling is established in the original, (2) the cause of that ruling is a specific attribute, and (3) that attribute exists in the branch. The first and third premises are obvious, while the second requires justification via methods detailed in usul al-fiqh. The author chose to mention al-dawran wa al-tardid as the primary method. Next, the commentator presents the famous definitions of induction and tamthil: induction is a judgment on a universal based on its existence in most particulars, and tamthil is a judgment on a particular sharing another particular in the cause. He argues that these definitions involve looseness (tasamuh) because the judgments in the definitions are the very conclusions of the arguments. The author avoided this looseness by defining them differently (as examination and exposition), but the commentator points out that the author's own definitions also involve looseness, albeit of a different kind. The author fled from one looseness only to fall into another. The passage concludes with a critique that the deviation is merely a return to what was fled from, illustrated by a proverb about escaping a calamity only to encounter another.
+
+Key Terms
+التسامح
+التمثيل
+الاستقراء
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the commentator, why did the author deviate from the famous definitions of induction and tamthil?
+A) They were too complex for students
+B) They contained looseness because the judgments mentioned are the results of the operations
+C) They were not based on Islamic principles
+D) They were rejected by previous scholars
+
+Key Takeaway
+Definitions of logical operations must describe the process, not the result, to avoid circularity; even careful reformers can fall into a new form of the same looseness.
+
+How This Lesson Applies — to MY Life?
+?
+Consider the definition: 'Qiyas is the equation of a branch case with an original case in respect of the ruling.' Identify the looseness in this definition using the commentator's criteria (it mentions the result). Then attempt to formulate a definition without reference to the result.
+?
+Evaluate the definition: 'The syllogism is an argument that produces certainty when its premises are true.' Does it contain tasamuh? Why or why not?
+
+Pages p. 196 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 197
+Module 16 · Lesson 10
+Next →
+Induction and Analogy
+intermediate
+5 min
+Dawaran: Co-variation as a Marker of Causality
+Author explains dawaran and tardid as methods to prove the 'illa in analogical reasoning.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the method of dawaran to test whether an attribute is the effective cause ('illa) in an analogical argument from Islamic jurisprudence.
+
+Core Idea
+Dawaran uses presence and absence of an attribute to indicate causation, but it can also indicate a condition.
+
+In this lesson, we explore the first method for establishing the 'illa in analogical reasoning: dawaran (co-variation). The author explains how if a ruling exists when an attribute exists and disappears when the attribute disappears, that attribute is considered a candidate cause. We will examine the classic example of wine and intoxication to see how dawaran works, and note its limitations.
+
+Guided Path
+1
+Identify the ruling and candidate attribute
+In the example, the ruling is prohibition (hukm al-hurma) and the attribute is intoxication (isqār). Note that the text states the ruling follows the attribute in existence and non-existence.
+2
+Check for co-variation
+The text says: 'ما دام مسكرا حرام، وإذا زال عنه الإسكار زالت حرمته' – as long as it is intoxicating, it is forbidden; when intoxication ceases, prohibition ceases.
+3
+Recognize the inference and its limitation
+The method concludes that the attribute is the cause because of this correlation. But the author later notes that co-variation could also indicate a condition (shart) or a part of a general cause, so dawaran alone is not conclusive.
+This critique will be explored in a later lesson.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهو طريقان الأول: الدوران، هو ترتب الحكم على الوصف الذي له صلوح العلية وجوداً أو عدماً كترتب حكم الحرمة في الخمر على الإسكار؛ فإنه ما دام مسكرا حرام، وإذا زال عنه الإسكار زالت حرمته. قالوا: والدوران علامة كون المدار أعني الوصف علة للدائر أي الحكم، والثاني الترديد، ويسمى بالسبر والتقسيم أيضاً، أن يتفحص أولا أوصاف الأصل ويردّد وهو أن علة الحكم هل هو هذه الصفة أو تلك، ثم تبطل ثانيا علية كل صفة حتى يستقر على وصف واحد فيستفاد من ذلك كون هذا الوصف علة كما يقال علة حرمة الخمر إما : العنب أو الميعان أو الكون المخصوص أو الطعم المخصوص أو الرائحة المخصوصة أو الإسكار، لكن الأول ليس بعلة لوجوده في الدبس بدون الحرمة، وكذلك البواقي ما سوى الإسكار بمثل ما ذكر فتعين الإسكار للعلية.
+الاتخاذ
+من
+وهو طريقان اعلم أن كلا الطريقين ضعيفان أما الدوران فلأن الجزء الأخير من العلة العامة والشرط المساوي يدار المعلول عليه مع أنه ليس بعلة، وأما الترديد؛ فلأن حصر العلة في الأوصاف المذكورة ممنوع، فجاز أن يكون العلة غير ما ذكرت مع أن كون المشترك علة في الأصل لا يلزم منه كونه علة في الفرع؛ لجواز أن يكون خصوصية الأصل شرطا للعلية أو خصوصية الفرع مانعة عنها كذا قيل وللمناقشة فيه مجال كما لا يخفى على من له ذهن سليم وطبع مستقيم. إسماعيل) ويسمى بالسبر والتقسيم السير بكسر السين المهملة وسكون الباء الموحدة الامتحان كذا في القاموس. ورأيت مكتوبا على الحاشية السبر الجمع، وكل من المعنيين يناسب في هذا المقام كما لا يخفى. ويسمى بالسبر: المشهور بالياء المثناة التحتانية لما فيه من سبر الأوصاف ،وتتبعها وقد سمعت عن الأستاذ بالباء الموحدة بمعنى الامتحان ووجه المناسبة ظاهر؛ لما فيه من امتحان الأوصاف بأن علة الحكم هل هذه الصفة أو تلك
+الأخرى. (إسماعيل)
+And it has two methods: First, co-variation (dawaran), which is the ordering of the ruling upon the attribute that has the suitability for causality, in existence or non-existence, like the ordering of the ruling of prohibition in wine upon intoxication; as long as it is intoxicating, it is forbidden, and when intoxication departs from it, its prohibition departs. They said: co-variation is a sign that the co-varied, i.e., the attribute, is the cause of the co-varying, i.e., the ruling. Second, sifting (tardid), also called sifting and division (sabr wa taqsim), which is to first examine the attributes of the original and sift, asking whether the cause of the ruling is this attribute or that, then secondly nullify the causality of each attribute until it settles on one attribute, so it is understood that this attribute is the cause. For example, the cause of the prohibition of wine is either grapes, or becoming liquid, or the specific state, or the specific taste, or the specific smell, or intoxication. But the first is not a cause because it exists in treacle without prohibition, and likewise the rest besides intoxication by similar proofs, so intoxication is determined as the cause.
+Al-ittikhadh
+min
+And it has two methods: Know that both methods are weak. As for co-variation, because the final part of the general cause and the equivalent condition co-varies with the effect while it is not a cause. As for sifting, because the enumeration of the cause among the mentioned attributes is not admitted, so it is possible that the cause is other than what was mentioned, and further that the common attribute's being a cause in the original does not necessitate it being a cause in the branch, because the specific nature of the original may be a condition for the causality, or the specific nature of the branch a preventer of it. Thus it is said, and there is room for discussion in it, as is not hidden from one who has a sound mind and upright disposition. (Isma'il) And it is called sibr and taqsim: sibr (with kasr of sin and sukun of ba) means examination, as in al-Qamus. And I saw written on the margin: al-sabr means collection, and both meanings are suitable in this context, as is not hidden. And it is called al-sabr: the well-known with ya' because of the sibr (sifting) of attributes and their tracking. I heard from the teacher that it is with ba' meaning examination, and the appropriateness is apparent because of the examination of attributes as to whether the cause of the ruling is this attribute or that other. (Isma'il)
+Source pages p. 197
+
+Commentary
+This passage is an exposition of the two methods used in analogical reasoning (tamthil) to establish the effective cause ('illa): dawaran (co-variation) and tardid (sifting/division). The author defines dawaran as tracing the ruling's occurrence with the presence of an attribute and its removal with the attribute's absence, using the example of wine: it is forbidden when intoxicating, and when intoxication ceases, so does the prohibition. Tardid (sabr wa taqsim) involves listing all possible attributes of the original and eliminating those that fail the test, again using wine: the possible causes are enumerated (grapes, liquefaction, specific state, taste, smell, intoxication) and all except intoxication are eliminated because they appear in non-prohibited substances like treacle. The passage then critiques both methods: dawaran fails because it could also indicate a condition or a part of a general cause, not necessarily the cause; tardid fails because the enumeration may be incomplete, and even if a common attribute is present in both original and branch, the original may have a special condition required for causality or the branch may have a preventer. The marginal notes (Isma'il) clarify the etymology of 'sabr' as examination or collection, both fitting the context of sifting through possibilities.
+
+Key Terms
+الدوران (al-dawarān): Co-variation: the correlation of a ruling's existence and non-existence with an attribute, taken as evidence of causation.
+العلة (al-'illa): The effective cause that brings about a ruling in analogical reasoning.
+الحكم (al-ḥukm): The ruling or legal judgment that is being explained.
+الوصف (al-waṣf): The attribute or property being considered as a potential cause.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the method of dawaran, why is intoxication considered the cause of the prohibition of wine?
+A) Because intoxication is present in all forbidden drinks.
+B) Because the prohibition exists when intoxication exists and disappears when it disappears.
+C) Because wine is made from grapes.
+D) Because the text specifies it.
+
+Key Takeaway
+Dawaran is a useful initial indicator of causation but must be supplemented with other methods to ensure the attribute is truly the 'illa and not a condition or part of a more general cause.
+
+How This Lesson Applies — to MY Life?
+?
+Using the wine example, test whether the attribute 'being made from grapes' is a valid cause according to dawaran. Explain your reasoning.
+?
+Give another example from usul al-fiqh where dawaran could be used to test a potential 'illa.
+
+Pages p. 197 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 197
+Module 16 · Lesson 11
+Next →
+Induction and Analogy
+intermediate
+5 min
+Tardid: Sifting Through Possibilities to Identify the Cause
+Author explains dawaran and tardid as methods to prove the 'illa in analogical reasoning.
+
+Learning Objective
+By the end of this lesson, you will be able to apply the method of tardid (sabr wa taqsim) to enumerate and eliminate possible causes to identify the 'illa in an analogical argument.
+
+Core Idea
+Tardid narrows down causes by listing all candidate attributes and eliminating those that do not satisfy the condition of co-variation.
+
+The second method for establishing the 'illa is tardid, also known as sabr wa taqsim (examination and division). The author explains that one first enumerates all possible attributes of the original case, then tests each by checking whether it exists without the ruling. The attribute that survives elimination is taken as the cause. We will walk through the wine example where several attributes are eliminated until intoxication remains.
+
+Guided Path
+1
+Enumerate all candidate attributes
+In the wine example, list: grapes (element), liquefaction (al-mi'ān), specific state (al-kawn al-makhsūs), specific taste (al-ta'm al-makhsūs), specific smell (al-rā'iha al-makhsūṣa), intoxication (al-isqār).
+2
+Eliminate attributes that exist without the ruling
+Check each: grapes exist in treacle without prohibition, so not a cause. Similarly, the others (except intoxication) are eliminated by finding cases where they exist but the ruling is absent.
+The text mentions treacle (dibs) as a counterexample for grapes.
+3
+Identify the surviving attribute
+Only intoxication remains, so it is determined as the 'illa.
+Note: This method assumes exhaustive enumeration, which may not be possible.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهو طريقان الأول: الدوران، هو ترتب الحكم على الوصف الذي له صلوح العلية وجوداً أو عدماً كترتب حكم الحرمة في الخمر على الإسكار؛ فإنه ما دام مسكرا حرام، وإذا زال عنه الإسكار زالت حرمته. قالوا: والدوران علامة كون المدار أعني الوصف علة للدائر أي الحكم، والثاني الترديد، ويسمى بالسبر والتقسيم أيضاً، أن يتفحص أولا أوصاف الأصل ويردّد وهو أن علة الحكم هل هو هذه الصفة أو تلك، ثم تبطل ثانيا علية كل صفة حتى يستقر على وصف واحد فيستفاد من ذلك كون هذا الوصف علة كما يقال علة حرمة الخمر إما : العنب أو الميعان أو الكون المخصوص أو الطعم المخصوص أو الرائحة المخصوصة أو الإسكار، لكن الأول ليس بعلة لوجوده في الدبس بدون الحرمة، وكذلك البواقي ما سوى الإسكار بمثل ما ذكر فتعين الإسكار للعلية.
+الاتخاذ
+من
+وهو طريقان اعلم أن كلا الطريقين ضعيفان أما الدوران فلأن الجزء الأخير من العلة العامة والشرط المساوي يدار المعلول عليه مع أنه ليس بعلة، وأما الترديد؛ فلأن حصر العلة في الأوصاف المذكورة ممنوع، فجاز أن يكون العلة غير ما ذكرت مع أن كون المشترك علة في الأصل لا يلزم منه كونه علة في الفرع؛ لجواز أن يكون خصوصية الأصل شرطا للعلية أو خصوصية الفرع مانعة عنها كذا قيل وللمناقشة فيه مجال كما لا يخفى على من له ذهن سليم وطبع مستقيم. إسماعيل) ويسمى بالسبر والتقسيم السير بكسر السين المهملة وسكون الباء الموحدة الامتحان كذا في القاموس. ورأيت مكتوبا على الحاشية السبر الجمع، وكل من المعنيين يناسب في هذا المقام كما لا يخفى. ويسمى بالسبر: المشهور بالياء المثناة التحتانية لما فيه من سبر الأوصاف ،وتتبعها وقد سمعت عن الأستاذ بالباء الموحدة بمعنى الامتحان ووجه المناسبة ظاهر؛ لما فيه من امتحان الأوصاف بأن علة الحكم هل هذه الصفة أو تلك
+الأخرى. (إسماعيل)
+And it has two methods: First, co-variation (dawaran), which is the ordering of the ruling upon the attribute that has the suitability for causality, in existence or non-existence, like the ordering of the ruling of prohibition in wine upon intoxication; as long as it is intoxicating, it is forbidden, and when intoxication departs from it, its prohibition departs. They said: co-variation is a sign that the co-varied, i.e., the attribute, is the cause of the co-varying, i.e., the ruling. Second, sifting (tardid), also called sifting and division (sabr wa taqsim), which is to first examine the attributes of the original and sift, asking whether the cause of the ruling is this attribute or that, then secondly nullify the causality of each attribute until it settles on one attribute, so it is understood that this attribute is the cause. For example, the cause of the prohibition of wine is either grapes, or becoming liquid, or the specific state, or the specific taste, or the specific smell, or intoxication. But the first is not a cause because it exists in treacle without prohibition, and likewise the rest besides intoxication by similar proofs, so intoxication is determined as the cause.
+Al-ittikhadh
+min
+And it has two methods: Know that both methods are weak. As for co-variation, because the final part of the general cause and the equivalent condition co-varies with the effect while it is not a cause. As for sifting, because the enumeration of the cause among the mentioned attributes is not admitted, so it is possible that the cause is other than what was mentioned, and further that the common attribute's being a cause in the original does not necessitate it being a cause in the branch, because the specific nature of the original may be a condition for the causality, or the specific nature of the branch a preventer of it. Thus it is said, and there is room for discussion in it, as is not hidden from one who has a sound mind and upright disposition. (Isma'il) And it is called sibr and taqsim: sibr (with kasr of sin and sukun of ba) means examination, as in al-Qamus. And I saw written on the margin: al-sabr means collection, and both meanings are suitable in this context, as is not hidden. And it is called al-sabr: the well-known with ya' because of the sibr (sifting) of attributes and their tracking. I heard from the teacher that it is with ba' meaning examination, and the appropriateness is apparent because of the examination of attributes as to whether the cause of the ruling is this attribute or that other. (Isma'il)
+Source pages p. 197
+
+Commentary
+This passage is an exposition of the two methods used in analogical reasoning (tamthil) to establish the effective cause ('illa): dawaran (co-variation) and tardid (sifting/division). The author defines dawaran as tracing the ruling's occurrence with the presence of an attribute and its removal with the attribute's absence, using the example of wine: it is forbidden when intoxicating, and when intoxication ceases, so does the prohibition. Tardid (sabr wa taqsim) involves listing all possible attributes of the original and eliminating those that fail the test, again using wine: the possible causes are enumerated (grapes, liquefaction, specific state, taste, smell, intoxication) and all except intoxication are eliminated because they appear in non-prohibited substances like treacle. The passage then critiques both methods: dawaran fails because it could also indicate a condition or a part of a general cause, not necessarily the cause; tardid fails because the enumeration may be incomplete, and even if a common attribute is present in both original and branch, the original may have a special condition required for causality or the branch may have a preventer. The marginal notes (Isma'il) clarify the etymology of 'sabr' as examination or collection, both fitting the context of sifting through possibilities.
+
+Key Terms
+الترديد (al-tardīd): Sifting: the method of enumerating possible causes and eliminating those that do not apply to identify the true cause.
+السبر والتقسيم (al-sabr wa al-taqsīm): Examination and division: another term for tardid, involving testing and dividing attributes.
+العلة (al-'illa): The effective cause that brings about a ruling in analogical reasoning.
+الفرع (al-far'): The branch: the case being analogized to in tamthil.
+الأصل (al-aṣl): The original: the case from which the ruling is analogized.
+
+Key Terms from Source Passage
+
+Checkpoint
+In the example of wine, which attribute is identified as the cause of prohibition through tardid?
+A) Grapes
+B) Liquefaction
+C) Intoxication
+D) Specific taste
+
+Key Takeaway
+Tardid provides a systematic way to identify the 'illa by elimination, but its reliability depends on the completeness of the list and the absence of confounding factors.
+
+How This Lesson Applies — to MY Life?
+?
+List three possible attributes for the prohibition of pork (e.g., being a pig, being unclean, having certain health effects) and use tardid to determine which one is the likely cause, given that some attributes exist in other clean animals.
+
+Pages p. 197 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 197
+Module 16 · Lesson 12
+Next →
+Induction and Analogy
+intermediate
+5 min
+Critique of Dawaran and Tardid: Logical Weaknesses
+Author explains dawaran and tardid as methods to prove the 'illa in analogical reasoning.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the logical weaknesses in the methods of dawaran and tardid as critiqued in the text.
+
+Core Idea
+Both dawaran and tardid are insufficient to prove causality due to possibilities of conditions and incomplete enumeration.
+
+After explaining both methods, the author declares them weak and provides reasons. Dawaran can be due to a condition rather than a cause, and tardid's enumeration may be incomplete, and even if the cause is common, special conditions in the original or branch may affect the ruling. This lesson unpacks these criticisms.
+
+Guided Path
+1
+Understand the critique of dawaran
+The author says: 'الجزء الأخير من العلة العامة والشرط المساوي يدار المعلول عليه مع أنه ليس بعلة' – the final part of a general cause and an equivalent condition co-vary with the effect but are not the cause. So dawaran cannot distinguish cause from condition.
+2
+Understand the critique of tardid (first issue)
+First: 'حصر العلة في الأوصاف المذكورة ممنوع' – the enumeration of attributes may not be complete, so the real cause might be missing from the list.
+This is a problem of induction.
+3
+Understand the critique of tardid (second issue)
+Second: 'كون المشترك علة في الأصل لا يلزم منه كونه علة في الفرع' – even if the common attribute is the cause in the original, it may not be in the branch due to special conditions (shart) in the original or preventers (mani') in the branch.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وهو طريقان الأول: الدوران، هو ترتب الحكم على الوصف الذي له صلوح العلية وجوداً أو عدماً كترتب حكم الحرمة في الخمر على الإسكار؛ فإنه ما دام مسكرا حرام، وإذا زال عنه الإسكار زالت حرمته. قالوا: والدوران علامة كون المدار أعني الوصف علة للدائر أي الحكم، والثاني الترديد، ويسمى بالسبر والتقسيم أيضاً، أن يتفحص أولا أوصاف الأصل ويردّد وهو أن علة الحكم هل هو هذه الصفة أو تلك، ثم تبطل ثانيا علية كل صفة حتى يستقر على وصف واحد فيستفاد من ذلك كون هذا الوصف علة كما يقال علة حرمة الخمر إما : العنب أو الميعان أو الكون المخصوص أو الطعم المخصوص أو الرائحة المخصوصة أو الإسكار، لكن الأول ليس بعلة لوجوده في الدبس بدون الحرمة، وكذلك البواقي ما سوى الإسكار بمثل ما ذكر فتعين الإسكار للعلية.
+الاتخاذ
+من
+وهو طريقان اعلم أن كلا الطريقين ضعيفان أما الدوران فلأن الجزء الأخير من العلة العامة والشرط المساوي يدار المعلول عليه مع أنه ليس بعلة، وأما الترديد؛ فلأن حصر العلة في الأوصاف المذكورة ممنوع، فجاز أن يكون العلة غير ما ذكرت مع أن كون المشترك علة في الأصل لا يلزم منه كونه علة في الفرع؛ لجواز أن يكون خصوصية الأصل شرطا للعلية أو خصوصية الفرع مانعة عنها كذا قيل وللمناقشة فيه مجال كما لا يخفى على من له ذهن سليم وطبع مستقيم. إسماعيل) ويسمى بالسبر والتقسيم السير بكسر السين المهملة وسكون الباء الموحدة الامتحان كذا في القاموس. ورأيت مكتوبا على الحاشية السبر الجمع، وكل من المعنيين يناسب في هذا المقام كما لا يخفى. ويسمى بالسبر: المشهور بالياء المثناة التحتانية لما فيه من سبر الأوصاف ،وتتبعها وقد سمعت عن الأستاذ بالباء الموحدة بمعنى الامتحان ووجه المناسبة ظاهر؛ لما فيه من امتحان الأوصاف بأن علة الحكم هل هذه الصفة أو تلك
+الأخرى. (إسماعيل)
+And it has two methods: First, co-variation (dawaran), which is the ordering of the ruling upon the attribute that has the suitability for causality, in existence or non-existence, like the ordering of the ruling of prohibition in wine upon intoxication; as long as it is intoxicating, it is forbidden, and when intoxication departs from it, its prohibition departs. They said: co-variation is a sign that the co-varied, i.e., the attribute, is the cause of the co-varying, i.e., the ruling. Second, sifting (tardid), also called sifting and division (sabr wa taqsim), which is to first examine the attributes of the original and sift, asking whether the cause of the ruling is this attribute or that, then secondly nullify the causality of each attribute until it settles on one attribute, so it is understood that this attribute is the cause. For example, the cause of the prohibition of wine is either grapes, or becoming liquid, or the specific state, or the specific taste, or the specific smell, or intoxication. But the first is not a cause because it exists in treacle without prohibition, and likewise the rest besides intoxication by similar proofs, so intoxication is determined as the cause.
+Al-ittikhadh
+min
+And it has two methods: Know that both methods are weak. As for co-variation, because the final part of the general cause and the equivalent condition co-varies with the effect while it is not a cause. As for sifting, because the enumeration of the cause among the mentioned attributes is not admitted, so it is possible that the cause is other than what was mentioned, and further that the common attribute's being a cause in the original does not necessitate it being a cause in the branch, because the specific nature of the original may be a condition for the causality, or the specific nature of the branch a preventer of it. Thus it is said, and there is room for discussion in it, as is not hidden from one who has a sound mind and upright disposition. (Isma'il) And it is called sibr and taqsim: sibr (with kasr of sin and sukun of ba) means examination, as in al-Qamus. And I saw written on the margin: al-sabr means collection, and both meanings are suitable in this context, as is not hidden. And it is called al-sabr: the well-known with ya' because of the sibr (sifting) of attributes and their tracking. I heard from the teacher that it is with ba' meaning examination, and the appropriateness is apparent because of the examination of attributes as to whether the cause of the ruling is this attribute or that other. (Isma'il)
+Source pages p. 197
+
+Commentary
+This passage is an exposition of the two methods used in analogical reasoning (tamthil) to establish the effective cause ('illa): dawaran (co-variation) and tardid (sifting/division). The author defines dawaran as tracing the ruling's occurrence with the presence of an attribute and its removal with the attribute's absence, using the example of wine: it is forbidden when intoxicating, and when intoxication ceases, so does the prohibition. Tardid (sabr wa taqsim) involves listing all possible attributes of the original and eliminating those that fail the test, again using wine: the possible causes are enumerated (grapes, liquefaction, specific state, taste, smell, intoxication) and all except intoxication are eliminated because they appear in non-prohibited substances like treacle. The passage then critiques both methods: dawaran fails because it could also indicate a condition or a part of a general cause, not necessarily the cause; tardid fails because the enumeration may be incomplete, and even if a common attribute is present in both original and branch, the original may have a special condition required for causality or the branch may have a preventer. The marginal notes (Isma'il) clarify the etymology of 'sabr' as examination or collection, both fitting the context of sifting through possibilities.
+
+Key Terms
+العلة (al-'illa): The effective cause that brings about a ruling in analogical reasoning.
+الشرط المساوي (al-sharṭ al-musāwī): An equivalent condition that co-varies with the effect but is not the cause.
+الجزء الأخير (al-juz' al-akhīr): The final part of a general cause, which may co-vary but is not the complete cause.
+السبر والتقسيم (al-sabr wa al-taqsīm): Examination and division: the method of tardid.
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the critique, why might dawaran not indicate a true cause?
+A) Because it only works for wine.
+B) Because the attribute might be a condition rather than a cause.
+C) Because it is too slow.
+D) Because it requires a complete enumeration.
+
+Key Takeaway
+The weaknesses of dawaran and tardid demonstrate that analogical reasoning in Islam requires careful consideration of conditions and completeness, and these methods provide only probable, not certain, knowledge of causation.
+
+How This Lesson Applies — to MY Life?
+?
+Explain why the critique of dawaran applies to the example of wine: what alternative explanation could account for the co-variation besides causation?
+?
+Consider a case where a ruling is present in two cases with a common attribute but absent in a third case with the same attribute. How does this affect the use of tardid?
+
+Pages p. 197 · Induction and Analogy
+← Prev
+Mark Done
+Next →

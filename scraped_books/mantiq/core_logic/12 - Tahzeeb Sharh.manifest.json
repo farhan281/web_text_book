@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:56:04Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/tahzeeb_sharh/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/12 - Tahzeeb Sharh",
+  "output_bytes": 6028873,
+  "output_sha256": "8cceb082316584ed564975abee6d554a5114d44e571f94c0e64f51a6ab890c31",
+  "checks": {
+    "catalog_expected_lessons": 520,
+    "course_reported_lessons": 520,
+    "index_lessons": 520,
+    "full_lessons": 520,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 20,
+    "course_reported_modules": 20,
+    "modules": 20,
+    "course_reported_sources": 374,
+    "sources": 374
+  }
+}

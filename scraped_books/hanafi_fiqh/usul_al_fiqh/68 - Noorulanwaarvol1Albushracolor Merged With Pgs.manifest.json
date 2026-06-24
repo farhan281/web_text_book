@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:54:29Z",
+  "source_app_url": "https://hanafi-fiqh-courses.pages.dev/NoorUlAnwaarVol1AlBushraColor_merged_with_pgs/static_app/index.html",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/hanafi_fiqh/usul_al_fiqh/68 - Noorulanwaarvol1Albushracolor Merged With Pgs",
+  "output_bytes": 12387872,
+  "output_sha256": "a9aba9b3ca32b0fef194c08f603a54a683c5352d0c267b2c5d8439d24a35e968",
+  "checks": {
+    "catalog_expected_lessons": 899,
+    "course_reported_lessons": 899,
+    "index_lessons": 899,
+    "full_lessons": 899,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 23,
+    "course_reported_modules": 23,
+    "modules": 23,
+    "course_reported_sources": 842,
+    "sources": 842
+  }
+}

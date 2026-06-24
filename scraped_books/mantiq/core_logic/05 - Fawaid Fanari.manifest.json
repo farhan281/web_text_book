@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:55:41Z",
+  "source_app_url": "https://mantiq-courses.pages.dev/fawaid_fanari/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/mantiq/core_logic/05 - Fawaid Fanari",
+  "output_bytes": 2418738,
+  "output_sha256": "b15cc32c38108c91027c695cc0d94481f64f92f6249bf6bdd8ab5f58a56bfc7e",
+  "checks": {
+    "catalog_expected_lessons": 319,
+    "course_reported_lessons": 319,
+    "index_lessons": 319,
+    "full_lessons": 319,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 17,
+    "course_reported_modules": 17,
+    "modules": 17,
+    "course_reported_sources": 259,
+    "sources": 259
+  }
+}

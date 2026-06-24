@@ -1,0 +1,666 @@
+← Prev
+p. 474
+Module 20 · Lesson 1
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+The Liar Paradox and al-Dawwani's Solution
+Author presents the liar paradox and gives al-Dawwani's solution based on the nature of khabar.
+
+Learning Objective
+By the end of this lesson, you will be able to explain al-Dawwani's solution to the liar paradox and identify why self-referential statements violate the truth conditions of a khabar.
+
+Core Idea
+A khabar cannot report about itself; truth requires an independent reality.
+
+The liar paradox is one of the most famous logical puzzles, and Islamic logicians had their own version called 'the deaf root' (jadhr asamm). In this passage, the author presents the paradox and then offers a solution from the scholar al-Dawwani. The key to the solution lies in understanding what a khabar (declarative statement) really is: it is a report (hikaya) about a real state of affairs. When a statement refers to itself, it loses the external standard needed for truth or falsehood. Let's walk through the paradox and see how al-Dawwani resolves it.
+
+Guided Path
+1
+Understand the paradox formulation
+The paradox arises when someone says, 'All my statements today are false,' and says nothing else that day. If this statement is true, then its content ('all my statements are false') applies to itself, forcing it to be false. If it is false, then its negation holds, making it true. Thus, it seems both true and false at once.
+This is a classic self-reference paradox.
+2
+Trace the two conditional branches
+The author uses conditional reasoning: if true → false, if false → true. This shows that the same statement leads to contradiction under standard truth assignments. Identify how each branch works and why it fails to give a consistent truth value.
+Each branch forces the opposite truth value due to self-application.
+3
+Understand al-Dawwani's definition of khabar
+Al-Dawwani defines a khabar as a report (hikaya) about a real ratio (nisba waqi'iyya). A report is true if it matches that ratio, false if it does not. This definition presupposes that the ratio is distinct from the report itself.
+The report and the reported-about must be different.
+4
+Apply the definition to resolve the paradox
+In the liar statement, the report is about itself: the ratio it reports is its own content. But a report cannot be a report about its own ratio because there is no independent external reality to match. Therefore, the statement is not a genuine khabar—it is a meaningless self-reference. The paradox is dissolved, not solved within standard truth conditions.
+This is why al-Dawwani says that 'a khabar cannot be a report about its own ratio.'
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هذا ويذكرون في المقامِ مُغالطةً مشهورةً بالجذر الأصم، وهي أنَّه لو قال قائل : كلُّ كلامي في هذا اليوم كاذب، ولم يقل في هذا اليوم غير هذا الكلام؛ لزمَ أنْ يكون ذلكَ الكلام صادقاً وكاذباً معاً ؛ لأنَّهُ إنْ كانَ صادقاً في نفسِ الأمرِ ؛ لزمَ أنْ يكون المحمول ـ وهو كاذب - صادقاً على موضوعِه ، وهو كلامي، فيلزم أن يكونَ کلامه كاذباً ، وليس كلامُهُ إلَّا : كلامي كاذب، فيلزمُ أنْ يكونَ كاذباً ، وقد فرضَ أَنَّهُ صادق، وإنْ كانَ كاذباً في نفس الأمرِ ؛ لزمَ أنْ لا يصدق هذا المحمول على موضوعه، وهو كلامي فيلزم أن يكون هذا الكلام صادقاً لوجوبِ اتّصافِ الكلام الخبري بالصدقِ أو الكذب، وامتناعِ خُلوِّهِ عنهُمَا مَعَ أَنَّهُ فرض كونه كاذباً، وأجابَ النَّاسُ عنها بأجوبة كثيرة، منها ما أجاب به العلامةُ الدَّوَّاني في رسالةٍ لهُ منوطة بهذهِ المغالطة، وهو أنَّ حقيقة الخبر الحكاية عن النِّسبة الواقعيَّةِ؛ إما على الوجهِ المطابق: فيكون صادقاً، أو على الوجه الغيرِ المطابق: فيكون كاذباً، فلا يمكن أن يكون حكايةٌ عن النّسبة التي هِيَ مَضمونُهُ، وتوضيحهُ أَنَّ مَرجِعَ احتمالِ الصَّدقِ والكذب إلى إمكانِ اجتماعِ النّسبة الذهنيَّةِ مع ثبوتِهَا أو لا ثبوتِهَا، وَلَا شَكٍّ أنَّهُ إذا كانت حكايةً عن نفسها باعتبار وجودِهَا في الذهن كَما في قولك : هذا الكلام صادق أو كاذب؛ مُشيراً إلى نفس هذا الكلام، وكانت هي بعينها الواقع المحكي عنه؛ فلا
+And here they mention a famous fallacy known as 'the deaf root' (jadhr asamm), which is that if someone says: 'All my statements today are false,' and he says nothing else today, then that statement would be both true and false simultaneously. Because if it is true in actual fact, then the predicate—which is 'false'—applies to its subject, which is 'my statements', so his statement must be false, and his statement is only 'my statements are false', so it must be false, but it was assumed true. And if it is false in actual fact, then this predicate does not apply to its subject, which is 'my statements', so this statement must be true, due to the necessity of a declarative statement being either true or false and the impossibility of being free from both, despite its being assumed false. People have answered it with many answers, among which is what the scholar al-Dawwani answered in a treatise of his tied to this fallacy: that the reality of a statement (khabar) is a report (hikaya) about a real ratio (nisba waqi'iyya); either in a matching manner, then it is true, or in a non-matching manner, then it is false. So it cannot be a report about the ratio that is its own content. Its clarification is that the basis of the possibility of truth and falsity is the possibility of the mental ratio coinciding with its actuality or not. There is no doubt that if it is a report about itself by virtue of its existence in the mind, as in your saying 'This statement is true' or 'false,' pointing to this same statement, and it is itself the reality reported about, then...
+Source pages p. 474
+
+Commentary
+This passage presents the famous liar paradox (jadhr asamm) and offers a solution from al-Dawwani. The author first describes the paradox: suppose someone says 'All my statements today are false' and says nothing else. If the statement is true, then its predicate (kadhib) applies to its subject (kalami), so it must be false. Thus, if true, it is false. If it is false, then the predicate does not apply, so it must be true. Therefore, it is both true and false. This is a classic antinomy. The author then notes that many responses exist. He selects al-Dawwani's solution: the essence of a khabar is a hikaya (report) about a real ratio (nisba waqi'iyya). This report either matches reality (true) or does not (false). A report cannot be a report about its own content. The reasoning is that the possibility of truth/falsity depends on the mental ratio's correspondence or non-correspondence with reality. If a statement reports about itself (e.g., 'This statement is false'), then the mental ratio (the content of the statement) is identical to the reality being reported about. There is no independent external reality to serve as the standard of correspondence. Consequently, the statement cannot be evaluated as true or false in the normal sense; the paradox arises from a confusion about the nature of hikaya. The text cuts off before completing the explanation, but the core point is that self-reference undermines the necessary condition of truth/falsity because the hikaya must be distinct from the mahki 'anhu.
+
+Key Terms
+الجذر الأصم
+مغالطة
+حكاية
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Dawwani's solution, why does the liar paradox arise?
+A) Because the statement is too long
+B) Because a khabar cannot be a report about its own ratio
+C) Because the statement uses the word 'false'
+D) Because the speaker is lying
+
+Key Takeaway
+The liar paradox is resolved by recognizing that a khabar must report about an independent reality, not about itself.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Identify a self-referential statement in Islamic theology that would violate the hikaya condition. For example, consider the statement 'The Qur'an is created' if it is taken as a report about itself. Explain why it would be problematic according to al-Dawwani's solution.
+?
+Task 2: Construct a new version of the liar paradox using an Islamic example (e.g., 'All my fatwas today are invalid') and show how al-Dawwani's solution resolves the contradiction.
+
+Pages p. 474 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 474
+Module 20 · Lesson 2
+Next →
+Sophistry and Fallacies
+intermediate
+10 min
+The Liar Paradox and Its Resolution by al-Dawani
+Presents the liar paradox and al-Dawani's solution.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the liar paradox (al-jidhr al-asamm) and explain al-Dawani's solution that a khabar cannot be about itself.
+
+Core Idea
+Self-referential statements cannot be genuine khabar because they represent no external reality.
+
+In Islamic logic, the liar paradox (mughalatat al-jidhr al-asamm) has been a classic challenge. If someone says 'All my speech today is false' and says nothing else, a contradiction arises. The great scholar al-Dawani resolved this by analyzing the nature of declarative statements.
+
+Guided Path
+1
+Identify the paradox structure
+The statement 'All my speech today is false' leads to a contradiction if it is the only speech. If true, then it must be false; if false, then it must be true. This is the liar paradox.
+2
+Understand the core issue
+The paradox arises because the statement refers to itself. Al-Dawani points out that a genuine khabar must represent an external relation, not itself.
+3
+Apply al-Dawani's solution
+Al-Dawani argues that a self-referential statement cannot be a khabar because it would require the mental relation to agree with its own non-existence, which is impossible. Instead, such a statement is either meaningless or a performative (insha').
+4
+Compare with alternative solutions
+The passage mentions other responses, including splitting the statement into two (e.g., 'my speech is false, false'). Al-Dawani also offers that solution, which allows for one part true and the other false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هذا ويذكرون في المقام مُغالطةً مشهورة بالجذر الأصم، وهي أنَّه لو قال قائل : كلُّ كلامي في هذا اليوم كاذب، ولم يقل في هذا اليوم غير هذا الكلام؛ لزمَ أنْ يكون ذلكَ الكلام صادقاً وكاذباً معاً ; لأنَّهُ إنْ كانَ صادقاً في نفسِ الأمرِ ; لزمَ أنْ يكون المحمول ـ وهو كاذب - صادقاً على موضوعِه ، وهو كلامي، فيلزم أن يكونَ كلامه كاذباً ، وليس كلامُهُ إلَّا : كلامي كاذب، فيلزمُ أنْ يكونَ كاذباً ، وقد فرضَ أَنَّهُ صادق، وإنْ كانَ كاذباً في نفس الأمرِ ; لزمَ أنْ لا يصدق هذا المحمول على موضوعه، وهو كلامي فيلزم أن يكون هذا الكلام صادقاً لوجوبِ اتّصافِ الكلام الخبري بالصدقِ أو الكذب، وامتناعِ خُلوِّهِ عنهُمَا مَعَ أَنَّهُ فرض كونه كاذباً، وأجابَ النَّاسُ عنها بأجوبة كثيرة، منها ما أجاب به العلامةُ الدَّوَّاني في رسالةٍ لهُ منوطة بهذهِ المغالطة، وهو أنَّ حقيقة الخبر الحكاية عن النِّسبة الواقعيَّةِ؛ إما على الوجهِ المطابق: فيكون صادقاً، أو على الوجه الغيرِ المطابق: فيكون كاذباً، فلا يمكن أن يكون حكايةٌ عن النّسبة التي هِيَ مَضمونُهُ، وتوضيحهُ أَنَّ مَرجِعَ احتمالِ الصَّدقِ والكذب إلى إمكانِ اجتماعِ النّسبة الذهنيَّةِ مع ثبوتِهَا أو لا ،ثبوتِهَا، وَلَا شَكٍّ أنَّهُ إذا كانت حكايةً عن نفسها باعتبار وجودِهَا في الذهن كَما في قولك : هذا الكلام صادق أو كاذب؛ مُشيراً إلى نفس هذا الكلام، وكانت هي بعينها الواقع المحكي عنه؛ فلا يمكن اجتماعها مع انتفائها؛ ضرورةً امتناع اجتماع الشَّيء مع عدمِهِ، ولهذا لو قال : هذا الكلام صادقٌ، مُشيراً إلى نفس هذا الكلام لا يكون خبراً، بلْ لَا يكونُ لهُ محصل، فإنَّ النِّسبةَ الَّتِي هِيَ مَضمونه لا تنتهي إلى المحاكاة عنها في الواقع، بل تدور على نفسها، ولعلَّ السِّرَّ في ذلك أنَّ التَّصديق هو الصُّورة الذهنيَّةُ الَّتي يُقصد بها المحاكاة عنها في الواقع ; فلا تكون حكاية عن نفسها، إِذْ مُحاكاةُ الشَّيء عن نفسِهِ غيرُ مَعقول ولأجل ذلكَ ; صارَ احتمال المطابقة واللامطابقة من خواص التصديقاتِ، فإِنَّ الصُّورة ما لم يُقصد بها المحاكاة عن أمر واقع; لا تجري فيها التَّخطئة والتغليظُ، قاله الخلخالي ، وقال مير زاهد: المحكي عنه هو مصداق القضيَّةِ، ومصداقها يلزم أن يتقدَّمَ عليها ، فلا يتصوَّرُ أن يكون نفسها، وأيضاً لا يمكنُ أنْ يحكم في هذا القول على نفسِهِ ; لأنَّ المحكوم عليه يجبُ أنْ يكونَ مُستقلاً بالمفهوميَّةِ ومُتحققاً قبل الحكم، وهذا القولُ ; لاشتماله على النِّسبةِ غيرُ مُستقل بالمفهومية، وليس له تحقق إلا بعد الحكم، فهذا القولُ على ذلكَ التَّعقُلِ لا يكونُ لهُ معنى مُحصَّلٌ، فلا يكون خبراً وَلَا إنشاء، ولو كانَ على فرض المحال كلاماً تاما ; لكان إنشاء في صورةِ الخبر، والمنحصر في الأمر والنهي والاستفهام وغيرها مِنَ الأقسام هو الإنشاءُ الذي ليس في صورة الخبر، وأجاب مير صدر عصري الجلالِ الدَّوَّاني بأنَّ هذا القول في قوَّةِ كلامي كاذب كاذب، فهناك كلامان: أحدهما جزء، والآخَرُ كُلَّ، وَلَا استحالة في كون أحدِ الكلامين صادقاً والآخر كاذباً، وقد وقعَ بينَ الجلالِ الدَّوَّاني وبينَهُ مُناظرات في صحة جوابَيْهما ومجادلات فيهما
+Also, they mention in this context a famous fallacy called the solid root (al-jidhr al-asamm). It is that if someone says: 'All my speech today is false,' and he said nothing else today, then it follows that that speech is both true and false simultaneously. Because if it is true in reality, then the predicate—which is 'false'—must be true of its subject, which is 'my speech,' so it follows that his speech is false, and his speech is only 'my speech is false,' so it follows that it is false, while it was assumed true. And if it is false in reality, then this predicate cannot be true of its subject, which is 'my speech,' so it follows that this speech is true, because a declarative speech must be characterized by truth or falsehood, and cannot be devoid of both, while it was assumed false. The people gave many answers to this, among them the answer of Allama al-Dawani in a treatise related to this fallacy. He said: The essence of a declarative statement (khabar) is the story (hikaya) about the actual relation; either in a conforming manner, then it is true, or in a non-conforming manner, then it is false. So it cannot be a story about the relation that is its own content. Its clarification is that the basis of the possibility of truth and falsehood lies in the possibility of the mental relation agreeing with its actual existence or not. There is no doubt that if it is a story about itself by virtue of its existence in the mind, as in your saying: 'This speech is true or false,' pointing to that same speech, and it itself is the actual reality told about, then it cannot agree with its own non-existence, because it is impossible for a thing to agree with its non-existence. Therefore, if someone says: 'This speech is true,' pointing to that same speech, it is not a declarative statement (khabar); rather, it has no content. For the relation which is its content does not terminate in representing something in reality, but rather revolves upon itself. Perhaps the secret of that is that assent (tasdiq) is a mental form intended to represent something in reality; so it cannot be a story about itself, for the representation of a thing about itself is inconceivable. Because of this, the possibility of conformity and non-conformity became properties of assents. For if the form is not intended to represent something real, then error and correction do not apply to it. This was stated by al-Khalikhali. Mir Zahid said: The thing told about is the referent of the proposition, and its referent must precede it, so it cannot be imagined to be itself. Also, one cannot judge in this statement about itself, because the subject of judgment must be independent in concept and exist before the judgment. This statement, because it includes the relation, is not independent in concept and has no existence except after the judgment. So this statement, in that consideration, has no meaningful content; it is neither declarative nor performative. If, by impossible assumption, it were a complete utterance, it would be a performative (insha') in the form of a declarative. The performative that is confined to command, prohibition, interrogation and other types is the performative that is not in the form of declarative. Mir Sadr 'Asri al-Jalal al-Dawani answered that this statement is equivalent to 'my speech is false, false,' so there are two statements: one part and the other the whole. There is no impossibility in one of the two statements being true and the other false. There occurred between al-Jalal al-Dawani and him debates regarding the soundness of their respective answers and disputes about them.
+Source pages p. 474
+
+Commentary
+This passage presents the famous liar paradox (mughalatat al-jidhr al-asamm) and its analysis by several scholars, focusing on the answer of al-Dawani. The paradox is: If someone says 'All my speech today is false' and says nothing else, then if the statement is true, what it says must be the case, so it is false; if it is false, then its negation holds, so it is true. Thus it is both true and false, a contradiction. Al-Dawani's solution: The essence of a declarative statement is to represent (hikaya) an actual relation. A statement cannot represent itself because that would require the mental relation to agree with its own non-existence, which is impossible. A self-referential statement is not a genuine khabar; it has no meaningful content because the intended representation loops back on itself. Al-Khalikhali adds that truth and falsehood are properties of assents meant to represent reality; if no representation is intended, they do not apply. Mir Zahid explains that the subject of a judgment must be independent and precede the judgment, but a self-referential statement lacks independence. If considered a complete utterance, it would be a performative (insha') disguised as a declarative. Finally, al-Dawani offers another answer: the statement is equivalent to 'my speech is false, false,' which splits into two statements, one part and the whole, allowing for one true and one false. This passage is critical for understanding the conditions of declarative statements and the limits of self-reference in Islamic logic. For example, the statement 'This very statement is false' cannot be a valid khabar because it cannot represent an external reality; it would be like 'Wine is prohibited' which is a valid khabar because it represents a real divine ruling.
+
+Key Terms
+مغالطة الجذر الأصم (mughalatat al-jidhr al-asamm): The liar paradox; a self-referential statement that leads to contradiction. [Note: Also known as the 'solid root' fallacy in the tradition; equivalent to modern liar paradox.]
+خبر (khabar): A declarative statement that represents an actual relation and can be true or false. [Note: Standard; here it is contrasted with insha' (performative).]
+تصديق (tasdiq): The mental form (sura dhihniyya) intended to represent reality; the basis of true/false judgments. [Note: Al-Dawani and others emphasize that tasdiq cannot be about itself.]
+إنشاء (insha'): A performative utterance that does not aim to represent reality, e.g., command, prohibition, question. [Note: No shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the basis of al-Dawani's solution to the liar paradox?
+A) The statement is actually two statements
+B) A khabar cannot be a story about itself
+C) Truth is determined by external relation only
+D) The statement is a performative in disguise
+
+Key Takeaway
+The liar paradox is resolved by recognizing that a genuine khabar must represent an external relation, not itself.
+
+How This Lesson Applies — to MY Life?
+?
+Analyse the statement 'This very fatwa is incorrect' using al-Dawani's criterion. Is it a genuine khabar? Explain.
+?
+Construct a valid khabar from Islamic jurisprudence and show how it represents an actual relation.
+
+Pages p. 474 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 474
+Module 20 · Lesson 3
+Next →
+Sophistry and Fallacies
+intermediate
+8 min
+Conditions for a Valid Declarative Statement (Khabar)
+Focuses on the definition and conditions of khabar.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the necessary conditions for a statement to be a genuine khabar and distinguish it from performatives (insha').
+
+Core Idea
+A khabar must represent an actual relation external to itself; self-reference negates its declarative nature.
+
+The liar paradox teaches us that not every sentence that looks like a statement of fact qualifies as a khabar. Al-Dawani and later logicians established that a khabar must be about something outside itself, and the subject of judgment must be independent.
+
+Guided Path
+1
+Distinguish khabar from insha'
+A khabar aims to represent reality and can be true/false; an insha' (command, question) does not.
+2
+Identify the condition of external reference
+The predicate in a khabar must apply to a subject that exists independently. A self-referential statement fails because the subject is the statement itself.
+3
+Understand the role of tasdiq
+Assent (tasdiq) is a mental form intended to represent reality; it cannot represent itself.
+4
+Apply Mir Zahid's condition
+The subject must be independent and conceptually prior.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+هذا ويذكرون في المقام مُغالطةً مشهورة بالجذر الأصم، وهي أنَّه لو قال قائل : كلُّ كلامي في هذا اليوم كاذب، ولم يقل في هذا اليوم غير هذا الكلام؛ لزمَ أنْ يكون ذلكَ الكلام صادقاً وكاذباً معاً ; لأنَّهُ إنْ كانَ صادقاً في نفسِ الأمرِ ; لزمَ أنْ يكون المحمول ـ وهو كاذب - صادقاً على موضوعِه ، وهو كلامي، فيلزم أن يكونَ كلامه كاذباً ، وليس كلامُهُ إلَّا : كلامي كاذب، فيلزمُ أنْ يكونَ كاذباً ، وقد فرضَ أَنَّهُ صادق، وإنْ كانَ كاذباً في نفس الأمرِ ; لزمَ أنْ لا يصدق هذا المحمول على موضوعه، وهو كلامي فيلزم أن يكون هذا الكلام صادقاً لوجوبِ اتّصافِ الكلام الخبري بالصدقِ أو الكذب، وامتناعِ خُلوِّهِ عنهُمَا مَعَ أَنَّهُ فرض كونه كاذباً، وأجابَ النَّاسُ عنها بأجوبة كثيرة، منها ما أجاب به العلامةُ الدَّوَّاني في رسالةٍ لهُ منوطة بهذهِ المغالطة، وهو أنَّ حقيقة الخبر الحكاية عن النِّسبة الواقعيَّةِ؛ إما على الوجهِ المطابق: فيكون صادقاً، أو على الوجه الغيرِ المطابق: فيكون كاذباً، فلا يمكن أن يكون حكايةٌ عن النّسبة التي هِيَ مَضمونُهُ، وتوضيحهُ أَنَّ مَرجِعَ احتمالِ الصَّدقِ والكذب إلى إمكانِ اجتماعِ النّسبة الذهنيَّةِ مع ثبوتِهَا أو لا ،ثبوتِهَا، وَلَا شَكٍّ أنَّهُ إذا كانت حكايةً عن نفسها باعتبار وجودِهَا في الذهن كَما في قولك : هذا الكلام صادق أو كاذب؛ مُشيراً إلى نفس هذا الكلام، وكانت هي بعينها الواقع المحكي عنه؛ فلا يمكن اجتماعها مع انتفائها؛ ضرورةً امتناع اجتماع الشَّيء مع عدمِهِ، ولهذا لو قال : هذا الكلام صادقٌ، مُشيراً إلى نفس هذا الكلام لا يكون خبراً، بلْ لَا يكونُ لهُ محصل، فإنَّ النِّسبةَ الَّتِي هِيَ مَضمونه لا تنتهي إلى المحاكاة عنها في الواقع، بل تدور على نفسها، ولعلَّ السِّرَّ في ذلك أنَّ التَّصديق هو الصُّورة الذهنيَّةُ الَّتي يُقصد بها المحاكاة عنها في الواقع ; فلا تكون حكاية عن نفسها، إِذْ مُحاكاةُ الشَّيء عن نفسِهِ غيرُ مَعقول ولأجل ذلكَ ; صارَ احتمال المطابقة واللامطابقة من خواص التصديقاتِ، فإِنَّ الصُّورة ما لم يُقصد بها المحاكاة عن أمر واقع; لا تجري فيها التَّخطئة والتغليظُ، قاله الخلخالي ، وقال مير زاهد: المحكي عنه هو مصداق القضيَّةِ، ومصداقها يلزم أن يتقدَّمَ عليها ، فلا يتصوَّرُ أن يكون نفسها، وأيضاً لا يمكنُ أنْ يحكم في هذا القول على نفسِهِ ; لأنَّ المحكوم عليه يجبُ أنْ يكونَ مُستقلاً بالمفهوميَّةِ ومُتحققاً قبل الحكم، وهذا القولُ ; لاشتماله على النِّسبةِ غيرُ مُستقل بالمفهومية، وليس له تحقق إلا بعد الحكم، فهذا القولُ على ذلكَ التَّعقُلِ لا يكونُ لهُ معنى مُحصَّلٌ، فلا يكون خبراً وَلَا إنشاء، ولو كانَ على فرض المحال كلاماً تاما ; لكان إنشاء في صورةِ الخبر، والمنحصر في الأمر والنهي والاستفهام وغيرها مِنَ الأقسام هو الإنشاءُ الذي ليس في صورة الخبر، وأجاب مير صدر عصري الجلالِ الدَّوَّاني بأنَّ هذا القول في قوَّةِ كلامي كاذب كاذب، فهناك كلامان: أحدهما جزء، والآخَرُ كُلَّ، وَلَا استحالة في كون أحدِ الكلامين صادقاً والآخر كاذباً، وقد وقعَ بينَ الجلالِ الدَّوَّاني وبينَهُ مُناظرات في صحة جوابَيْهما ومجادلات فيهما
+Also, they mention in this context a famous fallacy called the solid root (al-jidhr al-asamm). It is that if someone says: 'All my speech today is false,' and he said nothing else today, then it follows that that speech is both true and false simultaneously. Because if it is true in reality, then the predicate—which is 'false'—must be true of its subject, which is 'my speech,' so it follows that his speech is false, and his speech is only 'my speech is false,' so it follows that it is false, while it was assumed true. And if it is false in reality, then this predicate cannot be true of its subject, which is 'my speech,' so it follows that this speech is true, because a declarative speech must be characterized by truth or falsehood, and cannot be devoid of both, while it was assumed false. The people gave many answers to this, among them the answer of Allama al-Dawani in a treatise related to this fallacy. He said: The essence of a declarative statement (khabar) is the story (hikaya) about the actual relation; either in a conforming manner, then it is true, or in a non-conforming manner, then it is false. So it cannot be a story about the relation that is its own content. Its clarification is that the basis of the possibility of truth and falsehood lies in the possibility of the mental relation agreeing with its actual existence or not. There is no doubt that if it is a story about itself by virtue of its existence in the mind, as in your saying: 'This speech is true or false,' pointing to that same speech, and it itself is the actual reality told about, then it cannot agree with its own non-existence, because it is impossible for a thing to agree with its non-existence. Therefore, if someone says: 'This speech is true,' pointing to that same speech, it is not a declarative statement (khabar); rather, it has no content. For the relation which is its content does not terminate in representing something in reality, but rather revolves upon itself. Perhaps the secret of that is that assent (tasdiq) is a mental form intended to represent something in reality; so it cannot be a story about itself, for the representation of a thing about itself is inconceivable. Because of this, the possibility of conformity and non-conformity became properties of assents. For if the form is not intended to represent something real, then error and correction do not apply to it. This was stated by al-Khalikhali. Mir Zahid said: The thing told about is the referent of the proposition, and its referent must precede it, so it cannot be imagined to be itself. Also, one cannot judge in this statement about itself, because the subject of judgment must be independent in concept and exist before the judgment. This statement, because it includes the relation, is not independent in concept and has no existence except after the judgment. So this statement, in that consideration, has no meaningful content; it is neither declarative nor performative. If, by impossible assumption, it were a complete utterance, it would be a performative (insha') in the form of a declarative. The performative that is confined to command, prohibition, interrogation and other types is the performative that is not in the form of declarative. Mir Sadr 'Asri al-Jalal al-Dawani answered that this statement is equivalent to 'my speech is false, false,' so there are two statements: one part and the other the whole. There is no impossibility in one of the two statements being true and the other false. There occurred between al-Jalal al-Dawani and him debates regarding the soundness of their respective answers and disputes about them.
+Source pages p. 474
+
+Commentary
+This passage presents the famous liar paradox (mughalatat al-jidhr al-asamm) and its analysis by several scholars, focusing on the answer of al-Dawani. The paradox is: If someone says 'All my speech today is false' and says nothing else, then if the statement is true, what it says must be the case, so it is false; if it is false, then its negation holds, so it is true. Thus it is both true and false, a contradiction. Al-Dawani's solution: The essence of a declarative statement is to represent (hikaya) an actual relation. A statement cannot represent itself because that would require the mental relation to agree with its own non-existence, which is impossible. A self-referential statement is not a genuine khabar; it has no meaningful content because the intended representation loops back on itself. Al-Khalikhali adds that truth and falsehood are properties of assents meant to represent reality; if no representation is intended, they do not apply. Mir Zahid explains that the subject of a judgment must be independent and precede the judgment, but a self-referential statement lacks independence. If considered a complete utterance, it would be a performative (insha') disguised as a declarative. Finally, al-Dawani offers another answer: the statement is equivalent to 'my speech is false, false,' which splits into two statements, one part and the whole, allowing for one true and one false. This passage is critical for understanding the conditions of declarative statements and the limits of self-reference in Islamic logic. For example, the statement 'This very statement is false' cannot be a valid khabar because it cannot represent an external reality; it would be like 'Wine is prohibited' which is a valid khabar because it represents a real divine ruling.
+
+Key Terms
+مغالطة الجذر الأصم (mughalatat al-jidhr al-asamm): The liar paradox; a self-referential statement that leads to contradiction. [Note: Also known as the 'solid root' fallacy in the tradition; equivalent to modern liar paradox.]
+خبر (khabar): A declarative statement that represents an actual relation and can be true or false. [Note: Standard; here it is contrasted with insha' (performative).]
+تصديق (tasdiq): The mental form (sura dhihniyya) intended to represent reality; the basis of true/false judgments. [Note: Al-Dawani and others emphasize that tasdiq cannot be about itself.]
+إنشاء (insha'): A performative utterance that does not aim to represent reality, e.g., command, prohibition, question. [Note: No shift.]
+
+Key Terms from Source Passage
+
+Checkpoint
+According to al-Dawani, what condition does a self-referential statement fail?
+A) It is not a complete sentence
+B) It does not represent an actual relation external to itself
+C) It contains a contradiction
+D) It is not in Arabic
+
+Key Takeaway
+A valid khabar must represent an external reality and its subject must be independent; self-reference violates these conditions.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following as khabar or insha': 'Seek knowledge', 'Knowledge is obligatory', 'This command is invalid' (self-referential). Explain using the conditions.
+?
+Identify which condition of khabar is violated in the statement 'This very proposition is false' using al-Dawani's definition.
+
+Pages p. 474 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 892
+Module 20 · Lesson 4
+Next →
+Sophistry and Fallacies
+intermediate
+5 min
+Definition of Estimative Propositions (Wahmiyyat)
+Definition of wahmiyyat and explanation of their falsity in non-sensibles.
+
+Learning Objective
+By the end of this lesson, you will be able to identify a wahmiyya proposition and explain why it is false when applied beyond sensory experience.
+
+Core Idea
+Wahmiyyat are false only when the wahm exceeds its domain; in sensibles, the wahm is truthful.
+
+In this passage, the author defines one of the two materials of sophistical syllogisms: estimative propositions (al-wahmiyyat). Understanding what makes a proposition wahmiyya is crucial because these propositions appear convincing but are logically invalid. The commentary clarifies an important nuance: the estimative faculty (wahm) is not always mistaken; it is only false when it extends its judgments beyond the domain of sensible objects.
+
+Guided Path
+1
+Identify the term being defined
+Locate 'الوهميات' in the Arabic and note that it is part of the classification of sophistical syllogisms, which consist of two types: wahmiyyat and mushabbihat.
+2
+Extract the genus and differentia
+The definition states: 'فهي قضايا كاذبة، يحكم بها الوهم في غير المحسوسات'. The genus is 'false propositions' and the differentia is 'judged by wahm in non-sensibles'.
+3
+Understand the restriction
+The commentator explicitly states why the restriction 'في غير المحسوسات' is added: because the wahm is truthful in sensibles. Without this restriction, one might mistakenly think all wahm judgments are false.
+4
+Test the example
+The example 'كل موجود مشار إليه' (every existent is sensorily pointed to) is false because God exists but is not sensorily pointed to. Verify that this example fits the definition: it is a false proposition, judged by wahm, in a non-sensible matter (metaphysics).
+5
+Connect to sophistical syllogisms
+Recognize that wahmiyyat are one component of al-qiyas al-safsati. They deceive by mimicking certainty derived from the wahm's natural authority, but they fail in validity when applied to pure intelligibles.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وَإِمَّا سَفْسَطِيٌّ يَتَأَلَّفُ مِنَ : الْوَهْمِيَّاتِ، وَالْمُشَبَّهَاتِ. أمَّا الوهميَّاتُ : فهي قضايا كاذبةٌ ، يحكم بها الوهم في غير المحسوسات كقولنا : كلُّ موجود مشار إليه. قوله: فِي غَيْرِ الْمَحْسُوْسَاتِ إِنَّما قُيّد بغير المحسوسات؛ لأنَّ الوهم لو حكم في المحسوسات؛ لم يكن كاذباً كما لو حكم بحُسنِ الحسناء وقبح الشَّوهاء، بخلافِ ما لو حكم في المعقولاتِ الصِّرفةِ ؛ فإنَّه يكون كاذباً . قوله: كُلُّ مَوْجُوْدٍ مُشَارٌ إِلَيْهِ أي: إشارةً حسيَّةً، ولعلَّ الكذب في هذه القضيَّةَ أنَّ اللهَ مَوجودُ وَلا يشار إليه إشارةً حسيَّة.
+And as for the sophistical [syllogism], it is composed of: estimative propositions and specious propositions. As for estimative propositions: they are false propositions, judged by the estimative faculty in non-sensibles, like our saying: 'Every existent is pointed to.' His statement: 'in non-sensibles' — it is only restricted to non-sensibles because if the estimative faculty judged in sensibles, it would not be false, just as when it judges the beauty of a beautiful woman and the ugliness of an ugly woman, contrary to if it judges in pure intelligibles, for then it would be false. His statement: 'Every existent is pointed to' — meaning sensory pointing, and perhaps the falsehood in this proposition is that God is existent but is not pointed to sensorily.
+Source pages p. 892
+
+Commentary
+This passage defines the first material of the sophistical syllogism: estimative propositions (al-wahmiyyat). The author begins by stating that the sophistical syllogism is composed of two types: wahmiyyat and mushabbihat (specious propositions). Then he defines wahmiyyat as false propositions that the estimative faculty (wahm) judges in matters outside the realm of the senses. The example given is 'Every existent is pointed to'—a claim that seems plausible to the wahm but is false because God exists yet cannot be pointed to sensorily. The commentary then explains why the restriction 'in non-sensibles' is crucial: the wahm, being a bodily faculty that derives its judgments from sensibles, is truthful when judging within the domain of sensibles (e.g., judging a beautiful woman as beautiful), but when it ventures into pure intelligibles (e.g., metaphysical matters), it becomes false. This clarification guards against the misconception that all wahm judgments are false; in fact, they are reliable in their proper sphere. The falsehood arises precisely from misapplication. The example reinforces the point: the proposition 'every existent is pointed to' is false because of the case of Allah, who is existent but not sensorily pointed to. Thus, wahmiyyat are effective in sophistical debates because they mimic certainty due to the wahm's natural authority over the soul, yet they are logically invalid.
+
+Key Terms
+الوهميات
+الوهم
+القياس السفسطي
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the proposition 'Every existent is pointed to' considered a wahmiyya?
+A) Because it is based on sensory experience.
+B) Because it is a primary proposition (awwaliyya).
+C) Because the wahm judges it in a non-sensible domain, and it is false.
+D) Because it is a sophistical trick with no basis.
+
+Key Takeaway
+Estimative propositions are false only when the wahm oversteps its domain; within the sensory realm, the wahm is truthful.
+
+How This Lesson Applies — to MY Life?
+?
+Task 1: Identify whether the following proposition is a wahmiyya: 'Everything that exists is within time.' Explain using the definition from this lesson. (Hint: Consider the case of Allah, who is eternal and not within time.)
+?
+Task 2: Find another example of a wahmiyya from Islamic theology (e.g., 'God is visible to the eyes', 'God changes') and test it against the definition: is it false? Is it judged by wahm in non-sensibles?
+
+Pages p. 892 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 892
+Module 20 · Lesson 5
+Next →
+Sophistry and Fallacies
+intermediate
+8 min
+Understanding Wahmiyyat: The Deceptive Premises of Sophistical Syllogism
+Definition of sophistical syllogism and wahmiyyat
+
+Learning Objective
+By the end of this lesson, you will be able to identify wahmiyyat (imaginary propositions) and explain why they are false only in non-sensible matters, distinguishing them from valid sensory judgments.
+
+Core Idea
+The wahm is truthful in sensibles but misleads in intelligibles—so wahmiyyat are false only when they exceed their domain.
+
+In this lesson, we examine the definition of the sophistical syllogism and one of its components: wahmiyyat. The text explains that the estimative faculty (wahm) produces false propositions when it judges in non-sensible matters, and it provides examples to clarify when its judgments are trustworthy and when they are not. Understanding this distinction is crucial for evaluating arguments in Islamic theology and jurisprudence.
+
+Guided Path
+1
+Identify the definiendum and genus
+Find what is being defined (the sophistical syllogism and wahmiyyat) and the broad category they belong to (syllogism composed of deceptive premises, and false propositions respectively).
+2
+Extract the differentia for wahmiyyat
+Note the unique characteristic: wahmiyyat are false propositions that the wahm judges in non-sensible matters. The differentia is the combination of the faculty (wahm) and the domain (non-sensibles).
+3
+Analyze the domain condition
+Understand why the author restricts wahmiyyat to non-sensibles: the wahm is a bodily faculty derived from sense perception, so it is truthful in sensory matters but false in purely intelligible matters.
+The example of judging beauty in a beautiful woman shows truthfulness in sensibles.
+4
+Examine the example of a wahmiyya
+Consider the proposition 'Every existent is pointable.' This is a wahmiyya because the wahm extends the sensory notion of 'pointing' to all existents, including God, which is false in the intelligible domain.
+The falsehood is that God exists but is not sensibly pointable.
+5
+Trace the wahm's conflict with intellect
+Observe how the wahm can agree with the intellect on premises but dispute the conclusion, as in the corpse example: the premises are true, but the wahm incorrectly judges that a corpse is to be feared.
+This shows that wahmiyyat can be mistaken for self-evident truths without the intellect's correction.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+القياسُ السَّفْسَطِيُّ] (وَإِمَّا سَفْسَطِيٌّ يَتَأَلَّفُ مِنَ : الوَهْمِيَّاتِ، وَالْمُشَبَّهَاتِ) . أمَّا الوهميَّاتُ : فهي قضايا كاذبةٌ ، يحكم بها الوهم في غير المحسوسات كقولنا : كلُّ موجود مشار إليه . (قَوْلُهُ : فِي غَيْرِ الْمَحْسُوْسَاتِ) إِنَّما قُيّد بغير المحسوسات؛ لأنَّ الوهم لو حكم في المحسوسات؛ لم يكن كاذباً كما لو حكم بحُسنِ الحسناء وقبح الشَّوهاء، بخلافِ ما لو حكم في المعقولاتِ الصِّرفةِ ؛ فإنَّه يكون كاذباً ، وذلك لأنَّ الوهم قوَّةٌ جسمانية للإنسان، بها يدرك المعاني الجزئية المنتزعة من المحسوسات، فتلك القوَّةُ تابعة للحس، فمتى حكمت في المحسوسات؛ صدقت، فإنَّ العقل يصدقها، ومتى حكمت في المعقولات؛ كذبَتْ . (قَوْلُهُ: كُلُّ مَوْجُوْدٍ مُشَارٌ إِلَيْهِ أي: إشارةً حسيَّةً، ولعلَّ الكذب في هذه القضيَّةَ أنَّ اللهَ مَوجودُ وَلا يشار إليه إشارةً حسيَّة . (قَوْلُهُ : يَحْكُمُ بِهَا الْوَهُمُ ... إِلَخ) وذلك لأنَّ النَّفْسَ مُسخَّرَةٌ لِلوهم، فالوهميَّاتُ ربَّما لم تتميَّز عندَها مِنَ الأَوَّليَّاتِ، ولولا دفعُ العقلِ حكم الوهم؛ لبقي الالتباس دائماً . (قَوْلُهُ : فِي غَيْرِ الْمَحْسُوْسَاتِ) قُيّدَ الْمَحْسُوْسَاتِ قُيّدَ بهِ؛ لأنَّ حكم الوهم في الأمور المحسوسة حق لتصديق العقل له فيها ؛ كَمسائل الهندسة، فإنَّها شديدة الوضوح لا يكاد يقعُ فيها اختلاف آراء، وأمَّا أحكام الوهم في المعقولات الصرفةِ ؛ فكاذية، بدلیل أنَّ الوهم يساعد العقل في المقدّماتِ البيِّنَةِ الإنتاج، وينازعُهُ في النَّتيجةِ كَمَا فِي قَوْلِنَا : الميِّتُ جمادٌ، وكُلُّ جمادٍ لا يُخافُ منه ، فهاتان المقدِّمتان صادقتان، لكنَّ الوهم يحكم بأنَّ الميِّتَ يُخافُ منه ، فقد نازع العقلَ في النتيجة معَ موافقتِهِ لهُ في المقدّمتين . (قَوْلُهُ: كُلُّ مَوْجُوْدٍ مُشَارٌ إِلَيْهِ أي : بالإشارة الحمِّيَّةِ ، وهي عند الحكماء امتداد ووراء العالم فضاءٌ لا يتناهى).
+The sophistical syllogism: it is either sophistical, composed of [premises that are] wahmiyyat (imaginary propositions) and mushabbihaat (sophistical propositions). As for wahmiyyat, they are false propositions that the wahm (estimative faculty) judges in non-sensible matters, like our saying: 'Every existent is pointable.' (His saying: 'in non-sensible matters') It was restricted to non-sensibles because if the wahm judged in sensibles, it would not be false, as when it judges the beauty of a beautiful woman or the ugliness of an ugly one, unlike when it judges in purely intelligible matters, for then it is false. That is because the wahm is a bodily power in humans by which it perceives partial meanings abstracted from sensibles; thus that power is dependent on sense. So when it judges in sensibles, it is truthful, and indeed the intellect affirms it, and when it judges in intelligibles, it is false. (His saying: 'Every existent is pointable') meaning by sensory pointing. Perhaps the falsehood in this proposition is that God exists and is not pointed to by sensory pointing. (His saying: 'The wahm judges them... etc.') That is because the soul is subjugated to the wahm, so wahmiyyat may not be distinguished from self-evident truths in the soul. Were it not for the intellect repelling the judgment of the wahm, confusion would persist always. (His saying: 'in non-sensible matters') It was restricted to sensibles because the judgment of the wahm in sensory matters is true due to the intellect affirming it therein, as in geometrical problems, for they are extremely clear and hardly any difference of opinion occurs in them. As for the judgments of the wahm in purely intelligible matters, they are false, evidenced by the fact that the wahm helps the intellect in premises that are clearly productive but disputes it in the conclusion, as in our saying: 'A corpse is inanimate, and every inanimate is not to be feared.' These two premises are true, but the wahm judges that a corpse is to be feared, so it disputed the intellect in the conclusion while agreeing with it in the premises. (His saying: 'Every existent is pointable') meaning by sensory pointing, which according to the philosophers is extension, and beyond the world is an infinite space.
+Source pages p. 892
+
+Commentary
+This passage defines the sophistical syllogism and explains one of its components: wahmiyyat (imaginary propositions). The definition states that a sophistical syllogism is composed of wahmiyyat and mushabbihaat. The author then focuses on wahmiyyat, defining them as false propositions that the estimative faculty (wahm) judges in non-sensible matters. The commentator (al-Dasuqi) explains why the definition restricts wahmiyyat to non-sensibles: the wahm is a bodily power that perceives partial meanings derived from sensibles; when it judges in sensory matters, it coincides with the intellect and is truthful, as when it judges beauty or ugliness in sensory objects. However, when it ventures into purely intelligible matters, it becomes false because it oversteps its domain. The example cited is 'Every existent is pointable'—a false statement because God exists but is not sensibly pointable. The commentator al-Attar adds that the soul is subjugated to the wahm, so wahmiyyat can be mistaken for self-evident truths, and only the intellect's repulsion clarifies the error. Another example illustrates how the wahm can agree with the intellect on premises but disagree on the conclusion: 'A corpse is inanimate; every inanimate is not to be feared'—both true premises, yet the wahm falsely concludes that a corpse is to be feared. Finally, the passage mentions the example of 'beyond the world is an infinite space,' which is another wahmiyya rejected by reason. Throughout, the text emphasizes that wahmiyyat are false only in non-sensibles and that the intellect is the arbiter.
+
+Key Terms
+القياس السفسطي
+الوهميات
+الوهم
+المشبهات
+
+Key Terms from Source Passage
+
+Checkpoint
+Which of the following best describes wahmiyyat?
+A) Propositions that are always false, regardless of subject matter.
+B) Propositions judged by the wahm in non-sensible matters, which are false because the wahm oversteps its domain.
+C) Propositions that are self-evident truths accepted by both wahm and intellect.
+D) Propositions used only in demonstrative syllogisms.
+
+Key Takeaway
+Wahmiyyat are false propositions arising from the wahm's overreach into intelligibles, and only the intellect can correct them—a key safeguard against sophistry in Islamic reasoning.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether each proposition is a wahmiyya: (1) 'Every body is divisible' — (2) 'Everything that exists is either a body or an accident'. Explain your reasoning based on the domain of the wahm.
+?
+Construct a potential wahmiyya from the field of fiqh or usul al-fiqh that a jurist might mistakenly treat as self-evident, and explain why the intellect rejects it.
+
+Pages p. 892 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 893
+Module 20 · Lesson 6
+Next →
+Sophistry and Fallacies
+intermediate
+6 min
+The Fallacy of Imagining Infinite Space
+Author explains the fallacy of the imagination regarding infinite space beyond the world.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when the imagination (al-wahm) is causing a false premise to appear necessary, and apply the method of pure reason to refute it.
+
+Core Idea
+The imagination can make falsehoods seem necessary; only pure reason can uncover the error.
+
+In this passage, the author diagnoses a common epistemological fallacy: the imagination (al-wahm) presents a false proposition as if it were a necessary truth. The specific example is the belief that there is infinite space beyond the world. The author and commentators explain why this belief is false and how pure reason can correct it. Understanding this fallacy is crucial for any Muslim intellectual who wishes to distinguish between genuine necessary truths and persuasive falsehoods.
+
+Guided Path
+1
+Identify the false proposition
+Find the proposition that seems necessary but is actually false. In the passage, it is: 'وراء العالم فضاء لا يتناهى' (Beyond the world is an infinite space).
+2
+Check if reason disputes it
+Examine the proposition using pure reason. Reason says space exists only between boundaries, so there is no space beyond the sphere. Therefore, the proposition is rationally false.
+The imagination may still insist it is necessary.
+3
+Recognize the source as imagination
+Determine whether the judgment comes from pure reason or from the imagination. The imagination is immersed in material darkness and dominates reason, causing false premises to appear certain.
+The imagination ('wahm') is the faculty responsible for such errors.
+4
+Apply the method of refutation
+Gather necessary premises from pure reason that the imagination does not dispute, and deduce the opposite conclusion. For example: 'Everything that exists is finite; the space beyond the world would exist; therefore it is finite.' This shows the original proposition is an error of wahm.
+This method is illustrated in the passage with the example of air being a body.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في مواد الأقبسة
+ووراء العالم فضاءٌ لا يتناهى.
+الدسوقي: (قوله: وراء العالم فضاء لا يتناهى) وسبب الكذب في هذه القضية أن الفضاء الذي وراء العالم له دخل في الوجود، وما دخل في الوجود منته.
+العطار: حوا موهوم أخذ من المشير صفته إلى المشار إليه ; على تفصيل في ذلك بيناها في واشي القاضي زاده على أشكال التأسيس في علم الهندسة، ومعلوم أن المشار إليه بهذا المعنى لا يكون إلا محسوساً مع دخول الهواء ونحوه من المجردات في الكلية مع عدم قبول الإشارة الحسية، فهذه الكلية كاذبة عقلاً، لكن الوهم ينازع العقل في كذبها.
+(قوله: ووراء العالم ... إلخ) يعني: يحكم الوهم بوجود فضاء بعد كرة العالم، لكن العقل إنما يصدق بوجود الفضاء فيما بين حاصرين، وليس وراء الفلك شيء آخر، وهذه المسألة بيناها في حواشي المقولات الكبرى، قال شارح سلم العلوم: والسبب في ذلك انغماس النفس في الظلمة المادية، واستيلاء الوهم على العقل وتسخيره إياه ; حتى يظن بل يتيقن الكواذب ضرورية، فارة يظن قضية كاذبة أولية، فيستنتج منها نتيجة; نحو: الهواء ليس بمبصر، وكل ما ليس بمبصر ليس بجسم، فالهواء ليس بجسم، بل أبعاد خالية عن التمكن، وربما يظنها متواترة كقول الروافض باستحقاق أمير المؤمنين علي كرم الله وجهه مع وجود الخلفاء الثلاثة الخلافة، والطريق في التمييز بين الكاذب والضروري بجمع العقل الصرف الغير المشوب بالوهم مقدمات ضرورية عنده; لا ينازع الوهم العقل فيها، فيستنتج منها خلاف تلك القضية، فيعلم أنها من أغلاط الوهم كما في المثال المذكور.
+Chapter: On the materials of syllogisms. 'And beyond the world is an infinite space.' Al-Dasuqi: (His saying: 'And beyond the world is an infinite space') The cause of falsehood in this proposition is that the space beyond the world has entry into existence, and whatever enters into existence is finite. Al-Attar: He acquired a phantasm taken from the pointer's description to the pointed-to; with detail on that which we explained in the commentary of Qadi Zadih on the Shapes of Foundation in geometry. It is known that the pointed-to in this sense is only sensible, while air and similar abstract entities enter into the universal without accepting sensible indication. So this universal is false rationally, but the imagination disputes reason regarding its falsehood. (His saying: 'And beyond the world...etc.') Means: the imagination judges the existence of a space after the sphere of the world, but reason only affirms the existence of space between two containers, and there is no other body beyond the sphere. We have explained this issue in the glosses on the Greater Categories. The commentator of Sullam al-'Ulum said: The reason for that is the immersion of the soul in material darkness, and the imagination's domination over reason and subjugating it, until it thinks, nay, is certain, that falsehoods are necessary. Sometimes it thinks a false proposition is primary, and deduces from it a conclusion: e.g., 'Air is not visible; and everything not visible is not a body; so air is not a body, but rather dimensions devoid of occupation.' And sometimes it thinks them mutawatir, like the Rafidah's claim that Commander of the Faithful 'Ali (may God honor his face) deserved the caliphate despite the existence of the three caliphs. The way to distinguish between false and necessary is to gather from pure reason, unmixed with imagination, necessary premises that the imagination does not dispute with reason, then deduce from them the opposite of that proposition, so that it is known to be from the errors of the imagination, as in the mentioned example.
+Source pages p. 893
+
+Commentary
+This passage is an epistemological discussion about the fallacy of the imagination (wahm) regarding a specific false premise: 'Beyond the world is an infinite space.' The author begins by stating that this premise is false because the space beyond the world would be part of existence, and everything that exists is finite. Al-Attar adds that this is a result of the imagination (wahm) mistaking a phantasm for a reality; the universal statement 'every sensible object is pointed-to' is false because abstract entities like air are not sensible. The commentary then explains that the imagination judges there to be space beyond the world, but reason only acknowledges space between boundaries. The reason for this error is the soul's immersion in material darkness and the imagination's dominance over reason. An example is given: the syllogism 'Air is not visible; everything not visible is not a body; therefore air is not a body' is false because air is a body. Another example is the Rafidah's claim about 'Ali's caliphate, which is presented as a false tawatur (mass transmission). The method to correct such errors is to use pure reason to gather necessary premises that the imagination does not dispute, and deduce the opposite conclusion. This shows that the original proposition is an error of the imagination.
+
+Key Terms
+الوهم
+العقل
+الضروري
+أغلاط الوهم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the main cause of the false belief that 'beyond the world is an infinite space'?
+A) The intellect (al-'aql) mistakenly judges the space to be infinite.
+B) The imagination (al-wahm) dominates reason and presents the false premise as necessary.
+C) The senses perceive the space as infinite.
+D) The premises are derived from tawatur.
+
+Key Takeaway
+The errors of the imagination (aghlat al-wahm) can only be corrected by gathering necessary premises from pure reason that the imagination does not dispute, and deducing the opposite.
+
+How This Lesson Applies — to MY Life?
+?
+Read the following argument: 'All intoxicants are forbidden; wine is an intoxicant; therefore wine is forbidden.' Is the premise 'All intoxicants are forbidden' a necessary truth or could it be an error of wahm? Explain your reasoning using the method from this lesson.
+?
+The imagination might claim that 'The universe must have a creator because everything that exists has a creator.' Identify why this could be an error of wahm and how pure reason would correct it (use the example of infinite regress).
+
+Pages p. 893 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 894
+Module 20 · Lesson 7
+Next →
+Sophistry and Fallacies
+intermediate
+10 min
+Identifying and Refuting Sophistical Arguments (al-Mushabbihāt)
+Author defines sophistical arguments and illustrates equivocation and false tawatur.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the cause of error in a sophistical syllogism (equivocation) and apply the method of refutation by distinguishing necessary truths from imaginative errors.
+
+Core Idea
+Sophistical arguments masquerade as truth; their flaw is ambiguity in terms or false claims of mass transmission.
+
+Sophistical arguments (al-mushabbihāt) are false propositions that mimic truth, often by exploiting ambiguous terms or fabricating evidence. The key to refuting them is to strip away imagination and clarify meanings. In this lesson, we analyze the classic example of the picture of a horse and the false claim of tawatur about Caliph 'Ali's succession.
+
+Guided Path
+1
+Identify the apparent logical form
+Look at the argument: 'This picture is a horse. Every horse neighs. Therefore, this picture neighs.' Recognize that it has the form of a valid categorical syllogism (Barbara).
+The form is valid but the conclusion is false.
+2
+Spot the ambiguous term
+The term 'horse' is used in two different senses: in the minor premise it means a metaphorical horse (a picture), in the major premise it means a real horse. This is equivocation (ishtibah).
+The middle term 'horse' is not the same in both premises.
+3
+Recognize the cause: middle term not repeated
+Al-Dasuqi explains that the cause of error is that the middle term is not truly repeated, i.e., it is not the same concept. The syllogism is invalid because the terms are not univocal.
+A valid syllogism requires the middle term to be identical in meaning.
+4
+Apply the general method of refutation
+The passage advises: strip reason from imagination (tajrid al-‘aql an al-wahm), reflect thoroughly, and use refutation (naqd). Distinguish necessary truths from errors of the imagination.
+This is a spiritual-intellectual discipline, not just a mechanical check.
+5
+Test against false tawatur
+Another form of sophistry is claiming mass transmission (tawatur) for a report that lacks it. The example: the Rafidah claim that 'Ali was appointed caliph, but only four or seven narrated it despite overwhelming motives. Such a claim is false by rational necessity.
+Tawatur requires many narrators in every generation; a few cannot establish certainty.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأما المشبهات: فهي القضايا الكاذبة الشبيهة بالحق إما من حيث الصورة، كقولنا لصورة الفرس المنقوشة على الجدار: إنها فرس. وكل فرس صهال.
+الدسوقي: (قوله: إنها فرس وكل فرس صهال) سبب الغلط فيه اشتباه الفرس المجازي الذي هو محمول الصغرى بالحقيقي الذي هو موضوع الكبرى.
+العطار: يكن في كتمانه لهم فائدة، ولم يحكه أحد منهم مع كونهم محتاجين، وكل ما كان كذلك؛ فالخبر في مثله يقطع بكذبه بالضرورة العقلية، فعلم أن خبر تسليم الخلافة لأمير المؤمنين علي؛ افتراء محض، ثم إن هذا القول بزعمهم لم ينقله إلا أربعة أو سبعة; فكيف ينعقد بهم التواتر في مثل هذا الأمر لتوفر الدواعي على نقله مثله؟ مثال آخر: ما في الزق المنفرح يقاوم المس، وكل ما يقاوم المس جسم، فما في الزق من الهواء جسم، فالحكم بكونه ليس بجسم باطل، وبالجملة، فالمخلص بتجريد العقل عن الوهم والتفكر التام حتى يتميز الكاذب من الضروري، والنقص والاستدلال على خلافه، وفي الاشتباه بالتواتر ملاحظة القرون هذا، والتمييز بين الضروري وأغلاط الوهم عسر جدا; لا يتيسر إلا لمن أعطاه الله القلب السليم، ذلك فضل الله يؤتيه من يشاء والله ذو الفضل العظيم، والمخالص التي ذكرها لا تبقى المواظبة عليها، فلذا ترى العلماء العظماء يخطئون فيه، والمخلص الكامل ما واظب عليه الصوفية الكرام من المجاهدات وذكر الله على الدوام; حتى تصير القضايا عندهم فطريات، بل أجلى منها، ثم من أسباب الغلط: التشتيت، وزيادة الكلام والتطويل من غير طائل، والمزاح في أثناء البحث، وغير ذلك. ا.هـ. ملخصا.
+(قوله: اشتباه) أي: فلم يتكرر الحد الوسط. ا.هـ. الشنوبي
+As for sophistical propositions (al-mushabbihāt): they are false propositions resembling truth either in form, like our saying of the picture of a horse painted on a wall: 'It is a horse. And every horse is a neighing animal.' Al-Dasuqi: (His saying: 'It is a horse and every horse neighs') The cause of error in it is the confusion of the metaphorical horse, which is the predicate of the minor premise, with the real horse, which is the subject of the major premise. Al-Attar: There would be no benefit in concealing it from them, and none of them narrated it despite their need; and everything like that — the report in such a case is decisively known to be false by rational necessity. So it is known that the report of the handover of the caliphate to 'Ali is pure fabrication. Moreover, according to their claim, only four or seven transmitted it; so how could tawatur be established by them in such an matter where motives for transmission were abundant? Another example: What is in a bladdery is resistant to touch, and everything resistant to touch is a body, so what is in the bladdery is a body; the judgment that it is not a body is false. In summary, the deliverance is by stripping reason of the imagination and complete reflection until the false is distinguished from the necessary, and by refutation and inference to the contrary. The confusion with tawatur requires consideration of the generations. Distinguishing between the necessary and the errors of the imagination is very difficult; it is only possible for one whom God has given a sound heart. 'That is the bounty of God; He gives it to whom He wills, and God is the possessor of great bounty.' The methods mentioned cannot be maintained continuously; hence you see great scholars erring in it. The complete deliverance is what the noble Sufis adhered to: spiritual exertions and constant remembrance of God until propositions become innate for them, nay, clearer than innate. Then among the causes of error: distraction, excessive and lengthy speech without benefit, jesting during discussion, and others. End of summary. (His saying: 'confusion') That is, the middle term was not repeated. End. Al-Shurunbuli.
+Source pages p. 894
+
+Commentary
+This passage defines sophistical propositions (al-mushabbihāt) as false propositions that resemble truth either in form or content. It gives the example: 'This picture is a horse; every horse neighs; therefore this picture neighs.' The error arises from ambiguity: the term 'horse' in the minor premise refers to a metaphorical horse (a picture), while in the major premise it refers to a real horse. Al-Dasuqi explains this cause. Then al-Attar discusses another form of sophistry: false claims of tawatur (mass transmission), using the Rafidah's claim about 'Ali's caliphate as an example. He argues that if no one reported it despite overwhelming motives, it must be false. He gives another example: the air in a skin is resistant to touch, so it is a body; claiming it is not a body is false. The passage then discusses the general method to escape such errors: purify reason from imagination, reflect thoroughly, and use refutation. It notes the extreme difficulty of distinguishing necessary truths from errors of the imagination, possible only for those with a sound heart (the Sufis who engage in spiritual struggle and dhikr). Finally, it lists common causes of error: distraction, verbosity, and jesting. A marginal note clarifies that 'confusion' means the middle term is not repeated (i.e., the syllogism fails).
+
+Key Terms
+المشبهات
+الاشتباه
+الفرس المجازي
+التواتر
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the cause of error in the sophistical syllogism: 'This picture is a horse; every horse neighs; therefore this picture neighs'?
+A) The major premise is false.
+B) The minor premise is false.
+C) The term 'horse' is used ambiguously between metaphorical and real.
+D) The conclusion does not follow from the premises.
+
+Key Takeaway
+Sophistical arguments are defeated by clarifying terms and distinguishing necessary truths from imaginative errors.
+
+How This Lesson Applies — to MY Life?
+?
+Identify the ambiguous term in the following argument: 'The Quran is eternal; everything eternal is uncreated; therefore the Quran is uncreated.' Explain how the term 'eternal' might be used equivocally (e.g., eternal in essence vs. eternal in time).
+?
+Refute the claim that a hadith is mutawatir if it is only reported by two narrators in the first generation despite the widespread need for its transmission. Use the criteria from al-Attar's argument.
+
+Pages p. 894 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 894
+Module 20 · Lesson 8
+Next →
+Sophistry and Fallacies
+beginner
+5 min
+Sophistical Arguments: Error in Form (المشبهات)
+Author defines sophistical arguments and illustrates the error in form with the horse picture example.
+
+Learning Objective
+By the end of this lesson, you will be able to identify an error in form (equivocation of the middle term) in a syllogism and explain why the argument is invalid.
+
+Core Idea
+An argument's form can be deceptive when the middle term shifts meaning between premises.
+
+In this passage, the author defines sophistical arguments (المشبهات) as false propositions that resemble truth. The first type of resemblance is in form, illustrated with a syllogism about a horse picture. We will see how the middle term's ambiguity invalidates an otherwise valid-looking argument. This is a crucial concept in Islamic logic for spotting fallacies.
+
+Guided Path
+1
+Identify the definition
+Extract the author's definition of المشبهات from the passage.
+The definition is: 'false propositions that resemble truth'.
+2
+Parse the example
+Break down the syllogism into minor premise, major premise, and conclusion.
+Minor: 'This picture is a horse'; Major: 'Every horse neighs'; Conclusion: 'This picture neighs'.
+3
+Locate the middle term
+Find the term that appears in both premises – here 'horse'.
+The middle term is 'horse'.
+4
+Analyse the equivocation
+Determine the two different meanings of 'horse': metaphorical (picture) and literal.
+In the minor, 'horse' is metaphorical; in the major, it is literal.
+5
+Formulate the fallacy
+Explain why the equivocation invalidates the argument: the middle term is not repeated in the same sense.
+The commentator clarifies: 'the middle term is not repeated'.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وأمَّا المشبَّهات : فهي القضايا الكاذبة الشبيهة بالحقِّ إمَّا مِن حيثُ الصُّورةُ، كَقولِنَا لِصورةِ الفرس المنقوشة على الجدار : إِنَّها فرس. وكلُّ فرس صهَّال. فينتج : إِنَّ تلكَ الصُّورة صهَّالة. سبب الغلط فيه اشتباه الفرس المجازي الذي هو محمول الصغرى بالحقيقي الذي هو موضوع الكبرى. (اشتباه) أي: فلم يتكرر الحد الوسط.
+As for sophistical arguments, they are false propositions that resemble truth, either in form, as when we say of a picture of a horse painted on a wall: 'This is a horse', and 'Every horse neighs', yielding: 'That picture neighs.' The cause of the error in it is the confusion between the metaphorical horse, which is the subject of the minor premise, and the real horse, which is the subject of the major premise. (Confusion) meaning: the middle term is not repeated.
+Source pages p. 894
+
+Commentary
+This passage defines 'المشبهات' (sophistical or specious arguments) as false propositions that bear a resemblance to truth. The resemblance can occur in two ways: in form (صورة) or in meaning (معنى). The author first illustrates the error in form with an example: a picture of a horse on a wall. We say 'This is a horse' (minor premise) and 'Every horse neighs' (major premise), leading to the conclusion 'This picture neighs'. The error arises from a confusion (اشتباه) between the metaphorical horse (the picture) and the real horse. In the minor premise, 'horse' is used metaphorically for the picture; in the major premise, 'horse' refers to real horses. The middle term ('horse') is thus not the same in both premises—it does not repeat in the same sense. This is a common fallacy in syllogistic reasoning. The commentator al-Sharnubi clarifies that the error is that the middle term is not repeated (لم يتكرر الحد الوسط).
+
+Key Terms
+المشبهات
+الحد الوسط
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the cause of error in the sophistical argument about the horse picture?
+A) The major premise is false.
+B) The middle term is used in different senses.
+C) The conclusion is a contradiction.
+D) The minor premise is false.
+
+Key Takeaway
+The sophistical argument's error in form arises from an equivocal middle term that is not repeated in the same sense in both premises.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a similar sophistical syllogism using Islamic concepts. For example: 'This action is a prayer' (where 'prayer' means a specific ritual) and 'Every prayer requires intention', so 'This action requires intention'. But if the action is not a real prayer, the syllogism is invalid due to equivocation. Provide the two meanings.
+?
+Identify the middle term in the following argument and check for equivocation: 'Every Quran is a book. This is a book. Therefore, this is a Quran.' (Invalid because 'book' is not repeated in the same sense – second premise could mean any book.)
+
+Pages p. 894 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 895
+Module 20 · Lesson 9
+Next →
+Sophistry and Fallacies
+intermediate
+7 min
+Sophistical Arguments in Meaning: Non-Existent Subject
+Explanation of sophistical arguments in meaning and contrast with valid third figure.
+
+Learning Objective
+By the end of this lesson, you will be able to identify when a categorical syllogism's subject is non-existent and explain why it makes the argument unsound.
+
+Core Idea
+A syllogism is unsound if its subject term has no real instances, even if the form appears valid.
+
+In this lesson, we examine a sophistical argument that appears valid but fails because its subject term does not refer to anything in reality. The classic example is 'Every man-and-horse is a man; every man-and-horse is a horse; therefore some man is a horse.' The error is not in the syllogistic form but in the material truth of the premises. We will contrast this with a valid third-figure syllogism that uses a subject that actually exists.
+
+Guided Path
+1
+Identify the syllogism's form.
+Both the invalid and valid examples use the third figure (middle term is the subject of both premises). Note the middle term 'man-and-horse' in the invalid example and 'rational animal' in the valid one.
+2
+Examine the subject of the premises.
+In the invalid example, ask: Does the subject 'man-and-horse' actually exist? The passage says no. For the valid example, 'rational animal' does exist (e.g., humans).
+3
+Check the truth of the premises.
+If the subject term is empty, any universal affirmative premise with that subject is false because there is no entity to satisfy the universal claim. The passage states the premises are false due to non-existence of the subject.
+4
+Contrast with the valid syllogism.
+The valid syllogism uses a compound subject that actually exists, and its premises are self-evidently true (part-whole relationship). So the conclusion 'Some animal is rational' is true.
+5
+Generalize the lesson.
+A syllogism's validity depends on form, but its soundness depends on existential import. In Islamic logic, the existence of the subject is a condition for categorical propositions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+فصل: في مَوَادُ الأَقْبِسَةِ. وإمَّا من حيث المعنى، كقولنا : كلُّ إنسانٍ وفرس فهو إنسان. وكلُّ إنسانٍ وفرس فهو فرس. ينتج : إنَّ بعضَ الإنسان فرس. والغلط فيه : أنَّ موضوع المقدّمتين ليس بموجود؛ إذ ليس شيء يصدُقُ عليه أنَّه إنسان وفرسٌ. (قَوْلُهُ: وَإِمَّا مِنْ حَيْثُ الْمَعْنَى) أي : من حيثُ لزوم الجزء لِكُلِّه في كُلِّ. (قَوْلُهُ: مِنْ حَيْثُ الْمَعْنَى فَكُلُّ مِن مقدِّمتَيْهِ شَبيهةٌ بِقَولِنَا : كُلُّ حيوان ناطق ; أي: حيوان الذي هو من الأوَّليَّات; لأنَّ كُلَّ مَن تصوَّرَ الكُلَّ والجزء; جزم بأنَّ الجزء لازمٌ لِكُلِّهِ، لكنَّ الفرق بينَ الأَوَّلِ والثَّاني : أَنَّ الأَوَّلَ; الكُلُّ فيه، وهو الإنسانُ والفرسُ لم يصدق على ذاتٍ واحدة، فلم يوجد، فكذبَتِ القضيَّتان; لعدم وجودِ الموضوع بخلافِ الكُلِّ في الثَّاني، وَلِذا ; صح أن يُقالَ: كُلُّ حيوان ناطق، فهو حيوان، وكُلُّ حيوان ناطق، فهو ناطق ; ينتج : بعضُ الحيوانِ ناطق . (1) (قَوْلُ الشَّارح : كل إنسان ... إلخ) قياس من الشكل الثالث الحد الوسط فيه غير موجود.
+Chapter on the materials of syllogisms. And as for [the resemblance] in meaning, as when we say: 'Every man-and-horse is a man' and 'Every man-and-horse is a horse', yielding: 'Some man is a horse.' The error in it is that the subject of the two premises does not exist, for there is nothing that is truly both a man and a horse. (His saying: 'And as for in meaning') means: in terms of the necessity of a part for its whole in each. (His saying: 'in meaning' so each of its two premises resembles our saying: 'Every rational animal'; meaning: an animal that is from the self-evident propositions; because everyone who conceives the whole and the part judges that the part is necessary to its whole, but the difference between the first and second is that in the first, the whole, which is man-and-horse, does not apply to one entity, so it does not exist, so the two propositions are false due to the non-existence of the subject, unlike the whole in the second, therefore it is valid to say: 'Every rational animal is an animal' and 'Every rational animal is rational', producing: 'Some animal is rational.' (The commentator's statement: 'Every man... etc.') is a syllogism of the third figure in which the middle term does not exist.
+Source pages p. 895
+
+Commentary
+This passage begins a new chapter on the materials of syllogisms and continues the discussion of sophistical arguments based on meaning. The sophistical example is: 'Every man-and-horse is a man' and 'Every man-and-horse is a horse' leading to 'Some man is a horse'. The error is that the subject 'man-and-horse' does not exist—there is no entity that is both a man and a horse. Hence both premises are false due to the non-existence of the subject. The commentator al-Dasuqi explains that in this type, the whole is a compound that does not apply to a single entity. He contrasts it with a valid third-figure syllogism: 'Every rational animal is an animal' and 'Every rational animal is rational', leading to 'Some animal is rational'. Here the subject 'rational animal' does exist, as it is a self-evident truth that the part is necessary for the whole. The difference is the existence of the subject. The commentator al-Attar notes that the invalid example is a third-figure syllogism where the middle term does not exist (i.e., the subject is empty).
+
+Key Terms
+المعنى
+الموضوع
+الأوَّليَّات
+
+Key Terms from Source Passage
+
+Checkpoint
+Why is the syllogism 'Every man-and-horse is a man, every man-and-horse is a horse, therefore some man is a horse' fallacious?
+A) The middle term is ambiguous.
+B) The subject of the premises does not exist.
+C) The conclusion is a tautology.
+D) The premises are contradictory.
+
+Key Takeaway
+A syllogism with a non-existent subject term is unsound; the existence of the subject is necessary for the premises to be true.
+
+How This Lesson Applies — to MY Life?
+?
+Examine the syllogism: 'Every phoenix is a bird; every phoenix is a mythical creature; therefore some bird is a mythical creature.' Is this fallacious in the same way as the man-and-horse example? Explain.
+?
+Construct a valid third-figure syllogism using an Islamic example (e.g., every Muslim is a believer, every Muslim prays, therefore some believer prays) and verify that the subject exists.
+
+Pages p. 895 · Sophistry and Fallacies
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,536 @@
+← Prev
+p. 116
+Module 12 · Lesson 51
+Next →
+Propositions
+intermediate
+7 min
+Classifying Conditional Propositions by Quantifier and Condition Scope
+Classification of conditionals by quantifier and condition scope
+
+Learning Objective
+By the end of this lesson, you will be able to classify any given conditional proposition as universal, particular, or singular by analyzing its quantifier and the scope of conditions it covers.
+
+Core Idea
+A conditional's universality depends on whether the judgment holds for all, some, or one specific condition of the antecedent.
+
+In this lesson, we explore how classical logicians categorized conditional propositions (al-qadiyya al-shartiyya) according to the range of conditions under which the antecedent is considered. This classification is essential for evaluating the truth of compound statements and for correctly using quantifiers in logical arguments. The passage explains the three types—universal, particular, and singular—and the rationale for restricting conditions to those that are possible.
+
+Guided Path
+1
+Identify the type of conditional
+Determine whether the proposition is conjunctive (muttaṣila) or disjunctive (munfaṣila). This affects which quantifiers are appropriate.
+Conjunctives use 'if/then' logic; disjunctives use 'either/or'.
+2
+Locate the quantifier (sawr)
+Find the particle that indicates the scope: 'kullamā' (whenever), 'qad yakūn' (it may be), 'laysa al-batta' (not at all), etc. The quantifier reveals whether the proposition is universal, particular, or indefinite.
+The passage lists quantifiers for each type and modality.
+3
+Classify the proposition
+If the judgment applies to all conditions (e.g., 'kullamā'), it is universal. If to some unspecified condition (e.g., 'qad yakūn'), it is particular. If to a specific condition, it is singular.
+Singular conditionals are rare; the passage focuses on universal and particular.
+4
+Check the possibility of conditions
+Verify that the conditions considered are possible (mumkin al-ijtimāʿ). If impossible conditions were included, the conditional would not be universally true, because the implication or conflict would break down.
+This ensures the quantifier accurately reflects logical relationships.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+أقسام القضية الشرطية على جميع تقادير المقدم فكلية أو بعضها مطلقاً فجزئية، أو معيناً فشخصية، "دائما" قوله: على جميع تقادير المقدم :كقولنا كلما كانت الشمس طالعة فالنهار موجود. قوله: فكلية وسورها في المتصلة الموجبة "كلما" و"مهما" و"متى" وما في معناها، وفي المنفصلة و "أبدا" ونحوهما، هذا في الموجبة. أما في السالبة مطلقا فسورها "ليس البتة". قوله: أو بعضها مطلقا أي على بعض غير معين كقولك: قد يكون إذا كان الشيء حيوانا كان إنسانا قوله فجزئية وسورها في الموجبة متصلة كانت أو منفصلة قد يكون" وفي السالبة كذلك "قد لا يكون": قوله فشخصية • تقادير المقدم والتقادير هي الأحوال والأوضاع واقعية كانت أو فرضية ممكنة الاجتماع مع المقدم بحيث لا يصادم اللزوم والعناد، وإنما اعتبر في الأوضاع أن تكون ممكنة الاجتماع؛ لأنه لو اعتبر جميع الأوضاع مطلقا سواء كانت ممكنة الاجتماع أو لا تكون لم يصدق شرطية كلية؛ إما في الاتصال فلأن من الأوضاع ما لا يلزم معه التالي كعدم التالي أو عدم لزوم التالي فلا يكون التالي لازما له على هذا الوضع وإلا لكان المقدم على هذا الوضع مستلزماً للنقيضين وإنه محال. فعلى بعض الأوضاع لا يكون التالي لازما للمقدم، فلا يصدق أن التالي لازم المقدم على جميع الأوضاع، وهو مفهوم الكلية على ذلك التقدير، وأما في الانفصال فلأن من الأوضاع ما لا يعاند التالي للمقدم معه كصدق الطرفين؛ فإن التالي على هذا الوضع لازم للمقدم فيكون نقيض التالي معاندا للمقدم، فلو كان المقدم معاندا للتالي على هذا الوضع لزم معاندة الشيء للنقيضين وإنه محال، فعلى بعض الأوضاع لا يعاند التالي للمقدم فلا يصدق أن التالي معاند للمقدم على سائر الأوضاع. (تحرير القواعد المنطقية) وسورها في المتصلة الموجبة: اعلم أن سور المتصلة الموجبة الكلية "كلما" و"متى" و"مهما" وما في معناها بأي لغة كانت وللمنفصلة كذلك "دائماً" و"أبدا" ونحوهما، ولسالبتهما "ليس "البتة" وللإيجاب والسلب الجزئيين فيهما "قد يكون" و"قد لا يكون وللمتصلة وحدها ليس كلما وللمنفصلة وحدها "ليس دائما" وأداة المهملات المتصلة "إن" و"لو" و"إذا" وللمنفصلة "إما" و"أو " والشرطية مطلقة إن لم يذكر فيها الجهة وموجهة إن ذكرت جهة اللزوم أو العناد أو الاتفاق كقولك: بالضرورة كلما كان "" فـ"ج" ولزوما أو اتفاقا وبالضرورة دائما إما أن يكون "" "ب" "أو " "ج" وعنادا أو اتفاقا. 11 إذا كان الشيء إلخ : فإن الحكم فيها بلزوم الإنسانية إنما هو على بعض تقادير كونه حيوانا.(شيخ الإسلام)
+The divisions of the conditional proposition: based on all conditions of the antecedent, it is universal; or some conditions absolutely, it is particular; or a specific condition, it is singular. 'Always' – his saying: based on all conditions of the antecedent, like our saying: whenever the sun is rising, then daytime exists. His saying: universal, and its quantifier in the affirmative conjunctive is 'whenever' and 'whatever' and 'when' and what is in their meaning; in the disjunctive, 'always' and 'ever' and the like; this in the affirmative. As for the negative absolutely, its quantifier is 'not at all'. His saying: or some conditions absolutely, i.e., on some unspecified condition, like your saying: it may be that if a thing is an animal, it is a human. His saying: particular, and its quantifier in the affirmative, whether conjunctive or disjunctive, is 'it may be'; and in the negative likewise 'it may not be'. His saying: singular. Conditions of the antecedent: conditions are states and situations, either actual or hypothetical, that can co-occur with the antecedent without opposing the implication or conflict; and only those situations that can co-occur are considered. Because if all situations were considered absolutely, whether they can co-occur or not, no universal conditional would be true. For in conjunction, because among the situations is that the consequent does not follow, like the absence of the consequent or the absence of the necessity of the consequent, then the consequent would not be necessary for it in this situation; otherwise the antecedent in this situation would entail two contradictories, which is impossible. So in some situations the consequent is not necessary for the antecedent, so it is not true that the consequent is necessary for the antecedent in all situations, which is the concept of universality on that estimation. As for disjunction, because among the situations is that the consequent is not incompatible with the antecedent, like the truth of both sides; for the consequent in this situation is necessary for the antecedent, so the negation of the consequent is incompatible with the antecedent; if the antecedent were incompatible with the consequent in this situation, it would entail the incompatibility of a thing with two contradictories, which is impossible. So in some situations the consequent is not incompatible with the antecedent, so it is not true that the consequent is incompatible with the antecedent in all other situations. (Tahrir al-Qawa'id al-Mantiqiyya) And its quantifier in the affirmative conjunctive: know that the quantifiers of the universal affirmative conjunctive are 'whenever', 'when', 'whatever', and what is in their meaning in any language; for the disjunctive similarly 'always', 'ever', and the like; for their negatives 'not at all'; for the particular affirmative and negative in both, 'it may be' and 'it may not be'; for the conjunctive alone 'not whenever'; for the disjunctive alone 'not always'; and the particles of the indefinite conjunctive are 'if', 'were', 'when'; for the disjunctive 'either', 'or'. And the conditional is absolute if the modality (jiha) is not mentioned; modalized if the modality of necessary implication (luzum), incompatibility ('inad), or coincidence (ittifaq) is mentioned, like your saying: necessarily whenever A is B, C is D necessarily or coincidentally; and necessarily always either A is B or C is D incompatibly or coincidentally. 11 His saying: 'if a thing, etc.': the judgment in it of the necessity of humanity is only on some conditions of its being an animal. (Shaykh al-Islam)
+Source pages p. 116
+
+Commentary
+This passage defines the types of conditional propositions based on the scope of the conditions (taqadir) of the antecedent. It is a detailed classification essential for evaluating the truth conditions of compound propositions. The author begins by stating that a conditional proposition is universal if the judgment holds for all conditions of the antecedent, particular if it holds for some unspecified conditions, and singular if it holds for a specific condition. Examples are given: 'whenever the sun is rising, daytime exists' is universal. Then the quantifiers (sawar) for each type are listed: 'whenever', 'whatever' for universal affirmative; 'not at all' for universal negative; 'it may be' for particular affirmative; 'it may not be' for particular negative. The text then provides a lengthy explanation of why only possible conditions are considered (taqadir al-muqaddam). The reason is that if impossible conditions were included, the conditional would not be universally true because the implication or conflict would break down. For conjunctive conditionals, some conditions would preclude the consequent; for disjunctive conditionals, some conditions would allow both sides to be true together, negating the incompatibility. This reasoning ensures that the quantifier accurately reflects the logical relationship. The passage then cites Tahrir al-Qawa'id al-Mantiqiyya to reiterate the quantifiers and introduces the idea of modalized conditionals (when the modality of luzum, 'inad, or ittifaq is mentioned). Finally, a marginal note from Shaykh al-Islam clarifies an example: the judgment that 'if a thing is an animal, it is a human' holds only for some conditions of animality.
+
+Key Terms
+تقادير المقدم
+كلية
+جزئية
+شخصية
+سور
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, what is the quantifier for a universal negative disjunctive conditional?
+A) كلما
+B) ليس البتة
+C) قد لا يكون
+D) ليس دائما
+
+Key Takeaway
+The classification of conditionals into universal, particular, and singular hinges on the scope of possible conditions of the antecedent, with specific quantifiers for each type.
+
+How This Lesson Applies — to MY Life?
+?
+Classify the following conditional: 'Whenever the prayer is valid, the wudu is valid.' Identify its quantifier and determine whether it is universal, particular, or singular, and explain why the conditions must be possible.
+?
+Construct a universal negative disjunctive conditional (e.g., 'It is never the case that either the fast is void or the prayer is invalid') and write its correct quantifier in Arabic.
+
+Pages p. 116 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 117
+Module 12 · Lesson 52
+Next →
+Propositions
+beginner
+5 min
+The Original Nature of Conditional Parts
+Author explains types of conditional parts and their potency status.
+
+Learning Objective
+By the end of this lesson, you will be able to classify the two parts of a conditional as originally categorical, conjunctive, disjunctive, or mixed, and explain why connecting words make them propositions in potency rather than full propositions.
+
+Core Idea
+The parts of a conditional are propositions in potency, not fully actual propositions, because the connecting word prevents independence.
+
+In the previous lesson, we introduced conditional propositions. Now we examine their internal structure: what are the antecedent and consequent originally before the connecting word is added? This lesson clarifies that they are full propositions of various types, and the connecting word downgrades them to mere potency.
+
+Guided Path
+1
+Identify the two parts
+Every conditional has an antecedent (muqaddam) and a consequent (tali). Find them in the example: 'If the sun is rising, then daytime exists.' The antecedent is 'the sun is rising' and the consequent is 'daytime exists'.
+2
+Determine their original status
+The author says: 'originally (fi al-asl) they are two propositions.' Before the connecting word 'in' (if) was added, each part was a complete proposition capable of standing alone.
+3
+Classify the proposition types
+The parts can be categorically, conjunctively, disjunctively, or mixed. For example, in 'if the sun is rising, daytime exists', both parts are categorical. In a more complex conditional like 'whenever it is that if A then B, then whenever not B then not A', the parts are conjunctive.
+Mixed types combine different kinds: e.g., antecedent categorical, consequent conjunctive.
+4
+Understand propositions in potency
+The connecting word (like 'in', 'law', 'idha') prevents the parts from being actual independent propositions. They become 'propositions in potency' (qadiyya bi al-quwwa) – close to actual but not fully actual because they are bound by the connector.
+This is a key insight: a proposition cannot be both fully actual and connected to another; the connector sacrifices actuality.
+5
+Apply to the indefinite conditional
+A conditional without a quantifier (e.g., 'if a thing is a human, it is an animal') is called muhmala (indefinite). Its parts are still originally propositions, but the conditional lacks specification of universality or particularity.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وإلّا فمهملة وطرفا الشرطية في الأصل قضيتان حمليتان أو متصلتان أو منفصلتان أو مختلفتان كقولنا: إن جئتني اليوم فأكرمتك قوله وإلا : أي وإن لم يكن الحكم على جميع تقادير المقدم ولا على بعضها بأن يسكت عن بيان الكلية والبعضية مطلقا قوله فمهملة: نحو: إذا كان الشيء إنسانا كان حيوانا قوله في الأصل أي قبل دخول أداة الاتصال والانفصال عليهما قوله حمليتان :كقولنا إن كانت الشمس طالعة فالنهار موجود؛ فإن طرفيها وهما الشمس طالعة والنهار موجود قضيتان حمليتان قوله أو :متصلتان :كقولنا كلما كان إن كانت الشمس طالعة فالنهار موجود فكلما لم يكن النهار موجودا لم تكن الشمس طالعة؛ فإن طرفيها وهما قولنا: إن كانت الشمس طالعة فالنهار موجود وقولنا: كلما لم يكن النهار موجودا لم تكن الشمس طالعة قضيتان متصلتان :قوله أو منفصلتان كقولنا: كلما كان دائما إما أن يكون العدد زوجا أو فردا فدائما إما أن يكون العدد منقسما بمتساويين أو غير منقسم بهما. قوله أو مختلفتان بأن يكون إحدى الطرفين حملية والأخرى متصلة أو إحداهما حملية والأخرى منفصلة أو إحداهما متصلة والأخرى منفصلة. أي قبل دخول إلخ: فإن دخول كلم المجازات مانع لكون الأطراف أي المقدم والتالي قضايا بالفعل؛ فإن هذه الكلمات روابط بالفعل بين الأطراف ولا شك أن القضية بنفسها يمنع ربطها بغيرها. إسماعيل) فإن طرفيها إلخ لا يخفى أن طرفي الشرطية لاشتمالها على نسبة تفصيلية قضيتان بالقوة القريبة من الفعل، فكل قضية بالقوة إما حملية بالقوة أو متصلة بالقوة، أو منفصلة بالقوة فطر فاهما إما حمليتان أو متصلتان أو منفصلتان أو حملية ومتصلة أو حملية ومنفصلة أو متصلة ومنفصلة. (نور الله) كلما كان إلخ هذا المجموع قضية شرطية متصلة؛ فإنه حكم فيها بثبوت نسبة وهي عدم طلوع الشمس عند عدم وجود النهار على تقدير ثبوت نسبة أخرى وهي وجود النهار عند طلوع الشمس.
+Otherwise it is indefinite (muhmala). And the two parts of the conditional are originally two categorical propositions, or two conjunctives, or two disjunctives, or different types, like our saying: If you come to me today, I will honor you. His saying: 'otherwise' – i.e., if the judgment is neither on all conditions of the antecedent nor on some of them, by remaining silent about expressing universality or particularity absolutely. His saying: indefinite, like: if a thing is a human, it is an animal. His saying: originally – i.e., before the entry of the instrument of conjunction or disjunction upon them. His saying: two categoricals, like our saying: if the sun is rising, then daytime exists; for its two parts, namely 'the sun is rising' and 'daytime exists', are two categorical propositions. His saying: two conjunctives, like our saying: whenever it is that if the sun is rising then daytime exists, then whenever daytime does not exist, the sun is not rising; for its two parts, namely our statement: if the sun is rising then daytime exists, and our statement: whenever daytime does not exist, the sun is not rising, are two conjunctive propositions. His saying: two disjunctives, like our saying: whenever it is always the case that either the number is even or odd, then always the number is either divisible into two equal parts or not divisible into two equal parts. His saying: different types, i.e., that one of the two parts is categorical and the other conjunctive, or one categorical and the other disjunctive, or one conjunctive and the other disjunctive. His saying: 'before the entry, etc.': for the entry of the metaphorical words (connecting particles) prevents the parts, i.e., the antecedent and consequent, from being actual propositions; for these words are actual connectors between the parts, and there is no doubt that a proposition itself prevents its being connected to another. (Isma'il) His saying: 'for its two parts, etc.': it is not hidden that the two parts of a conditional, because they contain a detailed relation, are propositions in potency close to actuality; so every proposition in potency is either categorical in potency, or conjunctive in potency, or disjunctive in potency; thus their two parts are either two categoricals, or two conjunctives, or two disjunctives, or categorical and conjunctive, or categorical and disjunctive, or conjunctive and disjunctive. (Nur Allah) His saying: 'whenever it is, etc.', this whole is a conjunctive conditional proposition; for it is a judgment establishing a relation, namely the non-rising of the sun when daytime does not exist, on the estimation of establishing another relation, namely the existence of daytime when the sun rises.
+Source pages p. 117
+
+Commentary
+This passage defines the nature and types of the parts (atraf) of a conditional proposition. The author begins by covering the case when a conditional is not universal or particular: it is indefinite (muhmala), meaning no quantifier is expressed. Example: 'if a thing is a human, it is an animal.' Then the main topic: originally (fi al-asl), i.e., before the connecting words (like 'if', 'whenever', 'either-or') are added, the two parts of a conditional are propositions. They can be: (1) both categorical (hamliyya), e.g., 'if the sun is rising, daytime exists' – both parts are simple subject-predicate propositions; (2) both conjunctive (muttasila), e.g., a conditional whose parts are themselves conditionals; (3) both disjunctive (munfasila); or (4) mixed – one part categorical and the other conjunctive, or categorical and disjunctive, or conjunctive and disjunctive. Examples are provided for each. Then a commentary from Isma'il explains that the connecting words (like 'in', 'law', 'idha', 'imma') actually prevent the parts from being fully actual propositions because they serve as connectors; a proposition by its nature cannot be connected to another. Another commentary from Nur Allah clarifies that the parts are propositions 'in potency close to actuality' (bi al-quwwa al-qariba min al-fi'l). Finally, an example of a conjunctive conditional with conjunctive parts is analyzed: 'whenever it is that if the sun is rising then daytime exists, then whenever daytime does not exist, the sun is not rising' – this whole is a single conjunctive conditional.
+
+Key Terms
+طرفا الشرطية
+مهملة
+قضية بالقوة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, before the entry of the connecting word, the two parts of a conditional are originally what?
+A) Two concepts (mafhuma)
+B) Two propositions (qadiyyatan)
+C) Two judgments (hukman)
+D) Two terms (haddan)
+
+Key Takeaway
+The parts of a conditional are propositions in potency; their original nature is that of full propositions, but the connecting word reduces their independence and actuality.
+
+How This Lesson Applies — to MY Life?
+?
+Take the conditional: 'Whenever the time for prayer enters, it is obligatory to pray.' Identify the antecedent and consequent. Determine their original proposition types (categorical, conjunctive, disjunctive, or mixed). Explain why they are propositions in potency after the connector is added.
+?
+Construct a conditional statement where the antecedent is a disjunctive proposition and the consequent is a categorical proposition, using an Islamic example (e.g., related to fasting or prayer). Then explain how the connecting word affects the actuality of the parts.
+
+Pages p. 117 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 120
+Module 12 · Lesson 53
+Next →
+Propositions
+intermediate
+10 min
+Conditions of Contradiction: Quality, Quantity, Modality
+States and explains the three necessary conditions for two propositions to be contradictory.
+
+Learning Objective
+By the end of this lesson, you will be able to identify whether two propositions satisfy the three conditions for contradiction (quality, quantity, modality) using examples from Islamic logic.
+
+Core Idea
+For propositions to contradict, they must differ in quality, quantity, and modality—not just one.
+
+In Islamic logic, contradiction (tanāquḍ) is a strict relation: two propositions cannot both be true and cannot both be false. But not all opposing pairs meet this standard. The classical logicians laid down precise conditions: difference in quality, quantity (if quantified), and modality (if modalized). This passage from the Sharḥ of Tahdhīb al-Manṭiq explains these conditions, gives examples of failures, and clarifies the exclusion of mental propositions.
+
+Guided Path
+1
+Check quality
+Determine whether each proposition is affirmative or negative. For contradiction, one must be affirmative and the other negative.
+If both are affirmative or both negative, they can both be true or both false, so not contradictory.
+2
+Check quantity (if quantified)
+If the propositions are universal (every/none) or particular (some/some not), they must differ: one universal and one particular. Non-quantified propositions are excluded from this condition.
+3
+Check modality (if modalized)
+If the propositions have a modality (necessary, possible, impossible), they must differ. For example, two necessary propositions can both be false, and two possible propositions can both be true.
+The passage gives the example: 'Every human is a writer necessarily' and 'No human is a writer necessarily' can both be false.
+4
+Exclude mental propositions
+The passage warns against mental or non-conventional propositions (e.g., 'some species is human'), which do not follow normal predication rules and are excluded from contradiction.
+5
+Test with examples
+Apply the three conditions to a variety of pairs from Islamic sciences (e.g., fiqh or kalam) to determine if they truly contradict.
+Example: 'Every intoxicant is forbidden' and 'Some intoxicant is not forbidden' pass all conditions.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+قوله ولابد من الاختلاف: أي يشترط في التناقض أن يكون إحدى القضيتين موجبة والأخرى سالبة؛ ضرورة أن الموجبتين وكذا السالبتين قد تجتمعان في الصدق والكذب معاً، ثم إن كانت القضيتان محصورتين يجب اختلافهما في الكم أيضاً، كما مر، ثم إن كانتا موجهتين يجب اختلافهما في الجهة؛ فإن الضروريتين قد تكذبان معا، كقولنا كل إنسان كاتب بالضرورة ولا شيء من الإنسان بكاتب بالضرورة والممكنتين قد تصدقان معاً، كقولنا: كل إنسان كاتب بالإمكان العام ولا شيء من الإنسان بكاتب بالإمكان العام.
+يرد: أنه
+لفظ
+قد تصدقان واعلم أنهم أخرجوا القضايا الذهنية وغير المتعارفة عن التناقض وعن العكوس أيضاً، فلا يصدق على بعض النوع إنسان ولا يكذب نقيضه وهو لا شيء من النوع بإنسان؛ إذ الجزئية المذكورة ليست متعارفة؛ إذ الإنسان لا يصدق على النوع صدق الكلي على جزئياته فافهم وبالعكس: قيل: لا حاجة إلى قوله: "بالعكس"؛ لأنه مندرج في قوله "من" صدق كل كذب الأخرى"؛ إذ المراد من لفظ "كل" وكذا من "الأخرى" أعم من الأصل والنقيض معاً، أقول: هذا الاندراج يفهم بدلالة الالتزام والالتزام مهجور في التعريفات. أي يشترط إشارة إلى أن لفظ "لابد" قد يستعمل في الركن وتارة في الشرط وههنا مستعمل في الشرط بقرينة ذكره بعد التعريف، وإلى أن الاختلاف في الكيف شرط في الجميع والاختلاف في الكم شرط في نوع منه وهو التناقض بين المحصورتين فلا يرد النقض ؛ لوجود التناقض بين المخصوصتين بدون الاختلاف في الكم. في الصدق نحو كل إنسان حيوان وبعض الإنسان حيوان ولا شيء من الإنسان بفرس وبعض الإنسان ليس بفرس. والكذب: نحو كل إنسان فرس وبعض الإنسان فرس ولا شيء من الإنسان بناطق وبعض الإنسان ليس بناطق.(محصل)
+His statement: 'and there must be difference' means that for contradiction it is required that one of the two propositions be affirmative and the other negative, of necessity, because two affirmatives and likewise two negatives may concur in truth and falsehood together. Then if the two propositions are quantified, they must also differ in quantity, as mentioned. Then if they are modalized, they must differ in modality; for two necessary propositions may both be false, like our statement 'every human is a writer necessarily' and 'no human is a writer necessarily', and two possible propositions may both be true, like our statement 'every human is a writer with general possibility' and 'no human is a writer with general possibility'. It is objected that the phrase 'they may both be true' [is problematic?]. Know that they have excluded mental propositions and non-conventional propositions from contradiction and also from converses. So 'some species is human' is not true, and its contradictory 'no species is human' is not false, because the mentioned particular is not conventional, since 'human' is not predicated of 'species' as a universal of its particulars. Understand this. And the reverse: It was said: there is no need for his statement 'and the reverse' because it is included in his statement 'from the truth of each the falsehood of the other', since the meaning of 'each' and likewise 'the other' is more general than the original and its contradictory together. I say: this inclusion is understood by implicative connotation, and implicative connotation is abandoned in definitions. It means that the word 'must' may be used for an integral part and sometimes for a condition, and here it is used for a condition by the context of its mention after the definition, and that difference in quality is a condition in all cases, and difference in quantity is a condition in one type, namely contradiction between quantified propositions, so the objection is not valid because contradiction exists between non-quantified propositions without difference in quantity. For truth: like 'every human is an animal' and 'some human is an animal' and 'no human is a horse' and 'some human is not a horse'. And falsehood: like 'every human is a horse' and 'some human is a horse' and 'no human is a speaker' and 'some human is not a speaker'. (Summarized)
+Source pages p. 120
+
+Commentary
+This passage enumerates and explains the three conditions for two propositions to be contradictory: difference in quality (i.e., one affirmative, one negative), difference in quantity (if they are quantified, they must be one universal and one particular), and difference in modality (if they are modalized, they must be one necessary and one possible, etc.). The commentary provides examples: two necessary propositions like 'every human is a writer necessarily' and 'no human is a writer necessarily' can both be false (since humans have free will), so they are not contradictory. Two possible propositions like the same statements with 'general possibility' can both be true (since it is possible for all humans to be writers and also possible for none to be writers), so they are not contradictory. The passage then addresses an objection about the phrase 'they may both be true' and clarifies that mental propositions and non-conventional propositions are excluded from contradiction and conversion. For example, 'some species is human' is not a conventional proposition because 'human' is not predicated of 'species' in the usual way, so its supposed contradictory 'no species is human' is not a real contradictory. There is also a discussion about the necessity of including 'and the reverse' in the definition: some argue it is implied, but the commentator rejects this because implicative connotation is not valid in definitions. Finally, the condition of quantity is clarified: it only applies to quantified propositions; non-quantified propositions (like particular affirmative and particular negative) can still be contradictory? Actually the text says that contradiction exists between non-quantified propositions (makhṣūṣāt) without difference in quantity, giving examples like 'every human is an animal' (true) and 'some human is an animal' (true) are both true? That doesn't seem right; perhaps the examples illustrate that for truth, both can be true, but for falsehood, both can be false. The text here is summarizing the conditions.
+
+Key Terms
+الكيف
+الكم
+الجهة
+القضايا الذهنية
+
+Key Terms from Source Passage
+
+Checkpoint
+Which pair of propositions does NOT satisfy the conditions for contradiction as described in the passage?
+A) 'Every intoxicant is forbidden' and 'Some intoxicant is not forbidden'
+B) 'Some animal is human' and 'No animal is human'
+C) 'Every human is mortal necessarily' and 'No human is mortal necessarily'
+D) 'Every human is a writer possibly' and 'Some human is not a writer possibly'
+
+Key Takeaway
+To be truly contradictory, two propositions must differ in quality, quantity (if quantified), and modality (if modalized); otherwise, they may both be true or both false.
+
+How This Lesson Applies — to MY Life?
+?
+Given the pair: 'Every alcoholic beverage is forbidden' and 'Some alcoholic beverage is not forbidden', check if they satisfy the three conditions for contradiction. Are they contradictory?
+?
+Identify which condition fails in this pair: 'Every human is a writer necessarily' and 'No human is a writer necessarily'. Explain why they are not contradictory.
+
+Pages p. 120 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 123
+Module 12 · Lesson 54
+Next →
+Propositions
+intermediate
+7 min
+Contradictory of the Perpetual Proposition
+Author explains the contradictory of the perpetual proposition
+
+Learning Objective
+By the end of this lesson, you will be able to identify the contradictory of any perpetual proposition and explain why logicians use the absolute universal as its practical contradictory.
+
+Core Idea
+The contradictory of 'always S is P' is not a standard proposition, so logicians adopt the absolute universal.
+
+In modal logic, the perpetual proposition asserts that a predicate holds for a subject at all times. Its exact logical contradictory would be 'not always', but this is not a common propositional form. This lesson clarifies how logicians resolve this by using the absolute universal proposition as a practical substitute.
+
+Guided Path
+1
+Recognize the perpetual proposition
+Identify a proposition that affirms a predicate for all times without restriction, e.g., 'All bodies are temporally originated always'.
+2
+Determine the explicit logical contradictory
+The logical negation of 'always S is P' is 'not always S is P', equivalent to 'at some time, S is not P'.
+This form is not a standard modal proposition.
+3
+Understand the solution
+Logicians use the absolute universal ('S is P at some indefinite time') as a working contradictory because it is entailed by the negation and fits standard propositional forms.
+The passage says the explicit contradictory is not a complete meaningful concept.
+4
+Apply to an Islamic example
+Given the perpetual proposition 'Every substance is always temporally originated', its practical contradictory in logical discourse is 'Every substance is temporally originated' (absolute universal).
+This is used in kalam arguments about the world's origination.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولما لم يكن لنقيضها الصريح وهو اللادوام مفهوم محصل معتبر من القضايا المتعارفة المتداولة قالوا: نقيض الدائمة هو المطلقة العامة. ثم اعلم أن نسبة الحينية الممكنة إلى المشروطة العامة، كنسبة الممكنة العامة إلى الضرورية؛ فإن الحينية الممكنة أي التي حكم فيها بسلب الضرورة الوصفية أي الضرورة ما دام الوصف عن الجانب المخالف، فتكون نقيضا صريحا لما حكم فيها بضرورة الجانب الموافق بحسب الوصف فقولنا بالضرورة كل كاتب متحرك الأصابع ما دام كاتبا نقيضه ليس بعض الكاتب متحرك الأصابع حين هو كاتب بالإمكان، ونسبة الحينية المطلقة وهي قضية حكم فيها بفعلية النسبة حين اتصاف ذات الموضوع بالوصف العنواني إلى العرفية كنسبة المطلقة العامة إلى الدائمة؛
+And since its explicit contradictory, which is not-perpetual, is not a complete meaningful concept among common and current propositions, they said: the contradictory of the perpetual is the absolute universal. Then know that the ratio of the possible conditional to the conditional universal is like the ratio of the absolute possible to the necessary; for the possible conditional is that in which is judged the negation of descriptive necessity, i.e., necessity as long as the description [exists] from the opposite side, so it is an explicit contradictory to that in which is judged the necessity of the agreeing side according to the description; so our saying necessarily every writer moves his fingers as long as he is a writer, its contradictory is not some writer moves his fingers when he is a writer possibly. And the ratio of the absolute conditional, which is a proposition in which is judged the actuality of the relation when the essence of the subject is described by the titular description, to the customary [universal] is like the ratio of the absolute universal to the perpetual.
+Source pages p. 123
+
+Commentary
+This passage defines the contradictories of modal propositions in a commentary style. It begins by addressing a potential objection: the proper contradictory of a perpetual proposition (like 'always S is P') would be 'not always S is P', but since that concept is not a commonly used proposition, logicians metaphorically call the absolute universal the contradictory. The absolute universal is 'S is P at some time', which is the entailment of 'not always'. This is a necessary relation, not an exact contradictory. The passage then draws an analogy: the relationship between the 'possible conditional' (which negates descriptive necessity from the opposite side) and the 'conditional universal' (which affirms descriptive necessity) is like the relationship between the absolute possible (negating absolute necessity) and the necessary (affirming absolute necessity). An example is given: the necessary proposition 'every writer necessarily moves his fingers as long as he is a writer' has as its explicit contradictory 'some writer does not move his fingers when he is a writer possibly', i.e., it is possible that he is not moving. This shows the structure of contradiction for modal propositions with descriptive conditions. The final part states a similar analogy: the 'absolute conditional' (affirming actuality under a description) relates to the 'customary universal' (affirming perpetual duration under a description) as the 'absolute universal' relates to the 'perpetual'.
+
+Key Terms
+الدائمة
+المطلقة العامة
+
+Key Terms from Source Passage
+
+Checkpoint
+Why do logicians use the absolute universal as the contradictory of the perpetual proposition?
+A) Because it is logically equivalent to the perpetual.
+B) Because the explicit contradictory is not a standard proposition.
+C) Because it is easier to remember.
+D) Because it is the opposite in modal strength.
+
+Key Takeaway
+The absolute universal serves as the practical contradictory of the perpetual proposition in standard logical discourse.
+
+How This Lesson Applies — to MY Life?
+?
+Given the perpetual proposition 'All acts of Allah are wise always', write its contradictory in the absolute universal form as used by logicians.
+?
+Explain why the explicit contradictory 'Not all acts of Allah are wise always' is not a common propositional form.
+
+Pages p. 123 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 123
+Module 12 · Lesson 55
+Next →
+Propositions
+advanced
+8 min
+The Possible Conditional as the Explicit Contradictory of the Conditional Universal
+Author explains the ratio of possible conditional to conditional universal
+
+Learning Objective
+By the end of this lesson, you will be able to construct the explicit contradictory of a conditional universal proposition and recognize the analogy to the contradiction between absolute necessary and absolute possible.
+
+Core Idea
+The possible conditional explicitly contradicts the conditional universal by negating descriptive necessity from the opposite side.
+
+Just as the absolute possible proposition negates absolute necessity and contradicts the necessary proposition, the possible conditional negates descriptive necessity and contradicts the conditional universal. This lesson unpacks that analogy with a concrete example from the text.
+
+Guided Path
+1
+Identify the conditional universal proposition
+Find a proposition that affirms necessity of a predicate as long as a certain description holds, e.g., 'Every writer necessarily moves his fingers as long as he is a writer'.
+This involves descriptive necessity (ḍarūra waṣfiyya).
+2
+Understand descriptive necessity
+Descriptive necessity means the predicate is necessary only while the subject possesses the description; it does not extend beyond that time.
+3
+Determine the explicit contradictory
+Negate the descriptive necessity from the opposite side: the contradictory asserts that it is possible that some subject does not have the predicate while still having the description.
+Example: 'Some writer does not move his fingers when he is a writer, possibly'.
+4
+Appreciate the analogy
+This mirrors the contradiction between absolute necessary (e.g., 'All humans are animals necessarily') and absolute possible ('Some human is not an animal possibly').
+The passage explicitly states this ratio.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+ولما لم يكن لنقيضها الصريح وهو اللادوام مفهوم محصل معتبر من القضايا المتعارفة المتداولة قالوا: نقيض الدائمة هو المطلقة العامة. ثم اعلم أن نسبة الحينية الممكنة إلى المشروطة العامة، كنسبة الممكنة العامة إلى الضرورية؛ فإن الحينية الممكنة أي التي حكم فيها بسلب الضرورة الوصفية أي الضرورة ما دام الوصف عن الجانب المخالف، فتكون نقيضا صريحا لما حكم فيها بضرورة الجانب الموافق بحسب الوصف فقولنا بالضرورة كل كاتب متحرك الأصابع ما دام كاتبا نقيضه ليس بعض الكاتب متحرك الأصابع حين هو كاتب بالإمكان، ونسبة الحينية المطلقة وهي قضية حكم فيها بفعلية النسبة حين اتصاف ذات الموضوع بالوصف العنواني إلى العرفية كنسبة المطلقة العامة إلى الدائمة؛
+And since its explicit contradictory, which is not-perpetual, is not a complete meaningful concept among common and current propositions, they said: the contradictory of the perpetual is the absolute universal. Then know that the ratio of the possible conditional to the conditional universal is like the ratio of the absolute possible to the necessary; for the possible conditional is that in which is judged the negation of descriptive necessity, i.e., necessity as long as the description [exists] from the opposite side, so it is an explicit contradictory to that in which is judged the necessity of the agreeing side according to the description; so our saying necessarily every writer moves his fingers as long as he is a writer, its contradictory is not some writer moves his fingers when he is a writer possibly. And the ratio of the absolute conditional, which is a proposition in which is judged the actuality of the relation when the essence of the subject is described by the titular description, to the customary [universal] is like the ratio of the absolute universal to the perpetual.
+Source pages p. 123
+
+Commentary
+This passage defines the contradictories of modal propositions in a commentary style. It begins by addressing a potential objection: the proper contradictory of a perpetual proposition (like 'always S is P') would be 'not always S is P', but since that concept is not a commonly used proposition, logicians metaphorically call the absolute universal the contradictory. The absolute universal is 'S is P at some time', which is the entailment of 'not always'. This is a necessary relation, not an exact contradictory. The passage then draws an analogy: the relationship between the 'possible conditional' (which negates descriptive necessity from the opposite side) and the 'conditional universal' (which affirms descriptive necessity) is like the relationship between the absolute possible (negating absolute necessity) and the necessary (affirming absolute necessity). An example is given: the necessary proposition 'every writer necessarily moves his fingers as long as he is a writer' has as its explicit contradictory 'some writer does not move his fingers when he is a writer possibly', i.e., it is possible that he is not moving. This shows the structure of contradiction for modal propositions with descriptive conditions. The final part states a similar analogy: the 'absolute conditional' (affirming actuality under a description) relates to the 'customary universal' (affirming perpetual duration under a description) as the 'absolute universal' relates to the 'perpetual'.
+
+Key Terms
+الحينية الممكنة
+المشروطة العامة
+الضرورة الوصفية
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the explicit contradictory of 'Every writer necessarily moves his fingers as long as he is a writer'?
+A) Some writer does not move his fingers when he is a writer, necessarily.
+B) Some writer does not move his fingers when he is a writer, possibly.
+C) No writer moves his fingers when he is a writer, necessarily.
+D) Every writer does not move his fingers when he is a writer, possibly.
+
+Key Takeaway
+The possible conditional explicitly contradicts the conditional universal by negating descriptive necessity from the opposite side.
+
+How This Lesson Applies — to MY Life?
+?
+Construct the explicit contradictory of the conditional universal: 'Every Muslim necessarily prays as long as he is sane.'
+?
+Explain the analogy: how does the contradiction between possible conditional and conditional universal mirror the contradiction between absolute possible and absolute necessary?
+
+Pages p. 123 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 124
+Module 12 · Lesson 56
+Next →
+Propositions
+beginner
+5 min
+Contradictory of Customary Universal and Omission of Temporal Propositions
+Author explains the contradictory of customary universal and why temporal propositions are omitted.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the contradictory of a customary universal proposition and explain why temporal and distributed propositions are omitted from the discussion of contradictories.
+
+Core Idea
+The contradictory of a customary universal is the absolute conditional; temporal and distributed propositions are omitted because they are not needed for conversion and syllogisms.
+
+In this passage, the author explains how to find the contradictory of a customary universal modal proposition—a key skill for immediate inference. He then clarifies why he does not discuss the contradictories of temporal (al-waqtiyya) and distributed (al-muntashira) simple modals: they are not required for later topics like conversion (al-ʿaks) and syllogisms (al-aqīsa). Understanding this will sharpen your ability to handle modal contradictories in Islamic logic.
+
+Guided Path
+1
+Define the customary universal
+The customary universal (al-ʿurfiyya al-ʿāmma) asserts the perpetuity of a relation as long as the subject is described by a certain attribute. For example, 'every writer moves his fingers as long as he is a writer' means that the movement holds at all times when the description 'writer' applies.
+The condition 'as long as the description applies' is crucial; it modally restricts the proposition.
+2
+Find its contradictory
+The explicit contradictory of a customary universal is the negation of that perpetuity. This negation entails that at some time when the description applies, the opposite (predicate not holding) actually occurs. This is the absolute conditional (al-ḥīniyya al-muṭlaqa).
+The contradictory is not a simple 'some S is not P' but is modalized: 'actually at some time under the description'.
+3
+Apply the rule to an example
+Take the proposition 'perpetually every writer moves his fingers as long as he is a writer'. Its contradictory is 'not some writer moves his fingers when he is a writer, actually'—meaning there is a time when a writer is not moving his fingers while being a writer.
+Notice the change in quantity (from universal to particular) and quality (affirmative to negative), plus the modal shift.
+4
+Recognize the omission
+The author did not discuss the contradictories of temporal (al-waqtiyya) and distributed (al-muntashira) absolute propositions. The reason is that these simple modals are not used in the subsequent discussions of conversion and syllogisms, so their contradictories are not needed.
+This is a practical pedagogical choice: only necessary logical tools are introduced.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+وذلك لأن الحكم في العرفية العامة بدوام النسبة ما دام ذات الموضوع متصفةً بالوصف العنواني، فنقيضها الصريح هو سلب ذلك الدوام، ويلزمه وقوع الطرف المقابل في بعض أوقات الوصف العنواني، وهذا معنى الحينية المطلقة المخالفة للعرفية العامة في الكيف، فنقيض قولنا: "بالدوام كل كاتب متحرك الأصابع ما دام كاتبا" قولنا: ليس بعض الكاتب متحرك الأصابع حين هو كاتب بالفعل، والمصنف لم يتعرض لبيان نقيض الوقتية والمنتشرة المطلقتين من البسائط؛ إذ لا يتعلق بذلك غرض فيما سيأتي من مباحث العكوس والأقيسة بخلاف باقي البسائط. فتأمل.
+And that is because the judgment in the customary universal is of the perpetuity of the relation as long as the essence of the subject is described by the titular description, so its explicit contradictory is the negation of that perpetuity, and it entails the occurrence of the opposite side in some times of the titular description, and this is the meaning of the absolute conditional which opposes the customary universal in quality; so the contradictory of our saying 'perpetually every writer moves his fingers as long as he is a writer' is our saying 'not some writer moves his fingers when he is a writer, actually'. And the author did not address the explanation of the contradictory of the temporal and distributed absolutes among the simple [modal propositions] because there is no purpose attached to that in what will come concerning the topics of conversion and syllogisms, unlike the rest of the simple [modals]. So reflect.
+Source pages p. 124
+
+Commentary
+This passage continues the discussion of contradictories for modal propositions. It defines the customary universal (al-ʿurfiyya al-ʿāmma) as a proposition that asserts the perpetuity of a relation as long as the subject is described by a certain attribute. For example, 'every writer moves his fingers as long as he is a writer' is a customary universal. Its explicit contradictory is the negation of that perpetuity: it does not hold at all times of the description. This negation entails that at some time when the description applies, the opposite (i.e., the predicate not holding) occurs. This is the 'absolute conditional' (al-ḥīniyya al-muṭlaqa), which affirms actuality of the opposite at some time under the description. The author then notes that the original text (المصنف) did not discuss the contradictories of the 'temporal' (al-waqtiyya) and 'distributed' (al-muntashira) absolute propositions among the simple modals. The reason is that these are not needed for later topics like conversion (al-ʿaks) and syllogisms (al-aqīsa), unlike the other simple modals. The phrase 'so reflect' (فتأمل) invites the reader to consider the deeper reason or the completeness of the exposition.
+
+Key Terms
+العرفية العامة
+الحينية المطلقة
+الوقتية
+المنتشرة
+
+Key Terms from Source Passage
+
+Checkpoint
+A customary universal proposition states 'Every person with a fever is thirsty as long as he has a fever'. What is its explicit contradictory?
+A) Some person with a fever is not thirsty when he has a fever, necessarily.
+B) Some person with a fever is not thirsty when he has a fever, actually.
+C) Every person with a fever is not thirsty as long as he has a fever, possibly.
+D) Some person with a fever is thirsty when he has a fever, perpetually.
+
+Key Takeaway
+The contradictory of a customary universal is the absolute conditional, affirming actual occurrence of the opposite at some time; temporal and distributed modals are omitted because they are not needed for conversion and syllogisms.
+
+How This Lesson Applies — to MY Life?
+?
+Construct a customary universal proposition regarding a different Islamic ruling (e.g., 'Every prayer is invalid if the person speaks during it, as long as the speaking continues'). Write its explicit contradictory according to the rule taught, and verify that it matches the absolute conditional form.
+?
+Identify a temporal proposition (al-waqtiyya) from Islamic theology (e.g., 'Adam disobeyed at a specific time in Paradise'). Explain why the author omits its contradictory from discussion and whether that omission is justified given the uses of such propositions in theological debates.
+
+Pages p. 124 · Propositions
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 126
+Module 12 · Lesson 57
+Next →
+Propositions
+intermediate
+6 min
+Contradictory of Compound Particular Propositions
+Author explains the method for contradicting a compound particular proposition and resolves a potential objection.
+
+Learning Objective
+By the end of this lesson, you will be able to correctly derive the contradictory of a compound particular proposition using the method of disjunctive predicate over individuals.
+
+Core Idea
+The contradictory of a compound particular is a universal with a disjunctive predicate — not just a disjunction of its parts' contradictories.
+
+In this lesson, we examine how to correctly derive the contradictory of a compound particular proposition. The author clarifies a common misunderstanding and provides the exact method, which involves iterating over each individual of the subject and disjoining the contradictories of the two parts.
+
+Guided Path
+1
+Break down the compound proposition
+Identify the two parts: the basic predicate and the modal modifier. For example, in 'Some animal is actually man, not always', the two parts are 'is man' (the assertion) and 'not always' (the negation of the modal).
+The compound has an existential part and a modal part.
+2
+Test the naïve method
+Try taking the contradictories of each part separately (e.g., 'No animal is man always' and 'Every animal is man always') and disjoining them. Notice that both of these universal propositions can be false while the original is false, so this disjunction is not the correct contradictory.
+The naïve method fails because both universals can be false simultaneously.
+3
+Apply the correct method: universalize and disjoin for each individual
+Since the contradictory of a particular is a universal, start with 'Every animal...'. For each individual, disjoin the contradictories of the two parts: 'either always man or not always man'. This covers every possibility for each individual.
+The contradiction must hold for every individual, not just the whole subject.
+4
+Form the full proposition
+Combine to form: 'Every animal is either always man or not always man'. This is a categorical proposition with a disjunctive predicate (murakkab mahmūl).
+This disjunctive proposition is equivalent to the true contradictory.
+5
+Verify the equivalence
+Check that this disjunctive proposition is false when the original is true (since the original says 'some animal is man actually not always', but the disjunctive says every animal must be either always or not always, which does not allow the 'actually not always' status without contradiction?) Actually, the author notes it is metaphorically called a contradictory because it is equivalent. Ensure understanding that it satisfies the conditions of contradiction (cannot both be true or false).
+The original and its disjunctive counterpart cannot both be true or both false.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+التصديقات
+١٢٥
+نقائض الموجهات البسيطة
+ولكن في الجزئية بالنسبة إلى كل فرد فرد.
+على حقائق المركبات ونقائض البسائط تتمكن من استخراج تفاصيل نقائض المركبات: قوله: ولكن في الجزئية بالنسبة إلى كل فرد فرد يعني لا يكفي في أخذ نقيض القضية المركبة الجزئية الترديد بين نقيضي جزئيها وهما الكليتان إذ قد تكذب المركبة الجزئية، كقولنا: بعض الحيوان إنسان بالفعل لا دائما ويكذب كلا نقيضي جزئيها أيضاً وهما: قولنا: لا شيء من الحيوان بإنسان دائما وقولنا كل حيوان إنسان دائما، وحينئذ فطريق أخذ نقيض المركبة الجزئية أن يوضع أفراد الموضوع كلها ضرورة أن نقيض الجزئية هي الكلية ثم تردد بين نقيضي الجزئين بالنسبة إلى كل واحد من تلك الأفراد فيقال في المثال المذكور كل حيوان إما إنسان دائما أو ليس بإنسان دائما وحينئذٍ فيصدق النقيض وهو قضية حملية مرددة المحمول. فقوله بالنسبة إلى كل فرد فرد أي أفراد الموضوع.
+ولكن في الجزئية: دفع للتوهم الناشي من قوله : " وللمركبة إلخ" من أنها وقعت مطلقة غير مقيدة بالكلية والمطلقات العلوم كليات، فيتوهم أن المفهوم المردد نقيض للمركبة الجزئية أيضاً.
+لا شيء من الحيوان إلخ وكذبهما ظاهر؛ لأنه يلزم في الأول سلب الأخص عن جميع أفراد الأعم وفي الثاني حمل الأخص على كل أفراد الأعم وكلاهما باطلان.
+كل حيوان إما إنسان إلخ إن قيل: إن هذه القضية الحملية المرددة المحمول كيف تكون نقيضا للوجودية اللادائمة المذكورة أي :قولنا بعض الحيوان إنسان بالفعل لا دائما؛ فإن كلا من هاتين القضيتين موجبتان ومن شرائط التناقض الاختلاف في الإيجاب والسلب كما مر فجوابه أن إطلاق النقيض ههنا على التجوز، وفي الحقيقة أنها مساوية لنقيضها. إسماعيل)
+Propositions
+125
+Contradictories of Simple Modal Propositions
+But regarding the particular [proposition], with respect to every single individual.
+On the realities of compounds and the contradictories of simples you can derive details of contradictories of compounds. His saying: 'but regarding the particular, with respect to every single individual' means it is not sufficient in taking the contradictory of a compound particular proposition to disjunct between the contradictories of its two parts, which are the two universals, because the compound particular may be false, as in our saying 'Some animal is actually man, not always', and both of the contradictories of its two parts are also false, namely our saying 'No animal is man always' and our saying 'Every animal is man always'. Then the method of taking the contradictory of the compound particular is to posit all the individuals of the subject—since the contradictory of a particular is a universal—and then disjunct between the contradictories of the two parts with respect to each of those individuals. So in the mentioned example we say: 'Every animal is either always man or not always man', and then the contradictory is true, and it is a categorical proposition with a disjunctive predicate. So his saying 'with respect to every single individual' means the individuals of the subject.
+But [the phrase] 'but regarding the particular' is a repulsion of the misunderstanding arising from his statement 'and regarding the compound etc.' that the compound particular proposition occurred as absolute, not restricted by universality, while the absolutes of the sciences are universals, so one might imagine that the disjunctive concept is also a contradictory of the compound particular.
+The falsity of 'No animal is man always' and 'Every animal is man always' is apparent because the first entails negating the more specific from all individuals of the more general, and the second entails predicating the more specific of all individuals of the more general, and both are false.
+If it is said: How can this categorical proposition with disjunctive predicate 'Every animal is either always man or not always man' be a contradictory of the mentioned non-permanent existential proposition, i.e., our saying 'Some animal is actually man, not always', since both propositions are affirmative, and one of the conditions of contradiction is difference in affirmation and negation as previously mentioned? The answer is that the application of 'contradictory' here is metaphorical; in reality it is equivalent to its contradictory. [Isma'il]
+Source pages p. 126
+
+Commentary
+This passage defines the correct method for deriving the contradictory of a compound particular proposition, and it is a commentary on an earlier matn. The author begins by noting a misunderstanding: one might think that simply disjoining the contradictories of the two parts (the two universals) suffices to form the contradictory of a compound particular. He demonstrates this failure with an example: 'Some animal is actually man, not always'. The two parts are 'is man' and 'not always', whose contradictories would be 'No animal is man always' and 'Every animal is man always', but both of these are false. The proper method requires taking the subject's individuals one by one. Since the contradictory of a particular is a universal, we must say: 'Every animal is either always man or not always man'. This is a categorical proposition with a disjunctive predicate. The author then clarifies that the phrase 'with respect to every single individual' refers to the individuals of the subject. He then addresses a potential objection: if the disjunctive proposition 'Every animal is either always man or not always man' and the original 'Some animal is actually man, not always' are both affirmative, how can they be contradictories? The answer is that 'contradictory' is used metaphorically; in fact, the disjunctive proposition is equivalent to the true contradictory.
+
+Key Terms
+نقيض
+قضية مركبة جزئية
+مردد المحمول
+موجهات
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the author, what is the correct contradictory of the compound particular proposition 'Some animal is actually man, not always'?
+A) No animal is man always.
+B) Every animal is man always.
+C) Every animal is either always man or not always man.
+D) Some animal is not man always.
+
+Key Takeaway
+The contradictory of a compound particular proposition is a universal categorical with a disjunctive predicate, formed by iterating over each individual of the subject.
+
+How This Lesson Applies — to MY Life?
+?
+Given the compound particular proposition 'Some rulings are derived from Qiyās only, not from text', construct its contradictory using the described method (use 'Every ruling is either... or...').
+?
+Explain why the naïve approach (disjoining the contradictories of the two parts) fails for the proposition 'Some scholars are jurists by training, not innately'. What are the two universal contradictories that would be false?
+
+Pages p. 126 · Propositions
+← Prev
+Mark Done
+Next →

@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:39Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Sawad%20al-Azam%20-%20Imam%20Samarqandi%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/maturidi/41 - Al-Sawad al-Azam - Imam Samarqandi RA",
+  "output_bytes": 1378763,
+  "output_sha256": "dc0c581712be4225023976f9a711e2de9b22dea85a4e289df9a9d058362d19c3",
+  "checks": {
+    "catalog_expected_lessons": 179,
+    "course_reported_lessons": 179,
+    "index_lessons": 179,
+    "full_lessons": 179,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 12,
+    "course_reported_modules": 12,
+    "modules": 12,
+    "course_reported_sources": 109,
+    "sources": 109
+  }
+}

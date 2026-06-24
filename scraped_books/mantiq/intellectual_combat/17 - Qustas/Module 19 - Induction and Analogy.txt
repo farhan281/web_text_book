@@ -1,0 +1,240 @@
+← Prev
+p. 568
+Module 19 · Lesson 1
+Next →
+Induction and Analogy
+beginner
+5 min
+The Definition and Types of Induction
+Author defines induction and distinguishes complete from incomplete induction.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish complete induction from incomplete induction and identify the epistemic status of each.
+
+Core Idea
+Complete induction gives certainty; incomplete induction only gives probability.
+
+This passage introduces induction as a path to knowledge in Islamic logic. The author clarifies that the strength of an inductive conclusion depends on whether all particulars are enumerated. Understanding this distinction is crucial for evaluating arguments in Islamic sciences that move from specific cases to general rulings.
+
+Guided Path
+1
+Identify the definition of induction
+Read the first sentence: Induction is establishing a universal judgment based on the judgment being established in the particulars. This is the core definition.
+Induction moves from specific instances to a general rule.
+2
+Recognize the condition for certainty
+Look for the phrase 'if the enumeration of particulars is known'. When all particulars are counted, the induction is complete and yields certainty.
+This is called 'complete induction' or 'divided syllogism'.
+3
+Understand the consequence of incomplete enumeration
+Read the second condition: 'otherwise', meaning if not all particulars are enumerated, the induction yields only probability (zann). The reason is that unobserved cases could differ.
+This is the typical induction used in most real-world arguments.
+4
+Note the alternative terminology
+Complete induction is also called 'al-qiyas al-muqassam' (the divided syllogism). Recognize this term for later study.
+This term is used by Ibn Sina and later logicians.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+[المسلك] الخامس
+الاستقراء
+و هو إثبات الحكم على الكلي بواسطة ثبوته في الجزئيات.
+١. فإن علم حصر الجزئيات، يفيد اليقين ويسمى استقراءً تاماً، و هو «القياس المقسم».
+٢. و إلا فلا يفيد إلّا الظن لجواز أن يكون حال غير المستقراء بخلاف حال المستقراء.
+The Fifth Path: Induction. It is the establishment of a universal judgment by virtue of its being established in the particulars. 1. If the enumeration of the particulars is known, it yields certainty and is called complete induction, and it is the 'divided syllogism'. 2. Otherwise, it yields only probability because it is possible that the state of the non-inducted [particulars] differs from the state of the inducted [particulars].
+Source pages p. 568
+
+Commentary
+This passage defines induction (istiqra') as a method of reasoning that moves from particulars to a universal. The author divides induction into two types. (1) Complete induction (istiqra' tamm): when all particulars are enumerated and known, the universal judgment is certain. This is also called 'the divided syllogism' (al-qiyas al-muqassam), because it effectively partitions the universal into all its species. For example, to prove 'Every act of worship is either obligatory, recommended, prohibited, disliked, or permissible', one would examine each category exhaustively. Since the enumeration is complete, the conclusion is certain. (2) Incomplete induction: when not all particulars are examined, the conclusion is only probable, because the unobserved cases might differ from the observed ones. For instance, inferring 'All jurists are proficient in Arabic grammar' from a sample of jurists is merely probable, as some jurists may lack this proficiency. The author thus clarifies the epistemic distinction between certain and probable induction, a crucial point for dialectical and demonstrative reasoning.
+
+Key Terms
+الاستقراء
+حصر الجزئيات
+اليقين
+الظن
+القياس المقسم
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is the epistemic status of incomplete induction?
+A) It yields certainty.
+B) It yields probability.
+C) It yields ignorance.
+D) It yields knowledge through a middle term.
+
+Key Takeaway
+Induction yields certainty only when all particulars are exhaustively enumerated; otherwise, it yields only probability.
+
+How This Lesson Applies — to MY Life?
+?
+Identify whether each of the following inductive arguments is complete or incomplete: (1) 'All jurists are scholars because I have met ten of them and they are scholars.' (2) 'The Quran consists of 114 surahs; each surah is miraculous; therefore the Quran is miraculous.'
+?
+Give an example of an incomplete induction from your study of fiqh or kalam and explain why it does not yield certainty.
+
+Pages p. 568 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 569
+Module 19 · Lesson 2
+Next →
+Induction and Analogy
+beginner
+5 min
+Analogy: Definition and Conditions for Certainty
+Definition and conditions of analogy
+
+Learning Objective
+By the end of this lesson, you will be able to identify the components of an analogy (root, branch, cause) and list the four conditions required for it to yield certainty.
+
+Core Idea
+Analogy only yields certainty if the cause is established, the branch is capable, conditions are met, and obstacles absent.
+
+In this passage, the author introduces the sixth logical path: analogy (al-tamthīl). He breaks it down into its essential parts and then lists the stringent conditions that must hold for analogy to produce certainty. This is a foundational tool in Islamic jurisprudence (uṣūl al-fiqh) and dialectic (jadal), but the author warns that true certainty from analogy is extremely difficult to achieve.
+
+Guided Path
+1
+Identify the definition of analogy
+Read the Arabic definition: 'إلحاق شيء بشبيه في حكم ثابت له'. Note the three key elements: the thing (branch), the similar (root), and the ruling already established for the root.
+The word 'شبيه' emphasizes similarity.
+2
+Extract the three components: root, branch, unifier
+The passage names the two cases: الأصل (root) and الفرع (branch). The shared attribute is called الجامع (unifier) or العلة (cause). Understand that the analogy transfers the ruling from root to branch based on this common attribute.
+In fiqh, the unifier is often called 'illah.
+3
+Analyze the example provided
+The author gives an example: likening the sky to a house in being originated (حادث) because both are composed and shaped. This shows a concrete application: the root is house, the branch is sky, the ruling is contingency/huduth, and the unifier is being composed and shaped.
+This example is from kalām, not fiqh.
+4
+List the four conditions for certainty
+The passage lists: (1) ثبوت علية المشترك – establishing that the shared attribute is the cause, (2) قابلية الفرع – the branch must be susceptible to the ruling, (3) اجتماع الشرائط – all conditions must be met, (4) ارتفاع الموانع – obstacles must be removed. Recognize that these are prerequisites for certainty, not for a weak analogy.
+The author says establishing these premises is very difficult.
+5
+Assess the author's conclusion
+The author states that fulfilling all conditions is 'عسير جداً' (very difficult). This indicates that analogy rarely yields certainty in practice, though it can be a useful probabilistic tool.
+This underscores the rigor expected in logical demonstration.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المسلك السادس: التمثيل و هو إلحاق «شيء» بـ«شبيه» في «حكم ثابت له». والأول يسمى «فرعاً» و «مقيساً» و الثاني «أصلاً» و «مقيساً عليه» و وجه المشابهة «جامعاً» و «علة». و ذلك كإلحاق السماء بالبيت في الحدوث لكونه مؤلفا و متشكلا كالبيت. و ذلك لا يفيد اليقين إلا بعد : ثبوت علية المشترك، وقابلية الفرع، و اجتماع الشرائط، و ارتفاع الموانع. لكن ثبوت هذه المقدمات عسير جداً.
+The sixth path: Analogy, and it is the attachment of a 'thing' to a 'similar' in a 'ruling established for it'. The first is called 'branch' and 'measured', and the second 'root' and 'that upon which it is measured', and the aspect of similarity is 'unifier' and 'cause'. And that is like attaching the sky to the house in being originated because it is composed and shaped like the house. And that yields certainty only after: the establishment of the causality of the shared attribute, the susceptibility of the branch, the meeting of conditions, and the removal of obstacles. But the establishment of these premises is very difficult.
+Source pages p. 569
+
+Commentary
+This passage defines analogy (التمثيل) as a logical method: joining a thing (the branch/فرع) to something similar (the root/أصل) in a ruling that is already established for the root. The aspect of similarity is called the 'unifier' (جامع) or 'cause' (علة). The author gives the example of likening the sky to a house in being originated (حادث), because the sky is composed and shaped like a house. The passage then lists four conditions for analogy to yield certainty: (1) establishing that the shared attribute is the cause (علية المشترك), (2) confirming that the branch is capable of receiving the ruling (قابلية الفرع), (3) meeting all relevant conditions (اجتماع الشرائط), and (4) absence of obstacles (ارتفاع الموانع). The author concludes that establishing these premises is very difficult (عسير جداً), implying that analogy rarely produces certainty. In Islamic jurisprudence, analogy (قياس) is a central method, but the conditions here mirror those in uṣūl al-fiqh for valid qiyās: the cause must be effective, the branch must share the cause, etc.
+
+Key Terms
+التمثيل
+الفرع
+الأصل
+الجامع
+العلة
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the text, what is needed for analogy to yield certainty?
+A) A single shared attribute.
+B) The branch is similar to the root in form.
+C) Establishing the cause, susceptibility, conditions, and no obstacles.
+D) The ruling must be well-known.
+
+Key Takeaway
+Analogy is only certain when all four conditions are met, which is rarely achieved; thus, most analogies are probabilistic.
+
+How This Lesson Applies — to MY Life?
+?
+Take the qiyās example: 'Wine is prohibited because it is intoxicating. Nabidh (date-wine) is intoxicating. Therefore, nabidh is prohibited.' Identify the root, branch, cause (ʻillah), and the ruling. Then check whether the four conditions from the passage are plausibly met.
+?
+Construct an original analogy from fiqh (e.g., extending the prohibition of ribā to a new financial transaction). List the root, branch, ruling, cause, and explain why each of the four conditions might or might not be satisfied.
+
+Pages p. 569 · Induction and Analogy
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 618
+Module 19 · Lesson 3
+Next →
+Induction and Analogy
+intermediate
+7 min
+Distinguishing Apparent and Actual Infinite Regress
+Author explains when infinite regress is merely apparent and when it is real but not impossible.
+
+Learning Objective
+By the end of this lesson, you will be able to distinguish between apparent and actual infinite regress in Islamic theological arguments, and identify when a regress is harmless.
+
+Core Idea
+Not every infinite regress is fallacious — some are merely apparent, some real but not impossible.
+
+In Islamic theology (kalam), the charge of infinite regress (tasalsul) is often used to refute arguments. However, as the author explains, not every chain that appears regressive is actually so. Some regresses are only apparent due to self-referential concepts, while others, like the chain of effects from the side of the effect, are real but not logically impossible. This lesson will equip you to analyze such regress claims critically.
+
+Guided Path
+1
+Identify the claim about regress
+What exactly is being claimed to regress? Is it a causal chain or a conceptual dependency?
+2
+Analyze the existence-in-a-locus example
+The example shows that if existence in a locus were an accident, it would require another existence. The solution is that existence exists by itself. Notice how the apparent regress is resolved by recognizing a self-grounding concept.
+3
+Recognize other self-referential concepts
+The author lists analogous pairs: existence of existence, necessity of necessity, etc. These are not genuine regresses because the second term adds nothing new.
+4
+Understand the mathematical analogy
+One is half of two, half of two is a third of three, etc. This is a conceptual relation, not a real regress.
+5
+Distinguish actual but harmless regress
+The author notes that regress from the side of the effect (e.g., an infinite series of effects without a first cause) is not impossible. In Islamic theology, this relates to the possibility of an eternal world.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+.. وربما يظن وقوع التسلسل و لا يكون كذلك:
+.a. كما قيل: «لو كان الحصول في المحل أمراً وجودياً لكان حاصلاً في المحل لكونه عرضاً فيكون للحصول حصول و يعود الكلام في حصوله و يلزم التسلسل
+و الحصول يكون حاصلاً بذاته لا بحصول آخر.
+b. وكذا وجود الوجود و لزوم اللزوم ووحدة الوحدة وقدم القدم وحدوث
+الحدوث و أمثال ذلك.
+.. وكما أن الواحد يلزمه كونه نصف الاثنين و لنصف الاثنين ثلث الثلاثة لثلث الثلاثة كونه رُبع الأربعة و على هذا إلى غير النهاية فيظن التسلسل.
+. وربما يقع التسلسل و لا يكون محالاً:
+.. كما يكون من طرف المعلول.
+.. And perhaps an infinite regress is thought to occur and it is not so:
+a. As was said: 'If existence in a locus were something existential, it would be existing in the locus because it is an accident, so existence would have an existence and the discussion would return to its existence and an infinite regress would follow.'
+And existence exists by itself, not by another existence.
+b. And likewise the existence of existence, the necessity of necessity, the unity of unity, the eternity of eternity, the originatedness of originatedness, and the like.
+.. And just as one necessitates that it is half of two, and half of two necessitates a third of three, and a third of three necessitates a fourth of four, and so on ad infinitum, so an infinite regress is thought.
+. And perhaps an infinite regress occurs and is not impossible:
+.. As it occurs from the side of the effect.
+Source pages p. 618
+
+Commentary
+This passage continues the discussion of precautions, now addressing infinite regress (tasalsul). The first point is that many apparent infinite regresses are not actual. The example given is about the existence of an accident in a substrate. If we say that existence in a substrate is itself an existential accident, then it would require another existence, leading to regress. The solution is that existence exists by itself, not through another existence. Similarly, phrases like 'the existence of existence' or 'the necessity of necessity' might seem to regress, but they are reflexive or self-referential concepts that do not entail a chain. A mathematical example is the fractional relations of numbers: one is half of two, half of two is a third of three, etc., which appears to regress but is simply a conceptual relation. The second point is that actual infinite regress can occur and is not impossible, specifically when it is from the side of the effect (i.e., a causal series of effects without beginning). In Islamic theology, this is relevant to arguments about the eternity of the world or the chain of created things.
+
+Key Terms
+تسلسل
+
+Key Terms from Source Passage
+
+Checkpoint
+What is an example given of an apparent infinite regress that is not real?
+A) The dependence of an effect on a cause
+B) The existence of existence in a substrate
+C) The sequence of fathers and sons
+D) The chain of causes from the First Cause
+
+Key Takeaway
+Infinite regress must be carefully analyzed: some are merely apparent due to self-referential concepts, while others are actual but not impossible, especially from the side of the effect.
+
+How This Lesson Applies — to MY Life?
+?
+Identify an example of an apparent infinite regress in Islamic theology (e.g., the attributes of Allah being identical to His essence might seem to regress if each attribute had its own existence). Explain why the author would consider it only apparent.
+?
+Consider the claim: 'For every created being, there must be a creator. This leads to an infinite regress of creators, which is impossible. Therefore, the first created being must have no creator.' Using the lesson, assess whether this regress is from the side of the effect or the cause, and whether it is impossible.
+
+Pages p. 618 · Induction and Analogy
+← Prev
+Mark Done
+Next →

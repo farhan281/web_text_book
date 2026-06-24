@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:31Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Sharh%20Al-Mawaqif%20Vol.%208/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/kalam/37 - Sharh Al-Mawaqif Vol. 8",
+  "output_bytes": 19161029,
+  "output_sha256": "9414efa4e83648d20fc7ec0cfdb6794359d4ace60b09e74df914321c56c0cdc0",
+  "checks": {
+    "catalog_expected_lessons": 2221,
+    "course_reported_lessons": 2221,
+    "index_lessons": 2221,
+    "full_lessons": 2221,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 1563,
+    "sources": 1563
+  }
+}

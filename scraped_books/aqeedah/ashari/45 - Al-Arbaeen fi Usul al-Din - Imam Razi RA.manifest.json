@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "scraped_utc": "2026-06-24T08:58:50Z",
+  "source_app_url": "https://aqeedah-courses.pages.dev/Al-Arbaeen%20fi%20Usul%20al-Din%20-%20Imam%20Razi%20RA/static_app/",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/aqeedah/ashari/45 - Al-Arbaeen fi Usul al-Din - Imam Razi RA",
+  "output_bytes": 16914364,
+  "output_sha256": "3110fdefbf25e29a811bfda45af043fe20d8a48e8518ac8be817167d811c7356",
+  "checks": {
+    "catalog_expected_lessons": 2176,
+    "course_reported_lessons": 2176,
+    "index_lessons": 2176,
+    "full_lessons": 2176,
+    "missing_full_lesson_ids": [],
+    "extra_full_lesson_ids": [],
+    "catalog_expected_modules": 18,
+    "course_reported_modules": 18,
+    "modules": 18,
+    "course_reported_sources": 1725,
+    "sources": 1725
+  }
+}

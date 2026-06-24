@@ -1,0 +1,77 @@
+← Prev
+p. 49
+Module 10 · Lesson 1
+Next →
+Textual and Editorial Notes
+advanced
+15 min
+Critique of the Popular Proof for Rest Between Motions
+Commentator critiques the popular proof and the author's mixing of methods.
+
+Learning Objective
+By the end of this lesson, you will be able to identify the two methods for proving rest between rectilinear motions and explain why the popular method is invalidated by the problem of intermediate limits.
+
+Core Idea
+A proof that requires infinite rests is absurd; Avicenna's inclination method avoids this flaw.
+
+Philosophers debate whether a body that moves in one direction then the opposite must rest between the two motions. This passage from the commentary on Hidayat al-Hikma presents two proofs: the popular instant-based method and Avicenna's inclination method. The commentator then criticizes the author for mixing them redundantly. Let's dissect the logic behind both approaches and the critique.
+
+Guided Path
+1
+Understand the popular method's claim
+The popular method asserts that arrival at the limit (hadd) occurs in an instant, not over time, because the limit is the endpoint of the distance.
+2
+Trace the logical steps
+If arrival were temporal and divisible, then when the body is in one part of that time, it would not have arrived at the limit, contradicting the assumption. Hence arrival is instantaneous. Similarly, departure from the limit is instantaneous.
+This is a reductio ad absurdum.
+3
+See how it leads to a rest period
+Arrival and departure cannot coexist in the same instant, so they must be in two distinct instants. Since instants cannot be consecutive without time between them, there is a temporal interval, which is rest.
+This rests on the impossibility of successive instants.
+4
+Identify the flaw
+If we apply the same reasoning to any limit assumed in the middle of the distance, we would require a rest at every midpoint, leading to infinitely many rests, which is absurd.
+The commentator calls this 'naqada' (invalidated).
+5
+Compare with Avicenna's method
+Avicenna (al-Shaykh) rejected the popular method and provided a proof based on two opposing inclinations (maylayn mutanafiyayn), which avoids the problem of infinite rests.
+This method is considered complete by the commentator.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+غير موصل: اعلم أن في إثبات السكون بين الحركتين المستقيمتين مسلكين، الأول: المشهور بين الجمهور أن الوصول إلى الحد حادث في آن لا في زمان؛ لأن الحد عبارة عن منتهى المسافة، فلو كان الوصول زمانيا وانقسم، فحين ما يكون الجسم في أحد الجزئين لم يكن واصلا إلى المنتهى، وقد كان الكلام في الوصول إلى المنتهى، هذا خلف، وكذا اللاوصول أعني ترك ذلك الحد أيضا أني؛ لأنه لو كان زمانيا وترك الحد شيئا فشيئا، فحين ما يكون في أحد الجزئين لم يكن تاركا للحد، وقد فرضناه تاركا للحد، هذا خلف، فإذا كان الوصول واللاوصول آنيا ولم يتصور اجتماعهما في آن واحد كان في آنين متغايرين، وإذا كان تتالي الآنين باطلا؛ لاستلزامه جزءا لا يتجزى كان بينهما زمان وذلك الزمان زمان السكون لانتفاء الحركة، أما الذاهبة فقد انتفت حين الوصول، وأما الراجعة فلحد مشيها بعد ذلك الزمان، وهذا البيان منقوض بالحدود المفروضة في وسط المسافة، فيلزم سكونات غير متناهية، ولم يرض به الشيخ وأقام من عنده برهانا باعتبار الميلين المتنافيين، كما قررناه سابقا، والمصنف له خلط بين المسلكين، ساق الكلام أولا باعتبار الميلين، ثم سلك المسلك المشهور باعتبار كون الوصول واللاوصول آنيا أن مسلك الميلين تام لا حاجة له إلى المسلك المشهور.
+Non-leading: Know that in proving rest between two rectilinear motions there are two methods. The first, well-known among the multitude: that arrival at the limit occurs in an instant, not in time; because the limit is the endpoint of the distance. So if arrival were temporal and divisible, then when the body is in one of the parts, it would not have arrived at the endpoint, yet we were speaking of arrival at the endpoint - this is a contradiction. Similarly, non-arrival, meaning leaving that limit, is also instantaneous; because if it were temporal and it left the limit gradually, then when it is in one of the parts, it would not be leaving the limit, yet we assumed it to be leaving the limit - this is a contradiction. So when arrival and non-arrival are instantaneous and it is inconceivable that they coexist in a single instant, they are in two distinct instants. And since succession of instants is impossible because it implies an indivisible part, there is time between them, and that time is time of rest due to absence of motion. As for the going motion, it has ceased at the moment of arrival; as for the returning motion, it begins only after that time. However, this demonstration is invalidated by the limits assumed in the middle of the distance, leading to infinite rests. The Shaykh was not satisfied with this and established from himself a proof considering the two opposing inclinations, as we have stated earlier. But the author mixed between the two methods: he first proceeded with the consideration of the two inclinations, then he took the well-known method considering that arrival and non-arrival are instantaneous, even though the method of the two inclinations is complete and has no need for the well-known method.
+Source pages p. 49
+
+Commentary
+This passage is a critical commentary on the preceding proof (or on the author's original text). The commentator identifies two distinct methods (maslakayn) to prove that rest occurs between two rectilinear motions (e.g., forward and backward). The first method, popular among the multitude (jumhur), argues that reaching the limit (al-wusul ila al-hadd) occurs in an instant (an), not over time. If it were over time, the body would be at a point before the limit at some part of that time, contradicting the claim that it reaches the limit. Similarly, leaving the limit (al-lawusul) is also instantaneous. Since arrival and departure cannot occur at the same instant, they must be in two different instants, and between any two distinct instants there must be a time interval (since instants cannot follow each other without time, otherwise indivisible parts would be required). That interval is a period of rest. However, this method fails if we consider limits in the middle of the distance (not just the endpoint), because then there would be infinitely many such rest periods, which is absurd. The Shaykh (likely Ibn Sina) rejected this popular method and instead provided a proof based on two opposing inclinations (al-maylayn al-mutanafiyayn). The commentator then points out that the author (al-musannif, probably al-Abhari) mixed the two methods in his exposition: he started with the inclination method but then shifted to the popular method, when the inclination method is sufficient and does not need the other. Thus the commentator criticizes this mixing, implying that it leads to redundancy or confusion.
+
+Key Terms
+مسلك (maslak): Method or approach to proving a conclusion; here two distinct logical proofs for the same claim.
+حد (hadd): Limit or endpoint of a distance; here the point at which motion reverses direction. [Note: In logic, hadd means definition; here it is physical limit.]
+الشيخ (al-Shaykh): Refers to Avicenna (Ibn Sina), the leading philosopher whose proof using opposing inclinations is preferred.
+المصنف (al-musannif): The author of the original text, likely Athir al-Din al-Abhari, who is criticized for mixing methods.
+رفع (naqada): Invalidated or refuted; the popular method is 'naqada' (invalidated) by the problem of intermediate limits.
+
+Key Terms from Source Passage
+
+Checkpoint
+Why did the Shaykh (Ibn Sina) reject the popular method of proving rest between rectilinear motions?
+A) Because it requires time to be composed of indivisible parts.
+B) Because it leads to infinite rests if intermediate limits are considered.
+C) Because arrival and departure can happen in the same instant.
+D) Because it relies on the concept of inclination.
+
+Key Takeaway
+The popular method for proving rest is invalid because it leads to infinite rests when generalized; Avicenna's inclination method is the correct alternative.
+
+How This Lesson Applies — to MY Life?
+?
+In a debate about the validity of the popular proof, your opponent argues that intermediate limits do not apply because limits are defined only at endpoints. Write a counter-argument using the commentator's reasoning about the absurdity of infinite rests, and explain why the opponent's restriction is arbitrary.
+?
+Explain why the commentator considers Avicenna's method 'complete' and why mixing it with the popular method is redundant. Use the passage to support your answer.
+
+Pages p. 49 · Textual and Editorial Notes
+← Prev
+Mark Done
+Next →
