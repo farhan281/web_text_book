@@ -1,0 +1,8 @@
+# -----------------------------------------------------------------------------
+# Requirements File
+# -----------------------------------------------------------------------------
+# This project does not require any third-party Python libraries.
+# It runs entirely using the Python Standard Library.
+#
+# Compatibility: Python 3.8 or higher.
+# -----------------------------------------------------------------------------

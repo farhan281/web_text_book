@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
-"""Scrape the Aqeedah Courses static library into lossless UTF-8 JSON files.
+"""Scrape Multi-Site Islamic Sciences Library Catalogs into Plain Text.
 
-The site is a hash-routed SPA, but its canonical content is published as JSON.
-This scraper discovers the live catalog and downloads those JSON datasets rather
-than scraping rendered HTML. Every volume/site entry becomes one JSON file containing clean lesson text.
+This script acts as a generalized scraper for three main sites:
+1. Aqeedah Courses (https://aqeedah-courses.pages.dev/)
+2. Hanafi Fiqh Courses (https://hanafi-fiqh-courses.pages.dev/)
+3. Mantiq Courses (https://mantiq-courses.pages.dev/)
+
+It discovers the portal data in the homepage, downloads the canonical JSON files
+for each book and module directly, formats them into a clean visual plain text
+layout matching the webpage, splits long modules into parts of at most 50 lessons,
+and outputs them under structured folders.
 """
 
 from __future__ import annotations
@@ -64,12 +70,13 @@ _print_lock = threading.Lock()
 
 @dataclass(frozen=True)
 class CatalogEntry:
-    number: int
-    category_id: str
-    category_name: str
-    path: str
-    folder: str
-    kitab: str
+    """Represents a single book/volume entry discovered in the site portal catalog."""
+    number: int                 # Sequence index in the portal list
+    category_id: str            # Category folder ID (e.g. 'ashari')
+    category_name: str          # Printable category name
+    path: str                   # Remote folder path where JSON datasets reside
+    folder: str                 # Unique folder name for the book
+    kitab: str                  # Canonical book name
     expected_lessons: int | None
     expected_modules: int | None
     display_metadata: dict[str, str]
@@ -154,6 +161,7 @@ def parse_display_metadata(homepage: str) -> dict[str, dict[str, str]]:
 
 
 def parse_catalog(homepage: str) -> list[CatalogEntry]:
+    """Parse PORTAL_DATA and BOOK_META from the homepage HTML to build catalog entries."""
     marker = homepage.find("const PORTAL_DATA")
     if marker < 0:
         raise ScrapeError("Could not find PORTAL_DATA in homepage")
@@ -260,6 +268,11 @@ def page_label(item: dict[str, Any]) -> str:
 
 
 def format_key_term(term: Any) -> str:
+    """Format glossary terms into a clean readable string.
+    
+    Supports both simple strings and structured dictionary objects containing
+    Arabic terms, transliterated fields, definitions, and shift alerts.
+    """
     if not isinstance(term, dict):
         return clean_txt(term)
     
