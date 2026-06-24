@@ -1,10 +1,10 @@
 {
   "status": "complete",
-  "scraped_utc": "2026-06-24T08:16:09Z",
+  "scraped_utc": "2026-06-24T08:28:44Z",
   "source_app_url": "https://aqeedah-courses.pages.dev/Ithaaf%20al-Mureed%20bi-Jawharat%20al-Tawhid/static_app/",
-  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/09 - Ithaaf al-Mureed bi-Jawharat al-Tawhid.txt",
-  "output_bytes": 14099744,
-  "output_sha256": "0bf7f1994b29c013fe26a1154079904c916fa2d9cd317be72983f29ba214fb91",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/09 - Ithaaf al-Mureed bi-Jawharat al-Tawhid",
+  "output_bytes": 14099716,
+  "output_sha256": "f5e9d0761af88cc5cf9c8855779b5c38392416693c05d6457f713eef54aca797",
   "checks": {
     "catalog_expected_lessons": 1785,
     "course_reported_lessons": 1785,

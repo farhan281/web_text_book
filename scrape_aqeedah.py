@@ -456,9 +456,9 @@ def scrape_entry(
 ) -> dict[str, Any]:
     prefix = f"[{entry.number:02d}] {entry.folder}"
     category_dir = output_root / safe_name(entry.category_id)
-    output_file = category_dir / f"{entry.number:02d} - {safe_name(entry.folder)}.txt"
-    sidecar = output_file.with_suffix(".manifest.json")
-    if args.resume and output_file.is_file() and sidecar.is_file():
+    book_dir = category_dir / f"{entry.number:02d} - {safe_name(entry.folder)}"
+    sidecar = book_dir.parent / f"{book_dir.name}.manifest.json"
+    if args.resume and book_dir.is_dir() and sidecar.is_file():
         try:
             old = json.loads(sidecar.read_text(encoding="utf-8"))
             if old.get("status") == "complete" and old.get("output_sha256"):
@@ -527,46 +527,68 @@ def scrape_entry(
     if any(count != len(modules) for count in expected_modules):
         raise ScrapeError(f"Module validation failed: {json_dump(checks, pretty=False)}")
 
-    book_text_parts = []
+    book_dir.mkdir(parents=True, exist_ok=True)
+    scraped_utc = utc_now()
+    
     for module_number, module in enumerate(modules, 1):
         module_id = str(module.get("module_id", "unassigned")) if isinstance(module, dict) else "unassigned"
         module_lessons = module_payloads.get(module_id, [])
-        for lesson_number, lesson in enumerate(module_lessons, 1):
-            if not isinstance(lesson, dict):
-                continue
-            lesson_id = lesson.get("teaching_lesson_id", "")
-            source_id = lesson.get("source_chunk_id") if isinstance(lesson, dict) else None
-            source = None
-            if source_id:
-                source = source_map.get(source_id)
-                if source is None:
-                    raise ScrapeError(f"Lesson {lesson_id} references missing source {source_id}")
-            formatted_lesson = format_lesson_txt(module_number, lesson_number, lesson, source)
-            book_text_parts.append(formatted_lesson)
+        
+        # Split module_lessons into chunks of at most 100 lessons
+        chunk_size = 100
+        lesson_chunks = [module_lessons[i:i + chunk_size] for i in range(0, len(module_lessons), chunk_size)]
+        
+        for chunk_idx, chunk in enumerate(lesson_chunks, 1):
+            chunk_text_parts = []
+            for lesson_idx_in_chunk, lesson in enumerate(chunk, 1):
+                lesson_number = (chunk_idx - 1) * chunk_size + lesson_idx_in_chunk
+                if not isinstance(lesson, dict):
+                    continue
+                lesson_id = lesson.get("teaching_lesson_id", "")
+                source_id = lesson.get("source_chunk_id") if isinstance(lesson, dict) else None
+                source = None
+                if source_id:
+                    source = source_map.get(source_id)
+                    if source is None:
+                        raise ScrapeError(f"Lesson {lesson_id} references missing source {source_id}")
+                formatted_lesson = format_lesson_txt(module_number, lesson_number, lesson, source)
+                chunk_text_parts.append(formatted_lesson)
+                
+            chunk_payload = "\n\n".join(chunk_text_parts) + "\n"
+            
+            # File name
+            module_name_safe = safe_name(module.get("title") if isinstance(module, dict) else "Module")
+            if len(lesson_chunks) == 1:
+                filename = f"Module {module_number:02d} - {module_name_safe}.txt"
+            else:
+                filename = f"Module {module_number:02d} - {module_name_safe} - Part {chunk_idx}.txt"
+                
+            file_path = book_dir / filename
+            temporary = file_path.with_suffix(".part")
+            with temporary.open("w", encoding="utf-8", newline="\n") as handle:
+                handle.write(chunk_payload)
+            os.replace(temporary, file_path)
 
-    book_payload = "\n\n".join(book_text_parts) + "\n"
+    hasher = hashlib.sha256()
+    total_bytes = 0
+    for path in sorted(book_dir.glob("*.txt")):
+        hasher.update(path.read_bytes())
+        total_bytes += path.stat().st_size
+    digest = hasher.hexdigest()
 
-    category_dir.mkdir(parents=True, exist_ok=True)
-    temporary = output_file.with_suffix(".txt.part")
-    scraped_utc = utc_now()
-    with temporary.open("w", encoding="utf-8", newline="\n") as handle:
-        handle.write(book_payload)
-    os.replace(temporary, output_file)
-
-    digest = hashlib.sha256(output_file.read_bytes()).hexdigest()
     manifest = {
         "status": "complete",
         "scraped_utc": scraped_utc,
         "source_app_url": app_url,
-        "output_file": str(output_file),
-        "output_bytes": output_file.stat().st_size,
+        "output_directory": str(book_dir),
+        "output_bytes": total_bytes,
         "output_sha256": digest,
         "checks": checks,
     }
     sidecar.write_text(json_dump(manifest) + "\n", encoding="utf-8")
     if args.no_cache:
         shutil.rmtree(volume_cache, ignore_errors=True)
-    log(f"{prefix}: complete ({len(lesson_index):,} lessons, {output_file.stat().st_size / 1_048_576:.1f} MiB)")
+    log(f"{prefix}: complete ({len(lesson_index):,} lessons, {total_bytes / 1_048_576:.1f} MiB)")
     return manifest
 
 

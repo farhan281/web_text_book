@@ -1,0 +1,1469 @@
+← Prev
+p. 247
+Module 2 · Lesson 101
+Next →
+Rational Judgments
+intermediate
+6 min
+The Ladder Proof Simplified
+Presents the third proof using diverging lines with equal spread and addresses the cylinder objection
+
+Learning Objective
+By the end of this lesson, you will understand the logic of the Ladder Proof (al-burhan al-sullami) and how it refutes the possibility of infinite dimensions.
+
+Core Idea
+Infinite distance bounded by two divergent lines is impossible.
+
+In this passage, al-Sanusi presents the third proof against infinite dimensions, a refined version of Ibn Sina's famous Ladder Proof. He introduces a crucial simplification that makes the argument more concise and powerful. We will walk through the proof step by step, understand the objection about an infinite cylinder, and see why the defense holds.
+
+Guided Path
+1
+Set up the two diverging lines
+Understand the initial configuration: from a point, two lines diverge like sides of an equilateral triangle, with the spread equal to the extension.
+The simplification lies in assuming the spread equals the extension.
+2
+Follow the argument to infinity
+See how if the lines extend infinitely, the distance between them is also infinite, but that distance is bounded by the lines themselves, leading to contradiction.
+3
+Address the cylinder objection
+Consider the opponent's challenge about an infinite cylinder and see why the third proof still refutes infinite dimensions absolutely, with the first two proofs covering any gaps.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه ( الثالث : أنا نفرض من نقطة ما خطين ينفرجان كساقي مثلث متساوي الأضلاع بحيث يكون البعد بينهما بعد ذهابهما ذراعاً ذراعاً وبعد ذهابهما ذراعين ذراعين وعلى هذا يتزايد البعد بينهما بقدر ازديادهما ولو ترك ذكر تساوي الأضلاع واكتفى بالحيثية المفسرة له لكان الكلام أخصر وأظهر ومحصوله أن يكون الانفراج بينهما بقدر امتدادهما ) فإذا ذهبا إلى غير النهاية كان البعد بينهما غير متناه أيضا ) بالضرورة واللازم محال لأنه محصور بين حاصرين والمحصور بين حاصرين يمتنع أن لا يكون له نهاية ضرورة وهذا البرهان في الحقيقة ( هو الذي يسميه ابن سينا البرهان السلمي مع زيادة تلخيص عجز عنه الفحول البزل ) واهتدى إليه صاحب المطارحات، وذلك التلخيص هو فرض الانفراج بين الخطين بقدر الامتداد إذ قد سقط به مؤونات كثيرة يحتاج إليها في السلمي الذي أورده في إشاراته كما تطلع عليها في شروحها . ) واعلم أن هذا الوجه الثالث ( يدل على بطلان عدم تناهي الأبعاد من جميع الجهات ) كما هو مذهب الخصم ومن جهتين أيضاً لا من جهة واحدة إذ لا يمكن حينئذ فرض الانفراج بقدر الامتداد وإليه الإشارة بقوله : ( ولو جوز مجوز أسطوانة غير متناهية في طولها ( لم يتم ذلك) في إبطالها بخلاف الأولين فإنهما ببطلان لا تناهي الأبعاد على الإطلاق.
+The third proof: We suppose from a point two lines diverging like the sides of an equilateral triangle, such that the distance between them after going a cubit is a cubit, and after going two cubits is two cubits, and thus their distance increases proportionally to their extension. And if he had omitted mentioning the equality of sides and sufficed with the explanatory condition it would have been more concise and clear. The gist is that the spread between them equals their extension. Then if they go to infinity, the distance between them is also infinite by necessity. But that is impossible because it is bounded between two boundaries, and what is bounded between two boundaries necessarily has an end. This proof in reality is what Ibn Sina calls the Ladder Proof (al-burhan al-sullami), with an added simplification that the great scholars failed to achieve. The author of al-Mutarahat arrived at it. That simplification is the assumption that the spread between the lines equals the extension, because thereby many burdens required by the Ladder Proof as given in his Isharat are removed, as you will see in its commentaries. Know that this third proof demonstrates the falsity of infinite dimensions from all directions, as is the opponent's doctrine, and from two directions as well, not from one direction only, because in that case it is not possible to suppose the spread equal to the extension. This is indicated by his saying: 'And if someone were to permit an infinite cylinder in its length, that would not work for its refutation, unlike the first two, for they refute infinite dimensions absolutely.'
+Source pages p. 247
+
+Commentary
+This passage presents the third proof, which is a simplified version of Ibn Sina's Ladder Proof (al-burhan al-sullami). The proof begins by taking a point and drawing two lines that diverge like the sides of an equilateral triangle, such that the distance between them increases at the same rate as their extension: after one unit of extension, the spread is one unit; after two units, two units, and so on. The author notes that if one simply says the spread equals the extension, the proof is more concise. If these lines extend infinitely, the distance between them is also infinite. However, this infinite distance is bounded between the two lines themselves, so it would be a bounded infinite, which is impossible. This is the core argument. The author identifies this as the Ladder Proof of Ibn Sina, but with a simplification that even the great scholars could not achieve; it was discovered by the author of al-Mutarahat. The simplification lies in assuming the spread equals the extension, removing many complexities. The proof refutes infinite dimensions from all directions—meaning it works regardless of the direction in which space is extended—unlike the first two proofs which only refute from one direction. An objection is considered: what about an infinite cylinder? The response is that this proof still works because the cylinder would have a bounded cross-section, but the third proof's logic does not apply to that case; however, the first two proofs already refute infinite dimensions absolutely, so the cylinder is also impossible.
+
+Key Terms
+برهان السلمي
+انفراج
+امتداد
+أسطوانة غير متناهية
+مثلث متساوي الأضلاع
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The cylinder objection shows the third proof fails to refute infinite dimensions.
+Correction: The third proof refutes all directions, but the cylinder is a special case already refuted by the first two proofs, so the overall proof remains valid.
+
+Checkpoint
+What is the key simplification in the third proof compared to Ibn Sina's original Ladder Proof?
+A) Using an equilateral triangle instead of any triangle.
+B) Assuming the spread between lines equals their extension.
+C) Assuming the lines are parallel.
+D) Using a sphere instead of a circle.
+
+Key Takeaway
+The Ladder Proof shows that if two lines diverge so that their spread equals their extension, infinite extension leads to a contradiction, refuting infinite dimensions.
+
+How This Lesson Applies — to MY Life?
+?
+You just saw that infinite extension is impossible because it leads to a contradiction. Is there any area of your life where you act as if your desires, ambitions, or worries have no limit? How does this logical boundary reflect the divine boundaries Allah has placed on creation and on your own soul?
+?
+The proof relies on the idea that what is bounded between two limits cannot be infinite. Your life, too, is bounded by birth and death, by time and space. Do you truly live with the awareness of these limits, or do you waste days as if they will never end? What would change if you internalized that every moment is finite and accountable?
+?
+Ibn Sina's original proof was simplified by a later scholar, making it clearer. Is there a truth about your own faith or character that you have overcomplicated, using that complexity as an excuse to avoid acting? What is the simple, clear step you need to take today to align your life with the reality of Allah's oneness and your own finitude?
+
+Pages p. 247 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 247
+Module 2 · Lesson 102
+Next →
+Rational Judgments
+intermediate
+8 min
+The Universal Ladder Proof with Fixed Ratio
+A proof by contradiction (khalaf) using a universal ladder analogy with a fixed ratio.
+
+Learning Objective
+By the end of this lesson, you will understand how the Ladder Proof demonstrates the impossibility of actual infinity using a fixed ratio between spread and extension.
+
+Core Idea
+A finite-to-infinite ratio is impossible, revealing the contradiction in assuming infinite extension.
+
+This lesson presents one of the most elegant proofs in Islamic theology: the Universal Ladder Proof. The proof uses a simple geometric setup—two lines diverging from a point—to show that assuming an infinite extension leads to a contradiction involving a fixed ratio between spread and extension. The argument relies on the principle that straight lines diverge uniformly, preserving a constant ratio.
+
+Guided Path
+1
+Understand the geometric setup
+Imagine two straight lines starting from a single point, forming the sides of a triangle. The spread between them can be equal, greater, or less than the extension.
+This is a universal triangle, not necessarily right-angled.
+2
+Grasp the preserved ratio
+Because the lines are straight, they diverge uniformly. The ratio of the spread to the extension remains constant. For example, if at 10 cubits extension the spread is 1 cubit, at 20 cubits it is 2, etc.
+This ratio is called nisba muhfaza (preserved ratio).
+3
+Follow the contradiction for infinite extension
+Assume the lines go to infinity. Then you have a finite initial extension (e.g., the first 10 cubits) and an infinite total extension. According to the preserved ratio, the ratio of this finite extension to the infinite extension equals the ratio of two finite spreads, which is a specific fraction. But a finite-to-infinite ratio is not a specific fraction—it is undefined or zero. Contradiction.
+4
+Examine the objection and rebuttal
+An objector says: 'Perhaps the spread at infinity is also infinite.' The rebuttal: If the spread is infinite, then that infinite spread is bounded by the two lines, which is impossible because an infinite cannot be enclosed between two boundaries.
+This reinforces the proof's conclusion.
+5
+Reflect on the proof's significance
+This proof shows that actual infinity cannot exist in physical quantities (like extension and spread), which has implications for arguments about the eternity of the world.
+It is a key proof in kalam for the temporal finitude of the universe.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه ( الرابع ) وهو البرهان السلمي على الإطلاق وقد لخصه المصنف تلخيصاً شافياً (نفرض ساقي مثلث) خرجا من نقطة واحدة ( كيف اتفق أي سواء كان الانفراج بقدر الامتداد كما مر تصويره أو أزيد بأن يكون الانفراج ذراعين إذا كان الامتداد ذراعاً أو أنقض كما إذا انعكس الحال بينهما ) فللانفراج إليهما ) أي إلى الساقين (نسبة محفوظة بالغاً ما بلغ وذلك لأن الخطين مستقيمان فلا يتباعدان إلا على نسق واحد فإذا امتدا عشرة أذرع مثلاً، وكان الانفراج حينئذ ذراعاً فإذا امتدا عشرين ذراعاً كان الانفراج ذراعين قطعاً وإذا امتدا ثلاثين كان ثلاثة أذرع وعليه فقس وهذا معنى حفظ نسبة الانفراج إليهما وحينئذ تكون نسبة الامتداد الأول أعني العشرة إلى الثاني أعني العشرين كنسبة الانفراج الأول أعني الذراع إلى الثاني أعني الذراعين، وكذا الحال في نسبة الثالث إلى الثالث والرابع إلى الرابع وما بعدهما، فلو (ذهبا أي الساقان (إلى غير النهاية لكان ثمة بعد (متناه هو الامتداد الأول (نسبته إلى غير المتناهي) وهو الامتداد الذاهب إلى غير النهاية كنسبة المتناهي) وهو الانفراج الأول ( إلى المتناهي ) وهو الانفراج بينهما حال ذهابهما إلى غير النهاية لما عرفت من أن نسبة الامتداد إلى الامتداد وكنسبة الانفراج إلى الانفراج ( هذا خلف ) لأن نسبة المتناهي إلى المتناهي المذكورين بجزئية معينة ويستحيل ذلك بين المتناهي وغير المتناهي . لا يقال : جاز أن يكون الانفراج الحاصل حال الذهاب غير متناه أيضاً لأنا نقول : فيلزم انحصار ما لا يتناهي بين حاصرين.
+The fourth proof: and it is the Ladder Proof in its absolute form, and the author summarized it with a sufficient summary: We suppose two sides of a triangle emerging from a single point in any manner, i.e., whether the spread equals the extension as previously depicted, or greater such that the spread is two cubits when the extension is one cubit, or less as when the situation is reversed between them. For the spread has a preserved ratio to them (i.e., to the two sides) no matter how far they go, because the two lines are straight, so they do not diverge except in a uniform manner. If they extend ten cubits, for example, and the spread then is one cubit, then if they extend twenty cubits, the spread is definitely two cubits, and if thirty, three cubits, and so on. This is the meaning of the preserved ratio of the spread to them. And then the ratio of the first extension, i.e., ten, to the second, i.e., twenty, is like the ratio of the first spread, i.e., one cubit, to the second, i.e., two cubits, and similarly for the third to third, fourth to fourth, and beyond. So if the two sides go to infinity, then there exists a finite (extension) which is the first extension, whose ratio to the infinite (extension) which is the extension going to infinity, is like the ratio of the finite (spread) which is the first spread to the finite (spread) which is the spread between them while they are going to infinity, because you know that the ratio of extension to extension is like the ratio of spread to spread. This is a contradiction (khalaf), because the ratio of a finite to a finite is a specific fraction, but that is impossible between a finite and an infinite. Let it not be said: It is possible that the spread occurring during the going is also infinite. For we say: Then it would necessitate that what is infinite be bounded between two boundaries.
+Source pages p. 247
+
+Commentary
+This passage presents the fourth proof, which is the universal form of the Ladder Proof (al-burhan al-sullami al-mutlaq). The author summarizes it clearly. The proof assumes two lines emerging from a single point, forming the sides of a triangle. The spread between them can be equal to the extension, greater, or less, but crucially, the ratio of the spread to the extension is constant (nisa muhfaza). This is because straight lines diverge uniformly. The author gives an example: if extension is ten cubits and spread one cubit, then at twenty cubits extension the spread is two cubits, at thirty three cubits, etc. Therefore, the ratio of the first extension (say ten) to the second extension (twenty) equals the ratio of the first spread (one) to the second spread (two). Now suppose the lines go to infinity. Then we have a finite extension (e.g., the first ten cubits) and an infinite extension (the total infinite length). According to the preserved ratio, the ratio of this finite extension to the infinite extension must equal the ratio of the finite first spread to the spread at infinity. But the ratio of a finite to a finite is a specific fraction (e.g., 1/2, 1/3), whereas the ratio of a finite to an infinite is not a fraction (it is zero or undefined). This is a contradiction (khalaf). The author then addresses an objection: what if the spread at infinity is also infinite? If that were the case, then the infinite spread would be bounded by the two lines, causing an infinite to be bounded by two boundaries, which is also impossible. Thus the proof stands.
+
+Key Terms
+نسبة محفوظة
+برهان سلمي مطلق
+خلف
+متناهي
+غير متناهي
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that the ratio between a finite and an infinite quantity could be a specific fraction, like 1/2.
+Correction: The ratio of a finite to an infinite is undefined or tends to zero; it cannot equal the ratio of two finite quantities, which is a specific fraction.
+
+Checkpoint
+What is the main contradiction in the fourth proof?
+A) The ratio of finite to finite cannot equal the ratio of finite to infinite.
+B) The lines cannot be straight if they diverge.
+C) The spread at infinity cannot be infinite.
+D) The two lines must be parallel eventually.
+
+Key Takeaway
+The Ladder Proof shows that assuming an infinite extension leads to a contradiction because the preserved ratio between spread and extension cannot relate a finite to an infinite.
+
+How This Lesson Applies — to MY Life?
+?
+The proof reveals a contradiction in assuming infinite extension. In your own life, you may try to avoid ultimate accountability by pushing it into an infinite future. How does this logical impossibility force you to confront the fact that your existence is finite and you will meet your Creator? What will you do today to prepare for that meeting?
+?
+The author refutes the objection that the spread could become infinite, showing that even our excuses are logically flawed. What excuse do you most often use to delay repentance or obedience? Will you now see that excuse as a contradiction and abandon it?
+?
+The preserved ratio depends on the lines being straight. If they were curved, the ratio would change. Similarly, your heart's direction must be straight toward Allah to maintain a consistent relationship with the truth. In what areas has your heart's direction become curved, and how will you straighten it today?
+
+Pages p. 247 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 248
+Module 2 · Lesson 103
+Next →
+Rational Judgments
+intermediate
+6 min
+The Wheel Proof: Dividing Space into Six Sectors
+Sanusi presents the Wheel Proof to demonstrate finitude of dimensions via geometric sector division.
+
+Learning Objective
+By the end of this lesson, you will understand how the Wheel Proof uses division of a circle into six equal sectors to demonstrate the finitude of the world's dimensions.
+
+Core Idea
+The Wheel Proof shows that spatial dimensions cannot be infinite by visualising them as bounded sectors.
+
+The fifth proof in this series, known as the Wheel Proof, offers a geometric argument for the finitude of the world's dimensions. By dividing a circle into six equal sections and extending its radii to infinity, we examine each sector's width. The conclusion is that infinite dimensions would lead to a contradiction. This lesson walks through the reasoning step by step.
+
+Guided Path
+1
+Understand the Setup
+Visualize a circle divided into six equal sectors by drawing radii from the center to six equally spaced points on the circumference. Each sector is bounded by two radii, which we then extend to infinity.
+The circle is called a 'wheel' (tars) because of its shape.
+2
+Consider Each Sector's Width
+For each sector, ask: is the width (the spread between the two radii) finite or infinite? If infinite, then an infinite width is contained between two boundaries (the radii), which is impossible. If finite, then the whole space, being six such finite sectors, must also be finite.
+This is a dilemma: both options lead to finitude.
+3
+Connect to the Ladder Proof
+Notice that each sector forms an equilateral triangle: the central angle is 60°, and the base angles are also 60° because the chords are equal. This shows that the spread equals the extension, clarifying the earlier Ladder Proof.
+The Wheel Proof is a visual elaboration of the third proof (al-sullami).
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه ( الخامس : أنا نقسم جسماً على هيئة الدائرة وليكن ترساً بستة أقسام متساوية بأن نقسم أولاً محيط دائرته إلى ست قطع متساوية ثم نصل بين النقط المتقابلة بخطوط متقاطعة على مركزه فينقسم حينئذ إلى أقسام ستة متساوية ( يحيط بكل قسم منها (ضلعان، ثم نخرج الأضلاع) بأسرها (إلى غير النهاية) حتى تنقسم الأبعاد كلها في طولها وعرضها أعني سعة العالم بهذه الأقسام ثم نردد في كل قسم فنقول : هو ) في عرضه ) إما غير متناه فينحصر ما لا يتناهى بين حاصرين هما الضلعان المحيطان به وإما متناه فكذا الكل) متناه أيضاً ( لأنه ضعف المتناهي) الذي هو أحد الأقسام (بمرات متناهية) هي الستة. (وهذا) البرهان المسمى بالترسي ) كالتتمة والتوضيح للبرهان الذي هو تلخيص (السلمي لأن كل قسم من الستة كمثلث متساوي الأضلاع لأنك إذا فرضت على ضلعي كل قسم نقطتين متساويتي البعد عن المركز ووصلت بينهما بخط كان ذلك الخط مساوياً لكل واحد من الضلعين، وذلك لأن الزاوية التي عند المركز ثلثا قائمة إذ المحيط بكل نقطة أربع قوائم وقد قسمت هاهنا بست زوايا متساوية، وكذا كل واحدة من الزاويتين الباقيتين ثلثا قائمة لأنهما متساويتان لتساوي وتريهما وإذا كانت زوايا المثلث متساوية كانت الأضلاع كذلك فظهر أن الانفراج بين كل ضلعين بقدر امتدادهما كما في ذلك البرهان، إلا أن هاهنا تصويراً ومزيد توضيح لإمكان خروج خطين من نقطة بحيث ينفرجان على قدر امتدادهما وكان يكفيه هاهنا أن يخرج
+The fifth proof: We divide a body in the shape of a circle, let it be a wheel (tars), into six equal sections. First we divide its circumference into six equal parts, then we connect the opposite points with lines intersecting at its center. It is then divided into six equal sections, each section surrounded by two sides. Then we extend all the sides to infinity until all dimensions in length and breadth, i.e., the extent of the world, are divided by these sections. Then we consider each section and say: in its width, it is either infinite—then what is infinite is bounded between two boundaries which are the two sides surrounding it—or finite, and then the whole is also finite, because it is the double of the finite (which is one of the sections) by a finite number of times, which is six. This proof, called the Wheel Proof (al-burhan al-tarsi), serves as a completion and clarification for the proof that is the summary of the Ladder Proof (sullami). Because each of the six sections is like an equilateral triangle: if you suppose on the two sides of each section two points equidistant from the center and connect them with a line, that line equals each of the two sides. This is because the angle at the center is two-thirds of a right angle, since the circumference at each point is four right angles, and here it is divided into six equal angles. Likewise each of the remaining two angles is two-thirds of a right angle because they are equal due to the equality of their chords. And if the angles of a triangle are equal, its sides are equal. Thus it appears that the spread between every two sides equals their extension, as in that proof. However, here there is a depiction and additional clarification of the possibility of two lines emerging from a point such that they diverge in proportion to their extension. And it would have sufficed him here to take out...
+Source pages p. 248
+
+Commentary
+This passage presents the fifth proof, known as the Wheel Proof (al-burhan al-tarsi). The method: take a circle (or a wheel) and divide it into six equal sections by drawing lines from the center to the circumference at six evenly spaced points, and then connecting opposite points to form six sections, each bounded by two radii (called 'sides'). We then extend all these radii to infinity, thereby dividing all of space (the extent of the world) into six infinite triangular sectors. For each sector, we examine its width (the spread between its two bounding radii). If the width is infinite, then an infinite is bounded between two boundaries (the radii), which is impossible. If the width is finite, then since the whole is composed of six such finite sectors, the whole is also finite (because six times a finite is finite). Thus, in either case, infinite dimensions are impossible. The author then notes that this proof is like a clarification of the Ladder Proof (al-sullami), because each sector is an equilateral triangle. To see this, take two points on the two radii equidistant from the center; the line connecting them is equal to each radius because the angles are all equal (the central angle is 60 degrees, i.e., two-thirds of a right angle, and the base angles are also 60 degrees). Therefore, the triangle is equilateral, meaning the spread between the two radii equals their extension, just as in the third proof. Thus, the wheel proof provides a visual and explicit way to see how two lines can diverge at a rate equal to their extension, which might otherwise be hard to imagine. The passage ends abruptly mid-sentence, indicating that the original text continues.
+
+Key Terms
+برهان الترسي
+ستة أقسام
+مثلث متساوي الأضلاع
+زاوية ثلثا قائمة
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that the wheel proof is entirely independent of the other proofs.
+Correction: Actually, it is a visual elaboration and clarification of the third Ladder Proof (al-sullami), showing how two lines can diverge at a rate equal to their extension.
+
+Checkpoint
+In the Wheel Proof, why does each triangular section end up being equilateral?
+A) Because the circle is divided into six equal parts, making all angles 60 degrees.
+B) Because the two radii are always equal.
+C) Because the line connecting two points on the radii is the same length as the chord of the arc.
+D) Because the center angle is 90 degrees.
+
+Key Takeaway
+The Wheel Proof demonstrates that the world's dimensions are finite by showing that any sector's width must be finite, otherwise an infinite would be bounded, leading to contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+The Wheel Proof demonstrates that despite how vast the universe appears, its dimensions are finite. Does this logical conclusion make you feel small, or does it remind you that the entire creation is bounded by the will of its Creator? How does that shape your sense of reliance on Allah alone?
+?
+This proof requires you to trust a geometric argument over your immediate perception of endless space. Are there areas in your life where you prefer your own assumptions over clear reasoning from revelation or intellect? Will you commit to examining such assumptions today?
+?
+If the world is finite, then it is contingent and in need of a Necessarily Existent. Does this abstract proof move your heart to greater certainty in Allah, or does it remain just an intellectual exercise? What concrete step can you take to turn this knowledge into deeper taqwa and gratitude?
+
+Pages p. 248 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 249
+Module 2 · Lesson 104
+Next →
+Rational Judgments
+intermediate
+5 min
+Sixth Proof: The Application Argument (al-Tatbiq)
+Presents the sixth proof (application) for the finitude of dimensions.
+
+Learning Objective
+By the end of this lesson, you will understand the application argument (al-tatbiq) for the finitude of dimensions and how it refutes the possibility of an infinite extension.
+
+Core Idea
+Infinite lines cannot be superposed without contradiction, proving dimensions must be finite.
+
+The sixth proof uses a simple geometric thought experiment: two lines extending to infinity from different starting points are compared. The impossibility of the shorter equaling the longer or continuing indefinitely shows the contradiction. This proof was also referenced earlier in discussions on infinite regress and corporeal powers.
+
+Guided Path
+1
+Understand the setup
+Read the passage describing the sixth proof. Visualize two lines: one starting from a point and extending to infinity, and another starting from a point before it by a finite distance, also extending to infinity.
+The lines are parallel in direction but offset in starting point.
+2
+Consider the two possibilities
+When the lines are superposed, the shorter line (the one starting later) must either equal the longer line or stop before it. Both options lead to impossibility.
+If equal, then the starting points would be the same, which contradicts the setup. If it stops, then both lines stop, making them finite.
+3
+Identify the contradiction
+If the shorter line equals the longer, that implies the starting points coincide—impossible. If it stops, then the longer line also stops, so both are finite—contradicting the assumption of infinity.
+4
+Connect to earlier arguments
+The author notes this proof was used twice before: in the refutation of infinite regress and in the finitude of corporeal powers. Reflect on how the same logical structure appears in different contexts.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه ( السادس : التطبيق ) الدال على تناهي الأبعاد من جميع الجهات ( وطريقه ) هاهنا ( أن نفرض من نقطة ما إلى غير النهاية خطاً و نفرض ( من نقطة قبلها بمتناه خطاً آخر) إلى غير النهاية أيضاً ( ثم نطبق الخطين فالناقصة إما مثل الزائدة ) واستحالته ظاهرة ( أو تنقطع فينقطعان ) فلا يكونان غير متناهيين ) كما تقدم (مرتين مرة في بطلان التسلسل ومرة في تناهي القوى الجسمانية الوجه ( السابع : أنا نفرض خطا غير متناه من الجانبين ثم نعين عليه نقطتين بينهما بعد ،متناه ونشير إلى نقطة ما من هاتين النقطتين ) فنقول : هي إما المنتصف أولا فإن كانت المنتصف كان منها في الجانب الآخر مثله فيكون من النقطة الأخرى في ذلك الجانب أقل منه فنطبق أحدهما بالآخر ونتم الدليل، وإن لم تكن المنتصف كان أحدهما أقل من الآخر ونمضي ) في إتمام الدليل ولا يذهب عليك أن هذا تقرير آخر للتطبيق فقد عادت الوجوه السبعة إلى أدلة ثلاثة اثنان منها يدلان على امتناع اللاتناهي مطلقاً وواحدة على امتناعه في جهتين أو أكثر .
+The sixth aspect: application (al-taṭbīq) indicating the finitude of dimensions from all sides. Its method here is: we posit a line from a point to infinity, and we posit another line from a point before it by a finite amount to infinity as well; then we apply the two lines. The shorter is either equal to the longer — its impossibility is apparent — or it stops, so they both stop, thus they are not infinite, as previously mentioned twice: once in the refutation of infinite regress and once in the finitude of corporeal powers. The seventh aspect: we posit a line infinite from both sides, then we mark two points on it between which there is a finite distance, and we point to a certain one of these two points. We say: it is either the midpoint or not. If it is the midpoint, then from it on the other side is like it, so from the other point on that side it is less; then we apply one to the other and complete the proof. If it is not the midpoint, then one is less than the other, and we proceed to complete the proof. Do not overlook that this is another formulation of application. So the seven aspects reduce to three proofs: two of them indicate the impossibility of infinity absolutely, and one indicates its impossibility in two or more directions.
+Source pages p. 249
+
+Commentary
+This passage presents two proofs (the sixth and seventh) from the author's set of proofs for the finitude of dimensions. The sixth proof is called 'application' (al-taṭbīq). It works by positing two lines starting from two points: one line from a point to infinity, and another line from a point before it by a finite distance also to infinity. When the two lines are superposed, the shorter either equals the longer (impossible because infinite lines should be equal in length) or it stops before reaching the end, which would make both finite. Thus they cannot be infinite. The author notes this proof has been mentioned twice before. The seventh proof is another version of application: take an infinite line in both directions, mark two points at a finite distance apart, and consider one of them. If it is the midpoint, then from it to one side is equal to the other side, so from the other point to the opposite side is less, leading to contradiction. If it is not the midpoint, one side is shorter, again leading to contradiction. The author concludes that the seven proofs reduce to three: two proving the impossibility of infinity absolutely, and one proving it in multiple directions.
+
+Key Terms
+تطبيق
+تناهي الأبعاد
+لامتناهي
+خط غير متناه
+
+Key Terms from Source Passage
+
+Checkpoint
+What are the two possibilities considered when applying the two lines in the sixth proof?
+A) The shorter line equals the longer line, or the shorter line stops.
+B) The lines are parallel or perpendicular.
+C) The lines are infinite or finite.
+D) The lines are straight or curved.
+
+Key Takeaway
+The application argument demonstrates that infinite dimensions are impossible because superposing two lines starting from different points leads to a contradiction.
+
+How This Lesson Applies — to MY Life?
+?
+If every dimension is finite, then the universe has a limit. In your daily life, do you live as if the material world is unlimited, chasing endless things? How would your choices change if you truly believed that everything in creation has a boundary set by Allah?
+?
+This simple geometric argument guards against imagining anything infinite besides Allah. Consider the vastness of the cosmos: do you ever stand in awe of creation while forgetting that its very existence is a sign of the Creator? When you next see the night sky, what one thought can you intentionally hold to turn that view into worship?
+?
+The proof shows that two infinite lines cannot be compared without contradiction. In your own ambitions, are you chasing multiple 'infinite' goals—pursuits that seem never-ending and contradictory with your limited time and energy? Identify one such goal today and commit to replacing it with something finite and meaningful before Allah.
+
+Pages p. 249 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 249
+Module 2 · Lesson 105
+Next →
+Rational Judgments
+intermediate
+5 min
+Seventh Proof: Variant of Application and Reduction
+Presents the seventh proof as a variant of application and the reduction of seven proofs to three.
+
+Learning Objective
+By the end of this lesson, you will understand the seventh proof as another version of the application argument and how the seven proofs reduce to three fundamental arguments against infinity.
+
+Core Idea
+The seventh proof is a variant of application using an infinite line with two marked points.
+
+The seventh proof considers a line infinite in both directions, with two points at a finite distance apart. By analyzing whether one of the points is the midpoint, we again derive a contradiction, reinforcing the application argument. The author then notes that the seven proofs reduce to three: two proving the impossibility of infinity absolutely, and one proving it in multiple directions.
+
+Guided Path
+1
+Set up the thought experiment
+Read the passage for the seventh proof. Visualize a line infinite in both directions, and mark two points on it at a finite distance apart.
+The line is unbounded in both directions.
+2
+Consider the chosen point
+We focus on one of the two points and ask whether it is the midpoint between them.
+3
+Analyze both cases
+If it is the midpoint, then from the other point, one side is shorter; apply and get contradiction. If it is not the midpoint, one side is already shorter; apply similarly.
+The application here refers to comparing the segments on either side of the points.
+4
+Recognize the unity and reduction
+The author explicitly states that this is another formulation of the application argument, and that the seven proofs reduce to three: two proving impossibility absolutely, one proving impossibility in two or more directions.
+Reflect on how these proofs are not independent but variations of the same logical theme.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الوجه ( السادس : التطبيق ) الدال على تناهي الأبعاد من جميع الجهات ( وطريقه ) هاهنا ( أن نفرض من نقطة ما إلى غير النهاية خطاً و نفرض ( من نقطة قبلها بمتناه خطاً آخر) إلى غير النهاية أيضاً ( ثم نطبق الخطين فالناقصة إما مثل الزائدة ) واستحالته ظاهرة ( أو تنقطع فينقطعان ) فلا يكونان غير متناهيين ) كما تقدم (مرتين مرة في بطلان التسلسل ومرة في تناهي القوى الجسمانية الوجه ( السابع : أنا نفرض خطا غير متناه من الجانبين ثم نعين عليه نقطتين بينهما بعد ،متناه ونشير إلى نقطة ما من هاتين النقطتين ) فنقول : هي إما المنتصف أولا فإن كانت المنتصف كان منها في الجانب الآخر مثله فيكون من النقطة الأخرى في ذلك الجانب أقل منه فنطبق أحدهما بالآخر ونتم الدليل، وإن لم تكن المنتصف كان أحدهما أقل من الآخر ونمضي ) في إتمام الدليل ولا يذهب عليك أن هذا تقرير آخر للتطبيق فقد عادت الوجوه السبعة إلى أدلة ثلاثة اثنان منها يدلان على امتناع اللاتناهي مطلقاً وواحدة على امتناعه في جهتين أو أكثر .
+The sixth aspect: application (al-taṭbīq) indicating the finitude of dimensions from all sides. Its method here is: we posit a line from a point to infinity, and we posit another line from a point before it by a finite amount to infinity as well; then we apply the two lines. The shorter is either equal to the longer — its impossibility is apparent — or it stops, so they both stop, thus they are not infinite, as previously mentioned twice: once in the refutation of infinite regress and once in the finitude of corporeal powers. The seventh aspect: we posit a line infinite from both sides, then we mark two points on it between which there is a finite distance, and we point to a certain one of these two points. We say: it is either the midpoint or not. If it is the midpoint, then from it on the other side is like it, so from the other point on that side it is less; then we apply one to the other and complete the proof. If it is not the midpoint, then one is less than the other, and we proceed to complete the proof. Do not overlook that this is another formulation of application. So the seven aspects reduce to three proofs: two of them indicate the impossibility of infinity absolutely, and one indicates its impossibility in two or more directions.
+Source pages p. 249
+
+Commentary
+This passage presents two proofs (the sixth and seventh) from the author's set of proofs for the finitude of dimensions. The sixth proof is called 'application' (al-taṭbīq). It works by positing two lines starting from two points: one line from a point to infinity, and another line from a point before it by a finite distance also to infinity. When the two lines are superposed, the shorter either equals the longer (impossible because infinite lines should be equal in length) or it stops before reaching the end, which would make both finite. Thus they cannot be infinite. The author notes this proof has been mentioned twice before. The seventh proof is another version of application: take an infinite line in both directions, mark two points at a finite distance apart, and consider one of them. If it is the midpoint, then from it to one side is equal to the other side, so from the other point to the opposite side is less, leading to contradiction. If it is not the midpoint, one side is shorter, again leading to contradiction. The author concludes that the seven proofs reduce to three: two proving the impossibility of infinity absolutely, and one proving it in multiple directions.
+
+Key Terms
+تطبيق
+تناهي الأبعاد
+خط غير متناه
+
+Key Terms from Source Passage
+
+Checkpoint
+What is the key observation in the seventh proof?
+A) The line must have a midpoint.
+B) The two points define a finite segment.
+C) Either the chosen point is the midpoint or not.
+D) The line is infinite.
+
+Key Takeaway
+The seventh proof is a restatement of the application argument, and together the seven proofs condense into three essential arguments against infinity.
+
+How This Lesson Applies — to MY Life?
+?
+If the seventh proof shows that the assumption of an infinite line leads to contradiction, what 'infinite' assumptions do you make about your own time or resources that might similarly collapse under honest examination? What finite limit are you avoiding?
+?
+The author reduces seven proofs to three essential ones. What distractions or 'extra proofs' in your spiritual life have you been clinging to that actually reduce to a single truth you already know but resist acting on?
+?
+This proof is a thought experiment that forces you to confront the impossibility of infinity in dimensions. Where are you living as if your life or your faults are infinite instead of finite and bound to end? What would it mean to truly internalize that finitude today?
+
+Pages p. 249 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 249
+Module 2 · Lesson 106
+Next →
+Rational Judgments
+beginner
+4 min
+First Objection: Distinction Beyond the World
+Objection and answer: distinction beyond the world as evidence for infinite dimensions, answered as illusory.
+
+Learning Objective
+By the end of this lesson, you will understand the first objection to the finitude of the world and the refutation that the perceived distinction beyond the world is merely illusory.
+
+Core Idea
+Perceived spatial distinction beyond the world is pure illusion, not real existence.
+
+The opponent argues that beyond the world there is distinction (e.g., right vs. left), and what is distinct cannot be nothing; therefore it must exist as a dimension. The author refutes this by denying that such distinction holds in actual reality—it is merely a product of imagination. This lesson unpacks this objection and its answer.
+
+Guided Path
+1
+Read the objection
+Read the opponent's argument carefully: because we can distinguish right from left beyond the world, what is distinct must exist.
+Notice the use of 'بديهة العقل' (mind's intuition) to support the distinction.
+2
+Understand the answer
+The author denies that this distinction is real; it is pure illusion (wahm). This is a direct refutation of the premise.
+The author does not give further reasoning here; it's a denial of the reality of the distinction.
+3
+Reflect on the argument
+Consider why the author's answer works: space and dimensions are only within the world; beyond, there is no actual spatial differentiation.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+احتج الخصم على عدم التناهي ( بوجوه : الأول : ( أن ) ما وراء العالم متميز فإن مايلي يمينه أي يمين العالم ( غير ما يلي يساره ضرورة) . ألا ترى أن بديهة العقل شاهدة بأن ما يلي القطب الشمالي غير ما يلي القطب الجنوبي، وما يلي المشرق غير ما يلي المغرب إلى غير ذلك ) والمتميز لا يكون عدماً محضاً، فهو إذن) موجود و(بعد) لقبوله التقدير سواء كان مادياً أو مجرداً (والجواب منع) ثبوت ( التميز) فيما وراء العالم بحسب نفس الأمر ( وإنما ذلك ) التميز الذي ذكرتموه ( وهم ) محض لا عبرة به أصلا
+The opponent argued for non-finiteness with aspects: the first: that what is beyond the world is distinct, for what is adjacent to its right, i.e., the right of the world, is necessarily other than what is adjacent to its left. Do you not see that the mind's intuition testifies that what is adjacent to the north pole is other than what is adjacent to the south pole, and what is adjacent to the east is other than what is adjacent to the west, and so on? The distinct cannot be pure non-existence; it is therefore existent and a dimension (bu‘d) because it admits magnitude, whether material or immaterial. The answer: denial of the establishment of distinction beyond the world with respect to actual reality; rather, that distinction you mentioned is pure illusion with no consideration at all.
+Source pages p. 249
+
+Commentary
+This passage is an objection-and-answer pair. The opponent argues for infinite dimensions by claiming that beyond the world there is distinction: the right side is different from the left, etc. Since distinct things cannot be pure nothingness, they must exist as a dimension. The author refutes this by denying that this distinction has any real existence; it is merely an illusion or subjective perception, not a real distinction in external reality. Thus the argument fails.
+
+Key Terms
+تميز
+ما وراء العالم
+وهم
+بعد
+تقدير
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that the perceived spatial distinctions beyond the world (e.g., right vs. left) are real and therefore indicate the existence of something.
+Correction: The author insists that such distinctions are pure illusion (wahm) and have no reality beyond the imagination. They cannot serve as evidence for actual dimensions.
+
+Checkpoint
+How does the author answer the opponent's claim that what is beyond the world is distinct and therefore existent?
+A) He agrees but says it is not a dimension.
+B) He denies that there is any real distinction beyond the world; it is purely illusory.
+C) He argues that the distinction is only in the mind, not outside.
+D) He claims that the opponent's reasoning is invalid because the world itself is infinite.
+
+Key Takeaway
+Distinction beyond the world is not real; it is purely illusory, so it cannot prove an actual dimension.
+
+How This Lesson Applies — to MY Life?
+?
+When you imagine something clearly, do you assume it must be real? Think of a time you were convinced of a false idea because it felt intuitively obvious. How does this lesson expose that danger in your own thinking?
+?
+The opponent relied on a common-sense observation (right vs left). In your life, what 'common-sense' beliefs have you held that were actually illusions? Will you be willing to re-examine them now?
+?
+Are there areas in your faith where you trust your own mental images more than divine revelation? What would it cost you—what would you have to let go of—if you truly believed that such distinctions are mere illusions?
+
+Pages p. 249 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 249
+Module 2 · Lesson 107
+Next →
+Rational Judgments
+beginner
+4 min
+Second Objection: Quantifiability of the Beyond
+Second objection and its refutation
+
+Learning Objective
+By the end of this lesson, you will understand the objection that what is beyond the world is quantifiable and why the response dismisses it as an illusion.
+
+Core Idea
+Conceptual quantification does not prove real existence.
+
+In this lesson, we address the second objection against the finitude of the world. The opponent claims that what lies beyond the world can be measured in terms of greater and lesser, implying it must exist. The author's crisp response shows that such quantification is a product of illusion, not a valid proof.
+
+Guided Path
+1
+Read the objection
+Carefully read the opponent's argument that beyond the world, we can conceive of quantities, and that quantifiable things exist.
+Notice the logic: quantifiable → quantum → existent.
+2
+Understand the reasoning
+The opponent uses the principle that every quantifiable thing is a quantum and thus exists. Grasp this inference.
+3
+Examine the answer
+The author's reply bluntly calls the quantification an invalid illusion. Consider what this means for the proof.
+An illusion (wahm) is not a real property.
+4
+Reflect on the distinction
+Reflect on the difference between mental estimation and physical existence. How does this apply to the objection?
+This is a key logical move in kalam.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثاني : أنه ( أي ما وراء العالم ( متقدر فإن ما يوازي ربع العالم أقل مما يوازي نصفه وكل متقدر فهو موجود و كم والجواب أن التقدر ) الذي صورتموه (وهم) باطل لا يلتفت إليه قطعاً
+The second: that it (i.e., what is beyond the world) is quantifiable (mutaqaddir), for what parallels a quarter of the world is less than what parallels half of it, and every quantifiable thing is existent and a quantum (kamm). The answer: the quantification you have depicted is an invalid illusion not to be regarded at all.
+Source pages p. 249
+
+Commentary
+This is the second objection of the opponent. The opponent argues that beyond the world, we can conceive of quantities: for example, a region parallel to a quarter of the world is smaller than one parallel to half. This capacity to be quantified implies that the region must exist as an extended thing. The author's response is blunt: this quantification is merely an illusion, a product of imagination, not a real property. Therefore it does not prove actual existence.
+
+Key Terms
+تقدر
+كم
+وهم
+ما وراء العالم
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Because we can mentally quantify something beyond the world, it must actually exist.
+Correction: Mental quantification does not entail real existence; it may be a mere illusion.
+
+Checkpoint
+According to the author, what is the status of the quantification (taqaddur) that the opponent claims exists beyond the world?
+A) It is a real property of a real dimension.
+B) It is an invalid illusion (wahm) not to be considered.
+C) It is a rational necessity.
+D) It is a proof of the existence of a void.
+
+Key Takeaway
+The quantification of what is beyond the world is an illusion and does not prove its existence.
+
+How This Lesson Applies — to MY Life?
+?
+Have you ever treated a mental image or assumption as real just because you could picture it clearly? What in your life right now might be an illusion you have mistaken for fact? Commit today to examine one such assumption and test it against reality.
+?
+When you imagine possibilities or future outcomes, do you ever assume they must exist because you can compare them? How can this lesson teach you to distinguish between your mind's constructions and what truly is? Resolve to question one imagined certainty before acting on it.
+
+Pages p. 249 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 249
+Module 2 · Lesson 108
+Next →
+Rational Judgments
+intermediate
+5 min
+The Third Objection: What Lies Beyond the World's Edge?
+Third objection and its answer regarding the edge of the world.
+
+Learning Objective
+By the end of this lesson, you will understand the third objection against the claim that the world has no spatial boundary, and the subtle response based on the absence of a condition.
+
+Core Idea
+Inability to move does not prove a blocker; it may prove absence of space.
+
+The third objection presents a clever scenario: if someone stands at the edge of the world, either they can extend their hand beyond it or they cannot. If they can, a void must exist; if they cannot, a body must block it. Either way, something lies beyond. The author's answer challenges the second alternative, distinguishing between a blocking body and the absence of a necessary condition.
+
+Guided Path
+1
+Read the objection carefully
+Read the Arabic passage and its translation. Notice how the objection sets up two mutually exclusive possibilities and argues that both lead to a dimension beyond the world.
+The objection is trying to prove the existence of space or matter beyond the world.
+2
+Understand the two scenarios
+Identify the two cases: hand can extend (implies space) and hand cannot extend (implies blocking body). Both are used to argue that there is something beyond.
+3
+Analyze the author's response
+The author does not accept that inability to extend necessarily means a blocking body. He suggests it could be because there is no space (condition) to extend into. Understand this distinction.
+The condition (shart) for extension is the existence of a space (fadā’).
+4
+Reflect on the logical point
+This response shows that a lack of movement does not prove a physical obstacle; it may simply indicate the absence of the required medium. This is a key logical move in kalam.
+5
+Test your understanding
+Answer the checkpoint question to ensure you grasp the author's argument.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الثالث : أنا لو فرضنا واقفاً على طرف العالم فإن أمكنه مد يده فيما وراءه فثمة فضاء ) موجود لاستحالة مد اليد في العدم الصرف ( متقدر إذ ما يسع) منه (إصبعاً أقل مما يسع اليد كلها، وإن لم يمكنه مد يده فيه ( فثمة جسم مانع ) لليد من النفوذ ( وعلى التقديرين فثمة بعد ) إما مجرد أو مادي. والجواب : لا نسلم أنه لو لم يمكنه مد يده فيه فثمة جسم مانع لجواز أن يكون ذلك لا لوجود المانع بل لعدم الشرط وهو الفضاء الذي يمكن مد اليد فيه.
+The third: if we suppose someone standing at the edge of the world, then if he can extend his hand beyond it, then there is a space (fadā’) existent — because it is impossible to extend the hand into pure nothingness — which is quantifiable, since what accommodates a finger from it is less than what accommodates the whole hand. If he cannot extend his hand into it, then there is a blocking body (jism māni‘) preventing the hand from penetrating. In either case, there is a dimension (bu‘d), either immaterial or material. The answer: we do not concede that if he cannot extend his hand into it, then there is a blocking body, for it is possible that this is not due to the existence of a blocker but due to the absence of the condition, namely the space in which the hand could be extended.
+Source pages p. 249
+
+Commentary
+This is the third objection with a more complex scenario. The opponent imagines a person at the edge of the world. If the person can extend his hand beyond, then there must be a space (void) for it to move into, and that space is quantifiable. If he cannot, then there must be a body blocking it. Either way, there is a dimension (either void or material) beyond the world. The author's response is subtle: he does not accept the second alternative that inability to extend necessarily implies a blocking body. It could simply be that there is no space (void) for the hand to extend into, i.e., the condition for motion is absent. Thus the existence of a dimension is not proven.
+
+Key Terms
+طرف العالم
+فضاء
+جسم مانع
+بعد
+شرط
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: If something cannot move, it must be blocked by a physical object.
+Correction: Inability to move may be due to the absence of the necessary medium (space) rather than a physical blocker.
+
+Checkpoint
+What is the author's response to the third objection's second scenario (the hand cannot be extended)?
+A) He admits there is a blocking body.
+B) He argues that the hand's inability may be due to lack of space, not a blocker.
+C) He claims that the hand can always be extended beyond the world.
+D) He says the scenario is impossible.
+
+Key Takeaway
+The author refutes the third objection by showing that inability to extend the hand does not necessarily prove a blocking body; it may simply prove the absence of space.
+
+How This Lesson Applies — to MY Life?
+?
+When you find yourself unable to do something you believe is good, do you instinctively blame external obstacles (jism māni‘) rather than examining whether the internal condition (shart) is missing? What specific condition might you need to cultivate today?
+?
+The objection assumes that if you cannot move, something must be blocking you. But the author reveals that the problem could be the absence of what is needed for movement. In your journey toward Allah, are you mistaking the absence of spiritual 'space' (such as sincerity, knowledge, or reliance) for an external blocker? What would it take to create that 'space'?
+?
+Consider the 'edge of the world' in your own life: a limit you believe you cannot cross. Is it truly blocked, or have you never had the condition required to go beyond? Will you seek that condition actively rather than assuming the barrier is permanent?
+
+Pages p. 249 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 250
+Module 2 · Lesson 109
+Next →
+Rational Judgments
+intermediate
+5 min
+Fourth Objection: Body as Universal
+Fourth objection: body as universal can have infinite individuals; answer: universality does not entail existence.
+
+Learning Objective
+By the end of this lesson, you will understand why the objection that body's universality implies infinite dimensions fails, and how universality does not guarantee actual existence, multiplicity, or infinity.
+
+Core Idea
+Universality does not force existence; external factors can block.
+
+This passage presents the fourth objection against the impossibility of infinite bodies, based on the universal nature of body. The opponent claims that since body is a universal concept, it can have infinitely many instances. The author's reply clarifies a key principle: conceptual possibility does not entail actual realization. External considerations—such as prior proofs—can prevent the universal from having any, multiple, or infinite individuals. This refines our understanding of how universals relate to their particulars.
+
+Guided Path
+1
+Read the objection and answer carefully
+Read the Arabic passage once, then the translation. Notice the structure: the objection is a single sentence, the answer is a counter-argument.
+The answer is introduced by 'والجواب'.
+2
+Identify the three possibilities for a universal
+The author lists three ways a universal can be impossible: in existence, in multiplicity, or in infinity. Find these in the text and note their Arabic terms.
+These are: امتناع الوجود, امتناع التعدد, امتناع اللاتناهي.
+3
+Understand why the objection fails
+The objection assumes that conceptual possibility of infinite individuals implies actual possibility. The answer shows that universality does not necessitate existence or multiplicity, so external proofs can still rule out infinite individuals.
+Connect to earlier proofs that body cannot be infinite.
+4
+Reflect on the broader principle
+Ask yourself: How does this lesson refine our understanding of universals? Universals are not automatically realized; their actualization depends on external factors.
+This principle appears often in kalam and philosophy.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الرابع: الجسم ماهية كلية فيمكن لها أفراد غير متناهية عقلاً) فإذا وجدت تلك الأفراد كانت الأبعاد غير متناهية (والجواب أن الكلية ) وإن لم تمنع من وقوع جزئيات لا تتناهى إلا أنها ) لا تقتضي الوجود أي وجود شيء من الجزئيات ( ولا التعدد في الجزئيات ) ولا عدم التناهي فيها بل يجوز أن يكون الكلي ممتنع الوجود فلا يوجد شيء من أفراده أو ممتنع التعدد فلا تتعدد أفراده أو ممتنع اللاتناهي في أفراده فلا يوجد له أفراد غير متناهية كل ذلك لأمور خارجة عن مفهوم الكلية وعدم تناهي أفراد الجسم ممتنع للأدلة السابقة .
+The fourth: body is a universal essence (māhiyya kulliyya), so it can in principle have infinite individuals. If those individuals existed, dimensions would be infinite. The answer: universality, although it does not prevent the occurrence of infinite particulars, yet it does not necessitate existence — i.e., existence of any of the particulars — nor multiplicity in the particulars, nor infinity in them. Rather, it is possible that the universal is impossible in existence, so none of its individuals exist; or impossible in multiplicity, so its individuals do not multiply; or impossible in infinity, so no infinite individuals exist for it. All that is due to matters external to the concept of universality. And the infinity of the individuals of body is impossible due to the previous proofs.
+Source pages p. 250
+
+Commentary
+This is the fourth objection, based on the universal nature of body. The opponent argues: body is a universal concept that can have infinitely many instances; therefore infinite dimensions are possible. The author's answer is crucial: universality does not force actual existence or multiplicity. A universal may be impossible in existence (like the conjunction of opposites), or impossible in multiplicity (only one instance possible), or impossible in infinity (only finitely many instances). The impossibility of infinite bodies has been shown by earlier proofs, so the universal's conceptual possibility does not conflict with actual impossibility.
+
+Key Terms
+ماهية كلية
+جزئيات
+لا تتناهى
+امتناع الوجود
+امتناع التعدد
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: If a universal is conceptually possible, then its individuals must be existent or possible.
+Correction: Universality does not necessitate actual existence; external factors can render the universal impossible in existence, multiplicity, or infinity.
+
+Checkpoint
+Why does the author reject the fourth objection that body, being a universal, can have infinite individuals?
+A) Because universality cannot have individuals at all.
+B) Because universality does not necessitate existence, multiplicity, or infinity; external factors may prevent them.
+C) Because the concept of body is not a true universal.
+D) Because infinite individuals would lead to a contradiction in the universal itself.
+
+Key Takeaway
+Universality does not force actual existence; a universal may be impossible in existence, multiplicity, or infinity due to external reasons.
+
+How This Lesson Applies — to MY Life?
+?
+You believe in the concept of perfect patience, but do you actually practice it when tested? What 'external factors' in your life prevent that universal from having actual instances? Write one concrete step to remove that block this week.
+?
+Where in your own worldview do you assume something must exist simply because you can conceive it? How can you test that assumption against revealed truth and rational proof, as the author tests the objector's assumption?
+?
+Your hope in forgiveness—is it anchored in a conceptual possibility or in an actual reality proven by revelation and reason? If universality does not force existence, what is the basis of your certainty that forgiveness is actually available to you? Challenge yourself to ground your hope in what is actual, not merely conceivable.
+
+Pages p. 250 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 256
+Module 2 · Lesson 110
+Next →
+Rational Judgments
+intermediate
+5 min
+Proof Four: The Intellect's Perception of Opposites
+Al-Ījī proves the soul's immateriality through its perception of opposites, with answer to objection.
+
+Learning Objective
+By the end of this lesson, you will understand Al-Ījī's fourth proof for the immateriality of the soul and how he answers the objection about opposites coexisting in the mind.
+
+Core Idea
+The mind can hold opposites without contradiction because mental images are not real opposites.
+
+Al-Ījī presents a powerful argument: the intellect can conceive two opposite things simultaneously and judge them as opposites. If the intellect were a bodily organ, those opposites would have to physically coexist in it, which is impossible. But he anticipates an objection and refutes it, strengthening his case for the soul's immateriality.
+
+Guided Path
+1
+Read the proof premise
+Read the Arabic passage first, then the translation. Notice how Al-Ījī states that the intellect perceives two opposites and judges between them.
+The proof begins with the fact of our mental capacity to hold opposites.
+2
+Understand the objection
+Identify the conditional argument: if the perceiver were bodily, opposites would have to coexist in one body, which is impossible. Then see the objection that the mental images themselves might be opposites.
+The objection is raised to challenge the proof's assumption.
+3
+Follow the answer's logic
+Trace the two-part response: first, the images are not truly opposed because opposition belongs to external reality; second, even if they were, they could reside in different parts of the body.
+This answer neutralizes the objection and preserves the proof.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الرابع: منها (أنها تعقل الضدين) إذ تحكم بينهما بالتضاد (فلو كان مدركها جسماً أو جسمانياً لزم اجتماع السواد والبياض مثلاً في جسم واحد وأنه محال) بديهة، (والجواب أن صورتي الضدين لا تضاد بينهما لأنهما يخالفان الحقيقة الخارجية) فليس يلزم من ثبوت التضاد بين الحقيقتين ثبوته بين الصورتين) ولولا ذلك لما جاز قيامهما بالمجرد) أيضاً لأن الضدين لا يجتمعان في محل واحد مادياً كان أو مجرداً (وإن سلمنا تضاد صورتي الضدين (فلم لا يجوز أن يقوم كل منهما (بجزء من الجسم) الذي يعقلهما معاً غير الجزء الذي قام به الأخرى فلا يلزم اجتماع المتضادين في محل واحد
+The fourth: among them (that it intellects the two opposites) since it judges between them by opposition. (And if its perceiver were a body or bodily, then the conjunction of blackness and whiteness, for example, in one body would be necessary, and that is impossible) intuitively. (And the answer: the two images of the two opposites have no opposition between them because they differ from external reality). So it is not necessary from the establishment of opposition between the two realities that it be established between the two images. And were it not for that, their subsistence in the incorporeal would also be impossible, because the two opposites do not come together in one locus, whether material or incorporeal. (And if we grant the opposition of the two images of the opposites), then why is it not permissible that each of them subsist in a part of the body that intellects them both, other than the part in which the other subsists, so the conjunction of the two opposites in one locus is not necessary.
+Source pages p. 256
+
+Commentary
+This passage presents the fourth proof for the immateriality of the rational soul, based on its ability to perceive opposites. The argument is: the intellect can conceive of two opposites (e.g., black and white) and judge between them as opposites. If the intellect were a body or a bodily faculty, then both opposites would have to exist together in that body, which is impossible. The answer to this objection is that the mental images (ṣuwar) of the two opposites are not themselves opposed; opposition is a property of external realities, not of their representations in the mind. Therefore, there is no impossibility. Furthermore, even if we grant that the images are opposed, they could still subsist in different parts of the body, avoiding co-location. Thus, the objection fails, and the proof stands.
+
+Key Terms
+الضدان
+الصورة
+التضاد
+الجسم
+المجرد
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Mental images of opposites are themselves opposites, so they cannot coexist in the mind.
+Correction: The passage clarifies that opposition is a property of external realities, not of mental representations. Images (ṣuwar) are not truly opposed, so their coexistence in the intellect is not contradictory.
+
+Checkpoint
+According to the answer in the fourth proof, why does the perception of opposites in the mind not require the opposites to exist together in the intellect?
+A) Because the intellect is immaterial and can hold opposites without conflict.
+B) Because mental images of opposites are not truly opposed; opposition belongs to external realities.
+C) Because the intellect can perceive only one thing at a time.
+D) Because the body has different parts for different perceptions.
+
+Key Takeaway
+The soul's ability to perceive opposites without contradiction reveals its immaterial nature.
+
+How This Lesson Applies — to MY Life?
+?
+Since your soul can hold both good and evil thoughts without physical conflict, can you truly claim that an evil thought 'just happened' and is not your responsibility? What does that mean for how you guard your inner life?
+?
+If your mind is not bound by the limitations of matter, then your potential for change and growth is not limited by your physical state. What is one belief about yourself that you've accepted as fixed but that your immaterial soul can actually transform?
+?
+The proof shows that your soul can perceive opposites like truth and falsehood. In your daily decisions, are you actively choosing the truth even when it is uncomfortable, or are you passively accepting falsehood? How will you change that starting today?
+
+Pages p. 256 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 256
+Module 2 · Lesson 111
+Next →
+Rational Judgments
+intermediate
+6 min
+The Fifth Proof: The Dilemma of Bodily Intellect
+Al-Ījī presents a dilemma: if intellect is bodily, it either always or never knows its locus; both false.
+
+Learning Objective
+By the end of this lesson, you will understand the logical dilemma that al-Ījī presents to disprove the intellect being a bodily substance.
+
+Core Idea
+If the intellect were bodily, awareness would be constant or absent – but experience shows both are false.
+
+Al-Ījī continues his arguments against the soul being a body. Here he presents a clever dilemma: if the intellect were located in a bodily part (like the heart or brain), then either it would always be conscious of that part (since its form is always present) or it would never be conscious (if a separate mental image were needed, leading to duplication). Both consequences are contradicted by everyday experience. Let's examine this argument closely.
+
+Guided Path
+1
+Read the dilemma
+Read the Arabic passage carefully. Notice the structure: premise, then two possibilities, then their entailments, then the conclusion that both are false.
+The dilemma is a classic tool in Islamic dialectic.
+2
+Analyze the entailments
+For the first horn, understand why constant awareness would follow from the presence of the external form. For the second horn, understand why needing a separate image leads to impossibility (conjunction of two similars).
+3
+Consider the empirical refutation
+The proof concludes by invoking experience: we sometimes are aware of our brain/heart, sometimes not, disproving both constant awareness and perpetual unawareness.
+This is a key appeal to common sense.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الخامس منها أن نبطل كونها جسماً بما مر ثم نقول: (لو كان العاقل منها جسمانياً حالاً في جميع البدن أو في بعضه العقل محله دائماً أو لم يعقله دائماً والتالي باطل أما الملازمة فلأن تعقله لمحله إن كفي فيه حضوره لذاته كان حاصلاً دائماً يعني أن الصورة الخارجية التي للمحل حاضرة بذاتها عند العاقل) دائماً فلو كفى ذلك في تعقله إياه كان تعقله مستمراً دائماً (وإلا احتاج) تعقله له إلى حصول صورة أخرى مننتزعة (منه) حاصلة فيه (وأنه محال لأنه يقتضي اجتماع المثلين) لأن الصورتين متماثلتان في الماهية (فلا يحصل) ذلك التعقل دائما (وأما بطلان التالي فبالوجدان إذ ما من جسم فينا يتصور أنه محل للعلم) والقوة العاقلة (كالقلب والدماغ وغيرهما) من أجزاء البدن (إلا ونعقله تارة ونغفل عنه أخرى. والجواب منع الملازمة) بمنع ما ذكر في بيانها (لجواز أن لا يكفي) في تعقله (حضوره) بصورته الخارجية (ولا يحتاج) أيضا (إلى حصول صورة أخرى بل يتوقف على شرط غير ذلك لأن كون التعقل بحصول الصورة ممنوع عندنا، (سلمناه لكن لا نسلم أن حصول صورة أخرى فيه اجتماع للمثلين وإنما يلزم ذلك أن لو تماثل الصورة إلى الخارجية والصورة الذهنية وهو ممنوع) سلمنا تماثلهما لكن لا اجتماع بينهما في محل واحد لأن إحداهما محل للعاقلة والأخرى حالة فيها
+The fifth among them: that we invalidate its being a body by what has passed, then we say: (If the intellect among them were bodily, existing in the whole body or in a part, then either it would intellect its locus always or it would not intellect it always, and the consequent is false. As for the entailment, it is because its intellection of its locus: if its presence in itself suffices for it, then it would be obtained always, meaning that the external image of the locus is present in itself to the intellect) always; so if that suffices for its intellection of it, its intellection would be continuous always. (Otherwise, its intellection of it would need) the obtaining of another image extracted from it, obtaining in it, (and that is impossible because it entails the conjunction of two similars) because the two images are similar in essence; (so that intellection would not be obtained) always. (As for the falsity of the consequent, it is by empirical experience, for there is no body in us that is imagined to be a locus for knowledge) and the rational faculty (like the heart, brain, and others) of the bodily parts, (except that we intellect it sometimes and are heedless of it at other times. And the answer: rejecting the entailment) by rejecting what was mentioned in its explanation, (because it is possible that its presence) in its external image (does not suffice) for its intellection (and it also does not need) to obtain another image, but rather depends on a condition other than that, because the intellection being by the obtaining of an image is denied by us. (We grant it, but we do not grant that the obtaining of another image involves the conjunction of two similars; that would only be necessary if the external image and the mental image were similar, and that is denied). We grant their similarity, but there is no conjunction of them in one locus because one of them is a locus for the intellect and the other is an accident in it.
+Source pages p. 256
+
+Commentary
+This passage presents the fifth proof against the soul being a body, building on previous arguments. The proof is a dilemma: if the intellect were a body or bodily and located in a bodily part (e.g., brain or heart), then either it would always be conscious of that part (since the part's external form is always present to it) or it would never be conscious of it (if it requires a separate mental image, which would lead to duplication of similar images). Both alternatives are false because we experience being sometimes conscious of our heart or brain and sometimes not. The opponent answers by denying the entailment: presence of the external form may not suffice, but a separate image is not needed either; intellection depends on additional conditions unknown to us. Even if a separate image is needed, it does not entail two similars in one locus because one is an accident and the other is a locus. Thus, the objection is refuted.
+
+Key Terms
+العاقل
+الجسماني
+الحضور
+الصورة الخارجية
+اجتماع المثلين
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: If the intellect is located in the brain, it must always be aware of the brain.
+Correction: The proof shows that constant awareness does not follow; we sometimes forget, disproving the necessity.
+
+Checkpoint
+What does the fifth proof claim would happen if the intellect were a bodily substance located in a part of the body?
+A) The intellect would never be able to perceive that part.
+B) The intellect would either always or never be aware of that part, both of which are contradicted by experience.
+C) The intellect would always be aware of the whole body.
+D) The intellect would be able to perceive only itself.
+
+Key Takeaway
+Al-Ījī disproves the bodiliness of the intellect by showing that if it were bodily, our experience of intermittent awareness would be impossible.
+
+Pages p. 256 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 256
+Module 2 · Lesson 112
+Next →
+Rational Judgments
+intermediate
+5 min
+Objection and Answer: Refining Intellection
+Al-Ījī presents the objector's response and the author's concession regarding the entailment.
+
+Learning Objective
+By the end of this lesson, you will understand the objector's response to the dilemma and how al-Ījī refines the nature of intellection.
+
+Core Idea
+Presence of an image does not guarantee intellection; additional conditions are needed.
+
+After presenting the dilemma, al-Ījī considers an objection. The opponent argues that the entailment is not necessary: the presence of the external form may not be sufficient, and a separate mental image may not be required either. Moreover, even if a mental image is needed, it does not entail two similars in one locus. This discussion refines our understanding of what intellection really is.
+
+Guided Path
+1
+Read the objection
+Read the passage starting from 'والجواب منع الملازمة'. Notice the objector's strategy: denying the entailment, not the premises.
+The objector is from within the same school of thought, likely an opponent of the author.
+2
+Analyze the three points
+The objection has three sub-arguments: (1) presence may not suffice, (2) a separate image may not be needed, (3) even if needed, no conjoining of similars.
+3
+Understand the resolution
+The author concedes some points but ultimately maintains that the intellect cannot be bodily. This shows the depth of the dialectic.
+This is a typical dialectical method in Islamic theology.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+الخامس منها أن نبطل كونها جسماً بما مر ثم نقول: (لو كان العاقل منها جسمانياً حالاً في جميع البدن أو في بعضه العقل محله دائماً أو لم يعقله دائماً والتالي باطل أما الملازمة فلأن تعقله لمحله إن كفي فيه حضوره لذاته كان حاصلاً دائماً يعني أن الصورة الخارجية التي للمحل حاضرة بذاتها عند العاقل) دائماً فلو كفى ذلك في تعقله إياه كان تعقله مستمراً دائماً (وإلا احتاج) تعقله له إلى حصول صورة أخرى مننتزعة (منه) حاصلة فيه (وأنه محال لأنه يقتضي اجتماع المثلين) لأن الصورتين متماثلتان في الماهية (فلا يحصل) ذلك التعقل دائما (وأما بطلان التالي فبالوجدان إذ ما من جسم فينا يتصور أنه محل للعلم) والقوة العاقلة (كالقلب والدماغ وغيرهما) من أجزاء البدن (إلا ونعقله تارة ونغفل عنه أخرى. والجواب منع الملازمة) بمنع ما ذكر في بيانها (لجواز أن لا يكفي) في تعقله (حضوره) بصورته الخارجية (ولا يحتاج) أيضا (إلى حصول صورة أخرى بل يتوقف على شرط غير ذلك لأن كون التعقل بحصول الصورة ممنوع عندنا، (سلمناه لكن لا نسلم أن حصول صورة أخرى فيه اجتماع للمثلين وإنما يلزم ذلك أن لو تماثل الصورة إلى الخارجية والصورة الذهنية وهو ممنوع) سلمنا تماثلهما لكن لا اجتماع بينهما في محل واحد لأن إحداهما محل للعاقلة والأخرى حالة فيها
+The fifth among them: that we invalidate its being a body by what has passed, then we say: (If the intellect among them were bodily, existing in the whole body or in a part, then either it would intellect its locus always or it would not intellect it always, and the consequent is false. As for the entailment, it is because its intellection of its locus: if its presence in itself suffices for it, then it would be obtained always, meaning that the external image of the locus is present in itself to the intellect) always; so if that suffices for its intellection of it, its intellection would be continuous always. (Otherwise, its intellection of it would need) the obtaining of another image extracted from it, obtaining in it, (and that is impossible because it entails the conjunction of two similars) because the two images are similar in essence; (so that intellection would not be obtained) always. (As for the falsity of the consequent, it is by empirical experience, for there is no body in us that is imagined to be a locus for knowledge) and the rational faculty (like the heart, brain, and others) of the bodily parts, (except that we intellect it sometimes and are heedless of it at other times. And the answer: rejecting the entailment) by rejecting what was mentioned in its explanation, (because it is possible that its presence) in its external image (does not suffice) for its intellection (and it also does not need) to obtain another image, but rather depends on a condition other than that, because the intellection being by the obtaining of an image is denied by us. (We grant it, but we do not grant that the obtaining of another image involves the conjunction of two similars; that would only be necessary if the external image and the mental image were similar, and that is denied). We grant their similarity, but there is no conjunction of them in one locus because one of them is a locus for the intellect and the other is an accident in it.
+Source pages p. 256
+
+Commentary
+This passage presents the fifth proof against the soul being a body, building on previous arguments. The proof is a dilemma: if the intellect were a body or bodily and located in a bodily part (e.g., brain or heart), then either it would always be conscious of that part (since the part's external form is always present to it) or it would never be conscious of it (if it requires a separate mental image, which would lead to duplication of similar images). Both alternatives are false because we experience being sometimes conscious of our heart or brain and sometimes not. The opponent answers by denying the entailment: presence of the external form may not suffice, but a separate image is not needed either; intellection depends on additional conditions unknown to us. Even if a separate image is needed, it does not entail two similars in one locus because one is an accident and the other is a locus. Thus, the objection is refuted.
+
+Key Terms
+الحضور
+الصورة الخارجية
+الصورة الذهنية
+اجتماع المثلين
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: If a mental image is needed for intellection, it must be similar to the external object, leading to two similars in one place.
+Correction: The passage argues that mental and external images are not similar in essence, and even if they were, they occupy different loci (one is the locus itself, the other an accident).
+
+Checkpoint
+According to the objector's answer, why does the need for a mental image not entail two similars?
+A) Because the mental image does not exist.
+B) Because the external image and mental image are not similar.
+C) Because one is a locus and the other is an accident.
+D) Because intellection does not use images.
+
+Key Takeaway
+The objection attempts to dismantle the proof's entailment, but the author's defense shows the dilemma remains a strong argument against the bodiliness of the intellect.
+
+How This Lesson Applies — to MY Life?
+?
+The objector suggests that intellection may depend on a condition other than the presence of an external image. What condition do you rely on in your own pursuit of knowledge? Do you trust that your mental representations are accurate, or do you seek a deeper, direct encounter with truth? Are you willing to admit that your current understanding might be missing a crucial condition? How will you seek it?
+?
+The author concedes that a mental image might not cause conjunction of similars because it is not in the same locus as the external image. In your own life, do you sometimes confuse your mental image of a person or situation with the reality? How can you better separate your subjective mental images from objective truth, especially in matters of faith?
+?
+This passage is a technical argument about the intellect. But consider: how often do you settle for having a mental image of a concept (like 'God' or 'soul') without truly understanding it? Are you content with a picture in your mind, or do you strive for intellection that goes beyond images? What change will you make today to move from images to true intellection?
+
+Pages p. 256 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 264
+Module 2 · Lesson 113
+Next →
+Rational Judgments
+advanced
+12 min
+Abstract Beings Cognize Universals
+Sanusi proves that abstract beings cognize universals and summarizes the argument.
+
+Learning Objective
+By the end of this lesson, you will understand the argument that all abstract beings (including intellects) necessarily cognize all universals.
+
+Core Idea
+Abstract beings have no material barriers — they automatically cognize all universals.
+
+Sanusi now takes on the sixth attribute: that intellects and all abstract beings cognize universals. This is not a simple claim; he builds a careful proof step by step, starting from the nature of abstraction and ending with the conclusion that such cognition is necessarily actual. The argument relies on key principles: the purity of abstract essence, the absence of contradiction in intellections, and a subtle point about the condition for concomitance.
+
+Guided Path
+1
+Read the passage slowly
+Read the Arabic passage once through, then its translation. The argument is dense; don't worry if not everything clicks immediately.
+Notice that the passage begins with the claim and then proceeds with 'because' (لأن).
+2
+Identify the first premise
+The author first argues that every abstract being can be cognized because its essence is free from material impurities. Find this part and understand why it's necessary.
+3
+Trace the 'concomitance' reasoning
+The key move is from 'can be cognized with another' to 'can be concomitant with another quiddity'. Follow how the author uses the definition of intellection to make this transition.
+Pay attention to the condition about the abstract being in the intellect — this leads to an important anti-circularity argument.
+4
+Grasp the final conclusion
+The proof culminates in the statement that whatever is possible for an abstract being is actual, so it actually cognizes every universal other than itself.
+This is a key result for understanding divine and angelic knowledge.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+السادس: إنها تعقل الكليات وكذا كل مجرد ) من المجردات القائمة بذواتها فإنه يعقل الكليات ( إذ كل (مجرد) كذلك ( يمكن أن يعقل ) لأن ذاته منزه عن العلائق الغريبة عن ماهيته والشوائب المادية المانعة عن التعقل فماهتيه لا تحتاج إلى عمل يعمل بها حتى تصير معقولة فإن لم تعقل كان جهة العاقل فكل مجرد فهو في حد نفسه يمكن أن يعقل ( وكل ما يمكن أن يعقل فيمكن أن يعقل مع غيره إذ ) نعلم بالضرورة أنه ( لا تضاد في التعقلات ) فكل معقول يمكن أن يعقل مع كل واحد من سائر المعقولات، وأيضا كل ما يعقل فإنه لا ينفك عن صحة الحكم عليه بالأمور العامة كالوحدة والإمكان وغيرهما، والحكم بين شيئين يستدعي تعلقهما معاً فكل معقول يمكن أن يعقل مع غيره في الجملة، وحينئذ (فيمكن أن يقارنه ) أي المجرد ( الماهية المجردة ) أي الماهية الكائنة التي ( للغير في العقل لأن التعقل عبارة عن حصول ماهية المعقول في العاقل، فإذا تعقل المجرد مع ماهية غيره كانا معا حاصلين في العقل فيكون كل منهما مقارنا للآخر فيه، فإذا أمكن أن يقارن ماهية الغير المجرد في العقل (فيمكن أيضاً أن يقارنها ) أي يقارن ماهية الغير ماهية المجرد ( مطلقاً ) أي سواء كان المجرد موجوداً في العقل أو في الخارج (إذ كونها ) أي حصول ماهية المجرد( في العقل ليس شرطاً للمقارنة) المطلقة وصحتها ( لأنه لو كان شرطاً للمقارنة على الإطلاق وصحتها ( لكان مقارنته ) أي مقارنة المجرد (للعقل) التي هي أخص من مطلق المقارنة مشروطة) أيضاً ( بكونها ) أي بكون ماهية المجرد ( في العقل) لأن الأخص لا بد أن يكون مشروطاً بما شرط به الأعم (و) حينئذ ( يلزم الدور) لأن كون ماهية المجرد في العقل هو عين مقارنته له المشروط به وإذا لم يكن كون المجرد في العقل شرطاً للمقارنة بينه وبين ماهية الغير جازت المقارنة بينهما إذا كان المجرد موجوداً في الخارج ( وإذا جاز مقارنة ) الماهية الكلية ( المجردة ) التي للغير ( إياها ) يعني ماهية المجرد حال كونها موجودة في الخارج ( أمكن تعقلها أي تعقل الماهية الكلية (له ) أي للمجرد إذ لا معنى لتعقله للماهية الكلية إلا مقارنة تلك الماهية له في وجوده الخارجي ( وكل ما هو ممكن له فهو حاصل له بالفعل) دائماً لما عرفت ( فإذن هو عاقل لكل ما يغايره من الكليات ) بالفعل وهو المطلوب) ومحصول الكلام أن المجرد يصح أن يكون معقولاً إذ لا مانع فيه من تعقله وكل ما يصح أن يكون معقولاً يصح أن يعقل مع كل واحد مما يغايره من المفهومات، وكل ما أمكن أن يعقل مع غيره أمكن أن يقارن ماهيته ماهية غيره لأن تعقل الشيء عبارة عن حصول ماهيته في العقل، ثم إن إمكان مقارنة المعقول المجرد الماهية معقول آخر ليس متوقفاً على حصول المجرد في العقل لأن حصوله فيه نفس المقارنة فلو توقف إمكان المقارنة عليه كان إمكان الشيء متوقفاً على وجوده ومتأخراً عنه وإنه محال، وإذا لم يتوقف إمكان المقارنة على وجود المجرد في العقل أمكن المقارنة حال كون المجرد موجودا في الخارج ولا يتصور ذلك إلا بحصول الغير في المجرد وحلوله فيه، وهو عين تعقله إياه، وإذا أمكن تعقله له كان حاصلاً بالفعل لأن التغير والحدوث من توابع المادة
+Sixth: Indeed they cognize universals, and likewise every abstract (individual) among the abstracts subsisting by themselves, for it cognizes universals. (For every (abstract) likewise (can be cognized), because its essence is purified of the extraneous attachments to its quiddity and the material impurities that prevent intellection; so its quiddity does not need an operation performed on it to become intelligible; for if it were not cognized, it would be the aspect of the cognizer. Thus every abstract is in itself able to be cognized. (And everything that can be cognized can be cognized together with another, because) we know by necessity that (there is no contradiction in intellections); so every intelligible can be cognized together with every other intelligible. Also, everything that is cognized is not free from the validity of being judged by universal matters such as unity, possibility, and others; and judgment between two things necessitates their relation together; so every intelligible can be cognized with another in general. Then (it can be concomitant with it) i.e., the abstract (can be concomitant with the abstract quiddity) i.e., the existing quiddity that (belongs to the other in the intellect, because intellection is the attainment of the quiddity of the intelligible in the intellect; so if the abstract cognizes together with the quiddity of another, both are attained in the intellect, so each is concomitant with the other in it. So if it is possible to be concomitant with the abstract quiddity of the other in the intellect, (then it is also possible to be concomitant with it) i.e., the quiddity of the other can be concomitant with the quiddity of the abstract (absolutely) i.e., whether the abstract exists in the intellect or in the external world (since its being) i.e., the attainment of the quiddity of the abstract (in the intellect is not a condition for the absolute concomitance) and its validity (because if it were a condition for concomitance absolutely and its validity, then its concomitance) i.e., the concomitance of the abstract (with the intellect) which is more specific than absolute concomitance, would also be conditional (upon its being) i.e., upon the quiddity of the abstract being (in the intellect) because the more specific must be conditional upon what the more general is conditional upon; (and) then (circularity would follow) because the being of the quiddity of the abstract in the intellect is identical to its concomitance with it, which is the condition. And if the being of the abstract in the intellect is not a condition for the concomitance between it and the quiddity of the other, then concomitance between them is permissible when the abstract exists externally. (And if concomitance is permissible) between the universal abstract quiddity (that belongs to the other) and it i.e., the quiddity of the abstract while it exists externally, (then it is possible for it to cognize it) i.e., for the abstract to cognize the universal quiddity (since there is no meaning for its cognition of the universal quiddity except the concomitance of that quiddity with it in its external existence. (And everything that is possible for it is actual for it) always, as you have known. (Thus it cognizes every universal that is other than it) actually, which is the desired conclusion. And the sum of the discourse is: The abstract is valid to be an intelligible, for there is no impediment to its intellection; and everything that is valid to be an intelligible is valid to be cognized together with every concept other than it; and everything that can be cognized with another can have its quiddity concomitant with the quiddity of another because intellection of a thing is the attainment of its quiddity in the intellect. Then the possibility of the concomitance of the abstract intelligible quiddity with another intelligible is not dependent on the attainment of the abstract in the intellect, because its attainment in it is the very concomitance; so if the possibility of concomitance were dependent on it, the possibility of a thing would be dependent on its existence and posterior to it, which is impossible. And if the possibility of concomitance is not dependent on the existence of the abstract in the intellect, then concomitance is possible while the abstract exists externally, and that cannot be conceived except by the attainment of the other in the abstract and its indwelling in it, which is precisely its cognition of it. And if its cognition of it is possible, then it is actual, because change and temporality are concomitants of matter.
+Source pages p. 264
+
+Commentary
+This passage is a proof for the sixth attribute: that intellects (عقول) and all abstract beings (مجردات) cognize universals (كليات). It is a structured argument. The author first states the claim: intellects cognize universals, and every abstract being cognizes universals. The proof proceeds step by step: 1) Every abstract can be cognized (يمكن أن يعقل) because its essence is free from material impurities; its quiddity does not need to be worked on to become intelligible. 2) Everything that can be cognized can be cognized together with another (يمكن أن يعقل مع غيره) because we know necessarily that there is no contradiction (تضاد) among intellections; also, every cognized thing can be judged by universal attributes, and judgment between two things requires their relation together. So every intelligible can be cognized with another. 3) Therefore, an abstract can be concomitant (يقارن) with another abstract quiddity in the intellect, because intellection is the attainment of the quiddity of the intelligible in the intellect. 4) If it can be concomitant in the intellect, then it can be concomitant absolutely, whether the abstract exists in the intellect or externally, because its being in the intellect is not a condition for absolute concomitance (otherwise circularity follows: the abstract's being in the intellect is identical to its concomitance with the intellect). 5) If absolute concomitance is possible when the abstract exists externally, then the external abstract must cognize that universal quiddity, because cognition is precisely the external presence of the quiddity in the cognizer. 6) And since whatever is possible for an abstract is always actual (due to its immutability), therefore it actually cognizes every universal other than itself. The author then summarizes the argument (محصول الكلام): the abstract is valid as an intelligible, and anything valid as intelligible can be cognized with another; the possibility of such concurrency does not depend on the abstract being in the intellect; therefore, when the abstract exists externally, it can be cognized by another abstract, and that cognition is actual. This long proof establishes that all abstract beings have actual intellection of all universals at all times.
+
+Key Terms
+تعقل
+الكليات
+مجرد
+تضاد
+مقارنة
+دور
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that cognition of universals requires the cognizer to be in the intellect (i.e., in a state of being thought about) rather than existing externally.
+Correction: The argument shows that abstract beings can cognize universals even when they exist externally, because the condition for cognition is not the cognizer's presence in the intellect but the absence of material barriers.
+
+Checkpoint
+Why does the author argue that every abstract being can be cognized?
+A) Because it is in the intellect.
+B) Because its essence is free from material impurities and does not need an operation to become intelligible.
+C) Because it can judge universal matters.
+D) Because it is eternal.
+
+Key Takeaway
+Abstract beings, being free from matter, necessarily and actually cognize all universals.
+
+How This Lesson Applies — to MY Life?
+?
+You believe that God knows all things because He is abstract. But do you truly live as though your own knowledge – entangled in matter – can still reflect universal truths? What material attachment is clouding your intellect today, and will you commit to removing it so that you may see the truth clearly?
+?
+This argument proves that a fully abstract being cannot fail to cognize every universal. Yet you, with your partial abstraction, choose what to think about. Have you considered that your willful ignorance of certain truths is a sign of spiritual deficiency? What truth are you avoiding, and when will you face it?
+?
+The proof ends with 'whatever is possible for an abstract being is actual'. But you often claim that you lack the ability to understand deep matters. Is it really inability, or is it that you have not disciplined your mind to rise above material distractions? Will you today take one concrete step to actualize your intellectual potential for the sake of knowing your Creator?
+
+Pages p. 264 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 265
+Module 2 · Lesson 114
+Next →
+Rational Judgments
+intermediate
+8 min
+Objections to the Universal Intellection Claim
+Sanusi enumerates and answers five objections against universal intellection.
+
+Learning Objective
+By the end of this lesson, you will understand the five objections raised against the claim that every abstract being cognizes universals, and how Sanusi systematically responds to each.
+
+Core Idea
+Not every abstract can be cognized — even God’s essence is beyond human intellect.
+
+This passage presents a series of objections and answers (jawaab) to the previous proof that every abstract intellect cognizes universals. Sanusi systematically denies each premise, using examples like the Divine Essence and the souls, and clarifies the nature of intellection and concurrency. By working through this dialectic, you will see how kalam arguments are tested and refined.
+
+Guided Path
+1
+First Objection: Not Every Abstract is Cognizable
+Read the opening part where Sanusi denies the premise using God and souls as examples. Note how he challenges the certainty of universal cognizability.
+The phrase 'لا نسلم' is a key dialectical move.
+2
+Second Objection: Need for an Operation
+Examine the claim that an abstract needs no operation to be cognized. Sanusi denies this unless matter is the sole impediment.
+3
+Third Objection: Cognizing with Another
+Consider the denial that everything cognizable can be cognized with another. Pay attention to the role of intuition (الوجدان) and its limits.
+Some concepts may be incognizable, like God.
+4
+Fourth Objection: Special Relation of Knowledge
+Read the part where Sanusi denies that cognition with another requires the other's quiddity to be present in the intellect. He introduces a special relation (تعلق خاص).
+This challenges the presence theory of knowledge.
+5
+Fifth Objection: Concurrency and Circularity
+Study the final objection about concurrency in the intellect versus absolute concurrency. Sanusi denies the two concurrencies are alike, breaking the circularity.
+The passage ends mid-sentence, but the main rebuttal is clear.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والجواب : لا نسلم أن كل مجرد يمكن تعقله كالباري) تعالى فإن حقيقته مجردة مع أنه لا يمكن تعقلها للبشر عندكم ) وحقيقة العقول والنفوس) فإنها غير معقولة لنا أين الجزم بإمكان تعقلها ولا نسلم أن المجرد في صيرورته معقولاً لا يحتاج إلى عمل يعلم به إنما يصح ذلك إذا انحصر المانع من التعقل في المادة وتوابعها هو ممنوع ( وإن سلمنا فلا نسلم أن كل ما يمكن تعقله يمكن تعقله مع الغير وما الدليل عليه والوجدان ( الشاهد بعدم التضاد والتنافي بين التعقلات ( لا يعمم ) شهادته لعدم تعلقه بجميع المفهومات ( كيف والغير قد يكون مما لا يجوز تعقله ( كما أشرنا إليه ) وإن سلم فلا نسلم أنه ) أي تعقله مع الغير ( يقتضي مقارنة الماهية المجردة) التي لذلك الغير ( للعقل ) أي للمجرد المعقول، ( وإنما يصح ) ذلك ( لو كان العلم حصول الماهية المجردة في العقل) حتى إذا تعلقل معا كانا موجودين متقارنين فيه ( وقد تكلمنا فيه حيث بينا أن للعلم تعلقا خاصاً بين العالم والمعلوم ) وإن سلمنا ) أن تعقلهما يستلزم تقارنهما في الوجود الذهني ( فلا نسلم أنه يلزم من جواز المقارنة بينهما في العقل ( جواز مقارنته ) أي مقارنة المجرد للغير مطلقاً قوله : وإلا لكان مقارنته للعقل مشروطة بكونها في العقل) ويلزم الدور ( قلنا : إنما يلزم ذلك أن لو كانت المقارنتان ) أي مقارنة أحد المعقولين للآخر في العقل ومقارنة أحدهما للعقل (مثلين ) حتى يلزم من اشتراط المقارنة الأولى بكون المجرد في العقل اشتراط الثانية به أيضا فيدور ( وهو) أي كونهما مثلين ( ممنوع فإن
+And the answer: We do not grant that every abstract can be cognized, like the Most High (the Creator) — for His essence is abstract, yet it cannot be cognized by humans according to you — and the essence of intellects and souls, for they are not intelligible to us. Where is the certainty of the possibility of their intellection? Nor do we grant that the abstract, in becoming intelligible, does not need an operation by which it is known; this would only be valid if the impediment to intellection is confined to matter and its concomitants, which is denied. (And even if we grant, we do not grant that everything that can be cognized can be cognized with another; what is the proof of that? And the intuition (witnessing) that there is no contradiction and conflict between intellections does not generalize its testimony, because it does not pertain to all concepts. Moreover, the other may be something that cannot be cognized, as we indicated. And even if we grant, we do not grant that) its cognition with another necessitates the concomitance of the abstract quiddity (of that other) with the intellect i.e., with the abstract intelligible; (and this would only be valid if knowledge were the attainment of the abstract quiddity in the intellect), so that when they are cognized together, they would exist as concurrent in it. (And we have already discussed it where we showed that knowledge has a special relation between the knower and the known. And even if we grant) that their intellection entails their concurrency in mental existence, (we do not grant that from the permissibility of concurrency between them in the intellect follows the permissibility of its concurrency) i.e., the concurrency of the abstract with the other absolutely. His statement: 'Otherwise its concurrency with the intellect would be conditioned upon it being in the intellect' and circularity would follow. (We say: That would only follow if the two concurrencies) i.e., the concurrency of one intelligible with the other in the intellect and the concurrency of one of them with the intellect (were alike) such that from conditioning the first concurrency upon the abstract being in the intellect, the second would also be conditioned by it, leading to circularity. (And it) i.e., their being alike (is denied, for...)
+Source pages p. 265
+
+Commentary
+This passage is a set of objections and answers (جواب) to the previous proof that every abstract cognizes universals. The opponent (likely a dialectical adversary) raises several points. The answer begins by denying the premise that every abstract can be cognized (لا نسلم أن كل مجرد يمكن تعقله), using examples: the Essence of God (الباري تعالى) is abstract but cannot be cognized by humans according to the opponents, and the essences of intellects and souls are not intelligible to us. Thus the certainty of universal cognizability is questioned. The opponent also denies that an abstract needs no operation to become intelligible; this would only hold if matter is the sole impediment, which is denied. Even if that is granted, the opponent denies that everything cognizable can be cognized with another; the intuitive evidence of no contradiction among intellections does not generalize to all concepts, and some things (like God) may be incognizable. Even if that is granted, the opponent denies that cognition with another necessitates the other's quiddity being present in the intellect; cognition might involve a special relation (تعلق خاص) rather than mere presence. Even if that is granted, the opponent denies that concurrency in the intellect implies concurrency in absolute terms; the earlier argument about circularity is rebutted by denying that the two concurrencies (of two intelligibles and of one with the intellect) are alike (مثلين), so the conditional reasoning does not apply. The text ends mid-sentence, so the full response is not given. This passage shows the dialectical method of kalam, where each step is critically examined.
+
+Key Terms
+لا نسلم
+تعقل
+الوجدان
+تعلق خاص
+مقارنة
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Every abstract being can cognize all universals without exception.
+Correction: The passage shows that even abstract beings like God and souls are not necessarily cognizable by humans, and intellection may require special conditions.
+
+Checkpoint
+What example does the opponent give to deny that every abstract can be cognized?
+A) The human soul.
+B) The abstract of material objects.
+C) The essence of the Creator (الباري).
+D) The intellect itself.
+
+Key Takeaway
+The claim that every abstract cognizes universals is not universally true; careful exceptions and distinctions are necessary.
+
+How This Lesson Applies — to MY Life?
+?
+When you reflect on the fact that even the essences of intellects and souls are not fully intelligible to you, does it humble your intellectual pride? How often do you assume you can fully grasp matters of faith through reason alone?
+?
+Sanusi warns that intuition does not generalize to all concepts. Where in your personal beliefs might you be overgeneralizing a limited experience? What step can you take today to verify whether your certainty is justified?
+?
+The passage teaches that knowledge involves a special relation between you and what you know, not just facts in your mind. In what area of your relationship with Allah have you reduced 'knowing' to mere information? How can you transform that into a deeper, relational understanding?
+
+Pages p. 265 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 265
+Module 2 · Lesson 115
+Next →
+Rational Judgments
+intermediate
+6 min
+Proof that a Simple Intellect Cognizes All Universals
+Proof that a simple intellect can conceive all universals while existing externally.
+
+Learning Objective
+By the end of this lesson, you will understand the logical argument establishing that a simple intellect, while existing externally, can actually conceive all universal concepts.
+
+Core Idea
+A simple intellect's possibility to conceive universals does not depend on being conceived itself.
+
+This lesson unpacks a subtle proof from classical Islamic philosophy. The author argues that a simple intellect (mujarrad), even when existing outside the mind, can already know all universals. The key move is to show that the possibility of two quiddities co-existing does not require the simple intellect to be an object of thought first. Let's follow the argument step by step.
+
+Guided Path
+1
+Read the passage and translation
+Read the Arabic passage once without analyzing, then read the literal translation. Get a feel for the dense philosophical reasoning.
+The passage is a single continuous argument—notice how it builds toward the conclusion.
+2
+Identify the key claim
+The author claims that the simple intellect is actually an intellect for all universals. Find where this is stated and note the reasoning that leads to it.
+The phrase 'فإذن هو عاقل لكل ما يغايره من الكليات' is the conclusion.
+3
+Understand the critical step
+The author argues that the possibility of two quiddities coinciding does not depend on the simple intellect being itself in the intellect. If it did, it would be circular. Focus on the sentence starting with 'ثم إن إمكان مقارنة المعقول المجرد...'
+This is the heart of the proof—grasping this non-dependence is essential.
+4
+Reflect on why intellection is actual
+The author concludes that since intellection is possible for the simple intellect, it must be actual because change and temporality are only for material beings. Think about why this follows.
+Recall earlier principles about immaterial beings having all their perfections actually.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المجرد حال كونها موجودة في الخارج ( أمكن تعقلها أي تعقل الماهية الكلية (له ) أي للمجرد إذ لا معنى لتعقله للماهية الكلية إلا مقارنة تلك الماهية له في وجوده الخارجي ( وكل ما هو ممكن له فهو حاصل له بالفعل) دائماً لما عرفت ( فإذن هو عاقل لكل ما يغايره من الكليات ) بالفعل وهو المطلوب) ومحصول الكلام أن المجرد يصح أن يكون معقولاً إذ لا مانع فيه من تعقله وكل ما يصح أن يكون معقولاً يصح أن يعقل مع كل واحد مما يغايره من المفهومات، وكل ما أمكن أن يعقل مع غيره أمكن أن يقارن ماهيته ماهية غيره لأن تعقل الشيء عبارة عن حصول ماهيته في العقل، ثم إن إمكان مقارنة المعقول المجرد الماهية معقول آخر ليس متوقفاً على حصول المجرد في العقل لأن حصوله فيه نفس المقارنة فلو توقف إمكان المقارنة عليه كان إمكان الشيء متوقفاً على وجوده ومتأخراً عنه وإنه محال، وإذا لم يتوقف إمكان المقارنة على وجود المجرد في العقل أمكن المقارنة حال كون المجرد موجودا في الخارج ولا يتصور ذلك إلا بحصول الغير في المجرد وحلوله فيه، وهو عين تعقله إياه، وإذا أمكن تعقله له كان حاصلاً بالفعل لأن التغير والحدوث من توابع المادة
+The simple intellect, while existing externally, it is possible to conceive it, i.e., conceive the universal quiddity for it, for there is no meaning to its conception of the universal quiddity except the concomitance of that quiddity with it in its external existence. And whatever is possible for it is actually present for it always, as you have known. Therefore, it is actually an intellect for everything that differs from it among universals, and that is what is desired. The sum of the discussion is that the simple intellect is valid to be an object of intellection, since there is no impediment in it to its being conceived. And everything that is valid to be an object of intellection is valid to be conceived along with every one of the concepts that differ from it. And everything that it is possible to conceive with another, it is possible for its quiddity to be concomitant with the quiddity of that other, because the conception of a thing is the occurrence of its quiddity in the intellect. Then, the possibility of the concomitance of the simple intelligible quiddity with another intelligible does not depend on the occurrence of the simple intellect in the intellect, because its occurrence there is itself the concomitance. So if the possibility of the concomitance depended on it, then the possibility of a thing would depend on its existence and be posterior to it, and that is impossible. And if the possibility of the concomitance does not depend on the existence of the simple intellect in the intellect, then the concomitance is possible while the simple intellect exists externally, and that is not conceivable except by the occurrence of the other in the simple intellect and its indwelling in it, and that is precisely its intellection of it. And if its intellection of it is possible, then it is actually occurring because change and temporality are consequences of matter.
+Source pages p. 265
+
+Commentary
+This passage is a proof that a simple intellect (mujarrad), existing externally, can actually conceive all universals. The author begins by stating that a universal quiddity can be conceived by the simple intellect, meaning the quiddity's concomitance with the intellect in external existence. Since whatever is possible for the intellect is actually present in it, it is actually an intellect for all universals. The core argument is then summarized: a simple intellect is valid as an object of intellection, and anything valid as an object of intellection can be conceived together with any other concept. If it can be conceived with another, then their quiddities can be concomitant because conception is the occurrence of quiddity in the intellect. The key step is that the possibility of such concomitance does not depend on the simple intellect's occurrence in the intellect (i.e., being thought of) because that occurrence is itself the concomitance. If it did depend on it, it would be circular (possibility depending on existence). So the concomitance can occur while the simple intellect is external, and this entails that the other quiddity occurs in the simple intellect, which is intellection. Since intellection is possible, it is actual because change is only for material beings.
+
+Key Terms
+مجرد
+تعقل
+ماهية كلية
+عاقل
+معقول
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: The proof seems circular because it assumes what it tries to prove.
+Correction: The proof is not circular because the possibility of concomitance does not depend on the intellect being in the intellect; it is established independently.
+
+Checkpoint
+What does the author identify as the key condition for the possibility of a simple intellect conceiving all universals?
+A) The intellect must exist in the mind
+B) The possibility of concomitance does not depend on the intellect being in the intellect
+C) The intellect must be material
+D) The universals must be abstracted from matter
+
+Key Takeaway
+A simple intellect can actually know all universals because the possibility of quiddities coinciding does not depend on the intellect being an object of thought.
+
+How This Lesson Applies — to MY Life?
+?
+If a simple intellect can conceive all universals without itself being conceived, what does that mean for your belief that God knows you intimately? Do you truly believe that He knows every detail of your life without needing to 'think about you' as an object? How does that knowledge demand a response from you today?
+?
+The proof shows that possibility implies actuality for the simple intellect. In your own life, are you living as if God's knowledge of you is already fully actual? Or do you act as if your future is uncertain and unknown to Him? What would change if you truly believed that God's knowledge of your choices is already complete?
+?
+The author states that change and temporality are consequences of matter. Since you are material, your knowledge changes and grows. How does it feel to know that God's knowledge of you is unchanging and eternal—that He has never had to 'learn' anything about you? Does that comfort you or unsettle you? How should that shape your repentance and hope in His mercy?
+
+Pages p. 265 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 265
+Module 2 · Lesson 116
+Next →
+Rational Judgments
+advanced
+10 min
+Objections 1–3: Conceivability, Universality, and Concomitance
+Three objections and responses on conceivability and conjoint conception.
+
+Learning Objective
+By the end of this lesson, you will understand the first three objections to the proof of intellect's comprehension and the author's responses denying or qualifying each premise.
+
+Core Idea
+Not all simple intellects are conceivable, and even then, conjoint conception has limits.
+
+The author now defends the earlier proof that a simple intellect can conceive all universals. He anticipates several objections that challenge key premises: that every simple intellect is conceivable, that what is conceivable can be conceived with another, and that conjoint conception implies ontological concomitance. This lesson walks through the first three exchanges, where the author denies or restricts each claim.
+
+Guided Path
+1
+Read the first objection and response
+The opponent claims not every simple intellect is conceivable, citing God and souls. Note the author's denial that the only impediment is matter.
+2
+Examine the second objection
+Even if conceivable, the opponent argues that not everything can be conceived with another; intuition does not cover all concepts. The author denies the generalization.
+The 'other' may itself be inconceivable.
+3
+Analyze the third objection
+The opponent says conceiving with another does not force the quiddity of the other to be present in the intellect. The author counters by noting that knowledge is a special relation, not mere inherence.
+This anticipates debates about the nature of cognition.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والجواب : لا نسلم أن كل مجرد يمكن تعقله كالباري) تعالى فإن حقيقته مجردة مع أنه لا يمكن تعقلها للبشر عندكم ) وحقيقة العقول والنفوس) فإنها غير معقولة لنا أين الجزم بإمكان تعقلها ولا نسلم أن المجرد في صيرورته معقولاً لا يحتاج إلى عمل يعلم به إنما يصح ذلك إذا انحصر المانع من التعقل في المادة وتوابعها هو ممنوع ( وإن سلمنا فلا نسلم أن كل ما يمكن تعقله يمكن تعقله مع الغير وما الدليل عليه والوجدان ( الشاهد بعدم التضاد والتنافي بين التعقلات ( لا يعمم ) شهادته لعدم تعلقه بجميع المفهومات ( كيف والغير قد يكون مما لا يجوز تعقله ( كما أشرنا إليه ) وإن سلم فلا نسلم أنه ) أي تعقله مع الغير ( يقتضي مقارنة الماهية المجردة) التي لذلك الغير ( للعقل ) أي للمجرد المعقول، ( وإنما يصح ) ذلك ( لو كان العلم حصول الماهية المجردة في العقل) حتى إذا تعلقل معا كانا موجودين متقارنين فيه ( وقد تكلمنا فيه حيث بينا أن للعلم تعلقا خاصاً بين العالم والمعلوم ) وإن سلمنا ) أن تعقلهما يستلزم تقارنهما في الوجود الذهني ( فلا نسلم أنه يلزم من جواز المقارنة بينهما في العقل ( جواز مقارنته ) أي مقارنة المجرد للغير مطلقاً قوله : وإلا لكان مقارنته للعقل مشروطة بكونها في العقل) ويلزم الدور ( قلنا : إنما يلزم ذلك أن لو كانت المقارنتان ) أي مقارنة أحد المعقولين للآخر في العقل ومقارنة أحدهما للعقل (مثلين ) حتى يلزم من اشتراط المقارنة الأولى بكون المجرد في العقل اشتراط الثانية به أيضا فيدور ( وهو) أي كونهما مثلين ( ممنوع فإن حصول (الشيئين كالمجرد وماهية الغير ( في ثالث) هو العقل ( مخالف لحصول أحدهما ) أي أحد الشيئين كالمجرد في الآخر كالعقل فإن الأول مقارنة أحد الحالين في محل للحال الآخر، والثاني مقارنة الحال لمحله فأين أحدهما من الآخر؟ فلا يلزم من كون المقارنة بين المجرد وماهية الغير مشروط بكون المجرد في العقل كون المقارنة بين المجرد والعقل مشروطة به ليكون من قبيل الاشتراط الشيء بنفسه، لا يقال : قد لزم من تعقلهما معاً المقارنة بينهما في العقل. فقلنا: ليست المقارنة مشروطة بكون المجرد في العقل وإلا دار كما عرفت لأنا نقول ليس يزعم الخصم أن كل ما يطلق عليه المقارنة بالنسبة إلى المجرد مشروط بكونه في العقل حتى يتم ما ذكرتم بل يزعم أن المقارنة بين المجرد وغيره من المعقولات مشروطة بكونها في العقل حتى إذا وجد المجرد في الخارج فإن شرط المقارنة بينهما فلم يمكن أن يقارنه غيره فلا يصح تعقله إياه ( وإن سلم ) تماثل المقارنتين وأنه يمكن مقارنة كل واحد من المعقولات للمجرد في الوجود الخارجي ( فلا يلزم من ذلك (إمكان تعقله) للمعقولات المقارنة له ( وإنما يلزم هذا لو كان هو ) أي المجرد ( قابلاً للتعقل ) أي لكونه عاقلاً وهو ممنوع ( لا يقال : التعقل نفس هذه المقارنة ) فإذا أمكنت المقارنة فقد أمكن التعقل قطعاً ) لأنا نمنعه ( أي نمنع اتحادهما ( لجواز أن يكون ) التعقل ( أمراً مغايراً ) للمقارنة ( مشروطاً بها ) وليس يلزم من إمكان الشرط في موضع إمكان المشروط فيه
+The answer: We do not concede that every simple intellect can be conceived—like the Exalted Creator, for His essence is simple yet cannot be conceived by humans according to you—and the essence of intellects and souls, for they are not conceivable to us. Where is the certainty of the possibility of conceiving them? And we do not concede that the simple intellect, in becoming an object of intellection, does not need an action by which it is known. That would only be valid if the impediment to intellection were confined to matter and its concomitants—that is denied. And if we concede, we do not concede that everything that can be conceived can be conceived with another. What is the proof? And intuition, which witnesses the absence of contradiction and conflict among intellections, does not generalize its testimony because it does not pertain to all concepts. Moreover, the other may be something that cannot be conceived, as we pointed out. And if we concede, we do not concede that its conception with another necessitates the concomitance of the simple quiddity of that other with the intellect, i.e., with the simple object of intellection. That would only be valid if knowledge were the occurrence of the simple quiddity in the intellect, so that when they are conceived together they would be mutually present and concomitant in it. And we have already discussed this when we explained that knowledge has a special relation between the knower and the known. And if we concede that their conception entails their concomitance in mental existence, we do not concede that from the permissibility of the concomitance between them in the intellect follows the permissibility of their concomitance absolutely. Otherwise, its concomitance with the intellect would be conditioned by its being in the intellect, and circularity would result. We say: That would only follow if the two concomitances—i.e., the concomitance of one intelligible with another in the intellect and the concomitance of one of them with the intellect—were similar, so that the conditioning of the first concomitance by the intellect being in the intellect would necessitate the conditioning of the second by it as well, and thus circularity. But their being similar is denied, for the occurrence of two things like the simple intellect and the quiddity of the other in a third, which is the intellect, is different from the occurrence of one of them like the simple intellect in the other like the intellect. The first is the concomitance of one state in a locus with the other state, and the second is the concomitance of the state with its locus. So where is one from the other? Therefore, from the fact that the concomitance between the simple intellect and the quiddity of the other is conditioned by the simple intellect being in the intellect, it does not follow that the concomitance between the simple intellect and the intellect is conditioned by it, which would be a case of conditioning a thing by itself. One cannot say: It follows from their conception together that there is a concomitance between them in the intellect. For we say: The concomitance is not conditioned by the simple intellect being in the intellect, otherwise circularity would occur, as you have known. For we say: The opponent does not claim that everything called concomitance with respect to the simple intellect is conditioned by its being in the intellect, such that your statement would hold. Rather, he claims that the concomitance between the simple intellect and other intelligibles is conditioned by it being in the intellect, so that if the simple intellect exists externally, the condition of the concomitance between them is not met, and thus it cannot be concomitant with another, and therefore its intellection of it is not valid. And if we concede the similarity of the two concomitances and that it is possible for each of the intelligibles to be concomitant with the simple intellect in external existence, it does not follow from that the possibility of its intellection of the intelligibles concomitant to it. This would only follow if it were receptive to intellection, i.e., being an intellect—that is denied. One cannot say: Intellection is itself this concomitance, so if the concomitance is possible, then intellection is possible categorically. For we deny it, i.e., we deny their identity, because intellection may be something different from the concomitance, conditioned by it; and the possibility of the condition does not entail the possibility of the conditioned thing in that situation.
+Source pages p. 265
+
+Commentary
+This passage is a series of objections and responses to the earlier proof that a simple intellect can conceive all universals. The author presents multiple objections, each denied or qualified. The first objection: not every simple intellect can be conceived, e.g., God, intellects, and souls are not conceivable to humans. Response: the opponent denies that the only impediment is matter. The second objection: even if conceivable, it does not follow that everything conceivable can be conceived with another; intuition is not universal. Third: conceiving with another does not necessitate the quiddity's concomitance with the intellect; knowledge is a special relation. Fourth: even if it entails mental concomitance, external concomitance does not follow; otherwise circularity would arise. The author refines the notion of concomitance, distinguishing between two types (things in a third vs. one thing in another). The opponent's claim is that concomitance between the simple intellect and another is conditioned by the intellect being in the intellect, but the author argues that this does not lead to circularity because the two concomitances are not similar. Finally, even if external concomitance is possible, it does not imply intellection because intellection may be a separate condition.
+
+Key Terms
+لا نسلم
+تعقل
+مقارنة
+مجرد
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: All simple intellects are equally conceivable to humans.
+Correction: The author argues that some simple intellects (like God and souls) are not conceivable to humans, contrary to the opponent's assumption.
+
+Checkpoint
+What is the author's response to the objection that not every simple intellect can be conceived?
+A) He agrees and grants the objection
+B) He denies that matter is the only impediment to conception
+C) He argues that all simple intellects are conceivable to humans
+D) He shifts the burden of proof to the opponent
+
+Key Takeaway
+The author defends the original proof by denying or qualifying each of the first three objections, showing that they do not undermine his position.
+
+How This Lesson Applies — to MY Life?
+?
+You claim to believe in God, but can you honestly conceive of His essence? If not, how does your certainty remain intact? Are you okay with a relationship that exceeds your intellectual grasp, or do you secretly wish to reduce Him to what your mind can hold?
+?
+When you think about two concepts together—like God's mercy and justice—do you assume you fully understand how they coexist? This lesson warns that conceiving two things together doesn't mean their realities are actually present in your mind. Have you been arrogant in assuming your mental models capture the truth? Reflect on a specific belief where you might be guilty of this.
+?
+The author insists that knowledge is a 'special relation' between knower and known, not a mere copy of quiddity in the mind. This means your knowledge of God is not a mental image or concept. How does this change your approach to worship? Are you willing to pursue a faith that is not based on conceptual mastery but on a direct, relational knowing—even if it feels unsettling?
+
+Pages p. 265 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 265
+Module 2 · Lesson 117
+Next →
+Rational Judgments
+advanced
+12 min
+Objection 4: Concomitance and Circularity Refined
+Response to fourth objection and final clarification on intellection vs. concomitance.
+
+Learning Objective
+By the end of this lesson, you will understand the fourth objection regarding mental vs. external concomitance and the author's detailed response distinguishing types of concomitance to avoid circularity.
+
+Core Idea
+Mental concomitance does not imply external concomitance; circularity is avoided by distinguishing types.
+
+The opponent raises a more subtle objection: even if mental concomitance is granted, it does not follow that external concomitance is possible; otherwise circularity would arise. The author responds with a careful analysis of two types of concomitance—things in a third vs. one thing in another—and shows that no circularity occurs. This lesson examines the fourth objection and its resolution, along with the final point about intellection not being identical to concomitance.
+
+Guided Path
+1
+Understand the objection about external concomitance
+The opponent argues that even if mental concomitance is allowed, external concomitance does not follow; otherwise, the simple intellect's being in the intellect would condition its own conceiving, causing circularity.
+2
+Distinguish the two types of concomitance
+The author points out that 'concomitance in a third' (like two things in the intellect) is different from 'concomitance of one in another' (like the intellect in the knower). Only the first is at issue.
+The opponent's claim that both are similar is denied.
+3
+Examine the final denial about intellection
+The opponent says intellection is identical to concomitance, so if external concomitance is possible, intellection is possible. The author denies identity; intellection may be a separate condition.
+This refines what it means to 'conceive' something.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+والجواب : لا نسلم أن كل مجرد يمكن تعقله كالباري) تعالى فإن حقيقته مجردة مع أنه لا يمكن تعقلها للبشر عندكم ) وحقيقة العقول والنفوس) فإنها غير معقولة لنا أين الجزم بإمكان تعقلها ولا نسلم أن المجرد في صيرورته معقولاً لا يحتاج إلى عمل يعلم به إنما يصح ذلك إذا انحصر المانع من التعقل في المادة وتوابعها هو ممنوع ( وإن سلمنا فلا نسلم أن كل ما يمكن تعقله يمكن تعقله مع الغير وما الدليل عليه والوجدان ( الشاهد بعدم التضاد والتنافي بين التعقلات ( لا يعمم ) شهادته لعدم تعلقه بجميع المفهومات ( كيف والغير قد يكون مما لا يجوز تعقله ( كما أشرنا إليه ) وإن سلم فلا نسلم أنه ) أي تعقله مع الغير ( يقتضي مقارنة الماهية المجردة) التي لذلك الغير ( للعقل ) أي للمجرد المعقول، ( وإنما يصح ) ذلك ( لو كان العلم حصول الماهية المجردة في العقل) حتى إذا تعلقل معا كانا موجودين متقارنين فيه ( وقد تكلمنا فيه حيث بينا أن للعلم تعلقا خاصاً بين العالم والمعلوم ) وإن سلمنا ) أن تعقلهما يستلزم تقارنهما في الوجود الذهني ( فلا نسلم أنه يلزم من جواز المقارنة بينهما في العقل ( جواز مقارنته ) أي مقارنة المجرد للغير مطلقاً قوله : وإلا لكان مقارنته للعقل مشروطة بكونها في العقل) ويلزم الدور ( قلنا : إنما يلزم ذلك أن لو كانت المقارنتان ) أي مقارنة أحد المعقولين للآخر في العقل ومقارنة أحدهما للعقل (مثلين ) حتى يلزم من اشتراط المقارنة الأولى بكون المجرد في العقل اشتراط الثانية به أيضا فيدور ( وهو) أي كونهما مثلين ( ممنوع فإن حصول (الشيئين كالمجرد وماهية الغير ( في ثالث) هو العقل ( مخالف لحصول أحدهما ) أي أحد الشيئين كالمجرد في الآخر كالعقل فإن الأول مقارنة أحد الحالين في محل للحال الآخر، والثاني مقارنة الحال لمحله فأين أحدهما من الآخر؟ فلا يلزم من كون المقارنة بين المجرد وماهية الغير مشروط بكون المجرد في العقل كون المقارنة بين المجرد والعقل مشروطة به ليكون من قبيل الاشتراط الشيء بنفسه، لا يقال : قد لزم من تعقلهما معاً المقارنة بينهما في العقل. فقلنا: ليست المقارنة مشروطة بكون المجرد في العقل وإلا دار كما عرفت لأنا نقول ليس يزعم الخصم أن كل ما يطلق عليه المقارنة بالنسبة إلى المجرد مشروط بكونه في العقل حتى يتم ما ذكرتم بل يزعم أن المقارنة بين المجرد وغيره من المعقولات مشروطة بكونها في العقل حتى إذا وجد المجرد في الخارج فإن شرط المقارنة بينهما فلم يمكن أن يقارنه غيره فلا يصح تعقله إياه ( وإن سلم ) تماثل المقارنتين وأنه يمكن مقارنة كل واحد من المعقولات للمجرد في الوجود الخارجي ( فلا يلزم من ذلك (إمكان تعقله) للمعقولات المقارنة له ( وإنما يلزم هذا لو كان هو ) أي المجرد ( قابلاً للتعقل ) أي لكونه عاقلاً وهو ممنوع ( لا يقال : التعقل نفس هذه المقارنة ) فإذا أمكنت المقارنة فقد أمكن التعقل قطعاً ) لأنا نمنعه ( أي نمنع اتحادهما ( لجواز أن يكون ) التعقل ( أمراً مغايراً ) للمقارنة ( مشروطاً بها ) وليس يلزم من إمكان الشرط في موضع إمكان المشروط فيه
+The answer: We do not concede that every simple intellect can be conceived—like the Exalted Creator, for His essence is simple yet cannot be conceived by humans according to you—and the essence of intellects and souls, for they are not conceivable to us. Where is the certainty of the possibility of conceiving them? And we do not concede that the simple intellect, in becoming an object of intellection, does not need an action by which it is known. That would only be valid if the impediment to intellection were confined to matter and its concomitants—that is denied. And if we concede, we do not concede that everything that can be conceived can be conceived with another. What is the proof? And intuition, which witnesses the absence of contradiction and conflict among intellections, does not generalize its testimony because it does not pertain to all concepts. Moreover, the other may be something that cannot be conceived, as we pointed out. And if we concede, we do not concede that its conception with another necessitates the concomitance of the simple quiddity of that other with the intellect, i.e., with the simple object of intellection. That would only be valid if knowledge were the occurrence of the simple quiddity in the intellect, so that when they are conceived together they would be mutually present and concomitant in it. And we have already discussed this when we explained that knowledge has a special relation between the knower and the known. And if we concede that their conception entails their concomitance in mental existence, we do not concede that from the permissibility of the concomitance between them in the intellect follows the permissibility of their concomitance absolutely. Otherwise, its concomitance with the intellect would be conditioned by its being in the intellect, and circularity would result. We say: That would only follow if the two concomitances—i.e., the concomitance of one intelligible with another in the intellect and the concomitance of one of them with the intellect—were similar, so that the conditioning of the first concomitance by the intellect being in the intellect would necessitate the conditioning of the second by it as well, and thus circularity. But their being similar is denied, for the occurrence of two things like the simple intellect and the quiddity of the other in a third, which is the intellect, is different from the occurrence of one of them like the simple intellect in the other like the intellect. The first is the concomitance of one state in a locus with the other state, and the second is the concomitance of the state with its locus. So where is one from the other? Therefore, from the fact that the concomitance between the simple intellect and the quiddity of the other is conditioned by the simple intellect being in the intellect, it does not follow that the concomitance between the simple intellect and the intellect is conditioned by it, which would be a case of conditioning a thing by itself. One cannot say: It follows from their conception together that there is a concomitance between them in the intellect. For we say: The concomitance is not conditioned by the simple intellect being in the intellect, otherwise circularity would occur, as you have known. For we say: The opponent does not claim that everything called concomitance with respect to the simple intellect is conditioned by its being in the intellect, such that your statement would hold. Rather, he claims that the concomitance between the simple intellect and other intelligibles is conditioned by it being in the intellect, so that if the simple intellect exists externally, the condition of the concomitance between them is not met, and thus it cannot be concomitant with another, and therefore its intellection of it is not valid. And if we concede the similarity of the two concomitances and that it is possible for each of the intelligibles to be concomitant with the simple intellect in external existence, it does not follow from that the possibility of its intellection of the intelligibles concomitant to it. This would only follow if it were receptive to intellection, i.e., being an intellect—that is denied. One cannot say: Intellection is itself this concomitance, so if the concomitance is possible, then intellection is possible categorically. For we deny it, i.e., we deny their identity, because intellection may be something different from the concomitance, conditioned by it; and the possibility of the condition does not entail the possibility of the conditioned thing in that situation.
+Source pages p. 265
+
+Commentary
+This passage is a series of objections and responses to the earlier proof that a simple intellect can conceive all universals. The author presents multiple objections, each denied or qualified. The first objection: not every simple intellect can be conceived, e.g., God, intellects, and souls are not conceivable to humans. Response: the opponent denies that the only impediment is matter. The second objection: even if conceivable, it does not follow that everything conceivable can be conceived with another; intuition is not universal. Third: conceiving with another does not necessitate the quiddity's concomitance with the intellect; knowledge is a special relation. Fourth: even if it entails mental concomitance, external concomitance does not follow; otherwise circularity would arise. The author refines the notion of concomitance, distinguishing between two types (things in a third vs. one thing in another). The opponent's claim is that concomitance between the simple intellect and another is conditioned by the intellect being in the intellect, but the author argues that this does not lead to circularity because the two concomitances are not similar. Finally, even if external concomitance is possible, it does not imply intellection because intellection may be a separate condition.
+
+Key Terms
+مقارنة
+دور
+شرط
+مشروط
+تعقل
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: Intellection is identical to the concurring of the intelligible with the intellect.
+Correction: The author denies this identity; intellection may be a different thing that is conditioned by concomitance.
+
+Checkpoint
+Why does the author say that the two types of concomitance are not similar?
+A) Because one involves three items and the other involves two
+B) Because the first is between two states in a locus, the second is between a state and its locus
+C) Because one is mental and the other is external
+D) Because one is conditioned and the other is unconditional
+
+Key Takeaway
+The author refines the notion of concomitance to avoid circularity and denies that intellection is identical to concomitance, preserving his original proof.
+
+How This Lesson Applies — to MY Life?
+?
+You have just studied a refined argument about God's intellection. But do you truly believe that God knows you—not as a mere concept, but in a way that is real and profoundly personal? If intellection is not just a relation but a distinct reality conditioned by it, then God's knowledge of you is active and creative, not passive. How does this change your sense of being known? Will you live today with the awareness that you are known by God in a way that is beyond your comprehension?
+?
+This lesson denies that intellection is identical to concomitance. In your own faith, do you sometimes reduce your relationship with God to mere intellectual assent or conceptual agreement? Are you content with 'knowing about' God, or do you yearn for a deeper, transformative knowledge? Commit to moving beyond mere concepts—take one concrete step today to seek a more intimate and heartfelt connection with the One who knows you perfectly.
+
+Pages p. 265 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 266
+Module 2 · Lesson 118
+Next →
+Rational Judgments
+advanced
+12 min
+The Condition of Intellectual Comparability
+Objection-answer on the condition of comparability.
+
+Learning Objective
+By the end of this lesson, you will understand the distinction between types of intellectual comparability and why the condition for comparability does not lead to circularity or imply that an abstract entity can conceive of things.
+
+Core Idea
+Comparability in the intellect is not a single concept; its conditions differ by context.
+
+This passage tackles a subtle objection about how abstract entities can be compared in the intellect. The author carefully distinguishes between two types of comparability to avoid a circularity problem and then addresses a further objection that would collapse conception into mere comparison. Understanding this argument clarifies the kalam view on the conditions of intellectual representation.
+
+Guided Path
+1
+Read the passage and translation
+Read the Arabic passage once, then its literal translation. Identify the main claim and the two objections raised.
+The author uses a highly technical style; focus on the logical moves.
+2
+Identify the initial distinction
+Notice the author's distinction between two types of 'occurrence' (حصول): one between two things in a third, and one of one thing in another. This is key to avoiding circularity.
+3
+Follow the first objection and answer
+Trace the opponent's claim that conceiving both together implies comparability, and the author's response that the opponent's claim is only about comparability between abstract and intelligibles, not all comparisons.
+The answer relies on a precise characterization of the opponent's position.
+4
+Follow the second objection and answer
+See how the opponent argues that conception is itself the comparison, and the author denies identity, noting that conception may be something else conditioned by comparison.
+This final point reinforces that possibility of condition does not guarantee possibility of conditioned.
+5
+Reflect on the overall argument
+Consider how the author uses logical distinctions to defend the position without circularity or unwarranted implications.
+The argument is a classic example of jadal (dialectical) reasoning.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+المرصد الرابع - المقصد الثالث : في أحكام العقول
+حصول (الشيئين كالمجرد وماهية الغير ( في ثالث) هو العقل ( مخالف لحصول أحدهما ) أي أحد الشيئين كالمجرد في الآخر كالعقل فإن الأول مقارنة أحد الحالين في محل للحال الآخر، والثاني مقارنة الحال لمحله فأين أحدهما من الآخر؟ فلا يلزم من كون المقارنة بين المجرد وماهية الغير مشروط بكون المجرد في العقل كون المقارنة بين المجرد والعقل مشروطة به ليكون من قبيل الاشتراط الشيء بنفسه، لا يقال : قد لزم من تعقلهما معاً المقارنة بينهما في العقل. فقلنا: ليست المقارنة مشروطة بكون المجرد في العقل وإلا دار كما عرفت لأنا نقول ليس يزعم الخصم أن كل ما يطلق عليه المقارنة بالنسبة إلى المجرد مشروط بكونه في العقل حتى يتم ما ذكرتم بل يزعم أن المقارنة بين المجرد وغيره من المعقولات مشروطة بكونها في العقل حتى إذا وجد المجرد في الخارج فإن شرط المقارنة بينهما فلم يمكن أن يقارنه غيره فلا يصح تعقله إياه ( وإن سلم ) تماثل المقارنتين وأنه يمكن مقارنة كل واحد من المعقولات للمجرد في الوجود الخارجي ( فلا يلزم من ذلك (إمكان تعقله) للمعقولات المقارنة له ( وإنما يلزم هذا لو كان هو ) أي المجرد ( قابلاً للتعقل ) أي لكونه عاقلاً وهو ممنوع ( لا يقال : التعقل نفس هذه المقارنة ) فإذا أمكنت المقارنة فقد أمكن التعقل قطعاً ) لأنا نمنعه ( أي نمنع اتحادهما ( لجواز أن يكون ) التعقل ( أمراً مغايراً ) للمقارنة ( مشروطاً بها ) وليس يلزم من إمكان الشرط في موضع إمكان المشروط فيه
+The Fourth Observatory – the Third Objective: On the Judgments of the Intellects. The occurrence of the two things (like the abstract and the essence of another) in a third (which is the intellect) is different from the occurrence of one of them, i.e., one of the two things like the abstract, in the other like the intellect. For the first is a comparison of one of the two states in a locus to the other state, and the second is a comparison of the state to its locus; so where is one of them from the other? Therefore it does not follow that because the comparison between the abstract and the essence of another is conditioned by the abstract being in the intellect, the comparison between the abstract and the intellect is conditioned by it, so as to be of the kind of conditioning a thing by itself. It cannot be said: The conception of both together necessarily implies the comparison between them in the intellect. We say: The comparison is not conditioned by the abstract being in the intellect; otherwise there would be circularity, as you know. For we say: The opponent does not claim that everything called comparison with respect to the abstract is conditioned by its being in the intellect, so as to complete what you mentioned. Rather, he claims that the comparison between the abstract and other intelligibles is conditioned by its being in the intellect, so that if the abstract exists in the external world, then the condition of comparison between them is [not met], so nothing else can be compared to it, so its conception of it is not valid. And even if it is granted that the two comparisons are similar and that each of the intelligibles can be compared to the abstract in external existence, it does not follow from that the possibility of its conception of the intelligibles compared to it. Rather, this would follow only if it, i.e., the abstract, were capable of conception, i.e., of being a knower, which is denied. It cannot be said: Conception is itself this comparison; so if the comparison is possible, then conception is possible definitely. For we deny it, i.e., we deny their identity, because it is possible that conception is something else, different from comparison, conditioned by it. And the possibility of the condition does not imply the possibility of the conditioned in that place.
+Source pages p. 266
+
+Commentary
+This passage is an objection-and-answer argument about the condition for intellectual comprehension (تعقل) of abstract entities. The author begins by stating that the occurrence of two things (like the abstract and the essence of another) in a third (the intellect) is different from the occurrence of one of them in the other. Then he argues that it does not follow that comparability between the abstract and another essence is conditioned by the abstract being in the intellect, otherwise it would be a self-conditioning. Then he presents an objection: the opponent might say that conceiving them together implies comparability in the intellect. The author answers that the opponent does not claim that every comparability regarding the abstract requires it to be in the intellect, only the comparability between the abstract and other intelligibles. Then even if we grant that both comparabilities are similar, it does not entail that the abstract can conceive of things, because that requires the abstract to be a knower, which is denied. Then another objection: conception is itself this comparability. The author denies their identity, as conception may be something else conditioned by comparability, and possibility of the condition does not imply possibility of the conditioned elsewhere.
+
+Key Terms
+المجرد
+المقارنة
+التعقل
+المعقولات
+
+Key Terms from Source Passage
+
+Misconception & Correction
+Misconception: One might think that if two things are comparable in the intellect, then the condition for that comparison is the same for all comparisons involving the abstract.
+Correction: The author shows that comparisons can be of different types (e.g., comparing two things in a third vs. comparing one thing to another), and their conditions vary. The condition for comparing the abstract with another intelligible does not necessarily apply to comparing the abstract with the intellect itself.
+
+Checkpoint
+According to the author, does the comparability between the abstract and another intelligible require the abstract to be in the intellect?
+A) Yes
+B) No
+C) Only if the abstract is a knower
+D) Only if the abstract is material
+
+Key Takeaway
+The condition for comparing an abstract entity with another intelligible does not require the abstract to be in the intellect in the same way as comparing it with the intellect itself, and conception is not identical to comparison.
+
+How This Lesson Applies — to MY Life?
+?
+Have you ever confused two similar but distinct concepts in your own reasoning about Allah, assuming that because they share a name they share all conditions? How did that lead you to a wrong conclusion about His attributes? Will you now pause to distinguish carefully before making such comparisons?
+?
+The author denies that conception is identical to comparison. Have you ever assumed that knowing about something (like Allah's mercy) is the same as experiencing it, leading you to be complacent? How can you pursue genuine conception beyond mere comparison?
+?
+This passage guards against imposing conditions on Allah based on our limited intellect. Is there an area where you have unconsciously required Allah to fit your mental categories, such as expecting Him to act in a way that 'makes sense' to you? What will you do today to submit to His transcendence?
+
+Pages p. 266 · Rational Judgments
+← Prev
+Mark Done
+Next →
+
+← Prev
+p. 266
+Module 2 · Lesson 119
+Next →
+Rational Judgments
+beginner
+4 min
+Why the Intellect Cannot Grasp Particulars
+The author gives two reasons why the intellect cannot grasp particulars as such.
+
+Learning Objective
+By the end of this lesson, you will understand the two reasons why the immaterial intellect cannot grasp particulars as such.
+
+Core Idea
+Particulars require physical senses and change; the intellect is immaterial and unchanging.
+
+In this passage, the author presents the seventh proof: the intellect cannot grasp particulars because of two distinct reasons. Understanding this distinction clarifies the limits of intellectual knowledge and sets the stage for discussing divine knowledge.
+
+Guided Path
+1
+Read the Arabic and translation
+Read the Arabic passage once without analysis. Then read the translation to get the overall meaning.
+Notice the two reasons introduced by 'because' (لأنها).
+2
+Identify the two reasons
+Find the two reasons: 1) particulars need physical instruments, 2) particulars change, making knowledge changeable.
+The second reason includes a conclusion that such knowledge cannot belong to something immutable.
+3
+Reflect on the cross-reference
+The author mentions that an objection to this proof will be discussed in the section on divine attributes. Think about how God's knowledge of particulars is different.
+This connects to the broader discussion of God's omniscience.
+
+Source Text
+⚠ Extracted via Advanced OCR ∼97% accuracy, minor errors may remain — always verify against original Arabic books
+السابع : إنها لا تعقل الجزئيات من حيث هي جزئية ( لأنها تحتاج إلى آلات جسمانية ) لتدرك بها ( ولأنها ) أي الجزئيات ( تتغير) فالعلم بها يكون متغيراً فلا يثبت لما لا يجوز عليه التغير ) والاعتراض عليه ستعرفه في بحث صفات الباري ( سبحانه ( في مسألة العلم ) فإن علمه تعالى محيط بها من غير أن يكون هناك آلة جسمانية أو تغير في ذاته أو صفاته الحقيقة.
+The seventh: It does not grasp particulars insofar as they are particular, because they need physical instruments to perceive them, and because they, i.e., particulars, change, so knowledge of them would be changing, thus it does not subsist for that which does not admit change. And the objection to it you will come to know in the discussion of the attributes of the Exalted (He is glorified) in the question of knowledge, for His knowledge encompasses them without there being a physical instrument or change in His essence or His real attributes.
+Source pages p. 266
+
+Commentary
+This passage is a proof that the intellect (presumably the abstract intellects like the active intellect or the intellects of separate substances) does not grasp particulars (الجزئيات) in their particularity. The author gives two reasons: (1) particulars require physical instruments (such as the five senses) to be perceived, and the intellect is non-physical; (2) particulars change, so knowledge of them would be changing, which cannot be attributed to something that does not admit change (i.e., the intellect is immutable). The author then notes that this will be discussed further in the section on divine attributes, because God's knowledge encompasses particulars without any physical instrument or change.
+
+Key Terms
+الجزئيات
+الآلات الجسمانية
+التغير
+صفات الباري
+
+Key Terms from Source Passage
+
+Checkpoint
+According to the passage, why does the intellect not grasp particulars?
+A) Because particulars are infinite
+B) Because particulars require physical instruments and are subject to change
+C) Because particulars are not intelligible
+D) Because the intellect is only concerned with universals
+
+Key Takeaway
+The intellect cannot know changing particulars that depend on physical instruments, but God's knowledge is different.
+
+How This Lesson Applies — to MY Life?
+?
+When you rely on your own intellect to understand something about God, do you ever fall into the trap of assuming God is limited like your intellect? How can this passage remind you that God's knowledge is not bound by your mental tools?
+?
+This lesson shows that the intellect cannot grasp changing particulars because it is immutable. Are there areas in your life where you try to understand God's actions by your own changing moods or circumstances? How does acknowledging God's immutability change your trust in Him?
+?
+You might feel confident in your ability to reason about spiritual matters. But this passage forces you to admit that your intellect has limits. When you face a teaching that your mind cannot fully grasp, do you humbly accept it or do you stubbornly demand that it fit your logic? What will you do the next time you encounter a divine truth that seems 'irrational'?
+
+Pages p. 266 · Rational Judgments
+← Prev
+Mark Done
+Next →

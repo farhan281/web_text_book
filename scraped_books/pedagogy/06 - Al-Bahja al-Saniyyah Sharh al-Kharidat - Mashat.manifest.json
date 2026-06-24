@@ -1,10 +1,10 @@
 {
   "status": "complete",
-  "scraped_utc": "2026-06-24T08:16:07Z",
+  "scraped_utc": "2026-06-24T08:28:43Z",
   "source_app_url": "https://aqeedah-courses.pages.dev/Al-Bahja%20al-Saniyyah%20Sharh%20al-Kharidat%20-%20Mashat/static_app/",
-  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/06 - Al-Bahja al-Saniyyah Sharh al-Kharidat - Mashat.txt",
-  "output_bytes": 2571578,
-  "output_sha256": "6ec46467e61ad4e58eebb413b193444cd1114b90daebd6ba1fcc2fafcf652a07",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/06 - Al-Bahja al-Saniyyah Sharh al-Kharidat - Mashat",
+  "output_bytes": 2571562,
+  "output_sha256": "7aac303c2002ba6d4e12542523f3aba3502ca2d830b23cbc05ca5275c849b195",
   "checks": {
     "catalog_expected_lessons": 365,
     "course_reported_lessons": 365,

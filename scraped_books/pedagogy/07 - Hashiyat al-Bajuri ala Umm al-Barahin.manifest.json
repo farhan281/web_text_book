@@ -1,10 +1,10 @@
 {
   "status": "complete",
-  "scraped_utc": "2026-06-24T08:16:08Z",
+  "scraped_utc": "2026-06-24T08:28:43Z",
   "source_app_url": "https://aqeedah-courses.pages.dev/Hashiyat%20al-Bajuri%20ala%20Umm%20al-Barahin/static_app/",
-  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/07 - Hashiyat al-Bajuri ala Umm al-Barahin.txt",
-  "output_bytes": 7019721,
-  "output_sha256": "df342d51064d470f83f1ff0d144209b8c29b978f322c87840763c4d4e51e45ce",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/07 - Hashiyat al-Bajuri ala Umm al-Barahin",
+  "output_bytes": 7019699,
+  "output_sha256": "744ac6d39277f985da6258a4ca401c207f44b82f98413d6fd8eeefcf9e08b8f7",
   "checks": {
     "catalog_expected_lessons": 921,
     "course_reported_lessons": 921,

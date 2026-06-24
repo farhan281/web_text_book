@@ -1,10 +1,10 @@
 {
   "status": "complete",
-  "scraped_utc": "2026-06-24T08:16:22Z",
+  "scraped_utc": "2026-06-24T08:29:00Z",
   "source_app_url": "https://aqeedah-courses.pages.dev/Kubra%20al-Yaqiniyyat%20al-Kawniyyah%20-%20Ramadan%20Buti/static_app/",
-  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/modern/56 - Kubra al-Yaqiniyyat al-Kawniyyah - Ramadan Buti.txt",
-  "output_bytes": 8940194,
-  "output_sha256": "3e3768dc8d40a426924d1c52cca319ae80de363fecc40ab4dee8540ff5e5ce3a",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/modern/56 - Kubra al-Yaqiniyyat al-Kawniyyah - Ramadan Buti",
+  "output_bytes": 8940172,
+  "output_sha256": "5832865feafc8efd87ff7eb87ba02f554a01a60f02af681e20a8dcc74653aba6",
   "checks": {
     "catalog_expected_lessons": 1033,
     "course_reported_lessons": 1033,

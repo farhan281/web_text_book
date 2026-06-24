@@ -1,10 +1,10 @@
 {
   "status": "complete",
-  "scraped_utc": "2026-06-24T08:16:08Z",
+  "scraped_utc": "2026-06-24T08:28:44Z",
   "source_app_url": "https://aqeedah-courses.pages.dev/Manah%20al-Rawdh%20al-Azhar%20Sharh%20Fiqh%20al-Akbar/static_app/",
-  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/10 - Manah al-Rawdh al-Azhar Sharh Fiqh al-Akbar.txt",
-  "output_bytes": 6440035,
-  "output_sha256": "d7ccc907f5a5b7ec1d499fa0d48f0f817ff9a476fd174e045871b30a01caa8ba",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/pedagogy/10 - Manah al-Rawdh al-Azhar Sharh Fiqh al-Akbar",
+  "output_bytes": 6440015,
+  "output_sha256": "4f3a7c6dd2787da936d3aacd4c2e795bbb20998482a467fe7712063313bc6102",
   "checks": {
     "catalog_expected_lessons": 832,
     "course_reported_lessons": 832,

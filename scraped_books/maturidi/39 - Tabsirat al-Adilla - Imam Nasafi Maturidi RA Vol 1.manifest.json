@@ -1,10 +1,10 @@
 {
   "status": "complete",
-  "scraped_utc": "2026-06-24T08:16:18Z",
+  "scraped_utc": "2026-06-24T08:28:55Z",
   "source_app_url": "https://aqeedah-courses.pages.dev/Tabsirat%20al-Adilla%20-%20Imam%20Nasafi%20Maturidi%20RA%20Vol%201/static_app/",
-  "output_file": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/maturidi/39 - Tabsirat al-Adilla - Imam Nasafi Maturidi RA Vol 1.txt",
-  "output_bytes": 31527068,
-  "output_sha256": "bf6bad27dc43f418f122e17692e23a3aba4bdbe01ae1338b5b88be099d2c22c6",
+  "output_directory": "/home/ubuntu/Desktop/farhan/web_text_book/scraped_books/maturidi/39 - Tabsirat al-Adilla - Imam Nasafi Maturidi RA Vol 1",
+  "output_bytes": 31527019,
+  "output_sha256": "a683a01756b0e7889fb3bb8e5dfa438643ab63f682183e7102339039ad832be9",
   "checks": {
     "catalog_expected_lessons": 3870,
     "course_reported_lessons": 3870,
